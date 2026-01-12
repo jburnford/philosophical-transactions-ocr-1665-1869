@@ -1,0 +1,69 @@
+{
+  "id": "1c17e1b024db7cb2d25903c8dbc6a728e7053b01",
+  "text": "1239. Paeonia mas. Officin. et C. B.\n1240. Phaseolus flore coccineo. Cornut.\n1241. Pisum humile caule firmo. Tourn.\n1242. Polemonium vulgare. Ibid.\n1243. Rapuntium maximum, coccineo spicato flore.\n   Col. in Rech.\n1244. Rhamnus catharticus. Off. et C. B.\n1245. Satureia hortensis æstiva. Ibid.\n1246. Sclarea Indica flore variegato. Boerh.\n1247. Saururus humilis, folio carnosof subrotundo.\n   Plum.\n1248. Spiræa Hispanica, Hyperici crenato folio.\n   Tourn.\n1249. Thuya Theophrasti. C. B.\n1150. Turritis muralis hirsuta minor. Tourn.\n\nXIII. The Reverend Mr. Robert Clarke to Mr. Fleming, concerning a Boy, who had a Calculus formed between the Glans and the Præputium.\n\nSIR,\n\nRead Feb. 23. UPON Inquiry, I find that the Boy you desire to have an Account of, from his Infancy labour'd under the Difficulty of making Water; for tho' he was three Years of Age, when put under the Care of the Person from whom I have this Intelligence, yet he could not go alone. He was in the greatest Agony upon every Motion; but was relieved by putting a great Pin, the Head foremost,\nforemost, an Inch, at least, between the Prepuce and the Stone; when sometimes a mucous, sometimes a gritty Matter, would first ouze out, and then came the Urine with some Violence.\n\nDuring this time, the End of the Penis was observed to grow in the Form of, and as big as, a Hen's Egg; occasioned, as may be imagined, by the Concretion of the Stone between the Glans and the Prepuce. At last there was a total Suppression of Urine for 48 Hours at least; attended with an Appearance of a Sore in the Side of the Penis, out of which the stony Concretion which I gave you dropp'd; and from that time, all the while the Boy continued under the same Person's Care, which was about half a Year, the Urine was discharged at the Side, with less and less Pain. Last Summer he came to see his quondam Nurse, and told her that he was now perfectly well. His Age now is about 23. His Name John Blackhouse. I am,\n\nSIR,\n\nHoughton Conquest, Jan. 21.\n1748-9.\n\nYour very humble Servant,\n\nRobert Clarke.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104604.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 716,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1066,
+        2
+      ],
+      [
+        1066,
+        2052,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104604",
+    "title": "The Reverend Mr. Robert Clarke to Mr. Fleming, concerning a Boy, Who Had a Calculus Formed between the Glans and the Praeputium",
+    "authors": "Robert Clarke",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104604"
+  }
+}

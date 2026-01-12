@@ -1,0 +1,59 @@
+{
+  "id": "5119ae169dc627101ef6c2f5cf372bd2f5f69cd6",
+  "text": "INDEX.\n\nWoodhouse, R. Esq. F. R. S. on the transit instrument of the Cambridge observatory, 75.\nWrotham Hill, a trigonometrical station used for rocket signals in 1825, 78 et seq.\n\nY\n\nYoung, Dr. Thomas, For. Sec. R. S. on a formula for expressing the decrement of human life, 281.\nYoung, Dr. Thomas, For. Sec. R. S., statement of a comparison of the sun's observed and computed longitudes in 1820, 481.\n\nZ\n\nZirconia, its power of emitting light when violently heated, 331.\n\nList of Presents.\nMeteorological Register.\n\nERRATA.\n\nPage 262, line 21, for second, read, half second.\n— 263, line 16, after diminishing it, insert, they then return in a similar manner in an opposite direction.\n— 263, line 19, instead of before its termination, read, after its commencement.\n— 268, line 5, for not all, read, not at all.\n— 274, line 10, for became, read, because.\n\nFrom the Press of\nW. Nicol,\nCleveland-row, St. James's.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107830.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        912,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107830",
+    "title": "Errata",
+    "authors": null,
+    "year": 1826,
+    "volume": "116",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107830"
+  }
+}

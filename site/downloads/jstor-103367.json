@@ -1,0 +1,69 @@
+{
+  "id": "ab4c873e20c72fd6151167c41d08df2a1e12b3a9",
+  "text": "IV. An Account of the Phænomena of a very extraordinary Aurora Borealis, seen at London on November 10. 1719. both Morning and Evening. By Dr. Edmond Halley. R.S.Secr.\n\nUPON Tuesday, November 10. 1719. in the Morning, Jupiter applying to the Second in the Wing of Virgo, I got up about 5 of the Clock to observe him, and having had the Satisfaction to see my Calculus perfectly well answer the Heavens, I found certain white Streaks in the Sky, seeming nearly Perpendicular; which whilst I considered them seemed instantly to vanish, and soon after others came as instantaneously in their room. I began to imagine that this was likely to be some part of the Phenomena of the Aurora Borealis. But there appearing nothing like that luminous Arch which we have of late so often seen in the North, I knew not what to think; till looking up towards the Zenith, I perceived an entire Canopy of such kind of white Striae, seeming to descend from a white Circle of faint Clouds, about 7 or 8 degrees in Diameter, which Circle sometimes would vanish on a sudden, and as suddenly be renewed. I observed that the Center of this place of Concourse was not precisely in the Zenith, but rather 14 degrees to the Southwards thereof; which I was well enabled to estimate by a Star, which on each return thereof shewed its self about the Center of the Circle. This Star is the 33th Star of the Great Bear in Tycho's Catalogue, whose distance from the Pole at this time is 52½ degrees, and which about half an hour past Five that Morning past the Meridian, so that those Rays centred very nearly on the Meridian itself. It\na very entertaining Sight, till such time as the Day-break began to obscure these Lights, which were but faint, though sufficiently distinguishable. They came none of them lower than to about 30 or 40 degrees of Altitude, and seem'd not to have ascended from the Horizon. The Sky was perfectly Serene and Calm, which seems to be one of the concomitant Circumstances attending the Aurora Borealis, of which this was certainly a Species. For the Night following a Neighbour gave me notice of a strange streaming of Lights seen in the Air, which thereupon I attended from the Hours of 9½ to 11, when a Fog came so thick as to put an end to my Prospeet. But during that whole time there ascended out of the E.N.E. and N.E. a continued succession of whitish Striae, arising from below; and after changing as it were into a sort of luminous Smoke, past over head with an incredible swiftness, not inferior to that of Lightning; and as it past, in some part of its Passage seemed as it were gilded, or rather as if the smoke had been strongly illuminated by a blaze of Fire below. Some of the Striae would begin high in the Air, and a whole set of them subordinate to one another, like Organ Pipes, would present themselves with more rapidity than if a Curtain had been drawn from before them; some of which would die away where they first appeared, and others change into a luminous Smoke, and pass on to the Westwards with an immense Swiftness. And I am of opinion, that had it not been for the Moon, then ten Days old and very bright, this for the time would have been reckoned as considerable an Appearance as that of the 6th of March, 1716.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103367.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 866,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1605,
+        2
+      ],
+      [
+        1605,
+        3243,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103367",
+    "title": "An Account of the Phaenomena of a Very Extraordinary Aurora Borealis, Seen at London on November 10. 1719. Both Morning and Evening. By Dr. Edmond Halley. R.S. Secr.",
+    "authors": "Edmond Halley",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103367"
+  }
+}

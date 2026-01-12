@@ -1,0 +1,69 @@
+{
+  "id": "f0c80ab337034a6393dec2750b78f78fc0c6871c",
+  "text": "at 4 Leagues distance: Of which I intend you more particulars hereafter.\n\nAmong them are expected the Length of these Telescopes, and the Largeness of the Aperture of their Object-glasses. In the mean time, the Parabolical-glasses, formerly mentioned to be in hand here at London, are finishing with all possible care and industry.\n\nA Further Relation of the Whale-fishing about the Bermudas, and on the Coast of New-England and New-Netherland.\n\nThe same Person, that communicated the particulars about the new Whale-fishing near the Bermudas, mentioned in the first of these Traits, gives this further Information; That there have been since taken by order of the Bermudas Company, sixteen of those Whales, the Oyle whereof, to the quantity of 50 or 60 Tuns arrived in Ireland at Limrick, some few months agoe.\n\nHe adds, that about two years since, there stranded upon the Coast of New-England a dead Whale, of that sort, which they call Trumpo, having Teeth resembling those of a Mill, and its mouth at a good distance from, and under the Nose or Trunk, and several boxes or partitions in the Nose, like those of the Tailes in Lobsters; and that that being open'd there run out of it a thin oily substance, which would candy in time; after which, the remainder, being a thick fatty substance, was taken out of the same part, with a scoop. And this substance he affirmed to be the Sperma Ceti; adding further, that the Blubber, as they call it, it self, of the same sort of Whales, when stewed, yields on the top a creamy substance, which taken off, and thrown upon white Wine, lets fall a dirty heterogeneous sediment, but what remains aloft, affords a Sperma-Ceti-like matter.\nHe concluded his relation with observing, that these whales were to be met with between the Coast of New-England, and New Netherland, where they might be caught eight or nine months in the year; whereas those about the Bermudas are to be found there only in the Months of February, March and April.\n\nConcerning the death of the Whale, which hath been related to have stranded upon New-England, it is not very improbable, but, (that Fish having also more than one Enemy, whereof a small Fish called the Trefher, is one, who, by Mr. Terry's Relation in his East-Indian Voyage, with his nimbleness vexes him as much, as a Bee does a great Beast on the land; and a certain horny Fish another, who runs its horn into the Whale's belly) it may have been kill'd by the latter of these two; which kind of Fish is known, sometimes to run its horn into Ships (perhaps taking them for Whales) and there snapping it asunder; as hapned not long since to an English Vessel in the West-Indian Seas; the broken piece of that Horn being by the Master of that Ship presented to the King, and now kept in His Majesties Repository: the like wherof befell a French Vessel, sailing towards the East-Indies, according to the Relation, made by Monsieur Thevenot in his second Tome of Curious Voyages.\n\nOf a remarkable Spring, about Paderborn in Germany.\n\nAn inquiring Gentleman of those parts writes to his Friend in London, as follows:\n\nIn this Diocese of Paderborn, about 2 leagues from that Town, is a treble Spring call'd Metborn, which has three streams, two whereof are not above one foot and and a half distant from one another, and yet of so differing qualities, that whereas one of them is limpid, blewish, lukewarm, bubling, and holding Sal-ammoniack, Ochra, Iron, Vitriol, Allum,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101458.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 911,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1680,
+        2
+      ],
+      [
+        1680,
+        3446,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101458",
+    "title": "A Further Relation of the Whale-Fishing about the Bermudas, and on the Coast of New-England and New-Netherland",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101458"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "87e7b777c09627d9ae200cca5fb419cb381f739f",
+  "text": "III. An Account of an Experiment, touching the Propagation of Sound, passing from the Sonorous Body into the common Air, in one Direction only. By Mr. Fr. Hauksbee, F. R.S.\n\nSince by the former Experiment actual Sound could not be transmitted thro' a Space void of Air; I was inclin'd to try whether that Sound, which should be propagated in a Receiver, having a Communication with the open Air at one small Apperture only, but otherwise intirely surrounded by a Vacuum; Whether I say, that Sound would be increas'd, or continu'd Sounding longer, at each Stroke that should be given the Bell, than it would do, were not its Body encompass'd by such a Medium. In order thereto, the Bell was included as in the pre-mention'd Experiment; only, to the upper part of its Receiver, was screw'd a Box with Collars of Leather; and on the Top of the outward Receiver, was laid a Brass-Plate with a wet Leather between: In the middle of which Plate, was likewise screw'd another Brass Box with Collars, as before. These Receivers when plac'd on the Pump, had their Boxes standing directly one over the other. Thro' both of them in that Position, I past a hollow Brass Tube, which exactly fitted their Perforations: thus the inward Receiver had a Communication with the outward Air, and the outward Receiver thereby was secur'd from the Ingress of the Circumambient Medium. Now when the Air contain'd between the Receivers\nceivers was pretty well exhausted, and the Bell struck,\nthe Sound was sensibly very vigorous, and (I think)\nvery nearly as great as before any Air was taken\naway at all; yet if ones Finger was apply'd to the\nApperture of the hollow Brass Tube, the Sound\nwould be so much diminish'd, as but just to be di-\nstinguished. By this we see, that since the Sound in\nthat state cannot be transmitted thro' the Receiver\nthat includes it, by means of the surrounding Vacuum,\nyet the Receiver is certainly struck with it; but\nfinding no conveyance that way, reverberates and\nmakes its Passage where it find least resistance. Nor\ndid I observe, that altho' the Sound had but one\npassage from its Receiver, and that but a small one,\nthat it continued any longer from the Stroke, than if\nit had been made in the open Air.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103271.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 608,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1412,
+        2
+      ],
+      [
+        1412,
+        2218,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103271",
+    "title": "An Account of an Experiment, Touching the Propagation of Sound, Passing from the Sonorous Body into the Common Air, in One Direction Only. By Mr. Fr. Hauksbee, F. R. S.",
+    "authors": "Fr. Hauksbee",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103271"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "5b303bd55b2203e79971ffbcbce560c253419a2b",
+  "text": "some case be not such. The other is, that it may be supposed, that half the light or appearance, diffused from the Object, is refracted according to the Usual Refraction; but the other half according to the Un-usual Refraction; or, which is all one, that the Usual and Un-usual Refraction have the same power to refract the Rays of the Objects. The former of these Suppositions he collects from Exper. 14; the latter from Exp. 8. But, how he proceeds in these Deductions, and the thereon grounded Demonstrations, may be more fully and more plainly seen in the above-mentioned Treatise itself, than can be conveniently deliver'd in this Epitome.\n\nAn Extract of a Letter from a Learned French Gentleman, concerning a way of making Sea-water sweet.\n\nMonsieur Hauton hath now declared his secret of making Sea water sweet. It consists first in a Precipitation, made with Oyl of Tartar, which he knows to draw with small charges. Next, he distills the Sea-water; in which work the Furnace taketh up but little room, and is so made, that with a very little wood or coal he can distill 24 pots of water in a day: For the cooling of which, he hath this new invention, that instead of making the Worm pass through a Vessel full of water (as is the ordinary practice,) he maketh it pass through one hole, made on purpose out of the Ship, and to enter in again through another: So that the Water of the Sea performeth the cooling part: By which means he saveth the room, which the common Refrigerium would take up; as also the labour of changing the Water, when the Worm hath heated it. But then thirdly, he joyns the two precedent Operations, Filtration, thereby perfectly to correct the malignity of the Water. This Filtration is made by means of a peculiar Earth, which he mixeth and stirs with the distilled water, and at length suffers to settle at the bottom. Paris Febr. 22. 1670.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101618.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 511,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1876,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101618",
+    "title": "An Extract of a Letter from a Learned French Gentleman, Concerning a Way of Making Sea-Water Sweet",
+    "authors": null,
+    "year": 1670,
+    "volume": "5",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101618"
+  }
+}

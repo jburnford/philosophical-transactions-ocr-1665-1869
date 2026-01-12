@@ -1,0 +1,89 @@
+{
+  "id": "8c3929dffdf5c40a68261313cf8ce2a87cf93414",
+  "text": "VI. On the Thermal Effects of Compressing Fluids. By J. P. Joule, LL.D., F.R.S., F.C.S., Hon. Mem. Phil. Soc. Cambridge, Vice-President of the Lit. and Phil. Soc. Manchester, Corresp. Mem. R.A. Sc. Turin, &c.\n\nReceived October 9,—Read November 25, 1858.\n\nProfessor William Thomson has published* a theoretical investigation of the subject of the present paper, in which he arrives at the formula $\\theta = \\frac{T_{ep}}{JK}$, where $\\theta$ is the increase of temperature, $T$ the temperature from absolute zero, $e$ the expansibility by heat, $p$ the pressure in pounds on the square foot, $J$ the mechanical equivalent of the thermal unit in foot-pounds, and $K$ the capacity for heat in pounds of water, of a cubic foot of the fluid employed. He has also given a Table of theoretical results for the compression of water and mercury. The investigation being established on the basis of well-ascertained principles and facts, the correctness of the Table could not be reasonably doubted. Nevertheless, believing that an experimental inquiry would be interesting if not important, I have ventured to offer the following to the notice of the Royal Society.\n\nThe only previous experiments on the subject of which I am aware are those of M. Regnault. To his memoir on the Compressibility of Liquids, he appends a note† on the heat disengaged by the compression of water. The method employed by this celebrated physicist, though less delicate, is similar to that which I have adopted. One set of the junctions of a thermo-electric pile was placed in a copper vessel filled with water, to which a pressure of ten atmospheres could be instantaneously communicated by means of a reservoir of compressed air. The $\\frac{1}{64}$th of a degree Centigrade could be detected by his thermo-multiplier. Nevertheless the conclusion arrived at was the negative one, that “the heat disengaged by a sudden pressure of ten atmospheres on water is unable to raise its temperature $\\frac{1}{64}$th of a degree Centigrade.”\n\nIn the absence of any statement to the contrary, we may consider that the temperature of the water compressed by Regnault was not above an ordinary one of the atmosphere, say 18° Centigrade. Thomson’s formula gives a thermal effect of 0°·013 for a pressure of ten atmospheres at this temperature; and therefore the conclusion of Regnault above cited is strictly correct: indeed it is so as regards any temperature below 30°. It is to be regretted that he did not pursue his experiments a little further, for had he done so he would without fail have solved this, as he has done so many other more difficult problems, by showing the minute but nevertheless appreciable thermal\n\n* Proceedings of the Royal Society, June 18, 1857, vol. viii. No. 27, p. 566.\n† Mémoires de l’Académie Royale des Sciences, xxi. p. 462.\neffect which actually takes place at all temperatures but that of maximum or minimum density.\n\nThe apparatus I employed consisted of a strong vessel of copper, 12 inches long and 4 inches in diameter. This vessel was connected at the upper part with a cylinder of $1\\frac{3}{8}$ inch internal diameter, furnished with a piston, by means of which the requisite pressure could be laid on or taken off at pleasure. A thermo-electric junction of iron and copper wires was placed in the centre of the copper vessel, the orifice through which it was passed being made tight by means of a plug of gutta percha. The outer junction was immersed in a bath of water, and the induced currents were measured by the thermo-multiplier in vacuo, described in my former paper.\n\nThe method employed was alternately to lay on and remove weights from the piston and to examine the consequent deflection of the needle of the multiplier, from which, by means of data derived from experiments made from time to time to determine the amount of deflection arising from a change of temperature of the outer junction, the thermal effect sought could be readily deduced.\n\nIt was found that the needle took rather more than half a minute to assume a new deflection. I therefore fixed upon 40\" as the time allowed to elapse between the application or removal of pressure and the thermo-electric observation. It was at first suspected that the small cooling effect in consequence of the dilatation of the copper vessel by internal pressure might interfere with the effect sought for; but it was found on trial that a sudden application of heat to the outside of the copper vessel did not sensibly affect the temperature of the central part of the liquid in which the junction was plunged, until an interval of time had elapsed equal to twice that occupied by a swing of the needle. This source of error was therefore disregarded.\n\nAnother possible source of error occurred to me. Was the thermo-electric relation of the metals employed to form the junction sensibly altered by the influence of pressure? Thomson has shown that such an alteration in the metals copper and iron accompanies the temporary strain produced by longitudinal tension*. This effect of temporary strain is however very minute, and, in the case of pressure uniformly applied in every direction, which we are now considering, is probably far too small to be appreciated by the most delicate tests. However, I made an attempt to ascertain whether it existed, by applying pressure when the temperature of the outer junction was widely different from that of the inner, the needle of the multiplier being kept in range by means of a controlling magnet. It was then found that the effect of pressure remained the same as before, and therefore the conclusion was necessarily arrived at, that the effect of pressure, uniformly applied, in altering the thermo-electric relation of the metals, was, if it existed at all, too small to produce any sensible error in the present experiments.\n\nIn the case of oil, it occurred to me to inquire whether, in consequence of the imperfect fluidity of that liquid, the full thermal effect was communicated to the junction (composed of wires $\\frac{1}{20}$th of an inch in diameter) in the 40\" allowed for the swing of\n\n* Philosophical Transactions, 1856, p. 711.\nthe needle. To settle this point a long series of experiments was made, in which the deflections after 40\" were alternately observed with deflections after three minutes. It was found that in the latter case the amount of deflection was one-tenth more than in the former; and therefore, in my experiments with this fluid, the deflections, observed at intervals of 40\", were increased one-tenth, as will be observed in the sequel.\n\nAs it was not convenient to apply a manometer to the apparatus during the experiments, I afterwards ascertained the pressure I had employed, by means of the indications of a carefully graduated air-gauge, when the piston was pressed down with the same weights I had employed in the experiments. The pressures thus obtained were nearly the same as those estimated from the weights laid on the piston, a small allowance being made for friction. The pressure given in the Table is that of the fluid after the weight had been laid on half a minute, minus the residuary pressure arising from friction of the piston after the weight was removed.\n\n**Table I.—Experiments on the Heat evolved by the Compression of Water.**\n\n| Temperature in degree Centigrade | Expansibility by heat per degree Centigrade | Pressure in pounds on the square foot | Capacity for heat of a cubic foot of liquid | Deflections of the needle, each the mean of ten observations | Value of deflections | Experimental thermal effect | Theoretical effect, or $\\frac{(273+t)ep}{JK}$ |\n|---------------------------------|---------------------------------------------|--------------------------------------|------------------------------------------|-------------------------------------------------|------------------|---------------------------|-------------------------------------|\n| 1·2                             | -0·00042                                    | 53634                                | 62·43                                    | -5·2 Mean - 4·85                                  | 596 = 1·03       | -0·0083                   | -0·0071                             |\n|                                 |                                             |                                      |                                          | -4·5                                             | 596 = 1·03       | 0·0044                    | 0·0027                             |\n| 5                               | 0·00016                                     | 53634                                | 62·45                                    | 12·6 Mean 14·2                                   | 596 = 1·03       | 0·0244                    | 0·0197                             |\n| 11·69                           | 0·00112                                     | 53634                                | 62·45                                    | 15·8 Mean 9·5                                     | 596 = 1·03       | 0·0166                    | 0·0197                             |\n|                                 |                                             |                                      |                                          | 9·8                                              | 596 = 1·03       | 0·0312                    | 0·0333                             |\n| 11·69                           | 0·00112                                     | 53634                                | 62·45                                    | 17·2 Mean 19·05                                   | 890 = 1·46       | 0·0315                    | 0·0347                             |\n|                                 |                                             |                                      |                                          | 20·9                                             | 14·3 Mean 17·75  | 1454 = 2·58               | 0·0347                             |\n| 18                              | 0·00185                                     | 53634                                | 62·41                                    | 17·1 Mean 20·6                                    | 19·0 Mean 3·6    | 204 = 2·66                | 0·0544                             |\n|                                 |                                             |                                      |                                          | 3·6                                              | 4·17 Mean 5·7    | 554 = 1·24                | 0·0394                             |\n| 18·76                           | 0·00193                                     | 53634                                | 62·41                                    | 19·0 Mean 20·8                                    | 14·4 Mean 22·0   | 694 = 1·36                | 0·0450                             |\n|                                 |                                             |                                      |                                          | 3·6                                              | 22·9 Mean 23·8   |                      | 0·0476                             |\n| 30                              | 0·00300                                     | 53634                                | 62·29                                    | 5·7 Mean 3·2                                     | 204 = 2·66       | 0·0544                    | 0·0563                             |\n| 31·37                           | 0·00303                                     | 33117                                | 62·29                                    | 17·6 Mean 20·8                                    | 14·4 Mean 22·0   | 554 = 1·24                | 0·0394                             |\n|                                 |                                             |                                      |                                          | 22·0                                             | 22·9 Mean 23·8   | 694 = 1·36                | 0·0450                             |\n| 40·4                            | 0·00396                                     | 33117                                | 62·14                                    |                                                  |                  |                          | 0·0476                             |\nTable II.—Experiments on the Heat evolved by the Compression of Sperm Oil.\n\n| Temperature in degree Centigrade. | Expansibility by heat per degree Centigrade. \\( e \\) | Pressure in pounds on the square foot. \\( p \\) | Capacity for heat of a cubic foot of the oil, in pounds of water. \\( K \\) | Deflections of the needle, each the mean of ten observations. | Value of the deflections. | Experimental thermal effect increased by one-tenth. | Theoretical effect, or \\( \\frac{(273+t)e_p}{JK} \\) |\n|---|---|---|---|---|---|---|---|\n| 16° | -0.007582 | 16777 | 29.83 | Mean 32.3 | 950 = 2.11 | 0.0792 | 0.0886 |\n| 17.29 | -0.007582 | 33117 | 29.83 | Mean 32.5 | 950 = 2.11 | 0.1686 | 0.1758 |\n| 16.27 | -0.007582 | 53634 | 29.83 | Mean 109 | 950 = 2.11 | 0.2663 | 0.2837 |\n\nThe specific heat of the oil was found by the method of mixtures to be 0.5223 at 16°. Its expansion, determined by the weight of a volumenometer filled with it at various temperatures, proved to be -0.007582 at 21°. Its specific gravity at 0° was 0.915. It was important to ascertain its specific heat and expansion at a temperature near that which it had in the experiments, because, though quite transparent, it became considerably more fluid when the temperature was much raised. Such a gradual change of state in any viscous substance is accompanied by the absorption of \"latent heat,\" and an increase in the rate of expansion, which are greatest at the temperature at which the change of state is most rapid.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108692.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8208,
+    "total-output-tokens": 3298,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2818,
+        2
+      ],
+      [
+        2818,
+        6153,
+        3
+      ],
+      [
+        6153,
+        12418,
+        4
+      ],
+      [
+        12418,
+        13899,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108692",
+    "title": "On the Thermal Effects of Compressing Fluids",
+    "authors": "J. P. Joule",
+    "year": 1859,
+    "volume": "149",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/108692"
+  }
+}

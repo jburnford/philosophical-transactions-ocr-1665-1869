@@ -1,0 +1,59 @@
+{
+  "id": "349a553fb3785bc7eaaf24416a57ea6f5a343662",
+  "text": "Table, where sometimes one Engin or Instrument may minister Aid to discover a large branch of Philosophy, as the Baroscope, an Optick Glass, &c.\n\nAnd very particularly M. Rook's directions for Seamen, which specifies Instruments, may hereunto belong.\n\nAnd sometimes in one of the Discourses herein mention'd, and abbreviated, there are almost as many Artificial Inventions, as Experiments; as in Mr. Boyle's Hydrotostatical Experiments: Besides all the Chymical Operations, recited in the Treatise of the Origine of Forms, &c.\n\n\\[ \\text{Εν τῇ μετάλον ἡ εἰ, ἀλλ' ἐν τῷ εἴ τῷ μέγα.} \\]\n\nERRATA.\n\nPage 392. line 23. blot out, as. ibid. line 24. read of the Sea.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101555.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 263,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        666,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101555",
+    "title": "Errata",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101555"
+  }
+}

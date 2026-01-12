@@ -1,0 +1,69 @@
+{
+  "id": "f8472042362987d97ffe017885975fd247327c47",
+  "text": "ERRATA.\n\nVOL. LXIX.\n\nPage. Line.\n16. 5. for Goan read Jean\n— 15. for Ziff. read Ziff.\n17. 1. for of vitriol read of tartar of vitriol\n18. 7. for erica, formed, read erica-formed\n— 19. for wetted read melted\n21. 13. for clays read clay\n23. 14. for Zvij. read Zvij.\n24. 1. for Zv. read Zv.\n26. 6. for dale read deal\n28. 12. for substance read substances\n30. 20. for tin read fire\n33. last line, omit the word than.\n34. 23. after iron insert ore.\n\nVOL. LXX.\n\n478. 1. Journal of the Weather at Senegambia, &c. should be Journal of the Weather at Senegal, [For Senegambia is the whole province, the river Gambia included, in which river the weather must have been quite different at this period from what it was at Senegal, because the disorder did not rage there.\n483. last line, read that the wind in the same month in the river Gambia, &c.\n490. 6. for blank read planked\n\n4 B 4\nERRATA.\n\nVOL. LXXI.\n\nPage. Line.\n334. 5. for fits read sets\n343. 20. for flown read flowed\n363. 3. of the note *, for after a labour read after a natural labour.\n9. for eight inches read five inches,\n383. 13. for then read there\n417. 1. art. 23. for (art. 27.) read (art. 28.)\n423. 5. art. 28. for (art. 24.) read (art. 23.)\n425. last line but two, for $x-p$ read $1-2p$\n\n* * There are TWENTY-SEVEN plates in this volume.\n\nFROM THE PRESS OF J. NICHOLS.\n\nMDCCCLXXXII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106566.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 595,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        876,
+        2
+      ],
+      [
+        876,
+        1342,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106566",
+    "title": "Errata",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106566"
+  }
+}

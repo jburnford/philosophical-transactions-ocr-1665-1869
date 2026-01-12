@@ -1,0 +1,69 @@
+{
+  "id": "a67558d0f922a20d5977a6d539e7daa5cc2a6aff",
+  "text": "I flatter myself, that this short account of these matters will not be disagreeable to you; and am, with the most profound respect,\n\nGentlemen,\n\nYour most obedient humble servant,\n\nLincoln's-Inn-Fields,\nDec. 20, 1732.\n\nW. Watson.\n\nXCVI. Extract of a Letter from Mr. Brown, Apothecary, at Salisbury, to Mr. Wm. Watson, F.R.S. concerning the Success of Inoculation there.\n\nRead Dec. 21, 1752, and here printed with Additions:\n\nI AM much obliged to you for the observations, which you were so kind as to send me, concerning the method of inoculating for the small-pox, and the subsequent treatment of that distemper. This I should not have deferred till now, but that I was desirous of sending you some account of our success therein.\n\nSince the receipt of your letter, inoculating has been very much practised here, and with great success; of which the account I now send may be looked upon as pretty authentic. From the 13 of August, to the beginning of February, have been inoculated, in this city and neighbourhood, four hundred and twenty-two persons. On five or six of these, to my knowledge, it had no effect; though on one the experiment was tried a second time.\nOf this whole number four have died; one of which was a patient of mine, who, I am inclined to think, did not do justice to this method: but that is submitted to better judgment; for the day, on which the operation was performed, the patient's blood had been heated violently by exercise, and suddenly chill'd again, by putting on clean linen, just before the operation was performed; which, I apprehend, is receiving the infection in an inflamed state of blood: but with this I was not the least acquainted, till about six hours before the patient's death.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105110.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 501,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1168,
+        2
+      ],
+      [
+        1168,
+        1725,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105110",
+    "title": "Extract of a Letter from Mr. Brown, Apothecary, at Salisbury, to Mr. Wm. Watson, F. R. S. concerning the Success of Inoculation There",
+    "authors": "Mr. Brown",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105110"
+  }
+}

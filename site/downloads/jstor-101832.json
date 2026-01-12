@@ -1,0 +1,69 @@
+{
+  "id": "6334e8fd2c361ab115650b5edc11810c69bb2632",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nFor the Months of January, and February, 1686.\n\nTHE CONTENTS.\n\n1. An Advertisement. 2. A Discourse concerning Gravity, and its Properties, wherein the Descent of Heavy Bodies, and the Motion of Projects is briefly but fully handled. Together with the Solution of a Problem of great use in Gunnery: By E. Halley. 3. An account of an Experiment shewn before the Royal Society, of Shooting by the Reflection of the Air: By Dr. D. Papin, R. S.S. 4. Part of a Letter from Dr. Salomon Reisel, chief Physician to the Duke of Wirtemburg, about an Extraordinary Tincture given to a Stone. 5. A Catalogue of Simple and Mixt Colours, with a Specimen of each Colour prefixed to its proper Name: By R. Waller, Fellow of the Royal Society.\n\nAccounts of Books: 1. An Essay towards the Recovery of the Jewish Measures and Weights, comprehending their Moneys, by help of Ancient Standards, compared with ours of England: By Richard Cumberland, D.D. 2. Ephemeris ad annum a Nativitate Domini, 1686, & ad Longitudinem Urbis Londinensis, ex Novis Hypothesibus exactissime Supputata & Regiae Societati Dicata.\n\nADVERTISEMENT.\n\nIt having been found by Experience that several Curious Persons have been and are desirous to receive some Account of what the Learned part of the World are for the present busied about.\nin the examination of experimental and real Knowledge, and what Discoveries they have made in any part thereof. The Royal Society have therefore thought fit to order, that Care be taken for the future, that such Accounts shall be published in these Transactions Monthly, as may answer their expectations: Wherein will be contained not only several Experiments, Invented and tried by divers of their own Body, but also such other useful Discourses or Relations concerning Physical, Mathematical, and Mechanical Theories or Observations as shall be communicated by their Correspondants for that Intent, or shall otherwise be sent to, or collected by the Person that hath engaged himself in this Undertaking. He doth therefore hereby Advertise all such Curious Persons as shall be desirous to promote this Design, by Contributing what shall occur to them that may be useful thereto; that upon their Communications they shall have such Acknowledgments made them as shall be to their satisfaction.\n\nAnd whereas divers Books and Treatises of such Philosophical Matters as fall under the Societies Consideration, are published in Foreign Parts, which are seldom to be found till some years after, if at all, to the great damage both of the Authors and the Printers of them, and more especially to the Inquisitive of this Nation: It is therefore desired and hoped that for the future, all such Authors or Publishers, or such Ingenious Gentlemen as shall in their Travels meet with such Books or Tracts, will be pleased to send or lend them to the Undertaker of this Affair, that so an Impartial Account and Extract of them may be communicated to the Curious.\n\nAnd tho' upon an extraordinary occasion these Transactions have for some Months last past been omitted, yet that defect will be soon supplied by the speedy Publication of what has occurred since December last, and will be for the future continued at least as punctually as heretofore.\n\nThose that desire to Contribute to the carrying on of this Work, may please to send the Accounts they would have Printed to Mr. H. Hunt at Gresham College, London, for the Secretaries of the Royal Society.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101832.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4750,
+    "total-output-tokens": 866,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1322,
+        2
+      ],
+      [
+        1322,
+        3465,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101832",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101832"
+  }
+}

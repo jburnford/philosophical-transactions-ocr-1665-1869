@@ -1,0 +1,69 @@
+{
+  "id": "5aa9b47cc62295f8d4288152801786195a487e4e",
+  "text": "VII. Account of a Nebula in Coma Berenices. By Edward Pigott, Esq. In a Letter to Nevil Maskelyne, D.D.F.R.S. and Astronomer Royal.\n\nRead January 11, 1781.\n\nREV. SIR,\n\nFrampton-house, Glamorganshire,\nSeptember 3, 1779.\n\nAs my father generally addresses to you such papers as he communicates to the Royal Society, I beg the favour of you to acquaint that learned body, that, on the 23d of March, I discovered a nebula in the constellation of Coma Berenices, hitherto, I presume, unnoticed; at least not mentioned in M. de la Lande's Astronomy, nor in M. Messier's ample Catalogue of nebulous Stars. I have observed it in an achromatic transit instrument, three feet long, and deduced its mean R.A. by comparing it to the following stars, having made the necessary corrections for aberration and nutation, the results are:\n\n| By δ Gemini | - | - | - | 191 28 35 |\n| By γ Canis Majoris | - | - | - | 191 28 41 |\n| By ε Virginis | - | - | - | 191 28 45 |\n| By ν Virginis | - | - | - | 191 28 36 |\n| By δ Leonis | - | - | - | 191 28 34 |\n\nMean R.A. of the nebula for April 20, 1779, 191 28 38\nMr. Pigott's Account of a Nebula, &c.\n\nIts light being exceedingly weak, I could not see it in the two-feet telescope of our quadrant, so was obliged to determine its declination likewise by the transit instrument. This determination, however, I believe, may be depended upon to two minutes: hence its declination north is $22^\\circ 53''\\frac{1}{4}$. The diameter of this nebula I judged to be about two minutes of a degree.\n\nI am, &c.\n\nE. Pigott.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106515.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 577,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1088,
+        2
+      ],
+      [
+        1088,
+        1535,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106515",
+    "title": "Account of a Nebula in Coma Berenices. By Edward Pigott, Esq. In a Letter to Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal",
+    "authors": "Edward Pigott",
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106515"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "ad0b5a50b2aa66f3044b71da7c69d9975c2cfcf0",
+  "text": "An Account of an old Earthen Vessel, lately found near York.\n\nThis Earthen Vessel describd Fig. 2. suppos'd by some to be an urn, by others to be a Flowerpot, was found lately at the Brickilns without Bowthant Bar, near York: the Clay of this Vessel is of the Colour of Halifax Clay when burnt; the Potters part is well perform'd; the Face being bossed from within, with the Finger, when upon the Wheel; and some streaks of Red paint, about the curls of the Hair, and Ey-brows; and two Red threads about the Neck: on the back-side of the Vessel, a Leaf is drawn in Red, which is still very fresh; but no Glazing, neither upon the Clay nor Red colour; the Face upon the Vessel is as large as that of a middle-sized Woman: the Vessel itself is preserv'd in the Museum Ashmoleanum at Oxford.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102147.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 296,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        788,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102147",
+    "title": "An Account of an Old Earthen Vessel, Lately Found Near York",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102147"
+  }
+}

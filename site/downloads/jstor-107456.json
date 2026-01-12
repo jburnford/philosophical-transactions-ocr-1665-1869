@@ -1,0 +1,59 @@
+{
+  "id": "6a598a802784919010d175f214e0868b4df46847",
+  "text": "IX. On circulating functions, and on the integration of a class of equations of finite differences into which they enter as coefficients. By John F. W. Herschel, Esq. F. R. S. p. 144\n\nX. On the fallacy of the experiments in which water is said to have been formed by the decomposition of Chlorine. By Sir H. Davy, LL.D. F.R.S. p. 169\n\nXI. The Croonian Lecture. On the changes the blood undergoes in the act of coagulation. By Sir Everard Home, Bart. V.P.R.S. p. 172\n\nXII. Some additions to the Croonian Lecture, on the changes the blood undergoes in the act of coagulation. By Sir Everard Home, Bart. V.P.R.S. p. 185\n\nXIII. On the laws of polarisation and double refraction in regularly crystallized bodies. By David Brewster, LL.D. F.R.S. Lond. and Edin. In a letter to the Right Hon. Sir Joseph Banks, Bart. G.C.B. P.R.S. p. 199\n\nERRATA.\n\nPage 72, under \"Corr. for arc,\" line 2nd, for 1,15 read 1,51.\nunder \"vibrations for 24 hours,\" line 2nd, for 86056,93 read 86057,29.\n\"Great weight above,\" for mean 86057,70, read 86057,79.\n\nPage 86, Experiment B, for 86057,70, read 86057,79.\nExperiment B, under \"Diff.\" for ,23 read ,14.\n\nPage 87, Experiment B, for 86059,93, read 86057,93.\n\nPage 116, line 22, for \"constitute,\" read \"constitutes.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107456.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 511,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1239,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107456",
+    "title": "Errata",
+    "authors": null,
+    "year": 1818,
+    "volume": "108",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107456"
+  }
+}

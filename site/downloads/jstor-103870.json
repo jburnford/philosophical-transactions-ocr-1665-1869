@@ -1,0 +1,69 @@
+{
+  "id": "d9ffdec988dbdeecfcacc82ca4430314449d317c",
+  "text": "no Water stood in the Place at all. He saw their Stockings drawn off, and the Man's Legs, which had never been uncovered before, were quite fair; the Flesh, when pressed with his Finger, pitted a little, and the Joints played freely and without the least Stiffness: The other Parts were much decayed: What was left of their Cloaths (for People had cut away the greatest part to carry Home as a Curiosity) was firm and good; the Woman had on a piece of new Serge, which seemed never the worse.\n\nThese are all the Particulars of moment which my Friends, who saw them at this distance of Time, are able to recollect. The Thing is certainly very remarkable, as there are no Means known (I believe) of preserving dead Bodies so well. I leave People to please themselves, by making their own Observations upon it; though sometime or other, when I have Opportunity and Leisure to furnish myself with the necessary Experiments, I may trouble you again on this Subject.\n\nV. An Account, by Dr. Richard-Middleton Massey, of a Book, entituled Locupletissimi Reurm Naturalium Thesauri, accurata Descriptio, &c. Vol. I. Amstel. 1734. in Fol. An exact Description of the principal Curiosities of Nature, in the large Museum of Albertus Seba, F. R. S. Vol. I. Amsterdam, 1734.\n\nThis magnificent Work is to consist of four large Folio Volumes. The ingenious, curious, and most diligent Collector, takes in all parts of Natural History,\nHistory, and gives us Descriptions and Figures of things scarce ever seen or heard of before in Europe, which he has collected from all Parts of the World, with vast Charge as well as Industry.\n\nThe First Volume contains 111 Plates, besides the Author's Effigies, and the Decorations curiously Engraven by the best Hands. He begins with the Anatomy and Skeletons of several Fruits, Leaves, and Roots: The Method of performing which, he communicated to the Royal Society some time ago; 'tis printed in the Philos. Transact. No. 416. He then goes on with a Description of several curious exotic Plants, with a particular Account of the Zagoë Amboyensis, Morus Papyrifera, &c. After these follow a great Variety of different sorts of Animals from all parts of the World. Armadillos, Ai, or Sloths, Spiders, Millepedes, Scorpions, Flying-Squirrels, Opossums, Mice, Rats, Cats, Frogs, large Frogs and Toads. A Description of the Pipal, a sort of Toad, whose Young are produced on the Back of the Female. An Account of the Transformation of Frogs from Fishes, and back again from Frogs to Fishes. Several kinds of scarce Lizards, Iguana's, Chameleons, Salamanders, Tortoises, Crocodiles; of which two last, some are represented in the Eggs, and some just excluded. A Dragon or Basilisk from America, with above fifty several sorts of Serpents.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103870.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4566,
+    "total-output-tokens": 781,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1419,
+        2
+      ],
+      [
+        1419,
+        2764,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103870",
+    "title": "An Account of a Book",
+    "authors": "Richard-Middleton Massey, Albert Seba",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103870"
+  }
+}

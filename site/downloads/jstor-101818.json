@@ -1,0 +1,69 @@
+{
+  "id": "d452edfa0425cfbf655cf6434c4482b9a30781c7",
+  "text": "Extract of a Letter from Mr. Butterfield Mathematique Instrument-maker to the French King, about the making of Microscopes with very small and single Glasses: and of some other Instruments.\n\nDoubt not but you may be as busy at London as we are here in making of Microscopes of the manner lately brought out of Holland by Mr. Huigens, whereof I have of several fashions ready made. I have tried several ways for the making of Glasses of the bigness of a great Pins head and less; as in the flame of a Tallow-candle, and of one of Wax. But the best way of all I have yet found, to make them clear and without specks, is with the flame of Spirit of Wine well rectified, and burned in a Lamp. Instead of Cotton I make use of very small silver wire doubled up and down like a skein of thred; which being wet with the Spirit of Wine, and made to burn in the Lamp, giveth through the veril of the Lamp a very ardent flame. Then take your beaten Glass, being first washed very clean, upon the point of a Silver needle filed very small, and wet with spittle. Hold it thus in the flame till it be quite round, and no longer for fear of burning it, and if the side of the Glass next the needle be not melted, you may put it off and take it up with the needle on the round side, presenting the rough side to the flame till it be everywhere very round and smooth, then wipe and rub one or several of them together with soft leather, which makes them much the better. Then put them between two pieces of thin brass, the Apertures very round and without bur, and that towards the eye so big almost as the diameter of the Glass: and so placed in a Frame with the object conveniently for observation.\n\nI published last year in the Journal de Scavans a trial of mine Invention with a Tube with Glasses and a Thred hanging between four points, with a weight in a Box so contrived, that as soon as the Instrument is set down, you have your point of Horizon with a great deal of exactness. It hath been so well approved of, that the River which the King maketh to come twenty Leagues off to Paris, is conducted by it,\nAt present I am finishing another. Instead of four points it playeth on one Steel point, standing on a Diamond: the making of which I do intend to publish. I hope it will be of great use for its exactness and speediness of working.\n\nI am at present making a Silver Planisphere of two foot diameter for the King; the Invention of that famous Astronomer, and my very good friend, Mr. Cassini. It sheweth a very easy way to know and find out most of the fixed Stars, and the hour of the night very speedily.\n\nExtract of a Letter from Mr. John Conyers, of his Improvement of Sir Samuel Moreland's speaking Trumpet, &c.\n\nHaving some years since try'd to make one of Sir S. Moreland's speaking Trumpets of Tin, that is, tinned Iron Plate; and finding it to serve, as well as Copper or Glass; I thereupon thought of several ways for reducing the same into some more contrasted form, without abating its power: and by Dr. Goddard presented to the Royal Society, at one of their Meetings (then usually at Arundel House) the Reflecting Trumpet here figured. It consisteth of two Parts. The utmost (B b) is a large Concave Pyramid, about a yard long, (or may be of any manageable length) open at the base (b), and closed, not with a flat, but a concave head, at the Cone (B). Within this is fastned a bended Tube (A a) as in the Figure.\n\nIn the presence of the Royal Society it was then also experimented, That this Trumpet did distinctly deliver certain words from the said House cro's the Garden, and the River Thames, and that against the Wind which was then strong: and the words were written down by one that was sent over for that purpose. Whereby it appeared, That a Reflecting Trumpet after this or some other like manner, of Wood, Tin, Pewter, Stone or Earth, or which may be best, of Bell mettle, will carry the voice as far, if not farther, than the long one invented by Sir Samuel Moreland. Besides that it seems to take off from the astonishing noise near at hand, which happens in the use of the said long Trumpet; so that it may be used within doors, with advantage, upon several occasions.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101818.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1070,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2097,
+        2
+      ],
+      [
+        2097,
+        4191,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101818",
+    "title": "Extract of a Letter from Mr. Buttersield Mathematique Instrument-Maker to the French King, about the Making of Microscopes with Very Small and Single Glasses: and of Some Other Instruments",
+    "authors": "Mr. Buttersield",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101818"
+  }
+}

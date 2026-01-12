@@ -1,0 +1,59 @@
+{
+  "id": "63463441f33b005d3a19634df8606d8d29d9a679",
+  "text": "ADVERTISEMENT.\n\nWhere-ever it is said, at the Head of any Paper, Here printed with Additions, or with Alterations; It is to be understood, that the Author of such Paper made such Additions or Alterations himself; for None of them have been made by the Editor. And where it is said, Presented on such a Day; It implies that the Paper was not read; the Contents of it being of such a Nature as not to be understood at a bare Reading; and that therefore the Subject in general was only mentioned, or the Title read.\n\nERRATA.\n\nIn Number 471. p. 589. l. 4. omitted, not only a Pen of Iron, but also the Point of a Diamond,\nIn Num. 473. in the Contents Art. IV. and p. 47. l. 1. for Warren, read Warwick.\nIn Num. 474. in the Contents, Art. IX. and p. 166. l. 19. for Wintler, read Winkler.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104400.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 288,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        783,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104400",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104400"
+  }
+}

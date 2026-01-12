@@ -1,0 +1,79 @@
+{
+  "id": "b9cf129bc3315c5a7d29c82e2fe82ba52dd67353",
+  "text": "I. An Account of two Rainbows, seen at the same Time, at Alverstoke, Hants, July 9, 1792. By the Rev. Mr. Sturges. Communicated by William Heberden, M.D. F.R.S.\n\nRead January 10, 1793.\n\nOn the evening of the 9th of July, 1792, between seven and eight o'clock, at Alverstoke, near Gosport, on the sea coast of Hampshire, there came up, in the south-east, a cloud with a thunder-shower; while the sun shone bright, low in the horizon to the north-west.\n\nIn this shower two primary rainbows appeared, AB and AC, (Tab. I.) not concentric, but touching each other at A, in the south part of the horizon; with a secondary bow to each, DE and DF (the last very faint, but discernible), which touched likewise, at D. Both the primary were very vivid for a considerable time, and at different times nearly equally so; but the bow AB was most permanent, was a larger segment of a circle, and at last, after the other had vanished, became almost a semicircle; the sun being near\n\nMDCCXCIII.\nsetting. It was a perfect calm, and the sea was as smooth as glass.\n\nIf I might venture to offer a solution of this appearance, it would be as follows. I consider the bow AB as the true one, produced by the sun itself; and the other, AC, as produced by the reflection of the sun from the sea, which, in its perfectly smooth state, acted as a speculum. The direction of the sea, between the Isle of Wight and the land, was to the north-west, in a line with the sun, as it was then situated. The image reflected from the water, having its rays issuing from a point lower than the real sun, and in a line coming from beneath the horizon, would consequently form a bow higher than the true one, AB. And the shores, by which that narrow part of the sea is bounded, would, before the sun's actual setting, intercept its rays from the surface of the water, and cause the bow AC, which I suppose to be produced by the reflection, to disappear before the other.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106800.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6686,
+    "total-output-tokens": 612,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        980,
+        2
+      ],
+      [
+        980,
+        1933,
+        3
+      ],
+      [
+        1933,
+        1933,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106800",
+    "title": "An Account of Two Rainbows, Seen at the Same Time, at Alverstoke, Hants, July 9, 1792. By the Rev. Mr. Sturges. Communicated by William Heberden, M. D. F. R. S.",
+    "authors": "William Heberden, Mr. Sturges",
+    "year": 1793,
+    "volume": "83",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106800"
+  }
+}

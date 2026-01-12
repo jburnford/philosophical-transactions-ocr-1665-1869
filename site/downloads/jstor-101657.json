@@ -1,0 +1,59 @@
+{
+  "id": "c9af43ebe197aa6f2468081fbc11e014502c7451",
+  "text": "A way of making all sorts of Plants, Trees, Fruits, Flowers, and Legums, grow to an extraordinary bigness, communicated in the Journal des Scavans, as it was taken out of the Small Tract, entituled, Instruction facile pour connoitre toutes sortes d'Orangers & Citroniers: Here inserted for Experiment.\n\nThe whole Secret consists in sowing all sorts of Grains and planting Kernels, in Beds of Earth, at the very time when the Sun enters into the Vernal Equinox, and to take them up, when they are strong enough to be transplanted, at the time of the Full Moon; which time is alwaies to be observed, if you will take them up and replant them again.\n\nBut now, to know the moment, or very near the moment of the said Equinox, the Author of this Secret imparts also the way of finding that out with certainty. Take, faith he, some Ashes of Vine-wood, put them in an Earthen-pot leaded, or in a pot of the White earth of Fayence very clean, pour upon it Common-water, or Fountain, or Rain-water that is very clear, from the 9th of March to the 21st of the same, and at the time when the Sun enters into the Equinoctial point, you will see the Ashes make the Water turbid, and then is the time of sowing your Grains and planting your Kernels.\n\nSo far this Author; which though it will seem very improbable to many, yet was thought fit to be here proposed for Trial, upon the consideration that there are some improbable Truths.\n\nAdvertisements,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101657.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 413,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1437,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101657",
+    "title": "A Way of Making All Sorts of Plants, Trees, Fruits, Flowers, and Legums, Grow to an Extraordinary Bigness, Communicated in the Journal des Scavans, as It was Taken Out of the Small Tract, Entituled, Instruction Facile Pour Connoitre Toutes Fortes d'Orangers & Citroniers: Here Inserted for Experiment",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101657"
+  }
+}

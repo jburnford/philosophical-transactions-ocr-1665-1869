@@ -1,0 +1,59 @@
+{
+  "id": "a56dafc5e6169c41081951b75436f6248b463349",
+  "text": "A Note about some unusual Diamonds.\n\nThere came to our hands, some while since, a Representation of a considerable number of excellent Diamonds, sold by one Monsieur Tavernier to his King, after his last return from the East-Indies, whether he had made six Voyages by Land. Amongst these Diamonds there are described three of a very unusual colour; one weighing 112 1/3 Carats, of a very fine Violet-colour, and two of a Rose-pale colour all three of an Adamantin hardness, and upon that account esteemed Diamonds.\n\nA certain Phenomenon, seen by Monsieur Havelius, Feb. 5. 1674. St. No. not far from Marienburg in Boroussia about the Sun a little before his setting and the Moon's conjunction, and the Sun's Eclipse, (which yet was not seen by him.)\n\nI Saw at that time (saith the Observer) the Sun, in a sky everywhere serene enough, being yet some degrees above the Horizon, and shining very bright, yet lancing out very long and reddish rays, 40 or 50 degrees toward the Zenith (as appears Fig. 3.) Under the Sun, towards the Horizon, there hung a somewhat dilute small Cloud, beneath which there appear'd a Mock-Sun, of the same bigness (to sense) with the true Sun, and under the same Vertical, of a somewhat red colour. Soon after, the true Sun more and more descending to the Horizon, towards the said Cloud (as may be seen Fig. 4.) the Spurious Sun beneath it grew clearer and clearer, so as that the reddish colour in that apparent Solar disk vanish'd, and put on the genuine Solar light, and that the more, the less the genuine disk of the Sun was distant from the false Sun: Till at length the upper true Sun passed into the lower counterfeit one, and so remained alone; as appears Fig. 5.\n\nWhich Appearance being unusual, and having never been seen by me, I took the freedom of imparting it unto you, especially since here the Mock-Sun was not found at the side of the true Sun, as 'tis wont to be in all Parhelia's seen by me, but perpendicularly under it; not to mention the Colour, so different from",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101141.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 550,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2014,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101141",
+    "title": "A Note about Some Unusual Diamonds",
+    "authors": null,
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101141"
+  }
+}

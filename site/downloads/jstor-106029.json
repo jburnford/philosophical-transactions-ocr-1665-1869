@@ -1,0 +1,59 @@
+{
+  "id": "ac42ec43473265affbc9e16d825e0cacb997520d",
+  "text": "INDEX.\n\nWollaston, the Rev. Francis, his astronomical observations made at Chislehurst, p. 329.\nWomen exceed men in longevity, p. 71.\nWood, few species of, in Labrador, p. 376.\nWright, Mr. Thomas, his observations of the immersions and emersions of Jupiter's first satellite, p. 190.\n\nThe End of the Sixty-Fourth Volume.\n\n* * The Number of Plates in this Volume is Seventeen,\n\nERRATA.\n\nPage 89. l. 10. dele upon\n118. l. 7. for Lake r. lakes\n147. l. 14. for wire r. wires\n149. l. 30. for in r. on.\n195. l. 16. for these r. the\n272. l. 30. for fathoms r. fathom\n412. l. 4. for two inches in diameter r. two inches broad",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106029.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 288,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        617,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106029",
+    "title": "Errata",
+    "authors": null,
+    "year": 1774,
+    "volume": "64",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106029"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "6102aa246d8a66e0647a9f4bd9fb3ca1d5eacf0f",
+  "text": "XI. Observations made by Mr. John Bartram, at Pennsylvania, on the Yellowish Wasp of that Country: In a Letter to Mr. Peter Collinson, F. R. S.\n\nRead Feb. 24, 1763.\n\nI saw several of these wasps flying about a heap of sandy loam: they settled on it, and very nimbly scratched away the sand with their fore feet, to find their nests, whilst they held a large fly under their wings with one of their other feet: they crept with it into the hole, that lead to the nest, and staid there about three minutes, when they came out. With their hind feet, they threw the sand so dexterously over the hole, as not to be discovered: then taking flight, soon returned with more flies, settled down, uncovered the hole, and entered in with their prey.\n\nThis extraordinary operation raised my curiosity to try to find the entrance, but the sand fell in so fast, that I was prevented, until by repeated essays I was so lucky as to find one. It was six inches in the ground, and at the farther end lay a large magot, near an inch long, thick as a small goose quill, with several flies near it, and the remains of many more. These flies are provided for the magot to feed on, before it changes into the nymph state: then it eats no more until it attains to a perfect wasp.\n\nThe order of providence is very remarkable, in prescribing the different ways and means for this tribe of insects to perpetuate their several species, no doubt\ndoubt for good ends and purposes, with which we may not be well acquainted, but most likely, for the prey and food of other animals.\n\nOne kind of wasp fabricates an oblong nest of paper-like composition full of cells for the harbour of its young, and hangs it on the branch of a tree.\n\nSome build nests of clay, and feed their young with spiders; others sustain them with large green grasshoppers: then there are those, that build combs on the ground (like ours in England) to nourish a numerous brood.\n\nBut this yellowish wasp takes a different method, with great pains digging a hole in the ground, lays its egg, which soon turns to a magot, then catches flies to support it, until it comes to maturity.\n\nThe wisdom of Providence is admirable, by giving annually a check to this prolific brood of noxious insects, in permitting all the males to die, which are the most numerous of the family; only reserving a few impregnated females of each species, to continue their race to another year.\n\nWhereas bees, whose labours are so beneficial to mankind, always survive the winter to raise new colonies.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105700.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 670,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1416,
+        2
+      ],
+      [
+        1416,
+        2516,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105700",
+    "title": "Observations Made by Mr. John Bartram, at Pensilvania, on the Yellowish Wasp of That Country: In a Letter to Mr. Peter Collinson, F. R. S.",
+    "authors": "John Bartram",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105700"
+  }
+}

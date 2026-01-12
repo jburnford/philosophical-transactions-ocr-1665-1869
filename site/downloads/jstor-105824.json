@@ -1,0 +1,79 @@
+{
+  "id": "fa471915e042e423bb29b901d63e377d8b6cf727",
+  "text": "XXVI. A Letter to the Astronomer Royal, from John Canton, M.A.F.R.S. containing his Observations of the Transit of Venus, June 3, 1769, and of the Eclipse of the Sun the next Morning.\n\nLondon, June 9, 1769.\n\nSir,\n\nRead June 15, I take the liberty of sending you, inclosed, my observations of the transit of Venus, and of the Sun’s eclipse; which, if you think proper, you may lay before the Royal Society. Those of Venus were made under the disadvantageous circumstances of being at the top of a house, and seeing through smoke; however, I hope they will not differ very widely from yours. I was just prepared to find the difference of declination between the Sun and Venus by your method, which appears to me to be a very good one, when the Sun was covered by a cloud, and I saw it no more. The magnifying power of the telescope I made use of was 95.\n\nAbout half a minute before the total ingress, when the bright cusps of the Sun were at some distance from each other, there appeared a faint light between them, a little lower than the cusps, or nearer\nto the center of the Planet: this I observed to increase till the time of the internal contact; which fully convinced me that there is an atmosphere about Venus.\n\nI had the good fortune to take several correspondent altitudes of the Sun on the day of the transit, and also on the day before.\n\nThe longitude of Spital Square, west of the Royal observatory, I formerly found by Rocque's survey, to be $16''\\frac{3}{4}$ of time; and lately, by observing with you the explosions of rockets, it was found to be $17''\\frac{1}{10}$. I therefore add $17''$ to my time, to bring it to yours.\n\nI am, Sir,\n\nYour humble servant,\n\nJohn Canton.\n\nSpital Square, June 3, 1769.\n\nOBSERVATIONS OF THE TRANSIT OF VENUS.\n\n| Event                  | Mean Time | Apparent Time |\n|------------------------|-----------|---------------|\n| 1st external contact   | 7 8 28\\(\\frac{1}{2}\\) | 7 10 44\\(\\frac{1}{4}\\) |\n| 1st internal contact   | 7 26 59\\(\\frac{1}{2}\\) | 7 29 15\\(\\frac{1}{4}\\) |\n\nDuration of the ingress: 18 31\n\nEquation of time: 2 15\\(\\frac{3}{4}\\) add\n\nThe diameter of the Sun, from 3 observations, was 31 35\\(\\frac{1}{2}\\)\nof Venus, from 4 observations, 59\n\nAt 7h 38' 31'', apparent time, the right ascension of \\( \\odot \\) was greater than that of the \\( \\odot \\) by 8' 7''.\nOF THE SUN's ECLIPSE.\n\nThe beginning at 18 36 40\nEnd at 20 21 7\n\nDuration 1 44 27\n\nEquation of time 2 10 3\n\nBeginning at 18 38 50 3\nEnd at 20 23 17 4\n\nDigits eclipsed 6 14 2\n\nAt 19 20 45 3 apparent time. 6 1 2 eclipsed.\n19 52 45 3 4 37 4\n20 — 44 3 3 33 4",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105824.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 941,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1055,
+        2
+      ],
+      [
+        1055,
+        2319,
+        3
+      ],
+      [
+        2319,
+        2573,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105824",
+    "title": "A Letter to the Astronomer Royal, from John Canton, M. A. F. R. S. Containig His Observations of the Transit of Venus, June 3, 1769, and of the Eclipse of the Sun the Next Morning",
+    "authors": "John Canton",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105824"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "15f990f8a41686d5638f0a148d9452deb0ad84c5",
+  "text": "6 The long protuberance of the Incus.\n\n7 The Sinus in the extremity of its long Production.\n\nFig. VIII:\nThe Malleolus, Incus and Stapes articulated together.\n1 The Incus.\n2 The Malleolus.\n3 The Stapes where it shuts the Foramen Ovale.\n\nFig. IX.\nRepresents the upper part of the Lineæ Semilunares, or that side which is towards the passage of the Nervus Auditorius.\na The five extremities cut off.\nb The Linea Semilunaris Major.\nc The Semilunaris Media\nd The Minor.\ne The common Canule between the Major and Media.\n\nFig. X.\nRepresents the Cochlea and Labyrinth together.\na The Vestibulum.\nb The Foramen Ovale.\nc The Foramen Oblongum.\nd The Linea Semilunaris Minor, which is towards the Cavitas Tympani.\ne The common Canule to the Major and Media.\nf The Major.\ng The Media\nh The Cochlea.\n\nFig. XI.\nRepresents the Cochlea.\na The Vestibulum.\nb The third Gyre or turning.\nc The Orifice.\nd The first Gyre or turning opened.\ne The second turning.\ng The Orifice at the top of the Cochlea.\n\nFINIS.\n\nERRATA. No. 357. Pag. 847. lin. 22. lege ab b 11'. 32''. pag. 835. lin. 27. lege No. 326. 327.\n\nLONDON:\nPrinted for W. and J. Innys, Printers to the Royal Society, at the Princes-Arms at the West-End of St. Pauls Church-Yard. 1719.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103339.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 451,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1221,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103339",
+    "title": "Errata",
+    "authors": null,
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103339"
+  }
+}

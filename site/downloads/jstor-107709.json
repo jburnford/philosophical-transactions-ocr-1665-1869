@@ -1,0 +1,79 @@
+{
+  "id": "7959cbdaa1d1ab746bc5dc76550a7092705ca719",
+  "text": "VII. A finite and exact expression for the Refraction of an Atmosphere nearly resembling that of the Earth. By Thomas Young, M. D. For. Sec. R. S.\n\nRead February 5, 1824.\n\nIt has lately been demonstrated, in the Journal of the Royal Institution, that if the pressure of the atmosphere \\( y \\), be represented either by the square or by the cube of the square root of the density \\( z \\), the astronomical refraction \\( r \\), may be obtained in a finite equation. Mr. Ivory, in a very ingenious and elaborate paper lately presented to the Royal Society, has computed the refraction, by means of several refined transformations, and with the assistance of converging series, from an equation which expresses the pressure in terms of the density and of its square: I have now to observe, that if we substitute, for the simple density, the cube of its square root, and make \\( y = \\frac{3}{2} z^{\\frac{3}{2}} - \\frac{1}{2} z^2 \\), we shall represent the constitution of the most important part of the atmosphere with equal accuracy, although this expression supposes the total height somewhat smaller than the truth, and belongs to one of those hypotheses, which Mr. Ivory has considered as inadmissible: it has the advantage, however, of affording a direct equation for the refraction, which agrees very nearly with Mr. Ivory's table, and still more accurately with the French table, and with that which has been published for some years in the Nautical Almanac.\n\nSince \\( dx = \\frac{dy}{mz} \\), \\( m \\) being the number of times that the modulus of the atmospherical elasticity is contained in the\nDr. Young on a finite and exact expression for the refraction radius of the earth, and here \\( dy = \\frac{2}{4} \\sqrt{z} dz - z dz \\), we have\n\n\\[\ndx = -\\frac{2}{4} \\frac{dz}{m \\sqrt{z}} + \\frac{dz}{m}, \\quad \\text{and} \\quad \\int dx = -\\frac{2}{2m} \\sqrt{z} + \\frac{z}{m} + \\frac{7}{2m},\n\\]\n\nfor the height above the earth's surface, which, when \\( z = 0 \\), becomes \\( \\frac{1}{2} \\times 27300 = 95550 \\) feet. For the refraction, we have the equation\n\n\\[\ndr = \\frac{-p dz}{\\sqrt{(x^2 - s^2 - 2 p [1 - z])}} \\quad \\text{(Astr. Coll. XV.)}\n\\]\n\n\\[\n= \\frac{-p dz}{\\sqrt{(2 \\int dx + v^2 - 2 p + 2 pz)}},\n\\]\n\nwhich is the value originally assigned to this fluxion by Dr. Brook Taylor; \\( v \\) being the sine of the apparent altitude; and here\n\n\\[\ndr = \\frac{-p dz}{\\sqrt{\\left(\\frac{7}{m} - \\frac{9}{m} \\sqrt{z} + \\frac{2z}{m} + v^2 - 2 p + 2 pz\\right)}};\n\\]\n\nor, if \\( \\sqrt{z} = \\psi \\), and \\( dz = 2 \\psi d \\psi \\),\n\n\\[\n\\frac{dr}{2p} = \\frac{\\psi d \\psi}{\\sqrt{\\left(\\frac{7}{m} - 2 p + v^2 - \\frac{9}{m} \\psi + \\left[\\frac{2}{m} + 2 p\\right] \\psi^2\\right)}},\n\\]\n\nwhich is equivalent to the \\( \\frac{x dx}{\\sqrt{(a + bx + c x^2)}} \\) of the Article Fluents in the Encyclopædia Britannica, No. 259; the fluent being\n\n\\[\n\\frac{1}{c} \\left[ \\sqrt{(a + bx + c x^2)} - \\frac{b}{2 \\sqrt{c}} h l (2 c x + b + 2 \\sqrt{c} \\sqrt{[a + bx + c x^2]}) \\right]\n\\]\n\nand its whole value, from \\( z = 1 \\) to \\( z = 0 \\), being \\( -\\frac{cr}{zp} \\)\n\n\\[\n= \\sqrt{(a' + v^2)} - v + \\frac{b}{2 \\sqrt{c}} h l \\frac{2 c + b + 2 v \\sqrt{c}}{b + 2 \\sqrt{c} \\sqrt{(a' + v^2)}}, \\quad \\text{putting} \\quad a' = \\frac{7}{m} - 2 p,\n\\]\n\nsince \\( a + b + c = v^2 \\).\n\nFor the numerical values of the coefficients, taking, at the temperature of \\( 50^\\circ \\), \\( p = .0002835 \\), and \\( \\frac{1}{m} = .001294 = \\frac{1}{772.8} \\),\n\n\\[\na = \\frac{7}{m} - 2 p + v^2 = .008491 + v^2, \\quad b = \\frac{9}{m} = -.011646,\n\\]\n\nand \\( c = \\frac{2}{m} + 2 p = .003155 \\); hence \\( \\frac{2p}{c} = .17972, \\sqrt{a'} = .0921466, \\sqrt{c} = .05617, \\frac{-b}{2 \\sqrt{c}} = .10367, 2 c + b = .005336 \\), and\n\n\\[\nr = .17972 (\\sqrt{(.008491 + v^2)} - v - .10367 h l \\frac{.005336 - .11234 v}{.011646 - .11234 \\sqrt{(.008491 + v^2)}});\n\\]\nand at the horizon, when \\( v = 0 \\),\n\n\\[\nr = .17972 \\left( .0921466 - .10367 h l \\frac{.005336}{.011646 - .11234 \\times .092147} \\right) = .009840 = 33' 42\", 5; \\text{ which is only } 1\", 5 \\text{ less than the quantity assigned by the French tables and in the Nautical Almanac, while Mr. Ivory makes it } 34' 17\", 5. \\]\n\nAgain, if we take \\( v = .1 \\), for the altitude \\( 5^\\circ 44' 21\" \\), we obtain \\( 8' 49\", 5 \\) for the refraction, while the Nautical Almanac gives us \\( 8' 53\" \\), and Mr. Ivory's table \\( 8' 49\", 6 \\). There is however no reason for proceeding to compute a new table by this formula, the method employed for the table in the Nautical Almanac being rather more compendious in all common cases: and even if it were desired to represent Mr. Ivory's table by the approximation there employed, we might obtain the same results, with an error never much exceeding a single second, from the equation\n\n\\[\n00028333 = \\frac{v}{s} r + \\frac{2 \\cdot 26 + \\frac{1}{2} vv}{ss} r^2 + 5400 \\frac{rr}{ss} \\left( \\frac{v}{s} r + \\frac{1 \\cdot 13 + \\frac{1}{2} vv}{ss} r^2 \\right).\n\\]\n\nWelbeck Street,\n3rd. February, 1824.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107709.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 1948,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1596,
+        2
+      ],
+      [
+        1596,
+        3786,
+        3
+      ],
+      [
+        3786,
+        4917,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107709",
+    "title": "A Finite and Exact Expression for the Refraction of an Atmosphere Nearly Resembling That of the Earth",
+    "authors": "Thomas Young",
+    "year": 1824,
+    "volume": "114",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107709"
+  }
+}

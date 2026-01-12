@@ -1,0 +1,59 @@
+{
+  "id": "6c5ab0c9aa90c5bdebd94c6d1baef831ff57d2d6",
+  "text": "VII. An Account of the Number of people in the Counties of Ardmagh, Lowth, and Meath, and City of Dublin. With an estimate of the number of People that were in the Kingdom of Ireland, the 10th of January 1695, communicated by Capt. South.\n\n| County          | Persons Assessed | Persons Exempted | Total |\n|-----------------|------------------|------------------|-------|\n| County of Ardmagh | 25185            | 455              | 25640 |\n| County of Lowth  | 16502            | 701              | 17203 |\n| County of Meath  | 42181            | 1138             | 43319 |\n\nTotal of these three Counties: 86162\n\nCity of Dublin: 40508\n\nIn the rest of the Kingdom, according to the First Quarters Assessment of the Poll, there are, in proportion to the above three Counties, which were very exactly return'd:\n\nTotal 1034102",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102747.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 308,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        822,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102747",
+    "title": "An Account of the Number of People in the Counties of Ardmagh, Lowth, and Meath, and City of Dublin. With an Estimate of the Number of People That Were in the Kingdom of Ireland, the 10th of January 1695/6 Communicated by Capt. South",
+    "authors": "Capt. South",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102747"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "3f8806ab16aa911595188a8d8bf9bb9706b7e82e",
+  "text": "VIII. A Letter from Mr Ralph Thoresby, F.R.S. to Dr Hans Sloane, R.S. Secr. Concerning large Stones voided per Urethram.\n\nLeedes, Nov. 26. 1711.\n\nHonoured Sir,\n\nSomething extraordinary happening in the Case of a young Man who dyed yesterday, please to accept of the Relation of it, as follows. Joshua the Son of Thomas Spurrit, a poor Clothier upon the Quarry-Hill near this Town, having been for a long time sadly afflicted with the Stone, was the last Year in an extraordinary manner tormented. I have 3 Stones that he voided, which are of a great bigness to pass the Penis, and five more that he could not get rid of without the kind assistance of Mr. S. Pollard, an Ingenious Surgeon of this Town; who by an Incision made way for them, as they came severally near the Glans. When ever one of these great Stones broke out, there was a Crack within his Body, as if the Sphincter Muscle, or Bladder itself, was rent. Till this Instance I thought it (I confess) impossible, that the Ureters (which are naturally no thicker than a Barley Straw) or the Urinary Passage was capable of receiving Stones of this Dimension. I have sent you one of the 5 (neither the biggest or least of them) to know whether it be really so extraordinary as I apprehend: This Day the Youth being dissected, there were found in the top of his Bladder (which was contracted like a Purse) two prodigious large Stones; one especially which I measured, and it was rather more than 5 Inches\nches and a half one way, and 4 the other; it weighed two Ounces, wanting 3 Drams: The other seems lighter, and weighs but one Dram above an Ounce. There were two very odd Stones taken out of the Right Kidney; the Left was wholly degenerated into a kind of Mucilage: And betwixt the Neck of the Bladder and the end of the Penis (which was mortified thereby), were lodged no less than half a dozen such Stones as this herewith sent you; which if it be as rare, as we are ready to apprehend here, you will not grudge, tho' it put you to the Charge of double Postage, from\n\nSir,\n\nYour most obliged\nand most humble Servant,\n\nRALPH THORESBY.\n\nP. S. There was little Moisture left in the Bladder; the Ureters being broke off, and almost wholly consumed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103169.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 650,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1462,
+        2
+      ],
+      [
+        1462,
+        2208,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103169",
+    "title": "A Letter from Mr Ralph Thoresby, F. R. S. to Dr. Hans Sloane, R. S. Secr. Concerning Large Stones Voided per Urethram",
+    "authors": "Ralph Thoresby",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103169"
+  }
+}

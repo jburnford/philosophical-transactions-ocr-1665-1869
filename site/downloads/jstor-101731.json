@@ -1,0 +1,79 @@
+{
+  "id": "0eb1b4b7c683feba355d9d4614864d0ca7b10bd1",
+  "text": "An Extract of Signor Cassini's Letter concerning a Spot lately seen in the Sun; together with a remarkable Observation of Saturn, made by the same.\n\nClarissimo Viro\n\nDomino Henrico Oldenburg Regiae Societatis à Secretis\n\nJoh. Dominicus Cassinus, S.\n\nG Ratissima mihi fuit observatio Solaris maculae, quam a Domino Flamstedio exhibitam mihi communicare dignatus est! Eandem hic observavimus à die 6 Augusti ad 14 S.N.; collationeque observationum didicimus, eam medium itineris sui in Solis disco apparente tenuisse circa mediam noctem post octavam diem Augusti in distantia apparenti trium minutorum à centro Austrum versus. In plures distralta partes est, qua invicem Boream & Austrum versus in dies satis manifesto intervallo disjungebantur, adeo ut, praeter motum communem circa Solis axem, singula partes proprium inter se directum habuerint. Hanc porro maculam diversam esse sentio ab ea, quam praedicti mense Iunio observaveramus. Illa quippe cum medium itineris sui in disco Solis apparente tenuerit die 28 ejusdem Mensis, ad eundem proximum situm reversa esset (si fuisset superstes) die 25 Julii nocte sequente, ut deductur tum ex ejus velocitate, tempore sue apparitionis observata, tum etiam ex cursu aliarum macularum, qua periodum suam circa Solem à nobis evidentur absolviere spatio dierum 27 cum triente, vel 27 cum semisse. Ejus praterea semita diversa est à praedicti; prior quippe paulo remotior fuit ab Æquatore macularum, quam posterior. Hæc porro, si satis habuerit consistentia, ad medium Solem redibit die 5 Septembris mane. Ex ejus descriptis phasibus duas selegi, quarum comparatione ipsius innotescit distractio. Vid. Tab. II. Fig. 2 & 3.\nScribo apud D. d'Alencé, qui mihi A&ta tua Philosophica mensis Julii communicavit. Observationes Solaris Eclipsis ibi contentas conferam expendamque: Ex schemate Saturni à Clarissimo Hevelio ante annum observato video, eum Telescopis, nostris longè inferioribus, uti. Tunc enim temporis (ut & nunc) cernebatur nobis in Saturni globo Zona subobscura, paulo Australior centro, instar Zonarum Jovialium. Deinde latitudo annuli dividetur bifariam, lineâ obscurâ apparenter Ellipticâ, re verâ circulari, quasi in duos annulos concentricos, quorum interior exteriori lucidior erat. Hanc phasim statim post Emersionem Saturni è Solaribus radius per totum annum usque ad ejus Immersionem conspexi; primo quidem, Telescopio pedum 35; deinde minori, pedum 20. Fijus delineationem, utcunque rudem, prosperante calamo hic adjeci. Vid. Tab. II. Fig. 4.\n\nVale, Vir Clarissime, & me, ut soles, iama.\nParisie die 26 Augusti 1676.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101731.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6640,
+    "total-output-tokens": 931,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1665,
+        2
+      ],
+      [
+        1665,
+        2579,
+        3
+      ],
+      [
+        2579,
+        2579,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101731",
+    "title": "An Extract of Signor Cassini's Letter Concerning a Spot Lately Seen in the Sun; Together with a Remarkable Observation of Saturn, Made by the Same",
+    "authors": "Signor Cassini",
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101731"
+  }
+}

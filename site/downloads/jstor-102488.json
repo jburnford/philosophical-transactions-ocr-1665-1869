@@ -1,0 +1,99 @@
+{
+  "id": "6f90b868e48e14235ddd45c19e3551d302cf529b",
+  "text": "the Royal Society by the Right Honourable Sir Rob Southwell, V.P R.S. VII. An Account of a very large Eel, lately caught at Maldon in Essex; with some Considerations about the Generation of Eels, by Mr. Dale. IX. Account of a Book. The History of Poland in several Letters to Persons of Quality, giving an account of the Ancient and Present State of that Kingdom, Historical, Geographical, Physical, Political and Ecclesiastical, &c. With several Letters relating to Physick. Vol I. To which is added a new Map of Poland. By Bern.Connor, M.D. F.R.S. and Member of the College of Physicians, &c.\n\nI. Historia; & explicatio figurarum, Embryon quatuor Septimanarum, & placentam cotiledo-uniformem exhibentium, Autore Philippo Jacobo Hartmanno, Phil. & Med. D. &c.\n\nMatrona quadraginta circiter annorum, tertium hunc abortum faciebat, anno 1685. Septemb. 27. ante quatuor Septimanas ipsi mensae adhuc fluxerant, tertio autem qui abortum praecessit die linteis laevigandis operam navans, & cylindris ducendis manum adiuvet, exin die dicto sanguis grumosus magna copia erumpere, quum alias Uteri haemorrhagiae esset obnoxia; successit tandem placenta cum chorio, amnio & fetu formâ ovi integri; quod ovum citra ullam aliorum contradictionem ac palpationem domum auferre licuit, ubi otiosus omnia rimatus sum.\n\nFigura\nFigura I.\n\nPlacentae structurae exterioris, quae Utero adhaesit,\npartem Colyledoniformem exhibens.\n\na a a &c. Magnitudo placentae, quae totius Uteri cavitate\nimplevit.\n\nb b b &c. Pars cotyledoniformis meris glandulis globo-\nsis obsita; glandulae in medio rubicunda puncta ostendunt\nvasorum ruptorum ora hiantia: circa puncta sunt\nfoveolae quasi impressae, quas & skeleton monstrat:\nHuic parti colytedoniformi intus oppositae erant vesiculae\nrubicundo & flavo liquore distentae, quas figura III. ex-\nprimit.\n\nc c c Loca in quibus sanguinei ductus insigniter erant\nconspicui.\n\nFigura II.\n\nPlacentae Structurae exterioris, quae Utero adhaesit, partem\nalteram exhibens.\n\nA. Locus ex quo vasa longiora avulsa dependebant; ubi\nPlacenta Utero firmius annexa aut agglutinata fuit.\n\nB. B. Laciniae Placentae gracilescenis.\n\nC. Foramen per quod Chorion & amnion prominebant.\n\nD. D. &c. Placentae globus quem omnes figurae repre-\nsentant, ut totius Uteri cavitatem a Placenta succinctam\nfuisset, foetumque in eadem tanquam in altero Utero sive\nUtriculo contineri constet.\n\nFigura III.\n\nPlacentae Structurae interioris pars prior cum Embryo.\n\n1. Vesicula insignior sanguine rubicundo turgida.\n2. Vesicula alia flavo liquore repleta.\n3. Vesicula maxima ibidem flavo liquore distenta.\n4. 4. 4. 4. Vesiculae circum sitae minores, variâ pro-\nportione, varioque liquore, rubicundo, flavo, lumpido, plenae.\n5. Umbilicatis funiculus cum vasis.\n6. Embryon; figurae, magnitudinis, manuum & pe-\ndum\ndum situs, penis, podicis caudati, foraminis ani quasi à meconii nigrore punctati, helices auriculæ, rectus oris, accuratâ omnium delineatione.\n\n7. Locus in quo funiculi tunica vesicularum latebris se insinuabat.\n\n8.8.8. &c. Spatium vesiculis vacuum, chorio & amnio Placentæ crepidinibus annexis.\n\nFigura IV.\n\nPlacentæ Structuræ interioris pars altera sine Embryo.\n\n1.1.1. Vesiculae variâ magnitudine, varioque in eis liquorum colore.\n\n2. Vasa sanguinea hinc inde commendantia.\n\n3.3.3. &c. Spatium Vesiculis vacuum, Placentæ expansionem cum annexa Chorii tunica ostendens.\n\n4.4.4. Lacinia Chorii cum Placentæ divulsæ parte graciliori.\n\n5. Foramen à Placentæ & Chorii ruptura.\n\nFigura V.\n\nEmbryon exhibens.\n\nA. Embryi Corporis habitudo.\n\n1. Linea alba frontem dividens.\n\n2.3. Duæ aliæ lineæ albæ ad futuram coronalem tendentes.\n\n4. Duo puncta quæ narium foramina designant.\n\n5. Helix auriculæ albicante linea discreta.\n\n6. Penis.\n\n7. Pedum digiti inegaliter desinentes, cum exiguis lineis fissurarum indicibus; eadem ratio manuum.\n\n8. Caudæ eminentia cum punctato ani foramine.\n\n9. Oris rectus.\n\n10. Medulla spinalis albicans utrinque à se versus latera exiles lineas albas, æqualiter curtas, dimittens.\n\n11. Umbilicalis funiculus per cujus tunicam exilia vasa transparent.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102488.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 10098,
+    "total-output-tokens": 1520,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1311,
+        4
+      ],
+      [
+        1311,
+        2788,
+        5
+      ],
+      [
+        2788,
+        4060,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102488",
+    "title": "Historia; et Explicatio Figurarum, Embryon Quatuor Septimanarum, et Placentam Cotiledoniformen Exhibentium, Autore Philippo Jacobo Hartmanno, Phil. et Med. D. etc.",
+    "authors": "Philippo Jacobo Hartmanno",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/102488"
+  }
+}

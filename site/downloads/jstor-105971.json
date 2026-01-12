@@ -1,0 +1,79 @@
+{
+  "id": "48f9fed6b13d0fbafbccca516cbfabd5101004dc",
+  "text": "XLV. Of the Increase and Mortality of the Inhabitants of the Island of Madeira.\nBy Dr. Thomas Heberden, F. R. S.\n\nReceived in October; 1767.\n\nRead Nov. 26, 1767.\n\nWHEN I consider the number of people in the Madeira, and the state of the inhabitants, I know no place more proper for forming an estimate of the increase and mortality of mankind, than this island; for the number of persons is upwards of 60,000, all of whom may be supposed to live and die in the same place where they received their existence; the accession of strangers and the egression of the natives being so equally inconsiderable, that if the one doth not exactly counterbalance the other, the difference may justly be neglected, as of no consequence in the general calculation.\n\nThis has excited my curiosity; and, by my interest with the vicar-general of this diocese, I have procured a survey from house to house in each of the respective parishes; from which, and the parish registers, I have deduced the adjoined account.\n\nAn Hypothesis.\n\nThe number of persons in this island, in the year 1743, was 48234 of seven years old and upwards.\nNow supposing the minors were in the same proportion then, as in this present year, the total of the inhabitants was 53,057. Therefore, by the rule of anatocism, they have increased at the rate of 1.0082 per cent. per annum; and by the same rule do double in 84 years 4 months and 25 days.\n\nFrom an exact survey, made in the beginning of the year 1767, the number of inhabitants on the island of Madeira, was as follows:\n\n| Persons of seven years old and upward | 58669 |\n| Persons under seven years of age     | 5945  |\n| Total                               | 64614 |\n\n| Anno | Christened Males | Fem. | Buried Males | Fem. | Wedd. |\n|------|------------------|------|--------------|------|-------|\n| 1759 | 1021             | 905  | 542          | 594  | 438   |\n| 1760 | 1198             | 1111 | 643          | 713  | 421   |\n| 1761 | 1035             | 1022 | 837          | 909  | 513   |\n| 1762 | 1128             | 1125 | 662          | 704  | 491   |\n| 1763 | 1118             | 1115 | 540          | 578  | 476   |\n| 1764 | 1112             | 1085 | 620          | 705  | 469   |\n| 1765 | 1183             | 1143 | 618          | 649  | 495   |\n| 1766 | 1172             | 1138 | 506          | 531  | 462   |\n|      | 8967             | 8644 | 4968         | 5383 | 3765  |\n\nTotal 17611 10351\n\nChristened\nChristened in 8 years 17611 | Medium for each year 2201 3\nBuried in 8 years 10351 | Medium for each year 1293 7\nOctennial increase 7260 | Annual increase 907 4\n\nProportion of the yearly births to the number of persons, as 1 to 29.35\nof the yearly burials to the number of persons, as 1 to 49.89\nof births to burials 100 to 58.77\nof males born, to females 100 to 96.39\nof females buried, to males 108.33 to 100\n\nWeddings each year, at a medium 470 5/8\nProportion of Weddings to births, as 1 to 4.68\nof Weddings to burials, as 1 to 2.75\n\nMortality of the Seasons.\n\n| Winter | Spring | Summer | Autumn |\n|--------|--------|--------|--------|\n| January 93 | April 108 | July 129 | October 87 |\n| February 84 | May 105 | August 135 | November 111 |\n| March 132 | June 120 | September 84 | December 84 |\n| 309 | 333 | 348 | 282 |\n\nThe mortality of spring and summer, to that of autumn and winter, as 115 to 100.\n\nN. B. This calculation of the mortality of the seasons is not deduced from the whole number of Inhabitants on the island, as I could not procure authentic materials to proceed with exactness; the number of the persons, from which it is calculated, is 6880.\n\nReceived",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105971.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1374,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1113,
+        2
+      ],
+      [
+        1113,
+        2429,
+        3
+      ],
+      [
+        2429,
+        3602,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105971",
+    "title": "Of the Increase and Mortality of the Inhabitants of the Island of Madeira. By Dr. Thomas Heberden, F. R. S.",
+    "authors": "Thomas Heberden",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105971"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "id": "ced03cf9096e6444019d21bcf8bf4c1ed61201ac",
+  "text": "XXV. On the fluents of irrational functions. By Edward Ffrench Bromhead, Esq. M. A. Communicated by J. F. W. Herschel, Esq. F. R. S.\n\nRead June 4, 1816.\n\nThe efforts of analysts in determining the fluents of rational functions, have been completely successful, and their labours form one of the most perfect and beautiful branches of the fluxionary calculus. In the irrational functions, however, we find but little effected. With the exception of Waring, modern analysts have not added any thing important, to the forms given by Newton, Craig, Cotes, and Bernoulli. No attempt has been made to generalize the known forms, and the last eminent writer on the subject, La Croix, seems to consider them as independent results, not deducible from any common principles, and refers us to the Petersburgh Acts, and other miscellaneous Collections. In the following pages, it is attempted to generalize and systematize our knowledge on this subject; and to show that all the known forms result from other forms of the greatest extent, not depending on particular functions, but upon the properties of all rational functions whatever.\n\n$R_1, R_2, R_n$, denote rational functions of any kind; $R^{-1}_1, R^{-1}_2, R^{-1}_n$ their inverse functions. Thus if $x = R(v)$ any rational function of $(v)$, then $v = R^{-1}(x)$ the inverse function.\nIt is thought unnecessary to prove, that the fluxions of all rational functions, and all rational functions of them, are themselves rational.\n\n**Prop. I.**\n\n\\[ dx \\cdot R\\{x, R^{-1}(x)\\} \\text{ can be rationalized.} \\]\n\nLet \\( R^{-1}(x) = v; \\ x = R(v); \\ dx = dv \\cdot DR(v)^* \\)\n\nwhich substituted produce the rational form\n\n\\[ dv \\cdot DR(v) \\cdot R\\{R(v), v\\} \\]\n\n**Cor. 1.** This form includes\n\n\\[ dx \\cdot R\\{x, R^{-1}(x), R_2(x, R^{-1}(x)), \\ldots, R_n(x, R^{-1}(x))\\} \\]\n\n**Cor. 2.** We may find, a priori, what fluents will come under this form. For let \\( x = R(v) \\) any rational function whatever\n\n\\[ \\frac{a + a \\cdot v + a \\cdot v^2 + \\cdots}{a + a \\cdot v + a \\cdot v^2 + \\cdots} \\]\n\nwhich is the general form taken by rational functions, when the integer powers are expanded, and the fractions reduced to a common denominator, the coefficients being positive, negative, or nothing. Hence we have \\( R^{-1}(x) = v \\), determined from this equation.\n\n\\[ (a \\cdot x - a) + (a \\cdot x - a) \\cdot v + (a \\cdot x - a) \\cdot v^2 + \\ldots = 0 \\]\n\n**Cor. 3.** Let the equation be\n\n\\[ (ax - a) + (bx - \\beta) v^n = 0 \\]\n\nThen \\( R^{-1}(x) = v = \\left\\{ \\frac{-ax + a}{bx - \\beta} \\right\\}^{\\frac{1}{n}} \\)\n\n∴ we know \\( \\int dx \\cdot R\\{x, \\left( \\frac{ax + a}{bx - \\beta} \\right)^{\\frac{1}{n}} \\} \\)\n\n* See Note at the end of the Paper.\nCor. 4. Let the equation be\n\n\\[(ax - \\alpha) + (bx - \\beta) \\cdot v^n + (cx - \\gamma) \\cdot v^{an} = 0\\]\n\nfrom which we can determine\n\n\\[\\int dx \\cdot R \\left\\{ x, \\left( -\\frac{bx - \\beta}{2cx - 2\\gamma} \\pm \\sqrt{\\left(\\frac{bx - \\beta}{2cx - 2\\gamma}\\right)^2 - \\frac{ax - \\alpha}{cx - \\gamma}} \\right)^{\\frac{1}{n}} \\right\\}\\]\n\nand therefore any fluent of the form\n\n\\[\\int dx \\cdot R \\left\\{ x, n \\sqrt{ax + \\delta \\pm \\sqrt{a^2x^2 + bx + \\gamma}} \\right\\}\\]\n\nIt is obvious that these deductions may be carried to any extent, producing forms hitherto supposed impracticable.\n\nCor. 5. \\(\\frac{ax + \\beta}{ax + b}\\) is both of the form \\(R^{-1}(x)\\) and \\(R^{+1}(x)\\).\n\nProp. II.\n\nWe can rationalize\n\n\\[dx \\cdot R \\left\\{ x, R^{-1}_1(x), R^{-1}_2R^{-1}_1(x), \\ldots R^{-1}_nR^{-1}_{n-1} \\ldots R^{-1}_2R^{-1}_1(x) \\right\\}\\]\n\nLet \\(R^{-1}_n \\ldots R^{-1}_1(x) = v\\). Then\n\n\\[x = R_1R_2 \\ldots R_n(v)\\]\n\n\\[R^{-1}_1x = R_2 \\ldots R_n(v)\\]\n\n&c. = &c.\n\nwhich substituted in the original expression, make it rational.\n\nCor. 1. If \\(R_1 = R_2 = R_n\\), the fluxion becomes\n\n\\[dx \\cdot R \\left\\{ x, R^{-1}_1(x), R^{-2}_1(x), \\ldots R^{-n}_1(x) \\right\\}\\]\n\nCor. 2. By this theorem, any of the expressions deducible from Prop. I. may enter contemporaneously, and we may find fluents of very great intricacy.\n\nCor. 3. The fluents\n\n\\[\\int dx \\cdot R \\left\\{ x, (\\alpha + \\beta x)^{\\frac{1}{n}}, \\left(\\frac{a + b \\sqrt{\\alpha + \\beta x}}{c + d \\sqrt{\\alpha + \\beta x}}\\right)^{\\frac{1}{m}}, \\ldots \\right\\}\\]\nMr. Bromhead on the fluents of\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt[n]{a + \\sqrt[m]{b + \\sqrt[p]{R^{-1}(x)}}}, \\ldots \\right\\} \\]\n\nand some of the most complex expressions in Waring's Med. Anal. are very particular cases of this form.\n\n**Prop. III.**\n\nWe can rationalize\n\n\\[ \\int dx \\cdot R \\left\\{ x, R^{-1}(x), \\left( R^{-1}(x) \\right)^{\\frac{1}{m}}, \\left( R^{-1}(x) \\right)^{\\frac{1}{n}}, \\left( R^{-1}(x) \\right)^{\\frac{1}{r}}, \\ldots \\right\\} \\]\n\nLet \\( R^{-1}(x) = v^m \\cdot n \\cdot r \\cdots \\)\n\nThen \\( x = R(v^m \\cdot n \\cdot r \\cdots) \\)\n\n\\[ \\left\\{ R^{-1}(x) \\right\\}^{\\frac{1}{m}} = v^n \\cdot r \\cdots \\]\n\n\\[ \\left\\{ R^{-1}(x) \\right\\}^{\\frac{1}{n}} = v^m \\cdot r \\cdots \\]\n\n&c. &c.\n\nwhich substituted make the expression rational.\n\n**Cor. 1.** The more general form is this:\n\nIf \\( R \\) can be so assumed that \\( R^{-1}R, R^{-1}R, R^{-1}R \\) shall be all rational; then by assuming \\( R^{-1}(x) = R(v) \\) we can render rational\n\n\\[ \\int dx \\cdot R \\left\\{ x, R^{-1}(x), R^{-1}R^{-1}(x), \\ldots R^{-1}R^{-1}(x) \\right\\} \\]\n\n**Cor. 2.** We can find\n\n\\[ \\int dx \\cdot R \\left\\{ x, x^{\\frac{1}{m}}, x^{\\frac{1}{n}}, x^{\\frac{1}{r}}, \\ldots \\right\\} \\]\n\n\\[ \\int dx \\cdot R \\left\\{ x, (ax + \\beta)^{\\frac{1}{m}}, (ax + \\beta)^{\\frac{1}{n}}, \\ldots \\right\\} \\]\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\left( \\frac{ax + \\beta}{ax + b} \\right)^{\\frac{1}{m}}, \\left( \\frac{ax + \\beta}{ax + b} \\right)^{\\frac{1}{n}}, \\ldots \\right\\} \\]\nirrational functions.\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt{\\alpha^2 x^2 + \\beta x + \\gamma}, (\\alpha x + \\sqrt{\\alpha^2 x^2 + \\beta x + \\gamma})^m, \\ldots \\right\\} \\]\n\nwith an indefinite number of forms too complex for convenient expression.\n\nCor. 3. This form may be extended to Prop. II. and other general expressions. Thus we know\n\n\\[ \\int dx \\cdot R \\left\\{ x, R^{-1}(x), R^{-1}_1 R^{-1}_2(x), \\ldots (R^{-1}_n \\ldots R^{-1}_1(x))^m (R^{-1}_n \\ldots R^{-1}_1(x))^n, \\ldots \\right\\} \\]\n\nThe forms given above are wholly inapplicable, when the fluxion involves expressions, such as \\( R^{-1}_1 R^{-1}_2 \\ldots (x) \\) where the functions are alternately inverse and direct. The cases are very few, in which the difficulty can be overcome, and perhaps the following Propositions will be found to include all the instances, in which analysts have effected the reduction.\n\nProp. IV.\n\nWe can rationalize\n\n\\[ dx \\cdot DR_2(x) \\cdot \\left\\{ R_2(x), R^{-1}_1 R_2(x) \\right\\} \\]\n\nLet \\( R_2(x) = v \\), and it becomes\n\n\\[ dv \\cdot R \\left\\{ v, R^{-1}_1(v) \\right\\} \\text{ as in Prop. 1.} \\]\n\nCor. 1. We can generally reduce \\( \\int dx \\cdot D\\phi(x) \\cdot \\phi(x) \\) to \\( \\int dv \\cdot \\phi(v) \\). Thus we deduce from \\( \\int dx \\cdot x^{rn-1} \\cdot \\phi(x^n) \\) the \\( \\int dv \\cdot v^{r-1} \\phi(v) \\), and from \\( \\int dx \\cdot \\phi(x^n) \\) the \\( \\int dv \\cdot \\phi(v) \\), reductions of frequent occurrence, by which analysts have given their forms an appearance of generalization without the reality.\n\nMDCCCXVI.\n\nY y\nCor. 2. This form may be extended to all the former Propositions.\n\nCor. 3. As it is very tedious and often impracticable to find \\( x \\) in terms of \\( v \\), in order to know whether the reduction be applicable; the following process may sometimes be useful. Let the expression be\n\n\\[\ndx \\cdot DR_2(x) \\cdot R^{-1}_1 R_2(x) \\cdot RR(x)\n\\]\n\nThen if it be divided by \\( dx \\cdot DR_2(x) \\cdot R^{-1}_1 R_2(x) \\) the quotient will be a rational function of \\( R_2(x) \\) or of the form\n\n\\[\n\\frac{a + a_1 R(x) + a_2 (R(x))^2 + \\ldots}{a + a_1 R(x) + a_2 (R(x))^2 + \\ldots} \\quad \\text{the coefficients being indeterminate.}\n\\]\n\nIf the reduction be applicable, these may be found, and the substitution made at once.\n\nCor. 4. We may thus reduce\n\n\\[\n\\int dx \\cdot \\frac{nx^{n-1} + (n-1)c x^{n-2}}{m \\sqrt{x^n + cx^{n-1} + \\ldots}} \\cdot R \\left\\{ x^n + c x^{n-1} + \\ldots \\right\\}\n\\]\n\nto \\( \\int \\frac{dv}{v^m} \\cdot R(v) \\), which may be found.\n\nCor. 5. In \\( dx \\cdot x^{r-1} \\cdot (\\alpha x^n + \\beta)^{\\mu} \\cdot R \\{ \\alpha x^n + \\beta \\} \\)\n\ndivide by \\( dx \\cdot nax^{n-1} \\cdot (\\alpha x^n + \\beta)^{\\mu} \\), and the quotient is\n\n\\[\n\\frac{1}{na} \\cdot x^{(r-1)n} \\cdot R(\\alpha x^n + \\beta). \\quad \\text{The latter factor is already of the required form, and by assuming}\n\\]\n\n\\[\nx^{(r-1)n} = a \\cdot (\\alpha x^n + \\beta)^{r-1} + a_1 \\cdot (\\alpha x^n + \\beta)^{r-2} + \\ldots\n\\]\n\nthe indeterminates may be found. In particular cases there are readier processes, but this method is universally applicable.\nProp. V.\n\nWe can rationalize\n\n\\[ dx \\cdot R \\left\\{ x, R^{-1}R(x) \\right\\} \\]\n\nif we can determine, \\( R^{-1}R(x) = R(x) \\cdot R^{-1}(x) \\), for the fluxion then becomes\n\n\\[ dx \\cdot R \\left\\{ x, R(x) \\cdot R^{-1}(x) \\right\\} \\]\n\nas in Prop. I. Cor. 1.\n\nCor. 1. We also know\n\n\\[ dx \\cdot R \\left\\{ x, R^{-1}(x), R^{-1}R(x) \\right\\} \\]\n\nCor. 2. We may thus transform\n\n\\[ dx \\cdot R \\left\\{ x, \\left( \\frac{ax + \\beta}{ax + b} \\right)^{\\frac{x}{m}}, \\sqrt{(ax + \\beta) \\cdot (ax + b)^{n-1}} \\right\\} \\]\n\ninto\n\n\\[ dx \\cdot R \\left\\{ x, \\left( \\frac{ax + \\beta}{ax + b} \\right)^{\\frac{x}{m}}, (ax + b) \\cdot \\left( \\frac{ax + \\beta}{ax + b} \\right)^{\\frac{x}{n}} \\right\\} \\]\n\na known form.\n\nHence we know\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt[3]{(ax^2 - \\beta^2) \\cdot (ax \\pm \\beta)} \\right\\} \\]\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt{(x + \\alpha) \\cdot (x + \\beta)^2} \\right\\} \\]\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt{(ax + \\beta) \\cdot (ax + b)} \\right\\} \\]\n\n\\[ \\int dx \\cdot R \\left\\{ x, \\sqrt{cx^2 + cx + c} \\right\\} \\]\n\nwhich last form will sometimes introduce imaginaries, that may be avoided by particular artifices.\n\nCor. 3. If \\( R^{-1}R(x) = (R(x))^m \\cdot R^{-1}(x) \\)\n\n\\[ R^{-1}R(x) = \\left\\{ R(x) \\right\\}^n \\cdot R^{-1}(x) \\]\n\n&c. = &c.\n\n\\[ Y y 2 \\]\nwe can determine\n\n\\[ \\int dx \\cdot R \\left\\{ x, R^{-1}(x), \\left\\{ \\frac{R^{-1} R(x)}{m} \\right\\}^{\\frac{x}{m}}, \\left\\{ \\frac{R^{-1} R(x)}{n} \\right\\}^{\\frac{x}{n}}, \\ldots \\right\\} \\]\n\nCor. 4. If \\( R^{-1} R(x) = R(x)^m \\sqrt{R^{-1}(x)}; R^{-1} R(x) = R(x). \\)\n\n\\[ n \\sqrt{R^{-1}(x)}; \\text{ &c. = &c.,} \\]\n\nwe know\n\n\\[ \\int dx \\cdot R \\left\\{ x, R^{-1}(x), R^{-1} R(x), R^{-1} R(x), R^{-1} R(x), \\ldots \\right\\} \\]\n\nas in\n\n\\[ \\int dx \\cdot R \\left\\{ x, m \\sqrt{(ax + \\beta)(ax + b)^{m-1}}, n \\sqrt{(ax + \\beta)(ax + b)^{n-1}}, \\ldots \\right\\} \\]\n\nCor. 5. Generally if \\( R(x) \\) and \\( R(x) \\) are so related, that \\( R R(x) \\) can \\( = R R(x), R \\) and \\( R \\) being any rational functions whatever taken at pleasure, then \\( \\int dx \\cdot R \\left\\{ x, R^{-1} R(x) \\right\\} \\) can be rationalized by taking \\( x = R(v) \\). It then becomes\n\n\\[ dv \\cdot DR(v) \\cdot R \\left\\{ R(v), R(v) \\right\\}. \\]\n\nProp. VI.\n\nBy combining Prop. IV. and V, we can rationalize\n\n\\[ \\int dx \\cdot DR(x) \\cdot R \\left\\{ R(x), R^{-1} R R(x) \\right\\} \\]\n\nif \\( R^{-1} R(v) = R(v) \\cdot R^{-1}(v); \\) for let \\( R(x) = v, \\) and it becomes\n\n\\[ dv \\cdot R \\left\\{ v, R(v) \\cdot R^{-1}(v) \\right\\} \\text{ as before.} \\]\n\nCor. 1. If we have\n\n\\[ \\int dx \\cdot x^{m-1}(ax^n + \\beta)^q \\cdot R \\left\\{ \\alpha + \\beta x^{-n} \\right\\} \\]\nirrational functions.\n\nRemove the multiplier \\( x^n \\), as in Prop. V., and it becomes,\n\n\\[\n\\frac{dx}{x} \\cdot x^m + \\frac{np}{q} \\cdot (\\alpha + \\beta x^{-n})^{\\frac{p}{q}} \\cdot R(\\alpha + \\beta x^{-n})\n\\]\n\nwhich will fall under Prop. IV. If \\( x^{m+\\frac{np}{q}} \\) can be expressed by a rational function of \\( \\alpha + \\beta x^{-n} \\). This will happen if \\( m + \\frac{np}{q} = -n \\cdot r \\), or if \\( \\frac{m}{n} + \\frac{p}{q} = \\pm r \\) any integer. Hence we know\n\n\\[\n\\int \\frac{dx}{(ax^\\alpha + bx^\\beta)^\\alpha} \\cdot R \\left\\{ a + bx^{\\beta-\\alpha} \\right\\}\n\\]\n\n\\[\n\\int \\frac{dx}{\\sqrt[n]{a + bx^n}}; \\int \\frac{dx}{\\sqrt[n]{x^2 + 1}}; \\int \\frac{dx}{\\sqrt[n]{x^4 - 1}};\n\\]\n\nCor. 2. We can determine\n\n\\[\n\\int \\frac{ax^n - \\beta}{ax^n + \\gamma x^n + \\beta} \\cdot \\frac{dx}{\\sqrt[n]{ax^n + cx^n + \\beta}}\n\\]\n\nwhich becomes by Prop. 5.\n\n\\[\n\\frac{ax^n - \\beta x^{-n-1}}{ax^n + \\beta x^{-n} + \\gamma} \\times \\frac{dx}{\\sqrt[n]{ax^n + \\beta x^{-n} + c}}\n\\]\n\nNow this falls under Prop. IV. For let\n\n\\[\n\\sqrt[n]{ax^n + \\beta x^{-n} + c} = v\n\\]\n\n\\[\nax^n + \\beta x^{-n} + \\gamma = vn + \\gamma - c\n\\]\n\n\\[\n(ax^n - \\beta x^{-n-1}) \\cdot dx = vn^{-1} \\cdot dv\n\\]\n\nWhence the fluxion becomes \\( \\frac{v^{n-2} \\cdot dv}{v^n + \\gamma - c} \\), of which a particular case is deduced in Legendre's Elliptic Transcendents.\n\nProp. VII.\n\nIf we can rationalize\n\n\\[\ndx \\cdot R \\left\\{ x, \\phi(x), \\phi'(x), \\ldots \\right\\}\n\\]\n\nwe also can\nfor by taking \\( R^{-1}(x) = v \\), it is reduced to the former form.\n\nCor. 1. If we can rationalize\n\n\\[\ndx \\cdot R \\{ x, R^{-1}R(x) \\}\n\\]\n\nwe also can\n\n\\[\ndx \\cdot R \\{ x, R^{-1}(x), R^{-1}RR^{-1}(x) \\}\n\\]\n\nTherefore we can find\n\n\\[\n\\int dx \\cdot R \\{ x, R^{-1}(x), \\sqrt{a + b \\cdot R^{-1}(x) + c \\cdot (R^{-1}(x))^2} \\}\n\\]\n\n\\[\n\\int dx \\cdot R \\{ x, \\sqrt{a + bx} + \\sqrt{a + bx} \\} \\text{ &c.}\n\\]\n\nCor. 2. Generally we can reduce\n\n\\[\ndx \\cdot R \\{ x, R \\cdot R^{-1} \\ldots R \\cdot R^{-1}(x) \\}\n\\]\n\nto\n\n\\[\ndx \\cdot R \\{ x, R^{-1} \\ldots R(x) \\}\n\\]\n\nCor. 3. In \\( \\int dx \\cdot \\phi(x) \\), let \\( v = \\phi(x) \\), and if it be an algebraic function, \\( R \\{ x, v \\} = o \\). Now take \\( x = R(z) \\)\n\n\\[\n= \\frac{\\alpha + \\alpha z + \\alpha_2 z^2 + \\&c.}{\\beta + \\beta z + \\&c.}\n\\]\n\nand \\( v = R(z) = \\frac{\\beta + \\beta z + \\&c.}{b + b z + \\&c.} \\) with indeterminate coefficients.\n\nHence we have \\( R \\{ R(z), R(z) \\} = o \\); remove fractions and make the coefficients of the powers of \\( z \\) vanish. This will give the indeterminates, if \\( x \\) and \\( v \\) admit common rationalities. Thence we have \\( dz \\cdot DR(z) \\cdot R(z) \\) rational.\n\nShould all the artifices in the foregoing propositions fail, we must attempt to resolve the fluxion into a series of terms, such that each term may be separately rationalized. This is\noften possible, when the original function does not admit a rational expression, and can be effected sometimes directly, and sometimes by introducing a new variable. But it will first be necessary to reduce all irrational functions whatever to a definite form.\n\n**Lemma.**\n\nTo reduce all irrational functions to a definite form.\n\n1. By successively multiplying numerators and denominators into the same expressions, every irrational function may at last be reduced to a series of terms, whose numerators and denominators do not contain any fraction or negative index.\n\nThus \\[ \\frac{(a + \\beta)^m}{(a + bc - n)^m} = \\frac{c^{nm} \\cdot (a\\gamma + \\beta)^m}{\\gamma^m \\cdot (ac^n + b)^m}, \\] and if \\(a, \\beta, \\gamma, a, b, c,\\) are functions involving fractions or negative indices, themselves, the reduction is continued in the same manner.\n\n2. Now multiply both the numerators and denominators of the expressions so reduced, by such multipliers, as will render the denominators rational. This factor is the product of all the different values of the denominator, with the exception of the denominator itself. The new numerators will still consist of a series of terms not involving any fraction or negative index.\n\n3. If \\(R, R, R, \\&c.\\) denote functions of the form \\(cx^m + c_1x^{m-1} + \\ldots\\), the irrational takes the form,\n\n\\[ \\frac{R(x)}{R(x)} + \\frac{R_2(x)}{R(x)} \\cdot \\phi(x)^{\\alpha} \\cdot \\phi(x)^{\\beta} \\cdot \\ldots + \\frac{R_4(x)}{R(x)} \\cdot \\pi(x)^{\\alpha} \\cdot \\pi(x)^{\\beta} \\cdot \\ldots + \\ldots \\]\n\n4. By reducing the fractional indices of the factors to the\ncommon denominator \\( n \\), the whole will consist of a series of terms\n\n\\[\n\\frac{R(x)}{R(x)} \\cdot n \\sqrt{\\varphi_1(x) \\cdot \\varphi_2(x) \\cdots}\n\\]\n\n5. By expanding all the integer powers under the index \\( \\frac{1}{n} \\); and again reducing the indices of the sums and products, which are under it, to a common denominator \\( n' \\); we shall by continuing the same operations, ultimately reduce the whole expression, to a series of terms of the form\n\n\\[\n\\frac{R(x)}{R(x)} \\cdot n \\sqrt{S_{n'} \\sqrt{S_{n''} \\cdots S_{n'''} \\cdots R(x)}}\n\\]\n\n\\( S \\) denoting the sum of any number of terms such as follow it, wherein \\( R(x) \\) may be different in each term, but always of the form \\( cx^m + cx^{m-1} + \\cdots + \\).\n\n6. If every value of \\( R(x) \\) contains a factor \\( (ax^r + bx^{r-1} + \\cdots) n \\cdot n' \\cdot n'' \\cdots \\), it may be taken entirely out of the radical; and conversely the rational coefficient may be introduced entirely under the radical.\n\n7. When the surd is so reduced, that no rational factor can be withdrawn from the radical, it is said to be in its lowest terms; and is said to be an irrational of the \\( 1^n, 2^n, \\) or \\( v^n \\) order, according to the number of the indices \\( \\frac{1}{n}, \\frac{1}{n'}, \\frac{1}{n''} \\cdots \\). Thus the general expression for a surd of the first order\n\n\\[\n\\frac{R(x)}{R(x)} \\cdot n \\sqrt{cx^m + cx^{m-1} + \\cdots}\n\\]\n\nis a series of terms,\n\n8. A more convenient general form for all irrationals, than\nthe series of terms above exhibited, may readily be found; by introducing all the rational parts entirely under the radicals; by reducing the indices of all the terms to a common denominator $\\mu$; by expanding all integer powers; and by again reducing all the products and sums contained under $\\frac{1}{\\mu}$, to indices with a common denominator $\\mu'$. These operations continued, will ultimately lead to the expression\n\n$$S^{\\mu} \\sqrt{S^{\\mu'} \\ldots S^{\\mu''}} \\frac{R(x)}{R(x)} \\frac{R(x)}{\\beta},$$\n\nwhere $\\frac{R(x)}{\\beta}$ may be of any different values in the different sums, but always of the form\n\n$$\\frac{ax^{\\alpha} + ax^{\\alpha-1} + \\ldots}{bx^{\\beta} + bx^{\\beta-1} + \\ldots}.$$\n\n9. $\\frac{R(x)}{\\beta}$ is said to be of $\\alpha - \\beta$ dimensions; and if $\\alpha - \\beta$ be dimensions of that rational part, whose dimensions are greatest; then the dimensions of the whole irrational are $\\frac{\\alpha-\\beta}{\\mu \\cdot \\mu' \\cdot \\mu'' \\ldots}$.\n\n10. The fluxion, and its dimensions in any irrational, may be found by applying this formula,\n\n$$d \\left\\{ \\phi_1 \\phi_2 \\phi_3 \\ldots \\phi_n (x) \\right\\} = D \\phi_1 \\phi_2 \\ldots \\phi_n (x) \\cdot D \\phi_2 \\phi_3 \\ldots \\phi_n (x) \\ldots D \\phi_n (x) \\cdot dx,$$\n\nthe $D$ only referring to the functional characteristic immediately succeeding it.\n\n**Prop. VIII.**\n\nTo divide a fluxion into expressions admitting distinct rationalities.\n\nMDCCCLXVI.\nLet $\\phi(x)$ be any irrational, and $\\phi_1(x), \\phi_2(x) \\&c.$ surds deduced as in the Lemma. Then\n\n$$\\int dx \\cdot \\phi(x) = \\int \\frac{dx \\cdot R(x)}{R_1(x)} + \\int \\frac{dx \\cdot R_2(x)}{R_3(x)} \\cdot \\phi(x) + \\&c.$$ \n\nwhere the fluent of the 1st term may always be found, and the other terms may often be rationalized by distinct substitutions, when we are unsuccessful with $\\int dx \\cdot \\phi(x)$. Again since in each of the terms,\n\n$$\\int \\frac{dx \\cdot R_2(x)}{R_3(x)} \\cdot \\phi(x), \\frac{R_2(x)}{R_3(x)}$$\n\nmay be reduced to a series of terms of the form $Ax^n$ and $\\frac{A}{(x+a)^n}$; therefore the fluent depends on a series of terms $\\int dx \\cdot x^n \\cdot \\phi(x)$, and $\\int dx \\cdot (x+a)^{-n} \\cdot \\phi(x)$. In the latter case, the form of $\\phi(x)$ is not changed by substituting $x$ for $x+a$, and $\\therefore$ the fluents of all irrationals are determinable by $\\int dx \\cdot x^{\\pm n} \\cdot \\phi(x)$.\n\nCor. 1. If we multiply the denominator of\n\n$$\\frac{dx \\cdot R(x)}{R_1(x) \\cdot \\sqrt{ax^2 + bx + c} + R_2(x) \\cdot \\sqrt{ax^2 + bx + c}}$$\n\nby its rationalizing factor, the fluxion will be reduced to two terms, which admit distinct rationalities.\n\nCor. 2. Sometimes by the substitution of a new variable, for some function of $x$, the fluxion will be divided into a series of terms, each of which may be separately made rational. But unfortunately no general principle has been discovered, to which these reductions can be referred.\n\nCor. 3. As the fluent of each term can sometimes be found\napart, when the fluent of the whole cannot be found at once; so conversely, the fluent of a series of terms may be found, when each separate term surpasses the powers of analysis. Thus we know\n\n$$\\int \\frac{d \\phi(x) + d \\phi_1(x) + \\ldots}{\\phi(x) + \\phi_1(x) + \\ldots}$$\n\nBut we do not know\n\n$$\\int \\frac{d \\phi(x)}{\\phi(x) + \\phi_1(x) + \\ldots} + \\int \\frac{d \\phi(x)}{\\phi(x) + \\phi_1(x) + \\ldots} + \\ldots$$\n\nAgain, let $\\phi(x)$ be such a function of $x$,\n\nthat $\\phi^*(x) = \\frac{x}{e}$; let $\\phi(x) = x$;\n\nThen $dx \\cdot \\phi(x) = x \\cdot \\phi(x) - \\int d \\phi(x) \\cdot x$\n\n$$= x \\cdot \\phi(x) - \\int d \\phi(x) \\cdot \\phi^*(x) \\cdot e$$\n\n$$= x \\cdot x - e \\int dx \\cdot \\phi(x)$$\n\n$$\\therefore \\int dx \\cdot \\phi(x) + e \\int dx \\cdot \\phi(x) = x \\cdot x$$\n\nWhich theorem admits farther extension, and may be applied to elliptic arches.\n\nShould the above processes for rendering the fluxion rational fail us, we must attempt the fluxion at once in its irrational state, for which purpose I shall add a few miscellaneous observations.\n\n1. If $\\phi(x), \\phi_1(x)$ be any algebraic functions,\n\nthen $d \\left\\{ \\phi(x) + \\log \\phi_1(x) \\right\\} = d \\phi(x) + \\frac{d \\phi_1(x)}{\\phi(x)}$ is an algebraic expression. Whenever, therefore, we meet with an\nMr. Bromhead on the fluents of algebraic fluxion, we may legitimately try $\\phi(x) + \\log_\\varphi(x)$, as a form to which the fluent may possibly belong.*\n\n2. It presents three cases: 1st. where the fluent is wholly algebraic, for which we assume some expression so general, that its fluxion will include the given fluxion, if it admit an algebraic fluent; or we find the fluent implicitly by an equation: 2dly. where the fluent is mixed, when we attempt to separate the algebraic part: 3dly. where the fluent is purely logarithmic, when we assume, as in the first case, some expression with indeterminate constants, sufficiently general to include the given fluxion.\n\n3. In assuming for an algebraic fluxion, it must be observed, that the fluent will always be a surd of the same order as the fluxion. On this principle Waring gives some assumptions for surds of the second order, but nothing has been attempted generally for surds of all orders, for want of some definite form which should include them all. In irrationals of the first order, the fluxion may always be reduced to series of terms, such as\n\n$$dx \\cdot (x + a)^{\\alpha} \\cdot (x + a)^{\\beta} \\cdots (x + a)^{\\gamma}$$\n\nwhere the factors are all different, and where the indices are positive, negative, fractions, integers, or unity. Then let $R_n(x)$ be any expression $cx^{n-1} + cx^{n-2} + \\cdots$ with indeterminate coefficients. Assume for the fluent\n\n$$\\frac{(x + a)^{\\alpha+1} \\cdot (x + a)^{\\beta+1} \\cdots (x + a)^{\\gamma+1}}{R_{n-1}(x)}$$\n\n* It is obvious, that the fluent of an algebraic fluxion cannot be of the form $\\phi(x) + \\phi_1(x) \\cdot \\log_\\varphi(x)$, for its fluxion $d\\phi(x) + d\\phi_1(x) \\cdot \\log_\\varphi(x) + \\phi x \\cdot \\frac{d\\varphi(x)}{\\varphi(x)}$ is a transcendent.\nIts fluxion will be\n\n$$\\frac{DR}{n-1} \\cdot (x + a_1) \\cdot (x + a_2) \\cdots (x + a_n)$$\n\n$$- R_{n-1}(x) \\left\\{ (\\alpha + 1) \\cdot (x + a_1) \\cdots (x + a_n) + (\\beta + 1) \\cdot (x + a_1) \\cdots (x + a_n) + \\cdots \\right\\}$$\n\nmultiplied by $dx \\cdot (x + a_1)^{\\alpha} \\cdots (x + a_n)^{\\gamma}$ the original fluxion.\n\nNow that the two expressions may be equal, the coefficient found above must be = 1, or we must have\n\n$$DR_{n-1}(x) \\cdot Q - R_{n-1}(x) \\cdot Q' = \\{R_{n-1}(x)\\}^2$$\n\nwhere $Q$ and $Q'$ are the expressions in the coefficient involving $a_1, a_2, a_n$. By equating the terms in this equation, the indeterminates $c_1, c_2, c_n$, &c. may be found; but the reduction will often be impossible, as there are more equations to be satisfied than there are indeterminates.\n\n4. If any index $\\alpha, \\beta, \\gamma = -1$, the expression fails, and there is no algebraic fluent; also Waring says, that if the dimensions of a fluxional coefficient be = — 1, the fluent cannot be algebraic.\n\n5. If $\\phi(x)$ be an irrational function, let $z = \\int dx \\cdot \\phi(x) = \\int dx \\cdot v$; then since $R\\{x, v\\} = 0$, there are cases, where we can determine, $R\\{x, z\\} = 0$.*\n\n6. If $\\phi(x), \\pi(x)$ be irrational functions of $x$, we have\n\n$$\\int dx \\cdot \\phi(x) = \\int dx \\cdot \\{\\phi(x) + \\pi(x)\\} - \\int dx \\cdot \\pi(x)$$\n\nNow let $\\pi(x)$ be so assumed, that\n\n* See Phil. Trans. 1764.—Emerson's Fluxions.\n\\[ \\int dx \\cdot \\{ \\phi(x) + \\pi(x) \\} = \\phi(x), \\text{ and we have} \\]\n\n\\[ \\int dx \\cdot \\phi(x) = \\phi(x) - \\int dx \\cdot \\pi(x). \\]\n\nIf therefore \\( \\pi(x) \\) be a simpler expression than \\( \\phi(x) \\), the fluxion will be reduced to a simpler form. In order to find \\( \\pi(x); \\phi(x) \\) is assumed with indeterminate coefficients, so that its fluxion may be of the same form as \\( dx \\cdot \\phi(x) \\). Now equate the similar terms in the two expressions, and the indeterminates may be found. But as there may be more equations than indeterminates, we add \\( \\pi(x) \\) a function of the same form, and containing indeterminates of sufficient number, to satisfy all the deficient equations. We shall thus have\n\n\\[ D \\phi(x) = \\phi(x) + \\pi(x) \\text{ and } \\therefore \\phi(x) = \\int dx \\cdot \\{ \\phi(x) + \\pi(x) \\} \\]\n\nby which the difficulty may be reduced to finding \\( \\int dx \\cdot \\pi(x) \\).\n\nReductions of particular kinds were discovered by Simpson and others, but this is universally applicable.\n\n7. It may be of advantage to reduce the index of the variable under the radical, which may sometimes be effected. In\n\n\\[ dx \\cdot \\{ x^{m+n} + 1 \\}^{\\frac{1}{n}}, \\text{ assume } x^{m+n} + 1 = v^n; \\]\n\nThen we have\n\n\\[ dx \\cdot \\{ x^{m+n} + 1 \\}^{\\frac{1}{n}} = \\frac{n}{m+n} \\cdot dv \\cdot v^n \\cdot (v^n - 1)^{\\frac{1}{m+n} - 1}. \\]\n\nAnd in the same manner surds of one order may be transformed into another.\n\n8. If the fluent be wholly logarithmic, we may assume for irrationals of the first order\n\n\\[ \\log \\left\\{ R(x) + R(x) \\cdot (x+a)^{\\alpha} \\cdot (x+b)^{\\beta} \\cdots + R(x) \\cdot (x+c)^{\\gamma} \\cdots + \\right\\} \\]\n9. I shall conclude by observing that the fluxion may always be made rational, if the fluent be wholly algebraic, or wholly logarithmic. Thus, if $\\phi(x)$ be any algebraic function, take $x = \\phi^{-1} R(v)$.\n\nThen $d\\phi(x) = d(\\phi^{-1} R(v)) = dR(v)$\n\nand $d(\\log.\\phi(x)) = d(\\log.\\phi^{-1} R(v)) = \\frac{dR(v)}{R(v)}$\n\nare both rational. If the fluent be of the mixed form $\\phi(x) + \\log.\\phi(x)$, its fluxion may be made rational, if $R, R_i$ can be so assumed that $\\phi^{-1} R(x) = \\phi^{-1} R(x)$; and it may always be effected by introducing two new variables.\n\nFirst let $x = \\phi^{-1} R(v)$, and the fluxion becomes\n\n$$dR(v) + \\frac{d(\\phi^{-1} R(v))}{\\phi^{-1} R(v)}$$\n\nnow let $v = R^{-1} \\phi^{-1} R(z)$, and we get $dR(v) + \\frac{dR(z)}{R(z)}$ which is wholly rational.\n\nEDWARD FFRENCH BROMHEAD.\n\nNote.—As modern analysts have in general confounded the fluxions, either with the increments or the derived functions, it may not be superfluous to state precisely, what is meant by the symbols $d$ and $D$.\n\nIf it be possible, (which must be shown in each particular case) to expand $\\phi(x+v)$ in the form $\\phi(x) + \\phi(x).v^2 + \\ldots$; then $\\phi(x)$ is called the derived function of $\\phi(x)$, and its relation to $\\phi(x)$ is thus expressed, $\\phi(x) = D\\phi(x)$. Hence, if $x$ be considered a function of itself, we have $(x+v) = (x) + D(x).v$, and $\\therefore D(x) = 1$.\n\nNow to avoid a constant reference to the variable $x$, of which other variables are considered as functions, we introduce fluxions. If $y, z, w, \\ldots$ are functions of the\nsame variable, then \\( dy, dz, dw, \\ldots \\) are expressions proportional to the derived functions of \\( y, z, w, \\ldots \\) whatever may be the variable of which they are common functions. Hence \\( \\frac{dy}{dx} = \\frac{Dy}{Dz} \\); and if \\( y \\) be a function of \\( x \\), or \\( = \\phi (x) \\), then \\( \\frac{dy}{dx} = \\frac{D\\phi (x)}{Dx} = D\\phi (x) \\) and \\( \\therefore dy = dx \\cdot D\\phi (x) \\).\n\nMoreover, since the derived functions are in the limiting ratio of the increments, so also are the fluxions. From this consideration we can in the applications of analysis, practically determine the ratio of the fluxions, when the derived functions are unknown.\n\nERRATA.\n\nPage 72, line 20, for parts, read part.\n—— 73, line 3, for between, read below.\n—— 98, line 4 from bottom, dele the comma after A.\n—— 101, line 6 from bottom, dele BH.\n—— 102, line 4, for axes, read axis.\n—— 164, line 11, dele the comma between \\( m \\) and \\( n \\).\n—— 174, line 7, for consisted of, read consisted in.\n—— , line last, for \\( m, n \\), read \\( m, m \\).\n—— 191, line 13, for \\( \\phi \\phi x \\), read \\( \\phi \\phi x \\).\n—— 213, line 14, for \\( \\psi \\psi (x, y) \\), read \\( \\phi \\phi \\psi (x, y) \\).\n—— 214, line 10, dele \"in an infinite number of ways\".\n—— 224, line 22, for \\( f(a) \\), read \\( f(x) \\).\n—— 226, line 24, for \\( = x \\), read \\( = z \\).\n—— 232, line 16, in the denominator, for \\( 1 \\), read \\( 1 + \\).\n—— , line 18, ditto, ditto, for \\( 1 \\), read \\( 1 \\pm \\).\n—— 251, line 9, for \\( \\frac{d\\psi x, \\frac{1}{y}}{dx} \\) read \\( \\frac{d\\psi (x, \\frac{1}{y})}{dx} \\)\n—— ——, line 11, for \\( d \\) in both numerator, read \\( d^2 \\).\n—— ——, line 13, for \\( \\left( \\frac{x}{y} \\right) \\) read \\( x \\phi \\left( \\frac{x}{y} \\right) \\).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107538.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 33112,
+    "total-output-tokens": 10768,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1334,
+        2
+      ],
+      [
+        1334,
+        2678,
+        3
+      ],
+      [
+        2678,
+        4177,
+        4
+      ],
+      [
+        4177,
+        5606,
+        5
+      ],
+      [
+        5606,
+        7120,
+        6
+      ],
+      [
+        7120,
+        8624,
+        7
+      ],
+      [
+        8624,
+        9881,
+        8
+      ],
+      [
+        9881,
+        11191,
+        9
+      ],
+      [
+        11191,
+        12615,
+        10
+      ],
+      [
+        12615,
+        13942,
+        11
+      ],
+      [
+        13942,
+        15527,
+        12
+      ],
+      [
+        15527,
+        16996,
+        13
+      ],
+      [
+        16996,
+        18413,
+        14
+      ],
+      [
+        18413,
+        19934,
+        15
+      ],
+      [
+        19934,
+        21191,
+        16
+      ],
+      [
+        21191,
+        22957,
+        17
+      ],
+      [
+        22957,
+        24373,
+        18
+      ],
+      [
+        24373,
+        26009,
+        19
+      ],
+      [
+        26009,
+        27580,
+        20
+      ],
+      [
+        27580,
+        29306,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107538",
+    "title": "On the Fluents of Irrational Functions",
+    "authors": "Edward Ffrench Bromhead",
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/107538"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "aaa12c6bf1166fb60d444afe31364e37e14596be",
+  "text": "VI. A List of all the Seamen, Fishermen, Watermen, Ligh'termen, Gabbardmen, Kielmen, Barge-men, Boatmen, Ferrymen, Cottmen, and Seafaringmen, of what kind soever, in the Kingdom of Ireland, according to a return made in 1697. Communicated by Capt. South\n\n| Location                  | Seamen | Fishermen | Boarmen | Total | Whereof Papists |\n|---------------------------|--------|-----------|---------|-------|-----------------|\n| Baltimore and Members     | 9      | 188       | 84      | 281   | 268             |\n| Belfast, &c. Carrickfergus included | 194    | 62        | 12      | 268   | 2               |\n| Coleraine                 | 48     | 233       | 169     | 450   | 209             |\n| Cork                      | 58     | 34        | 91      | 183   | 111             |\n| Donoghade, whereof Masters | 283    | 28        | 2       | 313   |                 |\n| Drogheda                  | 22     | 56        |         | 78    | 61              |\n| Dublin                    | 42     | 271       | 99      | 412   | 276             |\n| Dundalk and Carlingford   | 2      | 90        |         | 92    | 51              |\n| Galway                    | 42     | 42        | 88      | 172   | 140             |\n| Killebeggs                | 5      | 120       | 4       | 129   | 78              |\n| Kinsale                   | 104    | 76        | 45      | 225   | 106             |\n| Limerick                  | 13     | 137       |         | 150   | 132             |\n| Londonderry               | 56     | 46        | 22      | 124   | 36              |\n| Rosse                     | 20     | 85        | 77      | 182   | 148             |\n| Sligo                     | 11     | 68        | 8       | 87    | 60              |\n| Strangford                | 69     | 159       | 12      | 240   | 78              |\n| Tralee and Kerry          | 2      | 165       |         | 167   | 163             |\n| Waterford                 | 36     | 83        | 50      | 169   | 143             |\n| Wexford                   | 80     | 346       |         | 426   | 399             |\n| Wicklow                   | 22     | 49        | 5       | 76    | 58              |\n| Youghall                  | 40     | 114       | 46      | 200   | 135             |\n\nTotal: 1158 | 2315 | 951 | 4424 | 2654",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102746.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 882,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2306,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102746",
+    "title": "A Lift of All the Seamen, Fishermen, Water Men, Lightermen, Gabbardmen, Kielmen, Bargemen, Boatmen, Ferrymen, Cottmen, and Seafa Ringmen, of What Kind Soever, in the Kingdom of Ireland, according to a Return Made in 1697. Communicated by Capt. South",
+    "authors": "Capt. South",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102746"
+  }
+}

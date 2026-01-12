@@ -1,0 +1,69 @@
+{
+  "id": "57fae86b26cc5b06ce282364c20aeb1dc3d83edf",
+  "text": "VIII. An Account of the Quantity of Rain fallen at Mount’s-Bay in Cornwall, and of the Weather in that Place: In a Letter from the Rev. William Borlase, M.A. and F.R.S. to the Right Rev. Charles Lord Bishop of Carlisle, F.R.S.\n\nMy Lord,\n\nLudgvan, Oct. 31, 1763.\n\nRead Feb. 16, 1764.\n\nAt Carlisle, I find by your Lordship’s note, there fell six inches and half of rain in the months of June and July last. In Mount’s-Bay Cornwall, according to my ombrometer there fell\n\n| Month | Inches | Tenths | Parts |\n|-------|--------|--------|-------|\n| June  | 2      | 6      | ½     |\n| July  | 4      | 3      | 0     |\n\nSo that the rain in this part of Cornwall exceeded that at Carlisle almost half an inch. I could wish the gentleman at Carlisle would continue his observations, adding thereto a journal of Farenheit’s thermometer, and that we had another equally curious at Cathness, at least Aberdeen.\n\nIt is some amusement to compare the journal of the weather in one part with the accounts in the papers of storms, heats, and drought, and their contraries, in another.\n\nOn the 11th of August, there was at Brussels a most dreadful storm of thunder, lightning, and hail; at Ludgvan only misty-rain and showers.\n\nOn the 19th of the same month, when one of the most violent hurricanes ever known scourged some parts\nparts of Kent from the West and South-West, it was calm, hazy, and sun-shine, and the wind at North-East, in Mount's-Bay, in the morning; in the evening South-South-East.\n\nOn the 2d of this month of Oct. there was a most violent storm on the Eastern coasts of Britain, from Yarmouth to Edinburgh; wind from the North-East and East-North-East; many ships distressed, many wrecked. What is remarkable, at the same time a like violent storm blew in the Western channel, along the coast of Cumberland, Lancashire, and Wales, but the wind from the West. In Mount's-Bay the wind was somewhat stormy and showery in the morning, the wind at West half North; in the afternoon windy and showery and sun-shine, West half South. You see how different, nay opposite, the winds, even in their extremest violence, are on the Eastern and Western coasts, where they have nothing between them but a narrow ridge of land. The cause of this remarkable opposition, I should be glad to see well explained. It must certainly have lain in the middle between the two forces; and it might contribute somewhat to the discovery, to know whence, and to what degree, the wind blew on the mountains in Scotland, and as far South as Derbyshire, from Sunday morning to Monday noon: but these are particularities not to be expected till the age becomes more philosophical. I remain, my Lord,\n\nYour most obliged\n\nand obedient Servant,\n\nW. Borlase.\n\nIX. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105524.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 770,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1313,
+        2
+      ],
+      [
+        1313,
+        2733,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105524",
+    "title": "An Account of the Quantity of Rain Fallen at Mount's-Bay in Cornwall, and of the Weather in That Place: In a Letter from the Rev. William Borlase, M. A. and F. R. S. to the Right Rev. Charles Lord Bishop of Carlisle, F. R. S.",
+    "authors": "William Borlase",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105524"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "80da02ed48c241df2775cd53166df72b3e349a29",
+  "text": "IX. A Catalogue of the fifty Plants from Chelsea Garden, presented to the Royal Society, by the worshipful Company of Apothecaries for the Year 1747, pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. nuper Praef. by John Wilmer, M.D. Hort. Chels. Praefect. et Praelect. Botan.\n\nPresented Feb.8.1749.\n\n1251 Achimilla Alpina; Quinquefolii Fol. subtus argenteo. I.R.H.508.\n\n1252 Alyssoides incanum; folii sinuatis. Inst. R.H. 218.\n\n1253 Alysson Creticum; foliis angulatis; flore violaceo. T. Cor. 15.\n\n1254 Alysson Creticum saxatile; foliis undulatis incanis. T. Cor. 15.\n\n1255 Asarum. Dod. Pempt. 358. Officin. 54.\n\n1256 Astragalus luteus annuus Monspeliac. procumbens. Mor. Hist.\n\n1257 Borrago Constantinopolitana; flore reflexo caeruleo, calyce Vesic. T. Cor.\n\n1258 Buglossum Creticum verrucosum perlatum quibusdam. H.R. Par.\n\n1259 Campanula minor annua foliis incisis. Mor. Hist. 2. 458.\n\n1260 Caryophyllata montana; flore luteo nutante. H.R. Par.\n1261 Cataria, quae Nepeta minor; foliis Melissae Turcicae. Hort. Cath.\n\n1262 Chondrilla, Sonchi foliis, flore purpurascente, major. Tourn. 475.\n\n1263 Clutia foliis petiolatis. Lin. Hort. Cliff.\n\n1264 Euonymus vulgaris; granis rubentibus. C.B. 428.\n\n1265 Euonymus latifolius. C.B. 428.\n\n1266 Erysiacum Orientale, foliis Sonchi; flore sulphureo; siliquis longissimis Boerb.\n\n1267 Fritillaria lutea; foliis Polygonati; fructu breviore. Boerb. 2.139.\n\n1268 Geranium latifolium; longissimâ acu C.B.319.\n\n1269 Helianthemum Salicis folio. T. 249.\n\n1270 Hermannia frutescens; folio oblongo serrato. T. 656.\n\n1271 Hesperis sylvestris inodora. C.B. 202.\n\n1272 Hesperis exigua lutea; folio dentato angusto. Borh. 2.20.\n\n1273 Hesperis maritima, angustifolia incana. T. 223.\n\n1274 Hesperis caule ramosissimo; foliis lanceolatis saepius dentatis. Lin. Hort. Cliff.\n\n1275 Hesperis flore albo minimo; siliqua longa; flore profunde dentato. Boerb. Ind.\n\n1276 Lychnis Cretica parvo flore; calyce striato purpurascente. T. Cor. 24.\n\n1277 Lychnis supina Sicula, calyce amplissimo striato. T. 337.\n\n1278 Leucoium Hesperidis folio. T. 221.\n\n1279 Mespilus Canadensis, Sorbi terminalis facie, T. 642.\n\n1280 Myrrhis major, vel Cicutaria odorata. C.B.160. Officin. 321.\n1281 Omphalodes Lusitanica, Lini folio. T. 140.\n1282 Padus Theophrasti, Dalechampio. Lugd. 312.\n1283 Pavia. Boerh. Ind. Alt. 2. 260.\n1284 Polygonatum latifolium; Hellebore albi foliis. C.B. 303.\n1285 Pulmonaria maxima; foliis quasi saccharo incrustatis. Pluknet.\n1286 Pulsatilla folio crassiore; et majore flore. C.B. 177.\n1287 Ranunculus montanus; foliis Plantaginis. C.B. 180.\n1288 Scrophularia Hispanica; Sambuci folio glabro. T. 166.\n1289 Scropularia maxima Lusitanica; Sambuci folio lanuginoso. T. 166.\n1290 Scrophularia peregrina. Cam. Hort. Tab. 43.\n1291 Sisymbrium Orientale; facie Barbarae; foliis Plantaginis. T. Corr. 16.\n1292 Smyrnium. Matth. 773. Officin. 457.\n1293 Smyrnium peregrinum; folio oblongo. C.B. 154.\n1294 Sorbus sativa. C.B. 415. Officin. 464.\n1295 Symphytum majus; tuberosa radice. C.B. 476.\n1296 Tordylium minus; limbo granulato; Syriacum. Mor. Umb. 37.\n1297 Trifolium Clypeatum argenteum. Alp. Exotic. 307.\n1298 Trifolium montanum; spica longissima rubente, C.B. 328.\n1299 Turritis annua verna; flore purpurascente. T. 224.\n1300 Vella. Lin. Gen. 654.\n\nU u X. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104653.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1573,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        973,
+        2
+      ],
+      [
+        973,
+        2217,
+        3
+      ],
+      [
+        2217,
+        3305,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104653",
+    "title": "A Catalogue of the Fifty Plants from Chelsea Garden, Presented to the Royal Society, by the Worshipful Company of Apothecaries for the Year 1747, Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg & Soc. Reg. Nuper Praes. by John Wilmer, M. D. Hort. Chels. Praefect. et Praelect. Botan",
+    "authors": "John Wilmer",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104653"
+  }
+}

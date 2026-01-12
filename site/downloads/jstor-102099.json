@@ -1,0 +1,79 @@
+{
+  "id": "618aade8596f8feaa8124e96b6c22cfd1710b930",
+  "text": "25. 1684. 8. An account of a sort of Paper made of Linum Asbestinum found in Wales in a Letter to the Publisher, from Edward LLoyd of Jesus Coll. Oxon. An account of two Books. I. Specimen UNIVERSÆ REI NUMMARIAE ANTIQUE, Or an Essay toward a universal History of ancient Coyns and Medals, by Andreas Morellius. Paris in Odavo 1683. II. An account of the reprinting of Johannes Goedartius DE INSECTIS; cum Appendice ad HISTORIAM ANIMALIUM ANGLIÆ, by Martin Lister MD. and F. R. S.\n\nAn Extract of a Letter from the Reverend and learned Dr. John Wallis, to the Publisher Dr. Robert Plot; concerning two very large Stone Chimney-pieces: with a peculiar sort of Arch-work thereon.\n\nHaving been lately at Edgcot in Northamptonshire, at the house of Tobias Chancey Esq; he shewed me in an ancient Kitchin (now disfuted) two Chimney's, vastly large, of Stone-work. Which I took the more notice of, because of a peculiar way of Arch-work in the Front of them; whereby, without the advantage of a Discharger of Timber (which is usual, in such cases, to defend the Arch-work from being over burdened,) an Arch of massy Stone (in each of them) sustains it self, at a great length, though almost upon a flat, (being very little raised in the middle.) Which, because it seemed to me somewhat extraordinary, I caused a draught, of one of them, to be designed; as in the paper here adjoining. In which, the lower Arch-work (very little raised from a flat) is made of great Stones, so locked into one another, as appears in the Figure: that there might be the less danger of any one dropping out (or being forced down) to the destruction of the whole. Over which (after some walling interposed) there is another\nanother Arch (to defend the former) more raised from the flat (than was the former) made of lesser Stones, and with straight joints; (not locked as the former.) Over all which, the walling was continued upwards (in an ordinary way of walling,) forming (with the Back) two vast Tunnels of Stone; and, between them (over the middle of the Chimney) a great Window. The Dimensions of all, I have thought fit here to subjoin.\n\nAB. The Breadth between the Jambs, from inside to inside, 18 Foot.\nCD. The Depth of the Stones in the Lower Arch, 22 Inches. Locked one into another, with a crooked Joint, as in the Figure.\nThe number of them, as is there to be seen.\nDE. the Distance, in walling, between the Arches, 2 Foot and 7 Inches.\nEF. The Depth of the Stones for the Upper Arch, 15 Inches: with a straight Joint.\nGH. The place of the two Tunnels.\nK. A window between them.\n\nThe other Chimney over against it, on the opposite side of the same Kitchin, was much after the same manner; but (as I remember) somewhat less; and with some difference in the Masonry.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102099.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 836,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1695,
+        3
+      ],
+      [
+        1695,
+        2749,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102099",
+    "title": "An Extract of a Letter from the Reverend and Learned Dr. John Wallis, to the Publisher Dr. Robert Plot; Concerning Two Very Large Stone ChimneyPieces: With a Peculiar Sort of Arch-Work Thereon",
+    "authors": "John Wallis",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102099"
+  }
+}

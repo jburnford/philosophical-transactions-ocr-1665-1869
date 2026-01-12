@@ -1,0 +1,59 @@
+{
+  "id": "4eb9c89f0bea36cd418a588e8cb49e286fb0f5b3",
+  "text": "A calculation of the same Eclipse, juxta Tabulas Philolaicas with the observations of the learned Bullialdus and Cassini.\n\nInitium 2° 14' 56\" Alt: 52° 10' Eclipses distat ab infimo termino di-\nMax: obs: 3° 28' 28\" Digitis deficientes amitri ad Horiz-\nVista σ 3° 30' 43\" VIII 20° 45'culariter partibus ad Occafum qua-\nFinis 4° 37' 23\" Altit. 28° 35'lium.\n\nPeripheria Disci est 360°\nUltimum distat ab codem infimo ejus Diametri partibus iisdem 116.\n\nObservavit Clar. Bullialdus.\n\nAlt. gr. 50° Initium elapsum erat sole nubibus tecto, & digitus circiter deficiebat.\n\nAlt. 41° 15' Paullo amplius quam digiti VII. attigit digitos VIII.\n\nAlt. 29° 30' finis\n\nPuncta initii & finis satis bene convenire Tabularum Calculo observata sunt.\n\nObservavit Cl. Cassini in Observatorio Regio.\n\nInitium 2° 25' 30\" deductum ex Phasibus sequentibus.\n\nFinis 4° 43' 23\"\n\nMaximus defectus Digitorum 8.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102078.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 409,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        878,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102078",
+    "title": "A Calculation of the Same Eclips, Juxta Tabulas Philolaicas with the Observations of the Learned Bullialdus and Cassini",
+    "authors": "Cassini, Bullialdus",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102078"
+  }
+}

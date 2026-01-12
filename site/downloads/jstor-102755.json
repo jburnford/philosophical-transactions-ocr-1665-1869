@@ -1,0 +1,59 @@
+{
+  "id": "9ff76cd655134b7ab5ee6a04ebb924bb1aebf946",
+  "text": "2. Ejusdem Dissertatio Academica An Incubo ferrum rubiginosum? Monsp. 1694. in 12.\n\n3. Ejusdem Dissertatio Academica An Passioni Iliacæ Globuli plumbei Hydrargyro Preferendi? Monsp. 1694. in 12.\n\n4. Christiani a Steenveldt dissertatio, de Ulcere verminoso ad Clarissimum virum Godefridum Bidloo. Lugd. Bat. apud Jordanum Luchtmans. 1697. in 40.\n\n5. Godefredi Bidloo observatio de animalculis in ovino aliorumq; animantium hepate detectis ad virum celebrem Antonium Lewuenhock. Ludg.Bat. apud Jordanum Luchtmans. 1698. in 40.\n\n6. Description de la piece d'ambregris que la chambre d'Amsterdam a recue des Indes orientales pesant 182 livres; avec un petit traite de son origine & de sa vertu par Nicolas Chevalier. A Amsterdam chez l'auteur. 1700. in 40.\n\nERRATA.\n\nPag. 445 §. 4. lin.6. for AnA put AnH. §. 7. last line, for to the Tangent put to ACE. the Angle. §.8. l.l.r: Let C. be a point: §.8.l.3. for An a r. §.v.l., §.9. for Ac i Ao, put Ac—Ao. and line 7. for AE put AC.\n\nIn the Scheme, the lower C should have been a Capital.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102755.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 448,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1032,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102755",
+    "title": "Errata",
+    "authors": null,
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102755"
+  }
+}

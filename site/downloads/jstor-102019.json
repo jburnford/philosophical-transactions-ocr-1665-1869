@@ -1,0 +1,69 @@
+{
+  "id": "c2b052d2108b5f45a42a0e5169d26db8a4230004",
+  "text": "There are in Virginia a great many Cormorants; several sorts of Gulls, and in about the Bay many Bannets.\n\nThus much for the Birds.\n\nYours, &c.\n\nII. Some Queries concerning the Nature of Light, and Diaphanous Bodies. Proposed to the Royal Society by E. Halley.\n\nThe late Curious Book of Mr. Hugen's having revised the Disquisitions that have formerly been made about the Nature and Phænomena of Light, I thought it not amiss to propose some Difficulties that have occurred to my Thoughts upon this Subject, by way of Query: Which may perhaps not seem unworthy of the Consideration of this Honourable Assembly, viz.\n\n1. In what consists the Transparency of Glass, Crystal, Water, &c. And whether the Notion of right Pores be enough to answer all the Appearances of it, especially those of Refraction, and of the Transparency of Bodies in all Positions; whereas the Rectitude of Pores seems to argue an orderly or regular Position of the constituent Parts, according to the three Dimensions?\n\n2. Why in Bodies that have much more Pores than Glass or Water; as Deal-shavings or brown Paper, the Passage of Light is wholly obstructed, though several gross Particles will penetrate them?\n\n3. Whether or no the Light is easier propagated through Glass, Water, &c. than Air or Æther, as des Cartes and Mr. Hook have maintained; and wherein Mr. Hugens differs from them, asserting that the Beams\nof Light are retarded in passing those Diaphanous Bodies; and thereby so naturally explicating the Laws of Refraction?\n\n4. Supposing Light to be propagated in a Wave, how it comes to pass that this Propagation being either retarded or accelerated in a Diaphanous Body, as Glass, &c., does, upon its going out of that Medium, acquire again the same degree of Velocity it had before it came on, there being no new impulse or impediment to alter the Velocity it had in the other Medium?\n\n5. Why Mercury being so pure, simple and homogeneous a Fluid, is almost the only one that is not transparent?\n\n6. Whether the Reflexion of Light on the Surfaces of Glass, Water, and the Shade of the most perfect Pellucid being always very discernable, be not Arguments that the Beams pass their Media with more difficulty than they do the Air?\n\n7. Whether any Texture of Atoms of the same materia Prima can be supposed to answer to the Phenomena of the Pellucidity of heavy and Opacity of light Bodies?\n\n8. Whether, if light (as it is most likely) be a Tremour, Shake, or Undulation of the Aether, as Sound is of the Air; and if the Aether do consist of so rarified Parts, as to penetrate all Bodies with full liberty, as is generally supposed; most if not all Bodies ought not to be transparent?\n\n9. Whether the Matter of the Universe be not of several Kinds in Minimis, and not constituted by the various Texture and Coalition of the same sort of Atoms, as it has been held by the Epicurean and Atomical Philosophers, which at present obtain in the World.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102019.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 767,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1388,
+        2
+      ],
+      [
+        1388,
+        2930,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102019",
+    "title": "Some Queries concerning the Nature of Light, and Diaphanous Bodies. Proposed to the Royal Society by E. Halley",
+    "authors": "E. Halley",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102019"
+  }
+}

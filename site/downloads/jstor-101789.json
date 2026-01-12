@@ -1,0 +1,69 @@
+{
+  "id": "a69df3befebdbc3acbbbf3434db9c9f1da58323a",
+  "text": "Some Observations of a Cameleon, made by Dr. Jonathan Goddard, late Professor of Physick at Gresham-College, London.\n\nThis was a female, as appeared by Eggs found within. As to the Colour of the Skin, it clearly appears mixed of several Colours, like a medly-Cloth: lighter towards the belly; otherwise, near upon it, equally mixed. The Colours discernable are Green, a Sandy Yellow, a deeper Yellow towards a Liver-colour: and indeed one may easily fancy some mixture of all or most Colours in the Skin; whereof some are more predominant at some times. There are some permanent black Spots on the ridge of the Back, and on the Head.\n\nUpon excitation or warming she becomes suddenly full of black Spots of the bigness of Great-pins heads, equally dispersed on the sides, with small black streaks on the Eye lids; all which afterward do vanish.\n\nThe Skin is grained with globular inequalities, like the Leather called Shagreen, or the Eggs of Flies. The grossest grain is about the Head, next on the ridge of the Back, next on the Legs; on the Sides and Belly finest. Which perhaps in several postures, may shew several Colours. And when the Creature is in full vigour, may also have in some sort rationem speculi, and reflect the Colours of bodies adjacent: which, together with the mixture of Colours in the Skin, may have given occasion to the old Tradition, of changing into all Colours.\n\nThe Eyes resemble a Lens or Convex Glass set in a Versatile globular Socket; which she turn'd backward, or any way without moving her Head. And ordinarily, the one a contrary or quite different way from the other.\n\nHer Tongue, (which she was never seen to put forth of late, though she often opened her mouth wide) was easily drawn out, when she was dead, to half the length of her Body, being round and full toward the end, like a Pestil, with some cavity at the extremity: having a Bone about half the length of it, toward the Root; over which also the fore-part would slip backward. The Bone, where connected to the Body, is bifurcated. She hath Teeth plainly to be felt and seen above and below, on the whole circumference of the Jaw.\n\nThe Trunk of the Body, for the Structure of it, is all Thorax or Breast, having Ribs from the Neck to the setting on of the\nthe Tail. Of two sorts, the larger above, tending backward from the Spine or Back-bones. The other, from the extremities of the former, tending forward, as in the Breasts of Fowls: being with the same sort of those in Fowls, which by Aquapendent are called Costula.\n\nThere is a kind of Diaphragm, a thin transparent Membran, as in Birds, separating a small portion, about the fourth part of the Cavity, next the Belly, from the rest. Wherein is contained a small Ventricle, connected to the Gula: to which is continued an Intestine, having some little convolution in the conveyance of it; which extended might be about the length of the whole Body, with Head and Tail. The Excrements therein black, or of a sad French Green.\n\nShe had a small thin Liver contiguous to the upper part of the Diaphragm: in part divided into two Lobes, of a blackish or very sad colour.\n\nThe Lungs seemed to be made of Membranous cells or divisions, very thin and transparent, resembling a little light froth.\n\nThe Heart was firm and fleshy, but very small; and at the very fore end of all the Breast or Body.\n\nAt the hinder end of the Body was a double Ovary, consisting of five or six eggs (of the bigness of the Greatest-pins heads, and sticking to the Back) on each side: of the same colour and consistence with those of the Yolk of an Egg.\n\nAn Account of the Iron-Works in the Forest of Dean, communicated by Henry Powle, Esquire.\n\nThe Forest of Dean (comprehending that part of Gloucestershire, that lies betwixt the Rivers of Wye and Severne) consists generally of a stiff Clay: which, according to the nature of those Soils, is very deep and miry in the Winter, and in the Summer as dry and parched. The Country is full of Hills, but so as you may rather call it Uneven, than Mountainous, they being nowhere high, and rarely of a steep ascent. Betwixt them run great store of little Springs, of a more brownish colour than ordinary Waters, and often leaving in their passage tinctures of Rust. The Ground is naturally inclined to Wood, especially Haste and Oak; of which last sort it hath produced formerly most stately Timber; though now, almost totally devoured by the increase of the Iron-Works.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101789.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1146,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2256,
+        2
+      ],
+      [
+        2256,
+        4441,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101789",
+    "title": "Some Observations of a Cameleon, Made by Dr. Jonathan Goddard, Late Professor of Physick at Gresham-College, London",
+    "authors": "Jonathan Goddard",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101789"
+  }
+}

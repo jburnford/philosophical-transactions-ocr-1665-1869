@@ -1,0 +1,69 @@
+{
+  "id": "b1e5aa593bae45ccf2741672be1fa1a8bdf77a41",
+  "text": "an appropriated medicinal Fluid; which was, without any Difficulty, retain'd within the Cavity near two Hours, and, at the Close of the Operation, drawn all off at once, without the least Symptom of a Syncope from Inanition; of which I shall beg Leave to acquaint you further, when I see how she holds it, as well as of what else remarkable may occur in the Course of my Practice. I am, with the greatest Regard to the Learned, Worthy Gentlemen of the Royal Society,\n\nSIR,\n\nYour most obliged,\n\nTruro, May 12.\n1744.\n\nand obedient humble Servant,\n\nChr. Warwick.\n\nV. A Letter from John Bevis, M.D. to John Machin, Esq; Secret. R.S. &c. containing some Observations concerning Mercury.\n\nSIR,\n\nPresented May 4. 1744.\n\nTHE Observations to which the inclosed Computations are made by Mr. Morris from somewhat more correct Elements than those in Dr. Halley's Tables, were carefully taken by myself, with an excellent astronomical Sector of five Feet Radius. You will perceive how far I am limited, by my Friend's Request; so must intreat you, if you think it worth while, to inform the\nthe Royal Society, that Mercury's Motion has not been at all disturb'd, [by the late Comet] to do it in what manner you shall think best. I am,\n\nSIR,\n\nYour obedient,\n\nWednesday, May 23.\n\n1744.\n\nhumble Servant,\n\nJ. Bevis.\n\n1744, May 17. The apparent Right Ascension of ε Geminorum, according to Dr. Bradley's Observations,\n\nDeclination,\n\nMay. Appt. time. Long. Latitude. Comp. Rt. Asc.\n\n15 8 31 15 II 28 56 51 I 57 58 N. 88 50 7\n\n17 8 26 6 S I 1 16 I 44 45 91 7 41\n\n18 9 4 40 I 59 30 I 36 40 92 11 53\n\n19 8 41 00 2 51 38 I 28 7 93 9 12\n\nMay. Comp. Declin. Obsd. Rt. Asc. Obsd. Declin. Rt. Asc. Declin.\n\n15 25 26 12 88 49 20 25 26 20 + 47 - 8\n\n17 25 13 00 91 7 4 25 12 56 + 37 + 4\n\n18 25 4 15 92 11 10 25 4 27 + 43 - 12\n\n19 24 54 43 93 8 20 24 54 56 + 52 - 13",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104424.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 779,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1078,
+        2
+      ],
+      [
+        1078,
+        1835,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104424",
+    "title": "A Letter from John Bevis, M. D. to John Machin, Esq; Secret. R. S. &c. Containing Some Observations concerning Mercury",
+    "authors": "John Bevis",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104424"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8537c0c7e392c13c72d245b196a8587651df6f51",
+  "text": "Solutio philosophica Casus cujusdam rarioris à Cl. Domino Doctore Briggs, in Actis Philosophicis Numb. 159. nuper editi, de Juvene vespera cæcutiente.\n\nVulgo notum, & à nemine (uti credo) oppugnatum, quod interdiu quamplurimi vapores, à fole rarefacti, attolluntur, qui deficiente calore, post ejus occasionem, à frigore dentati, descendunt. Quodque inde aer præcipue prope terram fit spissior. Ad eundem modum forsan humores in oculo dicti juvenis afficiantur; uti & vespera ab istis vaporibus aliquantulum spissiores vel magis turbidi facti sint: sicut urinis sæpe accidit, quæ produet frigori vel calori admoventur, turbantur vel clarescunt: Dum sol agit supra Horizontem, vi caloris sui, amotis vaporibus densatis, clarescunt oculorum humores, at cum Horizontem subit, (à causa contraria) humores turbantur, atque inde recta illa, quæ requiritur, dispositio oculorum immutatur: Nam ex spissitudine illa humorum, Radii retusi vel refracti, ad retinam vix pertingunt; vel si pertingant, agunt cum impulsione nimis debili.\n\nHuic Hypothesi apte conveniunt omnia, quæ enumerantur phænomena; primo enim semper à cunabulis praedicto juveni contigit hic affectus sine defluxione, vel alio aliquo oculorum morbo; cujus causa est eadem peculiaris innata humorum diathesis, qui post folis occasionem à vaporibus, ut supra, simili modo afficiebantur. Secundo cæcitas hæc gradatim obrepit, à vaporibus post folis occasionem gradatim descendentibus. Tertio ab influxu Lunæ nulla immutatio, quoniam ascensus & descensus halituum de influxu istius planetæ non pendent. Quarto suspicor intimos humores [nimirum Crystallinum & Vitreum] adeo esse vitulosos, ut (clarescente Aqæo, tunica-\ntunicaque Cornea) nequaquam dissipantur. Quinto ca-\ncitas nec major nec minor vel in hyeme vel æstate; ra-\ntio videtur, quoniam licet dicti vapores non semper pari\ncopia descendunt, tamen semper tanta copia ut eundem\neffectum producere possint: sicut aliquando vidi aquas\nquasdam acidulas in vicinia nostra foliis quibusdam quer-\ncus contusis & infusis purpurascentes, at color à fortiori\ninfusione non intendeatur: Ita vespere semper satis\nvaporum descendentium ad effectum producendum;\nat si plus satis, nulla immutatio.\n\nAlius aliter fentit, quod cum nulla in praedicti juvenis\noculis obiervetur Nubecula aut obfuscatio, rarioris hu-\njuscæ ratio probabilior petenda est à dispositione\nNervi optici, cujus tubuli influxu solari repleti, species\n(quas vocant visibiles) facillime admittant; eodem au-\ntem destituti, flaccescunt; & ad visionem inepti reddun-\ntur.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102101.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 928,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1673,
+        2
+      ],
+      [
+        1673,
+        2536,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102101",
+    "title": "Solutio Philosophica Casus Cujusdam Rarioris à Cl. Domino Doctore Briggs, in Actis Philosophicis Numb. 159. Nuper Editi, de Juvene Uespere Caecutiente",
+    "authors": "Doctore Briggs",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102101"
+  }
+}

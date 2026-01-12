@@ -1,0 +1,59 @@
+{
+  "id": "d0996f876d0bbadb870547a7f2513607b991df5b",
+  "text": "ERRATA.\n\nP. 769. l. 3. read the order of\nP. 791. l. 6. for Oxon, with a comma, read Oxon. with\na full-point.\nP. 792. l. 5. of the quotations, for Froel. read Fræl.\n\nIn the Contents to Part I. of this Vol. Page 5. l. 21. for 115,\nread 117.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105342.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 170,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        238,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105342",
+    "title": "Errata",
+    "authors": null,
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105342"
+  }
+}

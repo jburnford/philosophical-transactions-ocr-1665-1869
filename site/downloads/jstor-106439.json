@@ -1,0 +1,69 @@
+{
+  "id": "af22b30d3e9b62314041bd846e94411e3947bea4",
+  "text": "XXXVIII. Extract of two Meteorological Journals of the Weather, observed at Nain, in 57° North Latitude, and at Okak, in 57° 30', North Latitude, both on the Coast of Labrador. Communicated by Mr. De la Trobe to the President, and by him to the Society.\n\nRead May 20, 1779.\n\nThe thermometer, of Fahrenheit's scale, was observed at eight in the morning, at noon, at four in the afternoon, and at eight in the evening.\n\nThe barometer, whose scale is French measure, was observed at eight in the morning, and at eight in the evening.\n\nMonths.\n| Months | Thermometer at Nain | Barometer at Nain | Thermometer at Okak |\n|--------|---------------------|-------------------|--------------------|\n|        | Highest | Lowest | Mean | Highest | Lowest | Mean | Highest | Lowest | Mean |\n| 1777   |         |        |      |         |        |      |         |        |      |\n| August | 76.0    | 36.0   | 52.3 | 28.3    | 27.6   | 27.104 | 74.0    | 36.0   | 52.0 |\n| Septemb.| 72.0    | 27.0   | 43.6 | 28.5   | 27.6   | 28.04  | 68.0    | 21.0   | 43.9 |\n| October| 51.0    | 12.0   | 30.2 | 28.7   | 26.1   | 28.01  | 48.0    | 13.0   | 30.0 |\n| Novemb.| 41.0    | 8.0    | 15.4 | 28.9   | 26.9   | 28.00  | 39.0    | 5.0    | 17.5 |\n| December| 31.0   | 26.0   | 10.3 | 28.5   | 26.3   | 28.30  | 32.0    | 28.0   | 4.2  |\n| 1778   |         |        |      |         |        |      |         |        |      |\n| January| 18.0    | 30.0   | 12.2 | 28.5   | 27.1   | 28.45  | 16.0    | 27.0   | 11.0 |\n| February| 32.0   | 27.0   | 10.7 | 28.6   | 27.3   | 28.76  | 34.0    | 25.0   | 9.2  |\n| March  | 27.0    | 25.0   | 4.3  | 28.10   | 27.2   | 27.40  | 32.0    | 18.0   | 6.5  |\n| April  | 49.0    | 8.0    | 27.1 | 28.6   | 27.6   | 28.43  | 53.0    | 10.0   | 28.5 |\n| May    | 68.0    | 29.0   | 39.0 | 28.5   | 27.7   | 28.75  | 65.0    | 27.0   | 37.5 |\n| June   | 77.0    | 33.0   | 45.0 | 28.6   | 27.4   | 28.00  | 73.0    | 31.0   | 45.7 |\n| July   | 82.0    | 34.0   | 51.0 | 28.3   | 27.8   | 28.01  | 81.0    | 36.0   | 51.3 |\n| August | 74.0    | 40.0   | 52.5 | 28.5   | 27.5   | 28.00  | 72.0    | 41.0   | 52.0 |\n| Septemb.| 69.0   | 34.0   | 43.5 | 28.0   | 27.10  | 28.20  | 53.0    | 32.0   | 43.0 |",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106439.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 1258,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        540,
+        2
+      ],
+      [
+        540,
+        2218,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106439",
+    "title": "Extract of Two Meteorological Journals of the Weather, Observed at Nain, in 57 degrees North Latitude, and at Okak, in 57 degrees 30<sup>′</sup> North Latitude, Both on the Coast of Labradore. Communicated by Mr. De la Trobe to the President, and by Him to the Society",
+    "authors": "<prefix>Mr.</prefix> De la Trobe",
+    "year": 1779,
+    "volume": "69",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106439"
+  }
+}

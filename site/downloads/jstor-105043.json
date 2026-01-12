@@ -1,0 +1,69 @@
+{
+  "id": "5b188166f8ed789e61e650da8e479c981fa283fe",
+  "text": "XXX. Mr. John Bradley's Observation of the Occultation of Venus by the Moon; communicated by Mr. James Short, F.R.S.\n\nRead June 6. Mr. Gael Morris having favour'd me with the observation of the late occultation of Venus by the moon, taken at Greenwich with great exactness by Mr. John Bradley, I am induced to lay the same before the Royal Society, in order to shew its very near agreement with those phases, which Dr. Bevis observed at my house in Surry-street, allowing for the difference of meridians. I must take notice, that, besides the advantage of a six-foot reflector with a great magnifying power, which shew'd the planet's limb very well defined, he had also another, which the doctor had not, I mean\na very serene air, free from smoke, which enabled him to discern and keep sight of the moon during the whole occultation, so that he might observe the moment of the emersion with the same certainty, as that of the immersion: for Mr. Canton, with a reflector of 18 inches only, that day plainly saw the moon at his house in Spital-fields.\n\nThe Greenwich Observation.\n\nApparent time.\n\n1751 April 15, 22 41 45 The first contact; doubtful to 1 second.\n\n42 18 Quite immersed.\n\n23 15 36½ Began to emerge.\n\n16 8½ Wholly emerged.\n\n16, 1 39 12 Venus passed the meridian.\n\nJ. Short.\n\nXXXI. An Account of Mr. Benjamin Franklin's Treatise, lately published, intituled, Experiments and Observations on Electricity, made at Philadelphia in America; by Wm. Watson, F. R. S.\n\nRead June 6. Mr. Franklin's treatise, lately presented to the Royal Society, consists of four letters to his correspondent in England, and of another",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105043.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 505,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        712,
+        2
+      ],
+      [
+        712,
+        1621,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105043",
+    "title": "Mr. John Bradley's Observation of the Occultation of Venus by the Moon; Communicated by Mr. James Short, F. R. S.",
+    "authors": "James Short, John Bradley",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105043"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "8ac8023256e53a13a09b28cfa1eb7d7fe6aa6db9",
+  "text": "is affirmed in that Letter about the time and place of the Conception of that Transfusing design; and intimated to the Curious, that how long soever that Experiment may have been conceived in other parts (which is needless to contest) it is notorious, that it had its birth first of all in England; some Ingenious persons of the Royal Society having first started it there, several years ago, (as appears by their Journal) and that dextrous Anatomist, Dr. Lower, reduced it into practice, both by contriving a method for the Operation, and by successfully executing the same: wherein he was soon overtaken by several happy Trials of the skilful hand of D. Edmund King, and others, encouraged thereunto by the said Society; which being notified to the world Numb. 19. and 20. of these Transactions, Print-Novem. 19. and Decemb. 17.1666; the Experiment was, soon after that time, heard of to have been tried in foreign parts, without hearing anything then of its having been conceived ten years ago.\n\nAn account of some Experiments of injecting Liquors into the Veins of Animals, lately made in Italy by Signior Fracassati Professor of Anatomy at Pisa.\n\n1. Having infused into the Jugular and Cervical Vein of a Dog some Aqua fortis diluted, the Animal died presently; and being opened, all the blood in the Vessels was fixed, but that in the guts not so well. It was also observed, that the great vessels were burst, perhaps by an effort of Nature; even as in the greatest part of those that die of an Apoplexy, the vessels of the Lungs are found broken. Upon which Experiment the Author maketh these Reflections: First, That an Apoplexy being often caused by a like Coagulation of the blood (as hath been observed by the opening, made of sundry persons, who died of that distemper) it might be cured by atimely infusing some Dissolvent into the veins. Secondly, That it is likely, that that useful secret, by which Monsieur de Billy dissected Animals without any effusion of blood, consists in some such Infusion.\n\n2. There was afterwards infused into another Dog some Spirit of Vitriol, which had not so present an effect; for the Animal complained a great while, and foam'd like Epilepticks, and had its respiration very thick; and observing the beating of his breast, one might easily judge, the Dog suffered much: who dying at last, his blood was found fixed in the veins, and grumous, resembling soot.\n\n3. Then there was injected into a Dog some Oyl of Sulphur: But he died not of it, though this Infusion was several times tried upon him, And the\nthe wound being closed, and the Dog let go, he went into all the corners of the Room searching for meat, and having found some bones, he fell a gnawing of them with a strange avidity, as if this Liquor had caused in him a great appetite.\n\n4. Another Dog, into whose veins some Oyl of Tartar was injected, did not escape so well: For he complained much, and was altogether swoln, and then died. Being opened, the Spectators were surprised to find his blood not curdled, but on the contrary more thin and florid than ordinary; which seems to hint, that a too great fluidity of the blood, as well as its Coagulation, may cause death.\n\nAn Account of some Discoveries concerning the Brain, and the Tongue, made by Signior Malpighi, Professor of Physick in Sicily.\n\n1. He pretends to have discovered, that the Exterior and softer part of the Brain, doth not cover only the Corpus callosum, as hath been believed hitherto, but is also inserted into it in many places. He hath also observed, That the Corpus callosum is nothing but a Contexture of small Fibres, issuing from the Medulla Spinalis, and terminating in the said Exterior part of the Brain. And these Fibres, he saith, are so manifest in the Ventricles of Fishes brains, that when they are looked through they represent the figure of an Ivory Comb.\n\n2. The Use, which he ascribes to the Brain, is much different, he saith, from what hath been assigned to it hitherto. He pretends, that as half, or at least, a third of the blood of an Animal is conveyed into the Brain, where yet it cannot be consumed, the finest Serum of this blood is filtrated through the exterior part, and then entering into the Fibres of the brain, is thence conveyed into the Nerves: which he affirms to be the reason, that the Head is so often found full of water, when the Brain hath received a wound, or an alteration by some distemper.\n\n3. He hath taken a particular care of examining the Optique Nerve in divers Animals, it being one of the most admirable productions in the Brain. Having therefore among other Fishes dissected the head of a Xi-\nphias or Sword fish, who hath a very big eye, he hath not observed any considerable cavity in the Optique Nerve, nor any Nervous Fibres; but found, that the middle of this Nerve is nothing else, but a large Membrane folded according to its length in many doubles almost like a Fan, and invested by the Dura Mater. Eustachio a famous Anatomist, had written something of this before, but obscurely, and without mentioning the Animal, wherein he had made this observation.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101220.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 1294,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2553,
+        2
+      ],
+      [
+        2553,
+        5101,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101220",
+    "title": "An Account of Some Experiments of Injecting Liquors into the Veins of Animals, Lately Made in Italy by Signior Fracassati Professor of Anatomy at Pisa",
+    "authors": "Signior Fracassati",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101220"
+  }
+}

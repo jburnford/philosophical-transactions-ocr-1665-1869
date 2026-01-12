@@ -1,0 +1,59 @@
+{
+  "id": "fd60ea462dd0296091e97bc9fde2173e4d32c7f9",
+  "text": "INDEX.\n\nY\n\nYoung, Thomas, M. D. remarks on the probabilities of error in physical observations, and on the density of the earth, considered especially with regard to the reduction of experiments on the pendulum, - 70\nPostscript to his remarks on the reduction of experiments, &c. - 160*\n\nERRATA.\n\nP. l.\n32, 10, for 100 : 180,46, read, 100 : 80,46.\n35, 12, note, for ce dernier aussi, read, ce dernier ainsi.\n35, 13, note, for une dégêre, read, une légère.\n36, 18, for à $\\frac{1}{25}$, read, à $\\frac{1}{129}$ éme.\n39, 14, for rapport de 100:83, read, rapport de 100:83.\n41, 6, for ligneux amilacé 92, read, ligneux amilacé 9,2.\n42, 6, for 26 centim. cubes, read, 96 centim. cubes.\n45, 6, for 42 heures, read, 42 jours.\n196, 14, for 374, read 3.74.\n— 20, for 0,314, read 39.23.\n— 21, for be be, read be.\n199, 8, and 9, for so that, read and that.\n— 19, for 0.975, read 0.995.\n— 21, for 21.460, read 21,580.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107510.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 469,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        906,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107510",
+    "title": "Errata",
+    "authors": null,
+    "year": 1819,
+    "volume": "109",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107510"
+  }
+}

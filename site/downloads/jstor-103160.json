@@ -1,0 +1,79 @@
+{
+  "id": "e5b379d41e62edb25139035bc4553ca357483076",
+  "text": "Troy Weight.\n\n| Weight of the several Cubes in Air | Weight of the several Cubes in Water | In proportion to their like bulk of Water |\n|-----------------------------------|-------------------------------------|------------------------------------------|\n| O. DW. G.                         | O. DW. G.                           |                                          |\n| Gold 9—11—8                      | Silver 5—14—10                     |                                          |\n| Copper 4—16—8                    | Brafs 4—05—7                       |                                          |\n| Lead 6—02—12                     | Iron 4—04—17                       |                                          |\n\nVII. An Account of what appeared on the Dissection of the Body of Mr. Dove. By the late Mr. William Cowper, Surgeon, F. R. S. In a Letter communicated by Dr. Hans Sloane, R. S. Secr.\n\nHonoured Sir,\n\nHad any opportunity offer'd, you should have received the following Account of what appeared on the Dissection of Mr. Dove before now.\n\nThe Body in divers Parts appeared of a Black, Blue, Livid, and various Colours, before I made any Incision into it; particularly the Back (where the Blood was settled) had a Cadaverous Blackness; where the Cuticle was\nwas here and there vesicated, or distended with Serum. Of this there was no Appearance before Death.\n\nThe Muscles of the Abdomen had a Mortified Appearance, being a blackish green Colour. The Liver was entirely sphacelated. The Spleen had large mortified Spots on its Surface; Both these Parts were specifically lighter than in the Natural State; insomuch, that Portions of each of them swam on the Surface of Water, and seemed to have more Air in them than we commonly find in the Lungs in their Natural State. The rest of the Viscera in this lower Cavity were not in so ill a State; tho' the Guts had here and there blackish Spots on them.\n\nThe Pectoral Muscles were in little better State than those of the Abdomen; nor were the Intercostal Muscles like those of the Limbs. I am apt to think all the Muscles employed in Respiration, had more or less of this Blackish Appearance. The Right Lobes of the Lungs were diseased; and the same side of the Thorax had a small quantity of Serum in it. The Lungs on the other side were in no ill Condition. The Heart was very flaccid and large: The Right Ventricle and Vena Cava had no Small Polypus in them. The Vena Pulmonaris was exceedingly dilated next the Basis of the Heart. The Left Ventricle of the Heart was furnished with a Small Polypus, and a great quantity of Grumous Blood. The Great Artery was very thin, and appeared not a little extended, and had some Cartilaginous Bodies interspersed in its Membranes.\n\nIn the Head; the Dura Mater was found inseparable from the Cranium in its upper part. A Polypus was drawn out of the upper great Vein of the Brain, called Sinus Falci Superior.\n\nThe Carotide Arteries were very thin, and much larger than they ought to be, before they entered the Substance of the Brain. In short, all the Blood-Vessels which\nwhich I examined were very much dilated, and seemed to be charged with as much Wind as Blood.\n\nIf there is any thing I have omitted, or have been too tedious in, I hope you will be pleased to excuse me, being in some confinement for want of time; which I will endeavour to mend at leisure. I am\n\nYour obliged\n\nHumble Servant,\n\nW. COWPER.\n\nVIII. A Letter from Mr. Ralph Thoresby, F. R. S. to Dr. Hans Sloane, R. S. Secr. Giving an Account of the Damage done by a Storm of Hail, which happen'd near Rotherham in Yorkshire, on June 7. 1711.\n\nLeedes, Nov. 3. 1711.\n\nHonoured Sir,\n\nBeing not long ago at Wentworth-Woodhouse, and other Places near Rotherham, where very considerable Damage was done by a Storm, I enquired after the most remarkable Particulars; which having receiv'd from so sure Hands as the Parties immediately concern'd, will not, I presume, be unacceptable to you.\n\nThe Storm of Hail, accompanied with very terrible Thunder and Lightning, happened upon the 7th of June last: It begun about Rotherham, (a little beyond which was somewhat of a Hurricane,) where it burnt a noted Tree.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103160.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1124,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1279,
+        2
+      ],
+      [
+        1279,
+        3085,
+        3
+      ],
+      [
+        3085,
+        4181,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103160",
+    "title": "An Account of what Appeared on the Dissection of the Body of Mr. - Dove. By the Late Mr. William Cowper, Surgeon, F. R. S. In a Letter Communicated by Dr. Hans Sloane, R. S. Secr.",
+    "authors": "Hans Sloane, William Cowper",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103160"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "212162350c51b470f10948b5b67ecf1ab52de0b1",
+  "text": "BOOKS lately Published by C. Davis.\n\nI. THE Elements of the Art of Assaying Metals. In Two Parts. The first containing the Theory, the second the Practice, of the said Art. The Whole deduced from the true Properties and Nature of Fossils; confirmed by the most accurate and unquestionable Experiments, explain'd in the natural Order, and with the utmost Clearness. By John Andrew Cramer, M.D. Translated from the Latin, illustrated with Copper Plates. To which are added, Several Notes and Observations, not in the Original, particularly useful to the English Reader. With an Appendix, containing a List of the chief Authors that have been published in English, upon Minerals and Metals.\n\nIII. A Treatise on the Small-Pox. In Two Parts. Part I. Containing a Description both of the Distinct and Confluent Kind, with Directions for the Management of various Patients, as to Diet and Medicines, in each Period of the Distemper. Also an Account of the incidental Symptoms, as to their Causes, curative Indications, and proper Remedies, in reference to each of them. Likewise Instructions for managing Infants and Children: Together with a Method of external Remedies, for those who will not take internal Medicines. And some Considerations, shewing the Probability of curing the Small-Pox in the febrile State, so as to prevent the Eruption of Pustles, and the subsequent Period; with a Method likely to effect it. II. Containing Fifty Histories, in which this Distemper, and its various Symptoms, are exemplified. To which are added, Practical Aphorisms deduced from them. The Second Edition, corrected, with large Additions, and accommodated for Usefulness in Families. By Theophilus Lobb, M.D. Fellow of the Royal Society of London, and Member of the Royal College of Physicians in London.\n\nIV. The Theory of the Working of Ships, applied to Practice. Containing the Principles and Rules for Sailing with the greatest Advantage possible. By Mons. Pitot, of the Royal Academy of Sciences at Paris. Translated from the French by Edmund Stone, F.R.S.\n\nV. The Figure of the Earth, determined from Observations made by Order of the French King, at the Polar Circle: By Messrs De Maupertuis, Camus, Clairaut, Le Monnier, Members of the Royal Academy of Sciences; the Abbé Outhier, Correspondent of the Academy; and Mr. Celsius, Professor of Astronomy at Upsal. Translated from the French of M. de Maupertuis.\n\nVI. De Graecis illustribus Linguae Graecae Literarumque humaniorum Instauratoribus, eorum Vitis, Scriptis, & Elogiis, Libri duo. E Codde. potissimum MSS. aliisque authentici ejusdem Aevi Monimentis de- prompsit Humphredus Hodius, S.T.P. haud ita pridem Regius Professor & Archidiaconus Oxon. Præmittitur de Vita & Scriptis ipsius Humphredi Dissertatio, Auctore S. Jebb, M.D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104362.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 734,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2778,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104362",
+    "title": "Books Lately Published by C. Davis",
+    "authors": null,
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104362"
+  }
+}

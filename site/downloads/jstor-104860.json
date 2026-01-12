@@ -1,0 +1,69 @@
+{
+  "id": "9123891ab0a0bb4685834d7ae9de07d032398417",
+  "text": "to do any more; for the Dimensions of themselves are purely arbitrary. If you have a clear Idea of the Construction of the Machine by this general Description, it is all I have aimed at.\n\nXV. Extract of a Letter from the Marquis Nicolini F.R.S. to the President, concerning the same Mirror burning at 150 Feet Distance.\n\nSIR,\n\n* * *\n\nRead April 30. YOU know that the Affair of Archimedes setting the Roman Fleet on Fire by means of Burning Glasses, has been look'd upon as a Thing impossible and romantic. Descartes positively denied the Fact, which had been believed for so many Ages; and our modern Philosophers, after many Trials, and various Reasonings, have been of the same Opinion. But M. de Buffon, being asked if it might be possible to invent a Phaometer, or Machine for measuring the Intensity of Light, hath discovered by Trial, that Light was able to produce great Effects in a Focus at a great Distance, if one made use of a great Number of Disks, which would reflect so many Images of the Sun, and fling them all into one Place. He put together therefore a sort of Polyedron, consisting of 168 small Mirrors, or flat Pieces of Looking-glass, each 6 Inches square; by means of which, with the faint Rays of the Sun, in the Month of March, he set on Fire some Boards of\nof Beech Wood at 150 Feet Distance. By increasing the Numbers of Mirrors, he hopes to be able to do the same 900 Feet off.\n\nHis Machine has besides, the Conveniency of burning downwards or horizontally, as one pleases; and it burns either in its greater Focus, or in any nearer Interval, which our commonly known Burning Glasses have not, their Focus being fix'd and determined.\n\nPerhaps this Machine may afford a Manner of measuring either Light, or the different Degrees of Heat of burning Bodies. The Difficulty is to find the Method of marking the Degrees, and of fixing a Point of Comparison; for the Point of kindling will not determine it; because that chiefly depends upon the greater or less Degree of Inflammability of different combustible Bodies.\n\nMr. Maupertuis, in a Letter to the President, dated at Potsdam, May 20. 1747. says, that his Friend Buffon has recover'd the Burning-Glasses of Archimedes; that with 168 plane Glasses, each 6 Inches square, he has melted a silver Plate, at the Distance of 60 Feet, and fired pitch'd Boards at 150. Each Speculum is moveable, so as, by the Help of 3 Screws, to be set to a proper Inclination for directing the Rays towards any given Point.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104860.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 686,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1283,
+        2
+      ],
+      [
+        1283,
+        2481,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104860",
+    "title": "Extract of a Letter from the Marquis Nicolini F. R. S. to the President, concerning the Same Mirror Burning at 150 Feet Distance",
+    "authors": "Marquis Nicolini",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104860"
+  }
+}

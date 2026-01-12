@@ -1,0 +1,89 @@
+{
+  "id": "75d85000c4e6eb96bbc54403668057e4500c3799",
+  "text": "VI. Account of the Discovery of a new Comet. By Miss Caroline Herschel. In a Letter to Sir Joseph Banks, Bart. K. B. P. R. S.\n\nRead November 12, 1795.\n\nSIR,\n\nSlough, November 8, 1795.\n\nLast night, in sweeping over a part of the heavens with my 5-feet reflector, I met with a telescopic comet. To point out its situation I transcribe my Brother's observations upon it from his Journal.\n\nNovember 7, 1795.\n\n$0^h\\ 33'$ Sidereal time. Place of the comet $2^\\circ\\ 20'\\ np.\\ 37\\ (\\gamma)$ Cygni, in a line continued from $66\\ (v)$ through $\\gamma$ nearly. It is just visible to the naked eye.\n\n$0^h\\ 44'$. It is in a line between two small stars at a considerable distance from each other, to which are perpendicular the two extreme stars of three other stars, that form a small arch approaching to a straight line.\n\n$0^h\\ 49'$. The comet precedes the point in the line where the perpendicular of the arch crosses the line of the two stars one-fifth of the distance of the bisecting point from the preceding star.\n\n$1^h\\ 25'$. The comet is visibly moved from the place where it was $0^h\\ 49'$.\nThe direction of its motion seems to be towards the south preceding side, and it is about 5 or 6' removed from its former place.\n\n1\\textsuperscript{h} 51'. The diameter of the comet is about 5'. It has no kind of nucleus, and has the appearance of an ill-defined haziness, which is rather strongest about the middle.\n\n2\\textsuperscript{h} 16'. The comet is about 2° 38' np γ, in a line continued from 69 through 37 Cygni.\n\n3\\textsuperscript{h} 37'. The comet is about 2° 50' np γ, in a line continued from 65 through 37 Cygni, or, perhaps more accurate, in a line from 70 continued through 37 Cygni.\n\nIt will probably pass between the head of the Swan and the constellation of the Lyre, in its descent towards the sun.\n\nThe direction of its motion is retrograde.\n\nPlace of the comet deduced from the above.\n\n| Nov. 7. | RA | PD |\n|--------|----|----|\n| 0 33   | 20 3 48 | 49 17 18 |\n| 3 37   | 20 0 58 | 49 37 18 |\n\nAs the appearance of one of these objects is almost become a novelty, I flatter myself that this intelligence will not be uninteresting to astronomers.\n\nI have the honour to be, &c.\n\nCAROLINA HERSCHEL.\nAdditional Observations on the Comet. By William Herschel, LL.D. F. R. S.\n\nNovember 8, 1795.\n\n0ʰ 10′. The comet is about 42′ north of 22 Cygni, in a line continued from 21 (η) through 22 nearly; it is not quite come to the line.\n\nIt is exactly in a line with 22 and a north following star 1° 34′ from 22 towards 21.\n\n0ʰ 31′. Distance of the comet from 19 Cygni, 1° 10′. From 22 Cygni, about 42′. From 25 Cygni, 2° 10′. From 15 Cygni, exactly 3°.\n\n2ʰ 27′. The comet is 36′ from 22 Cygni; its motion has been very nearly in the line pointed out before. It will however not pass over 22, but go by it towards 19 Cygni, having left the line pointed out, a little on the following side.\n\nNovember 9, 1795.\n\n20ʰ 45′. The comet is about 17 or 18′ from 15 Cygni.\n\n21ʰ 59′. The comet is now centrally upon a small star north following 15 Cygni. It is a small telescopic star of about the 11th or 12th magnitude, and is double, very unequal, the smallest of the two being much smaller than the largest.\n\nWith a power of 287 I can see the smallest of the two stars perfectly well; this shews how little density there is in the comet, which is evidently nothing but what may be called a collection of vapours.\nAngle of the small north following star with respect to 15 Cygni, $71^\\circ 55'$ north following.\n\nPosition of the small star belonging to the double star, a few degrees south following.\n\nThe north following star must be of the 11th or 12th magnitude at least, for it is not visible in my achromatic finder, and its smaller companion therefore is an extremely small star indeed.\n\nThe double star is about $5$ or $6'$ from 15 Cygni.\n\nNovember 10, 1795.\n\n$21^h 55'$. The comet is about $1^\\circ 5'$ north of, and a little following, 8 Cygni, and exactly $1^\\circ 30'$ south following 4 Cygni.\n\n$2^h 16'$. The comet is about $40'$ from 8 Cygni, in the line between 8 and 4, but rather past the line.\n\nIt is about $1^\\circ 26'$ from 4 Cygni.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106999.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 1441,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1089,
+        2
+      ],
+      [
+        1089,
+        2207,
+        3
+      ],
+      [
+        2207,
+        3405,
+        4
+      ],
+      [
+        3405,
+        4142,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106999",
+    "title": "Account of the Discovery of a New Comet. By Miss Caroline Herschel. In a Letter to Sir Joseph Banks, Bart. K. B. P. R. S.",
+    "authors": "William Herschel, Caroline Herschel",
+    "year": 1796,
+    "volume": "86",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106999"
+  }
+}

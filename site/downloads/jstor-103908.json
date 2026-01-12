@@ -1,0 +1,79 @@
+{
+  "id": "bc46191b827c8c09dcea79d8729b41609d3b1a79",
+  "text": "V. A Letter from the Revd Mr. Littleton Brown, F.R.S. to C. Mortimer, M.D. R.S. Secr. concerning the same sort of Insect found in Kent, some of which he presented to the Royal Society, to be kept in their Museum. With an Addition by the Publisher.\n\nSIR,\n\nI have sent a Creature to you, whose Name I cannot learn from any Books or Persons I have yet met with. I brought it from a Pond upon Bexby Common last Saturday, where great Numbers have been observed for these five Weeks past: The Pond was quite dry the 24th of June, but upon its being filled with the great Thunder-Shower upon the 25th, within two Days the Pond was observed to swarm with them, by a Farmer watering his Cows there: And, what I thought observable, there is no Duct or Channel that could convey them from any adjacent Place. I beg the Favour of its Name, or where I may see its Description. I am Your very obliged Friend,\n\nAugust 9.\n1736.\n\nand humble Servant,\nLittleton Brown.\n\nFIG. II. E.\n\nThe Legs of this Insect are very extraordinary; I counted 42 on a Side in one of those found in Kent; the 20 next the Head are nearly of a Size, but then they grow gradually smaller and smaller towards the Tail. I took out one of the larger ones of the Left Side of the Chest; the Foot consists of five flat membranous Claws, with a stiff Rib along their Middle, and beset with Hairs on the Edges, like those of Crabs; on the lower Side of the Leg hangs an oval Bag, and beyond that grows a large thin Membrane, which can be extended by a bony Rib that runs across it; this Membrane and the whole Foot, is convex on the Side next the Head, and concave on that next the Tail; the Thigh or first Joint of the Leg, is webbed on each Side; so that the whole Structure of the Legs seems to shew that they are rather design'd for swimming with, than walking. The Leg represented at E, was drawn, when the Insect lay on its Back, as at B. Many Parts of this Insect, tho' no bigger than the Figures, have some Resemblance to those of the Molucca Crab.\n\nC. M.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103908.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 7008,
+    "total-output-tokens": 632,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        2014,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103908",
+    "title": "A Letter from the Revd Mr. Littleton Brown, F. R. S. to C. Mortimer, M. D. R. S. Secr. concerning the Same Sort of Insect Found in Kent, Some of Which He Presented to the Royal Society, to Be Kept in Their Museum. With an Addition by the Publisher",
+    "authors": "Littleton Brown",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103908"
+  }
+}

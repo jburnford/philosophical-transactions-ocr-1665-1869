@@ -1,0 +1,79 @@
+{
+  "id": "80f2ef7f280cb21fb1ae84d16bc4a12a9b7edc5e",
+  "text": "contrary, in Rivers, at any considerable distance from the Sea, the resistance of the weight of the fresh Water, which is kept suspended during the time of the Flood, is longer overcome by the more potent Impetus in the New and Full, than by the weaker in the Quadratures: and from hence this difference should be still more and more considerable as the Port is farther removed from the Sea.\n\nADemonstration of the Velocity wherewith the Air rushes into an Exhausted Receiver, lately produced before the R. Society by Dr. D. Papin. Reg. Soc. S.\n\nThere being several Occasions wherein it would be useful to know the Velocity of the Air, according to the several pressures that may drive it; The Royal Academy at Paris hath attempted by some Trials to attain that Knowledge, and by means of a Bladder, which they did sometimes fill up with Water, and sometimes with Air; they found that (although the Weight to squeeze out these Liquors, and the hole to let them out were the same) nevertheless, the Bladder, when full of Air, could be empty'd in the 25th part of the time that was required to squeeze out the Water of the same Bladder: from thence they concluded that the swiftness of the Air is 25 times greater than that of water, when both these liquors bare the same pressure. This Experiment was very well thought on, and might serve till a better should be found out; but those Gentlemen could not but know, that this was not perfect: The Reason is that the Air yieldeth much, and so the Bladder being fill'd with it, will become pretty flatt, as soon as a considerable weight is layd upon it. It is plain therefore that the weight bearing upon a large space doth not press euery part with the same force as it would do, if the Bladder did for a while remain Plump, as it doth when full of water: moreover, the water itself being heavy in the Bladder, makes some pressure: so\nthat it appears, that the pressure in this experiment was not quite so great upon the Air as upon the water: I have therefore thought of another way, which I think better, to come to the said Knowledge; and I do humbly submit it to the R. Society.\n\nMy way is grounded upon this Hydrostactical Principle, that liquors have a strength to ascend as high as their source is; and although the resistance of the Medium doth always hinder Jefts d'eau in the open Air from reaching quite so high, nevertheless, the liquor at its first spouting out, hath the necessary swiftness to come to that height.\n\n**Proposition I.**\n\nFrom this Principle may easily be deduced this Proposition, that of two different liquor's driven by the same pressure, that which is in specie lighter must ascend higher than that which is heavier, and their heights will be reciprocally in the same reason as their specific gravity's are. Thus, Quicksilver being 13 times and a half heavier than water, bears as much pressure when its spring is one foot above the spout hole, as water doth when it's spring is 13 foot and a half high, and the height to which Mercury shall ascend will be 13 times and a half lesser than the height to which water will be driven by those equal pressures.\n\n**Proposition II.**\n\nFrom the foregoing Proposition another may easily be deduced, viz. That of differing liquors bearing the same pressure those that are lighter in specie must acquire a greater swiftness, and their differing Velocity's are to one another as the roots of the specific Gravity's of the said liquor's.\n\nFor we have seen Prop. 1. that the height's to be attain'd are in the same reason as the specific gravity's; Now Galileus, Hugenius, and others have demonstrated that the Velocities\ncity's of bodies are to one another as the square roots of the heights to which they may ascend: and so in this occasion they are also as the roots of the specific Gravity's.\n\nIf therefore we would know what is the Velocity of Air being driven by any degree of pressure whatsoever, we ought but to find what would be the velocity of water under the same pressure: and then take the square roots of the specific gravities of these two liquor's; because as much as the square root of the specific Gravity of Water, doth exceed the square Root of the specific Gravity of Air; so much in Proportion will the velocity of Air exceed the velocity of water. For example, when I would compute what should be the swiftness of a bullet shot by the Pneumatick Engine, as hath been described in Philosophical Transaction, Num. 179. I should first compute what was the velocity of the Air itself that drove the Bullet: I did therefore take notice that in this occasion the Air bares a pressure much about the same as that of water when it's spring is 32 foot high: now such water would spout out with a sufficient velocity to ascend 32 foot perpendicular, and therefore, according to the rules and observation of Galileus, Halley and others, such water hath the velocity of 45 foot in a second. It remains therefore but to know the proportion of the gravity of Air to that of Water: and we have found it not to be always the same; because the height, the heat, and the moisture of the Atmosphere are variable: nevertheless we may say in general that the reason between the specific gravities of water and Air is much about 840 to 1. Taking then their square roots, as I have said above, which roots are 29 and 1, we may conclude that the velocity of Air must exceed that of water by 29 times: and so multiplying 45, the velocity of water, by 29, we shall find that the velocity of the Air driven by the whole pressure of the Atmosphere, is about 1305 foot in a second.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101864.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1382,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1881,
+        2
+      ],
+      [
+        1881,
+        3636,
+        3
+      ],
+      [
+        3636,
+        5590,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101864",
+    "title": "A Demonstration of the Velocity Wherewith the Air Rushes into an Exhausted Receiver, Lately Produced before the R. Society By Dr. D. Papin. Reg. Soc. S.",
+    "authors": "D. Papin",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101864"
+  }
+}

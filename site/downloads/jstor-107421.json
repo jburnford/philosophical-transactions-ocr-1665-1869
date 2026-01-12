@@ -1,0 +1,269 @@
+{
+  "id": "a628a16180d97173699b815e5487133d71795446",
+  "text": "II. Methods of clearing Equations of quadratic, cubic, quadrato-\ncubic, and higher Surds. By William Allman, M.D. Com-\nmunicated by the Right Hon. Sir Joseph Banks, K.B.P.R.S.\n\nRead July 8, 1813.\n\nSeveral years have elapsed, since my very highly esteemed\nfriend, now Rev. Doctor Mooney, Fellow of Trinity College,\nDublin, presented to the Royal Irish Academy a paper on\nthe Extermination of Radicals from Equations. He has illus-\ntrated, by sundry examples, the extermination of quadratic\nsurds. As he has rightly observed, the method is universal.\nAny number of quadratic surds, independent, or dependent, on\neach other, may be removed from an equation; because, 1.\nAny quantity, or factor of a quantity, necessarily subjected to\nthe radical sign, is but of one dimension. 2. This quantity or\nfactor being brought to one side of the equation, while the\nquantities unaffected with it remain at the other, may, by\nsquaring both sides, be freed from the radical sign. 3. By a\nrepetition of these reductions for each remaining independent\nsurd quantity, any number of surd quantities may be converted\ninto rational.\n\nExamples.\n\nI. Let \\( \\sqrt{a} + \\sqrt{b} + \\sqrt{c} = 0 \\): then\n\n(2;) \\( \\sqrt{a} + \\sqrt{b} = -\\sqrt{c} \\); and, \\( a + b + 2\\sqrt{ab} = c \\)\n\n(3;) \\( a + b - c = -2\\sqrt{ab} \\); \\( a + b - c^2 = 4ab \\); free from\nsurds.\nII. Let \\( \\sqrt{a} + \\sqrt{b} + \\sqrt{c} + \\sqrt{d} = 0 \\); then\n\n(2;) \\( a + b + c + 2\\sqrt{ab} + 2\\sqrt{ac} + 2\\sqrt{bc} = d \\)\n\n(3;) \\( a + b + c - d + 2\\sqrt{ab} = -2\\sqrt{ac} - 2\\sqrt{bc} \\); squared gives,\n\n\\[ a + b + c - d^2 + 4ab + 4(a + b + c - d)\\sqrt{ab} = 4c. \\]\n\n(4;) \\( a + b - c - d^2 + 4ab - 4cd = 4c + d - a - b.\\sqrt{ab}; \\)\n\nsquared, results free from surds.\n\nNote, universally: the last two surd factors vanish together.\n\nSurds, whose indices are integral powers of 2, may be treated as quadratic surds; and the number of them, which may be exterminated from any equation, is equally unlimited.\n\nLet \\( ^* \\sqrt{a} + ^* \\sqrt{b} + ^* \\sqrt{c} = 0 \\): then, (2;) \\( \\sqrt{a} + \\sqrt{b} + 2\\sqrt{ab} = \\sqrt{c} \\)\n\n(3;) \\( \\sqrt{a} + \\sqrt{b} - \\sqrt{c} = -2\\sqrt{ab} \\); and, \\( a + b + c + 2\\sqrt{ab} - 2\\sqrt{ac} - 2\\sqrt{bc} = 4\\sqrt{ab}. \\)\n\nThe surds, now all quadratic, may be thus exterminated:\n\n(4;) \\( a + b + c - 2\\sqrt{ab} = 2\\sqrt{ac} + 2\\sqrt{bc}; \\)\n\n\\[ a + b + c^2 + 4ab - 4(a + b + c)\\sqrt{ab} = 4ac + 4bc + 8c\\sqrt{ab}. \\]\n\n(5;) \\( a + b - c + 4ab = 4(a + b + 3c)\\sqrt{ab}: \\) put \\( a + b - c = 2n; \\) then \\( n^2 + ab = 2n + 4c\\sqrt{ab}; \\) and \\( n^2 + 2abn^2 + a^2b^2 = 4n^2 + 16cn + 16c^2.ab \\)\n\n\\[ i.e. \\frac{a + b - c^2 - 4ab}{16} = 8abc.2n + 2c = 8abc.a + b + c \\]\n\n\\[ \\therefore a^2 + b^2 + c^2 - 2ab - 2ac - 2bc = 128abc.a + b + c. \\]\n\nLet \\( ^* \\sqrt{a} + ^* \\sqrt{b} + ^* \\sqrt{c} = 0 \\): then, by the last example,\n\n(5;) \\( a + b + c - 2\\sqrt{ab} - 2\\sqrt{ac} - 2\\sqrt{bc} = 128 \\)\n\n\\[ a\\sqrt{bc} + b\\sqrt{ac} + c\\sqrt{ab}. \\]\n\nPut \\( a + b + c = 2n: \\) then \\( n - \\sqrt{ab} - \\sqrt{ac} - \\sqrt{bc}, \\) or,\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[\n\\begin{align*}\nn^2 + ab - zn & \\quad \\sqrt{bc} - zn \\\\\n+ ac + za & \\quad \\sqrt{ac} + zc : \\sqrt{ab} = 32 \\cdot a \\sqrt{bc} + b \\sqrt{ac} + c \\sqrt{ab} \\\\\n+ bc & \n\\end{align*}\n\\]\n\n(6;) \\( n^2 + ab - zn : \\sqrt{ab} = 2n + 3ob : \\sqrt{ac} + 3oa : \\sqrt{bc} \\)\n\n\\[\n\\begin{align*}\nn^2 + ab + ac + tc^2 + 4ab.n + 15c^2 - 4.n + 15c.n^2 + ab + ac + bc \\\\\n\\cdot \\sqrt{ab} = 4ac.n + 15b^2 + 4bc.n + 15a^2 + 8c.n + 15b.n + 15a.\\sqrt{ab}\n\\end{align*}\n\\]\n\n(7;) \\( n^2 + ab + ac + bc - 4ac.n + 15b^2 = 4 + 2c.n^2 + 15a + 15b + 225ab.\\sqrt{ab} \\)\n\n\\[\n\\begin{align*}\ni.e. n^4 + 6ab + a^2b^2 + a^2c^2 + b^2c^2 - 898a^2bc = 4.n^3 + 17cn^2 + 31ac.n + 15ac^2 + 465abc \\\\\n- 2bc. - 898ab^2c + 31be. + 15be^2 + 902abc^2\n\\end{align*}\n\\]\n\nwhich being squared, an equation will result of 8 dimensions, free from surds.\n\nIn like manner may surds of the 16th, 32d, 64th, &c. powers be taken away from any equation.\n\nThe number which may be taken away is unlimited, as the removal of each surd quantity or factor, in all these cases, depends on the principles which direct the solution of simple equations.\n\nIn the case of cubic surds, the quantity or factor necessarily subjected to the radical sign may be of one, or of two dimensions, but not higher: since then, an universal method is known for solving quadratic equations, any number of cubic surds, independent, or dependent, on each other, may be removed from an equation.\n\nLet \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} = 0 \\): then (2;) \\( a + b + 3 \\sqrt[3]{a^2b} + 3 \\sqrt[3]{ab^2} = -c \\): therefore, (3;) \\( \\sqrt[3]{a^2b} + \\sqrt[3]{ab^2} = \\frac{-a-b-c}{3} \\),\n\nMDCCCXIV.\nwhich put \\( = -m \\): multiply by \\( b \\): then, \\( \\sqrt[3]{a^2b^4} + b^3\\sqrt{ab^2} = -bm \\): this quadratic equation gives, \\( \\sqrt{ab^2} = -\\frac{1}{2}b \\pm \\frac{1}{2}\\sqrt{b^2 - 4bm} \\): \\( ab^2 = \\frac{-b^2 + 3b^2m}{2} \\pm \\frac{b^2 - bm}{2}\\sqrt{b^2 - 4bm}; 2ab + b^2 - 3bm = \\pm b - m\\sqrt{b^2 - 4bm} \\): which squared gives, \\( 4a^2b^2 + 4ab^3 - 12ab^2m + b^4 - 6b^2m + 9b^2m^2 = b^4 - 6b^2m + 9b^2m^2 - 4bm^3 \\): \\( a^2b + ab^2 - 3abm + m^3 = 0; i.e. m^3 - abc = 0; \\)\n\n\\[ \\therefore a + b + c^3 = 27abc. \\]\n\nBut an equation consisting of 3 cubic surds only, may be cleared of them without the solution of a quadratic equation, thus:\n\nLet \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} = 0 \\): then, (2;) \\( a + b + 3\\sqrt[3]{a^2b} + 3\\sqrt[3]{ab^2} = -c, i.e. since \\sqrt[3]{a} + \\sqrt[3]{b} = -\\sqrt[3]{c}, a + b - 3\\sqrt[3]{abc} = -c \\): therefore, (3;) \\( a + b + c = 3\\sqrt[3]{abc} \\); and,\n\n\\[ a + b + c^3 = 27abc. \\]\n\nAnd, universally, an equation consisting of 3 surds only, whose common index is any odd number, may be cleared of them, if we admit the solution of an equation, whose highest dimension is half the index of the surd minus unity.\n\nBecause in any integral power of a binomial, as the co-efficients of terms at equal distances from the extremes are equal, those terms may coalesce, the compound factor being equivalent to a simple one, as may be more fully seen below.\n\nTo return to cubic surds: if \\( s + t^3\\sqrt{d^2e} + v^3\\sqrt{de^2} = 0 \\), then, by the last example, (3;) \\( s^3 + t^3d^2e + v^3de^2 = 3stvde \\).\n\nLet \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{d} + \\sqrt[3]{e} = 0 \\): then, (3;) \\( a + b + \\sqrt[3]{d} + \\sqrt[3]{e} = 3\\sqrt[3]{ab}. \\sqrt[3]{d} + \\sqrt[3]{e} \\);\n\nand, \\( a + b + d + e + 3\\sqrt[3]{d^2e} + 3\\sqrt[3]{de^2} = 27ab \\).\n\n\\[ d + e + 3\\sqrt[3]{d^2e} + 3\\sqrt[3]{de^2}: \\text{put } a + b + d + e = 3r; \\text{then,} \\]\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[ r^3 + \\sqrt[3]{d^2e} + \\sqrt[3]{de^2} = ab \\cdot d + e + 3 \\sqrt[3]{d^2e} + 3\\sqrt[3]{de^2}, \\]\n\ni.e. \\( +6der + 3r^2 + 3er \\cdot \\sqrt[3]{d^2e} + 3dr \\cdot \\sqrt[3]{de^2} = ab \\cdot d + e + 3ab^3 \\sqrt[3]{d^2e} + 3ab^3 \\sqrt[3]{de^2}; \\)\n\nput \\( de - ab = x, \\) and \\( d + e = y; \\) \\( \\therefore (4:) + 6der + 3er \\cdot \\sqrt[3]{d^2e} + 3dr \\cdot \\sqrt[3]{de^2} = 0. \\)\n\nSubstitute now, for \\( s, r^3 + 6der + xy; \\) for \\( t, 3r^2 + 3er + 3x; \\) for \\( v, 3r^2 + 3dr + 3x; \\) and the equation, \\( s^3 + t^3d^2e + v^3de^2 - 3stude = 0, \\) will become,\n\n\\[ r^9 - 9der^7 + 3xyr^6 + 81d^2e^2y - 54dex + 63dexy - 27dex^2 + 27dex^2yr^4 + 27d^2e^2y^2 + 3x^2y^2. \\]\n\n\\[ - 9dex^2y^2r + x^3y^3 = 0, \\]\n\nwhich is an equation of 9 dimensions, i.e. of 27 times the height of the given one \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} + \\sqrt[3]{e} = 0. \\)\n\nIf another independent cubic surd were added, the equation resulting free from surds would be of 27 dimensions, or of 81 times the height of the given equation.\n\nUniversally, if an equation consist of any number of independent surds having a common index, the equation resulting free from surds will be so many times the height of the given one, as there are units in the common index of the surds raised to the power whose index is the number of independent surds diminished by unity.\n\nAs the solution of a cubic equation is required for the extermination of some of the higher surds, it may be worth while to shew the connection of the rule, called Cardan's, with the extermination above given of cubic surds.\n\nIf \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} = 0, \\) then \\( a + b + c = 3\\sqrt[3]{abc}, \\) as before; or, by substituting \\( x, y, z, \\) for \\( \\sqrt[3]{a}, \\sqrt[3]{b}, \\sqrt[3]{c}, \\) respectively, if \\( x + y + z = 0, \\) then \\( x^3 + y^3 + z^3 = 3xyz. \\) Suppose\nany one of these quantities, as \\( x \\), the unknown quantity of a cubic equation: arranged it may stand thus, \\( x^3 - 3yzx + y^3 + z^3 = 0 \\), an equation wanting the second term. Therefore, conversely, \\( x = -y - z \\): or else, by dividing the cubic equation by the simple one \\( x + y + z = 0 \\), and solving the quote, the quadratic equation, \\( x^2 - yz = 0 \\), \\( x = \\frac{y+z}{2} \\pm \\frac{y-z}{2} \\sqrt{-3} \\).\n\nThen, in any cubic equation wanting the second term, v.g. \\( x^3 + qx + r = 0 \\), suppose, \\(-3yz = q\\); and, \\( y^3 + z^3 = r \\): then, \\( z = -\\frac{q}{3y} \\); \\( z^3 = -\\frac{q^3}{27y^3} \\); and \\( y^3 - \\frac{q^3}{27y^3} = r \\): therefore, \\( y^6 = ry^3 + \\frac{q^3}{27} \\): \\( y^3 = \\frac{1}{2} r \\pm \\sqrt{\\frac{1}{4} r^2 + \\frac{1}{27} q^3} \\): and, by subtracting this from, \\( y^3 + z^3 = r \\), \\( z^3 = \\frac{1}{2} r \\mp \\sqrt{\\frac{1}{4} r^2 + \\frac{1}{27} q^3} \\): therefore, \\(-y - z\\), or \\( x = \\frac{3}{2} \\sqrt{-\\frac{1}{2} r + \\sqrt{\\frac{1}{4} r^2 + \\frac{1}{27} q^3}} + \\frac{3}{2} \\sqrt{-\\frac{1}{2} r - \\sqrt{\\frac{1}{4} r^2 + \\frac{1}{27} q^3}} \\).\n\nIf the cubic equation have but one possible root, \\( \\frac{y+z}{2} \\pm \\frac{y-z}{2} \\sqrt{-3} \\) will represent the two impossible roots. If the cubic equation have all its roots possible, the last named expression, as well as \\(-y - z\\), implies the extraction of the cube root of an impossible binomial; except, however, in this single case, when two of the roots of the cubic equation are equal to each other: then, the solution by the above rule is possible, though all the roots be possible; for then, \\( y = z \\); and the expressions \\( \\frac{y-z}{2} \\), and \\( \\frac{1}{4} r^2 + \\frac{1}{27} q^3 \\), both vanish: then \\( x^3 - 3yx + 2y^3 = 0 \\), and the values of \\( x \\), are \\(-2y, y, \\) and \\( y \\).\n\nSince any number, either of quadratic, or of cubic surds,\nmay be exterminated, any number of surds, whose indices are in any manner compounded of the factors 2 and 3, may also be exterminated from any equation.\n\nIt may at present suffice to instance, in surds of the 6th, and in surds of the 9th power.\n\nLet \\( \\sqrt[6]{a} + \\sqrt[6]{b} + \\sqrt[6]{c} = 0 \\): then, as in cubic surds (3;)\n\n\\[\n\\sqrt{a} + \\sqrt{b} + \\sqrt{c} = 3 \\sqrt[3]{abc}; \\quad \\text{and} \\quad \\frac{a}{+3a} + \\frac{b}{+3b} + \\frac{c}{+3c}.\n\\]\n\n\\[\n\\sqrt{c} + 6 \\sqrt[3]{abc} = 27 \\sqrt[3]{abc}. \\quad \\text{Put} \\quad 3a + 3b + 3c = n: \\quad \\text{then},\n\\]\n\n(4;) \\(-n\\) \\(\\sqrt{a} + \\sqrt{b} = 21 \\sqrt[3]{abc} - \\frac{n}{+2c} \\sqrt{c}; \\quad \\text{and, by squaring}\\)\n\n\\[\nn^2 - 4an + 4a^2 \\cdot a + n^2 - 4bn + 4b^2 \\cdot b + 2n^2 - 4c^2 \\cdot c + 8ab \\sqrt{ab}\n\\]\n\n\\[\n= 441abc + n^2 - 4cn + 4c^2 \\cdot c + 84c^2 - 42cn \\sqrt{ab}.\n\\]\n\n(5;) \\(-a\\) \\(-4a^2\\) \\(-4a^3\\) \\(-4b^2\\) \\(-4b^3\\) \\(-4c^2\\) \\(-4c^3\\) \\(-441abc\\)\n\n\\[\n\\begin{align*}\n&+b. n^2 - 4b^2 \\cdot n + 4b^3 \\\\\n&-c. +4c^2 - 4c^3 = -2n^2 + 4b \\cdot n - 8ab + 84c^2 \\cdot \\sqrt{ab}: \\quad \\text{by restitution,}\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n&\\frac{a^2 + 15a^2b + 15ab^2 + b^3}{-3a^2c - 423abc - 3b^2c} = \\frac{-6a^2 - 20ab - 6b^2}{-150ac - 150bc - 60c^2} \\cdot \\sqrt{ab}. \\quad \\text{Put} \\\\\n&a + b - c = r.\n\\end{align*}\n\\]\n\nThen \\(r^3 + 12abr - 405abc = -6r^2 - 162cr - 216c^2 \\cdot \\sqrt{ab}.\\)\n\nSquare and transpose, \\(r^6 * - 12abr^4 - 2754abcr^3 + 48a^2b^2.\\)\n\n\\(r^2 - 12312a^2b^2c.\\) \\(r + 160569a^2b^2c^2 = 0,\\) results, an equation of 6 dimensions, free from surds.\n\nLet \\( \\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} = 0;\\) then, as in cubic surds (3;)\n\n\\[\n\\begin{align*}\n&\\sqrt[3]{a} + \\sqrt[3]{b} + \\sqrt[3]{c} = 3 \\sqrt[3]{abc}; \\quad \\text{and} \\quad \\frac{a}{+3a} + \\frac{b}{+3b} + \\frac{c}{+3c} \\\\\n&\\sqrt[3]{a^2c} + 6 \\sqrt[3]{abc} + 3 \\sqrt[3]{b^2c} + 3 \\sqrt[3]{ac^2} + 3 \\sqrt[3]{bc^2} = 27 \\sqrt[3]{abc}.\n\\end{align*}\n\\]\nPut \\(a + b + c = 3n\\): then\n\n\\[\n(4;) \\quad \\frac{3}{b} + \\frac{3}{c} \\cdot \\frac{3}{a^2} + \\frac{3}{b^2} - 7 \\cdot \\frac{3}{bc} + \\frac{3}{c^2} \\cdot \\frac{3}{a} = -\n\\]\n\n\\[\n\\frac{3}{b^2c} - \\frac{3}{bc^2} - n: \\text{ multiply by } \\frac{3}{b} + \\frac{3}{c}: \\text{ then } \\frac{3}{b} + \\frac{3}{c^2}.\n\\]\n\n\\[\n\\frac{3}{a^2} - \\frac{7}{3} \\cdot \\frac{3}{bc}. \\frac{3}{b} + \\frac{3}{c}. \\frac{3}{a} = - \\frac{3}{bc}. \\frac{3}{b} + \\frac{3}{c^2} - n.\n\\]\n\n\\[\n\\frac{3}{b} + \\frac{3}{c}: \\text{ this quadratic equation, when solved, gives }\n\\]\n\n\\[\n\\frac{3}{b} + \\frac{3}{c}. \\frac{3}{a} = \\frac{-\\frac{3}{b^2} + \\frac{7}{3} \\cdot \\frac{3}{bc} - \\frac{3}{c^2}}{2} \\pm\n\\]\n\n\\[\n\\sqrt{\\frac{b-18c-4n}{2}} \\cdot \\frac{3}{b} + \\frac{43}{3} \\cdot \\frac{3}{b^2c^2} + c - 18b - 4n \\cdot \\frac{3}{c}.\n\\]\n\nThis equation, when cubed, will exhibit the quantity or factor \\(a\\), free from the cubic radical sign; thus, \\(a \\cdot \\frac{3}{b} + \\frac{3}{c}\\); or,\n\n\\[\n\\frac{ab}{ac} + 3a^3 \\cdot \\frac{3}{b^2c} + 3a^3 \\cdot \\frac{3}{bc^2} = \\frac{1}{2}.\n\\]\n\n\\[\n+ \\frac{349bc + 24b}{-c^2} - \\frac{165b}{-165c}. \\frac{3}{b^2c} + \\frac{24c}{-18n}.\n\\]\n\n\\[\n+ \\frac{3bn}{-18n}.\n\\]\n\n\\[\n\\pm \\frac{1}{2} \\cdot \\frac{b}{-15c}. \\frac{3}{b} + \\frac{49}{3} \\cdot \\frac{3}{b^2c^2} + c - \\frac{18c}{-n}.\n\\]\n\n\\[\n\\frac{3}{c} \\cdot \\frac{3}{b} + \\frac{43}{3} \\cdot \\frac{3}{b^2c^2} + c - \\frac{18c}{-n}.\n\\]\n\nRestore for \\(n\\), \\(\\frac{a+b+c}{3}\\), transpose, and double: then\n\n\\[\n\\frac{ab}{ac} + \\frac{12a}{18b}. \\frac{3}{b^2c} + \\frac{12a}{171b}. \\frac{3}{bc^2} = \\pm + \\frac{2}{3} \\cdot \\frac{b}{3} \\cdot \\frac{3}{b} + \\frac{49}{3} \\cdot \\frac{3}{b^2c^2} - \\frac{46}{3} \\cdot \\frac{3}{c}\n\\]\n\n\\[\n+ \\frac{46}{3} \\cdot \\frac{c}{3}.\n\\]\n\n\\[\n\\frac{3}{b} + \\frac{43}{3} \\cdot \\frac{3}{b^2c^2} - \\frac{58}{3} \\cdot \\frac{3}{c}.\n\\]\n\nThis equation squared, transposed, and divided, by \\(\\frac{4}{27}\\), becomes\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[\n\\begin{align*}\nb. & \\quad a^3 + 3b^2 + 3b^3 + b^4 \\\\\n+ c. & \\quad a^3 + 1518bc. a^2 + 3168b^2c. a + 924b^2c^2 + 3 \\cdot a^3 + 87b. a^2 + 339c. a^2 - 153b^2. \\\\\n& \\quad + 3c^2. + 3168bc^2. + 220bc^3 + 339c. + 1089c^2. \\\\\n& \\quad + 3c^3. + c^4 \\\\\n+ & \\quad 4b^3 \\\\\na & \\quad + 165b^2c. \\sqrt[3]{b^3c} + 3 \\cdot a^3 + 339b. a^2 - 3357bc. a + 264b^2c. + 165bc^2. \\sqrt[3]{bc^2} = 0. \\\\\n& \\quad + 264bc^2. + 220c^3 + 4c^3\n\\end{align*}\n\\]\n\nCompare this with the equation, \\( s + t \\sqrt[3]{d^2e} + v \\sqrt[3]{de} = 0 \\): the resulting equation, \\( s^3 + t^3d^2e + v^3de = 3stvde \\), being accordingly computed, will be free from surds. It will be of 12 dimensions; but may be depressed to one of 9. Instead of continuing the operation to shew this, I refer to the extermination of surds of the 5th, and of the 7th power, to be given below, for the manner in which some equations, resulting on involution, are depressed.\n\nIn surds of the 5th power, the quantity or factor, necessarily subjected to the radical sign, may be of 4 dimensions, but not higher: whence, if the solution of any biquadratic equation be admitted, any number of surds of the 5th power may be taken away from an equation; and here it may be observed, that, as to the matter in hand, it is of no importance, whether the biquadratic equation may be solved in possible terms, or not; for the value, in numbers, of any particular quantity, or factor, is not required; it is only required to obtain the quantity, or factor, of a single dimension, in order to deprive it, by involution, of its radical sign.\n\nWhen an equation consists of 3 surds of the 5th power, the biquadratic equation is virtually a quadratic.\n\nLet \\( \\sqrt[5]{a} + \\sqrt[5]{b} + \\sqrt[5]{c} = 0 \\) \\( \\cdots (2;) \\) \\( a + b + 5 \\sqrt[5]{a^4b} + 10 \\sqrt[5]{a^3b^2} + 10 \\sqrt[5]{a^2b^3} + 5 \\sqrt[5]{ab^4} = -c \\); put \\( a + b + c = 5m. \\)\n\n\\( \\cdots (3;) \\) \\( \\sqrt[5]{a^4b} + 2 \\sqrt[5]{a^3b^2} + 2 \\sqrt[5]{a^2b^3} + \\sqrt[5]{ab^4} = -m \\): this,\nmultiplied by $b^3$, gives $\\sqrt[5]{a^4b^6} + 2b \\sqrt[5]{a^3b^n} + 2b^2 \\sqrt[5]{a^2b^8} + b^3 \\sqrt[5]{ab^4} = -b^3m$, a biquadratic equation of the quadratic form, thus, $\\sqrt[5]{a^2b^8} + b^3 \\sqrt[5]{ab^4} + b^3 \\cdot \\frac{\\sqrt[5]{a^2b^8} + b^3 \\sqrt[5]{ab^4}}{b^3} = -b^3m$, which solved, gives $\\sqrt[5]{a^2b^8} + b^3 \\sqrt[5]{ab^4} = -\\frac{b^2}{2} \\pm \\frac{\\sqrt[5]{b^4 - 4b^3m}}{2}$, another quadratic: then $\\sqrt[5]{ab^4} = -\\frac{b}{2} \\pm \\frac{\\sqrt[5]{-b^2 \\pm 2\\sqrt[5]{b^4 - 4b^3m}}}{2}$; involve to the 5th power, and the equation will be cleared of the radical sign of the surd of the 5th power: thus,\n\n$$ab^4 = -\\frac{1}{2}b^5 + \\frac{5}{2}b^4m + \\frac{1}{2}b^2\\sqrt[5]{b^4 - 4b^3m} + \\frac{1}{2}b^3m\\sqrt[5]{-b^2 \\pm 2\\sqrt[5]{b^4 - 4b^3m}}$$\n\ndivide by $\\frac{1}{2}b^3$, and transpose; then,\n\n$$b^2 - 5bm + 2ab = \\sqrt[5]{b^5 - 4bm} \\mp m \\sqrt[5]{-b^2 \\pm 2b \\sqrt[5]{b^2 - 4bm}}.$$ \n\nSquare, transpose, and divide by $2b$; then,\n\n$$b^3 - 5m \\pm 5m^2 \\pm 2a. b = \\pm \\frac{b^2 - 3bm + m^2}{2a^2} \\sqrt[5]{b^2 - 4bm}.$$ \n\nSquare again, transpose, divide by $4b$, and arrange:\n\nthen, $m^5 - 25abm^3 + 30a^2b. m^2 - 10a^3b. m + a^4b = 0.$\n\nBut, as in the case of 3 cubic surds, a simple equation supplied the place of a quadratic, so, when an equation consists of 3 surds of the 5th power, a quadratic may supply the place of a biquadratic, or of two quadratic equations.\n\nThus, $\\sqrt[5]{a} + \\sqrt[5]{b} + \\sqrt[5]{c} = 0$, $\\cdots (2;) a + b + 5 \\sqrt[5]{a^4b} + 10 \\sqrt[5]{a^3b^2} + 10 \\sqrt[5]{a^2b^3} + 5 \\sqrt[5]{ab^4} = -c$, $(3;) \\sqrt[5]{a^4b} + 2 \\sqrt[5]{a^3b^2} + 2 \\sqrt[5]{a^2b^3} + \\sqrt[5]{ab^4} = -\\frac{a-b-c}{5} = -m$:\n\n$$\\begin{align*}\n\\sqrt[5]{a^4b} + 3 \\sqrt[5]{a^3b^2} + 3 \\sqrt[5]{a^2b^3} + 5 \\sqrt[5]{ab^4} &= \\sqrt[5]{ab} \\cdot \\sqrt[5]{a + \\sqrt[5]{b^3}} = \\sqrt[5]{ab} \\cdot \\sqrt[5]{c^3} = \\sqrt[5]{abc^3} \\\\\n-\\sqrt[5]{a^3b^2} - \\sqrt[5]{a^2b^3} &= -\\sqrt[5]{a^2b^2} \\cdot \\sqrt[5]{a + \\sqrt[5]{b}} = -\\sqrt[5]{a^2b^2} \\cdot \\sqrt[5]{c} = +\\sqrt[5]{a^2b^2c} \\\\\n\\sqrt[5]{a^2b^2c} - \\sqrt[5]{abc^3} &= -m.\n\\end{align*}$$\n\nTherefore\n\nThis, multiplied by $c$, gives the quadratic equation, $\\sqrt[5]{a^2b^2c^6}$\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[-c\\sqrt[5]{abc^3} = -cm:\\] which solved gives \\[\\sqrt[5]{abc^3} = \\frac{c \\pm \\sqrt{c^2 - 4cm}}{2}\\]\n\ninvolve to the 5th power; then, \\(abc^3 = \\frac{c^5 - 5c^4m + 5c^3m^2}{2} \\pm \\frac{c^4 - 3c^3m + c^2m^2}{2} \\sqrt{c^2 - 4cm}\\).\n\nDivide by \\(\\frac{1}{2}c^2\\), and transpose; then, \\(-c^3 + 5mc^2 - 5m^2 + 2ab.\\) \\(c = \\pm \\frac{c^2 - 3mc + m^2}{\\sqrt{c^2 - 4mc}}\\): squared, gives\n\n\\[c^6 - 10mc^5 + 35m^2c^4 - 50m^3c^3 + 25m^4c^2 - 4abm^2 + 20abm.\\]\n\n\\[-50m^3c^3 + 25m^4c^2 - 4m^5c.\\]\n\nTranspose, divide by \\(4c\\), and arrange; then, \\(m^5 * * - 5abcm^2 + 5abc^2m + a^2b^2c = 0;\\) or, \\(m^5 = abc \\cdot \\frac{5m^2 - ab - ac - bc}{abc^3};\\)\n\nwhich is an equation of 5 dimensions, free from surds.\n\nThis equation, if, instead of \\(\\sqrt[5]{a} + \\sqrt[5]{b} + \\sqrt[5]{c} = 0,\\) were substituted, \\(\\sqrt[10]{a} + \\sqrt[10]{b} + \\sqrt[10]{c} = 0,\\) would contain no other than quadratic surds; if, \\(\\sqrt[15]{a} + \\sqrt[15]{b} + \\sqrt[15]{c} = 0,\\) no higher than cubic surds; wherefore, if the extermination of any number of surds of the 5th power from an equation be admitted, since the number of surds of any lower order which may be exterminated is unlimited, an equation consisting of any number of surds, whose indices are in any manner compounded of the factors, 2, 3, and 5, may be totally freed from surds.\n\nIf a formula for the solution of any equation of 6 dimensions were known, any number of surds of the 7th power might be taken away from an equation: As such a formula, however, is, I suppose, at present altogether unknown, we may be contented with the extermination of 3 surds of the 7th power, which may be accomplished, because, a formula for the solution of cubic equations is known, 3, the index of\n\nMDCCCXIV.\nDr. Allman's Methods of clearing Equations of\n\nthe cube, being equal to half the index of the 7th power diminished by unity.\n\nLet \\( \\sqrt[7]{a} + \\sqrt[7]{b} + \\sqrt[7]{c} = 0 \\): then,\n\n\\[\n(2i) \\quad a + b + 7\\sqrt[7]{a^6b} + 21\\sqrt[7]{a^5b^2} + 35\\sqrt[7]{a^4b^3} + 35\\sqrt[7]{a^3b^4} + 21\\sqrt[7]{a^2b^5} + 7\\sqrt[7]{ab^6} = -e\n\\]\n\n\\[\n(3i) \\quad 7\\sqrt[7]{a^6b} + 3\\sqrt[7]{a^5b^2} + 5\\sqrt[7]{a^4b^3} + 5\\sqrt[7]{a^3b^4} + 3\\sqrt[7]{a^2b^5} + \\sqrt[7]{ab^6} = \\frac{-a-b-c}{7} \\text{ (put) } = -m\n\\]\n\nBut\n\n\\[\n\\begin{align*}\n&7\\sqrt[7]{a^6b} + 5\\sqrt[7]{a^5b^2} + 10\\sqrt[7]{a^4b^3} + 10\\sqrt[7]{a^3b^4} + 5\\sqrt[7]{a^2b^5} + \\sqrt[7]{ab^6} = \\sqrt[7]{ab} \\cdot \\sqrt[7]{a + 7\\sqrt[7]{b}} = -\\sqrt[7]{abc^5} \\\\\n&-2\\sqrt[7]{a^5b^2} - 6\\sqrt[7]{a^4b^3} - 6\\sqrt[7]{a^3b^4} - 2\\sqrt[7]{a^2b^5} = -2\\sqrt[7]{a^2b^2} \\cdot \\sqrt[7]{a + 7\\sqrt[7]{b}} = +2\\sqrt[7]{a^2b^2c^3} \\\\\n&+7\\sqrt[7]{a^4b^3} + 7\\sqrt[7]{a^3b^4} = +7\\sqrt[7]{a^3b^3} \\cdot \\sqrt[7]{a + 7\\sqrt[7]{b}} = -7\\sqrt[7]{a^3b^3c} \\\\\n&-\\sqrt[7]{a^2b^2c} + 2\\sqrt[7]{a^2b^2c^3} - \\sqrt[7]{abc^5} = -m.\n\\end{align*}\n\\]\n\nTherefore\n\nMultiply by \\(-c^2\\); then, \\(7\\sqrt[7]{a^3b^3c^{15}} - 2c\\sqrt[7]{a^2b^2c^{10}} + c^2\\sqrt[7]{abc^5} = c^2m\\). Extract the square root of this cubic equation; then,\n\n\\[\n\\sqrt[14]{a^3b^3c^{15}} * -c^{14}\\sqrt[abc^5] = \\pm c\\sqrt{m}: \\text{ this cubic equation, which wants the second term, when solved, gives } \\sqrt[14]{abc^5} =\n\\]\n\n\\[\n\\pm \\frac{1}{2}c\\sqrt{m} : + \\frac{1}{2}c\\sqrt{m} - \\frac{4}{27}c + \\sqrt{\\pm \\frac{1}{2}c\\sqrt{m} : - \\frac{1}{2}c\\sqrt{m} - \\frac{4}{27}c}:\n\\]\n\nthis, involved to the 14th power, will be free from all surds, except quadratic and cubic.\n\nPut \\(m - \\frac{4}{27}c = n, \\pm \\frac{1}{2}\\sqrt{m} : + \\frac{1}{2}\\sqrt{n} = s, \\text{ and } \\pm \\frac{1}{2}\\sqrt{m} : - \\frac{1}{2}\\sqrt{n} = t\\): then, on dividing the equation by \\(3\\sqrt{c}, \\frac{14\\sqrt{abc^5}}{3\\sqrt{c}}\\)\n\n\\[\n= 3\\sqrt{s} + 3\\sqrt{t}: \\text{ involve, then } \\frac{abc}{3\\sqrt{c^2}} = 3\\sqrt{s^{14}} + 14\\sqrt{s^{13}t} + 91\\sqrt{s^{12}t^2} + 364\\sqrt{s^{11}t^3} + 1001\\sqrt{s^{10}t^4} + 2002\\sqrt{s^9t^5} + 3003\\sqrt{s^8t^6} + 3432\\sqrt{s^7t^7} + 3003\\sqrt{s^6t^8} + 2002\\sqrt{s^5t^9} + 1001\\sqrt{s^4t^{10}} + 364\\sqrt{s^3t^{11}} + 91\\sqrt{s^2t^{12}} + 14\\sqrt{st^{13}} + \\sqrt{t^{14}}.\n\\]\n\nBut, \\(st = \\frac{1}{4}m - \\frac{1}{4}n = \\frac{1}{27}c : \\frac{1}{3}\\sqrt{c} = 3\\sqrt{st}, \\text{ and } \\frac{1}{9}\\sqrt{c^2} = 3\\sqrt{s^2t^2}\\):\n\nthen, by multiplication, \\(\\frac{1}{9}abc = s^5\\sqrt{st^2} + 14s^4t + 91s^3t^2 + 364s^2t^3 + 1001s^2t^4 + 2002s^2t^5 + 3003s^2t^6 + 3432s^2t^7 + 3003s^2t^8 + 2002s^2t^9 + 1001s^2t^{10} + 364s^2t^{11} + 91s^2t^{12} + 14s^2t^{13} + \\sqrt{st^{14}}\\).\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[\n14s^5t + 91s^4t + s^5 \\\\\n+ 1001s^4t^2 + 2002s^3t^2 + 364s^4t \\\\\n\\]\n\nArranged,\n\n\\[\n\\frac{1}{9}abc = \\pm 3432s^3t^3 + 3003s^2t^3 + 3003s^3t^2 + 3\\sqrt{s^2t^2} \\\\\n+ 1001s^2t^4 + 364st^4 + 2002s^2t^3 \\\\\n+ 14st^5 + t^5 + 91st^4.\n\\]\n\nRestore, first, for \\( s, \\pm \\frac{1}{2}\\sqrt{m} : \\pm \\frac{1}{2}\\sqrt{n} ; \\) for \\( t, \\pm \\frac{1}{2}\\sqrt{m} : -\\frac{1}{2}\\sqrt{n} ; \\)\n\nthen,\n\n\\[\n\\frac{1}{9}abc = \\frac{1}{32} \\times \\left( \\frac{2731m^2}{-3348mn} \\right) \\pm \\frac{5461m^2}{-9090mn} \\pm \\sqrt{m} \\pm \\frac{2538mn}{-729n^2} \\sqrt{n}.\n\\]\n\n\\[\n\\frac{1}{2} \\pm \\sqrt{m} \\pm \\frac{m}{n} \\pm \\frac{5461m^2}{-9090mn} \\pm \\sqrt{m} \\pm \\frac{2538mn}{+729n^2} \\sqrt{n}.\n\\]\n\nRestore, secondly, for \\( n, m - \\frac{4}{27}c ; \\) divide by \\( \\frac{1}{3}\\sqrt[3]{c}, \\) and transpose: then,\n\n\\[\n\\pm \\frac{1}{2}\\sqrt{m} + \\frac{1}{2}\\sqrt{m} - \\frac{4}{27}c + \\frac{50}{3}cm \\pm \\frac{1}{2}\\sqrt{m} + \\frac{m^2}{10cm} \\pm \\frac{4}{27}c.\n\\]\n\n\\[\n\\pm \\frac{1}{2}\\sqrt{m} - \\frac{1}{2}\\sqrt{m} - \\frac{4}{27}c = 0.\n\\]\n\nPut, \\( m^2 + \\frac{50}{3}cm + 5c^2 = 2x ; m^2 + 10cm + c^2 = 2y ; 14m^2 + 35cm + 2c^2 - 3ab = 9z : \\) then, \\( \\pm x\\sqrt{m} - y\\sqrt{n}. \\)\n\n\\[\n\\pm \\frac{1}{2}\\sqrt{m} + \\frac{1}{2}\\sqrt{n} + \\pm x\\sqrt{m} + y\\sqrt{n}. \\pm \\frac{1}{2}\\sqrt{m} - \\frac{1}{2}\\sqrt{n} + z\\sqrt[3]{c^2} = 0.\n\\]\n\nTherefore, by the extermination of cubic surds,\n\n\\[\n\\begin{cases}\n\\pm x\\sqrt{m} - y\\sqrt{n}^3 \\cdot \\pm \\frac{1}{2}\\sqrt{m} + \\frac{1}{2}\\sqrt{n} \\\\\n\\pm x\\sqrt{m} + y\\sqrt{n}^3 \\cdot \\pm \\frac{1}{2}\\sqrt{m} - \\frac{1}{2}\\sqrt{n} + c^2z^3 = 3 \\cdot x^2m - y^2n. \\\\\n\\end{cases}\n\\]\nDr. Allman's Methods of clearing Equations of\n\n\\[ i.e. \\ x^3m^2 - 3x^2ymn + 3xy^2mn - y^3n^2 + c^2z^3 = x^2m - y^2n \\cdot cz; \\]\n\nor, \\( x^2m + 3y^2n \\cdot xm - 3x^2m + y^2n \\cdot yn - x^2m - y^2n - cz^2 \\cdot cz = 0. \\)\n\nRestore the values of \\( x, y, \\) and \\( z: \\) divide by \\( \\frac{1}{27}c; \\) then,\n\n\\[\n\\begin{align*}\nm^7 & = -25c^2m^5 - \\frac{14600}{27}c^3m^4 - \\frac{7850}{27}c^4m^3 - \\frac{164abc^3}{3}m^2 + 14abc^4 \\\\\n& + 98abc^2 + 14a^2b^2c.\n\\end{align*}\n\\]\n\n\\[ m + \\frac{-abc^5}{+a^2b^2c} = 0: \\] which is an equation of 7 dimensions, free from surds.\n\nIn like manner, the extermination of 3 surds of the 11th power from an equation might seem to require the solution of an equation of 5 dimensions: but in this case, the highest term, if I may so speak, vanishes; so that an equation, consisting of 3 surds of the 11th power, may be freed from surds, without the solution of any higher equation than a biquadratic. The labour however is great.\n\nAs preparatory thereto, and not to refer elsewhere, the solution of a biquadratic equation may be here given.\n\nSuppose it, as any equation may be so transformed, to want the second term; thus,\n\n\\[ x^4 + qx^2 + rx + s = 0: \\text{ suppose also, } x^2 + ex + f = 0; \\]\n\n\\[ x^2 - ex + g = 0: \\text{ then, } \\]\n\n\\[ x^4 + \\frac{f}{g}. x^2 + ef. x + fg = 0: \\text{ and, } \\frac{f+g-e^2}{ef+eg} = r \\]\n\n\\[ \\frac{fg}{e^2} = s; \\]\n\nTherefore,\n\n\\[ \\begin{align*}\nf+g &= e^2 + q \\\\\n-f+g &= \\frac{r}{e} \\\\\ng &= \\frac{e^3 + qe + r}{ze}\n\\end{align*} \\]\n\nthen, \\( e^6 + 2qe^4 + q^2e^2 - r^2 = 0. \\) Put \\( e^2 = z - \\frac{2}{3}q; \\) then,\nquadratic, cubic, quadrato-cubic, and higher Surds.\n\n\\[ z^3 - 2qz^2 + \\frac{4}{3} q^2z - \\frac{8}{27} q^3 = e^6 \\]\n\\[ + 2qz^2 - \\frac{8}{3} q^2z + \\frac{8}{9} q^2 = + 2qe^6 \\]\n\n\\[ \\therefore z^3 - \\frac{1}{3} q^2z - \\frac{2}{27} q^3 = 0. \\]\n\n\\[ \\frac{q^2}{-4s} z + \\frac{8}{3} qs = -\\frac{q^2}{-4s} e^2 \\]\n\n\\[ -r^2 = -r^2 \\]\n\nThis cubic equation gives, \\( z = \\sqrt[3]{\\frac{1}{27} q^3 - \\frac{4}{3} qs + \\frac{1}{2} r^2 + \\frac{1}{3}} \\)\n\n\\[ \\sqrt{-\\frac{4}{3} q^4s + \\frac{1}{3} q^3r^2 + \\frac{32}{3} q^2s^2 - 12qr^2s + \\frac{2}{4} r^4 - \\frac{64}{3} s^3} \\]\n\n\\[ + \\sqrt{\\frac{1}{27} q^3 - \\frac{4}{3} qs + \\frac{1}{2} r^2 - \\frac{1}{3}} \\sqrt{-\\frac{4}{3} q^4s + \\frac{1}{3} q^3r^2 + \\frac{32}{3} q^2s^2 - 12qr^2s + \\frac{2}{4} r^4 - \\frac{64}{3} s^3}. \\]\n\nThen by hypothesis and solution of quadratics, \\( x = -\\frac{1}{2} e \\pm \\sqrt{\\frac{1}{4} e^2 - f} \\): or, \\( x = +\\frac{1}{2} e \\pm \\sqrt{\\frac{1}{4} e^2 - g} \\); and, by substitution,\n\n\\[ x = -\\frac{1}{2} e \\pm \\frac{1}{2} \\sqrt{-e^2 - 2q + 2r} = \\pm \\frac{1}{2} \\sqrt{z - \\frac{2}{3} q \\pm \\frac{1}{2}} \\]\n\n\\[ \\sqrt{-z - \\frac{4}{3} q + \\frac{2r}{\\sqrt{z - \\frac{2}{3} q}}} \\text{, or } x = \\frac{1}{2} e \\pm \\frac{1}{2} \\sqrt{-e^2 - 2q - 2r} \\]\n\n\\[ = \\pm \\frac{1}{2} \\sqrt{z - \\frac{2}{3} q \\pm \\frac{1}{2}} \\sqrt{-z - \\frac{4}{3} q - \\frac{2r}{\\sqrt{z - \\frac{2}{3} q}}}. \\]\n\nLet now the equation consisting of 3 surds of the 11th power be, \\( n\\sqrt{a} + n\\sqrt{b} + n\\sqrt{c} = 0 \\); then\n\n(2;) \\( a + b + 11n\\sqrt{a^9b} + 55n\\sqrt{a^2b^3} + 165n\\sqrt{a^8b^3} + 330n\\sqrt{a^7b^4} + 462n\\sqrt{a^6b^5} + 462n\\sqrt{a^5b^6} + 330n\\sqrt{a^4b^7} + 165n\\sqrt{a^3b^8} + 55n\\sqrt{a^2b^9} + 11n\\sqrt{ab^{10}} = -c. \\)\n\\[ \\begin{align*}\n(3i) & \\quad 1^{11} \\sqrt{a^{10}b} + 5^{11} \\sqrt{a^9b^2} + 15^{11} \\sqrt{a^8b^3} + 30^{11} \\sqrt{a^7b^4} + 41^{11} \\sqrt{a^6b^5} + 41^{11} \\sqrt{a^5b^6} + 30^{11} \\sqrt{a^4b^7} + 15^{11} \\sqrt{a^3b^8} + 5^{11} \\sqrt{a^2b^9} + 1^{11} \\sqrt{ab^{10}} = -m \\\\\n& \\quad \\left\\{ \\begin{array}{l}\n1^{11} \\sqrt{a^{10}b} + 9^{11} \\sqrt{a^9b^2} + 36^{11} \\sqrt{a^8b^3} + 84^{11} \\sqrt{a^7b^4} + 126^{11} \\sqrt{a^6b^5} + 126^{11} \\sqrt{a^5b^6} + 84^{11} \\sqrt{a^4b^7} + 36^{11} \\sqrt{a^3b^8} + 9^{11} \\sqrt{a^2b^9} + 1^{11} \\sqrt{ab^{10}} = -1^{11} \\sqrt{abc^9} \\\\\n-4^{11} \\sqrt{a^9b^2} - 28^{11} \\sqrt{a^8b^3} - 84^{11} \\sqrt{a^7b^4} - 140^{11} \\sqrt{a^6b^5} - 140^{11} \\sqrt{a^5b^6} - 84^{11} \\sqrt{a^4b^7} - 28^{11} \\sqrt{a^3b^8} - 4^{11} \\sqrt{a^2b^9} = +4^{11} \\sqrt{a^2b^2c^7} \\\\\n+ 7^{11} \\sqrt{a^8b^3} + 35^{11} \\sqrt{a^7b^4} + 70^{11} \\sqrt{a^6b^5} + 70^{11} \\sqrt{a^5b^6} + 35^{11} \\sqrt{a^4b^7} + 7^{11} \\sqrt{a^3b^8} = -7^{11} \\sqrt{a^3b^3c^5} \\\\\n-5^{11} \\sqrt{a^7b^4} - 15^{11} \\sqrt{a^6b^5} - 15^{11} \\sqrt{a^5b^6} - 5^{11} \\sqrt{a^4b^7} = +5^{11} \\sqrt{a^4b^4c^3} \\\\\n0 & 0\n\\end{array} \\right.\n\\end{align*} \\]\nTherefore \\(5 \\sqrt[11]{a^4b^4c^3} - 7 \\sqrt[11]{a^3b^3c^5} + 4 \\sqrt[11]{a^2b^2c^7} - \\sqrt[11]{abc^9} = -m\\) (\\(= \\frac{a-b-c}{11}\\)) Multiply by \\(\\frac{1}{5} c^3\\); \\(11 \\sqrt[11]{a^4b^4c^3} - \\frac{7}{5} c \\sqrt[11]{a^3b^3c^5} + \\frac{4}{5} c^3 \\sqrt[11]{a^2b^2c^7} - \\frac{1}{5} c^3 \\sqrt[11]{abc^9} = -\\frac{1}{5} c^3 m.\\)\n\nPut, \\(\\sqrt[11]{abc^9} = x + \\frac{7}{20} c\\); then,\n\n\\[\nx^4 + \\frac{7}{5} cx^3 + \\frac{147}{200} c^2 x^2 + \\frac{343}{2000} c^3 x + \\frac{2401}{160000} c^4 \\\\\n- \\frac{7}{5} cx^3 - \\frac{147}{100} c^2 x^2 - \\frac{1029}{2000} c^3 x - \\frac{2401}{40000} c^4 \\\\\n+ \\frac{4}{5} c^2 x^2 + \\frac{14}{25} c^3 x + \\frac{49}{500} c^4 \\\\\n- \\frac{1}{5} c^3 x - \\frac{7}{100} c^4 \\\\\n+ \\frac{1}{5} c^3 m\n\\]\n\nTo solve this biquadratic equation, substitute in the equation,\n\n\\[\nz^3 * - \\frac{1}{4} q^2 z + \\frac{3}{4} qs = 0, \\text{ for } q, \\frac{13}{200} c^2; \\text{ for } r, \\frac{17}{1000} c^3; \\text{ and for } s,\n\\]\n\n\\[\n- \\frac{2723}{160000} c^4 + \\frac{1}{5} c^3 m: \\text{ then, } z^3 * + \\frac{1}{5} c^4 z - \\frac{3}{5} c^3 m z + \\frac{3}{5} c^2 m = 0:\n\\]\n\n\\[\n\\therefore z = \\frac{1}{15} c \\left( \\frac{11}{2} c^3 - \\frac{117}{2} c^2 m + \\frac{1}{2} c \\sqrt{13621c^4 - 164574c^3 m + 661689c^2 m^2 - 864000cm^2} \\right)\n\\]\n\nthen, \\(x = \\pm \\frac{1}{2} \\sqrt{z - \\frac{13}{300} c^2} \\pm \\frac{1}{2} \\sqrt{-z - \\frac{13}{150} c^2 + \\sqrt{\\frac{17}{500} c^3}}:\\)\n\nor, \\(x = \\pm \\frac{1}{2} \\sqrt{z - \\frac{13}{300} c^2} \\pm \\frac{1}{2} \\sqrt{-z - \\frac{13}{150} c^2 - \\sqrt{\\frac{17}{500} c^3}}:\\)\n\n\\[\n\\therefore \\sqrt[11]{abc^9} = \\frac{7}{20} c + \\frac{1}{2} \\sqrt{z - \\frac{13}{300} c^2} \\pm \\frac{1}{2} \\sqrt{-z - \\frac{13}{150} c^2 + \\sqrt{\\frac{17}{500} c^3}}:\n\\]\n\nor, \\(\\sqrt[11]{abc^9} = \\frac{7}{20} c \\pm \\frac{1}{2} \\sqrt{z - \\frac{13}{300} c^2} \\pm \\frac{1}{2} \\sqrt{-z - \\frac{13}{150} c^2 - \\sqrt{\\frac{17}{500} c^3}}:\\)\nThis, involved to the 11th power, will yield an equation, which shall have no other surds than quadratic and cubic; and, since these may be removed, whatever be their number, it is evident, that an equation may be at length deduced free from all surds: But the accomplishment of this would require so great labour, that it may at present suffice, to have shewn the possibility, and pointed out the method, of removing all surds from an equation consisting of 3 surds of the 11th power.\n\nFar greater would be the labour to exterminate 3 surds of the 13th power.\n\nSurds of the 12th power, it must already have sufficiently appeared, may be taken away in any number, according to the principles of extermination of cubic and quadratic surds.\n\nIt is also sufficiently manifest, that, if an equation, consisting of 3 surds of a certain power (v.g. the 7th), may be cleared of surds, an equation containing 2 such surds, together with any number of other surds whose extermination is unlimited, may be also cleared of surds; and that surds, whose extermination, as to their number, is unlimited, may be exterminated from any equation containing them, however diverse they be from each other.\n\nThus, has been pointed out, the extermination from equations, of surds whose indices do not exceed the number 6, or of any combinations of such surds, in any number; of three surds, whose common index is either of the prime numbers between 6 and 12, or whose indices are either of these multiplied by any numbers, or powers of any numbers under 6, provided the equation contain no other quantity; also, of two surds, whose common index is, or, whose indices are, as last described, with an indefinite number of surds of the former description.\nIt only remains, however, for the complete establishment of the last observation, to note, that any surds, contained in the denominator of any fractional quantity of an equation, which cannot be transferred to the numerator, by multiplying both terms by a residual, as some have recommended to be done, may, by multiplying the whole equation by that denominator, be transferred to the other quantities, or numerators, of the equation.\n\nThat observation will then hold of the surds therein named, however they be situated in the equation; whether they be in the numerators, or in the denominators of fractions.\n\nP.S. Dr. Waring's method of taking away surds* is very ingenious. It is however evidently limited by the same postulate, which restricts the application of my general method; viz. to solve an equation of the dimension next lower than the index of the surd, being prime; for this must be effected in order to obtain the imaginary values of the surd as required by his method; and this, and sometimes less than this, is sufficient in mine.\n\ne.g. To obtain the imaginary roots of the 5th power of unity, the biquadratic equation $a^4 + a^3 + a^2 + a + 1 = 0$ must be solved. These roots are $\\frac{-1-\\sqrt{5} \\pm \\sqrt{-10+2\\sqrt{5}}}{4}$ and $\\frac{-1+\\sqrt{5} \\pm \\sqrt{-10-2\\sqrt{5}}}{4}$, coefficients troublesome enough, especially from their variety, as Waring himself has observed.\n\n* V. Meditat. Algebr. Ed. 3. p. 152, Prob. 26.\nThe imaginary values of higher surds of prime indices, when found, would be still more complicated: and it is not very easy to find, for example, the imaginary values of a surd of the 11th power.*\n\n* The imaginary roots of the 7th power of unity are,\n\n\\[\n(1,2;) - \\frac{1}{6} + \\frac{1}{6} \\sqrt[3]{\\frac{-21\\sqrt{-3}}{2}} + \\frac{1}{6} \\sqrt[3]{\\frac{7+21\\sqrt{-3}}{2}}\n\\]\n\n\\[\n\\pm \\frac{1}{6} \\sqrt[3]{\\frac{-21-2\\sqrt{-3}}{2}} - \\frac{1}{6} \\sqrt[3]{\\frac{7+21\\sqrt{-3}}{2}}\n\\]\n\n\\[\n(3,4;) - \\frac{1}{6} + \\frac{1+\\sqrt{-3}}{12} \\sqrt[3]{\\frac{-7+21\\sqrt{-3}}{2}} + \\frac{1-\\sqrt{-3}}{12} \\sqrt[3]{\\frac{-7-21\\sqrt{-3}}{2}}\n\\]\n\n\\[\n\\pm \\frac{1}{6} \\sqrt[3]{\\frac{-21+1+\\sqrt{-3}}{2}} + \\frac{1-\\sqrt{-3}}{12} \\sqrt[3]{\\frac{7+21\\sqrt{-3}}{2}}\n\\]\n\n\\[\n(5,6;) - \\frac{1}{6} + \\frac{1-\\sqrt{-3}}{12} \\sqrt[3]{\\frac{-7+21\\sqrt{-3}}{2}} + \\frac{1+\\sqrt{-3}}{12} \\sqrt[3]{\\frac{-7-21\\sqrt{-3}}{2}}\n\\]\n\n\\[\n\\pm \\frac{1}{6} \\sqrt[3]{\\frac{-21+1-\\sqrt{-3}}{2}} + \\frac{1+\\sqrt{-3}}{12} \\sqrt[3]{\\frac{7+21\\sqrt{-3}}{2}}\n\\]\n\nas may be found by solving the equation \\(x^6 + x^5 + x^4 + x^3 + x^2 + x + 1 = 0\\).\n\nHere, in justice to Dr. Waring, I must observe, that the application of his method to the extermination of the higher surds of prime indices, may, in all cases, be brought within the condition of solving an equation, whose dimension is half the index of the surd diminished by unity. For any equation, of an even dimension, which has the coefficients, at equal distances from the middle, equal, the signs being either alike, or, as they recede from the middle, alternately opposite and alike, may in effect be reduced to half its original dimension. In that case, half of the roots of the equation are the reciprocals, or the negatives of the reciprocals, of the other half. An equation, whose roots shall be the respective sums of these pairs, will be of half the dimension of the proposed equation. Thus, if\nThe preceding biquadratic equation is the difference of two squares $a^4 + a^3 + \\frac{9}{4} a^2 + a + 1$, and $\\frac{5}{4} a^2$: consequently, its quadratic factors will be the sum and difference of the roots of these squares, viz. $a^2 + \\frac{1}{2} \\sqrt{5}, a + 1 = 0$, and $a^2 - \\frac{1}{2} \\sqrt{5}, a + 1 = 0$.\n\n$x^{10} + ax^9 + bx^8 + cx^7 + dx^6 + ex^5 + fx^4 + gx^3 + hx^2 + ix + j = 0$;\n\nby the combination of corresponding terms, which has, in the preceding sheets, been repeatedly exemplified, and by division of the roots by $x$, may be obtained,\n\n$\\frac{x}{x} + \\frac{1}{x} + a \\cdot x + \\frac{1}{x} + b \\cdot x + \\frac{1}{x} + c \\cdot x + \\frac{1}{x} + d \\cdot x + \\frac{1}{x} + m$\n\nIf this equation could be solved, the root being called $n$, the solution of the quadratic, $x^2 - nx + 1 = 0$, would give the root of the proposed equation, which, when every coefficient is unity, yields, $x + \\frac{1}{x} + x + \\frac{1}{x} - 4 \\cdot x + \\frac{1}{x} - 3 \\cdot x + \\frac{1}{x}$\n\n$+ 3 \\cdot x + \\frac{1}{x} + 1 = 0$.\n\nIf this equation could be solved, then would Dr. Waring's method serve for the universal extermination of surds of the 11th power.\n\nI may also observe, that my method universally holds for exterminating quadrato-cubic surds, without the solution of any higher equation than a quadratic, as may appear from a former example, though the observation was not before made; and, in like manner, that it universally holds for exterminating surds of the 7th power, within the condition of solving a cubic equation. For the resulting equation of six dimensions may be reduced to one of three, independently on the simplicity or composition of the third quantity of a given combination of surds. Thus, if $\\sqrt[7]{a} + \\sqrt[7]{b} + \\sqrt[7]{c} = 0$,\n\n$\\sqrt[7]{a^6b} + 3\\sqrt[7]{a^5b^2} + 5\\sqrt[7]{a^4b^3} + 5\\sqrt[7]{a^3b^4} + 3\\sqrt[7]{a^2b^5} + \\sqrt[7]{ab^6} = \\frac{-a-b-c}{7}$: then after multiplying by $b^5$, may be obtained this cubic equation, $\\sqrt[7]{a^2b^{12}} + b^7\\sqrt[7]{ab^6} + 2b^5$\n\n$\\sqrt[7]{a^2b^{12}} + b^7\\sqrt[7]{ab^6} + b^4 \\cdot \\sqrt[7]{a^2b^{12}} + b^7\\sqrt[7]{ab^6} = \\frac{-a-b-c}{7} \\cdot b^5$. Here, whatever may be the value of $c$, $a$ and $b$ may be freed from the radical sign of the 7th power, by the solution, first of a cubic, then of a quadratic, equation, and afterwards involution.\n\nSo that both Waring's method and mine universally hold, until we arrive at surds of the 11th power; and according to mine, three such may be exterminated.\nDr. Allman's Methods of clearing Equations, &c.\n\n1 = 0. These quadratic equations being solved, will give the four roots of the biquadratic, as above.\n\nSo may be solved any biquadratic equation, the coefficient of whose 4th term is equal to the product of the coefficient of the 2d by the square root of the last, the coefficient of the 1st term being unity: and, by the intervention of a cubic equation, any biquadratic may be so transformed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107421.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 23,
+    "total-input-tokens": 36340,
+    "total-output-tokens": 18029,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1337,
+        2
+      ],
+      [
+        1337,
+        2995,
+        3
+      ],
+      [
+        2995,
+        4659,
+        4
+      ],
+      [
+        4659,
+        6536,
+        5
+      ],
+      [
+        6536,
+        8419,
+        6
+      ],
+      [
+        8419,
+        10285,
+        7
+      ],
+      [
+        10285,
+        12201,
+        8
+      ],
+      [
+        12201,
+        14061,
+        9
+      ],
+      [
+        14061,
+        16101,
+        10
+      ],
+      [
+        16101,
+        18266,
+        11
+      ],
+      [
+        18266,
+        20052,
+        12
+      ],
+      [
+        20052,
+        22730,
+        13
+      ],
+      [
+        22730,
+        24360,
+        14
+      ],
+      [
+        24360,
+        25942,
+        15
+      ],
+      [
+        25942,
+        27618,
+        16
+      ],
+      [
+        27618,
+        28748,
+        17
+      ],
+      [
+        28748,
+        30603,
+        18
+      ],
+      [
+        30603,
+        32334,
+        19
+      ],
+      [
+        32334,
+        33780,
+        20
+      ],
+      [
+        33780,
+        35689,
+        21
+      ],
+      [
+        35689,
+        38197,
+        22
+      ],
+      [
+        38197,
+        38640,
+        23
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107421",
+    "title": "Methods of Clearing Equations of Quadratic, Cubic, Quadrato-Cubic, and Higher Surds",
+    "authors": "William Allman",
+    "year": 1814,
+    "volume": "104",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 23,
+    "jstor_url": "https://www.jstor.org/stable/107421"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "d50275ea87ac756b90ec1dbc39e6211e448d12b2",
+  "text": "Errata in Mr. Gompertz's Paper in Part II. of Philosophical Transactions for 1820.\n\nPage Line\n220 4 for 'a+y' put 'a+x'—lines 11 and 20, dele 'n' in the denominator.\n221 21 the second symbol should be \\( \\frac{p}{n} \\) \\( a, b, c \\).\n223 4 before 'chance' insert 'value of the.'\n224 2 and 5 in the symbol, before the second \\( a \\), insert a comma—line 15, insert ':' before \\( a \\)—five lines from the bottom, for 'c' put 'C'—line 2 from the bottom, for 'proved' read 'provided.'\n226 13 in the 2d and 3d symbol, put 'n' for 'm'—and in the 4th, put 'p' for 'y'—in the first symbol in the bottom line, put 'n' for 'm'... and for the 3d symbol \\( \\frac{p}{n} \\) \\( C \\)\n227 6 for 'will' read 'will be'—line 7, in symbol, write 'm' for 'n', and for 'r' write 'r'—line 14, put 'v' in the lower angle in the right of the symbol, thus \\( \\frac{p}{n} \\) \\( a, b, c \\)\n228 1, 3, 4, and 11, for — where there is nothing in the lower angle, write\n229 9, under the first \\( \\Delta \\) put 'b' for 'a'—line 2 from the bottom, between 'a' and \\( \\frac{a}{b} \\) put '+'.\n231 2 from bottom, put a dash over the second T.\n232 12 for 'n' put 'm'—line 13, for 'Mx' put 'M'.\n233 8 for '9457' put '4597'.\n236 7 for 'E' put 'E'—line 11, for 'a & c' put 'b'.\n240 8 in the second formula, for 'r + i' put 'r + x'.\n243 19 for 'form' put 'from'.\n244 11 for 'q - x' read 'q + x'.\n246 12 for last 'p' put 'q'.\n247 16 include the last 'L' with the expression of line 17 in '( )'.\n251 11 for 'K' write 'k'.\n255 14 and 15, for '+' write '-'.\n256 2 for 'L' write 'L'.\n258 4 from bottom, dash over the first 'K'.\n260 7 from bottom, insert '-' before 'the.'\nPage Line\n262 1 insert 'x' before the last 'n'—line 9, for 'of' read 'if'.\n265 1 dele 'or last'—line 4, for the last 'L' write 'I'.\n269 13 after 'there is' insert 'only'.\n274 5 for 'A' read 'B'—line 8, for the second 'a' at top and bottom write 'b'\n—line 10, for 'A' write 'B'.\n277 1 and 2, dele last 's' in 'survives'.\n282 3 transpose the '3' and 'z'—line 7, in denominator dele 'π', in numerator\ndele '1—'.\n289 1 after 'N_x =,' insert '1—,'—line 3, after 'become' insert '—,'—line 5,\nat the commencement insert '—,'—line 8, after 'b' insert '—,'.\n290 1 at the commencement insert '—,'—line 2, before 'r' insert '—,'—line 3,\nto \\(\\frac{L_c - \\frac{1}{2} p}{L_c}\\) prefix '+' instead of '—,'—line 6, for 'with' put 'without'\n—line 3 from bottom, in symbol, for 'o' write '80'—line 2 from\nbottom, for 'n' put 'π'.\n291 1 and 2 from bottom, dele dash above 'N.'\n294 5 insert 't' before the semicolon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107757.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 1124,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1624,
+        2
+      ],
+      [
+        1624,
+        2521,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107757",
+    "title": "Errata: Mr Gompertz's Paper in Part II for 1820",
+    "authors": null,
+    "year": 1825,
+    "volume": "115",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107757"
+  }
+}

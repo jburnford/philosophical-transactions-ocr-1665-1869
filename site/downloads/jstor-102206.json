@@ -1,0 +1,59 @@
+{
+  "id": "afdbce2f0a4cb484d3e856ff4ead1c0e782af5c2",
+  "text": "ERRATA.\n\nNUM. 166. p. 809. l. 16. for wise.r. nice.\n\nN. 167. p. 837. l. 10. r. well, half.\nN. 168. p. 888. l. 32. for finde.r. find.l. 33. dele it.p. 889.l. 31. r. the.\np. 891.l. 15. r. to Horf-hair cut something.p. 892.l. 13 dele Parenthefin.p. 898.\nl. 8.r. Succus Citri.l. 23. r. endeavors.p. 901.l. 5. r. fcent.p. 906.l. 28.\nr. (as he fliles it.) p. 913.l. 34. r. thus with the Acidum. Put.\nN. 169. p. 916 lines 17, 18. let the Parenthefis end at Fox.p. 917.l 3. r. ex-\ncepting only.l. 4. for which.r. where they.p. 921.l. 5. r. Senefcente.p. 925.\nl. 14.a Semicolon after those are ; p. 931.l. ult.r. Scheme.p. 944.l. 11. r. which\n(after.p. 946.l. 29.r. to have an Allantois.l. penult.r. in St. Paul's.\nN. 170. p. 947.l. 13. dele of.l. antepen.for par.r. per.p. 949.l. 19.r. [the wa-\nter.] p. 951.l. 9th.r. light.) p. 953.l. 31. dele from.p. 956.l. 11.r. 2dly.in the\nBog.p. 959.l. 17. for this.r. these.p. 963.l. 25.r. [Figures.] p. 971.l. 6.r. but-\np. 980.l. 28th.r. Bark,\nN. 171.p. 994.l. 5.r. Baroscope.l. 6.r. these.l. 3.r. upon.) p. 1004.l. 19.\nr. inches.) p. 1007.l. 1.r. other.p. 1020.l. antepen:r. Fermentation,) p. 1021,\nl. 33.r. Phænomena.\nN. 172.p. 1031.l. 14.r. Milium.p. 1037.l. 25. 6.r. Ornithology.p. 1038.\nl. 2. for Breuta.r. Brenta.p. 1049.l. 9.dele of.p. 1053.l. ult.dele ages.\nN. 174.l. 13.r. Report is for.p. 1114.l. 15. for vigore.r. rigore.p. 1116.l.\n27.r. (nuper.p. 1122.l. 2.r. as at K.Fig.l.l. 14.r. dayly.l. 20.dele they.\np. 1133.l. 27.r. Bontekoe.p. 1130.l. l.r. going.p. 1138.l. 15.r. Vein.8.\ncoming.p. 1143.l. 4.r. demonstrates it.p. 1138.l. 9.r. Pylorus.p. 1141.\nl. 18.r. pulitis.\nN. 175.p. 1157.l. 7.r. Eye.l. 10. for other.r. foremost.p. 1165.l. 31.\nr. (which.l. ult.r. For.p. 1185.l. 9.r. several forts.\nN. 176.p. 1204.l. 17.r. Warwicenfi.l. 19.r. dolore.p. 1206.l. 27. for\ndesired.r. designd.p. 1209.l. 15.read depurated.p. 1210.l. 11.r. Cnæf\nfelius's.l. ult.r. Panacea.\nN. 177.p. 1236.l. 3. for 1684.r. 1686.p. 1239.l. 2.dele M stands for Morning\nA for Afternoon.r. @ stands for Sunday.p. 1236.l. 20.r. transcripts.l. 21.ifor\nform.r.from.p. 1237.l.9. for out.r. our.l. 28.dele Tab.l.l. 30.dele Tab.l.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102206.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 1280,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2138,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102206",
+    "title": "Errata",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102206"
+  }
+}

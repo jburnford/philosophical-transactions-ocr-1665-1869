@@ -1,0 +1,59 @@
+{
+  "id": "5bd22eac22b8e990f370fb29b7c833d14b180212",
+  "text": "CHAPTER IV.\n\nOf the Death or Recefs of any Fellow.\n\nUPON the Death, or the voluntary withdrawing, of any Fellow of the Society, one of the Secretaries fhall note such their Death or Recefs in the printed List of that year against their names; and the Death, or withdrawing, of any Fellow fhall be recorded in the Journal-book of the Society, among the Minutes of the proceedings of St. Andrew's day.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106553.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 152,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        399,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106553",
+    "title": "Of the Death or Recess of any Fellow",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106553"
+  }
+}

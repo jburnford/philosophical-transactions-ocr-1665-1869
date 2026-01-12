@@ -1,0 +1,69 @@
+{
+  "id": "c494dfa78dc57e6e7c0542211702986917178a74",
+  "text": "XIX. On the Computation of the Sun's Distance from the Earth, by the Theory of Gravity: In a Letter to Mathew Maty, M. D. Sec. R. S. from the Rev. Mr. Horsley, F. R. S.\n\nSir,\n\nRead June 1, 1769.\n\nA LITTLE Treatise, that has lately been published, against Dr. Stewart's method of determining the distance of the Sun by the theory of gravity, has put me upon reconsidering a subject which I had long dismissed from my thoughts. I am far from being convinced that Dr. Stewart's conclusions are \"erroneous upon his own principles,\" as his antagonist affirms; and I am well satisfied that there is no error in the principles themselves. I have always been sensible that an extreme precision was requisite in determining the mean quantity of the solar force affecting the moon's gravity towards the earth, in order to obtain an accurate estimation of the distance; and this circumstance was mentioned by me, in a paper that I communicated to the Society about two years ago*, before it had been remarked, that I knew of, by any other writer upon the subject. I must now declare, that the imperfection of the method arising from this\n\n* See Philos. Transl. vol. LVII. for 1767, p. 179, 183.\ncircumstance is much greater than I was at first aware of. I owe this better information entirely to the refusal of Dr. Stewart's Theorems, not to anything that has been written upon the subject by others. I find that if I increase the mean quantity of the sun's disturbing force, as determined by Dr. Stewart in the 9th proposition of his Supplemental Tract, and by myself, in my former paper, by $\\frac{1}{2000}$th part of itself, I obtain, by my own method of computation, $9''\\ 3''\\ 394$ for the Sun's mean horizontal parallax; which seems to be so nearly the mean of the quantities of the parallax deduced from the best observations of the transit of 1761, that it would be ridiculous to set up, any longer, the conclusions of this theory in opposition to observation. It is much more probable that the theory should err in so small a matter as $\\frac{1}{2000}$th of the Sun's disturbing force, than that observation should err in more than $\\frac{2}{5}$, that is nearly in $\\frac{1}{4}$ of the whole quantity in question. I beg the favour of you to communicate this to the Society.\n\nI have the honour to be, Sir,\n\nYour most obedient,\n\nand most humble servant,\n\nOxford, May 5.\n1769.\n\nSamuel Horsley.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105817.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 690,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1184,
+        2
+      ],
+      [
+        1184,
+        2388,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105817",
+    "title": "On the Computation of the Sun's Distance from the Earth, by the Theory of Gravity: In a Letter to Mathew Maty, M. D. Sec. R. S. from the Rev. Mr. Horsley, F. R. S.",
+    "authors": "Samuel Horsley",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105817"
+  }
+}

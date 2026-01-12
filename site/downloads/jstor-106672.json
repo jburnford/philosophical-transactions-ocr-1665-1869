@@ -1,0 +1,59 @@
+{
+  "id": "d129ead713f935461f67728b2d4555b7fb6f9039",
+  "text": "ERRATA.\n\nPage 367, lines 15. and 16. read the numbers as they are printed in the table,\n\nP. 371.\n\nP. 373. l. 11. and 12. read Ec $89^\\circ 27' 56''$, Es $30^\\circ 4' 35''$; which will,\nof course, occasion an alteration in the figures, p. 373. l. 14. 26.; p. 374.\nl. 16. 20. 21. 24. 27. 29.; and p. 375. l. 2. 4. 7. 8; so that the result, on\np. 377. l. 25. will stand thus: $\\{ 91^\\circ 1' 32'' \\}$\n\nP. 375. l. 11. after $\\{ \\text{East} \\}$, add the words, \"of the pole of the ecliptic,\"\n\nP. 378. l. 17. for 18 feet 8 inches read 15 feet 3$\\frac{1}{2}$ inches.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106672.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        559,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106672",
+    "title": "Errata",
+    "authors": null,
+    "year": 1788,
+    "volume": "78",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106672"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "a2d83b36e40462ecd4a039c118a7aec05a07f044",
+  "text": "Some Communications from Rome and Paris.\n\nSignor Borelli, who is now at Rome, pretends to have lighted up on a way of building Gallies with several Tires of Oars, of different heights, which he esteems to be more convenient, more speedy and stronger than those that are now in use. He thinks also, that he can give an account of the possibility of the Gallies of the Ancients to a determinat number of tires; and he promises a Treaty of it, with demonstrations.\n\nThere is also at Rome a Bowle, which is so counterpoised, that it can stop of itself upon an inclined plane like Kepler's watch. It stops upon all sorts of matter, and even upon a Looking-glass.\n\nPater Gottignies hath undertaken at Rome to write an Algebra after a new manner. He gives it the Title of Logistica universae Mathesi inserviens. It is to consist of four Books, whereof the first is already printed.\n\nMonsieur Blondel is busy in giving us a new Mapp of Paris, which will be correct, and of the bigness of six foot square. The like is also doing at Rome of that City by Signor Buffalini: But both will require a considerable time to finish them.\n\nThere hath been sent to Paris the Title of a Book treating of the Universal Measure; the Author is an Italian, called Signor Burattini, and the Title as followeth: Misura Universale ovvero Trattato nel quale si mostra, come in tutti i luoghi del mondo si può trovare una misura & un peso Universale, senza che habbiano relatione con nuen' altra misura & nuen' altro peso, & ad ogni modo in tutti i luoghi saranno li medesimi & saranno inalterabili & perpetui, sin tanto che durerà il mondo. La misura si può trovar in un hora di tempo; & questa ci mostra, quanto grave deve esser il peso. Della questa misura si cavano ancora le misure Corporee per misurar le cose aride & liquide. See what Monsieur Christian Hugens hath said upon this argument in his Book De Motu Pendulorum, prop. 25. p. 151.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101646.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 544,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1916,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101646",
+    "title": "Some Communications from Rome and Paris",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101646"
+  }
+}

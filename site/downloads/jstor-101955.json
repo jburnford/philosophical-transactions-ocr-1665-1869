@@ -1,0 +1,79 @@
+{
+  "id": "ab3c6abbbfd98d10b9521d322db372559326cfd5",
+  "text": "II. What a Compleat Treatise of Navigation should contain. Drawn up in the Year 1685, by Sir William Petty late Fellow of the Royal Society.\n\n1. What Arithmetick in whole Numbers and Fractions, as also in Decimals and Logarithmes, is necessary for the same? And what Books are best for teaching so much thereof?\n\n2. What Vulgar Practical Mechanical Geometry performable by the Scale and Compass is sufficient?\n\n3. What Trigonometry, Right Lined, and Spherical will suffice?\n\n4. How many Stars are to be known?\n\n5. What Instruments are best for use at Sea, with the Construction of them, and the manner of using them?\n\n6. The whole Skill of the Magnet, as to the directive Vertues thereof, and all the Accidents which may befall it.\n\n7. The Hydrography of the Globe of the Earth, the Perspective of the Coasts, and the Description of the under-water-bottom of the Sea.\n\n8. The knowledge of Winds and Meteors, so far as the same is attainable.\n\n9. The History and Skill of all sorts of Fishings.\n\n10. The Art of Medicine and Chyrurgery, peculiarly for the Sea.\n\n11. The Common Laws of the Admiralty, and Jurisdiction of the Sea.\n\n12. The several Victuallings and Cloathings, fit for Sea-men.\n\n13. The whole Science of Ebbing and Flowing, as also of Currents and Eddyes at Sea.\n14. Dromometry, and the Measures of a Ship's Motions at Sea.\n\n15. The Building of Ships of all sorts, with the several Rigging and Sails for each Species, and the Use of all the Parts and Motions of a Ship.\n\n16. Naval Oeconomy according to several Voyages and Countries.\n\n17. The Art of Conting, Rowing and Sailing of all the several sorts of Vessels.\n\n18. The Gunnery, Fire-works and other Armatures peculiar to Sea and Sea-Fights.\n\n19. The Art of Loading and Unloading the Chief Commodities, to the best Advantage.\n\n20. The Art of Weighing sunken Ships and Goods, as also of diving for sunken Goods in deep Water.\n\n21. The General Philosophy of the Motion and Figures of the Air, the Sea, and of Seasons; of Timber, Iron, Hemp, Tar, Brimstone, Tallow, &c. and of their several Uses in Naval Affairs.\n\n22. An Account of Five or Six of the best Navies of Europe, with that of the Arcenals, Magazines, Docks, Yards, &c.\n\n23. An Account of all the Shipping able to cross the Seas belonging to each Kingdom and State of Europe.\n\n24. An Account of all the chief Commercial parts of the World; with mention of what Commodities are originally carried from, and ultimately to any of them.\n\n25. An Account of the Chief Sea-Fights, and all other Naval Expeditions and Exploits, relating to War, Trade or Discovery, which hath happened in this last Century.\n\n26. Of the most advantageous use of Telescopes for several purposes at Sea.\n\n27. Of the several Depths of the Sea, and Heights of the Atmosphere.\n\n28. The\n28. The Art of making Sea-Water fresh and potable, and fit for all uses in Food and Physick at Sea.\n\nIII. A Letter from Sir Robert Redding, late Fellow of the R. S. concerning Pearl-Fishing in the North of Ireland; communicated to the Publisher by Dr. Lister. R. S. S.\n\nDear SIR,\n\nBeing in the North in August last, and calling to remembrance your Desires to have some of the Muscle-shells sent you wherein the Pearls were found, I stayed behind my Company one day like an old Hound from following the Stag, and bestowed it in Enquiries from others, and some small Trials in the Rivers; but having by me neither Queries to direct my Search, nor Books to inform me what had been delivered by others on this Subject, I must needs fall short in those Points that are most curious and most wanting, and take notice only of what is too common and most known in the Natural History of this Shell-fish.\n\nI have sent you four or five of the Shells, and a few of the Pearls, though clouded and little worth, taken out of the River near Omagh in the County of Tyrone, in which County are four Rivers abounding with these Muscles, all emptying themselves into Lough Foyle, whereon stands the Town of Derry, and so into the Sea. There are also other Rivers in the County of Donegall, a River near Dundalk, the Shure running by Waterford, the Lough called Lough-Lean in Kerry, which afford the like Fish; and no doubt there be many more that I do not",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101955.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1172,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1275,
+        2
+      ],
+      [
+        1275,
+        2779,
+        3
+      ],
+      [
+        2779,
+        4216,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101955",
+    "title": "What a Compleat Treatise of Navigation Should Contain. Drawn up in the Year 1685. by Sir William Petty Late Fellow of the Royal Society",
+    "authors": "William Petty",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101955"
+  }
+}

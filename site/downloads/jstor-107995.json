@@ -1,0 +1,59 @@
+{
+  "id": "0b1a76c96f87c9e659a7c486366468e01ff102e2",
+  "text": "XXIX. The Anatomy and Physiology of the Liver. By Francis Kiernan, Esq., Member of the Royal College of Surgeons, late Teacher of Anatomy. Communicated by Joseph Henry Green, Esq., F.R.S. . . page 711\n\nXXX. Some Observations on the Economy of Molluscous Animals, and on the Structure of their Shells. By John Edward Gray, Esq., F.R.S. . 771\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n\nAPPENDIX.\n\nMeteorological Journal kept at the Apartments of the Royal Society, by order of the President and Council.\n\nERRATA.\n\nPage 144, line 28, for absolvable read absorbable.\n—— 146, —— 9, for or read on.\n—— 281, for a terphosphate, a biphosphate, and phosphate of water, read a terhydrate, a bihydrate, and hydrate of phosphoric acid.\nIn Plate XIX. for p. 726. read p. 678.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107995.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 322,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        807,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107995",
+    "title": "Errata",
+    "authors": null,
+    "year": 1833,
+    "volume": "123",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107995"
+  }
+}

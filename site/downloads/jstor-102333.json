@@ -1,0 +1,69 @@
+{
+  "id": "a1d8bff9550bebdd24689e8193773af4834fe8b1",
+  "text": "IV. A Relation of a strange Symptom attended an Hydrops Pectoris, and the reason of it, as it appeared on Dissection of the Body. By Mr. Samuel Doudy, F.R.S.\n\nMr. Cowper in his Letter Printed in the late Transactions, of an extraordinary large Kidney, occasionally mentioning, that Sighing and difficulty of Respiration are always remarkable Symptoms in an Hydrops Pectoris, put me in mind of the Case of a Noble Peer.\n\nIt was many Years ago, so that I can't give so particular an Account as may be expected, and indeed would be necessary: But this I remember, that his shortness of Breathing was very extraordinary; for his Lordship was always better in Bed or Lying, than Sitting or Standing, quite contrary to other Asthma's, in which the Afflicted, in Fits, are not able to lye down, the Muscles of the Breast having a freer Motion, when in an Erect Posture. In a short time he dyed, and upon opening the Body, both the Cavities of the Breast were found full of Water, which, when standing or sitting pressed so upon the Diaphragm, that Respiration was performed with difficulty; but when lying, that floating Load was so disposed, that that Office of Nature was better performed.\nThis seems to be so natural a Symptom, that it may be almost an Infallible Diagnostick, to distinguish an Hydrops Pectoris from other more frequent Diseases of the Breast, that give a shortness of Breathing.\n\nHis Lordship, tho' Ancient, was in all his Viscera very Sound.\n\nQuere, Whether it be not Practicable to use the Paracenthesis in the like Case, when the Disease is certainly known, and without it Death is most likely to ensue?",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102333.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 474,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1185,
+        2
+      ],
+      [
+        1185,
+        1620,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102333",
+    "title": "A Relation of a Strange Symptom Attended an Hydrops Pectoris, and the Reason of It, as It Appeared on Dissection of the Body. By Mr. Samuel Doudy, F. R. S.",
+    "authors": "Samuel Doudy",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102333"
+  }
+}

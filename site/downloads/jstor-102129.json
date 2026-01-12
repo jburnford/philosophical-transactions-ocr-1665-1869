@@ -1,0 +1,69 @@
+{
+  "id": "c3354b0140f8d8e36891ca81b1a8e7e6ce4e5cf0",
+  "text": "An extract of a Letter from Senior Ciampini, to Dr. Croon, concerning a late Comet seen at Rome.\n\nNovus Cometes nuper coelo visus est à lynceo oculo Abb. Blanchini discipuli Cl. Geminiani Montanarii. Cometes parvus quidem sed in sua orbita regularis apparuit, lumine tenui, & tanquam stella tuberculata, at tubo optico exceptus luminosior. Observationes habes hic junctas & habitas domi optimi Prælatis Vettori, viri sapientiae & doctrinarum amantissimi, ut & illis omaifariam refertissimi.\n\n1684, die 30, Junii St. n. Cometa primum mihi visus est, in grad. 9 cum aliquibus minutis Librae, Latitudo ejusdem Borealis fuit graduum octo & aliquot Minutorum, quae nondum satis certo determinare potui ex Observationibus, Gradus tamen tam Longitudinis quam Latitudinis extra Aleam Dubitationis est.\n\nJulii die Cometæ Longitudo, Latitudo Bor.\n\n| Julii die | Cometæ Longitudo | Latitudo Bor. |\n|-----------|-----------------|---------------|\n| 1         | 11.18           | 13.12         |\n| 2         | 13.16           | 17.57         |\n| 3         | 14.58           | 22.12         |\n| 4         | 16.45           | 25.40         |\n| 5         | 18.30           | 28.50         |\n| 6         | 19.50           | 31.34         |\n| 7         | 21.07           | 33.54         |\n| 8         | 22.20           | 36.06         |\n| 9         | 23.32           | 38.00         |\n| 10        | 24.42           | 39.40         |\n| 11        | 25.44           | 40.49         |\n| 12        | 26.38           | 41.58         |\n| 13        | 27.23           | 43.05         |\n| 14        | 28.32           | 44.09         |\n| 15        | 29.49           | 45.12         |\n| 16        | 30.58           | 46.20         |\n| 17        | 02.08 Scorpii   | 46.40         |\n\nQuatuor\nQuatuor ultimae meliori Indigent Calculo, nam aliquis fortasse minutorum Error Irrepsit; alias etiam non-nullas habeo diei 18 & 19, quae cum nudo Oculo habitae sint, abludere fortasse pluribus minutis si eas nunc at-ferrem. Postremis hisce Noctibus, cum jam fenececente Luna stellarum etiam minorum fulgor se proderet, Cometam quoque languentem prospecti prope Lemniscos coronae: eas proferam cum omnes in ordinem ut par est suum Redegeo.\n\nObservatio diei primi Julii accuratissima est, Cometa enim in Telecopio apparuit una cum Stella Virginis qua Bayero inscribitur α & accidit sub Cingulo septentrionalis partis primae.\n\nObservationes sequentes usque ad diem quintam satis certae haberi possint; omnium tamen Certissima est Observato diei textae, qua die Arcturus in tubo optico simul cum Cometa conspiciebatur. Die pariter 14, Cometa & stella x in Colorrobo Bootis ceu Venabulo subtter humerum uno intuitu detegebantur. Aliæ Observationes etiam satis accuratae sunt,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102129.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1053,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1760,
+        2
+      ],
+      [
+        1760,
+        2730,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102129",
+    "title": "An Extract of a Letter from Senior Ciampini, to Dr. Croon, concerning a Late Comet Seen at Rome",
+    "authors": "Senior Ciampini",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102129"
+  }
+}

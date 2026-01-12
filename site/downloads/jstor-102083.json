@@ -1,0 +1,59 @@
+{
+  "id": "980ee27e8b6716e31f1f2ee3287f969a15e558e6",
+  "text": "A description of a Bridg that may be built 70 foot long without any pillar under it, taken out of the Journal of the Philosophical Society of Oxford.\n\nA Timber Bridge may be built 70 foot long or somewhat more without any Pillar under it, which may be useful in some places where Pillars cannot conveniently be built: It may consist of two such Arches of Timber, as that which is represented in the Figure, wherein AC and BO are Beams 28 foot long, and AB is 32 foot long. Under the Angles are set 2 large Braces EL and SR. At each end is a wall, on which are laid two Beams BH and AD, each 20 foot long; under these are 2 Braces DE and RH. There may also be Braces at the ends of the Arches, that may be obliquely cross the Bridge. It may be laid with Planks and railed. Behind the walls are Causeys FD and HN. The Length of the Bridge CMO is 70 foot; the Height KM is 19 foot.\n\nObservations",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102083.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 295,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        892,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102083",
+    "title": "A Description of a Bridg That May be Built 70 Foot Long without Any Pillar under It, Taken out of the Journal of the Philosophical Society of Oxford",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102083"
+  }
+}

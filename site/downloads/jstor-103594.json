@@ -1,0 +1,219 @@
+{
+  "id": "db3d96a1b7d97d66dcb0ae56ab9315a6043271c7",
+  "text": "III. De Fractionibus Algebraicis Radicalitate immunibus ad Fractiones Simpliciores reducendis, deque summandis Terminis quarumdam Serierum æquali Intervallo a se distantibus. Auctore Abrahamo de Moivre, S. R. Socio.\n\nEruditissimo Viro JOHANNI MACHIN,\nSocietatis Regalis Secretario, A. de Moivre, S. P.\n\nMITTO tibi excerpta quaedam e Chartis meis coram Regali Societate 5° Maii 1720, exhibitis, quibus eodem die manum apposuerunt Secretarii. Pars altera harum Chartarum jam per biennium apud Cl. Praesidem reposita fuerat; continebat autem Demonstrationes Propositionum quarumdam in Libro a me Anglice emissò qui inscriptus est, The Doctrine of Chances. Pars altera continebat explanationem uberiorum Demonstrationum quas prior levius tetigerat. Jam cum sapius me instigasti ut selectas Propositiones quasdam ex his Chartis desumptas publici juris facerem, utpote existimans in illis quaedam reperiri quae ad res majoris momenti quam sit Speculatio ludorum applicari possint; huic tuo desiderio tandem obtempero, idque eo libentius, quo mihi videor jure aliquo a Te itidem impetrare posse ut pulcherri- ma tua inventa in Publicum proferre diutius non re- lueteris. Vale.\n\n2 August\n1722.\nPROPOSITIO I.\n\nSI sit Fractio qualibet \\(\\frac{1}{1 - ex + fx x - gx^3}\\) &c., cujus Numerator sit data Quantitas, & Denominator sit Multinomium utcunque compositum ex datis, \\(1, e, f, g, &c.\\) & indeterminata \\(x\\), dico Fractionem supradictam ad Fractiones simpliciores reducibilem fore.\n\nCasus Primus.\n\nSit Fractio proposta \\(\\frac{1}{1 - ex + fx x}\\); finge Denominatorem \\(1 - ex + fx x = 0\\), sintque \\(\\frac{1}{m}, \\frac{1}{p}\\) radices istius Aequationis, sive facto \\(xx - ex + f = 0\\), sint \\(m, p\\), radices Aequationis novae, fac \\(A = \\frac{m}{m - p}\\), atque \\(B = \\frac{p}{p - m}\\), & erit Fractio proposta æqualis summae \\(\\frac{A}{1 - mx} + \\frac{B}{1 - px}\\).\n\nCasus Secundus.\n\nSit Fractio proposta \\(\\frac{1}{1 - ex + fx x - gx^3}\\); fingatur \\(x^3 - ex x + fx - g = 0\\), sintque \\(m, p, q\\), radices istius Aequationis, pone \\(A = \\frac{mm}{m - p \\times m - q}\\), \\(B =\\)\nB = \\frac{pp}{p-m \\times p-q}, C = \\frac{qq}{q-m \\times q-p}; &\n\nerit Fractio proposita æqualis summæ \\frac{A}{1-mx} + \\frac{B}{1-px} + \\frac{C}{1-qx}.\n\nCasus Tertius.\n\nSit Fractio proposita \\frac{1}{1-ex+fxx-gx^3+bx^4}.\nFingatur \\(x^4 - ex^3 + fxx - gx + b = 0\\), sintque \\(m, p, q, s\\), Radius istius æquationes; pone A = \\frac{m^3}{m-p \\times m-q \\times m-s}, B = \\frac{p^3}{p-m \\times p-q \\times p-s}, C = \\frac{q^3}{q-m \\times q-p \\times q-s}, D = \\frac{s^3}{s-m \\times s-p \\times s-q}\\), eritque Fractio proposita æqualis summæ \\frac{A}{1-mx} + \\frac{B}{1-px} + \\frac{C}{1-qx} + \\frac{D}{1-sx}.\n\nCasus Quartus.\n\nSit Fractio proposita \\frac{1}{1-ex+fxx-gx^3+bx^4-kx^5}.\nFingatur \\(x^5 - ex^4 + fxx^3 - gx^2 + hx - k = 0\\), sintque \\(m, p, q, s, t\\), Radices istius æquationis; pone A = \\frac{1}{1-a}\n\\[ C = \\frac{q^4}{q-m \\times q-p \\times q-s \\times q-t} \\]\n\n\\[ D = \\frac{s^4}{s-m \\times s-p \\times s-q \\times s-t}, \\quad E = \\frac{t^4}{t-p \\times t-q \\times t-s}. \\]\n\nEritque Fractio proposita æqualis summæ,\n\n\\[\n\\frac{A}{1-mx} + \\frac{B}{1-px} + \\frac{C}{1-qx} + \\frac{D}{1-sx} + \\frac{E}{1-sx}.\n\\]\n\nLex Reductionis ita uno intuitu se prodit, tamque facilis est illius continuatio ut inutile foret illam verbis explanare.\n\n**Corollarium I.**\n\nSi Radices omnes sint æquales, non poterit Fractio proposita reduci ad simpliciores.\n\n**Corollarium II.**\n\nSi Radices aliquæ sint æquales, aliæ vero inæquales, poterit reduci fractio proposita ad simpliciores; fit v.g. fractio proposita\n\n\\[\n\\frac{1}{1- ex + fx x - gx},\n\\]\n\nfactoque ut praescriptum est \\( x^3 - ex x + fx - g = 0 \\). Sint Radices istius æquationis \\( m, p, q \\), quarum \\( m \\) & \\( p \\) sint æquales: erunt fractiones simplices in quas resolvitur proposita\n\n\\[\n\\frac{mm}{m-p \\times m-q \\times 1-mx} + \\frac{pp}{p-q \\times 1-px} + \\frac{qq}{q-m \\times q-p \\times 1-qx};\n\\]\n\naddantur duæ priores in unam summam, & erit summa (divisis\n(divisīs Numeratore & Denominatore per \\( m - p \\))\n\n\\[\n\\frac{mp - q \\times m + p + mpq x}{m - q \\times p - q + i - mx \\times i - px} = \\text{five}\n\\]\n\n\\[\n\\frac{mm - 2qm + mmq x}{m - q^2 \\times i - mx^2} = \\text{five}\n\\]\n\n\\[\n\\frac{qm}{m - q^2 \\times i - mx^2} = \\text{ad eoque Fractiones reductae}\n\\]\n\n\\[\n\\text{erunt } \\frac{m}{m - q \\times i - mx^2} - \\frac{qm}{m - q^2 \\times i - mx^2}\n\\]\n\n\\[\n+ \\frac{qq}{m - q^2 \\times i - qx}.\n\\]\n\n**Corollarium III.**\n\nSi Fractiones simplices in quas resolvitur Fractio proposita involvant Quantitates imaginarias, tunc quicquid est imaginarii semper destruetur per additionem duarum vel plurium fractionum numero pari sumptarum.\n\n**Corollarium IV.**\n\nEx combinatione Fractionum simplicium, & apta limitatione Radicum, plurima suborentur Theoremata in quibus inerit concinnitas quaedam minime aspernanda Ex.g. fit fractio proposita\n\n\\[\n\\frac{1}{1 - ex + fxx - gx^3 + hx^4}\n\\]\n\nfactoque ut antea \\( x^4 - e x^3 + f xx - g x + h = 0 \\).\n\nSint \\( m, p, q, s \\), Radices Aequationis, sintque Fractiones in quas resolvitur proposita,\n\n\\[\n\\frac{A}{i - mx} + \\frac{B}{i - px}\n\\]\n\\[ \\frac{C}{x-q} + \\frac{D}{x-s}. \\text{ Ponatur } q = -m, \\text{ atque } s = -p; \\text{ addantur simul duae priores, itemque duae posteriores, & reducetur fractio proposta ad } \\]\n\n\\[\n\\frac{m+p-mpx}{2\\times m+p\\times x-m\\times x\\times x-p\\times x} + \\frac{m+p+mpx}{x\\times x+m\\times x\\times x+p\\times x}\n\\]\n\nsi vero ponatur \\( p = -m, \\) atque \\( s = -q, \\) & addantur duae priores, itemque duae posteriores, reducetur Fractio proposta ad\n\n\\[\n\\frac{mm}{x\\times x-mm\\times x\\times x} + \\frac{qq}{qq-mm\\times x\\times x}\n\\]\n\n**Propositio II.**\n\nSi sit Fractio qualibet cujus Numerator sit data Quantitas, & Denominator sit Trinomium vel Quadrinomium vel Quinquinomium, &c. radicalitate non affectum & utcunque compositum ex datis, i, e, f, g, h, &c. & indeterminata x atque dividator Numerator per Denominatorem, ut habeatur Series Infinita; dico fore ut, si sumantur Termini quilibet istius seriei aequalibus intervallis a se invicem distantibus, series infinitae inde resultantes, summabiles futura sint.\n\n**Exemplum I.**\n\nSit Fractio proposta \\( \\frac{1}{x-x\\times x}; \\) reducatur illa\nad seriem infinitam, nempe ad $1 + x + 2xx + 3x^3 + 5x^4 + 8x^5 + 13x^6 + 21x^7 + 34x^8 \\&c.$ fumanturque termini omnes alterni, incipiendo a primo, itidemque fumantur Termini omnes alterni, incipiendo a secundo, hincque conficiantur series binæ,\n\nVidelicet, $1 + 2xx + 5x^4 + 13x^5 + 34x^6 \\&c.$\n\n$x + 3x^3 + 8x^5 + 21x^7 + 55x^9 \\&c.$\n\nFingatur Denominator Fractionis propositæ, $1 - x - xx = 0$, jam cum indices potestatum indeterminatæ $x$, in novis seriebus se invicem superent communi differentia $2$, pone $xx = z$, atque ope duarum æquationum $1 - x - xx = 0$, $\\& x x = z$, exterminetur $x$; fietque $1 - 3z + zz = 0$; jam nunc restituatur $x$, $\\&$ erit $1 - 3xx + x^4 = 0$; dividatur hæc æquatio per primam, quotiens erit $1 + x - xx$; fumantur alternatim Termini quotientis, propter Terminos alternatim sumptos in serie proposita, hincque orientur summæ duæ, $1 - xx$, $\\& x$; consti-\ntuantur hæ summæ Numeratores Fractionum duarum quarum communis Denominator sit $1 - 3xx + x^4$. eruntque $\\frac{1 - xx}{1 - 3xx + x^4}$ $\\& \\frac{x}{1 - 3xx + x^4}$ summæ re-\nspectivæ novarum Serierum.\n\nExemplum II.\n\nSi vero desiderentur summæ terminorum intervallis binis a se distantium, fiat ut prius $1 - x - xx = 0$, jam cum indices potestatum in novis seriebus se invicem superunt communi differentia $3$, ponatur $x^3 = z$, $\\&$ fiet $1 - 4z - zz = 0$, atque restituto $x$, fiet $1 - 4x^3 - x^6 = 0$; dividatur $1 - 4x^3 - x^6$ per $1 - x - xx$, quotiens erit $1 + x + 2xx - x^3 + x^4$, cajus termini ordinatim sumpti ad intervalla bina, tres conficien\nconscient summas, videlicet, \\(1 - x^3, x + x^4, 2xx\\), quae figillatim sumptae, erunt illae Numeratores, trium Fractionum, quibus si apponatur communis Denominator \\(1 - 4x^3 - x^6\\), crunt tres Fractiones,\n\n\\[\n\\frac{1 - x^3}{1 - 4x^3 - x^6}, \\quad \\frac{x + x^4}{1 - 4x^3 - x^6}, \\quad \\frac{2xx}{1 - 4x^3 - x^6},\n\\]\n\nsummæ tres Terminorum omnium binis intervallis a se distantium, incipiendo respective a primo, secundo & tertio Termino; atque eodem methodo colligere licet summæ terminorum ternis vel quaternis vel quinis intervallis a se distantibus, sive denominator sit quadrinomium, vel multinomium quodcumque ex terminis finitis compositum.\n\n**PROPOSITIO III.**\n\n*Si dividatur Unitas per Trinomium utcunque compositum ex datis \\(i, c, f, g, \\&c.\\) & indeterminata \\(x\\); dico Terminus quemvis Seriei ex hac divisione resultantis, assignabilem fore.*\n\nSit Trinomium \\(1 - ex + fx x\\) finge \\(xx - ex + f = 0\\), sint \\(m \\& p\\), radices Aequationis; sit \\(l + i\\) locus termini desiderati, hoc est exprimat \\(l\\) intervallum inter primum Terminus & Terminus quaestum, fac\n\n\\[\nA = \\frac{m}{m - p}, \\quad B = \\frac{p}{p - m}.\n\\]\n\nEt erit Terminus desideratus \\(Am^l + Bp^l \\times x^l\\).\n\nEodem modo si dividatur Unitas per quadrinomium \\(1 - ex + fx x - gx^3\\), pone \\(x^3 - ex x + fx - g = 0\\), sintque \\(m, p, q\\), radices Aequationis, fac \\(A = \\frac{mm}{m - p \\times m - q}\\), \\(B = \\frac{pp}{p - m \\times p - q}\\), \\(C = \\frac{qq}{q - m \\times q - p}\\).\n\\[\n\\frac{q^q}{q-m \\times q-p} \\text{ Et erit Terminus desideratus}\n\\]\n\n\\[A m^i + B p^i + C q^i \\times x^i, \\& \\text{ lex eadem obtinet pro multinomiis quibuscunque.}\\]\n\n**PROBLEMA.**\n\n*A & B quorum Dexteritates sint in ratione data videlicet ut a ad b, ea conditione ludant, ut quoties A ludum unum vicerit, B tradat ipsi nummum unum: quoties vero B vicerit, A tradat ipsi nummum unum: & non prius ludo desistant, quam eorum alter nummos omnes alterius lucratus fuerit; queritur quantum probabile futurum sit ut certamen intra datum ludorum numerum x, vel expirante illo numero, finiatur.*\n\n*Causa Primus.*\n\nSit \\(n\\) numerus nummorum quos uterque Collusorum habeat; sit etiam \\(n\\) numerus par, ponaturque \\(a\\) ad \\(b\\) habere rationem æqualitatis.\n\n---\n\n![Diagram](image-url)\nCentro D, Intervallo DA = 1, describatur Semi-\ncircumferentia AMZ quae dividatur in tot partes æ-\nquales quot sunt unitates in n, tunc ex primo H, tertio\nK, quinto M &c. & impari quoque divisionis termino,\ndemittantur ad diametrum perpendicula HB, KC, MD,\nOE, QF &c. ponatur \\( Q = \\frac{HB^{x+1}}{AB^{\\frac{1}{2}x+1}} - \\frac{CK^{x+1}}{AC^{\\frac{1}{2}x+1}} \\)\n\\[\n+ \\frac{DM^{x+1}}{AD^{\\frac{1}{2}x+1}} - \\frac{EO^{x+1}}{AE^{\\frac{1}{2}x+1}} + \\frac{QF^{x+1}}{AF^{\\frac{1}{2}x+1}} &c. donec\n\\]\nsinus omnes exhausturant: quo facto, erit probabilitas\ncertaminis finiendi intra ludos non plures quam x, ad\nprobabilitatem non finiendi, ut \\( 2^{\\frac{1}{2}x-1}n - Q \\) ad Q,\naccurate.\n\nCorollarium I.\n\nSi sumatur pro Q Terminus primus \\( \\frac{HB^{x+1}}{AB^{\\frac{1}{2}x+1}} \\)\nneglectis cæteris, habebitur approximatio sufficiens nisi\nforte sit x numerus valde exiguum.\n\nExemplum:\n\nSit n numerus nummorum quos uterque Collusorum\nhabeat = 10. Sit etiam x = 76. Si sumatur pro Q\nprimus terminus & negligentur cæteri, invenietur pro-\nbabilitas certaminis finiendi intra ludos non plures\nquam 76 ad probabilitatem non finiendi ut 50747 ad\n49235, si vero sumatur pro Q termini duo priores ne-\nglectis cæteris, invenietur ratio probabilitatum ut 50743\nad 49247.\n\nCoroll-\nCorollarium II.\n\nInvenire quotenis ludis, probabilitates certaminis finiendi & non finiendi erunt æquales.\n\nSolutio.\n\nPonatur pro Q Terminus unicus $\\frac{HB}{AB} = \\frac{x + 1}{x - 1}$, fiatque\n\n$2^{n-1} n - Q = Q$. Et posito $n$ maximo numero invenietur, $x = 0.756 n$ proxime, aliquanto major quam $\\frac{3}{4} n$.\n\nCasus Secundus.\n\nSit $n$ numerus impar, ponaturque $a$ ad $b$ habere rationem æqualitatis.\n\nCentro G, intervallo GA describatur semicircumfrentia AMZ quæ dividatur in tot partes æquales, quot sunt\nfunt unitates in \\( n \\); tunc ex primo \\( H \\), tertio \\( K \\), quinto \\( M \\), & impari quoque divisionis termino, demittantur ad diametrum perpendicula \\( HB \\), \\( KC \\), \\( MD \\), \\( OE \\), \\( QF \\) &c. ex diametri extremitate \\( A \\), primo scilicet arcui contermina, ducantur subtensae \\( AH \\), \\( AK \\), \\( AM \\), &c. ad quas e Centro \\( G \\) ducantur perpendicula \\( G\\alpha \\), \\( G\\beta \\), \\( G\\gamma \\), \\( G\\delta \\), \\( G\\varepsilon \\), &c. ponatur \\( Q = \\frac{BH^\\infty \\times G\\alpha}{AB^\\frac{x+1}{2}} - \\frac{CK^\\infty \\times G\\beta}{AC^\\frac{x+1}{2}} + \\frac{DM^\\infty \\times G\\gamma}{AD^\\frac{x+1}{2}} - \\frac{EO^\\infty \\times G\\delta}{AE^\\frac{x+1}{2}} + \\frac{FQ^\\infty \\times G\\varepsilon}{AF^\\frac{x+1}{2}} &c. \\) quo facto, erit probabilitas certaminis finiendi intra ludos non plures quam \\( x \\), ad probabilitatem non finiendi, ut \\( 2^{\\frac{x-3}{2}}n - Q \\) ad \\( Q \\) accurate.\n\n**Corollarium I.**\n\nSi sumatur pro \\( Q \\) terminus primus \\( \\frac{HB^\\infty \\times G\\alpha}{AB^\\frac{x+1}{2}} \\) neglectis caeteris, habebitur approximatio sufficiens.\n\n**Exemplum.**\n\nSit \\( n \\) numerus nummorum quos uterque Collusorum habeat = 45. Sit etiam \\( x = 1519 \\). Sumatur pro \\( Q \\) terminus primus neglectis caeteris, & invenietur probabilitas certaminis finiendi intra ludos non plures quam 1519 ad probabilitatem non finiendi ut 49959 ad 50441, quae proportio est vero proxima.\n\n**Corol.**\nCorollarium II.\n\nInvenire quotenis ludis probabilitates certaminis finiendi & non finiendi æquales.\n\nSolutio.\n\nPonatur pro Q Terminus unicus $\\frac{HB^x \\times G}{x + 1}$, fiat.\n\n$\\frac{x - 3}{2^n} = Q$; & posito $n$ magno numero, invenietur $x = 0.756 n$ proxime aliquanto major quam $\\frac{1}{4} n$ contra quam sentiebat Clarissimus Montmortius.\n\nCasus Tertius.\n\nPositis cæteris ut in primo casu, sit $a$ ad $b$ ratio inæqualitatis (vid. Fig. 1.) Pone $\\frac{a^n + b^n}{a + b^n} = L$, $\\frac{a - b}{a + b}$\n\n$d = \\frac{ab}{a + b}$, Fac, $1, 2 r :: \\frac{HBq}{AB}, m :: \\frac{CKq}{AC}$,\n\n$p :: \\frac{MDq}{AD}, q :: \\frac{OEq}{AE}, s :: \\frac{QFq}{AF}, t.$\n\nPone $Q = \\frac{HB}{2rAB + d} m^{\\frac{1}{x}} - \\frac{CK}{2rAC + d} p^{\\frac{1}{x}}$\n\n$+ \\frac{MD}{2rAD + d} q^{\\frac{1}{x}} \\&c.$ quo facto erit probabilitas ludi finiendi intra ludos non plures quam $x$ ad probabilitatem non finiendi ut $nr^{\\frac{1}{n-1}} - 2LQ$ ad $2LQ$.\nCorollarium II.\n\nSi sumatur pro Q Terminus primus \\(\\frac{HB}{2rAB+d}\\) \\(m^{\\frac{x-1}{2}}\\) neglectis cæteris, habebitur approximatio sufficiens.\n\nCausus Quartus.\n\nPositis cæteris ut iu secundo casu, sit \\(a\\) ad \\(b\\) ratio inæqualitatis (vid. Fig. 2.)\n\nPone quantitates \\(L, d, r, m, p, q, s, t, &c.\\) ut in tertio casu.\n\n\\[P = \\frac{BH \\times G_\\alpha}{2rAB+d} m^{\\frac{x-1}{2}} - \\frac{CK \\times G_\\beta}{2rAC+d}\\]\n\n\\[q = \\frac{DM \\times G_y}{2rAD+d} q^{\\frac{x-1}{2}} &c.\\] quo facto erit probabilitas ludi finiendi intra ludos non plures quam \\(x\\) ad probabilitatem non finiendi ut \\(nr^{\\frac{n-3}{2}} - 4LQ\\) ad \\(4LQ\\).\n\nCorollarium.\n\nSi sumatur pro Q Terminus unicus \\(\\frac{BH \\times G_\\alpha}{2rAB+d}\\) \\(m^{\\frac{x-1}{2}}\\) neglectis cæteris habebitur approximatio sufficiens.\n\nQuemadmodum in Progressione Geometricâ, Terminus quilibet ad proxime precedentem habet rationem datam, ita sunt aliae Progressiones quae sic constitui possunt ut assumptis ad libitum Terminis duobus primis, Terminus quilibet subsequens ad duos proxime praecedentes habeat rationes datas, hujusmodi est subjecta Series,\nA B C D E F\n\\[1 + 3x + 7xx + 17x^3 + 41x^4 + 99x^5\\] &c. in qua\nC = 2Bx + 1Ax\nD = 2Cx + 1Bx\nE = 2Dx + 1Cx\nF = 2Ex + 1Dx &c.\n\nQuantitates autem Numerales 2 + 1 simul sumptas subque propriis signis connexas appellare licet Indicem Relationis.\n\nEodem modo constitui possunt series aliae in quibus assumptis ad libitum Terminis tribus primis, Terminus quilibet subsequens ad tres proxime praecedentes habeat rationes datas; hujus generis est subjecta Series.\n\nA B C D E F\n\\[1 + 2x + 3xx + 10x^3 + 34x^4 + 97x^5\\] &c. in qua\nD = 3Cx - 2Bx + 5Ax\nE = 3Dx - 2Cx + 5Bx\nF = 3Ex - 2Dx + 5Cx &c.\n\nQuantitates autem Numerales 3 - 2 + 5 simul sumpta subque propriis signis connexae, componunt Indicem Relationis.\n\nSunt aliae series in quibus Relatio fit ad quatuor, vel ad quinque, vel ad sex Terminos praecedentes, &c.\n\nSeries autem omnes hujus generis recurrentes appellare licebit propter Relationem Terminorum perpetuo recurrentem.\n\nPROBLEMA II.\n\nIn seriebus recurrentibus, ex datis Terminis duobus primis, si relatio fiat ad duos praecedentes; vel datis\ndatis Terminis tribus primis, si relatio fiat ad tres praecedentes, &c. dato etiam indice relationis, invenire summam Terminorum quotlibet quorum numerus datus sit.\n\nProblemata solvitur in Tractatu nostro qui inscribitur, The Doctrine of Chances.\n\n**PROBLEMA III.**\n\nAssumptis ad libitum seriebus quotcunque recurrentibus; Terminisque, iisdem intervallis a principio serierum distantibus, in se invicem multiplicatis, invenire summam seriei ex hac multiplicatione resultantis.\n\n**INVESTIGATIO.**\n\nI° Proponantur series duæ, sitque \\( m + n \\) Index Relationis in prima serie, atque \\( p + q \\) Index Relationis in secunda, ex primo Indice \\( m + n \\), formetur Aequatio \\( xx - mx - n = 0 \\), ex secundo Indice \\( p + q \\), formetur Aequatio \\( yy - py - q = 0 \\), pone \\( x y = z \\).\n\nAtque ope trium istarum Aequationum, expungantur \\( x \\& y \\), & orietur Aequatio \\( z^4 - mpz^3 - mmqzz - mnpqz + nnqq = 0 \\).\n\nin qua deleto primo termino \\( z^4 \\), mutatis signis omnibus, atque posito \\( z = 1 \\), obtinebitur Index Relationis, quo obtento, series resultans facile summabitur;\n\nII° eodem modo procedere licet, si dentur series tres vel quatuor &c. recurrentes.\n\n\\[ Ff2 \\]\nDum superiores paginae praelo subjiciebantur, incidit fortuito in Acta Leipz. annorum 1702 & 1703, quibus comperi Cla. Leibnitium eadem fere methodo ante me usum fuisse qua hic utor in reducendis Fractionibus Algebraicis ad simpliciores, quod movitum velim ut a me avertam vel minimam suspicionem, aliena mihi met arrogiare voluisse; Propositio autem qua id praestimus aque ac Propositio nostra tertia, ambae deducuntur tanquam Corollaria ex altera Propositione maxime generali quam exhibuimus coram Regali Societate, Maii 5° 1720; Propositio sic se habet.\n\nData serie quavis recurrente quarum Termini quotlibet primi ad libitum sumantur; dato etiam Indice Relationis Terminorum sequentium ad praeceden- tes, invenire Terminum quemlibet assignatum in hac serie, priusquam summa seriei sit cognita.\n\nQui autem rite perspexerit Solutionem Proble- matis hic adducti, is utique percipiet illam pendere a Propositione nostra generali, cujus demonstrationem simulque modum investigationis brevi spero publici juris faciam.\n\nIV. De-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103594.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 18,
+    "total-input-tokens": 26200,
+    "total-output-tokens": 7541,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1186,
+        2
+      ],
+      [
+        1186,
+        2079,
+        3
+      ],
+      [
+        2079,
+        2884,
+        4
+      ],
+      [
+        2884,
+        3980,
+        5
+      ],
+      [
+        3980,
+        5090,
+        6
+      ],
+      [
+        5090,
+        6178,
+        7
+      ],
+      [
+        6178,
+        7735,
+        8
+      ],
+      [
+        7735,
+        9199,
+        9
+      ],
+      [
+        9199,
+        9978,
+        10
+      ],
+      [
+        9978,
+        11240,
+        11
+      ],
+      [
+        11240,
+        11756,
+        12
+      ],
+      [
+        11756,
+        13177,
+        13
+      ],
+      [
+        13177,
+        14111,
+        14
+      ],
+      [
+        14111,
+        15224,
+        15
+      ],
+      [
+        15224,
+        16269,
+        16
+      ],
+      [
+        16269,
+        17447,
+        17
+      ],
+      [
+        17447,
+        18472,
+        18
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103594",
+    "title": "De Fractionibus Algebraicis Radicalitate Immunibus ad Fractiones Simpliciores Reducendis, Deque Summandis Terminis Quarumdam Serierum Aequali Intervallo a Se Distantibus. Auctore Abrahamo de Moivre, S. R. Socio",
+    "authors": "Abrahamo de Moivre",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 18,
+    "jstor_url": "https://www.jstor.org/stable/103594"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "4cdfaa498f4fdd38e1b1d2bba0d440197b3888f0",
+  "text": "tainy, without any regard to the distance of the object.\n\nUpon the whole, it may be concluded, that this micrometer is a complete instrument in its kind; having many advantages above the common sort, without any of their disadvantages: And there is no doubt, but, when brought into practice, it will tend much to the advancement of astronomy.\n\nLXXXV. An Account of an Earthquake felt at York on the 19th of April 1754. In a Letter from Mr. David Erskine Baker to Tho. Birch, D. D. Secret. R. S.\n\nDear Sir,\n\nRead Apr. 25, 1754.\n\nON Friday night last, the 19th instant, at about eleven o'clock, we were alarm'd, in this city, with the shock of an earthquake. As I was myself in London, and felt both the shocks, which happen'd there in the year 1750, I became immediately sensible of what it was. In the room, in which I was sitting, which was on a first floor, the tremulous, or rather undulating, motion of the floor was very plain; and the windows rattled, as if they had been shaken by a sudden squall of wind. The shock lasted for about three seconds, and was attended, or rather preceded, by a rumbling noise, not much unlike that made by an empty hearse driven over a stone pavement, and, indeed, exactly the same with that, which I remember to have heard, with both the shocks, in London, in 1750. The violence of the shock\nshock seem'd to me to be nearly the same with that of the 8th of February, but not so great as that of the 8th of March, in that year; and the course of it, as far as I have been enabled to judge, not only from my own observation at the time, but from the accounts of others, seem'd to be nearly from south-west to north-east, it being felt the strongest in the streets which run in that direction; particularly in Stonegate, where I lodge; in Mary-gate, and Lopp-lane; in the latter of which, I was told, that a chamber-bell, in a gentleman's house, was heard to ring very distinctly; and a gentlewoman of my acquaintance, in a street, which runs parallel to these, who was very weakly, and was sitting up after a lying-in, was almost thrown forwards out of her chair by the shock. As I have no great correspondence in this county, and am, moreover, going to leave it in about a fortnight's time, I fear I shall not be enabled to trace out the extent of this shock; tho' I am inform'd, it was felt very sensibly at Foforth, Bishopthorpe, Huntington, and Hesslington, small towns at two or three miles distance from this city; and also at Selby, about ten miles to the southward of York. If you should think this account worth communicating to your illustrious Society, you are entirely at liberty so to do; and I beg you would believe, that I am, with the utmost sincerity and respect, Sir,\n\nYour and their\n\nmost obedient humble servant,\n\nYork, April 21,\n1754.\n\nDavid Erskine Baker.\n\nP.S.\nP. S. Since the writing of the above, I have been inform'd, that, in two or three houses, singing birds, which were at the time roosting in their cages, were thrown off their perches by the suddenness of the shock.\n\nLXXVI. An Investigation of some Theorems which suggest some remarkable Properties of the Circle, and are of Use in resolving Fractions, whose Denominators are certain Multinomials, into more simple ones. By Mr. John Landen.\n\nRead May 2, 1754.\n\nTHAT the principal theorems, below investigated, will be of considerable use in the doctrine of fluxions, by rendering, in many cases, the business of computing fluents more easy, will, on perusal, be obvious to every one acquainted with that branch of science. Therefore, as the facilitating computations in that doctrine (which affords us wonderful assistance in many physical enquiries) may be a means of extending our knowledge in philosophy; it is presum'd, that this paper will not be thought unworthy the notice of the Royal Society.\n\nI.\n\nSupposing \\(\\frac{n \\dot{x}}{\\sqrt{x^2 - 1}} = \\frac{\\dot{y}}{\\sqrt{y^2 - 1}}\\), where \\(\\dot{x}\\) and \\(\\dot{y}\\) denote the fluxions of the variable quantities \\(x\\) and \\(y\\) re-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105189.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1128,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1330,
+        2
+      ],
+      [
+        1330,
+        2820,
+        3
+      ],
+      [
+        2820,
+        4007,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105189",
+    "title": "An Account of an Earthquake Felt at York on the 19th of April 1754. In a Letter from Mr. David Erskine Baker to Tho. Birch, D. D. Secret. R. S.",
+    "authors": "David Erskine Baker",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105189"
+  }
+}

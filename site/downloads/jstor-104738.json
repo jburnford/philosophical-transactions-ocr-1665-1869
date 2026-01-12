@@ -1,0 +1,69 @@
+{
+  "id": "f26cb86031b41fb7d5b2d353655aae41e9ee1baa",
+  "text": "Yesterday I heard they had a little of it at Portsmouth and Lymington: And a Servant-Maid in this Town says, she felt her Chair shake; and the Windows shook, and the Wainscot crack'd, just at the same time: But I neither felt it, nor can find any body besides that did.\n\nXXXI.\nA Letter from Mr. Peter Newcome F. R. S. to the President, concerning the same Shock being felt at Hackney, near London.\n\nSIR,\nRead March 29. I BEG Leave to give you some Account of what was felt in our House at Hackney, on Sunday the 18th, a little after 6 o'Clock in the Evening; as we have received Accounts of the Shock of an Earthquake being felt at Bath, Portsmouth, and some other Places on that Day.\n\nMy Cousin Peter Newcome was sitting in his Chamber on the upper Floor of the House, looking towards the Fire, when he plainly perceiv'd the Hearth of his Chimney to be moved; and immediately felt the Chamber rock three or four times from West to East but heard no Noise, as at the time of that Shock felt on the 8th.\n\nBeing much surprised, he was running downstairs, and there met with one of the Maid-Servants, who was running in a great Fright out of another Room.\nRoom on the same Floor; and, before they could speak, a young Gentleman, of about 15 Years old, came out of a Closet just by, and they all at one Moment asked each other if what they had felt was not another Earthquake.\n\nIn a Chamber on the Floor below, Master Hadley, Son to the late Mr. Hadley of this Society, was in his Bed, being ill of a Cold; he felt the Bed move upwards so sensibly, that he imagin'd somebody had got under it out of Wantonness, and was lifting it up; and actually got out to look under the Bed.\n\nThe same was felt by another Servant, on the upper Floor, at the other End of the House; and by another young Gentleman underneath in that Part also. The rest of the Family, being all together below-stairs, felt nothing of it. I am,\n\nSIR,\n\nHackney, March 29. Your most obedient Servant,\n\nP. Newcome.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104738.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 584,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1153,
+        2
+      ],
+      [
+        1153,
+        1974,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104738",
+    "title": "A Letter from Mr. Peter Newcome F. R. S. to the President, concerning the Same Shock Being Felt at Hackney, Near London",
+    "authors": "Peter Newcome",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104738"
+  }
+}

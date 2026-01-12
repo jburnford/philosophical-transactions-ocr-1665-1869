@@ -1,0 +1,59 @@
+{
+  "id": "e038966b17e34c2f573fa6243845c0f280162e12",
+  "text": "He adds, that from Maastricht also 'twas written, that with the same liquor the blood of a leg had been stopp'd, the half of which had been carryed away by a Canon-bullet.\n\nIllustrissimi slusii modus, quo demonstrat Methodum suam ducendi Tangentes ad quaslibet Curvas abq; calculo, antehact traditam in horum Actorum N°.90.\n\n—De Clar. Viri . . . . Methodo nihil aliud dicere possum, nisi mihi videri meam esse, quà nempe tot ante annos usus sum, & cujus ope flexus Curvarum contrarios ac Problematum limites ostendi tum in Miscellaneis meis, tum etiam in literis, si rectè memini, olim ad te datis. Quà viâ in illam incidere, & quomodo illam demonstret vir doctissimus, ab ipso intelligere poteris: Ego sanè paucis, ut altius ad Te scripsi, & vulgo notis, Lemmatibus rem absolvò; atque, ut candidè Tecum agam, ecce ipsa Lemmata:\n\n1. Differentia duarum dignitatum ejusdem gradûs applicata ad differentiam laterum, dat partes singulares gradûs inferioris ex binomio laterum; Ut \\( y - x = y^2 + yx + xx \\). Legitur hoc apud plerosque & faciè ostenditur.\n\n2. Tot sunt partes singulares ex binomio in gradu quolibet, quot unitates habet Exponens dignitatis immediatè superioris; tres nimirum in Quadrato, quatuor in Cubo, &c. Et hoc vulgo notum.\n\n3. Si quantitas eadem applicetur ad duas alias, quarum ratio data sit, Quotientes erunt reciproce in eadem ratione data, Quod quidem evidens est vel cuilibet Arithmetica candidato.\n\nHis Lemmatibus methodus mea demonstratur: Nee multum temporis Tibi erit impendendum, ut demonstrationem ex illis convinceres, cum eo ordine à me disposita sint, qui ad illum quasi manu ducit. Plurascribere me vetat temporis brevitas. Vale, méque ut soles ama, Dabam Leodii 3. Maii 1673.\n\nKk.k kkk",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101355.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 611,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1721,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101355",
+    "title": "Illustrissimi Slusiii Modus, Quo Demonstrat Methodum Suam Ducendi Tangentes ad Quaslibet Curvas Absq Calculo, Antehac Traditam in Horum Actorum No. 90",
+    "authors": "Slusiii",
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101355"
+  }
+}

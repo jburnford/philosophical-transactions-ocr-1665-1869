@@ -1,0 +1,69 @@
+{
+  "id": "7fab8e20f4c6678cfba23d06ba430f979ac92e51",
+  "text": "Seaventhly, from Germany we are inform'd, that in the University of Jena in Upper Saxony, one Mr. Weigbelins, Professor of the Mathematicks there, hath invented several ingenious Instruments and Engins; As first, an Astronomical one, which he calls Astrodicticum, by the means whereof very many persons shall be able at one and the same time to behold one and the same Star. Secondly, An exceeding great Globe of the World, capable of ten persons to sit in it all at once, and to behold the motions of the celestial Bodies, &c. Thirdly, An odd Bridge, or a kind of Stairs, by which a man shall descend and yet really be raised upward, and going as 'twere upon a plain shall, from a lower, by gently subsiding, arrive to an upper story, &c. Of these and other particulars, said to be in part already done, and in part design'd by the said Mathematician, we hope we shall in time obtain a more satisfactory account.\n\nThe Extract of a Letter written by Mr. John Ray to the Publisher from Midleton, July 3, 1671, concerning Spontaneous Generation; As also some Insects (melling of Musks)\n\nSir,\n\nAs to the particulars contain'd in your Letter, I well remember, that Mr. Lister did, a good while since, write me his opinion concerning Vegetable Excreencies, and the Insects therein bred and harboured; but the Letter containing that Discourse I have not at present by me, it being sent away in a bundle of other Letters and papers into Essex. I have therefore written to him to desire him to take the pains himself to send you his thoughts upon that subject.*\n\n* The Reader is like to find this Account in the Translations of the next Month.\n\nWhether there be any Spontaneous or Anomalous Generation of Animals, as hath been the constant opinion of Naturalists heretofore, I think there is good reason to question. It seems to me at present most probable, that there\nthere is no such thing; but that even all Insects are the natural issue of parents of the same species with themselves. F. Redi hath gone a good way in proving this, having cleared the point concerning generation ex materia putrida.* But still there remain two great difficulties.\n\nThe first is, to give an accompt of the production of Insects bred in the By-fruits and Excrecencies of Vegetables, which the said Redi doubts not to ascribe to the Vegetative Soul of the Plant that yields those Excrecencies. But for this I refer you to Mr. Lister. The second, to render an accompt of Insects bred in the Bodies of other animals. I hope shortly to be able to give you an accompt of the Generation of some of those Insects, which have been thought to be spontaneous, and which seem as unlikely as any to be after the Ordinary and Usual way.\n\nOf such an Insect, as you mention, feeding upon Ranunculus, which when dried yields a Musky scent, I have no knowledge. I can at present call to mind but two sorts of Insects that I have seen, which smell of Musk. The one is like the common Capricornus or Goat-chafer, which is mention'd by all Naturalists that write of Insects, and which smells so strong of that perfume, that you may scent it at a good distance as it flies by, or sits near you. The other is a small sort of Bee, which in the South and East-parts of England is frequently to be met withal in Gardens among flowers in Spring-time. I remember, they were very plentiful in Sir Edw. Duke's Tulip-Garden, when the Tulips flowed. Sir Edward is now dead; his house was not far from Saxmundham in Suffolk; the name of the Parish I have forgot.\n\nI have by me the Description and Anatomy of a Porpois (which fish I happily met withal at West Chester) in which there are some particulars, that I find not in the Descriptions of Rondeletius or others, which, if you please, I shall send you*. I rest, &c.\n\n* When this shall come to hand, we intend to communicate it to the Curious, the ingenious Author permitting it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101086.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1001,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1861,
+        2
+      ],
+      [
+        1861,
+        3876,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101086",
+    "title": "The Extract of a Letter Written by Mr. John Ray to the Publisher from Midleton, July 3. 1671. Concerning Spontaneous Generation; As Also Some Insects Smelling of Musk",
+    "authors": "John Ray",
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101086"
+  }
+}

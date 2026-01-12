@@ -1,0 +1,199 @@
+{
+  "id": "5c3e8e038d0f59f0141f4f19f7e2a42d6ad69f32",
+  "text": "I. The Bakerian Lecture. Experiments upon the Resistance of Bodies moving in Fluids. By the Rev. Samuel Vince, A.M. F.R.S. Plumian Professor of Astronomy and Experimental Philosophy in the University of Cambridge.\n\nRead November 9, 1797.\n\nIn a former Paper upon the Motion of Fluids, I stated the difficulties to which the theory is subject, and showed its insufficiency to determine the time of emptying vessels, even in the most simple cases; I also proved, by actual experiments, that, in many instances, there was no agreement between their results and those deduced from theory. The great difference between the experimental and theoretical conclusions, in most of the cases which respect the times in which vessels empty themselves through pipes, necessarily leads us to suspect the truth of the theory of the action of fluids under all other circumstances. In the doctrine of the resistances of fluids, we see strong reasons to induce us to believe, that the theory cannot generally lead us to any true conclusions. When a body\nMr. Vince's Experiments on the Resistance\n\nmoves in a fluid, its particles strike the body; and, in our theoretical considerations, after this action, the particles are supposed to produce no further effect, but are conceived to be, as it were, annihilated. But, in fact, this cannot be the case; and what we are to allow for their effect afterwards, is beyond the reach of mere theoretical investigation. Whatever theory therefore we can admit, must be that which is founded upon such experiments as include in them every principle which is subject to any degree of uncertainty. We must therefore have recourse to experiments, in order to establish any conclusions upon which we may afterwards reason. In the paper above mentioned, I described a machine to find the resistances of bodies moving in fluids; since which time, I have made a variety of experiments with it, upon bodies moving both in air and water, and I have every reason to be satisfied of its great accuracy. In this paper, I propose to examine the resistance which arises from the action of non-elastic fluids upon bodies.\n\nThis subject divides itself into two parts; we may consider the action of water at rest upon a body moving in it, or we may consider the action of the water in motion upon the body at rest. We will first give the result of our experiments in the former case, and compare them with the conclusions deduced from theory. Now the radius of the axis of the machine made use of in these experiments was 0.2117 in. the area of the four planes was 3.73 in. the distance of their centres of resistance from the axis was 7.57 in. and they moved with a velocity of 0.66 feet in a second. The first column of the following table exhibits the angles at which the planes struck the fluid; the second column shows the resistance by experiment, in the direction of their motion, in Troy ounces; the third column\ngives the resistance by theory, assuming the perpendicular resistance to be the same as by experiment; the fourth column shows the power of the sine of the angle to which the resistance is proportional.\n\n| Angle | Experiment | Theory | Power |\n|-------|------------|--------|-------|\n| 10°   | 0.0112     | 0.0012 | 1.73  |\n| 20°   | 0.0964     | 0.0093 | 1.73  |\n| 30°   | 0.0769     | 0.0290 | 1.54  |\n| 40°   | 0.1174     | 0.0616 | 1.54  |\n| 50°   | 0.1552     | 0.1043 | 1.51  |\n| 60°   | 0.1902     | 0.1476 | 1.38  |\n| 70°   | 0.2125     | 0.1926 | 1.42  |\n| 80°   | 0.2237     | 0.2217 | 2.41  |\n| 90°   | 0.2321     | 0.2321 |       |\n\nThe fourth column was thus computed: Let $s$ be the sine of the angle to radius unity, $r$ the resistance at that angle, and suppose $r$ to vary as $s^m$; then $1^m : s^m :: 0.2321 : r$, hence, $s^m = \\frac{r}{0.2321}$, and consequently $m = \\log_r - \\log_0.2321 \\log_s$; and, by substituting for $r$ and $s$ their several corresponding values, we get the respective values of $m$, which are the numbers in the fourth column. Now the theory supposes the resistance to vary as the cube of the sine; whereas, the resistance decreases from an angle of 90°, in a less ratio than that, but not as any constant power of the sine, nor as any function of the sine and cosine, that I have yet discovered. Hence, the actual resistance is always greater than that which is deduced from theory, assuming the perpendicular resistance to be the same; the reason of which, in part at least, is, that in our theory we neglect the\nwhole of that part of the force which, after resolution, acts parallel to the plane; whereas (from the experiments which will be afterwards mentioned), it appears that part of that force acts upon the plane; also, the resistance of the fluid which escapes from the plane, into the surrounding fluid, may probably tend to increase the actual resistance above that which the theory gives, in which that consideration does not enter; but, as this latter circumstance affects the resistance at all angles, and we do not know the quantity of effect which it produces, we cannot say how it may affect the ratio of the resistances at different angles.\n\nIn theory, the resistance perpendicular to the planes is supposed to be equal to the weight of a column of fluid, whose base = 3.73 in. and altitude = the space through which a body must fall to acquire the velocity of 0.66 feet; now that space is 0.08124 in. consequently the weight of the column = 0.1598 Troy oz.; but the actual resistance was found to be = 0.2321 oz. Hence, the actual resistance of the planes : the resistance in our theory :: 0.2321 : 0.1598, which is nearly as 3 : 2.\n\nI am aware that experiments have been made upon the resistances of bodies moving in water, which have agreed with our theory. An extensive set was instituted by D'Alembert, Condorcet, and Bossut, the result of which very nearly coincided with theory, so far as regards the absolute quantity of the perpendicular resistance. Their experiments were made upon floating bodies, drawn upon the fluid by a force acting upon them in a direction parallel to the surface of the fluid. There can be no doubt but that these experiments were very accurately made. The experiments here related were also repeated so often, and with so much care, and the results always\nagreed so nearly, that there can be no doubt but that they give\nthe actual resistance to a very considerable degree of accuracy.\nIn our experiments, the planes were immersed at some depth\nin the fluid; in the other case, the bodies floated on the surface;\nand I can see no way of accounting for the difference of the\nresistances, but by supposing that, at the surface of the fluid,\nthe fluid from the end of the body may escape more easily\nthan when the body is immersed below the surface; but this,\nI confess, appears by no means a satisfactory solution of the\ndifficulty. The resistances of bodies descending in fluids mani-\nfestly come under the case of our experiments.\n\nTwo semi-globes were next taken, and made to revolve with\ntheir flat sides forwards. The diameter of each was 1,1 in. the\ndistance of the centre of resistance from the axis was 6,22 in.\nand they moved with a velocity of 0,542 feet in a second; and\nthe resistance was found to be 0,08339 oz. by experiment. By\ntheory, the resistance is 0,05496 oz.; hence, the resistance by\nexperiment : the resistance by theory :: 0,08339 : 0,05496,\nagreeing very well with the abovementioned proportion. But,\nwhen the spherical sides moved forwards with the same velo-\ncity, the resistance was 0,034 oz. Hence, the resistance on\nthe spherical side of a semi-globe : resistance on its base ::\n\n0,034 : 0,08339; but this is not the proportion of the resist-\nance of a perfect globe to the resistance of a cylinder of the\nsame diameter, moving with the same velocity, because the\nresistance depends upon the figure of the back part of the\nbody.\n\nI therefore took two cylinders, of the same diameter as the\ntwo semi-globes, and of the same weight; and, giving them\nthe same velocity, I found the resistance to be 0,07998 oz.;\ntherefore the resistance on the flat side of a semi-globe: the resistance of a cylinder of the same diameter, and moving with the same velocity :: $0.08339 : 0.07998$. This difference can arise only from the action of the fluid on the back side of the semi-globe, moving with its flat side forwards, being less than that on the back of the cylinder, in consequence of which the semi-globe suffered the greater resistance. The resistance of the cylinders, thus determined directly by experiment, agrees very well with the foregoing experiments. The resistance, *caeteris paribus*, varies as the square of the velocity very nearly, and may be taken so for all practical purposes, as I find by repeated experiments, made both upon air and water, in the manner described in my former paper. Hence, for different planes, the resistance varies as the area $\\times$ the square of the velocity. Now the resistance of the planes whose area was 3.73 in. moving with a velocity of 0.66 feet in a second, was found to be = 0.2321 oz. Also, the area of the two cylinders was 1.9 in. and their velocity was 0.542 feet in a second; to find, therefore, the resistance of the cylinders from that of the planes, we have $0.66^2 \\times 3.73 : 0.542^2 \\times 1.9 :: 0.2321$ oz : 0.07973 oz. for the resistance on the cylinders, differing but a very little from 0.07998 oz. the resistance found from direct experiment.\n\nNow, to get the resistance on a perfect globe, we must consider, that when the back part is spherical, the resistance is greater than when it is flat, in the ratio of $0.08339 : 0.07998$; hence, the resistance on a globe : the resistance on a semi-globe in the same ratio; but the resistance on the semi-globe was 0.034 oz. hence, $0.07998 : 0.08339 :: 0.034$ oz. : 0.0354 oz. the resistance of a globe; consequently, the resistance of a globe : the resistance of a cylinder of the same diameter, mov-\ning with the same velocity in water :: 0.0354 : 0.07998 :: 1 : 2.23.\n\nWe proceed next to compare the actual resistance of a globe with the resistance assumed in our theory. In the first place, the absolute quantity of resistance has been found to be greater than that which we use in theory, in the ratio of 0.2321 : 0.1598; but, by theory, the resistance of the globe : the resistance of the cylinder :: 1 : 2, or as 1.115 : 2.23; hence, by theory, we make the resistance of the globe too great, in the ratio of 1.115 : 1; and it is too small, from the former consideration, in the ratio of 0.1598 : 0.2321; therefore the actual resistance of the globe : the resistance in theory :: 0.2321 : 0.1598 × 1.115 :: 0.2321 : 0.1782, which is nearly in the ratio of 4 : 3.\n\nThus far we have considered the resistance of bodies moving in a fluid; we come next to consider the action of a fluid in motion upon a body at rest.\n\nA vessel 5 feet high was filled with a fluid, which could be discharged by a stop-cock, in a direction parallel to the horizon. The cock being opened, the curve which the stream described was marked out upon a plane set perpendicular to the horizon; and, by examining this curve, it was found to be a very accurate parabola, the abscissa of which was 13.85 in. and the ordinate was 50 in. hence, the latus rectum was 180.5 in. one-fourth of which is 45.1 in. which is the space through which a body must fall to acquire the velocity of projection; hence, that velocity was 189.6 in. in a second. And here, by the by, we may take notice of a remarkable circumstance. The depth of the cock below the surface of the fluid was 45.1 in. hence, the velocity of projection was that which a body acquires in falling through a space equal to the whole depth of the fluid; whereas,\nthrough a simple orifice, the velocity would have been that which is acquired in falling through half the depth; the pipe of the stop-cock therefore increased the velocity of the fluid in the ratio of $1 : \\sqrt{2}$, and gave it the greatest velocity possible; the length of the pipe was 3 in. and the area of the section 0.045 in.; also, the base of the vessel was a square, the side of which was 12 inches.\n\nThe area of the section of the pipe may be found very accurately, in the following manner. The vessel being kept constantly full, receive the quantity of fluid run out in any time $t''$, and then weigh it, by which we shall be able to get the quantity in cubic inches. Now if $v =$ the velocity of the fluid when it issues from the pipe, $a =$ the area of the section of the pipe, $l =$ the length of the cylinder of water run out, whose base $= a$, and $m =$ the quantity of fluid discharged in $t''$; then $v : l :: 1'' : t''$, hence, $l = vt$; but $al = m$; therefore $avt = m$; hence, $a = \\frac{m}{vt}$. In the present instance, $t = 20$, $m = 170.63$ cubic inches, $v = 189.6$; hence, $a = 0.045$.\n\nLet A B C D (fig. 1. Tab. I.) be a solid piece of wood, upon which are fixed two upright pieces, $rs$, $tu$; between these, a flat lever $eac$ is suspended, in a perpendicular position, on the axis $xy$, and nicely balanced; and let $a$ be a point directly against the middle of the axis, in a line perpendicular to the plane of the lever. This apparatus is placed against the stop-cock, at the distance of about 1 inch, and, when the water is let go, let us suppose the centre of the stream to strike the lever perpendicularly at $e$; take $ac = ae$, and, on the opposite side to that at which the stream acts, fasten a fine silk string at $c$, and bring it over a pulley $p$, and adjust it in a direction perpendicular to the plane of the lever, and, at the end which hangs\ndown, fix a scale $Q$, the weight of which is to be previously determined. All the apparatus being thus adjusted, open the stop-cock, and let the fluid strike the lever, and put such weight into the scale as will just keep the lever in its perpendicular situation, and that weight, with the weight of the scale, must be just equivalent to the action of the fluid. Thus we get the perpendicular effect of the water. Now incline the plane of the lever, at any angle, to the direction of the stream, and adjust the string perpendicular to the plane, as before; then put such a weight into the scale as will keep the lever perpendicular to the horizon, whilst the fluid acts upon it, and you get that part of the effect of the fluid which acts perpendicular to the plane. In this manner, when the fluid acts oblique to the plane, we get the perpendicular part of the force. The second column of the following table shows this effect, by experiment, for every 10th degree of inclination shown in the first column; and the third column shows the effect, by theory, from the perpendicular force, supposing it to vary as the sine of inclination.\n\n| Angle | Experiment | Theory |\n|-------|------------|--------|\n| 90°   | 1 17 12    | 1 17 12 |\n| 80°   | 1 17 0     | 1 16 22 |\n| 70°   | 1 15 12    | 1 15 6  |\n| 60°   | 1 12 12    | 1 12 11 |\n| 50°   | 1 18 10    | 1 18 17 |\n| 40°   | 1 4 10     | 1 4 2   |\n| 30°   | 0 18 18    | 0 18 18 |\n| 20°   | 0 12 12    | 0 12 19 |\n| 10°   | 0 6 4      | 0 6 12  |\n\nMDCCXCVIII.\nIt appears from hence, that the resistance varies as the sine of the angle at which the fluid strikes the plane; the difference between the theory and experiment being only such as may be supposed to arise from the want of accuracy to which the experiments must necessarily be subject.\n\nLet us now first consider, what the whole perpendicular resistance by experiment is, when compared with that by theory. Now, by theory, the resistance is equal to the weight of a column of the fluid, whose base = 0.045 in. and altitude = 45.1 in. and the weight of that column is = 1 oz. 1 dwt. 10 grs. Hence, the resistance by theory : the resistance by experiment :: 1 oz. 1 dwt. 10 grs. :: 1 oz. 17 dwts. 12 grs. :: 514 : 900.\n\nIn the next place, let us examine what is this resistance, compared with the resistance of a plane moving in a fluid. We here prove, that the resistance of the fluid in motion acting on the plane at rest : the resistance by theory :: 900 : 514; and we have before proved, that the resistance by theory : the resistance of a plane body moving in a fluid :: 1598 : 2321; hence, the resistance of a fluid in motion upon a plane at rest : the resistance of the same plane, moving with the same velocity, in a fluid at rest :: 900 × 1598 : 514 × 2321 :: 1438200 : 1192954 :: 6 : 5 nearly. Now we know that the actual effect on the plane must be the same in both cases; and the difference, I conceive, can arise only from the action of the fluid behind the body, in the latter case, there being no effect of this kind in the former case. For, in respect to the pressure before the body, that will probably be the same in both cases; for there is a pressure of the column of the spouting fluid, acting against\nthe particles which strike the body at rest, similar to the action of the fluid before the body, upon the particles which strike the body moving in the fluid. Hence, the resistance of the planes moving in the fluid, with the velocity here given, is diminished about one fifth part of the whole, by the pressure behind the body; but, with different velocities, this diminution must increase as the velocity increases.\n\nThe effect of that part of the force which acts perpendicular to the plane being thus established, we proceed next to examine, what part of the whole force which acts parallel to the plane, is effective. To determine which, the axis \\( w v \\) (fig. 2.) was fixed perpendicular to the plane of the lever \\( a b c d \\), and the ends of the axis were conical, and laid in conical holes; and the thread from which the scale was hung was fixed to the edge at \\( e \\), and acted perpendicular to it and the weight drew the lever in the direction \\( e s \\), contrary to that in which the fluid tends to move the lever, and it acted at the same perpendicular distance from the axis below, as the fluid acted above it. Let \\( x m z \\) be a line parallel to the horizon, when the lever is perpendicular to it, and which passes through the centre of the stream; and let \\( x m z \\) be also the direction of that part of the force which acts parallel to the plane. This apparatus being adjusted, the experiments were made for every tenth degree of inclination; and here a circumstance took place, for which I can give no satisfactory reason. Having gone through the experiments once, and noted the results, I repeated them; and, to my great surprise, I found all the second results to be very different from the first. The experiments were therefore repeated again, and the results were still different. Being certain that the experiments were very accurately made each time, I\nwas totally at a loss to conjecture to what circumstance this difference of results was owing. By repeating however the experiments, and observing at what point of the line $x m z$ the centre of the stream acted, I discovered that the effect varied by varying that point; that it was greatest when the stream struck the lever as near as it could to $x$; less when it struck it at the middle $m$; and least when it struck it as near as it could to $z$, notwithstanding the stream acted at the same perpendicular distance from the axis in each case, and the parallel part of the force always acted in the line $x m z$. At the angles $80^\\circ$, $70^\\circ$, $60^\\circ$, the fluid striking as near as it could to the edge $z$, gave the lever a motion, not in the direction $x m z$, but in the opposite direction $z m x$, as appeared by taking away the scale. I have therefore marked such results with the sign ———, the motion produced being then in a direction opposite to that which ought to have been produced, by that part of the force of the stream which acts parallel to the plane of the lever. The forces which are here put down, are those which take effect in a direction parallel to the plane of the lever, for every tenth degree of inclination; the perpendicular force being 1 oz. 17 dwts. 12 grs.\n\n| At $80^\\circ$ incl. | Edge $z$ | Middle $m$ | Edge $x$ |\n|--------------------|----------|------------|----------|\n|                    | -        | -          | -        |\n|                    |          | 3          | 3        |\n|                    |          | 10         | 17       |\n\n| At $70^\\circ$ incl. | Edge $z$ | Middle $m$ | Edge $x$ |\n|---------------------|----------|------------|----------|\n|                     | -        | -          | -        |\n|                     |          | 6          | 2        |\n|                     |          | 11         | 10       |\n\n| At $60^\\circ$ incl. | Edge $z$ | Middle $m$ | Edge $x$ |\n|---------------------|----------|------------|----------|\n|                     | -        | -          | -        |\n|                     |          | 7          | 9        |\n|                     |          | 11         | 22       |\nof Bodies moving in Fluids.\n\n| Angle | dwts. grs. |\n|-------|-----------|\n| At 50° incl. |         |\n| Edge z | - - 0 17 |\n| Middle m | - 8 20 |\n| Edge x | - - 13 21 |\n| At 40° incl. |         |\n| Edge z | - - 1 16 |\n| Middle m | - 8 6 |\n| Edge x | - - 13 15 |\n| At 30° incl. |         |\n| Edge z | - - 3 20 |\n| Middle m | - 7 2 |\n| Edge x | - - 12 15 |\n| At 20° incl. |         |\n| Edge z | - - 4 16 |\n| Middle m | - 6 0 |\n| Edge x | - - 11 12 |\n| At 10° incl. |         |\n| Middle m | - 5 12 |\n\nIt is a remarkable circumstance, that the effect of the fluid at \\( z \\) increased regularly as the angle decreased; for, though I did not measure the negative effects, I could plainly perceive that that was the case; whereas, the effects at \\( m \\) and \\( x \\) increased to about the middle of the quadrant, and then decreased. At 10°, the obliquity was such, that the section of the stream extended very nearly from one side of the lever to the other.\n\nAs it appears by experiment, that the velocity of the fluid flowing out of the vessel was equal to the velocity which a body acquires in falling down the altitude of the fluid above the orifice, the square of the velocity must be in proportion to that altitude. To find therefore, in this case, whether the resistance varied as the square of the velocity, I let the water flow per-\nperpendicularly against the plane (fig. 1.) at different depths, and I always found the resistances to be in proportion to the depths, and therefore in proportion to the square of the velocity, agreeing with what takes place when the body moves in the fluid.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106967.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 24720,
+    "total-output-tokens": 6464,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1035,
+        2
+      ],
+      [
+        1035,
+        2923,
+        3
+      ],
+      [
+        2923,
+        4482,
+        4
+      ],
+      [
+        4482,
+        6277,
+        5
+      ],
+      [
+        6277,
+        8058,
+        6
+      ],
+      [
+        8058,
+        9959,
+        7
+      ],
+      [
+        9959,
+        11750,
+        8
+      ],
+      [
+        11750,
+        13641,
+        9
+      ],
+      [
+        13641,
+        15154,
+        10
+      ],
+      [
+        15154,
+        16875,
+        11
+      ],
+      [
+        16875,
+        18759,
+        12
+      ],
+      [
+        18759,
+        20946,
+        13
+      ],
+      [
+        20946,
+        22280,
+        14
+      ],
+      [
+        22280,
+        22539,
+        15
+      ],
+      [
+        22539,
+        22539,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106967",
+    "title": "The Bakerian Lecture. Experiments upon the Resistance of Bodies Moving in Fluids. By the Rev. Samuel Vince, A. M. F. R. S. Plumian Professor of Astronomy and Experimental Philosophy in the University of Cambridge",
+    "authors": "Samuel Vince",
+    "year": 1798,
+    "volume": "88",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/106967"
+  }
+}

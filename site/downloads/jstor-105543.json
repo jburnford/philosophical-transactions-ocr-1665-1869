@@ -1,0 +1,59 @@
+{
+  "id": "4768a13171ae244037e87f9469a2a2a7dc3d4ec3",
+  "text": "XXVII. A Table of the Places of the Comet of 1764 discovered at the Observatory of the Marine at Paris, the 3d of January, about 8 o'clock in the Evening, in the Constellation of the Dragon, concluded from its Situation observed with regard to the Stars: By Monsieur Charles Messier, Astronomer at the Depot of the Plans of the Marine of France, at Paris.\n\nRead May 17, 1764.\n\n| True time | mean time | R. ascension observed | Northern declination observed | Longitude observed | Northern latitude observed |\n|-----------|-----------|-----------------------|-------------------------------|--------------------|--------------------------|\n| Jan. 3    | h         | h                     |                               |                    |                          |\n|           | 9 24 33   | 9 29 9                | 236 29 16                     | 58 32 58           | 11 37 16                 |\n|           | 15 5 4    | 15 9 47               | 239 45 31                     | 58 51 29           | 14 49 7                  |\n|           | 18 48 55  | 18 53 42              | 241 56 1                      | 59 2 54            | 17 9 14                  |\n|           | 16 10 39  | 16 18 28              | 305 57 17                     | 44 23 10           | 29 0 38                  |\n|           | 18 33 53  | 18 41 44              | 306 22 2                      | 44 6 14            | 29 15 54                 |\n|           | 6 43 27   | 6 51 31               | 308 14 21                     | 42 45 45           | 21 59                    |\n|           | 7 30 54   | 7 38 59               | 308 20 17                     | 42 42 35           | 26 19                    |\n|           | 18 28 33  | 18 36 48              | 309 50 42                     | 41 22 54           | 7 31                     |\n|           | 17 7 58   | 17 17 22              | 316 59 44                     | 34 37 35           | 23 15 48                 |\n|           | 18 32 53  | 18 42 18              | 317 5 44                       | 34 30 37           | 25 22 47                 |\n|           | 5 43 14   | 5 52 48               | 317 53 29                     | 33 39 23           | 8 47 47                  |\n|           | 7 13 15   | 7 22 51               | 317 59 44                     | 33 31 50           | 20 11 47                 |\n|           | 6 35 19   | 6 45 15               | 319 28 52                     | 31 51 34           | 22 51 44                 |\n|           | 7 26 11   | 7 35 58               | 319 32 37                     | 31 48 41           | 24 58 44                 |\n|           | 5 40 32   | 5 51 8                | 321 52 36                     | 28 45 54           | 9 39 41                  |\n|           | 7 4 45    | 7 15 22               | 321 56 21                     | 28 40 52           | 10 49 40                 |\n|           | 7 42 8    | 7 53 4                | 322 57 8                      | 27 37 25           | 29 47 39                 |\n|           | 6 50 20   | 7 1 34                | 323 46 38                     | 26 53 33           | 43 22 37                 |\n|           | 5 49 50   | 6 1 38                | 325 9 52                      | 23 49 1            | 0 56 35                 |\n|           | 6 11 16   | 6 23 4                | 325 10 22                     | 23 47 57           | 0 57 35                 |\n|           | 5 50 59   | 6 4 23                | 328 9 59                      | 17 28 48           | 7 46 28                 |\n|           | 6 2 52    | 6 16 23               | 328 23 44                     | 16 43 10           | 1 12 27                 |\n| Feb. 4    | 5 57 53   | 6 12 8               | 329 17 41                     | 13 11 38           | 6 10 24                 |\n|           | 6 30 23   | 6 44 54               | 329 33 51                     | 11 6 15            | 50 20 22                 |\n|           | 6 16 20   | 6 30 54               | 329 39 35                     | 10 26 47           | 41 16 21                 |\n|           | 6 14 49   | 6 29 28               | 329 41 27                     | 9 2 45             | 10 5 20                 |\n\nI have the honour to send you likewise the elements of the theory of this comet, which monsieur Pingré has deduced from my first observations, as follows.\n\nThe ascending node $\\Omega$ = 3 29 20\n\nInclination = 53 54 19\n\nPlace of perihelion = 16 11 48\n\nLogarithm of the distance of the perihelion $9.751415$.\n\nPassage by the perihelion 12 February at 10h 29' mean time in the meridian of Paris. The motion retrograde.\n\nXXVIII. A.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105543.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 1819,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        4571,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105543",
+    "title": "A Table of the Places of the Comet of 1764 Discovered at the Observatory of the Marine at Paris, the 3d of January, about 8 O'Clock in the Evening, in the Constellation of the Dragon, Concluded from Its Situation Observed with Regard to the Stars: By Monsieur Charles Messier, Astronomer at the Depot of the Plans of the Marine of France, at Paris",
+    "authors": "Charles Messier",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105543"
+  }
+}

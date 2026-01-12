@@ -1,0 +1,59 @@
+{
+  "id": "f01cde6443429cced823bddbd8eba19d6d2d32bd",
+  "text": "VI. Part of a Letter from Tho Short, M.D.\nto Sir Hans Sloane, Bart. Pr. R.S. concerning an extraordinary Impostumation of the Liver.\n\nHonoured Sir,\n\nSheffield, June 11. 1731.\n\nI had a Patient, who died lately of an Impostumation of the Liver: I open'd him, and out of the lowest and thinnest Lobes I took six Quarts of purulent, thick, most intolerably fetid, reddish-brown Matter, very acid; for no sooner was it exposed a little to the open Air, than it fermented exceedingly. The Patient had drained off the thinner Part the last Week of his Life by violent Vomiting; and purging to thirty or forty Stools a Day, and as many Vomits, it was thrown into the Duodenum by the Ductus Choliodochus communis, and there pumped up and thrown out, both by its Sharpness and Stimulation. All the upper Part of the Liver to about an Inch below the Gall-bladder was found. The Tumour had so compressed the right Kidney, that it was emaciated away to less than the Glándula Renalis. ** From,\n\nSIR,\n\nYour most obliged humble Servant,\n\nTHO. SHORT.\n\nERRATA.\nNumb.417. Page 38. l. 14. for p. 21, 22. read p. 19.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104081.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 378,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1096,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104081",
+    "title": "Part of a Letter from Tho Short, M. D. to Sir Hans Sloane, Bart. Pr. R. S. concerning an Extraordinary Impostumation of the Liver",
+    "authors": "Tho. Short.",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104081"
+  }
+}

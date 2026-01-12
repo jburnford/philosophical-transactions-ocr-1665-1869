@@ -1,0 +1,69 @@
+{
+  "id": "f16dcbffd2e25be19d253e421e3d51e9bb0fb975",
+  "text": "III. Part of a Letter from the Reverend Mr. W. Derham, F. R. S. to Dr. Hans Sloane, R. S. Sec. Giving an Account of a Child's Crying in the Womb.\n\nSIR,\n\nOn Saturday last I gave myself the Satisfaction of visiting a Woman brought to Bed this Day seven nights of a Boy, that had Cry'd in her Womb, at times, for five Weeks wanting one Day. The Child appears to be Lusty and Strong, and is, since its Birth, a very quiet Child. The Woman's Name is Clark, living above two Miles from me, in the Parish of Hornchurch.\n\nShe told me, the first time the Child cry'd was in the Night, as she lay in Bed, after a great Pain which forced her out of Bed, and gave her Apprehensions of her Labour being nearer than her Reckoning. And every time after, whenever the Child cry'd, she had violent Pains like those of Labour.\n\nFrom the very first time of its Crying, the Child settled itself on the Mother's Left-side, and she never perceived it to stir in the least, 'till its Birth approached.\n\nScarce a Day in all the five Weeks escaped without Crying little or much. But the Woman observed, that every other Day it cry'd the most, and most certainly. The Midwife told me, she heard it cry seventeen times in half an Hour. Its Crying might be heard into the next Room; and sometimes it seemed\nseemed to be so Hearty, that the Child would sob again.\n\nBoth the Mother, and Midwife (a sensible Woman in her Business) answered me a great many Questions, some of which I mention not. Only in general they told me, they found no great Difference between her in her Case, and other Women in the same Condition. I asked the Woman whether she had receiv'd any Falls, or Hurts, or was troubled with Longings more than with her Child before? (for she hath had one Child before.) She told me she had received no Hurt, but was more inclining to Longing; but had what she long'd for.\n\nSIR,\n\nYour Humble Servant,\n\nUpminster, Novem. 13:\n1709.\n\nW. Derham.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103290.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 573,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1279,
+        2
+      ],
+      [
+        1279,
+        1924,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103290",
+    "title": "Part of a Letter from the Reverend Mr. W. Derham, F. R. S. to Dr. Hans Sloane, R. S. Sec. Giving an Account of a Child's Crying in the Womb",
+    "authors": "W. Derham",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103290"
+  }
+}

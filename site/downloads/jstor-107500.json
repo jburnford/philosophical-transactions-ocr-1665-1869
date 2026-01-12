@@ -1,0 +1,79 @@
+{
+  "id": "c68b3539643d5008ce92ac5bd37e44c86282aa9f",
+  "text": "XIII. An account of the fossil skeleton of the Proteo-saurus.\n\nBy Sir Everard Home, Bart. V. P. R. S.\n\nRead March 4, 1819.\n\nIn the year 1814, the skull and vertebrae of this fossil skeleton were first described in the Philosophical Transactions; and so much was the attention of the public called to the subject by that account, and so many specimens were brought under my observation, that in the year 1816, I was enabled to make many valuable additions to my former paper. In 1818, I laid before the Society the description of bones not before met with; and since that time, through the kindness of Mr. De la Beche, and Colonel Birch, I have procured materials, which put it in my power to describe nearly the complete skeleton, and to correct any errors, which the imperfect state of the first specimens had led me to commit.\n\nOne of these errors was, a belief that the orifice immediately before the margin of the orbit was natural, as it occurred in every specimen of the skull I had met with, five or six in number; but Colonel Birch has shown me a portion of a skull of very large dimensions, in which the nasal bones are perfect, and no such orifice is seen; so that the aperture described and delineated in my first paper, is the effect of injury the bones have sustained. A drawing of this skull is annexed, half the size of the original specimen. The drawing is made by Mr. Clift.\n\nMDCCCXIX.\nIn a specimen in the possession of Mr. De la Beche, the bones of the sternum are met with in their relative situation respecting the surrounding bones, affording a satisfactory proof that we are acquainted with all the parts of which the sternum is composed. In this specimen, the ribs can be traced to a greater extent than in any hitherto examined; they are not joined to the sternum by cartilages, but, as in the camelion and crocodile, are composed wholly of bone; and what is peculiar to themselves, each rib consists of one piece, having no intermediate joint: it describes a considerable curve in coming forward, and the outer side of the rib at that part is broader and stronger than any other. Their great length gives considerable depth to the chest.\n\nIn this specimen the bones are very small, but as they are completely formed, we must consider them to belong to a full grown animal.\n\nWhen the vertebrae of the middle of the back in this specimen, are compared with those of the largest size that have been met with, it would appear that different species of the animal, were of very different sizes. In this specimen the diameter of a dorsal vertebra is only $\\frac{1}{8}$ of an inch; in the largest that has been preserved it is 9 inches.\n\nThe drawing of this specimen is made by Mr. De la Beche.\n\nA specimen belonging to Colonel Birch, which in compliance with the wishes of my friend Mr. De la Beche has been brought under my observation, contains nearly the entire skeleton of this extraordinary animal, and shows the important fact, that it had posterior as well as anterior feet; as it gives a posterior view, the bones forming the pelvis cannot be\nmade out, but these may be said to be the only ones with which we are now not acquainted.\n\nThis magnificent specimen is represented of its full size, in the annexed drawing, which has been made with so much ability by Mr. Clift, as to require no verbal explanation.\n\nSince this Paper was laid before the Society, the author has received from Sir Joseph Banks a specimen containing five fossil vertebrae of the Proteo-Saurus, each of them two inches in diameter, and one inch in thickness, found in the blue lias at Weston, near Bath, sent to him by the Rev. Daniel Lysons. This fact is important, as it proves that the fossil bones met with in the blue lias in that neighbourhood, which have always been considered to be those of the Crocodile, belong to this animal.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107500.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 976,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1403,
+        2
+      ],
+      [
+        1403,
+        3071,
+        3
+      ],
+      [
+        3071,
+        3838,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107500",
+    "title": "An Account of the Fossil Skeleton of the Proteo-Saurus",
+    "authors": "Everard Home",
+    "year": 1819,
+    "volume": "109",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107500"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "c61ab262bbb527ab077272a7a99234ae9dac3dcc",
+  "text": "A Letter from Mr. Tankred Robinson to Dr. M. L.\nAug. 4. 1683. concerning the Bridge at St. Esprit\nin France.\n\nAccording to your Order, I made as many Observations\nupon the Fabrick, and design of the Bridge at Pont\nSt. Esprit, as my short stay there would permit; I sent you a\nDraught and Description, drawn hastily upon the place,\nperadventure you can make nothing of them, unless\nassisted by your own Memory.\n\nThis famous Roman Bridge at Pont St. Esprit is very\ncrooked, bowing in many places, and making several\nunequal Angles, especially in those places, where the\nTorrent runs strongest, as where the Turret stands F.r2.N.4.\nIn which place the Angle is most unequal, and the greatest;\nthe Arches are very wide, and have their feet secured by two Pedestals that encompass them. Both these\nPedestals have their several degrees, or Ranks of jettings\nout, like so many rows of stairs or steps, the lowermost\norder pushing out most, the others being less, and going\ngradually more in; the second or uppermost Pedestal is\nmuch less than the first, or lowermost, being built a little\nwithin its lines of circumference, see N. 1, 2. between the great Arches there are windows, or (as it were)\nsmall Arches, N. 3. that come down to the very plane\nof the second, or uppermost Pedestal, dividing the feet of\nthe great Arches. From this my rude Description it appears\nto me, that the Romans have here contriv'd all possible\nways to break gradually the mighty force of the Rhône,\nand to render its passage easy, and inoffensive to the feet\nof the great Arches; for here we see so many several\nPalisadoes and Sluces, as may be sufficient to defend this\nwonderful Fabrick against all storms of the Torrent;\nThe several ranks of stairs jetting from the Pedestals\n(for the most part triangularly built, and fac'd well with free-stone) opposing, and breaking the stream severally, I mean, not altogether, or at the same time, by reason of their various inequalities in standing out: in case the flood should swell so high (as it frequently does) as to cover both the Pedestals, then the small Arches dividing the feet of the great ones N. 3. help to convey the water through, which otherwise might endanger the great Arches. This Sir, is all I conceive at present, I mean as to the superficial design, whether there is any particular Architecture within the Pedestals, or at the feet of the Arches within them, or in the general fabric of the Bridge itself, I cannot tell; no body being able to inform me: or whether the Romans had some peculiar Cements not known to us.\n\nA Remark about the foregoing Letter by Dr. M. L.\n\nNote that what seems the foot of the Arch, is an Horizontal Arch gradually contracted, every stone being of vast length and wedge like, laid level with the water. This I speak by memory, and in this particular I did most desire to be satisfied, because it might be of great use and advantage in building our Bridges in Yorkshire, whose streams are mostly Torrents, as the Rhone is the greatest in Christendome, and ours mostly as that have rocky bottoms, which will not admit of Piles driving in.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102060.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 904,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1751,
+        4
+      ],
+      [
+        1751,
+        3104,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102060",
+    "title": "A Letter from Mr. Tankred Robinson to Dr. M. L. Aug. 4.1683. Concerning the Bridge at St. Esprit in France",
+    "authors": "Tankred Robinson",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102060"
+  }
+}

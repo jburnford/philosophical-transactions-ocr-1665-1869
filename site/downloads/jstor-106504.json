@@ -1,0 +1,59 @@
+{
+  "id": "abeed69972a2c3f2d1dde95a50e4b3e909d987ac",
+  "text": "ERRATA\n\nVOL. LXXIII. PART II.\n\nPage. Line.\n303. 1. for possible read fusible\n405. 6. for these read those\n406. 5. after phlogisticated add air\n407. 28. before cobalt add of\n408. 1. penult. for necessarily read necessary\n412. 6. for equally read equably\n413. 8. after dephlogisticated add air\n418. 8. after imagined add that\n421. 13. for come read came\n423. 8. dele a before water\n475. 7. for $5\\frac{1}{2}$ h. read $5\\frac{1}{2}$ h.\n— 24. for not quite so bright as $\\gamma$ Cassiopeæ read rather less bright than $\\gamma$ Cassiopeæ.\n476. 18. for between the third and fourth magnitude read between the second and third magnitude.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106504.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 299,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        630,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106504",
+    "title": "Errata",
+    "authors": null,
+    "year": 1783,
+    "volume": "73",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106504"
+  }
+}

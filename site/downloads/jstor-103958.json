@@ -1,0 +1,59 @@
+{
+  "id": "e053fe590de4d396842603b276a6531639e66e9d",
+  "text": "Quo facile dignoscatur quot futuræ sint Radices Affirmativæ, quot Negativæ, in Æquationibus ad Cosinus, hæc observetur Regula.\n\nSi fuerit \\( n \\) Numerus par, tot erunt Radices Affirmativæ quot Negativæ.\n\nSi fuerit \\( n \\) numerus impar, talis tamen ut \\( \\frac{n+1}{2} \\), sit numerus par, numerus Affirmativarum erit \\( \\frac{n-1}{2} \\), numerus Negativarum \\( \\frac{n+1}{2} \\).\n\nSin \\( \\frac{n+1}{2} \\) fuerit numerus impar, numerus Affirmativarum erit \\( \\frac{n+1}{2} \\), Negativarum \\( \\frac{n-1}{2} \\).\n\nAliqua huc spectantia jampridem inveneram, quæ Aëtis Philosophicis inserta fuerunt Anno 1707, deinde fusiæ fuerant exposita in Libro, qui inscribitur Miscellanea Analytica; sed cum ratio processus fuerit huic paulo dissimilis, nec fortasse adeo dilucida, nec directe ad eundem scopum collimans, hæc, spero, non inutilia judicabuntur.\n\nFINIS.\n\nERRATA.\n\nPage 40. Line penult. for Measurations, read Mensurations.\n\nP. 384. after l. ii. add and if single, whether the respective Poles were opposite?\n\nERRATUM.\n\nIn Vol. XXXIV. n. 393. p. 66. the Latitude of Southwick should be 52° 31′ nearly, instead of 51° 58′ nearly, as it is by Mistake there printed.\n\nTo the Bookbinder.\n\nThe Croonian Lectures on Muscular Motion for the Year 1738. are to follow this Page.\n\nTHREE LECTURES",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103958.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 514,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1283,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103958",
+    "title": "Errata",
+    "authors": null,
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103958"
+  }
+}

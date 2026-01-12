@@ -1,0 +1,59 @@
+{
+  "id": "94573d87b0b1ddccc8e980830e31b6007fcb8d10",
+  "text": "IV. Defensio Dissertationis de Motu Aquarum fluentium, in Aetis Philosophicis, No 355 editae, contra Animadversiones Viri Cl. Petri Antonii Michelotti. Auctore Jacobo Jurin, M.D. Coll. Med. Lond. Soc. in Theatro Publico Chirurg. Lond. Praelectore Anatomico, & Soc. Reg. Secr.\n\nV. An Account of a remarkable Instance of the Infection of the Small Pox. By Dr. Jurin, Soc. Reg. Secret.\n\nVI. An Account of two Observations upon the Cataract of the Eye; contain'd in a Letter from Signor Antonio Benevoli, Master-Surgeon in the Hospital of S. Maria Nuova in Florence, to Dr. Valsalva; Printed in Italian at Florence, this present Year, and communicated to the Royal Society, at the Desire of the Author, by Sir Thomas Dereham, F.R.S.\n\nERRATUM.\n\nNo 372. p. 146. l. 2. read, May 5th, 1716.\n\nI. Observations",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103591.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 311,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        799,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103591",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103591"
+  }
+}

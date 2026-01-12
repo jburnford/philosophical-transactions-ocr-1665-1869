@@ -1,0 +1,69 @@
+{
+  "id": "2303b96c6d9963951c2ca71b8c4f79429c52e9fe",
+  "text": "| Ex Calculo Rudolph. | Ex Observat. | Differ. | Tempus. |\n|---------------------|--------------|---------|---------|\n| Hor.                | Hor.         | Hor.    | Hor.    |\n| Initium             |              |         |         |\n| Max. Obscur.        |              |         |         |\n| Finis               |              |         |         |\n| Dig. Eclipse        |              |         |         |\n| Semid. ☐            |              |         |         |\n| Semid. ☑            |              |         |         |\n| Duratio             |              |         |         |\n\nAn Extract of a Letter of the Learned Dr. Matthias Mangold of Basel, concerning a Mathematico Historical Table, designed in that University; together with a Description of the import of the same.\n\n---\n\nCæterum, hanc mihi insuper indulgeo licentiam ut super Tabula Mathematico-historica, à Clarissimo Megerlino, Mathezes apud nos Professore non conteunendo, adornata (cujus Descriptio incluâ sceculâ continetur) tuam flagitium judicium, et quid de ea apud vos sperare licet.\n\nBasilæ 4 Non Martii MDCLXXVI.\n\nTuus\n\nMatthias Mangold.\n\nDescriptio\nTabulae Mathematico-Historicæ.\n\nAd imitationem Geographorum, qui typum totius Terrarum Orbis unicâ Tabulâ repræsentant, omnia totius Mundi secula ad nostrum usque elapsa, omniumque Gentium Historiam, unicâ Tabulâ, memoria juvanda causâ, ob oculos poncre conatus sum idque, ut omnes hiatus evitentur, quam commodissimè fieri pisse putavi, secundum Revolutiones Conjunctionum & Oppositionum Magnarum Saturni & Jovis ad Trigonum igneum; quarum singulae octingentos annos complectuntur, ac septem Revolutiones, cum septem Mundi ætates, omne ævum ab Orbe condito usq. ad nostrum seculum exhaustum: 1. Incipit à Creatione & Adamo: 2. ab Enocho: 3. à Noego & Diluvio: 4. à Moze, & Ixitu ex Ægypto: 5. ab Esajo, Captivitate Assyriaca, Olympiadibus, Romulo: 6. à Christo nato & Augusto, dentique 7. à Carolo Magno, & Imperio Germanico. Tabulam igitur Mathematico-Historicam quatuor foliis à sinistra ad dextram conglomeratis,\nconglutinatis, per septem Columnas concinnavi, longitudine aquae, octo secula à vertice ad calcem spatii equalibus comprehendentes; latitudine verò valde disparés, prout materia historica paulatim crescens id exigebat: Prima enim & Secunda sunt admodum tenues cum res antediluviane fere sint incognita: Tertiau & Quarta (ut & reliquas omnes) subdistinxì in sua quasi latera, quorum illa quattuor, hæc quinquæ habet, res Ecclesiæ Asiae, Africæ, & Europæ Orientalis atq; Occidentalis continentes; illa autem angusta, quia prater res Ecclesiæ reliqua fere omnia sunt fabulosa: Cum Quinta Columna tempus Historicum incipit, ideoque latera habet satis lata, eaque sex; prioribus enim res Europæ Septentrionales separatim traditæ, accedunt: Et hucusque Prima Pars Tabula se extendit. Altera à Christo nato ad nostrum seculum ex duabus solium (sic. Sexta & Septima) Columnis latissimis constat, in multa latera, res Ecclesiæ, Germaniae, Italiae, Hispaniae, Galliae, Angliæ & Scotiae, Daniae & Sueciae, Poloniae, Ungarie, Graeciae, Asiae, Africæ, separatim exhibentia, divisis. Adjungi posset pars Tertia, rerum nostro seculo per Orbem gestarum. Omnes autem illæ Columnæ simul ostendunt in margine Signa & Gradus Zodiaci, atque etiam annos Mundi, Periodi Juliana, & Epochæ Christianæ, in quibus Conjunctiones illæ & Oppositiones Magnæ consigerunt; ac transversim distinctæ sunt in quatuor Trigonos Signorum, & horum quilibet in duo secula, quorum quodlibet seu quævis arcæ, quindecim lineolis describitur. At ne nimia rerum, quas tango, brevitas Lectorem destituat, Indicem Tabulae addidi locupletissimum cum personis ac rebus gestis Chronologiam & authores historicos indicantem, qui Commentarii vices praestabit: Sed & alius accedit Commentarius brevis Chronologicus, in quo usus Chronologiae in historicis ostenditur, & Ex. gr. Anacrisis Blondelli de Joanna Papissa examinatur; cum appendice Cyclorum Planetarum, quibus mediantibus vera eorundem loca, & Eclipses Luminarium, ad sex mille annos ex Ephemeridibus nostri seculi facillimè depromi possunt.\n\nP. Megerlin.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101724.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1352,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2050,
+        2
+      ],
+      [
+        2050,
+        4110,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101724",
+    "title": "An Extract of a Letter of the Learned Dr. Matthias Mangold of Basel, Concerning a Mathematico Historical Table, Designed in That University; together with a Description of the Import of the Same",
+    "authors": "P. Megerlin, Matthias Mangold",
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101724"
+  }
+}

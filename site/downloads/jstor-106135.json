@@ -1,0 +1,69 @@
+{
+  "id": "e5a5d8239bb0bd6b46fb215bcbf63e0444aa52ef",
+  "text": "VII. Account of an Experiment made with a Thermometer, whose Bulb was painted black, and exposed to the direct Rays of the Sun: In a Letter from Richard Watson, D.D. Regius Professor of Divinity at Cambridge, and F.R.S. to Mathew Maty, M.D. Sec. R.S.\n\nHeversham, September 18, 1772.\n\nDear Sir,\n\nRead Dec. 1, 1772.\n\nDuring the hot weather, which we had in the latter end of June and the beginning of July last, I made an experiment at Cambridge, which I then thought no more of, but which an accident hath brought to my mind again; and I now venture to send you an account of it, in hopes that some of your philosophical friends will take the trouble of prosecuting it. I exposed the bulb of an excellent thermometer to the direct rays of the Sun, when the sky was perfectly free from clouds: the mercury rose to $108^\\circ$ of Fahrenheit's scale, and continued stationary. A fancy struck me, to give the bulb a black covering; this was easily effected by a camel's hair pencil and Indian ink; the mercury\nmercury sunk a few degrees during the application of the coating, and the evaporation of the water; but presently after rose to $118^\\circ$, or $10^\\circ$ in consequence of the black coat with which I had covered that part of the bulb which was exposed to the Sun. If the bulbs of several corresponding thermometers were painted of different colours, and exposed at the same time to the Sun, for a given period, some conjectures, respecting the disposition of the several primary colours for receiving and retaining heat, might be formed, which could not fail of being, in some degree, interesting.\n\nI am,\n\nDear Sir,\n\nYour most obedient servant,\n\nRichard Watson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106135.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 481,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1005,
+        2
+      ],
+      [
+        1005,
+        1667,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106135",
+    "title": "Account of an Experiment Made with a Thermometer, Whose Bulb was Painted Black, and Exposed to the Direct Rays of the Sun: In a Letter from Richard Watson, D. D. Regius Professor of Divinity at Cambridge, and F. R. S. to Mathew Maty, M. D. Sec. R. S.",
+    "authors": "Richard Watson",
+    "year": 1773,
+    "volume": "63",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106135"
+  }
+}

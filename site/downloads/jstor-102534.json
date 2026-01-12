@@ -1,0 +1,59 @@
+{
+  "id": "58d8e5e94369c91f6aaef1b3904f114357caf424",
+  "text": "VIII. Extract from the Registers of the Philosophical Society at Oxford, October 7, 1684. Concerning a Woman who voided the Bones of a Fetus, above the Os Pubis, and by other extraordinary ways.\n\nMargaret Parry of the Parish of Kintbury in Berkshire, in the Year 1668, was delivered of a Child, she continued indifferently well Two or Three Days after her Delivery; then new Pains came upon her, and for Three Weeks together there came from her daily some Quantity of Corruption, with Pieces of Flesh and Skin; and she continued dangerously ill for about Eight Weeks, at the end of which time she was relieved, as is supposed by taking a Potion which was prescribed her; after Two Years she began to breed again, had Three Children in the Three Years following, all which were drawn from her by Violence; during her lying in with the last of these Three Children, some Bones of a Fetus came from her, after this several other Bones came away with her Catamenia, and several (amongst which were divers parts of the Skull, and some of the larger Bones of the Body of a Fetus) work'd their way by degrees through the Flesh above the Os Pubis.\n\nThe Woman is now alive (October 1684.) and in Health; all the Children were born perfect.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102534.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 346,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1230,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102534",
+    "title": "Extract from the Registers of the Philosophical Society at Oxford, October 7. 1684. Concerning a Woman Who Voided the Bones of a Faetus, above the Os Pubis, and by Other Extraordinary Ways",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102534"
+  }
+}

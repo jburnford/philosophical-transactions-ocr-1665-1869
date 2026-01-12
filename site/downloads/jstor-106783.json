@@ -1,0 +1,59 @@
+{
+  "id": "2890a588094f83aab27d8cef1a0fbdad9e6d51d1",
+  "text": "ERRATA.\n\nPART I.\n\nPage 52 line 9 - after water, add and ice.\n71 — 12 - for bulb, read bottle.\n117 — 6 - dele and.\n155 — 21 and 27, for maggot bee, read bee maggot.\nMeteorological journal, p. 26, l. 11, for 32,5, read 52.\n\nPART II.\n\nPage 314 line 27 - - for 0,36\" read 0\",36\n317 — 27 - - 2,6\" — 2\",6\n326 — 27 - - K — k\n347 — 11 - - 105 — 10,5\n348 — penult. - - 105 — 10,5\n351 — 15 - - 10\\(\\frac{3}{4}\\) — 10\\(\\frac{1}{3}\\)\n355 — 3 - - 0,94\" — 0\",94",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106783.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 311,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        447,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106783",
+    "title": "Errata",
+    "authors": null,
+    "year": 1792,
+    "volume": "82",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106783"
+  }
+}

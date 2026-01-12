@@ -1,0 +1,79 @@
+{
+  "id": "00f779e866e876bc3abe2ce5a169f43224f2211c",
+  "text": "I. A Letter from William Herschel, Esq. F. R. S.\n\nTO SIR JOSEPH BANKS, BART. P. R. S.\n\nSIR,\n\nBy the observations of the most eminent Astronomers in Europe it appears, that the new star, which I had the honour of pointing out to them in March, 1781, is a Primary Planet of our Solar System. A body so nearly related to us by its similar condition and situation, in the unbounded expanse of the starry heavens, must often be the subject of the conversation, not only of astronomers, but of every lover of science in general. This consideration then makes it necessary to give it a name, whereby it may be distinguished from the rest of the planets and fixed stars.\n\nVol. LXXIII.\nIn the fabulous ages of ancient times the appellations of Mercury, Venus, Mars, Jupiter, and Saturn, were given to the Planets, as being the names of their principal heroes and divinities*. In the present more philosophical æra, it would hardly be allowable to have recourse to the same method, and call on Juno, Pallas, Apollo, or Minerva, for a name to our new heavenly body. The first consideration in any particular event, or remarkable incident, seems to be its chronology: if in any future age it should be asked, when this last-found Planet was discovered? It would be a very satisfactory answer to say, \"In the Reign of King George the Third.\" As a philosopher then, the name of GEORGIUM SIDUS presents itself to me, as an appellation which will conveniently convey the information of the time and country where and when it was brought to view. But as a subject of the best of Kings, who is the liberal protector of every art and science;—as a native of the country from whence this Illustrious Family was called to the British throne;—as a member of that Society, which flourishes by the distinguished liberality of its Royal Patron;—and, last of all, as a person now more immediately under the protection of this excellent Monarch, and owing every thing to His unlimited bounty;—I cannot but wish to take this opportunity of expressing my sense of gratitude, by giving the name Georgium Sidus,\n\nGeorgium Sidus\n\n——jam nunc assuefec vocari. VIRG. Georg.\n\nto a star, which (with respect to us) first began to shine under His auspicious reign.\n\n* M. DE LA LANDE'S Aft. § 639.\nMr. Herschel on the Georgium Sidus.\n\nBy addressing this letter to you, sir, as President of the Royal Society, I take the most effectual method of communicating that name to the Literati of Europe, which I hope they will receive with pleasure. I have the honour to be, with the greatest respect,\n\nSIR,\n\nYour most humble\n\nand most obedient servant,\n\nW. Herschel,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106476.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 744,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        677,
+        2
+      ],
+      [
+        677,
+        2259,
+        3
+      ],
+      [
+        2259,
+        2620,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106476",
+    "title": "A Letter from William Herschel, Esq. F. R. S.",
+    "authors": "William Herschel",
+    "year": 1783,
+    "volume": "73",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106476"
+  }
+}

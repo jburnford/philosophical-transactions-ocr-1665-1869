@@ -1,0 +1,129 @@
+{
+  "id": "06f8d4b5ae612602f383e5dd603c22a3169d46de",
+  "text": "XXII. Some farther account of the fossil remains of an animal, of which a description was given to the Society in 1814. By Sir Everard Home, Bart. V. P. R. S.\n\nRead June 13, 1816.\n\nFor the materials of the former Paper I was indebted to Mr. Bullock, who has in his possession the skull, a great number of the vertebrae, many mutilated ribs, and other bones of this animal, in a fossil state.\n\nThese now brought forward are in the collections of the Rev. Mr. Buckland, of Corpus Christi College, Oxford, and of Mr. Johnson of Bristol, who have very kindly allowed me to make use of them upon this occasion. Mr. Johnson has been a collector of specimens of fossil remains for 25 years; during several summers, he devoted five or six weeks at a time to a close inspection of the cliffs and beach at Lyme. In the summer of 1814, with the assistance of a friend, at great personal risk, he dug out of the cliff, the bones of the pectoral fin; the single bone, he states, was immediately connected with the scapula, and was imbedded in marle; a representation is annexed.\n\nFrom these valuable specimens I am enabled, in a great measure, to complete the account of the skeleton of this very extraordinary animal, and, what is of infinitely more consequence, to determine the class to which it belongs.\nThe structure of the vertebrae explained in the former paper, made it evident, that the animal in its mode of progressive motion resembled fishes; it could not, however, be determined that it was in all respects a fish, till the articulations of the ribs with the vertebrae, and the bones of which the pectoral fin is composed, had been examined.\n\nIn all animals that breathe by means of lungs, each rib, to admit of its being raised and depressed, is articulated both to the body and the transverse process of the vertebrae; but in fishes, the ribs requiring no such motion, are only connected to the bodies of the vertebrae laterally, so as not to interfere with their extensive motion on one another. In this animal, the ribs are placed in this respect like those of fishes; they are uncommonly large, and the chaetodon from Sumatra, the skeleton of which is described by Mr. Bell in the first part of the 83d vol. of the Philosophical Transactions, is the only fish I know of in which the ribs bear the same proportion to its size. The form of the scapula, as well as of the bones of the pectoral fin, is entirely different from those of the whale, but bears a resemblance to that of the same parts in the shark, so that it is only necessary to compare them together as represented in the annexed plates, to recognise their similarity.\n\nThe other circumstances that confirm this skeleton being that of a fish, are the bones in a growing state having no epiphyses, as will appear from the first bone of the pectoral fin, which is represented of its natural size, having none, although when compared with the single vertebra, also represented of its natural size, the fin must have belonged to a growing animal; the ribs having been grooved longitudinally by pressure, showing the softness and toughness of their\ntexture, the fibrous appearance of the scapula, arising from a mode of growth only met with in the bones of fishes.\n\nThe drawings annexed to this and to the former Paper, represent the principal bones composing the skeleton of this very extraordinary animal, and they correspond sufficiently with those of fishes, to remove all doubt of its having been a fish, but different from any fishes now in existence; for although the pectoral fins bear a certain resemblance to those of the shark, there is none between many of the other parts, particularly the long projecting snout and the conical teeth.\n\nIn truth, on a due consideration of this skeleton, and of that represented in the 13th vol. of the An. Mus. p. 424, we cannot but be inclined to believe, that among the animals destroyed by the catastrophes of remote antiquity, there had been some at least that differ so entirely in their structure from any which now exist, as to make it impossible to arrange their fossil remains with any known class of animals.\n\nEXPLANATION OF THE PLATES.\n\nThe drawings were taken from specimens of bones in very different stages of growth, but undoubtedly belonging to the same species of animal.\n\nPlate XIII.\n\nShows the manner in which the ends of the ribs correspond with the impressions on the vertebrae formed to receive them. The parts of the natural size. From a specimen of the Rev. Mr. Buckland.\n\nPlate XIV.\n\nA single vertebra of the natural size: it shows that the\nanimal grows to a large size, and points out the particular parts of the circumference to which the rib is attached. From a specimen of the Rev. Mr. Buckland.\n\nPlate XV.\n\nFig. 1. Shows the scapula in a more perfect state than in the plate belonging to the former Paper; the spine, which in the other specimen was broken off, in this is in its place, although very nearly detached; it also shows the bone intermediate between the scapula and the small bones of the fin, with some of these bones on a scale of four inches to a foot. From a specimen of the Rev. Mr. Buckland.\n\nFig. 2. The scapula and bones of the pectoral fin in the squalus acanthus, natural size.\n\nPlate XVI.\n\nThe bones of the pectoral fin, natural size. From a specimen of Mr. Johnson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107535.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 14434,
+    "total-output-tokens": 1480,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1295,
+        2
+      ],
+      [
+        1295,
+        3110,
+        3
+      ],
+      [
+        3110,
+        4573,
+        4
+      ],
+      [
+        4573,
+        4573,
+        5
+      ],
+      [
+        4573,
+        4573,
+        6
+      ],
+      [
+        4573,
+        4573,
+        7
+      ],
+      [
+        4573,
+        4573,
+        8
+      ],
+      [
+        4573,
+        5325,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107535",
+    "title": "Some Farther Account of the Fossil Remains of an Animal, of Which a Description Was Given to the Society in 1814",
+    "authors": "Everard Home",
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/107535"
+  }
+}

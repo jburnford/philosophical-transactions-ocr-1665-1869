@@ -1,0 +1,69 @@
+{
+  "id": "007d2470bc2183740492b9117e731fa09d485333",
+  "text": "IV. Observations on the Heat of the Ground on Mount Vesuvius: By John Howard, Esq; F. R. S.\n\nRead Jan. 17, 1771.\n\nI B E G leave to lay before this Society, some observations which I made last June, on the heat of the ground on mount Vesuvius, near Naples.\n\nOn my ascending the mountain, I often immersed the bulb of a thermometer in the ground, but found no sensible heat for some time: the first rising in my thermometer, was $114^\\circ$; every two or three minutes, I observed the instrument, till I gained the summit. At those times, I found it rising to $122^\\circ$, $137^\\circ$, $147^\\circ$, $164^\\circ$, and $172^\\circ$: on the top, in two places, where I made the observations, in the interstices betwixt the hard lava, it was $218^\\circ$. Such a degree of heat, after I had overcome the inconvenience of the exhalations, raised my curiosity to know if there was a still greater degree of heat in the mouth of the said mountain. Accordingly, I made a small descent, and, by two observations I carefully and attentively made, my thermometer both times stood at $240^\\circ$.\n\nJohn Howard.\n\nP. S. It\nP. S. If it should be asked, how a person, either to their feet or in stooping or laying down to make the observations, could endure such a degree of heat; I answer, that the heat, both at top and in the mouth of the mountain, was only in particular places. This was known by the fumes; the hard masses of lava are only warm, and even so tolerable as to permit me, to lay on them, as I was often obliged to do, when the thermometer was immersed, to make a true observation.\n\nV. De-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106073.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 510,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1104,
+        2
+      ],
+      [
+        1104,
+        1585,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106073",
+    "title": "Observations on the Heat of the Ground on Mount Vesuvius: By John Howard, Esq; F. R. S.",
+    "authors": "John Howard",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106073"
+  }
+}

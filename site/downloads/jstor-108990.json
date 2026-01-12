@@ -1,0 +1,59 @@
+{
+  "id": "1703be5d94ec791683b08c23ded406fe3d375338",
+  "text": "XI. On the Diurnal and Annual Inequalities of Terrestrial Magnetism, as deduced from Observations made at the Royal Observatory, Greenwich, from 1858 to 1863; being a continuation of a communication on the Diurnal Inequalities from 1841 to 1857, printed in the Philosophical Transactions, 1863. With a Note on the Luno-diurnal and other Lunar Inequalities, as deduced from observations extending from 1848 to 1863. By George Biddell Airy, Astronomer Royal ... page 413\n\nXII. Spectroscopic Observations of the Sun.—No. II. By J. Norman Lockyer. Communicated by Dr. Sharpey, Sec. R.S. ... 425\n\nERRATA.\n\nPage 134, last line of Note, insert + before 29.\nPage 158, in 5th column of Table, the number in line b. should be 24, and in line c. should be 5.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108990.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 299,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        747,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108990",
+    "title": "Errata",
+    "authors": null,
+    "year": 1869,
+    "volume": "159",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108990"
+  }
+}

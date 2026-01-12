@@ -1,0 +1,59 @@
+{
+  "id": "8ef8cd22c059f89ae36ad3c5241f476e2a528560",
+  "text": "The CONTENTS.\n\nIV. Observationes Astronomicæ Pekini habite à R. P. Ignatio Kögler Soc. Jesu Tribun, Math. in Sinis Præside. Ex Epistolà R. P. Joh. Bapt. Carbone ad Isaacum de Sequeyra Samuda, M. D. R. S. S. &c.\n\nV. Observationes aliae selectiores Ingolstadii habite Anno 1726. a Patribus Soc. Jesu. Ex eadem Epistola.\n\nVI. An Account of a Machine for measuring any Depth in the Sea, with great Expedition and Certainty; shewn to the Royal Society, by J. T. Defaguliers, L L. D. and R. S. S. contriv’d by the Rev. Mr. Stephen Hales, F. R. S. and Himself.\n\nVII. Extract of Two uncommon Cases of Tumours of the Abdomen, from a Latin Tract publish’d at Strasburgh, Anno 1728, and entituled, Joannis Boecleri, M. D. &c. ad Exteros Medicos Epistola; by W. Rutty, M. D. R. S. Secr.\n\nVIII. An Account of the Culture and Management of Saffron in England, by James Douglass, M. D. Med. Regin. Extr. &c. F. R. S.\n\nERRATUM.\nPag. 554. lin. 26. dele è.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103713.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 398,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        938,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103713",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103713"
+  }
+}

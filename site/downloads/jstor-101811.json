@@ -1,0 +1,69 @@
+{
+  "id": "2d1a8d4d1479e2e7a6670aead617152275c737c1",
+  "text": "A New Invention of a Clock ascendent on a Plain inclin'd:\nBy Mr. De Gennes, an Officer belonging to the Sea. Extracted out of the Journal Des Scavans.\n\nWe have formerly seen Clocks, that never go, but when they are applied upon a Plain inclin'd. But we never yet saw any Clocks that wind up again of themselves upon the same Plain. There is to be seen in Mr. Cofpi's Study, a Wooden Wheel, which works the same effect upon a Plain Inclin'd, invented by Mr. Bondoni, a Florentine Secretary to the said Marquis. But in regard M. Legati doth not unfold this secret; and for that M. de Gennes having found out the same, hath successfully apply'd it to a Clock; the manner hereof, which he communicated unto me,\n\nFig. 5.\n\nThe Circle FGH being placed upon a Plain Inclin'd, AB is divided into two unequal parts by the Line GL. To restore to the least Secture its equilibrium there is fastned to the extremity of the Radius DF, a Weight E, which is sufficiently heavy to recover what the lesser Secture loses by its situation. That a Wheel or Clock may thus stand not only in equilibrium, but also ascend upward, there is placed in the middle of the Clock a Drum, which encloses the spring of the Pendulum, upon which Drum is fasten'd the Radius DF. For thus the spring being mounted, enforces the Drum to turn, and so to raise the Weight, which it cannot raise, without its becoming more heavy, in regard that coming to the point E, it is farther from the Centre, than when it was in F, and thus all the Wheel turns on that side as the spring gives way.\n\nM. de Gennes doth not here give direction how the Wheels that compose the Clock are to be made, because there\nthat no Clock-maker that doth not understand how to apply\nthe force of a spring to the motion of a Clock.\n\nA New Engin to make Linen-Cloth without the help of an\nArtificer, presented to the Royal Academy, by Monsieur de\nGennes, an Officer belonging to the Sea. Extracted out\nof the Journal de Scavans\n\nThis Engin is no other than a Mill, to which are apply'd\nall the parts of a Weavers ordinary Loom.\nThis Mill is composed of four principal parts, that is to\nsay, the Serpent $AA$, two Footsteps or Treddles $BB$, one\nClapper $C$, and two Arms $DDDD$.\n\nThe Serpent or Iron Barr $AA$ has two Elbows $EE$, where-\nto the ends of the Ropes are fix'd that raise and put down the\nFoot steps $BB$. $FF$ are two fourths of a Circle, that suc-\ncessively rest upon two Arches or Bows of Iron $GG$, which\nare above the Clapper $C$, to raise it. $HH$ are two Teeth of\nIron, added to the Serpent making an Angle of 25 degrees\nwith $FF$ and $KK$, which serve to put down a Bascule or\nSweep which is in the Arm that carries the Shuttle. The\nFootsteps or Treddles differ in nothing from those which\nare usually made use of, only the Cords that hold them pen-\ndent from the ground are fixed in the Elbows of the Serpent,\nwhich in turning raises and puts them down by the help of\ntwo little pulleys, upon which the Ropes turn.\n\nThe Clapper is supported between two Pillars with a\nRope double twisted, which makes it to make a kind of a\nSpring, and causes it naturally to give forwards to beat the\nCloth.\n\n$L M$ is one of the Arms which pass freely into the Canal\nor Pipe $NN$, supported by four Pillars of Wood $OOOO$.\nThe Motion of it proceeds from the following Parts.$P Q$ is\na Bascule which, though unequally divided by its supporter\n$R$, is yet in Equilibrio, the end $PR$ being made to weigh\nexactly as much as $RQ$.\n\nAt the Extremity of this Bascule is ty'd a Cord which\npasses through the Pully $S$, and terminates at the Extremity\nof the Arm, where it is fastned to a little Bowle $M$. At the\nother Extremity of the same Arm that is to say towards $L$, is",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101811.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1054,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1659,
+        2
+      ],
+      [
+        1659,
+        3705,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101811",
+    "title": "A New Invention of a Clock Ascendent on a Plain Inclin'd: By Mr. De Gennes, an Officer Belonging to the Sea. Extracted out of the Journal Des Scavans",
+    "authors": "<prefix>Mr.</prefix> De Gennes",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101811"
+  }
+}

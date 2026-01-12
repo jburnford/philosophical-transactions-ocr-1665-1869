@@ -1,0 +1,59 @@
+{
+  "id": "89ec45a49cd57d29fa342d987eb09fef46569250",
+  "text": "tion, might think it an Invention not unworthy a Frenchman: And whereas Mr. De la Hire seems to conclude, that this Equation ceases in the Quadratures, and is greatest in the New and Full Moons; when he comes to the consideration of the Lunar Motions extra Syzygias, (which is here promised) he will find it no less requisite in the Quadratures than in Eclipses; several undoubted Observations shewing the Necessity thereof.\n\nAmong the Precepts for the use of the Tables, there is a pretty Remark concerning Refractions, which this Author faith he hath often experienced, viz. That the Beams of the Stars being observed in a deep Valley to pass near the Brow of the Hill, are always more refracted than if there were no such Hill, or the Observations were made on the top thereof; as if the Rays of Light were bent downwards in a Curve, by passing near the Surface of the Mountain.\n\nThe Report made to his Majesty by the Company of Parish-Clerks of London, of the Number of Christnings and Burials in the Years 1686 and 1687.\n\nAnno 1686.\n\nChristned\n\nMales 7575\nFemales 7119\nIn all 14694\n\nBuried\n\nMales 11828\nFemales 10781\nIn all 22609\n\nAnno 1687.\n\nMales 7737\nFemales 7214\nIn all 14951\n\nMales 11174\nFemales 10286\nIn all 21460",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101910.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 429,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1224,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101910",
+    "title": "The Report Made to His Majesty by the Company of Parish-Clerks of London, of the Number of Christnings and Burials in the Years 1686 and 1687",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101910"
+  }
+}

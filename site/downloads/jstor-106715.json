@@ -1,0 +1,179 @@
+{
+  "id": "adc947412bc6afe14891669dbd24b404f349d862",
+  "text": "XIV. On finding the Values of Algebraical Quantities by converging Serieses, and demonstrating and extending Propositions given by Pappus and others. By Edward Waring, F.R.S., Professor of Mathematics at Cambridge.\n\nRead February 8, 1787.\n\nSuppose the roots of the equation $x^b \\pm 1 = 0$ to be given, where $b$ denotes any whole number or fraction; to find the roots or values of any given algebraical quantity, by converging infinite serieses.\n\n1. Let the algebraical quantity be $\\sqrt[n]{A}$, then the roots of the algebraical quantity will be $A^n \\times (\\alpha + \\lambda \\sqrt{-1})$, $A^n \\times (\\beta + \\mu \\sqrt{-1})$, $A^n \\times (\\gamma + \\nu \\sqrt{-1})$, &c. where $\\alpha + \\lambda \\sqrt{-1}$, $\\beta + \\mu \\sqrt{-1}$, $\\gamma + \\nu \\sqrt{-1}$, &c. are the roots of the equation $x^n \\pm 1 = 0$; it will be $+1$ if it was $-A$, and $-1$ if $+A$.\n\n2. Let the given algebraical quantity be $\\sqrt[n]{A} \\pm \\sqrt[n]{B} \\pm \\sqrt[n]{C} \\pm &c.$, and $\\alpha + \\lambda \\sqrt{-1}$, $\\alpha' + \\lambda' \\sqrt{-1}$, $\\alpha'' + \\lambda'' \\sqrt{-1}$, &c. and $\\Gamma + \\Delta \\sqrt{-1}$ be respectively one of the roots of the equations $x^n \\pm 1 = 0$, $x^n \\mp 1 = 0$, $x^n \\mp 1 = 0$, &c. and $x^n \\mp 1 = 0$; substitute $\\pm P = \\pm A^n \\alpha \\pm B^n \\alpha' \\pm C^n \\alpha'' \\pm &c.$, and $\\pm Q = \\pm A^n \\lambda \\pm B^n \\lambda' \\pm C^n \\lambda'' \\pm &c.$ In the first place let $P$ be greater $Q$, and $\\pm P$ be $+P$, then will $(P \\pm Q \\sqrt{(-1)})^{\\frac{1}{n}} =$\nDr. Waring's Observations\n\n\\[\n\\left( \\frac{1}{P} - \\frac{1}{r} \\cdot \\frac{1-r}{2r} \\times \\frac{Q^2}{P^{2r-1}} + \\frac{1}{r} \\cdot \\frac{1-r}{2r} \\cdot \\frac{1-2r}{3r} \\cdot \\frac{1-3r}{4r} \\times \\frac{Q^4}{P^{4r-1}} \\right) = \\text{etc.}\n\\]\n\n\\[= \\pm L) \\pm \\left( \\frac{1}{r} \\cdot \\frac{Q}{P^{r-1}} - \\frac{1}{r} \\cdot \\frac{1-r}{2r} \\cdot \\frac{1-2r}{3r} \\cdot \\frac{Q^3}{P^{3r-1}} + \\frac{1}{r} \\cdot \\frac{1-r}{2r} \\cdot \\frac{1-2r}{3r} \\cdot \\frac{1-3r}{4r} \\cdot \\frac{Q^5}{P^{5r-1}} - \\text{etc.} = \\pm M \\right) \\times \\sqrt{-1} = \\pm L \\pm M\n\\]\n\n\\[\\sqrt{-1}, \\text{ in which case the two serieses } \\pm L \\text{ and } \\pm M \\text{ converge,}\\]\nand \\((\\Gamma + \\Delta \\sqrt{-1}) \\times (\\pm L \\pm M \\sqrt{-1})\\) will be a value or root of the given quantity.\n\nIn the same manner the remaining roots may be deduced.\n\n2. Let \\( \\pm P \\) be \\(-P\\), multiply \\(-P \\pm Q \\sqrt{(-1)}\\) into \\(-1\\), and it becomes \\(P \\mp Q \\sqrt{(-1)}\\) a quantity of the same formula as the preceding; let \\(\\Gamma' + \\Delta' \\sqrt{(-1)}\\) be a root of the equation \\(x^r + 1 = 0\\), then will \\((\\Gamma' + \\Delta' \\sqrt{-1})(\\pm L \\pm M \\sqrt{-1}) = \\pm H' \\pm K' \\sqrt{(-1)}\\) be a root of the given quantity: otherwise; the root may be deduced from the above-mentioned series by substituting in it for \\(- (P)^{\\frac{1}{r}}\\) its value \\(P^{\\frac{1}{r}} \\times (-1)^{\\frac{1}{r}}\\), and it will become the same as the preceding.\n\n3. Let \\(P\\) be less than \\(Q\\), and the value of \\((\\pm P \\pm Q \\sqrt{-1})^{\\frac{1}{r}}\\) may be deduced from the preceding series by substituting in it \\(\\pm Q \\sqrt{-1}\\) for \\(P\\), and \\(\\pm P\\) for \\(Q\\): otherwise, since \\((\\pm P \\pm Q \\sqrt{(-1)})^{\\frac{1}{r}} = \\pm \\sqrt{(-1)} \\times (Q \\mp P \\sqrt{(-1)})^{\\frac{1}{r}}\\), and the root of \\((Q \\mp P \\sqrt{(-1)})^{\\frac{1}{r}}\\) can be deduced by the preceding method, which suppose \\(L' + M' \\sqrt{(-1)}\\); multiply this root into \\(H \\pm \\Theta \\sqrt{(-1)}\\), where \\(H + \\Theta \\sqrt{(-1)}\\) denotes a value of the root \\(\\pm \\sqrt{(-1)}\\), and the quantity resulting will be\nbe one value of the given quantity; the remaining values can be deduced by the same method.\n\nIn this case the given quantity is resolved into a series ascending according to the dimensions of $P$, and descending according to the dimensions of $Q$; in the former case it was resolved into a series ascending according to the dimensions of $Q$, and descending according to the dimensions of $P$; both the serieses affording the possible or impossible parts will always converge.\n\n4. If $P = \\pm Q$, then will $(\\pm P \\pm P \\sqrt{(-1)})^{\\frac{1}{r}} = P^{\\frac{1}{r}} \\times (\\pm 1 \\pm \\sqrt{(-1)})^{\\frac{1}{r}} = P^{\\frac{1}{r}} \\times 2^{\\frac{1}{2r}}(\\pm \\sqrt{\\frac{1}{2} \\pm \\sqrt{-\\frac{1}{2}}})^{\\frac{1}{r}} = P^{\\frac{1}{r}} \\times 2^{\\frac{1}{2r}} \\times \\sqrt{(-1)}; \\text{ for } \\sqrt{(-1)} = \\pm \\sqrt{\\frac{1}{2}} \\pm \\sqrt{-\\frac{1}{2}}$.\n\n4. 2. When $P = 0$, or $Q = 0$, then it becomes the first case $\\sqrt{(\\pm A)}$.\n\n5. Let $P = Q = \\alpha$, where $\\alpha$ has a very small ratio to $Q$; then will $(P \\pm Q \\sqrt{(-1)})^{\\frac{1}{r}} = (P \\pm P \\pm \\alpha \\sqrt{(-1)})^{\\frac{1}{r}} = (P \\times 2^{\\frac{1}{2}} \\times -\\frac{1}{4} \\pm \\alpha \\sqrt{(-1)})^{\\frac{1}{r}} = P^{\\frac{1}{r}} \\times 2^{\\frac{1}{2r}} \\times \\sqrt{(-1)} \\pm \\frac{1}{r} \\times P^{\\frac{1-r}{r}} \\times \\frac{1-r}{2r} \\times \\frac{4r}{\\sqrt{(-1)}} \\times \\sqrt{(-1)} \\times \\alpha^2 \\pm \\frac{1}{r} \\cdot \\frac{1-r}{2r} \\cdot \\frac{1-2r}{3r} \\times P^{\\frac{1-2r}{r}} \\times 2^{\\frac{1-3r}{2r}} \\times \\frac{4r}{\\sqrt{(-1)}} \\times \\sqrt{(-1)} \\alpha^3 + \\&c.$ In this series the same root of the quantity $\\sqrt{(-1)}$ is always to be used.\n\n6. If in the given quantity are contained more quantities of the above-mentioned kind or their roots; then, by repeating the same operation, can be deduced the roots or values of the given quantity.\n\nVol. LXXVII.\nDr. Waring's Observations\n\nIn some cases the impossible part may vanish, which may be the case in a quantity of the following formula, viz.\n\n\\[ \\sqrt{a + \\alpha \\sqrt{-b}} + \\sqrt{a + \\beta \\sqrt{-b}} + \\sqrt{a + \\gamma \\sqrt{-b}} + \\ldots \\]\n\nwhere \\( \\alpha, \\beta, \\gamma, \\ldots \\) denote the \\( 2m \\) roots of \\( \\sqrt{-1} \\). The general principles of discovering the cases in which this happens have been given in the Meditationes Algebraicæ.\n\nThe roots of the equation \\( x^b = 1 = 0 \\) will be found from common algebra and these principles, if \\( b \\) is not greater than 10; or, more generally, if \\( b = 2l' \\times 3l'' \\times 4l''' \\ldots 10l^{18} \\), where \\( l', l'', l''', \\ldots l^{18} \\) denote any whole numbers: or, in general, the roots of the above-mentioned equation, or even of the equation \\( x = \\sqrt{\\pm L \\pm M \\sqrt{-1}} \\), can be found from tables of sines.\n\nThe same principles may be applied to the discovery of the values of exponential irrational quantities.\n\nIn the Miscel. Analy. was given, from a substitution invented by me and not similar to any before given, a resolution of equations, which contains the resolutions of all equations before given, and from which the resolutions of some equations, not before delivered, have been added.\n\nPart II. I. Let an equation \\( A = 0 \\) involving \\( r \\) unknown independent quantities be predicated of another equation containing the same quantities, and the demonstration of it be required.\n\n1st. Reduce both the equations to equations involving independent quantities only; then reduce the two equations to one, so that one of the above-mentioned quantities may be exterminated, and if there results a self-evident equation, viz. \\( A = A \\), or \\( A - A = 0 \\), in which the correspondent terms destroy each other respectively; then the first equation is justly predicated of the second; that is, if the above-mentioned equations\nequations afford the same value of the quantity exterminated, the proposition is true, otherwise not.\n\nCor. From these principles can be demonstrated many propositions given by Pappus and others.\n\nEx. Let \\( AD = 2AC = 2x \\), \\( DE = a \\), and \\( EB = b \\), where \\( AD \\), \\( DE \\), and \\( EB \\), are independent quantities; if \\( AB \\times BE = (2x + a + b) \\times b = CB \\times BD = (x + a + b)(a + b) \\), then will \\( CB = x + a + b : BD = a + b :: AC \\times CE = x \\times (x + a) : AD \\times DE = 2x \\times a \\). From hence can be deduced the two equations \\((b - a)x = a^2 + ab\\) and \\(2a \\times (x + a + b) = (a + b) \\times (x + a)\\); reduce these two equations to one, so as to exterminate \\(x\\), and there results the self-evident equation \\((a - b) \\times \\frac{a^2 + ab}{b - a}(-a^2 - ab) + a^2 + ab = 0\\), and consequently the proposition is true.\n\n2. If \\((s)\\) equations involving \\((t + r)\\) unknown and independent quantities be predicated of \\((t)\\) equations involving the above-mentioned quantities: reduce the \\((t)\\) equations and one of the above-mentioned \\((s)\\) equations to one, so that \\((i)\\) unknown quantities may be exterminated, and if there results a self-evident equation, then the above-mentioned equation is justly predicated of the \\((i)\\) equations; and in the same manner we may reason concerning the remaining \\((s - 1)\\) equations.\n\n3. 1. If one equation is justly predicated of another, and in both the unknown quantity exterminated has only one dimension; then the latter equation can be predicated of the former; for in this case both equations have only one and the same value of the unknown quantity exterminated.\n\n3. 2. If the quantity exterminated has more dimensions than one in the equations; then the proposition may not gene-\n\nL 2\nrally be true; for the equations may have some roots the same, but not all.\n\nThese observations may be applied to more equations.\n\n4. From (n) given equations \\(a = 0, b = 0, c = 0, \\ldots\\) can easily be deduced others dependent on them, by finding any direct algebraical functions of the above-mentioned equations, that is, \\(f(a, b, c, \\ldots)\\), which will always \\(= 0\\); and in like manner, from the relation between any lines being given, can be deduced innumerable relations between the above-mentioned lines, and other lines dependent on them.\n\nPart III. 1. Ratios, which are supposed greater or less than others, can easily be transformed into equations, which contain affirmative and negative quantities: for example, let the ratio \\(a : b\\) be greater than the ratio \\(c : d\\), then will \\(\\frac{b}{a} = \\frac{c}{d} - k\\); if it be less, then will \\(\\frac{b}{a} = \\frac{c}{d} + k\\), where \\(k\\) denotes an affirmative quantity; and, vice versa, if \\(\\frac{b}{a} = \\frac{c}{d} - k\\), then will the ratio of \\(a : b\\) be greater than the ratio of \\(c : d, \\ldots\\).\n\n2. If one quantity \\((a)\\) is affirmed to be greater than another \\(b\\), for \\(a\\) in the given equations substitute its value \\(b + k\\); if less, for \\(a\\) write \\(b - k\\), where \\(k\\) denotes an affirmative quantity.\n\n3. Reduce the equations, so as to take away their denominators, and the demonstration of the proposition will often very easily follow.\n\n4. Let \\(k = \\frac{P}{Q}\\) and \\(k' = \\frac{P'}{Q'}\\); and if \\(P\\) and \\(Q\\) be affirmative, let \\(P'\\) and \\(Q'\\) be affirmative; and, vice versa, if negative, negative; then, if \\(k\\) be affirmative, will \\(k'\\) also be affirmative; the same also may be affirmed, if \\(P\\) and \\(Q\\) have both contrary\ntrary signs to P' and Q'; but if one has the same, and the other contrary, then will k and k' have contrary signs.\n\n5. Let some affirmative quantities be less than others, then any direct affirmative function of the former, viz. function, in which no negative or impossible quantities or indexes are contained, will be less than the same function of the latter. The contrary happens when the indexes are all negative, and the quantities affirmative as before: for example, let two quantities be less than two others, then the product of the two former will be less than the product of the two latter.\n\nCor. Hence some quantities may often be known to be greater or less than others from their direct functions being greater or less than the same functions of the others: for example, let \\(a^2 - b^2\\) be an affirmative quantity, then will \\(a\\) be greater than \\(b\\).\n\n6. If one equation or ratio is affirmed on the supposition that another given one is true, reduce both the equations by the methods given above, and from the principles before delivered, the proposition will often be evident.\n\nHence may be deduced demonstrations to propositions of this sort given by Pappus and others.\n\nEx. Let the ratio \\(a + b : b\\) be greater than \\(c + d : d\\), then the ratio \\(b : a - b\\) will be less than \\(d : c - d\\).\n\nFor, since the ratio \\(a + b : b\\) is greater than \\(c + d : d\\), the ratio \\(b : a + b\\) will be less than \\(d : c + d\\), and consequently \\(\\frac{a + b}{b} \\left( \\frac{a}{b} + 1 \\right) = \\frac{c + d}{d} \\left( \\frac{c}{d} + 1 \\right) + k\\), whence \\(\\frac{a}{b} - 1 = \\frac{c}{d} - 1 + k\\), and \\(\\frac{a - b}{b} = \\frac{c - d}{d} + k\\), and the ratio \\(b : a - b\\) less than \\(d : c - d\\).\n\nEx. 2. Let the ratio of \\(a + b : c + d\\) be greater than the ratio of \\(a : c\\), then will the ratio of \\(b : d\\) be greater than the ratio of \\(a + b : c + d\\). By the preceding method convert these ratios\ntios into equations, and there result \\(\\frac{c+d}{a+b} + k = \\frac{c}{a}\\) and \\(\\frac{d}{b} + k' = \\frac{c+d}{a+b}\\); and the proposition asserts, that if \\(k\\) be an affirmative quantity, \\(k'\\) will also be an affirmative quantity. Reduce these two equations, so as to take away their denominators, and the resulting equations will be \\(ac + ad + a \\times a + b \\times k = ac + bc\\) and \\(ad + bd + a + b \\cdot bk' = bc + bd\\), whence \\(k = \\frac{bc - ad}{a(a+b)}\\) and \\(k' = \\frac{bc - ad}{b(a+b)}\\), and the proposition is evident.\n\nEx. 3. Let \\(a\\) be greater than \\(c\\), and \\(b\\), and \\((a+b)\\) \\(\\times (a-b) = (c+d) \\times (c-d)\\), that is, \\(a^2 - b^2 = c^2 - d^2\\), then will \\(b\\) be greater than \\(d\\); for \\(a\\) in the equation \\(a^2 - b^2 = c^2 - d^2\\) write \\(c + k\\), and there results \\(2ck + k^2 = b^2 - d^2\\), whence \\(b^2 - d^2\\) is an affirmative quantity, and consequently \\(b\\) greater than \\(d\\).\n\nEx. 4. Let, as in Ex. 1, the ratio \\(a + b : b\\) be greater than \\(c + d : d\\), then will \\(b : a - b\\) be less than the ratio \\(d : c - d\\). By the preceding method translate these ratios into the two equations \\(\\frac{b}{a+b} + k = \\frac{d}{c+d}\\) and \\(\\frac{a-b}{b} = \\frac{c-d}{d} + k'\\), reduce these equations, so as to take away their denominators, and there result \\(bc + bd + a + b \\times c + dk = ad + bd\\) and \\(da - db = bc - bd + bdk'\\), and consequently \\(k = \\frac{ad - bc}{(a+b)(c+d)}\\) and \\(k' = \\frac{ad - bc}{bd}\\); but these two fractions which express the values of \\(k\\) and \\(k'\\) have the same numerators, and their denominators both affirmative; therefore, if one \\(k\\) be affirmative, the other \\(k'\\) will also be affirmative.\n\nCor. From these principles can easily be deduced innumerable propositions of this fort. Assume two or more ratios, of which let some be supposed greater than others; then, from the above-mentioned transformation, by addition, subtraction, multiplication, division, &c. can be found such functions of\nthe above-mentioned quantities, that some may become greater than others, and thence may be deduced the propositions above-mentioned.\n\n7. It may not be improper in this place to adjoin a few observations on finding the limits of some quantities in which others contained in given equations become negative or affirmative.\n\n1. Given an equation involving two unknown quantities \\( x \\) and \\( y \\); the limits of the quantity \\( y \\), between which the quantity \\( x \\) will become affirmative or negative, may be deduced from the following principles.\n\nThe quantity \\( x \\) passes from affirmative to negative or from negative to affirmative, either through nothing or infinite; or from two impossible roots it passes to affirmative or negative through two or more equal roots; and, vice versa, from affirmative or negative to two or more impossible roots through two or more equal roots.\n\nFind therefore the values of \\( y \\), when \\( x \\) becomes = 0, or infinite; and also all the cases in which two, &c. values of \\( x \\) become equal, that is, when its roots become impossible; and from thence can be deduced the limits of the quantity \\( y \\), between which (\\( x \\)) becomes affirmative or negative.\n\n2. If \\( x = \\frac{P}{Q} \\) be an affirmative quantity, then \\( P \\) will be affirmative or negative, according as \\( Q \\) is an affirmative or negative quantity, &c. Assume therefore \\( P = 0 \\) and \\( Q = 0 \\), and from the roots of the resulting equation can be deduced the cases, in which (\\( x \\)) becomes an affirmative quantity.\n\n3. If more (\\( n \\)) unknown quantities (\\( x, y, z, v, &c. \\)) be contained in a given equation; then, by the preceding method, find the limits of (\\( z, v, &c. \\)), between which (\\( x \\)) becomes an affirmative or negative quantity, and let the quantities denoting the limits contain not more than (\\( n - 1 \\)) unknown quantities:\nDr. Waring's Observations\n\nfrom the above-mentioned quantities or equations expressing the limits, find others denoting their limits, which do not contain more than \\((n - 2)\\) above-mentioned quantities, and so on.\n\n4. Often from the substitution of the limits of given quantities can be acquired the limits of the remaining one \\((x)\\). Find all the greatest values of the quantity \\((x)\\) contained between the above-mentioned limits, and thence can be deduced the limits sought.\n\n5. If there are given \\((m)\\) equations involving \\((m + 1)\\) or more unknown quantities; then sometimes with, and sometimes without, reducing them to others involving more few unknown quantities can be found by the preceding method limits; and from comparing the limits so acquired can sometimes be deduced the limits sought.\n\n6. If a given function of the unknown quantities \\((x, y, z, \\&c.)\\) is asserted to be contained between given limits, when other functions of the above-mentioned quantities are contained between given limits, and the demonstration of it is required; from the given equations and the given functions find limits of the unknown quantities respectively, and if the latter limits are contained between the former, the proposition is generally true, otherwise not.\n\n7. From the above-mentioned principles can be found the cases in which an unknown quantity \\((x)\\) admits of one or more affirmative values.\n\n8. It appears from the principles before delivered, that the finding the number of affirmative and negative roots of a given equation necessarily includes the finding the number of its impossible roots; and therefore it may not be improper to subjoin somewhat on what has been done on this subject.\n\nI. Descartes\n1. Descartes gave a method of finding the number of affirmative and negative roots of a given equation, when all its roots are possible; but all the roots are very seldom in equations of superior dimensions possible, unless when the equation is purposely made.\n\n2. It has been demonstrated by others and myself, that the equation will at least have so many changes of signs from + to −, and − to +, as there are affirmative roots, and so many continued progressions from + to + and − to −, as there are negative roots.\n\n3. A rule for finding in general the number of affirmative or negative roots in a biquadratic, and in the equation $x^n + Ax^m + B = 0$, was first published in the Medit. Algebr.\n\n4. Harriot demonstrated a method of finding the number of impossible roots contained in a cubic equation. In the year 1757 I sent to the Royal Society a method of finding the number of impossible roots contained in a biquadratic and quadrato-cubic equations, and in the equation $x^n \\pm Ax^m \\pm B = 0$.\n\n5. Schooten gave a method of finding the number of impossible roots which can be concluded from the deficient terms of an equation. Newton gave a rule which often discovers the number of impossible roots contained in a given equation. Campbell discovered a new rule on the same subject. Mr. Maclaurin has added somewhat more general on these subjects: these rules may be rendered more general by a principle first given in the Miscell. Analyt. viz. multiplying the given equation into a quantity $x - a$ or $(x - a) \\times (x - b)$, &c. and finding from the rule the number of impossible roots contained in the given equation. Similar and more general rules and principles have been added in the Medit. Algebr. These rules, in equations of superior dimensions, seldom discover the true number of im-\n\nVol. LXXVII. M\npossible roots. I believe also, that I first gave a rule in the Miscell. Analyt. for finding the number of impossible roots from finding an equation, whose roots are the squares &c. of the roots of a given equation, which rule in equations of superior dimensions sometimes finds impossible roots, when Newton's, Campbell's, &c. rules fail, and fails when they find them; and also a rule for finding impossible roots from an equation, whose roots are the squares of the differences of the roots of the given equation; this rule (as has been observed by me in the Miscell. Analyt. and Philosophical Transactions) always discovers whether all the roots of the given equation are possible or not; and the last term of the resulting equation discovers also, whether 0, 4, 8, 12, &c. or 2, 6, 10, 14, &c. impossible roots, are contained in the given equation; to which may be subjoined, if the given equation has \\( r \\) possible and \\( n - r = 2t \\) impossible roots, that the number of changes of signs from + to − and − to + in the resulting equation will not be less than \\( r \\cdot \\frac{r-1}{2} \\), and the number of continued progresses from + to + and − to − will not be less than \\( t \\): whence, if the number of continued progresses be \\( t' \\), the number of impossible roots will not be greater than \\( 2t' \\), and the number of possible roots not less than \\( n - 2t' \\). If the number of changes of signs be \\( b' \\), the number of possible roots will not be greater than \\( r' \\), where \\( r' \\times \\frac{r'-1}{2} \\) is the greatest possible number which does not exceed \\( b' \\), and the number of impossible roots not less than \\( n - r' \\). Another rule was, I believe, first given by me in the Miscell. Analyt. 1762, for finding impossible roots by finding an equation whose roots are \\( z \\), where \\( x^n - px^{n-1} + qx^{n-2} - &c. = z \\), and \\( nx^{n-1} - n - 1 px^{n-2} + n - 2 qx^{n-2} - &c. = 0 \\).\n\nIn\nIn the Medit. Algebr. somewhat has been added concerning impossible, affirmative, and negative values of the unknown quantities in an equation which involves two or more unknown quantities; and also was first delivered a rule from the number of affirmative, negative, and impossible roots of an equation being known to find the number of impossible, negative, and affirmative roots of an equation, whose roots have a given algebraical relation to the roots of a given equation; on which two last subjects little, I believe, had been before published.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106715.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 14,
+    "total-input-tokens": 21538,
+    "total-output-tokens": 6986,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1485,
+        2
+      ],
+      [
+        1485,
+        3547,
+        3
+      ],
+      [
+        3547,
+        5398,
+        4
+      ],
+      [
+        5398,
+        7315,
+        5
+      ],
+      [
+        7315,
+        9098,
+        6
+      ],
+      [
+        9098,
+        10837,
+        7
+      ],
+      [
+        10837,
+        12758,
+        8
+      ],
+      [
+        12758,
+        14741,
+        9
+      ],
+      [
+        14741,
+        16621,
+        10
+      ],
+      [
+        16621,
+        18350,
+        11
+      ],
+      [
+        18350,
+        20172,
+        12
+      ],
+      [
+        20172,
+        22098,
+        13
+      ],
+      [
+        22098,
+        22648,
+        14
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106715",
+    "title": "On Finding the Values of Algebraical Quantities by Converging Serieses, and Demonstrating and Extending Propositions Given by Pappus and Others. By Edward Waring, F.R.S. Professor of Mathematics at Cambridge",
+    "authors": "Edward Waring, Pappus of Alexandria",
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 14,
+    "jstor_url": "https://www.jstor.org/stable/106715"
+  }
+}

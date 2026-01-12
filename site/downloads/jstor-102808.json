@@ -1,0 +1,69 @@
+{
+  "id": "051ea7d81d941646ffeab1e41acbd3ed4e86cdf2",
+  "text": "III. Part of a Letter from the Reverend Mr Patrick Gordon, F. R. S. to the Publisher, concerning a Water-spout observed in the Downs.\n\nLast Saturday in the forenoon, between the hours of 10 and 11 I observed a remarkable Water-spout in the Downs. It bore N. by E. off our Ship, about 2 Leagues distance by Estimation; the Wind at E. N. E. a Top-sail gale, and very Cold. The Horizon was entirely open and serene, except the Northern parts thereof from N. N. W. to N. E. by E. or thereabouts. The highest part of the Cloud appeared to make an Angle of 45 Degrees of Elevation. About one half of the Cloud, (viz. the upper) was very white, and the other extremely black. The Spout itself, (which hung from the lower part of the whitish Cloud) hovered up and down for about 20 Minutes, and during two or three Minutes of the time, that part of the Sea exactly under the Spout, did sparkle up Water to a considerable height. The sparkling run along to the Leeward, (the cone of the Spout moving that way, and making, it seems, a discharge, tho not visible to us in its fall) and continued running along for six Ships length. Afterwards the body of the Spout did quickly contract itself, and then disappeared. About two hours afterwards the Heavens were entirely overcast, and during that afternoon there fell abundance of Hail, and both Wind and Cold encreased. I have seen several Water-spouts in the Mediterranean Sea some years ago, and those usually during the time of a stark Calm and hot Summer Weather; but to see one in our\nour Northern Climate at this time of the year, and during Weather both Cold and Windy, is, I presume, a little unusual.\n\nSir,\n\nYour very humble\n\nDowns, March 24. 1701.\n\nServant\n\nP. Gordon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102808.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 519,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1528,
+        2
+      ],
+      [
+        1528,
+        1716,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102808",
+    "title": "Part of a Letter from the Reverend Mr Patrick Gordon, F. R. S. to the Publisher, concerning a Water-Spout Observed in the Downs",
+    "authors": "Patrick Gordon",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102808"
+  }
+}

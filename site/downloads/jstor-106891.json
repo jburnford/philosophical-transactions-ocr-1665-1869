@@ -1,0 +1,59 @@
+{
+  "id": "f9c84af135990378718eca40ccc0309b8132682b",
+  "text": "Last of all, the place \\( y \\), being truly pointed out by computation for Jan. 16, after a series of an hundred revolutions since the 4th of December, must concur in supporting our assigned period.\n\nI shall only add one general remark, which is, that if we lengthen the time of the rotation but 2 minutes, it will throw the last observation back above 116 degrees; and if we diminish it by 2 minutes, there will arise an excess of more than 117; and, in either case, the calculations and observations would be totally at variance: from which we may conclude that our period must be exact to much less than 2 minutes, either way. Indeed, what alterations may have taken place in the belts themselves, it is impossible to determine. That there have been some, we may admit, and rather suppose, but we have no particular reason to suspect them to have been very considerable. And, after we have shewn that a proper motion, in the spots of the belts, of 116 degrees one way, or of 117 the other, would only occasion an error of 2 minutes in time, we need not hesitate to fix the rotation of the planet Saturn upon its axis at 10\\(^h\\) 16' 0'',4.\n\nSlough, near Windsor,\nJan. 22, 1794.\n\nWM. HERSCHEL.\n\nErratum. Phil. Trans. for 1793. Part II. page 215. 2d line, for more than two degrees and a third, read 1° 11' 47'',6.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106891.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 414,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1315,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106891",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106891"
+  }
+}

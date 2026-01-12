@@ -1,0 +1,59 @@
+{
+  "id": "0c366bc3db09434b76174a0f70852d1d4a785693",
+  "text": "IV. The AMERICAN PHYSITIAN; or a Treatise of Roots, Plants, Trees, Shrubs, Fruit, Herbs, &c. growing in the English Plantations in America: whereunto is annexed a Discourse of the Cacao-nut-Tree, and the use of its Fruit. By W. Hughes. London 1672. in 12°.\n\nThough the Author of this Tract do only promise in the Title of it to give an Account therein of the Vegetables growing in the English Plantations of America; (which is of good use, forasmuch as it may make a part of the Universal History of Nature, now more than ever laboured after by the generous Philosophers of this Age;) yet he indeed performs more: since he presents his Readers with several particulars, that are without the Sphere of the Vegetable Kingdom; such as are the White-Coral-Rocks, to be found upon the Coast of Jamaica, as well as in other parts of America; the Sea-star-Fish; the Alligator; the easy way of making good Salt in Jamaica: For the particulars of all which, we refer to the Book itself.\n\nERRATA in Numb. 82.\n\nPage 4051. line 17. read, are 1044, instead of, are 144. Ibid.l.34. r. and the other two, instead of, 50 of them.\n\nLONDON,\n\nPrinted for John Martyn, Printer to the Royal Society. 1672.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100938.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 387,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1184,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100938",
+    "title": "Errata",
+    "authors": null,
+    "year": 1672,
+    "volume": "7",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/100938"
+  }
+}

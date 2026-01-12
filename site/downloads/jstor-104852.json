@@ -1,0 +1,59 @@
+{
+  "id": "4e53d4ae44d671f834c21714e9b11d1d707f757e",
+  "text": "a Rainbow, only the Colours very faint. It was in a horizontal Direction North of the Sun, and from it projected a long luminous Ray, which terminated in a Point.—It continu'd very strong for more than half an Hour after I saw it, and then vanish'd away by degrees.\n\nP. Collinson.\n\nVII. Extract of a Letter from Mr. Benjamin Cooke F.R.S. to Mr. Peter Collinson F.R.S. concerning the Property of new Flanel sparkling in the dark.\n\nNewport, Isle of Wight, Jan. 13. 1746-7.\n\nRead March 19. Since I have read the Transaction 1746-7. N°. 476. with respect to the sparkling Lady, who could communicate a kind of electrical Fire to her Garments, I can give you an Instance nearly like it, of a Lady who was surprised at such an Appearance from a Flanel Petticoat, which she happen'd to shake in the dark. But at last we found, that new Flanel, after some time wearing, would acquire this Property; but that it lost it by being washed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104852.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 304,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        927,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104852",
+    "title": "Extract of a Letter from Mr. Benjamin Cooke F.R.S. to Mr. Peter Collinson F.R.S. concerning the Property of New Flanel Sparkling in the Dark",
+    "authors": "Benjamin Cooke",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104852"
+  }
+}

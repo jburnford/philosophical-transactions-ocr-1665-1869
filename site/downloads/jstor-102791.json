@@ -1,0 +1,69 @@
+{
+  "id": "738a46c9f9450cef3fb806990a33b2d38f19dd77",
+  "text": "I. Modus colorandi marmora.\n\n1. Armor debet esse politum sine omni macula durum ut Ignis viam eo melius sustineat, ideo Alabastrum his usibus minime idoneum.\n\n2. Ad Aperiendos poros igne opus est tali tamen gradu ne Igniatur, nam tum colores Comburentur nec nimis tepido, nam etsi tum Colores recipiat, recepti tamen minus figuntur nam marmor etiam frigidum imbibet aliquot colores sc. Crocum Stone-blue pro Colore coeruleo, verum hi colores facililime per minimum calorem igne dissipantur ideo is ignis sit Gradus qui sufficiat liquori marmori infuso leniter ebulliendo.\n\n3. Menstrua varia sunt, pro diversitate materiae dissolvendae, Lixivium ex Urina equina factum cum cineribus clavellatis, part 4. & calcis viv, part 1. (NB. Urina Canina prestat equinæ.) Item Spiritus Vini, Lixivium Comune, Vinum & quaedam Oleaginosa.\n\n4. Colores qui cum vehiculis inducuntur hi sunt.\n   1. Stone-blue, in spirit. vin. vel lixivio calcis vi v solut.\n   2. Lackmus in lixivio vulgari. 3. Crocus vel Sapgreen solutum cum lixivio ex Urina & Calc. viv. vel in Sp. Vini. 4. Vermilion vel Cochineel dissolut. ut supra.\n   5. Sang. Draconis in Sp. Vini S. Art. solut. 6. Brasiliun lignum in Sp.Vini solut. 7. Radix Alcannæ cum oleo Terebinth Extract. nam in nullo alio menstruo nec Spiritu vini nec in lixivio solvitur. 8. Sapgreen the less mixt. & dissolut. in sp. Vini vel lixivio calc. viv. ut antea. Aliud Genus Sanguinis Draconis est quod vocatur Lachrima Sanguini ni\nguinis Draconis, quod cum Urinis mixtum gratum satis pro ducit colorem, verum ægre acquiretur, melius Colores cum Urina mixti finem non eludunt.\n\n5. Colores qui sine vehiculo illinuntur hi sunt.\n1. Sang. Draconis optime mundat ad Colorem rubrum.\n2. Gummi. Gutt. ad Col. flav.\n3. Cera virid. ad Color. virid.\n4. Sulphur, pix, Terebinth ad Colorem brunum requiritur tantummodo ut Marmor rite ferveat, & ita Colores grumatici fricando inducuntur, quod experientia docebit.\n\nHi Colores vel facile vel difficulter eluuntur, ruber Color cum oleo Tartari per deliquium intra 26 horas extrahitur sine ulla politurae jactura, Brunus cum aqua forti intra quartam horæ partem sed læsa politura.\n\nPro Colore Aureo sic fac R. salis armoniaci, Vitrioli albi flor. virid. æris, pulverisentur subtilissime.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102791.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 852,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1456,
+        2
+      ],
+      [
+        1456,
+        2246,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102791",
+    "title": "Modus Colorandi Marmora",
+    "authors": null,
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102791"
+  }
+}

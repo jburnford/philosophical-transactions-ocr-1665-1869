@@ -1,0 +1,59 @@
+{
+  "id": "a4d9ff5ea28d2219ec26234984eddc55faf00af1",
+  "text": "ERRATA\n\nIN\n\nMr. Herschel's Catalogue of Double Stars, vol. LXXII. p. 112.\n\n| Page, Line | for | real |\n|------------|-----|------|\n| 129        | 4   | near Fl. 19. |\n|            |     | Fl. 20. |\n| 127        | 8   | Fl. 108. In seq. flexu ga |\n|            |     | Fl. 107. In seq. flexu 43 |\n|            |     | Polis. 31° 3' |\n| 134        | 15  | Fl. 1. |\n|            |     | near Fl. 1. |\n| 133        | 34  | 1° 7'' 49'' |\n|            |     | 67'' 49'' |\n| 139        | 24  | § Capricorni, Fl. |\n|            |     | Fl. 64. Sagittarii |\n| 139        | 8   | 2 ad o Cygni, Fl. 45. |\n|            |     | 3 ad o Cygni, Fl. 46. |\n|            |     | 3 ad o Cygni (Fl. 46) adjacent |\n|            |     | In Constell. Ceti, Fl. 66. |\n| 140        | 5   | Fl. 44. |\n|            |     | Fl. 43° precedens ad boream |\n| 144        | 21  | Polis. 30° 47'' |\n|            |     | Polis. 79° 51'' |\n| 145        | 3   | Polis. 49° 38'' |\n|            |     | Polis. 3° 26'' |\n| 146        | 22  | near Fl. 28. |\n|            |     | A. Fl. 23. |\n| 149        | 32  | 9 northwards |\n|            |     | 9 southwards |\n| 150        | 18  | Fl. 35. |\n|            |     | Fl. 41. |\n|            |     | Fl. 59. and 57. |\n| 151        | 10  | 7° 3° 20'' |\n|            |     | 7° 5° 21'' |\n| 153        | 11  | Polis. 33° 43'' |\n|            |     | Polis. 61° 23'' |\n| 154        | 7   | 2° 41'' 46'' |\n|            |     | 59'' 4'' |\n|            |     | Fl. 4. |\n| 156        | 4   | Fl. 8. |\n| 161        | 81  | 6° 27'' |\n\nE R-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106503.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 779,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1533,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106503",
+    "title": "Errata",
+    "authors": null,
+    "year": 1783,
+    "volume": "73",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106503"
+  }
+}

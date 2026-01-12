@@ -1,0 +1,79 @@
+{
+  "id": "96d2f3af6b0f0859d62e9724a2e5a67ab54b04c8",
+  "text": "III. Some farther Observations relating to the Antiquities and Natural History of Ireland. In a Letter from the late Mr. Edw. Lhwyd, Keeper of the Ashmolean Museum in Oxford, to Dr. Tancred Robinson, F.R.S.\n\nPenzance, in Cornwall; Aug. 25, 1700.\n\nHonoured Sir,\n\nFor Antiquities, Ireland affords no great variety; at least it was not our fortune to be much diverted that way. I have in divers Parts of the Kingdom picked up about 20 or 30 Irish Manuscripts on Parchment: But the Ignorance of their Criticks is such, that tho' I consulted the chiefeft of them, as O Flaherty (Author of the Ogygia) and several others, they could scarce interpret one Page of all my Manuscripts; and this is occasioned by the want of a Dictionary, which it seems none of their Nation ever took the trouble to compose. I was informed (but how truly I know not) they have lately printed one at the Irish College in Louvain; which if I could procure, I should not despair of being in a short time able myself to understand these Manuscripts; tho' many of them being but insignificant Romances, it would scarce quit the Pains. What I most value amongst them are their old Laws, which might give some Light to the Curious as to many of their National Customs; and some of their old Poems: But all are of use to any that would compose a Dictionary of their Language; which was anciently (considering the narrowness of their Knowledge as to Arts and Sciences) doubtless very copious.\nI saw no Coins found there, but the Roman Gold Coin of Valentinian jun. formerly mentioned; several of our old English since the Conquest; and one cast Brass Piece inscribed with Runic Letters, which I take to have been a Danish Amulet.\n\nSeveral of our old British Monuments, called Kaer, Karn, Cromlech, &c. we met with; and found that they distinguished them by the same Names.\n\nWhat were peculiar to themselves, were their high round Towers for Belfreys; their round Entrenchments, commonly called Danes Rathes; and the Elf-Arrow Heads of Flint.\n\nAbout Slego and Bali Shan, we had good success as to Figur'd Stones; where we met with variety of Astro- podia and Astrorrhiza, or Modioli, not yet figured or described, together with other Curiosities in that kind; all which (together with the Manuscripts) I have long since sent to Oxford.\n\nIn the same Neighbourhood, on the Mountains of Ben Bulben and Ben Buishgen, we met with a Number of the rare Mountain Plants of England and Wales, and three or four not yet discover'd in Britain. Mr. Heaton's Chamomile Alpine is a common Plant on those Hills, as also on divers other Mountains and Heathy Grounds in Connacht and Munster.\n\nIn the Isle of Aran (near Galway) we found great plenty of the Adiantum verum, and a sort of matted Campion with a white Flower, which I bewail the Loss of; for an imperfect Sprig of it was only brought me; and I waited afterwards in Rain almost a whole Week for fair Weather, to have gone in quest of it.\n\nIn most of the Mountains of Galway and Mayo grows an elegant sort of Heath, bearing large Thyme-leaves, a Spike of fair purple Flowers like some Campanula, and viscos Stalks. I know not whether it be any thing related to the Cisti Ladaniferæ.\nIn the same Places Pinguicula flore carneo-minore is a common Plant, and a sort of Ros Solis, which I take to be undescribed.\n\n*Sedum serratum foliis pediculis oblongis insidentibus* is exceeding common on all the Mountainous Tracts of Mayo, Galloway, and Keri.\n\nOn the Mountains of Keri, *Sanicula guttata* grows in abundance; together with some other rare Plants, as the *Arbutus*, *Cotyledon hirsuta*, *Cirsium humile montanum Cy-noglossi folio polyanthemum R. Syn.* *Alcbimilla Alpina pentaphyllos*. *Sanicula aizoides inter guttatam & Sedum serratum ambigens*. *Veronica procumbens maxima*, an N.D? &c. But the Tories frustrated our Curiosity here, tho' no where else in the Kingdom.\n\n*Pentaphylloides fruticosa* we found plentifully amongst Lime-Stone Rocks on the Banks of Loch Crib in the County of Calloway; and Dr. Merret's *Vaccinia rubra foliis Myrtinis crispis* (a very beautiful Plant) we found to be no rarity in this Kingdom.\n\nWe have preserved of all these, and some more I have not time to mention; as also of such Marine Plants as had not occur'd in Wales.\n\nWe met with some Marine Animals of the Exanguious kind, that were Strangers to us; and have preserved by Figures and dried Paterns what we could.—I am,\n\nHonoured Sir,\n\nYour Obedient humble Servant,\n\nE. LHWYD.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103164.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1270,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1457,
+        2
+      ],
+      [
+        1457,
+        3189,
+        3
+      ],
+      [
+        3189,
+        4474,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103164",
+    "title": "Some Farther Observations Relating to the Antiquities and Natural History of Ireland. In a Letter from the Late Mr. Edw. Lhwyd, Keeper of the Ashmolean Museum in Oxford, to Dr. Tancred Robinson, F. R. S.",
+    "authors": "Edw. Lhwyd",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103164"
+  }
+}

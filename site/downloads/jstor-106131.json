@@ -1,0 +1,69 @@
+{
+  "id": "0e1bbe728bf528824159170cf3b7712d8057db49",
+  "text": "III. A short Account of some Specimens of native Lead found in a Mine of Monmouthshire: In a Letter from Michael Morris, M.D. F.R.S. to M. Maty, M.D. Sec. R.S.\n\nFludyer's-Street, Westminster, Nov. 5, 1772.\n\nSIR,\n\nRead Nov. 19, 1772.\n\nABOUT the middle of last July, I received three specimens of lead-ore from Valentine Morris, Esq; of Piercefield, in Monmouthshire. They were dug up in one of his fields, on making some drains, at no considerable depth; they were marked No 1, 2, 3. On reducing to powder an ounce and a half of the ore, marked No 3, in order to assay it, I perceived that several small bits were flatted by the pestle, which, on a farther examination, proved to be native lead. Though the bits of lead are inconsiderable, yet, as they are the first that have been publickly seen in England, or, that I know of, in Europe, some of the best and latest writers on mineralogy declaring that they have not met with any, I thought it my duty to acquaint the Royal Society with the fact, that the first account\naccount of native lead may appear in the Philosophical Transactions, as well as the first account of native tin.\n\nN. B. In more than 300 assays of lead ore, I have met with nothing of the kind before.\n\nI am,\n\nYours. &c.\n\nM. Morris.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106131.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 428,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1021,
+        2
+      ],
+      [
+        1021,
+        1252,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106131",
+    "title": "A Short Account of Some Specimens of Native Lead Found in a Mine of Monmouthshire: In a Letter from Michael Morris, M. D. F. R. S. to M. Maty, M. D. Sec. R. S.",
+    "authors": "Michael Morris",
+    "year": 1773,
+    "volume": "63",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106131"
+  }
+}

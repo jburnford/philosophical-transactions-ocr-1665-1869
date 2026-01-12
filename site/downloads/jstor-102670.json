@@ -1,0 +1,69 @@
+{
+  "id": "923d6a8bf8e4fe4372463108acb20afe364e2a21",
+  "text": "VI. Part of a Letter from the Reverend Mr W. Derham, F. R. S. concerning a Glade of Light observed in the Heavens.\n\nUpminster, March 28, 1706.\n\nAs I was observing the Immersions of the 3d and 4th Satellite of h on the 20th of this month in the Evening, I espyed a very odd sort of Light in the Constellation of γ, the lower end of which was below the Bull's Eye, and the other a good way above it, and that Star about the middle of the lower end thereof, as in Fig. 3, which doth represent its appearance to me. This Glade of Light had the same Motion that the Heavens had, and was much like the Tail of a Comet, but pointed at the upper end, as in the Figure. This Light, I doubt not, is such as Dr Childrey first observed in England, and which Cassini and others afterwards observed in France, as Dr Hook saith. I am sorry that the following Nights were Cloudy; and although Easter-day Evening was fair, yet I forgot it unluckily then. And Easter-Monday being Cloudy in the Evening, I could not observe it a second time till Tuesday last, and then it was gone.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102670.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4934,
+    "total-output-tokens": 371,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1062,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102670",
+    "title": "Part of a Letter from the Reverend Mr W. Derham, F. R. S. concerning a Glade of Light Observed in the Heavens",
+    "authors": "W. Derham",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102670"
+  }
+}

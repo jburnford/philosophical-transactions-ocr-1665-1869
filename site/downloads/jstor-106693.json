@@ -1,0 +1,199 @@
+{
+  "id": "c5db3990a4893dae51a2f1212b12e09f663fafa4",
+  "text": "XVIII. On the Resolution of attractive Powers. By Edward Waring, M.D. F.R.S. and Lucasian Professor of Mathematics at Cambridge.\n\nRead May 28, 1789.\n\n1. A force acting at a given point may be resolved by an infinite number of ways into two, three, or more ($n$) forces acting at the same point, either in the same or different planes with the given force and each other; and, vice versa, any number of such forces acting in the same or different planes may be reduced into one.\n\nEx. Fig. I. Tab. III. Let a body $A$ be acted on by three forces $AB$, $AC$, and $AD$, not being in the same plane; reduce any two of them $AB$ and $AC$ to one $AE$, by completing the parallelogram $ABEC$; then reduce the two forces $AE$ and $AD$ to one $AF$ by completing the parallelogram $AEFD$, and the three forces $AB$, $AC$, and $AD$, are reduced to the one $AF$.\n\n2. If $n$ forces act on the body $A$ at the same time, and any $(n-1)$ of them be reduced to one, the force resulting will be situated in the same plane with the remaining, and force equivalent to the $(n)$ forces.\n\n3. If one force $a$ be resolved into several others $x$, $y$, $z$, $v$, &c. situated in different planes, and the sines of the angles, which the forces $y$, $z$, $v$, &c. contain with the plane made by the direction of the forces $x$ and $a$ be respectively $s$, $s'$, $s''$, &c. then will $sy = s'z = s''v = &c. = 0$.\nPROBLEM I.\n\nFig. 2. Given the law of attraction of each of the parts of a given line in terms of their distance from a given point P; to find the attraction of the whole line \\( ab \\) on the point P.\n\nFind the attraction of the line \\( ab \\) on the point P in the two directions \\( Pf \\) and \\( fb \\) by the following method. Draw \\( Px \\) from the point P to any point \\( x \\) of the line \\( ab \\), the force acting on the point P by the particle \\( xy \\) will be the given function (determined from the given law of attraction) of the distance into the particle; draw also \\( Pb \\) perpendicular from the point P to the line \\( ab \\), and let \\( Pf = a \\), \\( fb = b \\), and \\( fx = y \\); then will the distance \\( Px = \\sqrt{(a^2 + 2by + y^2)} \\), and the function of the distance into the particle \\( xy = \\phi (\\sqrt{(a^2 + 2by + y^2)}) \\times y = F(y) \\times y \\); let this be denoted by \\( lx \\) situated in the line \\( Px \\), which resolve into two others \\( nx = \\frac{yy \\times F : (y)}{Px} = \\sqrt{(a^2 + 2by + y^2)} \\) situated in the line \\( ab \\), and \\( ln \\) (in a direction parallel to \\( Pf \\)) \\( = \\frac{ay \\times F : (y)}{\\sqrt{(a^2 + 2by + y^2)}} \\); find the fluents of the fluxions \\( \\frac{yy \\times F : (y)}{Px} \\) and \\( \\frac{ay \\times F : (y)}{Px} \\) contained between the values \\( af \\) and \\( fb \\) of the line \\( fx = y \\), which suppose Y and V respectively; through the point \\( p \\) draw \\( Py \\) parallel to \\( fb = Y \\), and in the line \\( Pf \\) assume \\( Pu = V \\); complete the parallelogram \\( Puzy \\); \\( Pz \\) will be the force of the line \\( ab \\) on the point P.\n\nCor. If \\( F : (y) \\) varies as any power or root \\((2n)\\) of the distance \\( Px = \\sqrt{(a^2 + 2by + y^2)} \\), and \\( n - \\frac{1}{2} \\) be an integer affirmative number or o, the fluents Y and V of both the fluxions can be found in finite algebraical terms of \\( y \\); if \\( n - \\frac{1}{2} \\) be an integer negative number, both the fluents can be found in the above-mentioned\nmentioned finite terms together with the arc of a circle, whose radius is $\\sqrt{a^2 - b^2}$ and tangent $y = b$, unless $n - \\frac{1}{2} = -1$, in which case the fluent $Y$ involves that circular arc, and also the logarithm of $y^2 = 2by + a^2$. If $n - \\frac{1}{2}$ denotes a fraction whose denominator is 2, both the fluents can be expressed by the finite terms together with the log. of $y = b + \\sqrt{(y^2 = 2by + a^2)}$.\n\nIf the fluents be given, when $n$ is a given quantity, and $n - \\frac{1}{2}$ not a whole affirmative number, from them can be deduced the fluents of any fluxions resulting by increasing or diminishing $n$ by a whole number, unless in the above-mentioned case of $n - \\frac{1}{2} = -1$. If $b = 0$, and consequently the line $Pf$ is perpendicular to the given line $ab$, the fluent $Y$ will be expressed by the finite terms, unless $n - \\frac{1}{2} = -1$, in which case it will be as $\\frac{1}{2} \\log. (y^2 + a^2)$ when properly corrected.\n\nThese fluxions $\\dot{Y}$ and $\\dot{V}$ may be transformed into others, whose variable quantity is $Px = u$ the distance from $P$, by substituting in the fluxions for $y$ and $\\dot{y}$ their respective values $\\sqrt{(u^2 - a^2 + b^2)} = b$ and $\\frac{uu}{\\sqrt{(u^2 - a^2 + b^2)}}$, and consequently for $\\sqrt{(y^2 = 2by + a^2)}$ its value $u$.\n\n**PROBLEM II.**\n\nFig. 3. Given the attraction of each of the parts of a given surface in terms of their distance from a given point $P$, and an equation expressing the relation between an absciss $Ap = x$, and its correspondent ordinates $pm = y$ of the surface; to find the attraction of the surface on the given point $P$.\n\nFirst, by the preceding proposition find the attractions $Y$ and $V$ of any ordinate $mpm'$ in the directions of the ordinate $pm$ and of the line $Pp$; and from the equation expressing the relation\nrelation between the absciss and ordinates of the given curve, find the absciss in terms of the ordinates \\( (pm) = \\pi : (y) \\), and thence \\( \\dot{x} = \\phi : (y) \\times \\dot{y} \\) and \\( \\sqrt{(a'^2 \\pm 2sa'x + x^2)} = \\phi' : (y) \\), where \\( PA = a' \\) and \\( s = \\cosine \\) of the angle, which the absciss \\( Ap \\) makes with the line \\( PA \\); then find the fluents of the three fluxions \\( \\dot{x} \\times Y = \\dot{y} \\times Y \\times \\phi : (y) \\), \\( \\dot{x} \\times \\frac{V \\times x}{\\sqrt{(a'^2 \\pm 2sa'x + x^2)}} = \\phi : (y) \\times \\dot{y} \\times \\frac{\\pi : (y)}{\\phi : (y)} \\times V \\) and \\( \\dot{x} \\times \\frac{a'V}{\\sqrt{(a'^2 \\pm 2sa'x + x^2)}} = \\dot{y} \\times \\frac{a'V}{\\phi' : (y)} \\) contained between the values of \\( y \\), which correspond to the extreme values of \\( x \\), which suppose \\( Y', V', \\) and \\( Z; \\) and draw through the point \\( P \\) the lines \\( Py \\) and \\( Px \\) respectively parallel to the ordinates \\( pm \\) and to the absciss \\( Ap \\) and equal to \\( r \\times Y' \\) and \\( V' \\); assume \\( Pu \\) in the line \\( (PA) = t \\times Z, \\) \\( r \\) and \\( t \\) denoting the fines of the angles, which the ordinates \\( pm \\) and line \\( AP \\) make with the absciss \\( Ap \\): reduce these three forces \\( Py, Px, \\) and \\( Pu, \\) to one \\( Pf, \\) and \\( Pf \\) will be the force of the surface on the point \\( P. \\)\n\nCor. 1. If for \\( y \\) and \\( \\dot{y} \\) be substituted their values in terms of \\( x \\) and \\( \\dot{x}, \\) deduced from the equation expressing the relation between the absciss \\( Ap \\) and ordinate \\( pm \\) of the given curve, thence will be deduced the above-mentioned fluents \\( Y, V, Y', V', \\) and \\( Z, \\) in terms of \\( x; \\) and in the same manner, if for \\( x \\) and \\( \\dot{x} \\) be substituted in the fluxions or fluents resulting their values \\( \\sqrt{(u^2 - a'^2 + r^2a'^2)} = sa', \\) and its fluxion, there will result the above-mentioned fluxions or fluents in terms of \\( u \\) the distance from the point \\( P. \\)\n\nCor. 2. Let the curve be a circle, of which \\( A \\) is the center, \\( PA \\) a line perpendicular to the plane of the circle, and the ordinate \\( pm \\) perpendicular to the absciss \\( Ap; \\) the forces on each side of the absciss \\( Ap \\) will be equal, and the force in the direc-\nResolution of attractive Powers.\n\nThe abscissa \\( Ap \\) will be equal to that in the contrary direction; the force in the direction \\( (PA) = 4 \\times \\int \\frac{au}{\\sqrt{u^2 - a^2}} \\times \\int \\frac{uy}{\\sqrt{u^2 + y^2}} \\times F : (\\sqrt{u^2 + y^2}) = W \\), in which \\( F : (\\sqrt{u^2 + y^2}) \\) is the function of the distance, according to which the given force on the particles varies; the fluent \\( \\int \\frac{uy}{\\sqrt{u^2 + y^2}} \\times F : \\sqrt{u^2 + y^2} \\) is contained between the values 0 and \\( \\sqrt{(r^2 + a^2 - u^2)} \\) of the quantity \\( y \\), and the fluent \\( W \\) is contained between the values \\( a \\) and \\( \\sqrt{(a^2 + r^2)} \\) of the quantity \\( u \\), where \\( a = PA \\) and \\( r \\) the radius of the circle; but the same force is \\( = 2 \\times 3.14 : 59 \\) &c. \\( \\times \\int au \\times F : (u) \\), where \\( F : (u) \\) denotes the given function of the distance \\( (u) \\), and the fluent is contained between the values \\( a \\) and \\( \\sqrt{a^2 + r^2} \\) of \\( u \\).\n\nPROBLEM III.\n\nTo find the attraction of a given solid on a given point \\( P \\). Find the attraction of every parallel section on that point by the preceding problem, and multiply it into the correspondent fluxion of the first abscissa \\( AP \\), and also find the fluent of the resulting fluxion, which, properly corrected, multiply into the sine of the angle, which the first abscissa makes with the parallel sections, and the product will be proportional to the attraction of the solid on the given point \\( P \\).\n\n2. Fig. 4. Let the solid \\( ABCH \\) be generated by the rotation of a given curve round its axis \\( AB \\), which passes through the point attracted \\( P \\), and this solid be supposed to consist of small evanescent solids, whose bases are the surfaces \\( EF, ef, \\) &c. of spheres, of which the center is \\( P \\), and altitudes \\( Ff, \\) &c. the\nincrements of the base AB contained between the two contiguous surfaces EF and ef: from the points E and e of the curve draw ED and ed perpendicular to the axis AB, and ES perpendicular to the arc Ee of the given curve at the point E, and meeting the axis AB in S; then will the evanescent solid \\( \\text{EFfe} = p \\times PE \\times FD \\times Ff = p \\times FD \\times PS \\times Dd \\) (because \\( Ff = \\frac{PS \\times Dd}{PE} \\)) \\( = p \\times \\sqrt{(x^2 + y^2)} - z \\times \\dot{z} = yy \\), where \\( z \\) and \\( y \\) denote respectively the abscissa PD, and its correspondent ordinate DE of the given curve.\n\nThe increment of the attraction of the surface EF on the point P in the direction PD will be as the increment of the surface \\( (p \\times PE \\times Dd) \\times \\frac{PD}{PE} \\times \\text{force of each particle} = p \\times PD \\times Dd \\times \\text{given force of the particle}; \\) but the fluent of the fluxion \\( PD \\times Dd \\) contained between the points E and F is \\( \\frac{1}{2} PE^2 - \\frac{1}{2} PD^2 = \\frac{1}{2} ED^2 \\), whence the attraction of the evanescent solid \\( \\text{EFfe} \\) is as \\( \\frac{1}{2} p \\times ED^2 \\times Ff \\times F : (\\sqrt{x^2 + y^2}) \\) force of each given particle at the distance \\( (PE = \\sqrt{(x^2 + y^2)}) = \\frac{1}{2} p \\times ED^2 \\times \\frac{PS}{PE} \\times Dd \\times F : (\\sqrt{x^2 + y^2}) = \\frac{1}{2} py^2 \\times \\frac{z \\dot{z} = yy}{\\sqrt{(x^2 + y^2)}} \\times F : (\\sqrt{(x^2 + y^2)}); \\) the fluent of which, properly corrected, is as the attraction of the solid on the point P; \\( p \\) denotes the circumference of a circle, whose radius is 1.\n\nCor. 1. The fluxion of this solid is \\( \\frac{1}{2} py^2 \\dot{z} = \\dot{Y} \\) which deduced from the preceding principles \\( = p \\times (\\sqrt{(x^2 + y^2)} - z) \\times (z \\dot{z} = yy) = \\dot{V} \\), and consequently their fluents between two values of \\( z \\), which correspond to two values of \\( y = 0 \\), will be equal to each other.\nCor. 2. The increment of the attraction of this solid as given in this proposition \\( \\frac{1}{2} p \\times y^2 \\times \\frac{z \\dot{z} + y \\dot{y}}{\\sqrt{z^2 + y^2}} \\times F : (\\sqrt{z^2 + y^2}) = \\dot{U} \\), but in the preceding proposition the force of a circle on the point \\( P = p \\times \\int \\dot{a} \\dot{u} \\times F : (u) \\), where \\( u = \\sqrt{(z^2 + y^2)} \\) and \\( a = z \\), and \\( y \\) or \\( u \\) the only variable quantity contained in the fluxion; and consequently the fluxion of the attraction of the solid \\( p \\times \\int \\frac{z \\dot{z} + y \\dot{y}}{\\sqrt{z^2 + y^2}} \\times F : ((z^2 + y^2)^{\\frac{3}{2}}) = \\dot{W} \\); therefore, if for the fluent of \\( \\frac{z \\dot{z} + y \\dot{y}}{\\sqrt{z^2 + y^2}} \\times F : ((z^2 + y^2)^{\\frac{3}{2}}) \\) be substituted its fluent contained between the values \\( a \\) and the value of \\( y \\), which in the given equation corresponds to \\( z \\); then the fluents of \\( \\dot{U} \\) and \\( \\dot{W} \\) contained between the two values of \\( z \\), which corresponds to two values of \\( y = 0 \\), will be equal to each other.\n\nThe difference of the fluents of \\( \\dot{Y} \\) and \\( \\dot{V} \\), &c. contained between any other two values of \\( z \\), can easily be deduced from the difference of two segments of spheres.\n\n1. It may not be improper to remark in this place, that from different methods of finding the sum of quantities, the fluents of fluxions, the integrals of increments, &c. quantities may often be deduced equal, which otherwise cannot without some difficulty; of which instances are contained in the Meditationes, and I shall here subjoin one or two more to those already given in this Paper.\n\nEx. 1. Any curvilinear area ABC, &c. may be supposed to consist of evanescent areas EFef, of which the base EF is the arc of a circle, whose radius is PE \\( = \\sqrt{(z^2 + y^2)} \\) and sine ED \\( = y \\), and altitude Ff, and consequently the fluxion of the area \\( = Ff \\times \\text{arc (A)} \\) of a circle whose radius is PE and sine ED \\( = \\).\n\\[\n\\frac{PS}{PE} \\times \\dot{z} \\times A = \\frac{z\\dot{z} + y\\dot{y}}{\\sqrt{(z^2 + y^2)}} \\times A = \\dot{V}; \\text{ the fluent of } \\dot{V} \\text{ contained between the two values of } z \\text{ which correspond to two values of } (y) = 0 \\text{ will be equal to the fluent of } y\\dot{z} \\text{ contained between the same two values of } z.\n\\]\n\nEx. 2. The attraction of any circular arc EF in the direction PD on a point P (P being the center of a circle, of which EF is an arc, and ED the sine of that arc) will be as ED × force at distance PE = ED × F : (PE); for the attraction in the direction PD//F at the point x is as the increment of the arc xy × F : (PE) × \\(\\frac{Pl}{P_x}\\) (x' and y' being at right angles to PF) = U × \\(\\frac{P_x}{x'}\\) × \\(\\frac{Pl}{P_x}\\) × F : (PE) = \\(U' \\times \\frac{Pl}{ix} \\times F : (PE) = \\frac{ui}{\\sqrt{PE^2 - u^2}} \\times F : (PE)\\),\n\nif \\(u = Pl\\); and consequently the fluent of it is as \\(\\sqrt{PE^2 - u^2} \\times F : (PE) = ED \\times F : (PE)\\), and the attraction of the surface EFe'f will be as ED × Ff × F : (PE) = ED × \\(\\dot{z} \\times \\frac{PS}{PE} \\times F : (PE)\\)\n\n= \\(y \\times \\frac{z\\dot{z} + y\\dot{y}}{\\sqrt{(z^2 + y^2)}} \\times F : ((z^2 + y^2)^{\\frac{1}{2}} = \\dot{V}; \\text{ the attraction of the curve will also vary as } \\int \\dot{z} \\int \\frac{z\\dot{z} \\times F : ((u^2 + z^2)^{\\frac{1}{2}})}{(z^2 + u^2)^{\\frac{1}{2}}} = W, \\text{ in which the fluent of } \\frac{z\\dot{z} \\times F : ((z^2 + u^2)^{\\frac{1}{2}})}{(z^2 + u^2)^{\\frac{1}{2}}} \\text{ is contained between } u = 0 \\text{ and } u = y; \\text{ the fluents of } \\dot{V} \\text{ and } \\dot{W} \\text{ contained between two values of } z, \\text{ which correspond to two values of } y = 0, \\text{ will be equal to each other.}\n\n2. From a similar method may be deduced equalities between other like fluents, for the curve may be supposed to consist of other similar curve surfaces equally as circles, and the solid of similar segments of other solids equally as spheres.\n\n3. From the same principles may innumerable serieses equal to each other be deduced; for by different converging serieses find\nResolution of attractive Powers.\n\nfind the sum of the same quantity or quantities, and there will result serieses equal to each other: for instance (fig. 5), if the time of falling down the arcs AC and BC and their interpolations from the principles delivered in the Meditationes Analytice, of which the difference let be D; find the difference between the times of a body's falling through BC when it began to fall from A and from B by a series proceeding according to the dimensions of AB = o' a small quantity; and find, by a series of the same kind, the time of falling through AB; the sum of these two serieses will be equal to D. Similar propositions may be deduced from fluxional equations.\n\n4. In some cases the ratios of the times of bodies falling through some particular distances to each other may be easily known; for instance, let the force vary as the $m - 1$ power of the distance ($x$), and $a$ be the distance from which the body began to fall, then the velocity varies as $\\sqrt{(a^m - x^m)}$, and the increment of the time as $\\frac{\\dot{x}}{\\sqrt{(a^m - x^m)}}$; but if the parts of different curves are proportional, then will $a$, $x$, and $\\dot{x}$ vary in the same ratio as each other, and consequently the time through proportional parts of the distance will vary as $a^{2-m}/2$; and if the bodies be resisted likewise by a force which varies as the $\\frac{2m-2}{m}$ power of the velocities, then the times through proportional parts will vary as before, that is, as $a^{2-m}/2$, where $a$ denotes the proportional distances from the points where the forces and resistances are equal.\nPROBLEM IV.\n\n1. Fig. 6. Given an equation expressing the relation between the two abscissæ \\( z = AP \\) and \\( x = Pp \\) and their correspondent ordinates \\( y = pm \\) of a solid, to find its solid contents contained between two values of its first abscissæ \\( z \\). Assume \\( z \\) as an invariable quantity, and from the equation resulting find the fluent \\( Z \\) of \\( yx \\) contained between the extreme values of \\( x \\) or \\( y \\); then find the fluent of \\( Zx \\) contained between the given values of \\( z \\), and the fluent multiplied into the product of the sines of the angles, which the first abscissa makes with the plane of the ordinates and second abscissæ, and the second abscissæ makes with its correspondent ordinates, will be the solid content required.\n\n2. Fig. 7. Let the first abscissæ \\( z \\) of a solid be perpendicular to the planes of the ordinates, and the second abscissæ \\( Pp = x \\) perpendicular to the ordinates themselves \\( pm = y \\). First, assume the first abscissæ as invariable, and find the increment of the arc \\( p'm = (\\dot{x}^2 + \\dot{y}^2)^{\\frac{1}{2}} \\), then assume the second abscissæ \\( Pp \\) as constant, and let \\( mu \\) be the fluxion of the ordinate \\( y \\) or \\( u \\), when the fluxion of the first abscissæ is \\( \\dot{z} = ul \\), where \\( ul \\) is perpendicular to the plane of the ordinates \\( p'pm \\), and \\( l \\) a point of the surface of the solid; draw \\( ub \\) perpendicular to the arc \\( p'm \\), and since \\( ul \\) is constituted at right angles to the plane \\( pp'm \\), \\( lb \\) will cut the arc \\( p'm \\) at right angles; but \\( ub = \\frac{um \\times pp'}{p'm} = \\frac{\\dot{u}x}{\\sqrt{(\\dot{x}^2 + \\dot{y}^2)}} \\);\n\n\\( lb = (\\dot{b}x^2 + \\dot{u}x)^{\\frac{1}{2}} = (\\dot{u}x^2 + \\dot{x}^2)^{\\frac{1}{2}} \\) the fluxion of the surface will be \\( lb \\times \\sqrt{(\\dot{x}^2 + \\dot{y}^2)} \\). From the given equation expressing the relation between the two abscissæ \\( z \\) and \\( x \\) and ordinates \\( y \\) find, by assuming \\( z \\) invariable \\( \\dot{x} = \\dot{y} \\), and by assuming \\( x \\) invariable \\( q\\dot{z} = \\dot{y}' = \\dot{u} \\),\nResolution of attractive Powers.\n\n\\[ y' = u, \\] which being substituted for their values in the quantity \\( l b \\times \\sqrt{(\\dot{x}^2 + \\dot{y}^2)} \\), there will result \\( (q^2 + p^2 + 1)^{\\frac{1}{2}} \\times \\dot{x} \\times \\dot{z} = A \\dot{x} \\dot{z} = \\frac{(q^2 + p^2 + 1)^{\\frac{1}{2}}}{p} \\times \\dot{y} \\times \\dot{z} = B \\dot{y} \\dot{z} \\); in \\( A \\) and \\( B \\) for \\( y \\) and \\( x \\) respectively substitute their value deduced from the given equation, and let the resulting quantities be \\( A' \\dot{x} \\dot{z} \\) and \\( B' \\dot{y} \\dot{z} \\), where \\( A' \\) is a function of \\( x \\) and \\( z \\), and \\( B' \\) a function of \\( y \\) and \\( z \\); find the fluent of \\( A' \\dot{x} \\dot{z} \\) from the supposition that \\( x \\) is only variable contained between the extreme values of \\( x \\) to a given value of \\( z \\), which let be \\( L \\dot{z} \\), then find the fluent of \\( L \\dot{z} \\) by supposing \\( z \\) only variable contained between given values of \\( z \\), and it will be the surface of the solid contained between those values.\n\nThe same may be deduced by finding the fluent of \\( B' \\dot{y} \\dot{z} \\) on the supposition that \\( y \\) is the only variable quantity contained between the extreme values of \\( y \\) as before of \\( x \\) to a given value of \\( z \\), which let be \\( L' \\dot{z} \\); then will the fluent of \\( L' \\dot{z} \\) contained between the given values of \\( z \\) be the surface required.\n\nIf the solid be a cone generated by the rotation of a rectangular triangle round a side containing the right angle as an axis; \\( hu \\) will be a given quantity, if \\( \\dot{z} \\) be given.\n\nIf the above-mentioned angles are given, but not right ones, the arc \\( p'm \\) and perpendicular \\( l'b \\) can easily be deduced, and consequently the increment of the surface.\n\n3. To define a curve of double curvature, it is necessary to have two equations expressing the relation between the abscissæ \\( z \\) and \\( x \\) and their ordinates (\\( y \\)) given, and if the angles which they respectively make with each other be right ones; the fluxion of the arc as given in the Proprietates Curvarum is \\( (\\dot{z}^2 + \\dot{x}^2 + \\dot{y}^2)^{\\frac{1}{2}} \\). Find its value from the two given equations in terms of \\( x \\), \\( y \\), or \\( z \\), multiplied into its respective fluxions, and its fluent, properly corrected, will be the length of the arc required.\n\nIf\nIf the angles are not right, they may easily be reduced to them.\n\n4. The attractions of these surfaces, curves, &c. on a given point \\( P \\) may be deduced from the preceding principles of finding the attractions of each of the parts in the directions of the first abscissa, which passes through the point \\( P \\), the second abscissa, and the ordinates, and then finding the integrals of these increments.\n\nFrom the method which determines the attraction of a body, surface, &c. on a given point can be determined the attraction of a body, &c. on any number of points, and consequently the attraction of one body, &c. on another, &c.\n\nIt is sometimes advantageous to transform the first absciss, that it may pass through the point attracted; and the abscissæ and ordinates, that they may be at right angles to each other, &c.\n\n**PROBLEM V.**\n\n1. Fig. 8. Given an equation expressing the relation between the two abscissæ \\( AP \\) and \\( Pp \\) of a solid, and their correspondent ordinates \\( pm \\), or \\( AP' \\), \\( P'p' \\), and \\( p'm' \\); to transform the first abscissa into any other \\( Lb \\).\n\nLet the abscissa \\( Lb \\) begin from a point \\( L \\) of the first abscissa \\( AP \\), and meet an ordinate \\( pm \\) in the point \\( b \\); draw \\( hp \\), and let the sines of the angles \\( Ppm \\), \\( Php \\), and \\( pPh \\); \\( LPb \\), \\( PbL \\), and \\( PLb \\), be denoted respectively by \\( r \\), \\( s \\), and \\( t \\), &c. \\( r' \\), \\( s' \\), and \\( t' \\); through a point \\( b \\) of the line \\( Pb \\) draw \\( p'b'm' \\) parallel to \\( pm \\), and \\( Lh = z \\), \\( bb' = x \\), and \\( b'm' = y \\): in the given equation for \\( AP \\), \\( Pp \\), and \\( pm \\) substitute respectively their correspondent\nResolution of attractive Powers.\n\nrespondent values $\\frac{s'z}{r'} = AL(a)$, $\\frac{st'z}{rr'} = \\frac{sx}{r}$ (for $Ph = \\frac{t'z}{r'}$ and $Ph' = Ph \\pm bb' = \\frac{t'z}{r'} \\pm x$), and $y = \\frac{tt'z}{rr'} = \\frac{tx}{r'}$; there results an equation to the same solid expressing the relation between the two abscissæ $z = Lb$ and $x$, and their correspondent ordinates $y$.\n\n1. If the abscissa $Lb$ does not begin from $L$, a point in the first given abscissa $AP$, but from $M$ a point given out of it, it may be reduced to the preceding case, by drawing from $M$ a line $MN = c$ to the plane of the first and second abscissæ parallel to the ordinates $pm$; and from $N$ to the first abscissa a line $NO = b$ parallel to the second abscissæ, and substituting in the equation expressing the relation between $AP$, $Pp$, and $pm$ for $AP$, $Pp$, and $pm$ respectively $z = AO (a)$, $x = b$ and $y = c$; and there results the equation required expressing the relation between the two abscissæ $z$ and $x$, and their correspondent ordinates $y$, of which the first abscissa $z$ passes through the point $M$.\n\n2. To change the second abscissa $Pp$ into any other $Lb$, the first abscissa and ordinates remaining the same. In the preceding figure let $L$ be considered as a moveable point of the first abscissa $AL$, and the sines of the respective angles denoted by the same letters as before, and $Lb = x$, $AL = z$, and $hm = y$; in the given equation for $AP$, $Pp$, and $pm$, substitute $z = \\frac{s'x}{r'}$, $\\frac{st'x}{rr'}$, and $y = \\frac{tt'x}{rr'}$; and there will result the equation required expressing the relation between $z$ and $x$ the abscissæ, and their correspondent ordinates $y$.\n\n3. Fig 8. To change the ordinates, the abscissæ remaining the same, draw $p'm$ an ordinate transformed, $p'b$ parallel to the first abscissa $AP$, and meeting a second abscissa, of which\n\nVol. LXXIX.\npm is an ordinate in b: for the sines of the angles p'hp, bpp', and hp'p; p'pm, pmp', and pp'm write r, s, and t, r', s', and t'; and for AP', P'p', and p'm respectively z, x, and y; then substitute in the given equation for AP, Pp, and pm, their respective values\n\n\\[ z(AP') = \\frac{ss'}{rr'} \\times y, \\quad x(P'p') = \\frac{tt'}{rr'}y, \\quad \\text{and} \\quad \\frac{t'}{r'}y; \\]\n\nand there results an equation to the solid expressing the relation between the two abscissæ AP' and P'p' and the transformed ordinates p'm.\n\nFrom these cases, which are easily reducible to one, may be transformed any given abscissæ and their correspondent ordinates into any other containing given angles, &c. with the before-mentioned abscissæ and ordinates.\n\nIn the properties of curve lines, first published in 1762, is given a method of deducing the equation to any section of the solid, and in particular the case of deducing the equation to the projection of any curve on a given plane.\n\nFrom the principles given in this, and the Paper on centripetal forces, which the Royal Society did me the honour to print, can be deduced the fluxional equations, whose fluents express the relations between the abscissæ and their correspondent ordinates of the curves described by bodies, of which the particles act on each other with forces varying according to given functions of their distances.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106693.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 25180,
+    "total-output-tokens": 8581,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1386,
+        2
+      ],
+      [
+        1386,
+        3375,
+        3
+      ],
+      [
+        3375,
+        5215,
+        4
+      ],
+      [
+        5215,
+        7482,
+        5
+      ],
+      [
+        7482,
+        9342,
+        6
+      ],
+      [
+        9342,
+        11283,
+        7
+      ],
+      [
+        11283,
+        13292,
+        8
+      ],
+      [
+        13292,
+        15405,
+        9
+      ],
+      [
+        15405,
+        17016,
+        10
+      ],
+      [
+        17016,
+        19117,
+        11
+      ],
+      [
+        19117,
+        21503,
+        12
+      ],
+      [
+        21503,
+        23198,
+        13
+      ],
+      [
+        23198,
+        25104,
+        14
+      ],
+      [
+        25104,
+        26479,
+        15
+      ],
+      [
+        26479,
+        26479,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106693",
+    "title": "On the Resolution of Attractive Powers. By Edward Waring, M. D. F. R. S. and Lucasian Professor of Mathematics at Cambridge",
+    "authors": "Edward Waring",
+    "year": 1789,
+    "volume": "79",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/106693"
+  }
+}

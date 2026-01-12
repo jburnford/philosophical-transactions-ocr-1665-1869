@@ -1,0 +1,59 @@
+{
+  "id": "e161d1cad1b4b882383a0f950199cafc675b9243",
+  "text": "ERRATA.\n\nVOL. LXXIII.\n\nPage. Line.\n478. 18. for brighter read less bright\n\nVOL. LXXIV. PART II.\n\n289. 8. for the read those\n290. 11. dele rather\n291. 8. for the read these\n329. 7. for 1784 read 1783\n341. 23. for , first, read fixed\n342. 12. for than read that\n345. 1. after from insert their\n365. 11. for I read K\n\nIn plate XIV. fig. 2. the letter a should be inserted at the bottom,\nand the letter b at the top, of the dotted interval $19\\frac{1}{2}$, in the\nsame manner as the letters c and d at the two extremes of the\ndotted intervals in fig. 3.\n\nIn plate XXI. fig. 2. at the lower angle of the diagram, in some\ncopies, the letter K stands by mistake instead of H.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106610.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        668,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106610",
+    "title": "Errata",
+    "authors": null,
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106610"
+  }
+}

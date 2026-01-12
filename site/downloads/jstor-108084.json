@@ -1,0 +1,229 @@
+{
+  "id": "80abcbfde4027568c7c389bd08bacef1bf130832",
+  "text": "I. Researches in the Integral Calculus.—Part II. By H. F. Talbot, Esq. F.R.S.\n\nReceived October 26,—Read November 17, 1836.\n\n§ 1.\n\nHAVING explained a general method of finding the sums of integrals, I propose to apply it to discover the properties of different transcendentals, beginning with those of the simplest nature.\n\nIn the first place, therefore, I will show its application to the arcs of the circle and conic sections.\n\nAs there will be frequent occasion to make use of cubic equations, I shall suppose their general form to be\n\n\\[ x^3 - p x^2 + q x - r = 0. \\]\n\nWhen therefore the letters \\( p \\) \\( q \\) \\( r \\) occur without explanation, it will be understood that they represent these coefficients.\n\n§ 2. Application to the Circle.\n\nLet us take the integral \\( \\int \\frac{dx}{1 + x^3} \\), and suppose nothing to be previously known concerning the properties of the function which it represents.\n\nLet us put, in the first place,\n\n\\[ 1 + x^2 = v x \\quad \\therefore \\quad x^2 - v x + 1 = 0. \\]\n\nThe two variables \\( x \\) \\( y \\) will be roots of this equation, so that they must satisfy the condition \\( x y = 1 \\). Also\n\n\\[ \\frac{d x}{1 + x^3} + \\frac{d y}{1 + y^3} = \\frac{d x}{v x} + \\frac{d y}{v y} = \\frac{1}{v} S \\frac{d x}{x} = 0, \\]\n\nbecause \\( S \\frac{d x}{x} = 0 \\) in any equation whose last term is constant.\n\n\\[ \\therefore \\int \\frac{d x}{1 + x^3} + \\int \\frac{d y}{1 + y^3} = \\text{const}. \\]\nWe thus obtain a characteristic property of the function\n\n\\[ \\int \\frac{dx}{1 + x^2} = f \\cdot x, \\]\n\nnamely, that if \\( xy = 1 \\),\n\n\\[ fx + fy = \\text{const}. \\]\n\nThe truth of which is otherwise evident, for if \\( x = \\tan \\theta \\), then \\( y = \\cotan \\theta \\)\n\n\\[ fx = \\theta \\quad \\text{and} \\quad fy = 90^\\circ - \\theta. \\]\n\n\\[ \\therefore fx + fy = \\text{const}. \\]\n\nNext let us investigate such a relation between three of these integrals that they may have an algebraic sum.\n\nAssume \\( \\frac{1}{1 + x^2} = \\frac{v + x}{ax} \\), whence\n\n\\[ x^3 + vx^2 + (1 - a)x + v = 0, \\]\n\nwhere \\( a \\) is any constant quantity.\n\nThe three variables \\( x \\ y \\ z \\) must be roots of this equation, which however gives only one necessary relation between them, viz.\n\n\\[ x + y + z = xyz. \\]\n\nWe have\n\n\\[ \\frac{a}{1 + x^2} = \\frac{v}{x} + 1 \\]\n\n\\[ \\therefore aS \\int \\frac{dx}{1 + x^2} = vS \\int \\frac{dx}{x} + S dx. \\]\n\nBut \\( S \\int \\frac{dx}{x} = \\int \\frac{dv}{v} \\), and \\( S dx = -dv \\),\n\n\\[ \\therefore aS \\int \\frac{dx}{1 + x^2} = dv - dv = 0, \\]\n\n\\[ \\therefore S \\int \\frac{dx}{1 + x^2} = \\text{const}. \\]\n\nwhence we obtain this well-known theorem in trigonometry.\n\nIf the sum of three tangents equals their product, the sum of the arcs is constant.\n\nThe constant \\( = 180^\\circ \\).\n\nNext let us suppose\n\n\\[ \\frac{1}{1 + x^2} = \\frac{v + x}{ax^2} \\]\n\n\\[ \\therefore x^3 + (v - a)x^2 + x + v = 0. \\]\n\nThis gives only one necessary relation between the roots, viz.\n\n\\[ q = xy + xz + yz = 1. \\]\n\nFor the two other coefficients \\( (v - a) \\) and \\( v \\), may be made to agree with any two arbitrary quantities. Since we have\n\\[\n\\frac{a}{1 + x^3} = \\frac{v}{x^3} + \\frac{1}{x}\n\\]\n\n\\[\n\\therefore a S \\frac{dx}{1 + x^3} = v S \\frac{dx}{x^3} + S \\frac{dx}{x}.\n\\]\n\nBut \\( S \\frac{1}{x} = \\frac{q}{r} \\), and here\n\n\\[\nq = 1 \\quad \\text{and} \\quad r = -v\n\\]\n\n\\[\n\\therefore S \\frac{1}{x} = -\\frac{1}{v},\n\\]\n\nwhence\n\n\\[\nS \\frac{dx}{x^2} = -\\frac{dv}{v^2}\n\\]\n\nand\n\n\\[\nv S \\frac{dx}{x^2} = -\\frac{dv}{v}.\n\\]\n\nAlso\n\n\\[\nS \\frac{dx}{x} = \\frac{dv}{v}.\n\\]\n\nTherefore\n\n\\[\na S \\frac{dx}{1 + x^3} = -\\frac{dv}{v} + \\frac{dv}{v} = 0\n\\]\n\n\\[\n\\therefore S \\int \\frac{dx}{1 + x^3} = \\text{const.},\n\\]\n\nwhich furnishes this other well-known theorem, viz. If three tangents are such that the sum of their products \\(= 1\\), then the sum of the arcs is constant. The constant in this case \\(= 90^\\circ\\).\n\nThe same theorem results from the supposition\n\n\\[\n\\frac{1}{1 + x^2} = v + ax;\n\\]\n\nfor this gives\n\n\\[\nx^3 + \\frac{v}{a} x^2 + x + \\frac{v - 1}{a} = 0,\n\\]\n\nand \\( q = 1 \\) is the only necessary relation between the roots. Also\n\n\\[\nS \\frac{dx}{1 + x^2} = v S dx + a S x dx.\n\\]\n\nBut\n\n\\[\nS x^2 = p^2 - 2q = \\frac{v^2}{a^2} - 2,\n\\]\n\nwhence\n\n\\[\nS x dx = \\frac{v dv}{a^2}.\n\\]\n\nAlso\n\n\\[\nS dx = -\\frac{dv}{a}.\n\\]\n\nTherefore\n\n\\[\nS \\frac{dx}{1 + x^3} = -\\frac{v dv}{a} + \\frac{v dv}{a} = 0. \\quad Q.E.D.\n\\]\nThese theorems, and the analogous ones which exist between any number of tangents, are well known. But when we apply the method to the integral \\( \\int \\frac{dx}{\\sqrt{1-x^2}} \\), we obtain relations between circular arcs which appear to be of a more novel description, and perhaps have not hitherto been noticed. Of which I will proceed to give an example. Let us suppose\n\n\\[\n\\frac{1}{\\sqrt{1-x^2}} = vx + 1,\n\\]\n\nwhence\n\n\\[\nx^3 + \\frac{2}{v} x^2 + \\left( \\frac{1}{v^2} - 1 \\right) x - \\frac{2}{v} = 0.\n\\]\n\nIn this instance the symmetrical \\( v = \\frac{2}{r} \\), and therefore making this substitution, we have\n\n\\[\nx^3 + r x^2 + \\left( \\frac{r^3}{4} - 1 \\right) x - r = 0.\n\\]\n\nThere are therefore two necessary relations between the three roots, viz.\n\n\\[\np = -r \\quad q = \\frac{r^2}{4} - 1.\n\\]\n\nAnd since\n\n\\[\n\\frac{1}{\\sqrt{1-x^2}} = vx + 1\n\\]\n\n\\[\nS \\frac{dx}{\\sqrt{1-x^2}} = v S x dx + S dx.\n\\]\n\nBut\n\n\\[\nS x^2 = p^2 - 2q = r^2 - \\left( \\frac{r^3}{2} - 2 \\right) = \\frac{r^2}{2} + 2\n\\]\n\n\\[\n\\therefore S x dx = \\frac{r dr}{2}\n\\]\n\n\\[\nv S x dx = \\frac{2}{r} \\cdot \\frac{r dr}{2} = dr.\n\\]\n\nAlso\n\n\\[\nS dx = -dr\n\\]\n\n\\[\n\\therefore S \\frac{dx}{\\sqrt{1-x^2}} = dr - dr = 0;\n\\]\n\nwhence this theorem:\n\nIf the sines of three circular arcs are roots of the equation\n\n\\[\nx^3 + r x^2 + \\left( \\frac{r^3}{4} - 1 \\right) x - r = 0,\n\\]\n\nthe sum of the arcs is constant.\n\nI will give a numerical example of this theorem.\n\nThe value of \\( r \\) is arbitrary. Suppose it to be\n\n\\[\n= 3 - \\sqrt{12} = -0.4641016.\n\\]\nThe roots of the equation then have the following values:\n\n\\[\n\\begin{align*}\nx &= 0.5 = \\sin 30^\\circ = \\sin \\theta \\\\\ny &= 0.94565 = \\sin 71^\\circ 1' = \\sin \\theta' \\\\\nz &= -0.98154 = \\sin -(78^\\circ 59') = \\sin \\theta'';\n\\end{align*}\n\\]\n\nand the theorem gives the sum of the arcs, or \\( S \\theta = \\text{const} \\). The word *sum* is used in an algebraic sense, as including the case where one or more of the arcs are to be taken negatively, or its definition is\n\n\\[\nS \\theta = \\pm \\theta \\pm \\theta' \\pm \\theta''.\n\\]\n\nThe same ambiguity in the signs pervades the whole of this class of formulae. In the present instance\n\n\\[\nS \\theta = \\theta + \\theta' - \\theta'' = 30^\\circ + 71^\\circ 1' + 78^\\circ 59' = 180^\\circ\n\\]\n\n∴ the constant is a semicircle.\n\n**Ex. 2.** Let \\( r = 0 \\).\n\n\\[\n\\therefore x^3 - x = 0;\n\\]\n\nand the roots are\n\n\\[\n\\begin{align*}\nx &= 0 = \\sin 0^\\circ \\\\\ny &= 1 = \\sin 90^\\circ \\\\\nz &= -1 = \\sin -90^\\circ\n\\end{align*}\n\\]\n\n∴ \\( \\theta = 0^\\circ \\), \\( \\theta' = 90^\\circ \\), \\( \\theta'' = -90^\\circ \\);\n\nand the same formula gives, as before,\n\n\\[\n\\theta + \\theta' - \\theta'' = 180^\\circ.\n\\]\n\nA very extensive class of formulae respecting the arcs of the circle may be obtained in a similar manner, by applying the method more generally. Thus, if we make the supposition\n\n\\[\n[1.] \\quad \\frac{1}{\\sqrt{1-x^2}} = a_0 + a_1 x + \\ldots + a_{n-1} x^{n-1},\n\\]\n\nwhere \\( a_0, a_1, \\ldots, a_{n-1} \\) are constants, or any entire rational functions whatever of the variable \\( v \\), we have an equation of \\( 2n \\) dimensions, of which \\( x \\) is a root.\n\nIf \\( x = \\sin \\theta \\), and the other roots are \\( \\sin \\theta_2, \\sin \\theta_3, \\ldots, \\sin \\theta_{2n} \\), then\n\n\\[\n\\int \\frac{dx}{\\sqrt{1-x^2}} = \\theta,\n\\]\n\nand the other integrals \\( = \\theta_2, \\theta_3 \\ldots \\theta_{2n} \\). And by a direct process we obtain the final equation\n\n\\[\nS \\theta, \\text{ or } \\theta_1 + \\theta_2 + \\ldots + \\theta_{2n} = f \\cdot v + \\text{const.},\n\\]\n\n\\( f \\cdot v \\) being an entire rational function of \\( v \\).\n\nBut since it is generally admitted that no combination of circular arcs can be equal to an algebraic quantity, I conclude that we have generally\n\n\\[\nf \\cdot v = 0.\n\\]\nIf we consider the generality of the supposition [1.], which admits any number of arbitrary quantities, it certainly appears remarkable that this equation \\( f \\cdot v = 0 \\) should be always verified.\n\n§ 3. Application to the Parabola.\n\nIf the tangent at the vertex of a parabola be taken for the axis of abscissæ, and the semiparameter \\( = 1 \\), then if \\( x \\) be the abscissa, the equation of the curve will be\n\n\\[\n2 y = x^2,\n\\]\n\nand the arc, which may be designated as arc \\( x \\),\n\n\\[\n= \\int d x \\sqrt{1 + x^2}.\n\\]\n\nThe known value of this is\n\n\\[\n[2.] \\quad \\text{Arc } x = \\frac{1}{2} x \\sqrt{1 + x^2} + \\frac{1}{2} \\log (x + \\sqrt{1 + x^2}).\n\\]\n\nThis is a function of \\( x \\), the properties of which appear to have been hitherto little examined. I will establish two theorems concerning it, which are of considerable simplicity.\n\nTheorem I.—If three abscissæ are the roots of the equation\n\n\\[\nx^3 - r x^2 + \\left( \\frac{r^2}{4} + 1 \\right) x - r = 0,\n\\]\n\nthe sum of the arcs equals the sum of the abscissæ.\n\nSince each arc is greater than its corresponding abscissa, it is evident that the word sum is to be understood in an algebraic sense, or that at least one of the arcs must be taken negatively.\n\nTheorem II.—If three abscissæ are the roots of the equation\n\n\\[\nx^3 - a x^2 + \\left( \\frac{a^2}{4} - a b - \\frac{a^2 b^2}{4} \\right) x + \\frac{a^2 b}{2} = 0,\n\\]\n\nthe sum of the arcs equals the product of the abscissæ.\n\nThis theorem is remarkable for its simplicity, when it is considered that it contains two arbitrary quantities, \\( a \\) and \\( b \\), which, as it appears, may have any values.\n\nDemonstration of Theorem I.\n\nPut \\( \\sqrt{1 + x^2} = x^2 + v x + 1 \\): whence\n\n\\[\n[1.] \\quad x^3 + 2 v x^2 + (v^2 + 1) x + 2 v = 0.\n\\]\n\nAlso\n\n\\[\nS dx \\sqrt{1 + x^2} = S x^2 dx + v S x dx + S dx\n\\]\n\n\\[\n\\therefore S \\int dx \\sqrt{1 + x^2} = \\frac{S x^3}{3} + \\int v S x dx + S x.\n\\]\n\nThe first term \\( \\frac{S x^3}{3} = \\frac{p^3}{3} - p q + r \\) in all equations. Here \\( p = -2 v \\), \\( q = v^2 + 1 \\), \\( r = -2 v \\).\n\\[\n\\therefore \\frac{Sx^3}{3} = \\frac{-8v^3}{3} + 2v(v^2 + 1) - 2v = -\\frac{2v^3}{3}.\n\\]\n\nTo find the value of the second term \\( \\int v S x \\, dx \\), we have\n\n\\[\nSx^2 = p^2 - 2q = 4v^2 - (2v^2 + 2) = 2v^2 - 2\n\\]\n\nand\n\n\\[\n\\therefore Sx \\, dx = 2v \\, dv\n\\]\n\n\\[\n\\int v S x \\, dx = \\int 2v^2 \\, dv = \\frac{2v^3}{3}.\n\\]\n\nTherefore these two terms destroy each other. Consequently we have simply\n\n\\[\nS \\int dx \\sqrt{1+x^2} = Sx + C.\n\\]\n\nIt appears by trial that \\( C = 0 \\), and the equation between the roots [1.] becomes, by writing for \\( v \\) its value \\( \\frac{-r}{2} \\),\n\n\\[\nx^3 - r x^2 + \\left( \\frac{r^2}{4} + 1 \\right) x - r = 0\n\\]\n\n\\[\n\\therefore \\text{the sum of three arcs } = Sx = r. \\quad Q.E.D.\n\\]\n\n**Example.**—Let us suppose \\( r = 4 + 2\\sqrt{2} \\)\n\n\\[\n= 6.828427.\n\\]\n\nThe three roots will be\n\n\\[\nx = 1 \\\\\ny = 4.2042580 \\\\\nz = 1.6241690.\n\\]\n\nCalculating the arcs accurately by the formula [2.], we have\n\n\\[\n\\text{Arc } x = 1.147793 \\\\\n\\text{Arc } y = 10.156004 \\\\\n\\text{Arc } z = 2.179773\n\\]\n\nIn forming the sum we must notice that arc \\( x \\) and arc \\( z \\) are to be accounted negative. Consequently we find by subtraction,\n\n\\[\n\\text{Arc } y = 10.156004 \\\\\n\\text{Arc } x + \\text{Arc } z = 3.327566 \\\\\n\\text{Sum} = 6.828438 \\\\\nr = 6.828427\n\\]\n\nError of calculation \\( = 0.000011 \\)\n\nThus the calculation verifies the theorem with considerable exactness, and shows that no constant is required to be added to the integral.\n\nSince the sum of these three arcs is algebraic, and that each contains a logarithmic part, the sum of these three logarithms must be \\( = 0 \\): for if not, it must be an alge-\nbraic quantity, which is considered to be impossible. This is verified by calculation; for\n\n\\[2 \\text{ arc } x = x \\sqrt{1 + x^2} + \\log (x + \\sqrt{1 + x^2}).\\]\n\nCalling \\( \\log (x + \\sqrt{1 + x^2}) = f \\cdot x \\), we have\n\n\\[\n\\begin{align*}\nf \\cdot x &= 0.881372 \\\\\nf \\cdot y &= 2.143099 \\\\\nf \\cdot z &= 1.261722 \\\\\nf \\cdot x + f \\cdot z &= 2.143094 \\\\\n\\end{align*}\n\\]\n\n\\[\n\\frac{2.143094}{\\text{sum}} = 0.000005\n\\]\n\nThis sum approaches zero very nearly. The quantities \\( f \\cdot x, f \\cdot z \\) are subtractive, being parts of \\( 2 \\text{ arc } x \\) and \\( 2 \\text{ arc } z \\), which have been already shown to be so.\n\n**Demonstration of Theorem II.**\n\nLet \\( v \\sqrt{1 + x^2} = n x^2 + x + v \\), where \\( n \\) is a constant,\n\n\\[\n\\therefore x^3 + \\frac{2}{n} x^2 + \\frac{1 + 2v n - v^2}{n^2} x + \\frac{2v}{n^2} = 0,\n\\]\n\nand\n\n\\[\nv S \\sqrt{1 + x^2} \\cdot dx = n S x^2 dx + S x dx,\n\\]\n\nthe term \\( v S dx \\) being omitted; because, since \\( S x = \\frac{-2}{n} \\) is constant, the factor\n\n\\[\nS dx = 0.\n\\]\n\nThe formula \\( S x^3 = p^3 - 3pq + 3r \\) gives\n\n\\[\n\\frac{S x^3}{3} = \\frac{p^3}{3} - pq + r,\n\\]\n\n\\(\\therefore\\) (observing that \\( p \\) is constant and \\( = -\\frac{2}{n} \\)) \\( S x^2 dx = \\frac{2}{n} dq + dr \\). Therefore the first term, or\n\n\\[\nn S x^2 dx = 2 dq + ndr.\n\\]\n\nThe formula \\( S x^2 = p^2 - 2q \\) gives the second term, or\n\n\\[\nS x dx = -dq\n\\]\n\n\\(\\therefore n S x^2 dx + S x dx = dq + ndr,\\)\n\nor\n\n\\[\nv S \\sqrt{1 + x^2} \\cdot dx = dq + ndr.\n\\]\n\nNow we have (omitting constants),\n\n\\[\nq = \\frac{2}{n} v - \\frac{v^2}{n^2}\n\\]\n\n\\(\\therefore dq = \\frac{2}{n} dv - \\frac{2v dv}{n^2},\\)\n\nand\n\n\\[\nndr = -\\frac{2}{n} dv\n\\]\n\n\\(\\therefore dq + ndr = -\\frac{2v dv}{n^2}.\\)\nTherefore\n\n\\[ S \\sqrt{1 + x^2} \\cdot dx = -\\frac{2}{n^2} dv \\]\n\n\\[ S \\int \\sqrt{1 + x^2} \\cdot dx = -\\frac{2}{n^3} = r. \\]\n\nNow writing \\( n = -\\frac{2}{a}, v = b \\), we have the equation in the form given above, viz.\n\n\\[ x^3 - ax^2 + \\left( \\frac{a^2}{4} - ab - \\frac{a^3 b^2}{4} \\right) x + \\frac{a^2 b}{2} = 0; \\]\n\nand therefore the theorem is demonstrated.\n\n**Examples.**\n\n**Ex. 1.** Let \\( a = 2 + \\sqrt{2}, b = 1 \\), the roots of the equation are\n\n\\[ x = 1 \\]\n\\[ y = \\frac{1}{2} \\cdot \\frac{\\sqrt{5} + 1}{\\sqrt{2} - 1} \\]\n\\[ -z = \\frac{1}{2} \\cdot \\frac{\\sqrt{5} - 1}{\\sqrt{2} - 1}, \\]\n\nor\n\n\\[ x = 1 \\quad \\therefore \\text{arc } x = 1.147793 \\]\n\\[ y = 3.906278 \\quad \\therefore \\text{arc } y = 8.911399 \\]\n\\[ z = -1.492065 \\quad \\therefore \\text{arc } z = 1.935186 \\]\n\n\\[ \\therefore Sx = 3.414213 = 2 + \\sqrt{2} = a \\]\n\nand\n\n\\[ xyz = -(3 + 2 \\sqrt{2}) = -5.828426. \\]\n\nNow we have\n\n\\[ \\text{Arc } y = 8.911399 = (1.) \\]\n\\[ \\text{Arc } x + \\text{Arc } z = 3.082979 = (2.) \\]\n\nSum (subtractive) \\( = -5.828420 = (2.) - (1.) \\)\n\n\\[ xyz = -5.828426 \\]\n\n\\[ \\text{Error} = 0.000006 \\]\n\nThe quantity which we previously called \\( f(x) = \\log (x + \\sqrt{1 + x^2}) \\) has the following values:\n\n\\[ f(x) = 0.881372 \\]\n\\[ fy = 2.071728 \\]\n\\[ fz = 1.190354 \\]\n\n\\[ \\therefore \\text{we have } fx + fz = 2.071726 \\]\n\\[ fy = 2.071728 \\]\n\n\\[ \\text{Error} = 0.000002 \\]\n\nThus it is seen that the logarithmic parts destroy each other as in the first theorem.\nEx. 2. Let \\( x = \\frac{3}{4} \\) \\( y = \\frac{4}{3} \\) be assumed for two roots of the equation; in which case we find \\( a = -\\frac{5}{6}, b = \\frac{42}{5} \\), and the third root \\( z = -\\frac{35}{12} \\).\n\nSince \\( xy = 1 \\) in this example, the theorem gives the sum of three arcs \\( = xyz = z \\), which we propose to verify.\n\nNow the formula\n\n\\[ 2 \\text{ arc } x = x \\sqrt{1 + x^2} + \\log (x + \\sqrt{1 + x^2}) \\]\n\ngives\n\n\\[ 2 \\text{ arc } \\left( \\frac{3}{4} \\right) = \\frac{15}{16} + \\log 2 \\]\n\n\\[ 2 \\text{ arc } \\left( \\frac{4}{3} \\right) = \\frac{20}{9} + \\log 3 \\]\n\nthe sum of which two \\( = \\frac{455}{144} + \\log 6 \\)\n\nand \\( 2 \\text{ arc } \\left( \\frac{35}{12} \\right) = \\frac{1295}{144} + \\log 6 \\).\n\nTherefore the sum (subtractive)\n\n\\[ = -\\frac{840}{144} = -\\frac{70}{12} \\]\n\n\\[ \\therefore \\text{ arc } x + \\text{ arc } y - \\text{ arc } z = -\\frac{35}{12} \\]\n\nBut on the other hand we have\n\n\\[ z = -\\frac{35}{12} \\]\n\nTherefore the sum of the arcs \\( = z \\): which was to be shown.\n\n§ 4. Analogous Properties of the Circle and Parabola.\n\nThere is a manifest analogy between the area of the circle and the arc of the parabola, the former being expressed by \\( \\int dx \\sqrt{1 - x^2} \\), the latter by \\( \\int dx \\sqrt{1 + x^2} \\), which only differ in the sign. The same analogy is seen in the theorems which may be deduced respecting these integrals. Thus, for instance, the Theorem II., which we have demonstrated in the parabola, may be applied, with a slight modification, to the circle. If we put\n\n\\[ v \\sqrt{1 \\pm x^2} = n x^2 + x + v, \\]\n\nwe find the sum of three integrals of the form\n\n\\[ \\int dx \\sqrt{1 \\pm x^2} = \\pm r, \\]\n\nthe constant being \\( = 0 \\). The upper sign applies to the parabola, the lower to the circle. The demonstration of the latter case is omitted for brevity, being exactly similar to that of the former.\nThe three variables \\( x \\ y \\ z \\) are roots of\n\n\\[\n[1.] \\quad x^3 - ax^2 + \\left( \\frac{a^2}{4} - ab \\mp \\frac{a^2b^2}{4} \\right)x + \\frac{a^2b}{2} = 0,\n\\]\n\nthe upper sign applying to the parabola; \\( a \\) and \\( b \\) being two arbitrary quantities.\n\nTo exemplify this theorem in the circle.—Since\n\n\\[\n2 \\int dx \\sqrt{1-x^2} = x \\sqrt{1-x^2} + \\text{arc sin } x,\n\\]\n\nthe theorem gives\n\n\\[\n-2r = Sx \\sqrt{1-x^2} + S \\text{arc sin } x.\n\\]\n\nThe latter term, being the sum of three circular arcs, cannot form any part of the quantity \\(-2r\\): therefore we must have this other equation,\n\n\\[\nS \\text{arc sin } x = 0,\n\\]\n\nwhich we propose to verify.\n\n**Ex. 1.** Suppose \\( a = \\frac{6}{5}, \\ b = \\frac{2}{3} \\), the equation [1.] becomes\n\n\\[\nx^3 - \\frac{6}{5}x^2 - \\frac{7}{25}x + \\frac{12}{25} = 0,\n\\]\n\nand its roots are\n\n\\[\nx = \\frac{4}{5}\n\\]\n\n\\[\ny = 1\n\\]\n\n\\[\nz = -\\frac{3}{5}\n\\]\n\n\\[\n\\therefore \\text{arc sin } x = 53^\\circ 8' = \\theta\n\\]\n\n\\[\n\\text{arc sin } y = 90^\\circ = \\theta'\n\\]\n\n\\[\n\\text{arc sin } z = -143^\\circ 8' = \\theta''\n\\]\n\n\\[\n\\therefore \\theta + \\theta' + \\theta'' = 0,\n\\]\n\nin accordance with the theorem.\n\nWe may assume two of the arcs arbitrarily, and thence determine the third, so as to satisfy the theorem.\n\n**Ex. 2.** Thus, let \\( x = \\frac{4}{5}, \\ y = \\frac{12}{13} \\), we find \\( a = \\frac{56}{65}, \\ b = \\frac{12}{7} \\). Here it happens that\n\n\\[\nxy = \\frac{ab}{2} = \\frac{48}{65}: \\text{ therefore, dividing the equation}\n\\]\n\n\\[\nxyz = -\\frac{a^2b}{2}\n\\]\n\nby the equation\n\n\\[\nxy = \\frac{ab}{2},\n\\]\n\nwe find the third root\n\n\\[\nz = -a.\n\\]\nNow these three values satisfy the theorem; for we have\n\n\\[ \\arcsin \\frac{4}{5} = 53^\\circ 8' = \\theta \\]\n\n\\[ \\arcsin \\frac{12}{13} = 67^\\circ 23' = \\theta' \\]\n\n\\[ \\arcsin -\\frac{56}{65} = -120^\\circ 31' = \\theta'' \\]\n\nand\n\n\\[ \\theta + \\theta' + \\theta'' = 0. \\]\n\n§ 5. Application to the Ellipse.\n\nIn order to obtain a relation between three elliptic integrals, the simplest supposition which we can make appears to be\n\n\\[ \\sqrt{\\frac{1-e^2 x^2}{1-x^2}} = v x + 1, \\]\n\nwhence\n\n\\[ x^3 + \\frac{2}{v} x^2 + \\frac{1-e^2-v^2}{v^2} \\cdot x - \\frac{2}{v} = 0. \\]\n\nThis determines the value of the symmetrical \\( v \\) to be \\( \\frac{2}{r} \\); and therefore making this substitution we have\n\n\\[ x^3 + r x^2 + \\left( \\frac{1-e^2}{4} \\cdot r^2 - 1 \\right) x - r = 0 \\]\n\nand\n\n\\[ \\sqrt{\\frac{1-e^2 x^2}{1-x^2}} = \\frac{2}{r} x + 1, \\]\n\nwhence\n\n\\[ S dx \\sqrt{\\frac{1-e^2 x^2}{1-x^2}} = \\frac{2}{r} S x dx + S dx. \\]\n\nBut since\n\n\\[ S x^2 = p^2 - 2 q = r^2 - \\left( \\frac{1-e^2}{2} \\cdot r^2 - 2 \\right) = \\frac{1+e^2}{2} \\cdot r^2 + 2 \\]\n\n\\[ \\therefore S x dx = \\frac{1+e^2}{2} r dr \\]\n\n\\[ \\therefore \\frac{2}{r} S x dx = (1+e^2) dr. \\]\n\nAlso\n\n\\[ S dx = -dr \\]\n\n\\[ \\therefore \\frac{2}{r} S x dx + S dx = e^2 dr \\]\n\n\\[ \\therefore S dx \\sqrt{\\frac{1-e^2 x^2}{1-x^2}} = e^2 dr \\]\n\n\\[ \\therefore S \\int dx \\sqrt{\\frac{1-e^2 x^2}{1-x^2}} = e^2 r + C. \\]\nOr, if we suppose the radical to have a negative sign,\n\n\\[ S \\int dx \\sqrt{\\frac{1 - e^2 x^2}{1 - x^2}} = C - e^2 r; \\]\n\nwhence the following theorem: If three abscissae of an ellipse are roots of the equation\n\n\\[ x^3 + r x^2 + \\left( \\frac{1 - e^2}{4} \\cdot r^2 - 1 \\right) x - r = 0, \\]\n\nthe sum of the arcs \\(= 2 Q - e^2 r\\), \\(Q\\) being the quadrant of the ellipse.\n\nEx. 1. Let \\(e = 0\\), or the ellipse be a circle; the theorem then assumes this form:\n\nIf three abscissae of a circle are roots of the equation\n\n\\[ x^3 + r x^2 + \\left( \\frac{r^2}{4} - 1 \\right) x - r = 0, \\]\n\nthe sum of the arcs is a semicircle; the truth of which has been demonstrated previously (vide page 4.).\n\nFagnani's theorem becomes illusory when \\(e = 0\\): it is therefore interesting to observe that the present theorem, on the contrary, has a real application to the circle.\n\nEx. 2. Let \\(e\\) have any value, and \\(r = 0\\); then the roots are\n\n\\[ x = 0 \\quad \\therefore \\text{arc } x = 0 = (1.) \\]\n\\[ y = 1 \\quad \\text{arc } y = Q = (2.) \\]\n\\[ z = -1 \\quad \\text{arc } z = -Q = (3.) \\]\n\nand the sum, viz.\n\n\\[ (1.) + (2.) - (3.) = 2 Q, \\]\n\nwhich is therefore the value of the constant.\n\nEx. 3. When \\(x\\) is not actually \\(= 0\\), as in the last example, but has an indefinitely small value \\(= \\omega\\), it will be found that the values of \\(y\\) and \\(z\\) differ from 1 and \\(-1\\) by a quantity of the order of \\(\\omega^2\\). But nevertheless the arcs which subtend these abscissae differ from a quadrant of the ellipse by a quantity of the order of \\(\\omega\\). This arises from the direction of the arc at the extremities of the axis being perpendicular to the abscissa, so that its increment is infinitely greater than that of the latter. It will be well to show the truth of the theorem in this case. When \\(x = \\omega\\) we have (putting \\(1 - e^2 = b^2\\))\n\n\\[ y = 1 - \\frac{b^2 \\omega^2}{8} \\]\n\\[ z = -y. \\]\n\nFor from these values we deduce \\(y + z = 0\\), and thence (neglecting quantities of the order \\(\\omega^3\\))\n\n\\[ x + y + z = x = \\omega \\]\n\\[ xy + xz + yz = yz = -y^2 = \\frac{b^3 \\omega^3}{4} - 1 \\]\n\\[ xyz = -\\omega. \\]\n\nSo that \\(xyz\\) are roots of\n\\[ x^3 - \\omega x^2 + \\left( \\frac{1}{4} e^2 \\omega^2 - 1 \\right) x + \\omega = 0, \\]\n\nwhich agrees with the given form by putting \\( r = -\\omega \\).\n\nWe have now to find the sum of the arcs.\n\nThe arc subtending the abscissa \\( (x = \\omega) \\) may be considered as equal to it.\n\nThe arc subtending the abscissa \\( y \\) differs from the elliptic quadrant by an arc which may be considered equal to the ordinate which corresponds to \\( y \\). And the same with respect to \\( z \\).\n\nLet \\( y' \\) be the ordinate corresponding to \\( y \\). The equation of the curve gives\n\n\\[ y' = b \\sqrt{1 - y^2}; \\]\n\nbut since\n\n\\[ y^2 = 1 - \\frac{b^2 \\omega^2}{4} \\therefore \\sqrt{1 - y^2} = \\frac{b \\omega}{2} \\therefore y' = \\frac{b^2 \\omega}{2}, \\]\n\nand the arc subtending \\( y = Q - \\frac{b^2 \\omega}{2} \\).\n\nThe arc \\( z \\) has the same value. Therefore\n\n\\[ \\text{arc } y + \\text{arc } z = 2Q - b^2 \\omega; \\]\n\nadding arc \\( x = \\omega \\), we have\n\n\\[ \\text{Sum of arcs} = 2Q + e^2 \\omega, \\]\n\n(or, since \\( \\omega = -r \\))\n\n\\[ = 2Q - e^2 r, \\]\n\nin accordance with the theorem.\n\n**Ex. 4.** Let \\( 1 - e^2 = \\frac{1}{3} \\).\n\nAnd also let \\( r = 9 - 3\\sqrt{10} = -0.4868331 \\);\n\nthe roots of the equation\n\n\\[ x^3 + r x^2 + \\left( \\frac{r^3}{12} - 1 \\right) x - r = 0, \\]\n\nare\n\n\\[ x = 0.5 = \\sin 30^\\circ \\]\n\\[ y = 0.98019 = \\sin 78^\\circ 34' \\]\n\\[ z = -0.99336 = \\sin 83^\\circ 24' \\]\n\nEntering **Legendre's Table IX.** with modulus \\( e = \\sqrt{\\frac{2}{3}} = \\sin 54^\\circ 44' \\) and these amplitudes, we find\n\n\\[ \\text{arc } x = 0.5081 \\]\n\\[ \\text{arc } y = 1.1446 \\]\n\\[ \\text{arc } z = 1.1944 \\]\n\\[ \\text{Sum} = 2.8471 \\]\nOn the other hand we have\n\n\\[2 Q = 2 \\text{ arc } (90^\\circ) = 2.5224\\]\n\\[e^2 r = 0.3246\\]\n\\[2 Q - e^2 r = 2.8470\\]\nSum of arcs \\(= 2.8471\\)\nError \\(= 0.0001\\]\n\nI will now indicate two other theorems respecting the sum of three elliptic arcs.\n\nI. We may put the integral \\(\\int dx \\sqrt{\\frac{1 - e^2 x^2}{1 - x^3}}\\) in the form\n\n\\[\\int (1 + ex) dx \\sqrt{\\frac{1 - ex}{(1 + ex)(1 - x^2)}},\\]\n\nand assume \\(\\frac{1 - ex}{(1 + ex)(1 - x^2)}\\) to be a symmetrical \\(= \\frac{1}{v}\\). This gives\n\n\\[x^3 + \\frac{1}{e} x^2 - (v + 1)x + \\frac{v - 1}{e} = 0,\\]\n\nand the result which I find is, that if three abscissæ are the roots of this equation, the sum of the corresponding arcs \\(= 2e \\sqrt{v} + C\\).\n\nII. We may put the integral in the form\n\n\\[\\int \\frac{dx}{1 + x} \\sqrt{\\frac{(1 + x)(1 - e^2 x^2)}{1 - x}},\\]\n\nand assume \\(\\frac{(1 + x)(1 - e^2 x^2)}{1 - x} = v\\), whence\n\n\\[x^3 + x^2 - \\frac{v + 1}{e^2} x + \\frac{v - 1}{e^2} = 0.\\]\n\nThe result which I find is, that if three abscissæ are the roots of this equation, the sum of the arcs \\(= 2 \\sqrt{v} + C\\).\n\nThese theorems respecting the sums of elliptic arcs appear to be some of the simplest which exist; but an unlimited number of theorems of a higher order and more complicated nature are obtainable, the discussion of which would lead too far at present.\n\nThus if we assume\n\n\\[\\sqrt{\\frac{1 - e^2 x^2}{1 - x^3}} = a_{n-1} x^{n-1} + a_{n-2} x^{n-2} + &c.\\]\n\nwhere the coefficients are constants, or entire rational functions of \\(v\\), we have an equation of \\(2n\\) dimensions, which gives the sum of \\(2n\\) elliptic arcs in terms of \\(v\\).\n\nThere is no difficulty, beyond the length of the operation, in deducing these theorems, as they are all obtainable by an uniform method. But it will be of importance to show the relation between them and the previously received doctrines respecting elliptic integrals as established by Legendre and others, the connexion between them not being at first sight very evident.\n§ 6. Application to the Equilateral Hyperbola.\n\nIn order to obtain a relation between three values of the integral \\( \\int \\frac{dx}{x^3} \\sqrt{1 + x^4} \\), which expresses the arc of the equilateral hyperbola, we may put\n\n\\[\n\\sqrt{1 + x^4} = v x + 1,\n\\]\n\nwhence\n\n\\[\nx^3 - v^2 x - 2 v = 0,\n\\]\n\nwe have therefore \\( 2 v = r \\), and making this substitution,\n\n\\[\nx^3 - \\frac{r^2}{4} x - r = 0.\n\\]\n\nAlso\n\n\\[\n\\frac{\\sqrt{1 + x^4}}{x^2} = \\frac{r}{2} x + \\frac{1}{x^2}\n\\]\n\n\\[\n\\therefore S \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = \\frac{r}{2} S \\frac{dx}{x} + S \\frac{dx}{x^2}.\n\\]\n\nNow we have\n\n\\[\n\\frac{r}{2} S \\frac{dx}{x} = \\frac{r}{2} \\cdot \\frac{dr}{r} = \\frac{dr}{2},\n\\]\n\nand\n\n\\[\nS \\frac{1}{x} = \\frac{q}{r} = -\\frac{r}{4}\n\\]\n\n\\[\n\\therefore S \\frac{dx}{x^2} = \\frac{dr}{4}\n\\]\n\n\\[\n\\therefore S \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = \\frac{dr}{2} + \\frac{dr}{4} = \\frac{3 dr}{4}\n\\]\n\n\\[\n\\therefore S \\int \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = \\frac{3}{4} r + C;\n\\]\n\nso that if three abscissæ of the equilateral hyperbola are roots of the equation\n\n\\[\nx^3 - \\frac{r^3}{4} x - r = 0,\n\\]\n\nthe sum of the arcs \\( = \\frac{3}{4} r + C \\), which is the theorem which I originally met with concerning the hyperbolic arc*.\n\nIt will be seen how very simply and directly we are conducted to it by the present method of investigation. Next let us suppose\n\n\\[\n-\\sqrt{1 + x^4} = v x^3 + 1,\n\\]\n\nwhence\n\n\\[\nx^3 - \\frac{x}{v^3} + \\frac{2}{v} = 0.\n\\]\n\nPut \\( v = -\\frac{2}{r} \\),\n\n* Philosophica Transactions, 1836, Part I. p. 185.\n\\[ x^3 - \\frac{r^2}{4} x - r = 0, \\]\n\nand\n\n\\[ -\\frac{\\sqrt{1 + x^4}}{x^2} = -\\frac{2}{r} x + \\frac{1}{x^2}. \\]\n\nTherefore\n\n\\[ -S \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = -\\frac{2}{r} S x \\cdot dx + S \\frac{dx}{x^2}, \\]\n\nbut\n\n\\[ S \\frac{dx}{x^2} = \\frac{dr}{4}, \\]\n\nas in the last example; and\n\n\\[ S x^2 = \\frac{r^2}{2} \\quad \\therefore -\\frac{2}{r} S x \\cdot dx = -dr \\]\n\n\\[ \\therefore -S \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = \\frac{dr}{4} - dr = -\\frac{3}{4} dr \\]\n\n\\[ \\therefore S \\int \\frac{\\sqrt{1 + x^4}}{x^2} \\cdot dx = \\frac{3}{4} r + C. \\]\n\nThis result therefore agrees with the last example, and gives the same theorem, but it supplies a different demonstration of it.\n\nWe will now suppose\n\n\\[ \\frac{\\sqrt{1 + x^4}}{x^2} = 1 + \\frac{a}{x} + \\frac{v}{x^2}, \\]\n\n\\(a\\) being a constant. This gives\n\n\\[ x^3 + \\frac{a^2 + 2v}{2a} x^2 + vx + \\frac{v^2 - 1}{2a} = 0, \\]\n\nand I find this result, that if three abscissæ are roots of this equation, which may be written\n\n\\[ x^3 - px^2 + qx - r = 0, \\]\n\nthen the sum of the arcs\n\n\\[ = p - \\frac{v^2}{r} + \\text{const.} = \\phi v + C. \\]\n\nThis sum is therefore constant if \\( \\phi v \\) is so.\n\nLet \\( v = k, v = k' \\), be two values of \\( v \\), which give the same value to \\( \\phi v \\), or \\( p - \\frac{v^2}{r} \\).\n\nLet the three hyperbolic arcs in the first case be \\( \\alpha \\alpha' \\alpha'' \\), and in the second case \\( \\beta \\beta' \\beta'' \\), then\n\n\\[ \\alpha + \\alpha' + \\alpha'' = \\beta + \\beta' + \\beta''. \\]\n\nAll the abscissæ have the same origin at the centre of the curve, therefore the arcs have the same origin, and therefore can be subtracted from one another. Therefore putting \\( \\alpha - \\beta = \\gamma, \\alpha' - \\beta' = \\gamma', \\alpha'' - \\beta'' = \\gamma'' \\), we have\n\n\\[ \\gamma + \\gamma' + \\gamma'' = 0. \\]\n\nThis appears to me to show the possibility of finding three arcs such that (neglecting\ntheir signs) the sum of two of them shall be equal to the third (though not superposable in any part). I believe that it has been hitherto held that this equality is impossible in the ellipse and hyperbola, without the addition of some algebraic quantity. I should have wished therefore to have added some numerical illustration of such a result, but the length of the calculation has hitherto prevented me from doing so.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108084.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 19,
+    "total-input-tokens": 30804,
+    "total-output-tokens": 11687,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1418,
+        2
+      ],
+      [
+        1418,
+        3035,
+        3
+      ],
+      [
+        3035,
+        4284,
+        4
+      ],
+      [
+        4284,
+        5776,
+        5
+      ],
+      [
+        5776,
+        7964,
+        6
+      ],
+      [
+        7964,
+        9991,
+        7
+      ],
+      [
+        9991,
+        11602,
+        8
+      ],
+      [
+        11602,
+        13276,
+        9
+      ],
+      [
+        13276,
+        14722,
+        10
+      ],
+      [
+        14722,
+        16566,
+        11
+      ],
+      [
+        16566,
+        18125,
+        12
+      ],
+      [
+        18125,
+        19459,
+        13
+      ],
+      [
+        19459,
+        21602,
+        14
+      ],
+      [
+        21602,
+        23209,
+        15
+      ],
+      [
+        23209,
+        25180,
+        16
+      ],
+      [
+        25180,
+        26687,
+        17
+      ],
+      [
+        26687,
+        28550,
+        18
+      ],
+      [
+        28550,
+        28971,
+        19
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108084",
+    "title": "Researches in the Integral Calculus. Part II",
+    "authors": "H. F. Talbot",
+    "year": 1837,
+    "volume": "127",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 19,
+    "jstor_url": "https://www.jstor.org/stable/108084"
+  }
+}

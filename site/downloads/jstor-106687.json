@@ -1,0 +1,79 @@
+{
+  "id": "4b0aa44fe6d7efd4c01613103cb8a5e83aa812ff",
+  "text": "XII. Observations on a Comet. In a Letter from William Herschel, LL.D. F. R. S. to Sir Joseph Banks, Bart. P. R. S.\n\nRead April 2, 1789.\n\nSIR,\n\nSlough, March 3, 1789.\n\nTHE last time I was in town, you expressed a wish to see my observations on the comet which my sister, Caroline Herschel, discovered in the evening of the 21st of last December, not far from β Lyrae.\n\nAs she immediately acquainted the Rev. Dr. Maskelyne, and several other gentlemen, with her discovery, the comet was observed by many of them. The Astronomer Royal, in particular, having, I find, obtained a very good set of valuable observations on its path, it will be sufficient if I communicate only those particulars which relate to its first appearance, and a few other circumstances that may perhaps deserve to be noticed.\n\nDecember 21, 1788, about 8 o'clock, I viewed the comet, which my sister had a little while before pointed out to me with her small Newtonian sweeper. In my instrument, which was a ten-feet reflector, it had the appearance of a considerably bright nebula; of an irregular, round form; very gradually brighter in the middle; and about five or six minutes in diameter. The situation was low, and not very proper for instruments with high powers.\nDecember 22, about half after five o'clock in the morning, I viewed it again, and perceived that it had moved apparently in a direction towards δ Lyrae, or thereabout. I had been engaged all night with the twenty-feet instrument, so that there had been no leisure to prepare my apparatus for taking the place of the comet; but in the evening of the same day, I took its situation three times, as follows:\n\n| Dec. 22. at | h. | min. | sec. |\n|------------|----|------|-----|\n|            | 23 | 42   | 19  |\n|            | 23 | 49   | 24  |\n\nDifference 7 5 very accurate.\n\n| at         | h. | min. | sec. |\n|------------|----|------|-----|\n|            | 23 | 52   | 52  |\n|            | 23 | 59   | 58  |\n\nDifference 7 6 accurate.\n\n| at         | h. | min. | sec. |\n|------------|----|------|-----|\n|            | 0  | 6    | 35  |\n|            | 0  | 13   | 40  |\n\nDifference 7 5 very accurate.\n\nI found in every observation the small star which accompanies β Lyrae*, exactly in the parallel of the comet.\n\nThese transits were taken with a ten-feet reflector; and the difference in right ascension, I should suppose, may be depended upon to within a second of time. The determination\n\n* For this small star see my Catalogue of Double Stars, in the Philosophical Transactions for the year 1782, Part I. Class V. Star 3, where its distance and position are given, and consequently its parallel may be found.\nalso of the parallel can hardly err so much as fifteen seconds of a degree.\n\nThis, and several evenings afterwards, I viewed the comet again with such powers as its diluted light would permit, but could not perceive any sort of nucleus, which, had it been a single second in diameter, I think, could not well have escaped me. This circumstance seems to be of some consequence to those who turn their thoughts on the investigation of the nature of comets; especially as I have also formerly made the same remark on one of the comets discovered by M. Méchain in 1787, a former one of my sister's in 1786, and one of Mr. Pigott's in 1783; in neither of which any defined, solid nucleus could be perceived.\n\nI have the honour to remain, &c.\n\nWILLIAM HERSCHEL.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106687.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1013,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1242,
+        2
+      ],
+      [
+        1242,
+        2649,
+        3
+      ],
+      [
+        2649,
+        3404,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106687",
+    "title": "Observations on a Comet. In a Letter from William Herschel, LL.D. F. R. S. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "William Herschel",
+    "year": 1789,
+    "volume": "79",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106687"
+  }
+}

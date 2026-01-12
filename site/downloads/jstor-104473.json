@@ -1,0 +1,99 @@
+{
+  "id": "b76c2cc1657e3e544a0889636e09ede3c5852e5c",
+  "text": "vasis rotatis pulvinaria loco manuum applicantur, electricitas decrescit.\n\nXIX. A Description of a Machine to blow Fire by the Fall of Water; by James Stirling, F. R. S.\n\nSee Tab. I. Fig. 6.\n\nRead March 21, 1744-5.\n\n\\(ABCD\\) is a Pit dug in the Ground, whose Surface is higher at \\(D\\) than on the other Side at \\(A\\). The Bottom \\(BC\\) is strongly ramm'd with Clay, upon which are laid thin sawen Deals.\n\nIn this Pit is fixed a Tub \\(GHKI\\) without a Bottom, having a Hole \\(I\\) at the lower Part of the Side, and all round the Tub is ramm'd with Clay, except at the Hole \\(I\\).\n\nIn the middle of the upper End of the Tub is fixed a Pipe \\(PQRS\\); at the higher End of which are four Holes pointing downwards, whereof two are represented by \\(S\\) and \\(R\\).\n\n\\(SRTU\\) is a Funnel fixed on the Top of the Pipe, with a Throat \\(XZ\\) narrower than the Bore of the Pipe. In the upper End of the Tub towards one Side is fixed a crooked Pipe at \\(LM\\), tapering to the End at \\(N\\). It is made of Wood so far as \\(O\\), but from \\(O\\) to \\(N\\) of Iron, the Fire being supposed at \\(N\\). \\(EF\\) is the Surface of a plain Stone, raited up in the middle of the Tub, directly under the Pipe \\(PQRS\\).\nThe running Water, being let in at the Top of the Funnel, falls thro' the Pipe upon $EF$ the Stone in the Tub; it runs out at the Hole $I$, but cannot get off till it rises as high as $A$.\n\nThis raises it in the Tub almost up to the Surface of the Stone, and it must not rise higher.\n\nSo much Water must run in at the Top of the Funnel, as will keep it always full, or nearly so.\n\nThis Height of Water squeezes it into the Pipe with a great Velocity; but, since it passes thro' the Throat of the Funnel, which is of a smaller Bore than the Pipe, Room is left all round the Vein of Water for the Air to enter at the Air-Holes.\n\nIt no sooner enters but it mixes with the Water, on the Account of the Rapidity of the Motion; and both together make a white Froth, and intirely fill the Bore of the Pipe. When this Froth falls on the Stone in the Tub, it is dashed into small Particles, which disengages the Air from the Water. The Air cannot get out at $PQ$, the End of the Pipe, because it is fill'd with the Froth, which falls with a great Force; neither can it get out at the Hole $I$, because the Surface of the Water is kept so high above it; and for that Reason it rushes out at $N$; and if the Hole $N$ be stopped, the Air will soon force all the Water in the Tub out at $I$, and then follow it.\n\nThe most convenient Way of regulating the Blast, is to bore a small Hole in the Blast-Pipe; and, by the Help of a Pin in it, to let out what Air there may be more than is wanted.\n\nThe Dimensions of such an Engine sufficiently big to smelt harder Ore than any in Lead-Hills, are set down at the Bottom.\n\nFeet.\nHeight of the Funnel - - - - - 5\nLength of the Pipe - - - - - 14, 15, or 16\nHeight of the Tub - - - - - 6\nDiameter of the Tub - - - - - $5\\frac{1}{2}$\nHeight of the Stone in the Tub - - 2\n\nDiameter of the Throat of the Funnel - - - $3\\frac{1}{2}$\nDiameter of the Bore of the Pipe - - - $5\\frac{1}{2}$\nDiameter of the Blast Hole at N - - - $1\\frac{1}{2}$\nHole at I about 5 Inches square,\nDiameter of the Air-Holes - - - $1\\frac{1}{2}$\n\nThis Engine is likewise of admirable Use to convey fresh Air into the Works; which saves the double Drifts and Shafts, and cutting Communications between them.\n\nA small one will do very well for a Blacksmith.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104473.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9914,
+    "total-output-tokens": 1163,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1191,
+        2
+      ],
+      [
+        1191,
+        2800,
+        3
+      ],
+      [
+        2800,
+        3444,
+        4
+      ],
+      [
+        3444,
+        3444,
+        5
+      ],
+      [
+        3444,
+        3444,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104473",
+    "title": "A Description of a Machine to Blow Fire by the Fall of Water; By James Stirling, F. R. S.",
+    "authors": "James Stirling",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/104473"
+  }
+}

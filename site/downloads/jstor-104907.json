@@ -1,0 +1,59 @@
+{
+  "id": "9636865b38f1f089ccc6f68dfcc37a845de96f4f",
+  "text": "These cases are, I think, sufficient to encourage farther trials. I am, with true respect,\n\nSIR,\n\nYour most obedient humble servant,\n\nW. Oliver.\n\nXIV. Observationes Eclipsium Satellitum Jovis habitae Ulissipone in Regio Collegio Beatae Virginis à Necesitatibus nuncupatae, à Joanne Chevalier Cong. Oratorii & Regalis Societ. Lond. Socio, Anno 1754.\n\nRead Feb. 27, 1755.\n\nDie undecima Januarii, telescopio magno Gregoriano, long. 6 pedum dimidio, nocte clarissimâ, observavi immersionem secundi Satellitis horâ postmeridiana temporis veri, 9h. 4'. 3''. Hac, ac sequentibus diebus, clarè conspiciebantur fasciæ duæ in disco Jovis.\n\nDie decima-quinta Januarii, eodem telescopio, cælo etiam claro, observavi immersionem primi Satellitis horâ postmeridianâ temporis veri, 11h. 23'. 58''.\n\nDie decima-octava Januarii, eodem telescopio, observavi immersionem secundi Satellitis horâ postmeridianâ vera, 11h. 35'. 30''.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104907.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 381,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        911,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104907",
+    "title": "Observationes Eclipsium Satellitum Jovis Babitae Ulissipone in Regio Collegio Beatissimae Virginis à Necessitatibus Nuncupatae, à Joanne Chevalier Cong. Oratorii & Regalis Societ. Lond. Socio, Anno 1754",
+    "authors": "Joanne Chevalier",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104907"
+  }
+}

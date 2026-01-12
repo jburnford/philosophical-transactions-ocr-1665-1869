@@ -1,0 +1,119 @@
+{
+  "id": "d36f146a15af51390ead0d0a78fa33edba8b23d2",
+  "text": "XXXII. Of the Theory of Circulating Decimal Fractions. By John Robertson, Lib. R. S.\n\nRead Nov. 24, 1768.\n\nThe great advantages arising from the use of Arithmetic, particularly in philosophy and commerce, is sufficiently known; therefore, every step taken towards its perfection, has always been countenanced by those who were best acquainted with its nature and value. On these motives I have been induced to offer the annexed paper to this learned Society.\n\nRegiomontanus, it is said, first among Europeans, added to the then known arithmetic, an operation by decimal fractions; which he exemplified in his triangular table. Its utility was readily seen, and embraced in many nations, and particularly in this; where it appears to have been cultivated in its theory, and facile modes of operation, more than in other places.\n\nMany writers have remarked its excellency in numeral computation, and have pointed out compendiums to avoid the trouble of writing down superfluous figures; particularly in the operations with concrete numbers, or those relative to money, weight, and measure; where the gradations from one denomination to another do not proceed in an uniform progression.\n\nIn finding the decimal values of the fractional parts of concrete, and other numbers, it often happens,\npens, that those decimals do not terminate, or end, with a few figures only; and sometimes are infinite, or never end; and among these are many which have one or more figures constantly recurring; as in the following proportions, viz.\n\n\\[3 : 2 :: 1,0000, \\&c. : 0,6666, \\&c.\\]\nand \\(12 : 5 :: 1,0000, \\&c. : 0,4166, \\&c.\\)\nalso \\(7 : 3 :: 1,0000, \\&c. : 0,428571,428571, \\&c.\\)\n\nIn operations, with such recurring decimal fractions, particularly in multiplication and division, the work will either be longer than necessary, or be very inaccurate, if the numbers are not considered as circulating ones: and to come at the true results of such operations, several authors have given precise rules; and some of them have shewn the principles upon which those rules were founded.\n\nIn the annexed paper those principles are, endeavoured to be, exhibited in a different, and in a more general and concise manner, than has hitherto been shewn: but the modes of working are not here annexed, as they are to be found in Cunn, Malcolm, Marsh, and others; and may hereafter be fully exemplified in a treatise of Arithmetic, by the author hereof, considered in a more mathematical order, than what has hitherto been appropriated to this most useful science.\n\n**General Principles.**\n\n1. Number is supposed to begin at unity, and from thence to ascend and descend: those terms ascending above unity, are integers; and those descending below unity, are fractions.\n\nWhen\nWhen in the ascending and descending parts of the scale, the gradation proceeds by a tenfold value from the right hand towards the left, the rank of numbers, thus generated, is called the decimal scale.\n\nAs every place in this scale is ten times the value of its next right hand place; therefore the first place in the fractional part, is $\\frac{1}{10}$ of the place of units; and the second, third, fourth, &c. descending places in the fractional part, is $\\frac{1}{100}$, $\\frac{1}{1000}$, $\\frac{1}{10000}$, &c. part of the place of units.\n\nTherefore every decimal fraction is equal to a series arising from multiplying the first, second, third, fourth, &c. terms of the decreasing geometrical progression $\\frac{1}{10} + \\frac{1}{100} + \\frac{1}{1000} + \\frac{1}{10000}$, &c. by the first, second, third, and fourth, &c. terms in the given fraction respectively.\n\nThus. Let the given fraction be $0.3587$ or $\\frac{3587}{10000}$.\n\nThen $0.3587 = \\frac{1}{10} \\times 3 + \\frac{1}{100} \\times 5 + \\frac{1}{1000} \\times 8 + \\frac{1}{10000} \\times 7$\n\n$= \\frac{3}{10} + \\frac{5}{100} + \\frac{8}{1000} + \\frac{7}{10000} = \\frac{3587}{10000}$.\n\n2. Every decimal fraction arises from division, when the dividend is less than the divisor.\n\nFor, divisor : dividend :: 10 : first term of the fraction;\n\n:: 100 : sum of the first and second terms;\n\n:: 1000 : sum of the first, second, and third, terms, &c.\n\nAnd according to the ratio of the divisor to the dividend, the quotient, or decimal fraction, will be finite or infinite.\n\n3. Among those decimal fractions which are infinite, or do not end, some of them recur, or circulate; that is, the same figure or figures run over again and again ad infinitum.\n\nAs $0.333$ &c.; $0.2323$ &c.; $0.758758$ &c.; $0.999$ &c.\n\nHere $0.333$ &c. $= \\frac{3}{10} + \\frac{3}{100} + \\frac{3}{1000} + \\frac{3}{10000}$, &c.\n\n$0.2323$ &c. $= \\frac{2}{10} + \\frac{3}{100} + \\frac{2}{1000} + \\frac{3}{10000}$, &c.\n\n$0.785785$ &c. $= \\frac{7}{10} + \\frac{8}{100} + \\frac{5}{1000} + \\frac{7}{10000} + \\frac{8}{100000} + \\frac{5}{1000000}$, &c.\n\n$0.999$, &c. $= \\frac{9}{10} + \\frac{9}{100} + \\frac{9}{1000} + \\frac{9}{10000}$, &c.\nThe circulating fraction 0.999, &c. is equal to 1.0.\n\nFor the difference between 1.0 and 0.999 &c. is less than can be assigned.\n\nTo save a repetition of figures, it is usual to mark the first and last of circulating expressions, with points over the figures.\n\nThus, 0.333 &c. is wrote 0.3\n\n0.2323 &c. 0.23\n\n0.785785 &c. 0.785\n\n4. Like circulating decimal fractions are those which have each the same number of circulating places; and begin to recur each at the same name.\n\nEvery finite decimal fraction may be considered as infinite; cyphers being used as the circulating part.\n\nEither place of a circulating expression may be taken as the first; observing that the number and order of the circulating places be not altered.\n\nFor as the decimal fraction arises by division; if either place of the recurring figures be taken for the first, the others will from thence regularly circulate.\n\nHence several unlike circulating decimal fractions may be made to begin and end at places of like names.\n\n5. If in the decimal scale 10, 100, 1000, 10000, 100000, 1000000, &c. continued indefinitely, be selected any rank of equi-distant terms, such, that whatever term therein is taken for the first term, and the first term is made the common ratio to the rest; then will the sum of the reciprocals of those terms, be equal to the reciprocal of the number which is unity less than the first term.\n\nThus $\\frac{1}{10} + \\frac{1}{100} + \\frac{1}{1000} + \\&c. = \\frac{1}{9}$; 10 being the 1st term.\n\n$\\frac{1}{100} + \\frac{1}{1000} + \\frac{1}{10000} + \\&c. = \\frac{1}{99}$; 100 being the 1st term.\n\n$\\frac{1}{1000} + \\frac{1}{10000} + \\frac{1}{100000} + \\&c. = \\frac{1}{999}$; 1000 being the 1st term.\nFor \\(\\frac{1}{10} + \\frac{1}{100} + \\frac{1}{1000} + \\ldots\\) etc. \\(= \\frac{100 + 10 + 1}{1000} = \\frac{111}{1000}\\) etc.\n\n\\(\\frac{1}{100} + \\frac{1}{10000} + \\frac{1}{1000000} + \\ldots\\) etc. \\(= \\frac{10000 + 100 + 1}{1000000} = \\frac{10101}{1000000}\\) etc.\n\n\\(\\frac{1}{1000} + \\frac{1}{1000000} + \\frac{1}{1000000000} + \\ldots\\) etc. \\(= \\frac{1000000 + 1000 + 1}{1000000000} = \\frac{1001001}{1000000000}\\) etc.\n\nBut 111 etc. \\(\\times\\) 9 = 1000 etc. (by 3rd) Then \\(\\frac{111}{1000}\\) etc. \\(= \\frac{1}{9}\\)\n\n10101 etc. \\(\\times\\) 99 = 100000 etc. Then \\(\\frac{10101}{100000}\\) etc. \\(= \\frac{1}{99}\\)\n\n1001001 etc. \\(\\times\\) 999 = 100000000 etc. Then \\(\\frac{1001001}{100000000}\\) etc. \\(= \\frac{1}{999}\\)\n\nHence the reciprocal of a number consisting of \\(n\\) places of 9's, is equal to a circulating number of \\(n\\) places, the right hand figure being 1, and the rest 0's.\n\nThus, \\(\\frac{1}{9} = \\frac{111}{1000}\\) etc. \\(= 0.\\overline{1}\\)\n\n\\(\\frac{1}{99} = \\frac{10101}{100000}\\) etc. \\(= 0.\\overline{01}\\)\n\n\\(\\frac{1}{999} = \\frac{1001001}{100000000}\\) etc. \\(= 0.\\overline{001}\\)\n\n\\(\\frac{1}{9999} = \\frac{10001001}{1000000000}\\) etc. \\(= 0.\\overline{0001}\\)\n\n6. If the reciprocal of a number consisting of \\(n\\) places of 9's, be multiplied by a number \\(D\\), not exceeding \\(n\\) places; the product will be a circulating decimal fraction of \\(n\\) places, the right hand ones being the same digits as are in the number \\(D\\).\n\nLet \\(D = 3\\); or \\(D = 23\\); or \\(D = 785\\); or to any other number.\nNow \\( \\frac{1}{9} = \\frac{111 \\text{ &c.}}{1000 \\text{ &c.}}; \\frac{1}{99} = \\frac{10101 \\text{ &c.}}{1000000 \\text{ &c.}}; \\frac{1}{999} = \\frac{1001001 \\text{ &c.}}{100000000 \\text{ &c.}} \\) (by 5th).\n\nTherefore \\( \\frac{1}{9}, \\) or \\( \\frac{111 \\text{ &c.}}{1000 \\text{ &c.}} \\times 3 = \\frac{333 \\text{ &c.}}{1000 \\text{ &c.}} = 0.\\overline{3} \\)\n\n\\( \\frac{1}{99}, \\) or \\( \\frac{10101 \\text{ &c.}}{1000000 \\text{ &c.}} \\times 3 = \\frac{30303 \\text{ &c.}}{1000000 \\text{ &c.}} = 0.\\overline{03} \\)\n\n\\( \\frac{1}{999}, \\) or \\( \\frac{1001001 \\text{ &c.}}{100000000 \\text{ &c.}} \\times 23 = \\frac{232323 \\text{ &c.}}{100000000 \\text{ &c.}} = 0.\\overline{23} \\)\n\n\\( \\frac{1}{9999}, \\) or \\( \\frac{10001001 \\text{ &c.}}{1000000000 \\text{ &c.}} \\times 3 = \\frac{3003003 \\text{ &c.}}{1000000000 \\text{ &c.}} = 0.\\overline{003} \\)\n\n\\( \\frac{1}{99999}, \\) or \\( \\frac{1000010001 \\text{ &c.}}{10000000000 \\text{ &c.}} \\times 23 = \\frac{23023023 \\text{ &c.}}{10000000000 \\text{ &c.}} = 0.\\overline{023} \\)\n\n\\( \\frac{1}{999999}, \\) or \\( \\frac{100000100001 \\text{ &c.}}{100000000000 \\text{ &c.}} \\times 785 = \\frac{785785785 \\text{ &c.}}{100000000000 \\text{ &c.}} = 0.\\overline{785} \\)\n\n7. Hence every circulating decimal fraction will be equivalent to a vulgar fraction, wherein the numerator is those circulating figures, and the denominator consists of as many 9’s, as are figures in the numerator.\n\nThus \\( 0.\\overline{3} = \\frac{3}{9}. \\) For \\( \\frac{1}{9} \\times 3 = \\frac{3}{9} = 0.\\overline{3} \\) (by 6th)\n\n\\( 0.\\overline{03} = \\frac{3}{99}. \\) \\( \\frac{1}{99} \\times 3 = \\frac{3}{99} = 0.\\overline{03} \\)\n\n\\( 0.\\overline{23} = \\frac{23}{99}. \\) \\( \\frac{1}{99} \\times 23 = \\frac{23}{99} = 0.\\overline{23} \\)\n\n8. Hence a circulating decimal fraction, of any number of places, being multiplied by a number of as many 9’s, will give a finite expression, having the same figures as are in the circulating one.\n\nThus \\( 0.\\overline{6} \\times 9 = 6. \\) For \\( 9 : 1 :: 6 : 0.\\overline{6} \\)\n\n\\( 0.\\overline{06} \\times 99 = 6. \\) \\( 99 : 1 :: 6 : 0.\\overline{06} \\)\n\n\\( 0.\\overline{25} \\times 99 = 25. \\) \\( 99 : 1 :: 25 : 0.\\overline{25} \\)\n\n\\( 0.\\overline{625} \\times 999 = 625. \\) \\( 999 : 1 :: 625 : 0.\\overline{625} \\) Hence\nHence it appears, that, in common multiplication, the product of a circulating number, by its proper denominator, in 9's, will be deficient of the true product by that circulating number.\n\nThus \\(0.\\dot{6} \\times 9 = 5.4\\); then \\(5.4 + .6 = 6\\). For \\(\\frac{6}{9} = 0.\\dot{6}\\)\n\n\\(0.06 \\times 99 = 5.94\\); then \\(5.94 + 0.06 = 6\\). For \\(\\frac{6}{99} = 0.06\\)\n\n\\(0.62\\dot{5} \\times 999 = 624.375\\); then \\(624.375 + 0.62\\dot{5} = 625.0\\)\n\nHence. Any finite number is in proportion to the same number recurring, as the proper denominator of the circulate is to that denominator increased by unity.\n\nThus \\(9 : 10 :: 6 : 6\\). For \\(6 \\times 9 = 6 \\times 10\\)\n\n\\(99 : 100 :: 25 : 25\\). For \\(25 \\times 99 = 25 \\times 100\\).\n\nSCHOLIUM.\n\nIf to the preceding articles, be joined the compendiums of multiplying and dividing by any number of 9's, they will constitute the whole of the theory, upon which depend all the operations with circulating numbers: for as these have 9's for their denominator, wanting unity in the lowest place to make them 10's; therefore unity for every 9 is applied in some additions and multiplications: Or, the circulating parts being reduced to finite number; then working with them by the common rules, will give finite results; which results are to be reduced to circulates by contrary operations to what were used to reduce the circulates to finites.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105780.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 14476,
+    "total-output-tokens": 4658,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1289,
+        2
+      ],
+      [
+        1289,
+        2746,
+        3
+      ],
+      [
+        2746,
+        4899,
+        4
+      ],
+      [
+        4899,
+        6589,
+        5
+      ],
+      [
+        6589,
+        8100,
+        6
+      ],
+      [
+        8100,
+        10327,
+        7
+      ],
+      [
+        10327,
+        11703,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105780",
+    "title": "Of the Theory of Circulating Decimal Fractions. By John Robertson, Lib. R. S.",
+    "authors": "John Robertson",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/105780"
+  }
+}

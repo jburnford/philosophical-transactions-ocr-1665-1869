@@ -1,0 +1,119 @@
+{
+  "id": "f77806ab5e3616b9af5cd25cd2451aaabdfebcd8",
+  "text": "The only official reprint\nauthorized by\nThe Royal Society of London\nPHILOSOPHICAL Transactions:\nGIVING SOME ACCOMPT OF THE Present Undertakings, Studies and Labours OF THE INGENIOUS IN MANY Considerable Parts OF THE WORLD.\n\nVol. X.\nFor the Year MDCLXXV.\n\nLONDON,\nPrinted by T.R. for John Martyn, Printer to the Royal Society; at the Bell in St. Paul's Church-Yard.\nPHILOSOPHICAL TRANSACTIONS.\n\nMarch 25, 1675.\n\nThe CONTENTS.\n\nAn Introduction to the Eleventh Year of these Tracts. A Breviate of M. Picart's Account concerning the Measure of the Earth; compared with what hath been done hitherto upon that Subject.\n\nExtracts of three Letters: The one of M. Hugens, about a New Invention of very exact and portable Watches, serving to find the Longitudes both at Sea and Land: The second, of Dr. Swammerdam, touching an Unusual Rupture of the Mesentery: The third, containing some Observations of Mr. Lister about the Star-stones; together with Mr. Rays annotations thereon.\n\nAn Account of two Books: I. Les dix Livres d'Architecture de VITRUVÉ, corrigéz, & traduits nouvellement en Francois, avec des Notes & Figures; par Claude Perrault. II. Dissertatio de Carentia Sensus & Cognitionis in Brutis, A. Ant. le Grand.\nPHILOSOPHICAL TRANSACTIONS.\n\nSeptemb. 26. 1675;\nFor the Months of August and September.\n\nThe CONTENTS.\n\nMicroscopical Observations of Mr. Leeuwenhoek concerning the Optic Nerve. Other Microscopical Observations made by the same about the Texture of the Blood, the Sap of some Plants, the Figure of Sugar and Salt, and the probable cause of the difference of their Tasts. Some Optical Assertions concerning the Rain-bow, by the Learned Franciscus Linus. Observations of the last Eclipse of the Moon, made at Paris. A Letter of Signor Cassini, relating to the foregoing Observations. An Extract of a Letter sent by Mr. Lister, but written by Mr. Jessop, concerning Damps; to which are added some Relations about odd Worms, voided by Children. Some Observations made by Sir George MacKenzie in Scotland, concerning Earths, and Agriculture; as also some remarkable Herbs, and Molucco-beans met with on the shores of the Western Isles of that Kingdom. An Extract of a Letter of Mr. Listers, containing some Observations made at the Barbado's. An account of some Books: I. Marcelli Malpighii ANATOME PLANTARUM; cum Appendice de OVO INCUBATO. II. Epistola ad D. Joelem Langelocctum de ACIDIO & ALCALI INSUFFICIENTIA ad gerendam mitus Principiorum Corporum Naturalium. III. ZYMOLOGIA CHYMICA, or a Discourse of FERMENTATION, from a New Hypothesis of ACIDUM and SULPHUR; with an Appendix of the Sulphur-Bath at Knaresborough, by William Sympon, M.D.\nPHILOSOPHICAL\nTRANSACTIONS.\n\nJanuary 24. 1675.\n\nThe CONTENTS.\n\nA Continuation of the Experiments made in the Air-pump by Monsieur Hugens and M. Papin at Paris; which are about the Preservation of Bodies. A Letter of Mr. Flamsteed to Sir Jonas Moor, containing his Observation of the late Lunar Eclipse on Decemb. 21. Mr. Franc. Linus his Letter to the Publisher, being a Reply to a Letter formerly printed by way of Answer to another of the said Mr. Linus, which relates to the Newtonian Theory of Light and Colours. Mr. Newtons Considerations in two Letters on the said Reply, together with further Directions how to make the Experiments controverted aright. An Accompt of some Books: I. PHARMACEUTICÆ RATIONALIS, sive Diatriba de Medicamentorum Operationibus in Humano corpore, Pars Secunda; Auth. Th. Willis M.D. &c. II. COLLEGIUM EXPERIMENTALI; sive CURIOSUM, in quo primariae hujus Seculi Inventa & Experimenta Physico-Mathematica spectanda exhibuit & ad causas suas naturales demonstrativâ methodo reduxit Joh. Christoph Sturmius, P.P. Norimbergæ. III. ENGLANDS IMPROVEMENT, in two parts, by Roger Coke. IV. The College of Physicians Vindicated, and the True State of PHYSICK in this Nation faithfully represented by Charles Goodall, M.D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101631.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12406,
+    "total-output-tokens": 1303,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        68,
+        4
+      ],
+      [
+        68,
+        365,
+        5
+      ],
+      [
+        365,
+        1215,
+        6
+      ],
+      [
+        1215,
+        2656,
+        7
+      ],
+      [
+        2656,
+        3900,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101631",
+    "title": "Front Matter",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/101631"
+  }
+}

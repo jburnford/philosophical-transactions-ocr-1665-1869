@@ -1,0 +1,59 @@
+{
+  "id": "ff0a14b33f7161c148d9005e41bb763bc2dd4424",
+  "text": "XXXI. Observations on the Eclipse of the Sun at Chatham, April 1, 1764, by Mr. Mungo Murray: Communicated to Joseph Salvadore, Esq; F. R. S. in a Letter from Dr. John Bevis.\n\nSir,\n\nRead May 24, 1764.\n\nI Fancy I can now satisfy your curiosity as to a place in the northern limit of the path of the Moon's shadow, in the eclipse we observed at your house; that is, where the lower limbs of the Sun and Moon coincided, by the following abstract from a letter I received from my friend Mr. Mungo Murray of Chatham, a good mathematician, and author of an excellent work on ship-building.\n\n\"I am infinitely obliged to you for your kind present of the telescope glasses. I got them most curiously mounted, and, as you said, they make a 12 foot telescope, which takes in the whole Sun nearly. I set my watch by a very good vertical sun-dial, precisely at 9 o'clock, and at 8 minutes after I perceived the Moon just enter on the Sun. About half an hour after 10, the eclipse was barely annular; the light of the Sun below the Moon being but just visible, and less than a hair in the telescope. At 55 minutes past 11 the eclipse ended, and left the Sun quite round.\"\n\nBy this, Sir, I think you may safely conclude, that Chatham was not much more than a mile (perhaps less) south-east of the limit; which therefore passed over Rochester-bridge, or very near it.\n\nYour most obedient humble servant,\n\nJohn Bevis.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105547.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 417,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1399,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105547",
+    "title": "Observations on the Eclipse of the Sun at Chatham, April 1, 1764, by Mr. Mungo Murray: Communicated to Joseph Salvadore, Esq; F. R. S. in a Letter from Dr. John Bevis",
+    "authors": "Mungo Murray, John Bevis",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105547"
+  }
+}

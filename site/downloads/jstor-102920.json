@@ -1,0 +1,59 @@
+{
+  "id": "a84236120a36671f79c398e1d147874d187ee003",
+  "text": "III. Part of a Letter from John Fuller of Sussex, Esq; concerning a strange effect of the late great Storm in that County.\n\nDecember 6. 1703.\n\nWe live Ten Miles off the Sea in a direct line, and yet can scarce persuade the Country People, but that the Sea water was blown thus far, or that during the Tempest the Rain was salt, for all the Twiggs of the Trees the day after were white, and tasted very salt, as I am informed almost by every body, tho I did not taste them time enough myself, nor observe it, and that not only upon this Hill where we live facing the Sea, but in all other places within 14 or 15 miles of the Sea, as well in the Valleys, between which and the Sea are several very high Hills, as on the Hills themselves.\n\nIV. A Letter for the Reverend Mr William Derham, F. R. S. Containing his Observations concerning the late Storm.\n\nSIR,\n\nAccording to my promise at the general meeting of the R. S. on St Andrew's day, I here send you inclos'd the Account of my Ingenious and Inquisitive Friend Richard Towneley, Esq; concerning the State of the Atmosphere in that part of Lancashire, where he liveth, in the",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102920.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 339,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1126,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102920",
+    "title": "Part of a Letter from John Fuller of Sussex, Esq, concerning a Strange Effect of the Late Great Storm in That County",
+    "authors": "John Fuller",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102920"
+  }
+}

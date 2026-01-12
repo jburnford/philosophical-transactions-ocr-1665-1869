@@ -1,0 +1,189 @@
+{
+  "id": "6e7b9e79b9ea359602236e6a3d0d3435b245660e",
+  "text": "XII. On the expansion in a series of the attraction of a Spheroid.\n\nBy James Ivory, M.A. F.R.S.\n\nRead January 17, 1822.\n\nThe purpose of this paper is to make some observations on the development of the attractions of spheroids, and on the differential equation that takes place at their surface.\n\n1. The whole of this doctrine depends on one fundamental proposition. Let $f(\\theta, \\phi)$ denote any function of the sines and cosines of the variable arcs $\\theta$ and $\\phi$; and put $\\mu = \\cos \\theta$: then the given function may be developed in a series, viz.\n\n$$f(\\theta, \\phi) = Q^0 + Q^{(1)} + Q^{(2)} \\ldots + Q^{(i)} \\ldots &c.$$ \n\nevery term of which will separately satisfy this equation in partial fluxions, viz.\n\n$$\\frac{d}{d\\mu} \\left\\{ (1 - \\mu^2) \\frac{dQ^{(i)}}{d\\mu} \\right\\} + \\frac{1}{1 - \\mu^2} \\cdot \\frac{d^2Q^{(i)}}{d\\phi^2} + i(i+1)Q^{(i)} = 0.$$\n\nNow in one case there is no difficulty. Whenever $f(\\theta, \\phi)$ stands for a rational and integral function of $\\mu$, $\\sqrt{1-\\mu^2} \\cdot \\sin \\phi$, $\\sqrt{1-\\mu^2} \\cdot \\cos \\phi$; or of three rectangular co-ordinates of a point in the surface of a sphere; the proposition is clear. In this case the same combinations of the variable quantities are found in the terms of the series and in the given function; and by employing the method of indeterminate coefficients, the two expressions may be made to coincide. The inquiry is therefore reduced to examine the nature of the development when $f(\\theta, \\phi)$ is not such a function as has been men-\ntioned. One thing is indisputable. Since the terms of the development contain no quantities, except such as arise from combining three rectangular co-ordinates, it follows, that when \\( f(\\theta, \\phi) \\) is not explicitly a function of \\( \\mu, \\sqrt{1-\\mu^2} \\cdot \\sin \\phi, \\sqrt{1-\\mu^2} \\cdot \\cos \\phi \\), it must be considered as transformed into such a function. Algebraically speaking; the transformation is no doubt always possible; but there may be danger that, by proceeding in this way, we fall upon expressions which are not proper representatives of the given function; which are symbolical merely, and which cannot be safely employed in the investigation of truth.\n\nIn order to fix the imagination, and to avoid every sort of uncertainty and obscurity, I shall take a particular, although a very extensive case of the general expression. I shall suppose that \\( f(\\theta, \\phi) \\), or more shortly \\( y \\), denotes a rational and integral and finite function of the four quantities, \\( \\sin \\theta, \\cos \\theta, \\sin \\phi, \\cos \\phi \\). We may then substitute for the powers and products of \\( \\sin \\phi \\) and \\( \\cos \\phi \\), their values in the sines and cosines of the multiples of the arc; by which means we shall obtain,\n\n\\[\ny = M^{(0)} + M^{(1)} \\cos \\phi + M^{(2)} \\cos 2\\phi + \\&c.;\n\\]\n\n\\[\n+ N^{(1)} \\sin \\phi + N^{(2)} \\sin 2\\phi\n\\]\n\nthe symbols \\( M^{(0)}, M^{(1)}, N^{(1)} \\&c. \\) standing for rational and integral functions of \\( \\cos \\theta \\) and \\( \\sin \\theta \\), or of \\( \\mu \\) and \\( \\sqrt{1-\\mu^2} \\). Again, every even power of \\( \\sqrt{1-\\mu^2} \\) is an integral function of \\( \\mu \\); and every odd power is equal to a similar function multiplied by \\( \\sqrt{1-\\mu^2} \\): the value of \\( y \\) will therefore be thus expressed,\n\n\\[\ny = (F(\\mu) + \\sqrt{1-\\mu^2} \\cdot f(\\mu)) + (F^{(1)}(\\mu) + \\sqrt{1-\\mu^2} \\cdot f^{(1)}(\\mu)) \\cos \\phi + \\&c.\n\\]\n\n\\[\n+ (G^{(1)}(\\mu) + \\sqrt{1-\\mu^2} \\cdot g^{(1)}(\\mu)) \\sin \\phi\n\\]\nall the functional quantities being integral expressions of \\( \\mu \\).\n\nThe general term of this expression is\n\n\\[\n\\left\\{ F^{(i)}(\\mu) + \\sqrt{1-\\mu^2} \\cdot f^{(i)}(\\mu) \\right\\} \\cos i\\phi \\\\\n+ \\left\\{ G^{(i)}(\\mu) + \\sqrt{1-\\mu^2} \\cdot g^{(i)}(\\mu) \\right\\} \\sin i\\phi;\n\\]\n\nand by multiplying by \\((1-\\mu^2)^{\\frac{i}{2}}\\), or -1, it will become,\n\n\\[\n\\left\\{ \\frac{F^{(i)}(\\mu)}{(1-\\mu^2)^{\\frac{i}{2}}} + \\frac{f^{(i)}(\\mu)}{(1-\\mu^2)^{\\frac{i-1}{2}}} \\right\\} (1-\\mu^2)^{\\frac{i}{2}} \\cos i\\phi \\\\\n+ \\left\\{ \\frac{G^{(i)}(\\mu)}{(1-\\mu^2)^{\\frac{i}{2}}} + \\frac{g^{(i)}(\\mu)}{(1-\\mu^2)^{\\frac{i-1}{2}}} \\right\\} (1-\\mu^2)^{\\frac{i}{2}} \\sin i\\phi;\n\\]\n\nand finally, by expanding the denominators, we get,\n\n\\[\nM^{(i)}(1-\\mu^2)^{\\frac{i}{2}} \\cos i\\phi + N^{(i)}(1-\\mu^2)^{\\frac{i}{2}} \\sin i\\phi;\n\\]\n\nthe symbols \\( M^{(i)} \\) and \\( N^{(i)} \\) denoting rational series of the powers of \\( \\mu \\). By performing these operations in all the terms containing \\( \\phi \\), and likewise by expanding the radical \\( \\sqrt{1-\\mu^2} \\) in the first term, the value of \\( y \\) will be thus expressed;\n\n\\[\ny = M^{(0)} + M^{(1)}(1-\\mu^2)^{\\frac{1}{2}} \\cos \\phi + M^{(2)}(1-\\mu^2)^{\\frac{2}{2}} \\cos 2\\phi + \\&c. \\\\\n+ N^{(1)}(1-\\mu^2)^{\\frac{1}{2}} \\sin \\phi + N^{(2)}(1-\\mu^2)^{\\frac{2}{2}} \\sin 2\\phi\n\\]\n\nall the functional symbols standing for series of the powers of \\( \\mu \\). The given expression now consists entirely of combinations of the quantities \\( \\mu, \\sqrt{1-\\mu^2} \\cdot \\cos \\phi, \\sqrt{1-\\mu^2} \\cdot \\sin \\phi \\); that is, it is a function of three rectangular co-ordinates.\n\nThe same end might have been accomplished by a shorter and more simple process, which will apply to every function of two variable arcs.\nPut \\( u = \\sqrt{1 - \\mu^2} \\cdot \\sin \\phi, \\ z = \\sqrt{1 - \\mu^2} \\cdot \\cos \\phi; \\) then\n\n\\[\n\\begin{align*}\n\\cos \\theta &= \\mu \\\\\n\\sin \\theta &= \\sqrt{1 - \\mu^2} \\\\\n\\sin \\phi &= \\frac{u}{\\sqrt{1 - \\mu^2}} \\\\\n\\cos \\phi &= \\frac{z}{\\sqrt{1 - \\mu^2}};\n\\end{align*}\n\\]\n\nand by substituting these values and expanding the radical quantities wherever they occur, \\( y \\) will be transformed into a function of \\( \\mu, u, z \\), or of three rectangular co-ordinates. The former process has been chosen under the idea, that it exhibits more clearly the quantities which are in a manner extraneous to the function, and are introduced merely for the purpose of making it put on a certain form.\n\nHaving now reduced \\( y \\) to a function of three rectangular co-ordinates, the developement in question will be obtained by the method of indeterminate coefficients already mentioned. Nothing more is necessary than to form the quantities \\( Q^{(0)}, Q^{(1)}, Q^{(2)}, \\ldots \\), giving to each the most general expression, and leaving the coefficients indeterminate; then the sum of these terms will contain the same combinations of \\( \\mu, \\sqrt{1 - \\mu^2} \\cdot \\sin \\phi, \\sqrt{1 - \\mu^2} \\cdot \\cos \\phi \\), that \\( y \\) does; and by making the two expressions coincide, we shall obtain,* \n\n\\[\ny = Q^{(0)} + Q^{(1)} + Q^{(2)} \\ldots + Q^{(i)} \\ldots &c.\n\\]\n\nNow let us go back to the original expression of \\( y \\). By following the process described in the second chapter of the third book of the Mecanique Celeste, a similar developement of that quantity will be obtained. But it is proved, in the same chapter, that a given function cannot be developed two diffe-\n\n* Mecanique Celeste, Tom. ii. p. 42.\nrent ways, in a series of terms that satisfy the general equa-\ntion in partial fluxions:* and from this it appears, that the\ndevelopement obtained by the algebraic operations described\nabove, is identical with the developement found by Laplace's\nmethod.\n\nThere is another way of expressing the terms of the deve-\nlopement of $y$, namely, by definite integrals. But upon this\nhead there is no difficulty, when the possibility of the deve-\nlopement is allowed. The question is not concerning the pro-\nperties of a series of quantities that satisfy the general equa-\ntion of partial fluxions; but whether the developement can\nbe admitted in all cases as a fit instrument for the inves-\ntigation of truth.\n\nSince it has been shown that the developement of $y$, ob-\ntained by the procedure in the second chapter of the third\nbook of the Mecanique Celeste, is the same with the like deve-\nlopement found by immediately transforming the given ex-\npression into a function of three rectangular co-ordinates; it\nis just to say of the former method, that in reality it is nothing\nmore than a particular way of effecting such a transforma-\ntion, while at the same time it gives to the transformed quan-\ntity a certain arrangement. In the process we have followed,\nthere is no need to employ the differential equation that takes\nplace at the surface of the spheroid; and by thus going more\ndirectly to the foundations of the method, we can discern\nmore clearly what goes on under the cover of many compli-\ncated analytical operations. There is an essential distinction\nwith regard to the developement to be observed between the\ntwo cases when the given expression $y$ is explicitly a function\n\n*Mec. Cel. Tom. II. pp. 32, and 33.*\nof three rectangular co-ordinates, and when it must be made to assume the form of such a function by a transformation.\n\nWhen \\( y \\) is an explicit function of three rectangular co-ordinates, these things are true:\n\n1st. The development contains no quantities except what are found in \\( y \\). The two expressions are entirely equivalent, being in reality the same quantities differently arranged.\n\n2dly. When \\( y \\) is a finite expression, the development will consist of a finite number of terms; and when \\( y \\) is a converging series of an infinite number of terms, the development will be a like converging series. For, in the case of a converging series, we may approach to the value of \\( y \\) as near as we please, by taking in a determinate number of the terms; and the development of this portion of the series will likewise consist of a finite number of terms.\n\nOn the other hand, the properties that demand attention are very different, when we suppose that \\( y \\) is not explicitly a function of three rectangular co-ordinates.\n\n1st. The development will always contain an infinite number of terms.\n\n2dly. In most instances; and, more particularly, in the very general example that has been considered above; the terms of the development will involve an infinite number of quantities which do not appear in the original function, and which are introduced merely in order to give the development its peculiar form.\n\nThe original function and the whole infinite series of which the development consists, may be represented by this equation, viz.\n\n\\[\ny = y + M - M :\n\\]\nthe right hand side, which stands in place of the developement, containing all the quantities in \\( y \\), and besides an infinite number of other quantities, denoted by \\( +M \\) and \\( -M \\), which have opposite signs, and destroy one another. But this mutual destruction of the extraneous quantities will take place only when the totality of the series, comprehending its infinite number of terms, is taken into account. Any determinate number of terms of the developement will contain quantities not to be found in \\( y \\); and, for aught that appears, the difference may have any given amount. No finite part of the developement can therefore properly be said to represent the proposed function. If we take a separate term, as \\( Q^{(i)} \\), it is not extravagant to say that it may have nothing in common with the original expression. Nevertheless such a term is a necessary part of the series, in order to balance quantities that occur with opposite signs in other terms.\n\nFor the sake of illustration, suppose a spheroid of revolution determined by this equation, viz.\n\n\\[\nr = a \\left\\{ 1 + e \\mu \\sqrt{1 - \\mu^2} \\right\\};\n\\]\n\n\\( e \\) being a small coefficient, and \\( \\mu \\) the cosine of an arc reckoned from one of the poles of revolution. In such a spheroid the greatest diameters will make an angle of 45° with the equator, resembling the figure which the planet Saturn was, some years ago, supposed to have. In order to develope the variable part of the radius of the spheroid, that is \\( \\mu \\sqrt{1 - \\mu^2} \\), in a series of quantities that satisfy the equation in partial fluxions, it is first necessary to expand \\( \\sqrt{1 - \\mu^2} \\); and the number of terms of the developement will therefore be infinite.\n\nTo the preceding equation let there be added the term\n\nMDCCCXXII.\n\\( f \\mu \\sin \\phi \\); \\( \\phi \\) denoting the variable angle that the circle on which the distance from the pole is reckoned, makes with a circle given by position; and the nature of the spheroid will be thus expressed, viz.\n\n\\[\nr = a \\left\\{ 1 + e \\left( \\mu \\sqrt{1 - \\mu^2} + f \\mu \\sin \\phi \\right) \\right\\}.\n\\]\n\nIn this case the quantity to be developed must be put under this form, viz.\n\n\\[\n\\mu \\sqrt{1 - \\mu^2} + \\frac{f \\mu}{\\sqrt{1 - \\mu^2}} \\sqrt{1 - \\mu^2} \\sin \\phi:\n\\]\n\nand the development will not only consist of an infinite number of terms, but these terms will contain an infinite number of quantities which arise from the expansion of the radical in the denominator, and which are not to be found in the original function.\n\nThere is therefore a real distinction to be made between the two cases when \\( y \\) is an explicit function of three rectangular co-ordinates, and when it is not. A method of calculation which is clear, exact and elegant, when it is confined to the first case, becomes clouded with obscurity, if not merely symbolical, when it is extended to the other case. To say the least, there are certainly great difficulties which are not explained; and if there be any geometers who hesitate, and have doubts, they are not without their excuse, and ought not to be entirely condemned.\n\n2. We come next to consider the differential equation that takes place at the surface of a spheroid. Of this equation, three demonstrations have been published; one, in the second chapter of the third book of the *Mecanique Celeste*; another by the same author, not precisely the same with the former,\n\n* Tom. II. p. 28.\nbut similar to it, in a memoir read to the Academy of Sciences in 1818; and a third by M. Poisson, in an interesting and profound memoir on the distribution of heat in solid bodies. The two last demonstrations are fundamentally the same; but as M. Poisson has stated the reasoning more fully, and fixed the sense of the proof more precisely, I wish to refer to his memoir. One observation it is proper to make, which is, that in the integration by which the differential equation is proved, the function expressing the thickness of the molecule is considered as invariable, or is treated as a constant quantity. It is essential to attend to this remark, which in reality affords the clue necessary to unravel what is mysterious in this investigation.\n\nIn order to acquire a distinct notion of the meaning of the differential equation in the sense in which it is demonstrated, conceive the surface of the earth, perfectly smooth and spherical, to be covered with circles, we shall say, of a thousand yards radius each. The circles may either touch one another and cover the whole surface of the earth; or they may cover it partially only, and with any interruptions that can be imagined: conceive also that a mass of matter, or molecule, is placed within every circle; the thicknesses of the molecules being entirely arbitrary, and subject to no law of variation or restriction whatever, excepting that they are quantities of inconsiderable magnitude when compared with the radius of the sphere. These things being supposed, the differential equation will be separately true of every one of the molecules.\n\nLet now the whole surface of the earth, or any portion of it, be covered with molecules, the thickness varying according\nto a particular law, or being expressed by some function of the arcs that determine the position of a molecule: the differential equation will be true of all these molecules. But it will be equally true of them, if the thickness be entirely arbitrary, and subject to no law of variation. It is true, in reality, of each molecule taken in an insulated manner, and because its thickness is some determinate quantity. How then can such an equation be a fit means of proving that the thickness varies in one way rather than another, or that it comes under a particular development?\n\nTo consider this matter more particularly, let \\( y = f(\\theta, \\phi) \\) denote, as before, the thickness of the molecule; and put,\n\n\\[\ny' = f(\\theta', \\phi'),\n\\]\n\n\\[\n\\rho = \\cos \\theta \\cos \\theta' + \\sin \\theta \\sin \\theta' \\cos (\\phi - \\phi'),\n\\]\n\n\\[\n\\rho = \\sqrt{\\rho^2 - 2ra \\cdot \\gamma + a^2},\n\\]\n\n\\( a \\) being less than \\( r \\): then \\( \\pi \\) denoting the semi-circumference to the radius 1, the differential equation at the surface is what the following formula becomes in the particular case of \\( r = a \\), viz.\n\n\\[\ny = \\frac{r}{4\\pi} \\int \\left\\{ \\frac{1}{\\rho} + 2a \\frac{d}{da} \\right\\} y' \\sin \\theta' d\\theta' d\\phi';\n\\]\n\nor, by substituting the value of \\( \\rho \\),\n\n\\[\ny = \\frac{4}{r\\pi} \\int \\frac{(r^2 - a^2) y' \\sin \\theta' d\\theta' d\\phi'}{(r^2 - 2ra \\gamma + a^2)^{3/2}};\n\\]  \n\n(A)\n\nthe integral being taken between the limits \\( \\theta' = 0, \\phi' = 0 \\) and \\( \\theta' = \\pi, \\phi' = 2\\pi \\), and making \\( a = r \\), after the integration.\n\nNow, when \\( r = a, r^2 - a^2 = 0 \\); and in this case all the elements of the integral are evanescent, unless in the particular circumstances when the denominator is evanescent, or when\nγ = 1; which can happen only when θ' = θ, and φ' = φ. If therefore we suppose \\( r^2 - a^2 \\) to be indefinitely small, the whole value of the integral will be obtained by extending the integration to such values of θ' and φ' as differ indefinitely little from θ and φ. But when θ' and φ' differ indefinitely little from θ and φ, \\( y' \\) or \\( f(θ', φ') \\), will differ indefinitely little from \\( y \\), or \\( f(θ, φ) \\): and hence it follows that, in the whole extent of the integral, we may consider \\( y' \\) as constant and equal to \\( y \\).\n\nWe have therefore to prove the truth of this formula, viz.\n\n\\[\ny = \\frac{yr}{4π} \\int \\int \\frac{(r^2 - a^2) \\sin θ' dθ' dφ'}{(r^2 - 2ray + a^2)^{3/2}},\n\\]\n\nbetween the limits θ' = 0, φ' = 0, and θ' = π, φ' = 2π, in the particular case of \\( a = r \\).\n\nThe two arcs θ, θ' and the arc of which γ is the cosine, are the three sides of a spherical triangle; φ - φ' is the angle opposite to the last arc; and if ψ - ψ' denote the angle opposite to θ', the element of the spherical surface will be equally expressed by \\( \\sin θ' dθ' dφ' \\), or \\( dφ'd \\cos θ \\), and by \\( dψ'dγ \\): wherefore we have to integrate this formula, viz.\n\n\\[\ny = \\frac{yr}{4π} \\int \\int \\frac{(r^2 - a^2) \\cdot dψ'dγ}{(γ^2 - 2ray + a^2)^{3/2}}\n\\]\n\nNow integrate between the limits ψ' = 0 and ψ' = 2π: then\n\n\\[\ny = \\frac{yr}{2} \\int \\frac{(r^2 - a^2) dγ}{(γ^2 - 2ray + a^2)^{3/2}}:\n\\]\n\nintegrate again, and\n\n\\[\ny = \\frac{y}{2a} \\cdot \\frac{r^2 - a^2}{\\sqrt{r^2 - 2ray + a^2}};\n\\]\n\nthen take this integral between the limits γ = + 1, and γ = - 1; and\n\n\\[\ny = \\frac{y}{2a} \\cdot \\left\\{ \\frac{r^2 - a^2}{r-a} - \\frac{r^2 - a^2}{r+a} \\right\\},\n\\]\nwhich equation is true when we make \\( r = a \\). This analysis is equivalent to the demonstration of M. Poisson. Whatever may be thought of the reasoning, it cannot be denied that, in both processes, \\( y' \\) is in fact treated as a constant quantity. The equation is true of each individual molecule taken separately, and merely because its thickness has some determinate value. Such a demonstration cannot therefore be employed to prove that the thickness of a series of molecules covering the surface of a sphere, or a part of that surface, follows a certain law of variation, or comes under a particular development.\n\nBut a legitimate process of reasoning requires that, in the formula (A), while \\( a \\) represents any determinate quantity less than \\( r \\), \\( y' \\) be considered as a function of the variable quantities \\( \\sin \\theta', \\cos \\theta', \\sin \\phi', \\cos \\phi' \\); and likewise that the integration be extended to the whole surface of the sphere, or to that part of it covered with the related molecules; after which the true value of the formula will be obtained by making \\( a = r \\). The whole system of molecules being comprehended in the result, we may thence deduce, by a reverse process, the law according to which their thickness must vary, in order to produce that result. Now the integration here spoken of, cannot be executed, unless in the case when \\( y' \\) is explicitly a function of three rectangular co-ordinates. It is therefore only in this case that the differential equation can be considered as rigorously proved; and it is remarkable, that, when we seek from that equation the developement of \\( y' \\), it always comes out in a function of three rectangular co-ordinates.\n\nWhen \\( y' \\) is not explicitly a function of three rectangular\nco-ordinates, the formula (A) cannot be integrated. And, perhaps, what is now said, is alone sufficient to show that, in this case, some modification takes place, which it were desirable to have fully explained. On attempting to transform $y'$ into an expression containing $\\gamma$, $\\sqrt{1-\\gamma^2}$, $\\sin \\psi'$, $\\cos \\psi'$ in place of $\\cos \\theta'$, $\\sin \\theta'$, $\\sin \\phi'$, $\\cos \\phi'$, the powers of $\\sqrt{1-\\gamma^2}$ make their appearance as divisors; and hence it is to be feared that the integral will be infinite at the limits; which circumstance would make it impossible to conclude with certainty what the value sought will become in the particular case of $a = r$. But it would be of no utility to seek a strict demonstration of the differential equation: because in reality the method, when it is extended to all functions of two variable arcs, is independent of that equation, being derived from this proposition, that every such expression is either explicitly a function of three rectangular co-ordinates, or may be transformed into one. The developement in question may always be found, as has been shown, by the rules of algebra; and the differential equation is wanted neither for proving the possibility of the developement, nor for calculating its terms. But in this plainer way of considering the matter, it appears that the developement does not represent the given expression $y'$, when that expression is not an explicit function of three rectangular co-ordinates, in the same sense that it does when it is such a function. There is, therefore, a difficulty left unexplained; and we may be permitted to doubt, whether so important a part of the celestial mechanics, as that regarding the figure of the planets, rests, with sufficient evidence, on the doctrine laid down concerning the generality of the developement.\nThe observations that have been made, relate only to the foundation of the method in the *Mecanique Celeste*, and do not touch upon the general scope of the analysis, which is deserving of every praise. It is natural to think, that the theory of the figure of the planets would be placed on a firmer basis, if it were deduced directly from the general principles of the case, than when it is made to depend on a nice, and somewhat uncertain point of analysis. To hazard a conjecture suggested in the course of writing this paper, the theory will probably be found to hinge on this proposition, that a spheroid, whether homogeneous or heterogeneous, cannot be in equilibrium by means of a rotatory motion about an axis, and the joint effect of the attraction of its own particles, and of the other bodies of the system, unless its radius be a function of three rectangular co-ordinates. If this proposition were clearly and rigorously demonstrated, the analysis of Laplace, in changing the ground on which it is built, would require little or no alteration in other respects.\n\nDec. 22, 1821.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107676.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 23704,
+    "total-output-tokens": 6733,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1531,
+        2
+      ],
+      [
+        1531,
+        3489,
+        3
+      ],
+      [
+        3489,
+        5216,
+        4
+      ],
+      [
+        5216,
+        6914,
+        5
+      ],
+      [
+        6914,
+        8633,
+        6
+      ],
+      [
+        8633,
+        10216,
+        7
+      ],
+      [
+        10216,
+        12011,
+        8
+      ],
+      [
+        12011,
+        13652,
+        9
+      ],
+      [
+        13652,
+        15379,
+        10
+      ],
+      [
+        15379,
+        17113,
+        11
+      ],
+      [
+        17113,
+        18777,
+        12
+      ],
+      [
+        18777,
+        20558,
+        13
+      ],
+      [
+        20558,
+        22415,
+        14
+      ],
+      [
+        22415,
+        23505,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107676",
+    "title": "On the Expansion in a Series of the Attraction of a Spheroid",
+    "authors": "James Ivory",
+    "year": 1822,
+    "volume": "112",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/107676"
+  }
+}

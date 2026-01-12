@@ -1,0 +1,59 @@
+{
+  "id": "8f794cfbc548c04c3146641dda5a3a9fadd6565c",
+  "text": "XI. An Observation of the Eclipse of the Sun on Jan. 8. 1750. N. S. taken at the Observatory at Berlin, by M. Grischow jun. and M. Kies. Translated from the French.\n\nRead Feb. 15.\n1749-50.\n\nThe Beginning was at $8 \\ 59 \\ 19\\frac{1}{2}$ true Time.\nThe End of the Eclipse at $11 \\ 20 \\ 5\\frac{1}{4}$\n\nThe whole Duration $2 \\ 20 \\ 46$\n\nThe Observations were made with the greatest Exactness, the Weather being as favourable as could be wished, the whole Time.\n\nM. Euler observed in his own House, which stands a little to the West of the S. W. of the Observatory, at the Distance of 190 Rhinland Yards (Verges) in a strait Line, that\n\nThe Beginning was at $8 \\ 58 \\ 30$ true Time.\nAnd the End at $11 \\ 19 \\ 50$\n\nThe whole Duration $2 \\ 21 \\ 0$\n\nThat is, $34''$ more than at the Observatory.\nThe Diameter of the Umbra was $6\\frac{1}{2}$ Rhinland Inches.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104655.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 351,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        849,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104655",
+    "title": "An Observation of the Eclipse of theSun on Jan. 8. 1750. N. S. Taken at the Observatory at Berlin, by M. Grischow Jun. and M. Kies. Translated from the French",
+    "authors": "M. Kies, M. Grischow",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104655"
+  }
+}

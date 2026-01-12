@@ -1,0 +1,59 @@
+{
+  "id": "f0d84a5e207f5e56e606c4aa2c15e06a898f6460",
+  "text": "XXV. Part of a Letter from the Reverend Mr. Timothy Neve, Secretary of the Gentlemen's Society at Peterborough, to Dr. Mortimer, Member of the same Society, and Secr. R. S. concerning the same Aurora Australis.\n\nWe had, on Sunday Night last, March 18. from about half an Hour after Seven, till almost Nine o'Clock, an Aurora Australis, which spread with Variety of Colours all over the Horizon, meeting in a Centre almost vertical, but somewhat inclining to the South. The original Colours were so mixed and blended in the common Centre, as, by the vast Variety easily distinguished, made a beautiful Appearance. The fainter Colours came from the two opposite Points of the North-west and South-east: The Blood-red Crimson, &c. were seen chiefly in the North-east and South-west. The Wind, I think, full North; but very still. The three preceding Days, Thursday, Friday, and Saturday, were excessive cold; the Barometer fell Eight or Nine Degrees, and we had very great Quantities of Snow, Hail, and Rain, most of that Time; and, if I remember right, the Lights in the Air, of late Years, appear after such Storms, especially for Ten Years past, when our Winters have been unseasonably mild, and our Summers cold and rainy. I am, Sir,\n\nYour most obedient humble Servant,\n\nTim. Neve.\n\nXXVI.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104388.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 369,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1289,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104388",
+    "title": "Part of a Letter from the Reverend Mr. Timothy Neve, Secretary of the Gentlemens Society at Peterborough, to Dr. Mortimer, Member of the Same Society, and Secr. R. S. concerning the Same Aurora Australis",
+    "authors": "Timothy Neve",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104388"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "8ccfe57c07c7b47f5a044bde9f42a49f03454edb",
+  "text": "X. A Letter to Sir John Pringle, Bart.\nPr. R. S. on pointed Conductors.\n\nSIR,\n\nRead Dec. 17, 1772. HAVING heard and considered the objections to our Report, concerning the fixing pointed Conductors to the Magazines at Purfleet, contained in a letter from Mr. Wilson to Sir Charles Frederick, and read to the Royal Society, we do hereby acquaint you, that we find no reason to change our opinion, or vary from that Report.\n\nWe have the honour to be,\n\nSIR,\n\nYour most obedient,\n\nhumble servants,\n\nDecember 17, 1772.\n\nH. Cavendish,\nW. Watson,\nB. Franklin,\nJ. Robertson.\n\nXI. Astro-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106138.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 219,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        578,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106138",
+    "title": "A Letter to Sir John Pringle, Bart. Pr. R. S. on Pointed Conductors",
+    "authors": "B. Franklin, W. Watson, H. Cavendish, J. Robertson",
+    "year": 1773,
+    "volume": "63",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106138"
+  }
+}

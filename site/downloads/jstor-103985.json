@@ -1,0 +1,59 @@
+{
+  "id": "35aa01297c6d7866104bd4e5c17a1899ec00312a",
+  "text": "V. Halo observatus Romæ Anno M DCC XXXII.\nDie xi. Augusti à D. Did. de Revillas,\nRegali Societati communicavit Tho. Dereham Bart.\n\nAb horâ antè Meridiem tertia usque ad secundam\npost Meridiem simplex Halo undique terminatus,\n& graphicè circularis, folem in polo ejus existentem\ncingere visus est. Zonæ Latitudo apparentem solis\ndiametrum æquare videbatur. Color intimus ruber,\nreliqui satis diluti, atque iis qui in Iride conspiciuntur\nanalogi, sed in candorem desinentes, & circa Meri-\ndiem aliquomodo immutati. Cœlum quamvis sere-\nnum, tenui caligine inficiebatur, Boreâ lenissimè\nflante. Caligo deindè in albicantes nubeculas den-\nsata, dum Halo evanuit, cujus Diameter ab interno\nZonæ margine dimensa, erat 45 gr.\n\nAltitude Barometri eodem die.\nHora A. M. 4. Digit. Paris 27. ii\nIn Meridie 27. io ½\nHora P. M. 2. 27. io ½\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103985.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 367,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        833,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103985",
+    "title": "Halo Observatus Romae Anno M DCC XXXII. Die XI. Augusti á D. Did. de Revillas, Regali Societati Communicavit Tho. Dereham Bart",
+    "authors": "Tho. Dereham, Did. de Revillas",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103985"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "d9432f4da8024cab17daf100053a9fe5e86e1e71",
+  "text": "IV. Historia Sectionis Viri ex Renum Calculo defuncti. Ex Epistolâ Viri Doctissimi P. Hardisway, M. D. ad Gulielmum Stukeley, M. D. Coll. Med. Lond. & Reg. Soc. Soc.\n\nHomo septuaginta circiter annos natus, ventris dolore horrendo corruptus est die Octobris 19° An. 1722. Accesserunt Vomitus & Urinae difficultas, praecipue doloris atrociâ se erigere non poterat, sed misere incurvatus, dies noctesque prope focum jacebat ejulans. Sexto morbi die, urinâ prorsus suppressâ, de dolorosâ circa Hypochondria stricturâ, perinde ac a funibus circumjectis, querebatur, postea de pondere quodam in vesicâ molesto, quasi Rapi majoris, (sic aiébat) inibi hospitantis. Omnibus in pejus ruentibus, die morbi duodecimo ad plures abiit. Cadavere aperto vesicam secuimus, quam ab ullis vel minimis calculi vestigiis immunem invenimus; in utroque autem rene (multâ aquâ refertis) repertus est calculus, (Fig. 1, 2.) insignis, scaber & multiplice ramo per parenchyma se dispersens, quem integrum extrahere nullâ arte potuisse, nisi totâ prius frustulatim decerptâ carne. Ramorum maximus in ureteris caput se insinuans, perbelle adeo id occupaverat, ut ampulla obturamento suo arctius occludi vix posset. Ulterius scrutari nobis non licuit, ideo unum tantum addam, nempe, quod Omentum instar fasciæ angustioris sub hepate retractum delitescebat. Pauper erat & corpore athletico, semper sanus, nisi quod a paucis annis, aliquando fabulosa per urinas excerneret.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103629.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 585,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1441,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103629",
+    "title": "Historia Sectionis Viri ex Renum Calculo Defuncti. Ex Epistolâ Viri Doctissimi P. Hardisway, M. D. ad Gulielmum Stukeley, M. D. Coll. Med. Lond. & Reg. Soc. Soc.",
+    "authors": "P. Hardisway",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103629"
+  }
+}

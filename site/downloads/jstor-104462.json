@@ -1,0 +1,59 @@
+{
+  "id": "4bbc52692472b1a768e294c7035afe9c34c081c6",
+  "text": "If these Hints meet with your Approbation, I shall think it a sufficient Recompence for the Trouble I have taken; and am, with great Respect,\n\nSIR,\n\nYour most Obedient,\n\nAldersgate-Street, Jan. 26.\n1744.\n\nHumble Servant,\n\nW. Watson.\n\nVIII. Extract of a Letter from Bombay, dated January 23. 1743-4. communicated by Francis Woolaston, Esquire, F. R. S. of a Porcupine swallowed by a Snake.\n\nRead Jan. 31. SOME time ago there was found, on an Island adjacent to this, a large Snake, dead, with a Porcupine in its Belly. Perhaps you may not know, that a Snake always sucks in its Food by degrees. This had seized the Porcupine by the Head; and had so sucked it in. When it was quite in, the Quills, which were flatted down whilst it was going in, rose; ran through the Snake's Belly; and killed it: So that there was a monstrous large Snake dead, with the Quills of a Porcupine sticking out of it in many Places.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104462.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 313,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        909,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104462",
+    "title": "Extract of a Letter from Bombay, Dated January 23. 1743-4. Communicated by Francis Woolaston, Esquire, F. R. S. of a Porcupine Swallowed by a Snake",
+    "authors": "Francis Woolaston",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104462"
+  }
+}

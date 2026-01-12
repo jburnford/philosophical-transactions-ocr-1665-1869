@@ -1,0 +1,59 @@
+{
+  "id": "fedef9f3cbdbd4cb8dffa853a450831caa00a5e0",
+  "text": "ADVERTISEMENT.\n\nThere having been lately Proposed by Subscription, Mr RAT's third and last Vol. of his HISTORY OF PLANTS, whereby that whole Work is compleated, containing more Plants, and Description of new Species, than all the Books yet extant on that subject; many hundreds being communicated from the Streights of Magellan, the Philippine Islands, and several Countries never searched of Plants before. By F. Georgio Camelli and other Virtuosi, who either reside, or have made careful remarks in the respective places; all disposed in an easy method, to be found by their Tribes and Characteristicks; with an account of such parts of them as are either Specifics for some Diseases, as the Peruvian Bark, &c. or are Universal Medicines, as Faba St Ignatij, &c. beside many peculiarities belonging to particular Plants, every where occurring in the Work. The same is already far advanced at the Press, and will be finished about the 25th day of March next, by the Undertakers S A M. SMITH and BENJ. WALFORD, Printers to the Royal Society, at the Prince's Arms in St Paul's Church-yard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102884.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 308,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1088,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102884",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102884"
+  }
+}

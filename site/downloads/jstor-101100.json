@@ -1,0 +1,69 @@
+{
+  "id": "7ecfcfdf9197ee8fc2b7dc6db2691aa60a1f1e3b",
+  "text": "Observations, made by several Astronomers, domestic and foreign,\nof the late Eclipse of the Moon, on Septemb. 8. 1671; here delivered in the Languages, in which they were Communicated.\n\n1. That of Mr. Street was this, in London.\n\nThe Emerion: Altit. of the upper edge of the moon 10° 30' 7° 21'\nThe End of the Eclipse: Alt. of Arcturus— 16° 20' 8° 16'\n\nBy my Tables (faith be) of Astronomia Carolina:\n\n| Time | App. |\n|------|------|\n| The Beginning at | 4° 50' 8\" |\n| Immersion | 5° 47' 4½\" |\n| Middle | 6° 34' 55\" |\n| Emerion | 7° 22' 6\" |\n| End | 8° 19' 42\" |\n\n2. Ann. 1671, d. 8. Sept. circa horam sextam vesper. Luna ascendebat totaliter obscurata sub Elevat. Poli 50°. 15'. Edonice in Comitatu Northamptoniano Angliae.*\n\n* Observante Doctissimo Dr. Palmero, testa Dr. De Bleres, Gallo, presente cum Observatione per ageretur.\n\nCapit emergere ex Umbra, centro Lune alto 9°. 35', five hor. 7°. 18'.\nFinis, alt. vero alto 16°. 30', five ho. 8°. 16'.\n20°: Unde computatur Medium Eclipsei su-iff hor. 6°. 28' 16'.\n\n3. The Learn'd Bullialdus communicated from Paris, about this Eclipse, the following Observations; which, by his favour, we subjoin thus:\n\nEx Epilogismo Calculi Eclipseis Lunae, qua sedula est d. 18 Septembris fl. nov. ex Tab. Philologici;\n\nDatum\n| Datur Uraniburgi T. A. | Parisii. | Latit. Lune verae |\n|------------------------|---------|------------------|\n| Initium                | 5 50 29 | Init.            | 5 10 29 | Initio | 1 13 |\n| Total. obsc.           | 6 50 29 | Tot. obsc.       | 6 10 29 | Fine   | 12 48 |\n| Max. obsc.             | 7 40 18 | Max. obsc.       | 7 0 18  |\n| Vera                   | 7 41 22 | Vera             | 7 1 22  |\n| Emerso                 | 8 30 7  | Emerso           | 7 50 7  |\n| Finis                  | 9 30 7  | Finis            | 8 50 7  |\n\nObservatus est Parisii\n\nFinis, alto Arcturo ad Occasum\n\nAblata refractio, alto\n\nHinc datur finis observatus\n\nFinis Penumbra alto Arcturo\n\nCorrett.\n\nUnde datur\n\nCoelum ergo anticipavit Tabularum calculum\n\nHeckerus in Ephemeridibus ponit sinem ex Rudolphinis,\n\nUraniburgi T. A.\n\nFuisset Parisii\n\nCoelum ergo anticipavit Calc. Rudolph.\n\nObservata est Mæotis tota extra Umbra\n\nAlto Arcturo\n\nCorrett.\n\nExivit Luna ex umbra e regione Petre Sogdiane Hevelii.\n\nEx Epilogismo juxta Tab. Britannicas Clarissimi Viri Vincent. Wingi,\n\nDatur Londini T. A.\n\nTabula Britannica anticipat Coelum 13 55.\n\nLuna Oriens tota sub Umbra fit, nec nubibus obstantibus videri potuit.\n\nIntra nubes subinde visa est tota sub umbra, antequam ex hac emergeret.\n\nSo far Monsieur Bullialdis. Hoping, there will shortly come to hand the Observation, touching the same Eclipse, of some other Astronomers both English, and Forrainers, and these of Paris, Uraniburg, Danzick, &c. we shall not fail, God permitting, to publish them hereafter.\n\nR r r 2",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101100.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1106,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1263,
+        2
+      ],
+      [
+        1263,
+        2821,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101100",
+    "title": "Observations, Made by Several Astronomers, Domestic and Forrain, of the Late Eclipse of the Moon, on Septemb. 8. 1671; Here Delivered in the Languages, in Which they Were Communicated",
+    "authors": null,
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101100"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "5ae67c8bad64741328877f9e66ad371d4f099165",
+  "text": "which are well worth the considering; and it may be justly said, that so many and so Valuable Philosophical Truths, as are herein discovered and put past Dispute, were never yet owing to the Capacity and Industry of any one Man.\n\nADVERTISEMENT;\n\nWhereas the Publication of these Transactions has for some Months last past been interrupted; The Reader is desired to take notice that the care of the Edition of this Book of Mr. Newton having lain wholly upon the Publisher (wherein he conceives he hath been more serviceable to the Commonwealth of Learning) and for some other pressing reasons, they could not be got ready in due time; but now they will again be continued as formerly, and come out regularly, either of three sheets, or five with a Cutt; according as Materials shall occur.\n\nLONDON,\n\nPrinted by J. Streater, and are to be sold by Samuel Smith at the Princes Arms in St. Paul's Church-yard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101885.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 257,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        904,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101885",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101885"
+  }
+}

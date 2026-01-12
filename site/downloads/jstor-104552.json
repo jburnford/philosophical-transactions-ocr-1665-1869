@@ -1,0 +1,79 @@
+{
+  "id": "a99c8c3fa29e0a87eb3c6788c37c213261dd20df",
+  "text": "Sir, if any further Account of the above will be acceptable to you, or the Royal Society, if you please to command I will wait on you. There are Alterations in my Machine I think for the better; and some new Experiments too long to write, fearing it would be too troublesome; from\n\nYour humble and obedient Servant,\n\nR. Roche.\n\nX. A Letter from John Huxham M. D. F. R. S. to C. Mortimer Secr. R. S. concerning a Child born with an extraordinary Tumour near the Anus, containing some Rudiments of an Embryo in it.\n\nDear Sir,\n\nRead May 19. 1748.\n\nThe following Case was lately communicated to me by Mr. Alexander Wills, an experienced and ingenious Surgeon and Man-Midwife, of Kingsbridge. It seems to have something particular and remarkable. If you think so (on Perusal) you may be so good as to lay it before the Royal Society. I am,\n\nSIR,\n\nPlimouth, Dec. 12. 1746.\n\nYour much obliged, and most obedient humble Servant,\n\nJ. Huxham.\n\"John Perrine's Wife, of Charleton Parish, in this County, a brisk active young Woman (he very infirm and consumptive) was deliver'd of a Daughter at full Time, July 11, 1746. The Child was perfect, as to all its Limbs, Head, Body, &c. but from the Region over the Os sacrum, Glutæi Muscles, and between the Thighs, quite home to the Pudendum, was growing a very large Substance, which the Midwife and others call'd a Wen, in Shape very like the Ventricles of a Sheep, and seem'd, as to its Colour and outward Appearance, a Continuation of the same Skin with the rest of the Body, but very full of Blood-vessels. It hung down behind below the Heels, and was bigger than the whole Body of the Child itself. It felt very soft, and seem'd to have Matter fluctuate in it; but in the middle of the Whole was evidently felt a hard Substance.\n\nThe Pudendum as well as Anus were in all respects natural, and both Urine and Stool were regularly discharg'd; but the Anus was placed much more forward, and immediately under the Pudendum; so that the Faeces were discharged in the same Direction with that of the Urine.\n\nI made a Puncture in the depending Part of the Tumour, and drew off near two Quarts of a palish red Water, without any Smell. The Orifice being left open, there was a continual Issue of the same kind of Water for several Days; but by degrees it became more and more glutinous, and at length whitish like Pus, and very fetid. As\n\"the Discharge was great, the Child grew weaker\nand weaker, and at the End of 15 Days died.\n\n\"The next Day I open'd the Tumour, and found,\nnear the Os Coccygis, an Abscess within a Cystis,\nin which were four Ounces at least of white\nPus prodigiously stinking; and, on further Exa-\nmination, found several cartilaginous Joints, as it\nwere, somewhat resembling the Tail of a Sheep,\ncontinued from the Point of the Os Coccygis.\nThese were about two Inches long, and envelop'd\nwith a kind of fleshy Substance cover'd with a\nsort of Fat: These, when cut thro', appear'd ex-\nactly like the inner Part of Lamb-Stones. From\nthose depended a Substance like the Head and Neck\nof an Embryo, as big as a large Egg, which, on\nopening, contained somewhat resembling Brain,\nand a kind of a Cerebellum in the back Part:\nIt had a Mouth and Tongue on one Side of the\nFace (if it might be so call'd) but no Appear-\nance of Eyes or Nose; however there was an\nEar pretty evident.\n\n\"In the large Tumour there hung a kind of\nloose Membrane, which perhaps might be Part\nof a Secundine.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104552.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1025,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        933,
+        2
+      ],
+      [
+        933,
+        2370,
+        3
+      ],
+      [
+        2370,
+        3432,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104552",
+    "title": "A Letter from John Huxham M. D. F. R. S. to C. Mortimer Secr. R. S. concerning a Child Born with an Extraordinary Tumour Near the Anus, Containing Some Rudiments of an Embryo in It",
+    "authors": "John Huxham",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104552"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "aab72da3e95e45a46f5e712606aa98f1204e53ee",
+  "text": "ADDENDA, p. 235.\n\nThe Oenanthe of Lobel is called in English Wild Parsley, by Gerard, p. 1020. and Hemlock Dropwort, p. 1059.\n\nThe Cicuta aquatica of Wepfer is called in English Long-leav'd Water-Cresses, by Gerard, p. 256. very injudiciously; and Water Parsneppe with narrow Leaves by Parkinson, p. 1241, but much better named by Mr. Ray Long-leav'd Water Hemlock.\n\nERRATA.\n\nIn No. 479. in the Contents, Art. VII. for Cock read Cook; item p. 146. Ibid. p. 132, l. 19, for the Altitude read the Sun's Altitude. Ibid. l. ult. for 5 read $\\frac{5}{8}$.\n\nIn this No. p. 183, l. penult. for Tab. II. read Tab. I.\n\nIbid. p. 235, l. 26, Ger. emac. for 1057 read 1059.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104815.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 322,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        661,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104815",
+    "title": "Errata",
+    "authors": null,
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104815"
+  }
+}

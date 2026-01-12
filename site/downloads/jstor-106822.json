@@ -1,0 +1,59 @@
+{
+  "id": "0261b2cb5fe5dbe57454f2abd9fb1193390e51df",
+  "text": "THE PRESIDENT and COUNCIL of the Royal Society adjudged, for the Year 1789, the Medal on Sir Godfrey Copley's Donation to Mr. William Morgan, for his Two Papers on the Values of Reversions and Survivorships, printed in the two last Volumes of the Philosophical Transactions.\n\nERRATA.\n\nP. 43. The title of this Paper should stand thus: \"Extract of a Letter from the Rev. F. J. H. Wollaston, M. A. F. R. S. (dated Sydney College, Cambridge, Feb. 24, 1784.) to the Rev. Francis Wollaston, LL.B., F. R. S. containing the Observation of a luminous Arch.\"\n\nP. 93, l. last, Insert \"I\" before \"saw.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106822.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 242,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        591,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106822",
+    "title": "Errata",
+    "authors": null,
+    "year": 1790,
+    "volume": "80",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106822"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "c5fe9f281d63ed11e12b37660b594fb6d70e5738",
+  "text": "had a just and full number of prompt disciples all over England, which would offer no worse sacrifice upon our publick Altars, then Hony and Wax, the good example of Piety, Devotion, Arts and Industry.\n\nAn Extract of a Latin Letter, written by the learned Signior Malpighi to the Publisher, concerning some Anatomical Observations, about the Structure of the Lungs of Froggs, Tortoises, &c. and perfecter Animals; as also the Texture of the Spleen, &c.\n\nDesideratissimus de Respiratione Doctissimi Thrustoni libellus tandem ad meas devenit manus; ubi propugnatum vidi meam, de Pulmonum substantia*, sententiam. Quapropter Te anxie rogo, ut ipsi meo nomine officiosam dicas salutem, plurimasque eidem gratias agas pro spontanea & honorifica meorum dictorum tutela.\n\nMiratus sum valde, Animadversionum Authori in Testudinum, Lacertarum & Ranarum Sectionibus non occurrisse Commerciun inter Bronchia, & Pulmones, quos Vesiculas, à laxitate exterioris Pulmonum membranae obortas, vocat; cum sane immisso in Tracheam fistula, simul insufflato Aere, Pulmones eadem Trachea appensi, hinc inde circa Cor turgant; quod & ad libitum animalis frequenter accidit: Hi etiam, dum Aere turgent, si filo innodentur ut ficce seant, scilicet patenter oculis Cellulas & Vesiculas, evidenter membranecas, exhibent. Et licet in Ranis brevis sit Bronchiorum processus, à Larynge tamen bini ductus, semi-circularibus aliquot annulis conflati, in membranecas vesiculas hiant, atque ita succedit Inspiratio & Exspiratio. At in Testudine, Lacerti & similibus, oblonga Trachea in binos subdivisa ramos, Aerem pulmonariibus Vesiculis subministrat. Scio, in Ranis, propè os, hinc inde binas interdum turgentes erumpere vesiculas (procul tamen à Pulmonibus,) quae buccae sunt Appendices, & Aere interdum, à pulmonibus in oris cavitatem Expiratione propulso, foras exilire.\n\nCirca\nCirca exaratos Pulmones reticularem Musculum locari scias, cujus carneos plexus, sinus, & vesiculas ambientes alia ru-\nditer delineavi. Hujus mirabilis contextus patet in Ranis, & La-\ncertis praecipue; nam multisplices carnei lacerti per longum pro-\nducuntur, & transversaliter elongatis fibris invicem continuan-\ntur; intermediae vero areae reticularibus carneis plexibus ulteriùs occupantur, non absimili ritu ac in Arborum foliis accidit:\nRetis autem narrata hæc minora spatia rectis postremo fibris,\nquasi brevibus tendinibus, pervaduntur. Mirabilis hic Musculus\nnon exteriorem tantum Pulmonum ambit regionem, sed interiores\nquæcunque vesiculas & sinus circumdat, ita ut suos motus singulas\npulmonis partes comprimendo, Expirationem Sonumque promo-\nveat. Hæc eadem structura in pulmonibus Perfectorum animali-\num proportionaliter observatur, & in Agnorum extremis praecipue lobulis, Aere turgidis, & adhuc mollibus, patet.\n\nHujus occasione communicandum Tibi duxi, Lienis fibras,\nquæ tot ingentia torsere, nequaquam nerveas (quod & aliquan-\ndo ipse autumavi) sed carneas esse, ita ut ex carneo exteriori in-\nvolucro, & productis transversaliter fibris, mirabilis fiat Mus-\nculus, Lienis cellularis comprimens, quo sanguis per Splenicum ra-\nrum propellatur non absimili structura ac ritu, qualis in grandis\noribus Cordis auriculis observatur: Carnei etenim lacerti, per\ntransversum ducti, quarum fibrarum implicazione Rete effor-\nmant, membranæ cellularis comprimens, susque extremis finibus,\nmirabiliter productis, carneum involucrum constituent.\n\nParum absimili structura Equinos praecipue Testes Natu-\nra ditavit; interior quippe ipsorum tunica Carneas fibras, seu\nextensum musculum in sui meditullo, una cum varicosis vasis\ncontinet, quæ diversas inclinationes, ut in Liene habentes, per\ntransversum productæ, & reticulariter implicitæ, Intestinorum\ncongeriem firmant & compriment. Pauca hæc & inordinata in\nmei amoris & obsequii testimonium habeas, precor. Vale, Dabam\nBononiæ die 20. Februarii 1671.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101065.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1302,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1850,
+        2
+      ],
+      [
+        1850,
+        3858,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101065",
+    "title": "An Extract of a Latin Letter, Written by the Learned Signior Malpighi to the Publisher, Concerning Some Anatomical Observations, about the Structure of the Lungs of Froggs, Tortoises, & c. and Perfecter Animals; As Also the Texture of the Spleen, & c.",
+    "authors": "Signior Malpighi",
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101065"
+  }
+}

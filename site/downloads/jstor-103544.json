@@ -1,0 +1,79 @@
+{
+  "id": "8a913834184cea67f87d29fea330834d7d74cff9",
+  "text": "Youth, declines, these Distempers do often decrease, and at last wear out of themselves: Which shews what Assurances Art ought to contribute, to bring about the same Effect in a less Time.\n\nI must here own my Omission to open the Stomach and Guts, in order to view the State of their Contents, where the Gall was entirely wanting, which might have given some Light to this Observation. This Omission happened through some Hurry at the Time, which I regret; but am apt to believe, that as most of his Aliments were Liquids, the Alterations would not have been very conspicuous or obvious to the Sight. And I hope it will not be impracticable to make some Experiments on live Animals for this Purpose, with more Care and Attention, for supplying what may have been defective in this Observation.\n\nIII. Observatio Lunaris Eclipseos, Ulissipone habita die 2 Februarii, An. 1730, N. S. in Collegio Divi Antonii magni à Rev. P. Joanne Baptista Carbone, Soc. Jes. Ex ejusdem Cl. Viri Epistola ad Jacobum de Castro Sarmento, M. D. Coll. Med. Lond. Lic. & R. S. S.\n\nTemp. Ver. P. M.\nH. \" \"\n13 25 o Incipit penumbra sensibilis.\n40 o Fit spissior.\n58 o Fit spississima.\n\nDubi-\nTemp. Ver. P. M.\n\nH. ' \"'\n\n14 3 45 Dubitatur de Eclipse initio.\n4 32 Nunc certo incipere videtur.\n6 0 Jam discus Lunæ apparet deficiens.\n9 47 Umbra attingit plagam Borealem Terræ Pruinæ.\n10 25 Pervenit ad Harpalum.\n11 6 Medium Harpali tenet.\n16 15 Attingit Litus Boreale Sinus Iridum.\n18 34 Heraclides totus tegitur.\n22 38 Plato incipit.\n23 50 Medius Plato latet.\n24 54 Totus Plato obumbratur.\n29 40 Umbra ad Aristarchum.\n31 55 Ad medium Aristarchi.\n33 42 Totum Aristarchum occulit.\n34 55 Aristoteles obumbrari incipit.\n36 24 Medius Aristoteles tegitur.\n37 49 Aristoteles totus in umbra.\n39 9 Eudoxus totus.\n43 57 Umbra attingit Endymionem, & Aristillum simul.\n44 53 Medius Endymion, & totus Aristillus latet.\n45 48 Endymion totus.\n48 27 Timocharis totus; umbra pervenit ad Litus maris Serenitatis.\n55 50 Ad Lacum Somniorum.\n56 30 Aristarchus incipit emergere.\n58 20 Medius Aristarchus extra umbram.\n15 0 34 Aristarchus totus emergit.\n4 25 Posidonius incipit obumbrari.\n\nLacus\nTemp. Ver. P. M.\n\nH. 11\n\n15 11 35 Lacus Somniorum totus, & dimidium Posidonii occultatur.\n\n13 12 Timocharis incipit emergere.\n\n16 5 Timocharis emergit totus; & totus Posidonius occultatur.\n\n27 54 Archimedes totus extra umbram.\n\n30 49 Posidonius incipit emergere.\n\n32 58 Heraclides totus.\n\n34 3 Posidonius totus.\n\n40 46 Harpalus totus.\n\n46 21 Platonis initium.\n\n47 16 Platonis medium.\n\n48 33 Plato totus extra umbram.\n\n50 55 Lacus mortis totus.\n\n52 37 Aristoteles incipit emergere.\n\n54 29 Aristoteles medius extra umbram.\n\n56 58 Aristoteles totus.\n\n16 1 48 Endymionis initium.\n\n3 14 Endymion totus.\n\n4 0 Finis Eclipsis.\n\nDuratio Eclipsis 4 H. 59' 28\"\n\nMedium Eclipsis 15 H. 4' 16\"\n\nQuantitas Digit. 3 Min. 20. ad Boream.\n\nIV. Ob",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103544.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1166,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1166,
+        2
+      ],
+      [
+        1166,
+        2143,
+        3
+      ],
+      [
+        2143,
+        2870,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103544",
+    "title": "Observatio Lunaris Eclipseos, Ulïssipone Habita Die 2 Februarii, An. 1730, N. S. in Collegio Divi Antonii Magni à Rev. P. Joanne Baptista Carbone, Soc. Jes. Ex Ejusdem Cl. Viri Epistola ad Jacobum. De Castro Sarmento, M. D. Coll. Med. Lond. Lic. & R. S. S.",
+    "authors": "P. Joanne Baptista Carbone",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103544"
+  }
+}

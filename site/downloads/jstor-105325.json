@@ -1,0 +1,69 @@
+{
+  "id": "a3980d7cc550ab065404c5003b10af1dce936c7c",
+  "text": "C. An Account of an extraordinary Storm of Hail in Virginia. By Francis Fauquier, Esq; Lieutenant Governor of Virginia, and F. R. S. Communicated by William Fauquier, Esq; F. R. S.\n\nTo the Rev. Tho. Birch, D. D. Secret. R. S.\n\nSIR,\n\nRead Nov. 9, 1758. In a letter I received from my brother, the lieutenant governor of Virginia, he gives an account of a very remarkable storm of hail; which, if you think it worth communicating to the Society, is very much at their service.\n\nIt happened on Sunday the 9th of July, about four o’clock in the afternoon, and was preceded by some thunder and lightning. It was a small cloud, that did not seem to threaten much before its breaking, and did not extend a full mile in breadth. It passed over the middle of the town of Williamsburgh, and the skirts of the town had but little of it. Its course was from N. by W. to S. by E. The hailstones, or rather pieces of ice, were most of them of an oblong square form; many of them an inch and half long, and about three fourths of an inch wide and deep; and from one side of most of them there proceeded sharp spikes, protuberant at least half an inch. He says he cooled his wine, and froze cream, with some of them the next day; and they were not totally dissolved when he went to bed on Monday.\nMonday night. This storm broke every pane of glass on the north side his house, and destroyed all his garden things entirely.\n\nHe mentions likewise the heats to have been rather more than usual in that country this summer; and particularly on the 9th of August his thermometer (which is hung on the outside of his house on the north aspect) was at 97, by Fahrenheit's graduation, and some other days as high as 94 or 95. I am,\n\nSIR,\n\nYour most obedient humble Servant,\n\nJermyn street,\n18 October, 1758.\n\nWm. Fauquier.\n\nCI. An Account of an extraordinary Case of a diseased Eye: In a Letter to Matthew Maty, M.D. F.R.S. By Daniel Peter Layard, M.D. F.R.S.\n\nDear Sir, Huntingdon, 20th May, 1758.\n\nRead Nov. 9. In October 1755. I communicated to you, and you inserted in the last volume of your Journal Britannique, the case of Susannah Earle, of Hemmingford-Grey in this County, who, in consequence of the whooping cough, was afflicted with a protruded eye. The case I now send you, somewhat similar to that young girl's in its first appearance and progress, but by accident attended with a second disease, will perhaps deserve your attention.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105325.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 711,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1281,
+        2
+      ],
+      [
+        1281,
+        2422,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105325",
+    "title": "An Account of an Extraordinary Storm of Hail in Virginia. By Francis Fauquier, Esq; Lieutenant Governor of Virginia, and F. R. S. Communicated by William Fauquier, Esq; F. R. S.",
+    "authors": "William Fauquier, Francis Fauquier",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105325"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "fb4d1b2f49e6f7a65047a5a5cc536d4302dd468f",
+  "text": "XLIX. A short Account of the Observations of the late Transit of Venus, made in California, by Order of his Catholic Majesty; communicated by his Excellency Prince Masserano, Ambassador from the Spanish Court, and F. R. S.\n\nRead Nov. 22, 1770. DON Vincent-Doz, Commander of a Spanish frigate, is just arrived at Madrid. He brought with him, and presented to the King, an account of his observation of the last Transit of Venus at California, whither he was sent last year for that purpose, being in substance as follows:\n\nThe latitude of the Village of St. Joseph, eight leagues distant from Cape St. Lucar\n\n\\[\n\\begin{align*}\n\\text{a} & \\quad / \\quad 12 \\\\\n23 & \\quad 5 \\quad 15\n\\end{align*}\n\\]\n\nThe longitude from the meridian of Paris\n\n\\[\n\\begin{align*}\n\\text{b} & \\quad / \\quad 11 \\\\\n7 & \\quad 28 \\quad 17\\frac{1}{2}\n\\end{align*}\n\\]\n\nThe two internal contacts of the Planets were at\n\n\\[\n\\begin{align*}\n\\text{o} & \\quad 17 \\quad 25 \\\\\n5 & \\quad 54 \\quad 44\\frac{1}{2}\n\\end{align*}\n\\]\n\nHence, on the computation of Mons. Pingré, in his Memoir of the year 1767, the solar Parallax is\n\n\\[\n\\begin{align*}\n\\text{o} & \\quad o \\quad 8\\frac{1}{4}\n\\end{align*}\n\\]\n\nAnd\nAnd the distance of the Sun from the Earth is greater than it was supposed to be $\\frac{7}{3}$, or nearly 6,685,000 leagues.\n\nThe corresponding observations will be necessary to resolve the problem more completely.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105921.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 522,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1162,
+        2
+      ],
+      [
+        1162,
+        1376,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105921",
+    "title": "A Short Account of the Observations of the Late Transit of Venus, Made in California, by Order of His Catholic Majesty; Communicated by His Excellency Prince Masserano, Ambassador from the Spanish Court, and F. R. S.",
+    "authors": "Prince Masserano",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105921"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "b1ad14b4d3f0c76ff334c76af1e9cf12b7baab36",
+  "text": "XXXV. A Letter upon the same Subject from the Rev. Richard Pococke, LL.D. Arch-deacon of Dublin, to the Rev. Tho. Birch, D.D. Secr. R.S.\n\nDear Sir,\n\nDublin, June 18, 1753.\n\nI Received the favour of your obliging letter; and I return my hearty thanks to the Royal Society for their kind reception of the observations, which I sent them on the Giant's Causeway. I am sensible, that it is difficult to make any suppositions on such a subject, that may not be liable to some objections; but I shall be very glad, if mine put any one upon making more happy conjectures.\n\nThis day Mr. Drury brought me two maps of the Causeway (see Tab. XI.), one a view from the top of the cliff, and the measures as he pac'd; the other from my measures by a line; in which the letters answer to those in the engraving after his sister's drawing. I have sent them to you, as Mr. Folkes some time ago desired to know how far the Causeway extended into the sea.\n\nI have also sent you four drawings by Mr. Drury, of two curious stones, which I brought to Dublin.\n\nI am,\n\nDear Sir,\n\nYour most obedient humble servant,\n\nRichard Pococke.\n\nXXXVI.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105149.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6778,
+    "total-output-tokens": 409,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1118,
+        2
+      ],
+      [
+        1118,
+        1118,
+        3
+      ],
+      [
+        1118,
+        1118,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105149",
+    "title": "A Letter upon the Same Subject from the Rev. Richard Pococke, LL.D. Archdeacon of Dublin, to the Rev. Tho. Birch, D. D. Secr. R. S.",
+    "authors": "Richard Pococke",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105149"
+  }
+}

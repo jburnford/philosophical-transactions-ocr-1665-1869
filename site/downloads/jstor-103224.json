@@ -1,0 +1,79 @@
+{
+  "id": "50b304a2f52461d77a2951449df1aa2315f5d5da",
+  "text": "Inhabited. It's likely that the Danes first, and then the English destroyed the People; and the old Woods seem to those that pretend to judge, to be about three or four hundred years standing, which was near the time that Courcey and the English subdued the North of Ireland, and 'tis likely made havock of the People that remained after the Danes were beat out of Ireland.\n\nIV. De Linearum Curvarum Longitudine\nAuthore Jo. Craig.\n\nLEMMA.\n\nDuorum Quadratorum summam in alia duo Quadrata dividere.\n\nSint $dz^2$, $ds^2$ duo Quadrata data, quorum summa $dz^2 + ds^2$ dividenda est in alia duo Quadrata $dx^2$, $dy^2$; sintque $m$, & $n$ duo quilibet numeri ad arbitrium sumendi. Jam ex conditione Problematis est $dx^2 + dy^2 = dz^2 + ds^2$, unde (ut ex Diophanto constat)\n\n$$dx = \\frac{mm - nn \\times dz + 2mn ds}{mm + nn},$$\n\n$$dy = \\frac{nn - mm \\times ds + 2mn dz}{mm + nn}.$$ Q. E. J.\n\nPRO-\nPROBLEMA.\n\nCurvas innumeras invenire, que sint ejusdem Longitudinis cum Curva quavis proposta, sive Algebraica sive Transcendente.\n\nDesignent \\( z \\), \\( s \\) Coordinatas Curvae propostae; \\( x \\), \\( y \\) Coordinatas Curvae quaestae, quae ejusdem sit longitudinis cum proposta; Unde ex Curvarum Elementis \\( dx^2 + dy^2 = dz^2 + ds^2 \\), Ideoque per Lemma praecedens\n\n\\[\ndx = \\frac{mm - nn \\times dz + 2mn \\times ds}{mm + nn},\n\\]\n\n\\[\ndy = \\frac{nn - mm \\times ds + 2mn \\times dz}{mm + nn};\n\\]\n\nQuarum integrales sunt\n\n\\[\nx = \\frac{m^2 - n^2 \\times z + 2mn \\times s}{mm + nn},\n\\]\n\n\\[\ny = \\frac{n^2 - m^2 \\times s + 2mn \\times z}{mm + nn}.\n\\]\n\nEt sic innotescunt Coordinatae \\( x \\), \\( y \\) unius ex Curvis quaestis; similiter ex hac una invenietur secunda, ex secundâ tertia, & sic porro innumeræ invenientur . . .\n\n\\( \\mathcal{Q} \\). E. f.\n\nExempla jam non addo, nam postea (Deo volente) opportunior dabitur locus, in quo Methodus hæc ad plura hujusmodi Problemata extendetur, & Solutio Problematis hujus\nhujus per Exempla illustrabitur. Et quidem hanc Solutionem semel iterumque tam apertè indicavi, ut facillime à quovis in his versato deduci possit ex iis, quæ subjunguntur Solutioni Casus specialis hujus Problematis, in quo scit. Curva proposita est Algebraica, quamque exhibui in Actis Phil. R. S. Jan. 1704, ut Clarissimo Problematis propositori D. Jo. Bernoulli constaret illius Solutionem è Methodis Calculi differentialis inversis maximè tritis posse obtineri, utpote qui in privatis suis ad D. Cheynæum Litteris significabat eandem non posse exhiberi per Theoremata nostra in Actis Phil. R. S. Mart. 1703. publicata. Et quoniam ex Actis Erud. Aug. 1705. percipio solutionem illam (quæ scopo praedicto satis superque satisfaciebat) Doctissimo Viro non arridere, ideo modo praemissam Solutionem nulli objectioni obnoxiam publici juris facio. Necesse itaque est ut Clariff. Bernoulli agnoscat vix ullum dari Problema, cujus Solutio ex Calculo Integrali facilius deducitur, quam sui de Transformatione Curvarum.\n\nQuæ verò in ipsius Bernoulli Solutione disiplicent paucis enarrabo. Et Primo, Quod ad Curvas tantum Algebraicas eandein extenderit. Secundo, Qnod Mechanica tantum sit, à Motu (ut vocat) Reptorio tota dependens. Immortali quidem honore dignus est Hugenius ob inventionum Evolutionis Motum, quia & ipse & post ipsum alii plurima egregia Theoremata Geometricè exinde deduxerunt. Sed nec Motus Leibnitii Tractionis, nec Bernoulli Motus reptorius cum Hugenii Motu evolutionis comparabuntur, donec cum Hugenio celeberrimi viri Curvas per Motus suos genitas ad leges Geometricas revocaverint quod cum neuter eorum præstiterit, ideo Problematum Solutiones dependentes à Curvis per Motus suos genitis inter Mechanicas solum annumerari possunt.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103224.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1327,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        893,
+        2
+      ],
+      [
+        893,
+        1900,
+        3
+      ],
+      [
+        1900,
+        3649,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103224",
+    "title": "De Linearum Curvarum Longitudine Authore Jo. Craig",
+    "authors": "Jo. Craig",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103224"
+  }
+}

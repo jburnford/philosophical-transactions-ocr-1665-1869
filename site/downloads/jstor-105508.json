@@ -1,0 +1,99 @@
+{
+  "id": "2f96af7d86a7ea6d32c041681f3a9ad3d8a9002c",
+  "text": "XXXV. A Letter from John Ellis, Esq; F. R. S. to the President, on the Coluber Ceraastes, or Horned Viper of Egypt.\n\nMy Lord,\n\nRead Dec. 11, 1766.\n\nThe Coluber ceraastes, or horned viper of Egypt, which I have the honour to present a specimen of to this illustrious Society, I am informed, is very rare, and scarce to be found in any of the cabinets of natural curiosities in Europe. Besides, the authors who have treated on the Ceraastes, as Alpinus and Bellonius, have given such unsatisfactory descriptions of it, and inaccurate figures, that I thought an exact drawing from nature, together with the best and latest systematical account of it, would be agreeable, as well to the lovers of antiquity as natural history.\n\nThe ancient Egyptians most certainly esteemed it a hieroglyphic of some importance; for when we examine their monuments of the greatest antiquity, such as their obelisks, temples, statues, palaces, and even their mummies, we are almost sure to find many representations of it on them. Those two immensely large stones, lately brought from Alexandria, in Egypt, now in the court-yard of the British Museum, which appear to be part of the grand cornice of some magnificent palace, have many figures of the Ceraastes curiously engraved upon them.\n\nDr.\nDr. Hasselquist, a pupil of the celebrated Linnæus, who was in Egypt in 1750, has given us a particular description of this curious animal; but neither he nor the former writers on Egypt, that mention the Ceraastes, say any thing about the venom of its bite. This we are informed of only by Dr. Turnbull, who lived many years in Egypt, both at Alexandria and Cairo, and who was so kind to present me with two specimens of it.\n\nDr. Linnæus, in his System of Nature, p. 217, calls it Coluber cerastes.\n\nDr. Hasselquist, in his Iter. p. 315, Coluber cornutus; the following is an extract from his description.\n\nThe head, between the horns, is much depressed; the cheeks are swelled out, so that the hinder part of the head is considerably thicker than the neck; the snout is short and blunt; the outward front of the upper and under jaws have a small cavity, or depression, in both; the nostrils project like those of a pug dog.\n\nThe eyes have a perpendicular narrow and black pupil; the iris is of a yellowish grey colour; the orbits of the eyes are neatly set round with small hemispherical scales.\n\nThe tongue is divided at the extremity into two parts.\nThe teeth. In the upper jaw there are no teeth, but two bones placed lengthways in the palate; in them are fixed several small teeth, generally about ten: they sharp, of an equal length, and bend a little towards the throat. On the sides of the under jaw, near the snout, are placed three or four teeth; but none quite in the fore part or hinder part.\n\nThe horns. Just above the eyes, near the upper part of their orbit, are two tentacula, which we call horns, about a quarter of an inch long; they are not straight, but bend a little outwards; they are channelled lengthways, sharp-pointed, but not very hard; their basis is surrounded with a circle of small erect scales.\n\nThe body is narrow towards the neck; the diameter of the thickest part of the middle about one inch; the tail grows suddenly taper, and ends in a sharp point.\n\nThe colour. The top of the head, the back, and upper part of the tail, are variegated with large irregular spots, of a bright ochry colour, or reddish brown; the throat, belly, and under part of the tail, are whitish.\n\nThe length of this specimen (see Tab. XIV.) is as follows; from the nose to the anus 22 1/4 inches,\ninches, the tail $3 \\frac{1}{4}$ inches; so that the whole serpent is 26 inches long.\n\nThe Belly is covered with 145 broad scales, or scuta; the tail with 43 pair of small scales, or squamæ.\n\nThe number of squamæ and scuta have been thought by late authors to be the best method of determining the species of serpents; but they are not ignorant that they differ a few now and then: Hasselquist reckoning 150 scuta, and 50 pair of squamæ, to his Coluber cornutus.\n\nI am, my Lord,\n\nyour Lordship's\n\nmost obedient humble servant,\n\nTo the Right Hon. the Earl of Morton,\nPresident of the Royal Society.\n\nJohn Ellis.\n\nXXXVI. Ab-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105508.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 8856,
+    "total-output-tokens": 1218,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1273,
+        2
+      ],
+      [
+        1273,
+        2427,
+        3
+      ],
+      [
+        2427,
+        2427,
+        4
+      ],
+      [
+        2427,
+        3581,
+        5
+      ],
+      [
+        3581,
+        4203,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105508",
+    "title": "A Letter from John Ellis, Esq; F. R. S. to the President, on the Coluber Cerastes, or Horned Viper of Egypt",
+    "authors": "John Ellis",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/105508"
+  }
+}

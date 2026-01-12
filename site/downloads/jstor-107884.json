@@ -1,0 +1,59 @@
+{
+  "id": "40cd24d4da84b619e3ab85b26f2366d23b1c649d",
+  "text": "INDEX.\n\nW\n\nWheat Starch, composition of, p. 376.\nWoodhouse, Robert, A. M. on the derangements of certain transit instruments by the effects of temperature, p. 144.\n\nY\n\nYarrell, William, Esq. on the change in the plumage of some hen-pheasants, p. 268.\n\nERRATA, PART IV. 1826.\n\nPage 4, line 1, for \"9 ten-thousandths,\" read \"9 thousandths.\"\n\nIn Plate VI. page 189, insert the letter \"N\" at the left hand extremity of the horizontal diameter in Fig. 4; and at the upper extremity of the vertical diameter in Fig. 5, insert the letter \"e.\"\n\nDirections to the Binder.\nPlates I. II. and III. should face page 124, instead of 174.\n\nFrom the Press of\nW. Nicol,\nCleveland-row, St. James's.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107884.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 280,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        680,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107884",
+    "title": "Errata",
+    "authors": null,
+    "year": 1827,
+    "volume": "117",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107884"
+  }
+}

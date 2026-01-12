@@ -1,0 +1,79 @@
+{
+  "id": "caf0c46541af3c5b8c477ca0322ae884529da921",
+  "text": "V. An Account of a Book entituled, Jo. Ph. Breynij, M. D. &c. Dissertatio Physica de Polythalamis, nova Testaceorum classe, &c. Gedani, 1732, 4to, or a Physical Dissertation of a new Class of Shells, which he styles Polythalamiums, &c. with fourteen Copper Plates. By Richard-Middleton Massey, M. D. F. R. S. and Hon. F. C. Med. Lond.\n\nIn the first Chapter he discourses of Shells in general, and premises a Method of placing them in different Classes, which he reduces to eight, viz. Tubulus, Cochlidium, Polythalamium, Lepas, Concha, Conchoides, Balanus, and Echinus.\n\nThe second Chapter treats of Polythalamiums, which he defines a Tabulous Shell divided into several Cavities, conical, straight, or regularly Spiral, with a Pipe, or Canal, passing through each Cavity. This again he subdivides into four, viz. 1. Orthoceras, 2. Lituus, 3. Ammonia, and 4. Nautilus.\n\nThe third Chapter treats of the Nautilus and Nautilites, which last he takes to be a Stone form'd under Ground in the Cavities of the Nautilus.\n\nThe fourth Chapter is of the Ammonia and Ammonites.\n\nThe fifth is of the Lituus (which he names from some Resemblance it has to the Lituus, or Croser, which\nwhich the ancient Roman Augurs used in their Ceremonies) and the Lituites or Stone form'd in its Cavities under-ground. The Shell is yet unknown, but of the Stone he has given a curious Draught, as it appears in a Marble which was brought from Oelandt, an Island of Sweden.\n\nThe sixth Chapter is of the Orthoceras and Orthoceratites, or stony Concretion in its Cavity. Of these last Stones he produces nine different Species, which he distinguishes chiefly by the Pipe, or Canal, which runs through them.\n\nIn his Note concerning the Belemnites Prussici, of which he describes two Species, he takes notice that the stony Cone, or Nucleus of it, is never found articulate, as in those that come from Sweden, and some other Countries.\n\nAt the latter end of his Book he proposes a methodical Distribution of the Echini and Echinites, or Stones that are generated under Ground in the Cavities of the Echini.\n\nThe whole Method he proposes for ranging Shells in general, may be seen in the following Table.\n\nTabula\nTabula Methodica TESTACEORUM.\n\nTubulosae\n\nMonothalamia\n\nTubulus\n\nCochlidium\n\nPolythalamia\n\nPolythalamium\n\nTesta\n\nVasculosa\n\nSimplex\n\nConcha\n\nComposita\n\nConchoidea\n\nBalanus\n\nEchinus\n\nLepas\n\nConcha\n\nPholas\n\nConcha Anatfera\n\nBalanus\n\nEchinometra\n\nEchinoconus\n\nEchinocorys\n\nEchinanthos\n\nEchinospatagus\n\nEchinobrissus\n\nEchinodiscus\n\nDentalia\n\nEntalia\n\nSolen-univalvis\n\n—unde Belemnites\n\nNautilus tenuis\n\nAuris marina\n\nNerita\n\nCochlea\n\nBuccinum\n\nMurex\n\nCassis *\n\nCylindrum *\n\nVoluta *\n\nPorcellana *\n\nNautilus\n\nAmmonia\n\nLituus\n\nOrthocerata\n\nPatella\n\nChama\n\nMytulus\n\nTellus\n\nPinna\n\nOstrea\n\nPecten\n\nAnomia",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103845.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6272,
+    "total-output-tokens": 940,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1172,
+        2
+      ],
+      [
+        1172,
+        2180,
+        3
+      ],
+      [
+        2180,
+        2776,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103845",
+    "title": "An Account of a Book",
+    "authors": "Richard-Middleton Massey, Jo. Ph. Breynij",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103845"
+  }
+}

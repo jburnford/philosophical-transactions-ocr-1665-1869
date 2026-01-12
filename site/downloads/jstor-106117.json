@@ -1,0 +1,119 @@
+{
+  "id": "e2b1ab811473759710703187cc33b9f55bb44424",
+  "text": "XLVII. Of Logarithms, by the late William Jones, Esq; F. R. S. Communicated by John Robertson, Lib. R. S.\n\nRead Dec. 5, 1771.\n\nThe following paper on the nature and construction of Logarithms, was communicated to me many years since, by that eminent Mathematician the late William Jones, Esq. The familiar manner in which he explains their nature, and the great art with which he obtains the modes of computation, not being exceeded, if equaled, by any writer on this subject, may claim a place in the Philosophical Transactions, to be preserved among the multitude of excellent papers, of which that most invaluable work is a safe repository.\n\nOf Logarithms.\n\n1. Any number may be expressed by some single power of the same radical number.\n\nFor every number whatever is placed somewhere in a scale of the several powers of some radical number \\( r \\), whose indices are \\( m-1, m-2, m-3, \\ldots \\), where not only the numbers \\( r^m, r^{m-1}, r^{m-2}, \\ldots \\) are expressed; but also any intermediate number \\( x \\) is represented by \\( r \\), with a proper index \\( z \\).\nThe index $z$ is called the Logarithm of the number $x$.\n\n2. Hence, to find the logarithm $z$ of any number $x$, is only to find what power of the radical number $r$, in that scale, is equal to the number $x$; or to find the index $z$ of the power, in the equation $x = r^z$.\n\n3. The properties of logarithms are the same with the indices of powers; that is, the sum or difference of the logarithms of two numbers, is the logarithm of the product or quotient of those numbers.\n\nAnd therefore, $n$ times the logarithm of any number, is the logarithm of the $n$th power of that number.\n\n4. The relation of any number $x$, and its logarithm $z$ being given; To find the relation of their least synchronal variation $\\dot{x}$ and $\\dot{z}$\n\nPut $1 + n$ for $r$, the radical number of any scale, and\n\n$$q = \\frac{n}{1 + n}.$$  \n\nLet $a = q + \\frac{1}{2} q^2 + \\frac{1}{3} q^3 + \\frac{1}{4} q^4$, &c.; $f = \\frac{1}{a}$.\n\nThen $f \\dot{x} = x \\dot{z}$ shews the relation required.\n\nFor $x = r^z = 1 + r^z$.\n\nNow, let $x$ and $z$ flow so that $x$ becomes $x + \\dot{x}$, at the same time as $z$ shall become $z + \\dot{z}$,\n\nThen $x + \\dot{x} = 1 + n^z + \\dot{z} = 1 + n^z \\times 1 + n^{\\dot{z}}$\n\n$$= x \\times 1 + \\dot{z} q + \\frac{1}{2} \\dot{z} q^2 + \\frac{1}{3} \\dot{z} q^3 + \\frac{1}{4} \\dot{z} q^4, \\text{&c.}$$\n\nTherefore $\\dot{x} = x \\dot{z} \\times q + \\frac{1}{2} q^2 + \\frac{1}{3} q^3 + \\frac{1}{4} q^4$, &c.\n\n$$= x \\dot{z} a = x \\dot{z} \\times \\frac{1}{f}. \\text{Consequently } f \\dot{x} = x \\dot{z}.$$\n5. If \\(1 + n = r = 10\\), as in the common logarithms of Briggs's form,\nThen \\(a\\) will be found to be 2.302585092994, &c.\nAnd \\(f = \\ldots \\ldots 0.43429448190325\\), &c.\nIf \\(a = 1 = f\\), the form will be that of Napier's logarithms.\n\n6. Let \\(B, \\dot{B}\\), be the logs of the numbers \\(x, \\dot{x}\\), in\nthe form \\(f = \\frac{1}{a}\\),\nAnd \\(N, \\dot{N}\\), the logs of the same numbers, in the\nform \\(\\phi = \\frac{1}{a}\\).\nThen \\(B\\phi = Nf; Ba = Na; BN = NB; B\\phi = Nf\\).\nFor \\(B : \\dot{N} :: (f \\times \\dot{x} : \\phi \\times \\dot{x} ::) f : \\phi :: B : N :: \\frac{1}{a} : \\frac{1}{a} :: B : \\dot{N}\\).\nIf \\(x = 10; B = 1; a = 2.30258\\), &c., or \\(f = 0.43429\\), &c.; \\(a = \\phi = 1\\).\nThen \\(N = B \\times \\frac{a}{a} = 2.30258\\), &c.\n\\[\\dot{N} = \\dot{B} \\times \\frac{N}{B} = 2.30258\\), &c. \\(\\times \\dot{B}\\).\n\\[\\dot{B} = \\frac{f}{\\phi} \\times \\dot{N} = 0.43429\\), &c. \\(\\times \\dot{N}\\).\n\nVol. LXI. N n n 7. Putting\n7. Putting \\( x = q \\pm v; N = \\frac{v}{q} \\).\n\nThen \\( z = \\log_x \\), or the log. of \\( q \\pm v \\), will be\n\n\\[\n= \\pm \\frac{v}{q} - \\frac{v^2}{2q^2} + \\frac{v^3}{3q^3} - \\frac{v^4}{4q^4} + \\frac{v^5}{5q^5} - \\frac{v^6}{6q^6}, \\text{ &c. } \\times f;\n\\]\n\n\\[\n= \\pm N - \\frac{1}{2}N^2 + \\frac{1}{3}N^3 - \\frac{1}{4}N^4 + \\frac{1}{5}N^5 - \\frac{1}{6}N^6, \\text{ &c. } \\times f.\n\\]\n\nFor \\( \\dot{x} = L, x = L, q \\pm v = f \\times \\frac{\\dot{x}}{x} = f \\times \\frac{\\dot{v}}{q \\pm v},\n\\]\n\n\\[\n= \\pm \\frac{\\dot{v}}{q} - \\frac{\\dot{v}v}{q^2} + \\frac{\\dot{v}v^2}{q^3} - \\frac{\\dot{v}v^3}{q^4} + \\frac{\\dot{v}v^4}{q^5} - \\frac{\\dot{v}v^5}{q^6}, \\text{ &c. } \\times f.\n\\]\n\n8. In three quantities \\( p, q, r \\), increasing by equal differences, the logarithm of any one of them being given, the logarithms of the other two are also given.\n\nFor, let \\( v = q - p = r - q; N = \\frac{v}{q} = \\frac{q - p}{q} = \\frac{r - q}{q};\n\\)\n\n\\( P, Q, R \\), the logarithms of \\( p, q, r \\).\n\nI. \\( L = \\frac{q}{p} = (L, \\frac{q}{q - v})Q - P = f \\times N + \\frac{1}{2}N^2 + \\frac{1}{3}N^3 + \\frac{1}{4}N^4 + \\frac{1}{5}N^5, \\text{ &c. } = fV.\n\\)\n\nFor \\( \\dot{L}, \\frac{q}{q - v} = f \\times \\frac{\\dot{v}}{q - v}.\n\\)\n\nII. \\( L = \\frac{r}{q} = (L, \\frac{q + v}{q})R - Q = f \\times N - \\frac{1}{2}N^2 + \\frac{1}{3}N^3 - \\frac{1}{4}N^4 + \\frac{1}{5}N^5, \\text{ &c. } = fX.\n\\)\n\nFor \\( \\dot{L}, \\frac{q + v}{q} = f \\times \\frac{\\dot{v}}{q + v}.\n\\)\n\nIII. \\( L = \\frac{r}{p} = 2f \\times V + X = R - P = 2f \\times N + \\frac{1}{3}N^3 + \\frac{1}{5}N^5 + \\frac{1}{7}N^7 + \\frac{1}{9}N^9, \\text{ &c. } = 2fZ.\n\\)\n\nWhere \\( N = (\\frac{v}{q} =) \\frac{r - p}{r + p}.\n\\)\n\nOr, \\( L, \\frac{r}{p} = L, \\frac{q + v}{q - v} = R - P = 2fZ.\n\\)\n\nFor \\( \\dot{L}, \\frac{q + v}{q - v} = 2f \\times \\frac{q \\dot{v}}{q - vv}.\n\\)\n\n9. Hence,\n9. Hence, in two quantities, \\( r \\) the greater, \\( p \\) the less.\n\nPutting \\( N = \\frac{r-p}{r+p} \\); \\( A = 2fN \\); \\( B = AN^2 \\); \\( C = BN^2 \\); \\( D = CN^2 \\), &c.\n\nAnd \\( S = A + \\frac{1}{3}B + \\frac{1}{5}C + \\frac{1}{7}D \\), &c.\n\nThen \\( L, \\frac{r}{p} = S \\); Or \\( R - P = S \\).\n\nOr, putting \\( N = \\frac{r-p}{r+p} \\); \\( A = fN \\), &c.\n\nThen \\( L, \\frac{r}{p} = 2S \\).\n\nWhere \\( p = 1 \\); \\( N = \\frac{r-1}{r+1} \\); let \\( A = 2fN \\), &c.\n\nThen \\( L, r = S \\).\n\nOr, in this case, putting \\( N = \\frac{r-1}{r+1} = A \\); \\( B = AN^2 \\), &c.\n\nThen \\( L, r = 2fS \\).\n\nWhere \\( p = 1 \\), and \\( f = 1 \\); \\( N = \\frac{r-1}{r+1} \\); let \\( A = 2N \\), &c.\n\nThen \\( L, r = S \\).\n10. In three quantities \\( p, q, r \\), increasing by equal differences, the logarithms of any two of them being given, the logarithm of the third is also given.\n\nI. For \\( L, \\frac{qq}{pr} = 2f \\times \\sqrt{X - X} = 2Q - P + R \\)\n\\[ = 2f \\times \\frac{1}{2}N^2 + \\frac{1}{4}N^4 + \\frac{1}{6}N^6 + \\frac{1}{8}N^8, \\text{&c.} = 2fY. \\]\nWhere \\( N = \\frac{r-p}{r+p}. \\)\n\nOr \\( L, \\frac{qq}{pr} = L, \\frac{qq}{qq-vv} = 2fY = 2Q - P + R. \\)\n\nBecause \\( L, \\frac{qq}{qq-vv} = 2f \\times \\frac{vv}{qq-vv}. \\)\n\nII. Putting \\( N = \\frac{qq-pr}{qq+pr} = \\frac{vv}{qq+rp} = (\\text{where } v=1) \\frac{1}{qq+pr}; \\)\n\\[ A = fN; B = AN^2, \\text{&c.} \\]\n\nThen \\( L, \\frac{qq}{pr} = 2S = 2Q - R + P; \\text{ Or } Q - \\frac{R+P}{2} = S. \\)\n\nFor since \\( vv = qq-pr = 1; \\text{ put } qq \\text{ for } r; pr \\text{ for } q. \\)\n\nThen \\( r-p = qq-pr = vv = 1; r+p = qq+pr. \\)\n\nIII. Putting \\( N = \\frac{v}{q} = A, \\text{&c. } a = \\frac{1}{2}. \\)\n\n\\[ b = \\frac{1}{3} - \\frac{1}{3}a. \\]\n\\[ c = \\frac{1}{5} - \\frac{1}{5}a - \\frac{1}{3}b, \\]\n\\[ d = \\frac{1}{7} - \\frac{1}{7}a - \\frac{1}{3}b - \\frac{1}{3}c. \\]\n\\[ e = \\frac{1}{9} - \\frac{1}{9}a - \\frac{1}{3}b - \\frac{1}{3}c - \\frac{1}{3}d, \\text{&c.} \\]\n\nAnd \\( M = aA + bB + cC + dD, \\text{&c.}; \\Sigma = \\frac{1}{2}R + P; \\Delta = \\frac{1}{2}R - P. \\)\n\nThen \\( Q = \\Sigma + \\Delta M. \\)\n\nFor \\( Q - P = fV = a; R - P = 2fZ = 2\\Delta; \\)\n\nbut \\( \\left( \\frac{a}{4} = 1 + M = \\frac{Q-P}{\\frac{1}{2}R-\\frac{1}{2}P} \\right); \\text{ Therefore, &c.} \\)\n\n11. Any\n11. Any numbers \\( p, q, r, \\) &c. and as many ratios \\( a, b, c, \\) &c. composed of them, the difference of whose terms is 1; as also the logarithms A, B, C, &c. of those ratios, being given: To find the logarithms P, Q, R, &c. of those numbers, where the form is 1.\n\nFor instance, if \\( p = 2, q = 3, r = 5, \\)\n\n\\[\na = \\left( \\frac{2}{3} \\right)^{\\frac{3^2}{2^3}}; \\quad b = \\left( \\frac{6}{3} \\right)^{\\frac{2^4}{3^5}}; \\quad c = \\left( \\frac{5}{3} \\right)^{\\frac{5^2}{3^2}}.\n\\]\n\nNow, the logs A, B, C, of these ratios, \\( a, b, c, \\) being found, the log. of either 2, 3, 5, or of any number compounded of them, may be found directly, by making each successively equal to \\( ax, bx, cx. \\)\n\nThus, for the log of 10 = 2.5.\n\nLet \\( a^x b^y c^z = \\frac{3^{2x}}{2^{3x}} \\times \\frac{2^{4y}}{3^y} \\times \\frac{5^{2z}}{3^z}. \\)\n\n\\[\n= 3^{2x-3x} \\times 2^{4y-3y} \\times 5^{2z-3z} = 2.5.\n\\]\n\nTherefore \\( 2^{4y-3x-3z-1} \\times 3^{2x-y-z} \\times 5^{2z-y-1} = 1. \\)\n\nConsequently \\( 4y - 3x - 3z - 1 = 0; \\quad 2x - y - z = 0; \\quad 2z - y - 1 = 0. \\)\n\nTherefore \\( x = 10; \\quad y = 13; \\quad z = 7; \\)\n\nand \\( a^{10} \\times b^{13} \\times c^7 = (2 \\times 5 = ) 10. \\)\n\nTherefore \\( 10A + 13B + 7C = \\log. \\) of 10, to the form 1.\n\nOr, since \\( a = \\frac{3^2}{2^3}; \\quad b = \\frac{2^4}{3^5}; \\quad c = \\frac{5^2}{3^2}. \\)\n\nTherefore \\( A = 2Q - 3P; \\quad B = 4P - Q - R; \\quad C = 2R - Q - 3P. \\)\n\nConsequently \\( P = 3A + 4B + 2C = \\log. \\) of 2\n\n\\( Q = 5A + 6B + 3C = \\log. \\) of 3\n\n\\( R = 7A + 9B + 5C = \\log. \\) of 5\n\nTherefore \\( P + R = 10A + 13B + 7C = \\log. \\) of \\( (2 \\times 5 = ) 10. \\)\n\nAnd \\( fP, fQ, fR, \\) are the logarithms of 2, 3, 3, respectively, in the scale of logarithms whose form is \\( f. \\)",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106117.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12544,
+    "total-output-tokens": 4338,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1075,
+        2
+      ],
+      [
+        1075,
+        2578,
+        3
+      ],
+      [
+        2578,
+        3495,
+        4
+      ],
+      [
+        3495,
+        5274,
+        5
+      ],
+      [
+        5274,
+        5957,
+        6
+      ],
+      [
+        5957,
+        7435,
+        7
+      ],
+      [
+        7435,
+        9144,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106117",
+    "title": "Of Logarithms, by the Late William Jones, Esq; F. R. S. Communicated by John Robertson, Lib. R. S.",
+    "authors": "William Jones, John Robertson",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/106117"
+  }
+}

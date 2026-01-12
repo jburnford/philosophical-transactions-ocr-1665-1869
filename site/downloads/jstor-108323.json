@@ -1,0 +1,59 @@
+{
+  "id": "0386864c3f5684f4ce1af5ec9f042c6ad39722d5",
+  "text": "ERRATA.\n\nPhilosophical Transactions, Part II. for 1845, in Dr. Davy's Paper on the Temperature of Man,\nPage 320, line 25, erase shall.\nPage 322, line 9, for feeling. The effect and perhaps best sign of the happy temperate mean in some facts,\nread feeling.—the effect and perhaps best sign of the happy temperate mean. Some, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108323.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 157,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        327,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108323",
+    "title": "Errata",
+    "authors": null,
+    "year": 1846,
+    "volume": "136",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108323"
+  }
+}

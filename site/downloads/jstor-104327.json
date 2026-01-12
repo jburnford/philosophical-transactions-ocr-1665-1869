@@ -1,0 +1,69 @@
+{
+  "id": "dd4d852250ca9ab1138dd3de158486871deb4b9d",
+  "text": "III. The last Argument is founded upon the learned and ingenious Mr. Poleni's Experiment, wherein equal Cavities are formed in soft Substances, by equal Bodies falling from Heights reciprocally proportional to their Masses. This the Author sets aside, as insufficient, since the Times of forming these equal Cavities are unequal, and unequal Causes may produce equal Effects in unequal Times. The learned Mr. Poleni does, indeed, reply, and say, that the Formation of these Cavities seems to be instantaneous: But the ingenious Author shews the contrary, and that from a Position allowed of by Poleni himself, in his Reply.\n\nIX. An Account of some remarkable Stones, taken out of the Kidneys of Mrs. Felles, upon opening her Body after her Decease, by Noah Sherwood, Surgeon.\n\nUPON opening the Body of Mrs. Felles, I found nothing amiss in any of the Viscera, till I came to the Kidneys, both of which were considerably inlarged, and of an oblong Figure, and had several Protuberances bunching out, which made the Surface appear almost like a Beeve's Kidney. Upon feeling them externally, I could plainly perceive they were caused by Stones: I took them out of the Body, and laid them open Longitudinally, and found in the Right Kidney several Stones of an irregular Figure, branched like Coral: They had extended themselves beyond the Capacity of the Pelvis on every Side,\n(although that was greatly enlarged, so as each of them to contain half a Pint of Pus, or more) forming for themselves Cells in the Parenchyma of the Kidneys, which Cells were all ulcerated within, and full of Matter, communicating with the Pelvis; the whole Substance of the Kidneys was scirrhous. The Patient had long been troubled with grievous Pains of the Back, and had voided great Quantities of Pus with all the Urine she made, so that there was no doubt of there being Ulcers in her Kidneys; and she herself often declared there were Stones in the Kidneys, which, upon any Motion, she could feel grate against each other. The Bladder and Ureters seemed to be less hurt by so long a Discharge of Matter than might reasonably be expected, being only a little excoriated; and indeed less than I have found in other seemingly parallel Cases, where the Matter has been of a more corrosive Nature; but in this Case it was thick and smooth.\n\nThe Left Kidney was likewise full of Matter, and contained only One Stone, larger than any of those in the Right, nearly of a triangular Figure, with the Angles growing pointed at their Extremities.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104327.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 658,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1374,
+        2
+      ],
+      [
+        1374,
+        2515,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104327",
+    "title": "An Account of Some Remarkable Stones, Taken out of the Kidneys of Mrs. Felles, upon Opening Her Body after Her Decease, by Noah Sherwood, Surgeon",
+    "authors": "Noah Sherwood",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104327"
+  }
+}

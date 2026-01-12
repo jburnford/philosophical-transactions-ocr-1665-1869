@@ -1,0 +1,79 @@
+{
+  "id": "f5c16a8b780c1da921972f9e065e98cd3ae15c54",
+  "text": "I. An Account of the Opening of the Body of a Boy, who Dyed Suddenly, and what Observable was found therein. By Dr. Charles Preston.\n\nBeing called to the Dissection of a Boy, about Nine Years of Age, who Dyed suddenly, being taken ill with a Fit of Vomiting, a little before his Death, with the Chyrurgion one Monsieur Du Linier, Operator to Monsieur Du Verny, what we found most remarkable is as follows:\n\nFirst in the lower Belly, after having laid open the common Integuments, we discovered the left Testicle out of its natural place, drawn up above the Aponeurose, or holes of the three Muscles of the Abdomen, which gives passage to the Spermatick Vessels in Men that go to the Testicles, and to the round Ligament of the Matrix in Women.\n\nThe Bladder was extremely distended and full of Urine.\nIn the Stomach we found a Worm of about Nine Inches in length, and a Line and half broad, as also a kind of slimy Matter: the Liquor contained in the Stomach was black, whether it had its Colour from some Remedies prescribed against his Vomiting, or was the effect of some Disease, I cannot determine.\n\nIn the second Cavity, the Lungs were tyed to the Pleura on the right side, but were free on the left; in the left there was an Inflammation of the Pleura, with some Matter, as also an Inflammation of the External tunique of the Lungs.\n\nIn Dissecting the Heart, we found a large Polypus in the left Ventricle, which filled the Vena Pulmonaris, and entred the left Auricule, about Eight Inches in length and Two Fingers broad.\n\nIn the right Ventricle, there was also a Polypus of about an Inch in length, which was so big, that it almost stopped the entrance of the Blood into the Vena cava ascendens.\n\nLastly, In Dissecting the Brain, we found also a considerable Polypus, in the Sinus Longitudinalis: All other things were according to Nature.\n\nFrom what is here observed, it is easy to Conjecture the Cause both of his Vomiting, as\nalso of his sudden Death; and because it were requisite for Explaining this Matter, to give an Account of the Nature of a Polypus, and how they are formed; which being sufficiently done by the Learned Malpighi and others, to whom I refer; it shall suffice that I give a bare Relation of what was found, and leave every Man to make his own Reflexion.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102330.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 686,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        800,
+        2
+      ],
+      [
+        800,
+        1936,
+        3
+      ],
+      [
+        1936,
+        2285,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102330",
+    "title": "An Account of the Opening of the Body of a Boy, Who Dyed Suddenly, and What Observable Was Found Therein. By Dr. Charles Preston",
+    "authors": "Charles Preston",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102330"
+  }
+}

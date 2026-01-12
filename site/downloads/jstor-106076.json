@@ -1,0 +1,69 @@
+{
+  "id": "0e47a8b7e6a251a1a716d912b7063d9e7e21526a",
+  "text": "VII. A Letter from Mr. Stephen de Visme to Mathew Maty, M.D. Sec. R.S. containing an account of the manner, in which the Chinese beat their rooms.\n\nSIR,\n\nRead Jan. 31, 1771.\n\nTHE great pleasure I have in obliging and rendering any service to your Royal and illustrious Society, made me request the Rev. P. Gramont, missionary, (a man of great family and sense, whom I was acquainted with at Canton before he was ordered to Pekin, by the Emperor) to make enquiries, and collect any curiosity useful to philosophy, mechanicks, and natural history, that might be useful to mankind, and agreeable to the curious. He has been so polite to transmit me the model of a Chinese furnace, used to warm the apartments; together with a muster of different coals, lime, &c. for the Royal Society, which I send to my brother to be transmitted to you; and I shall be happy that it comes safe to your hands. Father Loreyro, missionary and physician to the King of Cochin China (a gentleman we are greatly obliged to for his humanity, in cloathing, feeding, and getting a passage to some poor shipwrecked seamen of the Earl Temple); is at work upon drawing a correct draught\ndraught of that coast and Cambodia; and I hope, when finished, to obtain one for the Society.\n\nI embrace this opportunity* of also making you an offer of my services, and subscribing myself with the greatest esteem and regard,\n\nSir,\n\nYour most obedient\n\nhumble servant,\n\nCanton,\nOct. 8, 1776.\n\nStep. de Visme.\n\n* Unfortunately this gentleman died at Canton soon after the date of this letter, which deprives the Royal Society, and the public, of the very curious and useful informations they might have expected from him.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106076.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 486,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1157,
+        2
+      ],
+      [
+        1157,
+        1678,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106076",
+    "title": "A Letter from Mr. Stephen de Visme to Mathew Maty, M. D. Sec. R. S. Containing an Account of the Manner, in Which the Chinese Heat Their Rooms",
+    "authors": "Stephen De Visme",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106076"
+  }
+}

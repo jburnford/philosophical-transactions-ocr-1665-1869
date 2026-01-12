@@ -1,0 +1,89 @@
+{
+  "id": "099c87461c9ab116c914eaa1d46f1c4ca9a780ba",
+  "text": "The Description of a Monstrous Child, born Friday the 29th. of February 1684. at a Village called Heisagger, distant about 4 English miles from Hatterfleben, a Town in South-Jutland, under the King of Denmark's Dominion, communicated by Mr. Christopher Krahe, a member of the Ecclesiastical Consistory and Provost of all the Churches belonging to the said Diocese.\n\nThe Mother of this Child being married to a Soldier or Trooper of Colonel Gamb's Regiment, it is supposed she had seen some body wounded or disfigured in the same manner, as it doth appear at the Child's Leg or Foot. At the left Leg Fig. 13. N. 1. there was to be seen an oblong round piece of flesh of a brown and blew colour, at the extremities somewhat sharpened, which was joyned to the Calf of the Leg, N.2. and could be moved or put out and in from 1. to 3. that other piece of flesh 4. was of the same colour, but fastned to the Leg, so that it could not be displaced. At the right foot it hath 6 Toes, that N.7. was like a Bullet of a Pistol, which did hang loofly to the Leg, N. 8. another Bullet somewhat bigger. The face did look pretty old, as if it had been of 35 or\n40 years of age. N. 5. and 6. at the forehead there have been oblerved such Excrencencies as if it were artificial Laces: which the Painter, who 3 days after it was dead did draw the Scheme, testifieth to have been almost spoile or rotten, by the touching of so many 100 of people that went to see this Creature. But before, when the head of the Child was turned against the light of the Sun, these physical laces seemed to be very artificially done. With the left Eye it did look fiercely, keeping that other close. Behind the head, there was a shape like a Hood or other Ornament, which women commonly do were. His Arm was figured like as the Scheme sheweth, with several knots or joynts. The Tail, which was strangely grown out of the back-part, N. 9. was a quarter of a Sealandish Ell long. The Mother of this Child being aged about 40 years, hath had formerly 2 other Sons, now of 7 and 9 years of Age, which are very well shaped and still alive: but this Monster, after it had cryed out 2 or 3 times, died presently.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102063.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 724,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1146,
+        4
+      ],
+      [
+        1146,
+        2168,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102063",
+    "title": "The Description of a Monstrous Child, Born Friday the 29th. of February 1684. at a Village Called Heisagger, Distant about 4 English Miles from Hattersleben, a Town in South- Jutland, under the King of Denmark's Dominion, Communicated by Mr. Christopher Krahe, a Member of the Ecclesiastical Consistory and Provost of all the Churches Belonging to the Said Diocess",
+    "authors": "Christopher Krahe",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102063"
+  }
+}

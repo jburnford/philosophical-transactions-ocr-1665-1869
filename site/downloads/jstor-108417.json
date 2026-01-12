@@ -1,0 +1,59 @@
+{
+  "id": "75061dbf9e55ba660c7718aac9070a645558172c",
+  "text": "Below, are given the receipts of this gauge for the last five years, by which it will be seen that on the average of the three years ending with 1849, it has received 23·4 per cent. less than the valley; but in 1850, with the slight alteration in position just described, it has obtained 1·6 per cent. more rain than the valley, showing an annual increase of 25 per cent. consequent on the removal of the instrument 90 yards in linear distance, and a diminution of 5 feet in its height above the valley.\n\n| Year       | Seathwaite, 368 feet above the sea. | Seatoller Common, 1388 feet above the sea. | Deficiency per cent. at Seatoller Common. |\n|------------|-------------------------------------|---------------------------------------------|------------------------------------------|\n| 1847       | 129·24                              | 104·55                                      | -18·5                                    |\n| 1848       | 160·89                              | 123·68                                      | -23·1                                    |\n| 1849       | 125·47                              | 108·97                                      |                                          |\n| 1849 to Aug. 31. | 78·95                              | 56·34                                      | -28·7                                    |\n| 1850       | 143·96                              | 146·18                                      | + 1·6                                    |\n\nThe records of the self-registering minimum thermometer on Sca Fell, in 1850, are as under:\n\nJanuary and February, 31° below zero; March, 10° below zero; April, 10° below zero; May, 14°; June, 22°; July, observation lost; August, 9°; September, 7°; October, 7°; November and December, 15° below zero.\n\nIn the valley, the minima at 4 feet from the ground were,—in January, 19°; February, 29°; March, 21°; April, 32°; May, 30°; June, 42°; July, 43°; August, 39°·5; September, 39°; October, 27°; November, 20°·5; and December, 22°.\n\nI have recently planted a minimum thermometer on the Gabel, and also one near Sprinkling Tarn, at the respective heights above the sea of 2928 and 1900 feet, and hope, in future, to obtain regular monthly readings at all the three stations.\n\nThe Observatory, Whitehaven,\nFebruary 6, 1851.\n\nErratum in Philosophical Transactions, Part I. for 1851.\nPage 147, second line from top, for \"severe nights\" read \"severe droughts.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108417.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 736,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2456,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108417",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1851,
+    "volume": "141",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108417"
+  }
+}

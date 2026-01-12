@@ -1,0 +1,79 @@
+{
+  "id": "ad02ba87f907856966d4acd79aec8fab529476ad",
+  "text": "Two Extracts of the Journall of the Phil. Soc. of Oxford; one containing a Paper, communicated March 31, 1685, by the Reverend Dr Wallis, President of that Soc. concerning the strength of Memory when applied with due attention: the other, dated Dec. 15th, 1685, describing a large Stone Voided by way of Urine.\n\nThe first Extract.\n\nUPON Occasion of a Discourse, at a meeting of the Philosophical Society at Oxford (March 24, 1685,) concerning the Advantage which those may have (as to Memory and the Application thereof,) who want their Sight: Dr Wallis confirmed it by this consideration, That, even we, that have our Ey-sight, can yet with more advantage apply our Memory (in matters of intent consideration) by Night, in the Dark, when all things are Quiet; than by Day, when sights and Noises are apt to divert our Thoughts. And gave instance, in his own application of his Memory, by Night, (in performing Arithmetical Operations in great numbers;) better then, by Day, he could have done: and, even by Day, we may better do it with our Eys shut, than open.\n\nAnd, because some present seemed to be surprized at the particulars mentioned; he did at their next meeting (Mar. 31. 1685) give this further account of it.\n\nHaving had the Curiosity, heretofore, to try, how far the strength of Memory would suffice me, to perform some Arithmetical Operations (as Multiplication, Division, Extraction of Roots, &c.) without the assistance of Pen and Ink, or ought equivalent thereunto: And finding it to succeed well (for instance) in Extracting the\nthe Square Root, from Numbers of 8, 10, 12, or more places: I proceeded to try it (with success) in numbers of 20, 30, or 40 places. But was not curious to keep memorials of the particular numbers which I had so considered (as being but a Curiosity, and not of further use;) Till there happened on occasional Discourse of it with a Forraigner (Johannes Georgius Pelfhover, Regio-Montanus Borussus) who coming to see the University, was pleased (as divers other Forraigners often do) to give me a visit; (Febr. 18. 1671,) at a time when I was afflicted with a tedious and severe Quartan Ague, (which held me, for a whole year, from about Michaelmas then last past, till about the same time in the year following:) which caused me to pass many nights with little or no sleep.\n\nHe was desirous I would tell him some of those numbers which I had so considered. Which, at the present, (for the reason but now mentioned) I could not do: save only that, on Dec. 22. 1669, I had (by night, in the dark,) extracted the Square Root of 3, (with Ciphers adjoined,) continued to the Twentieth place of Decimal Fractions: Finding it to be\n\n\\[\n1. \\quad 73205, \\quad 08075, \\quad 68877, \\quad 29353, \\quad \\text{fere}.\n\\]\n\nWhich is the Square Root of 3, with Forty ciphers adjoined;\n\n\\[\n3. \\quad 00000,00000,00000,00000,00000,00000,00000,00000.\n\\]\n\n(which I had chanced to write down, because \\( \\sqrt{3} \\) is a Surd which I might after have occasion to make use of) But added, that I could at pleasure perform the like at any time.\n\nAnd when he further pressed me so to do; I did, that same night (by dark, in bed, without any other assistance than my Memory) propose to myself (at all adventures) this number, of 53 places.\n\n\\[\n2, \\quad 4681, \\quad 3579, \\quad 1012, \\quad 1411, \\quad 1315, \\quad 1618, \\quad 2017, \\quad 1921, \\quad 2224, \\quad 2628, \\quad 3023, \\quad 2527, \\quad 2931.\n\\]\nand found its Square Root (of 27 places) to be\n157, 1030, 1687, 1482, 8058, 1715, 2171, fere,\n(Without any other Method of extracting Roots, than\nwhat is commonly taught in Books of Arithmetick.)\n\nThese numbers, (having fixed them in my Memory,\nby repeating the same Operation a night or two af-\nter,) when he made me another visit, March the 11\nfollowing, I did dictate to him from my Memory,\n(having not, before, committed them to writing) for\nhim to write down and examine: And did, after-\nwards, write them down myself.\n\nHe did it seems, discourse this afterwards (at London)\nwith Mr Oldenburg (by whom he had before been di-\nrected to me;) to whom (as I remember) upon a Letter\nfrom him, I gave a like account as now I do.\n\nI will not undertake, that my Memory is now so\nstrong, as then it was, in my younger days: but do be-\nlieve, if occasion were, I could yet perform the like.\nBut I have never tryed it (in so great numbers) since\nthat time: Being by that time, sufficiently satisfied,\nthat, a reasonable good Memory, fixt with good atten-\ntion, is capable of being charged, with more than a\nman would at first imagine.\n\nThe Second Extract. Dec, 15th. 1685.\n\nA Model, or pattern of a Stone, which came from\nthe Bladder of Mrs. E.V. of Wallingford, at the\nage of 63 years, Aug. 7. 1685, was communicated to\nthe Society. The compass of it was 5½ inches; the length\n4¾ inches, the weight 3 ounces Avoird. This Stone was\nat its coming off, taken out by her Husband, with-\nout the help or Instrument of Physician or Chirurgeon,\nand without effusion of Blood; since its coming off,\nshe has been troubled with Urinæ incontinentia.\n\nX x x Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102199.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1613,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1547,
+        2
+      ],
+      [
+        1547,
+        3424,
+        3
+      ],
+      [
+        3424,
+        5068,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102199",
+    "title": "Two Extracts of the Journall of the Phil. Soc. of Oxford; One Containing a Paper, Communicated March 31, 1685, by the Reuerend Dr Wallis, President of That Soc. concerning the Strength of Memory when Applied with due Attention: The Other, Dated Dec. 15th, 1685, Describing a Large Stone Voided by Way of Urine",
+    "authors": "Dr Wallis",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102199"
+  }
+}

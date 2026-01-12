@@ -1,0 +1,69 @@
+{
+  "id": "e1fadd00a6983c3bad1a7cbba87442032289c9ba",
+  "text": "H The Fallopian Tube on the right Side, whose Extremity opens into the Sacculus formed from the Ovary.\n\nI The Sacculus extending itself behind the Uterus; wherein we found the Placenta and several lacerated Membranes; and from whence there was a large Opening into the Rectum.\n\nFig. II.\n\nShews the Inside of the Sacculus and its Aperture into the Rectum.\n\nA The Intestine.\nB The Sacculus adhering to it.\nC The Opening from the Sacculus into the Rectum.\nD The Membranes found within the Sacculus.\nE The Vagina turned to the Right.\n\nII. An Extract of a Letter from Mr. William Stevenson to Benj. Hoadly, M.D. F.R.S. Containing an Account of an Observation of an Eclipse of the Moon, on July 29, 1729, made in Barbados by Mr. Stevenson's Brother.\n\nHe took care to regulate a very good Clock, and brought it to true Time about 14 Days before the Eclipse. On the Day it happened, he saw the Sun set, and found the Clock right, according to the mean Time, Refraction allowed. At the Beginning of the Eclipse, the Moon was clouded. At 7 H. 18 M. (in the Evening) apparent Time, he saw the Moon 2 Digits Eclipsed, about 30 Degr.\nto the left of its Nadir-Point. At 8 H. 11 M. she\ntotally immersed into the Earth's Shadow, about\n30 Degr. to the right Hand of her Vertical Point.\nAt 9 H. 51 M. she emerged out of the Shadow,\n79 or 80 Degr. to the left of her Nadir-Point. At\n10 H. 50 M. the Eclipse ended, 88 Degr. to the\nright of her Vertical Point. In this, and all the\nother Observations he made of both Solar and Lunar\nEclipses, during several Years he has been in Barba-\ndos, he found that they always happened 10 Mi-\nnutes sooner than his Computation. Whence he con-\ncludes, that that Island lies 2 Degr. and a Half\nmore Westerly than is generally supposed.\n\nIII. The Anatomical Preparation of Vegetables, by\nAlbertus Seba, F. R. S. Communicated to the\nRoyal Society by Sir Hans Sloane, Bart. Pr.\nR. S. and Col. Med. Lond. Translated from\nthe German, by Mr. Zolman, F. R. S.\n\nTAKE Leaves of Trees or other Vegetables, that\nare somewhat substantial and tough, and have\nwoody Fibres; as for Instance, Leaves of Orange\nTrees, of Lemon, Jasmin, Laurel, Rose-Trees, of\nCherry, Apricock, Peach, Plum, Apple, Pear, and\nTrees of Poplar, Pine, Oak, &c.\n\nThere are many sorts of Leaves that have no such\nwoody Fibres or Veins; as for Instance, Vine and\nLime-Tree Leaves.\n\nThose",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103556.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 782,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1121,
+        2
+      ],
+      [
+        1121,
+        2362,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103556",
+    "title": "An Extract of a Letter from Mr. William Stevenson to Benj. Hoadly, M. D. F. R. S. Containing an Account of an Observation of an Eclipse of the Moon, on July 29, 1729, Made in Barbados by Mr. Stevenson's Brother",
+    "authors": "William Stevenson",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103556"
+  }
+}

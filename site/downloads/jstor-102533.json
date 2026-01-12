@@ -1,0 +1,59 @@
+{
+  "id": "6117630cdbd973c795edfd444b52f1ed9b148d90",
+  "text": "VII. The way of making Pitch, Tarr, Rosin and Turpentine near Marseilles; communicated in a Letter from Nismes, by Mr. Thomas Bent, to Dr. Welsted.\n\nFive Leagues from Marseilles are very high Mountains, which are (for the most part) covered with Forests of Pine-Trees, which there grow wild, half a League out of the Road you see the making of Pitch, Tar, Rosin and Turpentine, which is thus; viz. in the Spring time when the Sap runs most, they pare off the Bark of the Pine to make the Sap run down into an Hole, which they cut at the Bottom to receive it, as it runs it leaves a Cream or Crust behind it, which they take and temper in Water and sell by a cheat for white Bees-Wax, that they make Flambeaus of, and is a great deal dearer; then they take up the Juice in Spoons from the Bottom, and after they have so gotten a good Quantity, they strain it through a Grocer's Basket, such as they put up their Malaga Raisins in, that which runs through easily is the common Turpentine; then they take that which remains above, and adding a sufficient Quantity of Water, distill in an Alembick, that which is so distill'd is Oyl of Turpentine, and the Calx that remains is common Rosin; then thy cut the Stock of the Tree into large Chips, and pile them hollow in a Cave, covering it on the Top with Tiles, but so as to let some Air come in to feed the Fire, then burning them there runs a thick Juice down to the bottom, where they may make a small Hole for it to run out at (a larger Hole would set it all in a Flame) and that which so runs out is Tar; then they take of that, and boiling it gently over again, to consume more of the Moisture, they set it to cool, which when cool is Pitch.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102533.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 485,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1692,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102533",
+    "title": "The Way of Making Pitch, Tarr, Rosin and Turpentine Near Marseilles; Communicated in a Letter from Nismes, by Mr. Thomas Bent, to Dr. Welsted",
+    "authors": "Thomas Bent",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102533"
+  }
+}

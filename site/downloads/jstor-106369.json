@@ -1,0 +1,199 @@
+{
+  "id": "99b702f6ff49938c3e59ffb5feccc550e8c15747",
+  "text": "V. An Appendix to the Paper in the Philosophical Transactions for the Year 1778, Number XLII, pages 902 et seq. intitled, \"A Method of extending Cardan's Rule for resolving one Case of the Cubick Equation \\(x^3 - qx = r\\) to the other Case of the same Equation, which it is not naturally fitted to solve, and which is therefore called the irreducible Case.\" By Francis Maferes, Esq. F. R. S. Curfitor Baron of the Exchequer.\n\nRead Nov. 4, 1779.\n\nARTICLE I.\n\nIn the above-mentioned paper in the Philosophical Transactions the expression \\(\\sqrt[3]{e} \\times\\) the infinite series\n\n\\[2 + \\frac{25s}{9ee} - \\frac{20s^4}{243e^4} + \\frac{308s^6}{6561e^6} - \\&c.\\]\n\nis shewn to be equal to the root of the equation \\(x^3 - qx = r\\), whenever \\(rr\\) is less than \\(\\frac{q^3}{27}\\), but greater than one half of it, or than \\(\\frac{q^3}{54}\\). This expression is wholly transcendental, or composed of an infinite number of terms, to wit, the terms of the series\n\n\\[2 + \\frac{25s}{9ee} - \\frac{20s^4}{243e^4} + \\frac{308s^6}{6561e^6} - \\&c.\\]\n\nmultiplied into the cube-root of \\(e\\). But I have since thought that it might be convenient on some occasions to divide this expression, if possible, into two others, whereof the one should be a mere\nmere algebraick expression, or consist of a finite number of terms, and the other should be transcendental, or involve in it an infinite series. And I have accordingly discovered a method of doing this, which I will now proceed to describe.\n\nArt. 2. In the above-mentioned paper in the Philosophical Transactions I denoted the excess of $\\frac{q^3}{27}$ above $\\frac{rr}{4}$ in the second case of the equation $x^3 - qx = r$, as well as the excess of $\\frac{rr}{4}$ above $\\frac{q^3}{27}$ in the first case of it, by the letters ss. But I have since thought that it might have been better to denote the excess of $\\frac{q^3}{27}$ above $\\frac{rr}{4}$ in the second case of that equation by the letters zz, in order the more clearly to distinguish it from the opposite difference $\\frac{rr}{4} - \\frac{q^3}{27}$ in the first case of it, which was denoted by ss. And I therefore in the course of the following pages shall use the letters zz instead of ss to denote the said excess of $\\frac{q^3}{27}$ above $\\frac{rr}{4}$ in the second case of the said equation, or the difference $\\frac{q^3}{27} - \\frac{rr}{4}$.\n\nArt. 3. Now, if zz be substituted instead of ss in the expression $\\sqrt[3]{e} \\times$ the infinite series $2 + \\frac{2ss}{9ee} - \\frac{20s^4}{243e^4} + \\frac{308s^6}{6561e^6} - \\&c.$ that expression will thereby be converted into the following expression, to wit, $\\sqrt[3]{e} \\times$ the infinite series $2 + \\frac{2zz}{9ee} - \\frac{20z^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$ Therefore, if $\\frac{rr}{4}$ be less\nCARDAN'S Rule to the second Case, &c.\n\nless than $\\frac{q^3}{27}$ but greater than $\\frac{q^3}{54}$, and $e$ be put = $\\frac{r}{2}$, and $zz$ be put = $\\frac{q^3}{27} - \\frac{rr}{4}$, the root of the equation $x^3 - qx = r$ will be equal to $\\sqrt[3]{e} \\times$ the infinite series $2 + \\frac{zzz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$\n\nArt. 4. The numeral coefficients $\\frac{2}{9}, \\frac{20}{243}, \\frac{308}{6561}, \\&c.$ of $\\frac{zz}{ee}, \\frac{z^4}{e^4}, \\frac{z^6}{e^6}, \\&c.$ in this series are exactly double of $\\frac{1}{9}, \\frac{10}{243}, \\frac{154}{6561}, \\&c.$ which are the numeral coefficients of the same powers of the fraction $\\frac{z}{e}$ in the series $1 + \\frac{z}{3e} - \\frac{zz}{9ee} + \\frac{5z^3}{81e^3} - \\frac{10z^4}{243e^4} + \\frac{22z^5}{729e^5} - \\frac{154z^6}{6561e^6} + \\frac{2618z^7}{137,781e^7} - \\&c.$ which is equal to the cube-root of the binomial quantity $1 + \\frac{z}{e}$; or, if the numeral coefficients of the said latter series be denoted by the capital letters A, B, C, D, E, F, G, H, &c. respectively, so that A shall be = 1, B = $\\frac{1}{3}$, C = $\\frac{1}{9}$, D = $\\frac{5}{81}$, E = $\\frac{10}{243}$, F = $\\frac{22}{729}$, G = $\\frac{154}{6561}$, and H = $\\frac{2618}{137,781}$, and so on, the said numeral coefficients $\\frac{2}{9}, \\frac{20}{243}, \\frac{308}{6561}, \\&c.$ will be equal to 2C, 2E, 2G, &c. and the series mentioned in the last Article will be $2A + \\frac{2Czz}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.$ and consequently the root of the equation $x^3 - qx = r$, in the second case of it, in which $\\frac{rr}{4}$ is less than $\\frac{q^3}{27}$, will be equal to the expression $\\sqrt[3]{e} \\times$ the series $2A + \\frac{2Czz}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.$\n\nArt. 5. Now the series $2A + \\frac{2Czz}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.$ is\nAppendix to a Method of extending\n\nis equal to the sum of the two following series, to wit,\n\n\\[2A - \\frac{2C_{zz}}{ee} - \\frac{2Ez^4}{e^4} - \\frac{2Gz^6}{e^6} - \\&c.\\] (in which all the terms following the first term are marked with the sign −, or are subtracted from the first term), and \\[\\frac{4C_{zz}}{ee} + \\frac{4Gz^6}{e^6} + \\&c;\\]\n\nand the series \\(2A - \\frac{2C_{zz}}{ee} - \\frac{2Fz^4}{e^4} - \\frac{2Gz^6}{e^6} - \\&c.\\) is equal to the sum of the two series \\(A + \\frac{Bz}{e} - \\frac{Czz}{ee} + \\frac{Dz^3}{e^3} - \\frac{Ez^4}{e^4} + \\frac{Fz^5}{e^5} - \\frac{Gz^6}{e^6} + \\&c.\\) and \\(A - \\frac{Bz}{e} - \\frac{Czz}{ee} - \\frac{Dz^3}{e^3} - \\frac{Ez^4}{e^4} - \\frac{Fz^5}{e^5} - \\frac{Gz^6}{e^6} - \\&c.\\) which are respectively equal to the cube-roots of the binomial quantities \\(1 + \\frac{z}{e}\\) and \\(1 - \\frac{z}{e}\\). Therefore the series \\(2A + \\frac{2C_{zz}}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.\\) is \\(= \\sqrt[3]{1 + \\frac{z}{e}} + \\sqrt[3]{1 - \\frac{z}{e}} +\\) the infinite series \\(\\frac{4C_{zz}}{ee} + \\frac{4Gz^6}{e^6} + \\&c.\\) Consequently the expression \\(\\sqrt[3]{e} \\times\\) the series \\(2A + \\frac{2C_{zz}}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.\\) is \\(= \\sqrt[3]{e} \\times \\sqrt[3]{1 + \\frac{z}{e}} + \\sqrt[3]{e} \\times \\sqrt[3]{1 - \\frac{z}{e}} + \\sqrt[3]{e} \\times\\) the infinite series \\(\\frac{4C_{zz}}{ee} + \\frac{4Gz^6}{e^6} + \\&c.\\) \\(= \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + \\sqrt[3]{e} \\times\\) the infinite series \\(\\frac{4C_{zz}}{ee} + \\frac{4Gz^6}{e^6} + \\&c.\\) \\(= \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times\\) the series \\(\\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{18}}{e^{18}} + \\&c.\\) Therefore the root of the equation \\(x^3 - qx = r\\), in the second case of it, in which \\(\\frac{r}{4}\\) is less than \\(\\frac{q^3}{27}\\), is equal to \\(\\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times\\) the series \\(\\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{14}}{e^{14}} + \\&c;\\) of which expression the first part, to wit,\nwit, $\\sqrt[3]{e + z} + \\sqrt[3]{e - z}$ is algebraic, and the latter part, to wit, $\\sqrt[3]{e} \\times$ the series $\\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{18}}{e^{18}} + \\&c.$ is transcendental. Q. E. I.\n\nOf the convergency of the Series obtained in the preceding Article.\n\nArt. 6. This series $\\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{18}}{e^{18}} + \\&c.$ evidently converges faster than the series $2A + \\frac{2C_{zz}}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\&c.$ or $2 + \\frac{2zz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$; and consequently the expression $\\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times$ the series $\\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{18}}{e^{18}} + \\&c.$ seems rather fitter.\n\n(a) N. B. I have been informed that both this mixed expression of the root of the equation $x^3 - qx = r$ in the second case of it, and the merely transcendental expression of it published in the former paper, and from which this expression is derived, were invented by Monsieur Nicole, and published in the memoirs of the French Academy of Sciences so long ago as the year 1738; and the latter of them, to wit, the transcendental expression $\\sqrt[3]{e} \\times$ the series $2 + \\frac{2zz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$ I had myself seen many years ago in Monsieur Clairaut's algebra, in the place cited in the 50th Article of my former paper, to wit, in pages 286, 287, 288. But it was obtained by the intervention of negative quantities, and the roots of negative quantities, which gave it, in my opinion, an air of great obscurity. And therefore I thought an investigation of the same series, by a method that keeps clear of those difficulties, might not be unacceptable to the lovers of these sciences, nor unworthy of a place in the Transactions of this learned body.\nAppendix to a Method of extending\nto exhibit the value of \\( x \\) in the equation \\( x^3 - qx = r \\), in\nthe second case of it (in which \\( \\frac{\\pi}{4} \\) is less than \\( \\frac{q^3}{27} \\)), to a\nconsiderable degree of exactness than the former ex-\npression \\( \\sqrt[3]{e} \\times \\) the series \\( 2 + \\frac{2xz}{9ee} - \\frac{20z^4}{243e^3} + \\frac{308z^6}{6561e^6} - \\&c. \\)\n\nA Computation of the four first Terms of the Series\nobtained in Art. 5.\n\nArt. 7. The first fifteen terms of the infinite series\nwhich is equal to the cube-root of \\( 1 + \\frac{x}{e} \\) are as follows;\nto wit, \\( 1 + \\frac{x}{3e} - \\frac{zx}{9ee} + \\frac{5z^3}{81e^3} - \\frac{10z^4}{243e^4} + \\frac{22z^5}{729e^5} - \\frac{154z^6}{6561e^6} + \\frac{2618z^7}{137,781e^7} - \\frac{935z^8}{59,049e^8} + \\)\n\\( \\frac{21505z^9}{1,594,323e^9} - \\frac{55913z^{10}}{4,782,969e^{10}} + \\frac{147,407z^{11}}{14,348,907e^{11}} - \\frac{1,179,256z^{12}}{129,140,163e^{12}} + \\frac{3,174,920z^{13}}{387,420,489e^{13}} - \\)\n\\( \\frac{60,323,480z^{14}}{8,135,830,269e^{14}} + \\&c.; \\) or, in decimal fractions, \\( 1 + \\)\n\\( 0.333,333,333, \\&c. \\times \\frac{x}{e} - .111,111,111, \\&c. \\times \\frac{zx}{ee} + \\)\n\\( 0.061,728,395, \\&c. \\times \\frac{z^2}{e^3} - .041,152,263, \\&c. \\times \\frac{z^4}{e^4} + \\)\n\\( 0.030,178,326, \\&c. \\times \\frac{z^5}{e^5} - .023,472,031, \\&c. \\times \\frac{z^6}{e^6} + \\)\n\\( 0.019,001,167, \\&c. \\times \\frac{z^7}{e^7} - .015,834,305, \\&c. \\times \\frac{z^8}{e^8} + \\)\n\\( 0.013,488,482, \\&c. \\times \\frac{z^9}{e^9} - .011,690,017, \\&c. \\times \\frac{z^{10}}{e^{10}} + \\)\n\\( 0.010,273,045, \\&c. \\times \\frac{z^{11}}{e^{11}} - .009,131,595, \\&c. \\times \\frac{z^{12}}{e^{12}} + \\)\n\\( 0.008,195,021, \\&c. \\times \\frac{z^{13}}{e^{13}} - .007,414,542, \\&c. \\times \\frac{z^{14}}{e^{14}}. \\)\n\nTherefore the four first terms of the series \\( \\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\)\nCARDAN'S Rule to the second Case, &c.\n\n\\[\n\\frac{Lz^{10}}{e^{10}} + \\frac{Pz^4}{e^4} + \\frac{Tz^8}{e^8} + \\&c. \\text{ are } \\frac{zz}{9ee} + \\frac{154z^6}{6561e^6} + \\frac{55913z^{10}}{4782969e^{10}} + \\frac{60,323,480z^{14}}{8,135,830,269e^{14}},\n\\]\n\nor, in decimal fractions, .111,111,111, &c. \\( \\times \\frac{zz}{ee} + .023,472,031, \\&c. \\times \\frac{z^6}{e^6} + .011,690,017, \\&c. \\times \\frac{z^{10}}{e^{10}} + .007,414,542, \\&c. \\times \\frac{z^{14}}{e^{14}} \\). Therefore the root of the cubick equation \\( x^3 - qx = r \\), in the second case of it (in which \\( \\frac{rr}{4} \\) is less than \\( \\frac{q^3}{27} \\)), is equal to \\( \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\text{the series} \\frac{zz}{9ee} + \\frac{154z^6}{6561e^6} + \\frac{55913z^{10}}{4782969e^{10}} + \\frac{60,323,480z^{14}}{8,135,830,269e^{14}} + \\&c. \\)\n\nad infinitum, or \\( \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\text{the series} .111,111,111, \\&c. \\times \\frac{zz}{ee} + .023,472,031, \\&c. \\times \\frac{z^6}{e^6} + .011,690,017, \\&c. \\times \\frac{z^{10}}{e^{10}} + .007,414,542, \\&c. \\times \\frac{z^{14}}{e^{14}} + \\&c. \\text{ ad infinitum}.\n\nOf the best Manner of Proceeding to the Computation of more Terms of the said Series, if required.\n\nArt. 8. If more than four terms of this last series are required, it will be necessary to compute the series\n\n\\[\n1 + \\frac{zz}{3e} - \\frac{zz}{9ee} + \\frac{5z^3}{81e^3} - \\frac{10z^4}{243e^4} + \\frac{22z^5}{729e^5} - \\frac{154z^6}{6561e^6} + \\&c. \\text{(which is } \\sqrt[3]{1 + \\frac{zz}{e}}),\n\\]\n\nto more than fifteen terms; in order to which it will be convenient to express the terms of that series in the following manner, to wit,\n\n\\[\n1 + \\frac{1}{3} \\times \\frac{Az}{e} - \\frac{2}{6} \\times \\frac{Bzz}{ee} + \\frac{5}{9} \\times \\frac{Cz^3}{e^3} - \\frac{8}{12} \\times \\frac{Dz^4}{e^4} + \\frac{11}{15} \\times \\frac{Ez^5}{e^5} - \\frac{14}{18} \\times \\frac{Fz^6}{e^6} + \\frac{17}{21} \\times \\frac{Gz^7}{e^7} - \\frac{20}{24} \\times \\frac{Hz^8}{e^8} + \\frac{23}{27} \\times \\frac{Iz^9}{e^9} - \\frac{26}{30} \\times \\frac{Kz^{10}}{e^{10}} + \\frac{29}{33} \\times \\frac{Lz^{11}}{e^{11}}.\n\\]\nAppendix to a Method of extending\n\n\\[\n\\frac{Lz^{11}}{\\epsilon^{11}} - \\frac{32}{36} \\times \\frac{Mz^{12}}{\\epsilon^{12}} + \\frac{35}{39} \\times \\frac{Nz^{13}}{\\epsilon^{13}} - \\frac{38}{42} \\times \\frac{Oz^{14}}{\\epsilon^{14}} + \\frac{41}{45} \\times \\frac{Pz^{15}}{\\epsilon^{15}} - \\frac{44}{48} \\times \\frac{Qz^{16}}{\\epsilon^{16}} + \\frac{47}{51} \\times \\frac{Rz^{17}}{\\epsilon^{17}} - \\frac{50}{54} \\times \\frac{Sz^{18}}{\\epsilon^{18}} + \\frac{53}{57} \\times \\frac{Tz^{19}}{\\epsilon^{19}} - \\frac{56}{60} \\times \\frac{Vz^{20}}{\\epsilon^{20}} + \\frac{59}{63} \\times \\frac{Wz^{21}}{\\epsilon^{21}} - \\frac{62}{66} \\times \\frac{Xz^{22}}{\\epsilon^{22}} + \\&c.\n\\]\n\nor\n\n\\[\nA + \\frac{Bz}{\\epsilon} - \\frac{Czz}{ee} + \\frac{Dz^3}{e^3} - \\frac{Ex^4}{e^4} + \\frac{Fx^5}{e^5} - \\frac{Gz^6}{e^6} + \\frac{Hz^7}{e^7} - \\frac{Iz^8}{e^8} + \\frac{Kz^9}{e^9} - \\frac{Lz^{10}}{e^{10}} + \\frac{Mz^{11}}{e^{11}} - \\frac{Nz^{12}}{e^{12}} + \\frac{Oz^{13}}{e^{13}} - \\frac{Pz^{14}}{e^{14}} + \\frac{41}{45} \\times \\frac{Pz^{15}}{e^{15}} - \\frac{44}{48} \\times \\frac{Qz^{16}}{e^{16}} + \\frac{47}{51} \\times \\frac{Rz^{17}}{e^{17}} - \\frac{50}{54} \\times \\frac{Sz^{18}}{e^{18}} + \\frac{53}{57} \\times \\frac{Tz^{19}}{e^{19}} - \\frac{56}{60} \\times \\frac{Vz^{20}}{e^{20}} + \\frac{59}{63} \\times \\frac{Wz^{21}}{e^{21}} - \\frac{62}{66} \\times \\frac{Xz^{22}}{e^{22}} + \\&c.;\n\\]\n\nin which it is evident that the generating fractions of the coefficients of the several terms are derived from those that immediately precede them by the continual addition of the number 3 to both their numerators and denominators.\n\nAn example of the resolution of a cubic equation by means of the expression \\( \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\) the series\n\n\\[\n\\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{18}}{e^{18}} + \\&c. \\text{ given in Art. 5.}\n\\]\n\nArt. 9. Let it be required to resolve the equation \\( x^3 - x = \\frac{1}{3} \\) by means of the said expression.\n\nHere \\( q \\) is = 1, and \\( r = \\frac{1}{3} \\); and consequently \\( q^3 \\) is = 1, and \\( \\frac{q^3}{27} = \\frac{1}{27} \\), and \\( \\frac{r}{2} = \\frac{1}{6} \\), and \\( \\frac{rr}{4} = \\frac{1}{36} \\), which is less than \\( \\frac{1}{27} \\), or \\( \\frac{q^3}{27} \\). Therefore this equation does not come under Cardan's rule, but may be resolved by the expression given in Art. 5, provided that \\( \\frac{rr}{4} \\), though less than \\( \\frac{q^3}{27} \\), is greater than half \\( \\frac{q^3}{27} \\), or than \\( \\frac{q^3}{54} \\); which it is, because\nit is \\( \\frac{1}{36} \\), whereas \\( \\frac{9^3}{54} \\) is equal only to \\( \\frac{1}{54} \\), which is less than \\( \\frac{1}{36} \\). Therefore the proposed equation \\( x^3 - x = \\frac{1}{3} \\) may be resolved by means of the said expression.\n\n**Art. 10.** Now, since in this case \\( q \\) is \\( r \\), and \\( r \\) is \\( \\frac{1}{3} \\), we shall have \\( e = \\frac{1}{6} \\), and \\( \\frac{e^2}{27} - \\frac{rr}{4} \\left( = \\frac{1}{27} - \\frac{1}{36} = \\frac{4}{108} - \\frac{3}{108} = \\frac{1}{108} \\right) = \\frac{1}{36 \\times 3} \\); that is, \\( z \\) will be \\( \\frac{1}{36 \\times 3} \\), and consequently \\( z \\) will be \\( \\frac{1}{6\\sqrt{3}} \\). Therefore \\( e + z \\) will be \\( \\frac{1}{6} + \\frac{1}{6\\sqrt{3}} \\left( = \\frac{\\sqrt{3}}{6\\sqrt{3}} + \\frac{1}{6\\sqrt{3}} = \\frac{3}{6 \\times 3} + \\frac{\\sqrt{3}}{6 \\times 3} = \\frac{3 + \\sqrt{3}}{6 \\times 3} = \\frac{3 + 1.732,050,8}{18} = \\frac{4.732,050,8}{18} \\right) = .262,891,71 \\); and \\( e - z \\) will be \\( \\frac{1}{6} - \\frac{1}{6\\sqrt{3}} \\left( = \\frac{3 - \\sqrt{3}}{18} = \\frac{3 - 1.732,050,8}{18} = \\frac{1.267,949,2}{18} \\right) = .070,441,62 \\). Therefore the cube-root of \\( e + z \\) is \\( \\sqrt[3]{.262,891,71} = .640,607,91 \\); and the cube-root of \\( e - z \\) is \\( \\sqrt[3]{.070,441,62} = .412,993,40 \\); and consequently \\( \\sqrt[3]{e + z} + \\sqrt[3]{e - z} \\) is \\( .640,607,91 + .412,993,40 = 1.053,601,31 \\).\n\n**Art. 11.** It remains that we compute the infinite series \\( \\frac{Czz}{ee} + \\frac{Gz^6}{e^5} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\frac{Tz^{16}}{e^{16}} + \\&c. \\) and extract the cube-root of \\( e \\), and then multiply the said series into 4 times the said cube-root.\n\nNow the cube-root of \\( e \\) is in this case \\( \\sqrt[3]{\\frac{1}{6}} = \\frac{1}{\\sqrt[3]{6}} = \\frac{1}{1.817,121} \\); and consequently \\( 4\\sqrt[3]{e} \\) is \\( \\frac{4}{1.817,121} \\).\nAnd, since \\( zz \\) is \\( \\frac{1}{36 \\times 3} \\), and \\( ee \\) is \\( \\frac{1}{36} \\), it follows that \\( \\frac{zz}{ee} \\) will be \\( \\frac{1}{3} \\). Therefore \\( \\frac{z^4}{e^4} \\) will be \\( \\frac{1}{9} \\), and \\( \\frac{z^6}{e^6} = \\frac{1}{27} \\), and \\( \\frac{z^{10}}{e^{10}} \\left(= \\frac{z^6}{e^6} \\times \\frac{z^4}{e^4} = \\frac{1}{27} \\times \\frac{1}{9}\\right) = \\frac{1}{243} \\), and \\( \\frac{z^{14}}{e^{14}} \\left(= \\frac{z^{10}}{e^{10}} \\times \\frac{z^4}{e^4} = \\frac{1}{243} \\times \\frac{1}{9}\\right) = \\frac{1}{2187} \\). Therefore the series \\( \\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c. \\) will in this case be \\( \\frac{C}{3} + \\frac{G}{27} + \\frac{L}{243} + \\frac{P}{2187} + \\&c. = \\frac{111,111,111}{3} + \\frac{0.023,472,031}{27} + \\frac{0.011,690,017}{243} + \\frac{0.007,414,542}{2187} + \\&c. = 0.37,037,037,\\&c. + 0.000,869,334,\\&c. + 0.000,048,107,\\&c. + 0.000,003,390,\\&c. + \\&c. = 0.37,957,868,\\&c. \\)\n\nTherefore \\( 4\\sqrt[3]{e} \\times \\) the series \\( \\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c. \\) is equal to \\( \\frac{4}{1.817,121} \\times 0.37,957,868,\\&c. = \\frac{151,831,472,\\&c.}{1.817,121} = 0.83,556,06 \\).\n\nConsequently the whole expression \\( \\sqrt[3]{e+z} + \\sqrt[3]{e-z} + 4\\sqrt[3]{e} \\times \\) the series \\( \\frac{C_{zz}}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c. \\) is \\( 1.053,601,31 + 0.83,556,06 = 1.137,157,37 \\); that is, the root of the proposed equation \\( x^3 - x = \\frac{1}{3} \\) is \\( 1.137,157,37 \\). Q. E. I.\n\nArt. 12. This value of the root of the equation \\( x^3 - x = \\frac{1}{3} \\) is exact to six places of figures, the more accurate value of it being \\( 1.137,158,164 \\). We may therefore conclude that the expression here made use of to determine the value of \\( x \\), to wit, \\( \\sqrt[3]{e+z} + \\sqrt[3]{e-z} + 4\\sqrt[3]{e} \\times \\)\nCARDAN'S Rule to the second Cafe, &c.\n\n$4\\sqrt{3}e \\times$ the infinite series $\\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c.$ is somewhat preferable, with respect to the practical resolution of these equations, to the other expression of its value given in the former paper in the Philosophical Transactions, to wit, $\\sqrt{3}e \\times$ the infinite series $2 + \\frac{2zz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$ For it appeared in Art. 42 of that paper, page 941, that the value of the root of this same equation $x^3 - x = \\frac{1}{3}$ obtained by computing four terms of the series $2 + \\frac{2zz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\&c.$ was $1.137,33$; which is true only to four places of figures; whereas by computing the same number of terms of the series $\\frac{Czz}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c.$ we have just now obtained a value of the same root, to wit, the number $1.137,157,37$, which is exact to six places of figures. This is agreeable to what was observed above in Art. 6.\n\nA Summary of the Conclusions obtained in this Paper and the former Paper to which it is an Appendix.\n\nART. 13. I will now conclude this paper by setting down, in as concise a manner as I can, the several conclusions that have been obtained in this and the above-mentioned paper in the Philosophical Transactions for the\nAppendix to a Method of extending\nthe year 1778, Number XLII. page 902, &c. concerning the root of the cubick equation $x^3 - qx = r$, that the whole may be seen together at one view.\n\n**Art. 14.** If $\\frac{rr}{4}$ is greater than $\\frac{q^3}{27}$, and $e$ be put $= \\frac{r}{2}$, and $ss = \\frac{rr}{4} - \\frac{q^3}{27}$, it is shewn in Art. 5, of the said former paper, that the root of the equation $x^3 - qx = r$ will be $= \\sqrt[3]{\\frac{r}{2}} + \\sqrt{\\frac{rr}{4} - \\frac{q^3}{27}} + \\frac{q}{3\\sqrt[3]{e+s}}$, or $\\sqrt[3]{e+s} + \\frac{q}{3\\sqrt[3]{e+s}}$.\n\n**Art. 15.** And it is shewn in Art. 9. of the said paper, that the root of the said equation will in that case be also equal to $\\sqrt[3]{\\frac{r}{2}} - \\sqrt{\\frac{rr}{4} - \\frac{q^3}{27}} + \\frac{q}{3\\sqrt[3]{e-s}}$, or $\\sqrt[3]{e-s} + \\frac{q}{3\\sqrt[3]{e-s}}$.\n\n**Art. 16.** And it is shewn in Art. 11, of the said paper, page 915, that the root of the said equation will in that case be also equal to $\\sqrt[3]{\\frac{r}{2}} + \\sqrt{\\frac{rr}{4} - \\frac{q^3}{27}} + \\sqrt[3]{\\frac{r}{2}} - \\sqrt{\\frac{rr}{4} - \\frac{q^3}{27}}$, or $\\sqrt[3]{e+s} + \\sqrt[3]{e-s}$.\n\n**Art. 17.** And it is shewn in Art. 23, of the said paper, page 923, that the root of the said equation will in that case be also equal to $\\sqrt[3]{e} \\times$ the infinite series\n\n$$2 - \\frac{2ss}{9ee} - \\frac{2os^4}{243e^4} - \\frac{308s^5}{6561e^5} - \\frac{1870s^6}{59049e^6} - \\frac{111,826s^{10}}{4,782,969e^{10}} - \\frac{2,358,512s^{12}}{129,140,163e^{12}} - \\frac{120,646,960s^{14}}{8,135,830,269e^{14}}.$$\nCARDAN'S Rule to the second Case, &c.\n\n\\[\n\\frac{120,646,960z^{14}}{8,135,830,269e^{14}} - \\&c.\\text{ or (if we put the capital letters } A, B, C, D, E, F, G, H, \\&c.\\text{ for the several numeral coefficients } I, \\frac{1}{3}, \\frac{1}{9}, \\frac{5}{81}, \\frac{10}{243}, \\frac{42}{729}, \\frac{154}{6561}, \\frac{2618}{137,781}, \\&c.\\text{ of the terms of the series } 1 + \\frac{s}{3e} - \\frac{ss}{9ee} + \\frac{5s^3}{81e^3} - \\frac{10s^4}{243e^4} + \\frac{22s^5}{729e^5} - \\frac{154s^6}{6561e^6} + \\frac{2618s^7}{137,781e^7} - \\&c.\\text{ which is equal to the cube-root of the binomial quantity } 1 + \\frac{s}{e}, \\\\\n\\text{equal to } \\sqrt[3]{e} \\times \\text{ the infinite series } 2A - \\frac{2Czz}{ee} - \\frac{2Ez^4}{e^4} - \\frac{2Gz^6}{e^6} - \\frac{2Iz^8}{e^8} - \\frac{2Lz^{10}}{e^{10}} - \\frac{2Nz^{12}}{e^{12}} - \\frac{2Pz^{14}}{e^{14}} - \\&c.; \\text{ in which series all the terms after the first term } .2A, \\text{ or } 2, \\text{ are marked with the sign } -, \\text{ or are to be subtracted from the said first term.}\n\\]\n\nART. 18. And, if \\( \\frac{rr}{4} \\) is less than \\( \\frac{q^3}{27} \\), but greater than its half, or \\( \\frac{q^3}{54} \\), and \\( e \\) be put, as before, \\( = \\frac{r}{2} \\), and \\( zz = \\frac{q^3}{27} - \\frac{rr}{4} \\), it is shewn in Art. 31, 32, 33, 34, 35, of the said paper, pages 927—936, that the root of the equation \\( x^3 - qx = r \\) will be equal to \\( \\sqrt[3]{e} \\times \\text{ the infinite series } 2 + \\frac{2zz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6} - \\frac{187oz^8}{59049e^8} + \\frac{111,826z^{10}}{4,782,969e^{10}} - \\frac{2,358,512z^{12}}{129,140,63e^{12}} + \\frac{120,646,960z^{14}}{8,135,830,269e^{14}} - \\&c.\\text{ or } \\sqrt[3]{e} \\times \\text{ the infinite series } 2A + \\frac{2Czz}{ee} - \\frac{2Ez^4}{e^4} + \\frac{2Gz^6}{e^6} - \\frac{2Iz^8}{e^8} + \\frac{2Lz^{10}}{e^{10}} - \\frac{2Nz^{12}}{e^{12}} + \\frac{2Pz^{14}}{e^{14}} - \\frac{2Rz^{16}}{e^{16}} + \\frac{2Tz^{18}}{e^{18}} - \\&c.; \\text{ in which series the capital letters } A, C, E, G, I, L, N, P, R, T, \\&c. \\text{ denote the same numeral coefficients } I, \\frac{1}{9}, \\frac{10}{243}, \\frac{154}{6561}, \\&c. \\text{ as in the last Article, and all the terms that involve the odd }\n\\]\nAppendix to a Method of extending odd powers of the fraction \\( \\frac{zx}{ee} \\), to wit, \\( \\frac{zx}{ee} \\) itself, \\( \\frac{zx}{ee}^3 \\), or \\( \\frac{zx}{ee}^5 \\), or \\( \\frac{zx}{ee}^{10} \\), \\( \\frac{zx}{ee}^7 \\), or \\( \\frac{zx}{ee}^{14} \\), \\( \\frac{zx}{ee}^9 \\), or \\( \\frac{zx}{ee}^{18} \\), &c. are marked with the sign +, or are to be added to the first term 2A, or 2, and all the other terms are marked with the sign −, or are to be subtracted from the former.\n\nThese are the conclusions obtained in the said former paper, which is printed in the Philosophical Transactions for the year 1778, Number XLII. pages 902—949. The conclusions obtained in this paper are as follows.\n\nArt. 19. If \\( \\frac{rr}{4} \\) is less than \\( \\frac{q^3}{27} \\), but greater than its half, or \\( \\frac{q^3}{54} \\), and e be put, as before, = \\( \\frac{r}{2} \\), and \\( zx = \\frac{q^3}{27} - \\frac{r}{4} \\), it is shewn in the present paper, Art. 5 and 7, that the root of the equation \\( x^3 - qx = r \\) will be equal to the mixed expression \\( \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\text{the infinite series} \\)\n\n\\[ \\frac{zx}{9ee} + \\frac{154z^6}{6561e^6} + \\frac{55913z^{10}}{4,782,969e^{10}} + \\frac{60,323,480z^{14}}{8,135,830,269e^{14}} + \\&c. \\text{or } \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\text{the infinite series} .111,111,111, \\&c. \\]\n\n\\[ \\times \\frac{zx}{ee} + .023,472,031, \\&c. \\times \\frac{z^6}{e^6} + .011,690,017, \\&c. \\times \\frac{z^{10}}{e^{10}} + .007,414,542, \\&c. \\times \\frac{z^{14}}{e^{14}} + \\&c. \\text{or } \\sqrt[3]{e + z} + \\sqrt[3]{e - z} + 4\\sqrt[3]{e} \\times \\text{the infinite series} \\]\n\n\\[ \\frac{Czx}{ee} + \\frac{Gz^6}{e^6} + \\frac{Lz^{10}}{e^{10}} + \\frac{Pz^{14}}{e^{14}} + \\&c.; \\text{in which series the capital letters C, G, L, P, \\&c. denote the same} \\]\nCARDAN'S Rule to the second Cafe, &c.\n\nsame numeral coefficients $\\frac{1}{9}$, $\\frac{154}{6561}$, $\\frac{55913}{4782969}$, $\\frac{60323480}{8135830269}$, &c.\n\nas they denoted in the two last Articles, to wit, the coefficients of $\\frac{x^2}{e^2}$, $\\frac{x^6}{e^6}$, $\\frac{x^{10}}{e^{10}}$, $\\frac{x^{14}}{e^{14}}$, $\\frac{x^{18}}{e^{18}}$, &c. or of the odd powers of $\\frac{x^2}{e^2}$ in the series which is equal to $\\sqrt[3]{1 + \\frac{x}{e}}$. And it is also shewn in Art. 6 and 12 of this paper, that this expression, computed to a given number of terms, gives the value of $x$ somewhat more exactly than the former expression, $\\sqrt[3]{e} \\times$ the infinite series $2 + \\frac{2xz}{9ee} - \\frac{2oz^4}{243e^4} + \\frac{308z^6}{6561e^6}$ &c. if computed only to the same number of terms.\n\nArt. 20. As to the second branch of the second cafe of the equation $x^3 - qx = r$, or that in which $\\frac{rr}{4}$ is less than half $\\frac{q^3}{27}$, or than $\\frac{q^3}{54}$, I do not know any method of extending CARDAN's rule to it. But I have been informed by my learned and ingenious friend Dr. CHARLES HUTTON, Professor of Mathematicks in the Royal Academy at Woolwich, that he has discovered such a method: and I hope he will soon communicate it to this learned Society.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106369.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 25226,
+    "total-output-tokens": 12937,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1237,
+        2
+      ],
+      [
+        1237,
+        2770,
+        3
+      ],
+      [
+        2770,
+        4642,
+        4
+      ],
+      [
+        4642,
+        6743,
+        5
+      ],
+      [
+        6743,
+        8764,
+        6
+      ],
+      [
+        8764,
+        10617,
+        7
+      ],
+      [
+        10617,
+        12751,
+        8
+      ],
+      [
+        12751,
+        15288,
+        9
+      ],
+      [
+        15288,
+        17142,
+        10
+      ],
+      [
+        17142,
+        19071,
+        11
+      ],
+      [
+        19071,
+        20519,
+        12
+      ],
+      [
+        20519,
+        22072,
+        13
+      ],
+      [
+        22072,
+        24275,
+        14
+      ],
+      [
+        24275,
+        26096,
+        15
+      ],
+      [
+        26096,
+        27372,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106369",
+    "title": "An Appendix to the Paper in the Philosophical Transactions for the Year 1778, Number XLII, Pages 902 et seq. Intitled, \" A Method of Extending Cardan's Rule for Resolving One Case of the Cubick Equation x<sup>3</sup>-qx=r to the Other Case of the Same Equation, Which It is Not Naturally Fitted to Solve, and Which is Therefore Called the Irreducible Case.\" By Francis Maseres, Esq. F. R. S. Cursitor Baron of the Exchequer",
+    "authors": "Francis Maseres",
+    "year": 1780,
+    "volume": "70",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/106369"
+  }
+}

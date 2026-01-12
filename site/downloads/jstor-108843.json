@@ -1,0 +1,59 @@
+{
+  "id": "298b15244cf682e56f4915ce83d9bf44a4f2602c",
+  "text": "XXXVIII. Experimental Researches on the Transmission of Electric Signals through Submarine Cables.—Part I. Laws of Transmission through various lengths of one Cable. By Fleeming Jenkin, Esq. Communicated by C. Wheatstone, Esq., F.R.S.\n\nXXXIX. The Lignites and Clays of Bovey Tracey, Devonshire. By William Pengelly, F.G.S. Communicated by Sir Charles Lyell, F.R.S.\n\nXL. On the Fossil Flora of Bovey Tracey. By Dr. Oswald Heer, Professor of Botany, and Director of the Botanical Gardens in Zurich Communicated by Sir C. Lyell\n\nXLI. On the Anatomy and Physiology of the Spongiidae.—Part III. On the Generic Characters, the Specific Characters, and on the Method of Examination. By J. S. Bowerbank, LL.D., F.R.S., F.L.S. &c.\n\nIndex\n\nAPPENDIX.\n\nPresents\n\nERRATA.\n\nPage 588, line 10 from bottom, cancel \\( p \\) at the end of the formula, which should be\n\n\\[\nv \\frac{Ct}{p} - \\frac{3}{2} AJK \\left( \\frac{273-T}{t} \\right)^2.\n\\]\n\n— 755, 7 lines from bottom, for Plate A. read Plate XXVII.\n\n— 864, 8 lines from bottom of text, for fig. 2 read fig. 3.\n\n— — 6 lines from bottom of text, for fig. 3 read fig. 2.\n\n— 869, 13 lines from bottom of text, for more read less.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108843.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 432,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1159,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108843",
+    "title": "Errata",
+    "authors": null,
+    "year": 1862,
+    "volume": "152",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108843"
+  }
+}

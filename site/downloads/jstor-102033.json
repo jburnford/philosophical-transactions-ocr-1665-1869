@@ -1,0 +1,79 @@
+{
+  "id": "a7cacf7076ac46dbb63ac353a9f226a02a0c7e4f",
+  "text": "Ricreatione dell' occhio é della Mente Nell' observation' delle Chiocciole Dal P. Filippo Buonanni &c. in Roma, per il Varese, 1681.\n\nHaving discoursed as it were in his own defence how proper for the diversion of a Philosopher these sort of Speculations are, as creating a pleasure only to him whose faculties are refined enough to rely on it; he divides his Subject, which is Shell-fish, according to the number and figure of their Shells, whence arises the distinction of them into Univalves, Bivalves, and Turbinated. The production of these, as to its manner, being much controverted among Naturalists, he enumerates and examines the several opinions concerning it, viz. That they propagate their own Species by their own Nature as other perfect Animals, as some think, or as others, that they arise from putrefaction, as Insects have been supposed to do; and some few opinions more subordinate to these two: And not at all acquiescing in, neither confuting, the reasoning and experiments of Steno, Redi, or Lyser, he embraces the old and antiquated opinion of their being equivocally produced out of putrefaction, for which he brings little proof besides the well known reasons, and Authority of Aristotle.\n\nAfter this he considers the great variety of Shapes and Colours which adorn them, and having made some\nenquiry into the causes of them, whether they proceed from Mineral Tinctures, as we see lead is whitened by Vinegar, blackt by Oyl, burnt to a Yellow; &c. he seems to incline to the opinion that they are merely Accidental, and produces experiments to justify the Assertion.\n\nAfter this, he enumerates the different Proprieties, and uses may be made of Shell-fish, and gives us a general Account of several Museum's, in which are to be seen great and curious Collections of them, as that of Wormius at Amsterdam, of Calceolarius, the Museum Cospianum annexed to that of Aldrovandus at Bologna, &c. At Rome, he tells us of many collections of this nature; as in the Palace of Prince Pamphilio, the Museum of Cardinal Chigi, the Study of the Queen of Sweden's Antiquary, and many others.\n\nHis second Part contains a plain and succinct Description of the several species contained under each genus; to which are added their colours, the places where they are found and whatsoever is particular in each of them, which descriptions refer you to the fourth part of his book, consisting wholly of the figures of them curiously engraven.\n\nThe third part is entirely problematical, where he enquires about the generation of Pearls, and in what kinds of Shell-fish they are found, whether the matter they are formed of be the dew; whether they grow from the shell, or are produced in the body of the Fish, as also whether they are diseases of them, or their proper fetus.\n\nHe examines the reason why Shell-fish are produced rather in the Sea, than in Lakes, or Rivers; as also why more in the Water than in the Earth, &c. why there is\nis not that variety of parts in them which is found in other Animals; for he asserts, and pretends Anatomy for it, that they have no Teeth, Heart, Bones, Liver, Gall, nor Spleen, &c. Last of all Supposing the Concha Venerea to be the Remora of the Antients, he disputes the possibility of its being able to stop a Ship.\n\nOXFORD,\nPrinted at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102033.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 925,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1317,
+        2
+      ],
+      [
+        1317,
+        2941,
+        3
+      ],
+      [
+        2941,
+        3419,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102033",
+    "title": "An Account of a Book",
+    "authors": "P. Filippo Buonanni",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102033"
+  }
+}

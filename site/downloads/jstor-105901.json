@@ -1,0 +1,99 @@
+{
+  "id": "b089dfbbbb47347bfc21ab0380fb8af9715bf0f4",
+  "text": "XXX. Extract of a Letter from John Winthrop, Esq; F. R. S. Hollisian Professor of Mathematics and Natural Philosophy, at Cambridge, N. England; to B. Franklin, LL.D. F. R. S. Dated Sept. 6. 1769.\n\nRead April 5, 1770.\n\nI FIND that Mr. Bliss and Mr. Hornsby, in their calculations in the Philosophical Transactions, suppose the phases of the transit of Venus, to be accelerated by the equation for the aberration of light, which amounts to $55''$ of time. According to my idea of aberration, I should think the transit would be retarded by it. I can very easily suppose that I am in an error; and that I may more readily be led out of it, I beg leave to lay before you the several steps by which I have been led into it. And I think it will be best to take some similar instance, rather than to consider the thing in a general abstract manner.\n\n1. Let\nLet the parallelogram E represent a vessel sailing in the line LR, from left hand to right; and S, a fixed station, e.g. a castle, discharging balls in the right line SM, perpendicular to the route of the vessel. If the vessel had been at rest, a ball arriving at the middle of it, M, would have gone right across it, to N. But as it is supposed to be sailing, the ball will not go right over from M to N, but will cross the deck obliquely, in another right line, as MO, and so will be left behind towards the stern as much as the vessel had gone forward, while the ball was crossing it; and MN will be to NO as the velocity of the ball to the velocity of the vessel. Thus, to the people on board, the ball would seem to move obliquely across the deck, as if it came from some point\npoint T in the line OM, produced, instead of coming from S. And a tube capable of receiving the ball, would allow the ball to pass through it without striking its sides, if it were inclined forward in the direction OM; which it would not do in any other situation. The angle OMN or SMT answers to the aberration; and supposing S to be the sun, and E, the earth, this angle is $20''$; and the general effect is, to make the sun, or any fixed star, to appear farther that way towards which the earth is moving.\n\n2. Let us suppose another vessel V, between S and E, sailing the same way as E, in a parallel direction. If both the vessels sailed with the same velocity, a ball from V coming to M, would go right across to N, just as if both of them had been at rest; because the ball, while crossing the vessel E, would be carried just as far to the right hand as the points M and N are. And a tube to receive it must be held in the direction MN. So here would be no aberration of the vessel V.\n\n3. Suppose V to move the same way, but slower. A ball from V would now be really carried forward, that is, to the right hand, though not so far as in the second supposition; and therefore would be left behind in respect of the vessel E; and so, would come to the side of the vessel somewhere between O and N; but the greater its velocity towards the right, the nearer to N. So that if the velocity of V were to be continually increasing from nothing till it became equal to that of E, a tube to receive the ball must be held first in the direction OM, looking forward, and afterwards, more and more inclined\nclined till it came into the perpendicular direction MN. From hence it is natural to conclude,\n\n4. That if V move the same way, but swifter, a tube to receive the ball must be reclined backward. For the ball would now be carried to the right hand farther than in the second supposition; and therefore would come to the other side of the vessel at some point P on the right hand of N, as if it proceeded from some point Q on the left hand of S.\n\nThis last seems to be the case of the transit, by supposing S to be the sun, E the earth, and V the planet Venus passing between them from left to right, and with a greater velocity than the earth (greater, nearly as 24:20). And it should seem that the aberration must make Venus appear farther to the left hand, or to the East from\nthe sun, and consequently retard the transit, and make it happen later than it would otherwise do.\n\nThus, Sir, I have explained very particularly my apprehension of the matter; and I make no doubt you will immediately discover where the error lies, and shall take it as a great favour if you will please to point it out to me.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105901.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 8902,
+    "total-output-tokens": 1219,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        850,
+        2
+      ],
+      [
+        850,
+        1633,
+        3
+      ],
+      [
+        1633,
+        3233,
+        4
+      ],
+      [
+        3233,
+        4011,
+        5
+      ],
+      [
+        4011,
+        4337,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105901",
+    "title": "Extract of a Letter from John Winthrop, Esq; F. R. S. Hollisian Professor of Mathematics and Natural Philosophy, at Cambridge, N. England; To B. Franklin, LL. D. F. R. S. Dated Sept. 6. 1769",
+    "authors": "John Winthrop",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/105901"
+  }
+}

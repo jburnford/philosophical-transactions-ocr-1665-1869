@@ -1,0 +1,59 @@
+{
+  "id": "91398cbec7eee37bd1fda52de58b9092ff1546aa",
+  "text": "ERRATA.\n\nPage. Line.\n249. 10. for \"last to the\" read \"last term to ten times the\"\n254. 25. for \"has\" read \"have\"\n301. 13. for \"alto\" read \"altro\"\n302. 9. for \"alto\" read \"altro\"\n305. 18. for \"celle\" read \"celles\"\n—— 20. for \"at\" read \"et\"\n—— 22. for \"cet\" read \"cette\"\n330. 20. for \"was\" read \"were\"\n336. 23. for \"LC\" read \"Lc\"\n339. 14. for \"2d\" read \"23d\"\n—— last line. for \"15 13 52.4\" read \"16 13 52.4\"\n340. 8. for \"15 h. 13' 52''4\" read \"16 h. 13' 52''4\"\n416. 24. and 25. for \"we do know\" read \"we do not know\"\n429. 22. for a full stop after \"sense\" put a comma",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106741.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 353,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        565,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106741",
+    "title": "Errata",
+    "authors": null,
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106741"
+  }
+}

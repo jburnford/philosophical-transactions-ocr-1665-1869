@@ -1,0 +1,89 @@
+{
+  "id": "e6ee5637db716d45ce6fd095d6731e43de4b3cc0",
+  "text": "A Remarkable Account of a Liver, appearing Glan-\ndulous to the Eye; communicated by Mr John\nBrown, Chirurgeon of St Thomas's Hospitall in\nSouthwark; in a Letter to one of the Secretarys\nof the Royal Society.\n\nSir,\n\nI send you here the figure of the Liver of an Hydro-\npical Person, a Patient of our Hospitall, (as it was\naccurately taken by Mr Faithorn,) which I thought so\ncurious as to be worthy the notice of the Royal Society,\nand therefore have presumed to communicate it to you.\n\nThe Person was about 25 years of age, a Soldier in\none of his Majelty's Regiments here in Town; who\ncontracted his distemper by drinking much water,\nwhen he could not stir from his duty, and catching\ncold at nights in being upon the guard: He was under\nthe care of our Physicians for some time, by whose di-\nrections his swellings did by times abate; but afterwards\nit was observed, that the method which had been be-\nneficiall to others, had not here the like success, his\nswellings returning upon him as before; so that there\nwas nothing more now to be thought of, but a Para-\ncenthefs; which operation however we judged very ha-\nzardous, by reason of the time of the year; and for that\nthe Patient was very much emaciated; yet he being so\nmuch swell'd, that it was uneasy to him to ly in his\nbed, he importun'd us very often, and with great ear-\nnestness, that the Operation might be performed. Where-\nupon we taking Hippocrates rule, In casu ancipiti pra-\nstat Remedium anceps, quam nullum; and thinking it\nbetter to attempt a cure that might be but barely pos-\nsible, then to abandon him to the certain expectation\nof death; a *Paracenthesis* by the Physicians consent and directions, was made by me the fourteenth of November last past, whereby we drew from the Patient about 3 pints of Brinish Liquor, and within 4 days after as much more, the next day morning he dyes, and his death as was found upon dissection, was partly occasioned by a mortification upon his *Scrotum* and *Penis*.\n\nThis Operation was performed to the satisfaction of the Physicians and Chirurgeons that saw it, and by it the Patient had some ease for the present.\n\nUpon opening the body, I believe I took out about 24 quarts of water; he had a large inflammation upon the *Peritoneum*; all his other inward parts not much disaffected, except the *Liver*; which now I am going to describe to you.\n\nIts magnitude was not extraordinary, but rather seemed less than usual, but that which was very remarkable (and I think the like case scarce ever observed by any Author); and seems much to confirm the opinion of the Learned *Malpighius*, is this; It consisted in its concave, convex, and inward parts of *glands*, which (with the Vessels) made up the whole substance thereof; these *glands* contained a yellowish *Ichor*, like so many *Pustulae*, and was I suppose part of the bilious humor lodged in the same, tho otherwise the *Liver* between the glands was of its usual reddish colour. In the bladder of Gall, we found a soft friable stone, but otherwise nothing considerable further in that part. The *Liver* was opened before the Physicians of our Hospitall Dr Dawkins, and Dr Briggs, as also Dr Tyson, and others who had the curiosity to see it; at which place Mr Faithorn was likewise, who then took that draught which I now present to you; so that this being attested by so good Judges, I need add no more but that this case by them all was thought worthy to\nbe presented to your excellent Society, which therefore at their request I have adventured to do, hoping you will favourably interpret this presumption of,\n\nSir,\n\nDecember 15th.\n\nYour faithfull Servant\n\n1685. London.\n\nJ. B R O W N E.\n\nA Description of the cut of the Liver, &c.\n\nVid. Tab. 3. Fig. 1.\n\nA. A. A. { Describes the Glands in the concave part of the lesser lobe of the Liver.\n\nB. B. B. { Describes the Glands in the concave part of the greater lobe of the Liver; which were of different magnitudes, tho in generall they were much less in the lesser, then in the greater.\n\nC. C. C. C. { Describes the inward part of the greater lobe of the Liver as it was divided.\n\nD. D. D. D. D. { Are several black specks that appear'd inserted in those Glands, which were probably from the divarications of the Vessels, being divided upon opening this lobe.\n\nE. { The Vesicula Fellis, which was of a greenish colour.\n\nF. { The Vena Porta tyed up with the Duftus Biliarius, &c.\n\nG. { A particular sett of Glands lodged between the same and Vena Cava.\n\nH. Vena Cava.\n\nI. Part of the Ligamentum Suspensorium.\n\nI do not here present you with the convex part of the Liver, it being in every respect, the same with the concave part of both lobes as to its Glands here described.\n\nTwo Ex-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102198.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7886,
+    "total-output-tokens": 1350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1606,
+        3
+      ],
+      [
+        1606,
+        3430,
+        4
+      ],
+      [
+        3430,
+        4707,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102198",
+    "title": "A Remarkable Account of a Liver, Appearing Glandulous to the Eye; Communicated by Mr John Brown, Chirurgeon of St Thomas's Hospitall in Southwark; In a Letter to One of the Secretarys of the Royal Society",
+    "authors": "John Brown",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102198"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "c7c8e4ff0ce8624644e2b69a46036b7262791820",
+  "text": "XXVII. Description of the Jesuits Bark Tree of Jamaica and the Caribbees. By William Wright, M.D. Member of the Philosophical Society of America, and Surgeon-general in Jamaica. Communicated by Joseph Banks, Esquire, F.R.S.\n\nRead April 24, 1777.\n\nThis species of Jesuits bark grows on stony lands near the sea-shore, in the parishes of St. James and Hanover, on the north-side of Jamaica; and I found one small tree, at a little distance from the fort, at Martha Brae in the parish of Trelawny. The tree is called the Sea-side Beech, and rises only to twenty feet. The trunk is not thick in proportion, but hard, tough, and of a yellowish-white colour in the inside. The branches and leaves are opposite; the leaves are of a rusty green, and the young buds of a blueish green hue. It blossoms in November, and continues in flower till February, having on the same tree or sprig, flowers and ripe pods. The flowers are of a dusky yellow colour, and the pods black: when ripe they split in two, and are, with their flat brown seeds, in every respect similar to those\nthose of the *Cinchona officinalis* as depicted in a plate sent out by Mr. BANKS.\n\nThe bark of this tree in general is smooth and grey on the outside, though in some rough and scabrous. When well dried, the inside is of a dark-brown colour. Its flavour at first is sweet, with a mixture of the taste of horse-radish and of aromatics of the East; but, when swallowed, of that very bitterness and astringency which characterises the Peruvian bark. It yields these qualities strongly to water both when cold and in decoction. Half an ounce, boiled from two pounds to one pound of water, made as strong a decoction as three times its weight of the *Cinchona vera*. The colour was brown, but not turbid.\n\nI have had many opportunities of trying its effects, especially in remittents, which are the most common and fatal fevers in these climes. A vomit or gentle purge, if necessary, was first given; and then immediately this bark so soon as they operated. I observed that it strengthened the stomach, checked retching and vomiting, corrected morbid humours in *prima via*, and conquered speedily the disease. My success in such a dangerous malady leaves not a doubt on my mind, but that it will prove equally efficacious in every other case where a tonic and antiseptic medicine is indicated.\nCINCHONA JAMAICENCIS, seu CARIBBEANA\n\nCINCHONA CARIBÆA, Linn. Spec. Plant. 245.\n\nFOL. ovata, integerrima, acuta, enervia, opposita.\n\nFLOR. singulares, axillares.\n\nCAL. Perianthium monophyllum, superum, quinquefidum, minimum, persiftens, campanulatum, obsoletissime quinquedentatum.\n\nCOR. monopetala, infundibiliformis. Tubus cylindraceus, longissimus: Limbus quinquepartitus, tubo equalis: Laciniis ovatis, oblongis, reflexis, quandoque pendulis.\n\nSTAM. Filamenta quinque, filiformia, erecta e medio tubi, longitudine corollæ. Antheræ longissimæ, obtusæ, erectæ supra basin exteriorem, affixæ in fauce corollæ.\n\nCAPS. bipartibilis in duas partes dissepimento paralelo. latere inferiore dehiscens.\n\nSEM. plurima, compressa, marginata, oblonga.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106251.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8392,
+    "total-output-tokens": 972,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1065,
+        2
+      ],
+      [
+        1065,
+        2354,
+        3
+      ],
+      [
+        2354,
+        3097,
+        4
+      ],
+      [
+        3097,
+        3097,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106251",
+    "title": "Description of the Jesuits Bark Tree of Jamaica and the Caribbees. By William Wright, M.D. Member of the Philosophical Society of America, and Surgeon-General in Jamaica. Communicated by Joseph Banks, Esquire, F. R. S.",
+    "authors": "Joseph Banks, William Wright",
+    "year": 1777,
+    "volume": "67",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106251"
+  }
+}

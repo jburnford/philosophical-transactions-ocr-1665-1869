@@ -1,0 +1,89 @@
+{
+  "id": "efb34480075ce8924e825457d7bd3dabb5cb5a37",
+  "text": "Since my writing this, I have been turning over a little Treatise of the ever memorable Mr. Boyle upon the Hygroscope, wherein I find he had made several Trials with different Sorts of Wood; but then they were turned into the Shape of Bells; which, he says, answered very well, by comparing their Weights: That their different Weight increased or diminished, according to the different Degrees of the Air's Moisture; and that he had taken notice of the Expansion of the Wood in Doors and Door-Cases: But he proceeds no farther than to recommend the different Kinds of Wood to be examined by their Weight.\n\nLondon, May 8. 1746.\n\nIII. A Letter from R. Badcock, Esq; to Mr. Henry Baker, F. R. S. concerning the Farina fœcundans of the Yew-Tree.\n\nSIR,\n\nRead May 15. 1746.\n\nAs I take upon myself a sort of Share in the Study and Discoveries of the Philosophic World, I esteem it a Debt incumbent on me to advance that Part of it I have engaged myself in, by communicating whatever I find worthy of it. The following Discovery is, I believe, worthy your Notice; as, in the Course of my Experiments, I never yet met with any thing equal to it.\n\nOn the 3d of March, strolling round my Garden in Search of Objects, I observed a Yew-Tree in Bloom,\nsom, but having at that time only the Bud (Tab. I. Fig. 5. No. 1.), which, taken out of its Case, may be seen with its Umbilicus a, at No. 2. That every Flower has its Farina, has been justly advanced; and as it was my Design to observe that, I took a Branch into the House; but, making but a slight Observation at that time, I laid it on half a Sheet of brown Paper in a warm Draw; and, to my great Surprize, coming to examine it in a few Hours after, I found the whole Number of the Buds blown out into full Flower, and such a Quantity of Farina on the Paper, that it seem'd more like a Paper of Brimstone than any thing else. I then no longer neglected a thorough Examination, which I began and completed in the following Manner:\n\nThe Figures No. 1, 2, have been already taken notice of.\n\nNo. 3. is a separate View of its Partitions, before it is near Blowing. Every five of these go to a Flower, and divide properly for Blowing, some Small Space before they burst: There are sometimes six to a Flower, but it is seldom: They open at the Bottom a a, and immediately, letting drop the Farina, turn themselves up; so the Top, which now appears the Head, will, when blown, be the Centre of the Flower (See an Explanation of this at No. 4. where the whole Division makes the Flower and the Strokes the Division of the Petala). a is the Stem of the Flower: Now the Bottom opening discovers this Stem; and the easy Transition of turning very near inside-out, makes a complete Flower, No. 5. the Shape of which is seldom exact in any two; tho' there are near twelve Flowers form'd by the Bud (See the back Part of one,\none, No. 6. in which those Ridges shew its Division on the Back.) We come now to the Farina, No. 7. which matches the rest of the Flower, as to Irregularity; there scarce being two alike; and, when view'd opaquely, has a great Resemblance to the small Pieces we observe in a Paper of Gum Arabic; 'tis opaquely of a clear White; but, when laid on Paper in a Quantity, appears like Flower of Brimstone, only paler. Its Action is as various as its Shape. (See several Forms, No. 8.) It seems to be only fixed in one Particular, which is, that tho' there are ever so many different Shapes, when dry, Water once put to them makes them all round, before any Action begins: A Proof to me, that there is a Suction. In short, Sir, the whole Process of this is so various and entertaining, that I never met with any thing hitherto to be compared to it, but if I should, in the Course of my Experiments, you may depend on receiving it in this manner.\n\nMy Haste had made me almost miss the most material Point of all; which is, that this Flower has neither Apices, Stamina, nor Stylus; which is the Reason why so much Farina is shed. I have not yet examin'd it as to Impregnation, but shall go on that the first Opportunity. I am,\n\nSIR,\n\nYour most obedient Servant,\n\nR. Badcock.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104803.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8208,
+    "total-output-tokens": 1195,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1238,
+        3
+      ],
+      [
+        1238,
+        2853,
+        4
+      ],
+      [
+        2853,
+        4119,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104803",
+    "title": "A Letter from R. Badcock, Esq; to Mr. Henry Baker, F.R.S. concerning the Farina Foecundans of the Yew-Tree",
+    "authors": "R. Badcock",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104803"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "3325d9547e4509f3d58a5a0933e045f7716791af",
+  "text": "Contentus vero humor prudenter effusus & receptus replebat quinque pintas, ad stateram examinatus sex libras & undecim ponderabat uncias.\n\nDum infans ille vivebat, non nisi vitales ac naturales actiones in eo videbantur, animales vero nullae: quietus semper erat, non lacrymans, semper quasi dormiens, surdaster, & sine ulla convulsione, aut motu sensibili, obiit.\n\nPrinted for T. Woodward, at the Half-Moon, between the Two Temple-Gates in Fleetstreet; and C. Davis, over-against Gray's Inn Gate in Holbourn; Printers to the Royal Society. M.DCC.XLII.\n\nERRATA.\n\nPag. 227. l. 13. for two or three more, read two, three or more.\n\nN.B. No 467. being paged from i—xviii. which answers to pag. 281.—298. we shall begin No 468 with p. 299.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104179.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 307,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        734,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104179",
+    "title": "Errata",
+    "authors": null,
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104179"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2520eb09e93b52477355e059482af2fcdb22e5d8",
+  "text": "same variable, then \\( dy, dx, dw, \\ldots \\) are expressions proportional to the derived functions of \\( y, z, w, \\ldots \\) whatever may be the variable of which they are common functions. Hence \\( \\frac{dy}{dx} = \\frac{Dy}{Dz} \\); and if \\( y \\) be a function of \\( x \\), or \\( = \\phi (x) \\), then \\( \\frac{dy}{dx} = \\frac{D\\phi (x)}{Dx} = D\\phi (x) \\) and \\( \\therefore dy = dx \\cdot D\\phi (x) \\).\n\nMoreover, since the derived functions are in the limiting ratio of the increments, so also are the fluxions. From this consideration we can in the applications of analysis, practically determine the ratio of the fluxions, when the derived functions are unknown.\n\nERRATA.\n\nPage 72, line 20, for parts, read part.\n—— 73, line 3, for between, read below.\n—— 98, line 4 from bottom, dele the comma after A.\n—— 101, line 6 from bottom, dele BH.\n—— 102, line 4, for axes, read axis.\n—— 164, line 11, dele the comma between \\( m \\) and \\( n \\).\n—— 174, line 7, for consisted of, read consisted in.\n—— , line last, for \\( m, n \\), read \\( m, m \\).\n—— 191, line 13, for \\( \\phi \\phi x \\), read \\( \\phi \\phi x \\).\n—— 213, line 14, for \\( \\psi \\psi (x, y) \\), read \\( \\phi \\phi (x, y) \\).\n—— 214, line 10, dele \"in an infinite number of ways\".\n—— 224, line 22, for \\( f(a) \\), read \\( f(x) \\).\n—— 226, line 24, for \\( = x \\), read \\( = x \\).\n—— 232, line 16, in the denominator, for \\( 1- \\), read \\( 1+ \\).\n—— , line 18, ditto, ditto, for \\( 1- \\), read \\( 1± \\).\n—— 251, line 9, for \\( \\frac{d\\psi x, \\frac{1}{y}}{dx} \\) read \\( \\frac{d\\psi (x, \\frac{1}{y})}{dx} \\)\n—— ——, line 11, for \\( d \\) in both numerator, read \\( d^2 \\).\n—— ——, line 13, for \\( \\left( \\frac{x}{y} \\right) \\) read \\( x \\phi \\left( \\frac{x}{y} \\right) \\).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107539.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 711,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1719,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107539",
+    "title": "Errata",
+    "authors": null,
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107539"
+  }
+}

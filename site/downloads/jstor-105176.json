@@ -1,0 +1,179 @@
+{
+  "id": "7960cca33adb74c81b13acb56e7395528cb1aedb",
+  "text": "LXII. A Letter to the Right Honourable George Earl of Macclesfield, P. R. S. concerning the Value of an Annuity for Life, and the Probability of Survivorship. By Mr. James Dodson.\n\nMy Lord,\n\nRead Jan. 17, 1754.\n\nYour Lordship's approbation of my essay, concerning the method of forming the series for making logarithms, and that for rectifying the circle, without the assistance of fluxions, has emboldened me to lay before you the following investigations, concerning the value of an annuity for life (secured by land), and the probability of survivorship, between two persons of given ages; neither of which have (as I believe) been before attempted to be found, otherwise than by fluxions; at least, no such attempt has appeared in public.\n\nI am sensible that I ought to apologize for reciting the principles, upon which calculations of this kind are commonly founded, because I know that your Lordship is perfectly well acquainted with them; but I plead in excuse thereof, that I found a great difficulty would attend the rendering my argument intelligible and conclusive, if they were omitted. I am, with the greatest deference, my Lord,\n\nYour Lordship's most obliged,\n\nand most humble servant,\n\nBell-Dock, Wapping,\nOct. 18, 1753.\n\nJ. Dodson.\nThe writers upon the subject of annuities on lives have very justly distinguished them into two kinds: In the first, the annuitant is entitled to receive a payment, if he be alive on the day on which it becomes due; but if he dies on the preceding day, or sooner, his heirs have no claim to any part of the payment, so to have became due; but in the second, if the annuitant dies at any intermediate time, between the days of payment, his heirs are to receive a part of the annuity, proportional to the time elapsed, between the preceding day of payment and the annuitant's decease.\n\nThis latter kind of annuities have been distinguished from the former, by the words, secured by a grant of lands; because, where lands are leased for lives, the conditions are generally such as are above described.\n\nThe values of the first kind of annuities have been investigated upon principles purely arithmetical; but, in order to perform the latter, fluxions have been used (as I humbly conceive) without any necessity: But as the investigation of the former may be usefully made a part of the latter, I shall first recite the method of performing that, and then proceed to attempt the other, upon the same principles.\n\nIf, with the sagacious mathematician Mr. Abraham De Moivre, we suppose the decrements of life to be equal (viz. that out of a number of persons, alive at a given age, equal to the number of years that a person of that age hath a possibility of living, there will die one in each year, till they are all extinct); then, out of a number of chances equal to that number of persons, which may, for instance, be\nbe 36, all but one are favourable, in the first year, to any individual; and, consequently, it is 35 to 1, that he receives one payment of the annuity, by living till it becomes due; that is, the probability of his receiving it, is $\\frac{35}{36}$, and that of his not receiving it, $\\frac{1}{36}$.\n\nAgain; since, by supposition, there dies but one person in the first year, and one in the second; there are but two chances, in the 36, against his receiving the second payment, by living till it becomes due; and, consequently, $\\frac{34}{36}$ will be the probability of his receiving that also; the probability of his dying in that year being $\\frac{1}{36}$, as before.\n\nIn like manner it may be proved, that the probability of his receiving the third, fourth, fifth, &c. payment, will be $\\frac{33}{36}$, $\\frac{32}{36}$, $\\frac{31}{36}$, &c. and therefore, if the annual payments were each 1 l. and if the interest of money was not to be considered, we might conceive these several probabilities, as the present worths of the several payments, and the sum of them would be the value of an annuity of the first kind.\n\nBut since the interest of money necessarily enters the process, and since the payments become due at the end of the first, second, third, &c. year; therefore the first of these payments must be discounted for one year, the second for two years, the third for three years, &c. and the sum of their present worths will be the value of an annuity of the first kind, to continue during the life of a person, who may possibly live 36 years; and this sum may be found by an easy and well-known process (from the common tables of compound interest and annuities), which need not be inserted here.\nThe annuity secured by land must necessarily be of greater value than the above; because, altho' the annuitant dies before the payment becomes due, yet his heirs are to receive a part thereof; the annuitant, therefore, in this case, hath not only the probability $\\frac{3}{5}$ of receiving the first payment, but he hath also an expectation upon part of the probability $\\frac{1}{6}$, which, in the first case, was wholly against him. Now it may be esteemed an equal chance (supposing him to die in the first year) whether that decease happens before the expiration of half that year, or after it; and if it happens before, he is to receive less than half the annual payment; but if after it, more.\n\nThe annuitant may, therefore, be supposed to have an equal chance, if he fails of receiving the whole first payment, yet of receiving half thereof; and, consequently, half of the probability, $\\frac{1}{6}$, which was before totally against him, will (in this case) be favourable to him; and his expectation of receiving either the whole, or at least half of the first payment, will be $\\frac{3}{5} + \\frac{1}{6}$.\n\nIn like manner, since the probability of his dying, in the second year, is, also, $\\frac{1}{6}$; we may (by arguing in the same manner) prove, that one half thereof will (in this case) become favourable to him; and, consequently, that $\\frac{3}{4} + \\frac{1}{6}$ will be the probability of his receiving the whole, or at least half, of the second payment.\n\nIt appears, therefore, that, for every year which he hath the possibility of living, he will (in this case) have the probability ($\\frac{1}{2}$ or) half of $\\frac{1}{6}$ in his favour, more than he had in the former case; and therefore, if the present worths of the constant sum $\\frac{1}{2}l$. (supposed\nposed to be due at the end of one, two, three, &c., years) be found, and added to the value of the annuity, according to the former case, the sum will be the value of an annuity, secured by land, to continue during the life of a person who may possibly live 36 years.\n\nNow since the sums, whereby the former annuity is to be increased, consist of the present worths of that fraction of a pound sterling (whose numerator is unity, and denominator twice the number of years that the annuitant can possibly live) supposed to be due at the end of each of one, two, three, &c., years; it will follow, that their amount, or the difference between the values of the two annuities, will be equal to the quotient, found by dividing the value of an annuity of £1. certain, for as many years as the annuitant can possibly live, by twice that number of years: And, therefore, if to the value of an annuity for life, of the first kind, we add the quotient so found; the sum will be the value of an annuity, of the second kind, for the same life.\n\nWhen I had thus investigated the value of this annuity, I compared the result with that Mr. De Moivre has deduced from fluxions, which is published in No 473. of the Philosophical Transactions; and found, that they agree to more than a sufficient exactness, for computations of this nature; I have, therefore, annexed that comparison hereto.\n\nThe above-mentioned author, and others, have also calculated the probabilities of survivorship, by a fluxional process; which probabilities will flow from what is above premised, by a very easy calculus; in the doing which, the above yearly probabilities of the annuitant\nnuitant's receiving the whole first, second, third, &c. payment, or at least the halves of them (being, in fact, the probabilities of his living the whole of those years, or at least the halves of them), are called the expectations of life, in those years.\n\nMr. De Moivre has proved, on another occasion, that, if there be an expectation, to take place upon the happening of two independent events, the probability of the compound event, will be the product of the two single probabilities: Now, if there be an expectation, depending on one man's surviving another, it must necessarily be compounded of the probabilities of the one's living, and of the other's dying. Now let the person, upon whose surviving the expectation depends, be of such an age, that he may possibly live 36 years; and let the person, who is to be survived, be of that age, that he may possibly live 43 years: Then since the survivor's expectation of life will, in the first, second, third, &c. year, be $\\frac{1}{36} + \\frac{1}{72}$, $\\frac{1}{36} + \\frac{1}{72}$, $\\frac{1}{36} + \\frac{1}{72}$, &c. and since the probability of the other's dying, in any one year, will be $\\frac{1}{43}$; therefore, if the former be severally multiplied by the latter, the products arising, viz. $\\frac{1}{36} + \\frac{1}{72} \\times \\frac{1}{43}$, $\\frac{1}{36} + \\frac{1}{72} \\times \\frac{1}{43}$, $\\frac{1}{36} + \\frac{1}{72} \\times \\frac{1}{43}$, &c. will exhibit the probabilities of the survivorship's taking place, in the first, second, third, &c. years.\n\nFor the above expectations contain the probabilities of the survivor's living the whole, or (at least) the halves of the first, second, third, &c. years; and the constant factor, $\\frac{1}{43}$, is the probability of the other's dying, some time within one of those years; which may, therefore, be either in the first, or in the second, half year, of either of them; thro' both of which periods,\nperiods, the probability of the survivor's living is above exhibited; and, consequently, the probabilities of the survivorship's taking place, in those times, will be severally represented by the above products.\n\nNow the sum of 36 terms of this series of products; will, upon computation, appear to be $\\frac{1}{4} \\cdot \\frac{8}{3}$; which is, therefore, the probability of the survivorship required.\n\nBut if, instead of requiring, as above, the probability of the elder person's surviving the younger, it were required to find the probability of the younger person's surviving the elder; then, since it is almost a certainty, that both of them will not die in the same moment of time; we may, by denoting that certainty by unity (agreeable to another principle established in the doctrine of chances) determine the probability required to be $(1 - \\frac{1}{4} \\cdot \\frac{8}{3})$ or $\\frac{2}{4} \\cdot \\frac{5}{3}$: The algebraic investigation of each of these cases is annexed, to which I beg leave to refer, for a farther illustration; and shall only observe, farther, that the above two results will, upon comparison with those given, upon a fluxional process by Mr. De Moivre, in his treatise of annuities on lives, appear to coincide with them exactly.\n\nThe probability of any order of survivorship, that can happen among three persons, and, consequently, that of one person's surviving two others, may, likewise, be investigated upon similar principles, without the assistance of fluxions; but as this problem admits of six cases, and the algebraic process is of a length, too great for the designed limits of this essay, I beg leave to postpone it.\nA comparison of the result of the foregoing investigation of the value of an annuity for life (secured by land), with the value thereof, given by Mr. De Moivre, in p. 67. of No. 473. of the Philosophical Transactions.\n\nIf the annual payment, or rent, be supposed to be £1.; if the rate of interest (that is, the amount of £1. and its interest for one year) be denoted by $r$; the number of years which the annuitant may possibly live (called by Mr. De Moivre the complement of life) by $n$; and the value of an annuity of £1. per annum, certain for $n$ years, by $P$: Then, by Prob. I. of Mr. De Moivre's treatise of annuities on lives, the value of an annuity (not secured by land) for the life of a person, whose complement is $n$, will be $\\frac{1 - r}{r - 1} \\cdot \\frac{P}{n}$; to which if $\\frac{P}{2n}$ be added, the sum $\\frac{1 - r}{r - 1} \\cdot \\frac{P}{n} + \\frac{P}{2n}$ will, according to the result of the above investigation, be the value of an annuity (secured by land) for the life of the same person: And if the hyperbolic logarithm of $r$ be denoted by $\\alpha$; then, by the above-quoted Philosophical Transaction, $\\frac{1}{r - 1} \\cdot \\frac{P}{\\alpha^n}$ will be the value of the same annuity, according to Mr. De Moivre: Let us proceed, therefore, to examine, whe-\nther these two expressions, viz. \\(\\frac{1 - r}{n} P + \\frac{P}{2 n}\\) and \\(\\frac{1}{r - 1} - \\frac{P}{a n}\\) are equal, or nearly so.\n\nIt is well known, that the hyperbolic logarithm of any number, \\(r\\), is equal to the infinite series,\n\n\\[\n\\frac{2}{1} \\times \\frac{r-1}{r+1} + \\frac{2}{3} \\times \\frac{r-1}{r+1}^3 + \\frac{2}{5} \\times \\frac{r-1}{r+1}^5 \\&c.\n\\]\n\nand, in this case (since the interest of money has not, for many years, exceeded 5l. per cent. and is continually decreasing), \\(r\\) will be always expounded by some of the following numbers, 1.05. 1.04. 1.03. &c. or others intermediate to them; in the greatest of which (viz. 1.05) \\(r - 1\\) will be expounded by (.05 or) \\(\\frac{1}{20}\\), and \\(r + 1\\) by (2.05 or) \\(\\frac{4}{5}\\); whence, \\(\\frac{2}{1} \\times \\frac{r-1}{r+1}\\), the first term of the series will be \\(\\frac{2}{41}\\), and \\(\\frac{2}{3} \\times \\frac{r-1}{r+1}^3\\) will be \\(\\left(\\frac{2}{3} \\times \\frac{1}{41^3} = \\right) \\frac{2}{206763}\\), a fraction too small to affect a calculation of this kind; and therefore, \\(\\frac{2}{1} \\times \\frac{r-1}{r+1}\\), the first term of the series, will be nearly equal to \\(a\\), and may be wrote for it.\n\nNow by writing \\(\\frac{2}{1} \\times \\frac{r-1}{r+1}\\) for \\(a\\), the value of the expression, \\(\\frac{1}{r - 1} - \\frac{P}{a n}\\), will become \\(\\frac{1}{r - 1} - \\frac{1}{r + 1}\\).\n\\[ \\frac{r+1}{r-1} \\times P = \\frac{r+1}{r-1} \\times 2n; \\] and it remains, only, to prove the equality of the expressions, \\( \\frac{1-P}{r-1} + \\frac{P}{2n} \\) and \\( \\frac{1}{r-1} - \\frac{r+1}{r-1} \\times P \\), which may be done as follows:\n\nPut \\( \\frac{1-r}{n} \\times \\frac{P}{r-1} + \\frac{P}{2n} = N. \\)\n\nThen \\( 1 - \\frac{r}{n} P + \\frac{r-1}{2n} P = \\frac{r-1}{r-1} \\times N; \\)\n\nBut, because \\( \\frac{r}{n} = \\frac{2r}{2n}, \\)\n\nAnd \\( \\frac{2r}{2n} - \\frac{r-1}{2n} = \\frac{r+1}{2n}; \\)\n\nTherefore \\( 1 - \\frac{r+1}{2n} P = \\frac{r-1}{r-1} \\times N, \\)\n\nWhence \\( \\frac{1}{r-1} - \\frac{r+1}{r-1} \\times P = N: \\)\n\nAnd the equality of the two expressions is evident: From whence it appears, that the value of an annuity for life (secured by land) might have been found, exactly enough, without the assistance of fluxions.\n\nThe\nThe investigation of the probabilities of survivorship between two persons of given ages.\n\nLet the complement of the younger life be denoted by \\( n \\), and that of the elder by \\( p \\): Then,\n\nFirst, If the probability of the elder person's surviving the younger be required, let the symbol \\( p \\) be used instead of the number 36, and it will (from the argument above used) appear, that the expectations of the survivor's life, for the first, second, third, &c. years, will be represented by \\( \\left( \\frac{p-1}{p} + \\frac{1}{2p}, \\frac{p-2}{p} + \\frac{1}{2p}, \\frac{p-3}{p} + \\frac{1}{2p}, \\&c. \\right) \\) or \\( \\left( \\frac{2p-1}{2p}, \\frac{2p-3}{2p}, \\frac{2p-5}{2p}, \\&c. \\right) \\), which expectations, being severally multiplied into \\( \\frac{1}{n} \\), the yearly probability of the other's dying, will give \\( \\frac{2p-1}{2pn}, \\frac{2p-3}{2pn}, \\frac{2p-5}{2pn}, \\&c. \\) for the probability of the survivorship's taking place, in the first, second, third, &c. years.\n\nNow since, by the hypothesis, the survivor cannot possibly out-live \\( p \\) years; therefore, only, \\( p \\) terms of the above series are to be used; which series, being an arithmetical progression, whose greatest term is \\( \\frac{2p-1}{2pn} \\), least term \\( \\frac{1}{2pn} \\), and number of terms \\( p \\); the sum thereof will, by a well-known rule, be\n\n\\[\n\\left( \\frac{2p-1}{2pn} + \\frac{1}{2pn} \\times \\frac{p}{2} = \\frac{2p}{2np} \\times \\frac{p}{2} = \\frac{p}{2n} \\right)\n\\]\n\nwhich\nexpression is exactly the same as Mr. De Moivre gives, in the 44th page of the 3d edition of his treatise of annuities on lives; which by the demonstration thereof, given in fol, 116. of the same work, appears to have been obtained by a fluxional process.\n\nSecondly, If the probability of the younger person's surviving the elder be required; then, if $\\frac{2n-1}{2n}$, $\\frac{2n-3}{2n}$, $\\frac{2n-5}{2n}$, &c. the yearly expectations of the continuance of the life of the younger, be severally multiplied by $\\frac{1}{p}$, the yearly probability of the elder's dying; the products, $\\frac{2n-1}{2np}$, $\\frac{2n-3}{2np}$, $\\frac{2n-5}{2np}$, &c. will give the probabilities of the survivorship's taking place, in the first, second, third, &c. years.\n\nAnd here, as before, the survivorship must necessarily take place, before, or at, the end of $p$ years, the longest time that the elder can possibly live, by supposition; and therefore, the sum of $p$ terms, of the series above given, will be the answer.\n\nNow this series is, also, an arithmetical progression, whose greatest term is $\\frac{2n-1}{2np}$; least, $\\frac{2n-2p+1}{2np}$; and number of terms, $p$; whence\n\n$$\\left( \\frac{2n-1}{2np} + \\frac{2n-2p+1}{2np} \\right) \\times \\frac{p}{2} = \\frac{4n-2p}{2np} \\times \\frac{p}{2} = \\frac{4n-2p}{2n} \\times \\frac{1}{2} = \\frac{2n-p}{2n} = 1 - \\frac{p}{2n}$$\n\nwill be the probability required; to which, if $\\frac{p}{2n}$, the pro-\nprobability of the elder's surviving the younger, be added; the sum will be unity, as was above observed.\n\nLXIII. A Letter to Mr. Peter Collinson, F. R. S. concerning the Pheasant of Pennsylvania, and the Otis Minor. By Mr. George Edwards.\n\nTo Mr. Peter Collinson, F. R. S.\n\nSIR,\n\nAccording to your request, and by your assistance, I have drawn up a brief account of the fowl, called a pheasant in Pennsylvania, in order to lay it, together with the birds, before the Royal Society.\n\nThe coloured print, Plate XV. represents what is called the pheasant in Pennsylvania and other provinces of North America, tho' it rather belongs to that genus of birds, which in England we call heathcocks, moor-game, or grouse. It is near as big as a pheasant, of a brownish colour on the head and upper side, and white on the breast and belly; beautifully variegated with lighter and darker colours on the back, and spots of black on the under side. Its legs are feathered down to the feet, which will appear by the bird preserved dry, here present, as well as by the print in miniature. As this bird is, in my judgment, wholly unknown to the curious of our country, I shall,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105176.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 14,
+    "total-input-tokens": 20342,
+    "total-output-tokens": 5809,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1248,
+        2
+      ],
+      [
+        1248,
+        2864,
+        3
+      ],
+      [
+        2864,
+        4574,
+        4
+      ],
+      [
+        4574,
+        6351,
+        5
+      ],
+      [
+        6351,
+        8000,
+        6
+      ],
+      [
+        8000,
+        9916,
+        7
+      ],
+      [
+        9916,
+        11574,
+        8
+      ],
+      [
+        11574,
+        12863,
+        9
+      ],
+      [
+        12863,
+        14225,
+        10
+      ],
+      [
+        14225,
+        15059,
+        11
+      ],
+      [
+        15059,
+        16525,
+        12
+      ],
+      [
+        16525,
+        17961,
+        13
+      ],
+      [
+        17961,
+        19122,
+        14
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105176",
+    "title": "A Letter to the Right Honourable George Earl of Macclesfield, P. R. S. concerning the Value of an Annuity for Life, and the Probability of Survivorship. By Mr. James Dodson",
+    "authors": "James Dodson",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 14,
+    "jstor_url": "https://www.jstor.org/stable/105176"
+  }
+}

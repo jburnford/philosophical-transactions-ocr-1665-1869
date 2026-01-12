@@ -1,0 +1,59 @@
+{
+  "id": "8a699ddfd441300299b23ff379a2d402cbf788a9",
+  "text": "CHAPTER VII.\n\nOf the President.\n\nI. The business of the President shall be, to preside in all the meetings, and regulate all the debates, of the Society, Council, and Committees; to state and put questions both in the affirmative and negative, according to the sense and intention of the meetings; to call for reports and accounts from Committees, and others; to check irregularities, and to keep all persons to order; to summon all extraordinary meetings of the Society, Council, and Committees, upon any urgent occasions; and to execute, or see to the execution of, the Statutes of the Society.\n\nII. Whencesover any question shall be desired to be put by any Fellow, at a meeting of the Society, Council, or Committee, and seconded by another, the President shall put the same; unless, upon debate, the sense of the meeting appear to be otherwise.\n\nIII. The President shall take place of every Fellow of the Society, at their ordinary place of meeting; and also in all other places, where any number of the Fellows meet as a Society, Council, or Committee; and, being in the Chair, is to be covered, while speaking unto or hearing particular Fellows, notwithstanding their being uncovered.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106556.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 314,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1191,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106556",
+    "title": "Of the President",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106556"
+  }
+}

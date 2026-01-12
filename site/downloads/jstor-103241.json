@@ -1,0 +1,199 @@
+{
+  "id": "e1df4f3afabd0d1490c0ef7b4b1b0888d5aa79a9",
+  "text": "Sagittal Suture, cross'd from one Parietal-Bone to the other, as far as the Coronal Suture on that side opposite to the Wound; another had gone across the Coronal Bone; and the third was on the Parietal Bone on the side of the Wound, pretty near the Sutura Squamosa; but what is most singular, is that none of these Fissures did reach that, upon which the Trepan had been applied. An Empyema was found in the Thorax, and a considerable Impoikthume in the Liver.\n\nII. Jo. Keill ex Æde Christi Oxoniensis, A. M. Epistola ad Clarissimum Virum Edmundum Halleium Geometriae Professorem Savilianum, de Legibus Virium Centripetarum.\n\nHAUD oblitus es, uti arbitror, Vir Clarissime, te cum nuper eflles Oxonii, Theorema, quo Lex vis centripetae, Quantitatibus finitis exhiberi posset, mecum communicatæ: Quod Theorema tibi monstravit Egregius Mathematicus D. Abrahamus De Moivre, Dixitque Dominum Haacum Newtonum, Theorema huic simile prius Invenisse. Cum autem ejus demonstratio perfacilis fit, Eam, itemque alia de eadem re cogitata, non possum tibi non impertire. Etsi minime dubitem, quin, si idem argumentum pertractare libuisset, tu accurimo quo polles ingenij acumine, rem omnem penitus exhauste potuisse.\n\nTHEO.\nTHEOREMA.\n\nSi corpus Urgente vi Centripetâ in curva aliqua movetur; Erit vis illa in quovis curva puncto, in ratione composita ex directâ ratione distinctae corporis à centro virium, & reciproca ratione Cubi perpendicularis à Centro in rectam in eodem puncto Curvam Tangentem demisse, ducti in Radium Curvaturæ quem ibi oblinet curva.\n\nSit Q A O Curva qualibet à mobili urgente vi centripeta ad punctum S tendente descripta. Sitque A1 O arcus in minimo quovis tempore percurtus, P m ejus tangens, A R Radius circuli æquicurvi, hoc est cujus Peripheria pars minima cum Arcu A O coincidat. Et sit S P recta a puncto S in tangentem perpendiculariter demissa; Ducantur O m ad S A & O n ad S P Parallelæ. Et exponat O m vim qua mobile in A urgetur versus S. Vis qua perpendiculariter à tangente recedit corpus, erit ut O n, id est vis tendens versus R & faciens ut mobile, cadem qua prius velocitate latum, describet circulum æquicurvum arcui A O erit ad vim tendentem versus S, qua corpus in curva A O movetur, ut O n ad O m, vel ob æquiangula triangula ut S P ad S A. Sed corporum in circulis latorum vires centripetæ sunt ut quadrata velocitatum applicata ad Radios; per Corol. Theorem. 4. Princip. Newtoni.\nEst vero velocitas reciproce ut SP, sive directe ut $\\frac{1}{SP}$ adeoque quadratum velocitatis erit ut $\\frac{1}{SP^2}$: vis igitur ut On, sive vis qua in circulo æquicurvo moveri potest corpus, erit ut $\\frac{1}{SP^2 \\times AR}$. Ostensum autem est, esse SP ad SA ut vis tendens versus R, qua corpus in circulo æquicurvo moveri potest, ad vim tendentem versus S: sed est vis tendens versus R ut $\\frac{1}{SP^2 \\times AR}$, adeoque cum sit $SP : SA :: \\frac{1}{SP^2 \\times AR} : \\frac{SA}{SP^3 \\times AR}$ erit vis tendens versus S, ut $\\frac{SA}{SP^3 \\times AR}$. Q. E. D.\n\nCor Si curva QAO sit circulus, erit vis centripeta tendens versus S, ut $\\frac{SA}{SP^3}$. Adeoque si vis centripeta tendat ad S punctum in circumferentia situm, erit [per 32 tertii] ang. PAS = ang. AQS; adeoque ob similia triangula ASP, ASQ, erit AQ : AS :: AS : SP:\n\nunde $SP = \\frac{AS^2}{AQ}$ & $SP^3 = \\frac{AS^6}{AQ^3}$ unde $\\frac{SA}{SP^3} = \\frac{SA \\times AQ^3}{AS^6} = \\frac{AQ^3}{AS^5}$, hoc est, ob-datum AQ, erit vis reciproce ut AS$^5$.\nSit DAB, Ellipsis cu-\njus Axis DB, foci F & S,\nAR, OR duæ perpen-\ndiculares in curvam fibi\nproximæ: ducantur KL;\nOT in SA, & KM in\nOR perpendicularares.\nQuia SA : SK :: (a)\nFA + SA : FS, hoc\neft data ratione, erunt\nrectarum SA, SK Flux-\niones AT, Kk ipfis SA,\nSK proportionales; & est\nAL = (b) lateris Recti\n= L. Porro ob KA\nad SP parallelam, est\nangulus ASP = KAL\n= TOA ob ang. TAO\nutriusque complemen-\ntum ad rectum: quare\nKA : AL :: SA : SP,\nunde SP = \\frac{L \\times SA}{2} KA &\nKA = \\frac{L \\times SA}{2 SP}. Porro ob æquiangula triang. KMK,\nGPS & OTA, SPA.\nEft KM : Kk :: GP : GS :: AP : SK.\nItem Kk : AT :: SK : SA\nItem AT : AO :: AP : SA\nErit KM : AO :: AP^2 : SA^2 :: SA^2 - SP^2 : SA^2\n:: SA^2 - \\frac{L^2 \\times SA^2}{4 AK^2} : SA^2 :: 4 AK^2 - L^2 : 4 AK^2,\nunde L^2 : 4 AK^2 :: (AO - KM : AO :: ) AK : AR\n\n(a) Prop. 3. El. 6ii. (b) Prop. 6. partis 4ta Sott.Con. Milnij.\nae proinde \\( AR = \\frac{4AK^3}{L^2} \\). Eodem prorsus ratiocinio\nInvenietur Radius Curvaturæ in Hyperbola æqualis\n\\( \\frac{4AK^3}{L^2} = \\frac{L \\times SA^3}{2SP^3} \\).\n\nIn Parabola vero facilitor est calculus. Nam ob datam subnormalem, est\n\\( Kk \\) semper \\( = AT = Fluxioni Axis; & triangula\n\\( KkM, ATO, SPA, AKL, æquiangula, unde KM:\n\\( Kk :: AP, SA, item est\n\\( AT vel Kk:AO::AP:SA,\nunde KM: AO :: AP :: SA^2 :: SA^2 - SP^2 : SA^2 :: \\)\nunde erit \\( SP^2 : SA^2 :: AO -\nKM: AO :: AK:AR,\nac proinde \\( AR = \\frac{SA^2 \\times AK}{5P^2} \\);\n\nsed est \\( AL = \\frac{1}{2} \\) lateris Recti \\( = \\frac{1}{2} L, & AK:AL::SA:SP,\nquare erit \\( \\frac{L \\times SA}{2AK} = SP, & SP^2 = \\frac{L^2 \\times SA^2}{4AK^2}, quare e-\nrit \\( AR = \\frac{4AK^3}{L^2}, vel quoniam est, \\( AK = \\frac{L \\times SA}{2SP},\nerit \\( AR = \\frac{L \\times SA^3}{2SP^3} \\).\n\nAtque ex his facillima oritur constructio, pro determi-\nnando Radio curvaturæ in quavis Sectione Conica. Sit\nenim \\( AK \\) perpendicularis in Sectionem occurrens Axi in\n\\( K, ex K super \\( AK \\) erigatur perpendicularis \\( HK, cum\n\\( AS \\) producta concurrēns in \\( H. Ex \\( H \\) erigatur super\n\\( AH, perpendicularis \\( HR, erit \\( AR \\) radius curvaturæ.\n\nIn\nIn Parabola paulo simplicior adhuc evadit constructio. Nam quoniam ex natura Parabolæ est $SA = SK$, & ang. $AKH$ rectus, erit $S$ centrum circuli per $AKH$ transeuntis, unde invenitur Radius curvaturæ producendo $SA$ in $H$, ut $SH = SA$, & in $H$ erigendo perpendicularem $HR$; Et $R$ erit centrum circuli osculantis Parabolam in $A$.\n\nVis Centripeta tendens ad focum Sectionis Conicæ in qua corpus movetur, est reciproce proportionalis quadrato distantiæ. Nam quoniam\n\n$$AR = \\frac{L \\times SA^5}{2SP^3} \\text{ erit } \\frac{SA}{SP^3 \\times AR}$$\n\n$$= \\frac{SA \\times 2SP^3}{SP^3 \\times L \\times SA^3} = \\frac{2}{L \\times SA^2}$$\n\nhoc est ob datam $\\frac{2}{L}$ erit vis centripeta ut $\\frac{1}{SA^2}$.\n\nSit Ellipsis BAD quam tangit in $A$ recta $GE$. Sinque $SP$ per centrum Ellipsis & $KA$ per contactum, transeuntes, perpendiculares in tangentem. Erit $SP \\times KA = \\text{quartæ partis figuræ Axis seu } = \\text{quadrato semiaxis mino-}$$\nvis = BO × DE. Nam ob æquiangula triang. GBO,\nGLA, GAK, GPS & GDE,\n\nSP : SG :: BO : GO\nSG : DG :: BG : LG :: GO : GA\nDG : DE :: GA : AK,\n\nunde SP : DE :: BO : AK; & SP × AK = DE × BO\n= ½ L × SB.\n\nHinc si Mobile moveatur in Ellipfi, vi centripeta tendente ad centrum Ellipfi, erit vis illa directe ut distantia; Nam est \\( \\frac{SP^3 \\times 4AK^3}{L^2} \\) dati quantitati. Quia est SP × AK quantitas data. Vis igitur, ut \\( \\frac{SA}{SP^3 \\times AR} \\), erit ut SA distantia.\n\nIn figura tertia Demissa ab altero umbilico F: in Tangentem Perpendiculari FI. Ob æquiangula Triangula SAP, FAI, erit SA : SP :: FA : FI = \\( \\frac{SP \\times FA}{SA} \\),\n\nunde erit SP × FI = \\( \\frac{SP^2 \\times FA}{SA} \\) quadrato semiaxis minoris: unde si Axis major vocetur b, minor autem 2 d,\n\nerit \\( SP^2 = \\frac{d^2 SA}{b - SA} \\) & \\( SP = \\frac{d \\cdot SA^\\frac{1}{2}}{\\sqrt{b - SA}} \\).\n\nIn Hyperbola autem est \\( SP = \\frac{d \\cdot SA^\\frac{1}{2}}{\\sqrt{b + SA}} \\).\n\nIn Parabola est \\( SP = \\sqrt{d \\cdot SA} \\), posito ejus latere recto = 4 d.\n\nQuoniam est TA² : TO² :: AP² : SP² :: SA²\n\n\\( SP^2 : SP^2 :: SA^2 - \\frac{d^2 SA}{b - SA} : \\frac{d^2 SA}{b - SA} :: SA - \\frac{d^2 SA}{b - SA} \\)\n\n\\( \\frac{d^2}{b - SA} :: b \\cdot SA - SA^2 - d^2 : d^2 \\), erit \\( \\sqrt{b \\cdot SA - SA^2 - d^2} : d \\).\n\\[\\frac{d}{dT} \\cdot TA : TO \\text{ cumque sit } TA = SA, \\text{ erit } TO = \\frac{dSA}{\\sqrt{bSA - SA^2 - d^2}}.\\]\n\nSit jam QAO. Quilibet curva, cujus arcus minimus sit A O, tangentes in punctis A & O, AP, OP. Radius Curvaturae AR, Perpendicularares in tangentibus sint SP, SP, erit \\(\\frac{SA \\times TA}{fP} = AR\\). Nam ob equiangula triangula est:\n\n\\[fP : AO :: PA : RA\\]\n\\& \\(AO : TA :: SA : PA;\\)\nunde ex æquo erit \\(fP : TA\\) vel \\(SA :: SA : RA\\), est vero \\(fP = SP\\), quare erit \\(RA = \\frac{SA \\times SA}{SP}\\).\n\nHinc si distantia SA, in suam Fluxionem ducatur, dividatur per Fluxionem perpendicularis, habebitur radius Curvaturae; Quo Theoremate facile determinatur Curvatura in Radialibus curvis. Exempli Gratia. Sit AQ, Spiralis Nautica; quoniam angulus SAP datur, ratio quoque SA ad SP dabatur; fit illa ratio \\(a\\) ad \\(b\\), erit \\(SP = \\frac{bSA}{a}\\) \\& \\(SP = \\frac{bSA}{a}\\) \\& \\(AR = \\frac{SASA}{SP}\\)\n\n\\[= \\frac{SA}{b}, \\text{ unde facile constabit, Spiralis Nautica Evolutam esse eandem Spirealem, in alia positione.}\\]\n\nQuoniam \\(AR = \\frac{SASA}{SP}\\), erit \\(\\frac{SA}{SP \\times AR} = \\frac{SP}{SP \\times SA}\\)\n\nAtque hinc rursus, ex data relatione SA ad SP, facile invenietur lex vis centripetæ.\n\nExem-\nExemplum. Sit V A B Ellipsis cujus focus S, Axis major VB = b, Axis minor = 2d, latus Rectum = 2R. Sitque V a Q alia curva, ita ad hanc relata, ut sit perpetuo angulus V S A angulo V S a proportionalis, & sit S a = S A. Quæritur lex vis centripetæ tendentis ad S, qua corpus in curva V a Q moveri potest.\n\nQuoniam ang. V S A est ad V S a, in data ratione; horum angulorum incrementa erunt in eadem ratione, sitque ea ratio m ad n; unde erit o t = \\frac{n \\times OT}{m}.\n\nEst autem OT = \\frac{d S A}{\\sqrt{b S A - S A^2 - d^2}}.\n\nunde erit o t = \\frac{n d S A}{m \\sqrt{b S A - S A^2 - d^2}}.\n\nQuoniam autem est S A^2 + S P^2 : SP^2 :: t a^2 + o t^2 : o t^2\n\n\\therefore S A^2 + \\frac{n^2 d^2 S A^2}{m^2 b S A - S A^2 - d^2} : \\frac{n^2 d^2 S^2}{m^2 b S A - S A^2 - d^2}\n\n\\therefore 1 + \\frac{n^2 d^2}{m^2 \\times b S A - S A - d^2} : \\frac{n^2 d^2}{m^2 \\times b S A - S A^2 - d^2} ::\n\nm^2 b S A - m^2 S A^2 - m^2 d^2 + n^2 d^2 : n^2 d^2, unde erit\n\n\\sqrt{m^2 b S A - m^2 S A^2 - m^2 d^2 + n^2 d^2} : n d :: S A :\n\nSP, & S P = \\frac{n d S A}{\\sqrt{m^2 b S A - m^2 S A^2 - m^2 d^2 + n^2 d^2}}.\n\nCujus ut habeatur fluxio pro m^2 b S A - m^2 S A^2 -\n\\( m^2 d^2 + n^2 d^2 \\). Seribatur \\( x \\) & erit \\( SP = \\frac{n d SA}{x} \\),\n\n\\& \\( SP^3 = \\frac{n^3 d^3 SA^3}{x^3} \\); & eft \\( \\dot{x} = m^2 b SA - 2 m^2 SASA \\),\n\n\\& \\( S \\dot{P} = \\frac{n d SA}{x} \\times x - \\frac{1}{2} \\frac{n ASAX}{x^2} \\), & reducendo partes ad eundem denominatorem; erit \\( S \\dot{P} = \\frac{n d SA}{x} \\times x - \\frac{1}{2} \\frac{n d SA}{x} \\).\n\nEt in numeratore loco, \\( x \\) & \\( \\dot{x} \\), ponendo ipforum valores, & ordinando fit \\( SP = \\frac{n d SA \\times \\frac{1}{2} m^2 b SA - m^2 d^2 + n^2 d^2}{x^2} \\), unde erit \\( \\frac{SP}{SP^3 \\times SA} \\)\n\n\\( = \\frac{\\frac{1}{2} m^2 b SA - m^2 d^2 + n^2 d^2}{n^2 d^2 SA^3} \\). Sed eft \\( \\frac{SP}{SP^3 \\times SA} \\),\n\nut vis centripeta, quare erit vis, ut \\( \\frac{m^2 b SA - m^2 d^2 + n^2 d^2}{n^2 d^2 SA^3} \\)\n\nvel ob datam \\( n^2 d^2 \\) in denominatore erit vis, ut \\( \\frac{\\frac{1}{2} m^2 b SA - \\frac{1}{2} m^2 b R + \\frac{1}{2} n^2 b R}{SA^3} \\), vel loco \\( d^2 \\) ponendo \\( \\frac{b R}{2} \\),\n\nerit vis ut \\( \\frac{\\frac{1}{2} m^2 b SA - \\frac{1}{2} m^2 b R + \\frac{1}{2} n^2 b R}{SA^3} \\), seu ob datam \\( \\frac{b}{2} \\), ut \\( \\frac{m^2 SA - R m^2 + R n^2}{SA^3} = \\frac{m^2}{SA^2} + \\frac{R n^2 - R m^2}{SA^3} \\).\n\nQuae omnia exacte coincidunt, cum iis quae à Domino Newtono de vi centripeta corporis in eadem curva moti, traduntur, in Prop. 44. Princip.\n\nQuoniam vis Centripeta tendens ad punctum S, qua urgente corpus in curva moveri potest, est semper ut \\( \\frac{SP}{SP^3 \\times SA} \\); hinc ex data lege vis Centripetæ, Inveniri\npotest relatio S·A ad S·P, ac proinde per methodum Tangentium Inversam, exhiberi potest Curva quae data vi Centripeta describi possit.\n\nSit verbi gratia Vis reciproce ut distantiæ Dignitas quælibet \\( m \\), hoc est, sit\n\n\\[\n\\frac{S·P}{S·P^3 \\times S·A} = \\frac{b}{a^2 S·A^m},\n\\]\n\nerit\n\n\\[\n\\frac{S·P}{S·P^3} = \\frac{b S·A}{a^2 S·A^m},\n\\]\n\n& capiendo harum fluxionum fluentes; erit\n\n\\[\n\\frac{d}{dS·P^2} = b \\frac{SA^{1-m} + e}{m-1 \\times a^2},\n\\]\n\nunde erit\n\n\\[\n\\frac{m-1 \\times a^2}{b S·A^{1-m} + e} = S·P^2,\n\\]\n\n& multiplicando tam numeratorem, quam denominator fractionis, per \\( S·A^{m-1} \\); & loco \\( \\frac{m-1}{2} \\times a^2 \\) ponendo \\( d^2 \\), fit\n\n\\[\n\\frac{d^2 S·A^{m-1}}{b + e S·A^{m-1}} = S·P^2;\n\\]\n\nquare erit \\( S·P = \\frac{d \\sqrt{S·A^{m-1}}}{\\sqrt{b + e S·A^{m-1}}} \\).\n\nQuod si quantitas constans \\( e \\) sit nihilo æqualis erit \\( S·P = \\frac{\\sqrt{S·A^{m-1}}}{\\sqrt{b}} \\).\n\nAdeoque si vis reciproce ut distantiæ quadratum, ponni potest \\( S·P = \\frac{\\sqrt{d^2 S·A}}{\\sqrt{b}} \\), & curva erit parabola cujus latus rectum est \\( \\frac{4d^2}{b} \\), vel potest esse \\( S·P = d \\times \\frac{\\sqrt{S·A}}{\\sqrt{b} - S·A} \\),\n\n& curva erit Ellipsis vel denique potest esse \\( S·P = d \\times \\frac{\\sqrt{S·A}}{\\sqrt{b} \\times S·A} \\), & curva evadit Hyperbola.\nSi vis sit reciproce ut distantiae cubus supponi potest,\nut \\( S P \\) sit \\( = \\frac{dS}{b} \\), & curva sit spiralis Nautica, vel fieri\npoteat ut sit \\( S P = \\frac{dS}{\\sqrt{b - eSA}} \\), & Curva erit eadem\ncum ea cujus constructionem à sectore hyperbolæ petit\nDominus Newtonus; vel poteat esse \\( S P = \\frac{dS}{\\sqrt{b + eSA^2}} \\),\n& ejus Curvae constructionem per Sectores Ellipticos tra-\ndit idem Newtonus, Cor. 3. Prop. 1. lib. 1. Princip.\n\nSi vis centripeta sit reciproce ut distantia; relatio inter\n\\( SA \\) & \\( SP \\), æquatione Algebraica definiri nequit, Curva\ntamen per Logarithmicam vel per quadraturam Hyper-\nbolæ construitur, sit enim \\( SP = \\frac{d}{\\sqrt{b - LS}} \\), ubi \\( LS \\)\ndesignat Logarithmum ipsius \\( SA \\).\n\nHæc omnia sequuntur ex celebritissimâ nunc dierum\nFluxionum Arithmetica, quam fine omni dubio Primus\nInvenit Dominus Newtonus, ut cui libet ejus Epistolas\nà Wallisio editas legenti, facile constabit, eadem tamen\nArithmetica postea mutatis nomine & notationis modo;\nà Domino Leibnitio in Actis Eruditorum edita est.\n\nMoveatur jam corpus in Curva Q A O, vide fig. 1. ur-\ngente vi centripeta tendente ad \\( S \\); & Celeritas corporis\nin A dicatur \\( C \\); celeritas autem qua corpus urgente ca-\ndem vi centripeta, in eadem distantia, in circulo moveri\npoteat, dicatur \\( c \\). Constat ex Theoremate primo,\nquod si \\( SA \\) exponat vim Centripetam tendentem ad \\( S \\);\nvis Centripeta tendens ad \\( R \\), qua urgente, corpus cum\nceleritate \\( C \\), circulum cujus radius est \\( AR \\) describet;\nper \\( SP \\) exponetur. Corporum autem circulos descripten-\ntium, vires Centripetæ sunt ut velocitatum quadrata ad\ncirculorum radios applicata, quare erit \\( SP : SA : : \\)\n\\[\n\\frac{C^2}{AR} : \\frac{c^2}{SA}, \\text{ unde erit } SP \\times AR : SA^2 :: C^2 : c^2 & C : c :: \\sqrt{SP \\times AR} : SA.\n\\]\n\nSi SP cum SA coincidat, ut fit in figurarum verticibus erit \\(C : c :: \\sqrt{AR} : \\sqrt{SA}\\). Quod si curva sit Section Conica AR, radius curvaturae in ejus vertice est æqualis dimidio lateris recti \\(= \\frac{1}{2} L\\), ac proinde erit velocitas corporis in vertice Sectionis, ad velocitatem corporis in eadem distantia circulum describentis, in dimidiata ratione lateris recti, ad distantiam illam duplicatam.\n\nQuoniam est \\(AR = \\frac{SA \\times SA}{SP}\\), erit \\(C^2 : c^2 :: \\frac{SP \\times SA \\times SA}{SP} : SA^2 :: \\frac{SP \\times SA}{SP} : SA :: SP \\times SA : SA \\times SP\\), adeoque ex data relatione SP ad SA, dabitur ratio C ad c, Exempli Gratia. Si vis fit reciproce ut distantiae dignatas \\(m\\), hoc est fit \\(\\frac{SP}{SP \\times SA} = \\frac{b}{a^2 SA^m}\\);\n\n& erit \\(SP = \\frac{b SP^3 \\times SA}{a^2 SA^m}\\), adeoque erit \\(C^2 : c^2 :: \\frac{SP \\times SA}{a^2 SA^m} : b SP^2\\).\n\nUnde si ponatur \\(SP^2 = \\frac{d^2 SA^{m-1}}{b} = \\frac{m-1}{2} \\frac{a^2 SA^{m-1}}{b}\\),\n\nerit \\(C^2 : c^2 :: a^2 SA^{m-1} : \\frac{m-1}{2} a^2 SA^{m-1} :: m-1 : 2\\)\n\nac proinde erit \\(C : c :: \\sqrt{\\frac{m-1}{2}} : \\sqrt{m-1}\\).\n\nQuod si ponatur \\(SP^2 = \\frac{d^2 SA^{m-1}}{b-e SA^{m-1}} = \\frac{m-1}{2} \\frac{a^2 SA^{m-1}}{b-e SA^{m-1}}\\),\n\nfiet \\(C^2\\) ad \\(c^2\\), ut \\(a^2 SA^{m-1}\\) ad \\(\\frac{m-1}{2} \\frac{a^2 b SA^{m-1}}{b-e SA^{m-1}}\\), hoc est\nut \\( b - e S A^{m-1} \\) ad \\( \\frac{m-1}{2} b \\), sed est ratio \\( b - e S A^{m-1} \\),\nad \\( \\frac{m-1}{2} \\times b \\), minor ratione \\( b \\) ad \\( \\frac{m-1}{2} b \\), seu ratione 2 ad\n\\( m - 1 \\), unde erit C ad c in minore ratione quam est\n\\( \\sqrt{2} \\) ad \\( \\sqrt{m - 1} \\).\n\nSimiliter, si capiatur \\( SP = \\frac{d_2 S A^{m-1}}{b + e S A^{m-1}} \\), invenietur ef-\nfe C ad c in majore ratione quam est \\( \\sqrt{2} \\) ad \\( \\sqrt{m - 1} \\).\n\nCor. Si corpus in Parabola moveatur, & vis Centri-\npeta tendat ad focum S, erit velocitas corporis, ad\nvelocitatem corporis in eadem distantiâ, circulum de scri-\nbentis ubique ut \\( \\sqrt{2} \\) ad 1, nam in eo casu est \\( m = 2 \\) &\n\\( m - 1 = 1 \\). Velocitas corporis in Ellipsi est ad veloci-\ntatem corporis, in circulo ad eandem distantiam moti, in\nminore ratione quam \\( \\sqrt{2} \\) ad 1. Velocitas in Hyperbola\nest ad velocitatem in circulo in majore ratione, quam \\( \\sqrt{2} \\)\nad 1.\n\nSi Corpus in Spirali Nautica deferatur, est ejus veloci-\ntas ubique æqualis velocitati corporis in eadem distantia\ncirculum describentis nam in eo casu est \\( m = 3 \\) & \\( m - 1 =\n2 \\).\nPROBLEMA.\n\nPosito quod vis Centripeta (cujus quantitas absoluta nova est,) sit reciproce ut distantiae quadratum & projiciatur corpus secundam datam rectam cum data velocitate. Invenire curvam in qua movetur corpus.\n\nProjiciatur Corpus secundum datam rectam A B, cum data velocitate C. Et quoniam quantitas absoluta vis centripetæ nota est, dabitur inde velocitas qua corpus possit circulum ad distantiam S A describere urgente eadem vi; est enim æqualis ei quæ acquiritur dum corpus vi illâ uniformiter applicata urgente, cadit per \\( \\frac{1}{2} \\) S A. Sit illa velocitas c. Ex A in A B, erigatur perpendicularis A K, & in ea Capiatur A R, quarta proportionalis ipsis c² C² & \\( \\frac{SA^2}{SP} \\) & erit A R, radius curvaturæ in A. Ex R in A S demittatur perpendicularis R H & ex H in A R perpendicularis H K, & ducta recta S K, dabit axis positionem; Fiat angulus F A K = angulo S A K. Et si F A sit ad S K Parallela figura in qua movetur corpus erit Parabola. Si autem Axi S K occurrat in F; & puncta S & F, cadant ad eandem partem puncti K, figura erit Hyperbola; sin ad contrarias partes cadant puncta S & F, erit figura Ellipsis, unde focis S & F & Axe = S A + F A describetur sectio, in qua corpus movebitur.\n\nIII. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103241.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 23892,
+    "total-output-tokens": 7699,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1211,
+        2
+      ],
+      [
+        1211,
+        2417,
+        3
+      ],
+      [
+        2417,
+        3446,
+        4
+      ],
+      [
+        3446,
+        4328,
+        5
+      ],
+      [
+        4328,
+        5535,
+        6
+      ],
+      [
+        5535,
+        6481,
+        7
+      ],
+      [
+        6481,
+        7769,
+        8
+      ],
+      [
+        7769,
+        8998,
+        9
+      ],
+      [
+        8998,
+        10141,
+        10
+      ],
+      [
+        10141,
+        11668,
+        11
+      ],
+      [
+        11668,
+        12941,
+        12
+      ],
+      [
+        12941,
+        14645,
+        13
+      ],
+      [
+        14645,
+        16127,
+        14
+      ],
+      [
+        16127,
+        17252,
+        15
+      ],
+      [
+        17252,
+        18479,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103241",
+    "title": "Jo. Keill ex Aede Christi Oxoniensis, A. M. Epistola ad Clarissimum Virum Edmundum Halleium Geometriae Professorem Savilianum, de Legibus Virium Centripetarum",
+    "authors": "Jo. Keill",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/103241"
+  }
+}

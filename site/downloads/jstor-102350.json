@@ -1,0 +1,79 @@
+{
+  "id": "421726f43197c7f0035cbc0d1c6f374d0bbab315",
+  "text": "I. A Letter from Dr. Charles Morley to Dr. Bernard Conner, F. R. S. giving an Account of the Bones of a Fetus voided per Anum, some Years after Conception.\n\nQuoniam Literas meas, Vir Doctissime, de praeter-naturali Fetus excretione nuper ad te conscriptas coram Illustrißima Societate Regia communicare tibi visum fuerit, quin et insuper a me exigis ut in ejusdem monstri disquisitione ulterius prosequendà persistam. En tibi quicquid super hac re comperire potuit summa mea diligentia: Ego enim cum puerperium istud Quadragesinta annorum intervenit a nobis remotum esse considerarem; licet metuerim ut circumstantiae omnes tanto temporis situ obscuratae in lucem vindicari a nobis aegre possint, ut vestra tamen expectationi, singulari meae erga Societatem observantiae aliquantulum satisfaciam; tentanda omnia, adeundas illico omnes censue, si qua oculatae olim testes, causum tam memorabilem et certius confirmare possent, plenius patetfacere: Rem itaque omnem prout ab iphus Puerperae amicis et familiaribus relata mihi erat, sic Accipe Mulier quaedam plebeia, sed non inconcinna, Nomine Maria Kid, 30 circiter Annos nata, Fetus anteæ enixa, habitans in pago dicto Swasy, Sc. circa Annum 1658. imprægnata cepit utero ingravescere, per totum Gravidationis\nsionis decursum ordinaria Symptomata, suo quae tempore, se ostendebant; obstetricem tandem accerit, & expectatos parturientium dolores passa est: Quod cum post aliquot dies nihil promoveri sentiret, & remittente dolore omni superesse tamen abdominis Tumor; admirabunda animi, ad usitata tamen munia se se confert; Excurrit alter Annum integer, at illa à ventris onere neuitquam liberata est, excurrit & semialter, manent miseriae. Attonita itaque Mulier, & quo se vertat ignara, opem tamen aliunde petendam sibi esse non ignorat, & Morbum suum extraordinarium extraordino remedio tentat abigere: Erat enim tunc temporis in oppido Sti. Ivonis Rusticus quidam, & absurdus planè, sordidusq; homo, qui cum filius esset natu septimus, id est à Patre masculinâ virtute predito in numero mystico progigneretur; occultâ qualitate in medicum non incelebrem forturato evaserat, & proprietate nascendi consecratus est in Marborum terriculamentum: Hic vir itaque stive Arcanum hocce Medicum, cum ad Misseram accerferetur, non ingrato quopiam medicamine, sed mera loci affecti attricatione opitalaturum se pollicetur. Creditit Ægra, (tantum religio potuit suadere) convocatis itaque vicinis mulierculis, discissaque circa utrumq; hypochondrium camishâ ventrem suum ambabus Manibus demulcendum Ægra præbit: Ista vero uteri quasi Benedictione finita, cystim ligneam parare jussa est, & quicquid utero exiret, in ea recondere: Nulla mora, in praesto stat arca; post duas circiter hebdomadas Ossicum non per uterinas vias, sed per Anum rejicitur, & per aliquot temporis intervalla Alta permulta excernuntur; quamdiu enim ultra statutos gravidationis terminos utero intumuerat Mulier, tantundem plane temporis in deficiendis istis sedibus ossis emensa est. In Arcam omnia religiosissime reponuntur ossa, quorum cantus erat numerus, tot distinctae apparebant calvariae, ut tres Fecus in utero materno tam diù intumulatos jacuisse omnes exilib.\nExistimarent: Quae enim Arcam istam cum Contentis & viderunt, & apud se aliquando asservarunt, multa in promptu mihi sunt Testes, fide dignae; at in Quorum manibus ultimo resedit Arca, neque exploratione ul. a hac tenus indagare potui, neque ulterius explorare supersedebo. Ipsam vero matrem post tam diuturnas cadaveros partus arumnas incolumen tamen praestitit & quae, verum integra, quem prius abscessum pro Faetus exitu molita erat, eadem jam resarcivit, & sic Quae prius obstetricis, jam Medici partes agebat. At tantis beneficiis frui nescivit inconsulta Mulieris temeritas, post duos enim Annos cum ad Nundinas Sturbrigenses prope Cantabrigiam habitas, Equo successe vekeretur, recrudescente, ob motus violentiam ulcer Extincta est.\n\nSum Tuus, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102350.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1355,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1259,
+        2
+      ],
+      [
+        1259,
+        3184,
+        3
+      ],
+      [
+        3184,
+        3938,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102350",
+    "title": "A Letter from Dr. Charles Morley to Dr. Bernard Conner, F. R. S. Giving an Account of the Bones of a Faetus Voided per Anum, Some Years after Conception",
+    "authors": "Charles Morley",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102350"
+  }
+}

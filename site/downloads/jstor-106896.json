@@ -1,0 +1,59 @@
+{
+  "id": "6263a733ae3732450904776facda6f9532a4527a",
+  "text": "ERRATA.\n\nPage 190 line 2 from bottom, note, for description, read Description.\nPage 192 line 2 from bottom, note, dele L. after Indicar.\nIbid. line last, for Statius, read Tatius.\n\nN. B. The pagination of sheet Ii is wrong throughout in the hundreds; 141 being put for 241, and so on.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106896.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 152,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        284,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106896",
+    "title": "Errata",
+    "authors": null,
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106896"
+  }
+}

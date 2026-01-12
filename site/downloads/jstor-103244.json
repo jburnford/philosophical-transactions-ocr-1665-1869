@@ -1,0 +1,59 @@
+{
+  "id": "1ed0280be946ef1925bba9c04475f2c3926ce3bb",
+  "text": "I shall then do it with the same Pleasure, as I am at present, and shall always be, My Lord, with the greatest Respect,\n\nYour Excellency's\n\nmost Humble\n\nand most Obedient Servant,\n\nBourguignon.\n\nERRATA.\n\nPhilosoph. Transact. Numb. 316. p. 125. l. 12. and p. 137. l. 14. for Capt. Wine read Capr. Winde.\n\nLONDON,\nPrinted for H. Clements at the Half-Moon in St. Paul's Church-yard. MDCCIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103244.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 196,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        387,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103244",
+    "title": "Errata",
+    "authors": null,
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103244"
+  }
+}

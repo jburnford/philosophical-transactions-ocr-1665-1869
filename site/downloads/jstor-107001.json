@@ -1,0 +1,289 @@
+{
+  "id": "e0f0c046fdc3729020ce63f14f4162b90e782407",
+  "text": "VIII. Manière élémentaire d'obtenir les Suites par lesquelles s'expriment les Quantités exponentielles et les Fonctions trigonométriques des Arcs circulaires. Par M. Simon L'Huillier, F. R. S.\n\nRead February 18, 1796.\n\nL'usage des logarithmes, et celui des fonctions trigonométriques des arcs de cercle, tels que sont les sinus, cosinus, tangentes, &c. sont si frequens dans les parties les plus élémentaires des mathématiques, soit pures soit mixtes, qu'on doit regarder ces quantités comme appartenant aux élémens; et que leur calcul doit entrer dans un traité élémentaire.\n\nEn s'en tenant à la manière ordinaire de présenter les logarithmes dans les élémens, on fait comprendre la possibilité de leur calcul plutôt qu'on ne peut le développer. Outre celui, la dépendance mutuelle des opérations successives par lesquelles on parvient à un résultat approché, exige dans chacune d'elles une exactitude, qui complique et prolonge le calcul, au point qu'il est bien peu de mathématiciens modernes, qui eussent pour les progrès des sciences le dévouement qu'ont eu l'auteur de cette belle découverte, et ceux qui ont poursuivi et complété ce calcul penible, avant qu'on eût trouvé les voies directes et indépendantes les unes des autres de parvenir aux mêmes résultats.\nLes mêmes difficultés et les mêmes longueurs se présentent dans les calculs des fonctions des arcs circulaires, quand on s’en tient aux voies élémentaires développées jusqu’à présent. Le nombre des extractions de racines, et leur dépendance mutuelle, sont telles, qu’elles exigent un travail affraîant, qui devient superflu, quand le calcul de chaque fonction est rendu direct.\n\nAussi dans le développement de l’une et de l’autre de ces matières, est-on obligé d’abandonner ces voies longues et pénibles ; et en profitant des tables heureusement déjà calculées, ou à coutume de renvoyer aux calculs supérieurs l’exposition des procédés abbreviés et directs par lesquels on parvient aux mêmes résultats. Quelques mathématiciens il est vrai, et en particulier Euler dans son Introductio, ont exposé ces derniers procédés d’une manière qui paraît les rapprocher des éléments. Mais, si on examine avec quelque soin la marche de ce mathématicien, on trouvera qu’elle est entièrement fondée sur le principe de l’infini ; tout au moins trop obscur, pour qu’on puisse regarder comme élémentaires des méthodes auxquelles il sert de base.\n\nJ’espère avoir évité ces inconvénients ; et avoir rendu l’exposition de la théorie générale des quantités exponentielles, et des fonctions des arcs circulaires, entièrement élémentaire et indépendante de toute idée de l’infini. La liaison intime qui règne entre les procédés par lesquels je calcule l’une et l’autre de ces espèces de fonctions, est remarquable, et propre à éclaircir l’analogie qui règne entre elles. Cette analogie, il est vrai, est connue depuis longtemps des mathématiciens ; mais, comme elle a été réduite aux expressions imaginaires d’une\nde ces espèces de fonctions dans l’autre, elle meritoit d’être présentée d’une manière plus lumineuse.\n\nLa méthode que je vais exposer est conforme à celle qu’a emploïée un mathématicien trop modeste et trop peu connu, mon ami M. Pfleiderer, Professeur à Tubingue, en démontrant le théorème de Taylor dans sa dissertation intitulée Theorematis Tayloriani Demonstratio : Tubingæ, 1789.\n\n§ 1. Lemme. Les différences des puissances des nombres naturels d’un ordre exprimé par l’exposant de ces puissances, est une quantité constante ; savoir, le produit continuel des nombres naturels depuis l’unité jusqu’à cet exposant ; et partant, les différences des mêmes puissances d’un ordre supérieur évanouissent.\n\nJe pourrois regarder cette proposition comme connue. Mais, comme elle est une des principales de ce mémoire, et que sa démonstration est facile, je crois devoir l’exposer en abrégé.\n\n1. Les différences premières des nombres naturels sont égales à l’unité, et les différences suivantes évanouissent.\n\n2. Les différences premières des nombres quarrés, sont \\( n^2 - (n - 1)^2 = 2n - 1 \\). Donc, les différences secondes des nombres quarrés sont les doubles des différences premières des nombres naturels ; et partant 1.2. Et les différences suivantes évanouissent.\n\n3. Les différences premières des cubes, sont \\( n^3 - (n - 1)^3 = 3nn - 3n + 1 \\). Donc, les différences troisièmes, qui sont les différences secondes des différences premières, sont les triples des différences secondes des nombres quarrés ; savoir 1.2.3 ; et les différences suivantes évanouissent.\n\nEn general. Les différences premières des puissances dont\nl’exposant est $m$, sont $n^m - (n-1)^m = \\frac{m}{1} n^{m-1} - \\frac{m}{1}, \\frac{m-1}{2} n^{m-2}$\n\n$+ \\frac{m}{1} \\ldots \\frac{m-2}{3} n^{m-3} \\ldots$. Les différences $m^{mes}$ de ces puissances,\n\nqui sont les différences $m-1$ des différences premières, sont\n\nles différences $m-1^{mes}$ des puissances des nombres naturels\n\ndont les exposants sont $m-1$ ou plus petits que $m-1$; af-\n\nfectées de coefficients constants. Partant, s’il a été prouvé que\n\nles différences $m-1^{mes}$ des $m-1^{mes}$ puissances des nombres\n\nnaturels, sont la quantité constante $1.2.3 \\ldots m-1$; et que\n\nles différences du même ordre des puissances inférieures éva-\n\nnouissent; on obtient aussi que les différences $m^{mes}$ des $m^{mes}$\n\npuissances, valent $m$ fois le produit $1.2.3 \\ldots m-1$; ou sont\n\nle produit $1.2.3 \\ldots m$; et que les différences des ordres su-\n\npérieurs évanouissent.\n\n*Avis.* Pour abréger, je désignerai par $\\Delta^p (a^m \\ldots - n^m)$ les\n\ndifférences de l’ordre $p$ des puissances $m^{mes}$ des nombres natu-\n\nrels, depuis $a$ jusqu’à $n$.\n\n**Première Partie. Sur les Logarithmes.**\n\n§ 2. *Lemme.* Soit une progression géométrique, commen-\n\nçante par l’unité, *p. ex.* Les différences de tous les ordres\n\ndes termes de cette progression forment aussi une progression\n\ngéométrique, dont l’exposant est le même que celui de la pre-\n\nmière, et dont les termes sont les produits des termes de la\n\npremière progression par la différence des deux premiers termes\n\nélévée à une puissance dont l’exposant est égal à l’ordre de\n\nMDCCXCVI.\ncette différence. Soit $1, a, a^2, a^3, a^4, \\ldots, a^{n-1}$ une progression géométrique :\n\nLa suite des différences premières, est\n\n$$a - 1, a^2 - a, a^3 - a^2, a^4 - a^3, a^5 - a^4, \\ldots, a^n - a^{n-1};$$ ou,\n\n$$(a - 1) (1, a, a^2, a^3, a^4, \\ldots, a^{n-2}).$$ De-là,\n\nla suite des différences secondes, est\n\n$$(a - 1)^2 (1, a, a^2, a^3, a^4, \\ldots).$$ La suite\n\ndes différences troisièmes, est\n\n$$(a - 1)^3 (1, a, a^2, a^3, a^4, \\ldots).$$ La suite\n\ndes différences quatrièmes, est\n\n$$(a - 1)^4 (1, a, a^2, a^3, a^4, \\ldots).$$\n\nLa suite des différences $m^{me}$, est\n\n$$(a - 1)^m (1, a, a^2, a^3, a^4, \\ldots).$$\n\n§ 3. Lemme. Soit $a^z$ une quantité exponentielle dans laquelle $a$ est plus grande que l’unité. Cette quantité est plus grande que l’unité ou plus petite que l’unité, suivant que $z$ est positif ou négatif; et dans l’un et l’autre cas cette quantité approche de l’unité d’autant plus que $z$ est plus petit : de manière que l’unité est la limite en grandeur ou en petitesse de $a^z$ suivant que $z$ est positif ou négatif.\n\nCorollaire. $a^z$ est une fonction de $z$ de la forme $1 + Az + Bz^2 + Cz^3 + Dz^4 + \\ldots$\n\n§ 4. Soit donc proposée la quantité exponentielle $a^z$ à exprimer dans son exposant $z$;\n\nSoit $a^z = 1 + Az + Bz^2 + Cz^3 + Dz^4 + Ez^5 + \\ldots$\n\nOn aura aussi...\n\n$$a^{2z} = 1 + 2Az + 2^2Bz^2 + 2^3Cz^3 + 2^4Dz^4 + 2^5Ez^5 + \\ldots$$\n\n$$a^{3z} = 1 + 3Az + 3^2Bz^2 + 3^3Cz^3 + 3^4Dz^4 + 3^5Ez^5 + \\ldots$$\n\n$$a^{4z} = 1 + 4Az + 4^2Bz^2 + 4^3Cz^3 + 4^4Dz^4 + 4^5Ez^5 + \\ldots$$\nSoient prises les différences premières ; on aura\n\n\\[(a^x - 1) \\cdot a^x = A z + (2^x - 1) B z^2 + (2^3 - 1) C z^3 + (2^4 - 1) D z^4 + (2^5 - 1) E z^5 + \\ldots.\\]\n\n\\[(a^x - 1) \\cdot a^{2x} = A z + (3^x - 2^x) B z^2 + (3^3 - 2^3) C z^3 + (3^4 - 2^4) D z^4 + (3^5 - 2^5) E z^5 + \\ldots.\\]\n\n\\[(a^x - 1) \\cdot a^{3x} = A z + (4^x - 3^x) B z^2 + (4^3 - 3^3) C z^3 + (4^4 - 3^4) D z^4 + (4^5 - 3^5) E z^5 + \\ldots.\\]\n\nOr ; puisque \\(a^x = 1 + A z + B z^2 + C z^3 + D z^4 + \\ldots.\\)\n\n\\[a^x - 1 = A z + B z^2 + C z^3 + D z^4 + \\ldots.\\]\n\nEt les premiers termes de tous les premiers membres des équations précédentes sont \\(A z\\). Mais, les premiers termes de tous les seconds membres des mêmes équations, sont aussi \\(A z\\).\n\nDonc, on a pour ces premiers termes des expressions identiques, desquelles on ne peut rien déterminer pour la valeur de \\(A\\). Partant, le coefficient \\(A\\) demeure indéterminé.\n\nSoient prises les différences secondes ; on aura\n\n\\[(a^x - 1)^2 \\cdot a^x = \\Delta^{ii} (3^x - 1^x) B z^2 + \\Delta^{ii} (3^3 - 1^3) C z^3 + \\Delta^{ii} (3^4 - 1^4) D z^4 + \\Delta^{ii} (3^5 - 1^5) E z^5 + \\ldots.\\]\n\n\\[(a^x - 1)^2 \\cdot a^{2x} = \\Delta^{ii} (4^x - 2^x) B z^2 + \\Delta^{ii} (4^3 - 2^3) C z^3 + \\Delta^{ii} (4^4 - 2^4) D z^4 + \\Delta^{ii} (4^5 - 2^5) E z^5 + \\ldots.\\]\n\n\\[(a^x - 1)^2 \\cdot a^{3x} = \\Delta^{ii} (5^x - 3^x) B z^2 + \\Delta^{ii} (5^3 - 3^3) C z^3 + \\Delta^{ii} (5^4 - 3^4) D z^4 + \\Delta^{ii} (5^5 - 3^5) E z^5 + \\ldots.\\]\n\nPuisque \\(a^x - 1 = A z + B z^2 + C z^3 + D z^4 + \\ldots\\); le premier terme de tous les premiers membres des équations précédentes est \\(AA z^2\\). Mais, le premier terme de tous les seconds membres, est (\\$ 1) \\(1.2 B z^2\\). Donc, égalant les coefficients des puissances secondes de \\(z\\), on a \\(AA = 1.2 B\\); ou,\n\n\\[B = \\frac{1}{1.2} AA.\\]\nSoient prises les différences troisièmes ; on obtient\n\n$$(a^z - 1)^3 a^x = \\Delta^{iii}(4^3...1^3) Cz^3 + \\Delta^{iii}(4^4...1^4) Dz^4 + \\Delta^{iii}(4^5...1^5) Ez^5 + \\Delta^{iii}(4^6...1^6) Fz^6 + \\ldots$$\n\n$$(a^z - 1)^3 a^2x = \\Delta^{iii}(5^3...2^3) Cz^3 + \\Delta^{iii}(5^4...2^4) Dz^4 + \\Delta^{iii}(5^5...2^5) Ez^5 + \\Delta^{iii}(5^6...2^6) Fz^6 + \\ldots$$\n\n$$(a^z - 1)^3 a^3x = \\Delta^{iii}(6^3...3^3) Cz^3 + \\Delta^{iii}(6^4...3^4) Dz^4 + \\Delta^{iii}(6^5...3^5) Ez^5 + \\Delta^{iii}(6^6...3^6) Fz^6 + \\ldots$$\n\nOn montre de même ; que, le premier terme des premiers membres de toutes ces équations est $A^3 z^3$ ; tandis que le premier terme des seconds membres est $1.2.3 Cz^3$. Donc ; $1.2.3 C = A^3$ ; et $C = \\frac{1}{1.2.3} A^3$.\n\nSoient prises les différences quatrièmes ; on obtient\n\n$$(a^z - 1)^4 a^x = \\Delta^{iv}(5^4...1^4) Dz^4 + \\Delta^{iv}(5^5...1^5) Ez^5 + \\Delta^{iv}(5^6...1^6) Fz^6 \\ldots$$\n\n$$(a^z - 1)^4 a^2x = \\Delta^{iv}(6^4...2^4) Dz^4 + \\Delta^{iv}(6^5...2^5) Ez^5 + \\Delta^{iv}(6^6...2^6) Fz^6 \\ldots$$\n\n$$(a^z - 1)^4 a^3x = \\Delta^{iv}(7^4...3^4) Dz^4 + \\Delta^{iv}(7^5...3^5) Ez^5 + \\Delta^{iv}(7^6...3^6) Fz^6 \\ldots$$\n\nLes premiers termes des premiers membres de ces équations sont $A^4 z^4$. Mais, les premiers termes des seconds membres sont $1.2...4 Dz^4$. Donc ; $1.2...4 D = A^4$ ; et $D = \\frac{1}{1.2...4} A^4$.\n\nOn montre de la même manière ; en prenant les différences cinquièmes, sixièmes, septièmes . . . . . .\n\nqu’on a les équations . . . . . . $A^5 = 1.2...5 E$; $A^6 = 1.2...6 F$; $A^7$\n\n$= 1.2...7 G$ . . . . . .\n\net partant ; . . . . . . . $E = \\frac{1}{1.2...5} A^5$; $F = \\frac{1}{1.2...6} A^6$; $G$\n\n$= \\frac{1}{1.2...7} A^7$ . . . . . .\nOn a donc ; \\( a^z = 1 + Az + \\frac{A^2}{1.2} z^2 + \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 + \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots \\).\n\nDe même... \\( a^{-z} = 1 - Az + \\frac{A^2}{1.2} z^2 - \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 - \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots \\).\n\nDe-là; \\( \\frac{a^z + a^{-z}}{2} = 1 + \\frac{A^2}{1.2} z^2 + \\frac{A^4}{1.2.3.4} z^4 + \\frac{A^6}{1.2.3.4.5.6} z^6 + \\ldots \\)\n\n\\( \\frac{a^z - a^{-z}}{2} = Az + \\frac{A^3}{1.2.3} z^3 + \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots \\).\n\nRemarque. On parvient donc par un procédé purement élémentaire, fondé sur une propriété essentielle et première des progressions géométriques (§ 2.), aux suites qu’on a déduites jusqu’à présent des calculs supérieurs, ou du moins, de l’introduction de l’infini.\n\nIl est connu ; que, \\( a \\) est la base du système logarithmique ; que \\( A \\) en est le module, et faisant \\( z = 1 \\), la rélation de \\( a \\) à \\( A \\), est exprimée par l’équation, \\( a = 1 + A + \\frac{A^2}{1.2} + \\frac{A^3}{1.2.3} + \\frac{A^4}{1.2.3.4} + \\ldots \\). Faisant \\( A = 1 \\), le système est celui des logarithmes naturels, dont la base est désignée par \\( e \\). De la dernière suite, on peut exprimer \\( A \\) en \\( a \\), soit par la méthode du retour des suites ; ou plutôt, par la voie que je développerai bientôt, après avoir fait sur ce qui précède quelques observations.\n\n§ 5. Soit développé le binome \\( (1 + A \\frac{z}{n})^n \\). On obtient\n\n\\[ 1 + Az + \\frac{n-1}{1} \\frac{A^2}{n^2} z^2 + \\frac{n-1}{2} \\frac{A^3}{n^3} z^3 + \\frac{n-1}{3} \\frac{A^4}{n^4} z^4 + \\ldots \\frac{n-4}{5} \\frac{A^5}{n^5} z^5 + \\ldots \\]\n\\[ = 1 + Az + \\frac{1}{2} A^2 z^2 + \\frac{1}{3} A^3 z^3 + \\frac{1}{4} A^4 z^4 + \\ldots \\]\n\nPlus \\( n \\) augmente, plus les facteurs \\( 1 - \\frac{1}{n}, 1 - \\frac{2}{n}, 1 - \\frac{3}{n}, \\ldots \\) approchent d'être égaux à l'unité; et partant, plus \\( n \\) est grand, plus la suite précédente approche d'être\n\n\\[ 1 + Az + \\frac{A^2}{1.2} z^2 + \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 + \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots \\]\n\nde manière que cette suite est la limite du binome \\( (1 + \\frac{Az}{n})^n \\).\n\nDonc aussi, la quantité \\( a^\\infty \\) est la limite du binome \\( (1 + \\frac{Az}{n})^n \\); la quantité \\( a^{-\\infty} \\) est la limite du binome \\( (1 - \\frac{Az}{n})^n \\); et les quantités \\( \\frac{a^\\infty \\pm a^{-\\infty}}{2} \\), sont les limites des quantités \\( (1 + A \\frac{z}{n})^n \\pm (1 - A \\frac{z}{n})^n \\).\n\n§ 6. Je passe à l'expression de \\( z \\) en \\( a \\) et \\( A \\).\n\nPuisque \\( a^\\infty = 1 + Az + \\frac{A^2}{1.2} z^2 + \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 + \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots \\)\n\nSoit \\( z = n \\Delta z \\); on aura aussi,\n\n\\[ a^{\\Delta z} = 1 + A \\Delta z + \\frac{A^2}{1.2} \\Delta z^2 + \\frac{A^3}{1.2.3} \\Delta z^3 + \\frac{A^4}{1.2.3.4} \\Delta z^4 + \\frac{A^5}{1.2.3.4.5} \\Delta z^5 + \\ldots \\]\n\net \\( a^\\infty = a^{n \\Delta z} = (a^{\\Delta z})^n = (1 + A \\Delta z + \\frac{A^2}{1.2} \\Delta z^2 + \\frac{A^3}{1.2.3} \\Delta z^3 + \\frac{A^4}{1.2.3.4} \\Delta z^4 + \\frac{A^5}{1.2.3.4.5} \\Delta z^5 + \\ldots)^n = 1 + v. \\)\n\nDe-là; \\( (A \\Delta z + \\frac{A^2}{1.2} \\Delta z^2 + \\frac{A^3}{1.2.3} \\Delta z^3 + \\frac{A^4}{1.2.3.4} \\Delta z^4 + \\frac{A^5}{1.2.3.4.5} \\Delta z^5 + \\ldots) = (1 + v)^{\\frac{1}{n}} - 1, \\)\nof obtaining the Serieses of circular Arcs.\n\n\\[ \\Delta z + \\frac{A}{1.2} \\Delta z^2 + \\frac{A^2}{1.2.3} \\Delta z^3 + \\frac{A^3}{1.2.3.4} \\Delta z^4 + \\ldots = n \\left( (1 + v)^{\\frac{1}{n}} - 1 \\right) \\]\n\n\\[ = \\left( v - \\frac{1}{1.2} v^2 + \\frac{1}{1.2.3} v^3 - \\frac{1}{1.2.3.4} v^4 + \\ldots \\right) \\]\n\nOr, (par supp.) \\( n \\log_2 (1 + A \\Delta z + \\frac{A^2}{1.2} \\Delta z^2 + \\frac{A^3}{1.2.3} \\Delta z^3 + \\frac{A^4}{1.2.3.4} \\Delta z^4 + \\frac{A^5}{1.2.3.4.5} \\Delta z^5 + \\ldots) = \\log_2 (1 + v) \\)\n\nou, \\( n \\log_a \\Delta z = \\log_a (1 + v) \\); et \\( n \\Delta z \\log_a a = \\log_a 1 + v \\);\n\nou, faisant \\( a \\) la base du système, et partant \\( \\log_a a = 1 \\),\n\n\\[ A \\log_a (1 + v) \\left( 1 + \\frac{A}{1.2} \\Delta z + \\frac{A^2}{1.2.3} \\Delta z^2 + \\frac{A^3}{1.2.3} \\Delta z^3 + \\frac{A^4}{1.2.3.4} \\Delta z^4 + \\frac{A^5}{1.2.3.4.5} \\Delta z^5 + \\ldots \\right) \\]\n\n\\[ = v - \\frac{1}{1.2} v^2 + \\frac{1}{1.2.3} v^3 - \\frac{1}{1.2.3.4} v^4 + \\ldots \\]\n\n\\[ = v - \\frac{\\Delta z}{z} v^2 + \\frac{\\Delta z}{z} v^3 - \\frac{\\Delta z}{z} v^4 + \\ldots \\]\n\nCette équation aïant toujours lieu ; elle a lieu en particu-\nlier entre les limites de ses membres ; qui\nsont \\( A \\log_a (1 + v) \\); et \\( v - \\frac{1}{2} v^2 + \\frac{1}{3} v^3 - \\frac{1}{4} v^4 + \\frac{1}{5} v^5 - \\ldots \\).\n\ndonc; \\( A \\log_a (1 + v) = v - \\frac{1}{2} v^2 + \\frac{1}{3} v^3 - \\frac{1}{4} v^4 + \\frac{1}{5} v^5 - \\ldots \\).\n\n\\[ A \\log_a 1 - v = -v - \\frac{1}{2} v^2 - \\frac{1}{3} v^3 - \\frac{1}{4} v^4 - \\frac{1}{5} v^5 - \\ldots \\]\n\n\\[ A \\log_a \\frac{1+v}{1-v} = 2 \\left( v + \\frac{1}{3} v^3 + \\frac{1}{5} v^5 + \\ldots \\right) \\]\n\n\\[ A \\log_a \\sqrt{\\frac{1+v}{1-v}} = v + \\frac{1}{3} v^3 + \\frac{1}{5} v^5 + \\ldots \\]\nSoit \\(1 + v = a\\); la base du système\n\n\\[A = (a - 1) - \\frac{1}{2} (a - 1)^2 + \\frac{1}{3} (a - 1)^3 - \\frac{1}{4} (a - 1)^4 + \\frac{1}{5} (a - 1)^5 - \\ldots\\]\n\n\\[= \\frac{aa - 1}{aa + 1} + \\frac{1}{3} \\left(\\frac{aa - 1}{aa + 1}\\right)^3 + \\frac{1}{5} \\left(\\frac{aa - 1}{aa + 1}\\right)^5 + \\ldots \\text{ en faisant } \\frac{1 + v}{1 - v} = aa.\\]\n\nCe qui est la relation par laquelle le module est déterminé dans la base.\n\n§ 7. Je ne m’arrête pas aux conséquences qui découlent de ces formules connues; mon seul but étant de montrer comment on peut les obtenir par les éléments. Je donnerai pour exemple de leur utilité, la facilité avec laquelle on obtient l’équation différentielle logarithmique; de laquelle réciproquement on a déduit le calcul des logarithmes.\n\nPuisque \\(a^\\infty = 1 + Az + \\frac{A^2}{1.2} z^2 + \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 + \\frac{A^5}{1.2.3.4.5} z^5 + \\ldots\\)\n\n\\[\\frac{d.a^\\infty}{dz} = A \\left(1 + Az + \\frac{A^2}{1.2} z^2 + \\frac{A^3}{1.2.3} z^3 + \\frac{A^4}{1.2.3.4} z^4 + \\ldots\\right)\\]\n\n\\[= A.a^\\infty.\\]\n\nde-là; \\[\\frac{d^2.a^\\infty}{dz^2} = A^2.a^\\infty\\]\n\n\\[\\frac{d^3.a^\\infty}{dz^3} = A^3.a^\\infty\\]\n\n\\[\\frac{d^4.a^\\infty}{dz^4} = A^4.a^\\infty\\]\n\nRéciproquement. Puisque \\(A \\log. 1 + v = v - \\frac{1}{2} v^2 + \\frac{1}{3} v^3 - \\frac{1}{4} v^4 + \\frac{1}{5} v^5 - \\ldots\\)\n\n\\[A \\frac{d.\\log. 1 + v}{dv} = 1 - v + v^2 - v^3 + v^4 - \\ldots = \\frac{1}{1 + v}.\\]\nSeconde Partie. Sur les Sinus, Cosinus, et Tangentes, des Arcs de Cercle.\n\n§ 8. Lemmes connus. 1. La différence des sinus de deux arcs est égale au double produit du cosinus de leur demi-somme par le sinus de leur demi-différence.\n\n2. La différence du cosinus de deux arcs est égale au double produit du sinus de leur demi-somme et de leur demi-différence.\n\nSymboliquement. 1. $\\sin a - \\sin b = 2 \\cos \\frac{a + b}{2} \\sin \\frac{a - b}{2}$.\n\n2. $\\cos b - \\cos a = 2 \\sin \\frac{a + b}{2} \\sin \\frac{a - b}{2}$.\n\n§ 9. Soient : $\\sin a$, $\\sin 2a$, $\\sin 3a$, $\\sin 4a$, $\\sin 5a$, $\\sin 6a$, . . . . . . les sinus d’arcs en progression arithmétique, croissant, p. ex. comme les nombres naturels. Soient prises les différences des ordres successifs de ces sinus ; on obtient\n\nDifférences du premier ordre. $- 2 \\sin \\frac{1}{2} a (\\cos \\frac{3}{2} a, \\cos \\frac{5}{2} a, \\cos \\frac{7}{2} a, \\cos \\frac{9}{2} a, \\cos \\frac{11}{2} a, \\cos \\frac{13}{2} a, \\ldots)$\n\nDifférences du second ordre. $- 2^2 \\sin^2 \\frac{1}{2} a (\\sin 2a, \\sin 3a, \\sin 4a, \\sin 5a, \\sin 6a, \\sin 7a, \\ldots)$\n\nDifférences du troisième ordre. $- 2^3 \\sin^3 \\frac{1}{2} a (\\cos \\frac{5}{2} a, \\cos \\frac{7}{2} a, \\cos \\frac{9}{2} a, \\cos \\frac{11}{2} a, \\cos \\frac{13}{2} a, \\cos \\frac{15}{2} a, \\ldots)$\n\nDifférences du quatrième ordre. $+ 2^4 \\sin^4 \\frac{1}{2} a (\\sin 3a, \\sin 4a, \\sin 5a, \\sin 6a, \\sin 7a, \\sin 8a, \\ldots)$\n\nDifférences du cinquième ordre. $+ 2^5 \\sin^5 \\frac{1}{2} a (\\cos \\frac{7}{2} a, \\cos \\frac{9}{2} a, \\cos \\frac{11}{2} a, \\cos \\frac{13}{2} a, \\cos \\frac{15}{2} a, \\cos \\frac{17}{2} a, \\ldots)$\n\nDifférences du sixième ordre. $- 2^6 \\sin^6 \\frac{1}{2} a (\\sin 4a, \\sin 5a, \\sin 6a, \\sin 7a, \\sin 8a, \\sin 9a, \\ldots)$\n\nMDCCXCVI.\nEn général,\n\nDifférences du $2m^{me}$ ordre . . . $\\pm 2^m \\sin_{\\frac{1}{2}} a (\\sin. m + 1.a, \\sin. m + 2.a, \\sin. m + 3.a, \\sin. m + 4.a, \\ldots)$\n\nDifférences du $2m + 1^{me}$ ordre . . $\\pm 2^{m+1} \\sin_{\\frac{1}{2}} a (\\cos. \\frac{2m+3}{2} a, \\cos. \\frac{2m+5}{2} a, \\cos. \\frac{2m+7}{2} a, \\cos. \\frac{2m+9}{2} a, \\ldots)$\n\n§ 10. De même ; soient cos. $a$, cos. $2a$, cos. $3a$, cos. $4a$, cos. $5a$, cos. $6a$, . . . . . les cosinus d’arcs en progression arithmétique croissant, p. e. x. comme les nombres naturels. Soient prises les différences des ordres successifs de ces cosinus ; on obtient\n\nDifférences du premier ordre . . $- 2 \\sin_{\\frac{1}{2}} a (\\sin. \\frac{3}{2} a, \\sin. \\frac{5}{2} a, \\sin. \\frac{7}{2} a, \\sin. \\frac{9}{2} a, \\sin. \\frac{11}{2} a, \\sin. \\frac{13}{2} a \\ldots)$\n\nDifférences du second ordre . . $- 2^2 \\sin_{\\frac{1}{2}} a (\\cos. 2a, \\cos. 3a, \\cos. 4a, \\cos. 5a, \\cos. 6a, \\cos. 7a \\ldots)$\n\nDifférences du troisième ordre . . $+ 2^3 \\sin_{\\frac{1}{2}} a (\\sin. \\frac{5}{2} a, \\sin. \\frac{7}{2} a, \\sin. \\frac{9}{2} a, \\sin. \\frac{11}{2} a, \\sin. \\frac{13}{2} a, \\sin. \\frac{15}{2} a \\ldots)$\n\nDifférences du quatrième ordre . . $+ 2^4 \\sin_{\\frac{1}{2}} a (\\cos. 3a, \\cos. 4a, \\cos. 5a, \\cos. 6a, \\cos. 7a, \\cos. 8a, \\ldots)$\n\nDifférences du cinquième ordre . . $- 2^5 \\sin_{\\frac{1}{2}} a (\\sin. \\frac{7}{2} a, \\sin. \\frac{9}{2} a, \\sin. \\frac{11}{2} a, \\sin. \\frac{13}{2} a, \\sin. \\frac{15}{2} a, \\sin. \\frac{17}{2} a \\ldots)$\n\nDifférences du sixième ordre . . $- 2^6 \\sin_{\\frac{1}{2}} a (\\cos. 4a, \\cos. 5a, \\cos. 6a, \\cos. 7a, \\cos. 8a, \\cos. 9a \\ldots)$\n\nEn général,\n\nDifférences du $2m^{me}$ ordre . . . $\\pm 2^m \\sin_{\\frac{1}{2}} a (\\cos. m + 1.a, \\cos. m + 2.a, \\cos. m + 3.a, \\cos. m + 4.a, \\cos. m + 5.a \\ldots)$\n\nDifférences du $2m + 1^{me}$ ordre . . . $\\pm 2^{m+1} \\sin_{\\frac{1}{2}} a (\\sin. \\frac{2m+3}{2} a, \\sin. \\frac{2m+5}{2} a, \\sin. \\frac{2m+7}{2} a, \\sin. \\frac{2m+9}{2} a, \\sin. \\frac{2m+11}{2} a \\ldots)$\nRemarque. En omettant le facteur $2^m \\sin.\\frac{m}{2}a$ ; ces suites (de même que la suite fondamentale) reviennent sur elles mêmes, ou sont toujours différentes, suivant que $a$ est commensurable où non avec la circonférence. Ces suites sont aussi celles des sinus ou cosinus d’arcs qui suivent la progression arithmétique des nombres naturels ; seulement, avec une origine différente.\n\n§ 11. Comme $\\sin.z$ est zéro, lorsque $z$ est zéro ; et qu’outre celui le rapport d’égalité est la limite du rapport d’un arc à son sinus ; et que le sinus est plus petit que l’arc ; $\\sin.z$ est une fonction de $z$ de la forme, $z - Az^2 + Bz^3 + Cz^4 + Dz^5 + \\ldots$\n\nEt comme le cosinus d’un arc est l’unité, lorsque $z$ est zéro ; $\\cos.z$ est une fonction de $z$ de la forme $1 - Az + Bz^2 + Cz^3 + Dz^4 + Ez^5 + \\ldots$\n\n§ 12. Soit donc ; $\\sin.z = z - Az^2 + Bz^3 + Cz^4 + Dz^5 + Ez^6 + \\ldots$\n\nOn aura aussi, $\\sin.2z = 2z - 2^2Az^2 + 2^3Bz^3 + 2^4Cz^4 + 2^5Dz^5 + 2^6Ez^6 + \\ldots$\n\n$\\sin.3z = 3z - 3^2Az^2 + 3^3Bz^3 + 3^4Cz^4 + 3^5Dz^5 + 3^6Ez^6 + \\ldots$\n\n$\\sin.4z = 4z - 4^2Az^2 + 4^3Bz^3 + 4^4Cz^4 + 4^5Dz^5 + 4^6Ez^6 + \\ldots$\n\nSoient prises les différences premières ; on obtient\n\n$2\\sin.\\frac{1}{2}z\\cos.\\frac{3}{2}z = z - (2^2 - 1^2)Az^2 + (2^3 - 1^3)Bz^3 + (2^4 - 1^4)Cz^4 + (2^5 - 1^5)Dz^5 + \\ldots$\n\n$2\\sin.\\frac{1}{2}z\\cos.\\frac{5}{2}z = z - (3^2 - 2^2)Az^2 + (3^3 - 2^3)Bz^3 + (3^4 - 2^4)Cz^4 + (3^5 - 2^5)Dz^5 + \\ldots$\n\n$2\\sin.\\frac{1}{2}z\\cos.\\frac{7}{2}z = z - (4^2 - 3^2)Az^2 + (4^3 - 3^3)Bz^3 + (4^4 - 3^4)Cz^4 + (4^5 - 3^5)Dz^5 + \\ldots$\n\n$X_2$\nRéduisant en suites les facteurs du premier membre (§ 11), et exécutant les multiplications ; les premiers termes des produits sont \\( z \\); et le premier terme de chaque second membre est aussi \\( z \\); partant, nous apprenons seulement que le premier terme de l’expression du sinus est bien \\( z \\).\n\nSoient prises les différences secondes ; on obtient\n\n\\[\n-2^2 \\sin^2 \\frac{1}{2} z \\sin 2z = -\\Delta^{ii}(3^2...1^2)Az^2 + \\Delta^{ii}(3^3...1^3)Bz^3 + \\Delta^{ii}(3^4...1^4)Cz^4 + \\Delta^{ii}(3^5...1^5)Dz^5 + ...\n\\]\n\n\\[\n-2^2 \\sin^2 \\frac{1}{2} z \\sin 3z = -\\Delta^{ii}(4^2...2^2)Az^2 + \\Delta^{ii}(4^3...2^3)Bz^3 + \\Delta^{ii}(4^4...2^4)Cz^4 + \\Delta^{ii}(4^5...2^5)Dz^5 + ...\n\\]\n\n\\[\n-2^2 \\sin^2 \\frac{1}{2} z \\sin 4z = -\\Delta^{ii}(5^2...3^2)Az^2 + \\Delta^{ii}(5^3...3^3)Bz^3 + \\Delta^{ii}(5^4...3^4)Cz^4 + \\Delta^{ii}(5^5...3^5)Dz^5 + ...\n\\]\n\nOr ; le premier terme de chaque premier membre développé en suite conformément aux expressions du § 11 est \\( z^3 \\); et les premiers membres ne contiennent pas les secondes puissances de \\( z \\); tandis que le coefficient du premier terme \\( Az^2 \\) des seconds membres, qui est la différence seconde des quarrés des nombres naturels, n’évanouit pas. Donc ; dans les seconds membres, le coefficient \\( A \\) de \\( z^2 \\) est zéro.\n\nOn démontre de la même manière ; que, dans la suite,\n\n\\[\n\\sin z = z - Az^2 + Bz^3 + Cz^4 + Dz^5 + Ez^6 + ... ,\n\\]\n\nles coefficients de toutes les puissances à exposants pairs évanouissent. Savoir ; ayant pris les différences de l’ordre pair \\( zm \\) qui sont\n\n\\[\n\\pm z^{2m} \\sin z^{2m} \\frac{1}{2} z \\sin pz (\\text{§ 10.})\n\\]\n\nle premier terme du produit des facteurs développés en suites, contient la puissance impaire de \\( z \\), \\( z^{2m+1} \\); de manière que dans ces produits, la puissance paire \\( z^{2m} \\) manque ; donc, elle doit aussi manquer dans les seconds membres : or, le premier terme de chaque second membre contient la puissance paire \\( z^{2m} \\), avec deux facteurs dont l’un \\( \\Delta^{2m} n^{2m} \\) est la quantité constante \\( 1.2...2m \\) (§ 1.) et\npartant n'évanouit pas ; donc, l'autre facteur de cette puissance évanouit. Partant ; le sinus d'un arc est une fonction de cet arc, de la forme \\( \\sin z = z - Az^3 + Bz^5 + Cz^7 + Dz^9 + \\ldots \\) qui ne contient que les puissances impaires de \\( z \\).\n\nOn a donc ; \\( \\sin z = z - Az^3 + Bz^5 + Cz^7 + Dz^9 + \\ldots \\)\n\n\\[\n\\begin{align*}\n\\sin 2z &= 2z - 2^3Az^3 + 2^5Bz^5 + 2^7Cz^7 + 2^9Dz^9 + \\ldots \\\\\n\\sin 3z &= 3z - 3^3Az^3 + 3^5Bz^5 + 3^7Cz^7 + 3^9Dz^9 + \\ldots \\\\\n\\sin 4z &= 4z - 4^3Az^3 + 4^5Bz^5 + 4^7Cz^7 + 4^9Dz^9 + \\ldots\n\\end{align*}\n\\]\n\nSoient prises les différences troisièmes ; on obtient\n\n\\[\n\\begin{align*}\n-2^3 \\sin \\frac{3}{2} z \\cos \\frac{1}{2} z &= -\\Delta^{iii}(4^3...1^3)Az^3 + \\Delta^{iii}(4^5...1^5)Bz^5 \\\\\n&+ \\Delta^{iii}(4^7...1^7)Cz^7 + \\Delta^{iii}(4^9...1^9)Dz^9 + \\ldots \\\\\n-2^3 \\sin \\frac{3}{2} z \\cos \\frac{7}{2} z &= -\\Delta^{iii}(5^3...2^3)Az^3 + \\Delta^{iii}(5^5...2^5)Bz^5 \\\\\n&+ \\Delta^{iii}(5^7...2^7)Cz^7 + \\Delta^{iii}(5^9...2^9)Dz^9 + \\ldots \\\\\n-2^3 \\sin \\frac{3}{2} z \\cos \\frac{9}{2} z &= -\\Delta^{iii}(6^3...3^3)Az^3 + \\Delta^{iii}(6^5...3^5)Bz^5 \\\\\n&+ \\Delta^{iii}(6^7...3^7)Cz^7 + \\Delta^{iii}(6^9...3^9)Dz^9 + \\ldots\n\\end{align*}\n\\]\n\nRéduisant en suites les facteurs des premiers membres conformément au § 11 ; les premiers termes de ces membres sont \\( -z^3 \\); et les premiers termes des seconds membres sont (\\( § 1. \\))\n\n\\(-1.2.3A^3\\). Donc ; \\(1 = 1.2.3A\\); et \\(A = \\frac{1}{1.2.3}\\).\n\nPrenant successivement les différences quatrièmes et cinquièmes, on obtient\n\n\\[\n\\begin{align*}\n2^5 \\sin \\frac{5}{2} z \\cos \\frac{7}{2} z &= \\Delta^v(6^5...1^5)Bz^5 + \\Delta^v(6^7...1^7)Cz^7 + \\Delta^v(6^9...1^9)Dz^9 + \\ldots \\\\\n2^5 \\sin \\frac{5}{2} z \\cos \\frac{9}{2} z &= \\Delta^v(7^5...2^5)Bz^5 + \\Delta^v(7^7...2^7)Cz^7 + \\Delta^v(7^9...2^9)Dz^9 + \\ldots \\\\\n2^5 \\sin \\frac{5}{2} z \\cos \\frac{11}{2} z &= \\Delta^v(8^5...3^5)Bz^5 + \\Delta^v(8^7...3^7)Cz^7 + \\Delta^v(8^9...3^9)Dz^9 + \\ldots\n\\end{align*}\n\\]\n\nRéduisant en suites les facteurs des premiers membres (\\( § 11.\\)); les premiers termes de ces membres sont \\(z^5\\); et les\npremiers termes des seconds membres sont $1.2...5Bz^5$. (§ 1.)\n\nDonc ; $1 = 1.2...5B$; et $B = \\frac{1}{1.2...5}$.\n\nPrenant de même successivement les différences sixièmes et septièmes ; on obtient\n\n$$-2^7 \\sin.\\frac{7}{2} z \\cos.\\frac{9}{2} z = \\Delta^{vii}(8^7...1^7) Cz^7 + \\Delta^{vii}(8^9...1^9) Dz^9 + \\Delta^{vii}(8^{11}...1^{11}) Ez^{11} + ...$$\n\n$$-2^7 \\sin.\\frac{7}{2} z \\cos.\\frac{11}{2} z = \\Delta^{vii}(9^7...2^7) Cz^7 + \\Delta^{vii}(9^9...2^9) Dz^9 + \\Delta^{vii}(9^{11}...2^{11}) Ez^{11} + ...$$\n\n$$-2^7 \\sin.\\frac{7}{2} z \\cos.\\frac{13}{2} z = \\Delta^{vii}(10^7...3^7) Cz^7 + \\Delta^{vii}(10^9...3^9) Dz^9 + \\Delta^{vii}(10^{11}...3^{11}) Ez^{11} + ...$$\n\nRéduisant en suites les facteurs des premiers membres ; le premier terme de ces membres est $z^7$; et les premiers termes des seconds membres sont $1.2...7Cz^7$. Donc ; $C = -\\frac{1}{1.2...7}$.\n\nPrenant de même les différences huitièmes et neuvièmes ; on obtient, par les mêmes raisonnements ;\n\n$$D = +\\frac{1}{1.2...9}; \\text{ puis } E = -\\frac{1}{1.2...11}; F = +\\frac{1}{1.2...13}. .......$$\n\nDonc, enfin ; $\\sin.z = z - \\frac{1}{1.2.3} z^3 + \\frac{1}{1.2..5} z^5 - \\frac{1}{1.2...7} z^7 + \\frac{1}{1.2...9} z^9 - .......$\n\n§ 13. La recherche des cosinus se fait de la même manière.\n\nSoit $\\cos.z = 1 - Az + Bz^2 + Cz^3 + Dz^4 + Ez^5 + ...$\n\net partant, $\\cos.2z = 1 - 2Az + 2^2Bz^2 + 2^3Cz^3 + 2^4Dz^4 + 2^5Ez^5 + ...$\n\n$\\cos.3z = 1 - 3Az + 3^2Bz^2 + 3^3Cz^3 + 3^4Dz^4 + 3^5Ez^5 + ...$\n\n$\\cos.4z = 1 - 4Az + 4^2Bz^2 + 4^3Cz^3 + 4^4Dz^4 + 4^5Ez^5 + ...$\nSoient prises les différences premières ; on obtient\n\n\\[ -2 \\sin \\frac{1}{2} z \\sin \\frac{3}{2} z = -Az + (2^2 - 1^2) Bz^2 + (2^3 - 1^3) Cz^3 + (2^4 - 1^4) Dz^4 + \\ldots \\]\n\n\\[ -2 \\sin \\frac{1}{2} z \\sin \\frac{5}{2} z = -Az + (3^2 - 2^2) Bz^2 + (3^3 - 2^3) Cz^3 + (3^4 - 2^4) Dz^4 + \\ldots \\]\n\n\\[ -2 \\sin \\frac{1}{2} z \\sin \\frac{7}{2} z = -Az + (4^2 - 3^2) Bz^2 + (4^3 - 3^3) Cz^3 + (4^4 - 3^4) Dz^4 + \\ldots \\]\n\nDéveloppant en suites les facteurs des premiers membres ; les premiers termes de ces membres contiennent les secondes puissances \\( z^2 \\) de \\( z \\); et ces membres ne contiennent pas la première puissance de \\( z \\). Donc ; dans les seconds membres, la seconde puissance de \\( z \\) doit aussi manquer ; donc, \\( A = 0 \\).\n\nOn montre de la même manière, et conformément à ce qui est développé dans le § 12; que les puissances de \\( z \\) à exposans impairs manquent dans l’expression du cos. \\( z \\); de sorte que, le cosinus est une fonction de \\( z \\) de la forme ;\n\n\\[ \\cos. z = 1 - Az^2 + Bz^4 + Cz^6 + Dz^8 + \\ldots \\]\n\net partant, \\( \\cos. 2z = 1 - 2^2 Az^2 + 2^4 Bz^4 + 2^6 Cz^6 + 2^8 Dz^8 + \\ldots \\)\n\n\\[ \\cos. 3z = 1 - 3^2 Az^2 + 3^4 Bz^4 + 3^6 Cz^6 + 3^8 Dz^8 + \\ldots \\]\n\n\\[ \\cos. 4z = 1 - 4^2 Az^2 + 4^4 Bz^4 + 4^6 Cz^6 + 4^8 Dz^8 + \\ldots \\]\n\nSoient prises les différences secondes ; on obtient\n\n\\[ -2^2 \\sin^2 \\frac{1}{2} z \\cos. 2z = -\\Delta^{ii} (3^2 \\ldots 1^2) Az^2 + \\Delta^{ii} (3^4 \\ldots 1^4) Bz^4 + \\Delta^{ii} (3^6 \\ldots 1^6) Cz^6 + \\Delta^{ii} (3^8 \\ldots 1^8) Dz^8 + \\ldots \\]\n\n\\[ -2^2 \\sin^2 \\frac{1}{2} z \\cos. 3z = -\\Delta^{ii} (4^2 \\ldots 2^2) Az^2 + \\Delta^{ii} (4^4 \\ldots 2^4) Bz^4 + \\Delta^{ii} (4^6 \\ldots 2^6) Cz^6 + \\Delta^{ii} (4^8 \\ldots 2^8) Dz^8 + \\ldots \\]\n\n\\[ -2^2 \\sin^2 \\frac{1}{2} z \\cos. 4z = -\\Delta^{ii} (5^2 \\ldots 3^2) Az^2 + \\Delta^{ii} (5^4 \\ldots 3^4) Bz^4 + \\Delta^{ii} (5^6 \\ldots 3^6) Cz^6 + \\Delta^{ii} (5^8 \\ldots 3^8) Dz^8 + \\ldots \\]\n\nRéduisant en suites les premiers membres de toutes ces équations ; leur premier terme est \\(-z^2\\). Mais, le premier\nterme des seconds membres est — 1.2.Az². Donc ; 1 = 1.2.A ;\net A = \\(\\frac{1}{1.2}\\).\n\nPrenant successivement les différences troisièmes et quatrièmes ; on obtient\n\n\\[2^4 \\sin^4 \\frac{1}{2} z \\cos. 3z = \\Delta^{iv} (4^4...1^4) Bz^4 + \\Delta^{iv} (4^6...1^6) Cz^6 + \\Delta^{iv} (4^8...1^8) Dz^8 + \\Delta^{iv} (4^{10}...1^{10}) Ez^{10}...\\]\n\n\\[2^4 \\sin^4 \\frac{1}{2} z \\cos. 4z = \\Delta^{iv} (5^4...2^4) Bz^4 + \\Delta^{iv} (5^6...2^6) Cz^6 + \\Delta^{iv} (5^8...2^8) Dz^8 + \\Delta^{iv} (5^{10}...2^{10}) Ez^{10}...\\]\n\n\\[2^4 \\sin^4 \\frac{1}{2} z \\cos. 5z = \\Delta^{iv} (6^4...3^4) Bz^4 + \\Delta^{iv} (6^6...3^6) Cz^6 + \\Delta^{iv} (6^8...3^8) Dz^8 + \\Delta^{iv} (6^{10}...3^{10}) Ez^{10}...\\]\n\nD'où l'on a de même ; 1 = 1.2...4B ; et B = \\(\\frac{1}{1.2...4}\\).\n\nSoient prises successivement les différences cinquièmes et sixièmes ; on obtient\n\n\\[-2^6 \\sin^6 \\frac{1}{2} z \\cos. 4z = \\Delta^{vi} (6^6...1^6) Cz^6 + \\Delta^{vi} (6^8...1^8) Dz^8 + \\Delta^{vi} (6^{10}...1^{10}) Ez^{10} + ...\\]\n\n\\[-2^6 \\sin^6 \\frac{1}{2} z \\cos. 5z = \\Delta^{vi} (7^6...2^6) Cz^6 + \\Delta^{vi} (7^8...2^8) Dz^8 + \\Delta^{vi} (7^{10}...2^{10}) Ez^{10} + ...\\]\n\n\\[-2^6 \\sin^6 \\frac{1}{2} z \\cos. 6z = \\Delta^{vi} (8^6...3^6) Cz^6 + \\Delta^{vi} (8^8...3^8) Dz^8 + \\Delta^{vi} (8^{10}...3^{10}) Ez^{10} + ...\\]\n\nD'où l'on obtient — 1 = 1.2...6C ; et C = \\(-\\frac{1}{1.2...6}\\).\n\nOn obtient successivement . . . . . . D = \\(+\\frac{1}{1.2...8}\\).\n\nE = \\(-\\frac{1}{1.2...10}\\).\n\nEt partant ; cos. z = 1 — \\(\\frac{1}{1.2}\\) z² + \\(\\frac{1}{1.2...4}\\) z⁴ — \\(\\frac{1}{1.2...6}\\) z⁶ + \\(\\frac{1}{1.2...8}\\) z⁸ — \\(\\frac{1}{1.2...10}\\) z¹⁰ + . . . . . .\n\n§ 14. Puisque sin. z = z — \\(\\frac{1}{1.2...3}\\) z³ + \\(\\frac{1}{1.2...5}\\) z⁵ — \\(\\frac{1}{1.2...7}\\) z⁷ + \\(\\frac{1}{1.2...9}\\) z⁹ — . . . . . .\n\net cos. z = 1 — \\(\\frac{1}{1.2}\\) z² + \\(\\frac{1}{1.2...4}\\) z⁴ — \\(\\frac{1}{1.2...6}\\) z⁶ + \\(\\frac{1}{1.2...8}\\) z⁸ — . . . . . .\n§ 15. Après avoir exprimé le sinus, le cosinus, et la tangente d’un arc, dans cet arc ; on pourrait réciproquement par la méthode du retour des suites, exprimer l’arc dans ces fonctions de lui-même. La méthode suivante est plus élémentaire ; et plus conforme au procédé que j’ai suivi jusqu’à présent.\n\nIl est connu ; que, \\[ \\cos nz = \\frac{(\\cos z + \\sin z \\sqrt{-1})^n + (\\cos z - \\sin z \\sqrt{-1})^n}{2} \\]\n\\[ \\sin nz = \\frac{(\\cos z + \\sin z \\sqrt{-1})^n - (\\cos z - \\sin z \\sqrt{-1})^n}{2\\sqrt{-1}} \\]\n\nDe-là ; \\[ \\cos nz + \\sin nz \\sqrt{-1} = (\\cos z + \\sin z \\sqrt{-1})^n; \\]\n\\[ \\cos nz - \\sin nz \\sqrt{-1} = (\\cos z - \\sin z \\sqrt{-1})^n; \\]\n\\[ \\frac{(\\cos nz + \\sin nz \\sqrt{-1})^n}{2} + \\frac{(\\cos nz - \\sin nz \\sqrt{-1})^n}{2}. \\]\n\nPartant ; \\[ \\cos z = \\frac{(\\cos nz + \\sin nz \\sqrt{-1})^n}{2} + \\frac{(\\cos nz - \\sin nz \\sqrt{-1})^n}{2}. \\]\n\\[ \\sin z = \\frac{(\\cos nz + \\sin nz \\sqrt{-1})^n}{2\\sqrt{-1}} - \\frac{(\\cos nz - \\sin nz \\sqrt{-1})^n}{2\\sqrt{-1}}. \\]\n\nDe-là ; \\( n \\sin z = \\cos nz^n \\times (\\tan nz) \\)\nPartant aussi ; \\( n \\sin \\frac{1}{n} z = \\cos z^n (\\tan z) \\)\n\n\\[ \\frac{1}{1.2} \\cdot \\frac{2}{3} \\tan^3 nz \\]\n\\[ \\frac{1}{1.2} \\cdot \\frac{4}{5} \\tan^5 nz \\]\n\\[ \\frac{1}{1.2} \\cdot \\frac{6}{7} \\tan^7 nz \\]\n\\[ \\frac{1}{1.2} \\cdot \\frac{8}{9} \\tan^9 nz \\]\n\\[ \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\]\nDonc aussi ; les limites des deux membres de cette équation sont égales entr’elles. Mais, en augmentant $n$, les limites sont $z$, et $\\tan z = \\frac{1}{3} z^3 + \\frac{1}{5} z^5 - \\frac{1}{7} z^7 + \\frac{1}{9} z^9 - \\ldots$.\n\nDonc ; $z = t - \\frac{1}{3} t^3 + \\frac{1}{5} t^5 - \\frac{1}{7} t^7 + \\frac{1}{9} t^9 - \\ldots$ (faisant $t = \\tan z$).\n\nRemarque. Je m’exprime dans ce mémoire d’une manière fort concise sur le passage des quantités variables susceptibles de limites à leurs limites. Je suppose connu que cette théorie peut être dégagée de toute idée de l’infini ; et rappelée à la méthode rigoureuse des anciens connue sous le nom de Méthode d’Exhaustion. D’après Newton, Maclaurin, Robins, et autres auteurs, j’ai taché de mettre cette théorie à l’abri de toute contestation, dans ma Prix sur l’Infini Mathématique, couronnée par l’Académie de Berlin en 1786. J’espère l’avoir fait de la manière la plus satisfaisante dans l’ouvrage qui s’imprime dans ce moment sous le titre : Principiorum Calculi differentialis et integralis Expositio elementaris.\n\n§ 16. Des formules précédentes, on déduit aisément les formules différentielles des fonctions trigonométriques des arcs de cercle.\n\nPuisque $\\sin z = z - \\frac{1}{1 \\cdot 2 \\cdot 3} z^3 + \\frac{1}{1 \\cdot 2 \\cdot 4} z^5 - \\frac{1}{1 \\cdot 2 \\cdot 6} z^7 + \\frac{1}{1 \\cdot 2 \\cdot 8} z^9 - \\ldots$\n\n$\\frac{d \\sin z}{dz} = 1 - \\frac{1}{1 \\cdot 2} z^2 + \\frac{1}{1 \\cdot 2 \\cdot 4} z^4 - \\frac{1}{1 \\cdot 2 \\cdot 6} z^6 + \\frac{1}{1 \\cdot 2 \\cdot 8} z^8 - \\ldots = \\cos z.$\n\nPuisque $\\cos z = 1 - \\frac{1}{1 \\cdot 2} z^2 + \\frac{1}{1 \\cdot 2 \\cdot 4} z^4 - \\frac{1}{1 \\cdot 2 \\cdot 6} z^6 + \\frac{1}{1 \\cdot 2 \\cdot 8} z^8 - \\ldots$\nof obtaining the Serieses of circular Arcs.\n\n\\[\n\\frac{d}{dz} \\cos z = -z + \\frac{1}{1 \\cdot 2 \\cdot 3} z^3 - \\frac{1}{1 \\cdot 2 \\cdot 5} z^5 + \\frac{1}{1 \\cdot 2 \\cdot 7} z^7 \\\\\n\\ldots \\ldots = -\\sin z.\n\\]\n\nPuisque tang. \\( z = \\frac{\\sin z}{\\cos z} \\); \\[ \\frac{d}{dz} \\tan z = \\frac{\\cos z \\frac{d}{dz} \\sin z - \\sin z \\frac{d}{dz} \\cos z}{\\cos^2 z} \\]\n\\[ = \\frac{\\cos^2 z + \\sin^2 z}{\\cos^2 z} = \\frac{1}{\\cos^2 z} = \\sec^2 z. \\]\n\nC'est ce qu'on pourrait tirer de l'expression\n\n\\[ z = t - \\frac{1}{3} t^3 + \\frac{1}{5} t^5 - \\frac{1}{7} t^7 + \\frac{1}{9} t^9; \\]\n\\[ \\frac{dz}{dt} = 1 - tt + t^4 - t^6 + t^8 - \\ldots = \\frac{1}{1 + tt} = \\frac{1}{\\sec^2 t}; \\text{ et } \\]\npartant \\[ \\frac{dt}{dz} = \\sec^2 t. \\]\n\nDe-là encore, on déduit les rapports différentiels de tous les ordres successifs.\n\nSavoir; \\[ \\frac{d}{dz} \\sin z = \\cos z \\quad \\frac{d}{dz} \\cos z = -\\sin z \\]\n\\[ \\frac{d^2}{dz^2} \\sin z = -\\sin z \\quad \\frac{d^2}{dz^2} \\cos z = -\\cos z \\]\n\\[ \\frac{d^3}{dz^3} \\sin z = -\\cos z \\quad \\frac{d^3}{dz^3} \\cos z = +\\sin z \\]\n\\[ \\frac{d^4}{dz^4} \\sin z = +\\sin z \\quad \\frac{d^4}{dz^4} \\cos z = +\\cos z \\]\n\\[ \\frac{d^5}{dz^5} \\sin z = +\\cos z \\quad \\frac{d^5}{dz^5} \\cos z = -\\sin z \\]\n\nTroisième Partie. Sur l’Analogie entre les Logarithmes et les Fonctions trigonométriques des Arcs circulaires.\n\n§ 17. La ressemblance qui règne entre le procédé par lequel j’ai obtenu les expressions des quantités exponentielles dans leurs exposans, et celui par lequel j’ai obtenu les expressions du sinus et du cosinus d’un arc dans cet arc, me paroît ex-\nplier de la manière la plus lumineuse l’analogie observée depuis longtemps entre les quantités exponentielles et ces fonctions circulaires ; et rendre raison de la conformité des résultats de ces procédés.\n\nPar le § 4. \\( \\frac{e^z + e^{-z}}{2} = 1 + \\frac{1}{1.2} z^2 + \\frac{1}{1.2.4} z^4 + \\frac{1}{1.2.4.6} z^6 + \\frac{1}{1.2.4.6.8} z^8 + \\frac{1}{1.2.4.6.8.10} z^{10} + \\ldots \\)\n\nEt (§ 13.) \\( \\cos. z = 1 - \\frac{1}{1.2} z^2 + \\frac{1}{1.2.4} z^4 - \\frac{1}{1.2.4.6} z^6 + \\frac{1}{1.2.4.6.8} z^8 - \\frac{1}{1.2.4.6.8.10} z^{10} + \\ldots \\)\n\nCes expressions diffèrent seulement par les signes des termes alternatifs, qui contiennent des puissances impairement paires de \\( z \\); partant, si dans la première on change le signe de \\( zz \\), en substituant \\( -zz \\) à \\( zz \\), ou \\( z\\sqrt{-1} \\) à \\( z \\), on obtiendra la seconde ; d’où l’on a été appelé à présenter \\( \\cos. z \\) sous la forme exponentielle imaginaire, \\( \\cos. z = \\frac{e^{+z\\sqrt{-1}} + e^{-z\\sqrt{-1}}}{2} \\).\n\nDe même (§ 4.); \\( \\frac{e^z - e^{-z}}{2} = z + \\frac{1}{1.2.3} z^3 + \\frac{1}{1.2.5} z^5 + \\frac{1}{1.2.7} z^7 + \\frac{1}{1.2.9} z^9 + \\ldots \\)\n\nEt \\( \\sin. z = z - \\frac{1}{1.2.3} z^3 + \\frac{1}{1.2.5} z^5 - \\frac{1}{1.2.7} z^7 + \\frac{1}{1.2.9} z^9 - \\ldots \\)\n\nSi dans le second membre de la première équation on substitute \\( z\\sqrt{-1} \\) à \\( z \\); et si on divise le résultat par \\( \\sqrt{-1} \\); on obtient le second membre de la seconde équation. De-là, on a été appelé à présenter \\( \\sin. z \\) sous la forme exponentielle imaginaire, \\( \\sin. z = \\frac{e^{+z\\sqrt{-1}} - e^{-z\\sqrt{-1}}}{2\\sqrt{-1}} \\).\n\nDe-là ; \\( \\tan. z = \\frac{1}{\\sqrt{-1}}, \\frac{e^{z\\sqrt{-1}} - e^{-z\\sqrt{-1}}}{e^{z\\sqrt{-1}} + e^{-z\\sqrt{-1}}} \\); et \\( t\\sqrt{-1} = \\frac{e^{z\\sqrt{-1}} - e^{-z\\sqrt{-1}}}{e^{z\\sqrt{-1}} + e^{-z\\sqrt{-1}}} \\).\nof obtaining the Serieses of circular Arcs.\n\nDonc; \\( e^{z\\sqrt{-1}} : e^{-z\\sqrt{-1}} = 1 + t\\sqrt{-1} : 1 - t\\sqrt{-1} \\)\n\n\\( e^{2z\\sqrt{-1}} : 1 = 1 + t\\sqrt{-1} : 1 - t\\sqrt{-1}; \\)\n\n\\( e^{2z\\sqrt{-1}} = \\frac{1 + t\\sqrt{-1}}{1 - t\\sqrt{-1}}; \\quad 2z\\sqrt{-1} = \\log \\frac{1 + t\\sqrt{-1}}{1 - t\\sqrt{-1}}. \\)\n\n\\( z = \\frac{1}{2\\sqrt{-1}} \\log \\frac{1 + t\\sqrt{-1}}{1 - t\\sqrt{-1}}. \\)\n\nCette formule auroit pu aussi être déduite des deux expressions\n\n\\( \\frac{1}{2} \\log \\frac{1 + v}{1 - v} = v + \\frac{1}{3} v^3 + \\frac{1}{5} v^5 + \\frac{1}{7} v^7 + \\frac{1}{9} v^9 + \\ldots \\)\n\n\\( z = t - \\frac{1}{3} t^3 + \\frac{1}{5} t^5 - \\frac{1}{7} t^7 + \\frac{1}{9} t^9 - \\ldots \\)",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107001.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 25,
+    "total-input-tokens": 38280,
+    "total-output-tokens": 18540,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1268,
+        2
+      ],
+      [
+        1268,
+        2959,
+        3
+      ],
+      [
+        2959,
+        4587,
+        4
+      ],
+      [
+        4587,
+        6139,
+        5
+      ],
+      [
+        6139,
+        7660,
+        6
+      ],
+      [
+        7660,
+        9452,
+        7
+      ],
+      [
+        9452,
+        11145,
+        8
+      ],
+      [
+        11145,
+        12754,
+        9
+      ],
+      [
+        12754,
+        14422,
+        10
+      ],
+      [
+        14422,
+        16119,
+        11
+      ],
+      [
+        16119,
+        17534,
+        12
+      ],
+      [
+        17534,
+        19264,
+        13
+      ],
+      [
+        19264,
+        21236,
+        14
+      ],
+      [
+        21236,
+        22802,
+        15
+      ],
+      [
+        22802,
+        24854,
+        16
+      ],
+      [
+        24854,
+        26928,
+        17
+      ],
+      [
+        26928,
+        28458,
+        18
+      ],
+      [
+        28458,
+        30486,
+        19
+      ],
+      [
+        30486,
+        32386,
+        20
+      ],
+      [
+        32386,
+        33720,
+        21
+      ],
+      [
+        33720,
+        35414,
+        22
+      ],
+      [
+        35414,
+        36971,
+        23
+      ],
+      [
+        36971,
+        38798,
+        24
+      ],
+      [
+        38798,
+        39475,
+        25
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "en",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107001",
+    "title": "Maniere Elementaire D'Obtenir les Suites par Lesquelles s'Expriment les Quantites Exponentielles et les Fonctions Trigonometriques des Arcs Circulaires. Par M. Simon L'Huilier, F. R. S.",
+    "authors": "Simon L'Huilier",
+    "year": 1796,
+    "volume": "86",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 25,
+    "jstor_url": "https://www.jstor.org/stable/107001"
+  }
+}

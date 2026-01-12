@@ -1,0 +1,69 @@
+{
+  "id": "ae9e0bcc57a8452853c0fd819e7065c637d984bc",
+  "text": "Eruption of the Mountain Vesuvius, not sunk by Earthquakes, as were Cuma, Baia, Trepergola, &c.\n\nNaples, March 7. 1731-2.\n\nSigned,\n\nWilliam Hammond.\n\nSIR,\nIn pursuance to your Desire, the above Account is transmitted me by my Partner, about the City you mentioned under-ground near Naples.\n\nI am very respectfully,\n\nSIR,\n\nYour most humble Servant,\n\nJohn Green.\n\nXIII. An Account of a Meteor seen in the Air in the Day-time, on Dec. 8. 1733; communicated by Mr. Crocker to Sir Hans Sloane, Bart. Pr. R. S. &c.\n\nSIR, Fleet, Dorsetshire, Dec. 23. 1733.\n\nOn Saturday the 8th of this Instant, the Sun shining bright, the Weather warm, and Wind at South-East, some small Clouds passing, I saw something (between Eleven and Twelve) in the Sky, which resembled a Boy's Paper Kite, which appeared towards the North, and soon vanished from my Sight, being intercepted by the Trees which were near the Valley where I was standing. The Colour of\nof it was of a pale Brightness, like that of burnished or new-washed Silver. It darted out of my Sight with a seeming Coruscation, like that of Star-shooting in the Night; but had a Body much larger, and a Train much longer, than any thing of that Kind I had ever seen before. At my coming home, one Brown assured me, he had seen the same thing, for the Continuance of a Minute; and that the Body and Train appeared to him to be about twenty Foot long, and seemed to him to fall to the Ground somewhere about the Kennel-garden, whither I accompanied him in Expectation of finding some of those Jellies which are supposed to owe their Beings to such Meteors: But we might have searched long enough, as I understood the next Day, when Mr. Edgcombe informed me, that he and another Gentleman had seen the same Appearance at the same time about fifteen Miles from us, steering the same Course from East to the West, and vanished from them between Walkhampton and Oakhampton: They gave the same Account of its Figure, Length and Colour.\n\nXIV. An Account of a Luminous Appearance in the Sky, seen at London on Thursday March 13. 1734-5. by John Bevis, M.D.\n\nAs I was observing Mars near a small fixt Star, then in the West, on the Top of my House in Buckingham-street, about five Minutes after Eight, equal Time; happening to turn my Face Southward, I was surprised with an uncommon bright Glade of Light.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104286.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 688,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        934,
+        2
+      ],
+      [
+        934,
+        2333,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104286",
+    "title": "An Account of a Meteor Seen in the Air in the Day-Time, on Dec. 8. 1733; Communicated by Mr. Crocker to Sir Hans Sloane, Bart. Pr. R. S. &c.",
+    "authors": "Mr. Crocker",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104286"
+  }
+}

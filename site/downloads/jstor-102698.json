@@ -1,0 +1,119 @@
+{
+  "id": "1c3151ff08e2c8edf77be9fa31b94fa86d7cb9b7",
+  "text": "Dec: 28 - 1664: Hoc schema vero situi stellarum propius\n\nSirius\nI. Observations made at Rome, by the late Reverend Mr. John Ray, of the Comet which appeared Anno 1664. Communicated to the Publisher by Mr. Samuel Dale.\n\nDecember the 20th 1664, S. N.\n\nAbout three of the Clock this Morning, I observed the Comet; it was in the Constellation of Hydra, not far from the Foot of Crater. It appeared about the bigness of a Star of the first Magnitude, but nothing so lucid and bright. It had a very long Tail, which pointed almost directly towards the Heart of Hydra: The Tail shew'd somewhat like Rays of a Candle burning in a Mist: The Figure of it was Conical; the Length of it 5 or 6 Degrees; the Breadth at the Base not above a Degree and half. The Body of this Comet was about 3 Degrees to the South-East of the most Southerly Star in the foot of Crater; it stood very near in a Right-Line with the two lowermost Stars in the Foot of Crater, which are common to it and Hydra. See the Figures.\n\nDecember 21. In the Morning, about the same Hour, it was removed about a Degree and half from the Place where it stood, Westward, and a little to the South. The Tail\nTail pointed still towards the Heart of Hydra, and appeared 10 Degrees long at the least.\n\nDecember 22. At the same time it was removed from the Place where it stood the Day before, to the same Point, and about the same distance as the Night before. The Tail of it still pointed to Cor Hydrae, or a little thought above it, as the two former Days, and was rather longer than shorter: It also, to my thinking, appeared brighter and larger; the Body of it being bigger than any Fixt Star, except Sirius.\n\nDecember 23. It was removed to the same Point, and about the same Distance as the Day before; the Tail of it was as long as ever, and the Comet brighter. The Tail pointed almost directly to Cor Hydrae.\n\nDecember 24, 25, 26. All these 3 Nights were Cloudy, so that I could make no Observations.\n\nDecember 27. We found it strangely removed from the Place where it was: It was still Westward, and a little to the South, as before. The Body of the Star was still brighter, and the Cauda about it greater, and more bushy, and yet as long as before; it pointed almost directly against Canis major. The Body of it was among the Stars of Argo.\n\nDecember 28. The same time it was removed above 2 Degrees towards the same Point, and come within 4 or 5 Degrees of the most Eastern Stars in the bright Triangle in the Buttocks of Canis major. The Moon shining we could not so well judge, either of the Bigness of the Body, or the length and Bushiness of the Tail.\nDecember 29. It was strangely removed, and got before, not the Eastern Star only of the mentioned bright Triangle, but also the most Northern. I think, at least, in this last 24 Hours, it had moved 4 Degrees. The Moon shining bright, the Tail could not well be observed, yet still it seemed to point directly to Canis minor.\n\nII. Æquationum",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102698.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12452,
+    "total-output-tokens": 993,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        64,
+        5
+      ],
+      [
+        64,
+        1160,
+        6
+      ],
+      [
+        1160,
+        2615,
+        7
+      ],
+      [
+        2615,
+        2955,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "None",
+      "la",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102698",
+    "title": "Observations Made at Rome, by the Late Reverend Mr. John Ray, of the Comet Which Appeared Anno 1664. Communicated to the Publisher by Mr. Samuel Dale",
+    "authors": "Samuel Dale, John Ray",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/102698"
+  }
+}

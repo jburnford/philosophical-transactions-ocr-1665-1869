@@ -1,0 +1,139 @@
+{
+  "id": "43e692bc8442967971510c97ce15001585c4593e",
+  "text": "Some Considerations\n\nOf Mr. Nic. Mercator, concerning the Geometrick and direct Method of Signior Cassini for finding the Apogees, Excentricities, and Anomalies of the Planets; as that was printed in the Journal des Scavans of Septemb. 2. 1669: which Considerations are here delivered in the Latine Tongue, wherein they were written by the Author, as chiefly regarding the Lear'd in Astronomy, viz.\n\nClarissimi Cassini Methodus\nInvestigandi Apogea, Excentricitates & Anomalias Planetarum, breviter Exposita & Demonstrata.\n\nSupponit Cl. Cassinus, ad Planetam in Ellipsi moventem extendi ab utroque foco duas rectas, quarum altera sit medii, altera autem veri motûs linea. Constructio porro talis est;\n\nFig. II. L est Centrum Concentrici ABCDE.\nBLD est Diameter.\nBA, BC, BP, sunt intervalla apparentia.\nDE, DF, DQ, sunt intervalla mediorum motuum.\nBE, BF, BQ; item DA, DC, DP, sunt lineae rectae.\nBE secat DA in H; BF secat DC in G; BQ secat DP in R.\n\nR HG est linea recta.\nB I est perpendicularis ad R HG.\nI est Centrum Ellipseos.\nLI est Excentricitas.\nIO = LI.\nO est focus, circa quem ordinatur medius motus; L, circa quem verus.\nIM = IN = LB.\nM est Apogeon; N, Perigeon; BLM Anomalia vera.\n\nDemonstratio.\n\nI. Illusterrimus ac Reverendiss. Sethus Wardus, quondam in Celeberr. Acad. Oxon. Professor Astronomiae Savilianus, nunc Episcopus Sarisburiensis, in Examine Astronomiae Philolaiæ, edito Oxon. A. 1653. c. 6. docuit Methodum, ex data Anomalia media Planetarum, investigandi veram; qua est hujusmodi:\n\nFig. III. C, est Centrum Ellipseos AEP: F, focus, circa quem ordinatur medius motus. S, focus, circa quem ordinatur verus motus. A, Apogeon. P, Perigeon, E, Erro sive Planeta. AE, Anomalia media. ASE, Anomalia vera. FET, linea recta. ET = SE. ST est linea recta.\n\nIn △ SFT dantur, 1. SF distantia focorum: 2. FT = FE + ES = AP. 3. AFT, angulus externus, sive Anomalia media, æqualis summae angulorum FST & T. Ergo inveniri potest FSE, sive Anomalia vera, æqualis differentiae Angulorum FST & T. Nimirum\nUt semi-summa laterum FT & FS, ad semi-differentiam eorundem;\nIta Tangens semi-summae angulorum FST & T, ad Tangentem semi-\ndifferentiae eorundem.\n\nSed semi-summa laterum FT & FS invenitur substituendo pro FT æqua-\nlem AP, cujus semis est AC, qui additus CS semissi ipsius FS, facit se-\nmi-summam AS, distantiam Planetæ maximam.\n\nTum, si ex semi-summa AS auseratur latus minus FS, restat semi-diffe-\nrentia laterum FA, æqualis PS, distantiae Planetæ minimæ; ut sit\n\nRegula ex Anomalia Media data inveniendi veram:\n\nUt AS, distantia Planetæ maxima, ad PS, distantiam minimam;\nIta Tangens dimidiæ Anomaliae mediiæ, ad Tangentem dimidiæ Ano-\nmaliae veræ.\n\nCorollar. I. Si continuetur SE usque ad U, ita ut EU sit = ipsi FE, &\ntota SU = Axi AP; erit ∆FSU angulus U semis Prostaphærefeos FES,\nideoque æqualis semi-differentiae angulorum Anomaliae mediiæ & veræ, h.e.\nipsorum AFE & ASE; & externus AFU = semi-summae eorundem\nAFE & ASE angulorum, ablata scil. semi-differentia UFE ex majori\nAFE. Unde oriuntur duæ Analogiæ:\n1. Ut Sinus semi-summae Anomaliae mediiæ & veræ AFU, ad Sinum\nsemi-differentiae eorundem, U; Ita SU (= axi transverso AP) ad SF,\ndistantiam focorum.\n2. Ut Sinus semi-summae Anomaliae mediiæ & veræ, AFV, ad Sinum\nAnomaliae veræ FSU; Ita SU (vel axis AP) ad FU, subtensam Ano-\nmaliae veræ: Ita quoque semi-axis AC, ad semi-subtenam UX, vel FX.\n\nCorollar. II. Si in eodem Triangulo FSU, ex subtensa FU puncto me-\ndio X, erigatur perpendicularis XE; fecabit illa SU in duas partes, qua-\nrum altera UE est linea medii motus FE, altera vero SE est ipsa linea\nveri motus.\n\nII. Fig. IV. Sit a Centrum Con-\ncentrici chfi.\nc d, Diameter, eademque linea\nApsidum.\nch, Arcus Anomaliae veræ, cui re-\nspendet\ndi, Arcus Anomaliae mediiæ. Itaque\n\nAb Intersectionis puncto g demittatur ad cd perpendicularis gb. Erig-\nitur,\n\n\\[\n\\frac{db}{bg} :: \\text{Radius ad tang. } bg \\text{ vel } cdh.\n\\]\n\nEt \\[\n\\frac{cb}{bg} :: \\text{Rad. tang. } bg \\text{ vel } cdi.\n\\]\n\nErgo\nErgo \\( db \\times \\text{tang.} cdh = bg \\times \\text{Rad.} = cb \\times \\text{tang.} deci \\).\n\nQuare \\( db : cb :: \\text{tang.} deci : \\text{tang.} cdh \\); hoc est, \\( db \\) erit ad \\( cb \\), ut tangens dimidiae Anomaliae mediae ad tangentem dimidiae Anomaliae verae, adeoque (per Regulam supra expositam) ut distantia Planetarum maxima, ad distantiam minimam. Quamobrem \\( db \\) erit distantia Planetarum maxima, & \\( cb \\), minimae, & \\( ab \\), excentricitati.\n\nCumque idem eodem modo demonstretur de ceteris omnibus Intersectionum punctis, nimir. Perpendicularares \\( ab \\) iplis ad \\( cd \\) lineam incidere in punctum \\( b \\); oportet, ut recta, jungens ipsas Intersectiones, congruat perpendiculari \\( bgf \\).\n\nIII. Ducta diametro \\( ba \\), fiat arcus \\( kl = \\text{arcui} id \\), & ducantur \\( kc \\) & \\( hl \\), recantes se mutuo in \\( p \\). Ab \\( b \\) in \\( bgf \\) demittatur perpendicularis \\( hr \\), eademque parallela Apsidum lineae \\( ca \\); erit angulus \\( rhb \\) semi-differentia arcuum Anomaliae verae \\( ch \\), & medie \\( di \\). Tum ab eodem \\( h \\) puncto ducatur recta \\( hb \\), faciens cum \\( kb \\) angulum \\( = \\text{angulo} rhb \\), & occurrans lineae Apsidum in \\( \\beta \\). Erit \\( \\triangle abc \\) angulus \\( \\beta ab \\) mensura arcus \\( ch \\), sive Anomaliae verae, & \\( \\beta ba \\) semi-differentia Anomaliae verae & medie (ex Constructione, ) & externus \\( c \\beta b \\) (æqualis duobus internis & oppositis \\( gah \\) & \\( \\beta ha \\), adeoque compositus ex Anomalia vera & semi-differentia ejus à media) erit semi-summa Anomaliae verae & medie. Ergo, per Corollarium Analogiam priorem; Vt Sinus \\( c \\beta b \\), ad Sinum \\( \\beta ba \\); ita Radius \\( ab \\), ad Excentricitatem \\( a \\beta \\). Sed supra demonstravimus quoque \\( ab \\) æqualem Excentricitati. Ergo punctum \\( \\beta \\) congruit puncto \\( b \\).\n\nTum ex \\( b \\) excitetur ipsi \\( bb \\) perpendicularis \\( bt \\); Aio, hanc continuatam incidere in punctum Intersectionis \\( p \\). Nam Triangula \\( rbs \\) & \\( bbt \\) sunt similia, ex Constructione; quemadmodum & \\( \\triangle mbpk \\) similis est \\( \\triangle obgi \\), cum eadem periphericis \\( ch \\) insistentes anguli \\( pkb \\) & \\( gib \\) sint æquales, nec non æqualibus periphericis \\( kl \\) & \\( id \\) insistentes anguli \\( phk \\) & \\( ghi \\) æquales; quare & tertius \\( hpk \\) æqualis est tertio \\( bgi \\). Et ex æqualibus \\( phk \\) & \\( ghi \\) ablatis æqualibus \\( bht \\) & \\( rbs \\), restant æquales \\( pbh \\) & \\( ghr \\). Unde sic arguo: \\( srb = tbh \\), & \\( rbs = bht \\), Ergo \\( bsr = btb \\); ergò & Complementa horum ad semi-circulum sunt æqualia, nimir. \\( rsi = btk \\); & \\( sgi = tkp \\), Ergò & \\( ig = kpt \\), quibus ablatis ex æqualibus \\( igb \\) & \\( kpb \\), restat \\( hgs = hpt \\); & \\( ghr = pbh \\), Ergo & \\( hrg = hbp \\). Sed \\( hrg \\) est rectus. Ergò & \\( hbp \\) rectus est. Cum vero & \\( hbt \\) rectus sit ex Constructione, erit \\( tb \\) in directum ipsi \\( bp \\). Cunque idem eodem modo demonstretur de quavis alia Intersectione linearum ab \\( b \\) & \\( k \\) ad congruentiam Anomaliae verae & medie puncta ductarum; patet, non modo rectam, jungentem intersectiones, transituram per \\( b \\) punctum; sed & \\( kb \\), lineam perpendiculararem fore ad eandem Jungentem. q.e.d. dem.\n\nCorol-\nCorollarii. Si à quovis puncto Anomaliae veræ, puta \\( b \\), ad respondens punctum Anomaliae mediae ducatur recta \\( hi \\); excitata est Centro Excentrici \\( b \\), ipsi \\( cbd \\) perpendicularis \\( bf \\) secabit ipsam \\( hi \\) in \\( s \\) eà ratione, quam linea medii motus obtinet ad lineam veri motus.\n\nNam per Corollarium I mi Analogiam posteriorem, \\( hb \\) est semi-subtena; Ergò per Corollarium II um, perpendicularis erecta ex \\( b \\), nimir. \\( br \\), secat diametrum \\( bk \\) in \\( t \\) eà ratione, quam linea medii motus obtinet ad lineam veri motus. Ergò & \\( rs \\) (sive \\( bf \\)) secat bilineam eadem ratione in \\( s \\); propter demonstratam modò figurarum \\( tbhkbhb \\) & \\( srbhigr \\) similitudinem.\n\nCaterum ex laudata superius Reverendiss. Wardi Methodo inveniendi primam inaequalitatem, non est difficile, alium adhuc modum investigandi Apogea & Excentricitates, non minus directum & Geometricum, & Observationes quovis admittentem, producere; quem & paucis exponam. Plures modos invenient Astrophili in Reverendiss. Viri Astronomia Geometrica, edita A. 1656, ad quam eos remitto. Interim\n\nFig. V. Sint \\( l \\) & \\( d \\) duo foci Ellipseos; \\( t \\) & \\( u \\) duo puncta veri motus Planetæ; arcus Ellipseos \\( tu \\) exspectatus sub angulo \\( tl \\), & ex \\( d \\), sub angulo \\( td \\); item distantiæ focorum \\( ld \\) ex spectatus sub angulo \\( dl \\), & ex \\( x \\), sub angulo \\( dx \\). Aio, differentiam angulorum \\( tl \\), \\( td \\), a quaem esse differentiæ angulorum \\( dl \\) & \\( dx \\).\n\nCum enim trianguli \\( lx \\) tres anguli simul sumpti æquales sint trianguli \\( dtx \\) tribus angulis simul sumptis; si auferantur utrinque æquales \\( lx \\) & \\( dx \\), reliq:orum duorum summa \\( ulx + lx \\) erit = summæ reliquorum \\( tdx + dx \\), & ab his æqualibus summis si auferantur inæquales, v. g. \\( ulx \\) ex priori, & \\( tdx \\) ex posteriori; reliquorum, \\( lx \\) & \\( dx \\), differentia = est differentiæ ablatorum \\( ulx \\) & \\( tdx \\); quod erat propositum.\n\nCentro \\( l \\), intervallum axis transversi \\( mn \\), describatur Circulus \\( abc \\), cujus arcus \\( ab \\) rursus ex spectatur sub angulo \\( alb \\), & ex \\( d \\), sub angulo \\( adb \\); item distantiæ focorum \\( ld \\) ex spectatur sub angulo \\( lad \\), & ex \\( b \\), sub angulo \\( lbd \\). Ergò rursus differentia angulorum \\( alb \\) & \\( adb \\) = est differentiæ angulorum \\( lad \\) & \\( lbd \\). Sed per Coroll. I, angulus \\( lad \\) semis est anguli \\( lad \\), & angulus \\( lbd \\) semis anguli \\( lbd \\). Ergò horum angulorum \\( lad \\) & \\( lbd \\) differentia = est semi-differentiæ angulorum \\( lad \\) & \\( lbd \\); ergò & angulorum \\( alb \\) & \\( adb \\) differentia = est semi-differentiæ angulorum \\( ulx \\) & \\( edx \\), quorum prior est intervallum apparense duarum Observationum, posterior autem, intervallum motus medii. Datà igitur horum intervallorum differentiæ, datur quoque hujus (differentia) semis, nimir. differentia angulorum \\( alb \\) & \\( adb \\). Sed albidem est cum \\( ulx \\) & \\( edx \\); Ergò datur quoque \\( adb \\) angulus, sub quo peripheria \\( ab \\) spectatur ex \\( d \\).\n\nSimili\nSimili modo ostendetur, differentiam angulorum \\( tly \\) & \\( td \\) æqualem esse summæ angu'orum \\( ltd \\) & \\( lyd \\); nec non differentiam angulorum \\( bld \\) & \\( bdc \\) = esse summæ angulorum \\( lbd \\) & \\( lcd \\). Cumque \\( lbd \\) semis ipsius \\( ltd \\), & \\( lcd \\) semis ipsius \\( lyd \\); erit sanè summa ipsorum \\( lbd \\) & \\( lcd \\) = semi-summae angulorum \\( ltd \\) & \\( lyd \\), hoc est, differentia angulorum \\( bld \\) & \\( bdc \\) = erit semi-differentia angulorum \\( tly \\) & \\( td \\), quorum prior est intervallum apparen's duarum Observationum, posterior autem, intervallum motûs mediûs. Quare, data horum intervallorum differentiâ, datur quoque hujus semis, nimir. differentia angulorum \\( bld \\) & \\( bdc \\). Sed \\( bld \\) idem est cum \\( tly \\) dato; Ergò datur quoque \\( bdc \\) angulus, sub quo peripheria \\( bc \\) spectatur ex \\( d \\).\n\nUnde liquet, ex datis intervallis Observationum mediis & apparentibus, dari angulos, sub quibus ex \\( d \\) spectantur Circuli \\( abc \\) peripheriae quotvis, interceptae à lineis veri motûs. Ergò, per Herigoni Theor. Plan. I. I. c. 3. Prop.12.Schol. I.totidem Circuli segmenta describi possunt, capacia angulorum, sub quibus isti arcus conspicuntur ex \\( d \\), qua segmenta omnia se mutuo intersecabant in \\( d \\). Possunt igitur & hac Methodo inveniri Apogéa & Excentricitates Planetarum, delineatione Geometricâ, adhibitis Observationibus quotvis; nec difficilius est, Circulos duere, quam lineas rectas.\n\nSed ut demus id, quod verum est, Clarissimi Cassini delinationem Geometricam non-nihil expeditiorem esse; verendum est interim, ne, si \\( \\epsilon \\) \\( \\phi \\) \\( \\beta \\) \\( \\alpha \\) \\( \\gamma \\) Astronomis expertam sectemur, Diagrammata requirat enormis magnitudinis, adeoque operosior evadat, quam ipse Calculus. Ad hunc autem accedentes, utramque Methodum æquipollere deprehendamus.\n\nAdhibeamus enim ex Observationibus Tychonicis tres, quæ Dom. Cassini Diagrammati quodammodo consentiant; nim. Observationem A, cum An. 1604, Mart. 28 d. 16 h. 23 m. Mars observatus fuit in \\( \\approx 18 g. 37 m. 10 s. \\). B, cum An. 1587, Mart. 6 d. 7 h. 23 m. idem Planeta visus fuit in \\( \\approx 20 g. 43 m. 0 s. \\). Denique C, cum An. 1600 Jan. 18 d. 14 h. 2 m. deprehenderetur in \\( \\approx 8 g. 38 m. 0 s. \\). Est igitur inter A & B intervallum apparen's \\( 22 g. 54 m. 10 s. \\) & huic respondens medium \\( 25 g. 58 m. 40 s. \\); at inter B & C intervallum apparen's \\( 47 g. 5 m. 0 s. \\) & medium \\( 56 g. 21 m. 57 s. \\). Itaque\n\nMethodo:\nMethodo Cassini, Fig. II.\n\n1. In Triangulo DBH,\n   Dantur DB 10,00000\n   DBH 12 | 92\n   BHD 11 | 45\n   Quærit BH 9,68106\n\n2. In Triangulo DBG,\n   Dantur DB 10,00000\n   DBG 28 | 18\n   BDG 23 | 54\n   Quær. BG 9,70653\n\n3. In Triangulo HBG,\n   Dantur BH 9,68106\n   BG 9,70653\n   HBG 41 | 17\n   Quær. BGH 64 | 25\n   Cujus Compl. GBI 25 | 05\n   Si auferas ex GBD 28 | 18\n   Restat IBD vel IBL 3 | 13\n\n4. In Triangulo GB I.,\n   Dantur BG 9,70653\n   GIB 90\n   GBI 25 | 05\n   Quær. BI 9,66363\n\n5. In Triangulo IBL,\n   Dantur BI 9,66363\n   BL (semis τε BD) 9,69897\n   IBL 3 | 13\n   Quær. BLI 32 | 31, An. vera, & LI, 8,67284, Excentricitas.\n\nNimiri. Ut Fig. II. BL 9,69897, ad LI, 8,67284;\n   Ita Fig. V., bl 10,03534, ad ld 9,00926.\n\nEx loco apparenti secundæ Observationis\n   auferatur angulus Anomalici veræ BLI\n   Restat locus Apogei\n\nMethodo Herigoni, Fig. V.\n\n1. In Triangulo dbh,\n   Dantur db 10,00000\n   adb externus 24 | 44\n   bbd 11 | 45\n   Quær. bh 10,31894\n\n2. In Triangulo dbg,\n   Dantur db 10,00000\n   cdb externus 51 | 72\n   bgd 23 | 54\n   Quær. bg 10,29347\n\n3. In Triangulo hbg,\n   Dantur bh 10,31894\n   bg 10,29347\n   hbg 41 | 17\n   Quær. hbg (vel hbi) 64 | 95 = bs g\n   Et hib = sgb = 90°\n   Ergo hbi = gbs = 25 | 05\n   Ex gbi = gbs + sbi (= hbg - hbi) = 16 | 12\n   Aufer dbb = hbi - dbi = 12 | 99\n   Restat gbs + sbi - hbi + dbi = sbd (vel dbl) 3 | 13\n\n4. In Triangulo gbs,\n   Dantur bg 10,29347\n   bgs 90\n   gbs 25 | 05\n   Quær. bs 10,33637\n\n5. In Triangulo dbl,\n   Dantur bd 10,00000\n   bl (semis τε bs) 10,03534\n   dbl 3 | 13\n   Quærit. bld 32 | 31 Anom. vera\n   Et ld 9,00926 Excentricitas.\n\nEx loco apparenti secundæ Observationis\n   auferatur angulus Anomalici veræ BLI\n   Restat locus Apogei\n\ns. g. m. sec.\n   5 25 43 0\n   1 2 18 36\n   4 23 24 24\nErat autem revera ævo Tychoæ Apogœon Martis in \\( \\Omega = 28^\\circ \\) d., à quo desicit iste locus, calculo inventus, solidis quinque gradibus. Porrò,\n\nUt B L 9, 69897, Æ Ita 5,18290 Log-us 152369 distantiae med. \\( \\delta \\) tis,\nad L I 8,67284; \\( \\delta \\) ad 4,15677 Log-um 14347 Excentricitatis \\( \\delta \\) tis.\n\nEst autem vera Excentric. \\( \\delta \\) tis 14179, quam ista, calculo inventa, excedit \\( \\frac{1}{17} \\) particulis.\n\nCæterum in ratiocinio secundum utramque Methodum instituto notare licet non modo perpetuum Triangulorum similitudinem, sed & Epilogismi congruentiam; ne quis Apogei & Excentricitatis sic inventae à vero discrepantiam cenfeat errori Calculi imputandam. Sed nec Observationum vitio contingit; quas in dubium vocare nil aliud foret, quàm principia in Astronomia negare. Itaque restat, ut Hypothesin executamus.\n\nEt Ellipticæ quidem Orbitæ Inventio sine controversia Kepleri debetur; sed quibus Accelerationis & Retardationis gradibus incedant Planetæ, definire, non minus pertinet ad integrandam Hypothesin, quàm ipsius Orbitæ determinatio. Quanquam autem ex Cl. Cassini (vel Interpretis ejus) sermone id nusquam appareat; attamen ex Constructione Problematis, & ejus Analyti, manifestum est, eum supponere, Planetam ex foco superiori videri prorsus æquabili motu incedere. Fuit sanè, cum idem exillisimaret Keplerum, quod ejus Scripta evolventibus liquere poteat. Sed cum id Observationibus nequaquam congruere animadvertaret, mutavit sententiam, & lineam veri motus Planetæ æqualibus temporibus æquales areas Ellipticas verrere professus est: Punctum autem, ex quo Planeta exactè æquabili motu procedere videtur, nullum omnino extare in hoc Universo, nisi id librarìe statuere libeat. Nulli interim puncto proprius æquabilem videri incessum Planetæ, quàm ipsi foco superiori Ellipseos. Neque inventus fuit hactenus, qui areas Kepleri phænomenis satisfacere posse negaret; sed, cum eas Calculo directo exhibere nec ipse nec post eum quisquam potuerit, causati sunt nonnulli, Keplerum, nimis indulgentem causis Physicis, à Geometria diversum abiisse; quasi causa physicæ repugnant Geometricæ, aut minus Geometricum fit Problema, quod, nullà injecâ physicarum causarum mentione, sic proponitur: Data area Triliniæ, inter lineas absidum, & veri motus, nec non peripheriam Ellipicam intercepti, invenire Angulum ad Solem. Habent igitur à Kepleri responsum, qui illi æquationes obiciunt; nim. Eant ipsi & Schema solvunt.\n\nQuamvis autem religio fuerit Kepleri, ab Hypothesi, quam Naturalem esse planè persuasum habebat, recedere; quidni liberum foret aliis periculum facere, num via quævis alia detur, inæqualitatem Planetarum primam directo Calculo investigandi? Ideoque Vir Clariss. Ism. Bullialdus aggressus est ratiocinio Geometrico indagare, quà semita, & quibus intensionis ac remissionis gradibus conveniret Planetas ferri, ut ab æquabili incessùs norma, Astronomis ante Keplerum assumptâ, ad eam, quam spectamus, inæqualitatem reduceremur. Perennant Illusterrimi viri monu-\nmonumenta, unde omnem hujus Inventi rationem haurire licet Astrophilis. Amplexus eandem Reverendiss. Seth. Wardus, primum ostendit, paria facere cum linea æquabilis motus circa alterum Ellipseos umbilicum gyrata; deinde & Calculi directi methodo ornavit eam, quam paulò antè recitavimus: Ita ut nil amplius desiderari posset, quàm ut Urania felicibus caeptis annueret. Cuius quidem nomine suscipere ausus fuit Illustris Comes Paganus, edito, biennio post, ejusdem ferè tenoris scripto, adeò veram esse Hypothesin, ut deprehensam circa Octantes discrepantium, Astronomorum insectæ tributam mallet. At Cl. Bullialdi, audiendam potius ipsam Astronomiam ratus, Observatorum ore loquentem, secundis curis, adhibita prioribus Inventis limitatione quadam, discrepantiam illam exterminavit. Unde porrò intelligitur, Hypothesin illam, cui Cl. Cassinius investigationem Apogeorum & Excentricitatum superstruit, tantum ferè deficere à vero, quantum Cl. Bullialdi limitatio polet, atque ab illo defectu pullulare eum quem suprà notavimus, Calculi à Coelo diffusum.\n\nTantum vero abest, ut de Eximii Viri Inventione vel minimum delibatum velit, ut quicquid hujus lucubrationculæ non hausì ex Reverendiss. Wardo, vel Herigono, id omne ipsi liberissimè acceptum referam, qui ansam nobis praebuit hæc altius considerandi. Nec dubitamus, quin omnia ista multò uberioris ac luculentius in promisso Tractatu exposta propediem reperturi simus, cujus Editionem maturam, pro eo quo flagramus divinisimæ Scientiæ amore, perquam avidè exspectamus.\n\nAn Account of Three Books.\n\nI. Esperienze intorno alla Generatione Degli Infetti, fatte da Francisci Redi, Accademico della Crusca. In Firenze, A. 1668. in 4o.\n\nThe Learned and Ingenious Author of this Book, lately come to the Publishers hands, though not yet (which is much disliked by the curious) into our Stationers Shops, doth with much industry undertake therein to evince, that there is no such thing as Equivocal Generation but that every Animal is generated by the seed of another Animals (its parent,) or, at least, from some Living and un-corrupted Plant, as out of Oak-Apples, and several Protuberances and Excrencencies of Vegetables.\n\nFirst then, in the afflicting of the Universal and true Generation of Insects by a peculiar and paternal Seed, the Author positively affirms, that he could never find, by all the Experiments and Observations, he ever made (of which he relateth a great number, by himself made upon all sorts of Animals) that ever any Insects were bred from Flesh, or Fish, or purified Plants, or any other Bodies, but such, as Flies had access unto, and scatter'd their seed upon; he having taken extraordinary care and pains to observe, that always on the Flesh, before it did verminate, there late Flies of the self same kind with those, that were afterwards produc'd thence; and again, that no Worms would ever come from any Flesh in Vessels well cover'd, and defended from the access of Flies; so that to him there is no generation of Insects from any dead Animals, but such as have been fly-blown.\n\nAnd least it should be objected, that the reason, why in vessels exactly clos'd, no Insect breeds, is the want of Air, necessary to all Generation, He hath carefully covered several vessels with very fine Naples-vail, for the Air to enter, though Flies could not; but that no worms at all were bred there, notwithstanding that many Flies swarmed about them, invited by the smell of the Flesh inclosed therein.\n\nSecondly, to make out the other part of his Position, viz. That those Animals that are not bred by the seed of other Animals, are produced from some live Plant, or its Excre-\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101563.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 15588,
+    "total-output-tokens": 7757,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2009,
+        2
+      ],
+      [
+        2009,
+        3974,
+        3
+      ],
+      [
+        3974,
+        7217,
+        4
+      ],
+      [
+        7217,
+        10294,
+        5
+      ],
+      [
+        10294,
+        12792,
+        6
+      ],
+      [
+        12792,
+        14555,
+        7
+      ],
+      [
+        14555,
+        17567,
+        8
+      ],
+      [
+        17567,
+        21213,
+        9
+      ],
+      [
+        21213,
+        21213,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101563",
+    "title": "Some Considerations of Mr. Nic. Mercator, Concerning the Geometrick and Direct Method of Signior Cassini for Finding the Apogees, Excentricities, and Anomalies of the Planets; As That was Printed in the Journal des Scavans of Septemb. 2. 1669: Which Considerations are Here Delivered in the Latine Tongue, Wherein they Were Written by the Author, as Chiefly Regarding the Learn'd in Astronomy, viz. Clarissimi Cassini Methodus Investigandi Apogea, Excentricitates & Anomalias Planetarum, Breviter Exposita & Demonstrata",
+    "authors": "Nic. Mercator",
+    "year": 1670,
+    "volume": "5",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/101563"
+  }
+}

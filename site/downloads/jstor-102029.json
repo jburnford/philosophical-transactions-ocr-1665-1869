@@ -1,0 +1,59 @@
+{
+  "id": "865b7f5864baaccf940d87ab63351e9a89fd20ff",
+  "text": "ERRATA.\n\nPage 399 l. 14. p. 474 l. 2 p. 413 l. 1. for Saturn r. Jupiter pag. 409 l. 24. after the Earth,\ninsert, where this Eclipse is Fen. p. 411 l. 2. for opposition of the Ingresses, r. Opposition,\nthe u.g. cles, p. 424 l. 9. Orbire. p. 442 l. 15. for in, r. to. p. 446 l. 38 r. their\nhaving.\n\nOXFORD,\n\nPrinted at the THEATER, and are to be sold by Moses Pitt,\nat the Angel, and Samuel Smith, at the Princes Arms in St.\nPaul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102029.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 255,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        455,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102029",
+    "title": "Errata",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102029"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "002c4ce341cdc7a5d8b3c139d63511019e63fc4f",
+  "text": "I was further informed, That from the time of that great Thunder clap both the Thunder and Lightning diminish'd gradually, so that in an Hours time all was still and quiet again.\n\nIII. Part of a Letter from Dr. Archibald Adams, to Dr. Hans Sloane, R. S. Secr. concerning an Apoplectick Person, in whom, from an Obstruction in the Left Ventricle of the Brain, the Nerves on the Opposite side were affected.\n\nNorwich, February 18. 1707:\n\nSome time ago I opened the Head of a Woman who dy'd of an Apoplexy, and in the left Ventricle of the Brain I found betwixt four and five Ounces of clotted Blood, in the right Ventricle no Blood at all, but every thing as usual; and all the Nerves which command-ed the right side of the Body were as strong as any I ever observ'd in a sound Animal, especially in their Origin, and as far as I could trace them in their course. It was my Opinion, that which ever Ventricle the Obstruction was in, the Nerves and Muscles corresponding to that side were affected, but here the contrary appear'd plainly; for altho' the Obstruction was in the left Ventricle, yet the sense and motion of the right side were intirely lost, and the small remains of either were observable in the left side.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103218.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 366,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1218,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103218",
+    "title": "Part of a Letter from Dr. Archibald Adams, to Dr. Hans Sloane, R. S. Secr. concerning an Apoplectick Person, in Whom, from an Obstruction in the Left Ventricle of the Brain, the Nerves on the Opposite Side Were Affected",
+    "authors": "Archibald Adams",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103218"
+  }
+}

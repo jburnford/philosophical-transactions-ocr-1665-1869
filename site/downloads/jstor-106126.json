@@ -1,0 +1,59 @@
+{
+  "id": "b0275f4276e64e16d82ebf6136a6cc0c36e15407",
+  "text": "ERRATA.\n\nVol. LIX.\nPag. 69, line 23, for shortest read longest.\n\nVol. LX.\nPag. 194, 8, effort effect.\n11, knots knobs.\n205, 13, explosion expulsion.\n211, 9, mere more.\n216, 12, fort foot.\n218, 22, fitted filled.\n219, 28, read, I let the air into the receiver.\n224, 17, read from one conducting particle to another.\n227, 2, for proof read process.\n502, middle column, l. 3 from bottom, 7.45.5 r. 7.43.55.\n\nVol. LXI.\nPag. 17, 14, for avenues read avemus.\n78, 12, Tab. III. Tab. III.*\n79, last line, Vabars i Vabar is.\n145, 11, chesunt chesnut.\n168, note 3, at the North East to the North East.\n219, 25, salt salts.\n274, 3, after Esq; add F. R. S.\n275, 20, 30th 7 2 inches Barom. 30 7 2 inches.\n280, 13, in it in the apartment.\n282, 13, after storm r. although diminished in form, weighed.\n290, 2, euq que.\n295, 23, sixteen ths six tenths.\n359, 2, read Richard Hill Waring.\n360, 26, Phyl Phyt.\n362, 6, tripla triplo.\n365, 16, Vaccinia Vaccinia.\n366, 26, and the and on the.\n367, 5, county country.\n368, 5, Ter Ger.\n371, 22, 23, Pericæ Pezize.\n377, 1, removed renewed.\n379, 9, Triddle Friddle.\n383, 5, prepared to prepared and at liberty to.\n454 at bottom XLV. XLVII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106126.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 584,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1163,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106126",
+    "title": "Errata",
+    "authors": null,
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106126"
+  }
+}

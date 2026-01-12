@@ -1,0 +1,79 @@
+{
+  "id": "ff158294fce6428afefad4498f3e24233393a87f",
+  "text": "XVIII. An Account of certain perfect minute Crystal Stones, by J. Parsons, M. D. & F. R. S.\n\nRead June 27. THE Drawing here annexed, Tab. III. 1745.\n\nFig. 10. represents a small Crystal magnified; it is one of a great Number brought by a very curious Gentleman from Gibraltar, who has caused many of them to be set in Buckles of different Kinds, for the Wear of his Lady and himself: And altho' they are formed and polish'd by Nature; yet they look very bright, and produce a very good Effect in the Buckles.\n\nThey were found accidentally. This Gentleman saw a Man cleaving a Rock near that Town, and observ'd a great Quantity of fine black Powder fall from its Crevices; and, being very curious, he examined the Powder, and found these little Stones in Clusters, consisting of no more than twelve or fourteen each; and each Cluster lying at considerable Distances from one another. They are all of the same Form, some less perfect than others, and are in general Hexagonals.\n\nXIX. A Letter from Mr. John Ellicot, F. R. S. to the President, concerning the specific Gravity of Diamonds.\n\nRead July 4. AS, from some Experiments I have lately had the Opportunity of making, it appears highly probable, that what has formerly\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104494.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6778,
+    "total-output-tokens": 421,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1222,
+        2
+      ],
+      [
+        1222,
+        1222,
+        3
+      ],
+      [
+        1222,
+        1222,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104494",
+    "title": "An Account of Certain Perfect Minute Crystal Stones, by J. Parsons, M. D. & F. R. S.",
+    "authors": "J. Parsons",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104494"
+  }
+}

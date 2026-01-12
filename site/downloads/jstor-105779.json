@@ -1,0 +1,89 @@
+{
+  "id": "ba1626b4d5777e5e4dd162eff7fba6f993a66772",
+  "text": "XXXI. An Account of some Experiments, by Mr. Miller of Cambridge, on the sowing of Wheat: By W. Watson, M.D. F.R.S.\n\nTo the Royal Society.\n\nGentlemen,\n\nLincoln's Inn Fields,\nOct. 4, 1768.\n\nHAVING been informed, that in 1768, the Botanic garden at Cambridge, there had been produced, by the ingenuity and care of Mr. Charles Miller, the gardener there, from one grain of wheat only, in little more than a year, a much more considerable quantity of grain, than was ever attempted, or even conjectured to be possible; I have desired him to send me a particular account thereof, in order to its being communicated to you; and, if the Council should think proper, of its being recorded in the Philosophical Transactions, as I think it highly deserves. In my opinion, a fact so extraordinary should not be forgotten; as it may possibly be applied in no inconsiderable degree to public utility: if it should not, the experiment itself, so successfully conducted, is a desirable thing to be known.\n\nMr. Charles Miller is a very ingenious person, and an excellent naturalist. He is the son of our worthy brother\nbrother Mr. Philip Miller, from whose knowledge of, and publications in, botany, agriculture, and gardening, the public has received very great information and advantage. In consequence of my desire, Mr. Charles Miller has informed me, that having made, in the autumn of 1765, and in the spring of 1766, an experiment of the division and transplantation of wheat, by which near two thousand ears were produced from a single grain; and he having reason to think, from the success attending this experiment, that a much greater quantity might be produced, he determined to repeat the experiment next year.\n\nAccordingly, on the second of June, 1766, he sowed some grains of the common red wheat; and, on the eighth of August, which was as soon as the plants were strong enough to admit of a division, a single plant was taken up, and was separated into eighteen parts. Each of these parts was planted again separately. These plants having pushed out several side shoots by about the middle of September, some of them were then taken up, and divided; and the rest of them between that time and the middle of October. This second division produced sixty seven plants.\n\nThese plants remained through the winter; and another division of them, made between the middle of March and the twelfth of April, produced five hundred plants. They were then divided no further, but permitted to remain.\n\nThe plants were in general stronger than any of the wheat in the fields. Some of them produced upwards of an hundred ears from a single root. Many of the ears measured\nmeasured seven inches in length, and contained between sixty and seventy grains.\n\nThe whole number of ears, which by the process before mentioned were produced from one grain of wheat, was twenty one thousand one hundred and nine, which yielded three pecks and three quarters of clear corn; the weight of which was forty seven pounds, seven ounces; and, from a calculation made by counting the number of grains in one ounce, the whole number of grains might be about five hundred and seventy six thousand eight hundred and forty.\n\nBy this account we find, that there was only one general division of the plants made in the spring. Had a second been made, the number of plants, Mr Miller thinks, would have amounted, at least, to two thousand, instead of five hundred; and the produce have been much enlarged. For he found by the experiment made the preceding year, in which the plants were divided twice in the spring, that they were not weakened by the second division. He mentions this to shew, that the experiment was not pushed to the utmost.\n\nThe ground, in which this experiment was made, is a light blackish soil upon a gravelly bottom, and consequently a bad soil for wheat. One half of the ground was very much dunged; the other half was not prepared with dung, or any other manure: no difference was however discoverable in the vigour or growth of the plants, nor was there any in their produce.\n\nMr. Miller adds, that he omits making any conjectures of the probability of turning this experiment to\nto public utility in agriculture; as that, he hopes, may be better ascertained by a more extensive one, which he hopes to make next year. A gentleman, who assisted him in making the experiment last year, has sown half an acre of land with wheat, from which they expect to have sufficient to plant four acres next spring. The success of this experiment they propose to transmit to me, when it is completed; and of this, in due time, I shall not fail to inform you.\n\nI am, Gentlemen,\n\nYour most obedient\n\nhumble servant\n\nW. Watson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105779.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1176,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1103,
+        2
+      ],
+      [
+        1103,
+        2657,
+        3
+      ],
+      [
+        2657,
+        4167,
+        4
+      ],
+      [
+        4167,
+        4696,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105779",
+    "title": "An Account of Some Experiments, by Mr. Miller of Cambridge, on the Sowing of Wheat: By W. Watson, M. D. F. R. S.",
+    "authors": "W. Watson, Mr. Miller",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105779"
+  }
+}

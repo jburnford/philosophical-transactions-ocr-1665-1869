@@ -1,0 +1,69 @@
+{
+  "id": "0f763de45bbc3df2a5b9e29089fbdbaf3fda055c",
+  "text": "The CONTENTS.\n\nA Relation of a very odd kind of Bleeding in a little Child. Some Queries and Answers relating to an Accomp given in Numb. 54. of a strange Lake in Carniola, A Narrative of some Observations made upon several Voyages, undertaken to find a North-East Passage; together with Instructions given by the Dutch East-India Company for the discovery of the famous Land of Jesso near Japan. A Relation about a North-West Passage. An Accomp of three Books. I. A Discourse made before the Royal Society, Novemb. 26.1674. concerning the Use of DUPLICATE PROPORTION, in sundry important Particulars, together with a New Hypothesis of ELASTIQUE or Springy Motions, By Sr. William Petty, Knight, Fellow of the said Society. II. The second Book of the ART of METALS, &c. written in Spanish by Alonso Barba, and English'd by the late Earl of Sandwich. III. Animadversions on the First part of the MACHINA COELESTIS of the deservedly famous Johannes Hevelius; together with an Explication of some Instruments; made by Rob. Hook, Geom. Prof. in Gresh. Coll. and Fellow of the R. Society.\n\nA Relation sent Novemb. 16. 1674. from a very credible and ingenious Person, Mr. Samuel du Gard, Rector of Forton in Shropshire, to Dr. Ra. Bathurst Vice-Chancellor of the University of Oxford, and by him communicated to a Friend of his in London; concerning a strange kind of Bleeding in a little Child.\n\nI am bold to give you a Narration of the Distemper of a Child at Littyhall, a little Town in Shropshire, because it is very unusual, (if ever the like hath been heard by you before;) and also because I have certain evidence of the thing. The Child was a quarter of a year old, when it was taken with a Bleeding at the Nose and Ears, and behind the hinder part of the Head, where was nothing at all of any Sore. This lasted for three days; at the end of which, the Nose and Ears ceased bleeding; but still blood came, as it were sweat, from the Head. Three days before the death of the Child (which was the sixth day since she began to bleed) the blood came more violently\nfrom her Head, and stream'd out to some distance from it: Nor did she bleed only there, but upon her shoulders, and at the Waist, in such quantities, that the linnen next her might be wrung, it was so wet; and every day required clean linnen. She for three days bled also at the Toes, at the bend of her Arms, at the Joynts of her fingers of each hand, and at the fingers ends; and in such measure, that in a quarter of an hour the mother hath catch't from the droppings of the fingers, almost so much as the hollow of her hand would hold. All the time of this bleeding the child never cry'd vehemently, but only groan'd; though about three weeks before, it had such a violent fit of crying as the Mother said she never heard. After the Child was dead, there appear'd in those places where the blood came, little holes like the prickings of a Needle.\n\nThis Accompt I had from the Mother of the Child who is a very sober Woman; and she told it me with tears. Every circumstance is so far from fiction, that the Women, who were many, that were with the Child in its illness and at its death, do attest it. I saw the Child's Coat stained, at the waist of it, with the blood that came from that part; and also another thing bloody from the head of it. The mother told me, the blood was not thin like water, but of that thickness as blood usually is; and that she and others believed, there was little or no blood left in the body of the Child. If the the time of the Child's death will add any thing to this relation, it was about last Candlemas.\n\nSome Queries and Answers, relating to an Account given in Numb. 54. by Dr. Edw. Brown, of a strange Lake in Carniola, call'd the Zirchnitz-Sea: The Queries were made by a Curious person in France; the Answers given by the Author of the said Accompt.\n\n1. Q. Whether the Mountains that compass this Lake, except on the South-side, be very high, and whether the Snow keep long upon them? A. This Lake is encompassed with high hills at some little distance, but when I was upon the Lake, I saw no Snow upon them; but upon Mountains in the Country, as I travell'd to and from this Lake, I observ'd Snow in June. Upon Hills on the side of great Lakes the Snow lies not so long as upon hills more distant.\n\n2. Q. Whether the Holes and Openings, by which these Waters run out, are in stones, or in the loose Earth? A. Generally they are stony, not in soft or loose Earth; yet in one or two places the Earth hath been known to sink and fall in, particularly near a Village call'd Sea-dorf.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101172.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1214,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2063,
+        2
+      ],
+      [
+        2063,
+        4587,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101172",
+    "title": "A Relation Sent Novemb. 16. 1674. from a Very Credible and Ingenious Person, Mr. Samuel du Gard, Rector of Forton in Shropshire, to Dr. Ra. Bathurst Vice-Chancellor of the University of Oxford, and by Him Communicated to a Friend of His in London; Concerning a Strange Kind of Bleeding in a Little Child",
+    "authors": "Samuel du Gard",
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101172"
+  }
+}

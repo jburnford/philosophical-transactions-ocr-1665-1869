@@ -1,0 +1,59 @@
+{
+  "id": "bae0f17175bb5d7e6dbd8c4cb8dc0b713a5f8f98",
+  "text": "XI. Extract of a Letter from the Rev. John Brinkley, D.D.\nF.R.S. Andrew's Professor of Astronomy in the University of\nDublin, to the Rev. Nevil Maskelyne, D.D. F.R.S. Astro-\nnomer Royal, on the annual Parallax of α Lyrae.\n\nRead April 12, 1810.\n\nI have now had sufficient experience of my eight feet circle,\nto be highly satisfied with it, and have arrived at one con-\nclusion, that it is of importance in astronomy.\n\nMy observations on α Lyrae for the purpose of discovering\nan annual parallax now amount to 47 in number, viz. 22 near\nopposition, and 25 near conjunction, and the mean of these\ngives a result of 2,\"52 as the parallax of the annual orbit for\nthat star, and I have no doubt that it exceeds 2\".\n\nMy observations of different circumpolar stars, and of the\nsame star in different states of the thermometer, seem to re-\nquire a small alteration in the numbers of Dr. Bradley's\nformula for refraction.\n\nThe formula so altered is\n\n\\[ \\text{Refraction} = 56,\"9 \\times \\text{tang.} \\left\\{ \\frac{\\text{Zen. dis.} - 3.2 \\text{ Refr.}}{29.6} \\right\\} \\times \\frac{500}{450 + \\text{ther.}} \\]\n\nBy means of this formula, the observations of circumpolar stars\nconsiderably distant, give the same co-latitude to a great de-\ngree of exactness.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107220.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 425,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1243,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107220",
+    "title": "Extract of a Letter from the Rev. John Brinkley, D.D.F.R.S. Andrew's Professor of Astronomy in the University of Dublin, to the Rev. Nevil Maskelyne, D.D.F.R.S. Astronomer Royal, on the Annual Parallax of a Lyrae",
+    "authors": "John Brinkley",
+    "year": 1810,
+    "volume": "100",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107220"
+  }
+}

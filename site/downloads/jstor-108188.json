@@ -1,0 +1,109 @@
+{
+  "id": "ef8e1998a356c07dfd82e468066b2aa5b6a69677",
+  "text": "IV. Researches towards establishing a Theory of the Dispersion of Light. No. IV.\n\nBy the Rev. Baden Powell, M.A. F.R.S. F.G.S., Savilian Professor of Geometry in the University of Oxford.\n\nReceived January 11,—Read February 8, 1838.\n\nIntroductory Remarks.\n\nIn my last communication I laid before the Royal Society a comparison of the results of observation and of theory, with respect to the dispersion of light, in the instances of the refractive indices for the standard rays in fifteen different cases of transparent media (some being the same medium at different temperatures), including those which exhibit the greatest range, and the highest numbers, of any yet subjected to this kind of observation. The agreement with the theory was found to be sufficiently close for the lower cases, but displayed an increasing discrepancy as we advanced towards the higher. The theoretical formula employed was one derived from the undulatory hypothesis, by a process involving some limitations, which rendered it only approximative; and, in conclusion, I remarked that by pursuing the investigation to a greater degree of development, or by adopting methods of a more precise character, it was still reasonably to be hoped that a more close coincidence might be found.\n\nI alluded specifically to the methods of M. Cauchy and of Mr. Kelland, as those to which we might look for the means of following up the inquiry with good prospect of success. Of the former (delivered in the Nouveaux Exercices de Mathématiques, Prague, 1835–6, and extending through livraisons 1 to 8 inclusive), I can only say that the investigations are of so extremely elaborate a character, that I was glad, in the first instance at least, to try any other method which might seem to promise results without involving calculations of such overwhelming extent as those by which the distinguished author establishes the exact agreement with theory of all the indices observed by Fraunhofer.\n\nI therefore commenced with a trial of the method proposed in the memoir of Mr. Kelland*, applying it of course in the first instance to the case of the most highly dispersive substance, oil of cassia, in which the greatest discrepancy had before appeared. Owing to an obscurity in the statement of an important part of the process in the paper referred to, I was led to communicate with the author, and\n\n* Cambridge Transactions, vol. vi. Part I.\nsoon received from him a statement of the results of theory for oil of cassia, in which the discrepancies were almost wholly removed.\n\nI have since verified that calculation, and have performed similar computations for the only other cases in which material differences before appeared.\n\nThe object of the present communication is to state these results, with the necessary data of the calculations; and further, to elucidate the general method, so as to render it more readily applicable to other cases which may arise in the further prosecution of the determination of refractive indices; and to notice the present condition in which the theory may be considered to stand with respect to this material portion of its experimental evidence.\n\n**Explanation of the Formula.**\n\nThe formula adopted in my preceding papers includes essentially the development of the term\n\n$$\\frac{\\sin \\left( \\frac{\\theta}{\\lambda} \\right)}{\\left( \\frac{\\theta}{\\lambda} \\right)}.$$\n\nThis of course gives a series involving the even powers of $\\lambda$ with certain coefficients. And the practical differences in the methods of calculation turn entirely on the number of terms to which it may be thought necessary to pursue this series, or the mode of finding or eliminating the coefficients.\n\nAs it does not enter into my present design to refer to the physical principles of the theory, I will merely here observe, that though such principles have been assumed under some difference of aspect by the several eminent mathematicians who have treated the subject, yet the formulas deduced for the dispersion have, in every instance, resulted the same as far as the form of the series is concerned, differing only in regard to the nature of the summation and the coefficients involved.\n\nAs it is in regard to the numerical comparison with experiment that I am at present engaged in considering the subject, I have been chiefly interested in comparing these methods so far as to see whether, when one might fail in giving sufficiently close coincidences, another might cause the discrepancies to diminish or disappear.\n\nIn this view then, referring to Mr. Kelland's method, it may be necessary for its better elucidation to state it generally as follows. Supposing it sufficient to take three terms of the series, the relation of the refractive index ($\\mu$) to the wave-length in the medium ($\\lambda_i$) may be expressed thus:\n\n$$\\frac{1}{\\mu^2} = p - \\frac{1}{\\lambda_i^3} q + \\frac{1}{\\lambda_i^4} l.$$\n\nOur comparison, however, is to be made with the wave-length in air or vacuum, which, in order to express that in the medium, must be reduced in the ratio of the refraction for the medium and for the ray, (which is not expressed in the author's formulas,) or, $\\lambda$ being the wave-length in air, we must take\nand the formula becomes\n\n\\[\n\\frac{1}{\\mu^2} = p - \\left(\\frac{\\mu}{\\lambda}\\right)^2 q + \\left(\\frac{\\mu}{\\lambda}\\right)^4 l\n\\]\n\ntaking such formulas successively for the different standard rays, between any two, as those for B and E, the constant \\(p\\) is eliminated: and combining these with a third, as that for H, the coefficients \\(q\\) and \\(l\\) are determined. For brevity writing\n\n\\[\n\\frac{1}{\\mu^2_B} = b, \\quad \\left(\\frac{\\mu}{\\lambda}\\right)^2_B = \\beta, \\quad \\left(\\frac{\\mu}{\\lambda}\\right)^4_B = \\beta^2;\n\\]\n\nand similarly expressing by \\(e, \\varepsilon, \\varepsilon^2; h, \\eta, \\eta^2\\); the corresponding quantities for the rays E and H, we shall have\n\n\\[\n(b - e) = (\\varepsilon - \\beta) q - (\\varepsilon^2 - \\beta^2) l,\n\\]\n\\[\n(e - h) = (\\eta - \\varepsilon) q - (\\eta^2 - \\varepsilon^2) l;\n\\]\n\nwhence we obtain,\n\n\\[\nl = \\frac{(\\varepsilon - \\beta)(e - h) - (\\eta - \\varepsilon)(b - e)}{(\\varepsilon - \\beta)(\\eta^2 - \\varepsilon^2) - (\\eta - \\varepsilon)(\\varepsilon^2 - \\beta^2)},\n\\]\n\\[\nq = \\frac{(b - e) + (\\varepsilon^2 - \\beta^2) l}{(\\varepsilon - \\beta)}.\n\\]\n\nKnowing the values of \\(\\lambda\\) from the determinations of Fraunhofer, it becomes easy in the above formula to introduce the values of \\(\\left(\\frac{\\mu}{\\lambda}\\right)\\) taking the indices as given by observation for the particular medium: we, thus, first determine the constants \\(q\\) and \\(l\\) for the medium, and having done this, by the aid of these combined again with the indices given by observation a value of \\(p\\) is deduced for each ray by the formula,\n\n\\[\np = \\frac{1}{\\mu^2} + \\left(\\frac{\\mu}{\\lambda}\\right)^2 q - \\left(\\frac{\\mu}{\\lambda}\\right)^4 l;\n\\]\n\nand if these values of \\(p\\) for the different rays result equal, the theory is verified.\n\nMr. Kelland has thus verified it to a degree of accuracy, which will probably be deemed sufficient, for all the indices determined by Fraunhofer.\n\nThe following Table contains the logarithms of the values of \\(\\frac{1}{\\lambda^2}\\) for the standard rays after the determinations of Fraunhofer, without their index.\n\n| Ray | log \\(\\frac{1}{\\lambda^2}\\) |\n|-----|---------------------------|\n| B   | .18999                    |\n| C   | .23165                    |\n| D   | .32508                    |\n| E   | .42216                    |\n| F   | .48236                    |\n| G   | .59885                    |\n| H   | .66892                    |\nIn order to simplify the numerical calculations, it is found convenient to regard the two last terms of the formula as involving factors which are respectively some power of ten in the numerators, to the same amount as the number of places which would be found in the values of $\\lambda^2$ and $\\lambda^4$ in the denominators.\n\nIn applying the theory to the cases of particular media, we have to combine the values in the above Table with those of the indices obtained from observation. These I have taken from my own approximate determinations, as originally given in a separate memoir, and quoted in my last paper in the Philosophical Transactions, 1837, Part I.\n\nIn the following cases therefore the logarithms of $\\lambda^2$ are taken as above, and after deriving those of $\\left(\\frac{\\mu}{\\lambda}\\right)^2$ and of $\\left(\\frac{\\mu}{\\lambda}\\right)^4$ a common index 4 is added: from these we obtain in the first instance the values of $q$ and $l$, and thence again those of $p$ for each ray.\n\nI have not, in the present instance, thought it necessary to go through these somewhat laborious calculations for more than those three cases which in my former investigations appeared to present the greatest discrepancies with theory, viz. the oil of cassia, which gave the greatest discordances; and the two sets of observations on sulphuret of carbon at the respective temperatures of 12° and 22° centigrade.\n\nComparison of observed refractive indices with the results of Mr. Kelland's theory.\n\n| Ray | Log. $\\mu^2$ from obs. | Values of $\\frac{1}{\\mu^2}$ from obs. | $\\left(\\frac{\\mu}{\\lambda}\\right)^2 q.$ | $\\left(\\frac{\\mu}{\\lambda}\\right)^4 l.$ | $p.$ |\n|-----|------------------------|--------------------------------------|----------------------------------|---------------------------------|------|\n| B   | .42084                 | .37946                               | .01461                           | .00031                          | .39438 |\n| C   | .42214                 | .37832                               | .01612                           | .00037                          | .39481 |\n| D   | .42804                 | .37322                               | .02027                           | .00059                          | .39408 |\n| E   | .43476                 | .36749                               | .02573                           | .00096                          | .39418 |\n| F   | .44106                 | .36220                               | .03000                           | .00131                          | .39351 |\n| G   | .45392                 | .35163                               | .04041                           | .00237                          | .39441 |\n| H   | .46614                 | .34187                               | .04884                           | .00352                          | .39423 |\n\n$\\log l = \\bar{9}.27073$\n\n$\\log q = \\bar{7}.55372$\n\n| Ray | Log. $\\mu^2$ from obs. | Values of $\\frac{1}{\\mu^2}$ from obs. | $\\left(\\frac{\\mu}{\\lambda}\\right)^2 q.$ | $\\left(\\frac{\\mu}{\\lambda}\\right)^4 l.$ | $p.$ |\n|-----|------------------------|--------------------------------------|----------------------------------|---------------------------------|------|\n| B   | .41408                 | .38470                               | .01784                           | .00029                          | .40225 |\n| C   | .41774                 | .38217                               | .01979                           | .00036                          | .40160 |\n| D   | .42288                 | .37768                               | .02484                           | .00057                          | .40195 |\n| E   | .42996                 | .37157                               | .03157                           | .00090                          | .40224 |\n| F   | .43608                 | .36637                               | .03678                           | .00125                          | .40190 |\n| G   | .44878                 | .35588                               | .04953                           | .00227                          | .40314 |\n| H   | .46136                 | .34565                               | .05922                           | .00332                          | .40225 |\n\n$\\log (-l) = \\bar{9}.26050$\n\n$\\log q = \\bar{7}.64725$\n### III. Oil of Cassia.\n\n| Ray | Log \\( \\mu^2 \\) from obs. | Values of \\( \\frac{1}{\\mu^2} \\) from obs. | \\( \\left( \\frac{\\mu}{\\lambda} \\right)^2 q \\) | \\( \\left( \\frac{\\mu}{\\lambda} \\right)^4 l \\) | \\( p \\) |\n|-----|--------------------------|---------------------------------|------------------|------------------|------|\n| B   | .40197                   | .39630                         | .01163           | .00200           | .40993 |\n| C   | .40378                   | .39466                         | .01285           | .00245           | .40996 |\n| D   | .40916                   | .38980                         | .01614           | .00386           | .40980 |\n| E   | .41661                   | .38316                         | .02053           | .00624           | .40993 |\n| F   | .42411                   | .37661                         | .02399           | .00852           | .40912 |\n| G   | .44058                   | .36259                         | .03259           | .01572           | .41090 |\n| H   | .46100                   | .34594                         | .04013           | .02384           | .40991 |\n\n\\[\n\\log l = \\bar{E}.11760 \\\\\n\\log q = \\bar{F}.47363\n\\]\n\n**Observations on the above Results.**\n\nIn the case of oil of cassia the accordance in the values of \\( p \\) appears sufficiently close; especially considering that the experimental data can only be regarded as approximations, as fully appears from my paper on the determination of the indices. The only material discrepancy is in the ray G; and it is this ray for which Mr. Kelland himself has always found theory in excess in the calculation of Fraunhofer's indices, and has made some remarks on the point in his memoir. Upon the whole, considering this as the extreme case as yet known and examined, the superiority of Mr. Kelland's method will be sufficiently manifest; and it will be allowed that this extreme case has been thus brought as far at least within the limits of accordance as we can perhaps reasonably expect in the present state of our means of investigation.\n\nThe case of sulphuret of carbon at the temperature of 12° is also brought into very satisfactory agreement with theory by the present method.\n\nThe other case of the same substance at the temperature of 22° still exhibits some discordance. The ray G is here again in excess; but the differences follow no regular order, being sometimes in excess, sometimes in defect. This at least shows that although the series is not rapidly convergent, in this case the addition of another term would not remove the discordance.\n\nWith regard to the error which is always found so marked in the ray G, Mr. Kelland in a letter to me, observed that in that ray it would seem reasonable to entertain some suspicion as to the experimental data. Now there is one circumstance which may corroborate such suspicion. The determinations of the values of \\( \\lambda \\), as is well known, were made from the interference-spectrum, in which the blue end, with its dark lines, is most contracted. In the refraction-spectra, (and more so in the more dispersed,) it is the most expanded: and the dark bands which in the lower cases appear single, in the higher are resolved into several lines, in some instances separated by very sensible intervals: and this difference must be still more marked in comparing the highly dispersed spectra with that of interference. The ray G, in par-\nticular, is thus resolved into an assemblage of small lines. Thus some uncertainty may be fairly admitted to exist in the data; at any rate enough to render further examination desirable before we can pronounce on the insufficiency of the theory.\n\n**General Remarks on the Formula.**\n\nIf the accordances be allowed to come sufficiently within the limits of error, it may not be improper to add a remark with respect to the entire nature of the formula, and the light in which, (in its present state,) the theory of dispersion must be regarded.\n\nThe relation here expressed between the index and the wave-length involves three constants dependent on the medium; which must be in some way derived from experimental data: and which are here directly deduced by assuming some three, at least, of the observed refractive indices for the medium.\n\nThe whole process then seems equivalent to assuming these three indices, and then interpolating the intermediate values. This, though under a different form, is also palpably the case with the method adopted in my former paper.\n\nNow it may be contended that this actually carries us but a very little way towards a real or satisfactory explanation, and that a complete theory ought to assign also an independent relation between the constants.\n\nThe consideration of this point has been included in the valuable researches lately made by Professor Lloyd of Dublin, given in a paper read before the Royal Irish Academy, and noticed in the reports of that body, (Nos. 2 and 3.). But I have been informed by the author that, in pursuing that research, he has found theory, as yet, incapable of furnishing the relation in question.\n\nIt seems, therefore, that in the present state of our knowledge we must be content to regard the constants of the formula as unexplained by theory. But the process by which we here obtain them, (viz. by assuming three indices from observation,) may be viewed as simply auxiliary. The main calculation may be regarded as independent, and considered to involve two of these constants only as if they had been adopted empirically; whence we proceed to verify the formula by the coincidences of the values of the third, viz. $p$. But even with this deficiency, it seems to me not an unimportant step to be able, with two empirical constants, dependent on the medium, but independent of the ray, to assign a third quantity, which expresses for each ray a relation between the wave-length and the refractive index, with so near an approximation to the truth, even in the most extreme case as yet known.\n\n*Oxford, January 7, 1838.*",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108188.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11160,
+    "total-output-tokens": 4656,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2406,
+        2
+      ],
+      [
+        2406,
+        5203,
+        3
+      ],
+      [
+        5203,
+        7594,
+        4
+      ],
+      [
+        7594,
+        11924,
+        5
+      ],
+      [
+        11924,
+        15342,
+        6
+      ],
+      [
+        15342,
+        17935,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108188",
+    "title": "Researches towards Establishing a Theory of the Dispersion of Light. No. IV",
+    "authors": "Baden Powell",
+    "year": 1838,
+    "volume": "128",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/108188"
+  }
+}

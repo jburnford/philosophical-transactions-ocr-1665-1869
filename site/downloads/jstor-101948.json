@@ -1,0 +1,79 @@
+{
+  "id": "4eec0377cd26f77f031154daaf89479c701b34df",
+  "text": "count of several Experiments made to examine the Nature of the Expansion and Contraction of Fluids by Heat and Cold, in order to ascertain the Divisions of the Thermometer, and to make that Instrument, in all places, without adjusting by a Standard. By Mr. Edm. Halley, S. R. S.\n\n6. An Account of a Book, viz. Novae Hypotheses ad explicantia februm intermittens Symptomata & Typos excitatæ, Hypertyposis, una cum ætiologia Remediorum; speciatim vero de curatione per Corticem Peruvi-anum, accedit Dissertaticuncula de Intestinorum motu Peristaltico. Authore Guilielmo Cole M.D. Imp. Lond. in 8°. 1693. Prostant apud S. Smith.\n\nI. Some Experiments on a Black Shining Sand brought from Virginia, suppos'd to contain Iron, made in March 1689. By Allen Moulen, M. D. and Fellow of the Royal Society, since Dead.\n\n1. A Small Phial fill'd with ordinary white Sand, and containing only 3j. gr. xj. being fill'd with the Virginia Sand was found to contain 3ij, 3ij, gr. j, that is, 3jβ more than what was equal to it in bulk.\n\n2. This Sand did apply to the Magnet both before and after Calcination, but the latter did apply better to it than the former.\n\n3. A parcel of this Sand mix'd and calcin'd with powder'd Charcoal, and kept in a melting Furnace for about an hour, yielded no Regulus, but apply'd more vigorously to the Load-stone than either of the former.\n4. I flux'd a parcel of this Sand with fix'd Nitre in a melting Furnace for above an Hour, but could obtain no Regulus, nor any substance that would apply to the Magnet, excepting a thin Crust that struck firmly to a piece of Charcoal that dropt into the Crucible when the matter was in fusion.\n\n5. I flux'd it also with Salt-Peter and powder'd Charcoal, dropping pieces of Charcoal afterwards into the Crucible. It continu'd about an hour in the melting Furnace in fusion, and that without producing a Regulus or a Substance that would apply to the Magnet, excepting only what stuck to the Charcoal, as in the former Experiment.\n\n6. I flux'd another parcel of it with Salt-Peter and Flowers of Brimstone, without being able to procure any Regulus.\n\n7. I pour'd good Spirit of Salt on a parcel of this Sand, but could observe no Luctation thereby produc'd.\n\n8. I pour'd Spirit of Nitre both strong and weakened with Water on parcels of the same Sand, without being able to discover any Conflict.\n\n9. I pour'd single Aqua fortis upon another parcel of it, without being able to perceive any Ebullition worth noting.\n\n10. I pour'd double Aqua fortis upon another parcel of it, which for ought I could discover had no more effect on it than the former.\n\n11. I pour'd also some Aqua Regia on a parcel of it, without discovering any sensible Effect.\n\n12. I pour'd good Oil of Vitriol upon another of this Sand, but seeing no Bubbles thereby produc'd, I weakened the Oil with Water, but without any sensible effect.\n13. I repeated all the former Experiments with the Menstruums upon this Sand after Calcination per se in a Crucible, but could scarce observe a Bubble produc'd by any of them.\n\n14. I pour'd some of each of the Liquors upon Parcels of the Powder of this Sand calcin'd, without any Succes.\n\nNote, That I made these Experiments both in the Cold, and upon a Sand Furnace. So that to me there seems to be but little wanting to discover any Metal known to us, if it contain'd any such: For there is no Metal nor Oar that some of these Menstruums will not work on.\n\n15. I powder'd a Fragment of a Load-stone, and pour'd some of these Menstruums upon it, without being able to find that they in the least prey'd upon it, any more than they did upon the Sand.\n\n16. I pour'd some of the afore-mentioned Menstruums upon ordinary Sand taken out of a Sand Furnace, where it must have suffer'd some Calcination, but could find no more Bubbles produc'd thereby, than what might rationally be suppos'd to be produc'd from time, and other Dirt mixt with the Sand.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101948.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1128,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1357,
+        2
+      ],
+      [
+        1357,
+        2867,
+        3
+      ],
+      [
+        2867,
+        3913,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101948",
+    "title": "Some Experiments on a Black Shining Sand Brought from Virginia, Suppos'd to Contain Iron, Made in March 1689. By Allen Moulen, M. D. and Fellow of the Royal Society, Since Dead",
+    "authors": "Allen Moulen",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101948"
+  }
+}

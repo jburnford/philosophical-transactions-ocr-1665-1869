@@ -1,0 +1,89 @@
+{
+  "id": "72a7e1107a56a33ad9b9b8678e23e8bde5510af6",
+  "text": "We reckon Surrey-Street 27 Seconds in Time West of the Royal Observatory at Greenwich.\n\nMr. John Catlin had a few Days before deliver'd me a Computation of this Eclipse, corrected from two Places of the Moon, observ'd the 28th of February and the 2d of March 1729, corresponding pretty nearly with her present Situation; as likewise from the Star's Position, as I had rectify'd it from several late Observations; and this gave the\n\n\\[\n\\begin{align*}\n\\text{Immersion} & \\quad 8 \\quad 26\\frac{1}{2} \\\\\n\\text{Emersion} & \\quad 9 \\quad 30\n\\end{align*}\n\\]\n\nJ. Bevis.\n\nVI. An Observation of an uncommon Gleam of Light proceeding from the Sun, by Mr. Peter Collinson F. R. S.\n\nRead March 19.\n\nOn the 8th of March 1746-7, near 1746-7.\n\n8 o'Clock in the Morning, as I was riding within three Miles of Brentwood in Essex, there appeared a singular Phænomenon in the Heavens; the Sketch (Tab. . Fig. .) may give some Idea of it.\n\nThe Morning was fine and clear, the Sun shone bright, no Cloud to be seen, but the Air a little hazy: Where the Phænomenon appeared, which was a bright cloudy Spot, seem'd a very small Portion of a Rainbow,\na Rainbow, only the Colours very faint. It was in a horizontal Direction North of the Sun, and from it projected a long luminous Ray, which terminated in a Point.—It continu'd very strong for more than half an Hour after I saw it, and then vanish'd away by degrees.\n\nP. Collinson.\n\nVII. Extract of a Letter from Mr. Benjamin Cooke F.R.S. to Mr. Peter Collinson F.R.S. concerning the Property of new Flanel sparkling in the dark.\n\nNewport, Isle of Wight, Jan. 13. 1746-7.\n\nRead March 19. Since I have read the Transaction 1746-7. N°. 476. with respect to the sparkling Lady, who could communicate a kind of electrical Fire to her Garments, I can give you an Instance nearly like it, of a Lady who was surprised at such an Appearance from a Flanel Petticoat, which she happen'd to shake in the dark. But at last we found, that new Flanel, after some time wearing, would acquire this Property; but that it lost it by being washed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104851.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8668,
+    "total-output-tokens": 727,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1126,
+        4
+      ],
+      [
+        1126,
+        2053,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104851",
+    "title": "An Observation of an Uncommon Gleam of Light Proceeding from the Sun, by Mr. Peter Collinson F. R. S.",
+    "authors": "Peter Collinson",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104851"
+  }
+}

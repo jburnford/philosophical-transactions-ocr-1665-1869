@@ -1,0 +1,69 @@
+{
+  "id": "ff0aac1ac6774a7436862f235a41c0d0a8bf6d1d",
+  "text": "III. A Letter from Dr. Franklyn, F. R. S., to the Astronomer Royal; containing an Observation of the Transit of Mercury over the Sun, November 9th 1769: By John Winthrop, Esq; F. R. S. Hollisian Professor of Mathematics and Natural Philosophy at Cambridge, New England.\n\nDear Sir,\n\nCraven-street, Feb. 12, 1770.\n\nI HAVE just received a letter from Mr. Winthrop, dated Dec. 7, containing the following account, viz.\n\n\"On Thursday the 9th of November, I had an opportunity of observing a transit of Mercury. I had carefully adjusted my clock to the apparent time, by correspondent altitudes of the Sun, taken with the quadrant for several days before, and with the same reflecting telescope as I used for the transit of Venus*. I first perceived the little planet making an impression on the Sun's limb at $2^h\\ 52'\\ 41''$; and he appeared wholly within at $53'\\ 58''$ apparent time. The sun set before the planet reached the middle of his course; and for a con-\n\n* See Phil. Transact. Vol. LIX. p. 352.\n\"Considerable time before sunset, it was so cloudy, that\nthe planet could not be discerned. So that I made\nno observations of consequence except that of the\nbeginning, at which time the Sun was perfectly\nclear. This transit compleats three periods of\n46 years, since the first observation of Gassendi at\nParis, in 1631.\"\n\nI am, SIR,\n\nWith great esteem,\n\nYour most obedient servant,\n\nB. Franklin.\n\nIV. Obser-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106072.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 464,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1002,
+        2
+      ],
+      [
+        1002,
+        1409,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106072",
+    "title": "A Letter from Dr. Franklyn, F. R. S. to the Astronomer Royal; Containing an Observation of the Transit of Mercury Over the Sun, November 9th 1769: By John Winthrop, Esq; F. R. S. Hollisian Professor of Mathematics and Natural Philosophy at Cambridge, New England",
+    "authors": "John Winthrop, B. Franklyn",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106072"
+  }
+}

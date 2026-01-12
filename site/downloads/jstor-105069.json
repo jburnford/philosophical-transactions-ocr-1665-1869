@@ -1,0 +1,69 @@
+{
+  "id": "0de7e7a74f179da2d4e1a5b8083e5591fc91e1d3",
+  "text": "LVI. An Account of an horizontal Top, invented by Mr. Serfon, by Mr. James Short, F. R. S.\n\nRead Feb. 6, 1752.\n\nTHE horizontal top, the invention of Mr. Serfon, who was unfortunately lost in his Majesty's ship the Victory, is pretty well known. This ingenious person found, that, when this top is set a-going in the proper way, its upper side, which is polished, about two minutes after it was set up, moved in such a manner, as to give a true horizontal plane; and that this plane was not at all disturbed by any motion or inclination you give the box, in which it is placed, and therefore might be proper to be used aboard a ship; by which means seamen might be enabled to take the altitude of the sun or stars, in order to find their latitude, even tho' they cannot see the horizon in thick hazy weather.\n\nSome gentlemen of my acquaintance were of opinion, that the air had some share of the cause of this horizontality. I therefore applied to Mr. Smeaton, who has the best air-pump I ever saw, all of his own invention and construction. The pump being at this time in the house of Mr. William Watson, who had desired the use of it for some electrical experiments, we went thither; and having set the top a-going, we put a receiver over it, and immediately exhausted the air.\n\nBy repeated trials it had been found, that the top, when set a-going in the open air, played or spun during\nduring the space of 35 minutes of time, from the instant of its being set up till it had lost the circular motion: but we found, that in the exhausted receiver it played or spun during the space of two hours 16 minutes *; and therefore, that the air has no share at all of the cause of its horizontality, and that the air is a great impediment to its motion.\n\nLondon, Feb. 6,\n1752.\n\nJa. Short.\n\nLVII. Observations made in going up the Pic of Teneriffe, by Dr. Thomas Heberden, and communicated by William Heberden, M.D. F.R.S.\n\nRead Feb. 6, 1752.\n\nAt two of the clock in the afternoon we set out from the villa or town of Orotava, about 6 leagues distant from the Pic of Teneriffe. The weather was cloudy; and before we had travell'd quite a league, we found ourselves surrounded by a very thick mist or fog, which lasted about a league: all which time we travell'd among gardens and woods of pine-trees, after which we came to an open country; the soil very dry; here and there a single pine-tree, and some few Spanish broom-plants; some loose large stones, of the bigness of a butt; others, which seem'd to have been burned, and are supposed to be cast out from the vulcano of the Pic. The sky very clear, and the thick mist, which we had passed thro', now seem'd a sea of ash-colour'd clouds.\n\n* Preserving a perfect horizontality for the space of \\( \\frac{1}{4} \\) of an hour.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105069.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 780,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1388,
+        2
+      ],
+      [
+        1388,
+        2768,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105069",
+    "title": "An Account of an Horizontal Top, Invented by Mr. Serson, by Mr. James Short, F. R. S.",
+    "authors": "Mr. Serson, James Short",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105069"
+  }
+}

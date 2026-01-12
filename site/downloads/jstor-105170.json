@@ -1,0 +1,149 @@
+{
+  "id": "7d13411ad073b184f8c3c3b6e72db6cde09cc038",
+  "text": "LVI. An Explication of an obscure Passage in Albert Girard's Commentary upon Simon Stevin's Works (Vide Les Oeuvres Mathem. de Simon Stevin, à Leyde, 1634, p. 169, 170); by Mr. Simson, Professor of Mathematics at the University of Glasgow: Communicated by the Right Honourable Philip Earl Stanhope.\n\nRead Dec. 20, \"PUIS que je suis entré en la matière des nombres rationaux, j'adjousteray encore deux ou trois particularitez, non encor par cy devant practiquées, comme d'expliquer les radicaux extremement pres, &c.\"\n\nThe first thing Albert Girard gives in this place is a method of expressing the ratio of the segments of a line cut in extreme and mean proportion, by rational numbers, that converge to the true ratio. For this purpose he takes the progression 0, 1, 1, 2, 3, 5, 8, 13, 21, &c. every term of which is equal to the sum of the two terms that precede it: and says, any number in this progression has unto the following the same ratio [nearly] that any other has to that, which follows it. Thus 5 has to 8 nearly the same ratio, that 8 has to 13; consequently, any 3 numbers next one another as 8, 13, 21, nearly express the segments of a line cut in extreme and mean proportion, and the whole line; so that 13, 21, V.B. 13 is wrong printed for the second num. ad of 21) constitute\nstitute near enough an isosceles triangle, having the angle of a pentagon; i.e. whose angle at the vertex is subtended by the side of a pentagon in the circle described about the triangle.\n\nNow this will be plain, if it be shewn, that the squares of the numbers in this series are alternately lesser and greater by an unit, than the product of the two numbers next them upon each side. Thus, in the four numbers, 5, 8, 13, 21, the square of 8 is an unit lesser than the product of 5 and 13; but the square of 13 that next follows 8, viz. 169, is an unit greater than 8 times 21, or 168; and so on constantly.\n\n**Case 1.**\n\nIf \\(a, b, c\\), be such numbers, that\n\n\\[\n\\begin{align*}\n1. & \\quad a + b = c \\\\\n2. & \\quad ac = bb + 1\n\\end{align*}\n\\]\n\nThen, if \\(d\\) be taken, so that \\(d = b + c\\); then shall \\(bd + 1 = cc\\).\n\nBecause \\(d = b + c\\); \\(bd + 1\\) shall be \\(bb + bc + 1 = ae + bc [2]\\) which is \\(a + b \\times c = cc [1]\\): Ergo \\(bd + 1 = cc\\).\n\n**Case 2.**\n\nIf \\(a, b, c\\), be such that\n\n\\[\n\\begin{align*}\n1. & \\quad a + b = c \\\\\n2. & \\quad ac + 1 = bb\n\\end{align*}\n\\]\n\nThen, if \\(d\\) be taken, so that \\(d = b + c\\); then shall \\(bd = cc + 1\\).\n\nBecause \\(bd = bb + bc = ac + bc + 1 [2.] = a + b \\times c + 1 = cc + 1 [1.\\]\n\n**Problem.**\n\nHaving given the number \\(a\\), in Case 1. to find \\(b\\) and \\(c\\), i.e. having given \\(a\\) to find \\(b\\) such that \\(bb + 1 = (ac =) aa + ab\\); then is \\(bb - ab = aa - 1\\):\n\nA a a and\nand therefore \\( b = \\frac{a + \\sqrt{5aa - 4}}{2} \\). Whence, to make \\( b \\) a rational integer number, \\( 5aa - 4 \\) must be a square; which it will be, if \\( a = 1 \\); and then \\( b \\) will also be 1, and \\( c \\) will be 2: and having continued the series, every number will have the properties mentioned.\n\nThe second thing which Albert Girard mentions, is a way of exhibiting a series of rational fractions, that converge to the square root of any number proposed, and that very fast. He tells nothing about the way of forming it, and only gives the two following examples; viz.\n\nHe says, \\( \\sqrt{2} \\) is equal nearly to \\( \\frac{7}{5} \\): or, if you would have it nearer, to \\( \\frac{9}{6} \\).\n\nHis other example is of \\( \\sqrt{10} \\), which, he says, is nearly equal to \\( \\frac{3}{2} \\); i.e. to \\( \\frac{10}{8} \\). And these are the fractions your lordship has turned, at first sight, into continued fractions of the same value *.\n\nThe way of making a series of rational fractions, which converge to the square root of any number proposed, in such a manner, that the square of the numerator of any of them being lessened by an unit, or, in some cases, increased by an unit, the remainder, or sum divided by the square of the denominator, shall be exactly equal to the number proposed, depends upon the following propositions:\n\n* N.B. That the continued fraction here alluded to for expressing the square root of 10 was \\( \\frac{1}{8} \\times 19 - \\frac{1}{8} \\)\n\n\\[\n\\begin{align*}\n&\\frac{1}{8} \\\\\n&-\\frac{1}{8} \\\\\n&-\\frac{1}{8}, \\text{ &c. ad infinitum.}\n\\end{align*}\n\\]\nLet \\(a\\) be any number proposed, and \\(\\frac{b}{c}\\) be such a fraction, that \\(\\frac{bb-1}{cc} = a\\), i.e. \\(bb = acc + 1\\), then, if two other fractions be taken, one of which is \\(\\frac{b}{ac}\\), the first divided by the proposed number \\(a\\), and the other is \\(\\frac{c}{b}\\), the reciprocal of the first fraction; then the fraction \\(\\frac{bb+acc}{2bc}\\), whose numerator is the sum of the products of the numerators, and of the denominators of the fractions \\(\\frac{b}{c}\\) and \\(\\frac{b}{ac}\\); and its denominator the sum of the products of the numerators, and of the denominators of the fractions \\(\\frac{b}{c}\\) and \\(\\frac{c}{b}\\), shall have the same property with the fraction \\(\\frac{b}{c}\\), i.e. \\(\\frac{bb+acc}{2bc^2} - 1 = a\\).\n\nBecause \\(bb = acc + 1\\)\n\n\\[bb - acc = 1,\\] and squaring\n\n\\[b^4 - 2ab^2c^2 + a^2c^4 = 1.\\] And adding \\(4ab^2c^2\\)\n\n\\[b^4 + 2ab^2c^2 + a^2c^4 = 4ab^2c^2 + 1.\\]\n\nWhence \\(\\frac{b^2 + acc}{2bc^2} = a\\),\n\nProp. 2.\n\nIf \\(\\frac{b}{c}\\) be such a fraction, that \\(\\frac{bb+1}{cc} = a\\), i.e. \\(bb + 1 = acc\\), all other things remaining as in Prop. 1.; then shall the fraction \\(\\frac{bb+acc}{2bc}\\), formed as there described, be such, that \\(\\frac{bb+acc}{2bc^2} = a\\),\n\nA a a 2 Because\nBecause \\( bb + 1 = acc \\), then \\( acc - bb = 1 \\); and squaring\n\n\\[\nb^2 + 2ab^2c^2 + a^2c^4 = 1.\n\\]\n\nWhence, as in the foregoing, it will follow, that\n\n\\[\n\\frac{bb + acc^2 - 1}{2bc} = a.\n\\]\n\n**Prop. 3.**\n\nLet the fraction \\( \\frac{b}{c} \\) be such, that \\( \\frac{bb - 1}{cc} = a \\), i.e. \\( bb = acc + 1 \\); also let \\( \\frac{d}{e} \\) be another fraction, having the same property with \\( \\frac{b}{c} \\), i.e. such, that \\( dd = aee + 1 \\).\n\nThen, if from the fraction \\( \\frac{d}{e} \\), and the two others mentioned in Prop. 1, viz. \\( \\frac{b}{ac} \\) and \\( \\frac{c}{b} \\), a new fraction be formed, in the same manner as the fraction \\( \\frac{bb + acc}{2bc} \\) was formed from \\( \\frac{b}{c} \\), and the same two \\( \\frac{b}{ac} \\) and \\( \\frac{c}{b} \\), which fraction will be \\( \\frac{bd + ace}{cd + be} \\); this new fraction shall have the same property with the other two \\( \\frac{b}{c} \\) and \\( \\frac{d}{e} \\), i.e.\n\n\\[\n\\frac{bd + ace^2 - 1}{cd + be} = a.\n\\]\n\n**Hypoth.**\n\n1. \\( bb = acc + 1 \\)\n2. \\( dd = aee + 1 \\)\n3. \\( ac^2d^2 = a^2c^2e^2 + ac^2 \\) [2.]\n4. \\( b^2d^2 = ab^2e^2 + b^2 \\) [2.]\n5. \\( b^2d^2 = ab^2e^2 + ac^2 + 1 \\) [4, 1.]\n6. \\( b^2d^2 + a^2c^2e^2 = ab^2e^2 + a^2c^2e^2 + ac^2 + 1 \\) [5.]\n7. \\( b^2d^2 + a^2c^2e^2 = ac^2d^2 + ab^2e^2 + 1 \\) [6, 3]\n8. \\( b^2d^2 + 2abcde + a^2c^2e^2 = ac^2d^2 + 2abcde + ab^2e^2 + 1 \\) [7].\n\ni.e.\n\\[ i.e. \\frac{bd+ace^2}{cd+be^2} = a \\times cd + be^2 + 1. \\]\n\n9. \\[ \\frac{bd+ace^2 - I}{cd+be^2} = a. \\]\n\n**Prop. 4.**\n\nThe same things being supposed as in Prop. 3, except that \\( bb \\), instead of being equal to \\( acc + I \\), as there, is equal to \\( acc - I \\), or \\( bb + I = acc \\); it will follow, by the like steps as in Proposition 3, that\n\n\\[ \\frac{bd+ace^2 + I}{cd+be^2} = a. \\]\n\n**Prop. 5.**\n\nIf likewise \\( d^2 \\) be equal to \\( aee - I \\), as well as \\( b^2 = acc - I \\), all other things remaining as in Proposition 3, then shall \\( bd+ace^2 = a \\times cd+be^2 + I \\), i.e.\n\n\\[ \\frac{bd+ace^2 - I}{cd+be^2} = a. \\]\n\n**Hypoth.**\n\n1. \\( b^2 + I = acc \\)\n2. \\( d^2 + I = aee \\)\n3. \\( b^2d^2 + b^2 = ab^2e^2 \\) [2.]\n4. \\( ac^2d^2 + ac^2 = a^2c^2e^2 \\) [2.]\n5. \\( b^2d^2 + ac^2 = ab^2e^2 + I \\) [3, 1.]\n6. \\( b^2d^2 + ac^2 + ac^2d^2 = ac^2d^2 + a^2be^2 + I \\) [5.]\n7. \\( b^2d^2 + a^2c^2e^2 = ac^2d^2 + ab^2e^2 + I \\) [6, 4.]\n8. \\( b^2d^2 + 2abcde + a^2c^2e^2 = ac^2d^2 + 2abcde + ab^2e^2 + I \\) [7.]\n\n\\[ i.e. \\frac{bd+ace^2}{cd+be^2} = a \\times cd + be^2 + I. \\]\n\n9. \\[ \\frac{bd+ace^2 - I}{cd+be^2} = a. \\]\nProp. 6.\n\nBut if $b^2 = acc + 1$, and $d^2 = aee - 1$, all other things remaining as in Prop. 3. Then shall $\\frac{bd + ace}{cd + be}^2 + 1 = a \\times \\frac{bd + ace}{cd + be}$. i.e. $\\frac{bd + ace}{cd + be}^2 = a$. which may be shewn, as the rest were.\n\nNow, let $a$ be any number proposed, and let the fraction $\\frac{b}{c}$ be such, that either $\\frac{bb - 1}{cc} = a$, or $\\frac{bb + 1}{cc} = a$, and take the fractions $\\frac{b}{ac}$ and $\\frac{c}{b}$, before described; then the series of fractions converging to $\\sqrt{a}$ will be as follows:\n\n$\\frac{b}{ac}$\n\n$\\frac{bb + ace}{2bc}$\n\n$\\frac{bd + acc}{cd + be}$\n\n$\\frac{bf + acg}{cf + bg}$\n\n$\\&c.$ in infin.\n\nthe first term of the series.\n\nthe second term.\n\nthe third term.\n\nthe fourth term.\n\nEvery term is formed from the preceding; and the 2 fractions $\\frac{b}{ac}$ and $\\frac{c}{b}$, in the same manner as the second from the first, and these fractions.\n\nAnd from the foregoing propositions it follows,\n\n1. That if $\\frac{bb - 1}{cc} = a$, then every fraction of the series shall be such.\n\nThat if from the square of its numerator be taken an unit, the remainder, divided by the square of its denominator, shall be equal to $a$.\n\nFor, by Prop. 1. the fraction $\\frac{d}{e}$ shall be such; and by Prop. 3. the next fraction $\\frac{f}{g}$ shall likewise be such; and so all the following terms.\n\nExample.\nExample.\n\nLet \\(a = 2\\); then the first fraction, i.e., that in the smallest numbers, \\(\\frac{b}{c}\\), that makes \\(\\frac{bb - 1}{cc} = 2\\), is when \\(b = 3\\), and \\(c = 2\\); so that\n\n\\[\n\\begin{array}{ccc}\n\\frac{c}{b} & \\frac{b}{ac} & \\frac{b}{c} \\\\\n\\end{array}\n\\]\n\nare And the terms following the first \\(\\frac{3}{2}\\)\n\n\\[\n\\begin{array}{ccc}\n\\frac{3}{2} & \\frac{3}{2} & \\frac{3}{2} \\\\\n\\end{array}\n\\]\n\nare \\(\\frac{17}{8}, \\frac{99}{40}, \\frac{577}{268}, \\frac{3363}{1598}, \\&c.\\).\n\n2. But if \\(\\frac{bb + 1}{cc} = a\\), i.e., if the first fraction \\(\\frac{b}{c}\\) of the series have the square of its numerator an unit less than \\(acc\\), the multiple of the square of its denominator by the number \\(a\\); the second term shall have the square of its numerator an unit greater than the said multiple of the square of its denominator; and the third term shall have the said square an unit lesser, and so on alternately.\n\nFor, by Prop. 2. the second term \\(\\frac{d}{e}\\) shall be such, that \\(\\frac{dd - 1}{ee} = a\\): and therefore, by Prop. 4. the third term \\(\\frac{f}{g}\\) shall be such, that \\(\\frac{ff + 1}{cc} = a\\). And by Prop. 5. it follows, that the next term \\(\\frac{b}{k}\\) shall be such, that \\(\\frac{bb - 1}{kk} = a\\); and so on alternately, by Prop. 4. and 5.\n\nExample.\n\nLet \\(a = 2\\); then the first fraction \\(\\frac{b}{c}\\) that makes \\(\\frac{bb + 1}{cc} = 2\\), is when \\(b = 1\\), and \\(c = 1\\). So that\nAnd the following terms\n\nare \\( \\frac{a}{b} \\) \\( \\frac{b}{c} \\)\n\n\\( \\frac{1}{2} \\) \\( \\frac{1}{3} \\) \\( \\frac{1}{4} \\) \\( \\frac{1}{5} \\) \\( \\frac{1}{6} \\) &c.\n\nBut if \\( a \\) be 13, then the first fraction will be \\( \\frac{13}{1} \\).\n\n\\( \\frac{1}{8} \\) \\( \\frac{1}{9} \\) \\( \\frac{1}{10} \\) \\( \\frac{1}{11} \\) \\( \\frac{1}{12} \\) &c.\n\n3. But if the fraction \\( \\frac{b}{c} \\) be such, that \\( \\frac{bb-1}{cc} = a \\), and if the fractions \\( \\frac{b}{ac} \\), \\( \\frac{c}{b} \\), be taken, from which the series is to be formed, as has been described; then, if the first fraction of the series be made not \\( \\frac{b}{c} \\), but some fraction \\( \\frac{d}{e} \\), such that \\( \\frac{dd+1}{ee} = a \\); then shall every term of the series be such as the fraction \\( \\frac{d}{e} \\), i.e., the square of the numerator being increased by an unit, and the sum divided by the square of the denominator, the quotient shall be equal to \\( a \\).\n\nFor, since \\( bb = acc + 1 \\), and \\( dd = aee - 1 \\), by Prop. 6. it follows, that the next term \\( \\frac{f}{g} \\) shall be such, that \\( \\frac{ff+1}{gg} = a \\); and so on for every term.\n\nExample.\n\nLet \\( a = 2 \\) \\( \\frac{b}{c} = \\frac{3}{2} \\); then will \\( \\frac{b}{ac} = \\frac{3}{4} \\), and \\( \\frac{c}{b} = \\frac{2}{3} \\), and let \\( \\frac{d}{e} = \\frac{1}{1} \\); then\n\n\\( \\frac{c}{b} \\) \\( \\frac{b}{ac} \\) \\( \\frac{d}{e} \\)\n\nare\n\n\\( \\frac{2}{3} \\) \\( \\frac{1}{1} \\)\n\nAnd\nAnd the other terms\n\n\\[\n\\frac{7}{5}, \\frac{41}{29}, \\frac{239}{169}, \\frac{1393}{985}, \\ldots\n\\]\n\nTo find \\( b \\) such as makes \\( bb - 1 = acc \\), i.e., \\( acc + 1 = bb \\), recourse must be had to Lord Brouncker's method in Dr. Wallis's *Commercium Epistolicum*.\n\nLVII. Observations upon the Electricity of the Air, made at the Chateau de Maintenon, during the Months of June, July, and October, 1753; being Part of a Letter from the Abbé Mazeas, F.R.S. to the Rev. Stephen Hales, D.D. F.R.S. Translated from the French by James Parsons, M.D. F.R.S.\n\nSIR,\n\nRead Dec. 20, 1753.\n\nBEING assured, that the electricity of the atmosphere would yet afford means of entertaining you, I spent part of this summer in observing what nature presented me upon so important a subject.\n\nOn the 14th of June I accompanied the Marechal de Noailles to his castle of Maintenon. At my arrival, I set up an apparatus, which consisted of an iron wire 370 feet long, raised to 90 feet above the horizon. It came down from a very high room in the castle, where it was fastened to a silken cord six feet.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105170.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16328,
+    "total-output-tokens": 5192,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1295,
+        2
+      ],
+      [
+        1295,
+        2730,
+        3
+      ],
+      [
+        2730,
+        4310,
+        4
+      ],
+      [
+        4310,
+        5541,
+        5
+      ],
+      [
+        5541,
+        6898,
+        6
+      ],
+      [
+        6898,
+        8016,
+        7
+      ],
+      [
+        8016,
+        9380,
+        8
+      ],
+      [
+        9380,
+        10797,
+        9
+      ],
+      [
+        10797,
+        12207,
+        10
+      ],
+      [
+        12207,
+        13287,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105170",
+    "title": "An Explication of an Obscure Passage in Albert Girard's Commentary upon Simon Stevin's Works (Vide Les Oeuvres Mathem. de Simon Stevin, à Leyde, 1634, p. 169, 170); By Mr. Simson, Professor of Mathematics at the University of Glasgow: Communicated by the Right Honourable Philip Earl Stanhope",
+    "authors": "Mr. Simson, Honourable Philip",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/105170"
+  }
+}

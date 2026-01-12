@@ -1,0 +1,59 @@
+{
+  "id": "fccd522c88e716bd65668dc9955491780954c14e",
+  "text": "V. An Extract of another Letter from Mr. James Yonge, upon the same subjects as the former.\n\nHonoured Sir,\n\nThe Anomalous Blackness of the Girl's Face, of which I sent the History, is now divided into a few dark, cloudy Specks; which appear but seldom, and nothing so livid as formerly.\n\nI am told by a Gentleman Hunter, that he lately found in the Paunch of an Hare, two full grown young Ones among the Bowels; but almost rotten: And three Immature Embryo's in the Uterus. The former were certainly Fetus broke out of the Womb, &c.\n\nPlimouth, Nov. 1.\n1709.\n\nMost Worthy Sir,\n\nYours, &c.\n\nJames Yonge.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103283.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 226,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        601,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103283",
+    "title": "An Extract of an Other Letter from Mr. James Yonge, upon the Same Subjects as the Former",
+    "authors": "James Yonge",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103283"
+  }
+}

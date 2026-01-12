@@ -1,0 +1,69 @@
+{
+  "id": "80181f155c0379355a9cd2ecb51e8f0f4787b83c",
+  "text": "V. Some Instances of the very great and speedy Vegetation of TURNIPS. Communicated by the Rev. Dr. J. Theoph. Desaguliers, R. S. S.\n\nAt Sutton Coldfield in Warwickshire, a peaty Ground near a Pool (of which it was formerly a part) was sown with Turnip-Seed on the 2d Day of July 1702. In less than Three Days Time the Turnips were seen above Ground. At Three Weeks end the Roots were in Bigness equal to Walnuts. Within less than Five Weeks after the Sowing, the Gardener drew great Quantities of Turnips to fell, they then being as big as large Apples. At the end of Six Weeks, viz. on the 12th Day of August, a large Turnip was plucked up (though probably not so big as several others then growing upon the same Ground) which, together with its Top and long descending part of the Root, weighed above Two Pounds and Fourteen Ounces. At the same time also was weighed an Ounce of the same sort of Turnip-Seed, that the Gardener had sown his Ground with; and afterwards a Thousand of the Grains were counted singly out of the Ounce so weighed; and the rest of the Ounce was divided into Heaps, as near as could be guessed, equal to the 1000 Seeds first severed and laid together: And it was found that the whole Ounce contain'd above 14600 single Grains; which Number multiplied by 46 (viz. the Number of Ounces that the Turnip weighed) produceth 671,600, viz. the Number of single Grains of Seed required to equal the Weight of the Turnip. From whence may be gathered, that (upon supposition, that the Increase of the Turnip was all along uniform and equal, from the Time\nTime it was sown till it was pluck'd up) the Grain of Seed which it sprung from, weighing when it was sown but $\\frac{1}{4600}$ of an Ounce, was increased in Weight according to the following Proportions, viz,\n\n\\[\n\\begin{align*}\n\\text{In Six Weeks time} & = 671,600 \\\\\n\\text{Week} & = 111,933 \\frac{1}{2} \\\\\n\\text{Day} & = 15,990 \\frac{1}{2} \\\\\n\\text{Hour} & = 666 \\frac{1}{4} \\\\\n\\text{Minute of an Hour} & = 11\n\\end{align*}\n\\]\n\ntimes its own Weight.\n\nSome time after, another Ounce of the same sort of Seed was exactly weighed, and the Grains were found to be in Number 14673.\n\nAnother Turnip of the same Crop was plucked up on the 21st Day of October; and being put into a Scale, was found to weigh above Ten Pounds and an half; which unusual and truly wonderful Bulk it acquired (it being supposed, as above, that the Growth was all along alike) by increasing the Weight of the Seed it was raised from, 15 times in every Minute of an Hour from the Sowing to the Drawing of it.\n\nThe Gardener neglected to thin his Turnips in due Time, else probably their Growth had been more considerable.\n\nAt another Time, in two other sorts of Turnip-Seed, it was found by counting, that an Ounce of one sort contained 14702 Grains; and an Ounce of the other sort no fewer than 14905 Grains.\n\nIt's credibly reported, that of late Years, Turnips have been pretty frequently found growing in several Counties of this Kingdom, that have weighed above twice as much; one of which was seen at Birmingham about the Year 1710.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103350.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 936,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1573,
+        2
+      ],
+      [
+        1573,
+        3080,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103350",
+    "title": "Some Instances of the Very Great and Speedy Vegetation of Turnips. Communicated by the Rev. Dr. J. Theoph. Desaguliers, R. S. S.",
+    "authors": "J. Theoph. Desaguliers",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103350"
+  }
+}

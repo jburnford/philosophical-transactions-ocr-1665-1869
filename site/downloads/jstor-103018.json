@@ -1,0 +1,79 @@
+{
+  "id": "1baabc256e092b16a83cfdc525a84d00629e68c5",
+  "text": "IX. An Account of some Roman Coins found at Clifton near Edlington in Yorkshire. By Mr Ralph Thoresby, F.R.S.\n\nI take myself obliged to give you an account of the discovery of some Roman Coins, lately found at Clifton, near Edlington, the Seat of the Honoured and Obliging Robert Molesworth Esq; from whom I have receiv'd a Noble Present of them; which is the more valuable, because by his Ingenuity they are so artificially cleared from the Rust they had contracted by lying so many Centuries in the Earth, that they appear little inferior to what they were when first Minted: They were dug up at the East Entrance of Clifton (a Village on the Cliff of the Hill) three miles from Doncaster, the Roman Danum, where the Praefectus Equitum Crispianorum resided, and one from Cunbrough, or Coningsburgh, an Ancient Seat of the Kings during the Saxon Heptarchy, now belonging to Mr Cook of Norfolk. They were found so near a Highway, that the Cart-tracks had worn the Earth off the top of the Urn, which a Labourer of Mr Molesworth's struck his Pick-Ax into, before he was aware of it: Upon another search, they found another Theca Nummaria, both full of Copper Coin; the haste and scramble of the Workmen to get the supposed Booty (which they hoped might prove as valuable as the Broad Gold found at Kighley) made them break in pieces both the Urns, which were large and entire; the bigger of them might contain two gallons: By the fragments of them they appear to have been of a finer\nfiner Clay than those found at South Holland in Lincolnshire, mentioned in the Phil. Trans. No 279, and the Coins also much better preserved, being in a dryer Soil. Of sixty I bought of those found at Fleet com. Linc. there was not one before Gallienus, nor after Quintillus; and of near 150 of these from Clifton, there is not one of an elder or later date; so that both those in Holland and these in Yorkshire, seem to have been hid in some common Calamity that followed the Death of that short-liv'd Emperor Quintillus, who reigned but seventeen days, An. Dom. 271. And within six years after, we find that Probus the Emperor, upon some Commotions in Britain, sent over certain Vandals and Burgundians, who had invaded Gaul, to inhabit Britain; upon whose arrival, probably such as had made the Insurrection, might conceal their Treasure; and being slain in the Conflict, it lay hid till now. This I look upon as a more probable Conjecture, than the Persecution of Diocletian, which was not till thirty four years after. These, tho they have not added one Emperor to my Collection, yet have they made a very considerable addition to the Variety of Reverses; so that I have above thirty of Gallienus. But not to trouble you with any I had before (as VICTORIA GERMANICA. VIRTVS GALLIENI AVG. GERMANICVS MAXV. &c.) I shall only present you with a list of such as were found at Clifton. So far as are in Capital Letters are upon the Coyns, the rest are only for explanation.\n\nReverses of Gallienus.\n\nSECVRITas PERPETua. PAX AVGusti.\nAPOLLINI CONServatori AVGusti. PVDICitia.\nLAETITIA. AEQVITAS AVG. AETERNITAS AVG.\nLIBERO Patri CONS. AVG. DIANAe CONS. AVG. MARTI PACIFERO. ... P. VII. COS. (Pietas libans) ... S. STATO R, which I take for Mars, who is sometimes so styled as well as Jupiter. VICTORIA AETERNA. CONCORDIA.\n\nSalonina. Reverse VESTA.\n\nPosthumus. PAX AVG. P.M. TR.P. COS. V. which I take to be remarkable, having not met with any more than the 4th Consulship.\n\nVictorinus. INVICTVS (typus Solis vel Apollinis) VIRTUS AVG. PAX AVG. SALVS AVG. PIETAS AVG.\n\nTetricus the Father. SALVS AVG. PAX AVG. HILARITAS AVG. VICTORIA AVG. FIDES MILITVM. LAETITIA AVG. SPES PVBLICA. COMES. VIRTUS AVG. COMES AVG.\n\nTetricus Caesar. SPES PVBLICA. SPES AVGG. PIETAS AVG Gustorum.\n\nClandinus. GENIVS EXERC. LIBERALITAS AVG. VIRTUS AVG. VICTORIA AVG. PAX AVG. FELICITAS TEMPORIS. AEQVITAS AVG. IOVI VICTORI.\n\nQuintillus. PROVIDENTIA AVG. VIRTUS AVG.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103018.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1196,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1483,
+        2
+      ],
+      [
+        1483,
+        3097,
+        3
+      ],
+      [
+        3097,
+        3923,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103018",
+    "title": "An Account of Some Roman Coyns Found at Clifton Near Edlington in Yorkshire. By Mr Ralph Thoresbv, F. R. S.",
+    "authors": "Ralph Thoresbv",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103018"
+  }
+}

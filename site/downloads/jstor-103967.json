@@ -1,0 +1,69 @@
+{
+  "id": "cc8fba8621fe67e5272b16da9426eb43f441ba77",
+  "text": "IV. An Account of some Observations of the Eclipses of the First Satellite of Jupiter, compared with the Tables, by the same.\n\nBy comparing 244 Eclipses of the first Satellite of Jupiter, observed between the Years 1677 and 1731, with the Flamsteedian Tables, corrected by myself, from which Tables the preceding Catalogue of Eclipses is deduced, I find there are 74, which make up near one Third of the whole Number, that do not differ one Minute from the Tables; 127, which are above one Half, that do not differ two Minutes; 181, which are two Thirds of the whole Number, that do not differ three Minutes; and 214, which are seven Eightths, that do not differ four Minutes, the rest not differing above five Minutes and one half, which is a Degree of Exactness sufficient in my Opinion to recommend the Use of these Eclipses to our Navigators, to determine the Difference of Longitude, especially since they may be seen with a Telescope of three Feet, as is asserted in Page 169 of the Connoissance Des Temps for the present Year; and if this be true, I will venture to affirm, That an Immersion or Emersion, observed with this Telescope, will not differ one half Minute from the Time observed with the largest Telescope: However that be, it is but comparing an Observation of the same Eclipse, made with these two different Telescopes together, and the Difference\nof the Times will be discovered, which will serve for ever afterwards as a Rule to adjust the Observations.\n\nThe only View that I have in communicating this Paper, and in computing the Eclipses for Time to come, is to encourage those Persons, who will find their Advantage in it, to make Use of this Help for obtaining the Longitude at Sea, till better Methods are offered.\n\nV Experiments and Observations upon the Light that is produced by communicating Electrical Attraction to animal or inanimate Bodies, together with some of its most surprising Effects; communicated in a Letter from Mr. Stephen Gray, F.R.S. to Cromwell Mortimer, M.D. R.S. Secr.\n\nSIR,\n\nCharter-House, Jan. 28th, 1734-5.\n\nIt is now some Months ago that I promised to give the Society an Account of what Experiments I had then made; but soon after there occurr'd to my Thoughts several others, which I was willing to try the Success of; which Experiments requiring an Addition to the Apparatus, that I might make them more compleat, I hope will be a sufficient Apology for this Delay.\n\nI see you have published Mr. Dufay's Letter to the Duke of Richmond, in the Philosophical Transactions;",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103967.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 688,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1368,
+        2
+      ],
+      [
+        1368,
+        2528,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103967",
+    "title": "An Account of Some Observations of the Eclipses of the First Satellite of Jupiter, Compared with the Tables, by the Same",
+    "authors": "James Hodgson",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103967"
+  }
+}

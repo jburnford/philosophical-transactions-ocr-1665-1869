@@ -1,0 +1,69 @@
+{
+  "id": "6ab12056b068b954b8c0759eb29a6002d7efb78f",
+  "text": "VI. An Extract of a Letter from Mr. Thomas Luffkin of Colchester to Dr. Wallis, concerning the use of the Numeral Figures in England, as old as the Year 1690. And, concerning the Application of an Air-pump, to Cupping-glasses.\n\nColchester, June 22. 1699.\n\nReverend Sir,\n\nHaving lately taken notice of your accurate Treatise of Historic and Practice Algebra, and finding therein that you cannot Trace the use of Numeral Figures amongst us in England lower than the Year 1133; and I meeting with an undeniable instance of their exceeding that Age by 43 Years amongst us, I thought the Communication of it to you could not but prove satisfactory. And if it really do so, I shall enjoy the utmost of my ambition. The account take as followeth; Over against our Market-place, stands the House of Mr. Fury, a Linnen-Draper; some of the backermost part of which is an Ancient Roman building, but the Front is of Lesser standing, and Timbred. Upon the bottom Cell (which is almost in the form of a Triangular Prism) of one of the Windows of the Front, between two Carved Lions, stands an Escutcheon, containing only these Figures 1190 (as near as my rude hand can delineate them.) They are of a Secretary form [or rather square Text.] the Periphery of the Ciphers, and Nine, are rather Fracted than Fleeted, prominent, large, and very fair; but to make them the more perspicuous, they are Guilded by the Proprietor. The Window looks directly North; the Date being thereby preserved from\nfrom the searching heat of the Sun; and by its inclination (falling from the Verten [or perpendicular] by an Angle of about 60 degrees) from Rain, Snow, &c. It's possible that it may be objected, that the Second and Fourth Figures, may represent that amongst the Arabians (from whom we seem to have received our Numerical Figures, and they theirs, from the Indians.) which is with us a 5; To this I answer, that the Window is in England and not in Arabia; nor is there any likelyhood that ever it was imported from thence; [nor is it with all the Arabs, used for 5, but with some for a Cipher, and so it was used by the Moors in Spain, who first brought these Figures into our parts; nor is the Square O an Arabick Letter, but an English Letter, of that Age.] And the form of these Figures soon degenerated from that of the Arabs, into such as we now use, if not at the first reception from the Arabs [or Moors] certainly long before 1595 (as this construction would make it.) Sir, about three Months since I received your Letter in Answer to one of mine. In order to compensate which favour, I shall (if you testify your willingness to receive it) oblige you with a description of an improvement, or rather invention (of my Brothers) of a neat, compact, very portable Air-pump, applyed to Cupping; with 2 or 3 Suctions of which, a person may exhaust the Air from a Large Cupping-Glass; and, by the pressure of the External Air upon the Circumiacent parts of the Body (and not by fuga vacui) the Flesh shall be admirably forced up into the Glass; and, by continuing of the Suction as need shall require, he may take away what quantity of blood he pleaseth. It is an Invention of extraordinary advantage to Mankind, &c.\n\nYour most obliged Servant\n\nThomas Luffkin.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102634.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 878,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1479,
+        2
+      ],
+      [
+        1479,
+        3241,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102634",
+    "title": "An Extract of a Letter from Mr. Thomas Luffkin of Colchester to Dr. Wallis, Concerning the Use of the Numeral Figures in England, as Old as the Year 1090. And, Concerning the Application of an Air-Pump, to Cupping-Glasses",
+    "authors": "Thomas Luffkin",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102634"
+  }
+}

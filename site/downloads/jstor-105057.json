@@ -1,0 +1,79 @@
+{
+  "id": "3c6bd8db1e62f3486d18b410239703e3928f8730",
+  "text": "XLIV. A Letter from Mr. Franklin to Mr. Peter Collinson, F. R. S. concerning the Effects of Lightning.\n\nSIR,\n\nPhiladelphia, June 20, 1751.\n\nRead Nov. 14, 1751.\n\nIn Captain Waddel's account * of the effects of lightning on his ship, I could not but take notice of the large comazants (as he calls them) that settled on the spintles at the top-mast-heads, and burnt like very large torches before the stroke.\n\nAccording to my opinion, the electrical fire was then drawing off, as by points, from the cloud; the largeness of the flame betokening the great quantity of electricity in the clouds. And had there been a good wire-communication from the spintle heads to the sea, that could have conducted more freely than tarred ropes, or masts of turpentine-wood, I imagine, there would either have been no stroke, or, if a stroke, the wire would have conducted it all into the sea without damage to the ship.\n\nHis compasses lost the virtue of the loadstone, or the poles reversed, the north point turning to the south. By electricity we have here frequently given polarity to needles, and reversed it at pleasure. Mr. Wilson tried it with too small a force. A shock from four large glass jars, sent thro' a fine sewing needle, gives it polarity; and it will traverse when laid on water.\n\n* Phil. Trans. N. 492, p. 111.\nIf the needle, when struck, lies east and west, the end enter'd by the electric blast points north.\n\nIf it lies north and south, the end that lay towards the north, will continue to point north, when placed on water, whether the fire enter'd at that end, or the contrary end.\n\nThe polarity is given strongest, when the needle is struck lying north and south; and weakest, when lying east and west.\n\nPerhaps if the force was still greater, the south end, enter'd by the fire, when the needle lies north and south, might become the north; otherwise it puzzles us to account for the inverting of compasses by lightning; since their needles must always be found in that situation, and by our little experiment, whether the blast enter'd the north, and went out at the south end of the needle, or the contrary, the end, that lay to the north, still should continue to point north. I have not yet had time to read and consider Dr. Knight's Essays, just now received from you, which possibly may explain this.\n\nIn these experiments the ends of the needles are sometimes finely blued, like a watch-spring, by the electric flame. This colour given by the flash from two jars only, will wipe off; but four will fix it, and frequently melt the needles. I send you some, that have had their heads and points melted off by our mimic lightning, and a pin, that had its point melted off, and some part of its head and neck run.\n\nSometimes the surface on the body of the needles is also run, and appears blister'd, when examined by a magnifying glass. The jars I make use of hold 7 or 8 gallons, and are coated and lined with tin-foil. Each\nEach of them takes 1000 turns of a globe 9 inches diameter to charge it. I send you two specimens of tin-foil melted between glass, by the force of two jars only.\n\nI have not heard, that any of your European electricians have been able to fire gunpowder by the electric flame. We do it here in this manner:\n\nA small cartridge is fill'd with dry powder, hard rammed, so as to bruise some of the grains. Two pointed wires are then thrust in, one at each end, the points approaching each other in the middle of the cartridge, till within the distance of half an inch: then the cartridge being placed in the circle, when the four jars are discharged, the electric flame leaping from the point of one wire to the point of the other, within the cartridge among the powder, fires it, and the explosion of the powder is at the same instant with the crack of the discharge. I am,\n\nSIR,\n\nYour humble servant,\n\nBenjamin Franklin.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105057.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1025,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1314,
+        2
+      ],
+      [
+        1314,
+        2939,
+        3
+      ],
+      [
+        2939,
+        3857,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105057",
+    "title": "A Letter from Mr. Franklin to Mr. Peter Collinson, F. R. S. concerning the Effects of Lightning",
+    "authors": "Benjamin Franklin",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105057"
+  }
+}

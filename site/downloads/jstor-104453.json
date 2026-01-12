@@ -1,0 +1,59 @@
+{
+  "id": "0aacd5895fd14b1c5b7582ee9266257cac7f1df4",
+  "text": "Hujus plantæ exemplaria duo, nec plura videre contigit, communicavit mecum amicitia conjunctissimus Robertus Nicholls pharmacopœus Londinensis, primi subsellii botanicus; cujus non tantum ardorem, sed etiam ingenium scientiam naturalem promoven- do, multoties ipse fui expertus. Majus horum, haud procul a Reading, — Merrick, M.D. collegit; mi- nus vero prope Wickham in agro Cantiano nascebatur. Sub Martii mensis finem ambo provenerunt.\n\nTab. II. Fig. II.\n\nA. Pericarpium.\nB. Operculum.\nC. Volva.\n\nFig. 12.\n\nPericarpium antice visum; cujus\nA. Foramen circulare.\n\nERRATA.\n\nIn Page 198, Line 13. for Abductores read Adductores. P. 172, l. 28. for b, read ib. P. 200, for XV. read XVI. P. 225, for Alex. read Andr.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104453.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 319,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        713,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104453",
+    "title": "Errata",
+    "authors": null,
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104453"
+  }
+}

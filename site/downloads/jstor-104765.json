@@ -1,0 +1,59 @@
+{
+  "id": "aeddbbebab410501fd7c06f5d6bdb2a36068a791",
+  "text": "INDEX.\n\np. 59: of a cubic Foot of Spring Water, ib. p. 63. Apothecaries, ib. p. 66. Goldsmiths, ibid.\n\nWay of Cheese, n. 491, p. 66.\n\nWilmer, M. D. (John) Catalogue of the 50 Plants from Chelsea Garden, for the Year 1747, n. 494, p. 331.—for the Year 1748, ib. p. 359.—for the Year 1749, ib. 403.\n\nWinbourn in Dorsetshire, of an Earthquake there, May 4, 1749, p. 689.\n\nWomb, an Excrecence from thence extirpated by Dr. John Burton, n. 495, p. 520.\n\nWomen, the Operation of Litbotomy on them, by Dr. le Cat, n. 492, p. 97.\n\nWray, Esq; (Daniel) of an Earthquake at Portsmouth, March 18, 1749-50, n. 497, p. 646, 647.\n\nWright (Mr. Edward) of an irregular Tide in the River of Forth, n. 495, p. 412.\n\nY.\n\nYork, a Bas-relief of Mitbras found there, n. 493, p. 214.\n\nFINIS.\n\nERRATA in Vol. XLVI. of Philos. Transactions.\n\nTransact. No 490. p. 613. l. 10. for Walling read Shalford Farm (adjoining to Wasing) in the Parish of Brimpton.\n\nTransact. No 494. p. 295. l. 2. for 1702. read 1699. P. 301. l. 29. and p. 304. l. 15. for Rincesius read Reinesius.\n\nTransact. No 495. p. 491. l. 17. and p. 496. l. 5. for MAPAGONIOΣ read MAPAGΩΝΙΟΣ. P. 495. l. 23. for Lithieuillier read Lethieuillier. P. 499, Note, l. 6. for ΝΙΚΟΜΗΔΟΥΣ read ΝΙΚΟΜΗΔΟΙ.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104765.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 652,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1234,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104765",
+    "title": "Errata",
+    "authors": null,
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104765"
+  }
+}

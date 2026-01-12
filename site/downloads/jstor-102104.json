@@ -1,0 +1,59 @@
+{
+  "id": "6ff0304a507a0e163202a0e05161e44ec3bc6128",
+  "text": "An ingenious Retra&ation of the 7th and last Paragraph of Mr. William Molyneux's Letter in the Philosophical Transact. Numb. 158. pag 554. concerning Lough Neagh Stone and its non application to the Magnet upon calcination. Being an abstract of a Letter of the same ingenious Gentleman dated from Dublin Novemb. 25. 1684.\n\n'TIS now a good while since, I gave you some account of our Lough-Neagh Stone and its petrifying qualities, which I hear you have thought worthy to insert in one of your Transactions; in which discourse I must desire you to correct one Paragraph, and undeceive the World in a particular there mention'd; which is, that Lough-Neagh Stone, neither crude nor calcined, would apply to the Magnet: that it will not do so crude, I still affirm; but that it does not apply calcin'd, I must retract: for I find by further trial, that it apply's calcin'd most briskly, and in great quantities, to the Magnet: The occasion of my former error being, that I did not calcine it long enough. If upon a fit opportunity you would do me justice in this particular, you will much oblige me, and vindicate my credit. Sir, I am\n\nYour most humble Servant,\n\nWilliam Molyneux:",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102104.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 357,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1176,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102104",
+    "title": "An Ingenious Retractation of the 7th and Last Paragraph of Mr. William Molyneux's Letter in the Philosophical Transact. Numb. 158. Pag. 554. concerning Lough Neagh Stone and Its Non Application to the Magnet upon Calcination. Being an Abstract of a Letter of the Same Ingenious Gentleman Dated from Dublin Novemb. 25. 1684",
+    "authors": "William Molyneux",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102104"
+  }
+}

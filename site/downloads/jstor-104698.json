@@ -1,0 +1,79 @@
+{
+  "id": "c0577e70f14b8e0f366c24f83447fb7372100ff1",
+  "text": "IX. Extract of a Letter from Mr. William Arderon F.R.S. to Mr. H. Baker F.R.S. concerning the hot Weather in July last.\n\nDear Sir,\n\nRead Nov. 22, 1750.\n\nThis Letter waits upon you with my Observations on the late hot Weather; which, for 12 Days past, has been here at Norwich the most excessive I ever knew. The Beginning of this Heat was on the 8th of this instant July; on which (tho' the whole Day was cloudy) the Ground was so uncommonly hot, that I could not bear to walk on it long together without much Uneasiness; and many were sensible of the same Inconvenience as well as myself.\n\nOn Wednesday the 11th, which was the hottest Day of all, my Thermometer in the Sun’s Rays stood 11 Degrees above the Heat of human Blood; and in the Shade, in my House, only 8 Degrees below it. The Distance between Freezing and the Heat of human Blood being divided into 100 Parts.\n\nAn Inch of Tallow, $\\frac{6}{10}$ of an Inch in Diameter, liquefied in the Sun in less than 30 Minutes. A Piece of Resin, $\\frac{5}{10}$ of an Inch in Diameter, became so soft as to be liable to take any Impression in the same time.\n\nBut, that you may form a better Judgment of the Heat at Norwich, on the said 11th Day of July, and for three Days before, and for 3 Days after, you will see below how Hawksbee’s Thermometer stood at different Times in each of those Days.\n\nD d d d 2 July\n| July   | Morning | Evening | Evening |\n|--------|---------|---------|---------|\n| 8      | 7       | 33      |         |\n|        | Evening | 10      | 25      |\n| 9      | Morning | 7       | 26      |\n|        | Evening | 2       | 15      |\n|        | Evening | 10      | 18      |\n| 10     | Morning | 7       | 24      |\n|        | Evening | 2       | 11      |\n|        | Evening | 10      | 16      |\n| 11     | Morning | 7       | 19      |\n|        | Evening | 2       | $8\\frac{1}{2} = 1026 = 83$ |\n|        | Evening | 10      | 16      |\n| 12     | Morning | 7       | 18      |\n|        | Evening | 2       | 12      |\n|        | Evening | 10      | 16      |\n| 13     | Morning | 7       | 18      |\n|        | Evening | 2       | 12      |\n|        | Evening | 10      | 16      |\n| 14     | Morning | 7       | 32      |\n|        | Evening | 2       | 13      |\n|        | Evening | 10      | 29      |\n\nI observe 3 o’ Clock in the Afternoon, when the Sky is clear, is the hottest Part of the Day; but Clouds mostly came on about that time on these Days.\n\nMany People here, who judged by their outward Senses only, without paying any Regard to Thermometers,\nmeters, have thought the 11th of June 1748 was hotter: But I imagine the Reason to be, that the Heat this Year came on gradually from Day to Day; whereas in the Year 1748 it was much more sudden; the Thermometer then rising 22 Degrees more in one Day than the preceding; which, consequently, would make the Difference between one Day and another appear the more extraordinary. But, by my Observations on the 11th of June 1748, Hauksbee's Thermometer stood at $14\\frac{1}{2}$; full 6 Degrees cooler than on the 11th of this present July. I am,\n\nSIR,\n\nNorwich, July 23.\n1750.\n\nYour most humble Servant,\n\nWilliam Arderon.\n\nP. S. Several Horses have dropped down dead under their Masters, overcome by this violent Heat.\n\nX. A total Eclipse of the Moon, observed Dec. 2, 1750. in the Morning in the Strand, London, about 5\" of Time West of St. Paul's, and 27\" West of the Royal Observatory at Greenwich; by Dr. Bevis and Mr. James Short F. R. S.\n\nRead Dec. 13. A Sensible Penumbra h ' \"\n1750. (Dec. 1.) at 16 32 0\nThe Eclipse judged to begin at . 36 50\n\nGrimaldi",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104698.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1215,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1362,
+        2
+      ],
+      [
+        1362,
+        2538,
+        3
+      ],
+      [
+        2538,
+        3595,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104698",
+    "title": "Extract of a Letter from Mr. William Arderon F. R. S. to Mr. H. Baker F.R.S. concerning the Hot Weather in July Last",
+    "authors": "William Arderon",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104698"
+  }
+}

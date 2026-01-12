@@ -1,0 +1,59 @@
+{
+  "id": "e40fa8a28cc84b80f6575428f9dc3469bd17893f",
+  "text": "VI. An Extract of a Letter from Sir R. Bulkley concerning the Propagation of Elms by Seed.\n\nTHIS is to acquaint you that I have discoursed a poor meer Irish Labourer (who by having work'd many years under a Head Gardiner in a Gentleman's Garden, has got a Genius of Planting) who has follow'd the Propagating of Elms by the Seed (a way, if known, totally neglected among all Planters) which Seed he finds in the former part of the Year; and he has rais'd in small Beds such vast numbers of them, that he sells them of three or four Foot long at Two Shillings a Hundred, and will carry them anywhere within Five Miles, and plant them into the Bargain.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102016.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 219,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        650,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102016",
+    "title": "An Extract of a Letter from Sir R. Bulkley concerning the Propagation of Elms by Seed",
+    "authors": "R. Bulkley",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102016"
+  }
+}

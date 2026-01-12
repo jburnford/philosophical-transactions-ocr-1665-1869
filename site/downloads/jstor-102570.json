@@ -1,0 +1,99 @@
+{
+  "id": "02e5405255c46658758474b16d73e2929ea93bc0",
+  "text": "VII. Curvae Celerrimi Descensus investigatio analytica excerpta ex literis R. Sault, Math. D°.\n\nCum me novissimé Societate tua dignatus es, collo-\ncuti sumus de Curva Celerrimi Descensus, Mundo Ma-\nthematico, Domino Bernoulliano, proposta. Interq; cætera\nmentionem fecisti de demonstrationis meæ publicatione quam\ne pluribus retro mensibus inveni: quamvis autem problema\nillud nunc obsoletum videatur, libentius tamen publici juris\nfaciam, quia celeberrimus Leibnitius omnes Mathematicos,\nhujus problematis solutionis compotes, enumerare suscepit,\nnecnon ne tesseram observantiae meæ tibi ipsi debitam, omit-\ntam.\n\nSit \\( AP \\) (Fig. 15.) linea Horizontalis; \\( P \\), punctum a quo\ncorpus grave descendit, per Curvam lineam quæsitam \\( ADE \\),\n\\( C \\) & \\( D \\) puncta duo infinite propinqua, per quæ corpus decisu-\nrum fit, \\( CD \\) recta duo puncta connètens, \\( DC \\) & \\( sC \\), \\( DF \\) &\n\\( SG \\), \\( FS \\) & \\( GC \\) vel \\( sH \\), momenta curvae, abscissa, & ordi-\nnatim applicatae respective. Capiatur \\( Dr = Ds \\) & \\( rC = BC \\).\n\nQuoniam in lineolis nascentibus, tempus est ut via per-\ncursa directe & velocitas (i.e. in hoc casu, ut radix quadrata\naltitudinis corporis descensi) inversè, per Hypoth. \\( \\frac{Ds}{\\nu QD} + \\frac{sC}{\\nu QF} = Tempori Minimo \\). Et quia velocitas in punctis\næquialitis \\( S \\) & \\( B \\) per curvam \\( DsC \\) & rectam \\( DBC \\) eadem est,\ntempus per \\( DC \\), quod evidenter minimum est, erit ut\n\\( \\frac{DB}{\\nu QD} + \\frac{BC}{\\nu QF} \\); æquentur ergo hæc tempora, & \\( \\frac{Ds}{\\nu QD} + \\frac{sC}{\\nu QF} \\)\n\n\\( = \\frac{DB}{\\nu QD} + \\frac{BC}{\\nu QF} \\), hoc est \\( \\frac{DB - Ds}{\\nu QD} = \\frac{sC - BC}{\\nu QF} \\) vel \\( \\frac{Br}{\\nu QD} = \\frac{ts}{\\nu QF} \\).\n\nSed triangula Evanescentia \\( Brs \\), \\( Bts \\) æquiangula sunt tri-\nangulis \\( DsF \\), \\( HsC \\); Erg. \\( \\frac{Bs}{Ds} = \\frac{Br}{sF} \\) & \\( \\frac{ts}{He} = \\frac{Bs}{n} \\) componan-\n\nR 11 tur\ntur hæ duæ rationes æqualitatis & \\( \\frac{Br}{Ds \\times Hs} = \\frac{ts}{st \\times st} \\). Ex aquo \\( \\frac{VQD}{sF \\times st} = \\frac{VQF}{Ds \\times Hs} \\). Quandoquidem autem quidvis ex Elementis æquabiliter fluere supponatur, ponamus \\( DS = EC \\) & evadet simplicissima Curvæ expressio \\( \\frac{VQD}{sF} = \\frac{VQF}{Ds} \\). ubiq; i.e. in puncto flexurae Curva semper erit in ratione composita velocitatis directe & momenti applicatim ordinatae, inverse. Sit \\( x, y \\) & \\( z \\) fluxiones absctae, ordinatim applicatae, & curvae respective, \\( \\frac{x^2}{y} \\) constans est, ut supra.\n\nErg. \\( \\frac{x^2}{y} = 1 \\) sed possimus \\( z (= \\sqrt{xx + yy}) \\) constans. Ergo ut hæc unitas constans sit & dimensiones debitas retineat \\( \\frac{x^2}{y} = \\frac{a^2}{\\sqrt{xx + yy}} \\), & post reductionem, \\( y = \\frac{x^2}{\\sqrt{a-x}} \\) Expressio notissima Cycloidis PEL. Q.E.F.\n\n---\n\nVIII. A Catalogue of Books lately printed in Italy.\n\nCollectanea Monumentorum veterum Ecclesiæ Graecæ ac Latinæ quæ hactenus in Vaticana Bibliotheca delituerunt. Laurentius Alexander Zacagnius Rom. Vaticanæ Bibliothecæ Præfectus, e scriptis codicibus nunc Sig. primum edidit, Graeca Latina fecit notis illustravit 4to. Romæ 1698.\n\nOsservazioni Historiche sopra alcuni Medaglioni del Sig.Cardinale Carpegna dell’ Abbate Filippo Buonarotti. 4to. Roma 1698.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102570.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9454,
+    "total-output-tokens": 1394,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1916,
+        5
+      ],
+      [
+        1916,
+        3254,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102570",
+    "title": "Curvae Celerrimi Descensus Investigatio Analytica Excerpta ex Literis R. Sault, Math. Do.--------",
+    "authors": "R. Sault",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/102570"
+  }
+}

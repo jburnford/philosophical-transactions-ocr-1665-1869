@@ -1,0 +1,159 @@
+{
+  "id": "ec5aa50802d7535d59b2cc6157650ee18b1628f1",
+  "text": "I. On the Analytical Theory of the Attraction of Solids bounded by surfaces of a hypothetical Class including the Ellipsoid. By W. F. Donkin, M.A., F.R.S., F.R.A.S., Savilian Professor of Astronomy in the University of Oxford.\n\nReceived September 2,—Read December 8, 1859.\n\nThe following investigation is the result of an attempt to simplify the analytical treatment of the problem of the Attraction of Ellipsoids. The application to this particular case, of certain known propositions relating to closed surfaces in general, showed that the principal theorems could easily be deduced without taking account of any other properties of the ellipsoid than those expressed by two differential equations, of which the truth is evident on inspection. In fact if we take the equation\n\n\\[\n\\frac{x^2}{a^2 + h} + \\frac{y^2}{b^2 + h} + \\frac{z^2}{c^2 + h} = k,\n\\]\n\nwe see at once that the expression on the left side, considered as a function of \\(x, y, z, h\\), satisfies the two partial differential equations\n\n\\[\n\\frac{d^2u}{dx^2} + \\frac{d^2u}{dy^2} + \\frac{d^2u}{dz^2} = 2 \\left( \\frac{1}{a^2 + h} + \\frac{1}{b^2 + h} + \\frac{1}{c^2 + h} \\right)\n\\]\n\n\\[\n\\left( \\frac{du}{dx} \\right)^2 + \\left( \\frac{du}{dy} \\right)^2 + \\left( \\frac{du}{dz} \\right)^2 + 4 \\frac{du}{dh} = 0,\n\\]\n\nand these equations express all that we require to know about the ellipsoid, except the fact that the surface is capable of being extended to infinity in every direction by the variation of \\(h\\), without ceasing to be closed. But it appeared also that the success of the method depended only on the circumstance that the right-hand member of the first equation, and the coefficient of \\(\\frac{du}{dh}\\) in the second, are constants independent of \\(k\\). It was therefore possible to generalize the process by taking indeterminate functions of \\(h\\) for these two constants. As, however, the coefficient of \\(\\frac{du}{dh}\\) could always be reduced to a\nconstant independent of $h$, by taking a function of $h$ as a parameter instead of $h$, we may suppose, without loss of generality, that this reduction has been effected.\n\nMr. Cayley has shown*, in the latest publication on this subject which I have met with, that if two of the principal theorems of attraction (in the case of the ellipsoid) be given, the rest follow very simply, and are common to all surfaces of which those two can be predicated†. But the demonstration of the two assumed theorems constitutes the most essential part of the analytical problem, and it is my present object to show that they, and the others connected with them, are implied in the two differential equations above written.\n\n1. Suppose the equation\n\n$$F(x, y, z, \\theta) = 0$$\n\nrepresents closed surfaces for all values of the parameter $\\theta$ within certain limits; and let the surface corresponding to any particular value $\\theta_1$ of $\\theta$, be called \"the surface $\\theta_1$.\" With reference to these surfaces let the limits of integrals be indicated thus: $[\\ ]^\\theta$ signifies that an integral enclosed between the brackets, if it consist of superficial elements, is extended over the surface $\\theta$; if of solid elements, through the whole space within that surface. In either case let $[\\ ]^\\theta_i$ stand as an abbreviation for $[\\ ]^\\theta_2 - [\\ ]^\\theta_1$.\n\nLet\n\n$$\\left\\{ \\left( \\frac{dv}{dx} \\right)^2 + \\left( \\frac{dv}{dy} \\right)^2 + \\left( \\frac{dv}{dz} \\right)^2 \\right\\}^{\\frac{1}{2}}$$\n\nbe, for shortness, denoted by $Q_v$ (whatever $v$ may be).\n\nLet us put also\n\n$$\\left( \\frac{d\\theta}{dx} \\right)^2 + \\left( \\frac{d\\theta}{dy} \\right)^2 + \\left( \\frac{d\\theta}{dz} \\right)^2 = D^2,$$\n\nand let the element of surface be called $d\\sigma$.\n\nBy means of (1.) we may suppose $\\theta$ expressed as a function of $x, y, z$. On this supposition we have\n\n$$Q_\\theta = \\left\\{ \\left( \\frac{d\\theta}{dx} \\right)^2 + \\left( \\frac{d\\theta}{dy} \\right)^2 + \\left( \\frac{d\\theta}{dz} \\right)^2 \\right\\}^{\\frac{1}{2}}.$$\n\nLet the sign of the right-hand member of this equation be so taken that $Q_\\theta d\\theta$ shall be positive or negative according as the surface $(\\theta + d\\theta)$ is without or within the surface $\\theta$.\n\nSince $Q_\\theta^{-1}d\\theta$ is the normal thickness at any point of the infinitesimal shell included between the two surfaces $\\theta$ and $\\theta + d\\theta$, the latter surface must be either wholly within or wholly without the former, unless $Q_\\theta$ become infinite at some point of the surface $\\theta$, a supposition which it is not necessary to exclude, but which I suppose to be excluded for the sake of simplicity.\n\n2. The preliminary propositions to be demonstrated in this article are not new. I am not certain to whom they are originally due; they were, however, employed by Pro-\n\n* See also Camb. Math. Journal, vol. iii. p. 75 for the year 1842.—Note added June 25, 1860.\n† Note on the Theory of Attraction (Quarterly Journal of Mathematics, vol. ii. p. 338). The two theorems are those marked V. and VI. in this paper.\nfessor W. Thomson in an early volume of the Cambridge Mathematical Journal (to which I have not at present the opportunity of referring) in some form equivalent to (if not identical with) that in which they are here given. They depend on the most elementary principles, and ought to be so well known as to make a demonstration needless; however, I give one for the sake of completeness. Retaining the suppositions of the last article, we have, if $P$ be any function of $x$, $y$, $z$,\n\n$$\\left[ \\int \\int \\int \\frac{dP}{dx} \\, dx \\, dy \\, dz \\right]^{\\theta} = \\left[ \\int \\int \\frac{P}{Q_{\\theta}} \\frac{d\\theta}{dx} \\, d\\sigma \\right]^{\\theta}$$\n\n(by integrating the expression on the left with respect to $x$, and applying a well-known transformation to the double integral).\n\nLet then $u$ be any function of $x$, $y$, $z$, and put\n\n$$p = u \\frac{d\\theta}{dx} - \\vartheta \\frac{du}{dx}, \\quad q = u \\frac{d\\theta}{dy} - \\vartheta \\frac{du}{dy}, \\quad r = u \\frac{d\\theta}{dz} - \\vartheta \\frac{du}{dz},$$\n\nthen\n\n$$\\frac{dp}{dx} + \\frac{dq}{dy} + \\frac{dr}{dz} = uD^2\\vartheta - \\vartheta D^2u;$$\n\nand if the two members of the last equation be multiplied by $dx \\, dy \\, dz$, and integrated through the space within the surface $\\theta_1$, the result on the left is\n\n$$\\left[ \\int \\int \\int \\frac{1}{Q_{\\theta}} \\left( p \\frac{d\\theta}{dx} + q \\frac{d\\theta}{dy} + r \\frac{d\\theta}{dz} \\right) \\, d\\sigma \\right]^{\\theta_1};$$\n\nor, if $p$, $q$, $r$ be replaced by their values, it is\n\n$$\\left[ \\int u Q_{\\theta} \\, d\\sigma \\right]^{\\theta_1} - \\left[ \\int \\int \\int \\frac{1}{Q_{\\theta}} \\left( \\frac{du}{dx} \\frac{d\\theta}{dx} + \\frac{du}{dy} \\frac{d\\theta}{dy} + \\frac{du}{dz} \\frac{d\\theta}{dz} \\right) \\, d\\sigma \\right]^{\\theta_1};$$\n\nbut in the last of these integrals $\\vartheta$ has the same value $\\theta_1$ throughout the integration, and may therefore be put outside the integral sign; and the integral which it multiplies is then evidently equivalent to the triple integral $\\left[ \\int \\int \\int D^2u \\, dx \\, dy \\, dz \\right]^{\\theta_1}$, since it would be obtained by one integration of each of the three terms of the latter. Hence we have, finally,\n\n$$\\left[ \\int u Q_{\\theta} \\, d\\sigma \\right]^{\\theta_1} = \\theta_1 \\left[ \\int \\int \\int D^2u \\, dx \\, dy \\, dz \\right]^{\\theta_1} + \\left[ \\int \\int \\int (uD^2\\vartheta - \\vartheta D^2u) \\, dx \\, dy \\, dz \\right]^{\\theta_1},$$\n\nand, subtracting this from the similar equation referring to another value $\\theta_2$ of $\\theta$,\n\n$$\\left[ \\int u Q_{\\theta} \\, d\\sigma \\right]^{\\theta_2} = \\theta_2 \\left[ \\int \\int \\int D^2u \\, dx \\, dy \\, dz \\right]^{\\theta_2} - \\theta_1 \\left[ \\int \\int \\int D^2u \\, dx \\, dy \\, dz \\right]^{\\theta_1} + \\left[ \\int \\int \\int (uD^2\\vartheta - \\vartheta D^2u) \\, dx \\, dy \\, dz \\right]^{\\theta_2},$$\n\nwhich last might have been obtained at once by taking the triple integrals through the space included between the surfaces $\\theta_1$, $\\theta_2$. It is of course necessary for the validity of each equation, that the functions under the integral signs should not become infinite at any point within the limits of the integrations.\n\n3. Let the equation\n\n$$f(x, y, z, h, k) = 0$$\n\nrepresent closed surfaces for all values, within certain limits, of the parameters $h$, $k$. Let the surface corresponding to a particular pair of values $h$, $k$, be called \"the surface\n$h, k$; and let the space (or solid) included between the surfaces $(h_1, k)$, $(h_2, k)$ be called \"the shell $\\left(\\frac{h_2}{h_1}, k\\right)$\"; similarly, let that included between the surfaces $(h, k_1)$, $(h, k_2)$ be called \"the shell $\\left(h, \\frac{k_2}{k_1}\\right)$*.\" Let it also be supposed that each of the surfaces $(h, k + dk)$, $(h + dh, k)$, is either wholly within or wholly without the surface $(h, k)$.\n\nBy virtue of equation (4.) either parameter may be considered a function of $x, y, z$, and the other parameter. Let the function on the left of (4.) be such that when $k$ is considered as a function of $x, y, z, h$, the two following partial differential equations are satisfied:\n\n$$\\frac{\\partial^2 k}{\\partial x^2} + \\frac{\\partial^2 k}{\\partial y^2} + \\frac{\\partial^2 k}{\\partial z^2} = \\phi(h)$$\n\n$$\\left(\\frac{dk}{dx}\\right)^2 + \\left(\\frac{dk}{dy}\\right)^2 + \\left(\\frac{dk}{dz}\\right)^2 + n \\frac{dk}{dh} = 0$$\n\nwhere $\\phi(h)$ is a function of $h$ not containing $k$, and $n$ is a constant, independent of $h$ and $k$.\n\nThe second of these equations may be put in another form thus: considering $h$ as implicitly a function of $x, y, z, k$, we have\n\n$$\\frac{dk}{dx} + \\frac{dk}{dh} \\cdot \\frac{dh}{dx} = 0, \\text{ &c.,}$$\n\nwhence\n\n$$\\left(\\frac{dk}{dx}\\right)^2 + \\left(\\frac{dk}{dy}\\right)^2 + \\left(\\frac{dk}{dz}\\right)^2 = \\left(\\frac{dk}{dh}\\right)^2 \\left(\\left(\\frac{dh}{dx}\\right)^2 + \\left(\\frac{dh}{dy}\\right)^2 + \\left(\\frac{dh}{dz}\\right)^2\\right),$$\n\nor (extracting the root and employing the notation explained in art. 1)\n\n$$Q_k = -\\frac{dk}{dh} \\cdot Q_h \\dagger,$$\n\nhence the second of equations (5.), which is\n\n$$Q_k^2 + n \\frac{dk}{dh} = 0,$$\n\nmay be changed into $Q_h, Q_k = n$. In this form it will be actually employed, so that the two equations may be written as follows:\n\n$$D^2 k = \\phi(h)$$\n\n$$Q_h \\cdot Q_k = n$$\n\n* I borrow this notation, with a slight alteration, from Mr. Cayley.\n\n† The negative sign must be taken for the following reason: $\\frac{dk}{dh}$ is the ratio of corresponding variations of $k, h$, when the surface passes through a given point $(x, y, z)$; now suppose that an increase of $h$ alone, or of $k$ alone, would cause a displacement of the surface, relatively to that point, of the same kind; i.e. that the point would be inside the altered surface in both cases, or outside in both cases; then $Q_h, Q_k$ have the same sign (art. 1). But on this supposition, if $h$ and $k$ vary together so that the surface continues to pass through the point $(x, y, z)$, it is plain that $h$ must increase if $k$ decrease, and vice versa, so that $\\frac{dk}{dh}$ is negative. Similarly, if $Q_h, Q_k$ have opposite signs, $\\frac{dk}{dh}$ is positive. The equation in the text is therefore always true.\n4. Now let the general equation (2.), art. 2, be applied to the case of the surface considered in the last article, \\( k \\) being taken for the parameter \\( t \\), so that \\( D^2\\theta \\) is \\( D^2k \\), and is \\( = \\varphi(h) \\); also let the arbitrary function \\( u \\) be put \\( = 1 \\), so that \\( D^2u = 0 \\). Then, observing the second of equations (6.), we obtain from (2.),\n\n\\[\nn \\left[ \\int \\frac{du}{Q_h} \\right]^k = \\varphi(h) \\left[ \\iiint dx dy dz \\right]^k.\n\\]\n\nLet the volume enclosed by the surface \\((h, k)\\) be represented by \\( V \\). Then, since the normal thickness at any point of the shell \\(\\left( \\frac{h + dh}{h}, k \\right)\\) is \\( \\frac{dh}{Q_h} \\), the above equation is equivalent to\n\n\\[\nn \\frac{dV}{dh} = \\varphi(h) \\cdot V,\n\\]\n\nfrom which we obtain by integration, putting for shortness \\( \\int \\varphi(h) dh = \\psi(h) \\),\n\n\\[\nV = F(k) \\cdot \\psi(h),\n\\]\n\nwhere \\( F(k) \\) is an unknown function of \\( k \\), independent of \\( h \\).\n\nBut if, instead of putting \\( u = 1 \\), we suppose \\( u \\) to be the potential, at the point \\((x, y, z)\\), of a given mass \\( M \\) exterior to the surface \\((h, k)\\), then we have (since \\( D^2u \\) is again \\( = 0 \\))\n\n\\[\nn \\left[ \\int \\frac{udu}{Q_h} \\right]^k = \\varphi(h) \\left[ \\iiint u dx dy dz \\right]^k;\n\\]\n\nand if \\( V \\) be put for the potential on \\( M \\) of a (homogeneous) solid bounded by the surface \\((h, k)\\), this equation is equivalent to\n\n\\[\nn \\frac{dV}{dh} = \\varphi(h) \\cdot V,\n\\]\n\nand therefore, as before,\n\n\\[\nV = F(k) \\cdot \\psi(h),\n\\]\n\nwhere \\( \\psi(h) \\) is the same as before, but \\( F(k) \\) is a new unknown function of \\( k \\), which will also involve the given quantities which define \\( M \\).\n\nFrom (7.) and (8.) we have\n\n\\[\nV = \\frac{F(k)}{\\psi(h)} \\cdot V,\n\\]\n\nwhich equation expresses\n\n**Theorem I.** The potential, on a given external mass, of a homogeneous solid bounded by the surface \\((h, k)\\), varies as the mass of the solid, if \\( h \\) vary while \\( k \\) remains constant.\n\n5. If we put \\( V(h, k) \\) for the volume, and \\( V(h, k) \\) for the potential, denoted above simply by \\( V \\) and \\( V \\), we obtain from equations (7.) and (8.) the following:\n\n\\[\n\\frac{V(h_2, k_2) - V(h_2, k_1)}{V(h_1, k_2) - V(h_1, k_1)} = \\frac{V(h_2, k_2) - V(h_2, k_1)}{V(h_1, k_2) - V(h_1, k_1)},\n\\]\n\nwhich expresses\n\n**Theorem II.** The potentials, on a given external mass, of the homogeneous shells \\((h_2, k_2), (h_1, k_1)\\), are proportional to the masses of the shells.\nWhen the thickness of the shells is infinitesimal, this proposition may be enunciated as\n\n**Theorem III.** The potential, upon a given external mass, of the homogeneous shell \\((h, k + dk)\\), varies as the mass of the shell, if \\(h\\) vary while \\(k\\) remains constant.\n\n6. The above conclusions were deduced from equation (2.), art. 2. Let us now take equation (3.) and apply it in a similar manner, taking for the parameter \\(\\theta\\), no longer \\(k\\), but an indeterminate function of \\(h\\) (not containing \\(k\\)), say\n\n\\[\n\\theta = f(h).\n\\]\n\nThis gives, without ambiguity of sign,\n\n\\[\nQ_\\theta = f'(h)Q_h\n\\]\n\n(for by the convention made, art. 1, as to the signs of \\(Q_h\\), &c., \\(Q_\\theta\\) and \\(Q_h\\) must have the same sign or not, according as \\(f'(h)\\) is positive or negative).\n\nHence, writing the left-hand side of (3.) in full, and introducing the second of the conditions (6.), we have\n\n\\[\nnf'(h_2)\\left[\\int u d\\sigma \\right]_{Q_k}^{h_2} - nf'(h_1)\\left[\\int u d\\sigma \\right]_{Q_k}^{h_1} = \\left[\\int \\int \\int u D^2 f(h) \\cdot dx dy dz \\right]_{h_1}^{h_2} + (\\text{terms involving } D^2 u).\n\\]\n\nNow let \\(u\\) be the potential of a given mass \\(M\\) exterior to both the surfaces \\((h_1, k), (h_2, k)\\), so that \\(D^2 u\\) is \\(= 0\\) throughout the integrations. The integral \\(\\left[\\int u d\\sigma \\right]_{Q_k}\\) is evidently \\(\\frac{dV}{dk}\\), if \\(V\\) be the potential on \\(M\\) of a homogeneous solid (density \\(= 1\\)) bounded by the surface \\((h, k)\\); and by equation (8.), art. 4, \\(\\frac{dV}{dk} = F(k) \\cdot \\psi(h)\\).\n\nThe above equation thus becomes\n\n\\[\nnF(k)\\{f'(h_2)\\psi(h_2) - f'(h_1)\\psi(h_1)\\} = \\left[\\int \\int \\int u D^2 f(h) \\cdot dx dy dz \\right]_{h_1}^{h_2}.\n\\]\n\nThe function \\(f(h)\\) has been so far arbitrary. Let us now determine it in such a manner that \\(f'(h)\\psi(h) =\\) a constant independent of \\(h\\) and \\(k\\); or\n\n\\[\nf(h) = A + B \\int \\frac{dh}{\\psi(h)}\n\\]\n\n(A, B being two such arbitrary constants). Then the left-hand side of the equation vanishes; therefore the right-hand side vanishes also, or\n\n\\[\n\\left[\\int \\int \\int u D^2 f(h) \\cdot dx dy dz \\right]_{h_1}^{h_2} = 0;\n\\]\n\nbut since \\(u\\) is the potential of an arbitrary mass, this cannot be unless \\(D^2 f(h) = 0\\). We may therefore (introducing the value of \\(\\psi(h)\\), art. 4, and including the arbitrary constants under the integral signs) enunciate\n\n**Theorem IV.** If \\(f(h)\\) be defined by the equation\n\n\\[\nf(h) = \\int dh \\cdot \\varepsilon^{-1} \\int \\phi(h) dh,\n\\]\n\nthen \\(f(h)\\) satisfies the equation\n\n\\[\nD^2 f(h) = 0.\n\\]\nThis result may be verified by actual differentiation, as will be shown afterwards (art. 12).\n\n7. Resuming the equation (3.), art. 2, and supposing that $\\theta$ is the function $f(h)$ determined in the last article, so that $D^2f(h)=0$, let us put $u=1$; then the equation becomes\n\n$$f'(h_2)\\left[\\int \\frac{d\\sigma}{Q_k}\\right]^{h_2}_{h_1} - f'(h_1)\\left[\\int \\frac{d\\sigma}{Q_k}\\right]^{h_1}_{h_2} = 0;$$\n\nif this be multiplied by $dk$, it expresses the following proposition:\n\n*If the homogeneous infinitesimal shell $(h, k+dk)$ have the density $f'(h)$, the mass of the shell is independent of $h$.*\n\nIt follows that the potential of such a shell, on a given *interior* mass, vanishes when $h$ has the value which makes the surface $(h, k)$ extend to infinity in all directions; for the mass of the shell is finite, but every part of it is infinitely distant from the attracted mass.\n\n8. Instead of putting $u=1$, as in the last article, let us now take for $u$ the potential of a given mass $M$, placed anywhere. Then if $\\varepsilon$ be the density, at the point $(x, y, z)$, of the matter composing $M$, we shall have\n\n$$D^2u = -4\\pi\\varepsilon.$$\n\nLet the surface $(h_1, k)$ be within the surface $(h_2, k)$, and let $M_1$ be all that part of $M$ which is within the former surface, and $M_2$ all that part which is within the latter (so that $M_2$ includes $M_1$).\n\nAlso let $f(h)$ be still taken for $\\theta$, in equation (3.), art. 2; then $D^2\\theta=0$, and the last term on the right of that equation becomes\n\n$$4\\pi\\left[\\int \\int \\int \\varepsilon f(h) dxdydz\\right]^{h_2}_{h_1}.$$\n\nNow the whole mass included between the two surfaces is $M_2-M_1$; hence the above integral is equal to\n\n$$4\\pi(M_2-M_1)f(h),$$\n\nin which $h$ is put for the parameter of some surface $(h, k)$, which lies between $(h_1, k)$ and $(h_2, k)$, and cuts the mass $M_2-M_1$. If the mass $M$ be concentrated at a point between the two surfaces, then $h$ is the parameter of the surface $(h, k)$ which passes through that point.\n\nIn the general case, however, equation (3.) becomes\n\n$$uf'(h_2)\\left[\\int \\frac{ud\\sigma}{Q_k}\\right]^{h_2}_{h_1} - uf'(h_1)\\left[\\int \\frac{ud\\sigma}{Q_k}\\right]^{h_1}_{h_2} = -4\\pi M_2f(h_2)+4\\pi M_1f(h_1)+4\\pi(M_2-M_1)f(h).$$\n\nLet $V_1, V_2$ be put for the potentials on $M$ of the two infinitesimal shells $(h_1, k+dk)$, $(h_2, k+dk)$, with densities $f'(h_1), f'(h_2)$ respectively; then this equation, multiplied by $dh$, gives\n\n$$V_2-V_1=\\frac{4\\pi}{n}(-M_2f(h_2)+M_1f(h_1)+(M_2-M_1)f(h))dk.\\ldots\\ldots(9.)$$\nSuppose now that the mass $M$ is unity, and is concentrated at a point between the two surfaces, then $M_1=0$, $M_2=1$, and (9.) becomes\n\n$$V_2 - V_1 = \\frac{4\\pi dk}{n} \\left( f(h) - f(h_2) \\right),$$\n\nwhere $h$ is the parameter of the surface which passes through the point.\n\nLet the value of $h$ which makes the surface $(h, k)$ extend to infinity be denoted by $h_\\infty$; then putting $h_2=h_\\infty$, we have $V_2=0$ (art. 7), and the last equation gives\n\n$$V_1 = \\frac{4\\pi dk}{n} \\left( f(h_\\infty) - f(h) \\right);$$\n\nand again, if this value of $V_1$ be substituted, the same equation gives\n\n$$V_2 = \\frac{4\\pi dk}{n} \\left( f(h_\\infty) - f(h_2) \\right);$$\n\nhere $V_1$ is the potential of an infinitesimal shell on an exterior point, and $V_2$ on an interior point. These expressions suppose that the densities of the shells are $f'(h_1), f'(h_2)$; hence, changing the densities to unity, and $h_2$ to $h_1$ in the second, we obtain the following results:\n\nThe potential of the infinitesimal shell $\\left( h_1, k + dk \\right)$ (density = 1) upon an exterior point is\n\n$$\\frac{4\\pi dk}{nf'(h_1)} \\left( f(h_\\infty) - f(h) \\right);$$\n\nand upon an interior point, it is\n\n$$\\frac{4\\pi dk}{nf'(h_1)} \\left( f(h_\\infty) - f(h_1) \\right).$$\n\nNow $f'(h)$ (art. 6) is $\\psi$; hence the above expressions become, for an exterior point,\n\n$$\\frac{4\\pi}{n} dk \\psi(h_1) \\int_{h_1}^{\\infty} \\frac{dh}{\\psi(h)},$$\n\nand for an interior point,\n\n$$\\frac{4\\pi}{n} dk \\psi(h_1) \\int_{h_1}^{\\infty} \\frac{dh}{\\psi(h)}.$$  \n\n(E.)\n\n(I.)\n\n9. In the expression (E.), the value of $h$ at the lower limit of the integral is the parameter of the surface which passes through the attracted point, and the potential has therefore the same value at all points of that surface; hence\n\n**Theorem V.** The external equipotential surfaces of the homogeneous infinitesimal shell $\\left( h_1, k + dk \\right)$ are the surfaces $(h, k)$, in which $h$ is arbitrary and $k$ invariable.\n\nThe expression (I.) is independent of the position of the (interior) attracted point; hence\n\n**Theorem VI.** The homogeneous infinitesimal shell $\\left( h_1, k + dk \\right)$ exercises no force on an interior mass. It follows evidently that the homogeneous finite shell $\\left( h_1, k_2 \\right)$ possesses the same property.\n10. The preceding articles contain all that is essential. But it may be as well to deduce the expression for the potential, on an exterior point, of the finite homogeneous shell \\((h_1, k''_k)\\).\n\nLet \\(x, y, z\\) be the coordinates of the attracted point. The expression (E.), art. 8, is a function of \\(h\\), and through \\(h\\) a function of \\(k\\); for \\(h\\), at the lower limit of the integral, is a function of \\(x, y, z, k\\), determined by the equation (art. 3)\n\n\\[f(x, y, z, h, k) = 0.\\]  \n\n(I assume, for simplicity, that \\(h_\\infty\\) is independent of \\(k\\).) We have then to integrate (E.) with respect to \\(k\\), from \\(k'\\) to \\(k''\\). Now putting \\(F(h)\\) for the integral in (E.), we have\n\n\\[\\int F(h)dk = kF(h) - \\int kF'(h)dh;\\]\n\nand, between the limits \\(k', k''\\), this gives\n\n\\[\\int_{k'}^{k''} F(h)dk = k''F(h'') - k'F(h') - \\int_{k'}^{k''} kF'(h)dh;\\]\n\nwhere \\(h'', h'\\) are the values of \\(h\\) corresponding to \\(k'', k'\\), and given by the relation\n\n\\[f(x, y, z, h, k) = 0.\\]  \n\nThe actual value of \\(F(h)\\) is \\(\\int_{h_\\infty}^h \\frac{dh}{\\psi(h)}\\), and therefore \\(F(h) = -\\frac{1}{\\psi(h)}\\); hence the required potential is\n\n\\[\\frac{4\\pi}{n} \\psi(h_1) \\left\\{ k'' \\int_{h'}^{h_\\infty} \\frac{dh}{\\psi(h)} - k' \\int_{h'}^{h_\\infty} \\frac{dh}{\\psi(h)} + \\int_{h'}^{h''} kdh \\right\\},\\]  \n\n(P.)\n\nwhere \\(k\\), in the last integral, is the function of \\(h\\) determined by the equation (10.).\n\n11. To verify this in the case of the ellipsoid, we have\n\n\\[\\frac{x^2}{a^2+h} + \\frac{y^2}{b^2+h} + \\frac{z^2}{c^2+h} = k;\\]\n\nhere \\(D^2k = 2 \\left( \\frac{1}{a^2+h} + \\frac{1}{b^2+h} + \\frac{1}{c^2+h} \\right) = \\phi(h)\\), and \\(Q_k^2 + 4 \\frac{dk}{dh} = 0\\), whence \\(n = 4\\); therefore\n\n\\[\\psi(h) = \\frac{1}{n} \\int \\phi(h)dh = ((a^2+h)(b^2+h)(c^2+h))^\\frac{1}{3}.\\]\n\nAlso \\(h_\\infty = \\infty\\). Let us take \\(k' = 0, k'' = 1, h_i = 0\\), so that the formula (P.) will give the potential, on an external point \\((x, y, z)\\), of the homogeneous solid ellipsoid\n\n\\[\\frac{x^2}{a^2} + \\frac{y^2}{b^2} + \\frac{z^2}{c^2} = 1.\\]\n\nThen \\(\\psi(h_1) = abc\\); and \\(h, k\\) being now connected by the equation\n\n\\[\\frac{x^2}{a^2+h} + \\frac{y^2}{b^2+h} + \\frac{z^2}{c^2+h} = k,\\]\n\nwe have \\(k' = \\infty\\), and \\(k'' =\\) the positive root of this equation when \\(k = 1\\). The expression (P.) then becomes\n\n\\[-\\pi abc \\int_{h''}^{\\infty} \\left( \\frac{x^2}{a^2+h} + \\frac{y^2}{b^2+h} + \\frac{z^2}{c^2+h} - 1 \\right) dh,\\]\n\nwhich is the well-known value of the potential.\n\n* The arbitrary constant, which might be introduced, would disappear in the result.\n12. I shall conclude with an independent demonstration of the Theorem IV. art. 6.\n\nConsidering \\( h \\) as a function of \\( x, y, z, k \\); by virtue of the equation \\( f(x, y, z, h, k) = 0 \\), we have\n\n\\[\nD^2f(h) = f''(h)Q_h^2 + f'(h)D^2h\n\\]\n\n\\( f'(h) \\) being any function of \\( h \\), and the notation being that explained in art. 1).\n\nHence the condition of the possibility of satisfying the equation \\( D^2f(h) = 0 \\), is that \\( \\frac{D^2h}{Q_h^2} \\) be expressible as a function of \\( h \\); if this be the case, \\( f(h) \\) will be determined by the equation \\( \\frac{f''(h)}{f'(h)} = -\\frac{D^2h}{Q_h^2} \\). We have then to show that this condition will be fulfilled if the function \\( f(x, y, z, h, k) \\) be such that\n\n\\[\nD^2k = \\varphi(h), \\quad Q_h^2 + n \\frac{dk}{dh} = 0.\n\\]\n\nIt was proved in art. 3 that the latter of these equations gives\n\n\\[\nQ_h \\cdot Q_h = n,\n\\]\n\nand also that\n\n\\[\nQ_h = -n \\frac{dk}{dh} Q_h;\n\\]\n\nfrom which we obtain\n\n\\[\nQ_h^2 = -n \\frac{dk}{dh}, \\quad Q_h^2 = -n \\left( \\frac{dk}{dh} \\right)^{-1}. \\tag{11}\n\\]\n\nNow suppose \\( k \\) expressed as a function of \\( x, y, z, h \\); then considering \\( h \\) implicitly a function of \\( x, y, z, k \\), we have, by two differentiations with respect to \\( x \\),\n\n\\[\n0 = \\frac{dk}{dx} + \\frac{dk}{dh} \\frac{dh}{dx} \\tag{12}\n\\]\n\n\\[\n0 = \\frac{d^2k}{dx^2} + 2 \\frac{d^2k}{dhdx} \\frac{dh}{dx} + \\frac{d^2k}{dh^2} \\left( \\frac{dh}{dx} \\right)^2 + \\frac{dk}{dh} \\frac{d^2h}{dx^2}.\n\\]\n\nLet the value of \\( \\frac{dh}{dx} \\) derived from (12.) be introduced in the last equation, and the similar results be written with respect to \\( y \\) and \\( z \\); then we obtain by addition,\n\n\\[\n0 = D^2k - 2 \\left( \\frac{dk}{dh} \\right)^{-1} \\Sigma \\left( \\frac{d^2k}{dhdx} \\cdot \\frac{dk}{dx} \\right) + Q_h^2 \\frac{d^2k}{dh^2} + \\frac{dk}{dh} D^2h. \\tag{13}\n\\]\n\n(using \\( \\Sigma \\) to denote the sum of analogous expressions with respect to the three variables).\n\nNow in the first of equations (11.), namely,\n\n\\[\n\\left( \\frac{dk}{dx} \\right)^2 + \\left( \\frac{dk}{dy} \\right)^2 + \\left( \\frac{dk}{dz} \\right)^2 = -n \\frac{dk}{dh},\n\\]\n\n\\( k \\) is supposed to be expressed as a function of \\( x, y, z, h \\), and the equation is therefore identical, for otherwise it would establish a relation between \\( x, y, z, h \\), without \\( k \\). Hence we may differentiate each side with respect to \\( h \\); this gives\n\n\\[\n2 \\Sigma \\left( \\frac{dk}{dx} \\frac{d^2k}{dhdx} \\right) = -n \\frac{d^2k}{dh^2}\n\\]\n\n\\[\n= Q_h^2 \\frac{dk}{dh} \\frac{d^2k}{dh^2} \\tag{by (11.)};\n\\]\nhence the second and third terms of (13.) destroy one another; also $D^2k = \\varphi(h)$, and $\\frac{dk}{dh} = -\\frac{n}{Q_h}$ by (11.); thus (13.) becomes, finally,\n\n$$\\varphi(h) - n \\frac{D^2h}{Q_h} = 0,$$\n\nor\n\n$$\\frac{D^2h}{Q_h} = \\frac{1}{n} \\varphi(h).$$\n\nIt follows that the equation $D^2f(h)$ will be satisfied if $f(h)$ be determined by the equation\n\n$$\\frac{f''(h)}{f'(h)} = -\\frac{1}{n} \\varphi(h),$$\n\nthat is, if\n\n$$f(h) = \\int dh \\pm \\frac{1}{n} \\int \\varphi(h) dh,$$\n\nwhich is the theorem in question. This demonstration might have been given at the beginning of the investigation, and the theorem might have been made the foundation of the whole. But as there is nothing on the face of the assumed differential equations (5.), art. 3, to suggest the possibility of satisfying the condition $D^2f(h) = 0$, the whole process would then have acquired the character of a verification, rather than of a demonstration following the natural order of discovery, in which latter form I wished it to appear.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108756.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 12,
+    "total-input-tokens": 19000,
+    "total-output-tokens": 9310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1925,
+        2
+      ],
+      [
+        1925,
+        4999,
+        3
+      ],
+      [
+        4999,
+        8368,
+        4
+      ],
+      [
+        8368,
+        11138,
+        5
+      ],
+      [
+        11138,
+        13598,
+        6
+      ],
+      [
+        13598,
+        16130,
+        7
+      ],
+      [
+        16130,
+        18666,
+        8
+      ],
+      [
+        18666,
+        20944,
+        9
+      ],
+      [
+        20944,
+        23493,
+        10
+      ],
+      [
+        23493,
+        26000,
+        11
+      ],
+      [
+        26000,
+        27010,
+        12
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108756",
+    "title": "On the Analytical Theory of the Attraction of Solids Bounded by Surfaces of a Hypothetical Class Including the Ellipsoid",
+    "authors": "W. F. Donkin",
+    "year": 1860,
+    "volume": "150",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 12,
+    "jstor_url": "https://www.jstor.org/stable/108756"
+  }
+}

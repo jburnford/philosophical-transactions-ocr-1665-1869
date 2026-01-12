@@ -1,0 +1,69 @@
+{
+  "id": "124344a49c6a844133fe6b5c3d31b50ec9ca23ce",
+  "text": "XXX. Sur les Gas Hepatiques: par Monsieur Haffenratz.\nCommunicated by Sir Joseph Banks, Bart. P. R. S.\n\nRead May 17, 1787.\n\nEn 1785, après avoir fait quelques expériences sur les foies de soufre, je résolus de chercher quel étoit la nature de l’air inflammable hépatique que l’on en faisait dégager en les décomposant par l’acide nitreux. Le soufre que l’on voit se précipiter après chaque combustion de gas inflammable hépatique me portait à croire que cette substance pouvait bien être une de ses parties constitutantes, mais elle ne m’en apprenait pas davantage, et c’étoit dans ce tems à peu près la seule expérience que l’analyse pouvait me fournir. Je résolus donc d’employer la synthèse, et ce qui me conduisit à cette résolution fut la citation d’une expérience que M. Monges avait fait à Meziers; il avait fait passer de l’air fixe à travers du soufre en fusion, et il avait eu pour résultat de l’air fixe avec une odeur sulfureuse, et qui tenait réellement du soufre en dissolution. Je me déterminai donc à répéter son expérience, et à tenter celle que je vais citer.\n\nJe fis d’abord passer de l’air fixe à travers du soufre en fusion, et j’eus pour résultat un air fixe sulfureux qui faisait précipiter la chaux vive de sa dissolution dans l’eau distillée, en s’unissant à cette base, formant par cet union, de la terre calcaire, et laissant dégager le soufre qui furnageait le liquide, ou se précipitait au fond. Je fis la même expérience avec le gas nitreux, et j’eus pour\nrésultat un gas nitreux sulfureux, qui se combinait encore avec l’air vital pour former de l’acide nitreux, et abandonnait le soufre dans cette combinaison.\n\nLa mofête atmosphérique m’a produit, après son passage, de la mofête sulfureuse avec odeur de soufre, qu’elle laissait précipiter après avoir séjourné quelque temps sur l’eau.\n\nL’air vital a produit dans une semblable expérience un air vital sulfureux, mélangé d’acide sulfureux volatile, que l’eau absorbait : le gas nitreux, en s’unissant avec rutilance à l’air vital sulfureux, en faisait dégager le soufre, de même que sa détonnation avec le gas inflammable.\n\nL’air atmosphérique m’a donné un résultat à-peu-près semblable à l’air vital, seulement, ainsi qu’il est aisé de le déduire des expériences précédentes, l’air que j’obtins était un mélange d’air vital et de mofête sulfureuse. Le gas nitreux par son union avec l’air vital et le gas inflammable dans sa détonnation faisait précipiter le soufre de son mélange.\n\nEnfin le gas inflammable, passé à travers du soufre en fusion, m’a donné un gas inflammable sulfureux, tout-à-fait semblable au gas hépatique que l’on obtient en versant de l’acide nitreux sur du foie de soufre : d’où il paraît suivre que ce gas inflammable que l’on retire des foies de soufre en y versant de l’acide nitreux, et auquel on a donné le nom de gas hépatique, n’est autre chose qu’un gas inflammable sulfureux, que l’on peut former synthétiquement, ainsi que toutes les autres espèces de gas sulphureux.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106731.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 962,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1486,
+        2
+      ],
+      [
+        1486,
+        2984,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "fr",
+      "fr"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106731",
+    "title": "Sur les Gas Hepatiques: Par Monsieur Hassenfratz. Communicated by Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Joseph Banks, Monsieur Hassenfratz",
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106731"
+  }
+}

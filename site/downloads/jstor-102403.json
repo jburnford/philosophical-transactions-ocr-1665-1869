@@ -1,0 +1,79 @@
+{
+  "id": "db88d78af568691a8bd78453b9d3d87d2855a3a7",
+  "text": "V. Part of a Letter from Mr. Aubry, F. R. S. Dated Feb 24. 1696. to Sir John Hoskyns, V. P. of the R. S. Concerning a Medicated Spring in Glamorganshire.\n\nIn Lancarim (the next Parish) is a Medicated Spring, much frequented from several Counties, time out of Mind, for the Kings Evil. There is a Rill of about an Ell broad between Two Collines, covered with Wood; about Twelve Yards from this Spring, the Rill falls from a Rock Eight or Nine Foot high, which makes a grateful Noise; the Spring (which is exceeding clear) comes out of a pure White Marle, I thought there had been no White Marle in Wales, for the Earth is Red. Above this Spring (about a Yard broad and deep) spreads an old Oak with Hoary Mols; on the Boughs whereof Two Crutches. A Graduate Doctor hereabout imputes the Vertue of this Spring to the Lime Stone, and says one of the chief Ingredients of the Doctors, for the Kings Evil, is Lime-Water.\n\nVI. Several Observations in the North Islands of Scotland. Communicated to the Royal Society by Mr. Martin Martin.\n\n1. All Tribes of Fowls are observed to have their Sentinels, especially in the Night, the Watchfulness of the Scart is true to a Proverb; I have known one, who by surprizing the Sentinel, catched Three Hundred in a Night.\n2. The want of Rain at the usual time of laying Eggs, hinders the Sea Fowls from laying for some time.\n\n3. If the April Moon goes far in May, it hinders the Sea Fowls from laying Ten or Twelve Days longer than is ordinary.\n\n4. A poor Man of Rowdil, in the Isle Harries, notoriously known by the Name of St. Clement's Blind, though his Sight served him to travel alone through all Harries, Skie, &c. yet he was struck blind (which confin'd him to his Bed) Two Days before the New Moon, at which Instant he recovers his Sight; in this he never err'd once in his Life time, for which he was called the Infallible Almanack.\n\n5. The Children of Ferintosh in Ross, are taught from their Infancy to drink Aquavita, and are observed never have any Worms.\n\n6. Many in the Highlands, who pretend not to any Skill in Chirurgery, do venture to cut the Ovula off when they are troubled with it, and prescribe for a Remedy, thereafter a Piece of Bread and Cheese, which is attended with good Success, without hindring the Speech.\n\n7. In many of the Isles, the Commons apply Speare-wort for Pains of the Head; it being bruised and applied, it raises a Blister from which issues much Matter, and this they find very effectual for Pains in Eyes, Head, Arm or Leg.\n\n8. They do likewise beat the Juice out of it, which they drink for Purging, which they do frequently with good Success, and to prevent Excoriation of the Throat, they drink a little melted Fresh butter.\n\n9. Anna George, who continued in the State of Virginity till the One and Fifteenth Year of her Age (as is\nevident by her Declaration on her Death Bed) married and brought forth a Boy in the Two and Fiftieth Year of her Age, having Two Teeth in his Head.\n\n10. Another Woman in Lewis, was Seven Years bringing forth a Child Bone after Bone, and all by the Fundament.\n\n11. A Boy in the Isle of Skie, Aged Sixteen Years, has a Faculty of erecting his Ears at his Pleasure. There are several Towns in Skie, where the Sheep have no Marrow, all these Towns are Rocky, High, and very Windy.\n\n12. The Inhabitants of St. Kilda, are every Summer infected with a Cough upon the Chamberlans Landing, which lasts for Ten or Twelve Days, and the usual Remedy for it is Giben drunk upon Brochan of Meal and Water. This Giben is the Fat of Sea Fowls preserved in the Stomach, a sove-raign Remedy for Coughs and Green Wounds.\n\nVII. A Letter of Dr. Wallis, Dated Oxford, Sept. 6. 1697. Containing some Additions to his Letter about Thunder and Lightning, and a Correction of his 109th Cap. of his Algebra.\n\nI find that in your Transactions Numb. 231. for the Month of August, you have Printed my Letter of July 26. If it had not been too late, I would have added, That, when I said, A Mixture of Sulphur and Fillings",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102403.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1165,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1255,
+        2
+      ],
+      [
+        1255,
+        2813,
+        3
+      ],
+      [
+        2813,
+        4004,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102403",
+    "title": "Several Observations in the North Islands of Scotland. Communicated to the Royal Society by Mr. Martin Martin",
+    "authors": "Martin Martin",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102403"
+  }
+}

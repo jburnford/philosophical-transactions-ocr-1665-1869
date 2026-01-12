@@ -1,0 +1,59 @@
+{
+  "id": "cf87d76ac2f235335aae7e7f4c6d84c7459cf265",
+  "text": "A Description of the Uses of a certain Powder for yielding very smooth and close Mettal, and of easier carriage, &c.\n\nThis was lately communicated to the Publisher by a German Physician residing at Frankfort on the Main, in High-Dutch; the English of which is as follows;\n\n1. The Powder, I speak of, maketh the Mettal so close and smooth, that it leaves not the least pit in the piece, and that a Gun so cast needs no boaring.\n\n2. One third of the Mettal may be spared.\n\n3. Such Guns remain clean and neat a long while. In the Year 1672, July 9, there was cast a Demy-canon, weighing 34 hundreds of weight. This being tryed with a bullet of 34 pounds weight, there was employed the first time 12 pounds of powder, the second time as much, the third time 15 pounds, and the fourth time 24 pounds, strong powder; all which trials it endured very well. Besides, not long since there was cast a small Petard of only two pounds of this metal, with which I broke in pieces a beam of a Rhine-foot square, the Petard remaining entire and perfect.\n\nWhen you have occasion to carry these pieces over land, you shall not need so many horses by far as otherwise. And in great Ships and Galleons, that are sometimes mounted with 100 Guns each, you may of the matter of 200 make 300 Guns, performing the same, if not a better effect. If his Majesty be pleased to command a Specimen of this Powder for a good tryal, we are ready to send it. It is not only easy to make, but also of small expence.\n\nExtracts of two Letters of Dr. Swammerdam, concerning some Animals, that having Lungs are yet found to be without the Arterious Vein; together with some other curious particulars.\n\nWe shall give the Reader both these Extracts in the same Language the Letters were written in. The first was written Januar. 24, 1673, at Amsterdam, viz;",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101350.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 512,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1817,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101350",
+    "title": "A Description of the Uses of a Certain Powder for Yielding Very Smooth and Close Mettal, and of Easter Carriage, &c",
+    "authors": null,
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101350"
+  }
+}

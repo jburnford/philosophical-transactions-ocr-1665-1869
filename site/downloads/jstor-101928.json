@@ -1,0 +1,79 @@
+{
+  "id": "30de9f8ba0617e1af88dde34f318520b8f29167f",
+  "text": "An Account of a Ruminating Man lately living at Bristol, given in to the Royal Society, by the Experienced and Learned Frederick Slare, M.D. & Reg. Soc. S.\n\nHaving heard of a Person at Bristol that did Eat his Meat twice, I was willing to know whether he had really the Faculty of Ruminating, and did presently (for my information) send a Letter to a very intelligent Person in that Town, with a set of Questions; requesting it of him that he would procure me such Answers to them as he could best obtain.\n\nQuestion I. How long after Meals does he begin to Chew his Meat over again?\nAnsw. Within a quarter of an hour if he drink with it; if not, something longer.\n\nQuest. II. How long does his chewing last after a full Meal?\nAnsw. About an hour and half. If he go to Bed presently after Meals he cannot Sleep till the usual Time of Chewing be over.\n\nQuest. III. What Taste has the Victuals upon the return?\nAnsw. Somewhat more pleasant than at first.\n\nQuest. IV. What colour does it return of? Whether white and milky, or how?\nAnsw. Bread and Meat, and Cheese and Drink, does seem to me to return much of such Colour as they would be of, if they were mixed together in a Mortar.\n\nQuest. V. Whether this be a late accident?\nAnsw. He was always so since he can remember.\nQuest. VI. What is his Age?\nAnsw. About twenty.\n\nQuest. VII. Whether any of his Relations did so?\nAnsw. His Father does so sometimes, and in small Quantities, but nothing like this.\n\nQuest. VIII. Whether he has not been sick sometimes, and whether that Faculty continues then or no?\nAnsw. If that leave him it signifies sickness, and he is never well till it return.\n\nQuest. IX. How he was Nursed, and whether he did Suck?\nAnsw. His Mother is out of Town, we do not know anything to the contrary but that she gave him Suck.\n\nQuest. X. Whether he was ever a Shepherd? Or how bred up?\nAnsw. Formerly in the Mines, but now is a Day-Labourer.\n\nQuest. XI. Whether he Chews Liquids, that is, whether Broath or Spoon-Meat returns to his Mouth as solid Food does?\nAnsw. All one as with dryer Meat.\n\nQuest. XII. Whether he finds any Load extraordinary in his Stomach before Rumination; and what other thing very remarkable you meet with, pray inform?\nAnsw. The Victuals does lye heavy in the lower part of his Throat, as it seems to him, until it has passed the second Chewing, afterwards it passes clean away. This he always observes, That if he Eats of variety of Things, that which passes down first comes up first again to be Chewed.\n\nI received an account of such a Person at Bristol by Mr. Mellin, who saw this Person, but did not satisfy any of these Queries: for this Reason I sent them to Mr. Day, at that time Mayor of Bristol, who has made enquiry into these Particulars, and with his own hand sent me their Answers.\nHistory is very sparing as to many Instances of this kind: *Fabricius ab Aqua pendente* is (I think) the first that mentions one, being a Nobleman of *Padua* that Ruminated in his days, whom he had the luck to outlive, and the leave to Dissect; and what is very strange, he found only one large but very Rugous Ventricle. He also notes a Monk of that place to have had the same Faculty. *Sennertus* takes also notice of one; and so does *Salmuth*: as also *Velfbius*, who names one *Damy* a Welchman that lived in *London*, but of these they give no Particulars. *Ludovicus*, a *Frankfort* Physician, who lately lived and practised there, describes a Person that to him seemed to Ruminate, but this sort of Rumination seemed rather a Disease, for this Man did it with aversion, he rather disgorged than Ruminated. Of this kind I have known several in *London* that do not fail to throw up an ill tasted and bitter Mass, half an hour or an hour after feeding, and that to their great disgust: but in true Rumination it returns pleasant, and they Chew it the second time with delight. *Pyerus*, who has written at large, and very ingeniously about Rumination, found two Persons in his Country that were alive, when he writ that Book, and had been taken notice of to Ruminate. They were very boorish and foolish Persons, that lived only amongst the Beasts; and he fancies that by frequent Conversation with Calves and Sheep they had learnt to imitate them. As to the Case we have mentioned from *Bristol*, this Person is of mean Parents, but of tolerable Sense and Reason.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101928.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6226,
+    "total-output-tokens": 1189,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1270,
+        2
+      ],
+      [
+        1270,
+        2789,
+        3
+      ],
+      [
+        2789,
+        4358,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101928",
+    "title": "An Account of a Ruminating Man lately Living at Bristol, given in to the Royal Society, by the Experienced and Learned Frederick Slare, M. D. & Reg. Soc. S.",
+    "authors": "Frederick Slare",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101928"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "3b588a431431b66602f7f06fec9a3cd9f3734900",
+  "text": "XXIII. Astronomical Observations made by Samuel Holland Esquire, His Majesty's Surveyor General of Lands for the Northern District of North America, for ascertaining the Longitude of several Places in the said District. Communicated by the Astronomer Royal.\n\nRedde, Jan. 20, 1774.\n\nKittery Point, in the province of Main, in Piscataqua harbour.\n\nLatitude {by result of repeated observations, of O and fixed *'s, made with Bird's astronomical quadrant,} 43° 4' 27'' N.\n\nObserved, with Dollond's 12 feet refracting telescope,\n\nImmersion and Emersions of 4's satellites as follow,\n\n| Apparent time. |\n|----------------|\n| h | m | s |\n| 1771 April 11th, an immersion of the 1st, at 15 43 30 |\n| 27th, same | same | 14 1 43 |\n| May 4th, same | same, | 15 55 54 |\n\nThe variation of the compass at this place, is 7° 46' West.\n\nPORTSMOUTH,\nPORTSMOUTH, province of NEW HAMPSHIRE.\n\nLatitude { by result of repeated observations, } of \\( \\odot \\) and fixed \\( * \\)'s, made with \\( \\text{BIRD}'s \\) astronomical quadrant,\n\n\\( 43^\\circ 4' 15'' \\) N.\n\nObserved, with DOLLOND's 12 feet refracting telescope,\n\nImmersions and Emersions of \\( 24 \\)'s satellites as follow,\n\n| Date   | Event                  | Apparent time |\n|--------|------------------------|---------------|\n| Sept. 6th | an emersion of the 2d, at | 11 9 20       |\n|        | 18th, same             | 1st, 9 42 35  |\n| Oct. 11th | same                   | same, 10 5 4  |\n| Nov. 3d    | same                   | same, 10 23 54 |\n|         | 9th, same              | 2d, 10 51 39  |\n|         | 12th, same             | 1st, 6 48 1   |\n| * 19th | same                   | same, 8 42 41 |\n| 23d     | immersed entirely      | 3d, 6 8 6    |\n|         | same, began to emerge, | same, 9 28 14 |\n| Dec. 4th | an emersion            | 2d, 7 50 0    |\n|         | 5th, same              | 1st, 6 57 44  |\n\nThe VARIATION of the COMPASS at this place is \\( 7^\\circ 48' \\) West.\n\nAll these observations were made by time kept by GRAHAM's time-piece, with a gridiron pendulum, rectified occasionally by equal altitudes of the Sun, corrected agreeably to the tables of M. DE LA LANDE, for the alteration of the declination in the intervals of corresponding observations.\n\nSAMUEL HOLLAND.\n\n* This satellite in emerging was in conjunction with another, which occasioned such a deception as to render this observation uncertain about 20 seconds sooner than what is marked here.\n\nXXIV. Obser-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106002.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 871,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        832,
+        2
+      ],
+      [
+        832,
+        2430,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106002",
+    "title": "Astronomical Observations Made by Samuel Holland Esquire, His Majesty's Surveyor General of Lands for the Northern District of North America, for Ascertaining the Longitude of Several Places in the Said District. Communicated by the Astronomer Royal",
+    "authors": "Astronomer Royal, Samuel Holland",
+    "year": 1774,
+    "volume": "64",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106002"
+  }
+}

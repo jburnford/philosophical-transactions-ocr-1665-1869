@@ -1,0 +1,109 @@
+{
+  "id": "a44b4d2d3c0eb0c7d417bf721da2b92efd6ceb9d",
+  "text": "VI. An Account of a Singular Species of Wasp and Locust: By Samuel Felton, Esq; F. R. S. in a Letter to Mr. Henry Baker, F. R. S.\n\nDear Sir,\n\nKing-Street, Covent-Garden,\nDecember 2, 1763.\n\nRead Feb. 2, 1764.\n\nTHE honour I received, by being elected a fellow of the Royal Society, excites me through gratitude to offer that learned body whatever occurs to me new, or worthy attention in the animal world; and the respect I bear you, dear sir, for your learning and goodness, to which I must add your having been so useful a member of that learned body such a number of years, and the encouragement you have constantly shewn towards promoting natural history, emboldens me to transmit to you this paper containing the descriptions of a very singular species of Wasp and of Locust, [TAB. VI.] which I met with in the Island of Jamaica. I made what search I could in the natural historians, but cannot find that they have ever been taken notice of, therefore are as yet unknown to the learned, or non-descripts. I therefore offer them by your means to the inspection of the Royal Society, to be inserted in the Transactions, if deemed worthy their attention. I beg leave to accompany these descriptions not only with the subjects\nsubjects themselves, but also with accurate drawings to compleat their history, and am, with great esteem,\n\nDear Sir,\n\nYour most obedient\n\nAnd most obliged humble servant\n\nSamuel Felton.\n\nI. CRINITA — Vespa setis colli thoracis abdominisque radiantibus corpore longioribus.\n\nLarge as a common Wasp, but rather narrower.\n\nThe head is brownish, the vertex black, in a triangular form.\n\nThe Antennae are shorter than the thorax, a little thicker towards the end, of a yellow brownish colour; but black in the middle.\n\nThe thorax is light brownish on the back, but on the sides and underneath black: before the insertion of the wings, there are two yellow lines running transversely downwards; just over the insertion of the wings two hairs go out on each side of equal length, and very near twice as long as the whole body; from the upper part of the neck likewise go out two hairs as long as the body.\n\nThe Abdomen is divided into six segments of which the first is very narrow at its basis, quite black, only the hind margins yellow; from this segment there only grow out two hairs twice as long as the abdomen, at the base but nowhere else; the other five\nfive segments are betwixt brown and yellow coloured, their hind margins a little paler, and the second has a black girth near the fore margin; hairs go out near the fore segment as rays; in the second only three, and they shorter than the abdomen, especially the side ones; in the third, fourth and fifth segments, there are four or five long hairs longer than the body, and several shorter ones, especially underneath where there are no longer ones; the sixth segment is terminated with a long hair.\n\nAll these hairs are of a light brown colour, seem to be stiff, but their ends are quite soft like papillae, and from thence thicker.\n\nThe wings are shorter than the abdomen; the upper ones folded.\n\nThe legs are black, except the thighs which are yellow; at their joints there are short hair like rays, whose ends are likewise short and thickened.\n\nII. Rhombea Cicada thorace compresso membranaceo foliaceo subrhombeo postico latiore.\n\nThe thorax is like a leaf that is raised perpendicularly from the body; it is three times as broad as the body, but the same length. This leaf is very near of a rhomboid figure, a little broader, or rather higher over the back; it is membranaceous, probably brownish, (when alive) half pellucid, with two spots that are more pellucid, or transparent; the larger one is very near the middle, but the smaller lower; the margins are waved, especially towards the hind angle; over the forepart of the body the leaf is double.\nThe abdomen is a little longer projected backwards than the leaf of the thorax.\n\nThe insect had not yet got its coleoptera and wings.\n\nThe hind thighs that are thicker have on the upper side an additional narrow membrane added to them.\n\nThe head and maxillæ are very like those of the gryllus's, but there is such an affinity between this and the Cicada foliata Linn. syst. nat. 435.6. that I should think it the same species, if the thorax of this was not broader behind towards the end.\n\nThe antennæ are broke off; else from their length one might learn, to what genus the tribe Linnaeus calls Cicadae foliaceæ (syst. nat. p. 435.) should be referred; for I am in doubt whether Linnaeus ever has seen perfect specimens of them.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105522.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11712,
+    "total-output-tokens": 1281,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1226,
+        4
+      ],
+      [
+        1226,
+        2382,
+        5
+      ],
+      [
+        2382,
+        3841,
+        6
+      ],
+      [
+        3841,
+        4570,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105522",
+    "title": "An Account of a Singular Species of Wasp and Locust: By Samuel Felton, Esq; F. R. S. in a Letter to Mr. Henry Baker, F. R. S.",
+    "authors": "Samuel Felton",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/105522"
+  }
+}

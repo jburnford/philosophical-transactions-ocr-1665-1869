@@ -1,0 +1,69 @@
+{
+  "id": "dd0707e2e8881390ea248c6981f54ff92f9a2add",
+  "text": "Some Optical Assertions concerning the Rainbow, transmitted by the Learned Franciscus Linus from Liege, where they were publickly discussed in August last: Deliver'd here in the same Language, wherein they were communicated.\n\nI. Minima quævis Pluvia guttula, radibus Solaribus illustrata, mittit ex se Iridem perfectam, non solum quoad ipsos Colores, sed etiam quoad eorum Ordinem, Situm, ac Figuram circulari, ei quam in Cælo videmus simillimam.\n\nII. Radii enim Solares guttulam sub-intrantes, indeque post duas Refractiones & unam Reflectionem, iterum versus Solem redeuntes, erumpunt e guttula colorati, iisdemque planè coloribus, quos in Iride videmus, rubro, flavo, viridi, caeruleo, & purpureo imbuti.\n\nIII. Hi radii sic colorati, dum pluvioso caelo à variis guttulis Sole illustratis in oculum transmittuntur, Visionem, quam de Iride habemus, efficiunt.\n\nIV. Dantur autem in qualibet guttula duo Annuli, Major & Minor, distinctis coloribus trialibus imbuti; quorum Minor distat ab axe seu radio transeunte per centrum guttulae, gradibus circiter 21; Major autem ab eodem axe distat gr. 78. Radii autem incidentes in Minorem annulum, inde resilunt in Majorem; e quo erumpentes in ærem, dictis coloribus trialibus imbuuntur.\n\nV. Oriuntur igitur hi colores à radiis Solaribus; sed non ab iis solis (ut habituens existimatum) sed etiam à radiis ipsius Aeris, corpus Solare ambientis.\n\nVI. Sed neque oriuntur hi colores ab omnibus iis radiis, sive Solaribus sive Aeris, qui guttulam sub-intrant; sed ab iis sollemmodo, qui emittuntur ab ipso Limbo solari, Aereque ei vicino.\n\nVII. Quin & ii radii, qui sic à limbo Solari Aereque vicino in guttulam transmittuntur, non omnes spectant ad dictos colores, nec erumpunt colorati; sed illi duntaxat, quorum Angulus Inciden- tiæ nec minor est gradibus 45, nec major gradibus 75.\n\nVIII. A Limbo itaque Solari, vicinoque Aere procedunt colores triales, non tamen omnes quinque immediatè inde fluunt; sed quattuor duntaxat, nempe Ruber, Flavus, Caeruleus & Purpureus: Virtutis\nViridis enim oritur ex radii flavis & caeruleis inter se permixtis.\n\nIX. Oriantur igitur hi quatuor colores à dicto Limbo; non tamen omnes ab una eademque ejus parte: Sed duo ex his ab una parte Limbi, & alii duo ab alia, et directe opposita; v.g. à limbo superiore oriuntur Caeruleus & Purpureus, & ab inferiore, Ruber & Flavus.\n\nX. Causa autem, cur à Limbis adeò inter se similibus oriuntur colores tam dissimiles, non alia hic appareat, quam quod in uno caso limbus Aerius sit supra limbum Solarem, & in alio, limbus Solaris sit supra Aerium. Hoc autem discrimen videtur hic sufficere, eo quod ratione illius diversi Sitús nunc radii Solares incurventur per refractionem supra radios Aereos; nunc è contra Aerii supra Solares.\n\nXI. Oriuntur itaque hi Colores per diltos radios Refractos, ita tamen refractos, ut per eam refractionem valde inter se consitentur. Nam omnes radii à gradu 45 usque ad 60 ad spatium unius gradus in minore annulo contrahuntur: In quod etiam tam angustum spatium confluunt, per retrogradationem, radii omnes à gradu 60 ad 75.\n\nXII. Quando plures homines simul vident Iridem, tot videntur Irides, quot sunt homines videntes.\n\nXIII. Qui intuetur Iridem, videt singulis momentis aliam & aliam.\n\nSo far these Assertions; which we thought fit to insert here, to give the Curious and Learned amongst us the opportunity to consider them, and to give-in their thoughts upon them; which we are perswaded will be very welcom to the Author.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101665.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1175,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2019,
+        2
+      ],
+      [
+        2019,
+        3478,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101665",
+    "title": "Some Optical Assertions Concerning the Rain-Bow, Transmitted by the Learned Franciscus Linus from Liege, Where They were Publickly Discussed in August Last. Deliver'd Here in the Same Language, Wherein They Were Communicated",
+    "authors": "Franciscus Linus",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101665"
+  }
+}

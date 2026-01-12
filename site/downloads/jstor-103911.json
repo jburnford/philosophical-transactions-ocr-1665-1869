@@ -1,0 +1,69 @@
+{
+  "id": "44eb0089d5f59db1e0685afde705fb0c498ac443",
+  "text": "8. Eclipsis Solis *partialis*, qua die xix. Feb. St. Vet. \nfive D. i. Martii St. Nov. A. 1737. contigit, Phases \n*decrecentes* Vitembergæ Saxonum observatae, a J. \nFrederico Weidlero, Math. Prof. & R. S. Lond. S.\n\nDigiti Eclipseos decrecentis.  \n*Vide* Schema in \nH. M. S.  \nTAB. II. FIG. II.\n\n| VIII | 4 | 50 | 31 | p. m. |\n| VII | 5 | 58 | 16 |\n| VII | 5 | 1 | 56 |\n| VII | 5 | 26 |\n| VII | 8 | 16 |\n| VI | 10 | 16 |\n\nPostea Sol ad occasum versgens nubes subiit.\n\nInitium propter nubes coelo obductas videri non \npotuit.\n\nVIII. *A Letter from the Revd Ebenezer \nLatham, M.D. and V.D.M. to C. \nMortimer, M.D. Sec. R. S. containing a \nProposal to make the Poles of a Globe of \nthe Heavens move in a Circle round the \nPoles of the Ecliptic; read at a Meeting \nof the Royal Society, April 17. 1738.*\n\nS I R,\n\nFindern, April 14, 38.\n\nI take the Liberty through your Hands to commu-\nnicate the inclosed to the Royal Society, and at \nthe same time to submit to that learned Body a Pro-\nposal\nposal I would make relating to an Improvement in\nthe Construction of the Globes of the Heavens. As\nwe now have them, you know they are only form'd\nfor the present Age, and do not serve the Purposes of\nChronology and History, as they might, if the Poles\nwhereon they turn were contriv'd to move in a Circle\nround those of the Ecliptic, according to the present\nObliquity of this. By this Means we might have a\nView of the Heavens suited to every Period, and that\nwould answer the antient Descriptions, those of Eu-\ndoxus, for Instance, who is supposed to borrow his\nfrom the most early Observations; and of Hipparchus,\n&c. Nor could any Contrivance better enable the\nlowest Reader to judge of the Merits of the Contro-\nversy about the Argonautic Expedition, as far as it\ndepends on this: For it will verify to the Sight the\nPath of the Colures, &c. at any Time. I thought to\nhave transmitted a Scheme of the whole, in which\nthe Equator must be fix'd to the brazen Meridian, &c.\nBut it is easily understood, and can only wait the Ap-\nprobation of such great Judges to recommend it to\nthe Artists.\n\nYour most obedient,\n\nHumble Servant,\n\nE. Latham.\n\nN. B. That Globes, to answer the End here proposed,\ntho' differently constructed, had long before been made and\npublished by Mr. Senex, who at next Meeting gave the fol-\nlowing Account of his Contrivance.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103911.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 825,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        987,
+        2
+      ],
+      [
+        987,
+        2337,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103911",
+    "title": "A Letter from the Revd Ebenezer Latham, M. D. and V. D. M. to C. Mortimer, M. D. Sec. R. S. Containing a Proposal to Make the Poles of a Globe of the Heavens Move in a Circle Round the Poles of the Ecliptic; Read at a Meeting of the Royal Society, April 17. 1738",
+    "authors": "Ebenezer Latham",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103911"
+  }
+}

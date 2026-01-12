@@ -1,0 +1,169 @@
+{
+  "id": "6da94e6e7edfebd2c0867a57fdcfb3e0cfb16d2d",
+  "text": "V. A second Appendix to the improved Solution of a Problem in physical Astronomy, inserted in the Philosophical Transactions for the Year 1798, containing some further Remarks, and improved Formulae for computing the Coefficients A and B; by which the arithmetical Work is considerably shortened and facilitated. By the Rev. John Hellins, B.D. F.R.S. and Vicar of Potter's Pury, in Northamptonshire.\n\nRead December 12, 1799.\n\n1. It was shewn, in Art. 9. of the first Appendix, that the common logarithm of the fraction $\\frac{1+\\sqrt{(1-c^c)}}{c}$, when $c$ is expressed in numbers, might be taken out from Taylor's excellent tables, and converted into an hyperbolic logarithm by means of table XXXVII. of Dodson's Calculator; which method of obtaining the H. L. $\\frac{1+\\sqrt{(1-c^c)}}{c}$ is undoubtedly easier and shorter than the more obvious one of first computing the numerical value of that fraction, and then taking out the hyperbolic logarithm corresponding to it from a table. But yet, that method of obtaining the value of $\\alpha$, easy as it is, requires, first, a search in the table for the angle of which $c$ is the sine, and generally a proportion for the fractional parts of a second; then, a division of the degrees, minutes, and seconds contained in that angle, by 2; and, thirdly, another search for the logarithmic tangent of half the angle, and another proportion to find the fractional parts of a second. I was therefore desirous\nof finding some easier and shorter method of performing the whole business, without the use of any trigonometrical tables, in which time is required, not only in searching for logarithms, but also in making proportions for the fractional parts of a second; and, after some consideration, I discovered that which I am now to explain.\n\nThis method, then, together with some further observations which I have made for facilitating and abridging the work of computing the values of A. and B, will make up the contents of this Paper.\n\n2. The H.L. $\\frac{1+\\sqrt{(1-cc)}}{c}$, which was denoted by $\\alpha$, both in the solution of the problem and in the Appendix, is $= \\text{H.L.} \\frac{2}{c}, - \\frac{cc}{2.2} - \\frac{3c^4}{2.4.4} - \\frac{3.5c^6}{2.4.6.6}, \\&c.$ and if, for the sake of distinction, the Roman letter a be put for H.L. $\\frac{2}{c}$, we shall have $\\alpha = a - \\frac{cc}{4} - \\frac{3c^4}{32}, \\&c.$ (of which series, the first three terms are sufficient for our present purpose); and this value of $\\alpha$ being written for it in the expression $\\alpha \\left(1 + \\frac{3}{8} cc + \\frac{3.5}{8.8} c^4\\right)$, which occurs in the first theorem in Art. 12. of the first Appendix, we shall have $\\left(1 + \\frac{3}{8} cc + \\frac{3.5}{8.8} c^4\\right) \\times \\left(a - \\frac{cc}{4} - \\frac{3}{4.8} c^4\\right)$; that is, by actual multiplication;\n\n* Since H.L. $\\frac{2}{1+\\sqrt{(1-cc)}}$ is $= \\frac{cc}{2.2} + \\frac{3c^4}{2.4.4} + \\frac{3.5c^6}{2.4.6.6}, \\&c.$ (See Art. 2. of the first Appendix.) the H.L. $\\frac{1+\\sqrt{(1-cc)}}{2}$ will be $= - \\frac{cc}{2.2} - \\frac{3c^4}{2.4.4} - \\frac{3.5c^6}{2.4.6.6}, \\&c.$ and consequently H.L. $\\frac{1+\\sqrt{(1-cc)}}{c}$, $\\left(= \\frac{2}{c} \\times \\frac{1+\\sqrt{(1-cc)}}{2}\\right)$ will be $= \\text{H.L.} \\frac{2}{c}, - \\frac{cc}{4} - \\frac{3c^4}{4.8}, \\&c.$\n\\[1 + \\frac{3}{8} cc + \\frac{3.5}{8.8} c^4\\]\n\n\\[a - \\frac{1}{4} cc - \\frac{3}{4.8} c^4\\]\n\n\\[a + \\frac{3}{8} acc + \\frac{3.5}{8.8} ac^4\\]\n\n\\[-\\frac{1}{4} cc - \\frac{3}{4.8} c^4\\]\n\n\\[-\\frac{3}{4.8} c^4\\]\n\nNow the terms \\(-\\frac{1}{4} cc\\) and \\(-\\frac{3}{16} c^4\\) may very easily be added to the terms \\(fcc\\) and \\(gc^4\\), i.e. to \\(0.1036802 cc\\) and \\(0.0687064 c^4\\), which will then become \\(-0.1463198 cc\\), and \\(-0.1187936 c^4\\); and, by denoting the coefficients of these new terms by the Roman letters \\(-f\\) and \\(-g\\) respectively, the first theorem in the Art. before mentioned, or the value of \\(A\\), is\n\n\\[\\frac{1}{\\pi (a+b)^{\\frac{3}{2}}} \\times \\left\\{ \\frac{2}{cc} + e - fcc - gc^4 + a + \\frac{3}{8} acc + \\frac{3.5}{8.8} ac^4 \\right\\}\\]\n\n3. The expression \\(\\alpha \\left( \\frac{3}{4} + \\frac{3.5}{4.12} cc + \\frac{3.5.21}{4.12.32} c^4 \\right)\\), which occurs in the value of \\(A'\\), in Art. 12. of the first Appendix, is \\(= \\)\n\n\\[\\frac{3}{4} + \\frac{3.5}{4.12} cc + \\frac{3.5.21}{4.12.32} c^4\\]\n\n\\[a - \\frac{1}{4} cc - \\frac{3}{4.8} c^4\\]\n\n\\[\\frac{3}{4} a + \\frac{3.5}{4.12} acc + \\frac{3.5.21}{4.12.32} ac^4\\]\n\n\\[-\\frac{3}{16} cc - \\frac{3.5}{12.16} c^4\\]\n\n\\[-\\frac{9}{8.16} c^4\\]\n\nHere again the terms \\(-\\frac{3}{16} cc\\) and \\(-\\frac{19}{8.16} c^4\\) may very easily be added to the terms \\(icc\\) and \\(kc^4\\), i.e. to \\(0.0551502 cc\\) and\nSolution of a Problem in physical Astronomy.\n\n\\(0.0408309 c^4\\), and we shall have the two new terms — \\(0.1323498 cc\\) and \\(-0.1076091 c^4\\). Let the coefficients of these two new terms be denoted by the Roman letters — \\(i\\) and \\(-k\\) respectively, and the second theorem in Art. 12 of the first Appendix becomes\n\n\\[\nA' = \\frac{1}{\\pi (a+b)^{\\frac{1}{2}}} \\times \\left\\{ \\frac{4}{3c^4} + \\frac{1}{cc} + b - icc - kc^4 + \\frac{3}{4} a + \\frac{3.5}{4.12} acc + \\frac{3.5.21}{4.12.32} ac^4. \\right.\n\\]\n\n4. The product of \\(\\alpha (2 + \\frac{1}{2} cc + \\frac{9}{16} c^4)\\), which is found in the third theorem of the Art. before referred to, is \\(= \\)\n\n\\[\n2 + \\frac{1}{2} cc + \\frac{9}{16} c^4 \\\\\na - \\frac{1}{4} cc - \\frac{3}{4.8} c^4 \\\\\n\\frac{2a + \\frac{1}{2} acc + \\frac{9}{16} ac^4}{- \\frac{1}{2} cc - \\frac{3}{16} c^4} = \\left\\{ \\begin{array}{l}\n2a + \\frac{1}{2} acc + \\frac{9}{16} ac^4 \\\\\n- \\frac{1}{2} cc - \\frac{3}{16} c^4.\n\\end{array} \\right.\n\\]\n\nHere likewise, the terms \\(-\\frac{1}{2} cc\\) and \\(-\\frac{3}{16} c^4\\) may be added to \\(0.3465736 cc\\) and \\(0.1793226 c^4\\), which are \\(lcc\\) and \\(mc^4\\) respectively; the coefficients of which being denoted by the Roman letters \\(l\\) and \\(m\\), the third theorem in the Art. before referred to becomes\n\n\\[\nB = \\frac{2a}{b} A - \\frac{2}{\\pi b(a+b)^{\\frac{1}{2}}} \\times \\left\\{ \\rho - lcc - mc^4 + 2a + \\frac{1}{2} acc + \\frac{9}{2.16} ac^4. \\right.\n\\]\n\n5. These new forms to which the theorems are now brought, it is evident, are no less convenient, and on examination they will be found no less accurate, than the original ones; and, that the common logarithm of \\(\\frac{2}{c}\\), (and consequently the hyperbolic logarithm of it,) is much more easily and expeditiously obtained MDCCC.\nthan the common logarithm of \\( \\frac{1+\\sqrt{(1-cc)}}{c} \\), even with the use of Taylor's excellent tables, is too obvious to need a description; and therefore it follows, that a computation by these new formulae will be easier and shorter than by those in the first Appendix.\n\n6. But there are still some expedients by which the computations of A, B, &c. may be further facilitated and abridged.\n\nIt is pretty evident, to any one who contemplates the coefficients of the logarithmic terms in the first three theorems, that the terms \\( a + \\frac{3}{8} acc + \\frac{3\\cdot5}{8\\cdot8} ac^4 \\), in the first theorem, being once found, the logarithmic terms of the second and third theorems may most easily be derived from them; in consequence of which, the greater part of the time of writing down the logarithms of \\( \\frac{5}{12}, \\frac{21}{32}, \\frac{1}{2}, \\) and \\( \\frac{9}{16} \\), of twice writing down the logarithms of \\( acc \\) and \\( ac^4 \\); and of searching in the tables for the numbers corresponding to \\( \\frac{3\\cdot5}{4\\cdot12} acc \\), and \\( \\frac{3\\cdot5\\cdot21}{4\\cdot12\\cdot32} ac^4 \\), in the second theorem, and for those which correspond to \\( \\frac{1}{2} acc \\), and \\( \\frac{9}{2\\cdot16} ac^4 \\), in the third theorem, is saved. These are the expedients which I am next to explain.\n\n7. The three terms \\( a, \\frac{3}{8} acc, \\) and \\( \\frac{3\\cdot5}{8\\cdot8} ac^4 \\), which are found in the first theorem, are evidently to the three terms \\( \\frac{3}{4} a, \\frac{3\\cdot5}{4\\cdot12} acc, \\) and \\( \\frac{3\\cdot5\\cdot21}{4\\cdot12\\cdot32} ac^4 \\), which are found in the second theorem, in the ratio of 1 to \\( \\frac{3}{4} \\), 1 to \\( \\frac{5}{6} \\), and 1 to \\( \\frac{7}{8} \\) respectively; or as 1 to 1 — \\( \\frac{1}{4} \\), 1 to 1 — \\( \\frac{1}{6} \\), and 1 to 1 — \\( \\frac{1}{8} \\); by which mixed numbers, the logarithmic terms in the second theorem may more easily be derived from those in the first theorem, than by the fractions, as will appear further on.\n8. It is no less evident, that the three logarithmic terms \\(a\\), \\(\\frac{3}{8}acc\\), and \\(\\frac{3.5}{8.8}ac^4\\), mentioned in the preceding Art. are to the three logarithmic terms \\(2a\\), \\(\\frac{1}{2}acc\\), and \\(\\frac{9}{2.16}ac^4\\), which occur in the third theorem, in the ratio of 1 to 2, 1 to \\(\\frac{4}{3}\\), and 1 to \\(\\frac{6}{5}\\) respectively; or as 1 to \\(1 + 1\\), 1 to \\(1 + \\frac{1}{3}\\), and 1 to \\(1 + \\frac{1}{5}\\); by which mixed numbers, as was observed in the preceding Art. the logarithmic terms in the third theorem may be more easily derived from those in the first theorem, than by the fractions.\n\n9. The first of the logarithmic terms in the first theorem has already been denoted by the Roman letter \\(a\\); now let the second and third, viz. \\(\\frac{3}{8}acc\\), and \\(\\frac{3.5}{8.8}ac^4\\), be denoted by the Roman letters \\(b\\) and \\(c\\) respectively; and let the sum of these three terms, viz. \\(a + \\frac{3}{8}acc + \\frac{3.5}{8.8}ac^4\\), now denoted by \\(a + b + c\\), be put \\(= S\\); then, by Art. 7. the logarithmic terms in the second theorem will be \\((1 - \\frac{1}{4})a\\), \\((1 - \\frac{1}{6})b\\), and \\((1 - \\frac{1}{8})c\\); and the sum of these terms will be \\(a + b + c - \\frac{a}{4} - \\frac{b}{6} - \\frac{c}{8} = S - \\frac{a}{4} - \\frac{b}{6} - \\frac{c}{8}\\), where \\(S\\) is given, it being \\(=\\) the three logarithmic terms in the first theorem, with which the computation ought to begin; and the \\(\\frac{1}{4}\\), \\(\\frac{1}{6}\\), and \\(\\frac{1}{8}\\) of these terms respectively, are very easily computed without the use of logarithms, as will hereafter appear by an example.\n\nAnd the logarithmic terms in the third theorem will likewise be denoted by \\(2a\\), \\((1 + \\frac{1}{3})b\\), and \\((1 + \\frac{1}{5})c\\) respectively; the sum of which is \\(= a + b + c + a + \\frac{1}{3}b + \\frac{1}{5}c = S + a + \\frac{b}{3} + \\frac{c}{5}\\), where \\(S\\), as well as \\(a\\), \\(b\\), and \\(c\\), being given, the fractional parts are very easily computed without the use of logarithms.\n\n10. Having now described these short and easy methods of\ncomputing the values of \\(a\\), \\(b\\), and \\(c\\), and of deriving the other logarithmic terms from them, and having introduced a new and more compendious notation of several of the terms in each of the first three theorems, it will be proper next to exhibit those theorems in this improved state, and, after that, to give an example or two of computing by them.\n\n1. \\[ A = \\frac{1}{\\pi (a+b)^{\\frac{3}{2}}} \\times \\left\\{ \\frac{2}{cc} + e - fcc - g c^4 + a + \\frac{3}{8} acc (= b) + \\frac{3.5}{8.8} ac^4 (= c) \\right\\}. \\]\n\n2. \\[ A' = \\frac{1}{\\pi (a+b)^{\\frac{3}{2}}} \\times \\left\\{ \\frac{4}{3c^4} + \\frac{1}{cc} + b - icc - k c^4 + S - \\frac{a}{4} - \\frac{b}{6} - \\frac{c}{8} \\right\\}. \\]\n\n3. \\[ B = \\frac{2a}{b} A - \\frac{2}{\\pi b (a+b)^{\\frac{3}{2}}} \\times \\left\\{ \\rho - lcc - mc^4 + S + a + \\frac{b}{3} + \\frac{c}{5} \\right\\}. \\]\n\nOr, putting \\(A\\) to denote the product of \\(\\frac{1}{\\pi (a+b)^{\\frac{3}{2}}} \\times \\left\\{ \\rho - lcc - mc^4 + S + a + \\frac{b}{3} + \\frac{c}{5} \\right\\}\\), this theorem will be more concisely and commodiously expressed thus; \\(B = \\frac{2}{b} (Aa - A)\\).\n\n4. \\[ B' = \\frac{2}{b} (A'a - A). \\] N. B. \\(S = a + b + c\\).\n\n11. We might now proceed to an example of computing by these theorems; but it will be very convenient first to set down the constant numbers and constant logarithms which are to be used in these computations.\n\nThe constant numbers, taken from Art. 12 of the first Appendix, and Art. 2, 3, and 4 of this Appendix, are the following:\n\n\\[\n\\begin{align*}\ne &= 0.1931,472, \\\\\nf &= 0.1463,198, \\\\\ng &= 0.1187,936, \\\\\nb &= 0.0823,604, \\\\\ni &= 0.1323,498, \\\\\nk &= 0.1076,091, \\\\\n\\rho &= 1.2862,944, \\\\\nl &= 0.1534,264, \\\\\nm &= 0.1331,774.\n\\end{align*}\n\\]\nAnd the constant logarithms to be used in these calculations are the following, which are respectively set down to as many places of figures as are requisite.\n\n\\[\n\\begin{align*}\nL. \\frac{2}{3} &= 0.3010300, \\\\\nL. \\frac{3}{8} &= 1.57403, \\\\\nL. \\frac{5}{6} &= 1.796, \\\\\nL. \\frac{2}{3} &= 1.8239087, \\\\\nL. \\frac{4}{3} &= 0.12494, \\\\\nL. \\pi &= 0.4971499; \\\\\nL. f &= 1.16530, \\\\\nL. i &= 1.12172, \\\\\nL. l &= 1.18591, \\\\\nL. \\frac{g}{f} &= 1.910, \\\\\nL. \\frac{k}{i} &= 1.910, \\\\\nL. \\frac{m}{l} &= 1.939.\n\\end{align*}\n\\]\n\nBy comparing this Art. with Art. 13 of the first Appendix, it will appear, that the number of logarithms used in the new formulae is very considerably less than the number used in those from which they were derived; and still fewer will suffice, since the term \\(\\frac{4}{3c^4}\\), which occurs in the second theorem, is most easily derived from \\(\\frac{2}{cc}\\),* the first term in the first theorem, the logarithms of \\(\\frac{2}{cc}\\), \\(\\frac{2}{3}\\), and \\(cc\\), being there ready calculated; so that L. \\(\\frac{4}{3}\\) needs not be used in the computation.\n\n12. Let us now compute A and B by the first and third of these new formulae, when Venus and the earth are the two planets.\n\n* See Art. 11 of the first Appendix.\nFirst, for the value of A.\n\nNumbers. Logarithms. Numbers.*\n\nHere \\(a = 1.5236,71\\)\n\\(b = 1.4451,60\\) Ar. co. \\(1.8400,841\\)\n\n\\[\n\\begin{align*}\na - b &= 0.0785,11 \\\\\na + b &= 2.9688,31 \\\\\n\\frac{a-b}{a+b} &= cc - - - 2.4223,450 \\\\\n\\frac{2}{cc} &= 1.8786,850 \\\\\n75.62841 &= \\frac{z}{cc} \\\\\n0.19315 &= e \\\\\n75.82156 &= \\frac{z}{cc} + e \\\\\nfcc &= 3.5876,5 \\\\\n-0.00387 &= -fcc \\\\\n\\frac{g}{f} cc &= 2.332 \\\\\n\\end{align*}\n\\]\n\nSum of these two logarithms \\(5.920\\) \\(-\\) \\(-0.00008 = -gc^*\\)\n\n\\[-0.00395 = -fcc - gc^*\\]\n\nThe sum of these four terms is \\(-\\) \\(-75.81761.\\)\n\nHaving now found the value of the four terms \\(\\frac{2}{cc} + e - fcc - gc^*\\), we must next find the value of the three logarithmic terms \\(a + \\frac{3}{8} acc + \\frac{3.5}{8.8} ac^4\\), or \\(a + b + c = S\\), which may quickly and easily be done as follows.\n\nThe common logarithm of 2 is \\(0.3010,300\\)\n\nHalf the common logarithm of \\(cc\\) is \\(1.2111,725\\)\n\nThe common logarithm of \\(\\frac{2}{c}\\) is \\(1.0898,575\\); and this logarithm, reduced to an hyperbolic logarithm, by Table XXXVII.\n\n* See Art. 14 of the first Appendix, paragraph the third.\nSolution of a Problem in physical Astronomy.\n\nof Dodson's Calculator, gives $2.50949 = a$.\n\n\\[\n\\begin{align*}\na & = 0.39959 \\\\\n\\frac{3}{8} cc & = 3.99638 \\\\\n\\text{Sum of these two logarithms} & = 2.39597 \\\\\n\\frac{5}{8} cc & = 2.218 \\\\\n\\text{Sum of these two logarithms} & = 4.614 \\\\\n& = 0.00041 = \\frac{3.5}{8.8} ac^4 = c\n\\end{align*}\n\\]\n\nThe sum of these three terms is $2.53479 = S$; to which add the sum of the four terms above found $75.81761$, and we have\n\n$78.35240 = \\text{all the terms}$.\n\n\\[\n\\begin{align*}\n\\pi (a + b)^{\\frac{3}{2}} & = 1.8940523 \\\\\n& = 1.2060282 \\\\\n\\text{The diff. of these two logarithms is} & = 0.6880241 \\\\\n& = 4.87555 = A.\n\\end{align*}\n\\]\n\n13. We are next to compute the value of B; which computation will be much facilitated by the use of numbers already found in the computation of the value of A. The arithmetical work may stand as follows.\n1.38630 = ρ\n\n1cc 3.60826 - 0.00406 = -1cc\n\nmcc 2.361\n\n5.969 - 0.00009 = -mc^4\n\n1.38215 = the sum of these three terms.\n\n2.53479 = S\n\n2.50949 = a\n\n0.00830 = b/3\n\n0.00008 = c/5\n\n6.43481 = the sum of all the terms.\n\nπ(a + b)½ 0.8085,357\n\n0.7334,427\n\nDiff. of these two logs: 0.0750,930\n\n1.18874 = A\n\nA 0.6880,241\n\na 0.1828,913\n\nSum of these two logs: 0.8709,154\n\n7.42874 = Aa\n\n0.7951,846 6.24000 = Aa - A\n\n2/b 0.1411,141\n\n2/b (Aa - A) 0.9362,987 8.63572 = B.\n\n14. We have now the values sought, viz. A = 4.8756, and B = 8.6357; which values, computed by the new formulae, agree with those which were given in the first Appendix, which is one proof of the accuracy of the new forms to which the theorems are brought. And, that the calculations of these numbers are considerably facilitated and abridged by the use of H. L. \\( \\frac{2}{c} \\) instead of H. L. \\( \\frac{1 + \\sqrt{(1-c)}}{c} \\), and by the\neasy method of deriving the logarithmic terms in the second and third theorems from those in the first, will quickly appear to any one who shall make trial, by a calculation both by the original formulæ and by those which are given in this paper, or who shall compare the computations of A and B in the first Appendix, with the computations here exhibited.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107047.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 13,
+    "total-input-tokens": 20384,
+    "total-output-tokens": 6701,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1455,
+        2
+      ],
+      [
+        1455,
+        3272,
+        3
+      ],
+      [
+        3272,
+        4634,
+        4
+      ],
+      [
+        4634,
+        6381,
+        5
+      ],
+      [
+        6381,
+        8368,
+        6
+      ],
+      [
+        8368,
+        10437,
+        7
+      ],
+      [
+        10437,
+        12144,
+        8
+      ],
+      [
+        12144,
+        13379,
+        9
+      ],
+      [
+        13379,
+        14494,
+        10
+      ],
+      [
+        14494,
+        15369,
+        11
+      ],
+      [
+        15369,
+        16268,
+        12
+      ],
+      [
+        16268,
+        16624,
+        13
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107047",
+    "title": "A Second Appendix to the Improved Solution of a Problem in Physical Astronomy, Inserted in the Philosophical Transactions for the Year 1798, Containing Some Further Remarks, and Improved Formulae for Computing the Coefficients A and B; By Which the Arithmetical Work is Considerably Shortened and Facilitated. By the Rev. John Hellins, B. D. F. R. S. and Vicar of Potter's Pury, in Northamptonshire",
+    "authors": "John Hellins",
+    "year": 1800,
+    "volume": "90",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 13,
+    "jstor_url": "https://www.jstor.org/stable/107047"
+  }
+}

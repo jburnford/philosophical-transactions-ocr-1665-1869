@@ -1,0 +1,59 @@
+{
+  "id": "5356cc61cc8f05a4cc62a4bb6c3dc62027750672",
+  "text": "CHAPTER II.\n\nOf the Obligation to be subscribed.\n\nEvery person elected a Fellow of the Society, shall, before his Admission, subscribe the obligation in these words following:\n\nWe who have hereunto subscribed, do hereby promise each for himself, that we will endeavour to promote the good of the Royal Society of London for improving natural knowledge, and to pursue the ends, for which the same was founded; that we will be present at the meetings of the Society, as often as conveniently we can, especially at the anniversary elections, and upon extraordinary occasions; and that we will observe the Statutes and Orders of the said Society. Provided, that whosoever any of us shall signify to the President under his hand, that he desireth to withdraw from the Society, he shall be free from this Obligation for the future.\n\nAnd if any person elected shall refuse to subscribe the said Obligation, the election of that person shall be void.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106551.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 250,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        942,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106551",
+    "title": "Of the Obligation to be Subscribed",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106551"
+  }
+}

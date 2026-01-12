@@ -1,0 +1,69 @@
+{
+  "id": "f57480243a1c8c59183263caa179021290ff8e75",
+  "text": "IX. On a new Property of the Tangents of three Arches trisecting the Circumference of a Circle, by Nevil Maskelyne, D.D. F.R.S. and Astronomer Royal.\n\nRead February 18, 1808.\n\nMr. William Garrard having shewn me a curious property of the tangents of the three angles of a plane triangle, or in other words, of the tangents of three arches trisecting a semi-circle, in a paper which I have communicated to this Society, I was led to consider whether a similar property might not belong to the tangents of three arches trisecting the whole circumference; and, on examination, found it be so.\n\nLet the circumference of a circle be divided any how into three arches A, B, C; that is, let $A + B + C$ be equal to the whole circumference. I say, the square of the radius multiplied into the sum of the tangents of the three arches A, B, C, is equal to the product of the tangents multiplied together. I shall demonstrate this by symbolical calculation, now commonly called (especially by foreign mathematicians) analytic calculation.\n\nIt may be proper to premise, that the signification of the symbolical expressions of the tangents of an arc, whether with respect to geometry or numbers, are to be understood according to their position as lying on one side, or the other side of the radius, passing through the point of commencement of the arc of the circle; those tangents which belong to\nthe first or third quadrant of the circle being considered as positive, and those belonging to the second and fourth quadrant, being of a contrary direction, as negative; in like manner as the sines in the first semi-circle are considered as positive, and in the second semi-circle as negative; and the cosines in the first and fourth quadrant are considered as positive, and in the second and third quadrants as negative; they lying, in the second case, on the contrary side of the diameter passing through the point of ninety degrees, to what they do in the former. Hence it easily follows, that the tangent of any arch and of its supplement to the whole circumference, or 360 degrees, are equal and contrary to one another, or the one negative of the other.\n\nLet $t$, $u$, $w$, be put for the tangents of the three arches A, B, C respectively, and $r$ for the radius, and $\\Theta$ for the whole circumference. Then $A + B + C = \\Theta$, and $C = \\Theta - A + B$. By trigonometry, $t, A + B = \\frac{r^2 \\times t + u}{r^2 - tu}$, and the tang. $C = \\text{tang.} (\\Theta - A + B) = -\\text{tang.} A + B$, by what has been said above.\n\nTherefore $t, A + t, B + t, C$ or $t + u + w = t + u - \\frac{r^2 \\times t + u}{r^2 - tu} = tu \\times \\frac{r^2 \\times t + u}{r^2 - tu}$; but $t$ and $u$ are the expressions for the tangents of A and B respectively, and $- \\frac{r^2 \\times t + u}{r^2 - tu}$ is the expression for the tangent of C, or for $w$. Therefore, $r^2 \\times t + u + w$, or the square of the radius multiplied into the sum of the three tangents of A, B, and C = $tuw$, or the product of the tangents.\n\nQ. E. D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107288.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 893,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1386,
+        2
+      ],
+      [
+        1386,
+        3003,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107288",
+    "title": "On a New Property of the Tangents of Three Arches Trisecting the Circumference of a Circle",
+    "authors": "Nevil Maskelyne",
+    "year": 1808,
+    "volume": "98",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107288"
+  }
+}

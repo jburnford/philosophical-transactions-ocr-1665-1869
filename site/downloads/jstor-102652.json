@@ -1,0 +1,59 @@
+{
+  "id": "cd6ef6b5591ce40c6d8e19d1a063423e2dbc8358",
+  "text": "Lines $ax$, $xb$, whose Squares together shall be equal to the Square given $gg$.\n\nLet $axb$ whose height is $xy$ be the Triangle required. Bisect $ab$ in $m$ and draw $mx$.\n\n**Analysis.**\n\nLet therefore $axa + xbx = gg$\n\nBut by the 13th. of the Intro. $axa + xbx = 2ama + 2mxm$\n\nTherefore $gg = 2ama + 2mxm$\n\nor $gg - 2ama = 2mxm$\n\nTherefore the Problem is solv'd, but the Length of $mx$ being given and not its Position, it is evident that it may be the Semidiameter of a Circle whose Circumference shall be the Locus of the point $x$.\n\n**Construction and Demonstration.**\n\nFrom the Square given $gg$ Subtract the double Square of $am$, the Square root of half the remainder shall be the line $mx$, with the Center $m$ and distance $mx$, describe the Circle $pxd$. I say that any point $x$ taken in its Circumference resolves the Problem.\n\nFor since the double of the Squares of $am$ and $xm$ is equal to the Square $gg$, by the Construction, and by the 13th. Proposition of the Introduction to the Squares $ax$ and $xb$: The two Squares $ax$ and $xb$ together will be equal to the Square $gg$. Which was to be done.\n\n**FINIS.**\n\n**ERRATA.**\n\nPage 355. l. r. for IV. r. III. p. 356. l. 26. for III. r. IV. and for subtraction, subtraction, &c. r. subtraction, &c. p. 357. l. 33. r. Soligenes.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102652.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 468,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1294,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102652",
+    "title": "Errata",
+    "authors": null,
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102652"
+  }
+}

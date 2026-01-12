@@ -1,0 +1,59 @@
+{
+  "id": "4e21240a63b6698d5c67e2538bb1cce5b6e8b592",
+  "text": "XVII. An Eclipse of the Sun, Dec. 19. 1739, in the Morning, observed by Mr. Short in Surrey-street, with a reflecting Telescope of 16 Inches Focus, that magnified about 40 times.\n\nThe Beginning could not be seen for Clouds about the Horizon.\nAbout 35' after 8 o’Clock, there was an Opening, when the Sun seemed to be about 2 or 3 Digits eclipsed.\nEnd was exactly observed at 9h. 1'. 45''. t.app.\n\nXVIII. An Eclipse of the Moon, Jan. 2. 1740, observed at Mr. Graham’s House in Fleet-street, by Mr. Short, with a reflecting Telescope of Nine Inches Focus, that magnified about 40 times.\n\nBeginning about . . . 8h. 25'. 0''. t.app.\nBeginning of total Darkness at . . . 9. 31. 10.\nEnd of total Darkness . . . 11. 15. 20.\nEnd of the Eclipse at . . . 12. 22. 0.\n\nN.B. The Beginning and End could not be distinctly seen for Clouds.\n\nXIX. Some",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104335.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 336,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        835,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104335",
+    "title": "An Eclipse of the Sun, Dec. 19. 1739. in the Morning, Observed by Mr. Short in Surrey-Street, with a Reflecting Telescope of 16 Inches Focus, That Magnified about 40 Times",
+    "authors": "Mr. Short",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104335"
+  }
+}

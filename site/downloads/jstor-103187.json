@@ -1,0 +1,79 @@
+{
+  "id": "c51a02117ca82965b84b9f799c280e89d30bdf4a",
+  "text": "XIII. An Account of some farther Experiments touching the Ascent of Water between two Glass Planes in an Hyperbolick Curve. By the late Mr. Fr. Hauksbee, F. R. S.\n\nThe Figure of the Hyperbolick Curve, form'd by the Ascending of Water between two Square Glass Planes, as related in Philosoph. Transact. Numb. 336, gave me occasion to make some farther Enquiries; and by many Experiments I find, that the same Curve holds in all Directions of the Planes, the Asymptotes being always, one the Surface of the Water, the other a Line drawn along the touching Sides. Thus, when the touching Sides were plung'd under the Surface of the Water, and the Angle c was depress'd and made to remain lower than the Angle a, as in Fig. 1, then would be produc'd such an oblique Curve, as may be observ'd in that Figure. In all the several Schemes, a b represents the Surface of the Water on the outside of the Planes, and a c the touching Sides of the same. Now, tho' the Curve d d rises between the Planes in such an obliquity, yet does it conform itself in its Figure to the Asymptotes, viz. a b the Surface of the Water, and a c the touching Sides of the Planes; for supposing the Asymptote a c to be continued, as in the prick'd Line, till it surmounts the Surface of the Water to such a height, or suppose the Planes extended in the same manner, then would the Water remain between them in the appearance of the prick'd Lines, being at all distances from the Axis of the Curve, equal in respect to the Asymptotes.\ntotes; and so of all the rest of the Curves, as in the Figures 2, 3, 4, 5, 6, which are the result of the several Angles, made by the touching Sides of the Planes. Now when the touching Sides were plac'd upwards, parallel to the Surface of the Water (as in Fig. 7.) and plunged wholly under the same, then upon lifting them up, in the same Position, till the weight of the Water between the Planes over-balanc'd the Power of their Attraction, two Curves, one from each side of the Planes, would open themselves, and meet each other in the middle, as represented in the aforesaid Figure; where they would unite, and make a Figure as join'd by the prick'd Lines, being wider in the middle than towards the sides of the Planes. And it is highly remarkable, that this Curve would always break out between the Planes, at an equal distance between the touching sides and the Surface of the Water.\n\nThe same Figure is likewise produc'd between two round Glass Planes, (see Fig. 8.) the Asymptotes being the same as the former; that is to say, one the Surface of the Water, the other a Tangent drawn from the touching Point, parallel to a Tangent drawn from the open or opposite part of the Planes, being at right Angles with a Line drawn thro' the Axis of the same. These Experiments I find to answer the same in Vacuo, as in the open Air; so that that Element has nothing to do in this extraordinary appearance.\n\nThe Planes made use of in the foregoing Experiments were about 7 Inches square, open'd on one side to an Angle of 20 Minutes or thereabouts; the round Planes were in Diameter near 3 Inches.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103187.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6594,
+    "total-output-tokens": 891,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1503,
+        3
+      ],
+      [
+        1503,
+        3099,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103187",
+    "title": "An Account of Same Farther Experiments Touching the Ascent of Water between Two Glass Planes in an Hyperbolick Curve. By the Late Mr. Fr. Hauksbee, F. R. S.",
+    "authors": "Fr. Hauksbee",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103187"
+  }
+}

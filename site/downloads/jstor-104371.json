@@ -1,0 +1,99 @@
+{
+  "id": "644d360d187aa53314e650b2a81be305346a7603",
+  "text": "send it to the Royal Society, with a Figure of the Infant, with the Parts in their proper Site. One thing I cannot pass in Silence, viz. how the Circulation could be carried on, the Heart being thus inverted; and yet the Child lived several Days after Birth. I observed the Heart from its Basis, whence the Aorta and pulmonary Artery spring, and where the Cava and pulmonary Vein enter it, to its Cone, surrounded loosely with several Windings of these Vessels, through which the Blood's Circulation must necessarily be performed. A wonderful Sagacity in Nature! but I shall reserve the rest for my Tract.\n\nVIII. Johannes Caßillioneus Dno. de Montagny, V.D. Philosoph.Prof. in Acad. Lauzannesii, Reg. Soc. Lond. Soc.&c. de Curva Cardioide, de Figura sua sic dicta.\n\nS. P.\n\nNON ignoro, V.C. novarum curvarum investigationem, tanquam nimis Analystis facilem, contemni: Cum tamen D. Carré, non mediocris Geometra Regiæ Scientiarum Academiæ, (28 Feb. 1705.) novam curvam, quamquam vix summa sequens fastigia rerum, proponere non dubitârit; cur tibi, viro in amicos benignissimo, nonnulla, quæ mihi ejusdem Carré dissertationem legenti venerunt in mentem, scribere non ausim? Sed procemiis omissis, ad rem.\n\nSemicirculi BMA, (Fig. 1. 2. 3. Tab. III.) diameter BA, ita, puncto B peripheriam radens, ut semper trans-\ntranseat per punctum \\( A \\) gignet curvam, de qua agitur.\n\nEx generatione patet,\n\n1° Quod \\( DA \\alpha \\) normalis ad \\( AB \\), æquat diametri duplum.\n\n2° Quod hujus curvae peripheria \\( ADN \\alpha \\) \\( NA \\) finiet in \\( A \\).\n\nCurvam hanc a figura Cardioïdem, si placet, appellabimus.\n\nJam per \\( a \\), &c \\( A \\) ducantur \\( aE \\), \\( AQ \\) normales ad \\( aA \\), & ubi libet \\( EN \\) normalis ad \\( aE \\): Ex genesi erit \\( AN = BA + AM \\), &c (per similitudinem triangulorum \\( QAN, MBA \\)) \\( AQ = BM + MP \\), ac \\( NQ = MA + AP \\).\n\nHæc est præcipua hujus curvae proprietas, altera non injucunda est, quod recta \\( NN \\) semper æquat diametri duplum, & semper a circulo bisecatur in \\( M \\).\n\nSit nunc \\( BA = a \\), \\( aE = x \\), \\( EN = y \\), Erunt \\( QN = \\pm y + 2a \\), \\( AN = \\sqrt{x^2 + y^2 - 4ay + 4a^2} \\), & \\( MA = \\pm a + \\sqrt{x^2 + y^2 - 4ay + 4a^2} \\); quæ quatuor lineæ per analogiam comparatae, dant æquationem ad curvam.\n\n\\[\n\\begin{align*}\ny^4 - 6ay^3 + 2x^2y^2 - 6ax^2y + x^4 \\\\\n+ 12a^2y^2 - 8a^3y + 3a^2x^2\n\\end{align*}\n\\]\n\nCurvae subtangens juxta vulgatas methodos, est\n\n\\[\n\\frac{2y^4 - 9ay^3 + 2x^2y^2 + 12a^2y^2 - 3ax^2y - 4ay^3}{6axy - 2xy^2 - 3a^2x - 2x^3} = x\n\\]\n\nSed ex curvae generatione facilius ducendæ tangentis ratio deduci potest. Veniat \\( MAN \\) in locum primo quamproximum \\( mAn \\), sumantur \\( AR = AM \\), & \\( Ar = AN \\), & junctis \\( MR, Nr \\), ducatur per \\( A \\) recta\nAT iis parallela, &c per Mm, Nn, rectae MT, nt.\nJam nA : At :: nr (vel mR) : rN : mR × MA :\nrN × AM :: mR × MA : MR × AN :: MA ×\nAm : AN × AT, sed in ultima ratione mA = MA,\n& TA normalis ad MN, quare nA : At ::\n\nMA² : AN × AT; si nunc ex M ducatur per circuli\ncentrum F, recta MF producenda, donec. recta TA\nitem productae occurrat in G, id est, usque ad circuli\nperipheriam, erit MA² = TA × AG; quapropter\nmA : At :: AG : AN; describatur igitur semicir-\nculus per G, & N, qui secabit rectam AT in t, ex\nquo ducta recta tN erit tangens ad curvam, ad quam\ninsuper recta NG est normalis; hinc jungantur MO,\ncui ex N ducatur parallela, quae tanget curvam.\n\nHic obiter notandum puto hanc ducendarum tan-\ngentium methodum probe convenire pluribus curvis.\n\nSit AB, Fig. 2. Conchois Nicomedæa: Tunc\n(supposita superiori præparatione) BP : Pt :: BR,\n(vel cr) : Rb :: cr × CP : Rb × CP, (vel rC ×\nPR) :: CP² : TP × PR, unde deducitur superior\nconstructio.\n\nRecta longitudinis datae Fig. 3. CPB, extremitate\nC radens rectam CDT ad DA normalem, semper\ntranseat per punctum P datum in ipsa DA, & ita\ncurvam AB gignat.\n\nSuperiorem præparationem, & ratiocinium huic\naptans habebis BP : Pt :: bR (rc) : RB :: cr ×\nCP : RB × CP (BP × rC) :: CP² : BP × PT,\nut supra. Piget plura referre.\n\nCæterum methodus de maximis, & minimis dat\nmaximam ordinatam = \\frac{9a}{4}, & ejus abscissam = \\frac{a\\sqrt{3}}{4}.\nPosset codem pacto investigari abscissarum maxima;\nsed longae ambages, series sed longa laborum; quare sic eam quaerito.\n\nQuia \\(EN\\), Fig. 1. est tangens ad curvam, recta \\(MG\\) ex puncto \\(M\\) per centrum \\(F\\) ducta determinat punctum \\(G\\), ex quo ducta \\(GN\\) est normalis ad \\(EN\\), ergo & ad \\(AA\\), ex hypothese, sed \\(NQ = AV = MA + AP\\); ergo \\(VP = MA\\); atqui \\(BA : AM :: MA : AP\\); ergo \\(BA : PV :: VP : PA\\); sed \\(PF = FV = a - 2z\\); & ideo \\(a : a - 2z :: a - 2z : z\\). Unde facile deduitur \\(z = \\frac{a}{4}, EN = \\frac{7a}{4}, AQ = \\frac{3a}{4} \\sqrt{3}\\). Ubi notandum quod idem punctum \\(M\\), quod praebet in recta \\(NAMN\\) punctum majoris ordinatæ, praebet etiam punctum majoris absissæ.\n\nSed jam satis patientia tua abusus videor: quare finem faciam, nonnulla alia, quæ de hac curva commentatus sum, propediem missurus, si putes hæc & similia non indigna, quæ a te subcisivis horis legantur.\n\nVale,\n\nVir, quo neque candidiorem\nTerra tulit, neque cui me sit devinctior alter.\nViviaci, pridie Kalendas Apriles 1741.\n\nIX. Ad Eclipses Terræ repræsentandas, Machina J. And. Segneri, Med. Physic. & Mathem. Prof. Goetting, R. S. S.\n\nUt eclipsis aliqua terræ oculis exhibeatur spectanda, projectio arcuum & circulorum, qui in hemisphærio terræ illuminato concipiuntur, in planum, servire potest egregie: Sique in ejusmodi projectionem",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104371.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9684,
+    "total-output-tokens": 2210,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1310,
+        3
+      ],
+      [
+        1310,
+        2728,
+        4
+      ],
+      [
+        2728,
+        4169,
+        5
+      ],
+      [
+        4169,
+        5469,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104371",
+    "title": "Johannes Castillioneus Dno. de Montagny, V. D. Philosoph. Prof. in Acad. Lauzannesi, Reg. Soc. Lond. Soc. &c. De Curva Cardioide, de Figura sua Sic Dicta",
+    "authors": "Johannes Castillioneus",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/104371"
+  }
+}

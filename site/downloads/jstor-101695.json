@@ -1,0 +1,69 @@
+{
+  "id": "87aeb9bca9d720287fccc5a9810e6a5d33841c0e",
+  "text": "An Account of two Books.\n\nI. COURS D'ARCHITECTURE, enseigné dans l'Académie Royale d'Architecture, Première partie ; par M. François Blondel, de l'Académie Royale des Sciences, &c à Paris, 1675, in fol.\n\nIn this First Part of Architecture (which noble Art the Eminent Author will doubtless pursue and improve in all its parts,) are explained the Origin and Principles of it, and the Practice of the Five Orders, according to the doctrine of Vitruvius and his principal Followers, and the doctrine of the three most renowned Architects that have written amongst the Moderns, to wit, Vignole, Palladio, and Scamozzi.\n\nFor the Improvement of which Art his Majesty of France hath instituted an Academy at Paris, which meets weekly to confer about that subject, and thereby endeavours to free Architecture from its vicious dresses, to retrench the abuses which the ignorance and presumption of Workmen had introduced, and to enrich the same with those natural embellishments and graces, which have rendered it so commendable among the Ancient; not forgetting to teach in the same the exactest and most correct Rules of Architecture, and so to form a Seminary of young Architects, to be encouraged by certain bourses or prices for such as shall do best, and these to be sent afterwards, at his said Majesties charges, into Italy, there to perfect their knowledge and skill, and so to be made capable to serve him in the Survey of his Buildings all over his Kingdom. And because the knowledge of the precepts of Architecture is not sufficient by itself alone to make an Architect, this Skill supposing many other accomplishments, the said King hath appointed, that in the same Academy should be taught the other Sciences that are absolutely necessary to Architects, such as are Geometry, Arithmetick, the Mechanicks, Hydraulicks, Gnomonicks, Fortification, Perspective, and the like.\n\nThis first Part being merely Practical as to the Five Orders, the Author hath altogether applied himself to shew with great painness, which are the most correct Practices to be used therein, beginning with that of Vitruvius, and explaining him by the Practice of his best Interpreters or Imitators, such as are Philander, Daniel Barbaro, Serlio, Alberti, &c. And seeing that the doctrine of Vitruvius is merely that of the Grecian Architects that had preceded him,\nhim, and that those that came after him and the Romans have much improved those first Inventions; this Author, unwilling to subject his Auditors altogether to the precepts of that ancient Writer, hath chosen among the Moderns those three Architects, that have the most universal approbation, to deliver their thoughts upon each of those Orders, and to give us the easiest means to put them in practice; for which end he hath not scrupled to make several alterations in their method.\n\nIn the Second he intends to be much larger, and fully to explain what hath but been touched in this First part, and to compare the Sentiments which Architects have entertained amongst themselves, concerning the best Examples of the Ancients. And 'tis hoped, he will hasten so desirable a work, as much as the nature of it will bear.\n\nII. Remarks upon Two late Ingenious Treatises; the one, an Essay touching the Gravitation and Non-Gravitation of Fluid Bodies; the other, Observations touching the Torricellian Experiment, so far forth as they may concern any Passages in the Enchiridium Metaphysicum: By Dr. Henry More. Printed in London, for Walter Kettilby, 1676. in octavo.\n\nWe shall, instead of giving an account of this Tract, desire the Reader to compare with it what hath been not long since publish'd by those two eminent Philosophers, Mr. Boyle, and Dr. Wallis; the former, in an Hydrostatical Discourse, occasion'd by the Objections of this Learn'd Author against some Explications of New Experiments made by the said Mr. Boyle; which was printed at London for Richard Davis, 1672. amongst some other Tracts, viz. New Experiments touching the Relation betwixt Flame and Air; of the Positive or Relative Levity of Bodies under Water; of the Air's Spring on Bodies under water, &c. The latter, in a Discourse of Gravity and Gravitation, grounded on Experimental Observations, presented to the R. Society; printed for John Martyn, &c. 1675. These pieces being well laid together, and the doctrine of Hydrostaticks well understood and applied, will make it easy to the Judicious and considerate Reader, what to judge of the whole controversie here treated of.\n\nErrata.\nP.523.l.29,30.leg.ea quam; p.524.in not.t,lege, Experimentum cum ejusdem Mercurii portione, in su manu; p.529.l.14.leg. cum uno parata.\n\nLondon, Printed for John Martyn, Printer to the R. Society, 1675.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101695.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1190,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2343,
+        2
+      ],
+      [
+        2343,
+        4705,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101695",
+    "title": "An Account of Two Books",
+    "authors": "Henry More, M. Francois Blondel",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101695"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "d005c6e378bc095366da2d15dde9894cc8e0035f",
+  "text": "VIII. Two Letters from the Rev. Henry Miles F.R.S. D.D. to Mr. Henry Baker F.R.S. concerning the Heat of the Weather in July and September last.\n\nI.\n\nDear Sir,\n\nRead Nov. 22. I SEND you a brief Account of the State of the Weather, in this Place, on the 11th Instant, when the remarkable Storm happened; which, if you think fit, may be communicated to the Royal Society, when they meet; as there will probably be other Particulars relating to it sent in.\n\nThe Morning at 4 had nothing remarkable: At 2 p.m. the Heavens mostly clear, and no Indications of a Storm; the Barometer having fallen but $\\frac{6}{37}$ Inch since 4 a.m. it then stood at 30, 20. the Thermometer at $87\\frac{1}{2}$, and before 3 p.m. at $88\\frac{1}{2}$, which is the hottest Temperature of the Air I ever knew.\n\nAt 4 p.m. we had very distant Thunder; soon after it came a little nearer, and was one continued Murmur, without any perceivable Intermission for great Part of an Hour: The Lightning accompanying it, not much. The Wind was nearly S.W. and dark Clouds passed by on each Side of us till they united in the N. forming one of the blackest Clouds I ever saw, over the City, as near as I could guess. We had not one Drop of Rain, nor did there fall either Rain or Hail for near 3 Miles to the N. of us towards London: A few Hail-stones, I am informed, fell in some Parts of Clapham; what the Extent\nof the Storm might be on other Sides of the City I have not heard.\n\nBy the Observation I made, there did not appear any considerable Change in the State of the Air, as to the Weight or Heat of it. The Barometer fell little, and the Thermometer no more than usual at that time of the Evening. Mr. Canton writes me, that his Thermometer in Spital Square (of the same Construction with mine, and kept too in the open Air) fell no less than 17 Degrees. I am,\n\nTooting, July 18,\n1750.\n\nDear Sir,\n\nYour, and the Royal Society's,\n\nmost obedient, and\n\nmost humble Servant,\n\nH. Miles.\n\nAt 4 a.m. the Wind being easterly, and blowing strong, accompanied with several short Showers of Rain, the Barometer being at 29.97, I observed my Thermometer abroad to stand at 61: A Degree of Heat exceeding any I have taken notice of during the whole Summer at that time of the Morning.\n\nH. Miles.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104697.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 694,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1378,
+        2
+      ],
+      [
+        1378,
+        2254,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104697",
+    "title": "Two Letters from the Rev. Henry Miles F. R. S. D. D. to Mr. Henry Baker F. R. S. concerning the Heat of the Weather in July and September Last",
+    "authors": "Henry Miles",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104697"
+  }
+}

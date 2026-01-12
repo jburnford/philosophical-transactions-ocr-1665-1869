@@ -1,0 +1,69 @@
+{
+  "id": "70d0d1275cbca2057484255f7bd89efcdd0b70d4",
+  "text": "A Description of the Loadstone made use of in the foregoing Experiments.\n\nThis Stone weighed exactly 6 Pound; one Ounce and \\(\\frac{1}{4}\\) Averdupois Weight. Its Form resembled Figure 4. Its breadth at the North Pole was 4 Inches; at the South Pole 5 Inches; the Poles running thro' the Stone in the direction of the prick'd Line. The length of the shortest side was 6 Inches \\(\\frac{1}{2}\\), of the longest side 7 Inches \\(\\frac{1}{2}\\). Its thickness at the North Pole was one Inch and a half, and at the South Pole one Inch.\n\nVI. The Specifick Gravities of several Metalline Cubes, in comparison with their like Bulks of Water. By Mr. Fr. Hauskbee, F. R. S.\n\nThese Cubes were deliver'd to me by Dr. Sloane, and supposed to be extraordinary in their several kinds, except the Gold. Their workmanship was very accurate; and they were exactly of a size, altho' they differ'd a little from our Measure. Six of them being laid on a Rule, Side by Side, measured about a tenth more than 6 Inches; and if their Sides were chang'd, they still made the same measure. And it farther appeared that they were exact, by their agreeableness in the Weight of their respective Bulks of Water, as may be observed by comparing them in the following Table.\nTroy Weight.\n\n| Weight of the several Cubes in Air | Weight of the several Cubes in Water | In proportion to their like bulk of Water |\n|-----------------------------------|-------------------------------------|------------------------------------------|\n| O. DW. G.                         | O. DW. G.                           |                                          |\n| Gold 9—11—8                      | Silver 5—14—10                     |                                          |\n| Copper 4—16—8                    | Brafs 4—05—7                       |                                          |\n| Lead 6—02—12                     | Iron 4—04—17                       |                                          |\n\nVII. An Account of what appeared on the Dissection of the Body of Mr. Dove. By the late Mr. William Cowper, Surgeon, F. R. S. In a Letter communicated by Dr. Hans Sloane, R. S. Secr.\n\nHonoured Sir,\n\nHad any opportunity offer'd, you should have received the following Account of what appeared on the Dissection of Mr. Dove before now.\n\nThe Body in divers Parts appeared of a Black, Blue, Livid, and various Colours, before I made any Incision into it; particularly the Back (where the Blood was settled) had a Cadaverous Blackness; where the Cuticle was",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103159.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 681,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1241,
+        2
+      ],
+      [
+        1241,
+        2519,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103159",
+    "title": "The Specifick Gravities of Several Metalline Cubes, in Comparison with Their Like Bulks of Water. By Mr. Fr. Hauskbee, F. R. S.",
+    "authors": "Fr. Hauskbee",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103159"
+  }
+}

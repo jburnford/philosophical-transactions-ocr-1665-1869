@@ -1,0 +1,109 @@
+{
+  "id": "2bca2d961a2b9145671f10bde228732a13cc41ac",
+  "text": "XXXVI. Observations of the Comet of 1783. In a Letter from Edward Pigott, Esq. to the Rev. Nevil Maskelyne, D.D., F.R.S. and Astronomer Royal.\n\nRead June 24, 1784.\n\nREVEREND SIR,\n\nHAVING compleated my observations of the comet discovered on the 19th of November last, I take the liberty of desiring you to present them to the Royal Society. The faintness of the comet's light, and the unfavourable sky you have had in the south, induce me to believe, that few observations of it have been made besides the following.\n\n| Dates     | Apparent time | R. A. | North declination | Greatest error of each R. A. | Longitude | Latitude |\n|-----------|---------------|-------|-------------------|-------------------------------|-----------|----------|\n| Novem. 19 | 11 4          | 41 1 30 | 3 11 1/2           | 3 00                           | 19 37     | 12 4 1/2 S |\n| 20        | 10 55         | 40 0 3 | 4 32 3/4           | 0 22                           | 19 22     | 10 31    |\n| 22        | 6 52+        | 38 21 10 | 6 50              | 0 30                           | 18 11 1/4 | 7 50     |\n| 24        | 10 24-       | 36 29 28 | 9 36 1/4           | 0 15                           | 17 19     | 4 52 1/4 |\n| 26        | 10 9-        | 34 49 20 | 12 3 1/4           | 0 15                           | 16 33 1/2 | 2 6      |\n| Decem. 3  | 15 54        | 29 21 50 | 20 15 1/4          | 0 40                           | 14 24     | 7 42 1/2 N |\n\nThe R. A.'s of November 20th, 24th, and 26th, were deduced from observations made at the transit instrument; the others, except the first, were determined with an excellent 2 1/2 feet night-glass, made by Dollond, magnifying 20 times, having cross wires at right angles in its focus, which were visible.\nvisible without being illuminated. With this instrument the comet, by the common method, was compared to stars in the field of the telescope, and within four minutes on the same parallel. The places of those stars were afterwards settled with the meridian instruments. As sometimes several stars were observed, I easily found to what degree of certainty those observations might be depended on, which I have marked with the above results. The declinations, I think, cannot err two minutes, being compared to stars within four minutes on the same parallel. The three of November 20th, 24th, and 26th, were taken with the transit instrument by comparing the comet to the nearest stars. I was much chagrined in not being able to see the comet in our equatorial when the wires were illuminated.\n\nThe comet had exactly the appearance of a nebula: its light was so faint that it could not be seen in a good opera glass. In the night-telescope the nucleus was scarcely visible, and the diameter of the surrounding coma was about three minutes of a degree. Between the 19th and 26th of November, I thought it had rather diminished in brightness. December the 1st and 3d it was very difficult to be seen, occasioned perhaps by its little elevation above the horizon. Between December the 3d and 10th, the comet was entirely effaced by the increased light of the Moon. On the 10th, the moon being in the horizon did not obliterate stars of the eighth or ninth magnitude; but I could not find the comet. The following observations were made by my friend Mr. John Goodricke.\nMr. Pigott's Observations of the Comet of 1783.\n\n| Dates       | Apparent time | R. A.     | North declination | Longitude | Latitude |\n|-------------|---------------|-----------|-------------------|-----------|----------|\n| 1783 Novem. |               |           |                   |           |          |\n| 24          | h.            | °         | °                 | S.        | °        |\n| 28          | 8 16          | 36 32 57  | 9 30 3/4          | 1 7 21    | 1 42 1/2S |\n|             | 6 8 1/2       | 33 20 0   | 14 10 1/2         | 1 5 55 1/2| 0 52 4/3N |\n\nI am, &c.\n\nEDW. PIGOTT.\n\nP. S. This morning I received a letter from M. de Mechain, in which he informs me, that he discovered the comet on the 26th of November seven days after my first observation. He has made several observations on it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106605.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 12540,
+    "total-output-tokens": 1463,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1752,
+        2
+      ],
+      [
+        1752,
+        1752,
+        3
+      ],
+      [
+        1752,
+        1752,
+        4
+      ],
+      [
+        1752,
+        1752,
+        5
+      ],
+      [
+        1752,
+        3315,
+        6
+      ],
+      [
+        3315,
+        4128,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106605",
+    "title": "Observations of the Comet of 1783. In a Letter from Edward Pigott, Esq. to the Rev. Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal",
+    "authors": "Edward Pigott",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/106605"
+  }
+}

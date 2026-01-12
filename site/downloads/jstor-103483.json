@@ -1,0 +1,129 @@
+{
+  "id": "205a181caa0c45e866e9b1a4990e4e6270c1534d",
+  "text": "VI. A Demonstration of the 11th Proposition of Sir Isaac Newton's Treatise of Quadratures. By Mr. Benjamin Robins.\n\nThis Proposition consists of two Parts: The first is as follows.\n\nLet there be any Curve ADI, whose Abscisse AB shall be denoted by $z$, and its Ordinate BD by $y$; which may be related in any manner to the Abscisse. And calling this the first Curve, let other Curves AEK, AFL, AGM, AHN, &c. be formed to the common Abscisse AB, or $z$, by making the Ordinate BE of the second Curve always equal to the Area ABD of the first divided by Unity; the Ordinate BF of the third equal to the Area ABE of the second divided by Unity; the Ordinate BG of the fourth equal to the Area ABF of the third divided by Unity; and so on continually. Suppose now, that other Curves AOS, APT, AQV, ARW, be described to the same common Abscisse AB or $z$; in which Curves the Ordinate BO of the Curve AOS shall be equal to $zy$, the Ordinate BP of the Curve APT equal $z^2y$, the Ordinate BQ of the Curve AQV equal to $z^3y$, the Ordinate BR of the Curve ARW equal to $z^4y$, &c. And let the whole Area ACI be denoted by A, the Area ACS by B, the Area ACT by C, the Area ACV by D, the Area ACW by E, &c. Then the Series of Curves ADI, AEK, AFL, AGM, AHN are thus measured:\n\nThe\nThe Area of the first Curve ADI is = A\n—of the second AEK is = zA - B\n—of the third AFL = zzA - 2zB + C\n—of the fourth AGM = z^2A - 3z^2B + 3zC + D\n—of the fifth AHN = z^4A - 4z^4B + 6z^2C - 4zD + E\n\nand so on perpetually. Here in all the Curves following the first, the Index of the highest Power of \\( z \\) is always the Number which expresses the Distance of the Curve from the first, and afterwards decreases regularly by Unity; the first Term is multiplied into A, the second into B, the third into C, the fourth into D, and so on; the Coefficients are the same as in a Binomial raised to the highest Power of \\( z \\), and the Divisor is so many Terms of this Progression \\( 1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\) &c. as is express'd by a Number equal to the highest Index of \\( z \\). Otherwise supposing \\( z \\) to represent the Distance of the Curve to be measured from the first; then the Area sought will be found by extending \\( z - 1 \\) into a Series, and multiplying the first Term by A, the second by B, the third by C, the fourth by D, &c. and dividing the whole by \\( n \\times n - 1 \\times n - 2 \\) &c. continued to Unity.\n\n**SECOND PART.**\n\nSupposing the first, second, third, &c. Curves to be the same as before: Let \\( t \\) denote the whole Abscisse AC, and put \\( x \\) for BC: Then describe the Curves CXA, CYA, CZ A, C Γ A, where BX shall be equal to \\( xy \\), BY = \\( x^2 y \\), BZ = \\( x^3 y \\), BΓ = \\( x^4 y \\), &c. This being done, and in the Series of Curves CIDA,\nCXA, CYA, CZA, CTA, &c. the first Area CIDA being put equal to P, the second CXA equal to Q, the third CYA=R, the fourth CZA=S, the fifth CTA=T, &c. the whole Areas of the aforesaid Series of Curves are also determin'd as follows.\n\nThe first AIC=P\nThe second AKC=Q\nThe third ALC=\\frac{1}{2} R\nThe fourth AMC=\\frac{1}{3} S\nThe fifth ANC=\\frac{1}{4} T.\n\nHere the Area's P,Q,R,S,T are divided by Numbers produced by multiplying as many Terms of this Series \\(1 \\times 2 \\times 3 \\times 4 \\times 5\\) &c. together, as in the former Case.\n\nDemonstration of the First Part.\n\nLet the Area ABD be denoted by \\(a\\), the Area ABO by \\(b\\), ABP by \\(c\\), ABQ by \\(d\\), and ABK by \\(e\\). Then it is evident, that\n\nThe Fluxion of the Area ABD is \\(z \\times BD = z \\dot{y} = \\dot{a}\\)\nThe Fluxion of the Area ABO is \\(z \\times BO = z \\dot{y} = \\dot{b}\\)\nThe Fluxion of the Area ABP is \\(z \\times BP = z \\dot{y} = \\dot{c}\\)\n&c. &c.\n\nHence\n\n\\(z \\times \\dot{a}\\) is \\((= z \\dot{z} \\dot{y}) = \\dot{b}\\)\n\\(z^2 \\times \\dot{a}\\) is \\((= z \\dot{z}^2 \\dot{y}) = z \\dot{b} = \\dot{c}\\)\n\\(z^3 \\times \\dot{a}\\) is \\((= z \\dot{z}^3 \\dot{y}) = z^2 \\dot{b} = z \\dot{c} = \\dot{d}\\).\n\nOr generally,\n\n\\(z^n \\times \\dot{a} = z^{n-1} \\times \\dot{b} = z^{n-2} \\times \\dot{c} = z^{n-3} \\times \\dot{d}\\), &c.\nNow as \\( \\dot{z} \\times ABD \\) or \\( \\dot{z} \\times a \\) is = Fluxion of ABE, if you add to the first Part \\( \\dot{z} \\times a \\) (= \\( \\dot{z} z y \\)) and its Equal \\( b \\) to the other Part, it follows, that\n\n\\[\n\\begin{align*}\n\\dot{z} \\times a + \\dot{z} \\times a &= \\text{Fluxion of ABE} + b \\\\\n\\end{align*}\n\\]\n\nAnd taking the Fluents\n\n\\( z \\times a = ABE + b \\) or \\( ABE = z \\times a - b \\); and when \\( z \\) or \\( AB \\) becomes = AC, then \\( ABE \\) becomes ACK, and \\( a \\) and \\( b \\) become \\( A \\) and \\( B \\); therefore ACK is \\( = z \\times A - B \\).\n\nAgain, The Ordinate BF of the next Curve is equal to ABE, which has been proved equal to \\( z \\times a - b \\). Consequently the Fluxion of ABF is \\( = \\dot{z} z a - \\dot{z} b \\); and if you add to the first Part of this Equation \\( \\dot{z} z^2 a - \\dot{z} b \\) (\\( = \\dot{z} z^2 y - \\dot{z} z^2 y = - \\dot{z} z^2 y \\)) and its Equal \\( - \\dot{z} c \\) on the other, it follows, that\n\n\\[\n\\begin{align*}\n\\dot{z} z^2 a - \\dot{z} b + \\dot{z} c &= \\text{Fluxion of ABF} - \\dot{z} c \\\\\n\\end{align*}\n\\]\n\nAnd taking the Fluents\n\n\\( \\dot{z} z^2 a - \\dot{z} b = ABF - \\dot{z} c \\); or by transposing\n\n\\( ABF = \\frac{z^2 a - z z b + c}{2} \\); or supposing \\( z \\) equal to AC,\n\n\\( ACL = \\frac{z^2 A - z z B + C}{2} \\).\n\nThe Ordinate BG is equal to ABF, which has been proved equal to \\( \\frac{z^2 a - z z b + c}{2} \\); Therefore the Fluxion of ABG is equal to \\( \\frac{z^2 a - z z b + \\dot{z} c}{2} \\)\n\nAnd\nAnd adding \\( \\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c \\) \\( C = \\frac{1}{2} z z' y - \\frac{1}{2} z z' y + \\frac{1}{2} z z' y = \\frac{1}{2} zz' y \\) on one side, and its Equal \\( \\frac{1}{2} d \\) on the other, it will be\n\n\\[\n\\begin{align*}\n&\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c \\\\\n+ &\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c \\bigg\\} = \\text{Fluxion of } ABG + \\frac{1}{2} d\n\\end{align*}\n\\]\n\nAnd taking the Fluents\n\n\\[\n\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c = ABG + \\frac{1}{2} d; \\text{ and transposing, }\nABG = \\frac{z^3 a - 3 z^2 b + 3 z c - d}{6}; \\text{ or supposing } z \\text{ equal to } AC; \\text{ then } ACM = \\frac{z^3 A - 3 z^2 B + 3 z C - D}{6}.\n\\]\n\nIn the same manner the Fluxion of \\( ABH \\) is equal to\n\n\\[\n\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c - \\frac{1}{2} z d; \\text{ and adding on one side }\n\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c - \\frac{1}{2} z d, \\text{ and its Equal } - \\frac{1}{2} e\n\\]\n\non the other, it becomes\n\n\\[\n\\begin{align*}\n&\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c - \\frac{1}{2} z d \\\\\n+ &\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c - \\frac{1}{2} z d \\bigg\\} = \\text{Fluxion of } ABH - \\frac{1}{4} e\n\\end{align*}\n\\]\n\nAnd taking the Fluents\n\n\\[\n\\frac{1}{2} z^3 a - \\frac{1}{2} z^2 b + \\frac{1}{2} z c - \\frac{1}{2} z b = ABH - \\frac{1}{4} e; \\text{ therefore } ABH = \\frac{z^3 a - 4 z^2 b + 6 z c - 4 z d + e}{24};\n\\]\n\nOr \\( ACN = z^3 A - 4 z^2 B + 6 z^2 C - 4 z D + E \\), supposing \\( z \\) equal to \\( AC \\). In like manner you may proceed to measure any of these Curves: and you will always find their Value the same as is expressed in the Proposition.\n\nDe-\nDemonstration of the Second Part.\n\nSuppose any Curve whose Distance from the first is denoted by \\( n \\); then the Curve whose Abscisse is BC or \\( x \\), and its Ordinate \\( x^n y \\) divided by \\( n \\times n-1 \\times n-2 \\times n-3 \\) &c. continu'd to Unity will be equal to it, when \\( x \\) is equal to AC or \\( t \\).\n\nIt is evident, that when the Areas ABD, ABO, ABP, ABQ, ABR, &c. decrease, the Areas BCID, BCSO, BCTP, BCVQ, BCWR increase respectively; and consequently the Decrements of the Areas ABD, ABO, ABP, &c. or their Fluxions with a negative Sign, are the Increments or Fluxions of the Areas BCID, BCSO, BCTP, &c. that is, calling the Area BCID, \\( \\alpha \\); the Area BCSO, \\( \\beta \\); the Area BCTP, \\( \\gamma \\); BCVQ, \\( \\delta \\); BCWR, \\( \\varepsilon \\): then \\( \\dot{\\alpha} = -\\dot{\\alpha}, \\dot{\\beta} = -\\dot{\\beta}, \\dot{\\gamma} = -\\dot{\\gamma}, \\dot{\\delta} = -\\dot{\\delta}, \\dot{\\varepsilon} = -\\dot{\\varepsilon} \\).\n\nNow the Fluxion of the Curve, whose Abscisse is \\( x \\), or BC, and its Ordinate \\( x^n y \\) is \\( \\dot{x} x^n y \\); that is, equal to \\( \\dot{x} y \\times t-z \\); \\( x \\) being \\( =t-z \\); or since the Increment of \\( x \\), or \\( \\dot{x} \\) is equal to the Decrement of \\( z \\), or \\( -\\dot{z} \\), the Fluxion of the same Curve is equal to \\( -\\dot{z} y \\times t-z \\)^n = \\( -\\dot{z} y \\) in \\( t^n - n \\times t^{n-1} z + n \\times \\frac{n-1}{2} t^{n-2} x^2 \\) &c. \\( = -t^n \\dot{z} y + n t^{n-1} \\dot{z} y - n \\times \\frac{n-1}{2} t^{n-2} \\dot{z} y \\), &c.\n\nthat is, \\( = t^n \\times -\\alpha - n t^{n-1} \\times -\\beta + n \\times \\frac{n-1}{2} t^{n-2} \\times -\\gamma \\), &c.\n\nor \\( = t^n \\dot{\\alpha} - n t^{n-1} \\beta + n \\times \\frac{n-1}{2} t^{n-2} \\gamma \\), &c. and taking\n\nthe Fluents, the Area of the Curve, whose Abscisse is \\( x \\), or BC, and Ordinate \\( x^n y \\), is equal to \\( t^n x - n t^{n-1} \\beta + n \\times \\frac{n-1}{2} t^{n-2} \\gamma \\), &c.\n\nBut when \\( x \\) is equal to\nto AC, then \\(a, b, c, \\ldots\\) will be equal to A, B, C, &c. as is very evident; consequently the Area of the Curve whose Abscisse is \\(x\\), and Ordinate \\(x^n y\\), when \\(x = AC\\), is \\(t^n A - nt^{n-1} B + n \\times \\frac{n-1}{2} \\times t^{n-2} C \\ldots\\) that is equal to \\(\\frac{1}{n}\\) thrown into a Series, and the first Term multiplied by A, the second by B, the third by C, &c.\n\nBut \\(\\frac{1}{n}\\) thrown into a Series, and the first Term multiplied by A, the second by B, the third by C, &c., and then the whole divided by \\(n \\times n-1 \\times n-2, \\ldots\\) continued to Unity, is equal to the Area of the Curve, whose Place in the Series is denoted by \\(n\\): Therefore the Area of the Curve, whose Abscisse is equal to \\(x\\), and its Ordinate to \\(x^n y\\), taken when \\(x\\) is equal to AC, and divided by \\(n \\times n-1 \\times n-2 \\times n-3, \\ldots\\) continued to Unity, is equal to the Area of a Curve whose Place in the Series is denoted by \\(n\\); that is, Q, which is the Area of a Curve, whose Abscisse is \\(x\\), and Ordinate \\(x y\\) taken when \\(x\\) is \\(= AC\\), is equal to the second Curve AKC; half R, which is the Area to the Abscisse \\(x\\), and Ordinate \\(x^2 y\\), taken in the same manner, is equal to the third Curve ALC; \\(\\frac{1}{4} S\\), which is a like Area to \\(x\\) and \\(x^3 y\\), is equal to the fourth Curve AMC; \\(\\frac{1}{8} T\\), the Area to \\(x\\) and \\(x^4 y\\), \\(x\\) being equal to AC, is equal to the fifth Curve ANC; and so on perpetually Q.E.D.\n\nVII. Muris",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103483.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 13652,
+    "total-output-tokens": 4271,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1273,
+        3
+      ],
+      [
+        1273,
+        2774,
+        4
+      ],
+      [
+        2774,
+        4044,
+        5
+      ],
+      [
+        4044,
+        5501,
+        6
+      ],
+      [
+        5501,
+        7219,
+        7
+      ],
+      [
+        7219,
+        9153,
+        8
+      ],
+      [
+        9153,
+        10648,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103483",
+    "title": "A Demonstration of the 11th Proposition of Sir Isaac Newton's Treatise of Quadratures. By Mr. Benjamin Robins",
+    "authors": "Isaac Newton, Benjamin Robins",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/103483"
+  }
+}

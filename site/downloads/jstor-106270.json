@@ -1,0 +1,249 @@
+{
+  "id": "88049f42a2349516d888c9c4ed12b21c25d9cdb2",
+  "text": "VI. Short and easy Theorems for finding, in all cases, the Differences between the Values of Annuities payable Yearly, and of the same Annuities payable Half-yearly, Quarterly, or Momently. By the Rev. Richard Price, D. D. F. R. S. In a Letter to Sir John Pringle, Bart. P. R. S.\n\nR. Nov. 9, 1775. THE values of annuities, as given in all the common tables, suppose them paid yearly. But it is well known, that generally they are paid half-yearly, and sometimes quarterly; and that this is a circumstance which always adds to their value. The difference between the values of annuities, according as they are paid in these different ways, I have seen nowhere stated with accuracy; and therefore, I have thought that the following attempt to do this may be of some use.\n\nAnnuities are of two sorts. They are either payable certainly or conditionally. Of the former sort are all annuities which are payable at fixed times, without depending on any contingency. Of the latter sort are all annuities on lives. I will first consider the first sort of annuities.\n\nLet $r$ denote the interest of £1 for a year; and $n$ the term or number of years during which any annuity is to\nDr. Price's Theorems.\n\nbe paid. Let \\( p \\) denote the value of the perpetuity, or the quotient arising from dividing £1 by its interest for a year. Let \\( y \\) denote the value of an annuity for \\( n \\) years, supposing it to be paid yearly; \\( b \\) its value, payable half-yearly; \\( q \\) its value, payable quarterly; and \\( m \\) its value, payable momently.\n\n**Theorem I.**\n\n\\[\ny = p - \\frac{1}{r \\times 1 + r^n}.\n\\]\n\n**Theorem II.**\n\n\\[\nb = p - \\frac{1}{r \\times 1 + \\frac{r}{2}}.\n\\]\n\n**Theorem III.**\n\n\\[\nq = p - \\frac{1}{r \\times 1 + \\frac{r^4}{4}}.\n\\]\n\n**Theorem IV.**\n\n\\[\nm = p - \\frac{1}{r^N}, \\quad \\text{where } N \\text{ denotes the number which hath } r^n \\text{ for its hyperbolic logarithm, and } r^n \\times 0.43429448 \\text{ for its logarithm in Brigg's system.}\n\\]\n\n**Example.**\n\nLet the rate of interest be 4 per cent. and the term 5 years, and consequently \\( r = 0.04 \\). \\( n = 5 \\). \\( p = 25 \\).\n\nThen,\nfor the Valuation of Life-annuities.\n\nThen, \\( y = 4.4518 \\)\n\\( b = 4.4913 \\)\n\\( q = 4.5120 \\)\n\\( m = 4.5415 \\)\n\n**Example II.**\n\nLet the rate of interest be the same, and the term for which the annuity is payable 25 years.\n\nThen, \\( y = 15.6220 \\)\n\\( b = 15.7118 \\)\n\\( q = 15.7694 \\)\n\\( m = 15.801 \\)\n\n**Example III.**\n\nInterest being the same, let the term be 50 years.\n\nThen, \\( y = 21.4822 \\)\n\\( b = 21.5491 \\)\n\\( q = 21.582 \\)\n\\( m = 21.616 \\)\n\n**Example IV.**\n\nInterest being the same, let the term be 100 years.\n\nThen, \\( y = 24.505 \\)\n\\( b = 24.523 \\)\n\\( q = 24.532 \\)\n\\( m = 24.542 \\)\nIn the foregoing theorems it may be observed, that the ratio to one another, of the values of annuities payable yearly, half-yearly, quarterly, and momently, is greatest when \\( n \\) is least; that it decreases continually as \\( n \\) increases, till at last it vanishes, when \\( n \\) becomes infinite or the annuity is a perpetuity. Agreeably to this it appears, in the examples I have given, that the values in the first example differ more from one another in proportion than the values in the second example; and that these also differ more than the values in the third; and that in the last example all the values are nearly the same.\n\nThese values computed by Mr. de Moivre's rules in his Treatise on Life-annuities, p. 86. and 124, &c. come out greater when \\( n \\) exceeds, and less when \\( n \\) falls short of 15 or 20 years. But those rules suppose the half-yearly and quarterly interests of money to be less than half or a quarter of the yearly interest. For instance; the value of an annuity of £1. payable half-yearly and quarterly for 50 years is, according to Mr. de Moivre's rules, 21,699 and 21,772, or a 99th part and 74th part more than the value of the same annuity payable yearly, supposing money improved at 4 per cent. when the annuity is paid yearly; and at £1,98 per cent. when it is paid half-yearly; and at 0,985 per cent. when it is paid quarterly: That is; supposing money improved at a rate of half-yearly or quarterly interest, which, instead of being a half or a quarter of the yearly interest, is only that half-\nhalf-yearly or quarterly payment which, in consequence of being laid up and improved at compound interest, will in a year amount to the sum that makes the yearly interest. It is obvious that this cannot be the proper method of computing these values. But not to insist on this; I will next state the different values of the second sort of annuities; or of life-annuities, according as they are supposed to be payable yearly, half-yearly, quarterly, or momently.\n\nLet \\( r \\) as before be the interest of \\( 1 \\£ \\) for a year; \\( n \\) the complement of a given life\\(^{(a)}\\); \\( y, b, q, \\) and \\( m, \\) the values respectively of an annuity certain for \\( n \\) years payable yearly, half-yearly, quarterly, or momently; \\( p \\) the perpetuity; \\( r \\) the present value of an annuity on a life whose complement is \\( n, \\) payable yearly; \\( h \\) the value of the same annuity payable half-yearly; and \\( q \\) and \\( m \\) the values of the same annuity payable quarterly and momently.\n\n\\(^{(a)}\\) The complement of a life is, in Mr. de Moivre's hypothesis, the number of years it wants of 86. In all other cases, it is double the expectation of a life; that is, it is double the quotient (diminished by \\( \\frac{1}{x} \\) unity) arising from dividing the sum of all the living in a table of observations from the age (inclusive) of the given life to the extremity of life, by the number of the living at that age. See Essay I. in my Treatise on Reversionary Payments.\nThen, \\( Y = P - \\frac{1+r}{r_n} \\times y \\).\n\n\\[ H = P - \\frac{1+r}{nr} \\times b. \\]\n\n\\[ Q = P - \\frac{1+r}{nr} \\times q. \\]\n\n\\[ M = P - \\frac{m}{nr}. \\]\n\n**EXAMPLE I.**\n\nLet the life be supposed of the age of 36. The complement of such a life is 50, according to Mr. DE MOIVRE's hypothesis; and also very nearly, according to the Breflaw and the Northampton tables of observations. Therefore, \\( n \\) will be 50. Let the rate of interest be 4 per cent, or \\( r = 0.04 \\). \\( P = 25 \\). \\( y = 21,482 \\). \\( b = 21,549 \\). \\( q = 21,582 \\). \\( m = 21,616 \\). See p. 111.\n\nTherefore, \\( Y = 25 - \\frac{1.04}{50 \\times 0.04} \\times 21,482 = 13,829 \\)\n\n\\[ H = 25 - \\frac{1.02}{50 \\times 0.04} \\times 21,549 = 14,010 \\]\n\n\\[ Q = 25 - \\frac{1.01}{50 \\times 0.04} \\times 21,582 = 14,101 \\]\n\n\\[ M = 25 - \\frac{21,616}{50 \\times 0.04} = 14,191 \\]\n\n**EXAMPLE II.**\n\nLet the life be supposed of the age of 61. The complement of this life is 25 by Mr. DE MOIVRE's hypoth-\nfor the Valuation of Life-annuities.\n\nfis and the Northampton table of observations. Therefore, interest supposed at 4 per cent.\n\n\\[ Y = 25 - \\frac{1.04}{25 \\times 0.04} \\times 15,622 = 8,753 \\]\n\n\\[ H = 25 - \\frac{1.02}{25 \\times 0.04} \\times 15,712 = 8,973 \\]\n\n\\[ Q = 25 - \\frac{1.01}{25 \\times 0.04} \\times 15,769 = 9,072 \\]\n\n\\[ M = 25 - \\frac{15.801}{25 \\times 0.04} = 9,199 \\]\n\nThe different values, given by these theorems, of life-annuities payable yearly, half-yearly, and quarterly, suppose nothing to be due to an annuitant for that year, half-year, or quarter, in which he shall happen to die. If, on the contrary, he is to be entitled to such part of the annuity as shall be proportioned to the time which shall happen to intervene between his death and the time when the payment immediately preceding his death became due; or in other words, if the annuity is an annuity secured by land, \\( \\frac{y}{2n} \\) must be added to the first theorem in order to obtain the value of such an annuity payable yearly. And in like manner, \\( \\frac{b}{4n} \\) must be added to the second theorem to obtain the value of the same annuity payable half-yearly: and \\( \\frac{q}{8n} \\) to the third theorem, to obtain its value payable quarterly.\n\nThe value, therefore, in the first example, of an annuity payable yearly on a life aged 36 being 13,829; its value, if secured by land, or to be enjoyed to the last moment of life.\nlife, will be $13,829 + \\frac{21,482}{100} = 14,043$. If secured by land and payable half-yearly, its value will be $14,010 + \\frac{21,549}{200} = 14,117$. If secured by land and payable quarterly, its value will be $14,010 + \\frac{21,582}{400} = 14,155$. The like values in the second example are $9,065$, $9,130$, and $9,151$.\n\nLife-annuities payable monthly or weekly may be considered as of the same value with annuities payable momentily; and it is evident, that they must be enjoyed nearly to the last moment of life.\n\nFrom these rules and examples it may be gathered, that the difference between the values of annuities on lives payable yearly, half-yearly, quarterly, and momently, increases continually with the ages; but, if not secured by land, this difference can never be so great as a quarter of a year's purchase in the case of annuities payable yearly and half-yearly; three-eighths of a year's purchase in the case of annuities payable yearly and quarterly; and half a year's purchase in the case of annuities payable yearly and momentily.\n\nMr. Simpson, in his Treatise on the Doctrine of Life-annuities, p. 78, and in his Select Exercises, p. 283, hath given a quarter of a year's purchase as the addition always to be made to the value of a life-annuity payable yearly, in order to obtain its value payable half-yearly; and three-eighths of a year's purchase, if its value payable quarterly is required. But it appears, that these are too large additions; and, whatever be the rate of interest,\nor the number of lives, a fifth of a year's purchase will be generally more than a sufficient addition, if the value of the annuity is desired payable half-yearly; and three-tenths of a year's purchase, if the value of the annuity is desired payable quarterly. Mr. de Moivre's rules, in p. 85 of his Book on Life-annuities, for finding the values of life-annuities payable half-yearly and quarterly from their values payable yearly, are still less correct; for they suppose the difference between these values the same, whether the annuities are life-annuities, or annuities certain.\n\nMr. Dodson, in the first question in the third volume of his Mathematical Repository, hath given a rule for finding the value of an annuity secured by land and payable yearly, which coincides with that here given; and Mr. de Moivre, in p. 338. of his Treatise on the Doctrine of Chances, hath given a theorem for this purpose, which also brings out nearly the same answers. But Mr. Simpson, in prob. I. p. 323. of his Select Exercises, makes the excess of the value of such an annuity above the value of an annuity payable yearly, but not secured by land, double to the same excess derived from Mr. Dodson's and Mr. de Moivre's rules. The truth is, that Mr. Dodson's rule gives the exact value; and that Mr. Simpson's problem gives the value, not of an annuity secured by land and payable yearly, but of an annuity secured by land and payable momently; and also, that his method of solution implies a rate of interest somewhat less when the annuity is payable momently than when it is payable yearly.\nBut to prevent all perplexity on this subject, I will subjoin the following investigations, which will be easily understood by those who are acquainted with the common methods of calculating the values of life-annuities.\n\nLet \\( r \\), as before, be the interest of £1 for a year. Then the present value of £1 payable at the end of one year, two years, three years, &c. will be \\( \\frac{1}{1+r} \\), \\( \\frac{1}{(1+r)^2} \\), \\( \\frac{1}{(1+r)^3} \\), &c. respectively. And the present value of an annuity certain for \\( n \\) years payable yearly is the sum of this series continued to \\( n \\) terms\\(^{(b)}\\), or \\( \\frac{1}{r} - \\frac{1}{r \\times (1+r)^n} = P - \\frac{1}{r \\times (1+r)^n} = y \\).\n\nIn like manner, the present value of half £1 (that is of \\( \\frac{1}{2} \\times £1 = £0.5 \\)) payable at the end of half a year, a year, a year and a half, &c. reckoning half-yearly interest at half the annual interest, is \\( \\frac{0.5}{1+\\frac{r}{2}} \\), \\( \\frac{0.5}{1+\\left(\\frac{r}{2}\\right)^2} \\), \\( \\frac{0.5}{1+\\left(\\frac{r}{2}\\right)^3} \\), &c. And the present value of an annuity certain payable half-yearly for \\( n \\) years, each payment to be half the yearly payment, is the sum of this series continued to \\( 2n \\) terms; or,\n\n\\[\n\\frac{0.5}{r} - \\frac{0.5}{r \\times (1+\\frac{r}{2})^{2n}} = P - \\frac{1}{r \\times (1+\\frac{r}{2})^{2n}} = b.\n\\]\n\n(b) In the postscript it will be proved, that the sum of \\( n \\) terms of the series \\( \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3} + \\frac{1}{a^4} \\), &c. is \\( \\frac{1}{a-1} - \\frac{1}{a^n \\times a-1} \\). Substitute \\( 1+r \\) for \\( a \\), and it will appear, that the sum of \\( n \\) terms of the series \\( \\frac{1}{1+r} + \\frac{1}{(1+r)^2} + \\frac{1}{(1+r)^3} \\), &c. is \\( \\frac{1}{r} - \\frac{1}{r \\times (1+r)^n} \\).\n\nBy\nfor the Valuation of Life-annuities.\n\nBy the same steps it will appear, that the present value of an annuity certain for $n$ years to be received in quarterly payments, each a quarter of the annual payment, is\n\n$$\\frac{1}{4} \\left( \\frac{1}{r} - \\frac{1}{r \\times 1 + \\frac{r}{4}} \\right)^{4n} = P - \\frac{1}{r \\times 1 + \\frac{r}{4}}^{4n} = q.$$  \n\nAnd also, that the present value of an annuity certain for $n$ years, to be received in momently payments, each the same proportional part of the yearly payment that the moment is of the year, must be \n\n$$P - \\frac{1}{r \\times 1 + \\frac{r}{1000}, \\&c.}^{1000, \\&c., n}.$$  \n\nBut, by the binomial theorem,\n\n$$1 + \\frac{r}{1000, \\&c.}^{1000, \\&c., n} = 1 + r^n + \\frac{r^2 n^2}{2} + \\frac{r^3 n^3}{2 \\times 3} + \\frac{r^4 n^4}{2 \\times 3 \\times 4}, \\&c.$$  \n\nwhich series approximates indefinitely to that number of which $rn$ is the hyperbolic logarithm, by prob. 1. sect. xi. vol. II. of Mr. Simpson's Fluxions; or by prop. 1.p.40. of his Treatise on Trigonometry. Therefore,\n\n$$P - \\frac{1}{r \\times 1 + \\frac{1}{1000, \\&c.}}^{1000, \\&c., n} = P - \\frac{1}{rN} = M,$$  \n\nas explained before.\n\nSee p. 110.\n\nIf the value of an annuity of £1 for $n$ years is required payable half-yearly, and the half-yearly interest of £1, instead of being half the yearly interest (or $\\frac{r}{2}$), is supposed to be $\\frac{1}{1+r^{\\frac{1}{2}}} - 1$; the answer will be\n\n$$\\frac{0.5}{1+r^{\\frac{1}{2}}} + \\frac{0.5}{1+r} + \\frac{0.5}{1+r^{\\frac{3}{2}}} + \\frac{0.5}{1+r^2}, \\&c.$$  \n\ncontinued to $2n$ terms =\n\\[\n= \\frac{0.5}{1 + r} - \\frac{0.5}{(1 + r)^2} = 1 - \\frac{1}{1 + r} \\times \\frac{1}{2 \\times (1 + r)^2}\n\\]\n\nwhich value is to \\(1 - \\frac{1}{1 + r} \\times \\frac{1}{r}\\) (the value of the same annuity payable yearly supposing the yearly interest of £1 to be \\(r\\)) as \\(\\frac{\\frac{1}{2}}{1 + r^{\\frac{1}{2}}} - 1\\) to \\(\\frac{1}{r}\\), agreeably to Mr. de Moivre's deduction in his Treatise on Life-annuities, p. 125, fourth edit.\n\nThis implying, in the case of annuities payable half-yearly, a smaller interest than half the yearly interest (for \\(\\frac{1}{1 + r^{\\frac{1}{2}}} - 1\\) is less than \\(\\frac{r}{2}\\)) gives the difference between their value and the value of annuities payable yearly, greater than the truth.\n\nBut to return to the investigation of the theorems in the former part this paper.\n\nLet us again call \\(p\\) the perpetuity, and \\(y\\) the value of an annuity certain for \\(n\\) years and payable yearly; it is well known that the value of £1 payable yearly on a life whose complement is \\(n\\) is (supposing an equal decrement of life)\n\n\\[\n\\frac{n-1}{n \\times 1 + r} + \\frac{n-2}{n \\times 1 + r^2} + \\frac{n-3}{n \\times 1 + r^3}, \\quad \\text{&c. continued to } n \\text{ terms}\n\\]\n\n\\[\n= p - \\frac{1 + r}{nr} \\times y = Y.\n\\]\n\nIn\n\n(c) See Mr. de Moivre's Treatise on Life-annuities, p. 99, fourth edit. Or his Doctrine of Chances, p. 311, third edition. Or Mr. Dodson's Mathematical Repository, vol. II, p. 137. Or Mr. Simpson on Annuities and Reversions, p. 14. In consulting these writers, care should be taken to remember, that they use \\(r\\) to denote the principal and interest of £1 for a year; whereas it hath been\nfor the Valuation of Life-annuities.\n\nIn like manner, supposing money improved at an half-yearly interest equal to half the yearly interest, or to \\( \\frac{r}{2} \\), the value of the same annuity payable half-\n\nbeen most convenient for me in these observations to make \\( r \\) stand only for the interest. In these writers, therefore, \\( r \\) signifies the same with \\( 1 + r \\) in this paper; and \\( r - 1 \\) the same with \\( r \\).\n\nIt is said above, that the value of an annuity payable yearly, on a life whose complement is \\( n \\), is \\( \\frac{n-1}{n \\times 1+r} + \\frac{n-2}{n \\times 1+r^2} + \\frac{n-3}{n \\times 1+r^3} \\), &c. continued to \\( n \\) terms.\n\nThis expression is equal to \\( \\frac{n}{n \\times 1+r} + \\frac{n}{n \\times 1+r^2} + \\frac{n}{n \\times 1+r^3} \\), &c. (\\( n \\))\n\n\\[\n= \\frac{1}{n} \\left( \\frac{1}{1+r} + \\frac{2}{1+r^2} + \\frac{3}{1+r^3} \\right), \\text{&c.} (n). \\]\n\nBut \\( \\frac{n}{n \\times 1+r} + \\frac{n}{n \\times 1+r^2} + \\frac{n}{n \\times 1+r^3} \\)\n\n&c. \\( = \\frac{1}{1+r} + \\frac{1}{1+r^2} + \\frac{1}{1+r^3}, \\text{&c.} \\) \\( = \\frac{1}{r} \\left( \\frac{1}{r \\times 1+r^n} \\right) = y \\) (see p. 118.) Also,\n\nby a theorem which will be demonstrated in the postscript, and putting \\( a \\) for any given quantity, \\( \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3}, \\text{&c.} \\) continued to \\( n \\) terms \\( = \\)\n\n\\[\n= \\frac{a}{a-1} - \\frac{n}{a^n} \\times \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{a}{a-1}. \\]\n\nTherefore, if \\( 1 + r \\) is substituted for \\( a \\),\n\nand \\( y \\) for \\( \\frac{1}{r} \\left( \\frac{1}{r \\times 1+r^n} \\right) \\), the sum (multiplied by \\( \\frac{1}{n} \\)) of \\( n \\) terms of the series\n\n\\[\n= \\frac{1}{1+r} + \\frac{2}{1+r^2} + \\frac{3}{1+r^3}, \\text{&c.} \\] will come out \\( \\frac{1+r}{nr} \\times y - \\frac{1}{r} \\times \\frac{1}{1+r^n}; \\text{or} \\)\n\n\\[\n= \\frac{1+r}{nr} \\times y + y - \\frac{1}{r}. \\]\n\nTherefore, the series \\( \\frac{1}{n} \\times \\frac{1}{1+r} + \\frac{2}{1+r^2} + \\frac{3}{1+r^3}, \\text{&c.} \\) continued to \\( n \\) terms and subtracted from the series \\( \\frac{1}{1+r} + \\frac{1}{1+r^2} + \\frac{1}{1+r^3}, \\text{&c.} \\) continued to \\( n \\) terms; that is, the value of the life will be \\( y - \\frac{1+r}{nr} \\times y + y - \\frac{1}{r} = \\)\n\n\\[\n= \\frac{1}{r} - \\frac{1+r}{nr} \\times y = p - \\frac{1+r}{nr} \\times y = y. \\]\n\nVol. LXVII. R yearly\nyearly, is \\(\\frac{1}{2} \\times \\frac{n - \\frac{1}{2}}{n \\times 1 + \\frac{r}{2}} + \\frac{n - 1}{n \\times 1 + \\frac{r}{2}} + \\frac{n - \\frac{3}{2}}{n \\times 1 + \\frac{r}{2}}, \\&c.\\) continued to\n\n\\[\n\\frac{2n \\text{ terms}}{\\frac{1}{2} \\times \\frac{n}{n \\times 1 + \\frac{r}{2}} + \\frac{n}{n \\times 1 + \\frac{r}{2}} + \\frac{n}{n \\times 1 + \\frac{r}{2}}, \\&c. \\text{ continued to}}\n\\]\n\n\\[\n\\frac{2n \\text{ terms}}{\\frac{1}{2} \\times \\frac{\\frac{1}{2}}{n \\times 1 + \\frac{r}{2}} + \\frac{1}{n \\times 1 + \\frac{r}{2}} + \\frac{\\frac{3}{2}}{n \\times 1 + \\frac{r}{2}}, \\&c. \\text{ continued to}}\n\\]\n\nto \\(2n\\) terms. But the sum of the first of these two series, or\n\nof \\(\\frac{1}{2} \\times \\frac{n}{n \\times 1 + \\frac{r}{2}} + \\frac{n}{n \\times 1 + \\frac{r}{2}}, \\&c. (= \\frac{1}{2} \\times \\frac{1}{1 + \\frac{r}{2}} + \\frac{1}{1 + \\frac{r}{2}}, \\&c.)\\) is \\(b\\),\n\nsee p. 118. And the sum of the second series is the same\n\nwith half the sum of the series \\(\\frac{1}{2n} \\times \\frac{1}{1 + \\frac{r}{2}} + \\frac{2}{1 + \\frac{r}{2}} + \\frac{3}{1 + \\frac{r}{2}}, \\&c. (2n)\\). But by the theorem mentioned in the last\n\nnote, the sum of \\(n\\) terms of the series \\(\\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3}, \\&c.\\) is\n\n\\[\n\\frac{a}{a-1} - \\frac{n}{a^n} \\times \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{a}{a-1}.\n\\]\n\nTherefore, if \\(1 + \\frac{r}{2}\\) is substituted for \\(a\\), \\(2n\\) for \\(n\\), and \\(b\\) for \\(\\frac{1}{r} - \\frac{1}{r^{2n}}\\), the sum of\n\nthe second series (that is, of \\(\\frac{1}{2} \\times \\frac{1}{2n} \\times \\frac{1}{1 + \\frac{r}{2}} + \\frac{2}{1 + \\frac{r}{2}} + \\frac{3}{1 + \\frac{r}{2}}, \\&c.\\)\n\n\\((2n)\\) will come out \\(\\frac{1+r}{nr} \\times b - \\frac{1}{r} \\times \\frac{1}{r^{2n}},\\) or \\(\\frac{1+r}{nr} \\times b + b - \\frac{1}{r}.\\)\n\nTherefore,\nTherefore, the second series subtracted from the first,\n\nleaves \\( \\frac{1}{r} - \\frac{1+r}{nr} \\times b = p - \\frac{1+r}{nr} \\times b = h \\), agreeably to the second theorem in p. 114.\n\nBy reasoning in the same way it may be easily found,\n\nthat \\( q = p - \\frac{1+r}{nr} \\times q \\); and \\( m = p - \\frac{1+r}{nr} \\times m = p - \\frac{m}{nr} \\), agreeably to the third and fourth theorems in p. 114.\n\nThese theorems, I have said, suppose that an annuitant is entitled to no payment for that year, half-year, or quarter, in which he dies. If, on the contrary, he is to be intitled, when he dies, to such a part of the yearly, half-yearly, or quarterly payment as shall bear the same proportion to the said payments respectively, as the intermediate time between the last payment and his death bears to the whole year, half-year, or quarter; in this case, supposing the annuity payable yearly, it is evident, since there is the same chance for his dying in one half of any year as in the other, that he will have an expectation of half a year's payment more than he would be otherwise intitled to. But the value of half £1 to be paid at the death of a person whose complement of life is \\( n \\), is \\( \\frac{1}{2} \\times \\frac{1}{n \\times 1+r} + \\frac{1}{2} \\times \\frac{1}{n \\times 1+r^2} + \\frac{1}{2} \\times \\frac{1}{n \\times 1+r^3} \\), &c., continued to \\( n \\) terms (d) \\( = \\frac{y}{2n} \\).\n\n(d) P. 118.\nIn like manner, a person who enjoys an annuity secured by land, payable half-yearly, will have an expectation of a quarter of a year's payment more than he could be otherwise intitled to; the value of which is\n\n\\[ \\frac{1}{4^n} \\times \\frac{1}{1 + \\frac{r}{2}} + \\frac{1}{1 + \\frac{r}{2}} + \\frac{1}{1 + \\frac{r}{2}}^3, \\text{ &c. continued to } 2n \\text{ terms} = \\frac{b}{4^n}. \\]\n\nBy the same reasoning it will appear, that \\( \\frac{q}{8^n} \\) is the addition to be made to the value of an annuity payable quarterly, in order to obtain its value when secured by land.\n\n**POSTSCRIPT.**\n\nIN the note p. 121. the expression \\( \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{1}{a-1} \\)\n\nis given as the sum of \\( n \\) terms of the series \\( \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3} + \\frac{1}{a^4}, \\text{ &c. to } \\frac{1}{a^n}, \\) and the expression \\( \\frac{a}{a-1}^2 - \\frac{n}{a^n} \\times \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{a}{a-1}^2, \\) is given as the sum of \\( n \\) terms of the series \\( \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3} + \\frac{4}{a^4}, \\text{ &c.} \\)\n\nThe following investigation of these theorems being very easy, will not, perhaps, be unacceptable to those who have studied this subject.\n\nPut \\( A = \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3} + \\frac{1}{a^4}, \\text{ &c. } \\frac{1}{a^n}, \\quad B = \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3} + \\frac{4}{a^4}, \\text{ &c. } \\frac{n}{a^n}. \\)\n\nThen \\( A \\times a = \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3}, \\text{ &c. to } \\frac{1}{a^{n-1}}, \\)\n\nand \\( A \\times a - 1 + \\frac{1}{a^n} = \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3}, \\text{ &c. to } \\frac{1}{a^{n-1}} + \\frac{1}{a^n} = A, \\)\nfor the Valuation of Life-annuities.\n\nand \\( A \\times a - A = A \\times \\frac{a}{a-1} = 1 - \\frac{1}{a^n} \\).\n\nTherefore, \\( A = \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{1}{a-1} \\), which is the first theorem.\n\nAgain, \\( A \\times a = 1 + \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3}, \\&c. \\) to \\( \\frac{1}{a^{n-1}} \\),\n\nand \\( B \\times a = 1 + \\frac{2}{a} + \\frac{3}{a^2} + \\frac{4}{a^3}, \\&c. \\) to \\( \\frac{n}{a^{n-1}} \\).\n\nTherefore, \\( B \\times a - A \\times a = \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3}, \\&c. \\) to \\( \\frac{n-1}{a^{n-1}} \\).\n\nTo both sides of the last equation add \\( \\frac{n}{a^n} \\), and it will appear, that\n\n\\( B \\times a - A \\times a + \\frac{n}{a^n} = \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3} + \\frac{4}{a^4}, \\&c. \\) to \\( \\frac{n-1}{a^{n-1}} + \\frac{n}{a^n} = B \\).\n\nTherefore, \\( B \\times a - B = B \\times a - 1 = A \\times a - \\frac{n}{a^n} \\); and \\( B = \\frac{A \\times a}{a-1} - \\frac{n}{a^n + 1 - a^n} \\).\n\nFor \\( A \\), in this last equation, substitute its equal, or \\( \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{1}{a-1} \\), and the resulting equation will be \\( \\frac{a}{a-1}^2 - \\frac{n}{a^n} \\times \\frac{1}{a-1} - \\frac{1}{a^n} \\times \\frac{a}{a-1}^2 = B \\), which is the second theorem.\n\nWhen \\( n \\) is infinite, all but the first terms in both these theorems vanish; and therefore, \\( \\frac{1}{a-1} \\) is the sum of the series \\( \\frac{1}{a} + \\frac{1}{a^2} + \\frac{1}{a^3}, \\&c. \\) continued infinitely; and \\( \\frac{a}{a-1}^2 \\) is the sum of the series \\( \\frac{1}{a} + \\frac{2}{a^2} + \\frac{3}{a^3}, \\&c. \\) continued infinitely.\n\nBy\nBy a like deduction, putting\n\n\\[ c = \\frac{1}{a} + \\frac{2 \\times 2}{a^2} + \\frac{3 \\times 3}{a^3} + \\frac{4 \\times 4}{a^4}, \\text{ &c. to } \\frac{n^2}{a^n}, \\]\n\nand \n\n\\[ d = \\frac{1}{a} + \\frac{2 \\times 2 \\times 2}{a^2} + \\frac{3 \\times 3 \\times 3}{a^3} + \\frac{4 \\times 4 \\times 4}{a^4}, \\text{ &c. to } \\frac{n^3}{a^n}, \\]\n\nit may be found that \n\n\\[ c = \\frac{A + 2B + I}{a - 1} - \\frac{n + 1}{a^n + 1 - a^n}, \\]\n\nand \n\n\\[ d = \\frac{A + 3B + 3C + I}{a - 1} - \\frac{n + 1}{a^n + 1 - a^n}. \\]\n\nAnd consequently, substituting the values of \\( A \\) and \\( B \\), that\n\n\\[ c = \\frac{a^2 + a}{a - 1} - \\frac{n^2}{a^n} \\times \\frac{1}{a - 1} - \\frac{2an}{a^n} \\times \\frac{1}{a - 1}^2 - \\frac{a^2 + a}{a^n} \\times \\frac{1}{a - 1}^3. \\]\n\nAnd, substituting the values of \\( A \\), \\( B \\), \\( C \\), that\n\n\\[ d = \\frac{a^3 + 4a^2 + a}{a - 1} - \\frac{n^3}{a^n} \\times \\frac{1}{a - 1} - \\frac{3an^2}{a^n} \\times \\frac{1}{a - 1}^2 - \\frac{3a^2n + 3an}{a^n} \\times \\frac{1}{a - 1}^3 - \\frac{a^2 + 4a^2 + a}{a^n} \\times \\frac{1}{a - 1}^4. \\]\n\nOr, since all but the first terms in these expressions vanish when \\( n \\) is infinite, that the sum of the series\n\n\\[ \\frac{1}{a} + \\frac{4}{r} + \\frac{9}{a^2}, \\text{ &c. continued infinitely is } \\frac{a^2 + a}{a - 1}^3; \\]\n\nand that the sum of the series\n\n\\[ \\frac{1}{a} + \\frac{8}{a^2} + \\frac{27}{a^3} + \\frac{64}{a^4}, \\text{ &c. continued infinitely is } \\frac{a^3 + 4a^2 + a}{a - 1}^4. \\]\n\nThese are all the theorems necessary for calculating the values of annuities on single lives, and on any two or three joint lives, upon the hypothesis of an equal decrement of life.\n\nSupposing \\( r \\) the interest of \\( £. 1 \\) for a year, the sum of \\( n \\) terms of the series\n\n\\[ \\frac{1}{1+r} + \\frac{1}{1+r^2} + \\frac{1}{1+r^3}, \\text{ &c. is the present value of an annuity certain for } n \\text{ years; and } \\frac{1}{1+r}. \\]\nfor the Valuation of Life-annuities.\n\n\\[\n\\frac{1}{1+r} + \\frac{2}{(1+r)^2} + \\frac{3}{(1+r)^3} + \\frac{4}{(1+r)^4}, \\quad \\text{(continued to } n \\text{ terms)}\n\\]\n\nis the present value of an annuity certain beginning with £. 1, and increasing to £. 2 the second year, to £. 3 the third year, &c.\n\nIf this last annuity is not an annuity certain for a given term, but a life-annuity, the value of it (supposing \\( n \\) the complement of life, \\( A \\) the value of an annuity certain for \\( n \\) years, \\( G \\) the value of two equal joint lives whose common complement is \\( n \\), \\( P \\) the perpetuity, and \\( p \\) the value of £. 1 to be received at the end of \\( n \\) years) will be \\( A - G \\times n + n \\times p \\times P - A \\times P \\times I + r \\).\n\n**Examples.**\n\nLet the term be forty-one years, and the rate of interest 4 per cent.\n\nThe value of an annuity of £. 1 certain for this term is £. 20.\n\nThe value of an annuity certain for the same term, and beginning with £. 1 at the end of the first year, but increasing to £. 2 at the end of the second year, to £. 3 at the end of the third year, and so on till it becomes £. 41 at the end of the forty-first year, is (by the second theorem, putting \\( 1+r \\), or 1.04 for \\( a \\)) £. 214 10s.\n\nThe value of an annuity increasing at this rate without end is £. 650.\nIf the annuity is a life-annuity which is to increase at the rate of £1 every year during the whole possible continuance of a life whose complement is forty-one years (or whose age is about forty-five) the present value of it will be, by the last theorem, £133 14s.; taking the probability of the duration of human life according to Mr. de Moivre's hypothesis; which agrees nearly with Dr. Halley's Table of Observations.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106270.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 33112,
+    "total-output-tokens": 10766,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1171,
+        2
+      ],
+      [
+        1171,
+        2097,
+        3
+      ],
+      [
+        2097,
+        2691,
+        4
+      ],
+      [
+        2691,
+        4236,
+        5
+      ],
+      [
+        4236,
+        5705,
+        6
+      ],
+      [
+        5705,
+        6666,
+        7
+      ],
+      [
+        6666,
+        8086,
+        8
+      ],
+      [
+        8086,
+        9600,
+        9
+      ],
+      [
+        9600,
+        11186,
+        10
+      ],
+      [
+        11186,
+        12965,
+        11
+      ],
+      [
+        12965,
+        14512,
+        12
+      ],
+      [
+        14512,
+        16152,
+        13
+      ],
+      [
+        16152,
+        18469,
+        14
+      ],
+      [
+        18469,
+        20225,
+        15
+      ],
+      [
+        20225,
+        21635,
+        16
+      ],
+      [
+        21635,
+        23305,
+        17
+      ],
+      [
+        23305,
+        24890,
+        18
+      ],
+      [
+        24890,
+        26752,
+        19
+      ],
+      [
+        26752,
+        28076,
+        20
+      ],
+      [
+        28076,
+        28497,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106270",
+    "title": "Short and Easy Theorems for Finding, in All Cases, the Differences between the Values of Annuities Payable Yearly, and of the Same Annuities Payable Half-Yearly, Quarterly, or Momently. By the Rev. Richard Price, D. D. F. R. S. In a Letter to Sir John Pringle, Bart. P. R. S.",
+    "authors": "Richard Price",
+    "year": 1776,
+    "volume": "66",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/106270"
+  }
+}

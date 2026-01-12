@@ -1,0 +1,79 @@
+{
+  "id": "d61b31027f33ec57472d5084d3cee002ad7ca517",
+  "text": "in respect to its Audibility; but much more mellow, sweet, and grave at least two or three Notes deeper than it was before; as was observed by some of the Society then present.\n\nV. An Explanation of the Figures of a Pagan Temple and unknown Characters at Cannara in Sallet. By Mr. Alexander Stuart.\n\nFig. I. THE rocky Mountain Cannara in the Island of Sallet, belonging to the Portuguese, with the Temple and Caverns.\n\nA. The Temple and Sacrificing-place, like the Choir of a Church, arched and supported by 45 Pillars, all cut out of the Rock.\n\nB. The Altar in the furthermost end of it, also cut out of the Rock; with a narrow Canal about the foot of it, I suppose, designed to be filled with Water.\n\nC. The unknown Characters engraven on the Rock, on each side of the square Entry; represented in Fig. 2.\n\nD. D. D. &c. The various irregular Paths of Ascent, some cut out in Steps as Stairs.\n\n1, 2, 3. &c. The various Caverns, mostly of a square figure; some large, others smaller; cut out of the Rock; whose Roofs are cut plain, like a plaster'd Room: At the Door of each without, is a large Cistern or two, cut out of the Rock, full of Rain water; at least, I could not perceive them to be Springs.\n\nUpon the sides of the Doors of some of the Caverns, are Characters like those of the Temple.\n\nFig. II. Characters engraven on each side of the Door or Entry of the Pagan Temple of Cannara. See Philos. Transact. Numb. 201. where some of these Characters are engraven.\n\nLONDON: Printed for H. Clements, at the Half-Moon in St. Paul's Church-yard. 1709.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103273.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6364,
+    "total-output-tokens": 534,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1554,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103273",
+    "title": "An Explanation of the Figures of a Pagan Temple and Unknown Characters at Cannara in Salset. By Mr. Alexander Stuart",
+    "authors": "Alexander Stuart",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103273"
+  }
+}

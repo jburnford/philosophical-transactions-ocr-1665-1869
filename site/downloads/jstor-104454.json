@@ -1,0 +1,59 @@
+{
+  "id": "80c9e55104549a5e59abde6121c838f19e65f40c",
+  "text": "The CONTENTS.\n\nXII. A Copy of a Letter from the Rev. Mr. Richmond, to —— Leigh, Esq; of Adlington in the County of Chester, concerning a moving Mass in the Neighbourhood of Church-Town in Lancashire: Communicated by Edward Milward, M. D. F. R. S. 282.\n\nXIII. A brief Inquiry, by Mr. John Ward, F. R. S. & Rhct. Prof. Gresh. into the Reading of Two Dates in Arabian Figures, cut upon Stones which were found in Ireland; communicated to the Royal Society, on Nov. 10. 1743. and Decem. 6. 1744. 283.\n\nXIV. A Letter from the Rev. Henry Miles, D. D. F. R. S. to Mr. Henry Baker, F. R. S. of firing Phosphorus by Electricity. 290.\n\nXV. An Observation of a Fracture of the Os Humeri by the Power of the Muscles only; by the late Claudius Amyand, Esq; Surgeant Surgeon to His Majesty. 293.\n\nXVI. An Account of an extraordinary Case of the Bones of a Fetus coming away by the Anus; communicated by John Still Winthrop, Esq;. 304.\n\nXVII. A Letter from Charles Jernegan, M. D. Lic. Coll. Med. Londin. to Cromwell Mortimer, M. D. Secr. R. S. concerning an extraordinary Cystis in the Liver, full of Water. 305.\n\nXVIII. Regiae Societatis Anglicanae Scientiarum quaedam Electricitatis recens observata exhibet Jo. Henricus Winkler, Gr. &c Lat. Literarum Prof. Publ. Ordin. & Acad. Lipsiensis h. t. Rector. 307.\n\nXIX. A Description of a Machine to blow Fire by the Fall of Water; by Mr. James Stirling, F. R. S. 315.\n\nXX. A Letter from Dr. John Lining, at Charles-Town in South Carolina, to James Jurin, M. D. Coll. Med. & Reg. Soc. Sodal. serving to accompany some Additions to his Statical Experiments printed in No. 470. of these Transactions. 318.\n\nXXI. A Letter from Mr. Henry Baker, F. R. S. to the President, concerning an extraordinary large fossil Tooth of an Elephant. 331.\n\nXXII. An Account of an extra-uterine Conception; by Starkey Myddelton, M. D. 336.\n\nERRATA.\n\nNo. 474. In the Contents Art. IX. and in p. 166. for Wintler read Winkler.\n\nIbid. p. 166. l. penult. N. B. 'Tab. II. Fig. 4.' refers to a Figure in the Author's original Book.\n\nIbid. p. 201. The Draught of the Roman Inscription, there mentioned, is said to be taken by a Scale of one Fourth of the Original; but ibid. in Tab. II. Fig. 9. it is reduced to near one Sixth.\n\nNo. 475. p. 311. l. 1. after Vas vitreum add Fig. 5.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104454.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 823,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2286,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104454",
+    "title": "Errata",
+    "authors": null,
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104454"
+  }
+}

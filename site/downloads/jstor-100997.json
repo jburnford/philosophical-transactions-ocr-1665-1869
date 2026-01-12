@@ -1,0 +1,59 @@
+{
+  "id": "792ce75b2613172e7e8918af2786da11e545f020",
+  "text": "posite one to another. Then in another Column write downe\nthe difference between the time taken by Observation, and\nthat given by the Watches or one of them. Then, one Column\nfor the Latitude: one, for the Longitude by the Ordinary\nway of reckoning: another, for the Longitude taken from the\ndifference between the time found by Observation, and that given\nby the Watches: and at last, a large Column to note the\nAccidentes, that befell the Watches, &c.\n\nAn Extract of a Letter\nWritten by Dr. Edward Brown from Vienna in Austria March\n3. 1669. concerning two Parhelia's or Mocksuns, lately seen in\nHungary.\n\nI received the account of the Parhelia's, seen January 30th\nlast, st.n.about one of the clock in the afternoon, over the City\nof Cassovia in Hungary. It was communicated to me from a\nLearn'd Jesuit, call'd Father Michel, who lives at Pressburg, but\nis now in this City. There were two Parhelia's, one on each\nside of the true Sun, and they were so refulgent, that the na-\nked Eye could not bear the brightness thereof. One of them\n(the lesser of the two) began to decay before the other, and\nthen the other grew bigger, and continued well nigh two hours,\nprojecting very long rays from itself. They were both on that\npart, which was towards the Sun, tinged with a pale yellow,\nthe other parts being somewhat fuscous. There were at the\nsame time seen several Rainbows, together with the Segment\nof a great white Circle, of a long duration, passing through the\ntwo Parhelia's and the Sun: and all this at a time, when the\nAir was almost free from Clouds, though here and there were\nscatter'd some very thin ones.\n\nA Relation\nOf the Conferences held at Paris in the Academy Royal for the\nimprovement of the Arts of Painting and Sculpture, as it is\nfound in the Journal des Scavans.\n\nThese Conferences are held once in a Month by divers Able\nMasters making reflexions and observations upon the rarest\npieces in the Cabinet of his Most Christian Majesty, the Esta-\nblisher",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100997.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 551,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1975,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100997",
+    "title": "An Extract of a Letter Written by Dr. Edward Brown from Vienna in Austria March 3. 1669. Concerning Two Parhelia's or Mocksuns, Lately Seen in Hungary",
+    "authors": "Edward Brown",
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/100997"
+  }
+}

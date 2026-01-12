@@ -1,0 +1,79 @@
+{
+  "id": "ab224faf29724b5ca90a8eb30b55122b18596cd4",
+  "text": "Waller Esq; Reg. S. Secret. (9.) An account of a Ruminating Man, lately Living at Bristol, given in to the R. Society by the Experienced and learned Frederick Slare, M. D. and Reg. Soc. S. (10.) A Letter from that incomparable Botanist Mr. John Ray, R. S. Soc. giving an account of the Phytographia of Dr. Leonard Plukenet, M.D.lately Published.\n\nAn Account of a large and curious Map of the Great Tartary, lately Publish'd in Holland, by Mr. NICHOLAS WITSEN, being an Extract of a Letter from the Author thereof, to the Honourable Sir ROBERT SOUTHWELL Knt. and President of the Royal Society.\n\nThe Honourable NICHOLAS WITSEN late Ambassadour into England, and now one of the Principal Burgomasters of Amsterdam, having sent several of his New Maps of Tartary to the Fellows of the Royal Society, the Honourable their President was pleased to write unto him as followeth\n\nSIR,\n\nI have lately had a great Effect of your Bounty in the Maps of Tartary. this is Columbus like, the Discovery of a New World; at least Tydings of those Parts, which from the beginning have layn in the Dark. But the Enterprise being so vast, and the success so unexpected; the Publick are very impatient to be told by what Magick you have been able to master this Work. For it looks in one Part no less difficult then a Geographical Description of the Bottom of the Sea; I mean as to those impenetrable Desarts, the endless Boggs and Marshes, the inaccessible Mountains and those mighty Tracts, which by their Climate are rendered uninhabitable; since all these seem by Nature to have been condemn'd to an everlasting Solitude.\nNow for the rest, when I consider that the Caravans passing between Muscovy and China are not frequent; that they are confin'd to certain Paths and Lines of Trade; That the Merchants and common Travellers mind nothing but the Security and Certainty of the Journey, and the Profit that ensues; And that those who should inform them of Extents and Boundaries, are a Rambling and uncultivated Generation, and of various Languages. If after all these Impediments, you shall yet be able to shew the Credibility of your Survey, you need think no more of Fame, but only pray for Humility.\n\nTo which Mr. Witsen was pleased to Answer to the Effect following.\n\nSir,\n\n'Tis almost 28 years since I Travelled into Russia, and being there merely for my own Satisfaction, I not only Conversed with the Inhabitants of those Countries, but with Tartars of all sorts. There I grew first informed not only in the Situation of those Parts, but of such Countries as lay very remote. I have not ceased from that time, by various Methods I have found, to send Letters unto, and receive Answers from the most Northern, and North-East parts of the World. For I have maintain'd a constant Correspondence in Mosco, Africcan, Georgia, Ispahan, Polonia, and Constantinople, I have had Letters every year from Pekin, the chief City of China. I have gathered Volumes of Journals and Registers, which set forth the Names of Mountains, Rivers, Cities and Towns, together with a vast number of Drafts made by my own Order, which describe the Territories that I have mentioned.\n\n'Tis from this Fund, which has been gathering for so many years, and by comparing and adjusting all these Materials, and by preserving without intermission therein, that the Map is made up.\nAfter all, I am far from thinking it has no faults, 'tis very well if such as are found, be not many, or very gross, I confess my own greatest doubts are about the stretching of the Sea-Coasts. And 'tis therefore that I express them in a faint and pale Colour, to signify the uncertainty thereof. But as to the Latitudes, I have more assurance of their being well noted, and suspect but little mistakes, if there be any therein.\n\nI am yet in suspense whether the North-East Point which you see bearing off in the Map, may run quite on to America; or how far thither-ward it may reach.\n\nI formerly thought Nova Zembla had been a Continent, and when I wrote my Opinion herein to Mr. Oldenbourg, he put it into one of his Transactions. But I have since been better informed, and retracted that Error. And whereas the late Monsieur Vossius would needs persuade himself, as well as he did others to their Ruin, that there was a passage to Japan by the North, and that the Tartarian Countreys behind Nova Zembla did immediately decline towards the South; I did always oppose it, and think I can even demonstrate the Impossibility thereof. So that what he wrote to encourage Mariners to that attempt, was even directing them to the point of Death, as it afterwards ensu'd.\n\nMy intention is, if I live, and may have leisure for it, to make several particular Maps of the sundry Countries contained in this General One, and to give the Descriptions which appertain to each.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101920.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1237,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1604,
+        2
+      ],
+      [
+        1604,
+        3338,
+        3
+      ],
+      [
+        3338,
+        4802,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101920",
+    "title": "An Account of a Large and Curious Map of the Great Tartary, lately Publish'd in Holland, by Mr. Nicholas Witsen, being an Extract of a Letter from the Author thereof, to the Honourable Sir Robert Southwell Knt. and President of the Royal Society",
+    "authors": "Nicholas Witsen",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101920"
+  }
+}

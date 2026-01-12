@@ -1,0 +1,69 @@
+{
+  "id": "7867228acbc923f3703daabdf84eacaf358486cd",
+  "text": "CXV. An Account of an Earthquake felt at Colen, Leige, Maestricht, &c. on the 19th of November, 1756: In a Letter from Mr. Abraham Trembley, F. R. S. to Thomas Birch, D. D. Secretary to the Royal Society. Translated from the French.\n\nSIR,\n\nHague, Nov. 26, 1756.\n\nRead Dec. 16.\n\nThere was felt, on the 19th of this month, at three in the morning, a shock of an earthquake, at Colen, Leige, Maestricht, in the country of Limburg, and, as appears, in all that between the Meuse and the Rhine.\n\nThis shock continued but a short time; and there is no account at present of any damage done by it.\n\nOne of almost the same kind was felt in the same places on the 3d of June.\n\nYou saw by the account, which I sent you on the 11th of May, that earthquakes were very frequent in this country in the beginning of this year. The shock, which has been lately felt in these parts, as well as in Portugal, shews, that the cause of earthquakes is still active.\n\nI have not yet procured the sequel of the observations made in Valais on that subject.\n\nI know, that persons very attentive observed, that in the neighbourhood of Lisbon for several days after the 1st of November 1755, those, who lay upon the ground,\nground, perceived a motion under them, which they compared to the beating of the pulse. They mention likewise, that after this motion ceased to be felt, there was perceived another, which they compare to that felt in a boat on a river, the current of which is very slow. Those only, who lay on the ground, were sensible of this motion; for such, as were sitting on chairs, or standing, perceived nothing of it.\n\nThis is the whole, Sir, of what I have learned on this subject. I leave you to judge, whether it be worth communicating to the Royal Society; whom I request you to assure of my most profound respect, and of my desire to merit the honour done me of admitting me into their body.\n\nI am with the greatest regard,\n\nSir,\n\nYour most humble\n\nand most obedient servant,\n\nA. Trembley.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105009.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 593,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1196,
+        2
+      ],
+      [
+        1196,
+        1983,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105009",
+    "title": "An Account of an Earthquake Felt at Colen, Leige, Maestricht, &c. on the 19th of November, 1756: In a Letter from Mr. Abraham Trembley, F. R. S. to Thomas Birch, D. D. Secretary to the Royal Society. Translated from the French",
+    "authors": "Abraham Trembley",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105009"
+  }
+}

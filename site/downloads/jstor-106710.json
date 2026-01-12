@@ -1,0 +1,59 @@
+{
+  "id": "bd37b7ef31fb9b3fe2c7789271e764613507fabd",
+  "text": "IX. Observations of the Transit of Mercury, May 4, 1786, at Dresden. By M. Köhler, Inspector of the Mathematical Repository of the Elector of Saxony; communicated by the Count de Brühl, F. R. S.\n\nRead December 21, 1786.\n\nApparent time.\n\n9 21' 54\" beginning of the planet's egress, doubtful.\n9 25' 23\" complete egress, or last contact, very certain.\n\nThe telescope with which Mr. Köhler observed, was a 9-feet refractor of Dollond's, magnifying 104 times.\n\nHe has made a comparison of his observation with that of Alexander Aubert, Esq. from which he has inferred the longitude of Dresden in the following manner.\n\n| Exterior contact observed by Mr. Aubert at | Mean time. |\n|------------------------------------------|------------|\n| Equation                                  | + 3 28,3   |\n| Difference of parallax                    | + 0 13,4   |\n\n| Apparent time at Loam-pit Hill            | 8 30 46,7  |\n| Loam-pit Hill west of Greenwich           | + 0 5,4    |\n| Apparent time at Greenwich                | 8 30 52,1  |\n| Apparent time at Dresden                  | 9 25 23,0  |\n\nLongitude of Dresden east of Greenwich 54 30,9",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106710.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 388,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1134,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106710",
+    "title": "Observations of the Transit of Mercury, May 4, 1786, at Dresden. By M. Kohler, Inspector of the Mathematical Repository of the Elector of Saxony; Communicated by the Count De Bruhl, F. R. S.",
+    "authors": "M. Kohler, Count De Bruhl",
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106710"
+  }
+}

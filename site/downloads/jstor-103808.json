@@ -1,0 +1,69 @@
+{
+  "id": "162baef7a33e9a7dffec2609f254ca9ab71e9ecb",
+  "text": "IV. Two Cases of Insects voided by the urinary Passage, communicated in a Letter to the Publisher, by Dr. Daniel Turner, Coll. Med Lond. Lic.\n\nDec. 6. 1725.\n\nOn the 24th of November last, a poor Woman, in my Neighbourhood, came to crave my Advice for her Grand-child, an Infant of about 16 Months old, bringing with her a Worm, which she told me the Apothecary had just then drawn out of the Child's Penis, who had for several Days before labour'd under great Uneasiness; which (as usually term'd by these People) she call'd Convulsions of the Bowels. The Infant was continually drawing up the lower Limbs, and straining at both Sphincters; the Urine seemed to pass with Difficulty for some Days, till at last there came on a total Suppression, and the Worm, advancing, shew'd itself at the Extremity of the Vagina, when the Apothecary was called up to help them. I examined the Insect, and found it measur'd above 4 Inches, resembling the Worms usually excre't per Podicem, of the Earth-worm Kind, but whiter; which made me think at first they had been mistaken, and that the same had been that Way excreted. Having directed what I thought proper, I went to the Apothecary, who has the Worm now in his Custody, to be better inform'd. He assures me, that, when he came to the Child, he saw a preternatural Body, which at first he knew not what to make of, hanging half an Inch out of the Glans, and lying double in the Passage: Perceiving it farther advancing, he took hold of it, and with little Difficulty drew forth the same.\nThe Summer before the last, a Woman show'd me an Insect of the Maggot Species, with a crusty red Galea over the Snout, and a crescent or forked Tail, which she had just then voided by the urinary Passage.\n\nV. An Account of a new Machine, called the Marine Surveyor, contrived for the Mensuration of the Way of a Ship in the Sea, more correctly than by the Log, or any other Method hitherto used for that Purpose; together with several Testimonials, setting forth the Usefulness of this Invention. By Mr. Henry de Saumarez of the Island of Guernsey.\n\nHaving for several Years applied my Studies to the Improvement of Navigation, I have fallen on various Projects, as well for the better clearing a Ship off a Lee-shore, as for her Steering, Tacking, or Waring, &c. which I may probably soon publish to the World: But what has most of all employ'd my Thoughts, has been to contrive something to ascertain the Way of a Ship in the Sea, more correctly than by the Log, (at present in Use in our Navigation;) the Errors of which are such, that I am fully persuaded the unhappy Fate of the brave Sir Cloudsley Shovell, was more owing thereto, than to any Errors in Judgment. The melancholy Reflections I made on that national Loss, was what spur'd me on to find out something that would not only have a regular Motion under Water, but might communicate the same to a Dial, or Piece of Clock-Work, within the Ship.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103808.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 813,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1529,
+        2
+      ],
+      [
+        1529,
+        2936,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103808",
+    "title": "Two Cases of Insects Voided by the Urinary Passage, Communicated in a Letter to the Publisher, by Dr. Daniel Turner, Coll. Med Lond. Lic.",
+    "authors": "Daniel Turner",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103808"
+  }
+}

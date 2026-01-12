@@ -1,0 +1,69 @@
+{
+  "id": "f42a2bcf54c7cfe8c2c0a010b1c700f252edf9f6",
+  "text": "IX. A Letter from J. Cookson, M.D. to Mr. Latouche at Little Chelsea, concerning the Boy who has an extraordinary Boulimia, or craving Appetite: Communicated to the Royal Society by John Martyn, F.R.S. & Prof. Botan. Cantab.\n\nSIR,\n\nWakefield, April 24. 1745.\n\nI WAS desired, by your Friend Mr. Arnet, to transmit to you what I could collect relating to the Boy at Barnsley [6 Miles from Wakefield]; so please to accept of the following, with the inclosed Account of his Eating and Drinking, taken by a Friend of mine, for six Days successively.\n\nMatthew Daking, a healthful and sprightly Boy, about ten Years old, was, about fifteen Months ago, seized with a Fever, which continued above a Fortnight. In the Beginning he had frequent Provocations to vomit, which induced his Apothecary to give a gentle Vomit of Ipecacuanha. The Reachings continuing, he gave him another: They seemed to operate well, but yet did not answer the End in settling his Stomach: However, the Fever gradually went off, but the Vomiting rather increased, notwithstanding some other Methods were used.\n\nHe then began to have a craving Appetite; to satisfy which he was indulged in Eating and Drinking more plentifully, but always vomited most of what he had taken, almost immediately. His Appetite kept\nkept increasing, so that, in a few Weeks his Eating was come to the Pitch you now see it in.\n\nThus he has continued above a Year. His Urine and Stools do not exceed those in Health; so that he vomits most of what he takes in.\n\nHe has tried crude Mercury, and all Sorts of Medicines, and Mineral Waters. At present he looks pretty well in the Face, and is cheerful; but has lost the Use of his Legs and Thighs, which are much emaciated. He is sometimes so hungry, that he says he could eat them all: He often wishes he were in the King's Kitchen.\n\nOne Pig was fed with what he had vomited, and was sold in the Market: But the Country-People, getting hold of the Story, put a Stop to the Feeding of any more.\n\nTo account for the Disorder I am much at a Loss, so shall not trouble you with my Conjectures. I am\n\nYour most obedient Servant,\n\nJ. Cookson.\n\nBy the Journal annexed it appears that he eat the following Quantities of various Sorts of Food both Meat and Drink, as is specified in the other Journal, which I have given at large, p. 367, and 368.\n\n| Date   | Quantity |\n|--------|----------|\n| Apr. 4 | 65 8     |\n| Apr. 5 | 60 14    |\n| Apr. 6 | 58 8     |\n| Apr. 7 | 76 12    |\n| Apr. 8 | 60 8     |\n| Apr. 9 | 55 8     |\n\nTotal in six Days 371 10\nSalt 1 10\n\n379 10\n\nN. B. He died a few Months after, quite emaciated.\n\nC. M.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104485.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 807,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1278,
+        2
+      ],
+      [
+        1278,
+        2609,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104485",
+    "title": "A Letter from J. Cookson, M. D. to Mr. Latouche at Little Chelsea, concerning the Boy Who Has an Extraordinary Boulimia, or Craving Appetite: Communicated to the Royal Society by John Martyn, F. R. S. & Prof. Botan. Cantab",
+    "authors": "J. Cookson, John Martyn",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104485"
+  }
+}

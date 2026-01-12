@@ -1,0 +1,79 @@
+{
+  "id": "03c1f6862c2b172341e4eefc5f7b5550ad54d954",
+  "text": "XVIII. Remarks on the Censure of Mercator's Chart, in a posthumous Work of Mr. West, of Exeter: In a Letter to Thomas Birch, D.D. Secretary to the Royal Society, from Mr. Samuel Dunn.\n\nRev. Sir,\n\nRead Nov. 11, 1762.\n\nShould not be so ready to trouble you with the contents of this letter, had I not the highest opinion of your readiness to assist the scientific, in all matters wherein you are able.\n\nI request therefore your consideration, between this time and the next when I have the pleasure to see you, if any paper has been printed in the Philosophical Transactions, concerning a sphere being inscribed in a hollow cylinder, and swelling its surface to the sides of the cylinder, to construct thereby a more true and accurate chart for the purposes of navigation, than that which was invented by Edward Wright, and hath long gone under the name of Mercator.\n\nThe reason why I ask this is, because there is lately published, a posthumous work of one Mr. West of Exeter, revised by J. Rowe, in which it is strongly insisted on, that the graduation of Mercator's chart is erroneous, and that the same, if rightly correspondent with the loxodromiques or rhumbs, should be graduated as a line of natural tangents, from the equinoctial to the poles.\n\nNow this error might have past the less observed, but the Critical Review of last month sets it forth as a masterly\nmasterly performance, and a thing of the greatest merit and importance in navigation.\n\nThat there is a respect due to Edward Wright for his invention, that his principles are true, that Mr. West or his editor, and both (if both of the same opinion) are false, is most certain.\n\nThat the characters and abilities of Dr. Halley, Sir Jonas Moore, Mr. William Jones, Mr. James Hodgson, Mr. Hafelden, and many others, for they are almost numberless, both of higher and lower mathematicians, who have wrote on the certainty and utility of Wright's chart, I say, that the characters and abilities of these able geometricians are attacked by Mr. West and his editor, and by the Critical Reviewers, is plain, and that this will have great weight with many not over well acquainted with geometry is no less plain. And what will an honest seaman say, who knows but just to make his calculations, when he reads the account given in this book, of Mercator's chart? And what must those gentlemen among the subscribers to Mr. West's book say or think, who, not being quite masters of geometry, are at liberty to believe or disbelieve Dr. Halley and many others, or Mr. West and his editor? Those who are masters of geometry must see the error.\n\nBut there are other circumstances; Edward Wright himself gives the very same construction by his words, as Mr. West doth, although his tables make out quite another thing, that is, both Wright and West lay expressly, the sphere being inscribed in the hollow cylinder, and the equinoctial remaining fixed without swelling whilst the other parts swell towards the poles, the chart will be formed. But in this, Wright has\nhas badly expressed his own thoughts, for his tables make it that the equinoctial must either swell or contract itself. And this is very excusable in Edward Wright, for at that time geometers had no notion of Fluxions, or the increase of magnitude by local motion.\n\nMr. West and his editor have therefore fallen into this error; they have taken the words but not the sense of Edward Wright, and the Critical Reviewers vindicate them, and make it as though this property had been communicated to the Royal Society by Mr. West, the particulars of which may be seen in the Review just now mentioned.\n\nThe proposed demonstration of this tangential property at page 58 of Mr. West's book, is no demonstration at all, there is nothing more plain, than that, in order to have the meridians at equal distances, the degrees of latitude must be enlarged to the same proportion in every part, as the circular meridians are nearer towards the poles, which proportion is as the cosine of the latitude to the radius.\n\nI am,\n\nRev. Sir,\n\nYour most obedient servant,\n\nSamuel Dunn.\n\nChelsea, Sept. 4, 1762.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105707.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1037,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1368,
+        2
+      ],
+      [
+        1368,
+        3017,
+        3
+      ],
+      [
+        3017,
+        4105,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105707",
+    "title": "Remarks on the Censure of Mercator's Chart, in a Posthumous Work of Mr. West, of Exeter: In a Letter to Thomas Birch. D. D. Secretary to the Royal Society, from Mr. Samuel Dunn",
+    "authors": "Samuel Dunn, Mr. West",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105707"
+  }
+}

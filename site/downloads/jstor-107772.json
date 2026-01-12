@@ -1,0 +1,99 @@
+{
+  "id": "1e08f1973728b3d1e072c5146f8b26ebff5bc82c",
+  "text": "XII.—Experiments on the modulus of Torsion. By Benjamin Bevan, Esq.\nCommunicated by the President.\n\nRead December 18, 1828.\n\nNumerous experiments have already been published on the strength of wood and other substances, as far as regards their cohesion and elasticity; but I am not aware of any extensive table of the modulus of torsion of different species of wood, deduced from experiments conducted upon a proper scale, and with the necessary care.\n\nTo supply this defect, and to furnish the practical engineer and mechanic with useful data, and with rules for their application, is the object of the present communication, consisting of a copious table of the results of my experiments, made at various times, and upon substances of considerable variety of dimensions within the ordinary limits of practice.\n\nIt is proper to observe, that the various specimens of wood upon which my experiments were made, were sound and dry, except it is otherwise expressed or described, and were in general free from all large knots.\n\nConsiderable care was used to obtain correct dimensions of the specimens under experiment, by means of a simple instrument, which answers the purpose of improved callipers, by which the dimensions of the specimens were measured, and read off by a magnifying-glass to the 400dth part of an inch. Previous to trial, each specimen was brought to a prismatic form, as near as could be wrought by the ordinary means, and the dimensions afterwards taken by means of the improved callipers above mentioned, at equal distances; and the mean breadth and thickness thus obtained, were used in the calculations for obtaining the modulus. My experiments were often repeated on the same species of wood, under considerable variations of length, breadth, and thickness; and always with the most satisfactory results; viz. from nine to ninety\ninches in length, and from three inches to three tenths of an inch in thickness. Due care was observed to prevent any error in the apparent torsion or twist arising from compression at the ends of the prisms, both at the clamp by which they were fixed, and at the radial lever at which the successive weights were applied; two sources of error which have materially affected former experiments on this subject, in other respects carefully made.\n\nTo every specimen under experiment I attached two indexes; one a few inches from the end fixed in the clamp or vice, and the other at a small distance from the attachment of the lever or wheel, where the weight or straining power was applied; and the distance between the two indexes was used as the length for calculating. Another error of less magnitude I have been able to avoid by fixing a pivot or small gudgeon at the supported end, in the line of the axis of the prism, instead of making the lower side or angle of the prism at the supported end the revolving point.\n\nMy experiments were made upon prisms of very different proportions as to breadth and depth, viz. from $\\frac{1}{50}$th to equality.\n\nIn general practice, the square or cylindrical shaft is usually adopted, and as a cylindrical spindle or shaft of $\\frac{1}{2}$th more in diameter than the side of a square shaft, will possess nearly the same stiffness in resisting a twisting force, it will, I presume, be sufficient in this place to give the rule for calculating the deflection of a square prismatic shaft, to which I shall add one example by way of illustration.\n\n**Rule.**—To find the deflection $\\delta$ of a prismatic shaft of a given length $l$ when strained by a given force $w$ in pounds avoirdupoise acting at right angles to the axis of the prism, and by a leverage of given length $r$; the side of the square shaft $= d$. $T$, being the modulus of torsion from the following table; $l$, $r$, $\\delta$, and $d$, being in inches and decimals,\n\n$$\\frac{r^3 l w}{d^4 T} = \\delta$$\n\ni.e. for a numerator, the square of the radius of the wheel or leverage multiplied into the length, and this product by the weight in pounds: and for a divisor, multiply the fourth power of the side of the square prism by the tabular modulus of torsion: divide the former by the latter, and the quotient will be the deflection or quantity of twisting in inches and decimals when measured at\nthe end of the radius \\( r \\). As an example, let there be a square* shaft of English oak 50 inches long and 6 inches by 6 inches, subject to a strain of 3000lbs. at the circumference of a wheel of 2 feet in diameter, or having a leverage of 12 inches†.\n\n\\[\n6 \\times 6 = 36 \\quad \\quad 12 \\times 12 = 144 \\\\\n36 \\quad \\quad 50 = \\text{length} \\\\\n1296 \\quad \\quad 7200 \\\\\n20000 \\quad \\quad 3000 = \\text{force} \\\\\n25920000 \\quad \\quad 25920000(0.83 = \\text{deflection}, \\\\\n\\text{or nearly } \\frac{5}{6} \\text{ths of an inch. And as the deflection will be directly as the force,} \\\\\n\\text{a weight or force of 300lbs. would produce a deflection of } \\frac{1}{12} \\text{th of an inch.}\n\\]\n\n**Table of the Modulus of Torsion.**\n\n| Species of Wood | Specific gravity | Modulus of Torsion. Pounds. | Observations |\n|-----------------|------------------|----------------------------|--------------|\n| Acacia          | .795             | 28293                      | Not quite dry. |\n| Alder           | .55              | 16221                      | Cross-grained. |\n| Apple           | .726             | 20397                      | Of my own planting. |\n| Ash             |                  | 20300                      |               |\n| Ash, mountain   | .449             | 13933                      |               |\n| Beech           |                  | 21243                      |               |\n| Birch           |                  | 17250                      |               |\n| Box             | .99              | 30000                      | Old, and very dry. |\n| Brazil wood     | 1.05             | 37800                      | Old, and very dry. |\n| Cane            |                  | 21500                      | Influenced by the hard surface. |\n| Cedar, scented  |                  | 12500                      |               |\n| Cherry          | .71              | 22800                      |               |\n| Chesnut, sweet  |                  | 18360                      |               |\n| Chesnut, horse  | .615             | 22205                      |               |\n\n* If the transverse section of the prism or shaft be not a square, but a parallelogram, let \\( b = \\) the breadth, and \\( d \\) the depth: the deflection will be obtained by the following formula:\n\n\\[\n\\frac{(d + b)lr^2w}{2bd^3T} = \\delta.\n\\]\n\n† If the measure of torsion should be required in degrees (\\( \\Delta \\))\n\nlet \\( \\rho = 57.29578 \\) then \\( \\frac{r \\ell w}{d^4 T} = \\Delta \\)\n\nor let \\( \\frac{T}{\\varepsilon} = t \\) then \\( \\frac{r \\ell w}{d^4 t} = \\Delta \\)\n\nthus for wrought iron and steel \\( \\frac{r \\ell w}{31000d^4} = \\Delta \\)\n\ncast iron \\( \\frac{r \\ell w}{16600d^4} = \\Delta \\)\n| Species of Wood          | Specific gravity | Modulus of Torsion, Pounds | Observations                  |\n|-------------------------|------------------|----------------------------|------------------------------|\n| Crab                    | .763             | 22738                      |                              |\n| Damson                  |                  | 23500                      |                              |\n| Deal, Christiana        | .38              | 11220                      |                              |\n| Elder                   | .755             | 22285                      |                              |\n| Elm                     |                  | 13500                      |                              |\n| Fir, Scotch             |                  | 13700                      |                              |\n| Hazel                   | .83              | 26325                      | Not quite dry.               |\n| Holly                   |                  | 20543                      |                              |\n| Hornbeam                | .86              | 26411                      | Not quite dry.               |\n| Laburnum                |                  | 18000                      | Green, or fresh cut.         |\n| Lance-wood              | 1.01             | 25245                      |                              |\n| Larch                   | .58              | 18967                      |                              |\n| Lime or Linden          | .675             | 18309                      |                              |\n| Maple                   | .735             | 23947                      | Partly cross-grained.        |\n| Oak, English            |                  | 20000                      |                              |\n| Oak, Hamburgh           | .693             | 12000                      |                              |\n| Oak, Dantzig            | .586             | 16500                      |                              |\n| Oak, from Bog           | .67              | 14500                      |                              |\n| Ozier                   |                  | 18700                      |                              |\n| Pear                    | .72              | 18115                      | Fresh.                       |\n| Pine, St. Petersburgh   |                  | 10500                      | Four or five years old.      |\n| Pine, Memel             |                  | 15000                      |                              |\n| Pine, American          |                  | 14750                      |                              |\n| Plane                   | .59              | 17617                      |                              |\n| Plum                    | .79              | 23700                      |                              |\n| Poplar                  | .333             | 9473                       |                              |\n| Satin-wood              | 1.02             | 30000                      |                              |\n| Sallow                  |                  | 18600                      |                              |\n| Sycamore                |                  | 22900                      |                              |\n| Teak                    |                  | 16800                      |                              |\n| Teak, African           |                  | 27300                      |                              |\n| Walnut                  | .572             | 19784                      | Old, and partially decayed.  |\n\nI have observed in a great number of my experiments, that the modulus of torsion bears a near relation to the weight of the wood when dry, whatever may be the species; and that for practical purposes we may obtain the deflection ($\\delta$) from the specific gravity ($s$). Thus\n\n$$\\frac{r^3 l w}{30000 d^4 s} = \\delta.$$\nTable of the modulus of torsion of Metals.\n\n| Specific gravity. | Modulus of Torsion. Pounds. |\n|-------------------|----------------------------|\n| Iron, English (wrought). | 1810000 |\n| Iron, English (wrought). | 1740000 |\n| Iron, thin hooping. | 1916000 |\n| Steel | 1984000 |\n| Steel | 1648000 |\n| Steel | 1618000 |\n| Iron cylinder | 1910000 |\n| Iron cylinder | 1700000 |\n| Iron square | 1617000 |\n| Iron square | 1667000 |\n| Iron square | 1951000 |\n\nMean of Iron and Steel | 1779090\n\nIron, Cast | 940000\nIron, Cast | 963000\nIron, Cast | 952000\n\nMean of cast-iron | 7.163 | 951600\n\nBell-metal | 8.531 | 818000\n\nOn comparing these numbers with the modulus of elasticity of the same substance, I find the modulus of torsion to be $\\frac{1}{15}$th of the modulus of elasticity in metallic substances.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107772.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 10282,
+    "total-output-tokens": 3018,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1853,
+        2
+      ],
+      [
+        1853,
+        4254,
+        3
+      ],
+      [
+        4254,
+        6951,
+        4
+      ],
+      [
+        6951,
+        10913,
+        5
+      ],
+      [
+        10913,
+        11713,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107772",
+    "title": "Experiments on the Modulus of Torsion",
+    "authors": "Benjamin Bevan",
+    "year": 1829,
+    "volume": "119",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/107772"
+  }
+}

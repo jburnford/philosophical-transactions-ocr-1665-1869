@@ -1,0 +1,59 @@
+{
+  "id": "4a45314cce4d9d7f064fd94647c8c98a2d27e043",
+  "text": "II. A Letter to Dr. Jurin, F. R. S. giving an Account of the Condition of the Town of Hastings, after it had been visited by the Small Pox.\n\nS I R,\n\nRye, Jan. 28. 1732.\n\nThe following is a true Account of the present Condition of the Town of Hastings; after its having been visited with the Small Pox; which continued there about a Year and half. I should here insert an Account of those inoculated, if any thing remarkable had happened: I can only say this, that they all had the Distemper very favourably, and continue perfectly well. I am,\n\nS I R,\n\nYour very much obliged, humble Servant,\n\nT. Frewen.\n\nThe Number of those that recovered of the Small Pox (including four that were inoculated) — — — — — 608\n\nDied of it — — — — — 97\n\nEscaped it — — — — — 206\n\nDied of other Illnesses since the Small Pox raged there — — — — — 50\n\nThe whole Number of Inhabitants in that Town are — — — — — 1636\n\nMales 782\nFemales 854\n\nN. B. There is at present no Small Pox in that Town.\n\nIII. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104071.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 353,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        979,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104071",
+    "title": "A Letter to Dr. Jurin, F. R. S. Giving an Account of the Condition of the Town of Hastings, after It Had Been Visited by the Small Pox",
+    "authors": "T. Frewen",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104071"
+  }
+}

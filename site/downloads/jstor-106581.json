@@ -1,0 +1,59 @@
+{
+  "id": "cea9a3600207cc0f77bc12abc6c26aa1010a6b98",
+  "text": "XII. An Account of the Meteor of the 18th of August, 1783. In a Letter from Richard Lovell Edgeworth, Esq. F.R.S. to Sir Joseph Banks, Bart. P.R.S.\n\nRead Jan. 15, 1784.\n\nDEAR SIR,\n\nEdgeworthstown, Mullingar, Ireland.\n\nAt half past nine in the evening of the 18th of August, I saw the meteor which has been observed in so many different places.\n\nIts size appeared to be about one third of the moon's diameter; and it moved from the north with an equable velocity, at an elevation of ten or twelve degrees, and in a line parallel to the horizon.\n\nIt was visible during ten or fifteen seconds, and seemed to be of a parabolic figure, with a luminous tail, twenty or five and twenty of its diameters in length.\n\nIt exhibited the most vivid colours; the foremost part being of the brightest blue, followed by different shades of red. Twice during its flight it was eclipsed or extinguished, not gradually, but at once, immersing and emerging with undiminished lustre.\n\nI shall not venture to trouble you with any conjectures upon the nature of this phenomenon, as it is probable, that the subject has been fully discussed long before this time by your friends in London. I am, &c.\n\nSept. 5, 1783.\n\nRICHARD LOVELL EDGEWORTH.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106581.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 375,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1218,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106581",
+    "title": "An Account of the Meteor of the 18th of August, 1783. In a Letter from Richard Lovell Edgeworth, Esq. F. R. S. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Richard Lovell Edgeworth",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106581"
+  }
+}

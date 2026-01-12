@@ -1,0 +1,59 @@
+{
+  "id": "3f69b26cdde6c3ab8949402720292111e83d3f2f",
+  "text": "XLIV. Extract of a Letter from Rome, to M. Maty, M.D. Sec. R. S. on the extraordinary Heats observed there this last Summer.\n\nRome, August 27, 1768.\n\nRead December 15, 1768.\n\nAs I remember, when Mr. M— was here, he seemed desirous to ascertain the degrees of heat and cold; I cannot help mentioning the excessive heat of this summer, which is much greater than has been known in Rome for many years. Friday, the 19th instant, the mercury in a well-regulated thermometer according to Fahrenheit's scale, exposed at a North window, where there was no sun and very little reflection, stood from ten o'clock in the morning until about five in the evening at ninety-nine. About half an hour after sunset it fell to ninety, and at midnight was fallen to eighty-five, where it remained all night. This is the hottest day we have had, but for these three weeks past at midday the mercury has been always above ninety-four, and at midnight seldom under eighty-three, which is the more extraordinary as I do not remember to have observed any other summer above eighty-nine at midday, nor above seventy-five at midnight. Notwithstanding this great heat, there was never a more healthy summer at Rome; all the hospitals are almost empty.\n\nJames Byres.\n\nXLV. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105792.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 354,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1248,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105792",
+    "title": "Extract of a Letter from Rome, to M. Maty, M.D. Sec. R. S. on the Extraordinary Heats Observed There This Last Summer",
+    "authors": "James Byres",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105792"
+  }
+}

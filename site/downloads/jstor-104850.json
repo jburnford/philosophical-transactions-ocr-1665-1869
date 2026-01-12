@@ -1,0 +1,69 @@
+{
+  "id": "3a37283b29f4bdb98b17e6e4c2f3c95f4aae17a8",
+  "text": "V. An Observation on an Occultation of Cor Leonis by the Moon, on Thursday, March 12, 1747, in Surrey-Street in the Strand, London, with a reflecting Telescope, made by Mr. Short, F.R.S. which magnified about 100 times; communicated to the Royal Society by J. Bevis, M.D.\n\nRead March 19.\n1746-7.\n\nApparent Time.\n\n| d | h | m | s |\n|---|---|---|---|\n| 1747, Mar. 12 | 8 | 24 | 19 |\n\nThe Star immers'd into the dark Limb.\n\n| d | h | m | s |\n|---|---|---|---|\n| 9 | 27 | 4 |\n\nIt emerg'd from the enlighten'd Limb a small Matter to the West of the Moon's Zenith.\n\n| d | h | m | s |\n|---|---|---|---|\n| 44 | 4½ |\n\nThe Moon's preceding Limb pass'd the Meridian in the Transitory.\n\n| d | h | m | s |\n|---|---|---|---|\n| 44 | 21 |\n\nThe Star pass'd the Meridian.\n\nMr. Short, another Gentleman, and myself, agreed to a single Second in the Immersion, with different Telescopes; but I saw and pronounced the Emer- sion 2 or 3 Seconds before them.—There had been an exact Observation of the Sun's Transit at Noon; and the Clock gain'd about half a Second a Day.\nWe reckon Surrey-Street 27 Seconds in Time West of the Royal Observatory at Greenwich.\n\nMr. John Catlin had a few Days before deliver'd me a Computation of this Eclipse, corrected from two Places of the Moon, observ'd the 28th of February and the 2d of March 1729, corresponding pretty nearly with her present Situation; as likewise from the Star's Position, as I had rectify'd it from several late Observations; and this gave the\n\n\\[\n\\begin{align*}\n\\text{Immersion at} & \\quad 8 \\frac{26}{3} \\\\\n\\text{Emersion} & \\quad 9 \\ 30\n\\end{align*}\n\\]\n\nJ. Bevis.\n\nVI. An Observation of an uncommon Gleam of Light proceeding from the Sun, by Mr. Peter Collinson F. R. S.\n\nRead March 19.\n\nOn the 8th of March 1746-7, near 1746-7.\n\n8 o'Clock in the Morning, as I was riding within three Miles of Brentwood in Essex, there appeared a singular Phenomenon in the Heavens; the Sketch (Tab. . Fig. .) may give some Idea of it.\n\nThe Morning was fine and clear, the Sun shone bright, no Cloud to be seen, but the Air a little hazy: Where the Phenomenon appeared, which was a bright cloudy Spot, seem'd a very small Portion of a Rainbow,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104850.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 767,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1050,
+        2
+      ],
+      [
+        1050,
+        2167,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104850",
+    "title": "An Observation on an Occultation of Cor Leonis by the Moon, on Thursday, March 12. 1747, in Surrey-Street in the Strand, London, with a Reflecting Telescope, Made by Mr. Short, F. R. S. Which Magnified about 100 Times; Communicated to the Royal Society by J. Bevis, M. D.",
+    "authors": "J. Bevis, Mr. Short",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104850"
+  }
+}

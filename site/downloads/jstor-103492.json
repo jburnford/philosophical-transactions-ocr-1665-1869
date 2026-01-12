@@ -1,0 +1,69 @@
+{
+  "id": "cb6763300b95325444289313166f47b5233e2828",
+  "text": "which proved his Death: For before the Breach, and while the Stone roll'd in his Stomach, he was very well.\n\nThe largest Stone found in any Animal that the Philosophical Transactions give an account of, weighed but four Pounds, four Ounces.\n\nVII. An Account of a Polypus cough'd up from the Windpipe; in a Letter from the Ingenious Dr. Samber, Physician at Salisbury, to Dr. Jurin, Secr. R. S.\n\nTHE 15th of last December at 10 at Night, I was sent for to one Mr. Tompson, an Officer of the Excise in this Town, who was taken with so violent a Flux of Blood, that in a short space of time he lost near three pounds of Blood, as near as we could judge: By the time I came, it was pretty well over; only he seem'd to have something, when he cough'd, that stuck in the Passage, which he could not get up, and by its rattling I thought it very loose. I order'd what I thought proper in such a case, and left him: Next Morning they told me, that half an hour after I was gone, he had cough'd up what they shew'd me on a Sheet of Paper, which Mr Gifford the Apothecary (a very honest Man, and very ingenious in his Business) had desir'd them to keep till I came. Upon putting it into Water, I found it a Polypus; and, as I think, a very remarkable one. I here send you a draught of it Fig. 3. exactly done by a Painter since dead. I could find by my Blow-pipe, that it was hollow; but its being torn off with such violence, has made so many\nmany Holes in it, that it cannot be blown up. You will (I believe) conclude, it laid the Bronchia, and that the Air had a Passage through it, and that a violent Fit of coughing had separated the Adhesion, and brought on that violent Flux of Blood, &c. He had been tormented with a Cough for more than six Months, was a gouty Man; but after this was cough'd up, and so large an Ulcer made, he had all the successive Symptoms of a fatal Consumption; as Cough, Spitting, Hectick, colliquative Sweats, Diarrhoea, and the 16th of this Month died, Aged near 50.\n\nSarum, Jan. 28, 1726-7.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103492.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 642,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1434,
+        2
+      ],
+      [
+        1434,
+        2014,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103492",
+    "title": "An Account of a Polypus Cough'd up from the Windpipe; In a Letter from the Ingenious Dr. Samber, Physician at Salisbury, to Dr. Jurin, Secr. R. S.",
+    "authors": "Dr. Samber",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103492"
+  }
+}

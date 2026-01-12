@@ -1,0 +1,79 @@
+{
+  "id": "1d1693856dd709de2702913bcf85c6ca08712853",
+  "text": "cadat in chordam R T normalis O H. Et moduli angulorum \\(a_1, b_2, c_3, \\ldots\\) signis gaudebunt affirmativis si punctis \\(a, b, c, \\ldots\\) tendunt secundum directionem HO, negativis si secundum contrariam. 4. Producatur radius PO donec circumferentiae denuo occurat in \\(p\\), & anguli S A O, S B O, S C O, \\&c. ut & ASO, BSO, CSO, \\&c. sumi debent affirmative si existunt in semicirculo superiore PRp, negative si in inferiore. Et secundum has regulas signa quantitatum quibus areae exprimuntur nostrae figurae accommodavimus.\n\nVII. Casus rarissimus Plicae Polonicae enormis à D. Abrahamo Vatro, M. D. Prof. Anatom. Wittemberg. & R. S. S. per D. Conradum Sprengell, Equitem, M. D. R. S. S. & Coll. Med. Lond. Licent. communicatus. Vid. T A B. II. Fig. 2.\n\nFEMINA rustica in Polonia, in terris Principis Radzivil, anno ætatis decimo quinto, viro nupta, incidit decimo octavo, in morbum Poloniae Endemium, qui Plica Polonica a capillo inenodabili vocatur. Hanc Plicam per quinquaginta annos femina gestavit, ac per totum fere illud tempus dolore arthritico et contracturis tandemque marasmo universali corporis afflita tecto affixa fuit, tandemque senio confecta anno ætatis septuagesimo octavo diem suum obiit.\nobiit. Foeminam istam adhuc viventem vidit non tantum, & hac figura ad vivum depingere curavit, sed ipsam Plicam post obitum resectam secum Wittebergam attulit Clariss. D. Flouricke dicti Principis Medicus. Erat autem Plica quatuor ulnas longa, palmum lata, duosque pollices crassa, sed altero tanto longior foret, ipso referente, nisi magna ejus pars, tetaporis quo ægra decubuit diuturnitate, fqualore & attritu consumpta fuisset. Hunc ergo Casum penitus extraordinarium, illustrissimæ Societati Regali exponere volui. Spero autem fore, ut imposterum de circumstantiis singularibus hujus casus a laudato Viro certior reddar, quas alio tempore communicabo.\n\nVIII. An Extract of a Letter from Sir Conrad Sprengell, M.D.R.S.S. & Coll. Med. Lond. Licen. to Dr. Mortimer; wherein he inclosed the foregoing Account of the Plica Polonica; together with an Article from the Breslaw Sammlung von Natur- und Medicin, &c. Geschichten upon the same Subject, translated from the High-Dutch by Dr. Mortimer, R.S.Secr.\n\nSIR,\n\nJanuary 20th, 1732.\n\n* * * THE Plica has been always related, and thought to be a Distemper, and to proceed from a Fever or Convulsions; but for my Part, from the best Information I could get concerning it, I think",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104058.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 925,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1213,
+        3
+      ],
+      [
+        1213,
+        2440,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104058",
+    "title": "Casus Rarissimus Plicae Polonicae Enormis á D. Abrahamo Vatero, M. D. Prof. Anatom. Wittemberg. et R. S. S. per D. Conradum Sprengell, Equitem, M. D. R. S. S. et Coll. Med. Lond. Licent. Communicatus. Vid. Tab. II. Fig. 2",
+    "authors": "D. Conradum Sprengell",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104058"
+  }
+}

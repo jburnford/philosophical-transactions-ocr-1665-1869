@@ -1,0 +1,59 @@
+{
+  "id": "aced0568cd068cfa7cfdfa77e737e038b5ed62da",
+  "text": "The CONTENTS.\n\nV. A Description of the town of Silchester in its present state. With a short Account of an antient Date in Arabian figures at Walling near Aldermaryton in Berkshire. By J. Ward, F. R. S. and P. R. G. p. 603\n\nVI. A Summary of some late Observations upon the Generation, Composition, and Decomposition of Animal and Vegetable Substances; by Mr. Turbervill Needham F. R. S. p. 615\n\nVII. Observationes astronomicæ variae factae in Paraquaria, Regione Americœ Australis, ab anno 1700 ad annum 1730. quas cum Regali Societate communicavit Jacobus de Castro Sarmento M. D. Coll. Lond. Lic. & R. S. S. p. 667\n\nERRATA.\n\nNo. 486, p. 232, for Durobrovæ read Durobrivæ. Ibid. p. 233. Henry Wharton is said to have been always infirm and sickly: But in his Life written by Bishop Green, and printed before his Sermons, it is said, His Constitution was vigorous and healthful.\n\nPrinted for C. Davis over-against Gray's Inn Gate in Holbourn, Printer to the Royal Society, M.DCC.L.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104581.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 367,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        981,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104581",
+    "title": "Errata",
+    "authors": null,
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104581"
+  }
+}

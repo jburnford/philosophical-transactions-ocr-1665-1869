@@ -1,0 +1,79 @@
+{
+  "id": "266ed01fadad30fe7fba8aaa78ff9c4ebf357775",
+  "text": "Algebra, and other branches of the Mathematicks and Mechanicks, for the use of those that are studious in those Noble Arts, as well to direct in the best Methods, and to detect Erroneous adventures, for the behoof of generous beginners, as for the satisfaction and further encouragement of them that have attain'd higher accomplishments.\n\nAlso, in each of these Volumes, hath been given the Breviate and Substance of such Philosophical Writings, as came abroad, and were thought of good worth. And all along we have interspers'd many Histories, Philosophical Observations and promiscuous Experiments.\n\nAnd now, I think, we may take our Prospect, and see, that we have got more ground in our second Volume than in the first; and more yet in the third than in either of the former; whence we take the liberty to ominate well for the future. Yet in all this I assume nothing to my self, but give all what is due to the merits of my generous Correspondents. And all that have affections for Arts and Sciences may rejoice to see the late Proficiency of the Ingenious and Nobler Students in both our famous Universities, and in all the Universities of Christendom. The Ingenious French have drawn the same Yoke with us, in publishing their Journal des Scavans; and the Romans have followed our Example in their Giornale de Letterati. And doubtless all Civil Nations, who have a Gust for useful knowledge, will, in good time, drive on this Example; and then, as the Light increaseth, and runs on, we shall in a like proportion become so many mutual Ayds to each other: And this will hopefully redound to the General good of Mankind.\n\nI doubt not but the Reader will pardon the Prolixity of this Preface, since, as was promis'd, it is not only Preface, but bears a part of my main business, which is, to excite and animate the Industry and free Communications of others; of some of whose Effects take for the present the Specimens following.\n\nThe Description\nOf an Instrument invented divers years ago by Dr Christopher Wren, for drawing the Out-lines of any Object in Perspective.\n\nSee Fig. I. wherein A. is a small Sight with a short arm B. which may be turn'd round about, and mov'd up and down the small Cylinder CD. which is screw'd into the piece ED. at D. this piece\npiece $ED$ moving round about the Center $E$; by which means the Sight may be remov'd either towards $R$ or $F$.\n\n$EF$ is a Rule fastn'd on to the two Rulers $GG$, which Rulers serve both to keep the square Frame $SSSS$ perpendicular, and by their sliding through the square holes $TT$, they serve to stay the Sight, either farther from or nearer to the said Frame; on which Frame is stuck on with a little wax the paper $OOOO$, whereon the Picture is to be drawn by the Pen $I$. This Pen $I.$ is by a small Brass-handle $V$, so fixt to the Ruler $HH$, that the point $I.$ may be kept very firm, so as always to touch the Paper.\n\n$HH.$ is a Ruler, that is always, by means of the small strings $aaaabbbb$, mov'd Horizontally, or Parallel to it self; at the end of which is stuck a small Pin, whose head $P$ is the Sight, which is to be mov'd up and down on the Out-lines of any Object.\n\nThe Contrivance of the Strings is this. The two Strings $aaa, bbb.$ are exactly of an equal length. Two ends of them are fastn'd into a small Leaden Weight $QQ$, which is mov'd in a Socket on the back side of the Frame, and serves exactly to counterpoise the Ruler $HH$, being of equal weight with it. The other two ends of them are fastn'd to two small Pins $H,H.$ after they have been roled about the small Pulleys $N, MM., LL., KK,$ by means of which Pulleys if the Pen $I.$ be taken hold of and mov'd up and down the Paper, the Strings moving very easily, the Rule will always remain in an Horizontal position.\n\nThe manner of Using it is this: Set the Instrument on a Table, and fix the Sight $A.$ at what height above the Table, and at what distance from the Frame $SSSS$, you please. Then, looking through the Sight $A.$ and holding the Pen $I.$ in your hand, move the Head of the Pin $P.$ up and down the Out-lines of the Object, and the point $I.$ will describe on the Paper $OOOO$, the Shape of the Object so trac'd.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100986.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 1140,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2266,
+        2
+      ],
+      [
+        2266,
+        4179,
+        3
+      ],
+      [
+        4179,
+        4179,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100986",
+    "title": "The Description of an Instrument Invented Divers Years Ago by Dr. Christopher Wren, for Drawing the Out-Lines of Any Object in Perspective",
+    "authors": "Christopher Wren",
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/100986"
+  }
+}

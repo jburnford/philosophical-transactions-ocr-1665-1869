@@ -1,0 +1,89 @@
+{
+  "id": "aba68544170e646967eb96944c907213114080b8",
+  "text": "Solem, debili quadam luce, idque sub tota fere emer-\nsione, in hunc fere modum.\n\nSive illa in margine Veneris apparens,\ninflectioni radiorum Solis, sive refracti-\noni in atmosphæra Veneris, sit tribuenda,\ndisquirant alii.\n\nXXXIX. An Account of the Observations\nmade on the same Transit in Sweden: In\na Letter from Mr. Peter Wargentin, Se-\ncretary to the Royal Academy of Sciences in\nSweden, and F. R. S. to Mr. John Ellicot,\nF. R. S. Translated from the French.\n\nS I R,\n\nStockholm, Aug. 7, 1761.\n\nRead Nov 12, 1761.\n\nIn a letter, dated June 8th, I commu-\nnicated to Dr. Birch, Secretary to the\nRoyal Society, my observations upon the transit of\nVenus. Having since received some other good ob-\nservations of this phænomenon, I thought the com-\nmunicating them to you, would give you some plea-\nsure.\n\nAt Torneo in Lapland, Messieurs Lagerborn and\nHellant very happily observed both the entrance and\nexit of Venus, with telescopes of 32 and 20 feet focal\nlengths. The principal times observed were as fol-\nlows:\n\nExterior\nExterior contact at the entrance. | Interior contact at the entrance. | Interior contact at the exit. | Total exit.\n---|---|---|---\nLagerborn | 3 45 44 | 4 4 1 | 9 54 22 | 10 12 18\nHellant | 3 45 51 | 4 3 59 | 9 54 8 | 10 12 22\n\nMr. Hellant is esteemed a very good observer. The difference between the meridians of Paris and Torneo, is computed to be $1^h 27' 28''$, very nearly.\n\nAt Abo, the capital of Finland, situated in latitude $60^\\circ 27'$, longitude east of Paris $1^h 19' 17''$, Mr. Ju-stander observed with a telescope of 20 feet;\n\nThe interior contact, at the entrance to be at $3 55 50$\nBeginning of the exit, at $9 46 59$\nTotal emersion, at $10 4 42$\n\nAt Hernosand, a city in Sweden, in latitude $60^\\circ 38'$, and longitude $1^h 2' 12''$ east of the meridian of Paris, Messieurs Gifter and Strom observed, with telescopes of 20 feet.\n\nMr. Gifter | 3 38 26 | 9 29 21 | 9 46 40\nMr. Strom | 3 20 40 | 3 38 35 | 9 46 47\n\nAt the observatory at Upsal, Messieurs Strömer, Metlander Mallet, and Bergman, made the following observations, with three telescopes of 20 feet, and a reflector of 18 inches. The difference of meridians between Upsal and Paris is $1^h 1' 10''$.\nAt Lund in Scanie, Mr. Schenmark observed, with a telescope of 21 feet. The interior contact of the exit was $9^h\\ 10'\\ 44''$, doubtful, being cloudy; total emersion $9^h\\ 29'\\ 14''$. This city is $43'\\ 50''$ to the east of the meridian of Paris.\n\nAccording to the observations made at the observatory at Stockholm, by Mr. Klingensierna and myself;\n\nThe difference of meridians between Paris and Stockholm is $1^h\\ 2'\\ 50''$ or $52''$, at most.\n\nIn these observations, I made use of an excellent telescope, of 21 Swedish feet, and Mr. Klingensierna observed with one of Mr. Dollond's telecopes, of 10 feet, with an eye-glass fitted to it, which magnified the object more than 140 times.\n\nIn comparing these observations together, you will perceive, that they do not agree so near as was hoped for; and those which were made at Paris, agree but little better. I should be very glad to hear how the English observers have succeeded, both at London, and at St. Helena; I therefore desire you would procure for me those observations, which have been communicated to the Royal Society, to whom you may present\npresent these from Sweden, if you think them deserving your notice, which I hope you will.\n\nI have the honour to be,\n\nWith the most perfect esteem,\n\nSIR,\n\nYour most obedient\n\nhumble servant,\n\nWargentin.\n\nXL. Observationes Veneris sub Sole visae, habitae Parisiis, die 6° Junii 1761, in palatio Luxemburgi, quas Regiae Societati Londiniensi, venerationis suae obsequium, offert Hieronymus De la Lande, Acad. Reg. Scient. Parisinae Socius, Regiusque Mathematicos Professor.\n\nRead Nov. 19, 1761.\n\nNubes in oriente persistentes ab horâ quartâ usque ad septimam vitum Solis rapuerunt, earumque intervalla unicum observationem permiserunt, quae sequitur, cum sextante hexapedali factam.\n\nTemp.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105616.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 1414,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1021,
+        2
+      ],
+      [
+        1021,
+        2201,
+        3
+      ],
+      [
+        2201,
+        3306,
+        4
+      ],
+      [
+        3306,
+        3993,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105616",
+    "title": "An Account of the Observations Made on the Same Transit in Sweden: In a Letter from Mr. Peter Wargentin, Secretary to the Royal Academy of Sciences in Sweden, and F. R. S. to Mr. John Ellicot, F. R. S. Translated from the French",
+    "authors": "Peter Wargentin",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105616"
+  }
+}

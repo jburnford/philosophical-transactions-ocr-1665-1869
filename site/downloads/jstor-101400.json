@@ -1,0 +1,69 @@
+{
+  "id": "d84ea83a82a5bd043857565ac34a54e6e7c30f81",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nMunday, March 6. 1665.\n\nThe Contents.\n\nAn Introduction to this Tract. An Accomp of the Improvement of Optick Glasses at Rome. Of the Observation made in England, of a Spot in one of the Belts of the Planet Jupiter. Of the motion of the late Comet predicted. The Heads of many New Observations and Experiments, in order to an Experimental History of Cold; together with some Thermometrical Discourses and Experiments. A Relation of a very odd Monstrous Calf. Of a peculiar Lead-Ore in Germany, very useful for Essays. Of an Hungarian Bolus, of the same effect with the Bolus Armenus. Of the New American Whale-fishing about the Bermudas. A Narrative concerning the success of the Pendulum-watches at Sea for the Longitudes; and the Grant of a Patent thereupon. A Catalogue of the Philosophical Books publish'd by Monsieur de Fermat, Counsellour at Thoulouse, lately dead.\n\nThe Introduction.\n\nWhereas there is nothing more necessary for promoting the improvement of Philosophical Matters, than the communicating to such, as apply their Studies and Endeavours that way, such things as are discovered or put in practice by others; it is therefore thought fit to employ the Press, as the most proper way to gratify those, whose engagement in such Studies, and delight in the advancement of Learning and profitable Discoveries, doth entitle them to the knowledge of what this Kingdom, or other parts of the World, do, from time to time, afford, as well\nof the progress of the Studies, Labours, and attempts of the Curious and learned in things of this kind, as of their compleat Discoveries and performances: To the end, that such Productions being clearly and truly communicated, desires after solid and usefull knowledge may be further entertained, ingenious Endeavours and Undertakings cherished, and those, addicted to and conversant in such matters, may be invited and encouraged to search, try, and find out new things, impart their knowledge to one another, and contribute what they can to the Grand design of improving Natural knowledge, and perfecting all Philosophical Arts, and Sciences. All for the Glory of God, the Honour and Advantage of these Kingdoms, and the Universal Good of Mankind.\n\nAn Accomp of the improvement of Optick Glasses.\n\nThere came lately from Paris a Relation, concerning the Improvement of Optick Glasses, not long since attempted at Rome by Signor Giuseppe Campani, and by him discoursed of, in a Book, Entituled, Ragguaglio di nuove Osservazioni, lately printed in the said City, but not yet transmitted into these parts; wherein these following particulars, according to the Intelligence, which was sent hither, are contained.\n\nThe first regardeth the excellency of the long Telescopes, made by the said Campani, who pretends to have found a way to work great Optick Glasses with a Turne-tool, without any Mould: And whereas hitherto it hath been found by Experience, that small Glasses are in proportion better to see upon the Earth, than the great ones; that Author affirms, that his are equally good for the Earth, and for making Observations in the Heavens. Besides, he useth three Eye-Glasses for his great Telescopes, without finding any Iris, or such Rain-bow colours, as do usually appear in ordinary Glasses, and prove an impediment to Observations.\n\nThe Second, concerns the Circle of Saturn, in which he hath observed nothing, but what confirms Monsieur Christian Huygens de Zulichem his Systeme of that Planet, published by that worthy Gentleman in the year, 1659.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101400.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 884,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1476,
+        2
+      ],
+      [
+        1476,
+        3537,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101400",
+    "title": "The Introduction",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101400"
+  }
+}

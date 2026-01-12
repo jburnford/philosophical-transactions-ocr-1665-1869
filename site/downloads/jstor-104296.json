@@ -1,0 +1,69 @@
+{
+  "id": "a6c995b0e12d4ec0f9766222e944ce336753e92c",
+  "text": "XXIII. An Extract of a Letter from Mr. James Short, of the College at Edinburgh, to Mr. Richard Graham, F. R. S.\n\nSIR,\n\nEdinburgh, Nov. 18. 1736.\n\nI came here on Saturday last: That Evening, about Six o’Clock, there was one of the most remarkable Aurora Boreales that ever I saw. At first there appeared the ordinary luminous Arch, the Vertex of which was about $30^\\circ$ above the Horizon, and had its Centre somewhere in the Meridian Circle. After this was perfectly well formed, there appeared little or none of the purple and red Colours which are usually in that Arch; but immediately there broke out, from the most Western Extremity, a great deal of that Northern Light which formed this Arch, and, rushing along with Rays directed to the Zenith, formed another Aurora Borealis above the first, the Centre of which was to the East of the Meridian: After this was formed, there followed from the same Extremity, a great deal of purple and red-coloured Light, quivering and shaking towards the Zenith, with a flapping Noise in rushing along, till it formed a third Aurora Borealis, above the second, the Centre of which was somewhere on the East-side of the Meridian. When I was pleasing myself with this remarkable Phenomenon, looking again to the Western Source of these Arches, I perceived, as it were, a huge Pillar of a dull red-coloured Light, rising out of the same Place whence the Arches took their Beginning, extending itself in a Direction towards the Zenith,\nZenith, till it rose almost 600 high. These Arches and Pillar lasted very near an Hour; the two uppermost Arches were continually quivering and shaking, and the Pillar always turning to a paler Red.\n\nI forgot to tell you, that the Night before the Aurora Borealis, there was a prodigious Hurricane of Wind, which lasted till the Saturday Morning; but all that Day it continued to blow, though not so hard. The Arch from whence the Wind blew, was from the North-west, the same Quarter from whence the Arches took their Rise. To this Day, ever since the Hurricane of Wind, there has been a most intense Frost: It froze so hard, that in less than 24 Hours after it began, the Lake on the North-side of this City was so strong as to bear People on it. Just now the Wind has changed, so that we expect a Thaw.\n\nXXIV. A Letter from Mr. John Freke, F.R.S. Surgeon to St. Bartholomew's Hospital to the Royal Society, relating a Case of extraordinary Exostoses on the Back of a Boy.\n\nGentlemen,\n\nI would not have troubled you with this Account of a Case which came to my Inspection Yesterday at St. Bartholomew's Hospital, had I ever seen the same before in my Practice. I know it may be said to come under the Denomination of an Exostosis, but as all others that I have seen, which have been very many, arose upon some particular Parts, and have not been",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104296.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 762,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1476,
+        2
+      ],
+      [
+        1476,
+        2822,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104296",
+    "title": "An Extract of a Letter from Mr. James Short, of the College at Edinburgh, to Mr. Richard Graham, F. R. S.",
+    "authors": "James Short",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104296"
+  }
+}

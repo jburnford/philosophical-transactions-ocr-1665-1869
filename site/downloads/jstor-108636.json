@@ -1,0 +1,59 @@
+{
+  "id": "12bbe3858fe97c900dc8bf280fd7f55b0aca65d9",
+  "text": "XXXVII. Experimental Researches on the Conductive Powers of various Substances, with the application of the Results to the Problem of Terrestrial Temperature. By W. Hopkins, Esq., M.A., F.R.S., of St. Peter's College, Cambridge. page 805\n\nXXXVIII. Experimental Researches on the Strength of Pillars of Cast Iron, from various Parts of the Kingdom. By Eaton Hodgkinson, Esq., F.R.S., F.G.S., Hon. Mem. Inst. Civ. E., Hon. Mem. Soc. Ing. Civ. Paris, and Professor of the Mechanical Principles of Engineering in University College, London. . . . 851\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 901\n\nAPPENDIX.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [ 1 ]\n\nERRATUM.\n\nAt page 98 of the Volume for 1855, in Archdeacon Pratt's paper \"On the Attraction of the Himalayas on the Plumb-Line in India,\" lines 7 and 5 from the bottom, read\n\n\\[ a = -0.0019203 + 0.0059576 u - 0.0014564 v \\]\n\nand\n\n\\[ = a(0.9980797 + 0.0059576 u - 0.0014564 v). \\]\n\nThis correction affects none of the results of the paper.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108636.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 488,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1160,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108636",
+    "title": "Erratum: On the Attraction of the Himalaya Mountains, and of the Elevated Regions beyond Them, upon the Plumb-Line in India",
+    "authors": null,
+    "year": 1857,
+    "volume": "147",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108636"
+  }
+}

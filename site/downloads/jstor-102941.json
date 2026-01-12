@@ -1,0 +1,59 @@
+{
+  "id": "9d56a27eea85bcfbaa78e2cb22017ab1368348bb",
+  "text": "ADVERTISEMENT.\n\nJoannis Raii, Societatis Regiae Socii, Historiae Plantarum Tomus Tertius: Qui est Supplementum Duorum praecedentium: Species omnes vel omullas, vel post Volumina illa evulgata editas, praeter inumeras tere novas & indicatas ab Amicis communicatas complectens: Cum Synonymis necessariis, & Usibus in Cibo, Medicina, & Mechanicis: Addito ad Opus, consummandum Generum Indice copioso. Accedit Historia Ins. Luzonis & reliquarum Philippinarum à R. P. Geo. Jos. Camello, Moravo-Brunensi, S. J. conscripta. Item D. Jos. Pitton Tournefort, M. D. Parisiensis, &c in Horto Reg. Botanices Professoris, Carolarium Institutionum Rei Herbariae. Londini, Apud Sam. Smith & Benj. Walford, Reg. Soc. Typographos, ad Insignia Principis in Area Boreali D. Pauli, clo lo cciv. Folio.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102941.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 314,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        780,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102941",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102941"
+  }
+}

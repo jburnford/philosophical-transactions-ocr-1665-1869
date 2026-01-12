@@ -1,0 +1,149 @@
+{
+  "id": "6b2492601fd9cebc43d25009f98eb939edc27d40",
+  "text": "plenty in quarries, juxta ædes nob. v. D. Gryfidii Rice de Newton, arm. prope oppidum Sancti Teilavii, in comitatu Mariduniaæ. He calls it Buglossa curta stri-gosa. He also gives the figure of it without any description, in the Phil. Trans. No 243.\n\nI beg you would communicate this supplement to the Royal Society in my name. I remain, with great esteem,\n\nSIR,\n\nLondon, July 12,\n1753.\n\nYour very humble servant,\n\nEmanuel Mendez da Costa.\n\nXLIII. Letters relating to a Theorem of Mr. Euler, of the Royal Academy of Sciences at Berlin, and F. R. S. for correcting the Aberrations in the Object-Glasses of refracting Telescopes.\n\nI.\n\nA Letter from Mr. James Short, F. R. S. to Peter Daval, Esq; F. R. S.\n\nDear Sir,\n\nRead April 9, 1752.\n\nTHERE is published, in the Memoirs of the Royal Academy at Berlin, for the year 1747, a theorem by Mr. Euler, in which he shews a method of making object-glasses of telescopes, in such a manner, as not to be affected by\nby the aberrations arising from the different refrangibility of the rays of light; these object-glasses consisting of two meniscus lens's, with water between them.\n\nMr. John Dollond, who is an excellent analyst and optician, has examined the said theorem, and has discovered a mistake in it, which arises by assuming an hypothesis contrary to the established principles of optics; and, in consequence of this, Mr. Dollond has sent me the inclosed letter, which contains the discovery of the said mistake, and a demonstration of it.\n\nIn order to act in the most candid manner with Mr. Euler, I have proposed to Mr. Dollond to write to him, shewing him the mistake, and desiring to know his reasons for that hypothesis; and therefore I desire, that this letter of Mr. Dollond's to me may be kept amongst the Society's papers, till Mr. Euler has had a sufficient time to answer Mr. Dollond's letter to him. I am,\n\nSIR,\n\nSarrey-street, April 9,\n1752.\n\nYour most humble servant,\n\nJames Short.\nII.\n\nA Letter from Mr. John Dollond to James Short, A. M. F. R. S. concerning a Mistake in M. Euler's Theorem for correcting the Aberrations in the Object-Glasses of refracting Telescopes.\n\nSIR,\n\nRead Nov. 23, 1752.\n\nTHE famous experiments of the prism, first tried by Sir Isaac Newton, sufficiently convinced that great man, that the perfection of telescopes was impeded by the different refrangibility of the rays of light, and not by the spherical figure of the glasses, as the common notion had been till that time; which put the philosopher upon grinding concave metals, in order to come at that by reflexion, which he despair'd of obtaining by refraction. For, that he was satisfied of the impossibility of correcting that aberration by a multiplicity of refractions, appears by his own words, in his treatise of Light and Colours, Book I. Part 2. Prop. 3. \"I found moreover, that when light goes out of air through several contiguous mediums, as through water and glass, as often as by contrary refractions it is so corrected, that it emergeth in lines parallel to those in which it was incident, continues ever after to be white. But if the emergent rays be inclined to the incident, the whiteness of the emerging light will by degrees, in passing on from the place of emergence, become tinged in its edges with colours.\"\n\nIt is therefore, Sir, somewhat strange, that any body now-a-days should attempt to do that, which\nso long ago has been demonstrated impossible. But, as so great a mathematician as Mr. Euler has lately published a theorem * for making object-glasses, that should be free from the aberration arising from the different refrangibility of light, the subject deserves a particular consideration. I have therefore carefully examined every step of his algebraic reasoning, which I have found strictly true in every part. But a certain hypothesis in page 285. appears to be destitute of support either from reason or experiment, though it be there laid down as the foundation of the whole fabrick.\n\nThis gentleman puts $m : 1$ for the ratio of refraction out of air into glass of the mean refrangible rays, and $M : 1$ for that of the least refrangible. Also for the ratio of refraction out of air into water of the mean refrangible rays he puts $n : 1$, and for the least refrangible $N : 1$. As to the numbers, he makes $m = \\frac{3}{2}$, $M = \\frac{7}{6}$, and $n = \\frac{4}{3}$; which so far answer well enough to experiments. But the difficulty consists in finding the value of $N$ in a true proportion to the rest.\n\nHere the author introduces the supposition above-mention'd; which is, that $m$ is the same power of $M$, as $n$ is of $N$; and therefore puts $n = m^a$, and $N = M^a$. Whereas, by all the experiments that have hitherto been made, the proportion will come out thus, $m - 1 : n - 1 :: m - M : n - N$.\n\nThe letters fixed upon by Mr. Euler to represent the radii of the four refracting surfaces of his compound object-glass, are $f g b$ and $k$, and the distance of the object he expresses by $a$; then will the focal distance\n\n$$bc = \\frac{1}{n(\\frac{1}{g} - \\frac{1}{b}) + m(\\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k}) - \\frac{1}{a} - \\frac{1}{f} + \\frac{1}{k}}.$$ Now,\n\n* Vide Memoires of the Royal Academy of Berlin for the Year 1747.*\nsays he, it is evident, that the different refrangibility of the rays would make no alteration, either in the place of the image, or in its magnitude, if it were possible to determine the radii of the four surfaces, so as to have \\( n \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + m \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) = N \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + M \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) \\). And this, Sir, I shall readily grant. But when the surfaces are thus proportioned, the sum of the refractions will be \\( = 0 \\); that is to say, the emergent rays will be parallel to the incident. For, if \\( n \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + m \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) = N \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + M \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) \\), then \\( n - N \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + m - M \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) = 0 \\). Also if \\( n - N : m - M :: n - 1 : m - 1 \\), then \\( n - 1 \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + m - 1 \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) = 0 \\); or otherwise \\( n \\left( \\frac{1}{g} - \\frac{1}{b} \\right) + m \\left( \\frac{1}{f} - \\frac{1}{g} + \\frac{1}{b} - \\frac{1}{k} \\right) = \\frac{1}{f} + \\frac{1}{k} = 0 \\); which reduces the denominator of the fraction expressing the focal distance to \\( \\frac{1}{2} \\). Whence the focal distance will be \\( = a \\); or, in other words, the image will be the object itself. And as, in this case, there will be no refraction, it will be easy to conceive how there should be no aberration.\n\nAnd now, Sir, I think I have demonstrated, that Mr. Euler's theorem is entirely founded upon a new law of refraction of his own; but that, according to the laws discover'd by experiment, the aberration arising from the different refrangibility of light at the object-glass cannot be corrected by any number of refractions whatsoever. I am,\n\nSIR,\n\nLondon, March 11, Your most obedient humble servant,\n1752.\n\nJohn Dollond.\nMonsieur,\n\nVous m'avez fait un tres sensible plaisir, en ayant disposé M. Dollond de remettre la proposition de ses objections contre mes verres objectifs, jusqu'à ce que j'y aurois repondu, et je vous en suis infiniment obligé. Je prend donc la liberté de vous adresser ma réponse à lui, en vous priant, après l'avoir daignée de votre examen, de la vouloir bien lui remettre : et en cas que vous jugiez cette matière digne de l'attention de la Société Royale, je vous prierois de lui communiquer les preuves détaillées de ma théorie, que j'ai exposée dans cette lettre. Cependant j'espère, que M. Dollond en sera satisfait, puisque je tombe d'accord avec lui du peu de succès, qu'on fauroit se promettre de mes objectifs, en les travaillant selon la manière ordinaire.\n\nJ'ai l'honneur d'être, avec la plus parfaite considération,\n\nMonsieur,\n\nVotre tres humble, et tres obéissant serviteur,\n\nL. Euler.\nIV.\n\nÀ Monsieur Monsieur Dollond.\n\nMonsieur,\n\nRead July 8, 1753.\n\nETANT tres sensible à l'honneur que vous me faites, au sujet des verres objectifs, que j'avois proposé, j'ai celui de vous marquer d'abord ingenument, que j'ai rencontré aussi ici le plus grands obstacles dans l'exécution de ce dessein, vu qu'il s'agit de quatre faces, qui doivent être travaillée exactement selon les proportions que j'avois trouvées : cependant ayant fait les experiences sur quelquesuns, qui parurent le mieux réussi, nous avons trouvé, que l'intervalle entre les deux foyers des rayons rouges et violets étoit beaucoup plus petit, qu'il ne seroit d'un verre simple de la même distance focale. Neantmoins je dois avouer, qu'un tel verre, quand même il bien seroit parfaitement executé sur mes principes, aurait d'autres defauts, qui le mettroient au dessous même des verres ordinaires : c'est qu'un tel verre n'admet qu'un tres petite ouverture en consequence des grandes courbures, qu'on doit donner aux faces interieures : deforte que lorsqu'on donne une ouverture ordinaire, l'image devient tres confus.\n\nAinsi puisque vous vous êtes donné la peine, Monsieur, d'exécuter de tels verres, en en faisant des expériences *, je vous prie de bien distinguer les defauts, qui peuvent naître de la diverse refrangibilité des rayons, de ceux, qui viennent d'une trop grande ouverture : pour cet effet vous n'aurez qu'à laisser une tres petite ouverture.\n\nOr\n\n* Mr. Dollond, in his letter to Mr. Euler, here referred to, does not say that he had made any trials himself, but only he had understood that such had been made by others, without success.\nOr si ma théorie étoit juste, dont j’aurai bientôt l’honneur de parler, il feroit moyen de remédier à ce défaut; il faudroit renoncer à la figure sphérique qu’on donne ordinairement aux faces des verres, et tacher de leur donner une autre figure, et j’ai remarqué que la figure d’une parabole leur procureroit l’avantage, qu’ils admettroient une ouverture très considérable. Notre savant M. Lieberkuhn s’est appliqué à travailler des verres dont la courbure des faces décroît depuis le milieu vers le bords, et il s’en est aperçu de très grands avantages. Par ces raisons je crois, que ma théorie ne souffre encore rien de ce côté.\n\nPour la théorie, je conviens avec vous, monsieur, que posant la rapport de refraction d’un milieu dans un autre quelconque pour les rayons moyens comme $m$ à $1$, et pour les rayons rouges comme $M$ à $1$, la raison de $m-M$ à $m-1$ sera toujours si à peu près constant, qu’elle satisfera à toutes les expériences, comme le grand Newton a remarqué. Cette raison ne diffère non plus de ma théorie que presque imperceptiblement: car puisque je soutiens que $M=m^α$, et que $m$ diffère ordinairement fort peu de l’unité, soit $m=1+\\omega$; et puisque $M=m^α=1+\\alpha l m$ à peu près, et $l (1+\\omega)=lm=\\omega$, aussi fort à peu près, j’aurai $m-M=1+\\omega-\\alpha \\omega=(1-\\alpha) \\omega$, et $m-1=\\omega$, donc la raison $\\frac{m-M}{m-1}$ sera $=1-\\alpha$, ou fort à peu près constante. Delà je conclus, que les expériences d’où le grand Newton a tiré son rapport, ne sauroient être contraires à ma théorie.\n\nEn second lieu, je conviens aussi que si la raison $\\frac{m-M}{m-1}=\\text{Const.}$ étoit juste à la rigueur, il n’y auroit plus\nplus moyen de remedier au defaut qui resulte de la diverse refrangibilité des rayons, de quelque maniere qu'on disposeroit divers milieux transparens, et que l'intervalle entre les divers foyers tiendroit toujours un rapport constant à la distance focale entiere du verre. Mais c'est precisement cette consideration, qui me fournit le plus fort argument : l'oeil me paroit une telle machine dioptrique parfaite, qui ne se ressent en aucune maniere de la diverse refrangibilité des rayons : quelque petite que soit sa distance focale, la sensibilité est si grande, que les divers foyers, s'il y en avoit, ne manqueroient pas de troubler tres considerablement la vision. Or il est bien certain, qu'un oeil bien constitué ne sent point l'effet de la diverse refrangibilité.\n\nLa structure merveilleux de l'oeil, et les diverses humeurs, dont il est compose, me confirme infiniment dans ce sentiment. Car s'il s'agissoit seulement de produire une representation sur le fond de l'oeil, une seule humeur auroit été suffisante ; et le Createur n'y auroit pas feurement employé plusieurs. Delà je conclud, qu'il est possible d'anéantir l'effet de la diverse refrangibilité des rayons par une juste arrangement de plusieurs milieux transparens, donc puisque cela ne seroit pas possible, si la formule \\( \\frac{m - M}{m - 1} = \\)\n\nConst. étoit vraye à la rigueur, j'en tire la consequence qu'elle n'est pas parfaitement conforme à la nature.\n\nMais voila une preuve directe de ma these : je conçois diverse milieux transparens, \\( A, B, C, D, E, etc. \\) qui different entr'eux également par rapport à leur densité optique : desorte que la raison de refraction de chacun dans le suivant soit le meme. Soit donc dans le passage\npassage du premier dans le second la raison de refraction pour les rayons rouges \\(= r : 1\\), et pour les violets \\(= v : 1\\); qui sera la même dans le passage du second dans le troisième, de celui-ci dans le quatrième, du quatrième dans le cinquième, et ainsi de suite. Delà il est clair, que dans le passage du premier dans le troisième sera \\(= r^2 : 1\\) pour les rayons rouges, et \\(= v^2 : 1\\) pour les violets: de même dans le passage du premier dans le quatrième les raisons seront \\(r^3 : 1\\) et \\(v^3 : 1\\).\n\nDonc si dans le passage dans un milieu quelconque la raison de refraction des rayons rouges est \\(= r^n : 1\\), celle des rayons violets sera \\(= v^n : 1\\); tout cela est parfaitement conforme aux principes du grand Newton. Posons \\(r^n = R\\), et \\(v^n = V\\), de sorte que \\(R : 1\\), et \\(V : 1\\) expriment les raisons de refraction des rayons rouges et violets dans un passage quelconque: et ayant \\(n l r = l R\\) et \\(n l v = l V\\) nous aurons \\(l R : l r = l V : l v\\), ou \\(\\frac{l R}{l V} = \\frac{l r}{l v}\\). Ou bien mettes \\(v = r^\\alpha\\), et à cause de \\(l v = \\alpha l r\\), on aura \\(\\frac{l R}{l V} = \\frac{1}{\\alpha}\\), ou \\(l V = \\alpha l R\\), et par tant \\(V = R^\\alpha\\).\n\nVoilà donc le fondement du principe, que j'ai employé dans ma pièce, qui me paraît encore inébranlable: cependant j'en soumets la décision à l'illustre Société Royale, et à votre jugement en particulier, ayant l'honneur d'être avec la plus parfaite considération, Monsieur,\n\nBerlin, Juin 15,\n1752.\n\nVotre très humble\net très obéissant serviteur,\n\nL. Euler.\nXLIV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105157.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16052,
+    "total-output-tokens": 4693,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        955,
+        2
+      ],
+      [
+        955,
+        1943,
+        3
+      ],
+      [
+        1943,
+        3372,
+        4
+      ],
+      [
+        3372,
+        5235,
+        5
+      ],
+      [
+        5235,
+        7382,
+        6
+      ],
+      [
+        7382,
+        8284,
+        7
+      ],
+      [
+        8284,
+        9913,
+        8
+      ],
+      [
+        9913,
+        11583,
+        9
+      ],
+      [
+        11583,
+        13297,
+        10
+      ],
+      [
+        13297,
+        14864,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "fr",
+      "fr",
+      "fr",
+      "fr",
+      "fr"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105157",
+    "title": "Letters Relating to a Theorem of Mr. Euler, of the Royal Academy of Sciences at Berlin, and F. R. S. for Correcting the Aberrations in the Object-Glasses of Refracting Telescopes",
+    "authors": "L. Euler, James Short, John Dollond",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/105157"
+  }
+}

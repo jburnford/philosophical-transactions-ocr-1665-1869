@@ -1,0 +1,59 @@
+{
+  "id": "0ab89cd8c618d8b993a9df40ddfbb180bf2cb5a8",
+  "text": "Mean Variation of the Magnetic Needle.\n\nJune 1821, $^{\\circ} 24' 11'' 18$\n1822, $^{\\circ} 24' 9'' 55$\n1823, $^{\\circ} 24' 9'' 48$\n\nCorrections.\n\nPart I., p. 145, l. 9, and p. 148, l. 12, for decipimenta, read dissepimenta.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107643.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 179,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        222,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107643",
+    "title": "Corrections",
+    "authors": null,
+    "year": 1823,
+    "volume": "113",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107643"
+  }
+}

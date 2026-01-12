@@ -1,0 +1,139 @@
+{
+  "id": "9c62b5fdf59797f6a171f2d45ef06852fbaeb07a",
+  "text": "Theorem\n\n\\[ az + bz^2 + cz^3 + dz^4 + ez^5 + fz^6 + g \\]\n\n\\[ = a^m z^m + \\frac{m}{1} a^{m-1} b z^{m+1} + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} b^2 z^{m+2} + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} a^{m-3} b^3 c \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} a^{m-4} b^4 d \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} \\times \\frac{m-4}{5} a^{m-5} b^5 e \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} \\times \\frac{m-4}{5} \\times \\frac{m-5}{6} a^{m-6} f \\]\n\nFig. 1\nTheorem Fig. 5. Transact. N° 230.\n\n\\[ z^5 + fz^6 + gz^7 + hz^8 + iz^9 & C = \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} a^{m-3} b^3 z^{m+3} + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} a^{m-4} b^4 z^{m+4} \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} bc + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{1} a^{m-3} b^2 c \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} bd + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} c^2 \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-1} e \\]\n\n\\[ \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} \\times \\frac{m-4}{5} \\times \\frac{m-5}{6} a^{m-6} b^6 z^{m+6} & C \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{4} \\times \\frac{m-4}{1} a^{m-5} b^4 c \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} \\times \\frac{m-3}{1} a^{m-4} b^3 d \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{1} \\times \\frac{m-3}{2} a^{m-4} b^2 c^2 \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{1} a^{m-3} b^2 e \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{1} a^{m-3} bcd f \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} bf \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} \\times \\frac{m-2}{3} a^{m-3} c^3 \\text{ West} \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} ce \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-2} d^2 \\]\n\n\\[ + \\frac{m}{1} \\times \\frac{m-1}{2} a^{m-1} g \\]\nthat whatever is said of one may be said of t'other. However I think to give sometime a more formal Demonstration of it.\n\nSee the Theorem Fig. 5.\n\nIV. A Demonstration of an Error committed by common Surveyors in comparing of Surveys taken at long Intervals of Time arising from the Variation of the Magnetick Needle, by William Molyneux Esq; F. R. S.\n\nThe Variation of the Magnetick Needle is so commonly known, that I need not insist much on the Explication thereof, 'tis certain that the true Solar Meridian, and the Meridian shewn by a Needle, agree but in very few places of the World; and this too, but for a little time (if a Moment) together. The Difference between the true Meridian and Magnetick Meridian perpetually varying and changing in all Places and at all Times; sometimes to the Eastward and sometimes to the Westward.\n\nOn which account 'tis impossible to compare two Surveys of the same place, taken at distant times, by Magnetick Instruments (such as the Circumferentor, by which the Down Survey, or Sir William Petty's Survey of Ireland was taken) without due allowance be made for this Variation. To which purpose we ought to know the Difference between the Magnetick Meridian and true Meridian at that time of the Down Survey, and the said Difference at the time, when we make a New Survey to compare with the Down Survey.\nBut here I would not be understood, as if I propo-\nsed hereby to shew, that a Map of the same place, ta-\nken by Magnetick Instruments at never so distant times,\nshould not at one time give the same Figure and Con-\ntent as at another time. This certainly it will do most\nexactly, the variation of the Needle having nothing\nto do either in the Shape or Contents of the Survey. All\nthat is affected thereby, is, the Bearings of the Lines\nrun by the Chain, and the Boundaries between Neigh-\nbours. And how this may cause a considerable Error\n(unless due allowance be made for it) is what I shall\nprove most fully.\n\nIn order to which, let us suppose that about the Year\n1657. (at which time the Down Survey was taken) the\nMagnetick Meridian and true Meridian did agree\nat Dublin, or pretty nigh all over Ireland; that is to\nsay, that there was no Variation. And indeed by Expe-\nriment it was at that time found, as I am well assur'd,\nthat at Dublin it was hardly half a Degree.\n\nLet us suppose that in the Year 1695. the Variation\nwas 7 Degrees from the North to the Westward: that it\nwas really so, I believe I am pretty well assured, from\nan Experiment thereof made by myself with all dili-\ngence. But this is not material, let us now only sup-\npose it.\n\nLet $A B$ represent the Survey of two Town Lands,\none in the possession of $A$, and t'other in the possession\nof $B$, which we will call $A$ Town-Land and $B$ Town-\nLand, taken by the Down Survey, Anno 1657. when\nthere was no Variation.\n\nLet the Line $NS$ running through the Point $P$ be the\ntrue Meridian, and consequently the Magnetick Meri-\ndian also at that time, because of the supposed no Varia-\ntion, and let this Line $NS$ be also the Boundary between\nthe two Town-Lands $A$ and $B$.\nIn the Year 1695, when the Variation is 7 Degrees from the North to the Westward, B having a Map of the Down Survey, and being suspicious that his Neighbour A had incroached on him by a Ditch P Q, employs a Surveyor to inquire into the Matter: The Surveyor finds by his Map that the Boundary between B and his Neighbour A run from the Point P through a Meadow directly according to the Magnetick Meridian S P N; but observing the Ditch P Q cast up much to the Eastward of the present Magnetick Meridian, he concludes that A has incroached on B, and that the Ditch ought to have been cast up amongst the Line P q, the Angle Q P q being an Angle of 7 Degrees, that is the present Variation of the Needle; and the Line P q the present Magnetick Meridian: For which Variation, not making any allowance, he positively determines that B has all the Land in the Triangle Q P q, more than he ought to have; and that his Ditch ought to run amongst the Line P q.\n\n'Tis true indeed, if the Surveyor go the whole Surround of the Lands A and B he will find their Figure and Contents exactly agreeable to the Map here expressed. But then the Bearings of the Lines are all 7 Degrees different from the Bearings in the Map, and they will run in and out upon the adjacent Neighbouring Lands, and cause endless Differences between their Possessors; as is manifest from the Figure: wherein the prickt Lines represent the Disagreement in the Bearings of the Lines, protracted from the Point P; and we see A incroaching on his Neighbours on the Westward, as he incroaches on B, and B's Eastward Neighbours incroaching on him, and so forward and clear round. Whereas, by a due allowance for the Variation of the Needle, all this Confusion and Disagreement is avoided, and every thing hits right.\n\nThus,\nThus for instance in the Case before us, knowing that the Magnetick Variation has caused the present Magnetick Meridian to fall in the Line \\( n q P s \\), 7 Degrees from the North to the Westward; to Reduce this to the Magnetick Meridian at the time of the Down Survey, I must make the Meridian of my Map to fall 7 Degrees to the Eastward of my Magnetick Meridian; as we see the Line \\( P Q \\) falls 7 Degrees to the Eastward of the Line \\( P q \\).\n\nWhat is here said on supposition that the Magnet had no Variation at the time of the first Survey taken, and that it had 7 Degrees variation Westward at the time of the second Survey, may easily be accommodated to the supposal of any other Variations at the first and second Surveys, *mutatis mutandis*, for knowing the Variations we know their Difference; and if we know their Difference, this gives us the Angle \\( Q P q \\), by which we reduce them to each other.\n\nThe best way therefore to make Maps invariable, constant, and everlasting, were for the Surveyors, who use Magnetick Instruments to make always allowance for the Magnetick Variation, and to protract and lay down their Plats by the true Meridian. This the wary Sailor is fully convinced of: and therefore in Steering his Course, he constantly allows for the present Variation, which he observes by the Azimuth Compass, or else he would miss his appointed Harbour oftner than he would hit it: For no two Points on the Globe keep the same Bearing to each other by the Magnetick Meridian for any time together. And though the Variation be slow, yet in a long Course, or in times pretty distant, it may cause vast Errors, unless allowed for. Thus for instance, Suppose in the Year 1660. a Sailor had steered from the Lands-end of England to Cape Fenister in Spain, by his Magnetick Compass a direct South Course; and that\nthat at that time there were no Variation. Afterwards,\nAnno 1700, when there was (suppose) 7 Degrees of\nVariation from the North to the Westward, another\nSailor intending to make the same Passage, steers di-\nrectly the same Southerly Course by his Magnetick\nCompas; I say, this last Seaman will be carried far in-\nto the Bay of Biscay to the Eastward, and will miss of\nhis desired Port by many Leagues; but if in his Course\nhe hath allowed for this Variation, and instead of sail-\ning a direct Southerly Course by his Compas, he had\nsteer'd 7 Degrees from the South to the Westward, he\nhad hit his Point. Whether these be the true Bearings\nof these two Places, it matters not: we go on the Sup-\nposition that they are.\n\nPerhaps it may be objected, That Surveys may be\ntaken without Magnetick Instruments, and that there-\nfore this Error arising from the Magnetick Variation,\nand Change of the Bearing of Lines, may be avoided.\nTo which I Answer, first, That granting a Survey may\nbe taken without Magnetick Instruments, this is nothing\nagainst what we have laid down relating to Surveys\nthat are taken with Magnetick Instruments, as the\nDown Survey actually was, and most Surveys at pre-\nsent actually are taken therewith. Secondly, Though\na Survey may be taken truly without Magnetick In-\nstruments, so as to shew the exact Angles and Lines of\nthe Plat, and consequently the true Contents, yet this\nwill not give the true Bearings of the Lines, or shew\nmy Position in relation to my Neighbours, or the other\nparts of the Country. This must be supply'd by the\nMagnet, or something equivalent thereto, as finding a\ntrue Meridian Line on your Land by Celestial Observa-\ntion. And I doubt not but the ancient Egyptians, be-\nfore the Discovery of the Magnet were forced to some\nsuch Expedient in their Surveys and Applotments of\nLands, between Neighbour and Neighbour, after the Inundations of the Nile, which, we are told, gave the first Original to Geometry and Surveying. Absolute Necessity and Use having introduced these, as Delight and Diversion introduced Astronomy amongst the Chaldeans.\n\nAnd this brings me to another Objection which may be made against the Instance before laid down: It may be said, That certainly the Surveyor which B employed was very ignorant, who would choose to judge of the Line P Q rather by its bearing than by determining the Point Q, by measuring from H and G. To this I answer, What if both the Points H and G were vanish'd since the Down Survey was taken? What if the whole face of the Country were chang'd, save only the Point P and the Line P Q? How shall the Surveyor then judge of the Line P Q but by its bearing? That this is no extravagant Supposition, we have an Example in Egypt above-mentioned, where the Nile lays all flat before it, and so uniformly covers all with Mud, that there is no distinction. In such a Case your Bearing must certainly help you out, there is no other way.\n\nBut I answer secondly, To say that the Surveyor might have determin'd the Point Q by admeasurement from G and H, or any other adjoining noted Points, as from F, K, I, &c. 'tis very true; But then 'tis against our Supposition. I am upon shewing an Error that arises from judging of the Line P Q by Magnetick bearing, and to tell me that this might be avoided by another way, is to say nothing. I myself shew how it may be avoided by allowing for the Variation; but still it is an Error, till it be avoided.\nBut thirdly, If B's Surveyor do not allow for the Variation of the Needle, he will never exactly determine even the Points G, F, H, K, &c. or any other Points in the Plat; but instead thereof will fall on the Points g, h, f, k.\n\nFrom what has been laid down, we may see the absolute necessity of allowing for the Variation of the Magnet, in comparing old Surveys with new ones; for want of which great Disputes may arise between neighbouring Proprietors of Lands: and it were to be wish'd that our Honourable and Learned Judges would take this Matter into their Consideration whenever any Business of this kind comes before them. Hitherto an absolute Acquiescence in the Down Survey, without any of the fore-mention'd Allowance, has been agreed upon as a standing Rule in our Courts of Judicature in Ireland; but that many Men may be injured thereby, I suppose is manifest from what foregoes.\n\nI have only this to add, That least I be thought herein to strike at the Truth or Exactness of the Down Survey, 'tis not at all the intention of this Paper, but rather to confirm it, by shewing which way Men ought to Examine it truly, and not by the common ways used by them, which rather confound it, and all that claim under it.\n\nSee the Table Fig. 6.\n\nAlthough this Paper was chiefly designed for the ending of Contests in the Kingdom of Ireland about the interests of some of those whose Lands are Neighbouring, and have been Surveyed by Magnetick Instruments, yet considering its universal Use, it was thought it would be very grateful to the Curious to publish it here.\n\nV. Extra.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102379.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 15358,
+    "total-output-tokens": 4212,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        592,
+        2
+      ],
+      [
+        592,
+        2012,
+        3
+      ],
+      [
+        2012,
+        3357,
+        4
+      ],
+      [
+        3357,
+        5102,
+        5
+      ],
+      [
+        5102,
+        6883,
+        6
+      ],
+      [
+        6883,
+        8717,
+        7
+      ],
+      [
+        8717,
+        10542,
+        8
+      ],
+      [
+        10542,
+        12151,
+        9
+      ],
+      [
+        12151,
+        13731,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102379",
+    "title": "A Demonstration of an Error Committed by Common Surueyors in Comparing of Surueys Taken at Long Interuals of Time Arising from the Variation of the Magnetick Needle, by William Molyneux Esq; F. R. S.",
+    "authors": "William Molyneux",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/102379"
+  }
+}

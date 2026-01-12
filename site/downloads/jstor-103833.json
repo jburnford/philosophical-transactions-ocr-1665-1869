@@ -1,0 +1,59 @@
+{
+  "id": "7b8755a25c34db89e0ac1fa35ce04ac8401ad71c",
+  "text": "3 Inches perpendicular Height, above the horizontal Plane on which the Meridian Line was drawn.\n\nMr. Wheeler, at Otterden-Place, near Lenham in Kent, observed the Beginning at $5^h\\ 49'\\ 0''$, and the End at $7^h\\ 31'\\ 49''$. His Observations were made with a Telescope of 15 Feet in length, and his Time was also rectified by a Meridian Line; but it was done by a Transit of the Rays through an Hole at a much greater Height. For the Brass Plate in which the Hole was made was fix'd to a Window in the Roof of his Hall, at the Height of 27 Feet above the Meridian Line on the Floor.\n\nWith my humble Duty to the Royal Society, I remain,\n\nSir,\nYour humble Servant,\nStephen Gray.\n\nVI. An Observation of the same Eclipse of the Sun, by Mr. J. Milner, at Yeovil in Somersetshire, communicated in a Letter to Dr. John Allen, M.D. F.R.S.\n\nSIR,\n\nI Beg leave to present you with the Observations I made on the Eclipse May 2, viz.\n\nThe Beginning at $5^h\\ 34'\\ 00''\\ 17.\\degree\\ 45'$\n\nat 6. 00. 00 $13.\\degree\\ 36'$ Sun's Alt.\n\nEnd at 7. 14. 30 $2.\\degree\\ 45'$\n\nI made Use of a Quadrant 2 Feet radius.\n\nJ. Milner.\n\nLat. Yeovil, 51°.\n\nMay 4, 1733.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103833.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 424,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1137,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103833",
+    "title": "An Observation of the Same Eclipse of the Sun, by Mr. J. Milner, at Yeovil in Somersetshire, Communicated in a Letter to Dr. John Allen, M. D. F. R. S.",
+    "authors": "J. Milner",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103833"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "83933ef64448181a6d62464344174558559161b9",
+  "text": "XXI. Extract of a Letter from John Howard, Esq; F.R.S. to William Watson, M.D. F.R.S. giving some Observations on the Heat of the Waters at Bath.\n\nRead April 2, 1767.\n\nWHEN I had the pleasure of seeing you in London, you thought some explanation of the paper, upon the heat of the Bath-waters, necessary. The observations, I assure you, were made with great care. The three first of them were made at the pump, where the waters are usually drunk. I went several times into the king's, and queen's, baths; and took them, where the springs rise in the king's bath, which is the warmest part, and the most distant from thence the coolest. The pump in that bath corresponded with the upper pump. This I mention; as in the other two baths, the thermometers did not rise, by one degree, so high as in the upper pumps; though I had the pumps worked a considerable time, to warm the pipes. The temperature of the other baths you see in my paper. The hot bath, not being so warm as the king's, at first, surprized me, until I considered their times of filling; and then the comparative slowness of the springs of the hot bath, to those of the king's, accounted for this difference.\n\nThe other observations are of various springs, in and about Bath; that near St. James's church is the coldest.\nThe springs, at the old and new well houses at Bristol, are very different; but, on repeated trials, I found them so.\n\n**Observations on the Heat of the Bath Waters.**\n\n| Location                        | Temperature |\n|---------------------------------|-------------|\n| King's bath pump                | 113°        |\n| Hot bath pump                   | 114         |\n| Cross bath pump                 | 108         |\n| King's bath *                   | 99 97 100   |\n|                                 | coolest part|\n|                                 | 101 99 103  |\n|                                 | hottest part|\n| Queen's bath *                  | 97 95 98    |\n|                                 | coolest part|\n|                                 | 98 96 99    |\n|                                 | warmest     |\n| The pump in the bath            | 113         |\n| Cross bath                      | 89          |\n|                                 | coolest part|\n|                                 | 90          |\n|                                 | warmest part|\n| Cross bath pump                 | 107         |\n| Hot bath                        | 96          |\n|                                 | coolest part|\n|                                 | 97          |\n|                                 | warmest part|\n| The pump in the hot bath        | 113         |\n| Pump in the Market-place, Bath  | 54          |\n| Springs on Claverton, and at late Mr. Allen's | 47 |\n| Springs on Lansdown             | 45          |\n| St. James's spring water        | 43          |\n| Old well house, Bristol         | 67          |\n| New well, ditto                 | 76          |\n\nThe temperature of the above springs taken in November, and December last 1765, by Fahrenheit's scale (Bird's Thermometer).\n\n* Taken at three different days.\n\nJohn Howard.\nBath,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105946.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 816,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1285,
+        2
+      ],
+      [
+        1285,
+        3137,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105946",
+    "title": "Extract of a Letter from John Howard, Esq; F. R. S. to William Watson, M. D. F. R. S. Giving Some Observations on the Heat of the Waters at Bath",
+    "authors": "John Howard",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105946"
+  }
+}

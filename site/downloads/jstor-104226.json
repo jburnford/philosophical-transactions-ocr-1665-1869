@@ -1,0 +1,59 @@
+{
+  "id": "7704a959c47be4af0422b96a918295b56e8a0590",
+  "text": "XIV. Part of a Letter from M. Geoffroy, F.R.S. and Member of the Royal Academy of Sciences at Paris, to Sir Hans Sloane, Bart. late President of the Royal Society, concerning a Child of a monstrous Size.\n\nRead Dec. 22. 1743.\n\nNormandy has furnished us some Years ago a Child, monstrous by its Size, and a Strength which its Age could not naturally afford. It was born at Rouen, and is a Prodigy of Virility, of Three Years and Two Months of Age, perhaps One Month older, and is now in the Hospital at Rouen. It has a very large Neck, the Breast very broad, and the Belly bigger than in its natural State. The upper Part of the Thighs is a little thickish, the rest is conformable to its Age. He has Hair only about the Privy Parts; the Penis is Three Inches long when there is no Erection, but of Six when there is any. They have found him to have Emi-\nsions. The Fact is very true, and M. Le Cat, F.R.S. a Surgeon at Rouen, has fully traced it out.—",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104226.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 311,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        950,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104226",
+    "title": "Part of a Letter from M. Geoffroy, F. R. S. and Member of the Royal Academy of Sciences at Paris, to Sir Hans Sloane, Bart. Late President of the Royal Society, concerning a Child of a Monstrous Size",
+    "authors": "M. Geoffroy",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104226"
+  }
+}

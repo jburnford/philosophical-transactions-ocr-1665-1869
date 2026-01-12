@@ -1,0 +1,59 @@
+{
+  "id": "0bacdc4fa71358dc760f7086a613de8ee0a3ff23",
+  "text": "LI. Transit of Venus over the Sun, observed June 3, 1769, by Alexander Aubert, in Austin Friars, London, three Seconds of Time East of St. Paul's, with a Cassegrain Reflector of J. Short, having a Metal of two Feet focal Length, and magnifying about 110 Times.\n\nExternal contact at $7^h\\ 8^m\\ 13^s$ mean time.\nInternal contact at $7^h\\ 26^m\\ 45^s$ interval $18'32''$.\n\nN.B. At $7^h\\ 26'45''$ Venus appeared to me in contact with the Sun, and about $6''$ after I saw the Sun's limb compleated.\n\nThe clock could be depended on to less than one second, having been compared with a number of equal altitudes of the Sun, some days before and after the transit.\n\nAlexander Aubert.\n\nLII. Some",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105849.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 274,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        685,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105849",
+    "title": "Transit of Venus Over the Sun, Observed June 3, 1769, by Alexander Aubert, in Austin Friars, London, Three Seconds of Time East of St. Paul's, with a Cassegrain Reflector of J. Short, Having a Metal of Two Feet Focal Length, and Magnifying about 110 Times",
+    "authors": "Alexander Aubert, J. Short",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105849"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "697492d19966c25d9c856bf1dd1b185347a495ad",
+  "text": "LIX. An Account of the Effects of Electricity in paralytic Cases. In a Letter to John Pringle, M.D. F.R.S. from Benjamin Franklin, Esq; F.R.S.\n\nSIR,\n\nTHE following is what I can at present recollect, relating to the effects of electricity in paralytic cases, which have fallen under my observation.\n\nSome years since, when the newspapers made mention of great cures performed in Italy or Germany, by means of electricity, a number of paralytics were brought to me from different parts of Pennsylvania, and the neighbouring provinces, to be electrified; which I did for them at their request. My method was, to place the patient first in a chair, on an electric stool, and draw a number of large strong sparks from all parts of the affected limb or side. Then I fully charged two six-gallon glass jars, each of which had about three square feet of surface coated; and I sent the united shock of these thro' the affected limb or limbs; repeating the stroke commonly three times each day. The first thing observed was an immediate greater sensible warmth in the lame limbs, that had received the stroke, than in the others: and the next morning the patients usually related, that they had in the night felt a pricking sensation in the flesh of the paralytic limbs; and would sometimes shew a number of small red spots, which they\nsupposed were occasioned by those prickings. The limbs too were found more capable of voluntary motion, and seemed to receive strength. A man, for instance, who could not the first day lift the lame hand from off his knee, would the next day raise it four or five inches, the third day higher; and on the fifth day was able, but with a feeble languid motion, to take off his hat. These appearances gave great spirits to the patients, and made them hope a perfect cure; but I do not remember, that I ever saw any amendment after the fifth day: which the patients perceiving, and finding the shocks pretty severe, they became discouraged, went home, and in a short time relapsed; so that I never knew any advantage from electricity in palsies, that was permanent. And how far the apparent temporary advantage might arise from the exercise in the patients journey, and coming daily to my house, or from the spirits given by the hope of success, enabling them to exert more strength in moving their limbs, I will not pretend to say.\n\nPerhaps some permanent advantage might have been obtained, if the electric shocks had been accompanied with proper medicine and regimen, under the direction of a skilful physician. It may be, too, that a few great strokes, as given in my method, may not be so proper as many small ones; since, by the account from Scotland of a case, in which two hundred shocks from a phial were given daily, it seems, that a perfect cure has been made. As to any uncommon strength supposed to be in the machine used in that case, I imagine it could have no share in the effect produced; since the strength of\nof the shock from charged glass is in proportion to the quantity of surface of the glass coated; so that my shocks from those large jars must have been much greater than any, that could be received from a phial held in the hand.\n\nI am, with great respect,\n\nS I R,\n\nLondon, Dec. 21, 1757.\n\nYour most obedient Servant,\n\nR. Franklin.\n\nLX. Observations on the late Comet in September and October 1757; made at the Hague by Mr. D. Klinkenberg: In a Letter to the Rev. James Bradley, D.D. Astronomer Royal, and F.R.S, and Member of the Royal Academy of Sciences at Paris. Translated from the Low Dutch.\n\nS I R,\n\nRead Jan. 12, 1758.\n\nI Hope you will be pleased to excuse the liberty, which I take, of troubling you with my observations on the comet, which made its appearance here, and in other parts of Europe, in the months of September and October last; and which, according to the newspapers, was first observed the 11th September by Mr. Gartner, at Dorlkeurtz near Dresden; then by me, on the 16th",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105284.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 1018,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1327,
+        2
+      ],
+      [
+        1327,
+        2951,
+        3
+      ],
+      [
+        2951,
+        3946,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105284",
+    "title": "An Account of the Effects of Electricity in Paralytic Cases. In a Letter to John Pringle, M. D. F. R. S. from Benjamin Franklin, Esq; F. R. S.",
+    "authors": "Benjamin Franklin",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105284"
+  }
+}

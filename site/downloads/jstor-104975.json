@@ -1,0 +1,79 @@
+{
+  "id": "a735246e608ff9be5027860ba6bdd91f45e36005",
+  "text": "Two pits observed years ago, now sunk much deeper.\n\nFormer clear small springs, where it is supposed the water now vents itself.\n\nSteep rising ground, or woods, on each side Frooyd, declining towards the Looyd.\n\nLXXXI. An Account of the Agitation of the Waters, on the 1st of November 1756, in Scotland and at Hamburgh. Communicated by John Pringle, M.D. F.R.S. in a Letter to the Rev. Tho. Birch, D.D. Secret. R.S.\n\nSIR,\n\nRead Mar. 18, 1756.\n\nThe two inclosed accounts of the agitation of the waters, on the first of November last, I received since the last meeting of the Society. One was transmitted to me by Dr. Simson, professor of medicine in the university of St. Andrews, containing the observation of Mr. Mark M'Callum, master of a Greenland ship, who happened to be that day at the Queen's-Ferry, a sea-port town on the Frith of Forth, about seven miles farther up than Leith. The account is addressed to the rev. Mr. Dalgleish, a friend of Dr. Simson's, and employed by him to procure the best information.\n\nDr. Simson, in the same letter to me, takes notice of a report, as if the same agitation of the water was likewise\nlikewise seen at Alloa, another sea-port town about sixteen miles higher on the Frith; but as he had received no certain account of that circumstance, he could not answer for the truth of it. He concludes with saying, that, so far as he could be informed, there was no sensible agitation of the sea anywhere on the coast of Fife; though great part of that county lies upon the Frith, and abounds with inhabitants on the coast, who might have made the observation.\n\nThe other paper is an extract of a letter from Mr. Reimarus, professor of the oriental languages at Hamburgh, to his son, Mr. Reimarus, at present student of physic in this place. This last gentleman wrote to his father, at my request, in order to have an authentic account of what we read in the publick papers, concerning the motion of the candlesticks in the churches, and the agitation of the waters in and about that city on the first of November last. I am,\n\nSIR,\n\nPall-mall, 18 Mar.\n1756.\n\nYour most obedient humble servant,\n\nJohn Pringle.\n\nSIR,\n\nRead Mar. 18,\n1756.\n\nAbout ten o'clock of the forenoon, on the first day of November, to the best of my remembrance, being then on the pier at Queen's-ferry, I observed the water to rise very\nvery suddenly, and return again with the same motion, which I judged to be about a foot, or eighteen inches perpendicular, which made the barks and boats then afloat run forwards and backwards on their ropes with great rapidity; and this continued for three or four minutes, it being then calm; but after the second or third rush of water, it always grew less: And this is the nearest calculation I can make.\n\nMark M'Callum.\n\nRead Mar. 18, 1756.\n\nThe following phenomena are well vouched to have happened at Hamburg, the first of November 1755. In one of the Churches many persons, that were present, observed an agitation of the branched candlesticks hanging from the roof, about one o'clock after noon. In another church, the cover of the baptistery hanging from the roof was also remarked to be agitated: and the like motions are said to have happened in other churches. It is likewise sure, that the water in the canal thro' the town, and in the river Alster, was agitated the same day. It is described first to have formed several gentle whirlpools, from thence to have risen more and more impetuously, throwing about mud brought up from the bottom, and at last to have subsided with a copious white froth. The Elbe is said to have risen in some places still more violently.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104975.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1009,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1134,
+        2
+      ],
+      [
+        1134,
+        2345,
+        3
+      ],
+      [
+        2345,
+        3624,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104975",
+    "title": "An Account of the Agitation of the Waters, on the 1st of November 1756, in Scotland and at Hamburgh. Communicated by John Pringle, M. D. F. R. S. in a Letter to the Rev. Tho. Birch, D. D. Secret. R. S.",
+    "authors": "John Pringle, Mark M'Callum",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104975"
+  }
+}

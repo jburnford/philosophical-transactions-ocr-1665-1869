@@ -1,0 +1,159 @@
+{
+  "id": "a82fe8da29e7ca45f56a964e15af4cece2a84f12",
+  "text": "XXV. A new Method of finding Fluents by Continuation. By\nthe Rev. Samuel Vince, A. M. F. R. S.\n\nRead July 6, 1786.\n\nART. I. Put \\( \\dot{F} = \\frac{x^m}{a^n + x^n} = x^{m-n} \\dot{x} - a^n x^{m-2n} \\dot{x} + a^{2n} x^{m-3n} \\dot{x} - \\ldots \\)\n\n&c. \\( \\pm \\frac{a^{vn} x^{m-vn}}{a^n + x^n} \\), then \\( F = \\frac{x^{m-n+1}}{m-n+1} - \\frac{a^n x^{m-2n+1}}{m-2n+1} + \\frac{a^{2n} x^{m-3n+1}}{m-3n+1} - \\ldots \\) &c.\n\n\\( = W \\), where \\( W \\) represents the fluent of the last term. Now\n\n\\( \\frac{x^m \\dot{x}}{a^n + x^n} = \\frac{x^m \\dot{x} \\times a^n + x^n}{a^n + x^n}^{1-r} \\); hence \\( \\int \\frac{x^m \\dot{x}}{a^n + x^n}^{1-r} = \\int \\frac{x^m \\dot{x} \\times a^n + x^n}{a^n + x^n}^{1-r} = F \\)\n\n\\( \\times a^n + x^n)^{1-r} - \\int F \\times \\frac{1-r \\cdot nx^{n-1} \\dot{x}}{a^n + x^n} \\) (by substituting for \\( F \\) its value in the latter quantity) \\( F \\times a^n + x^n)^{1-r} - \\frac{1-r \\cdot n}{m-n+1} \\times \\)\n\n\\( \\int \\frac{x^m \\dot{x}}{a^n + x^n}^{1-r} + \\frac{1-r \\cdot na^n}{m-2n+1} \\times \\int \\frac{x^{m-n} \\dot{x}}{a^n + x^n}^{1-r} - \\frac{1-r \\cdot na^{2n}}{m-3n+1} \\times \\int \\frac{x^{m-2n} \\dot{x}}{a^n + x^n}^{1-r} + \\ldots \\)\n\n\\( \\pm \\int W \\times \\frac{1-r \\cdot nx^{n-1} \\dot{x}}{a^n + x^n} \\); transpose \\( \\frac{1-r \\cdot n}{m-n+1} \\times \\int \\frac{x^m \\dot{x}}{a^n + x^n}^{1-r} \\) and divide both sides of the equation by \\( \\frac{m-rn+1}{m-n+1} \\) and we have\n\n\\( \\int \\frac{x^m \\dot{x}}{a^n + x^n}^{1-r} = \\frac{m-n+1}{m-rn+1} \\times F \\times a^n + x^n)^{1-r} + \\frac{m-n+1}{m-rn+1} \\times \\frac{1-r \\cdot na^n}{m-2n+1} \\times \\)\n\n\\( \\int \\frac{x^{m-n} \\dot{x}}{a^n + x^n}^{1-r} - \\frac{m-n+1}{m-rn+1} \\times \\frac{1-r \\cdot na^{2n}}{m-3n+1} \\times \\int \\frac{x^{m-2n} \\dot{x}}{a^n + x^n}^{1-r} + \\ldots \\pm \\frac{m-n+1}{m-rn+1} \\times \\)\n\\[ \\int W \\times \\frac{1 - r \\cdot nx^{n-1} \\dot{x}}{a^n + x^n} \\]\n\nnow the fluent of the last term is\n\n\\[ = \\frac{m-n+1}{m-rn+1} \\times W \\times (a^n + x^n)^{1-r} = \\frac{m-n+1}{m-rn+1} \\times \\int \\frac{a^n \\cdot x^{m-nr} \\dot{x}}{(a^n + x^n)^r} \\]\n\nhence by substituting this quantity for the last term, it is manifest, that the first part \\(= \\frac{m-n+1}{m-rn+1} \\times W \\times (a^n + x^n)^{1-r}\\) will be destroyed by the last term of \\(= \\frac{m-n+1}{m-rn+1} \\times F \\times (a^n + x^n)^{1-r}\\), when we substitute for \\(F\\) its value; hence if we put \\(M = \\frac{x^{m-n+1}}{m-n+1} - \\frac{a^n \\cdot x^{m-2n-1}}{m-2n+1} + \\frac{a^{2n} \\cdot x^{m-3n+1}}{m-3n+1} - \\&c.\\) omitting the last term \\(= W\\), we have\n\n\\[ \\int \\frac{x^m \\dot{x}}{x^n + x^n} = \\frac{m-n+1}{m-rn+1} \\times M \\times (a^n + x^n)^{1-r} + \\frac{m-n+1}{m-rn+1} \\times \\frac{1 - r \\cdot na^n}{m-2n+1} \\times \\]\n\n\\[ \\int \\frac{x^{m-n} \\dot{x}}{a^n + x^n} - \\frac{m-n+1}{m-rn+1} \\times \\frac{1 - r \\cdot na^{2n}}{m-3n+1} \\times \\int \\frac{x^{m-2n} \\dot{x}}{a^n + x^n} + \\&c. = \\frac{m-n+1}{m-rn+1} \\times \\]\n\n\\[ \\times a^n \\times \\int \\frac{x^{m-n} \\dot{x}}{a^n + x^n} \\]\n\nhence, if the fluent of the last term be given, we have the general law of continuation by which we may find the fluent of \\(= \\frac{x^m \\dot{x}}{a^n + x^n}\\). If the fluxion be \\(= \\frac{x^m \\dot{x}}{a^n + x^n}\\) all the terms after the first will be negative, and the last always positive.\n\nEx. 1. Given the fluent of \\(= \\frac{\\dot{x}}{\\sqrt{1+x^2}}\\) to find the fluent of \\(= \\frac{x^{2s} \\dot{x}}{\\sqrt{1+x^2}}\\).\n\nHere \\(n = 2\\), \\(a = 1\\), \\(m = 2s\\), \\(r = \\frac{1}{2}\\), \\(M = \\frac{x^{2s-1}}{2n-1} - \\frac{x^{2s-3}}{2n-3} + \\&c.\\) to \\(= x\\),\nand the fluent of \\( \\frac{x}{\\sqrt{1+x^2}} \\) is the hyp. log. \\( x + \\sqrt{1+x^2} \\)\n\nwhich call \\( Q \\); hence\n\n\\[ \\int \\frac{x^{2s-1}x}{\\sqrt{1+x^2}} = \\frac{2s-1}{2s} \\times M \\times \\sqrt{1+x^2} + \\frac{2s-1}{2s \\cdot 2s-3} \\]\n\n\\[ \\times \\int \\frac{x^{2s-2}x}{\\sqrt{1+x^2}} - \\frac{2s-1}{2s \\cdot 2s-5} \\times \\int \\frac{x^{2s-4}x}{\\sqrt{1+x^2}} + \\&c. = \\frac{2s-1}{2s} \\times Q. \\]\n\nIf \\( s = 1 \\), \\( \\int \\frac{x^2x}{\\sqrt{1+x^2}} = \\frac{1}{2} \\sqrt{1+x^2} \\times x - \\frac{1}{2} Q = \\alpha. \\)\n\n\\( s = 2 \\), \\( \\int \\frac{x^4x}{\\sqrt{1+x^2}} = \\frac{3}{4} \\sqrt{1+x^2} \\times \\frac{x^3}{3} - x + \\frac{3}{4} \\alpha + \\frac{3}{4} Q = \\beta. \\)\n\n\\( s = 3 \\), \\( \\int \\frac{x^6x}{\\sqrt{1+x^2}} = \\frac{5}{6} \\sqrt{1+x^2} \\times \\frac{x^5}{5} - \\frac{x^3}{3} + x + \\frac{5}{6} \\beta - \\frac{5}{6} \\alpha - \\frac{5}{6} Q = \\gamma. \\)\n\n\\( s = 4 \\), \\( \\int \\frac{x^8x}{\\sqrt{1+x^2}} = \\frac{7}{8} \\sqrt{1+x^2} \\times \\frac{x^7}{7} - \\frac{x^5}{5} + \\frac{x^3}{3} - x + \\frac{7}{8} \\gamma - \\frac{7}{8} \\beta - \\frac{7}{8} \\alpha + \\frac{7}{8} Q. \\)\n\n\\&c.\n\nEx. 2. To find the fluent of \\( x^2 \\dot{x} \\sqrt{2+x} \\), given the fluent of \\( x^{-\\frac{1}{2}} \\dot{x} \\sqrt{2+x} \\), and \\( s \\) an odd number.\n\nHere \\( a = 2 \\), \\( n = 1 \\), \\( r = -\\frac{1}{2} \\), \\( \\frac{s}{2} = m \\), \\( m - vn = -\\frac{1}{2} \\), or \\( \\frac{s}{2} - v = -\\frac{1}{2} \\); \\( \\therefore v = \\frac{s+1}{2} \\), \\( M = \\frac{2x^2}{s} - \\frac{4x^2}{s-2} + \\frac{8x^2}{s-4} - \\&c. \\) and the fluent (\\( Q \\)) of \\( x^{-\\frac{1}{2}} \\dot{x} \\sqrt{2+x} \\) is \\( \\pi + \\sqrt{2x+x^2} \\), where \\( \\pi = \\text{hyp. log. } 1+x+\\sqrt{2x+x^2} \\); hence\n\n\\[ \\int x^{\\frac{s}{2}} \\dot{x} \\sqrt{2+x} = \\frac{s}{s+3} \\times \\frac{2x}{2+x} \\times M + \\frac{s}{s+3} \\times \\frac{b}{s-2} \\times \\int x^{\\frac{s}{2}-1} \\dot{x} \\sqrt{2+x} - \\frac{s}{s+3} \\times \\frac{12}{s-4} \\times \\int x^{\\frac{s}{2}-2} \\dot{x} \\sqrt{2+x} \\]\n\n\\[ + \\frac{s}{s+3} \\times \\frac{24}{s-6} \\times \\int x^{\\frac{s}{2}-3} \\dot{x} \\sqrt{2+x} + \\&c. = \\frac{s}{s+3} \\times \\frac{2}{2} \\times \\int x^{-\\frac{1}{2}} \\dot{x} \\sqrt{2+x}. \\]\nfinding Fluents by Continuation.\n\nIf \\( s = 1 \\), \\( \\int x^{\\frac{3}{2}} \\dot{x} \\sqrt{2 + x} = \\frac{1}{4} \\times 2 + x^{\\frac{3}{2}} \\times 2x^{\\frac{1}{2}} - \\frac{1}{2} Q = \\alpha \\).\n\n\\( s = 3 \\), \\( \\int x^{\\frac{5}{2}} \\dot{x} \\sqrt{2 + x} = \\frac{1}{2} \\times 2 + x^{\\frac{3}{2}} \\times \\frac{2x^{\\frac{3}{2}}}{3} - 4x^{\\frac{1}{2}} + 3\\alpha + 2Q = \\beta \\).\n\n\\( s = 5 \\), \\( \\int x^{\\frac{7}{2}} \\dot{x} \\sqrt{2 + x} = \\frac{5}{6} \\times 2 + x^{\\frac{3}{2}} \\times \\frac{2x^{\\frac{5}{2}}}{5} - \\frac{4x^{\\frac{3}{2}}}{3} + 8x^{\\frac{1}{2}} + \\frac{5}{4} \\beta - \\frac{15}{2} \\alpha - 5Q = \\gamma \\).\n\n\\( s = 7 \\), \\( \\int x^{\\frac{9}{2}} \\dot{x} \\sqrt{2 + x} = \\frac{7}{10} \\times 2 + x^{\\frac{3}{2}} \\times \\frac{2x^{\\frac{7}{2}}}{7} - \\frac{4x^{\\frac{5}{2}}}{5} + \\frac{8x^{\\frac{3}{2}}}{3} - 16x^{\\frac{1}{2}} + \\frac{21}{25} \\gamma - \\frac{14}{5} \\beta + \\frac{84}{5} \\alpha + \\frac{56}{5} Q \\).\n\n&c. &c. &c.\n\nII. Let \\( F = \\frac{x^n \\dot{x}}{a + bx^m + x^{2m}} = x^{n-2m} \\dot{x} - Px^{n-3m} \\dot{x} + Qx^{n-4m} \\dot{x} - \\&c. = \\)\n\n\\( Vx^{n-m} \\dot{x} = Wx^{n-i+1} \\dot{x} \\), then \\( F = \\frac{x^{n-2m+1}}{n-2m+1} - \\frac{Px^{n-3m+1}}{n-3m+1} + \\frac{Qx^{n-4m+1}}{n-4m+1} - \\&c. = T = U \\), where \\( T \\) and \\( U \\) are put for the fluents of the two last terms, and \\( P, Q, \\&c. \\) for the co-efficients arising from the division. Now, \\( \\int \\frac{x^n \\dot{x}}{\\sqrt{a + bx^m + x^{2m}}} = \\int \\frac{x^n \\dot{x} \\times (a + bx^m + x^{2m})^{\\frac{1}{2}}}{a + bx^m + x^{2m}} = \\)\n\n\\( F \\times (a + bx^m + x^{2m})^{1-r} - \\int F + \\frac{(1-r)mbx^{m-1} \\dot{x} + 1-r \\cdot 2mx^{2m-1} \\dot{x}}{a + bx^m + x^{2m}} = \\) (by substituting for \\( F \\) its value in the latter quantity, and putting \\( A, B, C, \\&c. \\) for the co-efficients which arise in consequence thereof) \\( F \\times (a + bx^m + x^{2m})^{1-r} - A \\times \\int \\frac{x^n \\dot{x}}{a + bx^m + x^{2m}} + B \\times \\)\n\n\\( \\int \\frac{x^{n-m} \\dot{x}}{a + bx^m + x^{2m}} - C \\times \\int \\frac{x^{n-2m} \\dot{x}}{a + bx^m + x^{2m}} + \\&c. \\)\n\nVol. LXXVI. L 11\nMr. Vince's new Method of\n\n\\[ \\int T \\times \\frac{1-r \\cdot mx^{m-1}x + 1-r \\cdot 2mx^{2m-1}x}{a+bx^m+x^{2m}} \\]\n\n\\[ \\int U \\times \\frac{1-r \\cdot mx^{m-1}x + 1-r \\cdot 2mx^{2m-1}x}{a+bx^m+x^{2m}}; \\text{ hence by transposition} \\]\n\nand division we have \\( \\int \\frac{x^n x}{a+bx^m+x^{2m}} = \\frac{1}{1+A} \\times F \\times \\frac{a+bx^m+x^{2m}}{1-r} \\)\n\n\\[ + \\frac{B}{1+A} \\times \\int \\frac{x^{n-m}x}{a+bx^m+x^{2m}} - \\frac{C}{1+A} \\times \\int \\frac{x^{n-2m}x}{a+bx^m+x^{2m}} + &c. \\]\n\n\\[ \\int \\frac{T}{1+A} \\times \\frac{1-r \\cdot mx^{m-1}x + 1-r \\cdot 2mx^{2m-1}x}{a+bx^m+x^{2m}} \\]\n\n\\[ \\int \\frac{U}{1+A} \\times \\frac{1-r \\cdot mx^{m-1}x + 1-r \\cdot 2mx^{2m-1}x}{a+bx^m+x^{2m}}. \\text{ Now the fluents} \\]\n\nof these two last terms are \\( \\int \\frac{T}{1+A} \\times \\frac{a+bx^m+x^{2m}}{1-r} = \\frac{V}{1+A} \\)\n\n\\[ \\int \\frac{x^{n-m}x}{a+bx^m+x^{2m}} \\text{ and } \\int \\frac{U}{1+A} \\times \\frac{a+bx^m+x^{2m}}{1-r} = \\frac{W}{1+A} \\int \\frac{x^{n-i+1}x}{a+bx^m+x^{2m}} \\]\n\nrespectively; hence, by substituting these for the last term, it is manifest that \\( \\int \\frac{T}{1+A} \\times \\frac{a+bx^m+x^{2m}}{1-r} \\) and \\( \\int \\frac{U}{1+A} \\times \\frac{a+bx^m+x^{2m}}{1-r} \\) will be destroyed by the two last terms of \\( \\frac{1}{1+A} \\times F \\times \\frac{a+bx^m+x^{2m}}{1-r} \\) when we substitute for F its value; hence, if we put \\( M = \\frac{x^{n-2m-1}}{n-2m+1} - \\frac{px^{n-3m+1}}{n-3m+1} + \\frac{qx^{n-4m+1}}{n-4m+1} - &c. \\)\n\nomitting the two last terms \\( \\int T \\) and \\( \\int U \\), we shall have\n\n\\[ \\int \\frac{x^n x}{a+bx^m+x^{2m}} = \\frac{1}{1+A} \\times M \\times \\frac{a+bx^m+x^{2m}}{1-r} + \\frac{B}{1+A} \\times \\]\n\n\\[ \\int \\frac{x^{n-m}x}{a+bx^m+x^{2m}} - \\frac{C}{1+A} \\times \\int \\frac{x^{n-2m}x}{a+bx^m+x^{2m}} + &c. = \\frac{V}{1+A} \\times \\]\nfinding Fluents by Continuation.\n\n\\[ \\int \\frac{x^n \\dot{x}}{a + bx^m + x^{2m}} = \\frac{W}{1 + A} \\times \\frac{x^{n-1+m} \\dot{x}}{a + bx^m + x^{2m}}; \\] hence if the two last fluents be given, we have the general law of continuation up to\n\n\\[ \\frac{x^n \\dot{x}}{a + bx^m + x^{2m}} \\] in the same manner as before.\n\nIII. In general, if we proceed as in the two last articles, we shall find\n\n\\[ \\int \\frac{x^n \\dot{x}}{a + bx^m + &c. x^{m}} = \\frac{M}{P} \\times \\frac{a + bx^m + &c. x^{m}}{1-r} + \\frac{A}{P} \\]\n\n\\[ \\times \\int \\frac{x^{n-m} \\dot{x}}{a + bx^m + &c. x^{m}} + \\frac{B}{P} \\times \\int \\frac{x^{n-2m} \\dot{x}}{a + bx^m + &c. x^{m}} + &c. = \\frac{T}{P} \\]\n\n\\[ \\times \\int \\frac{x^{n-3m} \\dot{x}}{a + bx^m + &c. x^{m}} + \\frac{V}{P} \\times \\int \\frac{x^{n-s+1} \\dot{x}}{a + bx^m + &c. x^{m}} = &c. \\] where the number of these last terms is \\( t \\), and \\( M = \\frac{x^{n-tm+1}}{n-tm+1} - \\frac{Qx^{n-t+1} \\cdot m-t}{n-t+1 \\cdot m+t} + &c. \\) omitting, as before, the terms at the end arising from the remainders. Hence if the last \\( t \\) fluents be given, we can by continuation find the required fluent.\n\nBecause the division of \\( \\frac{x^n \\dot{x}}{a + bx^m + &c. x^{m}} \\) may be expressed by an ascending series \\( x^n \\dot{x} - Qx^{n+m} \\dot{x} + Rx^{n+2m} \\dot{x} - &c. \\) it is manifest, that by the same method we may continue the fluents downwards as well as upwards.\n\nIV. Let \\( F = \\frac{x^n \\dot{x}}{1-x} = -x^{n-1} \\dot{x} - x^{n-2} \\dot{x} - x^{n-3} \\dot{x} - &c. - x^{n-r} \\dot{x} + \\frac{x^{n-r} \\dot{x}}{1-x} \\), then \\( F = -\\frac{x^n}{n} - \\frac{x^{n-1}}{n-1} - \\frac{x^{n-2}}{n-2} - &c. - \\frac{x^{n-r+1}}{n-r+1} + W \\), where \\( W \\) is the fluent of the last term. Now \\( \\frac{x^n \\dot{x}}{\\sqrt{1-x^2}} = \\frac{x^n \\dot{x}}{1-x} \\times \\sqrt{\\frac{1-x}{1+x}}, \\)\n\nL 112 hence\nhence \\( \\int \\frac{x^n}{\\sqrt{1-x^2}} = \\int \\frac{x^n}{1-x} \\times \\sqrt{\\frac{1-x}{1+x}} = F \\times \\sqrt{\\frac{1-x}{1+x}} + \\int F \\times \\)\n\n\\( \\frac{\\dot{x}}{\\sqrt{1+x^2} \\times 1+x} = F \\times \\sqrt{\\frac{1-x}{1+x}} - \\int \\frac{x^n}{n \\sqrt{1-x^2} \\times 1+x} - \\int \\frac{x^{n-1}}{n-1 \\cdot \\sqrt{1-x^2} \\times 1+x} \\)\n\n\\( - \\int \\frac{x^{n-r}}{n-2 \\cdot \\sqrt{1-x^2} \\times 1+x} - \\&c. - \\int \\frac{x^{n-r+1}}{n-r+1 \\cdot \\sqrt{1-x^2} \\times 1+x} + \\)\n\n\\( \\int W \\times \\frac{\\dot{x}}{\\sqrt{1-x^2} \\times 1+x}. \\) But\n\n\\( \\frac{x^n}{1-x^2 \\times 1+x} = \\frac{x^{n-1}}{n \\sqrt{1-x^2}} - \\frac{x^{n-2}}{n \\sqrt{1-x^2}} + \\frac{x^{n-3}}{n \\sqrt{1-x^2}} - \\&c. \\pm \\frac{x^{n-r}}{n \\sqrt{1-x^2}} \\pm \\frac{x^{n-r}}{n \\sqrt{1-x^2} \\times 1+x} \\)\n\n\\( \\frac{x^{n-1}}{\\sqrt{1-x^2} \\times 1+x} = \\frac{x^{n-2}}{n-1 \\cdot \\sqrt{1-x^2}} - \\frac{x^{n-3}}{n-1 \\cdot \\sqrt{1-x^2}} + \\&c. \\pm \\frac{x^{n-r}}{n-1 \\cdot \\sqrt{1-x^2}} \\pm \\frac{x^{n-r}}{n-1 \\cdot \\sqrt{1-x^2} \\times 1+x} \\)\n\n\\( \\frac{x^{n-2}}{\\sqrt{1-x^2} \\times 1+x} = \\frac{x^{n-3}}{n-2 \\cdot \\sqrt{1-x^2}} - \\&c. \\pm \\frac{x^{n-r}}{n-2 \\cdot \\sqrt{1-x^2}} \\pm \\frac{x^{n-r}}{n-2 \\cdot \\sqrt{1-x^2} \\times 1+x} \\)\n\n\\( \\&c. \\quad \\&c. \\quad \\&c. \\)\n\n\\( \\frac{x^{n-r+1}}{-1 \\cdot \\sqrt{1-x^2} \\times 1+x} = \\frac{x^{n-r}}{n-r+1 \\cdot \\sqrt{1-x^2}} - \\frac{x^{n-r}}{n-r+1 \\cdot \\sqrt{1-x^2} \\times 1+x} \\)\n\nHence \\( \\int \\frac{x^n}{\\sqrt{1-x^2}} = F \\times \\sqrt{\\frac{1-x}{1+x}} - \\frac{1}{n} \\times \\int \\frac{x^{n-1}}{\\sqrt{1-x^2}} + \\frac{1}{n} - \\frac{1}{n-1} \\times \\)\n\n\\( \\int \\frac{x^{n-2}}{\\sqrt{1-x^2}} - \\frac{1}{n} - \\frac{1}{n-1} + \\frac{1}{n-2} \\times \\int \\frac{x^{n-3}}{\\sqrt{1-x^2}} + \\&c. \\pm \\frac{1}{n} \\mp \\frac{1}{n-1} \\pm \\&c. \\)\n\n\\( - \\frac{1}{n-r+1} \\times \\int \\frac{x^{n-r}}{\\sqrt{1-x^2}} \\pm \\frac{1}{n} \\pm \\frac{1}{n-1} = \\&c. + \\frac{r}{n-r+1} \\times \\int \\frac{x^{n-r}}{\\sqrt{1-x^2} \\times 1+x} \\)\n\n\\( + \\int W \\times \\frac{\\dot{x}}{\\sqrt{1-x^2} \\times 1+x}. \\) Now \\( \\int W \\times \\frac{\\dot{x}}{\\sqrt{1-x^2} \\times 1+x} = -W \\times \\)\n\n\\( \\frac{1-x}{1+x} + \\int \\frac{x^{n-r}}{\\sqrt{1-x^2}}; \\) also \\( \\int \\frac{x^{n-r}}{\\sqrt{1-x^2} \\times 1+x} = -x^{n-r} \\times \\sqrt{\\frac{1-x}{1+x}} + \\)\n\n\\( n-r \\times \\int \\frac{x^{n-r}}{\\sqrt{1-x^2}} - n-r \\times \\int \\frac{x^{n-r}}{\\sqrt{1-x^2}}; \\) hence, by substituting these quantities in the two last terms, it is manifest that \\( -W \\times \\frac{1-x}{1+x} \\) will be destroyed by the last term of \\( F \\times \\)\nFinding Fluents by Continuation.\n\n\\[ F \\times \\frac{1-x}{1+x} \\] when we substitute for \\( F \\) its value; therefore, if we put \\( M = -\\frac{x^n}{n} - \\frac{x^{n-1}}{n-1} - \\frac{x^{n-2}}{n-2} - \\ldots - \\frac{x^{n-r+1}}{n-r+1} \\), we shall have\n\n\\[ \\int \\frac{x^n \\dot{x}}{\\sqrt{1+x^2}} = M = \\frac{1}{n} + \\frac{1}{n-1} + \\ldots + \\frac{1}{n-r+1} \\times \\frac{1-x}{1+x} - \\frac{1}{n} \\times \\int \\frac{x^{n-r} \\dot{x}}{\\sqrt{1-x^2}} \\]\n\n\\[ + \\frac{1}{n} - \\frac{1}{n-1} \\times \\int \\frac{x^{n-2} \\dot{x}}{\\sqrt{1-x^2}} - \\frac{1}{n} - \\frac{1}{n-1} + \\frac{1}{n-2} \\times \\int \\frac{x^{n-3} \\dot{x}}{\\sqrt{1-x^2}} + \\ldots \\]\n\n\\[ = \\frac{1}{n} + \\frac{1}{n-1} + \\ldots + \\frac{1}{n-r+1} \\times n-r+1 + \\int \\frac{x^{n-r-1} \\dot{x}}{\\sqrt{1-x^2}} \\]\n\nHence, if the two last fluents be given, we have the general law of continuation up to the fluent of \\( \\frac{x^n \\dot{x}}{\\sqrt{1-x^2}} \\), where the index of \\( x \\) without the vinculum increases by unity each time. And in the same manner we may (by increasing the index of \\( x \\) without by \\( m \\)) find the fluent of \\( \\frac{x^n \\dot{x}}{\\sqrt{a^{2m}-x^{2m}}} \\) if we have given the fluents of \\( \\frac{x^{n-m} \\dot{x}}{\\sqrt{a^{2m}-x^{2m}}} \\) and \\( \\frac{x^{n+m} \\dot{x}}{\\sqrt{a^{2m}-x^{2m}}} \\). Thus we have a general law of continuation, where the index of \\( x \\) without is increased by half the index under the vinculum.\n\nV. Assume \\( F = \\frac{x^n \\dot{x}}{x^n-b} = x^{n-m} \\dot{x} + bx^{n-2m} \\dot{x} + b^2x^{n-3m} \\dot{x} + \\ldots + b^r x^{n-rm} \\dot{x} \\), then \\( F = \\frac{x^{n-m+1}}{n-m+1} + \\frac{bx^{n-2m+r}}{n-2m+1} + \\frac{b^2x^{n-3m+r}}{n-3m+1} + \\ldots + W \\), where \\( W \\) is put for the fluent of the last term. Now\n\n\\[ \\int x^n \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} = \\int \\frac{x^n \\dot{x}}{x^n-b} \\times \\sqrt{x^m-a} \\times \\sqrt{x^m-b} = F \\times \\sqrt{x^m-a} \\times \\sqrt{x^m+b} \\]\nMr. Vince's new Method of\n\n\\[ - \\int F \\times \\frac{2mx^{2m-1}x-a+b}{\\sqrt{x^m-a} \\times x^m-b} \\cdot mx^{m-1}x = \\text{(by substituting for } F \\text{ its value in the latter quantity, and putting } A, B, C, \\&c. \\text{ for the co-efficients which arise therefrom) } F \\times \\sqrt{x^m-a} \\times x^m-b - A \\int \\frac{x^n \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} - B \\int \\frac{x^{n-m} \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} - C \\int \\frac{x^{n-2m} \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} \\]\n\n\\&c. \\( - \\int W \\times \\frac{2mx^{2m-1}x-a+b}{\\sqrt{x^m-a} \\times x^m-b} \\cdot mx^{m-1}x \\). Now \\( \\frac{x^n \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} = \\frac{x^n \\dot{x}}{\\sqrt{x^m-a}} \\), \\( \\frac{x^{n-m} \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} = \\frac{x^{n-m} \\dot{x}}{\\sqrt{x^m-a}} \\), \\( \\frac{x^{n-2m} \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} = \\frac{x^{n-2m} \\dot{x}}{\\sqrt{x^m-a}} \\), \\&c.\n\nBut\n\n\\[ \\frac{x^n \\dot{x}}{\\sqrt{x^m-a}} = x^n-m \\dot{x} + ax^{n-2m} \\dot{x} + a^2x^{n-3m} \\dot{x} + \\&c. + a^{r-1}x^{n-rm} \\dot{x} + \\frac{a^r x^{n-rm} \\dot{x}}{\\sqrt{x^m-a}} \\]\n\n\\[ \\frac{x^{n-m} \\dot{x}}{\\sqrt{x^m-a}} = x^{n-2m} \\dot{x} + ax^{n-3m} \\dot{x} + \\&c. + a^{r-2}x^{n-rm} \\dot{x} + \\frac{a^{r-1}x^{n-rm} \\dot{x}}{\\sqrt{x^m-a}} \\]\n\n\\[ \\frac{x^{n-2m} \\dot{x}}{\\sqrt{x^m-a}} = x^{n-3m} \\dot{x} + \\&c. + a^{r-3}x^{n-rm} \\dot{x} + \\frac{a^{r-2}x^{n-rm} \\dot{x}}{\\sqrt{x^m-a}} \\]\n\n\\&c. \\&c. \\&c.\n\nHence, by substitution,\n\n\\[ \\int x^n \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} = F \\times \\sqrt{x^m-a} \\times x^m-b \\]\n\n\\[ - A \\int x^{n-m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa + B \\times \\int x^{n-2m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa^2 + Ba + C \\]\n\n\\[ \\times \\int x^{n-3m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - \\&c. - Aa^{r-1} + Ba^{r-2} + Ca^{r-3} + \\&c. \\times \\]\n\n\\[ \\times \\int x^{n-rm} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa^r + Ba^{r-1} + Ca^{r-2} + \\&c. \\times \\int \\frac{x^{n-rm} \\dot{x}}{\\sqrt{x^m-a} \\times x^m-b} \\]\n\n\\[ - \\int W \\times \\frac{2mx^{2m-1}x-a+b}{\\sqrt{x^m-a} \\times x^m-b} \\cdot mx^{m-1}x \\]. But\nfinding Fluents by Continuation.\n\n\\[ - \\int W \\times \\frac{2mx^{2m-1}x + b \\cdot mx^{m-1}x}{\\sqrt{x^m-a} \\times x^m-b} \\text{ is } - W \\times \\sqrt{x^m-a} \\times x^m-b \\]\n\n\\[ + b' \\times \\int x^{n-rm}x \\sqrt{\\frac{x^m-a}{x^m-b}}; \\text{ hence, by substituting this for the last term, it is manifest, that } - W \\times \\sqrt{x^m-a} \\times x^m-b \\text{ will be destroyed by the last term of } F \\times \\sqrt{x^m-a} \\times x^m-b \\text{ when we substitute for } F \\text{ its value; therefore, if we put } M = \\frac{x^{n-m+1}}{n-m+1} + \\frac{bx^{n-2m+1}}{n-2m+1} + \\&c. + \\frac{b'x^{n-rm+1}}{n-rm+1}, \\text{ we have } \\int x^n \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} = M \\times \\sqrt{x^m-a} \\times x^m-b - A \\int x^{n-m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa + B \\times \\int x^{n-2m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa^2 + Ba + C \\times \\int x^{n-3m} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - \\&c. - Aa^{r-1} + Ba^{r-2} + \\&c., - b' \\times \\int x^{n-rm} \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}} - Aa^r + Ba^{r-1} + Ca^{r-2} + \\&c. \\times \\int \\sqrt{\\frac{x^m-a}{x^m-b}}. \\text{ Hence if the last two fluents be given, we have the general law of continuation up to the fluent of } x^n \\dot{x} \\sqrt{\\frac{x^m-a}{x^m-b}}. \\]\n\nThe utility of finding fluents by continuation was manifest to Sir Isaac Newton, who first proposed it; and since his time some of the most eminent mathematicians have employed much of their attention upon it. The method which I have investigated and exemplified in this Paper I offer as being entirely new; and at the same time it not only exhibits, at once, the general law up to the required fluent, but also appears, from some of the instances here given, to be more extensive and convenient in its application than any method hitherto offered.\nMr. Vince's new Method of, &c.\n\nThe general resolution of the given fluxion into a series of fluxions of the same kind, where the index of the unknown quantity without the vinculum keeps decreasing or increasing either by the index under or by half the index, has not, that I know of, before been given; which furnishes us at once not only with a very easy method of continuing fluents, but also points out a very simple method of investigating the fluent of the given fluxion without continuation. For if $\\int \\dot{A} = p + b \\int \\dot{B} + c \\int \\dot{C} + d \\int \\dot{D} + \\&c.$, $\\int \\dot{B} = p' + c' \\int \\dot{C} + d' \\int \\dot{D} + \\&c.$, $\\int \\dot{C} = p'' + d'' \\int \\dot{D} + \\&c.$, &c. &c. then if for $\\int \\dot{B}$, $\\int \\dot{C}$, &c. &c. we substitute their respective values, we shall get a general series for $\\int \\dot{A}$ without continuation. The extent of any new method is, at first, seldom obvious; and how far that which is here proposed may be successfully employed in other cases will best appear from its application. Different methods will always be found to have their uses in particular cases; for where one becomes impracticable another will often be found to succeed; and I hope that which is here offered will contribute something towards facilitating the investigation of fluents.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106637.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 12,
+    "total-input-tokens": 19230,
+    "total-output-tokens": 9788,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1763,
+        2
+      ],
+      [
+        1763,
+        3463,
+        3
+      ],
+      [
+        3463,
+        5542,
+        4
+      ],
+      [
+        5542,
+        7576,
+        5
+      ],
+      [
+        7576,
+        9335,
+        6
+      ],
+      [
+        9335,
+        11147,
+        7
+      ],
+      [
+        11147,
+        13603,
+        8
+      ],
+      [
+        13603,
+        15475,
+        9
+      ],
+      [
+        15475,
+        17470,
+        10
+      ],
+      [
+        17470,
+        19229,
+        11
+      ],
+      [
+        19229,
+        20546,
+        12
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106637",
+    "title": "A New Method of Finding Fluents by Continuation. By the Rev. Samuel Vince, A. M. F. R. S.",
+    "authors": "Samuel Vince",
+    "year": 1786,
+    "volume": "76",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 12,
+    "jstor_url": "https://www.jstor.org/stable/106637"
+  }
+}

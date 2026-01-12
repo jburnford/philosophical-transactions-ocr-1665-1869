@@ -1,0 +1,59 @@
+{
+  "id": "edacacfb0506b334928773b7461a8da710aed885",
+  "text": "| Observations | Temp. ver. p.m. | Quantitas Obscurationis |\n|-------------|----------------|------------------------|\n| I           | 22. 22. 35     | Initium aliquantum     |\n| II          | 27. 1          | praeceps trans nubem.  |\n| III         | 34.            | videbatur.             |\n| IV          | 42. 6          |                        |\n| V           | 23. 0. 52      |                        |\n| VI          | 3. 16          | Vel paullo plus: &     |\n| VII         | 10. 31         | max. obscuratio im-    |\n| VIII        | 28. 16         | minens censebatur.     |\n| IX          | 45. 11         |                        |\n| X           | 52. 1          | Finis.                 |\n\nEx IV & VIII. Observat. maxima Obscuratio circa h. 23. m. 5. colligitur.\n\nFINIS.\n\nERRATA.\n\nPage 291. Line 1. for IV read V. P. 282. l. 7. for V. read VI.\n\nLONDON:\nPrinted by W. Innys and R. Manby, Printers to the Royal Society, at the West End of St. Paul's.\n\nM DCC XXXVII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104028.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 388,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        973,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104028",
+    "title": "Errata",
+    "authors": null,
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104028"
+  }
+}

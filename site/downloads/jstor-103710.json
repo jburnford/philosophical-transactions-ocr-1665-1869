@@ -1,0 +1,69 @@
+{
+  "id": "ccd4503a44b1b6b77b0f1c6294023c1a1732f0a3",
+  "text": "III. A Letter from Charles Price, Esq; of Trinity-Coll. Oxon, relating to the Villi of the Stomach of Oxen, and the Expansion of the Cuticle through the Ductus Alimentalis. Communicated by Dr. F. Nicholls, F. R. S. and Præl. Anat. Oxon.\n\nTrinity-Coll. Oxon, July the 28th, 1728.\n\nDear SIR,\n\nIn Pursuance of your Advice, I have spent some Part of this Summer in enquiring into the more intimate Constitution of the alimentary Passage of large Animals; in Hopes that the Analogy between them and human Subjects may lead us into a more perfect Knowledge of our own Structure.\n\nIn the Stomach of the Cow I find two Things well worth observing: The first is, that the Villi composing the Villous Coat, (which are in Man so very small as to be scarce visible when examined separately) are in this Animal so very large, as to allow an exact Scrutiny into their Structure. Each Villus is formed by a Duplicature of the internal Lamina of the vascular Coat; from which it receives three Blood Vessels, as in the annex'd Figure, which represents one of the Villi of the Stomach of an Ox magnify'd. Whether or no the two Side-vessels are Arteries, and the Middle-vessel a Vein; and whether those small Branches arising from the Side-\nvessels are secretory Ducts carrying a Fluid from those Arteries into the Cavity of the Stomach, making a Kind of Rivus perpetually running through the Ductus Alimentalis, I must leave others to judge.\n\nThe other Thing remarkable in the Stomachs of these large Animals is, that their internal Surface is covered by a Production of the Cuticle, which descends from the Lips quite through the alimentary Passage. I am induced to believe, that the Cuticle is continued through the Intestines as well in Man, as in large Animals; though its exceeding Fineness may make it less observable.\n\nI have sent you a Piece of the first Stomach of an Ox, in which the Vessels running in the Villi are filled with Wax, and the Cuticle raised in Part; by which the above Particulars are sufficiently proved.\n\nIf you think these Things new, and worth communicating to the Royal Society, I desire you will communicate this to them in such Manner as you think most proper: And that the Piece of Stomach (if worth the Acceptance of Sir Hans Sloane) may be presented to him, with my best Respects, as an Acknowledgment of the Esteem of,\n\nSIR,\n\nYour Humble Servant,\n\nCh. Price.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103710.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 680,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1223,
+        2
+      ],
+      [
+        1223,
+        2378,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103710",
+    "title": "A Letter from Charles Price, Esq; of Trinity-Coll. Oxon, Relating to the Villi of the Stomach of Oxen, and the Expansion of the Cuticle through the Ductus Alimentalis. Communicated by Dr. F. Nicholls, F. R. S. and Prael. Anat. Oxon.",
+    "authors": "Charles Price, F. Nicholls",
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103710"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "b789a646e307a60d6747e493de8750b6ccbe0a3a",
+  "text": "joyn'd the sixth Secton, which the Author himself tells us, consists only of a set of Articles referable to the medicinal use of Mineral waters.\n\nERRATA.\n\nPag. 1053, lin. 32, for fiery read fiery. lin. penult. for pag. read pag. pag. 1055, lin. 35, read [Apr. 23, cap. 2.] pag. 1056, lin. 23, read [acquaints us.] pag. 1060, lin. 16, after Rome add [To which add that Joachimus Fortius (vid. Joachi Fortii Experiment Lib.) & Jacobus Pec-kerus (vid. Illius de Secretis Lib. 3, cap. 2.) both affirm upon their own Experiment and knowledge that it may be formed into the likeness of a Wicks that will administer to the flame and not be wasted.]\n\nPrinted at the Theater in Oxford, for Sam. Smith at the Prince's Arms in Paul's Churchyard London; and Hen. Clements Book-seller in Oxford.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102159.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 309,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        790,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102159",
+    "title": "Errata",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102159"
+  }
+}

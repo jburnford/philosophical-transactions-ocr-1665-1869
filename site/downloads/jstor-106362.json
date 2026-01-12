@@ -1,0 +1,59 @@
+{
+  "id": "6218208e5c062e549ba51bd50c847eefe6872220",
+  "text": "The number of Plates in this volume is XVIII.\n\nERRATA.\n\nPage 50, line 5, after Mr. Charles Hutton, insert F. R. S.\n136, line 5, for seventh, read eighth\n146, line 6 from the bottom, for unhealty, read unhealthy\n160, line 2, after Edward King, Esq. insert F. R. S.\n162, line 7, for Sage-tree read Sago-tree\n206, line 15, for was read were\n242, line 12, 13, 14, for enclosing a letter—conductors. read enclosing an Account of Mr. Wilson's Experiments on the nature and use of Conductors, addressed to His MAJESTY.\n285, line 7 from the bottom, for maing, read maining\n327, line 1, for concluded, read concluded.\n554, line 1, for Abstract, read Abstract\n567, line 1; for Extra read Extract.\n571, line 4, after George Lloyd, insert Esq. F. R. S.\n574,\n575, line 2, for 1778, read 1777\n576,\n577, Rain in February 18, for 1.079, read 0.079\n587, July 21, for 1.194, read 0.194\n593, October 18, for 0.992, read 0.092\n598, January for 1.029, read 1.039\nJuly, for 5.697, read 4.697\nwhole year, for 25.371, read 24.381\n815, line 5, for bing, read being\n867, line 13, for these read their",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106362.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 514,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1074,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106362",
+    "title": "Errata",
+    "authors": null,
+    "year": 1778,
+    "volume": "68",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106362"
+  }
+}

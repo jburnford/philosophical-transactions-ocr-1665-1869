@@ -1,0 +1,59 @@
+{
+  "id": "805c0a53f42ac82b4327f1673a09229f938ce8df",
+  "text": "X. Observatio Defectus Solis habita Patavii VII. Cal. Octob. 1726. a Viro Cl. Domino Johanne Poleno, Astr. Prof. R. S. S.\n\nTemp. Appar.\nH. 1 11\n\n5 25 25 Initium Defectus hoc tempore nulla apparebat: tum post tempus hoc ingruerunt densae nubes.\n\nDig. Obscur.\n29 5 1\n31 48 Tegitur maxima earum, quae conspiciebantur in Sole, Macula, intermedia inter minores duas alias\n\nDig. Obscur.\n34 27 2\n40 43 3\n44 20 3\n47 15 4\n48 12 4\n\n49 Crescebat certe adhuc Obumbratio in Solaris Disco, ut trans nubes apparebat: mox vero cum densiores fierent nubes, atque Sol ad Finitorem properaret, nihilquicquam amplius licuit observare,\n\nX XI. Ob-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103466.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        625,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103466",
+    "title": "Observatio Defectus Solis Habita Patavii VII. Cal. Octob. 1726. a Viro Cl. Domino Johanne Poleno, Astr. Prof. R. S. S.",
+    "authors": "Johanne Poleno",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103466"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "3b8ed3643f0cb822b6d801f763f7f8ed0b65618c",
+  "text": "difficult to judge to a nicety in so sudden a motion; but there was a sensible difference betwixt the rebound of those dropt in Vacuo, and those in Air condens'd. I could not observe that the small difference in the weight of the Marbles made any discernable alteration in their Resiliti-\nons.\n\nV. An Experiment on the descent of Malt dust in the Evacuated Receiver, at Gresham College. By Mr Fr. Hauksbee.\n\nI Took some Malt dust, and having well dried the same, put a quantity of it into a fine Muslin Bag, where being loosely inclos'd, would upon shaking discover it self plentifully in the open Air, undulating and floating a considerable time before it would descend; but being included within a Receiver, from which the Air was well exhausted; and then shaken, the dust descended as a ponderous Body, precipitating in strait lines from the top to the bottom of a tall Receiver.\n\nLondon, Printed for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St Paul's Church-yard, 1705.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102989.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 308,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1016,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102989",
+    "title": "An Experiment on the Descent of Malt Dust in the Evacuated Receiver, at Gresham College. By Mr Fr. Hauksbee",
+    "authors": "Fr. Hauksbee",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102989"
+  }
+}

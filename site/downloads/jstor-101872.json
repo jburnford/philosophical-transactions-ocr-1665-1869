@@ -1,0 +1,69 @@
+{
+  "id": "5c5729086f580b78fc6b927145540ed494648081",
+  "text": "Eclipsis Lunae Observata Dublinii, Novembris 19 no. 1686. a Dno. Gulielmo Molineux Reg. Soc. S. & ab eodem Regiae Societati communicata.\n\n| Event                          | H. | M. | S. |\n|-------------------------------|----|----|----|\n| Penumbra notabilis            | 9  | 15 | 00 |\n| Initium ob interpositas Nubes praece determinare haud licuit, idemq; incertius pono |    |    |    |\n| Eclipsin incepisse ad 9 h. 25m. vel | 9  | 27 | 00 |\n| Umbra ad Paludem Maræotim     | 9  | 38 | 20 |\n| Palus Maræotis teëta          | 9  | 40 | 20 |\n| Mons Sinai Tegitur            | 9  | 46 | 30 |\n| Mons Thambes Teëtus           | 10 | 1  | 20 |\n| Mons Audus Tegitur            | 10 | 8  | 00 |\n| Mons Neptunus Teëtus          | 10 | 14 | 00 |\n| Umbra ad Montem Sipylum       | 10 | 15 | 10 |\n| Insula Circinna tegitur       | 10 | 16 | 40 |\n| Ad Montem Didymum             | 10 | 18 | 20 |\n| Mons Didymus tegitur          | 10 | 20 | 10 |\n| Emergit M. Audus              | 10 | 23 | 00 |\n| Umbra ad paludem Maræotim.    | 10 | 48 | 30 |\n| Emergit Maræotis              | 10 | 52 | 00 |\n| Ad Montem Sinai               | 11 | 38 | 00 |\n| Emergit Sinai                 | 11 | 39 | 30 |\n| Finis Eclipsis                | 12 | 4  | 00 |\n\nNotanda.\n\nTempora sunt Horologii Oscillatorii ad Stellas fixas rectificati. Quæ Asterismo Notantur Observationes, per biantes Nubes captae sunt, adeoque accuratas haberi nolo.\n\nQuantitatem hujus Eclipsis sex puto Digitorum.\n\nCalculum quod spectat, in Initio determinando, Ephemerides Gallicæ (La Conoissance des Temps) ad veritatem propius accedunt quam Anglicæ (Societati Regiæ dicatae) Illæ enim Initium\nInitium ponunt ad 9h. 31m. hæ vero ad 9h. 38m. Meridianorum habito respectu.\n\nIn assignandis autem Medio, Fine, Quantitate & Duratione Ephemerides Anglicæ Gallicis sunt accuratiores; Finis enim ab Anglicis ponitur ad 12h. 14m. a Gallicis vero ad 12h. 29m. Quantitas ab illis supputata sex fere Digitorum; ab his 7½ Dig.\n\nA further Assertion of the Propositions concerning the Magnitude, &c. of London, contained in two Essays in Political Arithmetic; mentioned in Philos. Transact. Numb. 183; together with a Vindication of the said Essays from the Objections of some Learned Persons of the French Nation, by Sr. W. Petty Knt. R.S.S.\n\n1. It could not be expected that an Assertion of London's being bigger than Paris and Rouen, or than Paris and Rome put together, and bigger than any City of the World, should escape uncontradicted, and 'tis expected that I (if continuing in that Perswasion) should make some Reply to these contradictions.\n\n2. I begin with the Ingenious Author of the Nouelles de la Republique des Lettres, who faith that Rey in Persia is far bigger than London; for that in the 6th Century of Christianity (I suppose An. 550) It had 15000, or rather 44 thousand Moschees or Mahometan Temples. To which I reply, that I hope this Objector is but in jest, for that Mahomet was not borne till about the Year 570, and had no Moschees till about 50 Years after.\n\n3. The next is the excellent Monsieur Auzout from Rome, who is content, that London, Westminster, and Southwark-with the contiguous Housing may have as many People as Paris and its Suburbs; and but faintly denyeth, that all the Housing within the Bills, may have almost as many People as Paris and Rouen, but faith that several Parishes inserted into",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101872.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 1203,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1635,
+        2
+      ],
+      [
+        1635,
+        3362,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101872",
+    "title": "Eclipsis Lunae Observata Dublinii, Novembris 19 no. 1686. a Dno. Gulielmo Molineux Reg. Soc. S. et Ab Eodem Regiae Societati Communicata",
+    "authors": "Gulielmo Molineux",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101872"
+  }
+}

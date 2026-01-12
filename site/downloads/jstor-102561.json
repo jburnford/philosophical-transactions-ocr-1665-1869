@@ -1,0 +1,59 @@
+{
+  "id": "4ffffcfb2f54dc8a011441fd127d57619da63310",
+  "text": "XIII. An Account of a Book.\n\nHistoire des Plantes qui naissent aux environs de Paris avec leur usage dans la medecine par M. Pitton Tournefort de l'Academie royale des Sciences, Docteur en Medecine de la faculte de Paris & professeur en botanique au jardin royal des Plantes. A Paris de l'Imprimerie Royale 1698. 8vo.\n\nThe Author of this Book is very well known to the Learned already by his Works formerly published; in this Book he gives an Account of the Plants growing wild about Paris. The Preface relates the Success of several Experiments he made to discover the Salts contained in the Earth, wherein Plants grow, many of these were done with great Labour and Nicety. He likewise gives his Opinion of the several Ways of the Operation of Medicaments on humane Bodies, and of his Opinion of the Causes of the same.\n\nThe Book itself is divided into Six Herborisations, each of which contains the Plants he met with in the Course of the Walk he prescribed to himself. To the Names he gives each Plant from the best and most common Authors, he adds a critical Account of the extant Descriptions and Figures of each, viz.: Where it is ill, and where well described and figured. He gives farther, very often, an Account of the Chymical Analysis of it, which he generally extracts from the Registers of the Academie Royale. He also gives an Account of the Vertues ascribed to each Plant, from the most approved Authors, or from Information he received from the Inhabitants of several Countries he liv'd in, or travel'd through. There are so many new and observable things of use in this Book, the Curious, for full Satisfaction, must have recourse to it themselves.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102561.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 442,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1665,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102561",
+    "title": "An Account of a Book",
+    "authors": "Pitton Tournefort",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102561"
+  }
+}

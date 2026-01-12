@@ -1,0 +1,59 @@
+{
+  "id": "12efc876c1b697332338d666cf35421bd7a0381a",
+  "text": "III. Part of a Letter from Mr. Butterfield from Paris, Sept. 7. 1698. to Dr. Martin Lister, Fellow of the Colledge of Physicians and R. S. concerning Magnetical Sand.\n\nI send you a little of that Black Sand which in Italy they use instead of Dust to their Letters; it is found Six Miles from Genes near St. Pierre d'araine on the Sea-Shoar. It hath the Properties of the Loadstone, and I do believe that it is Loadstone or Powder of Loadstone, for it followeth the Loadstone; it sticketh to a Knife that is touched with the Loadstone; it draweth a Magnetick Needle; it doth not ferment with Aqua Fortis, as Iron Dust doth; it doth not rust with any Acide that can be put to it; it doth not sparkle in the Flame of a Candle, as Steel-dust doth when it is thrown into the said Flame. It is commonly found on the Sea-Shoar after great Storms.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102546.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 283,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        839,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102546",
+    "title": "Part of a Letter from Mr. Butterfield from Paris, Sept. 7. 1698. to Dr. Martin Lister, Fellow of the Colledge of Physicians and R. S. Concerning Magnetical Sand",
+    "authors": "Mr. Butterfield",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102546"
+  }
+}

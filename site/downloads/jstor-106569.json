@@ -1,0 +1,59 @@
+{
+  "id": "8d8c13f692d6f9fa87adbed7f200781041d7a946",
+  "text": "THE President and Council of the Royal Society adjudged, for the last Year, 1783, Two Medals on Sir Godfrey Copley's Donation; One to John Goodricke, Esq. for his Discovery of the Period of the Variation of Light in the Star Algol; and the other to Thomas Hutchins, Esq. for his Experiments to ascertain the Point of Mercurial Congelation.\n\nERRATA\n\nPage. Line.\n117. 7. for canon read cannon\n164. 9. for not read nor\n181. 8. for called read call\n211. 7. for Tweed read Clyde\n224. 4. for of read or",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106569.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 218,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        496,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106569",
+    "title": "Errata",
+    "authors": null,
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106569"
+  }
+}

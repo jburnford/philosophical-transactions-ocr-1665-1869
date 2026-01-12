@@ -1,0 +1,59 @@
+{
+  "id": "f9b2d7489254eca5c5a145e0f3de6a8233c959e3",
+  "text": "INDEX.\n\nWives, the Plurality thereof, Query, if it be favourable to the Increase of Mankind, and Answer — 96, 103\nWolfall (Mr.) his Account of the Earthquake at Lisbon, Nov. 1, 1755 — — — 402\nWomen, Query, if more numerous than Men in the Eastern Countries, and Answer — — — 96, 103\nWoodroofe, Herb, Account of that Plant — — — 811\nWood Sage, D° — — — 836\nWoolwich, Irregularity of the Tides there in Feb. 1756 — 523\nWorms, an Account of such, in Animal Bodies — — — 246\nWright (Edw.) M.D. his Letter concerning a remarkable fossile Body — — — 670\nD° concerning the Orthoceratites — — — 672\nWritings, Ancient, dug up out of the Ruins of an Edifice, near the old City of Herculaneum — — — 112\nWroxeter, in Yorkshire, Account of Four Roman Inscriptions found there — — — 196\n\nY.\nYorkshire, Considerations on Two large Pieces of Lead found there, with Roman Inscriptions thereon — — — 686\nYorkshire Sanicle, Account of that Plant — — — 808\nYarmouth, in Norfolk, Account of the Agitation of the Waters there Nov. 1, 1755 — — — 380\nYellow-willow Herb, Account of that Plant — — — 814\n\nERRATA in Part. II. Vol. XLIX.\n\nPag. 77. Not. 2. for Neuburg, read Neubrig.\n202. Not. 1. for lxx read lxxv.\n204. Not. 1. for Monum, read Monm.\n468—477 wrong number'd, the intermediate Numbers being omitted.\n468. Line last, for XLIV. read LXIV.\n485. Line 3, for Cupping, read Tapping.\n550. 8, for 1756, read 1755.\n477. for LVI. read LXIV.\n616, 622, 624. for CII. CIII. CIV. read XCII. XCIII. XCIV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105011.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 614,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1476,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105011",
+    "title": "Errata",
+    "authors": null,
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105011"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "0cf9d246c3f9de9f15590e70d06dde45cef24003",
+  "text": "The only official reprint\nauthorized by\nThe Royal Society of London\nPHILOSOPHICAL Transactions:\nGIVING SOME\nACCOMPT\nOF THE\nPresent Undertakings, Studies and Labours\nOF THE\nINGENIOUS\nIN MANY\nConsiderable Parts\nOF THE\nWORLD.\n\nVOL. XI:\nFor the Year MDC LXXVI.\n\nLONDON,\nPrinted by T.R. for John Martyn, Printer to the Royal Society;\nat the Bell in St. Paul's Church-yard.\nImprimatur,\n\nMarch 1.\n1676.\n7.\n\nJONAS MOORE, Reg.S.Vice-Prof.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101698.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9362,
+    "total-output-tokens": 321,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        68,
+        4
+      ],
+      [
+        68,
+        368,
+        5
+      ],
+      [
+        368,
+        429,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101698",
+    "title": "Front Matter",
+    "authors": null,
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/101698"
+  }
+}

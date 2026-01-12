@@ -1,0 +1,59 @@
+{
+  "id": "ee47ccc86e11875d8fa51661c4b49e2251e2000c",
+  "text": "a thing of very ill consequence. To conclude, our Author notwithstanding all his Encomium's of this Exotic, can be content to think, we might receive as much Benefit from some plants of our own growth; were People Industrious to search after them; some of which are Veronica, Lingua Cervina, Marrhubium, Hepatica, Cichoreum, &c.\n\nFINIS\n\nErrata in the Transaction of December last.\n\nPag. 814, line 8, within the Parenthesis read thus (which, with the other small Guts, and Stomach, was very much distended with the matter of the last meal;) pag. 815, lin 14, for musculofe Veins, read musculofe and membranofe Tunics. pag. 816 line 21, for Meat read Meal. Pag. 817, line 21 read Musculofe and membranofe Tunics.\n\nErrata in the Transaction of January.\n\nPag. 840, line 5, for command, read command. pag 841, line 2, for Design'd, read Designed line 10, read thus 1694, they. pag 145 line 6, for g g g there ought to be G G G G; line 9, for b b b b there should be H H H H. pag 848, line 1, read upside: line 2 read AA Fig. 6th. pag 855, lines 3 and 4, for over, read over: line 4 read driven: line 22 dele after.\n\nPrinted at the Theatre in Oxford for Henry Clements Bookseller in Oxford.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102122.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 439,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1184,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102122",
+    "title": "Errata",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102122"
+  }
+}

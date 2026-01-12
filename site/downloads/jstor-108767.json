@@ -1,0 +1,59 @@
+{
+  "id": "93c5f9d4e50cc950ce700d4c6ab709005cc9a743",
+  "text": "XXI. On the Construction of a new Calorimeter for determining the Radiating Powers of Surfaces in Air; and its Application to the Surfaces of various Mineral Substances. By W. Hopkins, Esq., M.A., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . 379\n\nXXII. Contributions to the History of the Phosphorus-Bases.—First Memoir. By Augustus William Hofmann, F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . 409\n\nXXIII. Contributions to the History of the Phosphorus-Bases.—Second Memoir. By Augustus William Hofmann, F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 449\n\nXXIV. Contributions to the History of the Phosphorus-Bases.—Third Memoir. By Augustus William Hofmann, F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 497\n\nXXV. Researches on Foraminifera.—Fourth and Concluding Series. By William B. Carpenter, M.D., F.R.S., F.G.S., F.L.S. . . . . . . . . . . . . . . . . . . . . . . . . . 535\n\nXXVI. Researches on Sugar Formation in the Liver. By Frederick William Pavy, M.D. Communicated by Dr. Sharpey, Sec. R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 595\n\nXXVII. On the Distribution of Nerves to the Elementary Fibres of Striped Muscle. By Lionel S. Beale, M.B., F.R.S., Professor of Physiology and of General and Morbid Anatomy in King's College, London; Physician to King's College Hospital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 611\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 621\n\nAPPENDIX.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [ 1 ]\n\nERRATA IN VOL. 149.\n\nPage 748, line 9, for 774 indicated horse-power read 744 indicated horse-power.\n\n— — 744, line 9, after the words marine boilers, insert the engine had been in some respects modified by the makers, Messrs. J. M. Rowan and Co.; and in particular, a surface condenser designed by them had been substituted for the former surface condenser.\n\nERRATUM IN VOL. 150.\n\nPage 283, line 21, for DELIQUIERE read LEREILLÉ.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108767.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 820,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2118,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108767",
+    "title": "Erratum: Supplement to Mr. Macquorn Rankine's Paper \"On the Thermodynamic Theory of Steam-Engines with Dry Saturated Steam, and Its Application to Practice\"",
+    "authors": null,
+    "year": 1860,
+    "volume": "150",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108767"
+  }
+}

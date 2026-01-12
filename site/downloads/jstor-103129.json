@@ -1,0 +1,69 @@
+{
+  "id": "4de3c71bc42800f4c0d57dc3e59ef31e53df185e",
+  "text": "V. Part of a Letter from the Reverend Mr. Samuel Carte, Rector of St. Margaret's Parish in Leicester, to Mr. Humfrey Wanley, F.R.S. Concerning an Ancient Tessellated, or Mosaic Work, at Leicester.\n\nSIR,\n\nTake this Opportunity to send you a draught, made by one Benjamin Garland, of the Opus Tessellatum, full extant in a Cellar here, over against the Elm Trees, near All-Saints Church. It is generally called Adonis, by such Authors as mention it; but the bare Inspection of it will convince you, that it is a Representation of the Fable, which says, that a Person having found fault with Venus, she, to be revenged of him, engaged her Son Cupid to make him fall in Love with a Monster.\n\nIt was first discovered about 40 Years ago, upon digging of the Cellar, at about a Yard and half under the common present Surface of the Earth. What extent the whole Pavement was of is not known; but this Figure, which, by order of the Master of the House, was preserved, is an Octagon, surrounded by a Lift, as you see in part represented in the corners of the Picture here-with sent you. Without this, tho' not here represented, is a Twitt or Wreath of various Colours; and round that, is a second Lift like the former. These two Lifts, with the Wreath between them, are 6 Inches and a $\\frac{1}{4}$ broad. The downright and transverse Diameters of the Area are just a Yard; but the others, leading from corner to corner, are a Yard and two Inches and an half. The Man, from Head to Foot, is two Foot and $4\\frac{1}{2}$ Inches. Cupid seems\nseems to be two Foot; but his Feet, as well as the bottom of the Monster, are spoiled, the Tessellæ representing them being gone. You will easily understand, that the whole Area of the Figure, which is here left blank, ought to be fill'd up with white Tessellæ, in like manner as you see some Intervals of the Figures here. I hope, that what foregoes, will serve to give you a just Idea of this Piece of Antiquity, but forbear to make any Reflections on it, as knowing that your Genius and Studies qualify you for that much better than my self. I am,\n\nSir,\n\nLeicester,\nAugust 7. 1710.\n\nYour Affectionate Friend\nand humble Servant,\n\nSamuel Carte.\n\nVI. An Account of the Repetition of an Experiment of the late Dr. Hooke's, concerning two Liquors, which, when mixt together, will possess less space, than when separate: With another Experiment confirming the same. By Mr. F. Hauksbee, F.R.S.\n\nThe Experiment related by the late Ingenious Experimentor Dr. Hooke, in one of his Papers (delivered to me by Mr. Waller) is concerning two Liquors, which, when mixt together, would possess less space than when separate; which he calls a Penetration of Dimensions: And adds further, that this Penetration is the cause of Heat, of Fire, of Flame, of the Power of Heat,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103129.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4934,
+    "total-output-tokens": 796,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1530,
+        2
+      ],
+      [
+        1530,
+        2788,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103129",
+    "title": "Part of a Letter from the Reverend Mr. Samuel Carte, Rector of St. Margaret's Parish in Leicester, to Mr. Humsrey Wanley, F. R. S. Concerning an Ancient Tessellated, or Mosaic Work, at Leicester",
+    "authors": "Samuel Carte",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103129"
+  }
+}

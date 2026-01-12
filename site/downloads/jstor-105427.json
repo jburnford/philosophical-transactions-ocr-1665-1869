@@ -1,0 +1,249 @@
+{
+  "id": "8e30e480a9897565a88ed1671958adc633013283",
+  "text": "LXXXI. Some Considerations on a late Treatise intituled, A new Set of Logarithmic Solar Tables, &c. intended for a more commodious Method of finding the Latitude at Sea, by Two Observations of the Sun; by H. Pemberton, M. D. R. S. Lond. et R. A. Berol. S.\n\nRead Nov. 20, 1760.\n\nAs it happens not unfrequently at sea for the unseasonable intervention of clouds to prevent the ordinary method of determining the ship's latitude by the sun's meridian altitude, even when it is of primary consequence, that the true latitude should be known; a problem for remedying this disappointment is stated in many treatises of navigation, for finding the latitude of a place by any two altitudes of the sun, with the interval of time between them.\n\nA problem similar to this is proposed, and solved instrumentally upon a globe, by a very early writer, Petrus Nonius (a), namely, to find the latitude by two altitudes of the sun, and the angle made by the azimuth circles passing through the sun, when the altitudes are taken. And since more commodious and accurate instruments for measuring time have been invented, than were known to this author, the other problem has been proposed for the same pur-\n\n(a) In Libr. De Observ. Regul. et Instrum. Geometr. lib. ii. c. 14.\npose, of which a construction upon the principles of the stereographic projection of the sphere is exhibited by Mr. Collins, in his Mariner's Plain Scale new planed (b). And as the direct method of solving both these problems by numbers requires a diversity of trigonometrical operations, a set of tables has lately been published for a more compendious way of computation in the problem, where the interval of time is given, whereby the ship's true latitude may be very expeditiously derived from the ship's dead reckoning, provided the observations are made within certain limits of time.\n\nBut however worthy of notice this method may be, new tables for the purpose are altogether unnecessary. It consists of two parts: the first computes, from the latitude exhibited by the dead reckoning of the ship, the distance from noon of the middle time between the observations, and thence the time of either: the second operation computes, from one of these observations, what should be the sun's meridian altitude, had the ship's reckoning given the true latitude; but if the latitude assumed from that reckoning is erroneous, the altitude thus computed will not be conformable to it; however, if the times for the observations are properly chosen, it will much better agree to the true latitude, and thereby the assumed latitude may be more or less corrected.\n\nBut both these operations are an immediate consequence from the proposition in spherical trigonometry, usually delivered under the name of the fourth axiom, which is this; That the square of the radius is to the rectangle under the lines of the sides con-\n\n(b) Book iii. p. 35.\ntaining any angle, as the versed sine of that angle to\nthe difference between the versed sines of the third\nside, and of the difference between the sides contain-\ning the angle.\n\nHence if A be the zenith of any place; B the ele-\nvated pole; C, D two places of the sun in the parallel\nof declination DF; by this proposition in the tri-\nangle ABC,\nRad.\\textsuperscript{q} : fin. \\(AB \\times \\text{fin. } BC\\) (\\text{cosf. lat.} \\times \\text{cosf. decl.} ⊙)\n\\[\n\\therefore \\text{versf. f. } ABC : \\text{versf. f. } AC — \\text{versf. f. } AF;\n\\]\nAnd, in like manner, in the triangle \\(ABD\\),\nRad.\\textsuperscript{q} : \\text{cosf. lat.} \\times \\text{cosf. decl.} ⊙ : \\text{versf. f. } ABD\n\\[\n: \\text{versf. f. } AD — \\text{versf. f. } AF;\n\\]\nConsequently,\nRad.\\textsuperscript{q} : \\text{cosf. lat.} \\times \\text{cosf. decl.} ⊙ : \\text{versf. f. } ABD — \\text{versf. f. } ABC\n\\[\n: \\text{versf. f. } AD — \\text{versf. f. } AC.\n\\]\nBut \\(\\frac{1}{2}\\) rad. \\times \\text{versf. f. } ABD — \\text{versf. f. } ABC is \\(=\\)\n\\[\n\\text{fin. } \\frac{ABD + ABC}{2} \\times \\text{fin. } \\frac{ABD - ABC}{2};\n\\]\nTherefore,\nRad.\\textsuperscript{q} : \\text{cosf. lat.} \\times \\text{cosf. decl.} ⊙ : \\text{fin. } \\frac{ABD + ABC}{2}\n\\[\n\\times \\text{fin. } \\frac{ABD - ABC}{2} : \\frac{1}{2} \\text{ rad.} \\times \\text{versf. f. } AD — \\text{versf. f. } AC.\n\\]\nAnd this is the first operation in the treatise, these remarks concern. For in the rectangle, the \\(\\text{fin. } \\frac{ABD + ABC}{2}\\)\n\\[\n\\times \\text{the fin. } \\frac{ABD - ABC}{2}, \\text{ the first side, when the observations are both made on the same side of noon, and}\n\\]\nthe second side of this rectangle, when one observation is before noon, and the other after, is the fine of the distance of the middle time between the observations from noon, and the other side is the fine of half the distance between the observations. And in the new tables one column exhibits the arithmetical complement of the logarithmic fine of half the elapsed time, and the next, the logarithm of twice the fine of the middle time.\n\nBut moreover, \\(\\frac{1}{2}\\) rad. \\times \\text{versf. f. } AD — \\text{versf. f. } AC\nbeing equal to \\(\\text{fin. } \\frac{AD + AC}{2} \\times \\text{fin. } \\frac{AD - AC}{2}\\), the operation may be expressed more commodiously thus,\nRad.: col. lat. × col. decl. ⊙ :: fin. \\( \\frac{ABD + ABC}{2} \\) × fin. \\( \\frac{ABD - ABC}{2} \\) : fin. \\( \\frac{AD + AC}{2} \\) × fin. \\( \\frac{AD - AC}{2} \\);\n\nnow requiring the common logarithmic sines only.\n\nAgain, the square of the radius being, as above, to col. lat. × col. decl. ⊙, as the vers. f. A B C to vers. f. A C — vers. f. A F, or as vers. f. A B D to vers. f. A D — vers. f. A F, these analogies express the second operation, which, in this treatise, is unnecessarily confined to the lesser angle A B C. The column in the table intituled Rising consists of logarithmic versed sines, which may be applied to either of the angles A B C or A B D promiscuously; for here A F being equal to the excess of B C or B D above the arch B A, assumed for the complement of the latitude, the arches A C and A D, in the preceding analogies, will be the complements of the altitudes observed, if the latitude were truly assumed, otherwise not; but the difference of their versed sines, will however be equal to the difference of the versed sines of the complements of the true latitudes; for this is supposed in the first operation. Therefore, if one of the fourth terms of these analogies be deducted from the versed sine of the complement of the greater altitude, or the other from the versed sine of the complement of the lesser, the remainder will be the same, and exhibit a versed sine for the complement of the sun's altitude different from A F, when B A is assumed different from the true latitude, and nearer to the truth, if the times for the observations are properly chosen.\n\nBut farther, the two preceding analogies may be reduced to these;\n\nRad.\nRad. \\( \\theta \\) : \\( \\cos \\) lat. \\( \\times \\) \\( \\cos \\) decl. \\( \\odot \\) :: \\( \\sin \\frac{1}{2} ABC \\)\n\n\\( \\frac{1}{2} \\) rad. \\( \\times \\) vers. f. AC — vers. f. AF,\n\nAnd\n\nRad. \\( \\theta \\) : \\( \\cos \\) lat. \\( \\times \\) \\( \\cos \\) decl. \\( \\odot \\) :: \\( \\sin \\frac{1}{2} ABD \\)\n\n\\( \\frac{1}{2} \\) rad. \\( \\times \\) vers. f. AC — vers. f. AF;\n\nAlso,\n\nVers. f. AC — vers. f. AF = \\( \\cos \\) AF — \\( \\cos \\) AC, and\n\nvers. f. AD — vers. f. AF = \\( \\cos \\) AF — \\( \\cos \\) AD.\n\nAnd thus the common tables of sines will supply the use of this column of the new tables, as well as the preceding.\n\nThe first example of this treatise, wrought by the common tables.\n\nHere the declination of the sun is stated at \\( 11^\\circ 17' \\) N. the altitude first taken, being the lesser, \\( 46^\\circ 55' \\), the greater altitude \\( 54^\\circ 7' \\), and the difference of time between the observations \\( 1^h 25^m \\), or \\( 85^m \\); which, divided by 4, gives \\( 21^\\circ 15' \\) for the arch of the equinoctial corresponding.\n\nHere the observations are both before noon; therefore, in fig. 1. the latitude being assumed \\( 46^\\circ 50' \\),\n\nFor the first operation.\n\n\\[\n\\begin{align*}\nAC &= 35^\\circ 53' \\\\\nAD &= 43^\\circ 5' \\\\\n\\text{Their sum} &= 78^\\circ 58' \\\\\n\\text{Their difference} &= 7^\\circ 12' \\\\\n\\text{Sine of } \\frac{1}{2} \\text{ sum (39 29')} &= 9.80336 \\\\\n\\text{Sine of } \\frac{1}{2} \\text{ difference (3 36')} &= 8.79789 \\\\\n\\text{Arith. com. of the sine of } \\frac{1}{2} CBD (10 37 30') &= 0.73429 \\\\\n\\text{Arith. com. of the sine of BF, or the cos. of the decl. of the sun,} & 0.00848 \\\\\n\\text{Sum} &= 19.34402 \\\\\n\\text{Cos. of the lat. assumed} &= 9.83513 \\\\\n\\text{Diff. = sin. } \\frac{ABD + ABC}{2} &= 9.50889\n\\end{align*}\n\\]\nFor the second operation.\n\n\\[\n\\frac{ABD + ABC}{2} = 18^\\circ 49' 50''\n\\]\n\n\\[\n\\frac{ABD - ABC}{2} = 10^\\circ 37' 30''\n\\]\n\n\\[ABC = 8^\\circ 12' 20''\\]\n\nSine of \\(\\frac{1}{2}ABC\\) (4 6 10) \\{ 8.85458 \\\\\n8.85458 \\\\\n9.99152 \\\\\n9.83513 \\\\\n\\}\n\nSum \\(= 30.00000 = \\log.\\) of the \\(\\frac{\\text{verf.f. AC} - \\text{verf.f. AF}}{2}\\) \\{ 7.53531 \\\\\n0.006868 \\\\\n0.810212 \\\\\n0.817080 \\\\\n\\}\n\nVerf. f. AC — verf. f. AF\n\nNatural cof. of AC, the complement of the greater altitude,\n\nNatural cof. of \\(35^\\circ 12' 23''\\)\n\nOr, \\(\\frac{ABD + ABC}{2} + \\frac{ABD - ABC}{2}\\) being \\(= ABD,\\)\n\nSine of \\(\\frac{1}{2}ABD\\) (14° 43' 40'') \\{ 9.40522 \\\\\n9.40522 \\\\\n9.99152 \\\\\n9.83513 \\\\\n\\}\n\nSum \\(= 30.00000 = \\log.\\) of the \\(\\frac{\\text{verf.f. AD} - \\text{verf.f. AF}}{2}\\) \\{ 8.63709 \\\\\n0.086720 \\\\\n0.730361 \\\\\n0.817081 \\\\\n\\}\n\nVerf. f. AD — verf. f. AF\n\nNatural cof. of AD, the complement of the lesser altitude,\n\nNatural cof. of \\(35^\\circ 12' 23''\\), as before\n\nThus the meridian distance of the sun from the zenith is computed at \\(35^\\circ 12' 23''\\), and this added to the sun's declination \\(11^\\circ 17' N.\\) gives \\(46^\\circ 29' 23''\\) for the latitude, different from that assumed, and nearer to the true latitude; which, by a second operation\noperation with this latitude now found, will approach still nearer to the truth, thus:\n\nThe sum of the four first logarithms in the first of the two former operations,\n\n\\[\n\\begin{align*}\n\\text{Cosine of } 46^\\circ 29' 23'' & = 9.83789 \\\\\n\\text{Sine of } \\frac{\\text{ABD} + \\text{ABC}}{2} & = 18^\\circ 42' 25'' \\quad 9.50613 \\\\\n\\text{ABD} - \\text{ABC} & = 10^\\circ 37' 30'' \\\\\n\\text{ABC} & = 8^\\circ 4' 55'' \\\\\n\\frac{1}{2} \\text{ABC} & = 4^\\circ 2' 27\\frac{1}{2}' \\\\\n\\log \\left( \\frac{\\text{verf. f. AC} - \\text{verf. f. AF}}{2} \\right) & = 7.52541 \\\\\n\\text{Verf. f. AC} - \\text{verf. f. AF} & = 0.006704 \\\\\n\\text{Natural cos. of AC, as before,} & = 0.810212 \\\\\n\\text{Natural cos. of } 35^\\circ 13' 21'' & = 0.816916\n\\end{align*}\n\\]\n\nThe declination of the sun added to this, amounts to \\(46^\\circ 30' 31''\\), the true latitude, as directly computed, being \\(46^\\circ 30' 19''\\).\n\nHowever, it must not be expected, that this method of computation will always converge thus expeditiously to the true latitude. Had these observations been made about 3 hours sooner in the day, and with the same interval between them, if the first altitude of the sun had been found \\(18^\\circ 55'\\), and the second \\(33^\\circ 11'\\), the latitude computed would come out wider from the truth, than that assumed, one exceeding, and the other falling short of the true latitude, which will lie between them, and is nearly the same, as above. But if the lesser altitude had been\nbeen $29^\\circ 13'$, and the greater $40^\\circ$; in 9 degrees of north latitude the interval between the observations would have been nearly the same, as before. But if this latitude be sought by any latitude assumed near it, the latitude computed according to the method above, will fall more remote from the truth, than that assumed, and err the same way.\n\nIn general, the error in the latitude assumed will bear to the error in the latitude computed, nearly the ratio compounded of that of the rectangle under the radius and the cosine of the distance from noon of the middle point of time between the two observations to twice $\\sin \\frac{1}{2} ABC \\times \\sin \\frac{1}{2} ABD$, and the ratio of rad. $\\times \\sin AF$ to $\\sin BC \\times \\cos AB$; insomuch that the distance of the middle point of time between the two observations from noon is to be considered, as the limit, where these computations shall cease to converge, when the rectangle under the radius, and the cosine of this distance from noon shall be to twice $\\sin \\frac{1}{2} ABC \\times \\sin \\frac{1}{2} ABD$, (or the cosine of this distance to the difference between the versed sine of this distance from the versed sine of half CBD) as $\\sin BF \\times \\cos AB$ to rad. $\\times \\sin AF$. And the errors in the assumed and computed latitudes fall on different sides of the true latitude, when both the observations are on the same side of noon, and the zenith lies between the meridian sun and the elevated pole; or when the observations are one before, and the other after noon, if the meridian sun passes between the zenith and the elevated pole: otherwise, they fall on the same side of the true latitude.\n\nHowever,\nHowever, the direct method of computation, by the assistance of the natural sines, will not be so much more operose than this compendium, as may at first sight be imagined. For the arch of a great circle being drawn through C and D, forming the triangle BCD, if the logarithmic cosine of BC or BD be added to the logarithmic tangent of half the angle CBD, and the logarithmic sine of BC or BD be added to the logarithmic sine of half this angle, the first sum is the logarithmic cotangent of the angle BCD, and the second the logarithmic sine of half CD, the base of the triangle. Then, in the triangle ACD, from the sides, now all given, is to be computed the angle ACD, the difference between which, and the angle above found BCD, is the angle BCA, when the zenith lies between the pole, and the great circle through C, D; but when the zenith lies beyond that circle, the angle BCA is either the sum of those angles, or the supplement of that sum to a circle. And, in the last place, if twice the logarithmic sine of half this angle, and the logarithmic sines of BC and AC are added together, the sum, after thrice the logarithm of the radius has been deducted, is the logarithm of half the excess of the natural cosine of BC + AC above the natural cosine of AB, or the natural sine of the latitude, according to the trigonometrical axiom, which has been above referred to; for rad. × \\( \\frac{1}{2} \\) vers. f. BCA is equal to \\( \\sin. \\frac{1}{2} \\text{BCA} \\) (c).\n\n(c) Vide Neper. Mirif. Canon. Construct. Edinburg. 1619, p. 59.\nThe operation for the preceding example will be this:\n\n\\[\n\\begin{align*}\n\\text{Tang. } \\frac{1}{2} \\text{ CBD} &= 9.273225 \\\\\n\\text{Cof. BC} &= 9.291504 \\\\\n\\text{Cotang. BCD} &= 9.564729 \\\\\n\\text{BCD} &= 87^\\circ 53' 52'' \\\\\n\\text{Sine } \\frac{1}{2} \\text{ CBD} &= 9.265714 \\\\\n\\text{Sine BC} &= 9.991524 \\\\\n\\text{Sine } \\frac{1}{2} \\text{ CD} &= 9.257238 \\\\\n\\text{CD} &= 10^\\circ 25' 2\\frac{1}{2}' \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nAD &= 43^\\circ 5' 0'' \\\\\nAC &= 35^\\circ 53' 0'' = 0.232001 \\\\\nCD &= 20^\\circ 50' 5'' = 0.448950 \\\\\n\\text{Sum} &= 99^\\circ 48' 5'' \\\\\n\\frac{1}{2} \\text{ Sum} &= 49^\\circ 54' 2\\frac{1}{2}' = 9.883621 \\\\\n\\frac{1}{2} \\text{ Sum} - AD &= 6^\\circ 49' 2\\frac{1}{2}' = 9.074466 \\\\\n\\text{Sum} &= 19.639038 \\\\\n\\frac{1}{2} \\text{ Sum} &= 9.819519 \\\\\n\\end{align*}\n\\]\n\nThis half sum is the logarithmic cosine of half ACD; therefore, half ACD is \\(48^\\circ 42' 11''\\), and its difference from \\(\\frac{1}{2}\\) BCD will give \\(\\frac{1}{2}\\) ACB \\(= 4^\\circ 45' 15''\\).\n\n\\[\n\\begin{align*}\n\\text{Sine of } \\frac{1}{2} \\text{ ACB} &= 8.918444 \\\\\n\\text{Sine of AC} &= 9.767999 \\\\\n\\text{Sine of BC} &= 9.991524 \\\\\n0.0039483 - \\log_2 &= 7.596411 \\\\\n0.0078966 \\\\\n0.7333345 - \\text{natural cosine of BC} - AC, \\text{ that is, of } 42^\\circ 50' \\\\\n0.7254379 - \\text{natural cosine of AB, or sine of the latitude.} \\\\\n\\text{Therefore, the latitude is } 46^\\circ 30' 19''.\n\\end{align*}\n\\]\n\nBut farther, as in the cases, where the above approximation takes place, it is an advantage, that the assumed latitude should be taken as near the true one,\none, as can be, the dead reckoning of the ship need not be entirely relied on for that purpose; for the instrumental construction proposed by Mr. Collins (d) will very readily give the true latitude, as nearly as the instruments used can express: and his method may be described thus.\n\nTwo straight lines AB, AC being drawn in an angle corresponding with the distance in time between the observations, and in one of the lines, as AB, the lengths AD, AE being taken from any scale of tangents, one equal to the tangent of half the sum, and the other equal to the tangent of half the difference of the distance of the sun from the pole, and from the zenith of the first observation, and also the points F, G, taken in the other line in the same manner related to the other observation; then circles being described on the two diameters DE, FG, the distance of A from one of the intersections of these circles will be the tangent of half the complement of the latitude.\n\nMoreover, as in the treatise, which has given occasion to this discourse, it is proposed sometimes to take into consideration the ship's motion during the time, between the observations, but imperfectly, regard being had to the change made by the ship in longitude only; but the change in latitude also may be taken into consideration in the foregoing con-\n\n(d) In the place above cited.\nstruction, by making the angle BAC equal to the sum or difference of the interval of time, and the change in the ship's longitude, according as that change is made towards the west, or towards the east, and then drawing a line from A, not to the intersection of the circles; but so, that the portions of that line, terminated by each of the circles, may be the tangents of arches, whose difference is half the change in the latitude; which, if made from the pole, requires the portion of the line terminated at the circle, whose diameter is DE, to be shorter than the other; and the contrary is required, when the motion of the ship is towards the pole.\n\nFor determining the latitude by calculation, if the distance of the sun in the first observation from the zenith of the second could be found, this case would be reduced to the first, wherein the ship is considered, as stationary. And for this purpose, it has been proposed to make an additional observation, by an azimuth compass, of the angle, the ship's course makes with the azimuth of the sun, when the first altitude is taken; and, perhaps, the same angle may be found with sufficient exactness from the latitude in the first observation assumed, whether from the dead reckoning, or from the foregoing construction.\n\nWhy I have taken no notice of the calculations exhibited by the author of the piece here animadverted on, as proofs of his method, will readily appear to those, who shall cast their eye upon them.\n\nSCHOLIUM.\n\nThe axiom in trigonometry, on which the calculations here discoursed of have been shewn immediately\ndiately to depend, was introduced by Regiomontanus, and is still retained, as the foundation of the present methods of computing logarithmically an angle from the three sides of a spherical triangle given, though they may be demonstrated more directly by the following lemma.\n\nIn the circle \\(ABC\\), the chord \\(AC\\) being drawn, and the arch \\(ABC\\) bisected in \\(B\\), if \\(D\\) be taken in the circle at pleasure, and the lines \\(BE, DF\\) drawn also at pleasure parallel to each other, one terminated by the circle in \\(E\\), and the other by the chord \\(AC\\) in \\(F\\); then \\(AD, DC\\) being drawn, \\(BE \\times DF = AD \\times DC\\).\n\nDraw \\(DH\\) perpendicular to \\(AC\\), and also the diameter \\(BG\\), joining \\(EG\\). Then the angles \\(FDH, EBG\\) are equal, and the angles \\(DHF, BEG\\) right. Therefore \\(BE\\) is to \\(BG\\) as \\(DH\\) to \\(DF\\), and \\(BE \\times DF = BG \\times DH = AD \\times DC\\).\nNow, in the spherical triangle \\(ABC\\), through \\(B\\), and to the poles \\(A, C\\), let the semicircles \\(EBF, GBD\\) be described, and the arch \\(AC\\) completed to a circle. Then the semicircles \\(EBF, GBD\\) will be both perpendicular to the plane of this circle, cut it in their diameters \\(EF, GD\\), and their common intersection \\(BH\\) be also perpendicular to it, and consequently perpendicular to \\(GD\\), the diameter of the semicircle \\(GBD\\), whereby \\(GB, DB\\) being joined, \\(GD \\times GH\\) is equal to \\(GB^q\\), and \\(GD \\times DH\\) equal to \\(BD^q\\).\n\nAgain, \\(AK\\) being drawn parallel to \\(GD\\), the arch \\(ACK\\) is double \\(AC\\), \\(GCD\\) double \\(CB\\), \\(EAD\\) the sum of all the three sides of the triangle, \\(EG = ED - DG(2CB)\\), \\(GF = AF(AE) + CG(CD) - AC = ED - 2AC\\), and \\(FD = ED - EF(2AB)\\).\n\nThen \\(EG, GF, FD, ED\\) being joined; in the first place, \\(AK\\) is to \\(DG\\) as \\(AK \\times GH\\) to \\(DG \\times GH\\), also \\(AK\\) to \\(DG\\) as \\(AK \\times DG\\) to \\(DG^q\\), but \\(AK \\times GH = EG \\times GF\\) by the preceding lemma, and \\(DG \\times GH = GB^q\\); whereby \\(AK \\times DG\\) is to \\(DG^q\\) as \\(EG \\times GF\\) to \\(GB^q\\). Hence \\(AK\\) being twice the sine of the arch \\(AC\\), \\(DG\\) twice the sine of the arch \\(GC\\), equal to \\(BC\\), \\(EG\\) twice the sine of half the arch \\(EAG\\), \\(GF\\) twice\ntwice the fine of half the arch GF, and GB twice\nthe fine of half the angle ACB to the radius of the\ncircle GBD, which is half GD; fin. AC × fin. BC\nis to rad.\\(^\\circ\\) as fin. \\(\\frac{1}{2}\\) ED — BC × fin. \\(\\frac{1}{2}\\) ED — AC\nto fin. \\(\\frac{1}{2}\\) ACB\\(^\\circ\\). And this is Napeir's first method\nof finding an angle from the three sides given (e), as it\nis usually delivered.\n\nAgain, AK is to DG, or AK × DG to DG\\(^\\circ\\), as\nAK × DH (ED × DF) to DG × DH, or DB\\(^\\circ\\).\nTherefore, DB being twice the fine of half the angle\nBCD, or twice the cosine of half the angle ACB to\nthe radius of the circle GBD, as fin. AC × fin. CB\nto rad.\\(^\\circ\\) so is \\(\\frac{1}{2}\\) ED × fin. \\(\\frac{1}{2}\\) ED — AB to cos. \\(\\frac{1}{2}\\) ACB\\(^\\circ\\).\nAnd this is Napeir's second method (f).\n\nAnd lastly, the cosine of an arch or angle being\nto its fine, as radius to the tangent, fin. \\(\\frac{1}{2}\\) ED\n× fin. \\(\\frac{1}{2}\\) ED — AB will be to fin. \\(\\frac{1}{2}\\) ED — BC\n× fin. \\(\\frac{1}{2}\\) ED — AC as rad.\\(^\\circ\\) to tang. \\(\\frac{1}{2}\\) ACB\\(^\\circ\\), which\nis a third method added by Gellibrand (g).\n\nMoreover,\n\nIn plain triangles, from the three sides given may\nan angle be found by a process similar to each of\nthese, as follows:\n\n(e) Mirific. Canon. Log. descrip. lib. ii. c. 6. § 8.\n(f) Ibid. § 9.\n(g) Trigon. Britan. p. 75.\nIn the plain triangle \\(ABC\\), if on the centers \\(A\\) and \\(C\\) be described circles through \\(B\\), cutting \\(AC\\) in \\(E, F, G,\\) and \\(D\\), the perpendicular \\(BH\\) being let fall on \\(AC\\), \\(EH \\times HF\\) is equal to \\(GH \\times HD\\). Therefore \\(HF : GH :: HD : HE\\), and by composition \\(GF : GH :: ED : HE\\), and \\(:: ED - GF : EG\\); also \\(HF : GF :: HD : ED\\), and \\(:: DF : ED - GF\\).\n\nMoreover \\(ED\\) is \\(= AB + AC + CB\\), \\(EG = ED - 2CB\\), \\(FD = ED - 2AB\\), \\(ED - GF = EG + FD = 2ED - 2CB - 2AB = 2AC\\). Hence \\(GF\\) is to \\(GH\\) as \\(2AC\\) to \\(EG\\), whence \\(GF \\times EG\\) is \\(= 2AC \\times GH\\); and \\(DH\\) is to \\(ED\\) as \\(DF\\) to \\(2AC\\), that is, \\(2AC \\times DH\\) will be \\(= ED \\times DF\\).\n\nThus \\(2AC : DG (:: 2AC \\times DG : DG^q)\\) \\(:: 2AC \\times GH (EG \\times GF) : DGH (GB^q)\\) and \\(AC \\times CB : rad.^q :: \\frac{1}{2}ED - CB \\times \\frac{1}{2}ED - AC\\) : fin. \\(\\frac{1}{2}ACB^q\\).\n\nLikewise \\(2AC : DG (:: 2AC \\times DG : DG^q)\\) \\(:: 2AC \\times DH (ED \\times DF) : GDH (DB^q)\\); therefore \\(AC \\times CB : rad.^q :: \\frac{1}{2}ED \\times \\frac{1}{2}ED - AB : cof. \\frac{1}{2}ACB^q\\).\n\nAnd in the last place \\(\\frac{1}{2}ED \\times \\frac{1}{2}ED - AB\\) \\(:: \\frac{1}{2}ED - CB \\times \\frac{1}{2}ED - AC ; :: rad.^q : tang. \\frac{1}{2}ACB^q\\).\nThis last proposition was first delivered by Gellibrand, and the other two not long after by Oughtred, in their respective treatises of Trigonometry.\n\nBut it may farther here be noted, that from two sides of a plain triangle, as AC, CB, with the angle between them ACB, the third side AB may be found either by the first or second of the foregoing proportions; for by the first may be found EG × GF, that is, AFq — AGq, and by the second ED × DF, or ADq — AFq; whence by a table of squares AF (= AB) may be readily found, for AG is equal to AC — BC, and AD = AC + CB.\n\nIn like manner in the spherical triangle from the sides AC, CB, and the angle ACB, may the third side be expeditiously found with the aid of a table of natural sines, by the axiom referred to in the beginning of this discourse, as modelled for this purpose by Napier, in the proposition, which has been already referred to (b), whereby the axiom is reduced to this analogy,\n\n\\[ \\text{Rad.}^q : \\sin. AC \\times \\sin. CB :: \\frac{\\sin. \\frac{1}{2} ACB}{\\text{verf. f. AB} - \\text{verf. f. AC} \\propto CB} \\]\n\n\\[ \\text{rad.} \\times \\frac{2}{\\text{verf. f. AB} - \\text{verf. f. AC} \\propto CB} \\] (i).\n\n(b) Mirif. Canon. Constr. p. 59.\n(i) An example of this method has been given above in the triangle ABC in p. 920. And in default of a table of natural sines, the base AB might have been found thus. The sum of twice the logarithmic sine of \\( \\frac{1}{2} ACB \\), added to the logarithmic sines of AC and\nMay it here be farther added, that thus all the cases of oblique spherical triangles may be solved without dividing them into rectangular? For when two sides and the angle included, or when two angles and the side between them are given, the two other angles or sides may be found by the proportions of Napier and Briggs, whereby the other two angles or sides are found together \\((k)\\); the proportions, when two sides with the including angle are given, being these,\n\n\\[\n\\text{Cof. } \\frac{AC + CB}{2} : \\text{ cof. } \\frac{AC - CB}{2} :: \\text{ cotang. } \\frac{1}{2} ACB \\\\\n: \\text{ tang. } \\frac{CAB + CBA}{2}.\n\\]\n\nAnd\n\n\\[\n\\text{Sin. } \\frac{AC + CB}{2} : \\text{ fin. } \\frac{AC - CB}{2} :: \\text{ cotang. } \\frac{1}{2} ACB \\\\\n: \\text{ tang. } \\frac{CAB - CBA}{2}.\n\\]\n\nThe second of these has been demonstrated with great conciseness by Dr. Halley, from the principles of the stereographic projection of the sphere \\((l)\\); and the first is derived by him from the second, but not\n\nand \\(BC\\) amounted to 37.596411. The logarithmic sine of \\(\\frac{AC - BC}{2}\\) (9.562468) deducted from half this sum (18.798211) leaves 9.235737. This number sought among the logarithmic tangents exhibits for its correspondent line 9.229400, which being deducted from the foresaid half sum (18.79211) leaves 9.568805, which is the logarithmic sine of 21° 44' 50½\", equal to half \\(AB\\).\n\n\\((k)\\) Vide Neper. Mirif. Canon. Confr. pag. penult.\n\n\\((l)\\) See Jones's Synopsis, p. 281.\naltogether with the same success, by his not observing, that if the base and one of the sides be completed to semicircles, the second of the two proportions in the supplemental triangle thence formed leads directly to the first in the original triangle.\n\nAnd to conclude, if two sides, and the angle opposite to one of them, or two angles with the side opposite to one, were given; when the other opposite part is found from the proportion between the sines of parts opposite, the remaining angle, or side, may be found by either of the two proportions foregoing.\n\nLXXXII. An Account of the Plants Halesia and Gardenia: In a Letter from John Ellis, Esq.; F. R. S. to Philip Carteret Webb, Esq.; F. R. S.\n\nDear Sir,\n\nRead Nov. 20, 1760.\n\nYOU must have observed, that as the spirit of planting has increased in this kingdom, the study of botany has become more fashionable; the works of the celebrated Linnæus, heretofore looked on as capricious and strange, are now in the hands of every man, who wishes to study the order of nature.\n\nThe great variety of plants, which you have introduced into your garden from North America, as well as from many other parts of the world, must give you double pleasure, when you view them ranged in proper order, and judiciously named.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105427.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 31318,
+    "total-output-tokens": 9371,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1257,
+        2
+      ],
+      [
+        1257,
+        2893,
+        3
+      ],
+      [
+        2893,
+        3239,
+        4
+      ],
+      [
+        3239,
+        5173,
+        5
+      ],
+      [
+        5173,
+        6834,
+        6
+      ],
+      [
+        6834,
+        8564,
+        7
+      ],
+      [
+        8564,
+        9794,
+        8
+      ],
+      [
+        9794,
+        11250,
+        9
+      ],
+      [
+        11250,
+        12938,
+        10
+      ],
+      [
+        12938,
+        14473,
+        11
+      ],
+      [
+        14473,
+        16029,
+        12
+      ],
+      [
+        16029,
+        17385,
+        13
+      ],
+      [
+        17385,
+        18972,
+        14
+      ],
+      [
+        18972,
+        19866,
+        15
+      ],
+      [
+        19866,
+        21190,
+        16
+      ],
+      [
+        21190,
+        22533,
+        17
+      ],
+      [
+        22533,
+        23813,
+        18
+      ],
+      [
+        23813,
+        25285,
+        19
+      ],
+      [
+        25285,
+        26754,
+        20
+      ],
+      [
+        26754,
+        28023,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105427",
+    "title": "Some Considerations on a Late Treatise Intituled, A New Set of Logarithmic Solar Tables, &c. Intended for a More Commodious Method of Finding the Latitude at Sea, by Two Observations of the Sun; By H. Pemberton, M. D. R. S. Lond. et R. A. Berol. S.",
+    "authors": "H. Pemberton",
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/105427"
+  }
+}

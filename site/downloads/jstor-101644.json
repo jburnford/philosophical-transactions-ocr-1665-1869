@@ -1,0 +1,69 @@
+{
+  "id": "f218d1226b526ab7594d370a0ec7c7cec17cc96e",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nMay 24. 1675.\n\nThe CONTENTS.\n\nSome Reflexions on Numb. 113. of these Papers. Extracts of several Letters written from Scotland, about extraordinary Winds, and Lakes, and a petrifying Rivulet. Some Communications from Rome and Paris. A Conjecture touching the Bladders of Air that are found in Fishes; illustrated by an Experiment of Mr. Boyle's. An Extract of a Letter about poisonous Fish in one of the Bahama-Islands. An Observation sent from Florence concerning a Tree bearing Orange and Citron-Limon, separately, and in one and the same fruit. An Account of three Books:\nI. Archimedis Opera; Apollon. Con. l. 4; Theodos. Sphaerica; methodo novâ illustrata, &c. succinè demonstrata, ab If. Barrow, &c.\nII. Thomæ Bartholini Acta Medica & Philosophica. III. The Epitome of the whole Art of Husbandry, with additions of New Experiments thereto belonging; by J. B. Gent. A Proposal of Dr. Morison's about his New Universal Herbal.\n\nSome Reflexions on the Transactions of April 1675; sent to the Publisher in a Letter out of the Country.\n\nI thank you heartily for April's Transactions. And I am glad, that my Papers did not exclude any of those particulars. If Dr. Leibnitz his Watch satisfies Experience, 'tis considerable. Hevelius his accurateness prepares fresh work for Astronomers. Borrichius may be Cos veritatis, to excite and provoke great Discoveries in Chymistry. 'Tis an excellent pen which\nwhich gave you the Sea-sand of Cornwall: In which special notice ought to be taken, 1. Of the profit compared to Tin and Fish. 2. That the Land-carriage, (besides the charge of Lighterage) amounts to about 32000 l. per annum. 3. That such a vast difference of the Air is found in so little a distance, that a man may in an Afternoon travel as it were out of Spain into the Orcades. In which latter note, besides the argutenefs, a deep hint in Philosophy. I have remarked Springs and Soyle to the very same purpose. Note also pag. 296. this proposal for Chymists, to open the body of Sand, &c. We find also by common Experience, that some Stones, and some Gravel (as such) without other circumstances, are much more impregnating than other. And I found, how to place some Stones above ground, some at a certain depth under ground, for surer fertility; and so for Sand and Gravel also.\n\nBut I wish, you could meet an intelligent man, who could find out some probable ground to proceed in a way of Calculation, What profit may be raised by any late Invention or any old devise for Soyle; for example,\n\n1. The Land-carriage of Sea-sand in Cornwall 32000 l. per annum.\n2. The Lighterage. Some grounds are offered in the said Tract of yours for a probable sum.\n3. What profit the Husbandman there expects, and, communibus annis, enjoys?\n4. How many Labourers are by the same, or other appendages, employed and rewarded? For, if nothing were gained above a narrow livelihood to the Husbandman; yet the sum for Lighterage and Carriage is great, towards the employment of the poor, which is very much bono publico.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101644.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 867,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1430,
+        2
+      ],
+      [
+        1430,
+        3035,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101644",
+    "title": "Some Reflexions on the Transactions of April 1675; Sent to the Publisher in a Letter out of the Country",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101644"
+  }
+}

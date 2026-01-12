@@ -1,0 +1,59 @@
+{
+  "id": "a6a3fcc786da2ea1aa9a64bf5e543cfda0d92098",
+  "text": "VII. Remarks on a correction of the solar tables required by Mr. South's observations. By G. B. Airy, Esq. M. A. Fellow of Trinity College, Cambridge, and Lucasian Professor of Mathematics in the University of Cambridge. Communicated by Dr. Young, F. R. S., &c. - - - page 65\n\nVIII. On the mutual action of the particles of magnetic bodies, and on the law of variation of the magnetic forces generated at different distances during rotation. By S. H. Christie, Esq. M. A. F. R. S. - - - - 71\n\nIX. Corrections to the reductions of Lieutenant Foster's Observations on Atmospherical Refractions at Port Bowen; with Addenda to the Table of Magnetic Intensities at the same place. By Lieutenant Henry Foster, R. N. F. R. S. 122\n\nX. Correction of an error in a Paper published in the Philosophical Transactions, entitled, \"On the Parallax of the fixed Stars.\" By J. F. W. Herschel, Esq. F. R. S. - 126\n\nERRATA, PART IV. 1826.\n\nPage 4, line 1, for \"9 ten-thousandths,\" read \"9 thousandths.\"\n\nIn Plate VI. page 189, insert the letter \"N\" at the left hand extremity of the horizontal diameter in Fig. 4; and at the upper extremity of the vertical diameter in Fig. 5, insert the letter \"e.\"\n\nDirections to the Binder.\n\nPlates I. II. and III. should face page 124, instead of 174.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107859.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 427,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1269,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107859",
+    "title": "Errata",
+    "authors": null,
+    "year": 1827,
+    "volume": "117",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107859"
+  }
+}

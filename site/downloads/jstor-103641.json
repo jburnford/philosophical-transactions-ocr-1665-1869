@@ -1,0 +1,59 @@
+{
+  "id": "191cf1174ce33c3d67704cdb58c560a250817e95",
+  "text": "She was full nine Months gone in August 1717, and dy'd the 23d of March 1723, on which Day I took it out.\n\nFig. 22. A Lateral View.\n\nA Orificium Vaginae.\nB Anus.\nC Intestinum Rectum.\nDDD The Mass, wherein the Skeleton is contain'd.\nE The Costæ plainly appearing.\nF The Bladder laid aside.\nG The Ureter cut off.\nH The Uterus.\nI The Ovary.\nK The Tube.\nL Part of the Colon.\nM The Ulcer, through which the Excrements pass'd, about one Inch beneath the Navel.\nN Bones in the Orifice of the Ulcer.\n\nFINIS.\n\nERRATUM.\n\nNumb. 376. Pag. 308. l. 7. del. square.\n\nLONDON: Printed for W. and J. Innys, Printers to the Royal Society; at the Prince's-Arms, the West End of St. Paul's Church-Yard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103641.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 288,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        681,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103641",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103641"
+  }
+}

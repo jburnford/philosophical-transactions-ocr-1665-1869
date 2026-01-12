@@ -1,0 +1,59 @@
+{
+  "id": "32dc6703b09ec506be36d96805781d00a0f0e76a",
+  "text": "ERRATA.\n\nPage. Line.\n72. 2. for communicated read communicated\n77. 12. for mercury removed without causing this to rise read remove\nwithout causing the mercury to rise\n81. 9. for smaller towards the middle read larger towards the middle\n391. — the last line, for — read +\n403. 12. for — 54 read — 46\n408. 3. from the bottom, for $\\frac{rn+m}{n}$ read $\\frac{n}{rn+m}$",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106473.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 182,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        367,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106473",
+    "title": "Errata",
+    "authors": null,
+    "year": 1782,
+    "volume": "72",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106473"
+  }
+}

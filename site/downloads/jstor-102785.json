@@ -1,0 +1,79 @@
+{
+  "id": "e085e1af8c61757646212fe8138111860602338a",
+  "text": "X. Part of a Letter from the Reverend Mr Gordon F.R.S. to the Publisher, concerning a Cataract near Gottenburg and the remains of the observatory of the famous Tycho Brahe.\n\nSIR,\n\nUmmaging among my Papers this morning, I found two cursory Remarks made in my late Voyage to the Baltick. The first concerns a remarkable Water-fall in Sweden, and the other Tycho-Brahe's, ruined Observatory on the Island Weem. As to the first:\n\nWhile the English and Dutch anchored off of Gottenburg to Water, I went up to the Town, where I was inform'd that several Leagues up in the Country, there was a prodigious Waterfal to be seen. I was eager to see it, but could not, unless resolv'd to lose the Fleet, however, I took an account of it from a person of very good credit, and it is as followeth.\n\nGottenburg River (as they call it) running a great way down out of the Country, at some Leagues distance from Gottenburg it comes to a prodigious high Precipice, and rusheth down from thence with mighty force and terrible noise. And whereas it is by this River that the Natives of the Country bring down their Floats of Timber to Gottenburg, especially Masts for Ships, I was told that the impetuous Current rushing down from the Precipice into a deep Pit, is so forcible, that many of the Masts (which usually turn topsy-turvy in their fall) do often fly to pieces when dash'd against\nagainst the surface of the Water in the Pit. This occurs if the Mast fall side-ways upon the Water; but if end-ways, (if I may so express it) then happens a thing more remarkable. For (according to my Information) most of the Masts that fall end-ways, dive so far under Water, that they rise not again for half an hour; others half an hour, several hours; and some a whole hour and upwards. If it shall be thought that the Masts stick fast in the Mud for some time, to take off that Objection; the Lake or Pit into which they fall, has been often founded with a Line of some hundred Fathoms Long, but never could they find any Ground.\n\nAs touching the Island Ween, (vulgarly term'd the Scarlet Island) all the World knows how famous it is for Tycho Brahe's Astronomical Observations. I had an opportunity to view the Ruins of the noted Observatory erected by that Renowned Danish Astronomer. How neat that Observatory was when entire, and how well stockt with Mathematical Instruments is now something uncertain, but this, methinks, is pretty certain, that the Island Ween (with all submission to better judgments) was none of the fittest for Astronomical Observations of all sorts, [such as the taking the exact time of the true Rising and Setting of Coelestial Bodies, together with their respective Amplitudes] because the Island lies low, and is Land-lockt on all points of the Compass, save three; being hemm'd in by the Svedish and Danish Coasts from S.by E. quite round to S.S.W. Besides, the sensible Land-Horizon of the Ween is extremely uneven and rugged, the North and Eastern parts thereof being some rising Hills in the Province of Schonen; and the Western part is mostly overspread with Trees on the Island Zealand: from the remotest of which Coasts the Ween is not distant above three Leagues. That these were real Defects in a nice Observatory, was frankly own'd by some University men at\nat Copenhagen: and all they could say, was, that the Island Ween was the best they then had.\n\nI might here give a large account of the many Rarities in the Museum Regium at Copenhagen; but since the printed Account thereof is in the hands of several belonging to the Society, that task were needless.\n\nXI. Part of a Letter from Sir Robert Sibbald, to the Publisher, giving an account of some Stones and Plants found lately in Scotland, and of some Books now Printing there.\n\nMr Lluyde met with several curious figured Stones here, and with some Inscriptions upon the Roman Wall, and in Icolm's Kill, and other places, of which it is like you may have an account from him. Of late, Mr Suberland hath discovered all our Gold Coins very well, from King James the First the beginning of his Reign, till King Charles the Second, he gives their Size, their Value, their Weight and their Face and Reverse, with the Inscriptions upon them. He found last Summer several curious Plants growing Wild in Ana andale, some he had not seen before. I am told Dr Pitcairn his Writings with Additions, are to be published in one Volume in Quarto, in Holland. We are about the Christian Poet Seduli-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102785.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1164,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1371,
+        2
+      ],
+      [
+        1371,
+        3276,
+        3
+      ],
+      [
+        3276,
+        4456,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102785",
+    "title": "Part of a Letter from the Reverend Mr Gourdon E. R. S. to the Publisher, concerning a Cataract Near Gottenburg and the Remains of the Observatory of the Famous Tycho Brahe",
+    "authors": "Tycho Brahe, Mr Gourdon",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102785"
+  }
+}

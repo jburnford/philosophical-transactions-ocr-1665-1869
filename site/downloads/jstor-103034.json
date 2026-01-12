@@ -1,0 +1,59 @@
+{
+  "id": "0c3af3d95112aaba923c723c0d71089a20cde84e",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nFor the Months of April, May and June, 1714.\n\nThe CONTENTS.\n\nI. A New Method for making Logarithms, and vice versa, for finding the Number corresponding to a Logarithm given, by help of a small Table. Communicated by Mr. John Long, S. Theol. Bacc. and Fellow of Corp. Christi Coll. Oxon.\n\nII. An Extract of a Letter from Mr. Anthony van Leeuwenhoek, F. R. S. containing his Observations on the small Fibres of the Muscles in several Animals.\n\nIII. An Extract from the Journal Literaire, &c. giving an Account of several Observations of the Texture of the Muscles, by Mr. Muys, Professor of Anatomy at Franeker.\n\nIV. An Extract of several Letters from Cotton Mather, D.D. F. R. S. to John Woodward, M.D. S.R.S. & Prof. Med. Gresh. and to Ric. Waller, Esq; S.R. Secr.\n\nV. A Letter from Emanuel Timone, Philos. & Med. D. in Univerf. Oxon. & Patav. S. R. S. containing the Method of Inoculating the Small-Pox; practis'd with Success at Constantinople, &c.\n\nVI. Theoremata quædam infinitam Materiæ divisibilitatem spectantia, &c. A Johanne Keill, M. D. Astron. Profef. Savil. Oxon. & S R. S.\n\nERRATA, in the Philof. Trans. Numb. 337.\n\nPAG. So. lin. 3. lege Societatis à secretis. P. SS. I. 6. I. rotundo. P. 158. I. 25. I. fufpicor, agnoscam. P. 159. I. 9. I. praefari. P. 285. I. 25. I. Legions P. 288. I. I. instead of NN there should be a Ligature NN, with the last Line raised a little higher than the first.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103034.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 546,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1436,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103034",
+    "title": "Errata",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103034"
+  }
+}

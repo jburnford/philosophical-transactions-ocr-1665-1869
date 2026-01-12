@@ -1,0 +1,59 @@
+{
+  "id": "f5be7e14961d2b457eec1d7910771e4570d4ab5a",
+  "text": "Water out of the Sea, from under the Salt-Water, four or five fathom deep, as sweet as any Fountain-water, And since 'tis argued by some, that such Sweet-water proceeds from certain Sweet Water-Springs, that were formerly on the Continent, at some distance from the Sea, and came afterwards to be covered by the Sea; it may be presumed, that in other places we may find the like. Besides, we know not, but that there may be in many parts, Eruptions of large Springs at the Bottom of the Sea, that were never taken in by any of its encroachments.\n\nThese Experiments are to be repeated every New Voyage, the multitude and frequency of them being necessary for finding out and confirming the truth of them; which as it will conduce exceedingly to the Enlargement of Natural Knowledge, so it may in time produce New and more accurate Sea-Maps and Cards, than hitherto have been publish'd; and great helps and advantages to Navigation: especially those of the Variation, and Dipping of the Needle; the Depth and Salt-ness of the Water; the Nature of the Ground at the Bottom of the Sea; and indeed almost every one of the rest; there being a Design to consider all, and to draw out of them such Rules and Directions, as may bring no less Honour, than Benefit to the English Nation.\n\nThe Instruments, described and represented in these Papers, may be had from Mr. Richard Shortgrave, Operator to the R. Society, to be found at Gresham Colledge; who also will be ready, if there be occasion, to give more particular Directions for the use of the same.\n\nADVERTISEMENT.\n\nIt is desired by Christopher Merret M.D. to inform the Publick, that within the space of four Months, he shall re-publish his Pinax Rerum Naturalium Britanicarum, with many additions, and in his proposed New Method; and that he wholly disclaims the Second Edition of that Book, as being printed and published without his knowledge.\n\nIn the SAVOY,\nPrinted by T.N. and John Martin at the Bell, a little without Temple-Bar, for James Allestry in Duck-Lane, Printers to the Royal Society, 1667.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101198.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 529,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2052,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101198",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101198"
+  }
+}

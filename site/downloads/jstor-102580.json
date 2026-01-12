@@ -1,0 +1,59 @@
+{
+  "id": "30f51a2c0477cbc2fe85aece41f911c1d5b1bcb3",
+  "text": "An INDEX.\n\nR.\nOlin, bow made. N. 243 p. 291.\nRusma. N. 243 p. 296.\n\nS.\nSalts, fashions. N. 243 p. 281.\nSerpent's bite. N. 245 p. 351.\nShield, & Roman one. N. 243 p. 205.\nShower of Fishes. N. 243 p. 289.\nSinenses observationes. N. 237.\nSlate, Irish. N. 243 p. 271.\nSounds, Experiments about them. N. 247 p. 433.\nStomach, motion of it. N. 243 p. 278.\nStone of the Bladder, extracting it from Females. N. 236 p. 11.\n— voided by a Boy. N. 242 p. 264.\nStorm of Thunder and Lightning. N. 236 p. 5.\n\nT.\nTar, bow made. N. 243 p. 291.\n\nThorax, Water Syring'd into it. N. 240 p. 181.\nThunder, Effects of it. N. 236 p. 5.\nTinctures to Water, to give. N. 238 p. 87.\nTortoises. N. 240 p. 168.\nTournefort, histoire des Plantes &c. N. 245 p. 385.\nTurpentine, bow made. N. 243 p. 291.\n\nV.\nVoyages and Discoveries in South America. N. 240 p. 196.\n\nW.\nMineral Waters. N. 245 p. 365. Of St. Amand. N. 247 p. 430.\nWeather, Register of it for 1697. N. 237 p. 47.\nWelchii basis botanica. N. 243 p. 304.\n\nERRATA. Numb. 246.\n\nP A G. 424. line 3. read that the several Leaves of all these Books, &c.\n\nLondon: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church Yard, 1693.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102580.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 644,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1211,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102580",
+    "title": "Errata",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102580"
+  }
+}

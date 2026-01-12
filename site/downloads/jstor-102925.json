@@ -1,0 +1,79 @@
+{
+  "id": "30cf6aaab7ef66bb71cb15bdc650b4ce44c52818",
+  "text": "have fallen upon them. We had also at Leedes a much greater Storm the night preceding the Fast, and a stronger Wind that day, than when the fatal Storm was in the South, but a good Providence timed this well, to quicken our too cold Devotions.\n\nVIII. An Account of a Book, viz.\n\nEuclidis quae supersunt omnia Gr. Lat. ex recensi-\none Davidis Gregorij, M. D. Astronomiae Professo-\nris Savilianii, &c. R. S. S. Oxon. 1703. Folio.\n\nThe University of Oxford intending to publish all the Greek Mathematicians, have begun with Euclid, as the standard Writer of the Elements of Geometry and Arithmetick. In this Edition is published whatever has been believed to be Euclid's by any considerable Mathematician. But many things having been attributed to Euclid that are not his (as in after ages it happened to men of so established fame as he has been for above 2000 years) Dr Gregory in the Preface, after a short summary of Euclid's Life (as far as can be gathered from the Writings of the Antients, who were ashamed to set down particulars of him, who was so much and universally known) gives not only a description of every particular Book, but also his opinion whether it be truly Euclid's or not, with his Reasons.\n\nFirst of all are the Elements, which make two thirds of the whole Volume. The first thirteen Books are certainly Euclid's. The fourteenth and fifteenth are by most thought to be Hypsicles's of Alexandria. There are no Scholia,\nScholia, no Explications added to the Elements (being thought needless to a Book of Elements, written with so much Judgment as this is) nor any Notes, except in some very few places, where there are various Readings that are material, or where the Text is manifestly corrupted.\n\nNext come the Data, which are undoubtedly Euclid's, yea, more undoubtedly than the Elements themselves. For many have said that Theon did quite change the Elements, and supply their demonstrations, but never any body questioned whether the Data are Euclid's. Dr Gregory in the Preface compares this Book with Pappus's description of it, restores some places in it that have been corrupted, and shews the use that the Antients made of these Data.\n\nThe two Musical Tracts follow, which the Editor thinks are not both Euclid's, it may be neither, as is fully set forth in the Preface.\n\nNext are Euclid's Phænomena, which were never before published in Greek. This Book is not doubted to be Euclid's, it agreeing with Pappus's description of it. Dr Gregory has restored its own original figures, which Josephus Auria, in his Translation, had changed for others far less convenient and intelligible.\n\nAfter this comes the Opticks and Catoptricks, which, if not spurious (for Proclus indeed mentions Books of Euclid concerning these subjects) are very much corrupted, as in the Preface is fully shewn. To these are added the Notes of the Noble and Learned Sir Henry Savile, Founder of the two Mathematical Chairs in the University of Oxford, which he wrote on the Margin of his own Book, and which shew that he was as great a Master in Mathematicks as he was a Patron of them.\n\nNext in order is the Book de Divisionibus. This commonly goes under the name Machometes Bagdedinum. But because there is no other Book extant of Euclid's with this Title, altho it is clear from Proclus that he wrote such\nand because Mr John Dee, who translated it, thinks that this is Euclid's, it was thought proper to publish it here. To this also are joined some Notes of Sir Henry Savil, which exceedingly clear the matter.\n\nLastly, there is a Fragment de Levi & Ponderoso, publish'd by Hervagius in Latin, and by Tatraglia in Italian, which commonly passes for Euclid's. These two last are not to be found in Greek, they being lost if ever they were in that language.\n\nThere are several other of Euclid's Works, mentioned by Pappus and Proclus, that are quite lost. These Dr Gregory describes at length in the Preface, to which we remit those that are curious.\n\nLONDON,\n\nPrinted for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St Paul's Church-yard. 1704.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102925.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1087,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1441,
+        2
+      ],
+      [
+        1441,
+        3313,
+        3
+      ],
+      [
+        3313,
+        4092,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102925",
+    "title": "An Account of a Book, viz.",
+    "authors": "Euclid, David Gregory",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102925"
+  }
+}

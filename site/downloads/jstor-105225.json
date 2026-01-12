@@ -1,0 +1,59 @@
+{
+  "id": "9d7475628003266540b936928d0852e2f638d1bd",
+  "text": "ERRATA.\n\nPage 95. line 24. read even the ends of the umbilici.\nPage 96. line 5. read exposed the extremity of the umbilicus.\nPage 168. line 4. after as dele well as.\nPage 328. line 9 from the bottom, for stream read steam.\n\nIn the Tables of the Variation of the Magnetic Needle, Anno 1756,\n\n| Lat. | Long. |\n|------|-------|\n| 0    | 70 E for Var. 3\\(\\frac{1}{4}\\) W read 2\\(\\frac{3}{4}\\) W. Read the same in p. 333. |\n| 15 N | 35 W —— 3\\(\\frac{1}{2}\\) W —— 2\\(\\frac{1}{2}\\) W |\n| 5 S  | 40 E —— 17 W —— 18 W |\n| 30 S | 15 E —— 18 W —— 17\\(\\frac{1}{2}\\) W |\n| 35 S | 10 W —— 5\\(\\frac{1}{2}\\) W —— 5 W |\n| 35 S | 45 E —— 26\\(\\frac{1}{2}\\) W —— 26 W |\n\nPHILO-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105225.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 380,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        657,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105225",
+    "title": "Errata",
+    "authors": null,
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105225"
+  }
+}

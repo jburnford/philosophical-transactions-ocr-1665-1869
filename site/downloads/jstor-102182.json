@@ -1,0 +1,69 @@
+{
+  "id": "6c0091bc6ad5b28640deb75a59d5d73d3b7198b6",
+  "text": "Part of a Letter containing a farther Account of the Aqueduct near Versailles, &c.\n\nThey are everywhere at work about Versailles, in making Magazines for the waters which are to come thither; as one upon the Mountain of Montboiron already cut, which will have 2200 Perches of surface (each perch being 18 French foot) and 12 foot in depth. In another place much lower, will be another Magazine, to receive the waters of many Pools, the most part of which as yet have no water in them. In the Valley of Buc will be an Aqueduct, the middle whereof will be raised 22 Fathom high, for conveying the Pools of Sarle, which its said contain much water, tho' there be nothing but rain to fill them. This Aqueduct is 300 fathom long, and passes through two Mountains which have been cut thro' upon that account. The Valley also on both sides of the Aqueduct, is raised 11 Fathom high to make passages.\n\nAn Aqueduct also is making near the Tower of Stone, (where the Mills raise the water) which now will pass without force to the top of the Mountain, and there be part of it distributed into severall very great Cisterns, which are making above Marli for that place.\n\nIn fine, tis a surprizing thing, to see, in how many places they are here at work.\n\nThe Elevation of the Aqueduct of Mantenon is now set forth at but 2560 Fathom; whereas it was desired to be carryed on more than 8000 Fathom, and the remainder will be made of Earth, which must be brought thither: This Opinion prevails, in regard it gives a quicker dispatch, tho' it may be doubted it will not be for the better.\n\nThese 2560 Fathoms contain 242 Arcades, whose Aperture is 6 Fathom and ½, and the face of each Pillar\nlar sustaining the Arches 4 fathom; there will be then on the side of Mantenon 33 single Arches, afterwards 71 double ones; (as having one Arch upon another) then 46 treble ones, which will generally be 216 foot 6 Inches high, (viz. up to the floor of the Channel) afterwards 72 double ones; then 20 single, which will reach to the Mound of Earth, that is to be 50 foot high.\n\nFrom the ground up to the second Arcade are 16 fathom, from the second to the third, or upper Arcade, are 14 fathom, (which Arcades are double in number to those they stand upon,) and 6 fathom 6 Inches more, to the floor of the Channel, which will at least be 6 foot high, besides the Parapet.\n\nThe Pillars by the ground are 8 fathom thick, but what with the Slopes, and shortnings, which are made in every story; the Top where the Channel goes, will be but 20 foot broad: there will likewise be at each Pillar, a Buttress jetting out one fathom, and 2 fathom wide.\n\nTho' the foregoing Observations were made by a very Intelligent person, well skilled in things of this Nature, as being no stranger either to the writings of the Antients, or the Famous Ruins and Remainders of their Fabricks in Italy, and other places: yet he professes himself surprized with the greatness of this undertaking at Versaille, and Mantenon; for the Magnificence of the design, the number of Labourers, the excessiveness of the Expence, and the admirable beauty of the Work.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102182.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 888,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1676,
+        2
+      ],
+      [
+        1676,
+        3107,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102182",
+    "title": "Part of a Letter Containing a Farther Account of the Aqueduct Near Versailles, etc.",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102182"
+  }
+}

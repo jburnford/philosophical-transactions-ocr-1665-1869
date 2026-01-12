@@ -1,0 +1,59 @@
+{
+  "id": "9c02459088ffc98f9811fb6f3f0e24d027e755a7",
+  "text": "Extract of a Letter of Mr. Heathcott to Mr. Flamsteed from Cabo Cors Castle on the Coast of Guinea the 14th of December 1683, concerning the Tide on that Coast, Variation of the Needle, &c.\n\nThe Sea runs here along the shore continually to the Eastward, at a very great Rate, except at full and change, for then it runs to Westward, or at least makes a great Abate. November 24th. I took the time of the High-water at the Castle (as near as I could) at 3 h. 30' p.m. It flowed about 6 foot. The Magnetic Variation here is 3° 49' from the North to the Westward. At my first Arrival I fixt my Weather-Glass, and found the Argentum vivum to Ascend 29 Inches, and in a Tornado 29 ½ Inches: But a Stranger by Accident broke the Cane, so that I could make no further tryal, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102052.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 283,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        771,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102052",
+    "title": "Extract of a Letter of Mr. Heathcott to Mr. Flamsteed from Cabo Cors Castle on the Coast of Guiney the 14th of December 1683. concerning the Tide on That Coact, Variation of the Needle, etc.",
+    "authors": "Mr. Heathcott",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102052"
+  }
+}

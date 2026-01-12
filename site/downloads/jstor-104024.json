@@ -1,0 +1,69 @@
+{
+  "id": "dba06b6ac433439c2c6913020c89ec00b4e11408",
+  "text": "P. S. As we have been fortunate in escaping the last Storm, we have been no less so in regard to the melancholy Effects which the great Rains have produced in the more Southerly Parts; for tho' we had more than usual with us the last Month (for I find by my Register that 13 to 85 pts. fell through my Funnel, whose Area is just 100 inches, in December last) yet the almost constant intermitting Frosts we had, kept it from going off in any considerable Quantity at a time.\n\n| Barometer, greatest Altitude | Inches. |\n|-----------------------------|---------|\n| least ditto                 | 29 : 13 |\n\nVIII. An Account of the Bones of Animals being changed to a Red Colour by Aliment only. By John Belchier, Surgeon, F. R. S.\n\nTHAT the Circulation of the Blood is carried on through the Bones, is evident from many Phænomena observable in Surgery; but that the Circulation is universally and intimately distributed through the most solid and compact Substance of the Bones (tho' hitherto by some made a Matter of Doubt) will appear undeniably from the Instances here produced; which are the Bones of several Hogs, of a different Breed, changed to a deep red Colour merely by Aliment. And what makes this still\nstill more surprising is, that neither the fleshy nor cartilaginous Parts suffer the least Alteration in Colour or in Taste.\n\nThe Diet with which these Hogs are fed is Bran, after it has been boiled in a Copper with printed Callicoes, in order to clean them from a dirty red Colour occasioned by an Infusion of Madder Root, which is made use of to fix the Colours printed on the Cloth; some of which Colours are made with Preparations from Iron, others with a Mixture of Alum and Sugar of Lead. The Parts printed with the Preparation of Iron produce Black and Purple; those printed with the Mixture of Alum, Red of different Degrees, according to the Strength of the Mixture. The Bran having absorbed the red Colour discharged from the Cloth, is mix'd with the common Food of the Hogs, and produces this Effect on their Bones.\n\nUpon examining these Bones, I observe in general the solid Parts to be most tinctur'd, and the Teeth particularly, except the enamell'd Part, which is of a different Substance; and upon sawing them through, I find the internal Parts equally tinged, except at the Ends of the Bones, where the Substance is more spongy. And in order to discharge the Colour, I have macerated them in Water for many Weeks together; have boil'd them often, and steeped them in Spirits, but all hath prov'd ineffectual; nor is the least Tincture given to any of the Liquids, in which I have made Experiments.\n\nWhether this Colour is produced from the Madder only, or from all the Colours blended together, I purpose to make further Experiments.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104024.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 735,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1211,
+        2
+      ],
+      [
+        1211,
+        2761,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104024",
+    "title": "An Account of the Bones of Animals Being Changed to a Red Colour by Aliment Only. By John Belchier, Surgeon, F. R. S.",
+    "authors": "John Belchier",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104024"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d5f1bfea01fad922b04212df4b8f0858b12094ee",
+  "text": "Martin Clare Esq; F. R. S. to C. Mortimer M. D. & Secr. R. S. of the same.\n\nSIR,\n\nRead March 8.\n\nAs I was walking this Morning in my Garden at Kensington Gravel-Pits, about 40 Minutes after 5 by my Watch, I felt an exceeding great Shock, a Succussion of the Earth, attended with an Explosion that, I fancy, resembled the blowing up of a Mine, and with the same kind of Noise. It was follow'd by a Trembling, very brisk at first, which gradually abated; and in about 3 Seconds, as near as I can judge, totally ceased. The Tremor was attended with the Noise of a distant Thunder, which, with the Motion, gradually died away.\n\nI am not certain the Building near me moved; but I fancied it did. My Feet I am sure felt great Emotion; and a large Watering-pot, of 9 Inches Base, that stood near me, was thrown all along, the Moment the Trembling ceased.\n\nThis Communication I thought would be acceptable, from,\n\nSIR,\n\nMarch 8, 1749-50.\n\nYour obedient humble Servant,\n\nM. Clare.\n\nP.S. I have since discover'd that my Watering-pot was over-set by a Brick that was thrown off the House by the Shock.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104720.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 352,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1090,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104720",
+    "title": "Martin Clare Esq; F. R. S. to C. Mortimer M. D. & Secr. R. S. of the Same",
+    "authors": "Martin Clare",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104720"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "2a7bc7c5d7ccc852fd6e65ea0f3856f5c9d120d2",
+  "text": "VII. Observations of the Comet of 1793, made by the Rev. Nevil Maskelyne, D.D. F.R.S. Astronomer Royal, and other Observers. Communicated by the Astronomer Royal.\n\nRead February 14, 1793.\n\n| Year | Mean Time at Greenwich | R of Comet in sidereal Time | R of Comet in Degrees, &c. | Declination of Comet | Longitude of Comet | Latitude of Comet | Name of Observers |\n|------|------------------------|----------------------------|---------------------------|---------------------|--------------------|------------------|------------------|\n| 1793 | H. M. S.               | H. M. S.                   | S. ° ′ ″                 | D. M. S.            | S. D. M. S.        | D. M. S.         |                  |\n| Jan. |                        |                            |                           |                     |                    |                  |                  |\n| 8    | 8 55 7                 | 16 6 43                    | 8 1 40 45                | 51 46 23 N          | 7 2 29 3           | 69 38 5 N        | Mr. Gregory.     |\n| 11   | 13 3 50                | 20 27 56                   | 10 6 59 0                | 71 1 42 N           | 1 5 16 0           | 76 9 8 N         | Mr. Steph. Lee.  |\n| 14   | 11 38 0                | 1 12 48                    | 0 18 12 0                | 45 53 12 N          | 1 6 16 29          | 34 53 33 N       |                  |\n| 18   | 9 26 6                 | 1 58 28.6                  | 0 29 37 9                | 17 47 7 N           | 1 3 45 36          | 5 19 33 N        |                  |\n| 21   | 8 5 52                 | 2 11 42.8                  | 1 2 55 42                | 9 1 26 N            | 1 3 47 57          | 4 0 25 S         |                  |\n| 26   | 6 54 35                | 2 22 42.23                 | 1 540 33                 | 1 48 19 N           | 1 3 58 51          | 11 43 25 S       |                  |\n| 27   | 7 37 41                | 2 24 4.19                  | 1 6 1 3                 | 0 51 36 N           | 1 3 59 30          | 12 43 44 S       |                  |\n| 28   | 6 56 35                | 2 25 18.35                 | 1 6 19 35                | 0 4 11 N            | 1 4 1 22           | 13 34 36 S       |                  |\n| 30   | 8 57 38                | 2 27 41.4                  | 1 6 55 21                | 1 20 59 S           | 1 4 7 13           | 15 6 48 S        | The Astronomer Royal. |\n| Feb. |                        |                            |                           |                     |                    |                  |                  |\n| 3    | 7 11 52                | 2 31 27.2                  | 1 7 51 48                | 3 17 27 S           | 1 4 22 44          | 17 15 20 S       |                  |\n| 4    | 7 4 12                 | 2 32 17.2                  | 1 8 4 18                 | 3 40 40 S           | 1 4 27 4           | 17 41 21 S       |                  |\n| 5    | 7 42 28                | 2 33 5.13                  | 1 8 16 17                | 4 2 42 S            | 1 4 31 19          | 18 6 6 S         |                  |\n| 7    | 8 5 26                 | 2 34 37.55                 | 1 8 39 23                | 4 41 11 S           | 1 4 40 55          | 18 50 1 S        |                  |\n\nThese places of the comet may admit of some little change; when the stars with which it was compared have been settled by observations with the meridian instruments.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106806.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3596,
+    "total-output-tokens": 1303,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3446,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106806",
+    "title": "Observations of the Comet of 1793, Made by the Rev. Nevil Maskelyne, D. D. F. R. S. Astronomer Royal, and Other Observers. Communicated by the Astronomer Royal",
+    "authors": "Astronomer Royal, Nevil Maskelyne",
+    "year": 1793,
+    "volume": "83",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106806"
+  }
+}

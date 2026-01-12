@@ -1,0 +1,69 @@
+{
+  "id": "7e2db1d896c351e01bee2affba6a48d8e26752f4",
+  "text": "IV. Remarks on a Fragment of an old Roman Inscription lately found in the North of England, and transcribed by the Curious and Learned Dr. James Jurin, M.D. and Reg. Soc. S.\n\nOUR worthy Member, Dr. Jurin, having resided for some time at Newcastle upon Tyne, had the Curiosity to travel the Country between that and Carlisle, in order to observe what might occur worth notice in the Remains of the Ruins of the famous Piets-Wall, built by the Romans to secure themselves, against the Incursions of the Natives of that part of Britain they cared not to conquer. In this Perambulation, besides many other valuable Observations which in time he may be prevail'd with to bestow on the Publick, Dr. Jurin saw and transcrib'd no less than Twenty Roman Inscriptions, some of which we had formerly receiv'd from others, but many of them wholly new; among them the following, which, tho' broken and in great part illegible, suffices to fix the Name of one of the Ancient Nations of Britain, that has hitherto been greatly miscall'd. 'Tis thus,\n\nCIVITATE CAT\nVVILLAVA'\nORVM·L·OL·S\nCDIO\n\nand is to be seen on the Wall, about two Miles West from Lenercrols Abby, near the Confines of our two Northernmost Counties.\nHere 'tis observable, that the last A of the second Line has a Mark that follows it, not unlike to the last Stroak of an N; and if instead of A' we put N, we shall read it CIVITATE CATUVILLAVNORVM, which we cannot doubt to have been the true Name of that People which Dion Cassius, Lib. LX. calls Kalvevλανοι, and Ptolomy, in his Geography, Lib. II. cap. 3. more falsely, Kalvevχλανοι; the first λ by producing the transverse Stroak having been mistaken for χ. This Nation appears by Dion to have been more potent than their Neighbours the Dobuni (whom he calls Boduni) and had, according to Ptolomy, Verolamium for their Capital, which 'tis most probable, was the Cassivellauni oppidum of Caesar. So that it should seem Cassivellaunus King of these Catuvillauni when Caesar invaded Britain, either gave his Name to his People, or took theirs. But he was no doubt the most potent Prince at that time in Britain, since by common Consent of the rest, he was made General of their united Forces, in defence of their Country's Cause against the Romans.\n\nFINIS.\n\nERRATUM, No 355.\nPage 770. lin. 22. for Maii 31. lege Martii 31.\n\nPrinted for W. and J. Innys, Printers to the Royal Society, at the Princes-Arms at the West-End of St. Paul's Church Yard. 1718.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103328.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 755,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1202,
+        2
+      ],
+      [
+        1202,
+        2454,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103328",
+    "title": "Remarks on a Fragment of an Old Roman Inscription Lately Found in the North of England, and Transcribed by the Curious and Learned Dr. James Jurin, M. D. and Reg. Soc. S.",
+    "authors": "James Jurin",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103328"
+  }
+}

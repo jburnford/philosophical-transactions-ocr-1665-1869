@@ -1,0 +1,69 @@
+{
+  "id": "2d116d98a0b4c67461d8590d855235a8c5094eac",
+  "text": "XXXV. A Letter from Mr. George Edwards, F. R. S. to Thomas Birch D. D. Secret. R. S. concerning An Observation made by him in Opticks.\n\nSir,\n\nRead June 16, 1763.\n\nHaving lately accidentally discovered, that the shadows of things floating in water, a little below its surface, are reflected from the air above the water more strongly (to my apprehension) than objects above the surface of the water are reflected from the water; and consequently, that fishes playing beneath the surface of a still water, may see their images distinctly playing in the air, with this advantage over men, who view their faces in the water; for things in air, that are reflected from the water, must have, when placed over the water, have their dark or shadowed sides reflected from it, which renders the images obscure. On the contrary, the inhabitants of the waters have almost a hemisphere of light falling on their upper sides, which are the sides, that are reflected from the air, which consequently renders such images lighter, and more striking to the eye, than reflections of obscured things in air, when reflected from the water. As I have never heard of, or read, any account of this discovery, I imagine it may be new: but you, Sir, in far more extensive reading, may be acquainted with such a discovery. If so, I acknowledge my ignorance of it; and ask pardon for giving\ngiving you this trouble, and desire it may be layed aside; but, if it be thought worthy communicating to the Royal Society, I will be ready, in a very simple and easy manner, to demonstrate the truth of the above discovery. I do not see any use of this discovery at present, more than an amusing speculation; tho' perhaps, when it is reconsidered by persons superior to me in penetrating into the secrets of optics, some real use may be made of it.\n\nI am Sir, with great respect, your very humble servant\n\nGeorge Edwards.\n\nJune 15, 1763.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105724.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 517,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1363,
+        2
+      ],
+      [
+        1363,
+        1900,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105724",
+    "title": "A Letter from Mr. George Edwards, F. R. S. to Thomas Birch D. D. Secret. R. S. concerning An Observation Made by Him in Opticks",
+    "authors": "George Edwards",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105724"
+  }
+}

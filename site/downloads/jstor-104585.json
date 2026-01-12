@@ -1,0 +1,59 @@
+{
+  "id": "6fae65d3dfe870b8f6adbe184c87579375b2ae92",
+  "text": "IV. A Letter from Benj. Cooke F. R. S. to Peter Collinson F.R.S. concerning a mixed Breed of Apples, from the Mixture of the Farina.\n\nDear Cousin,\n\nNewport, Dec. 4. 1748.\n\nI sent you last Year a Specimen of the Effect of the Farina of a rough-coat Apple striking on the Flower of a smooth-coat; I have now sent an Example of the Farina of the latter changing the former into its own Drefs and Likeness.\n\nThe Situation of the Russeting was such, that he was surrounded by Winter Pippins, Pearmains, and such-like; and we put the Master-Fruit together with several of the Changelings, as they grew on the same Branches mixed together.\n\nThis Instance will shew what Alterations may be expected in cognate Species; and I should have given an Example of a kind of Antipathy betwixt the Pear and the Apple in like Circumstances, but was disappointed. I am,\n\nDear Cousin,\n\nYours, most obliged and affectionate,\n\nB. Cooke.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104585.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 300,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        914,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104585",
+    "title": "A Letter from Benj. Cooke F. R. S. to Peter Collinson F. R. S. concerning a Mixed Breed of Apples, from the Mixture of the Farina",
+    "authors": "Benj. Cooke",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104585"
+  }
+}

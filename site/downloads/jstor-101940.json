@@ -1,0 +1,69 @@
+{
+  "id": "623cae7cb969c8494590cb58bb07316d454d2f79",
+  "text": "THE PREFACE.\n\nSo many and so large Steps having been made towards the Discovery of Nature by the indefatigable Industry of this last Age, it may seem as if the Subject were almost exhausted, and Nature herself wearied with the Courtships of so many Pretenders: But if on the other side, we consider the vast, not to say boundless Extent of the Universe, and that the Discovery of one Phænomenon leads to, as well as entices to the Search after another; together with how easy a thing it is, even to impose on our selves groundless Opinions instead of Real Knowledge; we must own the Work at least great enough for the Age of the World, and sooner doubt our own Resolutions and Abilities, than fear the Failure of fit Subjects to entertain our Thoughts.\n\nReal Knowledge is a nice thing; and as no Man can be said to be Master of that which he cannot teach to another, so neither can the Mind itself, at least as to Physical matters, be allowed to apprehend that whereof it has not in some sense a Mechanical Conception; for this Knowledge entering wholly by the Senses, whose Objects only are Bodies, whereof their Organs have the Perception, but from the Magnitude, Figure, Situation and Motion of them, which are all mechanically to be consider'd, or we come short of a Satisfactory Information, it follows, that Number, Weight and Measure must be\napplied to annalize the Problems of Nature by which they were compounded.\n\nThis has been the Employment of the Experimenting part of Mankind, and the Design of that Glorious Institution of the Royal Society; whose Youthful Vigour carried them warmly on in the pursuit of Nature, then at a farther distance off; catcht and grasp'd the Proteus thro' all its Changes. And since Publications of this Nature have been thought no small Advancement to that great Design, because it collects and preserves several small Tracts, which otherwise might possibly be lost, the Publisher has yielded to the Sollicitation of some Friends to undertake this Work with an Engagement to the Learned, of communicating (as constantly as hath ever been at any time practised) whatever of a Philosophical Nature shall come to his hands; clearing the Royal Society, (which is no way concerned therein) from all the Miscarriages he may possible commit; and promises himself he shall never fail of Materials from the Ingenious, since he proposes neither the mean end of private Advantage, nor thinks himself capable of the Bafeness, to stifle any Persons Discovery till another may pretend to it; being resolved immediately to insert in the next Transaction what ingenious Communications shall be so desired, that the true Author be not defrauded of his due Merit and Glory.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101940.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 658,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1349,
+        2
+      ],
+      [
+        1349,
+        2697,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101940",
+    "title": "The Preface",
+    "authors": null,
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101940"
+  }
+}

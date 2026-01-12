@@ -1,0 +1,159 @@
+{
+  "id": "9bcb22306d6dd628a45a42ab7912bf20107132f1",
+  "text": "II. A Supplementary Memoir on the Theory of Matrices.\n\nBy A. Cayley, Esq., F.R.S.\n\nReceived October 24,—Read December 7, 1865.\n\nM. Hermite, in a paper \"Sur la théorie de la transformation des fonctions Abéliennes,\" Comptes Rendus, t. xl. (1855), pp. 249, &c., establishes incidentally the properties of the matrix for the automorphic linear transformation of the bipartite quadric function $xw' + yz' - zy' - wx'$, or transformation of this function into one of the like form, $XW' + YZ' - ZY' - WX'$. These properties are (as will be shown) deducible from a general formula in my \"Memoir on the Automorphic Linear Transformation of a Bipartite Quadric Function,\" Phil. Trans. vol. cxlviii. (1858), pp. 39–46; but the particular case in question is an extremely interesting one, the theory whereof is worthy of an independent investigation. For convenience the number of variables is taken to be four; but it will be at once seen that as well the demonstrations as the results are in fact applicable to any even number whatever of variables.\n\nArticle Nos. 1 & 2.—Notation and Remarks.\n\n1. I use throughout the notation and formulæ contained in my \"Memoir on the Theory of Matrices,\" Phil. Trans. vol. cxlviii. (1858), pp. 17–37, and in the above-mentioned memoir on the Automorphic Transformation. With respect to the composition of matrices, the rule of composition is as follows, viz., any line of the compound matrix is obtained by combining the corresponding line of the first or further component matrix with the several columns of the second or nearer component matrix; it is very convenient to indicate this by the algorithm,\n\n$$\\begin{pmatrix}\n(a, b, c) & (\\alpha, \\beta, \\gamma) \\\\\n(a', b', c') & (\\alpha', \\beta', \\gamma') \\\\\n(a'', b'', c'') & (\\alpha'', \\beta'', \\gamma'')\n\\end{pmatrix} = \\begin{pmatrix}\n(a, b, c) & (\\alpha, \\beta, \\gamma) \\\\\n(a', b', c') & (\\alpha', \\beta', \\gamma') \\\\\n(a'', b'', c'') & (\\alpha'', \\beta'', \\gamma'')\n\\end{pmatrix}$$\n\nwhich exhibits very clearly the terms which are to be combined together; thus in the upper left-hand corner we have $(a, b, c)(\\alpha, \\beta, \\gamma)$, and so for the other places in the compound matrix.\n\n2. It is not in the Memoir on Matrices explicitly remarked, but it is easy to see that sums of matrices, all the matrices being of the same order, may be multiplied together by the ordinary rule; thus\n\n$$(A+B)(C+D)=AC+AD+BC+BD:$$\n\nthis remark will be useful in the sequel.\n\nMDCCCLXVI.\nArticle Nos. 3 to 13.—First Investigation.\n\n3. We have to consider the formulæ for the automorphic linear transformation of the function \\(xw' + yz' - zy' - wx'\\), that is, of the function\n\n\\[\n\\begin{vmatrix}\n\\cdot & \\cdot & \\cdot & -1 \\\\\n\\cdot & \\cdot & -1 & \\cdot \\\\\n\\cdot & 1 & \\cdot & \\cdot \\\\\n1 & \\cdot & \\cdot & \\cdot\n\\end{vmatrix}\n(x, y, z, w; x', y', z', w')\n\\]\n\n\\(= (\\Omega (x, y, z, w; x', y', z', w'),\\)\n\nviz., if the variables are transformed by the formulæ\n\n\\[\n(x, y, z, w) = (\\Pi (X, Y, Z, W),\n(x', y', z', w') = (\\Pi (X', Y', Z', W'),\n\\]\n\nthen the matrix \\((\\Pi)\\) is such that we have identically\n\n\\[\n(\\Omega (x, y, z, w; x', y', z', w') = (\\Omega (X, Y, Z, W; X', Y', Z', W');\n\\]\n\nthe expression for \\((\\Pi)\\) is given in my memoir above referred to; viz., observing that the matrix \\((\\Omega)\\) is skew symmetrical, then (No. 13) we have\n\n\\[\n\\Pi = \\Omega^{-1}(\\Omega - \\Upsilon)(\\Omega + \\Upsilon)^{-1}\\Omega,\n\\]\n\nwhere \\(\\Upsilon\\) is an arbitrary symmetrical matrix.\n\n4. I propose to compare with the matrix \\(\\Pi\\) the inverse matrix \\(\\Pi^{-1}\\). Recollecting that in the theory of matrices \\((ABCD)^{-1} = D^{-1}C^{-1}B^{-1}A^{-1}\\), we have\n\n\\[\n\\Pi^{-1} = \\Omega^{-1}(\\Omega + \\Upsilon)(\\Omega - \\Upsilon)^{-1}\\Omega;\n\\]\n\nand it is to be shown that \\(\\Pi\\) and \\(\\Pi^{-1}\\) are composed of terms which (except as to their signs) are the same in each, so that either of these matrices is derivable from the other by a peculiar form of transposition. It is to be borne in mind throughout that \\(\\Upsilon\\) is symmetrical, \\(\\Omega\\) skew symmetrical.\n\n5. I write for greater convenience\n\n\\[\n-\\Pi = \\Omega^{-1}(\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1}\\Omega,\n\\]\n\n\\[\n-\\Pi^{-1} = \\Omega^{-1}(\\Upsilon + \\Omega)(\\Upsilon - \\Omega)^{-1}\\Omega,\n\\]\n\nand I compare in the first instance the matrices \\((\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1}\\) and \\((\\Upsilon + \\Omega)(\\Upsilon - \\Omega)^{-1}\\).\n\n6. Any matrix whatever, and therefore the matrix \\((\\Upsilon + \\Omega)^{-1}\\), may be exhibited as the sum of a symmetrical matrix and a skew symmetrical matrix; that is, we may write\n\n\\[\n(\\Upsilon + \\Omega)^{-1} = \\Upsilon' + \\Omega',\n\\]\n\nwhere \\(\\Upsilon'\\) is symmetrical, \\(\\Omega'\\) is skew symmetrical. We have then\n\n\\[\n(\\Upsilon + \\Omega)(\\Upsilon + \\Omega)^{-1} = (\\Upsilon + \\Omega)(\\Upsilon' + \\Omega') = 1,\n\\]\nwhere, here and in what follows, 1 denotes the matrix unity. Moreover\n\n\\[ \\Upsilon - \\Omega = \\text{tr.}(\\Upsilon + \\Omega), \\]\n\nand thence\n\n\\[ (\\Upsilon - \\Omega)^{-1} = (\\text{tr.}(\\Upsilon + \\Omega))^{-1} = \\text{tr.}(\\Upsilon' + \\Omega') = \\Upsilon' - \\Omega'; \\]\n\nthat is,\n\n\\[ (\\Upsilon - \\Omega)^{-1} = \\Upsilon' - \\Omega'; \\]\n\nand thence also\n\n\\[ (\\Upsilon - \\Omega)(\\Upsilon - \\Omega)^{-1} = (\\Upsilon - \\Omega)(\\Upsilon' - \\Omega') = 1. \\]\n\nWe have therefore\n\n\\[ (\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1} = (\\Upsilon + \\Omega - 2\\Omega)(\\Upsilon' + \\Omega') = 1 - 2\\Omega(\\Upsilon' + \\Omega'), \\]\n\n\\[ (\\Upsilon + \\Omega)(\\Upsilon - \\Omega)^{-1} = (\\Upsilon - \\Omega + 2\\Omega)(\\Upsilon' - \\Omega') = 1 + 2\\Omega(\\Upsilon' - \\Omega'). \\]\n\n7. Suppose for a moment that\n\n\\[ \\Upsilon' + \\Omega' = \\begin{pmatrix} a, b, c, d \\\\ e, f, g, h \\\\ i, j, k, l \\\\ m, n, o, p \\end{pmatrix} \\]\n\nand therefore\n\n\\[ \\Upsilon' - \\Omega' = \\begin{pmatrix} a, e, i, m \\\\ b, f, j, n \\\\ c, g, k, o \\\\ d, h, l, p \\end{pmatrix} \\]\n\n8. We have\n\n\\[ -\\Omega(\\Upsilon' + \\Omega') = \\begin{pmatrix} . & . & . & 1 \\\\ . & . & 1 & . \\\\ . & -1 & . & . \\\\ -1 & . & . & . \\end{pmatrix} \\begin{pmatrix} a, b, c, d \\\\ e, f, g, h \\\\ i, j, k, l \\\\ m, n, o, p \\end{pmatrix} \\]\n\n\\[ = \\begin{pmatrix} . & . & . & 1 \\\\ . & . & 1 & . \\\\ . & -1 & . & . \\\\ -1 & . & . & . \\end{pmatrix} \\begin{pmatrix} a, e, i, m \\\\ b, f, j, n \\\\ c, g, k, o \\\\ d, h, l, p \\end{pmatrix} \\]\n\n\\[ = \\begin{pmatrix} m, n, o, p \\\\ i, j, k, l \\\\ -e, -f, -g, -h \\\\ -a, -b, -c, -d \\end{pmatrix}. \\]\n9. And similarly,\n\n\\[ \\Omega(\\Upsilon' - \\Omega') = \\begin{pmatrix} \\cdot & \\cdot & \\cdot & -1 \\\\ \\cdot & \\cdot & -1 & \\cdot \\\\ \\cdot & 1 & \\cdot & \\cdot \\\\ 1 & \\cdot & \\cdot & \\cdot \\end{pmatrix} \\begin{pmatrix} a, e, i, m \\\\ b, f, j, n \\\\ c, g, k, o \\\\ d, h, l, p \\end{pmatrix} \\]\n\n\\[ = \\begin{pmatrix} \\cdot & \\cdot & \\cdot & -1 \\\\ \\cdot & \\cdot & -1 & \\cdot \\\\ \\cdot & 1 & \\cdot & \\cdot \\\\ 1 & \\cdot & \\cdot & \\cdot \\end{pmatrix} \\begin{pmatrix} (a, b, c, d), (e, f, g, h), (i, j, k, l), (m, n, o, p) \\end{pmatrix} \\]\n\n\\[ = (-d, -h, -l, -p), \\begin{pmatrix} -c, -g, -k, -o \\\\ b, f, j, n \\\\ a, e, i, m \\end{pmatrix} \\]\n\n10. Hence also\n\n\\[ (\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1} = \\begin{pmatrix} 1+2m, 2n, 2o, 2p \\\\ 2i, 1+2j, 2k, 2l \\\\ -2e, -2f, 1-2g, -2h \\\\ -2a, -2b, -2c, 1-2d \\end{pmatrix}, \\]\n\nand\n\n\\[ (\\Upsilon + \\Omega)(\\Upsilon - \\Omega)^{-1} = \\begin{pmatrix} 1-2d, -2h, -2l, -2p \\\\ -2c, 1-2g, -2k, -2o \\\\ 2b, 2f, 1+2j, 2n \\\\ 2a, 2e, 2i, 1+2m \\end{pmatrix}, \\]\n\nso that these matrices are composed of terms which, except as to the signs, are the same in each.\n\n11. Now in general if\n\n\\[ \\Theta = \\begin{pmatrix} \\alpha, \\beta, \\gamma, \\delta \\\\ \\alpha', \\beta', \\gamma', \\delta' \\\\ \\alpha'', \\beta'', \\gamma'', \\delta'' \\\\ \\alpha''', \\beta''', \\gamma''', \\delta''' \\end{pmatrix}, \\]\n\nthen it is easy to see that\n\n\\[ \\Omega^{-1}\\Theta\\Omega = \\begin{pmatrix} \\delta'', \\gamma'', -\\beta'', -\\alpha'' \\\\ \\delta'', \\gamma'', -\\beta'', -\\alpha'' \\\\ -\\delta', -\\gamma', \\beta', \\alpha' \\\\ -\\delta, -\\gamma, \\beta, \\alpha \\end{pmatrix}. \\]\nand hence, from the foregoing values of \\((\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1}\\) and \\((\\Upsilon + \\Omega)(\\Omega - \\Upsilon)^{-1}\\), we find\n\n\\[\n\\Pi = -\\Omega^{-1}(\\Upsilon - \\Omega)(\\Upsilon + \\Omega)^{-1}\\Omega = \\begin{pmatrix}\n-1+2d & 2c & -2b & -2a \\\\\n2h & -1+2g & -2f & -2e \\\\\n2l & 2k & -1-2j & -2i \\\\\n2p & 2o & -2n & -1-2m\n\\end{pmatrix}\n\\]\n\nand\n\n\\[\n\\Pi^{-1} = -\\Omega^{-1}(\\Upsilon + \\Omega)(\\Upsilon - \\Omega)^{-1}\\Omega = \\begin{pmatrix}\n-1-2m & -2i & 2e & 2a \\\\\n-2n & -1-2j & 2f & 2b \\\\\n-2o & -2k & -1+2g & 2c \\\\\n-2p & -2l & +2h & -1+2d\n\\end{pmatrix}\n\\]\n\nwhich shows that the matrix \\(\\Pi\\) for the automorphic transformation of the function \\(xw' + yz' - zy' - wx'\\) is such that writing\n\n\\[\n\\Pi = (A, B, C, D) \\quad \\text{we have} \\quad \\Pi^{-1} = (P, L, -H, -D)\n\\]\n\n\\[\nE, F, G, H \\quad O, K, -G, -C\n\\]\n\n\\[\nI, J, K, L \\quad -N, -J, F, B\n\\]\n\n\\[\nM, N, O, P \\quad -M, -I, E, A\n\\]\n\nwhich is the theorem in question.\n\n12. I remark in reference to the foregoing proof that writing\n\n\\[\n\\Upsilon = \\begin{pmatrix}\na, h, g, l \\\\\nh, b, f, m \\\\\ng, f, c, n \\\\\nl, m, n, p\n\\end{pmatrix}\n\\]\n\nthen the actual value of\n\n\\[\n(\\Upsilon + \\Omega)^{-1} = \\begin{pmatrix}\na, h, g, l-1 \\\\\nh, b, f-1, m \\\\\ng, f+1, c, n \\\\\nl+1, m, n, d\n\\end{pmatrix}^{-1}\n\\]\n\nis\n\n\\[\n= \\frac{1}{\\Delta} \\begin{pmatrix}\nA+d, H+n+v, G-m-\\mu, L-l+\\varepsilon \\\\\nH+n-v, B+c, F-f+\\lambda, M-g+\\sigma \\\\\nG-m+\\mu, F-f-\\lambda, C+b, N+h+\\tau \\\\\nL-l-\\varepsilon, M-g-\\sigma, N+h-\\tau, D+a\n\\end{pmatrix}\n\\]\nwhere\n\n\\[\n\\begin{pmatrix}\nA & H & G & L \\\\\nH & B & F & M \\\\\nG & F & C & N \\\\\nL & M & N & D\n\\end{pmatrix}\n\\]\n\nis the matrix formed with the first minors of\n\n\\[\n\\begin{pmatrix}\na & h & g & l \\\\\nh & b & f & m \\\\\ng & f & c & n \\\\\nl & m & n & d\n\\end{pmatrix};\n\\]\n\nmoreover\n\n\\[\n\\lambda = ad - l^2 + nh - mg + 1, \\quad \\varepsilon = bc - f^2 + nh - mg + 1,\n\\]\n\\[\n\\mu = bn - mf + dh - ml, \\quad \\sigma = fg - ch + gl - na,\n\\]\n\\[\n\\nu = dg - nl + nf - cm, \\quad \\tau = hf - bg + ma - lh,\n\\]\n\nand \\( \\Delta \\) is the determinant\n\n\\[\n\\begin{pmatrix}\na & h & g & l+1 \\\\\nh & b & f+1 & m \\\\\ng & f-1 & c & n \\\\\nl-1 & m & n & d\n\\end{pmatrix}\n\\]\n\nviz., this is\n\n\\[\n= \\begin{vmatrix}\na & h & g & l \\\\\nh & b & f & m \\\\\ng & f & c & n \\\\\nl & m & n & d\n\\end{vmatrix} + ad - l^2 + bc - f^2 + 2(nh - mg) + 1.\n\\]\n\n13. The expression for \\((Y - \\Omega)^{-1}\\) is obtained from that of \\((Y + \\Omega)^{-1}\\) by merely transposing the terms of the matrix, or, what is the same thing, by changing the signs of \\( \\lambda, \\mu, \\nu, \\varepsilon, \\sigma, \\tau \\). And it would be easy by means of these developed values to verify the foregoing comparison of \\((Y - \\Omega)(Y + \\Omega)^{-1}\\) and \\((Y + \\Omega)(Y - \\Omega)^{-1}\\).\n\nArticle Nos. 14 to 22.—Second Investigation.\n\n14. I consider from a different point of view the theory of a matrix\n\n\\[\n\\Pi = \\begin{pmatrix}\na & b & c & d \\\\\ne & f & g & h \\\\\ni & j & k & l \\\\\nm & n & o & p\n\\end{pmatrix}\n\\]\n\nsuch that \\( \\Pi^{-1} = \\begin{pmatrix}\np & l & -h & -d \\\\\no & k & -g & -c \\\\\n-n & -j & f & b \\\\\n-m & -i & e & a\n\\end{pmatrix},\n\\]\n\nor, as we may call it, a Hermitian matrix.\n15. **Lemma.** The determinant\n\n\\[ \\nabla = \\begin{vmatrix} a, & b, & c, & d \\\\ e, & f, & g, & h \\\\ i, & j, & k, & l \\\\ m, & n, & o, & p \\end{vmatrix} \\]\n\nmay be expressed, and that in two different ways, as a Pfaffian.\n\n16. In fact multiplying the determinant into itself thus,\n\n\\[ \\nabla^2 = \\begin{vmatrix} a, & b, & c, & d \\\\ e, & f, & g, & h \\\\ i, & j, & k, & l \\\\ m, & n, & o, & p \\end{vmatrix} \\text{ tr. } \\begin{vmatrix} d, & c, & -b, & -a \\\\ h, & g, & -f, & -e \\\\ l, & k, & -j, & -i \\\\ p, & o, & -n, & -m \\end{vmatrix} \\]\n\nwe find\n\n\\[ \\nabla^2 = (a, b, c, d) \\begin{vmatrix} s_{11}, & s_{12}, & s_{13}, & s_{14} \\\\ s_{21}, & s_{22}, & s_{23}, & s_{24} \\\\ s_{31}, & s_{32}, & s_{33}, & s_{34} \\\\ s_{41}, & s_{42}, & s_{43}, & s_{44} \\end{vmatrix} \\]\n\nviz. we have \\( s_{11} = (a, b, c, d)(d, c, -b, -a), s_{12} = (a, b, c, d)(h, g, -f, -e), \\&c. \\): we see at once that \\( s_{11} = 0, s_{12} + s_{21} = 0, \\&c., \\) viz. the determinant in \\( s \\) is a skew determinant, that is, the square of a Pfaffian. We have therefore\n\n\\[ \\nabla^2 = (s_{12}s_{24} + s_{13}s_{42} + s_{14}s_{23})^2, \\]\n\nor extracting the square root of each side, and determining the sign by a comparison of any single term, we have\n\n\\[ \\nabla = s_{12}s_{34} + s_{13}s_{42} + s_{14}s_{23}, \\]\n\nwhich is one of the required forms of \\( \\nabla \\).\n\n17. And in the same manner\n\n\\[ \\nabla^2 = \\text{ tr. } \\begin{vmatrix} a, & b, & c, & d \\\\ e, & f, & g, & h \\\\ i, & j, & k, & l \\\\ m, & n, & o, & p \\end{vmatrix} \\cdot \\begin{vmatrix} m, & n, & o, & p \\\\ i, & j, & k, & l \\\\ -e, & -f, & -g, & -h \\\\ -a, & -b, & -c, & -d \\end{vmatrix} \\]\n\nwhich is equal to the determinant\n\n\\[ \\begin{vmatrix} t_{11}, & t_{12}, & t_{13}, & t_{14} \\\\ t_{21}, & t_{22}, & t_{23}, & t_{24} \\\\ t_{31}, & t_{32}, & t_{33}, & t_{34} \\\\ t_{41}, & t_{42}, & t_{43}, & t_{44} \\end{vmatrix} = (a, e, i, m) \\begin{vmatrix} s_{11}, & s_{12}, & s_{13}, & s_{14} \\\\ s_{21}, & s_{22}, & s_{23}, & s_{24} \\\\ s_{31}, & s_{32}, & s_{33}, & s_{34} \\\\ s_{41}, & s_{42}, & s_{43}, & s_{44} \\end{vmatrix} \\]\nviz. \\( t_{11} = (a, e, i, m) \\times (m, i, -e, -a), \\) &c.; this is likewise a skew determinant, and we have\n\n\\[\n\\nabla^2 = (t_{12} t_{34} + t_{13} t_{24} + t_{14} t_{23})^2,\n\\]\n\nor extracting the square root of each side, and determining the sign by the comparison of any single term, we have\n\n\\[\n\\nabla = t_{12} t_{34} + t_{13} t_{24} + t_{14} t_{23},\n\\]\n\nwhich is the other of the required forms of \\( \\nabla \\).\n\n18. Consider now the matrix\n\n\\[\n\\begin{pmatrix}\na, b, c, d \\\\\ne, f, g, h \\\\\ni, j, k, l \\\\\nm, n, o, p\n\\end{pmatrix}\n\\]\n\nwhich is such that\n\n\\[\n\\begin{pmatrix}\na, b, c, d \\\\\ne, f, g, h \\\\\ni, j, k, l \\\\\nm, n, o, p\n\\end{pmatrix}^{-1} =\n\\begin{pmatrix}\np, l, -h, -d \\\\\no, k, -g, -c \\\\\n-n, -j, f, b \\\\\n-m, -i, e, a\n\\end{pmatrix}\n\\]\n\nthis gives\n\n\\[\n\\begin{pmatrix}\n1, 0, 0, 0 \\\\\n0, 1, 0, 0 \\\\\n0, 0, 1, 0 \\\\\n0, 0, 0, 1\n\\end{pmatrix} =\n\\begin{pmatrix}\na, b, c, d \\\\\ne, f, g, h \\\\\ni, j, k, l \\\\\nm, n, o, p\n\\end{pmatrix}\n\\begin{pmatrix}\np, l, -h, -d \\\\\no, k, -g, -c \\\\\n-n, -j, f, b \\\\\n-m, -i, e, a\n\\end{pmatrix}\n\\]\n\n\\[\n= (a, b, c, d)\n\\begin{pmatrix}\np, o, -n, -m \\\\\nl, k, -j, -i \\\\\n-h, -g, f, e \\\\\n-d, -c, b, a\n\\end{pmatrix}\n\\]\n\nwhich is in fact\n\n\\[\n\\begin{pmatrix}\n1, 0, 0, 0 \\\\\n0, 1, 0, 0 \\\\\n0, 0, 1, 0 \\\\\n0, 0, 0, 1\n\\end{pmatrix} =\n\\begin{pmatrix}\ns_{14}, s_{13}, -s_{12}, -s_{11} \\\\\ns_{24}, s_{23}, -s_{22}, -s_{21} \\\\\ns_{34}, s_{33}, -s_{32}, -s_{31} \\\\\ns_{44}, s_{43}, -s_{42}, -s_{41}\n\\end{pmatrix},\n\\]\n\nand the two matrices will be equal, term by term, if only\n\n\\[\n1 = s_{14} = s_{23},\n\\]\n\n\\[\n0 = s_{13} = s_{12} = s_{24} = s_{34},\n\\]\n\nthat is, if six conditions are satisfied.\n19. But we have also (a matrix and its reciprocal being convertible)\n\n\\[\n\\begin{pmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 0 \\\\\n0 & 0 & 0 & 1\n\\end{pmatrix}\n=\n\\begin{pmatrix}\np & l & -h & -d \\\\\no & k & -g & -c \\\\\n-n & -j & f & b \\\\\n-m & -i & e & a\n\\end{pmatrix}\n\\]\n\nwhich is in fact\n\n\\[\n\\begin{pmatrix}\n1 & 0 & 0 & 0 \\\\\n0 & 1 & 0 & 0 \\\\\n0 & 0 & 1 & 0 \\\\\n0 & 0 & 0 & 1\n\\end{pmatrix}\n=\n\\begin{pmatrix}\nt_{14} & t_{24} & t_{34} & t_{44} \\\\\nt_{13} & t_{23} & t_{33} & t_{43} \\\\\n-t_{12} & -t_{22} & -t_{32} & -t_{42} \\\\\n-t_{11} & -t_{21} & -t_{31} & -t_{41}\n\\end{pmatrix}\n\\]\n\nand we obtain for the equality of the two matrices the six conditions\n\n\\[1 = t_{14} = t_{23}, \\quad 0 = t_{13} = t_{12} = t_{24} = t_{34},\\]\n\nequivalent to the former set of six conditions.\n\n20. We obtain from either set of conditions, for the determinant the value\n\n\\[\n\\nabla = \\begin{vmatrix}\na & b & c & d \\\\\ne & f & g & h \\\\\ni & j & k & l \\\\\nm & n & o & p\n\\end{vmatrix} = x^2.\n\\]\n\n21. Write\n\n\\[\n(x, y, z, w) = \\begin{pmatrix}\na & b & c & d \\\\\ne & f & g & h \\\\\ni & j & k & l \\\\\nm & n & o & p\n\\end{pmatrix} (X, Y, Z, W); \\quad (x', y', z', w') = \\begin{pmatrix}\na & b & c & d \\\\\ne & f & g & h \\\\\ni & j & k & l \\\\\nm & n & o & p\n\\end{pmatrix} (X', Y', Z', W'),\n\\]\n\nthen substituting for \\((x, y, z, w)(x', y', z', w')\\) their values, we find\n\n\\[xw' + yz' - zy' - wx' = -\\begin{vmatrix}\nt_{11} & t_{12} & t_{13} & t_{14} \\\\\nt_{21} & t_{22} & t_{23} & t_{24} \\\\\nt_{31} & t_{32} & t_{33} & t_{34} \\\\\nt_{41} & t_{42} & t_{43} & t_{44}\n\\end{vmatrix} (X, Y, Z, W)(X', Y', Z', W')\\]\n\\[\n= \\begin{pmatrix}\n\\cdot & \\cdot & \\cdot & -1 \\\\\n\\cdot & \\cdot & -1 & \\cdot \\\\\n\\cdot & 1 & \\cdot & \\cdot \\\\\n1 & \\cdot & \\cdot & \\cdot\n\\end{pmatrix} (X, Y, Z, W)(X', Y', Z', W')\n\\]\n\n\\[= XW' + YZ' - ZY' - WX';\\]\n\nand similarly writing\n\n\\[(X, Y, Z, W) = \\begin{pmatrix}\np & l & -h & -d \\\\\no & k & -g & -c \\\\\n-n & -j & f & b \\\\\n-m & -i & e & a\n\\end{pmatrix} (x, y, z, w),\\]\n\\[(X', Y', Z', W') = \\begin{pmatrix}\np & l & -h & -d \\\\\no & k & -g & -c \\\\\n-n & -j & f & b \\\\\n-m & -i & e & a\n\\end{pmatrix} (x', y', z', w'),\\]\n\nwe obtain with the \\(s\\) coefficients the equivalent result,\n\n\\[XW' + YZ' - ZY' - WX' = xw' + yz' - zy' - wx'.\\]\n\nWe thus see conversely that the Hermitian matrix is in fact the matrix for the automorphic transformation of the function \\(xw' + yz' - zy' - wx'\\).\n\n22. Considering any two or more matrices for the automorphic transformation of such a function, the matrix compounded of these is a matrix for the automorphic transformation of the function—or, theorem, the matrix compounded of two or more Hermitian matrices is itself Hermitian.\n\nArticle No. 23.—Theorem on a Form of Matrices.\n\n23. I take the opportunity of mentioning a theorem relating to the matrices which present themselves in the arithmetical theory of the composition of quadratic forms.\n\nWriting\n\n\\[(X) = \\begin{pmatrix}\n\\cdot & \\alpha & a & b + \\beta \\\\\n-\\alpha & \\cdot & b - \\beta & c \\\\\n-\\alpha & -(b - \\beta) & \\cdot & \\gamma \\\\\n-(b + \\beta) & -c & -\\gamma & \\cdot\n\\end{pmatrix}\\]\n\nand \\((X)^{-1} = \\frac{1}{D - \\Delta} \\begin{pmatrix}\n\\cdot & \\gamma & -c & b - \\beta \\\\\n-\\gamma & \\cdot & b + \\beta & -a \\\\\nc & -(b + \\beta) & \\cdot & \\alpha \\\\\n-(b - \\beta) & a & -\\alpha & \\cdot\n\\end{pmatrix},\\)\n\nwhere \\(D = ac - b^2, \\Delta = a\\gamma - b^2\\); and similarly,\n\n\\[(X') = \\begin{pmatrix}\n\\cdot & \\alpha' & a' & b' + \\beta' \\\\\n-\\alpha' & \\cdot & b' - \\beta' & c' \\\\\n-\\alpha' & -(b' - \\beta') & \\cdot & \\gamma' \\\\\n-(b' + \\beta') & -c' & -\\gamma' & \\cdot\n\\end{pmatrix}\\]\n\nand \\((X')^{-1} = \\frac{1}{D' - \\Delta'} \\begin{pmatrix}\n\\cdot & \\gamma' & -c' & b' - \\beta' \\\\\n-\\gamma' & \\cdot & b' + \\beta' & -a' \\\\\nc' & -(b' + \\beta') & \\cdot & \\alpha' \\\\\n-(b' - \\beta') & a' & -\\alpha' & \\cdot\n\\end{pmatrix},\\)\n\nwhere \\(D' = a'c' - b'^2, \\Delta' = a'\\gamma' - b'^2\\); then\n\n\\[(X)(X') + (D - \\Delta)(D' - \\Delta')(X'^{-1})(X^{-1}),\\]\nor, what is the same thing,\n\n$$(X \\chi X') + (D - \\Delta)(D' - \\Delta')((X \\chi X')^{-1}$$\n\nis to a factor près equal to the matrix unity; viz. writing\n\n$$\\Lambda = aa + 2b\\beta + c\\gamma + a'\\alpha' + 2b'\\beta' + c'\\gamma',$$\n\nthe foregoing expression is\n\n$$= \\Lambda \\begin{pmatrix} 1 & . & . & . \\\\ . & 1 & . & . \\\\ . & . & 1 & . \\\\ . & . & . & 1 \\end{pmatrix}.$$  \n\nThe theorem is verified without difficulty by merely forming the expressions of the compound matrices $(X \\chi X')$ and $(X'^{-1} \\chi X^{-1})$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108937.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 12,
+    "total-input-tokens": 20104,
+    "total-output-tokens": 8146,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2455,
+        2
+      ],
+      [
+        2455,
+        4794,
+        3
+      ],
+      [
+        4794,
+        6331,
+        4
+      ],
+      [
+        6331,
+        7880,
+        5
+      ],
+      [
+        7880,
+        9353,
+        6
+      ],
+      [
+        9353,
+        10952,
+        7
+      ],
+      [
+        10952,
+        12995,
+        8
+      ],
+      [
+        12995,
+        14588,
+        9
+      ],
+      [
+        14588,
+        16146,
+        10
+      ],
+      [
+        16146,
+        18462,
+        11
+      ],
+      [
+        18462,
+        18976,
+        12
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108937",
+    "title": "A Supplementary Memoir on the Theory of Matrices",
+    "authors": "A. Cayley",
+    "year": 1866,
+    "volume": "156",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 12,
+    "jstor_url": "https://www.jstor.org/stable/108937"
+  }
+}

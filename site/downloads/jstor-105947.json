@@ -1,0 +1,59 @@
+{
+  "id": "2273564046ecd7fe7a24affd7197fcefc4d855cf",
+  "text": "XXII. Observations on the Heat of the Bath and Bristol Water, by Mr. John Canton, A.M. F. R. S.\n\nBath, Sept. 2, O. S. or the 13th N. S. 1752.\n\nRead July 3, 1767.\n\nAFTER pumping about $\\frac{1}{4}$ of an hour, a Fahrenheit's thermometer, held in the stream from the common pump of the king's bath, was raised to $112^\\circ$. The stream from the common pump of the hot bath raised it to $114^\\circ$. At the pump of the cross bath, it stood at $110^\\circ$. At noon, the heat of the shaded air was $66^\\circ$, and of common water exposed to it $61^\\circ$. I found the bath water, and common water, brought to the same degree of heat, to cool equally fast. The next day, Sept. 14, I was at the hot-well near Bristol, the water of which raised the thermometer to $76^\\circ$. In common water exposed to the shaded air it stood at $62^\\circ$.\n\nJ. Canton.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105947.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 321,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        846,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105947",
+    "title": "Observations on the Heat of the Bath and Bristol Water, by Mr. John Canton, A. M. F. R. S.",
+    "authors": "John Canton",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105947"
+  }
+}

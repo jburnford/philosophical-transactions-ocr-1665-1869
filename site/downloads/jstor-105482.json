@@ -1,0 +1,79 @@
+{
+  "id": "1377ba99a28e277f0c4e91550c3674e085eff015",
+  "text": "X. A Letter from Mr. Alexander Brice, to the Earl of Morton, President of the R. S. giving an Account of a Comet seen by him.\n\nKirknewton, April 11, 1766.\n\nMy Lord;\n\nRead April 17, I Beg leave by this, to acquaint your lordship, that, last night and the night before, I observed a comet in the northwest, and very near the horizon. It began to appear at half an hour after 8 o'clock, and set 25 minutes after 9. The tail was very visible to the naked eye; but the nucleus could not be seen by any, that were present with me, without a telescope, thro' which it appeared very distinctly, like a star of the 4th or 5th magnitude. It was surrounded with a gleam of light, like what is seen round the stars in Orion's sword, commonly called Janua Cœli. The tail stretched upwards, and inclined to the west, and was about 4 degrees long: the body of the comet was also 4 degrees distant from the new moon (then 34 hours after the change) and almost perpendicular above it; and it appeared to more advantage after the moon was set. The comet, when setting, was 37 degrees to the north of due west, and 13 degrees more northerly than the Pleiades, below them, but in the same tract: it is descending towards the sun, at the rate of 6 degrees as near as I could guess, in the space of twenty four hours; and unless the light of the moon, or the twilight prevents, it will\nwill make a more remarkable appearance after it has passed the sun, than it does at present. I know not whether this comet has been observed by any person about London; if I thought it had, I would not have given your lordship the trouble of this; but I wished to put other people upon the look-out, who will probably make more of it than I can. [For the appearance of this comet, see Plate IV.] I have the honour to be,\n\nMy Lord,\n\nYour Lordship's\n\nmost obedient and most humble servant,\n\nAlex. Brice.\n\nXI. A Report concerning the Microscope-Glasses, sent as a Present to the Royal Society*, by Father di Torre of Naples, and referred to the Examination of Mr. Baker, F. R. S.\n\nRead April 17, 1766.\n\nMr. Baker now returns the microscope glasses, which the Royal Society did him the honour to refer to his examination: and he would have returned them much sooner, had he not waited till he could examine them by bright day-light, being desirous to do them all the justice in his power.\n\n* Vid. Phil. Trans. Vol. LV. p. 253.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105482.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6272,
+    "total-output-tokens": 721,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1364,
+        2
+      ],
+      [
+        1364,
+        1364,
+        3
+      ],
+      [
+        1364,
+        2386,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105482",
+    "title": "A Letter from Mr. Alexander Brice, to the Earl of Morton, President of the R. S. Giving an Account of a Comet Seen by Him",
+    "authors": "Alexander Brice",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105482"
+  }
+}

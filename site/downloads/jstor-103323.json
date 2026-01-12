@@ -1,0 +1,79 @@
+{
+  "id": "c6d12b1e3dd13329ccdcd7b25c1085f1bbbffb56",
+  "text": "Scholium generale.\n\nSi cui numeri minus accurati videantur, qui sparsim Characteribus speciosis apponuntur, poterit ille facili opera, inventis per experimenta numeris qui propius ad verum accedant, motuum exempla supra positae vel Propositionum ipsatum vel Corollariorum ope, corrigere. Ignoscat autem nobis Lector ingenuus, si per viam incidentibus nullis praecedentium vestigiis triram, adeoque Erroribus in omnes partes opportunam, Humani aliquid forte acciderit.\n\nDamus hanc veniam, petimusque vicissim.\n\nIV. An Account of the Sinking of three Oaks into the Ground, at Manington in the County of Norfolk. Communicated by Peter Le Neve, Esq; Norroy King at Arms, and Fellow of the Royal Society.\n\nOn Tuesday July the 23d, of the last Year, 1717, in the Grounds, and near the Seat of Sir Charles Potts, Baronet, in the County of Norfolk, and Parish of Manington, (which lies about mid-way between the Market Towns of Holt and Aylsham, and about seven Miles from the Coast near Cromer) in the daytime, to the great astonishment of those that were present; first, one single Oak, with the Roots and Ground about it, was seen to subside and sink into the Earth, and not long after, at about 40 Yards distance, two other Oaks that were contiguous, sunk after the same manner, into a much larger Pit; being about 33 Foot Diameter, whereas the former is not full 8. These, as they sunk, fell a-cross, so that obstructing each other, or\nthe Roots of one of them reaches the Bottom, whereas the first stands Perpendicular.\n\nWhen the first Tree sunk, it was observed, that the Water boil'd up in the Hole; but upon the sinking of the greater Pit, that Water drain'd off into it, from the former, which now continues dry. The depth thereof to the firm Bottom is nine Foot three Inches; and the Tree that stands upright in it, is 3 Foot 8 Inches in Girt, and its Trunk about 18 Foot long, half of which is now within the Pit. In the Bottom of the greater Pit, there is a Pool of Water about 8 Foot Diameter; whose Surface is 11 Foot 3 Inches below the Ground, and the Trees that are in this Pit, are much of the same length with the other, but somewhat smaller, the one being in Girt 3 Foot 5 Inches, the other but two Foot 9 Inches.\n\nThe Soil on which these Trees grew, is Gravelly; but the Bottom is a Quick-sand over a Clay, upon which there are Springs, which feed large Ponds adjoining to Sir Charles Potts's House, at about a quarter of a Mile from these Holes.\n\nThe Nature of the Soil seems to afford us a reasonable conjecture at the Cause of this odd accident, which some perhaps may be apt to reckon as a Prodigy. The Springs running over the Clay at the bottom of a Bed of very minute Sand, such as your Quicksands usually are, may reasonably be supposed in many Ages to have wash't away the Sand, and to have thereby excavated a kind of Subterraneous Lake, over which these Trees grew: And the force of the Winds, on their Leaves and Branches, agitating their Roots, may well have loothened the Sand under them, and occasioned it to fall in, more frequently than elsewhere: whereby in length of time the thin Bed of Gravel being only left, it might become unable to support its own weight and that\nthat of the Trees it bore. That this is not a bare conjecture, may appear from the boiling up of the Water at first in the lesser Hose, and its standing in the bigger and lower. And if it shall be found that it was a very windy day whereon this accident happen'd, it will much add to the probability of this Solution.\n\nAn accident not unlike this lately happened in Fleet-street, London, by the defect of the arched Roof of a very deep Common-sewer. The Earth gradually falling into the Sewer, was carried away by it, so as not to obstruct the Water; and the continual tremour of the Ground, occasioned by the constant passing of Carts and Coaches, by degrees shook down the Earth, so as to leave a very great C vein, the Top whereof at length grew so very thin, that one day a weighty Cart having just past it, a great space of the Pavement sunk in, in the middle of the Street, not without hazard to a Coach then driving by.\n\nV A Rectification of the Motions of the five Satellites of Saturn; with some accurate Observations of them, made and Communicated by the Reverend Mr. James Pound. R.S. Soc.\n\nIt is now above thirty Years since that great Astronomer Mr. Cassini communicated to the World his discovery of two new Satellites of Saturn, which made their number Five; and the account he gave of them to the Royal Society, (of which he was a Member) is to be seen in No. 187, of these Transactions. Much about the same time the excellent M. Christian Huygens of Zurich, made the Society a present of the Glasses of a Telescope.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103323.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1278,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1433,
+        2
+      ],
+      [
+        1433,
+        3202,
+        3
+      ],
+      [
+        3202,
+        4734,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103323",
+    "title": "An Account of the Sinking of Three Oaks into the Ground, at Manington in the County of Norfolk. Communicated by Peter Le Neve, Esq; Norroy King at Arms, and Fellow of the Royal Society",
+    "authors": "Peter Le Neve",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103323"
+  }
+}

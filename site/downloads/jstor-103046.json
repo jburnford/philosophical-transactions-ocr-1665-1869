@@ -1,0 +1,199 @@
+{
+  "id": "79d96101b32584c37f08a961108e7ff23bcae176",
+  "text": "| Initiat. | Exit. |\n|----------|-------|\n| Depositum | krs |\n| n + 1 | Z |\n| n + 1 + p | Y |\n| n + 1 + 2p | X |\n| n + 1 + 3p | V |\n| n + 1 + 4p | T |\n\n| Depositum | krs |\n|----------|-------|\n| n + 1 + p | H |\n| n + 1 + 2p | K |\n| n + 1 + 3p | L |\n| n + 1 + 4p | M |\n\n| Depositum | krs |\n|----------|-------|\n| n + 1 + p | A = Z |\n| n + 1 + 2p | C = X |\n| n + 1 + 3p | D = \\(\\frac{1}{2}X + \\frac{1}{2}Y + yp\\) |\n| n + 1 + 4p | E = \\(\\frac{1}{2}V + \\frac{1}{2}X + yp + \\frac{1}{2}Y + zyp\\) |\n\n\\[\n\\begin{align*}\nN^o 2 & \\\\\n= \\frac{1}{2}H - p + \\frac{1}{2}H - p + hp + \\frac{1}{8}H - p + 2hp + \\frac{1}{16}H - p + 3hp + \\cdots \\\\\n& = \\frac{1}{2}K - p + \\frac{1}{2}H - p + 2hp + \\frac{1}{8}H - p + 3hp + \\cdots \\\\\n& = \\frac{1}{2}L - p + \\frac{1}{2}H - p + 3hp + \\frac{1}{8}H - p + 4hp + \\cdots \\\\\n& = \\frac{1}{2}M - p + \\frac{1}{2}H - p + 4hp + \\frac{1}{8}H - p + 5hp + \\cdots \\\\\n& = \\frac{1}{2}T - p + \\frac{1}{2}H - p + 4hp + \\frac{1}{8}H - p + 5hp + \\cdots \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nN^o 3 & \\\\\n= \\frac{1}{2}C + ncP - cp + \\frac{1}{2}D + ndP - dp + \\frac{1}{2}E + ncP - cp + \\cdots \\\\\n& = \\frac{1}{2}D + ndP - dp + \\frac{1}{2}E + ncP - cp + \\cdots \\\\\n& = \\frac{1}{2}E + ncP - cp + \\frac{1}{2}F + nfP - fp + \\cdots \\\\\n& = \\frac{1}{2}F + nfP - fp + \\cdots \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nN^o 4 & \\\\\nZ = \\frac{1}{2}K - \\frac{1}{2}H + \\frac{1}{2}hp + \\frac{1}{8}hp + \\cdots \\\\\nY = \\frac{1}{2}L - \\frac{1}{2}K + \\frac{1}{2}hp + \\frac{1}{8}hp + \\cdots \\\\\nX = \\frac{1}{2}M - \\frac{1}{2}L + \\frac{1}{2}hp + \\frac{1}{8}hp + \\cdots \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nN^o 5 & \\\\\n- H = - \\frac{1}{2}C + ncP - cp + \\frac{1}{2}D + ndP - dp + \\cdots \\\\\n- K = - \\frac{1}{2}D + ndP - dp + \\cdots \\\\\n- L = - \\frac{1}{2}E + ncP - cp + \\cdots \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nN^o 6 & \\\\\nC - A = Y - Z = - \\frac{1}{2}C - \\frac{1}{2}D + \\frac{1}{2}E + \\cdots \\\\\nX - Y = - \\frac{1}{2}D - \\frac{1}{2}E + \\cdots \\\\\nV - X = - \\frac{1}{2}E + \\cdots \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nN^o 7 & \\\\\nA \\times 2^n + dp \\times 2^n - ncP \\\\\nC \\times 2^n + cp \\times 2^n - ndP \\\\\nD \\times 2^n + dp \\times 2^n - ncP \\\\\n\\end{align*}\n\\]\n\nI. Senex sculp.\nIII. Solutio generalis altera praecedentis Problematis, ope Combinati-\nonum & Serierum infinitarum, per D. Abr. de Moivre. Reg.\nSoc Sodalem.\n\nDesignationes.\n\nSI B & C collusores duo simul certent, ad designandum\nB victorem esse, C victum, scribatur BC; atque vi-\ncissim ad designandum C victorem esse, B victum; scriba-\ntur CB: & sic de caeteris.\nPonatur 1° B vincere A, certamenque concludi tribus ludis\n\nBA\nBC\nBD\n\nSic patet B victorem necessario evadere.\n\nPonatur 2° B vincere A, certamenque concludi quatuor ludis\n\nBA\nCB\nCD\nCA\n\nSic patet C victorem necessario evadere.\n\nPonatur 3° B vincere A, certamenque concludi quinque ludis\n\nBA\nBA\nCB\nBC\nDC\nDB\nDA\nDA\nDB\nDC\n\nSic patet D victorem necessario evadere, id-\nque duplici modo.\n\nPonatur 4° B prima vice vincere A, certamenque concludi sex\nludis.\nSic patet \\( A \\) victorem necessario evadere,\nidque triplici modo.\n\nPonatur 5° certamen concludi septem ludis, ponaturque semper\n\\( B \\) prima vice vincere ipsum \\( A \\).\n\nSic patet \\( B \\) vel \\( C \\) necessario victores evadere, \\( B \\) triplici modo, \\( C \\) duplici.\n\nPonatur 6° certamen concludi octo ludis,\n\nSic patet \\( C \\) victorem evadere triplici, \\( D \\) duplici, \\( B \\) triplici modo, &c.\n\nNunc ordine scribantur literae quibus victores designantur.\n\n\\[\n\\begin{array}{c|c}\n3, & 1B \\\\\n4, & 1C \\\\\n5, & 2D \\\\\n6, & 3A \\\\\n7, & 3B + 2C \\\\\n8, & 3C + 2D + 3B \\\\\n9, & 3D + 2A + 3C + 3D + 2A \\\\\n10, & 3A + 2B + 3D + 2A + 2C + 3D \\\\\n& \\text{&c.}\n\\end{array}\n\\]\nPerspecta illarum formatione, patebit 1° literam B in ordine aliquo semper toties reperiri, quoties A in ordine ultimo & penultimo reperitur: 2° C in ordine aliquo toties reperiri quoties B in ordine ultimo & D in penultimo reperiuntur: 3° D in ordine aliquo toties reperiri quoties C in ultimo & B in penultimo: 4° A in ordine aliquo semper toties reperiri quoties D in ordine ultimo & C in penultimo reperiuntur.\n\nSed numerus variationum dato cuilibet ludorum numero competens, duplus est numeri variationum omnium dato ludorum numero unitate diminuto competentis: adeoque Probabilitas quam habet Collusor B ut vincat dato ludorum numero, est subdupla probabilitatis quam habebat A ut vinceret dato ludorum numero minus uno; atque etiam subquadrupla probabilitatis quam habebat idem A, ut vinceret dato ludorum numero minus duobus: & sic de caeteris.\n\nProbabilitas quam habet C, ut vincat dato ludorum numero, est subdupla probabilitatis quam habebat B, ut vinceret dato ludorum numero minus uno; atque etiam subquadrupla probabilitatis quam habebat D, ut vinceret dato ludorum numero minus duobus.\n\nProbabilitas quam habet D ut vincat dato ludorum numero, est subdupla probabilitatis quam habebat C, ut vinceret dato ludorum numero minus uno; atque etiam subquadrupla probabilitatis quam habebat B, ut vinceret dato ludorum numero minus duobus.\n\nProbabilitas quam habet A ut vincat dato ludorum numero, est subdupla probabilitatis quam habebat D, ut vinceret dato ludorum numero minus uno; atque etiam subquadrupla probabilitatis quam habebat C ut vinceret dato ludorum numero minus duobus.\n\nEx jam observatis facile est componere Tabulam Probabilitatum, quas B, C, D, A habent ut victores evadant dato ludorum numero, atque etiam illorum fortium seu expectationum.\nTabula Probabilitatum, &c.\n\n|   | B                  | C                  | D                  | A                  |\n|---|--------------------|--------------------|--------------------|--------------------|\n| 3 | $\\frac{1}{4} \\times 4 + 3p$ |                    |                    |                    |\n| \" |                    | $\\frac{1}{8} \\times 4 + 4p$ |                    |                    |\n| 5 |                    |                    | $\\frac{2}{16} \\times 4 + 5p$ |                    |\n| \" |                    |                    |                    | $\\frac{3}{32} \\times 4 + 6p$ |\n| v | $\\frac{3}{64} \\times 4 + 7p$ | $\\frac{2}{64} \\times 4 + 7p$ |                    |                    |\n| v' | $\\frac{3}{128} \\times 4 + 8p$ | $\\frac{3}{128} \\times 4 + 8p$ | $\\frac{2}{128} \\times 4 + 8p$ |                    |\n| v'' |                    |                    |                    |                    |\n| v''' | $\\frac{4}{512} \\times 4 + 9p$ | $\\frac{2}{512} \\times 4 + 9p$ | $\\frac{6}{512} \\times 4 + 9p$ | $\\frac{4}{512} \\times 4 + 9p$ |\n| x | $\\frac{13}{1024} \\times 4 + 10p$ | $\\frac{10}{1024} \\times 4 + 10p$ | $\\frac{2}{1024} \\times 4 + 10p$ | $\\frac{9}{1024} \\times 4 + 10p$ |\n| x' | $\\frac{18}{2048} \\times 4 + 11p$ | $\\frac{19}{2048} \\times 4 + 11p$ | $\\frac{14}{2048} \\times 4 + 12p$ | $\\frac{4}{2048} \\times 4 + 12p$ |\n\nJam vero Series istae sunt convergentes, adeoque singulæ sum- mari possunt per vulgarem Arithmeticam; & obtinebuntur vel summæ accuratæ si possint, vel saltem approximatæ, si non licet, terminos multos adhibere.\n\nInveni-\nInvenire summas Probabilitatum ad infinitum usque pergentiam,\nquas Collusores habent ut victores evadant.\n\nSint Probabilitates omnes ipsius B ad infinitum, nempe\n\\[ B' + B'' + B''' + B'''' + B^v + B^v \\&c. = \\gamma \\]\n\nProbabilitates ipsius C\n\\[ C' + C'' + C''' + C'''' + C^v + C^v \\&c. = z \\]\n\nProbabilitates ipsius D\n\\[ D' + D'' + D''' + D'''' + D^v + D^v \\&c. = v \\]\n\nProbabilitates ipsius A\n\\[ A' + A'' + A''' + A'''' + A^v + A^v \\&c. = x \\]\n\nScribantur autem in Scala perpendiculariter descendente, ad hunc modum.\n\n\\[ B' = B' \\]\n\\[ B'' = B'' \\]\n\\[ B' = \\frac{1}{2}A'' + \\frac{1}{4}A' \\]\n\\[ B''' = \\frac{1}{2}A''' + \\frac{1}{4}A'' \\]\n\\[ B^v = \\frac{1}{2}A^v + \\frac{1}{4}A''' \\]\n\\[ B^v = \\frac{1}{2}A^v + \\frac{1}{4}A'' \\]\n\nProinde \\( \\gamma = \\frac{1}{4} + \\frac{1}{4}x \\).\n\nErgo \\( \\gamma = \\frac{1}{4} + \\frac{1}{2}x + \\frac{1}{4}x \\).\n\nDemonstratio.\n\nEtenim prima columna perpendicularis \\( = \\gamma \\), ex Hypothesi\nEst vero \\( A' + A'' + A''' + A'''' + A^v \\&c. = x \\), ex hypothesi;\nErgo \\( \\frac{1}{2}A' + \\frac{1}{2}A'' + \\frac{1}{2}A''' + \\frac{1}{2}A'''' + \\frac{1}{2}A^v \\&c. = \\frac{1}{2}x \\).\nProinde \\( \\frac{1}{2}A' + \\frac{1}{2}A'' + \\frac{1}{2}A''' + \\frac{1}{2}A'''' + \\frac{1}{2}A^v \\&c. = \\frac{1}{2}x - \\frac{1}{2}A' \\).\nEt \\( B' + B'' + \\frac{1}{2}A'' + \\frac{1}{2}A''' + \\frac{1}{2}A'''' \\&c. = \\frac{1}{2}x - \\frac{1}{2}A' + B' + B'' \\).\n\nSed\nSed $\\frac{1}{2} A' = \\bar{o}, B'' = o & B' = \\frac{1}{4}$, ut patet ex Tabula:\n\nErgo secunda columnna perpendicularis $= \\frac{1}{4} + \\frac{1}{2} x$.\n\nSed tertia columnna perpendicularis $= \\frac{1}{4} x$.\n\nerit igitur $y = \\frac{1}{4} + \\frac{3}{4} x$.\n\nSimili modo scribantur\n\n$C' = C'$\n\n$C'' = C''$\n\n$C''' = \\frac{1}{2} B'' + \\frac{1}{4} D'$\n\n$C'''' = \\frac{1}{2} B'''' + \\frac{1}{4} D''$\n\nhoc est $z = \\frac{1}{2} y + \\frac{1}{4} v$\n\n$C^v = \\frac{1}{2} B^v + \\frac{1}{4} D^v$\n\n$C^{v'} = \\frac{1}{2} B^{v'} + \\frac{1}{4} D^{v'}$\n\n&c.\n\nErgo $z = \\frac{1}{8} + \\frac{1}{2} y - \\frac{1}{8} + \\frac{1}{2} v$.\n\nScribantur etiam\n\n$D' = D'$\n\n$D'' = D''$\n\n$D''' = \\frac{1}{2} C'' + \\frac{1}{4} B'$\n\n$D'''' = \\frac{1}{2} C'''' + \\frac{1}{4} B''$\n\n& pari Argumento patebit\n\n$v + \\frac{1}{2} z + \\frac{1}{4} y$\n\n$D^v = \\frac{1}{2} C^v + \\frac{1}{4} B^v$\n\n&c.\n\nScribantur denique\n\n$A' = A'$\n\n$A'' = A''$\n\n$A''' = \\frac{1}{2} D' + \\frac{1}{4} C'$\n\n$A'''' = \\frac{1}{2} D'''' + \\frac{1}{4} C''$\n\nUnde concludetur $x = \\frac{1}{2} v + \\frac{1}{4} z$\n\n&c.\nResolutis autem quatuor istis æquationibus, reperietur\n\n\\[ B' + B'' + B''' + B'''' \\&c. = y = \\frac{56}{149} \\]\n\n\\[ C' + C'' + C''' + C'''' \\&c. = z = \\frac{36}{149} \\]\n\n\\[ D' + D'' + D''' + D'''' \\&c. = v = \\frac{32}{149} \\]\n\n\\[ A' + A'' + A''' + A'''' \\&c. = x = \\frac{25}{149} \\]\n\nValoribus istis inventis, ponatur jam \\( \\frac{56}{149} = b, \\frac{36}{149} = c, \\)\n\n\\( \\frac{32}{149} = d, \\frac{25}{149} = a. \\)\n\nIterum sit.\n\n\\[ 3B'p + 4B''p + 5B'''p + 6B''''p \\&c. = py. \\]\n\n\\[ 3C'p + 4C''p + 5C'''p + 6C''''p \\&c. = pz. \\]\n\n\\[ 3D'p + 4D''p + 5D'''p + 6D''''p \\&c. = pv. \\]\n\n\\[ 3A'p + 4A''p + 5A'''p + 6A''''p \\&c. = px. \\]\n\n\\[ 3B' = 3E' \\]\n\n\\[ 4B'' = 4B'' \\]\n\n\\[ 5B''' = \\frac{1}{2}A'' + \\frac{1}{2}A' \\]\n\n\\[ 6B'''' = \\frac{1}{2}A''' + \\frac{1}{2}A'' \\]\n\n\\[ 7Bv = \\frac{1}{2}A'' + \\frac{1}{2}A''' \\]\n\n\\[ 8Bv = \\frac{1}{2}A' + \\frac{1}{2}A'' \\]\n\nErgo \\( y = \\frac{3}{4}x + \\frac{1}{4}a \\)\n\nEtenim prima Columna perpendicularis \\( = y \\), ex Hypothesi:\n\n\\[ 3B' + 4B'' = \\frac{3}{4}: \\text{Nam est } B' = \\frac{1}{4}, \\& B'' = 0. \\]\n\n\\[ 3A' + 4A'' + 5A''' \\&c. = x \\text{ ex Hypothesi.} \\]\n\n\\[ A' + A'' + A''' \\&c. = a, \\text{ut repertum est.} \\]\n\nEst igitur \\( 4A' + 5A'' + 6A''' + 7A'''' \\&c. = x + a \\)\n\nEt \\( \\frac{1}{2}A' + \\frac{1}{2}A'' + \\frac{1}{2}A''' + \\frac{1}{2}A'''' \\&c. = \\frac{1}{2}x + \\frac{1}{2}a. \\)\nSed \\( A' = 0 \\)\nErgo secunda Columna perpendicularis \\( = \\frac{3}{4} + \\frac{1}{2} x + \\frac{1}{2} a \\).\n\\[\n\\begin{align*}\n3A' + 4A'' + 5A''' + 6A'''' &c. = x \\\\\n2A' + 2A'' + 2A''' + 2A'''' &c. = 2a\n\\end{align*}\n\\]\nEst igitur \\( 5A' + 6A'' + 7A''' + 8A'''' &c. = x + 2a \\).\nEt \\( \\frac{3}{4}A' + \\frac{5}{4}A'' + \\frac{7}{4}A''' + \\frac{9}{4}A'''' &c. = \\frac{1}{4}x + \\frac{1}{2}a \\).\nEst igitur tertia Columna perpendicularis \\( = \\frac{1}{4}x + \\frac{1}{2}a \\).\nErit igitur \\( y = \\frac{3}{4} + \\frac{1}{2}x + \\frac{1}{2}a + \\frac{1}{4}x + \\frac{1}{2}a \\)\nsive \\( y = \\frac{3}{4} + \\frac{1}{2}x + a \\), quod erat probandum.\n\n\\[\n\\begin{align*}\n3C' &= 3C' \\\\\n4C'' &= 4C'' \\\\\n5C''' &= \\frac{5}{2}B'' + \\frac{5}{2}D' \\\\\n6C'''' &= \\frac{6}{2}B''' + \\frac{6}{2}D'' \\\\\n7C''''' &= \\frac{7}{2}B'''' + \\frac{7}{2}D''' \\\\\n8C'''''' &= \\frac{8}{2}B''''' + \\frac{8}{2}D'''''\n\\end{align*}\n\\]\n&c.\n\nErgo \\( z = \\frac{1}{2}y + \\frac{1}{2}b + \\frac{1}{4}v + \\frac{1}{2}d \\).\nEtenim prima Columna perpendicularis \\( = z \\), ex Hypothesi.\n\\[\n\\begin{align*}\n3C' + 4C'' &= \\frac{1}{2} \\\\\n3B' + 4B'' + 5B''' + 6B'''' &c. = y \\\\\nB' + B'' + B''' + B'''' &c. = b\n\\end{align*}\n\\]\nEst igitur \\( 4B' + 5B'' + 6B''' + 7B'''' &c. = y + b \\).\nSed \\( 4B' = 1 \\).\nErgo \\( 5B'' + 6B''' + 7B'''' &c. = y + b - 1 \\).\n\\[\n\\begin{align*}\n\\frac{5}{2}B'' + \\frac{5}{2}B''' + \\frac{5}{2}B'''' &c. = \\frac{1}{2}y + \\frac{1}{2}b - \\frac{1}{2}\n\\end{align*}\n\\]\nErgo secunda Columna perpendicularis \\( = \\frac{1}{2} + \\frac{1}{2}y + \\frac{1}{2}b - \\frac{1}{2} = \\frac{1}{2}y + \\frac{1}{2}b \\).\nIterum, \\( 3D' + 4D'' + 5D''' + 6D'''' &c. = v \\)\n\\[\n\\begin{align*}\n2D' + 2D'' + 2D''' + 2D'''' &c. = 2d\n\\end{align*}\n\\]\nEst igitur \\( 5D' + 6D'' + 7D''' + 8D'''' &c. = v + 2d \\).\nEt \\( \\frac{5}{4}D' + \\frac{5}{4}D'' + \\frac{5}{4}D''' + \\frac{5}{4}D'''' &c. = \\frac{1}{4}v + \\frac{1}{2}d \\).\nErgo tertia Columna perpendicularis \\( = \\frac{1}{4}v + \\frac{1}{2}d \\)\nEst igitur \\( z = \\frac{1}{2}y + \\frac{1}{2}b + \\frac{1}{4}v + \\frac{1}{2}d \\), quod erat probandum.\nEodem prorsus ordine scribantur.\n\n\\[\n\\begin{align*}\n3D' & = 3D' \\\\\n4D'' & = 4D'' \\\\\n5D''' & = \\frac{1}{2}C'' + \\frac{1}{4}B' \\\\\n6D'''' & = \\frac{1}{2}C''' + \\frac{1}{4}B'' \\\\\n7D'''' & = \\frac{1}{2}C'''' + \\frac{1}{4}B''' \\\\\n8D'''' & = \\frac{1}{2}C'''' + \\frac{1}{4}B'''' \\\\\n& \\vdots \\\\\n3A' & = 3A' \\\\\n4A'' & = 4A'' \\\\\n5A''' & = \\frac{1}{2}D'' + \\frac{1}{4}C' \\\\\n6A'''' & = \\frac{1}{2}D''' + \\frac{1}{4}C'' \\\\\n7A'''' & = \\frac{1}{2}D'''' + \\frac{1}{4}C''' \\\\\n8A'''' & = \\frac{1}{2}D'''' + \\frac{1}{4}C'''' \\\\\n& \\vdots \\\\\n\\end{align*}\n\\]\n\nUnde \\(v = \\frac{1}{2}x + \\frac{1}{2}c + \\frac{1}{4}y + \\frac{1}{2}b\\). Et \\(x = \\frac{1}{2}v + \\frac{1}{2}d + \\frac{1}{4}z + \\frac{1}{2}c\\).\n\nQuae quidem Conclusiones eodem modo demonstrantur ac superiores.\n\nSolutis autem quatuor istis aequationibus, elicetur\n\n\\[\n\\begin{align*}\ny & = \\frac{45536}{149^2}, \\\\\nz & = \\frac{38724}{149^2}, \\\\\nv & = \\frac{37600}{149^2}, \\\\\nx & = \\frac{33547}{149^2} = \\frac{33547}{22201}.\n\\end{align*}\n\\]\n\nErgo, si velint \\(B, C, D, A\\) vendere Spectatori cuidam \\(R\\) summas quas singuli obtinere sperant, æquum erit ut emptor \\(R\\) pendat\n\n\\[\n\\begin{align*}\n\\text{ipsi } B & = 4 \\times \\frac{56}{149} + \\frac{45536}{22201} p, \\\\\n\\text{ipsi } C & = 4 \\times \\frac{36}{149} + \\frac{38724}{22201} p, \\\\\n\\text{ipsi } D & = 4 \\times \\frac{32}{149} + \\frac{37600}{22201} p, \\\\\n\\text{ipsi } A & = 4 \\times \\frac{25}{149} + \\frac{33547}{22201} p.\n\\end{align*}\n\\]\n\nInvenire Probabilitates quas habent \\(B, C, D, A\\), ut multentur, dato ludorum numero.\n\nSi Ludi duo tantum sint, erunt hoc modo.\n\n\\[\n\\begin{align*}\nBA & = BA \\\\\nCB & = BC\n\\end{align*}\n\\]\n\nUnde patet \\(B\\) vel \\(C\\) necessario multari.\n\nSi Ludi tres fuerint, hoc modo se res habet.\n\n\\[\n\\begin{align*}\nBA & = BA \\\\\nCB & = CB \\\\\nDC & = CD \\\\\nBA & = BA \\\\\nBC & = BC \\\\\nBD & = BD\n\\end{align*}\n\\]\n\nHinc patet \\(C\\), vel \\(D\\) vel \\(B\\) necessario multari.\n\nB b Si\nSi vero quatuor Ludi fuerint:\n\n\\[\n\\begin{array}{cccccc}\nBA & BA & BA & BA & BA & BA \\\\\nCB & CB & CB & CB & BC & BC \\\\\nDC & DC & CD & CD & DB & DB \\\\\nAD & DA & AC & CA & AD & DA\n\\end{array}\n\\]\n\nDebet igitur \\(A\\) triplici modo, \\(D\\) duplici, \\(C\\) simplici, \\(B\\) muletari.\n\nEt sic de cæteris. Ex quibus manifesta est Compositio Tabulae subjunctæ Probabilitatum quas \\(B, C, D, A\\) habent ut muletentur, dato ludorum numero.\n\n| Num Lud. | B   | C   | D   | A   |\n|----------|-----|-----|-----|-----|\n| 1        | 1/2 | 1/2 |     |     |\n| 2        | 1/4 | 1/4 | 1/4 |     |\n| 3        | 1/8 | 1/8 | 1/8 | 1/8 |\n| 4        | 1/16| 1/16| 1/16| 1/16|\n| 5        | 1/32| 1/32| 1/32| 1/32|\n| 6        | 1/64| 1/64| 1/64| 1/64|\n\nSint autem \\(y, z, v, x\\) summæ omnium Probabilitatum quas \\(B, C, D, A\\) habent respective ut muletentur.\n\nScribantur eodem ordine ac in praecedentibus.\n\n\\[\n\\begin{align*}\nB' &= B' \\\\\nB'' &= B'' \\\\\nB''' &= \\frac{1}{2}A' + \\frac{1}{4}A' \\\\\nB'''' &= \\frac{1}{2}A'' + \\frac{1}{4}A'' \\\\\nB'''''' &= \\frac{1}{2}A''' + \\frac{1}{4}A''' \\\\\nB'''''''' &= \\frac{1}{2}A'''' + \\frac{1}{4}A'''' \\\\\n&\\vdots \\\\\nC' &= C' \\\\\nC'' &= C'' \\\\\nC''' &= \\frac{1}{2}B' + \\frac{1}{4}D' \\\\\nC'''' &= \\frac{1}{2}B'' + \\frac{1}{4}D'' \\\\\nC'''''' &= \\frac{1}{2}B''' + \\frac{1}{4}D''' \\\\\nC'''''''' &= \\frac{1}{2}B'''' + \\frac{1}{4}D'''' \\\\\n&\\vdots \\\\\nErgo y = \\frac{3}{4} + \\frac{1}{2}x + \\frac{1}{4}x. \\\\\nErgo z = \\frac{1}{2} + \\frac{1}{2}y + \\frac{1}{4}v. \\\\\n\\end{align*}\n\\]\nScribantur deinde\n\n\\[ D' = D' \\]\n\\[ D'' = D'' \\]\n\\[ D''' = \\frac{1}{2} C'' + \\frac{1}{4} B' \\]\n\\[ D'''' = \\frac{1}{2} C'''' + \\frac{1}{4} B'' \\]\n\\[ D'''' = \\frac{1}{2} C'''' + \\frac{1}{4} B'''' \\]\n\\[ D'''' = \\frac{1}{2} C'''' + \\frac{1}{4} B'''' \\]\n\n\\[ A' = A' \\]\n\\[ A'' = A'' \\]\n\\[ A''' = \\frac{1}{2} D' + \\frac{1}{4} C' \\]\n\\[ A'''' = \\frac{1}{2} D'''' + \\frac{1}{4} C'' \\]\n\\[ A'''' = \\frac{1}{2} D'''' + \\frac{1}{4} C'''' \\]\n\\[ A'''' = \\frac{1}{2} D'''' + \\frac{1}{4} C'''' \\]\n\n\\[ \\text{etc.} \\]\n\nErgo \\( v = \\frac{1}{4} + \\frac{1}{2} z + \\frac{1}{4} y. \\)\n\nErgo \\( x = \\frac{1}{2} v + \\frac{1}{4} z. \\)\n\nResolutis autem quatuor istis æquationibus, invenietur\n\n\\[ y = \\frac{243}{249} \\]\n\\[ z = \\frac{252}{149} \\]\n\\[ v = \\frac{224}{149} \\]\n\\[ & x = \\frac{175}{149} \\]\n\nErgo si velit Spectator aliquis \\( S \\) multas omnes sustinere, æquum erit ut ipsi \\( S \\)\n\n\\[ B \\text{ tradat } \\frac{243}{149} p \\]\n\\[ C \\text{ tradit } \\frac{252}{149} p \\]\n\\[ D \\text{ tradit } \\frac{224}{149} p \\]\n\\[ & A \\text{ tradit } \\frac{175}{149} p. \\]\n\nSublatis itaque summis probabilitatum quas singuli Collusores habent ut multiplicentur, è summis expectationum quas habent iudem si victores abeant, restabunt sortes eorum respective : nempe\n\n\\[ B \\text{ recipit ab } R \\frac{4 \\times 56}{149} + \\frac{45536}{22201} p \\]\n\n\\[ B \\text{ tradit ipsi } S \\frac{243}{149} p \\]\n\nErgo ipsi \\( B \\) superest \\( \\frac{224}{149} + \\frac{9329}{22201} p \\)\n\nSed \\( B \\) depoluerat \\( 1 \\) priusquam ludus inciperet.\n\nErgo \\( B \\) lucratur \\( \\frac{75}{149} + \\frac{9329}{22201} p. \\)\nC recipit ab R $\\frac{4 \\times 36}{149} + \\frac{38724}{22201} p$\n\nC tradit ipsi S $\\frac{252}{149} p$\n\nErgo ipsi C superest $\\frac{144}{149} + \\frac{1176}{22201} p$\n\nSed C deposuerat i.\n\nErgo C lucratur $-\\frac{5}{149} + \\frac{1176}{22201} p$.\n\nD recipit ab R $\\frac{4 \\times 32}{149} + \\frac{37600}{22201} p$\n\nD tradit ipsi S $\\frac{224}{149} p$\n\nErgo ipsi D superest $\\frac{128}{149} + \\frac{4224}{22201} p$\n\nSed D deposuerat i.\n\nErgo D lucratur $-\\frac{21}{149} + \\frac{4224}{22201} p$.\n\nA recipit ab R $\\frac{4 \\times 25}{149} + \\frac{33547}{22201} p$\n\nA tradit ipsi S $\\frac{175}{149} p$\n\nErgo ipsi A superest $\\frac{100}{149} + \\frac{7472}{22201} p$\n\nSed A deposuerat i + p, nempe i priusquam ludus inchoaretur, & p postquam semel victus fuerat à B:\n\nErgo A lucratur $-\\frac{49}{149} - \\frac{14729}{22201} p$.\nLucrum ipsius $B = + \\frac{75}{149} + \\frac{9329}{22201} p$\n\nipsius $C = - \\frac{5}{149} + \\frac{1176}{22201} p$\n\nipsius $D = - \\frac{21}{149} + \\frac{4224}{22201} p$\n\nipsius $A = - \\frac{49}{149} - \\frac{14729}{22201} p$\n\nSumma Lucrorum $= 0$\n\nSumma autem lucrorum ipsorum $B \\& A = \\frac{26}{149} - \\frac{5400}{22201} p$;\n\nsed posueramus $B$ vicisse ipsum $A$ semel, priusquam Collusores pacta inirent cum $R \\& S$. Priusquam vero ludus inchoaretur, $A$ poterat æqua sorte expectare ut vinceret ipsum $B$, adeoque summa lucrorum $\\frac{26}{149} - \\frac{5400}{22201}$ in duas partes æquales est dividenda, ita ut utriusque lucrum censendum sit $\\frac{13}{149} - \\frac{2700}{22201} p$.\n\nPonatur $\\frac{13}{149} - \\frac{2700}{22201} p = 0$, & erit $p = \\frac{1937}{2700}$.\n\nErgo si sit mulæta $p$ ad summam quam singuli deponunt ut $1937$ ad $2700$, $A \\& B$ nihil lucrantur, nihil perdunt. Verum hoc in Casu $C$ lucratur $\\frac{1}{225}$, quam $D$ perdit.\n\nCoroll. 1. Spectator $R$, priusquam ludus inchoetur, id suscipere in se poterit, ut summam $4$ de qua Collusores contendunt, & mulætas omnes pendat, si sibi initio in manus darentur $4 + 7 p$.\n\nCoroll. 2. Si dexteritates Collusorum sint in ratione data, sortes Collusorum eadem ratiocinatione determinabuntur.\n\nCc Coroll.\nCoroll. 3. Si Series aliqua ita sit constituta, ut continuò decrecat, & terminus quivis ad præcedentes quoslibet habeat rationes datas, sive easdem sive diversas, series ista accurate summabitur. Insuper si termini omnes hujus Seriei multiplicentur per terminos progressionis Arithmeticae, singuli per singulos, Series nova resultans accurate summabitur.\n\nCoroll 4. Si sint Series plures collaterales, ita relatae ut terminus quilibet cujusque Seriei ad præcedentes quoslibet aliarum Serierum habeat rationes datas, sive easdem sive diversas, ita ut Series istae collaterales se decussent data qualibet lege constanti, Series istae accurately summabuntur. Insuper si termini omnes harum Serierum multiplicentur ordinatim per terminos Progressionis Arithmeticae, singuli per singulos, Series novae ex hac multiplicatione resultantes etiamnum accurate summabuntur.\n\nClavis ad Problema generale.\n\nSi sint Collusores quotcunque v.g. Sex, B, C, D, E, F, A & Probabilitates quas habent ut victores evadant, sive ut multentur, dato Ludorum numero, denotentur respective B, C, D, E, F & A; & Probabilitates dato Ludorum numero his proximo & minori competentes, per B,, C,, D,, E,, F,, A,,; & Probabilitates dato Ludorum numero his itidem novissimis proximo & minori competentes, per B,,, C,,, D,,, E,,, F,,, A,,, & sic deinceps; erit semper,\n\n\\[ B_i = \\frac{1}{2}A_{ii} + \\frac{1}{4}A_{iii} + \\frac{1}{8}A_{iv} + \\frac{1}{16}Av \\]\n\\[ C_i = \\frac{1}{2}B_{ii} + \\frac{1}{4}F_{iii} + \\frac{1}{8}E_{iv} + \\frac{1}{16}Dv \\]\n\\[ D_i = \\frac{1}{2}C_{ii} + \\frac{1}{4}B_{iii} + \\frac{1}{8}F_{iv} + \\frac{1}{16}Ev \\]\n\\[ E_i = \\frac{1}{2}D_{ii} + \\frac{1}{4}C_{iii} + \\frac{1}{8}B_{iv} + \\frac{1}{16}Fv \\]\n\\[ F_i = \\frac{1}{2}E_{ii} + \\frac{1}{4}D_{iii} + \\frac{1}{8}C_{iv} + \\frac{1}{16}Bv \\]\n\\[ A_i = \\frac{1}{2}F_{ii} + \\frac{1}{4}E_{iii} + \\frac{1}{8}D_{iv} + \\frac{1}{16}Cv \\]\n\nEt fiat semper retrogressus ordinatim ad tot literas minus duobus quot sunt Collusores, omittaturque semper litera A, prima æquatione excepta, ubi litera A terminos omnes praeter primam occupat.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103046.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 25180,
+    "total-output-tokens": 10476,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2143,
+        2
+      ],
+      [
+        2143,
+        2938,
+        3
+      ],
+      [
+        2938,
+        3603,
+        4
+      ],
+      [
+        3603,
+        5372,
+        5
+      ],
+      [
+        5372,
+        6953,
+        6
+      ],
+      [
+        6953,
+        8325,
+        7
+      ],
+      [
+        8325,
+        9370,
+        8
+      ],
+      [
+        9370,
+        10692,
+        9
+      ],
+      [
+        10692,
+        12707,
+        10
+      ],
+      [
+        12707,
+        14590,
+        11
+      ],
+      [
+        14590,
+        16056,
+        12
+      ],
+      [
+        16056,
+        17610,
+        13
+      ],
+      [
+        17610,
+        18426,
+        14
+      ],
+      [
+        18426,
+        19704,
+        15
+      ],
+      [
+        19704,
+        21762,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103046",
+    "title": "Solutio Generalis Altera Praecedentis Problematis, ope Combinationum & Serierum Infinitarum, per D. Abr. De Moivre. Reg. Soc Sodalem",
+    "authors": "Abr. De Moivre",
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/103046"
+  }
+}

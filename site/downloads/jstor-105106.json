@@ -1,0 +1,59 @@
+{
+  "id": "49e372dcc1c18cca1f8cc05c90ac53ee0f82ed5e",
+  "text": "XCIII. Extract of a Letter from Mr. Mylius of Berlin, to Mr. W. Watson, F. R. S. upon the before-mention'd Subject; dated at Berlin, August 26, 1752.\n\nRead Dec. 14, March 16 past, at a little past 8 in the evening, we had here at Berlin a slight earthquake, which manifested itself by its shaking the ground, the windows, and by opening some doors. This before we have had no example of in our country; and it was perceived at the same time at Stavanger in Norway. I have made experiments of collecting the electricity, during a thunder-storm, with great success, in company with Professor Ludolf. He had erected an iron bar, of twelve feet long, which was fasten'd upon a pole of wood, fifty feet in height, with two tubes of glass cover'd with tin. The upper end of the iron bar was sharp-pointed, and near the lower end was fastened a very long iron wire, which being carried into a summer-house, gave great sparks, as the thunder was approaching; and these sparks caused sometimes as violent a shock through the body, as the experiment of Leyden. It was also continually observed, that the effects were greatest, when the lightning was nearest; and that, for some moments after the lightning, the effect ceased, but returned and increased by degrees.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105106.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 357,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1254,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105106",
+    "title": "Extract of a Letter from Mr. Mylius of Berlin, to Mr. W. Watson, F. R. S. upon the Before-Mention'd Subject; Dated at Berlin, August 26, 1752",
+    "authors": "Mr. Mylius",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105106"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "253b24ea689f642334e7d33b9bb76e2d3cc6bf05",
+  "text": "meters, have thought the 11th of June 1748 was hotter: But I imagine the Reason to be, that the Heat this Year came on gradually from Day to Day; whereas in the Year 1748 it was much more sudden; the Thermometer then rising 22 Degrees more in one Day than the preceding; which, consequently, would make the Difference between one Day and another appear the more extraordinary. But, by my Observations on the 11th of June 1748, Hauksbee's Thermometer stood at $14\\frac{1}{2}$; full 6 Degrees cooler than on the 11th of this present July. I am,\n\nSIR,\n\nNorwich, July 23.\n1750.\n\nYour most humble Servant,\n\nWilliam Arderon.\n\nP. S. Several Horses have dropped down dead under their Masters, overcome by this violent Heat.\n\nX. A total Eclipse of the Moon, observed Dec. 2, 1750. in the Morning in the Strand, London, about 5\" of Time West of St. Paul's, and 27\" West of the Royal Observatory at Greenwich; by Dr. Bevis and Mr. James Short F. R. S.\n\nRead Dec. 13. A SENSIBLE Penumbra h ' \"\n1750. (Dec. 1.) at 16 32 0\nThe Eclipse judged to begin at . 36 50\nGrimaldi\n| Event                                      | Time |\n|-------------------------------------------|------|\n| Grimaldi covered                          | 40   |\n| Shadow touches *Mare Humorum*             | 45   |\n| at the Middle of *Kepler*                 | 48   |\n| at the Middle of *Aristarchus*            | 50   |\n| touches *Copernicus*                      | 55   |\n| *Copernicus* half-cover'd                  | 56   |\n| quite cover'd                             | 58   |\n| *Timocharis* half-cover'd                  | 59   |\n| Shadow touches *Tycho*                    | 59   |\n| at the Middle of *Tycho*                  | 17   |\n| covers *Tycho*                            | 1    |\n| at the Middle of *Menelaus*               | 14   |\n| touches *Goclenius*                       | 24   |\n| covers *Goclenius*                        | 25   |\n| at the Middle of *Proclus*                | 27   |\n| touches *Mare Crisium*                    | 28   |\n| at the Middle of *Mare Crisium*           | 31   |\n| covers *Mare Crisium*                     | 33   |\n| Total Immersion at                        | 36   |\n| The Moon begins to emerge                 | 19   |\n| Grimaldi begins to emerge                 | 16   |\n| quite uncover'd                           | 18   |\n\nThe Moon was now got so low, and Day-light so far advanced, that no more Phases could be observed with any Degree of Certainty.\n\nThese Observations were made with a reflecting Telescope, that magnified 40 times, and a refracting Telescope, which magnified 12 times; and the Times were the same thro' these two Telescopes; for the Air was exceeding clear, and the Shadow well defined, the *Penumbra* being scarce sensible.\nHere follows a Computation, made from Dr. Halley's Tables, by Mr. John Catlin, of Guy's Hospital; and sent to Mr. Short the Day before the Eclipse.\n\nDec. 1. in the Morning 1750.\n\nBeginning of the Moon's Eclipse . 16 44 31\nImmersion at . . . 17 42 45\nEmersion at . . . 19 20 37\nEnd at . . . 20 18 51\n\nFrom hence it appears, that the Eclipse began about 8 Minutes sooner than the Computation from Dr. Halley's Tables gave it; but the Computation which Mr. Brent made and published some time before the Eclipse happen'd, was within a Minute of the Time observed; and this Exactness he imputes to his leaving out three of the seven Equations of the Moon, published by Sir Isaac Newton in his Theory of the Moon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104699.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1093,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1057,
+        2
+      ],
+      [
+        1057,
+        2755,
+        3
+      ],
+      [
+        2755,
+        3462,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104699",
+    "title": "A Total Eclipse of the Moon, Observed Dec. 2, 1750. in the Morning in the Strand, London, about 5′ ′  of Time West of St. Paul's, and 27′ ′  West of the Royal Observatory at Greenwich; by Dr. Bevis and Mr. James Short F. R. S.",
+    "authors": "James Short, Dr. Bevis",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104699"
+  }
+}

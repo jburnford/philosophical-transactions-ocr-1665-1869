@@ -1,0 +1,69 @@
+{
+  "id": "0c67f982d6caa9769d09234de29ff306779c8005",
+  "text": "An Account of the Course of the Tides in the Port of Dublin in Ireland, communicated in a Letter to the Publisher, from William Molineux Esq. R. S. S. with a remark thereupon.\n\nAt the Barr of Dublin, on the New and Full Moons, a South-South-East Moon makes high Water, that is, at half an hour after Ten.\nAt Rings-End at Three Quarters after Ten.\nAt the Custom-House at Dublin at Eleaven.\n\nOn the Quarter Days.\nHigh Water on the Barr at five of the Clock.\nAt Ring's-End at a Quarter past Five.\nAt the Custom House half an hour past Five.\n\nA Southerly Wind between S. S. E. and S. S. W. blowing fresh makes it flow near half an hour longer than its usual Course.\n\nN. B. that this observation makes the Tides, upon the Quarter Moons, come in later, in respect of the Moons Southing, than upon new and full Moons, by half an hour: whereas in the River of Thames, as high as London, the Quarter Moons make high Water above an hour and Quarter sooner, in that respect, than the New and Full; as may be seen by the accurate Tide Tables of Mr. Flamsteed: but it is from hence evident that the same Tables are not applicable to the Sea-Ports; where there is not the same reason for the Anticipation of the Nepe Tides upon the Quarter Moons. The cause of this Phenomenon seems to be, that the Impulse of the Ocean in the Quarter Moons is not so Vigorous as in the New and Full; nor the Motion of the Waters so quick: (as is evident by dayly experience) whence it comes to pass that in the open Sea, and in Ports upon the Sea-Coast, as this of Dublin, the high Water time falls out later, than when the motion is more rapid in the New and Full; but on the con-\ncontrary, in Rivers, at any considerable distance from the Sea, the resistance of the weight of the fresh Water, which is kept suspended during the time of the Flood, is longer overcome by the more potent Impetus in the New and Full, than by the weaker in the Quadratures: and from hence this difference should be still more and more considerable as the Port is farther removed from the Sea.\n\nADemonstration of the Velocity wherewith the Air rushes into an Exhausted Receiver, lately produced before the R. Society by Dr. D. Papin. Reg. Soc. S.\n\nThere being several Occasions wherein it would be useful to know the Velocity of the Air, according to the several pressures that may drive it; The Royal Academy at Paris hath attempted by some Trials to attain that Knowledge, and by means of a Bladder, which they did sometimes fill up with Water, and sometimes with Air; they found that (although the Weight to squeeze out these Liquors, and the hole to let them out were the same) nevertheless, the Bladder, when full of Air, could be empty'd in the 25th part of the time that was required to squeeze out the Water of the same Bladder: from thence they concluded that the swiftness of the Air is 25 times greater than that of water, when both these liquors bare the same pressure. This Experiment was very well thought on, and might serve till a better should be found out; but those Gentlemen could not but know, that this was not perfect: The Reason is that the Air yieldeth much, and so the Bladder being fill'd with it, will become pretty flatt, as soon as a considerable weight is layd upon it. It is plain therefore that the weight bearing upon a large space doth not press euery part with the same force as it would do, if the Bladder did for a while remain Plump, as it doth when full of water: moreover, the water itself being heavy in the Bladder, makes some pressure: so",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101863.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 929,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1651,
+        2
+      ],
+      [
+        1651,
+        3531,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101863",
+    "title": "An Account of the Course of the Tides in the Port of Dublin in Ireland, Communicated in a Letter to the Publisher, from William Molineux Esq. R. S. S. with a Remark Thereupon",
+    "authors": "William Molineux",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101863"
+  }
+}

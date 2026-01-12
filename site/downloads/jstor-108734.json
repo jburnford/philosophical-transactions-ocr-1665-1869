@@ -1,0 +1,199 @@
+{
+  "id": "76f94c75ad22f80074940cbfa4d48b9d19e73e6a",
+  "text": "XI. On the Porism of the in-and-circumscribed Polygon.\n\nBy Arthur Cayley, Esq., F.R.S.\n\nReceived February 20,—Read March 7, 1861.\n\nThe Porism referred to is as follows, viz. that two conics may be so related to each other, that a polygon may be inscribed in the one, and circumscribed about the other conic, in such manner that any point whatever of the circumscribing conic may be taken for a vertex of the polygon. I gave in the year 1853, in the Philosophical Magazine*, a general formula for the relation between the two conics, viz. if $U=0$ is the equation of the inscribed conic, $V=0$ that of the circumscribed conic, and if disct. $(U+\\xi V)$, where $\\xi$ is an arbitrary multiplier, denotes the discriminant of $U+\\xi V$ in regard to the coordinates $(x, y, z)$ (such discriminant being of course a cubic function in regard to $\\xi$, and also in regard to the coefficients of the two conics $U, V$, jointly), then if we write\n\n$$\\sqrt{\\text{disct.}(U+\\xi V)} = A + B\\xi + C\\xi^2 + D\\xi^3 + E\\xi^4 + F\\xi^5 + G\\xi^6 + \\&c.,$$\n\nthe relations for the cases of the triangle, pentagon, heptagon, &c. are\n\n$$C=0, \\quad C, D = 0, \\quad C, D, E = 0, \\&c.$$  \n$$D, E = 0, \\quad D, E, F = 0, \\&c.$$  \n$$E, F, G = 0, \\&c.$$  \n\nrespectively, while those in the cases of the quadrangle, hexagon, octagon, &c. are\n\n$$D=0, \\quad D, E = 0, \\quad D, E, F = 0, \\&c.$$  \n$$E, F = 0, \\quad E, F, G = 0, \\&c.$$  \n$$F, G, H = 0, \\&c.$$  \n\nrespectively. The demonstration of this fundamental theorem is for greater completeness here reproduced; but the chief object of the memoir is to direct attention to a curious analytical theorem which is an easy *à priori* consequence of the Porism, and to obtain the relations for the several polygons up to the enneagon, in a new and simple form which puts in evidence *à posteriori* for these cases the analytical theorem just referred to. The analytical theorem rests upon the following considerations:—the relation for a hexagon ought to include that for a triangle; in fact a triangle with its\n\n---\n\n* See the papers—\"On the Geometrical Representation of the Integral $\\int dx/\\sqrt{(x+a)(x+b)(x+c)}$,\" Phil. Mag. April 1853.\n\n\"Note on the Porism of the in-and-circumscribed Polygon,\" Phil. Mag. August 1853.\n\n\"Correction of two Theorems relating to the Porism of the in-and-circumscribed Polygon,\" Phil. Mag. November 1853.\n\n\"Developments of the Porism of the in-and-circumscribed Polygon,\" Phil. Mag. May 1854.\n\nMDCCCLXI.\nsides in order twice over is a form of hexagon; the condition for an octagon should in like manner include that for a quadrangle; and so in other cases. Let the cubic function, disct. \\((U + \\xi V)\\), be represented by \\(1 + \\beta \\xi + \\gamma \\xi^2 + \\delta \\xi^3\\), the coefficients \\(A, B, C, D, E, &c.\\) are functions of \\(\\beta, \\gamma, \\delta\\). Write\n\n\\[\n\\begin{align*}\nC &= (3), \\\\\nD &= (4), \\\\\nC, D &= (5), \\\\\nD, E &= (6), \\\\\nE, F &= (7), \\\\\nC, D, E &= (8), \\\\\nD, E, F &= (9), \\\\\nE, F, G &= (10).\n\\end{align*}\n\\]\n\nthen (3), (4), (5) are respectively prime functions of \\(\\beta, \\gamma, \\delta\\); that is they cannot be decomposed into factors, rational functions of these quantities; and it is convenient to denote this by writing \\((3)=[3], (4)=[4], (5)=[5]\\). But by what precedes, (6) contains the factor (3), that is \\([3]\\); and if the other factor, which is prime, is denoted by \\([6]\\), then we have \\((6)=[6] [3]\\). The next term (7) is prime, that is we have \\((7)=[7]\\); but the term (8) gives \\((8)=[8] [4]\\); the term (9) gives \\((9)=[9] [3]\\); and so on. Thus we have \\((12)=[12] [6] [4] [3]\\), the numbers in \\([\\ ]\\) being all the factors, the number itself included, and as well composite as prime, of the number in \\((\\ )\\), the factors 2 and 1 being however excluded. To make this clearer, it may be remarked that the last-mentioned equation has the geometrical signification that the relation for a dodecagon is the aggregate of the relations for a proper dodecagon, a proper hexagon, a quadrangle, and a triangle; that is, the relation for a dodecagon implies one or other of the last-mentioned relations. The relations for the several polygons up to the enneagon are in the memoir obtained in a form which puts in evidence the property in question, that is, the series of equations\n\n\\[\n\\begin{align*}\n(3) &= [3], \\\\\n(4) &= [4], \\\\\n(5) &= [5], \\\\\n(6) &= [6] [3], \\\\\n(7) &= [7], \\\\\n(8) &= [8] [4] \\\\\n(9) &= [9] [3].\n\\end{align*}\n\\]\n\nTo do this, the discriminant is represented, not as above in terms of the constants \\(\\beta, \\gamma, \\delta\\), but in a somewhat different form, by means of the constants \\(b, c, d\\), the last two\nwhereof are such that \\(c = 0\\) is the relation for the triangle, \\(d = 0\\) the relation for the quadrangle; thus \\([3] = c\\), \\([4] = d\\), and for the particular cases considered, the analytical theorem consists herein, that \\(c\\) is a factor of (6), and of (9), and that \\(d\\) is a factor of (8). I have, for the sake of homogeneity, introduced into the formulae the quantity \\(a (=1)\\), but this is a matter of form only.\n\nThe functions \\([3]\\), \\([4]\\), &c. have been spoken of as prime; they are so, in fact, as far as they are calculated; and that they are so in general rests on the assumption that for a polygon of a given number of sides, there is but one form of relation: if, for instance, in the equation \\([12] = 0\\), which is the condition for a proper dodecagon, the function \\([12]\\) could be decomposed into rational factors; then equating each of these factors to zero, we should have so many distinct forms of relation for a proper dodecagon. I believe that the assumption and reasoning are valid; but without entering further into this, I take it for granted that in the general case the functions \\([3]\\), \\([4]\\), &c. are in fact prime. But the coefficients \\(\\beta\\), \\(\\gamma\\), \\(\\delta\\), or \\(b\\), \\(c\\), \\(d\\), instead of being so many independent arbitrary quantities, may be given as rational functions of other quantities (if, for instance, the two conics are circles, radii \\(R\\), \\(r\\), and distance between the centres \\(a\\), then \\(\\beta\\), \\(\\gamma\\), \\(\\delta\\) will be functions of \\(R\\), \\(r\\), \\(a\\)): and it is in a case of this kind quite conceivable that the functions \\([3]\\), \\([4]\\), &c., considered as functions of these new elements, should cease to be prime functions. In fact, in the case just referred to of the two circles (the original case of the Porism as considered by Füss), the functions \\([4]\\), \\([6]\\), &c., which correspond to a polygon of an even number of sides, appear to be each of them decomposable into two factors: the memoir contains some remarks tending to show à priori that in the case in question this decomposition takes place. I was led to examine the point by the elegant formulae obtained in an essentially different manner by M. Mention, Bull. de l'Acad. de St. Pétersb. t. i. pp. 15, 30, and 507 (1860), in reference to the case of the two circles (it thereby appears that the decomposition takes place for the quadrangle and the hexagon); and these formulæ are reproduced in the memoir.\n\nI.\n\nDemonstration of the general Formula of the Relation between the two Conics.\n\nThe equation of a conic passing through the points of intersection of the conics\n\n\\[U = 0, \\quad V = 0,\\]\n\nis of the form\n\n\\[U + mV = 0,\\]\n\nwhere \\(m\\) is an arbitrary parameter. Suppose that the conic touches a given line, we have for the determination of \\(m\\) a quadratic equation; and conversely, if the roots of this quadratic equation are given, the line is also given; that is, the two roots may be considered as parameters which determine the particular line.\n\nLet \\(k\\) be a given value of \\(m\\); the parameters of any tangent of the conic \\(U + kV = 0\\) are \\(k\\), \\(p\\), but as \\(k\\) is common to all the tangents, we may consider the particular tangent\nas determined by the single parameter $p$. And a point of the conic $U+kV=0$ may be considered as determined by the same parameter $p$ which determines the tangent at that point.\n\nAs regards the conic $V=0$, the common parameter for all its tangents is $\\infty$, and we may consider any other tangent of this conic as determined by the parameter $\\theta$, and a point of the conic as determined by the same parameter $\\theta$.\n\nSuppose, in the first instance, that the two conics are\n\n$$U=ax^2+by^2+cz^2=0,$$\n\n$$V=x^2+y^2+z^2=0;$$\n\nthe equation of the tangent of $U+kV=0$, the parameter whereof is $p$ (in fact a common tangent of the conics $U+kV=0$, $U+pV=0$), is easily found to be\n\n$$x\\sqrt{b-c}\\sqrt{a+k}\\sqrt{a+p}+y\\sqrt{c-a}\\sqrt{b+k}\\sqrt{b+p}+z\\sqrt{a-b}\\sqrt{c+k}\\sqrt{c+p}=0;$$\n\nand if this meet the conic $V=0$ in the points $P, P'$, the parameters whereof are $\\infty, \\theta$, and $\\infty, \\theta'$, or say $\\theta$ and $\\theta'$ respectively, then the coordinates of the point $P$ are given by\n\n$$x:y:z=\\sqrt{b-c}\\sqrt{a+\\theta}:\\sqrt{c-a}\\sqrt{b+\\theta}:\\sqrt{a-b}\\sqrt{c+\\theta};$$\n\nand substituting these values in the foregoing equation, we have\n\n$$(b-c)\\sqrt{a+k}\\sqrt{a+p}\\sqrt{a+\\theta}+(c-a)\\sqrt{b+k}\\sqrt{b+p}\\sqrt{b+\\theta}+(a-b)\\sqrt{c+k}\\sqrt{c+p}\\sqrt{c+\\theta}=0$$\n\nas an equation connecting the parameters $p$ and $\\theta$. This equation may be replaced by\n\n$$\\sqrt{(a+k)(a+p)(a+\\theta)}=\\lambda+\\mu a,$$\n\n$$\\sqrt{(b+k)(b+p)(b+\\theta)}=\\lambda+\\mu b,$$\n\n$$\\sqrt{(c+k)(c+p)(c+\\theta)}=\\lambda+\\mu c,$$\n\nfrom which $\\lambda, \\mu$ are to be eliminated; and squaring and reducing, we have\n\n$$\\lambda^2=abc+kp\\theta,$$\n\n$$-2\\lambda\\mu=bc+ca+ab-(p\\theta+kp-k\\theta),$$\n\n$$\\mu^2=a+b+c+k+p+\\theta,$$\n\nand thence\n\n$$(bc+ca+ab-p\\theta-kp-k\\theta)^2-4(a+b+c+k+p+\\theta)(abc+kp\\theta)=0$$\n\nas the rational form of the original equation. But the same rational equation would, it is clear, be obtained from the system\n\n$$\\sqrt{(k+a)(k+b)(k+c)}=L+Mk,$$\n\n$$\\sqrt{(p+a)(p+b)(p+c)}=L+Mp,$$\n\n$$\\sqrt{(\\theta+a)(\\theta+b)(\\theta+c)}=L+M\\theta,$$\n\nby the elimination of $L$ and $M$. And it follows from Abel's theorem (but the result might be verified by means of Euler's fundamental theorem for the addition of elliptic functions), that if\n\\[ \\Pi \\xi = \\int_{\\infty} \\frac{d\\xi}{\\sqrt{(\\xi + a)(\\xi + b)(\\xi + c)}}, \\]\n\nthen that the last-mentioned system is equivalent to the transcendental equation\n\n\\[ \\Pi \\theta = \\Pi p + \\Pi k, \\]\n\nin which the arbitrary constant which should have been inserted, and the sign of \\( \\Pi \\theta \\), are determined by the consideration that for \\( k = \\infty \\) (which gives \\( \\Pi k = 0 \\)) we ought to have \\( \\theta = p \\), and therefore \\( \\Pi \\theta = \\Pi p \\).\n\nThere is of course a similar equation in \\( \\theta' \\), and the terms with \\( \\Pi k \\) must be taken with opposite signs, and we have thence the theorem,\n\n\"If \\( \\theta, \\theta' \\) are the parameters of the points \\( P, P' \\) in which the conic \\( V = 0 \\) is intersected by the tangent, the parameter whereof is \\( p \\), of the conic \\( U + kV = 0 \\), then the equations\n\n\\[ \\Pi \\theta = \\Pi p - \\Pi k, \\]\n\\[ \\Pi \\theta' = \\Pi p + \\Pi k, \\]\n\ndetermine the parameters \\( \\theta, \\theta' \\) of the points in question.\"\n\nAnd again,\n\n\"If the two variable parameters \\( \\theta, \\theta' \\) are connected by the equation\n\n\\[ \\Pi \\theta' - \\Pi \\theta = 2\\Pi k, \\]\n\nthen the line \\( PP' \\) will be a tangent of the conic \\( U + kV = 0 \\).\"\n\nThe foregoing demonstration relates to the particular forms \\( U = ax^2 + by^2 + cz \\), \\( V = x^2 + y^2 + z^2 \\); but observing that the function \\( \\sqrt{(\\xi + a)(\\xi + b)(\\xi + c)} \\), which enters under the integral sign in the transcendental function \\( \\Pi \\xi \\), is the square root of the discriminant of \\( U + \\xi V \\), the theory of covariants shows at once that the conclusions apply to any forms whatever of \\( U, V \\), the expression for the transcendental function being\n\n\\[ \\Pi \\xi = \\int_{\\infty} \\frac{d\\xi}{\\sqrt{\\text{discr.}(U + \\xi V)}}. \\]\n\nConsider now a triangle inscribed in the conic \\( V = 0 \\), and with its sides touching the conics\n\n\\[ U + kV = 0, \\]\n\\[ U + k'V = 0, \\]\n\\[ U + k''V = 0. \\]\n\nThen if \\( \\theta, \\theta', \\theta'' \\) are the parameters of the angles, we have\n\n\\[ \\Pi \\theta'' - \\Pi \\theta' = 2\\Pi k, \\]\n\\[ \\Pi \\theta - \\Pi \\theta' = 2\\Pi k', \\]\n\\[ \\Pi \\theta' - \\Pi \\theta = 2\\Pi k'', \\]\n\nand thence\n\n\\[ \\Pi k + \\Pi k' + \\Pi k'' = 0 \\]\n\nas the relation which must subsist between the parameters \\( k, k', k'' \\), of the conics touched by the sides; and similarly for a polygon of \\( n \\) sides, the relation between the parameters is\n\n\\[ \\Pi k_1 + \\Pi k_2 + \\ldots + \\Pi k_n = 0. \\]\nBut by Abel's theorem, this transcendental equation is equivalent to an algebraical one.\n\nIn fact, calling the radical $\\sqrt{\\Box x}$, then if $\\varphi x$, $\\chi x$ are rational and integral functions of $x$ with arbitrary coefficients, and if\n\n$$\\varphi^2 x - \\chi^2 x \\Box x = A(x-k_1)(x-k_2)\\ldots(x-k_n),$$\n\n(this implies that $\\varphi^2 x$ is of a degree not exceeding $n$ and $\\chi^2 x$ of a degree not exceeding $n-3$; that is, for $n$ even the degrees of $\\varphi x$, $\\chi x$ are $\\frac{1}{2}n$, $\\frac{1}{2}(n-4)$; and for $n$ odd they are $\\frac{1}{2}(n-1)$, $\\frac{1}{2}(n-3)$), then the algebraical equation is that obtained by the elimination of the arbitrary coefficients from the system of equations\n\n$$\\varphi k_1 + \\chi k_1 \\Box k_1 = 0,$$\n\n$$\\varphi k_2 + \\chi k_2 \\Box k_2 = 0,$$\n\n$$\\vdots$$\n\n$$\\varphi k_n + \\chi k_n \\Box k_n = 0;$$\n\nor, what is the same thing, for $n$ odd $= 2p-1$, it is\n\n$$\\{1, \\theta, \\ldots \\theta^{p-1}, \\sqrt{\\Box \\theta}, \\theta \\sqrt{\\Box \\theta}, \\ldots \\theta^{p-2} \\sqrt{\\Box \\theta}\\} = 0,$$\n\nand for $n$ even, $= 2p$, it is\n\n$$\\{1, \\theta, \\ldots \\theta^p, \\sqrt{\\Box \\theta}, \\theta \\sqrt{\\Box \\theta}, \\ldots \\theta^{p-2} \\sqrt{\\Box \\theta}\\} = 0,$$\n\nwhere the expressions in $\\{ \\}$ denote respectively the determinants, of $2p-1$ lines, and $2p$ lines, formed by substituting for $\\theta$ the values $k_1, k_2, \\ldots k_n$ respectively. Thus for $n=3$, the equation is\n\n$$\\begin{vmatrix}\n1, & k_1, & \\sqrt{\\Box k_1} \\\\\n1, & k_2, & \\sqrt{\\Box k_2} \\\\\n1, & k_3, & \\sqrt{\\Box k_3}\n\\end{vmatrix} = 0;$$\n\nand for $n=4$, it is\n\n$$\\begin{vmatrix}\n1, & k_1, & k_2, & \\sqrt{\\Box k_1} \\\\\n1, & k_2, & k_3, & \\sqrt{\\Box k_2} \\\\\n1, & k_3, & k_4, & \\sqrt{\\Box k_3} \\\\\n1, & k_4, & k_5, & \\sqrt{\\Box k_4}\n\\end{vmatrix} = 0,$$\n\nand so on.\n\nSuppose\n\n$$\\sqrt{\\Box \\xi} = A + B\\xi + C\\xi^2 + D\\xi^3 + E\\xi^4 + \\ldots;$$\n\nthen substituting the corresponding expressions for $\\sqrt{\\Box k_1}$, $\\sqrt{\\Box k_2}$, &c., the determinant will divide by $\\{1, \\theta, \\theta^2, \\ldots \\theta^{p-1}\\}$, and it may be seen without difficulty that the resulting equation on putting therein $k_1=k_2=\\ldots=k_n=0$, will, according as $n=3$, 4, 5, 6, &c., be\n\n$$C=0, \\quad D=0, \\quad \\begin{vmatrix} C, & D \\\\ D, & E \\end{vmatrix} = 0, \\quad \\begin{vmatrix} D, & E \\\\ E, & F \\end{vmatrix} = 0, \\quad \\begin{vmatrix} C, & D, & E \\\\ D, & E, & F \\\\ E, & F, & G \\end{vmatrix} = 0, \\quad \\text{&c.},$$\n\nwhich is the theorem above referred to.\nII.\n\nApplication to the several Polygons up to the Enneagon.\n\nIf the equation of the inscribed conic is $U = 0$, and that of the circumscribed conic is $V = 0$, and if the discriminant $(U + \\xi V)$ is in the first instance represented by $1 + 4\\beta\\xi + 4\\gamma\\xi^2 + 4\\delta\\xi^3$, then the square root of the discriminant is\n\n$$1 + 2\\beta\\xi + 2(\\gamma - \\beta^2)\\xi^2 + 2(\\delta - 2\\beta\\gamma + 2\\beta^3)\\xi^3 + \\&c.,$$\n\nso that the condition for the triangle is\n\n$$\\gamma - \\beta^2 = 0,$$\n\nand that for the quadrangle is\n\n$$\\delta - 2\\beta\\gamma + 2\\beta^3 = 0.$$\n\nIt is obviously convenient to introduce into the formulæ, in the place of $\\gamma$ and $\\delta$, the quantities\n\n$$c = \\gamma - \\beta^2,$$\n\n$$d = \\delta - 2\\beta\\gamma + 2\\beta^3;$$\n\nand writing also, for symmetry of notation, $b$ in the place of $\\beta$, we have\n\n$$\\beta = b,$$\n\n$$\\gamma = c + b^2,$$\n\n$$\\delta = d + 2bc,$$\n\nso that the discriminant will be\n\n$$= 1 + 4b\\xi + 4(c + b^2)\\xi^2 + 4(d + 2bc)\\xi^3,$$\n\nwhich is\n\n$$=(1 + 2b\\xi + 2c\\xi^2)^2 + 4(d\\xi^3 - c^2\\xi^4).$$\n\nBut for homogeneity I introduce the quantity $a = 1$, and put the discriminant\n\n$$=(1 + 2b\\xi + 2ac\\xi^2)^2 + 4a^2(d\\xi^3 - c^2\\xi^4).$$\n\nThe square root, divided by $a^2$, is\n\n$$=\\frac{1}{a^2}(1 + 2b\\xi + 2ac\\xi^2)\\sqrt{1 + 4a^2(d\\xi^3 - c^2\\xi^4) \\div (1 + 2b\\xi + 2ac\\xi^2)^2};$$\n\nor developing, this is\n\n$$\\frac{1}{a^2}(1 + 2b\\xi + 2ac\\xi^2)$$\n\n$$+ 2(d\\xi^3 - c^2\\xi^4) \\div (1 + 2b\\xi + 2ac\\xi^2)$$\n\n$$- 2a^2(d\\xi^3 - c^2\\xi^4)^2 \\div (1 + 2b\\xi + 2ac\\xi^2)^3$$\n\n$$+ 4a^4(d\\xi^3 - c^2\\xi^4)^3 \\div (1 + 2b\\xi + 2ac\\xi^2)^5$$\n\n$$- 10a^6(d\\xi^3 - c^2\\xi^4)^4 \\div (1 + 2b\\xi + 2ac\\xi^2)^7$$\n\n$$+ \\&c.;$$\nor representing this by \\(1 + 2B\\xi^3 + 2C\\xi^4 + 2D\\xi^5 + \\ldots\\), we have\n\n\\[\nC\\xi^2 + D\\xi^3 + E\\xi^4 + F\\xi^5 + G\\xi^6 + H\\xi^7 + I\\xi^8 + J\\xi^9 + K\\xi^{10} + L\\xi^{11} + M\\xi^{12} + \\ldots\n\\]\n\n\\[\n= a^{-1}c\\xi^2 \\\\\n+ (d\\xi^3 - c^2\\xi^4) \\left\\{ 1 - 2b\\xi - 2ac\\xi^2 + 8abc\\xi^3 + 4a^2c^2\\xi^4 - 24a^2bc^2\\xi^5 - 8a^3c^3\\xi^6 + 64a^3bc^3\\xi^7 + 16a^4c^4\\xi^8 - 160a^4bc^4\\xi^9 + \\ldots \\right\\} \\\\\n+ a^2(-d^2\\xi^2 + 2c^2d\\xi^3 - c^4\\xi^4) \\left\\{ 1 - 6b\\xi - 6ac\\xi^2 + 48abc\\xi^3 + 24a^2c^2\\xi^4 - 240a^2bc^2\\xi^5 - 80a^3c^3\\xi^6 + \\ldots \\right\\} \\\\\n+ a^4(2d^3\\xi^3 - 6c^2d^2\\xi^4 + 6c^4d\\xi^5 - 2c^6\\xi^6) \\left\\{ 1 - 10b\\xi - 10ac\\xi^2 + 120abc\\xi^3 - \\ldots \\right\\}\n\\]\n\nAnd the values of the coefficients C, D, E, &c. thus are\n\n| C | D | E | F | G | H | I | J | K | L | M |\n|---|---|---|---|---|---|---|---|---|---|---|\n| \\(a^{-1}c\\) | \\(+d\\) | \\(-2bd\\) | \\(-2acd\\) | \\(-1a^2d^2\\) | \\(+6a^2bd^2\\) | \\(+6a^2cd^2\\) | \\(+2a^4d^3\\) | \\(-20a^4bd^3\\) | \\(-20a^4cd^3\\) | \\(5a^4d^4\\) |\n| \\(-1c^2\\) | \\(+4bd^2\\) | \\(+2be^2\\) | \\(+8abcd\\) | \\(+6a^2cd\\) | \\(-5a^2d^2\\) | \\(-48a^2bcd^2\\) | \\(-30a^2cd^2\\) | \\(+120a^2bd^3\\) | \\(+240a^2bcd^3\\) | \\(+240a^2bd^3\\) |\n| \\(-8bd^2\\) | \\(-24ab^2cd\\) | \\(-24a^2b^2d^2\\) | \\(-20a^2cd^2\\) | \\(+240a^2bd^3\\) | \\(+300a^2bcd^3\\) | \\(+140a^2bd^3\\) |\n| \\(-4b^2c^2\\) | \\(+16bd^4\\) | \\(+64ab^2cd\\) | \\(+144a^2b^2cd^2\\) | \\(+14a^2cd^3\\) | \\(-960a^2bd^3\\) | \\(-1800a^2bd^3\\) |\n| \\(-8b^2c^2\\) | \\(+8b^2e^2\\) | \\(+24ab^2cd\\) | \\(+30a^2bd^3\\) | \\(-240a^2bd^3\\) | \\(-800a^2bd^3\\) | \\(700a^2bd^3\\) |\n| \\(-32bd^4\\) | \\(-160ab^2cd\\) | \\(-480a^2bd^3\\) | \\(-112a^2bd^3\\) | \\(-42a^2bd^3\\) |\n| \\(-16b^2e^2\\) | \\(-64ab^2cd\\) | \\(-120ab^2cd\\) | \\(+672ab^2cd\\) | \\(+3360ab^2cd\\) | \\(+3200ab^2cd\\) |\n| \\(-64b^2e^2\\) | \\(+64bd^4\\) | \\(+384ab^2cd\\) | \\(+1440ab^2cd\\) | \\(+560a^2bd^3\\) | \\(+1792a^2bd^3\\) |\n| \\(-32bd^4\\) | \\(-128bd^4\\) | \\(-896ab^2cd\\) | \\(-4032ab^2cd\\) | \\(-1200ab^2cd\\) |\n| \\(-64b^2e^2\\) | \\(-64b^2e^2\\) | \\(+256bd^4\\) | \\(+2048ab^2cd\\) | \\(+896ab^2cd\\) |\n| \\(-512bd^4\\) | \\(-256b^2e^2\\) |\n\nBut in the sequel only the coefficients up to I are made use of: the expressions for J, K, L, M may however be useful, and they are given accordingly.\n\nThe sums of the numerical coefficients are given here and elsewhere, as they are very useful for verifications; thus, putting \\(a = b = c = d = 1\\), we have, as should be,\n\n\\[\n\\sqrt{1 + 4\\xi + 8\\xi^2 + 12\\xi^3} = 1 + 2\\xi + 2\\xi^2(1, +1, -3, +4, -3, +4, -19, +60, -124, +214, -455, \\ldots)\n\\]\n\nProceeding now to form the several terms of the matrix\n\n\\[\n(C, D, E, F, G, \\ldots),\n\\]\n\nwhich may be represented by 12, 13, &c., viz.\n\n\\[\n12 = \\begin{vmatrix} C, D \\\\ D, E \\end{vmatrix}, \\quad 13 = \\begin{vmatrix} C, E \\\\ D, F \\end{vmatrix}, \\quad \\text{&c.},\n\\]\nwe have, up to 45, which is all that is required,\n\n| 12 = a^{-1} \\times | 13 = a^{-1} \\times | 14 = a^{-1} \\times | 15 = a^{-1} \\times |\n|-------------------|-------------------|-------------------|-------------------|\n| -1 ad^2           | +2 abd^2          | +1 a^2cd^2        | +1 a^3d^3         |\n| -2 bed            | -1 ac^2d          | -4 ab^2d^2        | -2 a^2bcd^2       |\n| -1 c^3            | +4 b^2cd          | +6 abc^2d         | +4 a^2c^2d        |\n| +2 bc^2           | +2 ac^4           | +8 ab^2d^2        | -1 c^4            |\n| -8 b^3cd          | -20 ab^2c^2d      | +2 bc^4           | +4 abc^2d         |\n| -4 b^3c^3         | -8 abc^4          | +16 b^2cd         | +2 ac^5           |\n| +8 b^5c^3         |                   |                   | -8 b^3c^2d        |\n\nForming in like manner the determinants of the matrix\n\n\\[\n\\begin{pmatrix}\nC, D, E, F, \\ldots \\\\\nD, E, F, G, \\ldots \\\\\nE, F, G, H,\n\\end{pmatrix}\n\\]\n\nand representing these by 123, 124, &c., viz.\n\n\\[\n123 = \\begin{vmatrix}\nC, D, E \\\\\nD, E, F \\\\\nE, F, G\n\\end{vmatrix}, \\quad \\text{&c.}\n\\]\n\nwe have, up to 234,\n\n| 123 = a^{-1} \\times | 124 = a^{-1} \\times | 134 = a^{-1} \\times | 234 = |\n|-------------------|-------------------|-------------------|------|\n| +1 a^2d^4          | -4 abd^4          | +1 a^2cd^4        | -1 a^2bd^4 |\n| +2 a^2bcd^4        | -3 a^2c^2d^4      | +4 a^3b^2d^4      | -4 a^2bcd^4 |\n| -1 a^2c^2d^2      | -8 a^2b^2cd^2     | +8 a^3bc^2d^2     | -4 a^2c^2d^2 |\n| -2 abc^2d         | -4 a^2b^2c^2d^2   | -3 a^3c^2d^2      | -4 a^2b^2c^2d^2 |\n| -1 ac^6           | -2 a^2c^2d^2      | +8 a^3b^2cd^2     | -6 a^2b^2c^2d^2 |\n| +4 ab^2c^2d       | +12 a^2b^2c^2d^2  | -2 a^2c^2d        | -2 a^2c^2d |\n| +2 abc^6          |                   |                   | -2 a^2c^2d |\n\nand further, the determinants of the matrix\n\n\\[\n\\begin{pmatrix}\nC, D, E, F, \\ldots \\\\\nD, E, F, G \\\\\nE, F, G, H \\\\\nF, G, H, I\n\\end{pmatrix}\n\\]\n\nin the present case, the single determinant\n\n\\[\n1234 = \\begin{vmatrix}\nC, D, E, F \\\\\nD, E, F, G \\\\\nE, F, G, H \\\\\nF, G, H, I\n\\end{vmatrix}\n\\]\nwe have\n\n\\[\n1234 = a^{-1} \\times \n\\begin{array}{c}\n- 3 a^6 c d^5 \\\\\n- 12 a^5 b c^2 d^5 \\\\\n- 4 a^5 c^2 d^4 \\\\\n- 16 a^4 b^2 c^3 d^4 \\\\\n- 14 a^4 b c^3 d^3 \\\\\n- 3 a^4 c^3 d^2 \\\\\n- 8 a^3 b^2 c^4 d^3 \\\\\n- 12 a^3 b^2 c^3 d^2 \\\\\n- 6 a^3 b c^4 d \\\\\n- 1 a^3 c^{10} \\\\\n\\end{array}\n\\]\n\nThe conditions for the triangle and the quadrangle are \\(c=0, d=0\\); those for the pentagon and hexagon are \\(12=0, 23=0\\); for the heptagon and octagon, \\(123=0, 234=0\\); and that for the enneagon is \\(1234=0\\). The foregoing values show that 23 and 1234 (which belong to the hexagon and the enneagon) divide by \\(c\\) (which belongs to the triangle), and that 234 (which belongs to the octagon) divides by \\(d\\) (which belongs to the quadrangle). But I was not prepared for the destruction which will be observed in the several determinants, of the terms involving the lower powers of \\(a\\) (that is, the terms of the highest orders in \\(b, c, d\\)), and which renders these expressions so much more simple than they would otherwise have been.\n\nRepresenting the reduced equations for the several polygons, as before, by\n\n\\[\n[3]=0, \\quad [4]=0, \\quad [5]=0, \\quad [6]=0, \\quad [7]=0, \\quad [8]=0, \\quad [9]=0,\n\\]\n\n&c.\n\nThen retaining the quantity \\(a(=1)\\) for homogeneity, but rejecting the powers of \\(a\\) which divide out, and reversing in some cases the signs, the values of the functions \\([3], [4], &c.\\) are\n\n\\[\n\\begin{array}{cccccccc}\n[3] & [4] & [5] & [6] & [7] & [8] & [9] \\\\\n+1 & +1 & +1 & +2 & +1 & +1 & +3 \\\\\nc & d & ad^2 & bcd & c^3 & ac^2d^2 & ac^3d^3 \\\\\n+2 & +2 & +2 & +2 & +1 & +4 & +12 \\\\\nabcd^3 & ac^3d^2 & bc^2d^2 & bc^3d & +6 & +14 & +3 \\\\\n+4 & +4 & +4 & +4 & +6 & +16 & +8 \\\\\nabc^2d^4 & ab^2c^2d^4 & ab^2c^3d^3 & ab^2c^4d^2 & +6 & +12 & +1 \\\\\nb^2c^2d^2 & b^2c^3d^2 & b^2c^4d^2 & +1 & +1 & +4 & +5 \\\\\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{cccccccc}\n+1 & +1 & +4 & +5 & -1 & +21 & +79 \\\\\n\\end{array}\n\\]\nThe similarity of form for the relations corresponding to the pentagon and the hexagon, and for those corresponding to the heptagon and the octagon, is, I am inclined to think, accidental; the functions are homogeneous as regards degree and weight; and the degrees and weights of the two consecutive functions being identical, the literal parts must be similarly constituted.\n\nIII.\n\nM. Mention's Formulae for the Case of two Circles.\n\nIn the case of two circles, if, as usual, the radii of the inscribed and circumscribed circles are put equal to $r$ and $R$ respectively, and the distance of their centres to $\\alpha$, then the equations of the inscribed and circumscribed circles respectively may be taken to be\n\n$$x^2 + y^2 - r^2 = 0,$$\n\n$$(x - \\alpha)^2 + y^2 - R^2 = 0;$$\n\nand if, in the notation of M. Mention, we put\n\n$$\\frac{R^2 - r^2}{a^2} = i,$$\n\n$$\\frac{1}{r^4}(r^4 + R^4 + a^4 - 2r^2R^2 - 2r^2a^2 - 2R^2a^2) = -\\nu,$$\n\nthen the quadratic radical is\n\n$$\\sqrt{(1 + 4\\xi)\\left[1 + (2 + 2i)\\xi\\right]^2 + 4\\nu\\xi^3};$$\n\nand comparing this with\n\n$$\\sqrt{1 + 4b\\xi + 4(c + b^2)\\xi^2 + 4(d + 2bc)\\xi^3},$$\n\nwe have\n\n$$b = i + 2,$$\n\n$$c + b^2 = i^2 + 6i + \\nu + 5,$$\n\n$$d + 2bc = 4(i^2 + 2i + \\nu + 1),$$\n\nand thence\n\n$$b = i + 2,$$\n\n$$c = 2i + \\nu + 1,$$\n\n$$d = -2i\\nu - 2i;$$\n\nand by means of these values, or by effecting the development in a different manner, we find\n\n$$B = \\begin{cases} 1 \\\\ +2, \\end{cases}$$\n\n$$C = \\begin{cases} i.2 \\\\ +\\nu + 1, \\end{cases}$$\n\n$$D = 2\\{i(-\\nu - 1)\\},$$\n\n$$E = \\begin{cases} i^2.4\\nu \\\\ +i.4(\\nu + 1) \\\\ -(i + 1)^2, \\end{cases}$$\n\n$$2 \\times 2.$$\n\\[ F = 2 \\left\\{ \\begin{array}{l}\ni^3 - 4\\nu \\\\\n+i^2 - 8\\nu \\\\\n+i \\cdot (\\nu + 1)(3\\nu - 5) \\\\\n+ 2(\\nu + 1)^2,\n\\end{array} \\right. \\]\n\n\\[ G = 2 \\left\\{ \\begin{array}{l}\ni^4 \\cdot 8\\nu \\\\\n+i^3 \\cdot 24\\nu \\\\\n+i^2 \\cdot 4\\nu(-3\\nu + 5) \\\\\n+i \\cdot (\\nu + 1)(-18\\nu + 14) \\\\\n+(\\nu + 1)^2(\\nu - 7),\n\\end{array} \\right. \\]\n\n\\[ H = 4 \\left\\{ \\begin{array}{l}\ni^5 \\cdot 8\\nu \\\\\n+i^4 \\cdot 32\\nu \\\\\n+i^3 \\cdot 4\\nu(5\\nu - 11) \\\\\n+i^2 \\cdot 16\\nu(3\\nu - 1) \\\\\n+i \\cdot (\\nu + 1)(\\nu - 7)(-5\\nu + 3) \\\\\n-4(\\nu + 1)^2(\\nu - 3).\n\\end{array} \\right. \\]\n\nThese values give\n\n\\[ C = \\left\\{ \\begin{array}{l}\n2i \\\\\n+\\nu + 1,\n\\end{array} \\right. \\quad = [3] \\]\n\n\\[ D = 2 \\left\\{ i(-\\nu - 1), \\right. \\quad = [4] \\]\n\n\\[ CE - D^2 = \\left\\{ \\begin{array}{l}\ni^3 \\cdot 8\\nu \\\\\n+i^2 \\cdot 4(\\nu + 1) \\\\\n+i \\cdot 2(\\nu + 1)^2 \\\\\n-(\\nu + 1)^3,\n\\end{array} \\right. \\quad = [5] \\]\n\n\\[ DF - E^2 = \\left( \\frac{2i}{\\nu + 1} \\right) \\left( \\frac{2i}{-\\nu - 1} \\right) \\left\\{ \\begin{array}{l}\ni^2 \\cdot 4\\nu \\\\\n+(\\nu + 1)^2,\n\\end{array} \\right. \\quad = [3] [6] \\]\n\n\\[ C, D, E = \\left\\{ \\begin{array}{l}\ni^0 \\cdot 64\\nu \\\\\n+i^3 \\cdot 32\\nu(\\nu + 1)(\\nu - 1) \\\\\n+i^4 \\cdot 16\\nu(\\nu + 1)^2 \\\\\n+i^3 \\cdot 8(3\\nu - 1)(\\nu + 1)^3 \\\\\n+i^2 \\cdot 4(\\nu + 1)^4 \\\\\n+i \\cdot 4(\\nu + 1)^5 \\\\\n-(\\nu + 1)^6\n\\end{array} \\right. \\quad = [7] \\]\n\n\\[ D, E, F = i \\cdot (-\\nu - 1) \\left\\{ \\begin{array}{l}\n16i\\nu \\\\\n+(\\nu + 1)^2.\n\\end{array} \\right. \\quad = [4] [8] \\]\nIt will be remarked that \\([4] = i(-v-1)\\) breaks up into the factors \\(i\\) and \\(v+1\\); and so \\([6] = (2i-v-1)(4vi^2+(v+1)^2)\\) breaks up into the factors \\(2i-v-1\\) and \\(4vi^2+(v+1)^2\\).\n\nIt may be added that the developed expression of \\([6]\\) is\n\n\\[\n\\begin{align*}\n&= i^3.8v \\\\\n&+ i^2.-4v(v+1) \\\\\n&+ i.2(v+1)^2 \\\\\n&-(v+1)^3,\n\\end{align*}\n\\]\n\nso that the difference between this and \\([5]\\) is \\(i^2.4(v+1)^2\\), which is \\(=d^2\\); this agrees with a former result.\n\nM. Mention has also given, but not in a developed form, the formulæ for the enneagon and the endecagon, and the following formula for the decagon, viz.\n\n\\[\n[16i^2v+(v+1)^4]^2+16i^2v(v+1)^2.\\{2i^2(1-v)-(v+1)^2\\}^2=0.\n\\]\n\nIV.\n\nConsiderations as to the form of relation, in the case of two circles, for Polygons of an odd and even number of sides respectively.\n\nThe relation between the two conics, or condition for the existence of the polygon, is the same whatever point of the circumscribed conic is taken as an angle of the polygon. Take for an angle, a point of intersection of the two conics. Consider first the case of the triangle; if a point of intersection is taken as a vertex A of the triangle, then the sides AB, AC coincide in direction with the tangent at A to the inscribed conic U, hence B and C coincide together at the point where this tangent meets the circumscribed conic V, BC is therefore a tangent of V, but it is by hypothesis a tangent of U; hence for the triangle the relation between the inscribed conic U and the circumscribed conic V is as follows, viz. a tangent to U at a point of intersection with V meets V at a point of contact of a common tangent of U and V.\n\nIn like manner for the quadrangle, if A be taken at a point of intersection, the sides AB and AD will coincide in direction with the tangent to U at this point, consequently B and D must coincide at the point where this tangent meets V; hence also CB, CD, the two tangents to U from the point C, must coincide, or C must be a point of intersection of the conics U, V. In other words, the pole, with respect to the inscribed conic U, of a common chord AC of the two conics must lie on the circumscribed conic V; this is therefore the condition for the quadrilateral.\n\nIn the ordinary mode of drawing the figures, with two conics which do not intersect, the points and lines employed in the foregoing constructions are imaginary, but the conics may be so drawn that these points and lines are all real.\n\nIn general, for a polygon of an odd number, \\(2n+1\\), of sides, then starting from a point of intersection, the sides will coincide in pairs, viz. the first and last, second and last but one, and so on, the middle or \\((n+1)\\)th side being a common tangent of the two\nBut for a figure of an even number, $2n$, of sides, then starting from a point of intersection of the two conics, the $n$th side will terminate at a second point of intersection, and then the same series of sides will be repeated in the reverse order, so that the sides will coincide in pairs, first and last, second and last but one, $n$th and $(n+1)$th.\n\nFor a figure of an odd number of sides, the relation involves only a single point of intersection, but for a figure of an even number of sides, it involves two points of intersection.\n\nNow in the case of two circles, for a polygon of an odd number of sides, the same relation is obtained, whether we take as the point of intersection one of the actual points of intersection, or a circular point at infinity, and the relation $[2n+1]=0$ does not break up into factors. And so for a polygon of an even number of sides, then taking for the two points of intersection, the two actual points of intersection, or the two circular points at infinity, we have one form of result; but taking for them an actual point of intersection and a circular point at infinity, we have a different form of result; and the equation $[2n]=0$ does break up into factors.\n\nThis is verified very simply in the case of the quadrangle. Taking for the two points of intersection the circular points at infinity, the line joining them is the line infinity, and its pole, with respect to the inscribed circle, is the centre of this circle; the relation therefore is that the centre of the inscribed circle lies on the circumscribed circle. But when this is the case, it is easy to see that the pole (with respect to the inscribed circle) of the radical axis, lies also on the circumscribed circle; this pole and the centre of the inscribed circle are in fact the extremities of a diameter of the circumscribed circle.\n\nThe condition thus obtained is $R^2-a^2=0$ (which is M. Mention's condition $i=0$). We have next to find the analytical relation when the pole (with respect to the inscribed) circle, of the line joining one of the actual points of intersection with a circular point at infinity is a point on the circumscribed circle. This I effect as follows:—Taking $z=0$ as the equation of line infinity, if the origin be taken on the middle point of the radical axis, and if $x=0$ be the radical axis, then the equations of the two circles may be taken to be\n\nInscribed circle, \\[ x^2+y^2-2lxz-\\nabla z^2=0. \\]\n\nCircumscribed circle, \\[ x^2+y^2-2Lxz-\\nabla z^2=0. \\]\n\nA circular point at infinity is \\[ x:y:z=1:i:0, \\quad (i=\\sqrt{-1}). \\]\n\nAn actual point of intersection is \\[ x:y:z=0:\\sqrt{\\nabla}:1. \\]\n\nThe line joining these is \\[ xi-y+z\\sqrt{\\nabla}=0. \\]\n\nIts pole, with respect to the inscribed circle, is \\[ x:y:z=-i\\sqrt{\\nabla}:\\sqrt{\\nabla}-il:1. \\]\nAnd if this be a point of the circumscribed circle\n\n\\[ -\\nabla + (\\nabla - 2il - l^3) + 2Li \\sqrt{\\nabla} - \\nabla = 0, \\]\n\nthat is,\n\n\\[ 2(L - l)i \\sqrt{\\nabla} = l^3 + \\nabla, \\]\n\nor\n\n\\[ (l^3 + \\nabla)^2 + 4(L - l)^2 \\nabla = 0, \\]\n\nwhich is the required relation: but to express it in terms of the ordinary data \\( R, r, a, \\)\n\nthe equations of the circles, putting therein \\( z = 1, \\) become\n\n\\[ (x - l)^2 + y^2 = \\nabla + l^2, \\]\n\\[ (x - L)^2 + y^2 = \\nabla + L^2, \\]\n\nand therefore\n\n\\[ a = L - l, \\]\n\\[ r^2 = \\nabla + l^2, \\]\n\\[ R^2 = \\nabla + L^2; \\]\n\nthese equations give\n\n\\[ \\frac{R^2 - r^2}{a} = L + l, \\]\n\\[ a = L - l; \\]\n\nand thence\n\n\\[ L = \\frac{R^2 - r^2 + a^2}{2a}, \\]\n\nand\n\n\\[ \\nabla = R^2 - \\left( \\frac{R^2 - r^2 - a^2}{2a} \\right)^2 = \\frac{1}{4a^2} \\cdot (2a^2R^2 + 2a^2r^2 + 2r^2R^2 - R^4 - r^4 - a^4) \\]\n\\[ = \\frac{r^4}{4a^2} \\nu, \\]\n\nif with M. Mention we write\n\n\\[ \\frac{1}{r^4} (r^4 + R^4 + a^4 - 2r^2R^2 - 2r^2a^2 - 2R^2a^2) = -\\nu. \\]\n\nThe equation\n\n\\[ (l^3 + \\nabla)^2 + 4(L - l)^2 \\nabla = 0 \\]\n\nthus becomes\n\n\\[ r^4 + 4a^2 \\cdot \\frac{r^4}{4a^2} \\nu = 0, \\]\n\nthat is, it becomes \\( \\nu + 1 = 0, \\) which is the other factor of the complete condition\n\n\\[ i(\\nu + 1) = 0. \\]",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108734.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 25962,
+    "total-output-tokens": 12888,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2457,
+        2
+      ],
+      [
+        2457,
+        4615,
+        3
+      ],
+      [
+        4615,
+        7831,
+        4
+      ],
+      [
+        7831,
+        10082,
+        5
+      ],
+      [
+        10082,
+        12508,
+        6
+      ],
+      [
+        12508,
+        14971,
+        7
+      ],
+      [
+        14971,
+        16630,
+        8
+      ],
+      [
+        16630,
+        19360,
+        9
+      ],
+      [
+        19360,
+        21431,
+        10
+      ],
+      [
+        21431,
+        23322,
+        11
+      ],
+      [
+        23322,
+        24914,
+        12
+      ],
+      [
+        24914,
+        26333,
+        13
+      ],
+      [
+        26333,
+        29067,
+        14
+      ],
+      [
+        29067,
+        31864,
+        15
+      ],
+      [
+        31864,
+        33066,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108734",
+    "title": "On the Porism of the In-And-Circumscribed Polygon",
+    "authors": "Arthur Cayley",
+    "year": 1861,
+    "volume": "151",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/108734"
+  }
+}

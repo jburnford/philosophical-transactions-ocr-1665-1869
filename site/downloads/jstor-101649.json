@@ -1,0 +1,69 @@
+{
+  "id": "809bf545943ce611209d4f06b5f1c66664d0ff82",
+  "text": "A Phytological Observation concerning Orenge and Limons, both separately and in one piece produced on one and the same Tree at Florence: Described by the Florentin Physitian Petrus Natus, and the description lately communicated to the Publisher.\n\nThis Tree was, about 30 years since, first met with in a Grove near Florence; having an Orange-stock, which, it seems, was so grafted upon, that thence it became, in its branches, leaves, flowers and fruit, three-formed, some emulating Orange, some Limons or Citrons, some partaking of both forms in one. And particularly as to the fruit, some of this Tree are meer Orenge, yet some of them of an oblong shape like Limons, some round like common Orenge, some between both: Others taste like genuin Orenge, others have an Orange shell, but a Limon-pulp. Most are of a very strong scent and a shell of a very bitter taste. But then the same Tree bears also a kind of Citron-Limon, yet not so many as of the former kind. And not only so, but it produces also a fruit, that is in one both Limon, Citron and Orange, so as you may see outwardly two sorts of fruit represented in one piece; one, Citron-Limon; the other, Orange. But this fruit is so diversified, that some of them are half Citron-limon, half Orange; others have two thirds of Citron-limon and one of Orange; others, the contrary: And of all these, some are oblong, some round, some bunchy; some smooth, some rugged; some small, some of the bigness of two pound weight. Their flesh is so distinguisht, that where the Orange-pulp ends, that of Limon begins, and on the contrary. Again, the Orange-pulp is narrower than that of Limon; but this is tenderer than that, not so agreeable to the taste as the genuin single fruit. And, which is none of the least remarkable things, they have either none, or very few, or empty seeds; concerning which the Author giveth this reason, that since this Tree is of the insidious kind, nor can be repaired or propagated by seed, therefore nature was not at all solicitous in the generation of the seed.\n\nIf you inquire about the first original of this Tree, our Author inquires, Whether it have grown by planting Orange and Citron-Limon seed together, and by uniting their young stems close to one another; or, whether by inoculating Orange upon a Citron-Limon stock? Which latter he affirms, saying, that by the marriage of these Trees, repeated for many years it was come to pass, that by\nthe closeness of the inoculation, whereby in length of time the mixed nature of both Trees was grown together, which the different juices, permeating the common fibers, had for a long time nourished; whence emerged at length a germen or graft perfectly retaining the nature and species of both; into whose different branches when sometimes one, sometimes both kinds of juices did pass, it produced on one of those branches, a meer Orenge, on another, a Citron Limon, on a third, a Citron-Limon-Orenge, and even sometimes upon one and the same branch all the three sorts of this fruit together. And thus, according to Virgil 2. Georgic.\n\nExsit ad calum ramis felicibus arbores,\nMiraturque novas frondes, & non sua poma.\n\nAn Accompt of some Books:\n\nI. Archimedis Opera; Apollonii Perg. Conic. Libri 4; Theodosii Sphaerica, methodo nova illustrata, & succincte demonstrata, ab Is. Barrow, e Soc. Regia, &c. Londini, 1675. in 4°.\n\nWhat moved the learned and worthy Author of this work to enrich the world with such an Edition of these three Ancient Mathematicians, the Reader will find in his general Preface to Archimedes. What he hath performed, in short is this: He hath delivered these three Books in a brief Symbolical method of Expression, pursuant to the Sense, Propositions, and Demonstrations of the Ancients; unless where he thought fit to enlarge, and otherwise to demonstrate some of the Propositions from more easie Principles of his own, pursuing herein his own former method, in which, some years ago, he publish'd an entire Euclid in 8°.\n\nBesides, this Edition contains a new Version of Archimedes his Lemmata, which were not formerly publish't with the rest of Archimedes's Works; though to be found in Forster's Miscellanies, and at the end of Joh. Alph. Borelli's Edition of the three latter Books of Apollonius's Conicks.\n\nThe Intelligent Reader will readily acknowledge, that our Author had cause to find fault, as he doth, with the Cimmerian darkness of Rivalus's Edition; who is also much complained of by Mydorgius in his Conicks, and by Alex. Anderson the Scot in his Mathematical Exercises.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101649.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1204,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2432,
+        2
+      ],
+      [
+        2432,
+        4544,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101649",
+    "title": "A Phytological Observation Concerning Orenges and Limons, Both Separately and in One Piece Produced on One and the Same Tree at Florence: Described by the Florentin Physitian Petrus Natus, and the Description Lately Communicated to the Publisher",
+    "authors": "Petrus Natus",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101649"
+  }
+}

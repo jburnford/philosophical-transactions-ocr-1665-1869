@@ -1,0 +1,59 @@
+{
+  "id": "8b4a8c19672425d90e9e57026ee1b445c673ba1f",
+  "text": "it serves both for draining the Water by a Fire-Engine, and also for raising the Coals.\n\nWhitehaven, Aug. 1,\n1733.\n\nIV. An Observation of the Eclipse of the Sun on May 2, 1733, in the Afternoon. By Mr. George Graham, F. R. S. in Fleet-street, London. Made with a Telescope of ten Feet in Length, fitted with a Micrometer.\n\nApp. Time.\nAt $5^h\\ 44'\\ 45''$ It began.\n$6\\ 25\\ 30$ The Cusps were vertical.\n$6\\ 37\\ 30$ The Eclipse was greatest, the lucid Part of the Sun’s Diameter measuring $426$ Parts, whereof the Sun’s Diameter measured $231$. So that the Eclipse was $9\\frac{1}{2}$ Digits.\n$6\\ 46\\ 00$ The Cusps were horizontal.\n$7\\ 28\\ 23$ The Eclipse ended.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103831.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 292,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        658,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103831",
+    "title": "An Observation of the Eclipse of the Sun on May 2, 1733, in the Afternoon. By Mr. George Graham, F. R. S. in Fleet-Street, London. Made with a Telescope of Ten Feet in Length, Fitted with a Micrometer",
+    "authors": "George Graham",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103831"
+  }
+}

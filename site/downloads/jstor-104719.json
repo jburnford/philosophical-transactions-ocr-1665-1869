@@ -1,0 +1,59 @@
+{
+  "id": "025660af93ded0d739e7097a4fdf9a3506dfa9b9",
+  "text": "To Mr. H. Baker F. R. S. of extraordinary Heat in Feb. and of the same Earthquake.\n\nDear Sir,\n\nRead March 8. 1749-50.\n\nTHE Temperature of the Air was found to be warmer by my Thermometer (abroad) several Days of the last Month at 2h p.m. than I had observed it to be some Days in June last, at the same Hour; but, on Thursday Feb. 22. at 2h p.m. it stood at near 63; and soon after rose to 63 full; which is higher, as appears from my Register, than it was at the same Time of Day, 18 Days in the Month of June. And I find, by an Account sent me from Mr. Canton, of Spital-Square, that his Thermometer was at the same Degree at 2a p.m. the same Day.\n\nThis perhaps may be thought not unworthy to be register'd in the meteorological Accounts in the Phil. Trans. but is submitted to the Judgment of the Royal Society, by\n\nYour and their most obedient,\n\nH. Miles.\n\nP.S. I was this Morning, at 5h 40' surprised with a violent Shock in my Study, which shook the Doors of my Book-Presles exceedingly: It was felt all over this Town and the next. I have not Time for further Particulars, nor am I able to say as yet, whether it was caused by the blowing up of a Powder-Mill, or by an Earthquake.\n\nK k k k 2",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104719.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 397,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1198,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104719",
+    "title": "To Mr. H. Baker F. R. S. of Extraordinary Heat in Feb. and of the Same Earthquake",
+    "authors": "H. Miles",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104719"
+  }
+}

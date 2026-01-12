@@ -1,0 +1,109 @@
+{
+  "id": "abd23c2f6cfe25806555961742ac1b4508a1ea53",
+  "text": "VII. Demonstration of a Theorem, by which such Portions of the Solidity of a Sphere are assigned as admit an algebraic Expression. By Robert Woodhouse, A. M. Fellow of Caius College, Cambridge. Communicated by Joseph Planta, Esq. Sec. R. S.\n\nRead February 12, 1801.\n\nIn 1692, a problem was proposed by Viviani, (Act. Erud. Lips.) to the geometricians of his time, in which it was required to separate from the surface of a sphere, such portions, that what remained should be quadrable.\n\nIn the second volume of the Memoirs of the National Institute, M. Bossut announces a theorem relative to the solidity of a sphere, very simple, he says, and as remarkable as Viviani's, but depending on an integration much more complicated: the theorem is this.\n\n\"If a sphere be pierced perpendicularly to the plane of one of its great circles, by two cylinders of which the axes pass through the middle points of two radii that compose a diameter of this great circle, the two portions, thus taken away from the whole solidity of the sphere, leave a remainder equal to two-ninths of the cube of the sphere's diameter.\"\n\nM. Bossut withholds the analysis that led to this result. I have obtained it in the subjoined process, in which the integration is not at all more complicated than what is used in the solution of the Florentine problem.\n\nMDCCCXI.\nLet \\( x, y, z \\) be three rectangular co-ordinates, that determine the position of any particle of a solid body relatively to any three fixed axes, then the element of the solidity may be represented by the parallelopiped \\( \\dot{z} \\dot{y} \\dot{x} \\); hence, \\( s \\) (solidity) = \\( \\iiint \\dot{z} \\dot{y} \\dot{x} \\), which triple integral must be taken first relatively to \\( z \\), supposing \\( y \\) and \\( x \\) constant; next, relatively to \\( y \\), supposing \\( x \\) constant, having previously substituted in the function of \\( z \\), for \\( z \\), its value in terms of \\( x \\) and \\( y \\); and, lastly, relatively to \\( x \\), having previously substituted in the function of \\( y \\), for \\( y \\), its value in terms of \\( x \\). The order of these integrations may be varied at pleasure.\n\nIn the present case, let the origin of the co-ordinates be the centre of the sphere; then \\( s = \\iiint \\dot{z} \\dot{y} \\dot{x} = \\iint (z' - z) \\dot{y} \\dot{x} \\); and, if the integral be taken from the plane of \\( x \\) and \\( y \\), where \\( z = 0 \\), to the surface of the sphere, where \\( z = z' \\), \\( s = \\iint z' \\dot{y} \\dot{x} \\); but the equation to the surface of the sphere is \\( z' - \\sqrt{r^2 - x^2 - y^2} = 0 \\); hence, \\( s = \\iint \\sqrt{r^2 - x^2 - y^2} \\dot{y} \\dot{x} \\).\n\nWithout the aid of some transformation, it would be extremely difficult to find the value of this double integral: the transformation is to be effected in the following manner.\n\nIn the expression \\( z' \\dot{x} \\dot{y} \\), suppose first \\( x = \\text{funct.}(y, \\varepsilon) = R \\); then, regarding \\( y \\) as constant, \\( \\dot{x} = \\left( \\frac{\\dot{R}}{\\varepsilon} \\right) \\dot{\\varepsilon} \\therefore z' \\dot{x} \\dot{y} = z' \\left( \\frac{\\dot{R}}{\\varepsilon} \\right) \\dot{\\varepsilon} \\dot{y} \\); and, when its integral is to be taken relatively to \\( \\varepsilon \\), the value of \\( x = R \\) must be substituted for \\( x \\) in \\( z' \\) or \\( \\sqrt{r^2 - x^2 - y^2} \\).\n\nAgain, let \\( y = \\text{funct.}(\\varepsilon, \\theta) = Q \\therefore \\) considering \\( \\varepsilon \\) constant, \\( y = \\left( \\frac{\\dot{Q}}{\\dot{\\varepsilon}} \\right) \\dot{\\varepsilon} \\); hence, \\( z' \\left( \\frac{\\dot{R}}{\\varepsilon} \\right) \\dot{\\varepsilon} \\dot{y} = z' \\left( \\frac{\\dot{R}}{\\varepsilon} \\right) \\dot{\\varepsilon} \\left( \\frac{\\dot{Q}}{\\dot{\\varepsilon}} \\right) \\dot{\\varepsilon} \\dot{\\theta} \\); and, to integrate, substitute for \\( y \\) its value \\( (Q) \\) in \\( z' \\left( \\frac{\\dot{R}}{\\varepsilon} \\right) \\). The expression \\( z' \\dot{x} \\dot{y} \\) is thus transformed into another, relative to two variable\nquantities, \\( \\rho \\) and \\( \\theta \\); and, since we have \\( x = R = \\text{funct.} (y, \\rho) \\), \\( y = Q = \\text{funct.} (\\rho, \\theta) \\), \\( x \\) and \\( y \\) may be deduced functions of \\( \\rho \\) and \\( \\theta \\). Hence,\n\n\\[\n\\dot{x} = \\left( \\frac{\\dot{x}}{\\rho} \\right) \\dot{\\rho} + \\left( \\frac{\\dot{x}}{\\theta} \\right) \\dot{\\theta}\n\\]\n\nand\n\n\\[\n\\dot{y} = \\left( \\frac{\\dot{y}}{\\rho} \\right) \\dot{\\rho} + \\left( \\frac{\\dot{y}}{\\theta} \\right) \\dot{\\theta}\n\\]\n\nbeing partial fluxions of \\( x \\) and \\( y \\),\n\nto determine \\( \\left( \\frac{\\dot{Q}}{\\dot{\\theta}} \\right) \\) and \\( \\left( \\frac{\\dot{R}}{\\dot{\\rho}} \\right) \\), \\( \\left( \\frac{\\dot{Q}}{\\dot{\\theta}} \\right) = \\dot{y} \\), and \\( \\left( \\frac{\\dot{R}}{\\dot{\\rho}} \\right) \\) was made equal to \\( \\left( \\frac{\\dot{x}}{\\dot{\\rho}} \\right) \\) on the supposition that \\( y \\) was constant, or that \\( \\dot{y} = 0 \\);\n\nhence, \\( \\left( \\frac{\\dot{R}}{\\dot{\\rho}} \\right) \\) must be determined from the equations\n\n\\[\n\\dot{x} = \\left( \\frac{\\dot{x}}{\\rho} \\right) \\dot{\\rho} + \\left( \\frac{\\dot{x}}{\\theta} \\right) \\dot{\\theta}\n\\]\n\nand\n\n\\[\n0 = \\left( \\frac{\\dot{y}}{\\rho} \\right) \\dot{\\rho} + \\left( \\frac{\\dot{y}}{\\theta} \\right) \\dot{\\theta},\n\\]\n\neliminating \\( \\dot{\\theta} \\),\n\n\\[\n\\left( \\frac{\\dot{R}}{\\dot{\\rho}} \\right) = \\frac{\\dot{x}}{\\rho} = \\frac{\\left( \\frac{\\dot{x}}{\\rho} \\right) \\left( \\frac{\\dot{y}}{\\theta} \\right) - \\left( \\frac{\\dot{x}}{\\theta} \\right) \\left( \\frac{\\dot{y}}{\\rho} \\right)}{\\left( \\frac{\\dot{y}}{\\theta} \\right)}\n\\]\n\n\\( \\therefore \\left( \\frac{\\dot{R}}{\\dot{\\rho}} \\right) \\left( \\frac{\\dot{Q}}{\\dot{\\theta}} \\right) = \\left( \\frac{\\dot{x}}{\\rho} \\right) \\left( \\frac{\\dot{y}}{\\theta} \\right) - \\left( \\frac{\\dot{x}}{\\theta} \\right) \\left( \\frac{\\dot{y}}{\\rho} \\right) \\).\n\nHence, \\( x' \\dot{x} \\dot{y} \\) is transformed into\n\n\\[\n\\left( \\frac{\\dot{x}}{\\rho} \\right) \\left( \\frac{\\dot{y}}{\\theta} \\right) - \\left( \\frac{\\dot{x}}{\\theta} \\right) \\left( \\frac{\\dot{y}}{\\rho} \\right) \\dot{\\rho} \\dot{\\theta}.\n\\]\n\nThe preceding transformation is general, whatever functions of \\( \\rho \\) and \\( \\theta \\), \\( x \\) and \\( y \\) are. To obtain a particular solution in the present case, let the co-ordinates \\( x \\) and \\( y \\) be transformed into a radius vector \\( \\rho \\), and an angle \\( \\theta \\), which \\( \\rho \\) makes with \\( x \\);\n\n\\[\n\\therefore x = \\rho \\cos. \\theta\n\\]\n\n\\[\ny = \\rho \\sin. \\theta \\quad \\text{and} \\quad \\sqrt{x^2 + y^2} = \\rho\n\\]\n\n\\[\n\\therefore \\left( \\frac{\\dot{x}}{\\rho} \\right) = \\cos. \\theta, \\quad \\left( \\frac{\\dot{x}}{\\theta} \\right) = -\\rho \\sin. \\theta\n\\]\n\n\\[\n\\left( \\frac{\\dot{y}}{\\rho} \\right) = \\sin. \\theta, \\quad \\left( \\frac{\\dot{y}}{\\theta} \\right) = \\rho \\cos. \\theta\n\\]\n\n\\[\n\\therefore \\left( \\frac{\\dot{x}}{\\rho} \\right) \\left( \\frac{\\dot{y}}{\\theta} \\right) - \\left( \\frac{\\dot{x}}{\\theta} \\right) \\left( \\frac{\\dot{y}}{\\rho} \\right) = \\rho (\\cos. \\theta^2 + \\sin. \\theta^2) = \\rho;\n\\]\nand, since \\( z' = \\sqrt{r^2 - x^2 - y^2} = \\sqrt{r^2 - \\varepsilon^2} \\), \\( z' \\dot{x} \\dot{y} \\) is transformed into \\( \\varepsilon \\dot{\\theta} \\sqrt{r^2 - \\varepsilon^2} \\); hence \\( s = \\int \\varepsilon \\dot{\\theta} \\sqrt{r^2 - \\varepsilon^2} = \\int \\left( \\frac{(r^2 - \\varepsilon^2)^{3/2}}{3} - (r^2 - \\varepsilon^2)^{3/2} \\right) \\dot{\\theta} \\).\n\nLet the integral commence from the circumference of the circle in the plane of which \\( x \\) and \\( y \\) are situated; then \\( \\varepsilon = \\varepsilon' = r \\), and \\( s = \\int \\frac{(r^2 - \\varepsilon^2)^{3/2}}{3} \\dot{\\theta} \\), in which expression \\( \\frac{(r^2 - \\varepsilon^2)^{3/2}}{3} \\dot{\\theta} \\) is the element of the solidity insisting on that part of the plane of \\( x \\) which is included between the circumference of the circle whose radius is \\( r \\), and the curve whose nature is determined by the relation existing between \\( x \\) and \\( y \\), or \\( \\varepsilon \\) and \\( \\theta \\).\n\nIn the present problem, this latter curve is given to be a semi-circle described on \\( r \\) as a diameter; hence, as \\( \\varepsilon \\) is a line drawn from an extremity of this diameter to the circumference, making an angle \\( \\theta \\) with the diameter, we have, by similar figures,\n\n\\[\n\\tan \\theta(t) = \\frac{\\sqrt{r^2 - \\varepsilon^2}}{\\varepsilon}, \\quad \\text{but} \\quad \\dot{\\theta} = \\frac{i}{1 + i^2} = \\frac{-i}{\\sqrt{r^2 - \\varepsilon^2}}.\n\\]\n\n*Hence, \\( s = \\int \\frac{(r^2 - \\varepsilon^2)^{3/2}}{3} \\dot{\\theta} = \\int \\frac{(r^2 - \\varepsilon^2)}{3} \\dot{\\varepsilon} = \\frac{r^2 \\varepsilon}{3} - \\frac{\\varepsilon^3}{9} + C \\)\n\n\\[\n\\therefore s = \\frac{2r^3}{9} - \\frac{3r^2 \\varepsilon + \\varepsilon^3}{9}, \\quad \\text{when} \\quad \\varepsilon = 0 = \\frac{2r^3}{9}, \\quad \\text{the value of the portion}\n\\]\n\nof the solid insisting on a base in the plane of \\( x \\) and \\( y \\), and the bounding lines of which are a quadrantal arc, (rad. \\( r \\)) a semi-circle, (diam. \\( r \\)) and a radius (\\( r \\)) perpendicular to the diameter\n\n* If \\( s \\) is expressed in terms of \\( t \\) and \\( i \\), the integration is less simple; for\n\n\\[\n\\dot{s} = \\frac{r^2 i^3 \\dot{i}}{3(1 + i^2)^{5/2}} = \\frac{r^2}{3} \\times i^3 \\dot{i} (1 + i^2)^{-5/2} = -\\frac{r^3}{9} \\text{ fluxion } (t^2 (1 + i^2)^{-3/2})\n\\]\n\n\\[\n+ \\frac{2r^3}{9} t \\dot{i} (1 + i^2)^{-3/2} \\quad \\therefore s = -\\frac{r^3}{9} \\frac{t^2}{(1 + i^2)^{3/2}} - \\frac{2r^3}{9} \\times \\frac{1}{(1 + i^2)^{3/2}} + \\text{ correction} = \\frac{2r^3}{9},\n\\]\n\nwhen the integral is taken from \\( t = 0 \\) to \\( t = \\infty \\).\nof the semicircle: hence, for the whole sphere, $8 s = \\frac{8}{9} \\times 2 r^3$  \n$= \\frac{2}{9} \\times (2r)^3 = \\frac{2}{9} (\\text{diameter})^3$, which is the result the theorem \nannounces.\n\n1. The transformation* of $z' \\dot{x} \\dot{y}$ into $z' \\left( \\frac{\\dot{R}}{\\dot{\\varepsilon}} \\right) \\left( \\frac{\\dot{Q}}{\\dot{\\theta}} \\right) \\dot{\\varepsilon} \\dot{\\theta}$, in the \npresent case, may be avoided by originally taking the element \nof the solidity differently; thus, if $\\alpha$ be the incremental arc de-\nscribed with radius $\\varepsilon$, the element of the solidity $= z' \\dot{\\alpha} \\dot{\\varepsilon} =$  \n(since $\\dot{\\alpha} : \\dot{\\theta} :: \\varepsilon : 1$) $z' \\varepsilon \\dot{\\varepsilon} \\dot{\\theta} = \\sqrt{r^2 - \\varepsilon^2} \\varepsilon \\dot{\\varepsilon} \\dot{\\theta}$; whence \n$s = \\int \\int \\sqrt{r^2 - \\varepsilon^2} \\varepsilon \\dot{\\varepsilon} \\dot{\\theta}$, as before.\n\n2. The intersection of the surfaces of the cylinder and sphere \nis a curve of double curvature, of which the two equations are \n$y = (rx - x^2)^{\\frac{1}{2}}$ and $z = (r^2 - rx)^{\\frac{1}{2}}$; and hence it appears, that \nthe same curve may likewise be formed by the intersection of \nthe surfaces of two cylinders, one perpendicular to the plane \nof $x$ and $y$ on a circular base, the other perpendicular to the \nplane of $x$ and $z$ on a parabolic base.\n\n3. The area of the curve of double curvature $= \\int z' (\\dot{x}^2 + \\dot{y}^2)^{\\frac{1}{2}}$  \n$= \\int (r^2 - x^2 - y^2)^{\\frac{1}{2}} (\\dot{x}^2 + \\dot{y}^2)^{\\frac{1}{2}} = \\int \\frac{r^2 \\dot{x}}{\\sqrt{x}} = r^2 x^{\\frac{1}{2}}$, when $x = r$, \n$= r^2$; this area is the surface of half the cylinder included in \nthe hemisphere, and therefore the surface of the two cylinders \nincluded in the sphere $= 8 r^2$.\n\n* The method of finding triple and double integrals, is not confined to the solution \nof merely geometrical problems like the present. The attraction of an elliptical spheroid \ndepends on the formula $\\int \\int M \\dot{x} \\dot{y}$; and, by integrating it, M. Lagrange (Mem. de \nBerlin,) and M. Legendre (Mem. de l'Acad. 1788), gave the analytical solution \nof the problem of the attraction of a spheroid, which Maclaurin had solved, in his \nTreatise of the Tides, on purely geometrical principles.\n4. The length of the curve cannot be algebraically expressed; but it may be exhibited by means of the rectification of an elliptic arc; for\n\n\\[ \\int \\sqrt{\\dot{x}^2 + \\dot{y}^2 + \\dot{z}^2} = \\int \\dot{x} \\sqrt{1 + \\frac{(r-x)^2}{4(r-x)^2}} + \\frac{r^2}{4(r-x)^2} \\]\n\n\\[ = \\frac{\\sqrt{r}}{2} \\int \\dot{x} \\sqrt{\\frac{r+x}{x(r-x)}}. \\]\n\nIf \\( c \\) and \\( t \\) are semiaxes of an ellipse, \\( v \\) abscissa measured from vertex, \\( \\text{arc} (\\dot{A}) = \\dot{v} \\sqrt{\\left( \\frac{c^2}{2tv-v^2} + \\frac{t^2-c^2}{t^2} \\right)} \\), let \\( v = t - mt\\sqrt{x} \\),\n\nthen \\( \\dot{A} = \\frac{m\\dot{x}}{2\\sqrt{x}} \\sqrt{\\left( \\frac{t^2 + m^2(c^2-t^2)x}{t^2-m^2t^2x} \\right)} \\)\n\n\\[ = C - \\frac{2A}{mt} \\text{(semiaxes } t, \\text{ and } c, \\text{ abs. } t - mt\\sqrt{x}). \\]\n\nCompare this form with \\( \\frac{\\dot{x}}{\\sqrt{x}} \\sqrt{\\frac{r+x}{r-x}} \\) and \\( t^2 = r, m^2 = \\frac{1}{r}, c^2 = 2r \\)\n\n\\[ = -\\sqrt{r} \\times A \\text{ (semiaxes } \\sqrt{2}r, \\sqrt{r}, \\text{ abs. } \\sqrt{r} - \\sqrt{x}) + \\text{ corr. (C)} \\]\n\nwhen \\( x = 0 \\), length of curve \\( = 0 \\)\n\n\\[ C = \\sqrt{r} \\times \\text{quad. ellipse}(Q). \\]\n\nHence, length \\( = \\sqrt{r}(Q-A) \\) when \\( x = r = \\sqrt{r} \\times Q \\)\n\n\\[ = Q' \\text{ (Q' being quadrant ellipse of which the semiaxes are } r, r\\sqrt{2}); \\text{ hence, if an ellipse be described, of which the semiaxes are the radius } (r) \\text{ of a great circle of the sphere, and the side of a square inscribed in that great circle, then the length of the curve line which is the intersection of the cylinder with the surface of the hemisphere, is equal half the periphery of the ellipse.} \\]\n\n- The length of the curve may be as commodiously expressed in terms of \\( \\varepsilon \\); for, since \\( x = \\varepsilon \\cos \\theta, y = \\varepsilon \\sin \\theta, z' = \\sqrt{r^2-\\varepsilon^2} \\sqrt{\\dot{x}^2 + \\dot{y}^2 + \\dot{z}^2} = \\sqrt{r^2\\varepsilon^2 + (r^2-\\varepsilon^2)\\varepsilon^2\\dot{\\theta}^2}; \\)\n\nbut \\( \\dot{\\theta}^2 = \\frac{\\dot{\\varepsilon}^2}{r^2-\\varepsilon^2} \\), therefore \\( \\sqrt{\\dot{x}^2 + \\dot{y}^2 + \\dot{z}^2} = \\dot{\\varepsilon} \\sqrt{\\frac{r^2+\\varepsilon^2}{r^2-\\varepsilon^2}}; \\) whence the integral, by means of the rectification of an ellipse, as before.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107090.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11068,
+    "total-output-tokens": 5179,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1337,
+        2
+      ],
+      [
+        1337,
+        3934,
+        3
+      ],
+      [
+        3934,
+        6855,
+        4
+      ],
+      [
+        6855,
+        9398,
+        5
+      ],
+      [
+        9398,
+        11680,
+        6
+      ],
+      [
+        11680,
+        13884,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107090",
+    "title": "Demonstration of a Theorem, by Which Such Portions of the Solidity of a Sphere Are Assigned as Admit an Algebraic Expression",
+    "authors": "Robert Woodhouse",
+    "year": 1801,
+    "volume": "91",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/107090"
+  }
+}

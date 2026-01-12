@@ -1,0 +1,59 @@
+{
+  "id": "80c9ebf8c71a4650855f30bf173a6176577be9c1",
+  "text": "II. Johannis Trithemii STEGANOGRAPHIA, vindicata, reserata, & illustrata, &c. Auth. Wolfgango Ernesto Heidel, Wormatiensis. Moguntiae, 1676. in 4°.\n\nThis Steganography, (which word imports the Art of signifying ones mind to another by an occult or secret way of writing) having been censured as supposititious by some, and pernicious, magical and necromantical by others; this learned Author undertaketh to vindicate it from those aspersions, and withal to give us the true Key and meaning thereof.\n\nAfter which vindication and disclosure he explains all the reputed Conjurations of Spirits, made up of the Arabic, Hebrew, Chaldaic and Greek, or, according to others, out of Barbarian and insignificant words: Subjoyning to all this, some new Steganographique Artifices, which had been promised by Trithemius to Arnoldus Boëtius, and had been counted paradoxical and inexplicable.\n\nErrata in Numb. 133.\nPag. 818. lin.6. l. Seed for Spade.\n\nImprimatur,\n\nMay 3d.\n1677.\n\nBrouncker, P.R.S.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101768.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 342,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        985,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101768",
+    "title": "Errata",
+    "authors": null,
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101768"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "eb10475fdd7e6d5d8b4db5a56fa6c1c7b482654b",
+  "text": "tract recommended by Dr. Stork in his ingenious treatise hath not, upon trial in England, been attended with the same success it had at Vienna, I should prefer the herb itself to any preparation of it.\n\nXLIX. An Account of a remarkable Meteor: In a Letter to the Reverend Thomas Birch, D.D. Secret. of R.S. from Mr. Samuel Dunn.\n\nReverend Sir,\n\nChelsea, Dec. 9th, 1763.\n\nRead Dec. 15, 1763.\n\nIn the Months of September and October last, on many different days, but always in the afternoon, when the Sun was nearly of the same height above the horizon, I was amused with the appearance of a kind of meteor, which I do not know that it hath been before taken notice of by others. As it appeared under nearly the same circumstances at other times, and therefore may contribute towards the better understanding the theory of a parhelion, I shall give the description of this meteor, as it appeared the 6th of October last, at five o'clock afternoon. A kind of mock Sun appeared of equal altitude with the real Sun about $22\\frac{1}{2}^\\circ$ southerly therefrom. A little\nlittle above the mock Sun the Sky was clear, but\nthe phænomenon was in the midst of clouds that\nwere not very dense. The diameter of this\nphænomenon was nearly like that of the real\nSun, and a remarkable red stream of light pointed\ntherefrom as at all other times towards the real Sun,\nwhich shined clearly at the same time. As there\nwas no descending rain, nor any other colour of\nthe rain-bow, I take this to have been a meteor\nnot yet registered amongst meteorological observa-\ntions.\n\nI am,\n\nReverend Sir,\n\nYour most obedient servant,\n\nSamuel Dunn.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105738.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 491,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1068,
+        2
+      ],
+      [
+        1068,
+        1620,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105738",
+    "title": "An Account of a Remarkable Meteor: In a Letter to the Reverend Thomas Birch, D. D. Secret. of R. S. from Mr. Samuel Dunn",
+    "authors": "Samuel Dunn",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105738"
+  }
+}

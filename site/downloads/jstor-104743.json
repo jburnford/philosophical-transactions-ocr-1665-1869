@@ -1,0 +1,59 @@
+{
+  "id": "0ebaf3ea0974f5c8f66ddc864ac97f6ce5b0b1fe",
+  "text": "Bed were actually lifted up from the Floor, during the Motion; as he was very sensible, by the Noise they made when they came to the Floor again, 4 times in all, twice to his right Hand, and as often to his left Hand.\n\nXXXVI.\n\nExtract of a Letter from Chester, concerning an Earthquake felt there April 2. 1750. communicated by Robert Paul Esq; F. R. S.\n\nRead May 3. 1750.\n\nI CAN'T help informing you (as it is a Matter of Concern to every one) that, on Monday Night last, about 10 o'Clock, we felt in this City a Shock of an Earthquake. It was sensibly felt by all or most of the Inhabitants. A few Bricks were shook off a Chimney in Forest-street; several House-bells were rung; the Centinel at the Castle was shook off his Seat in the Centry-box; the Houses all over the Town were shaken, and the People terribly frighten'd and alarm'd. It has been felt for some Miles round the Town, particularly at Barn-Hill, where the Houses were greatly shaken. We are in great Fears of another more violent.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104743.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 319,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        999,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104743",
+    "title": "Extract of a Letter from Chester, concerning an Earthquake Felt There April 2. 1750. Communicated by Robert Paul Esq; F. R. S.",
+    "authors": "Robert Paul",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104743"
+  }
+}

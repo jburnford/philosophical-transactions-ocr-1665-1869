@@ -1,0 +1,219 @@
+{
+  "id": "4043033190d7fb960b836336dc0fe7756f415a45",
+  "text": "IV. Methodus quadrandi genera quaedam Curvarum,\naut ad Curvas Simpliciores reducendi. per A. De\nMoivre R. S. S.\n\nSIT A Area Curvæ cujus Abscissa x, & ordinatim Applica-\nsta \\(x^m \\sqrt{dx-xx}\\). Sit B Area Curvæ cujus Abscissa eadem\ncum priori, sed ordinatim Applicata \\(x^{m-n} \\sqrt{dx-xx}\\); ponatur\n\\(\\sqrt{dx-xx} = y\\). Erit Area \\(A =\\)\n\n\\[\nd^n B \\text{ in } \\frac{2m+1}{2m+4} \\text{ in } \\frac{2m-1}{2m+2} \\text{ in } \\frac{2m-3}{2m-2} \\text{ in } \\frac{2m-5}{2m-2} \\text{ &c., } = P\n\\]\n\n\\[- \\frac{1}{m+2} x^{m-1} y^3 = -Q\\]\n\n\\[- \\frac{d}{m+1} \\text{ in } \\frac{2m+1}{2m+4} x^{m-2} y^3 = -R\\]\n\n\\[- \\frac{dd}{m} \\text{ in } \\frac{2m+1}{2m+4} \\text{ in } \\frac{2m-1}{2m+2} x^{m-3} y^3 = -S\\]\n\n\\[- \\frac{d^3}{m-1} \\text{ in } \\frac{2m+1}{2m+4} \\text{ in } \\frac{2m-1}{2m+2} \\text{ in } \\frac{2m-3}{2m-2} x^{m-4} y^3 = -T\\]\n\n&c.\n\nUbi notandum 1° quod \\(n\\) Supponitur numerus integer &\naffirmativus; 2° Quod Quantitas \\(d^n B\\) in serie per \\(P\\) desig-\nnata, multiplicari debet in tot terminos quot sunt unitates\nin \\(n\\); 3° quod tot sequentes series per \\(-Q, -R, -S, -T\\)\n&c. designatae sumi debeant, quot sunt unitates in \\(n\\); quod ut\n\nL111111 Exem-\nExemplo uno vel altero clarius fiat, dico quod si \\( n = 1 \\), tunc \\( A = d^n B \\) in \\( \\frac{2m + 1}{2m + 4} - \\frac{1}{m + 2} x^{m-1} y^3 \\) & si \\( n = 2 \\),\n\n\\[ A = d^n B \\text{ in } \\frac{2m + 1}{2m + 4} \\text{ in } \\frac{2m - 2}{2m + 2} - \\frac{1}{m + 2} x^{m-1} y^3 \\]\n\n\\[ - \\frac{d}{m + 1} \\text{ in } \\frac{2m + 1}{2m + 4} \\text{ in } x^{m-2} y^3 \\]\n\n4° quod si \\( y \\) ponatur \\( = \\sqrt{dx-xx} \\), tunc \\( A \\) erit \\( = Q - R \\to S - T \\&c. \\pm P \\).\n\nCorollarium.\n\nSi \\( m \\) ponatur æqualis termino cuivis sequentis Seriei\n\n\\[ - \\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2}, \\frac{5}{2}, \\frac{7}{2}, \\frac{9}{2} \\&c. \\]\n\nquadratura Curvae cujus ordinatim Applicata \\( x^m \\sqrt{dx-xx} \\), aut \\( x^m \\sqrt{dx+xx} \\) finita evadit & exhibetur per sriem nostram; quod ut Exemplo illustreret, Inquirenda sit Area Curvae cujus ordinatim Applicata \\( x - \\frac{1}{2} \\sqrt{dx-xx} \\); fingatur Curvam hanc comparari cum Curva cujus ordinatim Applicata \\( x - \\frac{1}{2} \\sqrt{dx-xx} \\), quoniam hoc in casu \\( n = 1 \\), idco\n\n\\[ A = d^n B \\text{ in } \\frac{2m + 1}{2m + 4} - \\frac{1}{m + 2} x^{m-1} y^3 \\]\n\nfed \\( m = - \\frac{1}{2} \\), ergo \\( 2m + 1 = 0 \\), ideoq;\n\n\\[ A = - \\frac{1}{m + 2} x^{m-1} y^3 = - \\frac{2y^3}{3 \\sqrt{x^3}} \\]\nHic Observatu dignum est quod Area sic reperta interdum data quantitate deficit a vera Area, aut eandem data quantitate excedit; quo autem excessus iste aut defectus innotescat, supponatur Area reperta augeri minuive data quantitate \\( q \\), tunc que positum \\( x = 0 \\), supponatur Area aucta minutave æqualis nihil, sic in praesenti casu \\( q \\) reperietur \\( = \\frac{2}{3} d \\sqrt{d} \\), adeoq;\n\n\\[\nA = \\frac{2}{3} d \\sqrt{d} \\quad \\frac{2 y^3}{3 \\sqrt{x^3}}\n\\]\n\nCorollarium 2\\textsuperscript{dum}.\n\nSi \\( n \\) ponatur æqualis termino cuivis sequentis seriei 3, 4, 5, 6, 7, &c. Quadratura Curvae cujus ordinatim applicata \\( x^n \\sqrt{dx \\cdot xx} \\) aut \\( x^n \\sqrt{dx + xx} \\), finita evadit, & exhibetur per seriem nostram; Inquirenda sit Area Curvae cujus ordinatim applicata \\( x^{-3} \\sqrt{dx \\cdot xx} \\) finge eam comparari cum Area Circuli, quæ vocetur \\( A \\); erit \\( m = 0, n = 3 \\), adeoq; \\( A = P - Q - R - S \\). Sed cum quantitas \\( 2m \\) infinite parva seu potius nulla, in Denominatore termini tertii per quem \\( d^n B \\) multiplicatur, extet, Quantitas designata per \\( P \\) infinita est; atque ob eandem causam, Quantitas designata per \\( -S \\) infinita evadit, adeoque Quantitates \\( A, -Q, -R \\) evanescunt: Igitur \\( P = S \\),\n\ndivisaque æquatione per\n\n\\[\n\\frac{2m + 1}{2m + 4} \\quad \\text{in} \\quad \\frac{2m - 1}{2m + 2}\n\\]\n\nfit\n\n\\( d^n B \\) in \\( \\frac{2m - 3}{2m} = \\frac{dd}{m} x^{m-3} y^3 \\) seu \\( d^n B \\) in \\( \\frac{2m - 3}{2} \\)\n\n\\( = dd \\times m^{-3} y^3 \\): scriptisque o & 3 pro \\( m \\) & \\( n \\) prodibit\n\\[ d^3 B \\text{ in } - \\frac{3}{2} = \\frac{y^3}{x^3}, \\text{ seu } B = -\\frac{2y^3}{3x^3}, \\]\n\n**Corollarium 3um.**\n\nSi \\( m \\) ponatur æqualis termino cuivis sequentis seriei, — 2, — 1, 0, 1 2, 3, 4, 5, &c. quadratura Curvae cujus ordinata \\( x^m \\sqrt{dx-xx} \\), pendet a quadratura Circuli: Area vero Curvae cujus ordinata \\( x^m \\sqrt{dx+xx} \\) pendet a quadratura Hyperbolæ, & relatio istius Curvae cum Circulo aut Hyperbola exhibetur per Seriem nostram in terminis finitis.\n\n**Corollarium 4um.**\n\nSi \\( m \\) exponatur per alium quemvis terminum differentem ab iis quas supra memoravimus, Curva cujus ordinata \\( x^m \\sqrt{dx-xx} \\) aut \\( x^m \\sqrt{dx+xx} \\), necque quadratur exacte, nec ab Hyperbola aut Circulo pendet, sed ad Curvam simpliciorem reducitur per seriem nostram.\n\n**Theorema 2um.**\n\nSit \\( A \\) Area Curvae cujus Abscissa \\( x \\) & ordinatim applicata \\( x^m \\sqrt{dx-xx} \\)\n\nSit \\( B \\) area Curvae cujus Abscissa eadem cum priori sed ordinatim applicata \\( x^{m-n} \\sqrt{dx-xx} \\) ponatur \\( \\sqrt{dx-xx} = y \\). Erit \\( A = \\)\n\n\\[ d^n B \\]\nObservationes ad primum Theorema, hic & in sequentibus locum habent.\n\nCorollarium I\\textsuperscript{um}.\n\nSi \\( m \\) ponatur æqualis Termino cuivis sequentis seriei,\n\n\\[\n\\frac{1}{2}, \\frac{3}{2}, \\frac{5}{2}, \\frac{7}{2}, \\frac{9}{2}, \\&c.\n\\]\n\nquadratura Curvæ cujus ordinatim applicata\n\n\\[\n\\frac{x^m}{v d x \\cdot xx} \\quad \\text{aut} \\quad \\frac{x^m}{v d x + xx}\n\\]\n\nfinita evadit, & exhibetur per hanc feriem.\nCorollarium 2\\textsuperscript{um}.\n\nSi \\( n \\) ponatur æqualis Termino cuivis sequentis seriei 1, 2, 3, 4, 5, 6, 7, &c. Curva omnis cujus ordinatim applicata\n\n\\[\n\\frac{x^n}{\\sqrt{dx-xx}} \\quad \\text{aut} \\quad \\frac{x^n}{\\sqrt{dx+xx}}\n\\]\n\nquadratur per hanc seriem in terminis finitis.\n\nCorollarium 3\\textsuperscript{um}.\n\nSi \\( m \\) exponatur per terminum quemlibet sequentis seriei, 0, 1, 2, 3, 4, 5, 6, 7, &c. Curva cujus ordinatim applicata\n\n\\[\n\\frac{x^m}{\\sqrt{dx-xx}}\n\\]\n\npendet a Quadratura Circuli. Curva vero cujus ordinatim applicata\n\n\\[\n\\frac{x^m}{\\sqrt{dx+xx}}\n\\]\n\na quadratura Hyperbolæ. Etenim si Centro \\( C \\), Diametro \\( AB = d \\) describatur Circulus \\( AEB \\), ac sumatur \\( AD = x \\); erecto \\( DE \\) normaliter, junge \\( CE \\). Sector \\( ACE \\) per \\( dd \\) divisus æqualis est Areae Curvae cujus Ordinata\n\n\\[\n\\frac{x^0}{\\sqrt{dx-xx}}\n\\]\n\nEodem modo, si Centro \\( C \\), Transverso axi \\( AB = d \\),\n\ndescribatur æquilatera Hyperbola \\( AE \\), sumatur \\( AD = x \\), erigatur \\( DE \\) ad angulos rectos, jungatur \\( CE \\); sector \\( ACE \\) per \\( dd \\) divisus æqualis est Areae Curvae cujus ordinata\n\n\\[\n\\frac{x^0}{\\sqrt{dx+xx}}\n\\]\nCorollorium 4um.\n\nSi \\( m \\) ponatur æqualis Termino cuivis, qui non in limitationes præcedentes cadat, Curva cujus ordinata \\( x^m \\sqrt{d x - xx} \\)\n\nneque quadratur exacte,, nec a Circulo aut Hyperbola pendet, fed ad Curvam simpliciorem reducitur.\n\nTheorema 3um.\n\nSit \\( A \\) AreaCurvæ cujus Abscissa \\( x \\), ordinatim applicata \\( x^m \\sqrt{rr-xx} \\),\n\nsit \\( B \\) area Curvæ cujus Abscissa itidem \\( x \\), ordinatim applicata \\( x^{m-2} \\sqrt{rr-xx} \\), ponatur \\( \\sqrt{rr-xx} = y \\). Erit. \\( A = \\)\n\n\\[\n\\frac{1}{m+2} x^{m-1} y^3 = -Q\n\\]\n\n\\[\n\\frac{rr}{m} \\cdot \\frac{m-1}{m+2} x^{m-3} y^3 = -R\n\\]\n\n\\[\n\\frac{r^4}{m-2} \\cdot \\frac{m-2}{m+2} \\cdot \\frac{m-3}{m} x^{m-5} y^3 = -S.\n\\]\n\n\\&c.\n\nCorollarium 1um.\n\nSi \\( m \\) exponatur per terminum quemvis sequentis seriei 1, 3, 5, 7 9, \\&c. Quadratura Curvæ cujus ordinata \\( x^m \\sqrt{rr-xx} \\) aut \\( x^m \\sqrt{rr+xx} \\) finita evadit, \\& exhibetur per hoc Theorema.\n\nCorol-\nCorollarium 2um.\n\nSi \\( n \\) exponatur per terminum quemvis sequentis seriei 2, 3, 4, 5, 6, &c. Curva cujus ordinata \\( x^{n-2} \\sqrt{rr-xx} \\) aut \\( x^{n-2} \\sqrt{rr+xx} \\), quadratur exacte per hoc Theorema.\n\nCorollarium 3um.\n\nSi \\( m \\) exponatur per Terminum quemvis sequentis seriei — 2, 0, 2, 4, 6, 8, &c. Quadratura Curvae cujus ordinata \\( x^m \\sqrt{rr-xx} \\), pendet a Circulo. Quadratura vero Curvae cujus ordinata \\( x^m \\sqrt{rr+xx} \\), pendet ab Hyperbola.\n\nCorollarium 4um.\n\nSi \\( m \\) exponatur per Terminum quemvis differentem ab illis quos supra memoravimus, Curva cujus ordinata \\( x^m \\sqrt{rr-xx} \\), aut \\( x^m \\sqrt{rr+xx} \\), neque exacte quadratur, nec a Circulo aut Hyperbola pendet, sed ad simpliciorem Curvam reducitur.\n\nTheorema 4um.\n\nSit \\( A \\) Arca Curvae cujus abscissa \\( x \\), ordinatim applicata \\( x^m \\sqrt{rr-xx} \\). Sit \\( B \\) Area Curvae cujus Abscissa illam \\( x \\), Ordinatim applicata \\( x^m \\sqrt{rr-xx} \\). Est \\( A = r^m B \\).\n\\[ r^{m} B \\text{ in } \\frac{m-1}{m} \\text{ in } \\frac{m-3}{m-2} \\text{ in } \\frac{m-5}{m-4} \\text{ in } \\frac{m-7}{m-6} \\&c. = P. \\]\n\n\\[ - \\frac{1}{m} x^{m-1} y = - Q \\]\n\n\\[ - \\frac{rr}{m-2} \\text{ in } \\frac{m-1}{m} \\text{ in } \\frac{m-3}{m-2} y = - R \\]\n\n\\[ - \\frac{r^4}{m-4} \\text{ in } \\frac{m-1}{m} \\text{ in } \\frac{m-3}{m-2} x y = - S \\]\n\n\\[ - \\frac{r^6}{m-6} \\text{ in } \\frac{m-1}{m} \\text{ in } \\frac{m-3}{m-2} \\text{ in } \\frac{m-5}{m-4} x y = - T. \\]\n\n\\&c.\n\n**Corollarium 1um.**\n\nSi \\( m \\) exponatur per terminum quemvis sequentis seriei 1, 3, 5, 7, 9, \\&c. Quadratura Curvae cujus ordinata\n\n\\[ \\frac{x^m}{\\sqrt{rr-xx}} \\text{ aut } \\frac{x^m}{\\sqrt{rr+xx}}, \\] per hoc Theorema habetur in finitis\n\nTerminis\n\n**Corollarium 2um.**\n\nSi \\( n \\) exponatur per terminum quemlibet sequentis seriei 1, 2, 3, 4, 5, 6, \\&c. Curva cujus ordinatim applicata\n\n\\[ \\frac{x^{2n}}{\\sqrt{rr-xx}} \\text{ aut } \\frac{x^{2n}}{\\sqrt{rr+xx}} \\] exacte quadratur per hoc Theorema\nCorollarium 3um.\n\nSi \\( m \\) exponatur per terminum quemvis sequentis seriei 0, 2, 4, 6, 8, 10, &c. Quadratura Curvae, cujus ordinatim applicata \\( \\frac{x}{\\sqrt{rr-xx}} \\) pendet a quadratura Circuli. Etenim si Centro C radius \\( CA = r \\) describatur Circulus \\( AEG \\), sumatur \\( CD = x \\), erigatur \\( DE \\) normalis ad \\( CD \\), Jungatur \\( CE \\): Sector \\( CAE \\) per \\( rr \\) divisus æqualis est Areæ Curvae cujus ordinatim applicata \\( \\frac{x^\\circ}{\\sqrt{rr-xx}} \\). Eodem modo si Centro C, Transverso samiaxi \\( CA = r \\), describatur æqualatera Hyperbola \\( EAM \\), ducatur \\( CF \\) ad \\( AC \\) perpendicularis \\( = x \\), ducatur \\( FE \\) axi parallela donec occurrat Hyperbolæ in \\( E \\), jungatur \\( CE \\): sector Hyperbolicus \\( ACE \\) per \\( rr \\) divisus æqualis est Areæ Curvae cujus ordinatim applicata \\( \\frac{x^a}{\\sqrt{rr+xx}} \\).\n\nCorollarium 4um.\n\nSi \\( m \\) exponatur per terminum quemlibet a praecedentibus differentem, Curva cujus ordinata \\( \\frac{x^m}{\\sqrt{rr-xx}} \\) aut \\( \\frac{x^m}{\\sqrt{rr+xx}} \\) neque quadratur exacte, nec a Circulo aut Hyperbola pendet, sed ad Curvam simpliciorem reducitur,\n\nTheo-\nTheorema 5um.\n\nSit $A$ Area Curvae cujus abscissa $x$, ordinatim applicata $\\frac{x^m}{d-x}$; sit $B$ Area Curvae cujus abscissa itidem $x$, ejusq; ordinatim applicata $\\frac{x^{m-n}}{d-x}$. Erit Area\n\n$$A = d^n B - \\frac{x^m}{m} + \\frac{dx^{m-1}}{m-1} - \\frac{ddx^{m-2}}{m-2} \\&c.$$ \n\nSit ordinatim applicata $\\frac{x^m}{d+x}$, tunc Area erit $=$\n\n$$A = \\frac{x^m}{m} - \\frac{dx^{m-1}}{m-1} + \\frac{ddx^{m-2}}{m-2} \\&c. \\pm d^n B.$$ \n\nCorollarium.\n\nSi $m$ exponatur per terminum quemlibet sequentis seriei, o, 1, 2, 3, 4, 5, 6, &c. Quadratura Curvae cujus ordinatim applicata $\\frac{x^m}{d-x}$, aut $\\frac{x^m}{d+x}$ pondera quadratura Hyperbolae;\n\nVide Fig. 3.\n\nEtenim ductis $DE$, $EF$ ad angulos rectos, sumatur $EG = d$, ducatur $GH$ normalis ad $EF$ & ipsi æqualis. Intra Asymptotos $DE$, $EF$ describatur Hyperbola per $H$ transiens, quo facto sumatur $GK = x$ versus $E$ pro primo casu, at versus $F$ pro secundo; ducatur ordinatim applicata $KL$: Area $HGKL$ per $dd$ divisa æqualis est Area Curvae cujus ordinatim applicata $Mmmmmmmz$.\nHinc Solidum generatum a portione Ciffoi-\ndis dum circa Diametrum circuli genitoris revolvit, in finitis\nterminis exhibetur, data Hyperbolæ Quadratura.\n\nTheorema 6um.\n\nSit $A$ Area Curvæ cujus abscissa $x$, ordinatim applicata\n\n$\\frac{x^m}{rr + xx}$; Sit $B$ Area Curvæ cujus abscissa itidem $x$, ordinatim\n\napplicata $\\frac{x^{m-2n}}{rr + xx}$. Erit Area\n\n$A = \\frac{x^{m-1}}{m-1} - \\frac{rr x^{m-3}}{m-3} + \\frac{r^4 x^{m-5}}{m-5} \\text{ &c. } + r^{2n} B.$\n\nCorollarium\n\nSi $m$ exponatur per terminum quemlibet sequentis seriei\n\n$0, 2, 4, 6, 8, \\text{ &c.}$ Quadratura Curvæ cujus ordinatim ap-\n\nplicata $\\frac{x^m}{rr + xx}$ pendet a rectificatione circularis Arcus. Etenim si\n\ncentro $C$ radio $CA = r$ describatur Circulus $AEG$, ducatur\n\nTangens $AK = x$ juxta $C K$ peripheriae occurrens in $E$;\n\narcus $AE$ per $rr$ divinus æqualis est Areae curvæ cujus ordinata\n\n$\\frac{x^o}{rr + xx}$\nCorollarium generale ad hæc sex Theoremata.\n\nCurva omnis mechanicæ cujus quadratura renderet ab aliqua Curvis numero infinitis, cujus ordinatæ formas sequentes adipisci possunt \\( x^m \\sqrt{\\frac{dx}{x}} \\pm xx \\), \\( x^m \\sqrt{\\frac{rr}{x}} \\pm xx \\), \\( x^m \\sqrt{\\frac{xx}{x}} \\), \\( x^m \\sqrt{\\frac{xx}{rr}} \\), per series has quadrari potest. Hoc Exemplo unico indicare satis erit.\n\nPosito quod Cubus Arcus Circularis Sinui verso correspondentis fiat Ordinata Curvæ, cujus Abscisæ in idem Sinus versus. Inquirenda est Area illius Curvæ.\n\nSit Abscisæ \\( x \\), arcus circularis \\( v \\), fluxio Areæ fit \\( v^3 \\dot{x} \\).\n\nSit Area \\( v^3 x - q \\). Igitur \\( v^3 \\dot{x} + 3 v^2 \\dot{x} x - q = v^3 \\dot{x} \\),\n\nunde \\( q = 3 v^2 \\dot{x} x \\); sed \\( \\dot{v} = \\frac{d\\dot{x}}{2 \\sqrt{dx-xx}} \\), igitur \\( q = \\frac{3 d v^2 \\dot{x} \\dot{x}}{2 \\sqrt{dx-xx}} \\),\n\nfed per Theorema II. \\( \\frac{x \\dot{x}}{\\sqrt{dx-xx}} = \\frac{d\\dot{x}}{2 \\sqrt{dx-xx}} - j = \\dot{v} - j \\),\n\nadeoque \\( \\dot{q} = \\frac{3 d v^2 \\dot{x} - \\frac{1}{2} d v^2 \\dot{j}}{2 \\sqrt{dx-xx}} \\), igitur \\( q = \\frac{1}{2} d v^3 - \\int d v^2 \\dot{j} \\).\n\nErgo ad hoc perventum est ut fluentem quantitatem inventamus cujus fluxio est \\( \\frac{1}{2} d v^2 \\dot{y} \\).\n\nSit hæc quantitas \\( \\frac{1}{2} d v^2 y - r \\).\n\nIgitur \\( \\frac{1}{2} d v^2 \\dot{y} + 3 d v \\dot{y} y - r = \\frac{1}{2} d v^2 \\dot{y} \\).\n\nAdeoque \\( \\dot{r} = \\frac{3 d v \\dot{y} y}{2 \\sqrt{dx-xx}} \\), Sit \\( r = \\frac{1}{2} d d v x - s \\).\n\nIgitur \\( \\frac{1}{2} d d v \\dot{x} = \\frac{1}{2} d d v \\dot{x} + \\frac{1}{2} d d x \\dot{i} - j \\),\n\nadeoque. \\( \\dot{j} = \\frac{3 d^3 x \\dot{x}}{4 \\sqrt{dx-xx}} = \\frac{1}{4} d^3 v - \\frac{1}{4} d^3 j \\),\n\nper 2um. Theorema.\nIgitur \\( s = \\frac{1}{4} d^3 v - \\frac{1}{2} d^3 y \\). adeoque area quaestita \\( = v^3 x - \\frac{1}{2} dv^3 + \\frac{1}{2} d v^2 y - \\frac{1}{2} ddv x + \\frac{1}{2} d^3 v - \\frac{1}{2} d^3 y \\).\n\nQuoniam autem Solida ex rotatione Curvarum genita, Superficies ab eadem rotatione genitae, Longitudines Curvarum, & Centra Gravitatis horum omnium a Quadratura Curvarum pendent, haec si a Curvis supradictis pendent facillime computantur.\n\nPostquam Theoremata hæc concinnaveram, eaque Clarissimo Newtono, ut supremo harum rerum Judici, monstraverau; obtulit ille mihi Chartas suas manuscriptas, quibus mihi constat se diu compotem esse methodi qua, æquatione Trinomiali quavis data naturam Curvae exprimente, illa Curva aut quadratur aut ad simpliciorem Curvam reducitur.\n\nOpeandum autem est ut non solum ea quæ ad hanc rem spectant, sed alia multa praecipua ejus inventa publici juris facere dignarietur. Hoc credo universæ Reipublicæ Literariae votum est.\n\nNullus dubito Doctissimos viros quorum scripta in actis eruditorum alibique tam valde Mathematicas disciplinas promoverunt, methodos huic nostræ affines habere; adeoque nihil in his mihi ascribendum puto nisi quod Theoremata hæc reperierim, necius an ullibi extarent; eaque ad formam tam facilem reduxerim, ut calculus omnis ad hanc materiam spectans uno quasi intuitu conficiatur. Prisquam scribendi finem facio, non abs futurum esse arbitror, si nunc, nulla data citius occasione, pauca quædam reposuerim Clarissimi Leibnitii animadversionibus, ad Seriem quandam a me publicaram de radice infinitæ æquationis invenienda. Existimat Vir Clar. Seriem illam non satis generalem esse, utpote non attingentem casus ubi quantitates \\( z \\) & \\( y \\) in se invicem ducuntur; adeoque seriem aliam pro mea substituit, hancq; afferit mea infinite generaliorem: illam autem in levem hunc errorem inductum esse suspicor, quod quantitates \\( a, b, c, d, \\&c. \\) pro quantitatibus datis assumptærit, cum pro quantitatibus datis aut indeterminatis indiscriminatim usurpandæ fuerint. Sed exemplum unum afferre libet, quo pateat seriem nostram casus omnes pervadere; sit \\( \\text{Æquatio} \\ yz - z^3 = y^3 \\) In Theoremate nostro fiat \\( a = ny, b = o, c = -1, g = o, b = o, i = 1, \\) aut melius fiat \\( g = yy \\)\n\\[ g = yy, \\quad b = o, \\quad i = o. \\quad \\text{in utroque casu fiet } Z = \\]\n\\[ Z = \\frac{yy}{n} + \\frac{y^5}{n^4} + \\frac{3y^8}{n^7} + \\frac{12y^{11}}{n^{10}} \\&c. \\]\n\nV.\n\nAn Account of the Appearance of several Unusual Parhelia, or Mock-Suns, together with several Circular Arches lately seen in the Air by E: Halley.\n\nOn the Eighth of April, this present Year, 1702, walking in London Streets about ten in the Morning, the Air being clear, I observed the Sun to shine faintly, or as we call it, waterish; whereupon casting up my Eye, I perceived several Arches of Circles about him. I made what haste I could to get on the top of a House, which I did at Mr. Morden's by the Royal Exchange, and found the Appearance as is described in Figure 4. Tab. 3° wherein\n\n\\( S \\) is the true Sun, \\( Z \\) the Zenith.\n\n\\( S T P P \\) a great white Circle passing through the Sun, and as near as I could judge, parallel to the Horizon. It was very distinct and entire, about two Degrees broad in the Northern part about \\( T \\); and held much the same breadth in the East and West, but grew narrower towards the Sun, its edges were not very well defined, the whole appearing like a faint white Cloud, and a part of it would have been taken for such, but the whole Circle seen in the pure Azure Sky was a very surprizing sight.\n\n\\( V N X Y \\) a Halo, or rather Iris, that was likewise an entire Circle, having the Sun for its Center. I measured the Semidiameter of this to be much about 22 Degrees: the breath of this Arch which was well defined, was by estimate equal to the Suns Diameter, and it was coloured with the Colours of the Iris, but nothing near so vivid as in the common Rainbow. The Reds were next the Sun, and the Blews in the outward Limb. Within this Circle the Sky appeared somewhat obscure, especially near the Arch; and I take it, that the cause of",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102858.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 18,
+    "total-input-tokens": 27074,
+    "total-output-tokens": 7894,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1160,
+        4
+      ],
+      [
+        1160,
+        2402,
+        5
+      ],
+      [
+        2402,
+        3948,
+        6
+      ],
+      [
+        3948,
+        5013,
+        7
+      ],
+      [
+        5013,
+        5425,
+        8
+      ],
+      [
+        5425,
+        6578,
+        9
+      ],
+      [
+        6578,
+        7505,
+        10
+      ],
+      [
+        7505,
+        8480,
+        11
+      ],
+      [
+        8480,
+        9451,
+        12
+      ],
+      [
+        9451,
+        10592,
+        13
+      ],
+      [
+        10592,
+        11638,
+        14
+      ],
+      [
+        11638,
+        12532,
+        15
+      ],
+      [
+        12532,
+        14243,
+        16
+      ],
+      [
+        14243,
+        16495,
+        17
+      ],
+      [
+        16495,
+        18353,
+        18
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "None",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102858",
+    "title": "Methodus Quadrandi Genera Quaedam Curvarum, aut ad Curvas Simpliciores Reducendi. per A. De Moivre R. S. S.",
+    "authors": "A. de Moivre",
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 18,
+    "jstor_url": "https://www.jstor.org/stable/102858"
+  }
+}

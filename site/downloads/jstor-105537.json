@@ -1,0 +1,59 @@
+{
+  "id": "8d71bbed966becff3ddf73424a2958e00082e4c0",
+  "text": "XXI. An Account of the Degree of Cold observed in Bedfordshire: By John Howard, Esq; F. R. S. in a Letter to John Canton, M. A. F. R. S.\n\nSIR,\n\nRead April 12, 1764. I Would beg leave to acquaint you of a degree of cold that I observed at Cardington, in Bedfordshire, the 22d of November last: just before Sun rise Farenheit's scale by one of Bird's thermometers being so low as 10 and $\\frac{1}{2}$. If it will throw any light on the locality of cold, or think it worth the Society's observation, would leave to your better judgment, and remain with great esteem,\n\nSIR,\n\nYour most obedient servant,\n\nJohn Howard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105537.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 231,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        612,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105537",
+    "title": "An Account of the Degree of Cold Observed in Bedfordshire: By John Howard, Esq; F. R. S. in a Letter to John Canton, M. A. F. R. S.",
+    "authors": "John Howard",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105537"
+  }
+}

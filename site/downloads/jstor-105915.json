@@ -1,0 +1,149 @@
+{
+  "id": "8907f6fe6a08ce7ac8e00c920f2bbadb2667351c",
+  "text": "XLIII. A Letter to James West, Esq; President of the Royal Society, containing the Investigations of Twenty Cases of Compound Interest, by J. Robertson, Lib. R. S.\n\nSIR,\n\nRead Dec. 13, 1770. It is well known that the consideration of Compound Interest is of great utility in the Computations respecting the values of Pensions, Annuities, Reversions, and other affairs relating to Money concerns; and therefore, many Mathematicians have bestowed some time on this useful subject, and have endeavoured to discover practical methods for solving the various cases that might occur: And in these inquiries, the use of Logarithms has been found of singular service in facilitating the operations.\n\nThe late William Jones, Esq; F. R. S. among the variety of Mathematical matters to which he gave attention, considered the business of Compound Interest fully, and did, many years ago, cause to be engraved on a Copper-plate, more cases in Interest than had been exhibited before that time: Several copies of impressions from that plate were distributed among his friends; to whom it appeared that he had treated this subject in a more extensive manner than had been done by other Mathematicians.\nThe Theorems, or Rules, for the Cases of Compound Interest, without their investigations, were inserted by Mr. Jones, in the quarto edition of Logarithms, published by Gardiner; and the Rules were also communicated to Mr. Dodson, who published them, by Mr. Jones's leave, with examples to illustrate the use of his Antilogarithmic Tables: But the investigations of these Theorems not having yet been made public, it is apprehended that Gentlemen curious in these speculations would be pleased to see them: And should the following Essay be approved of by you, who have been for many years acquainted with the Finances of this Nation, and the importance of a ready knowledge in computing the Interest on the National Loans, you will be pleased to communicate it to the Royal Society.\n\nI am, SIR,\n\nYour most humble servant,\n\nJohn Robertson.\n\nIn this subject five particulars are taken into consideration.\n\n1st, The Annuity, Rent, or Pension.\n2d, The Times that Annuity, Rent, or Pension is to continue.\n3d, The Rate of Interest used in the computation.\n4th, The Amount of those Rents, and their Interest, when they are forborne to be received any times after they are due.\n5th, The present worth of those Rents, some times before they are due; or, of a Sum to be received before it is due, Discount being allowed.\n\nAnd\nAnd the investigations naturally fall under two heads.\n\nFirst, The Consideration of Amounts.\n\nSecondly, The Consideration of Discounts.\n\nUnder the first head an Equation is to be obtained between the Annuity, Time, Rate and Amount, from the known proportion that subsists between sums of money put to interest, during the same length of time, and the amounts of the principal and interest together.\n\nUnder the second head another Equation is to be formed between the Annuity, Rate, Time and present Worth, from the known proportion that subsists between the sums discounted, and their present worths, when done for the same time.\n\nAs these Equations involve quantities common to both of them, therefore other Equations may be thence deduced, containing all the five terms before specified. And hence, any three of the five terms being given, the other two are to be found, which admits of 20 Cases.\n\nSome of these Cases will produce Affected Equations, where the index of the highest power of the unknown quantity will be the number of times the Rent is to continue, or to be paid: Therefore, the solution of those Cases will be given by a method of Approximation, as no better way has yet been discovered for the solution of Affected Equations, in numbers, above the third or fourth degree.\nIn the following investigations,\nLet \\( a = \\) Annuity, Rent, or Pension.\n\\( n = \\) Number of times that interest is to be paid for the annuity, or sum lent.\n\\( r = \\) Rate of interest of 1 £. for 1 time.\n\\( m = \\) Amount of the annuity, or sum lent for \\( n \\)-times, at \\( r \\) interest.\n\\( p = \\) Principal sum used, or present worth of a sum before it is due.\n\nOf Compound Interest.\n\nFirst, In Amounts,\nLet \\( q = 1 + r = \\) Amount of 1 £. for 1 time.\nNow, \\( a = \\) last year's amount.\nAnd \\( 1 : q :: a : ag = \\) last but one year's amount.\n\\( 1 : q :: ag : ag^2 = \\) last but two year's amount.\n\\( 1 : q :: ag^2 : ag^3 = \\) last but 3.\nAnd so on to \\( ag^{n-1} = \\) first year's amount.\n\nTherefore \\( a + ag + ag^2 + ag^3 + \\ldots + ag^{n-1} = m \\).\nBut \\( a : ag :: m - ag^{n-1} : m - a \\). Euc. 12. v.\nThen \\( m - a = mq - ag^n \\)\nOr \\( m - a = m + mr - ag^n \\)\nTherefore \\( ag^n - a = mr \\) Put \\( A = q^n \\).\nThen \\( A - 1 \\times a = mr \\)\nTherefore \\( A = \\frac{mr + a}{a} \\)\nHence \\( a = \\frac{mr}{A - 1} \\)\n\\( m = \\frac{A - 1 \\times a}{r} \\)\n\\( r = \\frac{A - 1 \\times a}{m} \\).\n\nSecond,\nSecond, In Discounts.\n\nSince \\( q : 1 :: a : \\frac{a}{q} = 1st \\) year's present worth.\n\n\\( q : 1 :: \\frac{a}{q} : \\frac{a}{q^2} = 2d \\) year's present worth.\n\n\\( q : 1 :: \\frac{a}{q^2} : \\frac{a}{q^3} = 3d \\).\n\nAnd so on to \\( \\frac{a}{q^n} = nth \\) years present worth.\n\nTherefore \\( \\frac{a}{q} + \\frac{a}{q^2} + \\frac{a}{q^3} + \\ldots + \\frac{a}{q^n} = p \\).\n\nBut \\( \\frac{a}{q} : \\frac{a}{q^2} :: p - \\frac{a}{q^n} : p - \\frac{a}{q} \\).  \nEuc. 12. v.\n\nTherefore \\( \\frac{pq^n - a}{q^n} = pq - a \\).\n\nOr \\( \\frac{pq^n - a}{q^n} = p + pr - a \\).\n\nTherefore \\( aq^n - a = prq^n \\).\n\nOr \\( A - 1 \\times a = prA \\).\n\nTherefore \\( A = \\frac{a}{a - rp} \\).\n\nHence \\( A - 1 \\times a = mr = prA \\).\n\nTherefore \\( A = \\frac{mr + a}{a} = \\frac{a}{a - rp} = \\frac{m}{p} = 1 + r^n \\).\n\nCase I. Given \\( a, m, p \\): Required \\( r \\).\n\nSince \\( A = \\frac{m}{p} \\).\n\nTherefore \\( r = \\frac{A - 1 \\times a}{m} \\).\n\nCase II.\nCase II. Given \\( p, m, n \\): Required \\( r \\).\nSince \\( r + 1^n = \\frac{m}{p} \\).\nTherefore \\( r = \\left( \\frac{m}{p} \\right)^n - 1 \\).\n\nCase III. Given \\( a, m, n \\): Required \\( r \\).\nSince \\( A - 1 \\times a = mr \\).\nTherefore \\( \\left( \\frac{A - 1}{nr} \\right) = \\frac{m}{na} = \\frac{1 + r^n}{nr} \\).\nNow \\( 1 + r^n = 1 + nr + n \\times \\frac{n-1}{2} r^2 + n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} r^3 \\), &c.\nTherefore \\( \\frac{m}{na} = 1 + \\frac{n-1}{2} r + \\frac{n-1}{2} \\times \\frac{n-2}{3} r^2 \\), &c.\nAnd \\( \\frac{m}{an}^{n-1} = 1 + \\frac{n-1}{2} r + \\frac{n-1}{2} \\times \\frac{n-2}{3} r^2 \\) \\(^{n-1} \\);\nwhich, by the Binomial Theorem, will become\n\\( = 1 + r + \\frac{n+1}{12} r^2 \\) (nearly).\nLet \\( D = \\left( \\frac{m}{na} \\right)^{n-1} = 1 + r + \\frac{n+1}{12} r^2 \\),\nThen \\( r^2 + \\frac{12}{n+1} r = D - 1 \\times \\frac{12}{n+1} \\), Let \\( 2E = \\frac{12}{n+1} \\),\nThen \\( r + E = \\left( \\sqrt{2 \\times D - 1 + E \\times E} \\right) F \\).\nTherefore \\( r = F - E \\).\n\nIn this Solution, 1st, find \\( D = \\left( \\frac{m}{na} \\right)^{n-1} \\),\n2d, find \\( E = \\frac{6}{n+1} \\),\n3d, find \\( F = \\sqrt{2 \\times D - 1 + E \\times E} \\),\n4th, find \\( r = F - E \\).\n\nVol. LX.\nCase IV. Given \\(a, p, n\\); Required \\(r\\).\n\nSince \\(A - 1 \\times a = Apr\\).\n\nTherefore \\(\\frac{p}{na} = \\frac{A - 1}{Anr} = \\frac{1 - A^{-1}}{nr} = \\frac{1 - (1 + r)^{-n}}{nr}\\).\n\nNow, \\((1 + r)^{-n} = 1 - nr + n \\times \\frac{n+1}{2} r^2 - n \\times \\frac{n+1}{2} \\times \\frac{n+2}{3} r^3 + \\ldots\\)\n\nTherefore \\(\\frac{p}{na} = 1 - \\frac{n+1}{2} r + \\frac{n+1}{2} \\times \\frac{n+2}{3} r^2\\), nearly.\n\nThen \\(\\left(\\frac{p}{na}\\right)^{\\frac{2}{n+1}} = \\left(1 - \\frac{n+1}{2} r + \\frac{n+1}{2} \\times \\frac{n+2}{3} r^2\\right)^{\\frac{2}{n+1}}\\);\n\nwhich, by the Binomial Theorem, will become\n\n\\[= 1 + r - \\frac{n-1}{12} rr,\\] nearly.\n\nNow, \\(\\left(\\frac{p}{na}\\right)^{\\frac{2}{n+1}} = \\frac{na}{p}^{\\frac{2}{n+1}}\\).\n\nLet \\(G = \\left(\\frac{na}{p}\\right)^{\\frac{2}{n+1}} = 1 + r - \\frac{n-1}{12} r^2\\).\n\nTherefore \\(rr - \\frac{12}{n-1} r = -G - 1 \\times \\frac{12}{n-1}\\).\n\nLet \\(2H = \\frac{12}{n-1}\\).\n\nThen \\(r - H = (\\sqrt{H - 2 \\cdot G - 1} \\times H =) K\\).\n\nTherefore \\(r = H - K\\).\n\nCase V. Given \\(a, n, r\\); Required \\(m\\).\n\nSince \\(A - 1 \\times a = mr\\). Therefore \\(m = \\frac{A - 1 \\times a}{r}\\).\n\nCase VI.\nCase VI. Given \\( p, n, r \\); Required \\( m \\).\nSince \\( A = \\frac{m}{p} \\). Therefore \\( m = pA \\).\n\nCase VII. Given \\( a, p, r \\); Required \\( m \\).\nSince \\( \\frac{m}{p} = \\frac{a}{a - rp} \\). Therefore \\( m = \\frac{ap}{a - rp} \\).\n\nCase VIII. Given \\( a, p, n \\); Required \\( m \\).\nFind \\( G = \\frac{nq^{n+1}}{p} \\); \\( H = \\frac{3}{\\frac{1}{2}n-1} \\); \\( K = \\sqrt{H - 2G - 1} \\times H \\).\nNow, \\( H - K = r \\) by 4th. But \\( r + 1^n = \\frac{m}{p} \\).\nTherefore \\( m = (r + 1)^n \\times p \\).\n\nCase IX. Given \\( a, n, r \\); Required \\( p \\).\nSince \\( A - 1 \\times a = prA \\). Therefore \\( p = \\frac{A - 1 \\times a}{Ar} \\).\n\nCase X. Given \\( m, n, r \\); Required \\( p \\).\nSince \\( A = \\frac{m}{p} \\). Therefore \\( p = \\frac{m}{A} \\).\n\nCase XI. Given \\( a, m, r \\); Required \\( p \\).\nSince \\( \\frac{mr + a}{a} = \\frac{m}{p} \\). Therefore \\( p = \\frac{ma}{mr + a} \\).\n\nCase XII.\nCase XII. Given \\(a, m, n\\); Required \\(p\\).\n\nFind \\(D = \\frac{m^n}{na}\\); \\(E = \\frac{3}{\\frac{1}{2}n + 1}\\); \\(F = \\sqrt{2D - 1 + E \\times E}\\)\n\nNow, \\(F - E = r\\), by 3d. But \\(1 + r^n = \\frac{m}{p}\\).\n\nTherefore \\(p = \\frac{m}{1 + r^n}\\).\n\n---\n\nCase XIII. Given \\(p, n, r\\); Required \\(a\\).\n\nSince \\(A - 1 \\times a = prA\\). Therefore \\(a = \\frac{prA}{A - 1}\\).\n\n---\n\nCase XIV. Given \\(p, m, n\\); Required \\(a\\).\n\nSince \\(A = \\sqrt{r + 1}^n = \\frac{m}{p}\\). Therefore \\(r + 1 = \\frac{m}{p}\\).\n\nHence \\(A - 1\\), and \\(B - 1 (= r)\\) are known.\n\nTherefore \\(a = \\frac{m \\times B - 1}{A - 1}\\).\n\n---\n\nCase XV. Given \\(m, n, r\\); Required \\(a\\).\n\nSince \\(A - 1 \\times a = mr\\). Therefore \\(a = \\frac{mr}{A - 1}\\).\n\n---\n\nCase XVI. Given \\(p, m, r\\); Required \\(a\\).\n\nSince \\(A = \\frac{m}{p}\\), \\(A - 1\\) is given.\n\nTherefore \\(a = \\frac{mr}{A - 1}\\).\n\n---\n\nCase XVII.\nCase XVII. Given \\( m, p, r \\); Required \\( n \\).\n\nPut \\( L \\), for logarithm; and \\( L' \\), for arith. comp. of a log.\n\nSince \\( (1 + r)^n = \\frac{m}{p} \\). Therefore \\( n = \\frac{L, m + L', p}{L, r + 1} \\).\n\n---\n\nCase XVIII. Given \\( a, p, r \\); Required \\( n \\).\n\nSince \\( (1 + r)^n = \\frac{a}{a - pr} \\). Therefore \\( n = \\frac{L, a - L, a - pr}{L, r + 1} \\).\n\n---\n\nCase XIX. Given \\( a, p, m \\); Required \\( n \\).\n\nSince \\( A = (r + 1)^n = \\frac{m}{p} \\),\n\nThen \\( (L, r + 1)^n = L, m - L, p = L, A \\);\n\nHence \\( A \\), and \\( A - 1 \\), are known.\n\nAlso \\( L, A - 1 + L, a + L, m = L, B - 1 \\)\n\n(by Case 14th):\n\nHence \\( r = (B - 1) \\), and \\( r + 1 \\), are known.\n\nTherefore \\( n = \\frac{L, A}{L, r + 1} \\).\n\n---\n\nCase XX. Given \\( a, m, r \\); Required \\( n \\).\n\nSince \\( (A = ) \\frac{mr + a}{a} = 1 + r^n \\).\n\nTherefore \\( n = \\frac{L, mr + a - L, a}{L, 1 + r} \\).\n\nXLIV. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105915.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16052,
+    "total-output-tokens": 4171,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1188,
+        2
+      ],
+      [
+        1188,
+        2505,
+        3
+      ],
+      [
+        2505,
+        3797,
+        4
+      ],
+      [
+        3797,
+        4898,
+        5
+      ],
+      [
+        4898,
+        5810,
+        6
+      ],
+      [
+        5810,
+        6990,
+        7
+      ],
+      [
+        6990,
+        8105,
+        8
+      ],
+      [
+        8105,
+        8984,
+        9
+      ],
+      [
+        8984,
+        9849,
+        10
+      ],
+      [
+        9849,
+        10728,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105915",
+    "title": "A Letter to James West, Esq; President of the Royal Society, Containing the Investigations of Twenty Cases of Compound Interest, by J. Robertson, Lib. R. S.",
+    "authors": "John Robertson",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/105915"
+  }
+}

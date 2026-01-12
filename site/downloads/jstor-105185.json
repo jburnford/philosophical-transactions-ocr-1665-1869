@@ -1,0 +1,59 @@
+{
+  "id": "f6aba530d9854ee07920326aa43df17a060516cc",
+  "text": "may be the same, when the same space is gone over with a great velocity, as with a small one.\n\nLXXI. Observationes Eclipsium Satellitum Jovis habitae Ulissipone in Regali Collegio Beatissimae Virginis à necessitatibus, dictæ à Joanne Chevalier, Praëbytero Seculari Congregationis Oratorii, Anno 1753.\n\nRead Feb. 14, DIE 30 Aprilis, cælo clarissimo, observavi, telescopio Gregoriano 6 pedum longitudinis, emersionem primi satellitis è umbra Jovis, hora postmeridiana temporis veri 9h 57' 48\".'\n\nDie 24 Maii, iterum cælo purissimo, observavi, eodem telescopio Gregoriano, emersionem tertii satellitis ab umbra Jovis, hora postmeridiana temporis veri 8h 19' 6\".'\n\nLXXII. Observatio Solis defectus Ulissipone habita, in Æde Beatissimae Virginis à necessitatibus, nuncupatae à Joanne Chevalier, Praëbytero Congregationis Oratorii, die 26a Octobris 1753.\n\nRead Feb. 14, HUNC solis defectum commodè, ac exactè observare potui, cælo clarissimo ac purissimo. Initium ac finem eclipsis telescopio 15 palmorum examinavi, digitos vero obscurationis",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105185.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 423,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1036,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105185",
+    "title": "Observationes Eclipsium Satellitum Jovis Habitae Ulissipone in Regali Collegio Beatissimae Virginis à Necessitatibus, Dictae à Joanne Chevalier, Praesbytero Seculari Congregationis Oratorii, Anno 1753",
+    "authors": "Joanne Chevalier",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105185"
+  }
+}

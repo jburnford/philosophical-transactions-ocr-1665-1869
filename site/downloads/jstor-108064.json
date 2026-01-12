@@ -1,0 +1,59 @@
+{
+  "id": "c1e809a696fad86bb533cd8485e7f89a9b26286b",
+  "text": "XXIII. *On the Equilibrium of a Mass of Homogeneous Fluid at liberty.* By JAMES IVORY, K.H. M.A. F.R.S. Instit. Reg. Sc. Paris. Corresp., et Reg. Sc. Gottin. Corresp.\n\nXXIV. *Observations on the Torpedo, with an account of some additional Experiments on its Electricity.* By JOHN DAVY, M.D. F.R.S. Assistant Inspector of Army Hospitals. Communicated by Sir James McGrigor, Bart. F.R.S. Director General of the Army Medical Department\n\nXXV. *Some Remarks in reply to Dr. Daubeney's Note on the Air disengaged from the Sea over the Site of the recent Volcano in the Mediterranean.* By JOHN DAVY, M.D. F.R.S. Assistant Inspector of Army Hospitals\n\nXXVI. *On the Ova of the Ornithorhynchus paradoxus.* By RICHARD OWEN, Esq. Assistant Conservator of the Museum of the Royal College of Surgeons in London. Communicated by Sir Anthony Carlisle, F.R.S.\n\nXXVII. *Observations on the Motions of Shingle Beaches.* By HENRY R. PALMER, Esq. F.R.S. Civil Engineer\n\nXXVIII. *Analysis of the Moira Brine Spring near Ashby-de-la-Zouche, Leicestershire; with Researches on the Extraction of Bromine.* By ANDREW URE, M.D. F.R.S.\n\nXXIX. *An Account of some Experiments to measure the Velocity of Electricity and the Duration of Electric Light.* By CHARLES WHEATSTONE, Esq. Professor of Experimental Philosophy in King's College, London. Communicated by MICHAEL FARADAY, Esq. F.R.S. &c.\n\nIndex\n\nERRATA.\n\nPhil. Trans. 1833.—page 756, line 6, for excreting read secreting\npage 759, line 25, for (Plate XXI.) read (Plate XXIII.)",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108064.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 502,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1504,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108064",
+    "title": "Errata",
+    "authors": null,
+    "year": 1834,
+    "volume": "124",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108064"
+  }
+}

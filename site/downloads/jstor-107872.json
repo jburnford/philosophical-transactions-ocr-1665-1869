@@ -1,0 +1,99 @@
+{
+  "id": "4a4a064c8589ac73927304a4b78dc68e5674b8c2",
+  "text": "XIII. On the permeability of transparent screens of extreme tenuity by radiant heat. By William Ritchie, A. M. Rector of Tain Academy. Communicated by J. F. W. Herschel, Esq. Sec. R. S.\n\nRead March 8, 1827.\n\nProposition.\n\nInvisible radiant heat, from a source at an elevated temperature, freely permeates thin transparent substances in the same manner as light.\n\nProfessor Prevost, of Geneva, seems to have been the first person who endeavoured to establish this property of radiant heat, which was afterwards more fully investigated by M. Delaroche;* but though the truth of the experiments have in general been admitted, the conclusions which these ingenious philosophers naturally drew from their experiments, have lately been called in question by several eminent experimentalists in Great Britain. It seems, therefore, that new experiments and observations are still wanting to place the fact beyond the power of controversy: the following appear to me quite sufficient for this purpose.\n\nExperiment 1.\n\nLet a large glass globe be blown so thin as to be almost iridescent. Fix a small portion of this globe opposite a circular hole about an inch in diameter, made in a sheet of\n\n* Journal de Physique, tome 72 et 75.\nThis may easily be done by applying electric cement to the circumference of the aperture, and then laying the film of glass on it when properly melted. Let a delicate air thermometer be placed opposite the disc of glass on one side of the plate, and a heated iron ball opposite to the bulb on the other. Let a current of cold air be made to play constantly against the disc of glass, which will keep it uniformly below the temperature of the ambient air. Things being thus arranged, the following facts will be observed.\n\n1st. When the temperature of the ball is low, no sensible effect is produced on the thermometer.\n\n2nd. When the temperature of the ball is high, though still invisible in the dark, the effect on the instrument is very considerable, even if the ball should be placed at a greater distance than formerly.\n\nHere we have two sources of heat, which, on account of the change of distance, would produce equal effects in the naked bulb of the thermometer; but, by the intervention of a cold screen, the effect of the former is almost annihilated, whereas the effect of the other is still very considerable. This difference cannot possibly result from the difference of temperature in the screen, which is kept as near as possible at the same temperature by the influence of the current of cold air. We are therefore unavoidably led to the following conclusion; viz. That the progress of the heat was, in the first experiment, arrested by the screen; whereas in the other, a portion of it freely radiated through the screen, and found its way directly to the bulb of the thermometer.\nExperiment 2.\n\nLet two air thermometers be procured, with bulbs blown as thin as possible. Let the interior hemisphere of one of them be coated with a fine opaque coating of pounded charcoal. Place the bulbs of the thermometers at the same distance from a heated ball at the temperature of about 200 degrees. Divide the space through which the fluid descends in each into the same number of equal parts. Raise the ball to the temperature at which it has just ceased to be visible in the dark, place it a greater distance from the two thermometers, and it will be found that the liquid will have sunk farther in the thermometer having the coated bulb, than in the other.\n\nThis experiment evidently leads to the same conclusion as the preceding; viz. when the temperature of the ball was low, the whole current of radiant heat was arrested by the external hemispheres of the bulbs of the thermometers; but when the temperature of the ball was elevated, a portion of the radiant heat freely permeated the transparent bulb, which portion was arrested by the opaque coating in the other, and gave rise to an increase of temperature in the included air.\n\nExperiment 3.\n\nProcure a frame of a moderate size; stretch across it a number of very fine threads of glass, or of fine wire, parallel to each other. At right angles to these, and at the same distance, stretch other threads of glass or wire, so as to divide the whole frame into a great number of small squares. Brush the whole over with a very broad camel-hair pencil, dipped\nin the white of an egg, and a very delicate transparent liquid screen will be formed. Place the screen between the differential thermometer with cylindrical chambers, (a description of which has already been laid before the Society*) and the heated body, and the following facts will be observed.\n\n1st. Raise the ball to a low temperature, keep the screen almost at the same temperature, by constantly applying the white of an egg mixed with cold water, to the upper side of the frame, and no sensible effect will be observed on the instrument.\n\n2nd. Raise the ball to the temperature at which it has just ceased to be visible in the dark; place it at a greater distance, and a very striking effect will immediately be observed.\n\nThis experiment clearly proves that radiant heat freely permeates a very thin transparent liquid screen. I also find that heat begins to radiate through this screen when the ball is at a lower temperature than what is necessary to make it radiate through a screen of glass, or in other words, a liquid screen is more permeable by radiant heat than a solid one.\n\nExperiment 4.\n\nPlace the screen at different distances from the heated ball, and very little difference will be observed in the descent of the fluid. In one experiment, the effect was 18 degrees with the screen close to the instrument, and the fluid rose only one degree when the screen was removed five inches towards the heated ball.\n\nProfessor Leslie has demonstrated that when the heat is absorbed by the screen, and radiated from its posterior sur-\n\n* Phil. Trans. 1827, p. 129.\nface, the effect diminishes rapidly with every remove of the screen from the heated body.* This fact which he has established both by experiment and reasoning, is an infallible test for the opacity or transparency of all kinds of screens. Hence in the preceding experiment, the effect was not produced by heat radiating from the posterior surface of the screen, but by heat actually radiating through the screen in the same manner as light radiates through water, or other transparent fluids.\n\n* Leslie's Inquiry, page 74.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107872.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9822,
+    "total-output-tokens": 1523,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1222,
+        2
+      ],
+      [
+        1222,
+        2820,
+        3
+      ],
+      [
+        2820,
+        4346,
+        4
+      ],
+      [
+        4346,
+        5922,
+        5
+      ],
+      [
+        5922,
+        6444,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107872",
+    "title": "On the Permeability of Transparent Screens of Extreme Tenuity by Radiant Heat",
+    "authors": "William Ritchie",
+    "year": 1827,
+    "volume": "117",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/107872"
+  }
+}

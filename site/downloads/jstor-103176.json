@@ -1,0 +1,159 @@
+{
+  "id": "22197583c728074490e2b6fd7c3a111c81a7711c",
+  "text": "II. De Inventione Centri Oscillationis. Per Brook Taylor Armig. Regal. Societat. Sodal.\n\nDefinitio.\n\nEst Centrum Oscillationis punctum quoddam in corpore pendulo, cujus vibrationes singulae eodem modo atq; eodem tempore peraguntur, ac si illud solum ad eandem distan- tiam a puncto suspensionis filo suspenderetur.\n\nPer se vix satis manifestum est in corpore aliquo dari hujusmodi punctum: utpote cujus acceleratio debeat, (per hanc def.) in omnibus inclinationibus corporis penduli ad Horizontem, perinde esse, ac si a propriâ tan- tum gravitate urgeatur; reliquis partibus totius corpo- ris ejus motum proprium haud perturbantibus. Itaq; in ordine ad inventionem hujus Centri, praemittenda est una atq; altera propositio, unde constet tale punctum dari.\n\nProp. 1. Prob. 1\n\nIn corporis Oscillantis datâ quâvis inclinatione ad Hori- zontem, invenire punctum cujus acceleratio perinde sit, ac si ab ipsius propriâ tantum gravitate urgeatur.\n\nSit A B D corporis propositi sectio in plano ad Horiz- ontum perpendiculari, in quo movetur centrum gravi- tatis G, centro suspensionis existente C. Distinguatur corpus in elementa prismatica plano A B D perpendi- cularia,\ncularia, adeoque Horizonti semper parallela; ut facile patebit ex motu centri gravitatis G in piano illo A B D. Atq; ob hujusmodi situm, tale elementum quodvis spectari potest tanquam punctum Physicum p in plano eodem A B D ad punctum z locatum. Reducatur itaq; corpus propositum in planum Physicum A B D constans ex hujusmodi particulis p.\n\nIn hoc plano ut inveniatur punctum O, cujus acceleratio propria non mutatur ab actionibus particularum reliquarum, attendendum est ad vites particulae cujusvis singularis p in puncto z sitae. Nam ex hisce viribus coniunctis oritur plani totius motus absolutus; cujus ope datur motus puncti cujusvis propositi; unde vicissim invenitur punctum cujus motus est datus.\n\nAt urgetur particula p a vi propriæ gravitatis; quae si partium cohaesio dissolveretur, in dato tempore minimo, datam produceret accelerationem motûs in perpendiculari ad Horizontem z y. Ad C z duc normalem y x, & resolvetur acceleratio z y in partes z x & x y. Ob corporis rigiditatem, tollitur vis z x per resistentiam puncti C. At vi reliqua x y trahitur spatium A B D in gyrum circa punctum C; & ducta horizontali C o & perpendiculari z s, erit ea ut \\( \\frac{C_s}{C_z} \\): Nempe ob gravitatis vim datam, & similia triangula x y z & s C z. Ergo vis particulae p ad movendum spatium A B D est ut \\( \\frac{C_s}{C_z} \\times p \\).\n\nAd has vires in unum colligendas, sit O punctum invariabile, in linea ad libitum ducta & ad distantiam adhac incognitam C O. Tum erit vis particulae p ad movendum\nvendum punctum O, ut \\( \\frac{Cz}{CO} \\times \\frac{Cs}{Cz} \\times p \\), hoc est ut \\( \\frac{Cs}{CO} \\times p \\).\n\nAcceleratio autem, quam tribuit p eidem puncto O, erit ut \\( \\frac{CO}{Cz} \\times \\frac{Cs}{Cz} \\). Itaque applicatâ vi illâ \\( \\frac{Cs}{CO} \\times p \\) ad hanc accelerationem \\( \\frac{CO}{Czq} : \\) erit quotiens \\( \\frac{Czq}{COq} : \\times p \\) particula, quae, si in ipso puncto O fingatur moveri cum eadem acceleratione \\( \\frac{CO}{Czq} : \\), eundem omnino produceret motum, quem in eodem puncto O producit particula p.\n\nHinc demum reducitur Problema ad motuum Theorema notissimum: Applicatâ enim summâ virium \\( \\frac{Cs}{CO} \\times p \\) ad summam particularum \\( \\frac{Czq}{COq} : \\times p \\), erit quotiens acceleratio absoluta puncti O. Dein ductâ perpendiculari O o, & positâ hac acceleratione æquali datæ accelerationi \\( \\frac{Co}{CO} \\) ipsius puncti O, dabitur distantia CO. Sit enim \\( \\frac{Co}{CO} = d \\), & (juxta methodum Fluxionum) \\( Cs \\times p = M \\), & \\( Czq : \\times p = C \\). Tum ob CO invariabilem erit summa omnium virium \\( \\frac{Cs}{CO} \\times p = \\frac{M}{CO} \\), & summa omnium particularum \\( \\frac{Czq}{COq} : \\times p = \\frac{C}{COq} : \\). Unde, applicatâ summâ momentorum ad summam corporum, erit \\( \\frac{M}{C} \\times CO = d \\) adeoque \\( CO = \\frac{dC}{M} \\). Inventis igitur C & M, per Fluxionum methodum inversam, dabitur CO. Q. E. I.\n\nCor. A centro gravitatis G ad horizontalem CO duc perpendiculararem G g, & sit corpus ipsum A B C = A. Tum\nTum ex notissimâ indole centri gravitatis erit $M = Cg \\times A$.\n\nUnde est $CO = \\frac{dC}{Cg \\times A}$.\n\nProp. 2. Theor. i.\n\nIisdem positis quaeratur punctum O in rectâ CG transfe.\n\\[= CGq: + Gzq: + 2CG \\times Gf:\\]\n\nEst ergo \\(C = (\\text{aggregato omnium } Czq: \\times p =) \\text{ aggregato omnium } CGq: \\times p + Gzq: \\times p - 2CG \\times GF \\times p + 2CG \\times Gf \\times p.\\)\n\nAt ob centrum gravitatis \\(G,\\) est aggregatum omnium \\(2CG \\times GF \\times p = \\text{ aggregato omnium } 2CG \\times Gf \\times p.\\) Quare est \\(C = \\text{ aggregato omnium } CGq: \\times p + Gzq: \\times p = CGq: \\times A + D.\\) At enim per Theor.1.est \\(CO = \\frac{C}{CG \\times A}.\\) Ergo \\(CO = CG + \\frac{D}{CG \\times A}.\\)\n\nQ.E.D.\n\nCor. Hinc datur parallelogrammum \\(CG \\times GO.\\) Est enim \\(GO = \\frac{D}{CG \\times A}.\\) At dantur \\(A & D.\\) Quare datur \\(CG \\times GO = \\frac{D}{A}.\\)\n\nProp. 4. Theor. 3.\n\nIisdem positis, si in puncto \\(O\\) constituatur particula physica \\(\\frac{CG \\times A}{CO},\\) que propria gravitate agitata Oscillet circa punctum \\(C;\\) spatij \\(ABC\\) motus perinde omnino erit, ac si agitaretur ab Oscillatione ipsius corporis \\(A.\\)\n\nConstat tam ex Natura centri gravitatis, quam per Prob 1. Est enim \\(\\frac{CG \\times A}{CO}\\) aggregatum omnium \\(\\frac{Czq: \\times p}{COq:} = \\frac{C}{COq:}.\\)\n\nProp. 5.\nProp. 5. Prob. 2.\nDatis corporis cujusvis magnitudine A, centro gravitatis G, & puncto suspensionis C. Invenire ejusdem centrum Oscillationis O.\n\nFit per Theor. 1. inveniendo quantitatem C; vel per Theor. 2. quaerendo quantitatem D.\n\nScholium.\nAd instituendum calculum in casu particulari, eligenda est quantitas C vel D, prout suggérit natura figuræ propositæ. Dein dati earum alterutram, aliter item dabitur per æquationem (Prop. 3.) \\( C = CG q \\cdot x A + D \\). Unde etiam dabitur pgr. \\( CG \\times GO = \\frac{D}{A} \\) (Cor. Prop. 3.)\n\n\\[\n= \\frac{C}{A} - CG q \\cdot . \\text{ Cujus ope, ex datis centro gravitatis & puncto suspensionis, datur centrum Oscillationis per solam divisionem. Quare in quoilibet exemplo semper commodissimum erit hoc parallelogrammum primùm eruere, vel per computum ipsius D, vel per quantitatem C, ex idoneâ assumptione centri suspensionis.}\n\\]\n\nSuperest, ut hæc exemplis aliquot illustrémus.\n\nEx. 1. Sit figura proposita Pyramis A D C, cujus basis est pgr. A D, fitque motus centri gravitatis in plano transversáte per verticem C & diametri basis E F lateri A B parallelam.\n\nAd calculum commodissime instituendum, sit ipse vertex C centrum suspensionis. Tum ad modum Prob. 1. reducatur figura ad planum physicum trianguli Isoscelis C E F, in quo est parallela ipsi EF repræsentat lineam physicam ex particulis p compositam. Sit \\( CH = a \\), \\( HF \\)\n\\( H F = b, \\quad \\& \\quad C h = x. \\) Tum ex naturâ figuræ erit \\( e h = \\frac{b}{a} x, \\quad \\& \\quad \\text{particula p sita ad punctum z erit ut } x; \\quad \\text{vel Potius, facto } h z = v, \\quad \\text{erit } \\dot{v} \\dot{x} \\text{ elementi prismatici basis,} \\quad \\& \\quad \\text{perit ut } \\dot{v} \\dot{x} x. \\) Unde erit \\( \\dot{C} = C z q : \\times \\dot{v} \\dot{x} x = \\dot{v} x x^3 + \\dot{x} \\dot{v} v^2 x. \\) Ideoque summa omnium \\( C z q : \\times p \\text{ in linea} \\) \\( h z \\text{ erit } v \\dot{x} x^3 + \\frac{\\dot{x} x v^3}{3}; \\quad \\& \\quad \\text{in linea } e f \\text{ (pro } v \\text{ ponendo } \\frac{b x}{a}) \\text{ erit summa illa } \\frac{6 b a^2 + 2 b^3}{3 a^3} \\times \\dot{x} x^4. \\) Unde iterum capiendo fluentem, \\& pro \\( x \\) scribendo \\( a, \\) erit \\( C = \\frac{6 b a^2 + 2 b^3}{15} \\times a^2. \\) Est autem pyramis ipsa \\( A = \\frac{2 b a a}{3}, \\quad \\& \\quad \\text{distantia centri gravitatis } G \\text{ a vertice } C \\) est \\( C G = \\frac{3}{4} a. \\) Unde \\( \\frac{C}{A} - C G q : = \\frac{D}{A} = C G \\times GO = \\frac{3 a^2 + 16 b^2}{80}. \\)\n\nEx. 2. Sit figura propposita Conus rectus descriptus rotatione trianguli isoscelis \\( E C F \\) circa perpendiculum \\( C H. \\)\n\nHic iterum sumpto vertice \\( C \\) pro centro suspensionis, \\& factis \\( C H = a, \\quad H E = b, \\quad C h = x, \\quad h z = v, \\quad \\text{ut supra;} \\) erit \\( p = 2 \\dot{x} \\dot{v} \\times \\sqrt{\\frac{b b}{a a}} x x - vv; \\quad \\text{unde } \\dot{C} = 2 \\dot{v} \\dot{x} \\times x x + vv \\times \\sqrt{\\frac{b b}{a a}} x x - vv. \\) Sit \\( B \\) segmentum circuli diametro \\( e f \\) descripti, quod adjacet Abscissæ \\( h z = v, \\) \\( D \\) & Or.\n& Ordinatæ \\( \\sqrt{\\frac{b^2}{a^2}} x x - v v \\); tum erit summa omnium\n\n\\( C z q : \\times p \\) in rectâ \\( h z = 2 \\times \\frac{4 a^2 + b^2}{4 a^2} x^2 B - \\frac{1}{2} \\times v \\)\n\n\\( \\times \\frac{b^2}{a^2} x^2 - v^2 \\). Et quando \\( v = c h \\), erit hæc summa\n\n\\( 2 \\times \\frac{4 a^2 + b^2}{4 a^2} x^2 B \\); cujus duplum \\( \\frac{4 a^2 + b^2}{a^2} \\times x^2 B \\) est\n\npars ipsius \\( C \\) in rectâ e f. Est autem area \\( B \\) ut \\( x^2 \\); sit\n\nergo \\( B = c x^2 \\); atq; pars illa ipsius \\( C \\) erit \\( \\frac{4 a^2 + b^2}{a^2} \\times\n\n\\times c \\times x^4 \\). Unde capiendo fluentem erit \\( C = \\frac{4 a^2 + b^2}{5} \\times c a^3 \\).\n\nEst autem conus ipse \\( A = \\frac{4}{5} c a^3 \\), & \\( C G = \\frac{1}{5} a \\). Unde\n\n\\( \\frac{C}{A} - C G q := \\frac{D}{A} = \\frac{3 a^2 + 12 b^2}{80} \\).\n\nAtq; ad hunc modum procedit calculus in alijs figuris,\n\nubi rationes \\( C h \\) ad \\( h e \\), & \\( h z \\) ad \\( p \\) sunt magis com-\n\npositæ.\n\nEx. 3: Ut pateat ratio calculi quantitatis \\( D \\), sit figura\n\nproposita parallelepipedon,\n\ncujus facies Horizonti per-\n\npendicularis, & parallela pla-\n\nno motûs centri gravitatis est\n\n\\( A B D \\). Duc diametros \\( E F\n\n& H I \\), & sit altitudo ele-\n\nmentorum \\( p \\), :: & fit \\( t r \\) pa-\n\nrallela \\( H I \\); & \\( G F = a \\),\n\n\\( O H = b \\), \\( G s = x \\), & \\( s z = v \\). Tum erit \\( D = \\frac{v}{x} x x\n\n+ \\frac{1}{2} v v v \\). Unde ipsius \\( D \\) pars in rectâ \\( t r \\) erit \\( 2 b \\times x^2\n\n+ \\frac{1}{2} b^3 x \\); atq; iterum sumendo fluentis duplum, erit\n\n\\( D \\)\n\\[ D = \\frac{4b^3a + 4b^3a}{3} \\cdot \\text{Atqui est } A = 4ab; \\text{ unde est} \\]\n\\[ \\frac{D}{A} = \\frac{aa + bb}{3} = \\frac{1}{12} DB \\text{ quad.} \\]\n\nEx. 4. Sit ultimum exemplum in Sphaera, cujus circulus maximus B t r, diameter A B, & centrum G. Tum ductis lineis ut in Schemate satis patent, erit \\( D = Gsq: x p + Gm q : x p \\). At summa omnium \\( Gsq : x p \\) in recta t r est \\( Gsq : \\) ductum in aream circuli diametro t r descripti. Item summa omnium \\( GMq : x p \\) in recta k i est \\( Gm q : x \\) aream circuli diametro k i descripti. Unde statim constat esse \\( D = \\) quater fluenti ipsius \\( Gsq : \\) in aream circuli cujus diameter est t r. Sit ergo c area circuli cujus radij quadratum est 1, & sit \\( GA = a, \\) & \\( GS = x \\). Tum erit \\( D = 4x \\times x \\times caa - cxx = 4ca^2x^2 - 4cxxx \\). Unde sumendo fluentem, & faciendo \\( x = a, \\) erit \\( D = \\frac{8}{15} ca^5 \\). Est autem \\( A = \\frac{4}{3} ca^3 \\).\n\nUnde \\( \\frac{D}{A} = \\frac{2}{5} aa \\).\n\nOb affinitatem solutionis libet his subjungere Problem de inventione Centri Percussionis.\n\nProp. 6. Prob. 3.\n\nCorporis cujusvis circa datum punctum rotati, invenire Centrum Percussionis; punctum scilicet tale, ut Corpus in illud impingens, & eadem operâ solutum a puncto suspensionis, neque huc neque illuc inclinet.\n\nPrimùm constat hoc punctum quaerì debere in plano motûs centri gravitatis. Si enim corpus resolvatur in e\nducetur corpus per contractionem elementorum prismaticorum in particulas p ad puncta z sitas, ut in Prob. I. In hoc piano fit C centrum rotationis; aut talitem ejus projectio facta per lineam perpendiculararem in hoc planum demišam; & sit Q punctum quaeśtum. Per C duc ad libitum C ξ, in qua sume puncta duo z & ξ, ita ut ductis z Q & ξ Q, sit angulus C z Q obtusus, & angulus C ξ Q acutus: atque in punctis z & ξ sint particulae p & π. Tum ad C ξ ductis normalibus z r & ξ r, quae sint ad inuicem ut C z ad C ξ, iis repraesentabuntur vel citates absolutae particularum p & π. At harum velocitatum partes quae sunt in directionibus z Q & ξ Q, tolluntur per resistentiam puncti Q. Ad Q z & Q ξ duc normales C D & C d, & ob angulos æquales z C D = r z Q, & ξ C d = r ξ Q, velocitatum partes reliquæ, in directionibus ipsis Q z & Q ξ perpendicularibus, erunt ut z D & ξ d. Unde habita ratione distantiarum Q z & Q ξ, erunt vires particularum p & π ad movendum spatium A B in partes contrarias, ut D z × z Q × p, & d ξ × ξ Q × p. At per conditiones Problematis debent summæ hujusmodi contrariarum virium esse inter se æquales.\nOb angulos ad D & d rectos, sunt puncta D & d ad circumferentiam circuli diametro C Q descripti. Sit istius circuli centrum E. Tum ductis E z & E ξ circulo occurrentibus in F & I, f & i, erit D z × z Q = F z × z I = E.F q :—E z q := E Q q :—E z q :, & d ξ × ξ Q = E ξ q :—E Q q : Quare erit summa omnium E Q q : × p —E z q : × p = summæ omnium E ξ q : × π — E Q q : × π ; & terminis transpositis, summa omnium E Q q : × p + π : = summæ omnium E z q : × p + E ξ q : × π, hoc est, si p ponatur tam pro particula p intra circularum, quam pro particula π extra circularum, erit summa omnium E Q q : × p = summæ omnium E z q : × p. Ad C Q duc normalem z s. Tum erit E z q := C z q : + E C q :—Q C × C s. Quo valore ipsius E z q : ei substituto, & aquatione debite tractata, tandem inveneries summam omnium C Q × C s × p = summæ omnium C z q : × p. Unde est C Q = summæ omnium C z q : × p. At enim est summa omnium C s × p omnium C z q : × p ipsa quantitas C in calculo centri Oscillationis : & si centrum gravitatis sit G, & ad C Q ducatur normalis G g, & corpus ipsum dicatur A, erit summa omnium C s × p = C g × A. Unde est C Q = \\frac{C}{C g × A}. Sit centrum Oscillationis O; tum per\n\nTheor. 1. erit C O = \\frac{C}{C G × A}. Unde est C g : C G : : C O : C Q. Quare per O ducta ad C O perpendicularis transibit per punctum Q. Q. E. I.\n\nIII. Epistola",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103176.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 12,
+    "total-input-tokens": 17988,
+    "total-output-tokens": 5564,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1164,
+        2
+      ],
+      [
+        1164,
+        2667,
+        3
+      ],
+      [
+        2667,
+        4165,
+        4
+      ],
+      [
+        4165,
+        4349,
+        5
+      ],
+      [
+        4349,
+        5490,
+        6
+      ],
+      [
+        5490,
+        6873,
+        7
+      ],
+      [
+        6873,
+        8511,
+        8
+      ],
+      [
+        8511,
+        10027,
+        9
+      ],
+      [
+        10027,
+        11430,
+        10
+      ],
+      [
+        11430,
+        12553,
+        11
+      ],
+      [
+        12553,
+        13900,
+        12
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103176",
+    "title": "De Inventione Centri Oscillationis- Per Brook Taylor Armig. Regal. Societat. Sodal",
+    "authors": "Brook Taylor",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 12,
+    "jstor_url": "https://www.jstor.org/stable/103176"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "54f1ca5fdc6290f249a93f71e3a335e60d83aaaa",
+  "text": "Extracts of two Letters written from Darby, Novemb. 21. and Decemb. 2. 1671. by Mr. John Flamstead to the Publisher, touching some late Appearances of Saturn.\n\nThe first speaks thus:\n\nOctob. 12. last past, at my first viewing Saturn with my less Tube, I thought I saw something on each side of him, amidst the Colours of my Glass and the Spurious rays of his Body. Directing my longer Tube (of 14 feet) to him, I could see his Anses somewhat more distinctly, but very slender, and to one, that thought not of them, scarce discernable.\n\nThe other saith:\n\nLast Thursday night, Novemb. 30. (the only clear night we have had of late,) I observed Saturn with my 14 foot Telescope, the Aperture being 1½ inch, and its Eye-glass drawing two inches. He appeared perfectly round, free from rays and colours, and no Anse to be seen. My worthy friend Mr. Townly in his last to me, bearing date Novemb. 20. 1671, desreth me to continue the Observations of Saturn, telling me, that he looked at him one night, and could hardly distinguish his Line of the Anse, but plainly saw a dark line through him near his Upper part.\n\nA week or two after the Observation of Saturn, which I made Octob. 12. and sent you in my former, I had frequently the same Appearance, though in a wider Aperture, than I use at present, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101115.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 406,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1300,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101115",
+    "title": "Extracts of Two Letters Written from Darby, Novemb. 21. and Decemb 2. 1671. by Mr. John Flamstead to the Publisher, Touching Some Late Appearances of Saturn",
+    "authors": "John Flamstead",
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101115"
+  }
+}

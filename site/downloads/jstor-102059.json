@@ -1,0 +1,59 @@
+{
+  "id": "75ec56e0e81f8f3bd1e93cde3d921f31d57ad5c1",
+  "text": "the Sines of the Radical Parts, and multiply those parts by 3, the results are also roots of the cubick Equation first proposed.\n\n**EXAMPLE.**\n\n\\[ \\text{aaa} - 21a - 20 = 0 \\]\n\nThe cube Roots of the Binomials are \\( +\\frac{1}{2} + \\sqrt[3]{-\\frac{1}{4}} \\)\n\n\\[ +\\frac{1}{2} - \\sqrt[3]{-\\frac{1}{4}} \\]\n\nTheir summ is the Root sought \\( = +5 \\)\n\nAnd the other two Roots are \\( -\\frac{1}{2} + \\sqrt[3]{\\frac{1}{4}} \\)\n\n\\[ -\\frac{1}{2} - \\sqrt[3]{\\frac{1}{4}} \\]\n\nAlso in this Equation \\( a^3 - 60a - 2 = 0 \\)\n\nThe Binomial Roots are \\( +4 + \\sqrt[3]{-4} \\)\n\n\\[ +4 - \\sqrt[3]{-4} \\]\n\nHence the Root sought is \\( +8 \\)\n\nAnd the other two roots are \\( -4 + \\sqrt[3]{12} \\)\n\n\\[ -4 - \\sqrt[3]{12} \\]\n\n**ADVERTISEMENT.**\n\nThese papers were sent by Mr. Collins to Dr. Wallis in a Letter of 3 Oct. 1682, (with this Character, I have sent you here-with my thoughts about some defects in Algebra:) and are a Copy of what he had written to some other (but I know not whom) to whom he speaks all along in the second person, whereas of others he speaks in the third person. And he did intend (had he lived longer) to perfect it further; by omitting some things which (though here he notes as defects) he found after to be done already, and supplying some others. But he lived not to perfect it, and therefore (that it be not lost) we here give it as we found it.\n\nOXFORD,\n\nPrinted at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102059.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 544,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1507,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102059",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102059"
+  }
+}

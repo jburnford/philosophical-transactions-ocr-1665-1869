@@ -1,0 +1,59 @@
+{
+  "id": "1a94646e54cf78b9d4080c546a4634304af25000",
+  "text": "ERRATA:\n\nNo. 492, p. 90, l. 7, for 1793, read 1743; l. 8, for 1796, read 1746; l. 9, for 1798, read 1748. Ibid. pag. 91:\nComet anno 1729, for 91, read 41; 1729, for 906980, read 406980; 1739, for 15, read 25; 1744, for 27, read 17; Ibid. p. 162, in the Title, l. 1. and in the Contents Art. XIV. dele the Rev. p. 164, l. 14, for the 112th Year of Nab. read the 1112th Year of Nab. the 24th Day of Thoth. p. 169, l. 19, for 313, read 383; l. 23, for 4' 4', read 21' 4'. p. 172, in the Table, for 56°, read 56' 0\".\n\nNo. 495. Article II. in the Title, instead of, to the President, read to Richard Mead M.D. &c. Ibid. for 1749-30, read 1749-50.\n\nPag. 411, line 12, for Luetus read Licetus. Ibid. Note 7, read Licetus.\n\nPage 517, line 24, for contained read containing; and for fixing read fixed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104689.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 471,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        792,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104689",
+    "title": "Errata",
+    "authors": null,
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104689"
+  }
+}

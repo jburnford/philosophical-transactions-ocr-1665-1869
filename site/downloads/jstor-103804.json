@@ -1,0 +1,59 @@
+{
+  "id": "18abb5a4719b17a0d81dd51622be8c25a6fbb154",
+  "text": "by the Log, or any other Method hitherto used for that Purpose; together with several Testimonials, setting forth the Usefulness of this Invention. By Mr. Henry de Saumarez of the Island of Guernsey.\n\nERRATUM.\n\nN° 390. p. 366. l. 12. for Manel r. Maud.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103804.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 142,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        252,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103804",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103804"
+  }
+}

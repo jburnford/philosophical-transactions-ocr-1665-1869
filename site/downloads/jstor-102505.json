@@ -1,0 +1,69 @@
+{
+  "id": "ce3a12544f600450322808b5f035dce07fefb050",
+  "text": "VII. An Account of one Edmund Melloon, Born at Port Leicester, in Ireland, who was of an extraordinary Size. Communicated by Dr. William Musgrave, Fellow of the College of Physicians, and R. S.\n\nThe Measures of some of the Parts of an Irish Man shewn at Oxford, was communicated to me by Dr. Plot, he was Seven Foot Six Inches high, his Finger Six Inches Three Fourths long, the Length of his Span Fourteen Inches, of his Cubit Two Foot Two Inches, of his Arm Three Foot Two Inches and an Half, from the Shoulder to the Crown of his Head Eleven and Three Fourths, his Name Edmund Melloon, he was Aged Nineteen Years, Anno 1684. and Born at Port Leicester in Meath, in Ireland.\n\nVIII. An Account of the Dissection of a Dog that had Mercury injected into one of the Jugulars. By Dr. Christoph. Pitt.\n\nThe Mercury was thrown out of the Blood into the Cavity of the Abdomen, as likewise some Appearance of it in the other Cavities of the Body.\n\nAll the Glandules were very turgid, and full of Liquor, especially in the Ventricles of the Brain, and all round there was a great Quantity of Serum. This may be called a true Hyarocephalus.\n\nIt being a chance Dog, and having no Notice of what had been done on him, I could not so well observe whether it would work on him by Salivation, whether it made\nIX. A Letter of Dr. John Wallis, of May 14, 1698, to Sir John Blencowe (one of his Majesty's Justices of the Court of Common-Pleas) concerning the Observation of Easter for this present Year, on April 24, 1698.\n\nSir,\n\nOxford, May 14, 1698.\n\nIn Answer to yours of May 12. (which I received this Morning) you may please to present my humble Duty and Service to the Lord Chief Justice Holt, with this Account of the Seat of Easter, of which he asketh.\n\nThat there may be some little Mistakes in the Calendar of the Common-Prayer Book (as now Printed) I shall not deny.\n\nBut (as to the present Point) Easter was observed this Year, according to the Rules, so understood as was intended, though there may seem to be wanting a Rubrick to make it plain.\n\nThe fundamental Rule of the Nicene Council (which we pretend to follow) for the keeping of Easter, is to this purpose:\n\nEaster-Day is to be that Sunday which falls upon, or next after, the first Full Moon which happens next after the Vernal Equinox.\n\nWhich Vernal Equinox was then observed to fall on the One and Twentieth of March: And (in the Paschal Tables) is yet reputed to fall; (though it do now fall on the Eleventh of March, or sometimes the Tenth of March.)\n\nEc. And",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102505.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 725,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1295,
+        2
+      ],
+      [
+        1295,
+        2519,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102505",
+    "title": "An Account of the Dissection of a Dog That Had Mercury Injected into One of the Jugulars. By Dr. Christoph. Pitt",
+    "authors": "Christoph Pitt",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102505"
+  }
+}

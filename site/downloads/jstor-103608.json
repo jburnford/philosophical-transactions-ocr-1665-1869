@@ -1,0 +1,69 @@
+{
+  "id": "a51946db4db6cc8048085bb8696f8d7ecdac3a2d",
+  "text": "II. The Longitude of Carthagena in America.\n\nHaving lately, by the Favour of Sir Hans Sloane, received a Packet of Observations from Cartagene in America, made by Colonel Don Juan de Herrera, Chief Engineer of that City, I find among them one Immersion of the first Satellite of Jupiter into his Shadow, observed there by a Telescope of 17 feet, on April 9. Stilo vet. 1722. at 15 h. 58' 44\" apparent Time; and two Emersions of the same, viz. July 5. 11 h. 23' 41\" and July 21. 9 h. 42' 17\" Stilo vet. all which tally with Observations made at Wansted, by the Reverend Dr. Pound and Mr. Bradley, who observed there the very next Eclipses to all the three; that is to say, the Immersion by a fifteen Foot Tube, on April 11. 15 h. 28' 40\" Temp. aqu. or 15 h. 30' 25\" Temp. app. And the first Emersion, July 7. 10 h. 59' 28\" Temp. aqu. by the Reflector, and 18\" after, or 10 h. 59' 46\" by the 15 foot Glass, that is, 10 h. 54' 12\" apparent Time. The other was observed at Wansted. July 23. 9 h. 19' 10\" Temp. aqu. both by the Reflector and 15 foot Glass; that is to say, at 9 h. 13' 35\" apparent Time. Subtract from each of these one Period of this Satellite, or 1 d. 18 h. 28' 36\" and April 9. 15 h. 58' 44\" at Cartagene will be 21 h. 1' 49\" of the same Day at Wansted, and the difference of Meridians 5 h. 3' 5\". Likewise by the first Emersion, July 5. 11 h. 23' 41\" at Cartagene was at Wansted 16 h. 25' 36\" of that Day, whence the Difference of Meridians 5 h. 1' 55\". But by the last Emersion,\nImmersion, July 21. 9 h. 42' 17\" at Cartagene was\n14 h. 44' 59\" at Wansted; whence Wansted is\n5 h. 2' 42\" more easterly than Cartagene: and taking\nthe Medium of all three, 5 h. 2' 34\" or 75° 38' may\nbe taken for the true difference of Longitude, that is,\n75 ½ from London, which compared with Capt. Cand-\nler's Observation of the late Lunar Eclipse, shews\nCartagene to be about 20 Leagues to the Eastwards of\nPort Royal in Jamaica.\n\nIII. Cometæ Berolini, anno 1718. visi Observatio-\nnes a 18 Januarii, Stylo novo, ad 5 Febr. ex Epi-\nstolâ Viri Cl. Christfridi Kirchij, Reg. Soc.\nScient. Berolin. Astron. ad Edm. Hallejum,\nLL.D. R. S. S. desumptæ.\n\nMonere hic debeo observationes Cometæ à me inventi,\nin Novis Literariis Lipsiensibus non esse accuratas;\nprimo quidem, cum eas tantum amico cuidam festi-\nnanter transmiserim, ut etiam ille Cometam quæreret;\ndeinde, cum etiam vitium typographicum irrepserit;\nnam die 23 Januarii mane, Cometa cum θ & ϕ Cassio-\npeæ (non vero δ & φ) construebat triangulum æqui-\ncrurum; & vesperi ϕ Persei, Cometa & θ Cassiopeæ\nad sensum erant in linea recta. Pleniorum Cometæ\nhistoriam jam paratam habeo, ex qua haec breviter at-\ntingam. Observavi eum a die 18 Jan. ad 5 Februarii.\nLoca ejus ex observationibus ad horam 10 vespertinam\ncujusque diei, quo Cometa observari potuit, reducta,\nhaec Tabella exhibet.\n\nVia",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103608.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 1144,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1495,
+        2
+      ],
+      [
+        1495,
+        2838,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103608",
+    "title": "The Longitude of Carthagena in America. By the Same",
+    "authors": "Dr. Halley",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103608"
+  }
+}

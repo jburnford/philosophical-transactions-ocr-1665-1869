@@ -1,0 +1,59 @@
+{
+  "id": "3a566bae174f58d91e4d8e8dd14c99c867f4e74a",
+  "text": "XVIII. On the Nervous Ganglia of the Uterus. By Robert Lee, M.D., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . page 269\n\nXIX. On a Cycle of Eighteen Years in the Mean Annual Height of the Barometer in the Climate of London, and on a constant variation of the Barometrical Mean according to the Moon's Declination. By Luke Howard, Esq., F.R.S. . . 277\n\nXX. Computation of the Ratio of the Diameter of a Circle to its circumference to 208 places of figures. By William Rutherford, Esq., of the Royal Military Academy. Communicated by S. Hunter Christie, Esq., M.A., Sec. R.S. &c. &c. 281\n\nXXI. Researches in the Theory of Machines. By the Rev. H. Moseley, M.A., F.R.S., Professor of Natural Philosophy and Astronomy, King's College, London 285\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 307\n\nAPPENDIX.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [1]\n\nMeteorological Journal kept at the Apartments of the Royal Society, by order of the President and Council.\n\nERRATUM.\n\nPage 229, line 2, for to prolong themselves into lymph, read to prolong themselves into the lymph.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108247.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 470,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1225,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108247",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1841,
+    "volume": "131",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108247"
+  }
+}

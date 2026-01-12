@@ -1,0 +1,79 @@
+{
+  "id": "bb938637e0c23aae9eb07ae5a73ce6ba51f72931",
+  "text": "V. An Account of a Storm of Rain that fell at Denbigh in Wales: Communicated to Dr Hans Sloane, R. S. Secr.\n\nUpon Tuesday, the 16th day of July 1706, about eight a clock in the Morning, it began to rain in and about Denbigh, which continued incessantly for 30 hours, but not very violently, till about three or four a Clock in the Morning upon Wednesday, when it rain'd somewhat faster, attended with a terrible noise (like Thunder) with some flashes of Lightning, and a boisterous Wind. About break of day the Rain and Wind began to abate of their violence, which lessen'd gradually every hour, till about one or two a clock in the afternoon, and then it perfectly ceased, and the Air became clear and somewhat calm.\n\nUpon Tuesday the Wind blew South West, but on Wednesday it was come to the North West.\n\nThe effects of this great Storm were dismal, for it occasioned the overflowing of all the Rivers in Denbighshire, Flintshire and Merionithshire, &c. which spoiled a great deal of Corn, and took off all the Hay that was mowed, near the Banks of the Rivers, which was carried by the Stream in such vast Quantities down to the Bridges, that it shook the Arches and Inlets, insomuch that it broke down above a dozen great Bridges, the rebuilding of which in the three Counties above-mentioned is valued at some thousands of pounds. Great Oaks and other\nother large Trees were unrooted and swept away, with several Quickset Hedges; and some Quillets by the side of the River Elwy so covered with Stones and Gravel, that the Owners can't well tell whereabouts their Hedges and Landmarks stood; and the same River has alter'd its course in some places, so as to rob the Landlords on one side of some Acres, and bestowed as much on the opposite side. Two or three Rivulets, that convey'd Water to some Mills, have been so choked up with Stones and Gravel, that the Owners don't think the Profit will counter-vail the great charge of clearing them.\n\nIt is affirmed by a great many people, that the great Floods were not so much the effects of the Rain, as the breaking out of an infinite number of Springs, in such places, as they were never known to flow from before. In the Town of Denbigh a great many broke out in the Houses and Stables, especially in that part which lies next the Castle on the North side of it; some of which broke out with a great deal of violence, and in such a quantity, that it is affirmed by several men of the Town, that three of these new Springs, which flowed out of the Stables of the three noted Inns, viz. the Bull, Cross Keys, and Boars Head, were sufficient to turn any Corn Mill.\n\nAt a small distance, Northward of Denbigh, lies Park-Snodiog, a Rocky Hill, out of which broke out a great many Springs, which flowed so plentifully for nine or ten days, that the Cattle water'd in them for that time; whereas before and after, the people were forc'd to Water them all Summer long at a Well in the High-way, at some distance from this Park-Snodiog. There are several deep Holes and Trenches cut in the High-ways adjoining to the River Elwy, &c. some so very large, as to hide 3 or 4 Horses, which is not attributed so much to the overflowing of the River, as to the breaking out of Springs in those very places.\nIn Comb Mountain there is a Pit of a circular form, which in the Summer time used to have little or no Water in it, and in Winter, as much Water as would swell the surface to about fourteen or sixteen yards cross over: But now in the midst of Summer it rose up at least a yard and a half higher than it was ever known to do in the wettest Winters; and overflowing its Banks, it fell down the Hill with such violence, as to penetrate into the very body of a Rocky Road, and dug Pits in it, that will bury the biggest Horses, and the Road, which was a common Highway, is now become irreparable.\n\nVI. An Observation of a Tumor on the Neck, full of Hydatides, cured by Mr Anthony Hewnden, Surgeon: Communicated by Dr Edw. Tyson, F.R.S.\n\nA Gentlewoman in London, aged 25 years, had a large Wenny Tumor, the Basis taking its Origin from all the lower hinder part of the Skull, stretching down the Neck near each Jugular, extending itself almost as low as both Scapula's; on the upper part was a Phlegmon. The Radix being so large, I put on a transverse Caustick the length and breadth of the Tumor, intending to separate the Cutis from the Membrane of the Ciftis; but it being so thin where the Phlegmon was, oblig'd me to divide the Ciftis; out of which I sav'd above threescore Hydatides, of the bigness of a small Wallnut: Several more were broken. These Hydatides swum in a Liquor of the consistence of Whites of Eggs. In this Ciftis I found a large quantity of Atheromatous and Steatomatous Matter, at the Basis a large Sarcoma; the greatest part I cut off, but fearing to hurt the Muscles of the Neck, deferr'd it to the next dressing.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102693.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1306,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1356,
+        2
+      ],
+      [
+        1356,
+        3244,
+        3
+      ],
+      [
+        3244,
+        4879,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102693",
+    "title": "An Account of a Storm of Rain That Fell at Denbigh in Wales: Communicated to Dr Hans Sloane, R. S. Secr.",
+    "authors": null,
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102693"
+  }
+}

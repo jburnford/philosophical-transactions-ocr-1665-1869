@@ -1,0 +1,69 @@
+{
+  "id": "695deec9d72cdefe2e9255bb2d445c5638e2a64d",
+  "text": "V. Observations of the Occultation of Mars by the Moon, Oct. 7. 1736. communicated to the Royal Society.\n\n1. An Observation of the Occultation of Mars by the Moon, Oct. 7. 1736. made by Mr. Geo. Graham, F.R.S. in Fleetstreet, London, with a Refracting Telescope of 12 Feet.\n\nOctober 7th, the first Contact could not be seen for Clouds.\n\nApparent Time.\nH. M. S.\nAt 14 24 44 Mars appear'd about half cover'd, but a distinct View could not be had for flying Clouds.\n14 25 21 Mars totally cover'd, the last Ray of Light being then lost.\n15 11 22 The Moon appear'd, but Mars was not seen, no Part being yet emerg'd.\n15 15 11 I judg'd it was quite emerg'd, but Clouds prevented the Moon's Limb from being distinctly seen.\n\n2. An\n2. An Observation of an Occultation of Mars by the Moon, in Covent-Garden, 1736. by J. Bevis, M.D.\n\nBefore the Eclipse, I took several Differences of Right Ascension and Declination between $\\alpha$ and $\\mu$ Piscium, for ascertaining the true Place of Mars: As also several Differences of Right Ascension and Declination between the Moon and Mars, before and after the Eclipse, which I shall give another Time:\n\nOctob. 7. P. M.\nApparent Time.\nH. M. S.\n14 24 10 I was surpriz'd to see Mars continue quite round, though hardly, to Appearance, disjoin'd from the scabrous Edge of the Moon; but that Instant I thought it began to lose its Figure.\n—Clouds.\n14 25 26 The Moon shone out bright again, but Mars was intirely vanish'd.\n15 14 46 The Moon being just clear of a Cloud, I saw Mars partly emerged.\n15 14 49 He seem'd just half out; then Clouds came on again, so that I saw not the final Contact.\n\nThe Moon's Diameter was 21,157 Parts of the Micrometer and its illuminated Part pass'd over the horary Thread in 2 Minutes, 3 Seconds.\nI am certain of the Time to 2 or 3 Seconds.\n\nVI. Ob-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103899.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 632,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        723,
+        2
+      ],
+      [
+        723,
+        1810,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103899",
+    "title": "Observations of the Occultation of Mars by the Moon, Oct. 7. 1736. Communicated to the Royal Society",
+    "authors": "Geo. Graham, J. Bevis",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103899"
+  }
+}

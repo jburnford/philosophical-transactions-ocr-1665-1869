@@ -1,0 +1,69 @@
+{
+  "id": "9423cd94ca913a1f628269843131b7e13dbb5c44",
+  "text": "XXII. An Observation on the Planet Venus, (with regard to her having a Satellite) made by Mr. James Short, F.R.S. at Sunrise, October 23. 1740.\n\nDirecting a reflecting Telescope of 16.5 Inches Focus, (with an Apparatus to follow the diurnal Motion) towards Venus, I perceived a small Star pretty nigh her; upon which I took another Telescope of the same focal Distance, which magnified about 50 or 60 times, and which was fitted with a Micrometer, in order to measure its Distance from Venus; and found its Distance to be about $10^\\circ.2'.0''$. Finding Venus very distinct, and consequently the Air very clear, I put on a magnifying Power of 240 times, and, to my great Surprise, found this Star put on the same Phasis with Venus. I tried another magnifying Power of 140 times, and even then found the Star under the same Phasis. Its Diameter seemed about a Third, or somewhat less, of the Diameter of Venus; its Light was not so bright or vivid, but exceeding sharp and well defined. A Line, passing through the Centre of Venus and it, made an Angle with the Equator of about 18 or 20 Degrees.\n\nI saw it for the Space of an Hour several times that Morning; but the Light of the Sun increasing, I lost it altogether about a Quarter of an Hour after Eight. I have looked for it every clear Morning since, but never had the good Fortune to see it again.\n\nCassini,\nCassini, in his Astronomy, mentions much such another Observation.\n\nI likewise observed Two darkish Spots upon the Body of Venus; for the Air was exceeding clear and serene.\n\nXXIV. An Occultation of Jupiter and his Satellites by the Moon, October 28. 1740. in the Morning; observed at Mr. George Graham's, F. R. S. House in Fleetstreet, London, by Dr. Bevis and Mr. James Short, F. R. S.\n\n| Times by the Clock, October 26. | Apparent Times. October 27. |\n|-------------------------------|-----------------------------|\n| Clock above Stairs.            | h. '.\"                     |\n| 23. 46. 38.                   | o. o. o.                   |\n| Clock below.                  |                             |\n| 14. 49. 4.                    | 15. 2. 25.                 |\n| 14. 52. 32.                   | 15. 5. 53.                 |\n\nThe Sun's Centre passed the Meridian in the Transitory.\n\nThe Moon's illuminate Limb preceded Jupiter in Right Ascension 1'. 38''. in time.\n\nThe same Limb preceded Jupiter 1'. 31''. These were taken with a reflecting Telescope, 9 Inches",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104341.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 726,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1364,
+        2
+      ],
+      [
+        1364,
+        2436,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104341",
+    "title": "An Observation on the Planet Venus, (with Regard to Her Having a Satellite) Made by Mr. James Short, F. R. S. at Sunrise, October 23. 1740",
+    "authors": "James Short",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104341"
+  }
+}

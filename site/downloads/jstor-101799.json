@@ -1,0 +1,59 @@
+{
+  "id": "436c8b5bff53f86db45c794f4ec865e087b7af77",
+  "text": "Extract of a Letter sent from Genoa to Sign. Sarotti, the Venetian Resident here, and by him communicated to the Honourable Mr. Boyle.\n\nOn St. Joseph's day, upon the Mountains call'd Le Langhe, there fell upon the white Snow, that was there already, a great quantity of red, or if you please of bloody Snow. From which, being squeezed, there came a water of the same colour. Of this there are here many Eye Witnesses.\n\nAnatomical Observations of the Structure of the Nose: made by Mons. du Vernay. Taken out of the Journal des Scavans.\n\nAn account is here given of a Book entitled, Philosophia Vetus & Nova. The Learned Author whereof hath collected and composed together into one Systeme a great number of excellent Observations; amongst the rest of which, here briefly mention'd, we have this, nowhere else published that I know of, set down at large, as follows.\n\nOf the Structure of the Nose, Mons. du Vernay observes, That the cavities hereof are fill'd with many Cartilaginous Lamines distinct one from another: every Lamine being divided into many others, all folded almost into a spiral line. That the Os Cribrosum is made up of the extremities of these Lamines, which butt upon the Root of the Nose; the holes wherewith it is pierced, being the intervals between the Lamines.\n\nThey are designed to uphold the inner Tunick of the Nose. Which Tunick, being a principal Organ of Smelling, hath received from Nature a very great expansion: for the commodious placing whereof, Nature hath folded it round about together with these Lamines; that by this industrious Mechanism, she may employ all its length in a very little room.\n\nThis Tunick is fill'd with an innumerable company of small Rays; so many branches of Arteries and Veins; and especially Nerves; by which it hath a most exquisite sense. Yet because the particles of Odorant bodies are so subtil, that they can but very softly glance upon the Organ; Nature hath therefore provided by this great expansion, that there",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101799.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 510,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1981,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101799",
+    "title": "Extract of a Letter Sent from Genoua to Sign. Sarotti, the Venetian Resident Here, and by Him Communicated to the Honourable Mr. Boyle",
+    "authors": "Genoua, Sign. Sarotti",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101799"
+  }
+}

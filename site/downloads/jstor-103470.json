@@ -1,0 +1,89 @@
+{
+  "id": "8eb067439e88a05881f6653f1fb438f849c2dc2b",
+  "text": "II. Eclipse Lune observata Romae, ad radices Collis Quirinalis, nocte sequente diem 31 Octobris, 1724 per clarissimum Virum Franciscum Blanchinum. Ex Epistola Rev. Cl. Viri, Johannis Baptistæ Carbone, S. Jes. ad Isaacum Sequeyra Samuda, M. D. R. S. S. Coll. Med. Lond. Lic.\n\nNitium umbræ veræ (quantum secerni potest à penumbra) apparere nunc incipit in limbo Lunæ, in ea parte disci, quam fecat radius à centro Lunæ ductus per maculam Arisfarchi.\n\nCum nubes redderent difficiliorem conspectum macularum, curavi definire quantitatem diametri obscuratae ope Micrometri. Nunc igitur latent Digiti 3 circiter. Nam portio diametri A B Fig. 1 ab umbra libera, est partium 14, qualium tota Lunæ diameter est 18 ½.\n\nSerenato tantisper caelo, umbræ limes transire videtur per Rheinoldum. Portio autem Diametri A B ab umbra non infecta est partium Micrometri 13.\n\nUmbræ limes tanto spatio est infra Grimaldum (in tubo invertente objecta) quanta est diameter ejusdem maculae Grimaldi. Transit quoque limes umbræ per Eudoxum & Aristotelem.\nA B partes Micrometri 9.\nUmbræ limes pervadit centrum Maris Crisium, & stringit limbum maculæ Grimaldi. Portio verò A B immunis ab umbra æquat partes Micrometri 8½.\n\nSirius ad Meridianum appellit clarissimè.\nTotum Mare Crisium jam latere incipit, & in umbræ limite versatur etiam centrum maculæ Grimaldi. A B est partium Micrometri 8.\n\nA B partium Micrometri 7½.\nA B partium 7¼ circiter. Totus Grimaldus extra umbram, & Ricciolus quoque visitur. Limes umbræ transit per marginem Maris Nectaris.\n\nDetegitur Galilæus.\nA B partes Micrometri 8.\nAristarchus incipit ex limite umbræ prodire.\nCentrum Aristarchi exit.\nTotus Aristarchus extra umbram.\nCentrum Copernici exit.\nTotus Copernicus extra umbram.\nEratosthenes exit.\nHelicon incipit emergere.\nA B partes Micometri 12½.\nPlato incipit emergere.\nTotus Plato extra umbram.\nPlinius extra umbram.\nA B partes Micrometri 14, vel 14½.\nQuare digiti tres adhuc latent.\nPrior limbus Maris Crisium incipit prodire.\nCentrum Maris Crisium extra umbram.\nTotum mare Crisium extra umbram.\n\nFinis\nFinis umbræ veræ, quaë exit è limbo Lunæ circa punctum definitum per Diame-\ntrum à centro ductam per Cleomedem.\n\nIII. Observationes aliquot Circum-Jovialium habi-\nte eodem anno 1724. per eundem Cl. Blan-\nchinum. Ex eadem Epistola.\n\nIn Castro Viscardi supra Vul-\nsiniun in eodem serè Meridi-\nano cum Vulsiniis (vulgò Bolsena)\nSatelles fecundus B (Vide Fig. 2.)\nex umbra Jovis emerserat, & ita\nconfiguratus visebatur cum cæ-\nteris.\n\nSatelles tertius C subit limbum\nJovis è directo fasciæ mediae.\n\nSatellitis intimi A incipit lumen\nimminui.\n\nTotalis ejusdem immersio, re-\nliquis Satellitibus B, D, & fasciis\nperspicuè apparentibus.\n\nRomæ observata est tum im-\nmersio secundi Satellitis, tum pri-\nmi, ita configuratis Jovialibus.\n(Vide Fig. 3)\n\nSatellitis secundi B incipit lu-\nmen debilitari.\n\nOmnimoda ejusdem immersio.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103470.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1145,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1029,
+        3
+      ],
+      [
+        1029,
+        2057,
+        4
+      ],
+      [
+        2057,
+        2874,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103470",
+    "title": "Eclipsis Lunae Observata Romae, ad Radices Collis Quirinalis, Nocte Sequente Diem 31. Octobris, 1724. Per Clarissimum Virum Franciscum Blanchinum. Ex Epistola Rev. & Cl. Viri, Johannis Baptistae Carbone, S. Jes. ad Isaacum Sequeyra Samuda, M. D. R. S. S. Coll. Med. Lond. Lic.",
+    "authors": "Johannis Baptistae Carbone",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103470"
+  }
+}

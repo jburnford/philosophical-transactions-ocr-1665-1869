@@ -1,0 +1,69 @@
+{
+  "id": "8fd81e69fc00f15ce7518e7686a7a7cd3f6a55ec",
+  "text": "III. Registrum Observationum de Lumine Boreali per quadriennium. Ex Epistola Viri Cl. Gulielmi Rastrick, ad Martinum Folkes, Arm. R. S. V. Pr. Lennæ Regis, Martii 20, 1727.\n\nMitto tibi, Vir Amplissime, Registrum breve Observationum de Luminibus Borealibus, per quadriennium alterum (videlicet ab anno 1722,) à me continuatum. Nescio profectò an in ulla re dignum sit tua cognitione; sed qualecunque est, judicio tuo & candori refero. Sum\n\n&c.\n\nGulielmus Rastrick.\n\nDie Martis, Feb. 19, 1722,3, hora sesquidecima.\nDie Veneris, Martii 15, 1722,3, ab hora octava, ad mediam usque noctem.\nDie Martis, Aug. 20, 1723.\nDie Dominica, Oct. 20, 1723, ab hora sexta, ad mediam noctem.\nDie Dominica, Sept. 26, 1725, Aurora Borealis visa est ab hora septima, ad horam decimam, cum Radiationibus variis.\nDie Lunæ, Oct. 3, 1726, per totam noctem.\nItem Die Martis, Oct. 4, 1726.\n\nL 1 2 Item.\nItemque Die Saturni, Oct. 8, 1726, per totam noctem. Mirum sane Phænomenon, de quo nihil dixi, quia tam accuratè describitur à Dominis Langwith, Huxham, Hallet, Hadley, & Johan. Ludov. Calandrino, in Actis Londinensibus, N°. 395.\n\nDie Mercurii, Oct. 26, 1726, circa horam decimam.\n\nDie Veneris, Martii 3, 1726, ab hora octava, ad mediam noctem. Aurora hac nocte (ut mihi videbatur) longè mirabilior fuit illâ Oct. 8; & credo equidem, nullatenus discrepavit (secundum descriptiones quas habemus) ab illo memorabili Phænomeno, sexto Martii, 1715, 16.\n\nItem Die Domin. Martii 5, 1726, 7.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103488.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 677,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        876,
+        2
+      ],
+      [
+        876,
+        1460,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103488",
+    "title": "Registrum Observationum de Lumine Boreali per Quadriennium. Ex Epistola Viri Cl. Gulielmi Rastrick, ad Martinum Folkes, Arm. R. S. V. Pr. Lennae Regis, Martii 20, 1726/7",
+    "authors": "Gulielmus Rastrick",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103488"
+  }
+}

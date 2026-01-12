@@ -1,0 +1,59 @@
+{
+  "id": "c44ebf216a76e7ff7f9aa53372f11422fe045ce1",
+  "text": "ERRATA.\n\nVOL. LXXX.\n\nP. 598. l. 14. for 307366.8 read 303766.8\n610. l. 20. for p. 224 read p. 244.\n\nAlso in Gen. Roy's Table of General Results, p. 232, longitude of Wrotham Hill, for 19.12 read 18.48.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106853.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 171,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        201,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106853",
+    "title": "Errata",
+    "authors": null,
+    "year": 1791,
+    "volume": "81",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106853"
+  }
+}

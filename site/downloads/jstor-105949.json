@@ -1,0 +1,69 @@
+{
+  "id": "85af3d2ebae6e17264150fff79e0cd3675cfb20f",
+  "text": "XXIV. An Observation of an Eclipse of the Sun at the Island of New-found-land, August 5, 1766, by Mr. James Cook, with the Longitude of the Place of Observation deduced from it: Communicated by J. Bevis, M. D. F. R. S.\n\nRead April 30, 1767.\n\nMr. Cook, a good mathematician, and very expert in his business, having been appointed by the Lords Commissioners of the Admiralty, to survey the sea coasts of New-found-land, Labrador, &c. took with him a very good apparatus of instruments, and among them a brass telecopic quadrant made by Mr. John Bird.\n\nBeing, August 5, 1766, at one of the Burgeo Islands near Cape Ray, latitude $47^\\circ 36' 19''$, the south-west extremity of New-found-land, and having carefully rectified his quadrant, he waited for the eclipse of the sun; just a minute after the beginning of which, he observed the zenith distance of the sun's upper limb $31^\\circ 57' 00''$; and, allowing for refraction and his semidiameter, the true zenith distance of the sun's centre $32^\\circ 13' 30''$, from whence he concluded the eclipse to have begun at $0^h 4' 48''$ apparent time, and by a like process to have ended at $3^h 45' 26''$ apparent time.\n\nN. B. There\nN.B. There were three several observers, with good telescopes, who all agreed as to the moments of beginning and ending.\n\nMr. Cook having communicated his observation to me, I shewed it to Mr. George Witchell, who told me he had a very exact observation of the same eclipse, taken at Oxford by the Rev. Mr. Hornsby; and he would compute, from the comparison, the difference of longitude of the places of observation, making due allowance for the effect of parallax, and the earth's prolate spheroidal figure; and he has since given me the following result:\n\n\\[\n\\begin{array}{ccc}\n5^h & 23' & 59'' \\text{ beginn. at Oxford.} \\\\\n0 & 46 & 48 \\text{ beginn. at Borgeo Isles.} \\\\\n\\hline\n4 & 37 & 11 \\text{ effect of parallax, &c.} \\\\\n- & 51 & 59 \\\\\n\\hline\n3 & 45 & 22 \\text{ diff. of meridians.}\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{ccc}\n7^h & 7' & 5'' \\text{ end at Oxford.} \\\\\n3 & 39 & 14 \\text{ end at Borgeo Isles.} \\\\\n\\hline\n3 & 27 & 51 \\text{ effect of parallax, &c.} \\\\\n+ & 17 & 35 \\\\\n\\hline\n3 & 45 & 26 \\text{ diff. of meridians.}\n\\end{array}\n\\]\n\nJ. Bevis.\n\nXXV. Letter",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105949.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 807,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1177,
+        2
+      ],
+      [
+        1177,
+        2245,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105949",
+    "title": "An Observation of an Eclipse of the Sun at the Island of New-Found-Land, August 5, 1766, by Mr. James Cook, with the Longitude of the Place of Observation Deduced from It: Communicated by J. Bevis, M. D. F. R. S.",
+    "authors": "J. Bevis, James Cook",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105949"
+  }
+}

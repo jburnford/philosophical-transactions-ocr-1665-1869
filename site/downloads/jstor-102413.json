@@ -1,0 +1,59 @@
+{
+  "id": "66b54ebef1ac895b5d42cf9d2c65553fe9d88fe8",
+  "text": "IV. Part of a Letter of Mr. Halley, Dated Chester, Octob. 25. 1697. giving an Account of his Observations there of the Eclipse of the Moon on the 19th of the last Month.\n\nI Observed the late Eclipse of the Moon, Octob. 19. with all the Satisfaction I could desire, the Air was all the while very still and clear; so that I think the Observation may be very much depended on, and will with sufficient Exactness, give the Longitude of this Place.\n\n| Emerisions | h |\n|------------|---|\n| The Beginning | 6. 8 ½ |\n| Porphyrites merged | 6. 16 |\n| North Part of Mareotis | 6. 21 ½ |\n| Lacus Niger Major and South End of Mareotis | 6. 26 |\n| Besbicus | 6. 46 ½ |\n| Apollonia | 6. 49 ½ |\n| Byzantium | 6. 53 |\n| Hermimius | 6. 59 |\n| N. Part of Mæotis | 7. 2 ½ |\n| Adons Corax | 7. 3 ½ |\n| Mons Herculis | 7. 10 |\n| S. Part of Mæotis | 7. 12 ½ |\n\nMiddle of M. Etna.\nHorminius: 8. 17. 30\nMons Herculis: 8. 18. 30\nBesbicus: 8. 21. 00\nApollonia: 8. 26. 15\nByzantium: 8. 29. 0\nLacus Niger Major: 8. 32. ½\nS. Part of Mæotis: 8. 35.\nN. Part of Mæotis: 8. 43.\nThe End: 8. 49. ½\n\nAbout the Middle there remained 9'.26''.of the Luminous Part, and consequently the Digit. Eclipsed, 8½.\n\nAdditio",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102413.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 545,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1178,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102413",
+    "title": "Part of a Letter of Mr. Halley, Dated Chester, Octob. 25. 1697. Giving an Account of His Observations There of the Eclipse of the Moon on the 19th of the Last Month",
+    "authors": "Mr. Halley",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102413"
+  }
+}

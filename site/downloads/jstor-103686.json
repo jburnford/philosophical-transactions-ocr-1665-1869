@@ -1,0 +1,69 @@
+{
+  "id": "8d0a8e379186daf7769c88e50e73a512a24e3ff1",
+  "text": "of Things into Ridicule. Mr. Leibnitz, in some Letters which he wrote into England, intimated that he had a Prospect of a perpetual Motion, founded on the Notion of a Vital Principle, or active Power in Matter. But from the Experiments now mentioned, 'tis evident that if the Force of Bodies in Motion could be exalted even to the infinit'th Power of their Velocity; yet since, to answer the Phenomena of Nature with Regard to Action and Re-action, the same Force must necessarily be allowed to all quiescent Bodies likewise; it could be of No Effect.\n\nIII. Astronomical Observations made at Vera Cruz, by Mr. Joseph Harris. Revised and communicated by Edm. Halley, L.L.D. Astron. Reg. & R. S. S.\n\nThe Latitude of this Place I found (by several distant Observations made by a Quadrant of four Feet Radius) to be $19^\\circ 12'$ N.\n\nOn March 11, 1727. O.S. there happen'd here a considerable Eclipse of the Sun, the greatest Obscuration being about 10½ Digits; and having that Morning carefully adjusted the Pendulum Clock, and fixed a Telescope to the Index of the foresaid Quadrant, I observed it to begin in or about the S.E. by S. Part of the Sun's Disk at 49½ Minutes after Noon apparent Time; the Altitude of the Sun's Center then was $67^\\circ 53'$.\n\nWe could not determine exactly the Middle of this Eclipse, but as near as we could judge, it happen'd about 2h 30m P.M.\nThe Eclipse ended in or about the N.N.E. Part of the Solar Disk, at $3^h\\ 59'\\frac{1}{2}$ P.M. at which Time the Sun's Altitude was $28^\\circ\\ 34'$.\n\nBy comparing these Observations with a Calculation which I made from Mr. Flamsteed's Tables, I judg'd Vera Cruz to lie $97^\\circ\\ 30'$ to the Westward of the Meridian of the said Tables.\n\nWe had here also a Lunar Eclipse September 29, 1726, O.S. but it happen'd to be a little cloudy about the Time of its Beginning and Ending, so that we could not get a just Observation.\n\nIn the Years 1726, and 1727, I observed here the Magnetick Variation several Times, and found it to be about $2\\frac{1}{4}$ Degrees Easterly.\n\nWe also observ'd the Variation several Times on our Voyage from England towards Vera Cruz (having on Board a good Azimuth Compass) but I always found that the best Observations we could make, when compared together, differ'd so much, that we could not depend upon them, to much less than three or four Degrees, or sometimes half a Point of the Compass.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103686.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 726,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1376,
+        2
+      ],
+      [
+        1376,
+        2395,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103686",
+    "title": "Astronomical Observations Made at Vera Cruz, by Mr. Joseph Harris. Revised and Communicated by Edm. Halley, L. L. D. Astron. Reg. & R. S. S.",
+    "authors": "Joseph Harris, Edm. Halley",
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103686"
+  }
+}

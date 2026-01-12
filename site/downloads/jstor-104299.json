@@ -1,0 +1,59 @@
+{
+  "id": "777b2af97d9544b4e0acbb93ea7a1196bf4f8359",
+  "text": "II. A Letter from Mr. J. Alexander to Peter Collinson, F. R. S. concerning a Place in New-York for measuring a Degree of Latitude.\n\nSIR,\n\nNew-York, July 21. 1740.\n\nThe Mention of the French Endeavours to discover the Figure of the Earth by Observation, puts me in Mind—That a very exact Observation for that Purpose might be made here, because Hudson's River here is frozen over from New-York up to Albany, and its Course is very strait, almost true North, and the Distance between New-York and Albany is above One hundred and Fifty Miles; New-York is in Latitude of $40^\\circ 40'$, nearly; so that the Length of above Two Degrees of Latitude on the Earth might be measured here, with much more Exactness than it was possible in England or France, because of the Ascents and Descents, and curved Lines, which, I think, they would continually be obliged to make Allowances for.\n\nFrom all which Difficulties the Mensuration here on the Ice would be intirely clear.\n\nYours,\n\nJ. Alexander.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104299.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 303,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        985,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104299",
+    "title": "A Letter from Mr. J. Alexander to Peter Collinson, F.R.S. concerning a Place in New-York for Measuring a Degree of Latitude",
+    "authors": "J. Alexander",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104299"
+  }
+}

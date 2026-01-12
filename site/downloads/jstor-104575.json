@@ -1,0 +1,79 @@
+{
+  "id": "0fb76c748fe031ce1ab31a90615905fa2b9e3ffd",
+  "text": "be seen, or laid hold of. He rode with the Piece of Lath in him from Kick's End, where the thing was done, to Barnet, which is above a Mile, to the House of Mr. Justinian Morse, a Surgeon there, who extracted it with Difficulty; it sticking so hard, that others had been baffled in attempting to extract it. Roberts continued dangerously ill a long time; but at last, by the Blessing of God, and the Care of Mr. Morse, recover'd intirely, and has the Sight of the Eye, and the Use of the Muscles. But some time after he seemed well, he told me, that, upon leaning down forward, he felt great Pains in his Head. The Piece is supposed to have passed behind the right Eye. I am,\n\nSIR,\n\nLincoln's-Inn, Nov. 10.\n\nYour humble Servant,\n\nRichard Hassel.\n\nVII. The Sun's Eclipse of July 14, 1748, observed at Marlborough House, with the twelve Foot refracting Telescope, fix'd as a Finder to the Tube of the great twelve Foot Reflector; by John Bevis M.D.\n\nRead Nov. 10. 1748. Apparent Time.\n\nJuly 13. 9. 3. 50 The Beginning, which perhaps might be 2\" or 3\" sooner.\nApparent Time.\n\nJuly 13. 9. 39. 42. The first little Spot in the Western Cluster, quite covered.\n\n52. 00. The biggest of that Cluster quite cover'd, yet somewhat doubtful for flying Clouds.\n\n10. 12. 08. The middle one of three considerable Spots towards the Eastern Limb half cover'd. The End could not be precisely observed for flying Clouds; at 12. 09. 15. it was not quite over; but at 12. 09. 35. the Sun was clear, and nothing of the Eclipse left.\n\nN. B. The Wind was so boisterous, that no Phases could be measured with a Micrometer.\n\nThe Moon's Eclipse of July 28. 1748. observ'd at the same Place.\n\nJuly 28. 10. 13. 28. The Penumbra discernible.\n\n06. 30. The Beginning, as most of the Company judged.\n\n18. 38. Mare Humorum just touch'd.\n\n26. 24. Began to touch Tycho.\n\n27. 51. Tycho bisected.\n\n24. 09. Tycho cover'd.\n\n29. 53. Touch'd Grimaldi.\n\n30. 25. Mare Humorum cover'd.\n\n34. 14. Grimaldi cover'd.\nJuly 28. 12. 24. 30. The End.\n27. 40. The Penumbra quite gone.\n\nAbout the Middle of the Eclipse, the Moon's Diameter, perpendicular to the Equator, measur'd in a 5 Foot Telescope was $33' 50''$; perhaps $15''$ or $20''$ greater than it would have been found to be with a 12 Foot Tube.\n\nJ. Bevis.\n\nI lately received the following Letter from a Person unknown to me.\n\nSIR,\n\nLuffwick near Thrapston Northamptonshire.\n\nI HAD the Pleasure to observe the Sun's Eclipse July last, which was as follows. The Beginning 9°. 1'. 0''. a.m. The End 0. 5. 25. p.m. at 10°. 32''. 10'. a.m. 10°. 18'. were dark, which I take to be the greatest with us. These are apparent Times, from a well adjusted Clock (by a Meridian drawn June 10, on a Plate of Metal), and corrected to the Time of Observation.\n\nOur Latitude is $52°. 27'. 30''$. I hope by this, and future Observations, I shall be able to determine our Situation with respect to yours. I am,\n\nSIR, &c.\n\nOct. 21. 1748.\n\nMark Day.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104575.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1061,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1057,
+        2
+      ],
+      [
+        1057,
+        1967,
+        3
+      ],
+      [
+        1967,
+        2935,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104575",
+    "title": "The Sun's Eclipse of July 14, 1748. Observed at Marlborough House, with the Twelve Foot Refracting Telescope, Fix'd as a Finder to the Tube of the Great Twelve Foot Reflector; By John Bevis M. D.",
+    "authors": "John Bevis",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104575"
+  }
+}

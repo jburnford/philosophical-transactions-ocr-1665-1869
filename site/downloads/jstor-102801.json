@@ -1,0 +1,79 @@
+{
+  "id": "0e600dec2ac18bf30f73795d382696202f8033dc",
+  "text": "I. An Account of some Roman, French, and Irish Inscriptions and Antiquities, lately found in Scotland and Ireland, by Mr Edw. Lluyd, Communicated to the Publisher from Mr John Hicks, of Trewithier in Cornwall, by Dr Will. Musgrave, F. C. P. &c. R. S.\n\n1. A Roman Inscription from Hadrian's Wall by the Kerk of Kil patric. Imperatori Caesar Tito Ælio Hadriano Antonino Augusto, Pio, patri patriæ vexillatio legionis sextæ victricis p. fassam per ter mille DCLVI passus.\n\n2. An Irish Inscription on a stately Cross, carved on all sides. 'Tis at Munster Boys, near Drogheda.\n\nThe two Cats and the Inscription we know not what to make of.\n\n3. Another at the Abbey of Cluinmacnos in the County of Roscommon. Or Angilla Giarain.\n\nPray for the sake of Giarain.\n\n4. A Pictish Monument near Edinburgh, In oc tumulo jacit veta F viiti. This the common people call the Ket stean note, that the Brittish names beginning with the letters Gw, began in Latin with v, as we find by Gwythyrn, Gwythuir and Gwythelin, whom Latin Writers call Vortigernus, Vortimarus and Vitellius. So I suppose this person's name was Gweth (or Geth) of which name were divers Kings of the Picts; whence the vulgar name of Ket-stone.\n\n5. A Monument of Kadran Prince of North Wales, about the midst of the sixth Century. Catamanus Rex sapientissimus opinatissimus omnium Regum. This is above the Church door of Lhan Guadwaladr in Anglesey, and is a confirmation of the Authority of Geofrey of Monmouth, who makes Prince Caduan the Grandfather of our last King Cadwaladr.\n\n6. A French Inscription at Bullifont Abbey in Ireland. Phelip de la Chapele Ghyt ici, Deu de sa alma eyit mercipte.\n\n7 & 8. Two Irish Inscriptions on the Tombs of Scottish Princes at Y Columb Kil in the Hebrides. The 1st signifies, Pray for Eogain (or Eugenius) the 2d, Pray for Ilfata.\n\n9. An Arrows Head of Flint, commonly call'd Elf Arrow throughout Ireland and Scotland, where they are fully persuaded the Elves often shoot them at Men and Beasts. This is set in Silver, and worn about the Neck, as an Amulet, against being Elf-shot.\nIMP·CAESAR·TAELIC\nHADRIANOANTONINO\nAVG·PIOPP·VEXILLATO\nLEG·VI·VICR·P·F\nPER·M·P·III·DCLXVI\n\n(1)\n\n(6)\n\n+ PHGLIP·DE·LA·GHAPGL·GHIT·IAI·DEY·\nDE·SYMLME·GYIO·MEGRGI·PAOEF\n\n(8)\n\n+ OR DOMAIKATAMIC\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102801.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6870,
+    "total-output-tokens": 821,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2073,
+        2
+      ],
+      [
+        2073,
+        2262,
+        3
+      ],
+      [
+        2262,
+        2262,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102801",
+    "title": "An Account of Some Roman, French, and Irish Inscriptions and Antiquities, Lately Found in Scotland and Ireland, by Mr Edw. Lluyd, Communicated to the Publisher from Mr John Hicks, of Trewithier in Cornwall, by Dr Will. Musgrave, F. C. P. & R. S.",
+    "authors": "Edw Lluyd, Will Musgrave",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102801"
+  }
+}

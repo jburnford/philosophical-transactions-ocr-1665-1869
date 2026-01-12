@@ -1,0 +1,59 @@
+{
+  "id": "da9ea54ae7262a547dc939c8bb960842f9784687",
+  "text": "Metallis, omnino ab hisce diversa, quae mihi labore multò majore constiterunt; ea, cum otium fuerit, communicaturus sum.\n\nX. ECLIPSIS LUNÆ partialis die secundo Octobris, Styl. nov. Anno MDCCXXXV. Vitimbergæ Saxonum observata à Jo. Frider. Weidlero, R. S. S.\n\nHor. Min. Sec. Temp-europ. ante Mer. D. II. Octob.\n\n| Hor. | Min. | Sec. | Description |\n|------|------|------|-------------|\n| 0    | 44   | 30   | Penumbra prope Schikardum. |\n|      | 59   |      | Initium eclipsis. |\n| 1    | 1    | 30   | Umbra appellit ad Schikardum. Margo illius asper est et inaequalis. Paulo post lunam nubes occultant. |\n| 1    | 15   |      | Tycho totus obumbratur. Mox iterum lunam nubes subeunt. |\n| 1    | 25   | 30   | Portio lunæ obscurata nigrescit, nec maculæ per umbram telescopio IX pedum discerni possunt. |\n| 1    | 30   |      | Umbra appellit ad Grimaldum. Jam trans umbram maculæ conspiciuntur. |\n| 1    | 44   | 30   | Umbra totum tegit Grimaldum. Jam rubet portio obumbrata. Mox luna iterum nubibus conditur. |\n| 2    | 25   | 30   | Umbra recedens attingit Lansbergium. Adhuc ejus margo asperitatem habet. |\n| 2    | 44   |      | Umbra appellat ad Gassendum. |\n| 3    | 11   |      | Emergere incipit Tycho. |\n| 3    | 36   |      | Finis supra Snellium, sereno circa lunam caelo. |",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104038.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 565,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1289,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104038",
+    "title": "Eclipsis Lunae Partialis Die Secundo Octobris, Styl. nov. Anno MDCCXXXV. Vitimbergae Saxonum Observata á Jo. Frider. Weidlero, R. S. S.",
+    "authors": "Jo. Frider Weidlero",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104038"
+  }
+}

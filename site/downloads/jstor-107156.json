@@ -1,0 +1,59 @@
+{
+  "id": "1652eb76e423d576b10e3bf6e0752f1fa1fe5165",
+  "text": "VII. An Account of some analytical Experiments on a mineral Production from Devonshire, consisting principally of Alumine and Water. By Humphry Davy, Esq. F. R. S. Professor of Chemistry in the Royal Institution.\n\nVIII. Experiments on Wootz. By Mr. David Mushet. Communicated by the Right Hon. Sir Joseph Banks, K. B. P. R. S.\n\nAPPENDIX.\nMeteorological Journal kept at the Apartments of the Royal Society, by Order of the President and Council.\n\nERRATA.\n\nPage 4. line 5 from the bottom, for accipenser, read acipenser.\n11. — 20, for their, read its.\n26. — 7, read 6 ounces of water.\n76. — last but one, for ,0054, read ,054.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107156.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 247,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        624,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107156",
+    "title": "Errata",
+    "authors": null,
+    "year": 1805,
+    "volume": "95",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107156"
+  }
+}

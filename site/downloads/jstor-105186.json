@@ -1,0 +1,79 @@
+{
+  "id": "3a5a22212e11fbeeb1e3109593807a8795bc9e48",
+  "text": "may be the same, when the same space is gone over with a great velocity, as with a small one.\n\nLXXI. Observationes Eclipsium Satellitum Jovis habitae Ulissipone in Regali Collegio Beatissimae Virginis à necessitatibus, dictæ à Joanne Chevalier, Praesbytero Seculari Congregationis Oratorii, Anno 1753.\n\nRead Feb. 14, DIE 30 Aprilis, cælo clarissimo, observavi, telescopio Gregoriano 6 pedum longitudinis, emersionem primi satellitis è umbra Jovis, hora postmeridiana temporis veri 9h 57' 48\".'\n\nDie 24 Maii, iterum cælo purissimo, observavi, eodem telescopio Gregoriano, emersionem tertii satellitis ab umbra Jovis, hora postmeridiana temporis veri 8h 19' 6\".'\n\nLXXII. Observatio Solis defectus Ulissipone habita, in Aede Beatissimae Virginis à necessitatibus, nuncupatae à Joanne Chevalier, Praesbytero Congregationis Oratorii, die 26a Octobris 1753.\n\nRead Feb. 14, HUNC solis defectum commodè, ac exactè observare potui, cælo clarissimo ac purissimo. Initium ac finem eclipsis telescopio 15 palmorum examinavi, digitos vero obscurationis\nrationis micrometro mensus fum. Eodem tempore sodalis meus physicæ professor, easdem eclipsis phases observabat in specie solis, in charta alba depicta, per alium tubum duabus lentibus instructum.\n\n| Temp. ver. | ant. merid. |\n|------------|-------------|\n| Initium eclipsis | 7 31 4 |\n| 2 digitii obscurationis | 7 43 54 |\n| 4 digitii | 7 56 40 |\n| 6 digitii | 8 9 30 |\n| 8 digitii | 8 22 10 |\n| 10 digitii | 8 34 40 |\n\nMajor obscurationis undecim digitorum h ' \"\n\nac 5 min. | 8 41 46 |\n8 digitii | 9 2 0 |\n2 digitii | 9 44 20 |\nFinis | 9 58 18 |\n\nPrope tempus maximae obscurationis, luce solis notabiliter imminutâ, Jovem, Venerem, aliquasque stellas, primæ ac secundæ magnitudinis, videre licuit. Mercurium tamen, propter ejus ad solem appropinquationem, aspicere non potui.\n\nSpeculum catoptricum diametri trium palmorum, in cujus foco plumbum liquefit, & ex ligno flamma statim excitatur, eadem phænomena efficiebat, cum solis digitii septem jam obscurati essent: post tempus tamen majoris phasis, lignum in foco suspensum per aliquod temporis intervallum minimè combustit.\n\nTempore majoris obscurationis aer frigescere cæpit,\n\nZ z z 2 valido\nvalido flante vento à setemptrione; crasique vapores ascendere visi sunt è fluvio portuque vicino.\n\nIn thermometro domini de Reaumur, sequentes mutationes observatae fuere.\n\n7° 20' Spiritus vini 12° & dimidium altitudinis supra terminum congelationis aquae obtinebat.\n\n| h | o |\n|---|---|\n| 8 | 12 |\n| 8 | 30 |\n| 8 | 43 |\n| 8 | 55 |\n| 9 | 30 |\n| 10 | 0 |\n| 10 | 40 |\n\nLXXIII. An Account of some astronomical Observations taken at Lisbon by M. John Chevalier in the Year 1753. By James Short, M. A. and F. R. S.\n\nRead March 14, 1754.\n\nTHIS gentleman mentions two emersions of the satellites of Jupiter, viz. one of the first, and another of the third, both observed, in a very clear air, with a Gregorian telescope six feet long. Dr. Bevis, from a great number of observations, has computed formulae of tables for the times of the immersions and emersions of the first satellite of Jupiter, and which times we have seldom found to differ from the observations above 10\": By com-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105186.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1213,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1040,
+        2
+      ],
+      [
+        1040,
+        2187,
+        3
+      ],
+      [
+        2187,
+        3164,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105186",
+    "title": "Observatio Solis Defectus Ulissipone Habita, in Aede Beatissimae Virginis à Necessitatibus, Nuncupatae à Joanne Chevalier, Praeshytero Congregationis Oratorii, Die 26a Octobris 1753",
+    "authors": "Joanne Chevalier",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105186"
+  }
+}

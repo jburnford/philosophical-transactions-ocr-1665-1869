@@ -1,0 +1,69 @@
+{
+  "id": "df05ac5a31c4518f877367d952492838f422d804",
+  "text": "Nolim autem ut hac malo animo dicta putes, sive in Heuratium (qui mihi neque beneficio neque injuria notus est,) sive in Cl. Hugenium, quem magni semper habui, atque habiturus sum, & amicissime semper tractavi; ejusq; atq; inventorum suorum non iniquis fuerim estimator; nedom in Fermatium, summum virum: sed ut nuda veritate testimonium percibere, Nelioque jam de mortuo; siique ex nostris omnibus, qui, jamdudum ante Heuratium, id ipsim demonstraverant; atque, ne male fidei habeatur, in ea quam hac de re narrationem prius edidi. Vale.\n\nTwo other Letters to the same purpose with the former: The first of the Right Honourable the Lord Vis-count Brouncker, Chancellor to her Majesty, and President of the R.Society, &c.\n\nSIR,\n\nIt is very sure, that Mr. William Neil had in the year 1657 found out and demonstrated a Streight line equal to a Paraboloid; and did then communicate and publish the same (though not in print) to myself and others, who used to meet at Gresham College, and it was there received with good approbation; and the same was, presently afterwards, otherwise demonstrated by myself and others: And therefore ancienier than that of Monsieur Heurat, which (as it seems,) is not pretended to have been done before the year 1659; and ancienier too than that of Sr. Ch.Wren, finding a Streight line equal to a Cycloid in the year 1658; and by him admitted so to be. Nor ought it at all to prejudice Mr. Neil, that M. Heuraet's was somewhat sooner abroad in print, than that of M. Neil, (though both in the same year 1659;) since it is well known to many of us, that Mr. Neil's was done before. Otherwise M. Hugens, by the same reason, will grant the precedence to Heuraet, of that which he now claims to be his own invention (that Rectifying the Parabolical Line and Squaring the Hyperbolical Space do mutually depend on each other:) for this was published in print by M. Heuraet (or M. Schooten for him) in the year 1659, and not by M. Hugens till now, 1673: \"And yet M. Hugens thinks, he may well claim that invention to be his own, because he now tells us, that he found it out about the end of the year 1657, and did (some time after) communicate it privately to some friends. And whereas, he doth suppose, that this invention of his might give occasion to that other of Heuraet; we may also as well suppose, that he might have taken such occasion from hearing of Mr. Neil having done the like, (for this had been then commonly known for a great while:) Or might have taken occasion (as well as Mr. Neil) from that of Dr. Wallis Schol. prop.38. Arith. Infinit. or from that of Sr. Ch.Wren having found a Streight equal to another Curve the year before: Or, if it were necessary to know their symbolization between the Parabolical Line and the Hyperbolical Space; he might have had it earlier from Dr. Wallis. For, when he had demonstrated (Schol. prop.38. Ar.Infinit.) that the Particles which compose the\nParabolical line, are in power equal to a Series of Squares increased by a series of Equals, suppose $\\sqrt{A^2 + b^2}$. And (prop. 35, 41, Conic Sect.) that $c$ the Ordinates to the Conjugate Diameter of an Hyperbola, (that is, the particles of which that Hyperbolical space consisteth,) are so also, viz., $\\sqrt{\\frac{A}{T} + \\frac{T}{L} h^2}$; (where $A$, $T$, $L$, are permanent quantities, and $b$, $h$, taken successively in Progression Arithmetical;) It was easy (for M. Heuract, or M. Hugens, or any other,) to infer, That, if we can Rectifie the one, we may Square the other, & vice versa. But from whencesoever M. Heuract had it; we may, as before, reasonably conclude, that Mr. Neil had it before him: And M. Hugens is a person of that ingenuity, that, when he shall better consider of it, he will (I doubt not) be of the same mind. London, Oct. 8. 1673.\n\nThe other Letter is of Sr. Christopher Wren Kt. Surveyor General of his Majesties Buildings, &c.\n\nSIR,\n\nThat I did, in the year 1658, find a Streight line equal to that of a Cycloid, and the parts thereof, was then very well known, nor in England only, but in France and Holland. And I have not yet heard of any, who do pretend to have known it, before I discover'd it: which was the same year acknowledged in Print by those of France. But I do not pretend to have been the first that did ever find a Streight line equal to a Crooked. For I very well know, that Mr. William Neil had, the year before, found out and demonstrated, How to construct a Crooked line so as to be equal to a Streight, by a certain series of Numbers after the method of Dr. Wallis. And though He did not therein demonstrate the other properties of that Line; yet the same were presently after demonstrated by myself and others, and the nature of the Line fully discover'd, being a certain Paraboloïd. And that which M. Heuract is said afterwards to have found out, in the year 1659, and M. Fermat in the year 1660, are but the same with that of Mr. Neile.\n\nAn Accompt",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101383.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1446,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2927,
+        2
+      ],
+      [
+        2927,
+        4937,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101383",
+    "title": "Two Other Letters, Consonant to the Former; One of the Lord Vis-Count Brouncker; the Other, of the Said Sir Ch. Wren",
+    "authors": "Vis-Count Brouncker, Christopher Wren",
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101383"
+  }
+}

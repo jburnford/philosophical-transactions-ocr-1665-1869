@@ -1,0 +1,69 @@
+{
+  "id": "a3117b1a37e3a21ce4443f7ce03ab773b90578cb",
+  "text": "Extract of a Letter written to the Publisher, concerning a Faltitious Stony matter or Paste, shining in the dark like a glowing Coal, after it hath been a little while exposed to the Day- or Candle-light.\n\nClarissimo Viro\n\nDomino Henrico Olænburgio, Illustrissimæ Soc. Regiæ Seer,\n\nSalutem & observantiam\n\nChristianus Adolphus Balduinus.\n\nQuamquam elapsò proximè anno officièssimè scriptae tuas literas testari continuò debuisset quanti facerem, religioni tamen duxi id facere, antequam Phosphorum meum modì omnibus absolutum darem conficèrèmque: Quod cum non multò ante praëstiterim, ecce Tìbi eundem in theca argentea inaurata; quem, cæc munus exiguum, si fas sit petere à Te, humillimà subjectione deferre velù cum ipsì Regiæ Majestati tanquam Fundatori & Patrono Societatis Vestræ, inprimis; tum verò Ejusdem Praefati Illustrissimo, catèrisque Assessoribus & Collegiis gravissimis & nihilque intermittere velis, quodcumque vel Clementia Regiæ, vel Favori tantorum Virorum conciliando facere arbitrerìs. Latet in Phosphoro istò ignis & luminis Naturæ realis scintillula, imò secretissima anima, proindeque intrinsecus atque invisibilis Sophorum ignis, visibilem Solis ignem magneticâ ratione attrahens, splendorèmque ipsius vicissim in Tenebris emitens ejaculansque. Quò istud accèdit non minus mirum, Signaturam nempe Solis contineri in Universali istò Magnete unde coniectus idem ille Phosphorus est; quò quidem ex adjuncto Schemate Phänomeni * (per dies aliquot durante) liquidissimè patet.\n\n* Hoc phänomenon repræsentat in valse vitreo compleures imagines Solis, majorcs, minorcs; in quas materia, ab Authorc nostro adhibita, jucundissimo, ut videtur, spectaculo, abiisse conspecta fuit.\n\nAtque\nAtque inde non est, quod subiecto isto uti desistas in Chymicis meis laboribus continuandis, quod multò majora mihi propediem dignioraque ex se spondeat, quorumque magis arcana ratio. De quibus omnibus, philosophica consuetudine, Societati Illustri-\nsime relaturus per literas sum quæcunque certis Experimentis comperero. Servet te Deus, & me porrò affectu tuo complectere.\nScrib. Haynæ, d. r. Sept. 1676.\n\nThis Present being, according to the tenour of this Letter, presented to his Majesty, and afterwards to the R. Society, it fully justified the generous Presenter in the Experiment, made before them both, at several times; and that not only by Day-light, even when the Weather was gloomy and misty, but also by the Flame of a Candle. And 'tis hoped, that the said Presenter will so far extend his generosity, when he shall understand the gracious acceptance his Present had with the Royal Founder of our Philosophical Company, and the pleasure, it gave to the Gentlemen that compose it, as to impart to them the way of preparing the same; to be Recorded in their Register books, as a perpetual Monument of his ingeni-\nosity and frankness.\n\nAn Account",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101750.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 920,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1702,
+        2
+      ],
+      [
+        1702,
+        2858,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101750",
+    "title": "Extract of a Letter Written to the Publisher, Concerning a Factitious Stony Matter or Paste, Shining in the Dark Like a Glowing Coal, after It Bath Been a Little While Exposed to the Day- or Candle-Light",
+    "authors": null,
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101750"
+  }
+}

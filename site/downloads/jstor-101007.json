@@ -1,0 +1,59 @@
+{
+  "id": "e9d292d31a09ccf9da1b4217d9264ff36f83aebd",
+  "text": "and Sciences, all that time, which they spend in acquiring the Latin Tongue.\n\nAdvertisements,\n\n1. The Reader is desired, to insert in Numb.47. p.951. sect. 10. after these words, Why it goes too fast, this Note (as it may happen, when by some accident the Cheeks retaine not their proper figures.) And now if it should be said, that upon any foulness the Watch will goe faster by reason of the shorter Vibrations of the Pendulum, it is to be considered, That this is only true when the Watches have no Cheeks, but when they have them (as in those hitherto used) 'tis not so.\n\n2. If it should be demanded, Why in the same Tract use hath not been made of Tycho's Equation of Time, nor of that of Bullialdus, but one is given different from both? The Answer is, That the Table, there publish'd, is the Difference of the Right Ascension of the Sun at Noon from the Mean motion, accounting from th' 1st of February; which must be the true Equation, unless the Velocity of the Earth's Motion about her own Axis be not constantly the same.\n\nErrat.\n\nNumb. 47.p.945. in the 2d column blot out diff. before 6. 5. 1. and put it before the 3d rank of numbers above it, viz. before 11. 49. 56.\n\nLONDON,\nPrinted by T. N. for John Martyn Printer to the Royal Society, and are to be sold at the Bell a little without Temple-Bar, 1669.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101007.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 424,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1318,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101007",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101007"
+  }
+}

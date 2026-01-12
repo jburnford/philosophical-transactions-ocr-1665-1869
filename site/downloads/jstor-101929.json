@@ -1,0 +1,79 @@
+{
+  "id": "3fcbd3ed012336b484896784808163b3cfc44d0b",
+  "text": "A Letter from that incomparable Botanist Mr. John Ray, giving an account of the Phytographia of Leonard Plukenet, M.D. Lately published. Lond. fol. 1691.\n\nSIR,\n\nIn compliance with your desires I have sent you a short Account of Dr. Plukenet's Phytographia, not such an one as the Work deserves, but as I am able to draw up: wherein if you find not satisfaction, blame your own Judgment for thinking me able to give it.\n\nThe Learned and Ingenious Author of these Tables hath therein exhibited to the publick view the Figures and Titles of many hundred Plants; the most part of them, as yet neither described nor figured, some described but not figured, others though already figured, yet not well and exactly. Now a good Figure having this advantage of a verbal Description, that it conveys speedily to the Mind, with ease and pleasure, a clearer and truer Idea of the thing delineated, than the Understanding can with much Labour, and in a long time form to itself from a Description, be it never so exact, the pains taken, and cost bestowed in designing and engraving such Plants as have already been only described, or if figured, but lamely and imperfectly, must be acknowledged to have been to very good purpose, and to merit the thanks of those who shall be assisted and eased thereby, that is, the greatest part of Herbarists, to whom a description without a Figure signifies little. The new and non-descript Species may give entertainment and diversion to those of the highest form in Botanics, who will here meet with many Plants they have not before seen, or it may be heard of. As for the Sculps they recommend themselves to\nto the perusal of all sorts, as well for their Beauty and Elegancy, as for their exact similitude to the Vegetables they were taken from or are intended to represent; which are the two only qualities requisite to the perfection of a Cut.\n\nThe Titles subjoined to each Table may supply the place of Descriptions, as containing certain Characteristic Notes, sufficient to distinguish the Species to which they belong from any others whatsoever: So that they alone without any Icon, if diligently heeded and attended to, might serve to lead a Man into a certain knowledge of the Plants.\n\nIn this Work the Reader will find many mistakes rectified, and obscurities cleared up, which I shall not stand to enumerate; many Desiderata are supplied, of which I shall instance in some few Particulars.\n\nThe Figure of that sort of Artemisia, of which the Chinese make their Moxa, so famous for curing the Gout by burning.\n\nOf the Root Ginsing or Ninzin and its Plant, growing in the Kingdom of Corea, so much Celebrated in China and Japan for a Panacea.\n\nOf the Virginian Polyrrhizos or Snakeweed, so much talked of for the Cure of the Rattle-Snake. This hath been already figured, but not exactly.\n\nOf the Tree whose Bark is well known by the name of Cortex Winteranus.\n\nAdd to these the Figures of that rare Virginian Harts-tongue that propagates itself by the tip of the Leaf turning downwards, and when it touches the Ground taking Root; from whence springs up a young Plant, which at last is of its own accord as it were weaned and separated from its Mother, and maintains itself by its own Root.\n\nOf a sort of Kidney-Bean from Mevis Island, which they call the Turnep Tree, having an esculent Root.\nOf two sorts of Kidney-Beans, which are not trifoliate but single-leaved.\n\nOf the top and Flowers of that Plant which Lobel inscribes *Verbasum Sylvestre Salvifolium exoticum folio rotundiore* erroneously, giving only the Figure of the Leaves and lower part of it: and Parkinson, I know not how, deceiving himself and imposing upon others, makes a kind of *Ciftus*; whereas it appears to be a sort of *Salvia fruticosa*. For the rest I refer the Reader to the Work itself.\n\n*JOHN RAY.*\n\nFINIS",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101929.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1001,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1635,
+        2
+      ],
+      [
+        1635,
+        3328,
+        3
+      ],
+      [
+        3328,
+        3820,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101929",
+    "title": "A Letter from That Incomparable Botanist Mr. John Ray, giving an Account of the Phytographia of Leonard Plukenet, M. D. Lately published. Lond. fol. 1691",
+    "authors": "John Ray",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101929"
+  }
+}

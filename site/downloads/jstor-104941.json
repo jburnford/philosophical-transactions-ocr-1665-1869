@@ -1,0 +1,89 @@
+{
+  "id": "94eaece240df18e7f5bb351e8e3a65f7c9d5b5f6",
+  "text": "XLVII. An Account of a remarkable Echinus: By Gustavus Brander, Esq; F. R. S.\n\nRead Dec. 11, 1755.\n\nThis echinus is of a very singular species. It appears to me to be of a middling nature between the echinus and the star-fish. It comes from the island of Bourbon in the East-Indies; and I cannot learn, that it is anywhere described. (Plate VIII. Fig. 3.)\n\nXLVIII. An Account of the Impression on a Stone dug up in the Island of Antigua, and the Quantity of Rain fallen there for Four Years: In a Letter from the Reverend Mr. Francis Byam to William Fauquier, Esq; F. R. S.\n\nDear Brother,\n\nAntigua, March 31, 1755.\n\nAs you have the honour to be a member of the Royal Society, I have sent you, by Captain Barrett, in a box directed for you, what I esteem to be a great curiosity. It is a stone, that was brought from a quarry, for a building in the town: the quarry is in the side of a mountain, and is about three hundred yards higher than high-water mark, and about two miles from the sea. When the mason struck it with his hammer, it split in two, and discovered the exact portraiture of a fish (on each stone) which we call an old wife. (Plate IX.) I have likewise sent you an account of the quantity of rain, that has fallen in this place for four years last past.\npast. Had I had such an instrument, as Mr. Derham had, to measure the hundredth part of an inch, it would have increased the quantity greatly; but I have only taken notice of it when it amounted to the tenth part of an inch. My instrument is very simple and plain; it is a tin vessel about thirteen inches high, the aperture at top is four inches and an half square, the bottom the same; the opposite sides parallel to each other. It stands in my garden, free from the drippings of any trees or houses, and raised upon a pedestal about two feet from the ground. You will observe a × in September 51, and September 54. In these months we had hurricanes. If anything of this kind would be agreeable to you, or the Society, I shall take great pleasure in communicating them, when in my power. I am, dear brother,\n\nMarch 31, 1755.\n\nYour affectionate brother,\n\nF. Byam.\n\nA Table of the Rain, which has fallen in Antigua, from 1751 to 1754.\n\n| Year | Month | Inch. Tenth |\n|------|-------|-------------|\n| 1751 | Jan.  | 2          |\n|      | Feb.  | 1          |\n|      | March | 2          |\n|      | April | 2          |\n|      | May   | 7          |\n|      | June  | 4          |\n|      | July  | 8          |\n|      | Aug.  | 3          |\n|      | Sept. | x         |\n|      | Octo. | 4         |\n|      | Nov.  | 3         |\n|      | Dec.  | 4         |\n\n| Year | Month | Inch. Tenth |\n|------|-------|-------------|\n| 1752 | Jan.  | 0          |\n|      | Feb.  | 0          |\n|      | March | 3          |\n|      | April | 0          |\n|      | May   | 0          |\n|      | June  | 8          |\n|      | July  | 2          |\n|      | Aug.  | 6          |\n|      | Sept. | 2         |\n|      | Octo. | 4         |\n|      | Nov.  | 2         |\n|      | Dec.  | 4         |\n\n| Year | Month | Inch. Tenth |\n|------|-------|-------------|\n| 1753 | Jan.  | 3          |\n|      | Feb.  | 1          |\n|      | March | 2          |\n|      | April | 2          |\n|      | May   | 1          |\n|      | June  | 3          |\n|      | July  | 8          |\n|      | Aug.  | 5          |\n|      | Sept. | 3         |\n|      | Octo. | 4         |\n|      | Nov.  | 0         |\n|      | Dec.  | 1         |\n\n| Year | Month | Inch. Tenth |\n|------|-------|-------------|\n| 1754 | Jan.  | 0          |\n|      | Feb.  | 1          |\n|      | March | 8          |\n|      | April | 2          |\n|      | May   | 6          |\n|      | June  | 9          |\n|      | July  | 3          |\n|      | Aug.  | 7          |\n|      | Sept. | x         |\n|      | Octo. | 11        |\n|      | Nov.  | 6         |\n|      | Dec.  | 7         |\n\nXLIX.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104941.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8208,
+    "total-output-tokens": 1308,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1269,
+        2
+      ],
+      [
+        1269,
+        3887,
+        3
+      ],
+      [
+        3887,
+        3887,
+        4
+      ],
+      [
+        3887,
+        3887,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104941",
+    "title": "An Account of the Impression on a Stone Dug up in the Island of Antigua, and the Quantity of Rain Fallen There for Four Years: In a Letter from the Reverend Mr. Francis Byam to William Fauquier, Esq; F. R. S.",
+    "authors": "Francis Byam",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104941"
+  }
+}

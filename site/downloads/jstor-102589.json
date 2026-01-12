@@ -1,0 +1,69 @@
+{
+  "id": "0b1d60a982f5410e120b2f245515739631f7562b",
+  "text": "IV. Part of a Letter from Mr. William Derham, to Dr. Sloane; accompanying his Observations of the Height of the Mercury in the Barometer, Rains, Winds, &c. for the Year 1698.\n\nIf any Explication be needful to these Tables, I refer you to Philos. Trans. Numb. 237.\n\nThe Quantity of Rains which fell through my Tunnel last Year was 122,32 Pounds: which exceeds the Quantity of —97: that being but 77,60 Pounds.\n\nI find Foggy Weather makes the Mercury rise, as well as the North-Wind; as may be observed in the Table, in the Month of December, at which time the Mercury was very high, although the Wind was in the Southerly Points. I submit it, whether the Cause be not the increase of the weight of the Atmosphere, by an Addition of those Vapours of which the Fog consists, which are manifestly as heavy as the Air, because they swim in it without ascending? These filling up many of the Vacuities of the Air, without extruding much the parts of Air (as I judge Clouds do) do add considerably to the Weight of the Atmosphere, and so cause the Mercury to ascend. But this I leave to better Judgments.\n\nIt may not perhaps be ungrateful to you to observe, that the greatest Range I have ever observed the Mercury to have, is no more than 2,12 Inches; it being here never higher than 30,40, nor lower than 28,28 Inches. the lowest it ever was, within my Observations, was\n\nG Jan.\nJan. 24. last, about Two of the Clock in the Afternoon; about which Hour Mr. Townley (whose Name you well know) observed his Barometer to fall to 27.80 Inches, which, he says, was remarkably low.\n\nI find it will be necessary for me to add Two Columns more to each Month's Observations, viz. One for the Thermometer, another for the Flying of the Clouds, which oftentimes fly in a Point different from the Winds, especially before the Wind shifteth its Course. Mountains, &c. may cause some Variation, but as little at Westminster as almost anywhere. This last Column will be necessary, among other Uses, to shew the Reason why the Mercury varies sometimes: As suppose the Wind was in the Southerly Points, and the Clouds flew from the Northerly; the rising of the Mercury would readily be accounted for.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102589.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 642,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1374,
+        2
+      ],
+      [
+        1374,
+        2177,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102589",
+    "title": "Part of a Letter from Mr. William Derham, to Dr. Sloane; Accompanying His Observations of the Height of the Mercury in the Barometer, Rains, Winds, etc. for the Year 1698",
+    "authors": "William Derham",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102589"
+  }
+}

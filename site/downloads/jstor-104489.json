@@ -1,0 +1,79 @@
+{
+  "id": "d34ccb3c8b7f142c8c7a62d1174456e5f71a1b0c",
+  "text": "Weathers; whereas, in damp Weather, the white Glass loses much of its electric Power.\n\nXIII. A Catalogue of the Fifty Plants from Chelsea-Garden, presented to the Royal Society by the Company of Apothecaries, for the Year 1743. pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. nuper Praef. By Joseph Miller, Apothecary, Hort. Chelf. Praef. & Praelector Botan.\n\nPresented May 1051\n\nA Conitum hyemale. Ger. Park.\n30. 1745.\n\n1052 Arbutus folio serrato. C. B.\n1053 Arum venis albis, lituris nigris maculatum. Hort. R. Par.\n1054 Asteroides Alpina, salicis folio. Tourn.\n1055 Barbarea, f. B. flore simplici. Park.\n1056 Blitum perenne: Bonus Henricus. f. B. G.\n1057 Canella alba Off. Cort. Winterannus vulgo.\n1058 Cardiaca, flore canescente. Amman.\n1059 Convolvulus coeruleus minor Hispanicus. Park.\n1060 Cyperus odoratus radice longa. C. B.\n1061 Cyperus rotundus esculentus angustifolius. Ibid.\n1062 Cytisus incanus, siliquis falcatis. C. B.\n1063 Cytisus glaber foliis subrotund. pediculis brevissimis. Ibid.\n1064 Draba siliquis donata. C. B.\n1065 Fagopyrum vulgare erectum. Tourn.\n\nHhh 1066\n1066 Glaucium flore purpureo. *Tourn.*\n1067 Hedysarum annum. siliquis asperis pendulis intortis. *Ibid.*\n1068 Helenium *Off.* Enula campana. *Park.*\n1069 Helleborus niger, flore roscio. *C. B. Off.*\n1070 Horminum luteum glutinosum. *C. B.*\n1071 Hydrophyllum Morini. *Tourn.*\n1072 Jasminum luteum *Indicum* odoratissimum. *Ferrar.*\n1073 Laurus Alexandrina. *Off.*\n1074 Linaria latifolia *Dalmatica*. *C. B.*\n1075 Lupinus angustifolius sylvestris coeruleus elatior. *Hort. Eyset.*\n1076 Lychnis coronaria vulgaris. *J. B.*\n1077 Lychnis viscosa rubra angustifolia. *C. B.*\n1078 Matricaria, foliis florum fistulosis. *Hort. R.*\n1079 Melissa Moldavica, flore albo. *Park.*\n1080 Myrto cistus *Pennei*. *Clus.*\n1081 Napus dulcis sativus. *Off.*\n1082 Onagra latifolia. *Tourn.*\n1083 Origanum Heracloticum, Cunila gallinacca *Plinii*. *C. B.*\n1084 Oenanthe stellata *Cretica*, *P. Alpini*. *Park.*\n1085 Periploca foliis oblongis. *Tourn.*\n1086 Plantago major incana. *Park.*\n1087 Polygonatum floribus ex singulis pediculis. *J. B.*\n1088 Rapunculus montanus corniculatus. *Ger.*\n1089 Rubia tinctorum sativa. *Off.*\n1090 Ranunculus echinatus *Creticus*. *C. B.*\n1091 Sclarea. *Off.*\n1092 Stachys *Canariensis* frutescens, verbasci folio. *Tourn.*\n1093 Tamariscus latiore folio. *Park.* Germanicus. *Tourn.*\n1094 Tamariscus tenuiore folio. *Park.* Narbonensis. *Tourn.*\n1095 Tacamahac foliis serratis. *Pluken. Phyt.* 228. *Fig. 2.*\n1096 Tanacetum vulgare luteum. *C. B.*\n1097 Tanacetum foliis crispis. Ibid.\n1098 Thlaspi *Creticum* purpureum. *Park.*\n1099 Trachelium umbelliferum *Ponx.*\n1100 Valeriana major hortensis. *Morison.* Phu. Off.\n\nXIV. An Inquiry into the Measure of the Force of Bodies in Motion: With a Proposal of an Experimentum Crucis, to decide the Controversy about it. By James Jurin, M.D. Fellow of the Royal College of Physicians, London, and of the Royal Society.\n\nRead May 30. 1745.\n\nMechanical Forces may be reduced to two Sorts; one of a Body at Rest, the other of a Body in Motion.\n\nThe Force of a Body at Rest, is that of a Body lying still upon a Table, or hanging by a Rope, or supported upon a Spring, &c.\n\nThis is called by the Name of Pressure, Tension, Force, or *Vis mortua*.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104489.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1392,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1111,
+        2
+      ],
+      [
+        1111,
+        2282,
+        3
+      ],
+      [
+        2282,
+        3308,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104489",
+    "title": "A Catalogue of the Fifty Plants from Chelsea Garden, Presented to the Royal Society by the Company of Apothecaries, for the Year 1743. Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. Nuper Praes. By Joseph Miller, Apothecary, Hort. Chels. Praes. & Praelector Botan",
+    "authors": "Joseph Miller",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104489"
+  }
+}

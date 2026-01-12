@@ -1,0 +1,59 @@
+{
+  "id": "a89110eef581d1adea3c47bb8620d9830f5e9040",
+  "text": "ERRATUM.\n\nNo. 461. p. 473. l. 4. from the Bottom, for Minutes read Seconds.\n\nAn Addition to the Reverend Dr. Miles's Account of Fern-Seed, ibid. p. 772. after l. 16.\n\nWhereas I have mention'd, that a sort of Fungus, of a light-brown Colour, grows over the Seed-vessels of the Filix mas; this is to be understood to have that Appearance, when the Seeds are full-ripe, and the Vessels containing them are prepared to burst: For I have since view'd them, soon after they begin to appear, and also when the Seed-vessels are nearly grown to their full Size; at which times the said Fungus is a fine Membrane of a bright Green, entirely covering the Tuft of Seed-vessels like a Cap, and closely adhering to the Surface of the Leaf of the Plant: But when the Seed-vessels are arriv'd, at Perfection in Size, and able to bear being expos'd, it begins to recede from the Leaf, and to hang over them in form of an Umbrella; and as they grow ripe, it gradually changes brown, and curls up a little, making the Appearance first-mention'd.\n\nTooting, January 24. 1744-5.\n\nHenry Miles.\n\nERRATUM.\n\nNo. 472. p. 47. l. 5. read one with another in one Case only, where they are supposed to be bent to the same Degree, and that without shewing.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104418.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 408,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1224,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104418",
+    "title": "Erratum",
+    "authors": "Henry Miles",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104418"
+  }
+}

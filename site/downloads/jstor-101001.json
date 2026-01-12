@@ -1,0 +1,79 @@
+{
+  "id": "b129f66cc2e95458e545be9b24b946c6a792a26a",
+  "text": "PHILOSOPHICAL\nTRANSACTIONS.\n\nJune 21. 1669.\n\nThe Contents.\n\nThe Generation of an Hyperbolical Cylindroid demonstrated; and the Application thereof for Grinding Hyperbolical Glasses hinted at. Experiments lately made concerning the Motion of the Sap in Trees. An Extract of a Letter lately written from Vienna, about Damps in the Mines of Hungary, and their Effects. A Chronological Accompot of the severall Eruptions of Mount Ætna. A Relation concerning a Woman, not long since open'd at Paris, having a double Matrix. An Accompot of 4 Books. I. THOMÆ HOBBIQU Quadratura Circuli, Cubatio Sphaera, Duplicatio Cubi, Consultata à IOHANNE WALLIS &c. II. HISTORIA GERAL DE ETHIOPIA A ALTA; Pelo Padre BALTHASAR TELLES &c. III. AN HISTORICAL ESSAY, Endeavouring to make it Probable, that the LANGUAGE of CHINA is the PRIMITIVE Language; by JOHN WEBB Esquire. IV. AN EXAMEN of the way of TEACHING THE LATIN TONGUE by Use alone.\n\nGeneratio Corporis Cylindroidis Hyperbolici, elaborandis Lenti bus Hyperbolicis accommodati, Auth. Christophoro Wren LL D. et Regiorum Ædificiorum Praefecto, nec non Soc. Regiæ Sodali.\n\nSint (in Fig. I.) Hyperbola opposita DB, EC, quarum Axis transversus est BC, Centrum A, et una ex Asymptotis GP; item per Centrum fit OM ducta ad angulos rectos ipsi BC. Tttt Quare\nQuare si circumducatur Hyperbola circa Axim OM, manifestum est, ex ea revolutione generari corpus Cylindroides Hyperbolicum cujus Bases sunt lineaeque Basi parallela sunt Circuli. Dico insuper, si idem corpus secetur per Asymptoton GP, erit sectio Parallelogrammum.\n\nSecetur per Axim transversum sectio circulari BNC; item per O et M in Circulos aequales & aequaliter a Centro distantis; item per Axim in figuram Geometricam cujus semissis est BDEC, in cujus plano erit Asymptota GP, per quam ad rectos angulos planum BDE secetur in plano FHP, juxta autem denique HO.\n\nQuoniam Triangulum OGH est Rectangulum, Ergo Quadratum OH minus Quadrato OG est aquale Quadrato GH: et quoniam DO parallela est ipsi RA, et Asymptota secat in G, erit (ex proprietatibus Hyperbola, que in Conicis demonstrantur) Quadratum OG una cum Quadrato AB aquale Quadrato OD, h.e. Quadratum OD minus Quadrato OG aquale Quadrato AB sine Quadrato AN. Ergo Quadratum GH aquale est Quadrato AN. Quare GH et AN aequaliter et sunt ad angulos rectos ipsi CA; idemque demonstratur de omnibus aliis sectionibus Basi parallelis. Quare Cylindroides Hyperbolica vite secatur per Asymptota in Parallelogrammum q.e.d.\n\nCorollarium\n\nIlinc patet, in superficie Cylindroidis, quamvis e duplici flexura constet, rectas nihilominus innumeratas duci possit. Patet etiam, aliam esse hujus Corporis generationem, similis, ex revolutione Parallelogrammi circa Axim manente angulo ad Axim aequali GAO, vel denique manente Linea Generatrice HR immobile, et massam volubilem formante aut secante. Et si acies Dolabri acutissima et reticissima ita disponatur ad Axim, sicut se habet Linca Generatrix, rotante interim Mampure, manifestum est, Torno tam accuratas posse elaborari Hyperbolas quam Circulos, cum nihil alius requiratur ad formandam Cylindroidem quam ad Cylindrum, nisi quod in Cylindris acies dolabri est Axii parallela, hic vero inclinata. Iaque notandum est, pro Inclinatione Anguli GAO variari speciem Hyperbola; adeoque faciliter accommodatur ad datam Hyperbolam quam ut demonstratione opus habeat: At si manente angulo Generatrix magis ad Centrum accedat, exsurgit inde minor Hyperbola, sed prius praefusa simile.\n\nEx hoc Principio fabricarii jam curavit ingeniosissimus Author Machinae, simplicitate sua perquam commodabilem, cujus beneficio Lente, elaborentur Hyperbolice. Illius descriptionem una cum Icone brevi nos etiam editurus speramus.\n\nExperiments\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101001.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1231,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1289,
+        2
+      ],
+      [
+        1289,
+        3710,
+        3
+      ],
+      [
+        3710,
+        3710,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101001",
+    "title": "Generatio Corporis Cylindroidis Hyperbolici, Elaborandis Lenti bus Hyperbolicis Accommodati, Auth. Christophoro Wren L L D. et Regiorum Aedisiciorum Praefecto, Nec non Soc. Regiae Sodali",
+    "authors": "Christophoro Wren",
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101001"
+  }
+}

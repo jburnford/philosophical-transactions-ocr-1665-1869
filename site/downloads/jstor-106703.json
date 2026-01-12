@@ -1,0 +1,89 @@
+{
+  "id": "b4cefd2be2c295c4024aeac4f266fea0a6fc6ba5",
+  "text": "II. Remarks on the new Comet. In a Letter from William Herschel, LL.D. F. R. S. to Charles Blagden, M. D. Sec. R. S.\n\nRead Nov. 16, 1786.\n\nDear Sir,\n\nAs my Sister's letter of the 2d of August, relative to the comet discovered by her, has had the honour of being communicated to the Royal Society, I beg leave to add the following remarks upon it.\n\nThe track of the parallel not being taken at the time of her observations, I have endeavoured to recover it by means of directing the same instrument which was used on this occasion towards that part of the heavens where it was placed the 1st and 2d of August. Hence, from the annexed figure (see Tab. I. fig. 6.) in which A, B, represents a parallel of declination, we may conclude, that the comet was nearly in the same meridian with the star \\(a\\); but more north than it by an interval equal to the distance of the small star \\(b\\) from \\(a\\). This will consequently give us a pretty good opportunity to ascertain the comet's place with some accuracy.\n\nI have the honour to be, &c.\n\nWILLIAM HERSCHEL.\n\nSlough, near Windsor,\nNov. 15, 1786.\n\nP. S.\nP. S. The first view I had of the comet, after my return from Germany, was the 19th of August, when with a 10-feet reflector it appeared not much unlike the third nebula of the Connoissance des Temps, with which it might be very conveniently compared on account of its proximity. It was, however, considerably brighter, and seemed to have a very imperfect and confused kind of gathered light about the middle, which could hardly deserve the name of a nucleus. It had also, besides a diffused coma, a very faint, scattered light towards the north following part, extending to about three or four minutes, and losing itself insensibly.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106703.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8576,
+    "total-output-tokens": 589,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1098,
+        2
+      ],
+      [
+        1098,
+        1098,
+        3
+      ],
+      [
+        1098,
+        1098,
+        4
+      ],
+      [
+        1098,
+        1731,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106703",
+    "title": "Remarks on the New Comet. In a Letter from William Herschel, LLD. F. R. S. to Charles Blagden, M. D. Sec. R. S.",
+    "authors": "William Herschel",
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106703"
+  }
+}

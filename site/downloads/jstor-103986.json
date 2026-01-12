@@ -1,0 +1,69 @@
+{
+  "id": "2ebbd36fb6d1236eaf4a9e92f4c401304913e6d2",
+  "text": "I. An Extract of a Letter from Mr. John Cope to Dr. Alexander Stuart, Physician in Ordinary to her Majesty, Fellow of the College of Physicians, and of the Royal Society, London, concerning an Antient Date found at Widge-Hall in Hertfordshire. See Tab. I. Fig. 1.\n\nSIR,\n\nFeb. 25, 1734.\n\nI send you inclosed a Draught (see Tab. I. fig. 1.) of an ancient Chimney-piece (as I was informed it was) found on pulling down Part of Widge-Hall in Hertfordshire: There is cut upon it a Date expressed Part in Roman Numerals, Part in Indian Figures; which is the earliest Instance I have met with of the Indian Figures being used here in England, viz. 916. or 1016. that at Colchester being in the Year 1090. See Philosoph. Transact. No. 266. The Carving is very fair, the Letter D and Figures project out above a quarter of an Inch. The whole Chimney-piece is of English Oak Plank, and is now very firm, though 718 Years old, and was never painted over; it is 4 Feet 3½ Inches long; the Part under the 16 was broken off in taking it down in August, 1733, when the House was on fire. * * *\n\nYour, &c.\n\nJohn Cope.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103986.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5164,
+    "total-output-tokens": 410,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1101,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103986",
+    "title": "An Extract of a Letter from Mr. John Cope to Dr. Alexander Stuart, Physician in Ordinary to Her Majesty, Fellow of the College of Physicians, and of the Royal Society, London, concerning an Antient Date Found at Widgel-Hall in Hertfordshire. See Tab. I. Fig. 1",
+    "authors": "John Cope",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103986"
+  }
+}

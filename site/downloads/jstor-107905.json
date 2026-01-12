@@ -1,0 +1,59 @@
+{
+  "id": "91a1b37c179be0f29a20bf49aca056f976e1d436",
+  "text": "XXIV. On the Illumination of Light-houses. By Lieut. Thomas Drummond of the Royal Engineers. Communicated by Lieut. Colonel Colby of the Royal Engineers, F.R.S. . . . . . . . . . . . . . . . . . page 383\n\nXXV. On the electro-magnetic properties of metalliferous veins in the mines of Cornwall. By Robert Were Fox. Communicated by the President. 399\n\nXXVI. Sequel to a paper on the tendency to Calculous Diseases, and on the Concretions to which such diseases give rise. By John Yelloly, M.D. F.R.S. . . . . . . . . . . . . . . . . . . . . . . . 415\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 429\n\nAppendix.\n\nPresents received by the Royal Society, from Nov. 19th 1829 to June 17th 1830.\n\nMeteorological Journal, kept at the Apartments of the Royal Society, by order of the President and Council.\n\nERRATA in Part I.\n\nPage 74, dele the last paragraph but one.\n\n— 142, in the second formula, line 4th, for φ, read 1.\n\nPart II.\n\nPage 260, last line, for fire read ice.\n\n— 282, line 8, for heated read luted.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107905.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3458,
+    "total-output-tokens": 400,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1029,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107905",
+    "title": "Errata",
+    "authors": null,
+    "year": 1830,
+    "volume": "120",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107905"
+  }
+}

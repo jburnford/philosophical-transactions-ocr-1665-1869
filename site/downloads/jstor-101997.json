@@ -1,0 +1,119 @@
+{
+  "id": "3502bf561d66cc2494c8c4e9da8d5dead7245c62",
+  "text": "the making of Steel, yet according to the last and truest Process, the matter is plainly otherwise; for Iron this way made into Steel, becomes a kind of Electrum, and is filled with an exceeding brittle and hard Body of its own Nature; Iron being spungy and not close; for which purpose therefore, the Word densare is by Pliny aptly and elegantly used. And this way was used when the strongest temper and hardness was required; as to Picks and Anvils.\n\nThere might be divers reasons given for this last usage; as first, that there is far greater ease in working Iron, than Steel into any Figure, that being far softer and more ductible and loose.\n\nAgain, it is certain, and the Ancients in the passage last quoted do testify as much, that Iron by ignition is spoilt or corrupted, so that the oftner it is purged, tho' it were Steel it would the more relent. Whence knowing well, that in making their Tools out of Steel, they could not but considerably loose it and abate of their temper; they therefore first shaped them, and then gave them a strong Body of Steel and Temper together, and so had nothing else to do but to finish them on the Grindstone and Hone, to set the point or edge.\n\nV. The Descriptions of certain Shells found in the East Indies, Communicated by Mr. Witzen to Dr. Lister, and by him to the Publisher, with some Remarks of his own.\n\nSIR,\n\nHere sent you inclosed an Account of certain Shells and their Figures, which I received from Mr. Witzen, formerly Ambassador here from the States of Holland, and\nand also well known to the Learned World by his excellent Map of Tartary.\n\nTranslated from the French. He Writes thus:\n\n'There are found on the Coasts of Malabar and Ceylon, certain Cockles or Shells in Dutch called Koyk-borens. These Shells contain a Fish that lives in the bottom of the Sea, fixt to the Body of the Shell, and at a certain Season of the Year, they cast their Seed which produces a sort of Matrix of the size of the Figure*; this Vid.Fig. long Body which is wrinckled like an Andouille or Saufage is filled with a great number of round Celles, which are so many Matrices, each producing its little shell-fish; which quit not their cells till they are grown to such a bigness and maturity, as their weight breaks them off and loofens them from their cells, and so from their common Matrix, which remains fastned to the bottom of the Sea by the great end, the other end moving about freely in the water, which is flexible every way like an Andouille. This Matrix the Hollanders call Swambalk.\n\n'It is observable that this Matrix has a kind of back-part and Belly, the Back is something like that of a Sckelvis and of a greyish colour, the Belly is whiter, and is that part which is filled with the cells from one end to the other: the Skin which covers it is very like that of Stock-fish or other dried Fish.\n\n'Figure the 5th, Is a shell found in the River of Goa, which holds a sort of Oyster. It is very scarce and in the Indies as well as here the shell powdered is esteemed a good Medicine.\nSir,\n\nThis last Figure is of an Oyster-shell, the like is to be found in the West indies, whether the same species I cannot determine, having never seen them entire together to compare them. But Sir, considering the hint that is here given us, of its being thought Medicinal at Goa where it is found; and also how that calcined Shells are the most common entertainment all over the Indies, chieving them all day long with the Leaves of a certain hot piperate and spicy Plant and a sort of Nut mixt therewith: we may reasonably suspect the Goa Stone to be made up of them, or such like Ingredients.\n\nTours, &c.\n\nVI. A Paper of Mr. Flowers, containing some unknown Ancient Characters, with Remarks thereon by Francis Aston Esq; S. R. S.\n\nThese Characters being Two and Twenty in Number, are all that could be distinctly Collected out of the Ancient Sculptures, to be found this day extant at the admired Hills of Canary; where there are divers receptacles cut out of the main Rock, by incredible Industry and Charge of the Ancient Inhabitants of those Parts supposed Moors or Negroes of Ethiopia rather than Gentues; by reason of the large proportion of their usual Statures, which is at least Eight Foot in height, having great Lips, full Eyes, flat Nose and curled Hair, and is worthy the Observation. So far Mr. Flower Feb. 3. 1675.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101997.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12590,
+    "total-output-tokens": 1262,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        1523,
+        6
+      ],
+      [
+        1523,
+        3034,
+        7
+      ],
+      [
+        3034,
+        4367,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101997",
+    "title": "The Descriptions of Certain Shells Found in the East Indies, Communicated by Mr. Witzen to Dr. Lister, and by Him to the Publisher, with Some Remarks of His Own",
+    "authors": "Mr. Witzen",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/101997"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "c12f1c1dcdc057623e9f1da7ff909779ee4f9744",
+  "text": "Specific gravity of water at the different degrees of heat.\n\n| Heat | Specific gravity | Heat | Specific gravity | Heat | Specific gravity | Heat | Specific gravity | Heat | Specific gravity | Heat | Specific gravity |\n|------|-----------------|------|-----------------|------|-----------------|------|-----------------|------|-----------------|------|-----------------|\n| 30   | 1.00074         | 35   | 1.00090         | 40   | 1.00094         | 45   | 1.00086         | 50   | 1.00068         | 55   | 1.00038         |\n| 31   | 1.00078         | 36   | 1.00092         | 41   | 1.00093         | 46   | 1.00083         | 51   | 1.00063         | 56   | 1.00031         |\n| 32   | 1.00082         | 37   | 1.00093         | 42   | 1.00092         | 47   | 1.00080         | 52   | 1.00057         | 57   | 1.00024         |\n| 33   | 1.00086         | 38   | 1.00094         | 43   | 1.00090         | 48   | 1.00076         | 53   | 1.00051         | 58   | 1.00016         |\n| 34   | 1.00088         | 39   | 1.00094         | 44   | 1.00088         | 49   | 1.00072         | 54   | 1.00045         | 59   | 1.00008         |\n\nAlthough the titles of the Columns in the preceding Tables, with what has been said in the introductory discourse, may render the Tables sufficiently obvious to the generality of readers, yet to some perhaps an example may be necessary; I shall therefore shew in what manner the quantity by measure of pure Spirit of .825 specific gravity at 60° of heat, may readily be found by the help of these Tables.—In order to which, we must know the heat, the specific gravity, and quantity of spirit which the vessel contains.\n\n**Example.** Suppose the heat to be 35°, the specific gravity .909, and the quantity of spirit 138.99 measures.\n\nUnder 35° of heat, and in Column II. of specific gravity, find .909; and in the same horizontal line, take out from Column VIII., the decimal multiplier .7297, by which multiply 138.99, cutting off as many figures to the right as there are decimals in both factors; then we shall have 101.421003 for the measures of pure spirit, of the specific gravity .825 at 60° of heat.\n\nNow a mere inspection of the Columns in the Tables will shew that a spirit of that strength was obtained, by adding 51 parts of water by weight to 100 parts of spirit, as in Column I. which produced the specific gravity found in the same horizontal line, Column II. It will as readily be seen, that the same specific gravity results from adding together their equivalents in measure, Columns III. and IV. and that Column V. contains the quantity, which the two quantities really measure after the mixture has been made.\n\n---\n\n**ERRATA.**\n\nPage 281, column IV. line 34, for 126.12, read 125.12.\n\n283, —— I. —— 17, for 100 + 54, read 100 + 34.\n\nIbid. —— IV. —— 34, for 126.05, read 125.05.\n\nIbid. —— V. —— 2 from bottom, for 4866.96, read 4286.96.\n\n285, —— VIII. —— 23, for .5046, read .5056.\n\n286, —— IV. —— 8 from bottom, for 77.99, read 76.99.\n\n287, —— VIII. —— 23, for .5044, read .5054.\n\n289, —— II. —— 28, for .95485, read .95385.\n\n290, —— IV. —— 1 dele 0.84.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106906.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 1228,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3103,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106906",
+    "title": "Errata",
+    "authors": null,
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106906"
+  }
+}

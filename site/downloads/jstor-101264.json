@@ -1,0 +1,109 @@
+{
+  "id": "427b3c4633500cdbd1d1eec5ab45cde42ae08f2d",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nMonday, April 13. 1668\n\nThe Contents.\n\nThe Squaring of the Hyperbola by an infinite series of Rational Numbers, together with its Demonstration, by the Right Honourable the Lord Viscount Brouncker. An Extract of a Letter sent from Danzick, touching some Chymical, Medicinal and Anatomical particulars. Two Letters, written by Dr. John Wallis to the Publisher; One, concerning the Variety of the Annual High-Tides in respect to several places: the other, concerning some Mistakes of a Book entitled SPECIMINA MATHEMATICA Francisci Dulaurens, especially touching a certain Probleme, affirm'd to have been proposed by Dr. Wallis to the Mathematicians of all Europe, for a solution. An Account of some Observations concerning the true Time of the Tides, by Mr. Hen. Phillips. An Account of three Books: I. W.SENGWERDIUS PH.D.de Tarantula. II. REGNERI de GRAEF M.D. Epistola de nonnullis circa Partes Genitales Inventis Novis. III. JOHANNIS van HORNE M.D. Observationum suarum circa Partes Genitales in utroque sexu, PRODROMUS.\n\nThe Squaring of the Hyperbola, by an infinite series of Rational Numbers, together with its Demonstration, by that Eminent Mathematician, the Right Honourable the Lord Viscount Brouncker.\n\nWhat the Acute Dr. John Wallis had intimated, some years since, in the Dedication of his Answer to M. Meibomius de proportionibus, vid. That the World one day would learn from the Noble Lord Brouncker, the Quadrature of the Hyperbola; the Ingenious Reader may see performed in the subjoyned operation, which its Excellent Author was now pleased to communicate, as followeth in his own words;\nMy Method for Squaring the Hyperbola is this:\n\nLet \\( AB \\) be one Asymptote of the Hyperbola \\( EdC \\); and let \\( AE \\) and \\( BC \\) be parallel to the other: I. et also \\( AE \\) be to \\( BC \\) as 2 to 1; and let the Parallelogram \\( ABDE \\) equal 1. See Fig. 1. And note, that the Lett. \\( x \\) every where stands for Multiplication.\n\nSupposing the Reader knows, that \\( EA, \\alpha \\xi, KH, \\&c. d \\theta, \\gamma \\times \\delta \\lambda, \\&c. C.B.\\&c. \\) are in an Harmonic series, or a series reciproca primanorum seu arithmetice proportionalium (otherwise he is refer'd for satisfaction to the S7, 88, 89, 90, 91, 92, 93, 94, 95, prop. Arithm. Infinitor. Wallisii.)\n\nI say \\( ABCdEA = \\frac{1}{1 \\times 2} + \\frac{1}{3 \\times 4} + \\frac{1}{5 \\times 6} + \\frac{1}{7 \\times 8} + \\frac{1}{9 \\times 10} \\&c. \\)\n\n\\( EdCDE = \\frac{1}{2 \\times 3} + \\frac{1}{4 \\times 5} + \\frac{1}{6 \\times 7} + \\frac{1}{8 \\times 9} + \\frac{1}{10 \\times 11} \\&c. \\) in infinitum.\n\n\\( EdCyE = \\frac{1}{2 \\times 3 \\times 4} + \\frac{1}{4 \\times 5 \\times 6} + \\frac{1}{6 \\times 7 \\times 8} + \\frac{1}{8 \\times 9 \\times 10} \\&c. \\)\n\nFor (in Fig. 2, &c.) the Parallelog. And (in fig. 4.) the Triangl.\n\n\\[\n\\begin{align*}\nCA &= \\frac{1}{1 \\times 2} \\\\\ndD &= \\frac{1}{2 \\times 3} \\\\\nbr &= \\frac{1}{4 \\times 5} \\\\\nfG &= \\frac{1}{6 \\times 7} \\\\\naq &= \\frac{1}{8 \\times 9} \\\\\ncs &= \\frac{1}{10 \\times 11} \\\\\net &= \\frac{1}{12 \\times 13} \\\\\ngu &= \\frac{1}{14 \\times 15} \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\nEdC &= \\frac{1}{2 \\times 3 \\times 4} \\\\\nEbd &= \\frac{1}{4 \\times 5 \\times 6} \\\\\ndfC &= \\frac{1}{6 \\times 7 \\times 8} \\\\\nEab &= \\frac{1}{8 \\times 9 \\times 10} \\\\\nbcd &= \\frac{1}{10 \\times 11 \\times 12} \\\\\ndef &= \\frac{1}{12 \\times 13 \\times 14} \\\\\nfgC &= \\frac{1}{14 \\times 15 \\times 16} \\\\\n\\end{align*}\n\\]\n\nNote.\n\n\\[\n\\begin{align*}\nCA &= dD + df \\\\\ndD &= br + bn \\\\\nbr &= fG + fk \\\\\nfG &= et + el \\\\\net &= gu + gh \\\\\n\\end{align*}\n\\]\nAnd that therefore in the first series half the first term is greater than the sum of the two next, and half this sum of the second and third greater than the sum of the four next, and half the sum of those four greater than the sum of the next eight, &c. in infinitum. For \\( \\frac{1}{2} dD = br + bn \\); but \\( bn > fG \\), therefore \\( \\frac{1}{2} dD > br + fG \\), &c.\n\nAnd in the second series half the first term is less than the sum of the two next, and half this sum less than the sum of the four next, &c. in infinitum.\n\nThat the first series are the even terms, viz., the 2\\(^{nd}\\), 4\\(^{th}\\), 6\\(^{th}\\), 8\\(^{th}\\), 10\\(^{th}\\), &c. and the second, the odd, viz., the 1\\(^{st}\\), 3\\(^{rd}\\), 5\\(^{th}\\), 7\\(^{th}\\), 9\\(^{th}\\), &c. of the following series, viz. \\( \\frac{1}{a}, \\frac{1}{a-1}, \\frac{1}{a-2}, \\ldots \\) &c. in infinitum \\( = 1 \\). Whereof \\( a \\) being put for the number of terms taken at pleasure, \\( \\frac{1}{a} \\) is the last, \\( \\frac{a}{a+1} \\) is the sum of all those terms from the beginning, and \\( \\frac{1}{a} \\) the sum of the rest to the end.\n\nThat \\( \\frac{1}{4} \\) of the first terme in the third series is less than the sum of the two next, and a quarter of this sum, less than the sum of the four next, and one fourth of this last sum less than the next eight, I thus demonstrate.\n\nLet \\( a \\) be the 3\\(^{rd}\\) or last number of any term of the first Column, viz. of Divisors,\n\n\\[\n\\frac{1}{a} - \\frac{1}{a-1} - \\frac{1}{a-2} = \\frac{1}{a^3 - 3a^2 + 2a} = \\frac{16a^3 - 48a^2 + 56a - 24}{16a^6 - 96a^5 + 232a^4 - 288a^3 + 184a^2 - 48a} = A\n\\]\n\n\\[\n\\frac{1}{2a} - \\frac{1}{2a-1} - \\frac{1}{2a-2} = \\frac{8a^3 - 12a^2 + 4a}{64a^6 - 384a^5 + 880a^4 - 960a^3 + 496a^2 - 96a} = B\n\\]\n\n\\[\n\\frac{1}{2a-2} - \\frac{1}{2a-3} - \\frac{1}{2a-4} = \\frac{8a^3 - 36a^2 + 52a - 24}{64a^6 - 384a^5 + 880a^4 - 960a^3 + 496a^2 - 96a} = A < B.\n\\]\n\nAnd \\( 48a^4 - 192a^3 + 240a^2 - 96a = Excess \\) of the Numerator above Denominator.\n\nBut — The affirm, \\( > \\) the Negat.\n\nThat is, \\( 48a^4 + 240a^2 > 192a^3 + 96a \\)\n\nBecause \\( a^4 + 5a^2 > 4a^3 + 2a \\) if \\( a > 2 \\).\n\nTherefore \\( B > \\frac{1}{4} A \\).\n\nTherefore \\( \\frac{1}{4} \\) of any number of \\( A \\) or Terms, is less than their so many respective \\( B \\), that is, than twice so many of the next Terms. Quod, &c.\n\nBy\nBy any one of which three Series, it is not hard to calculate, as near as you please, these and the like Hyperbolic spaces, whatever be the Rational Proportion of \\( AE \\) to \\( BC \\). As for Example, when \\( AE \\) is to \\( BC \\), as 5 to 4. (whereof the Calculation follows after that where the Proportion is, as 2 to 1. and both by the third Series.)\n\nFirst then when (in Fig. 1.) \\( AE : BC :: 2 : 1 \\).\n\n\\[\n\\begin{align*}\n2 \\times 3 \\times 4 & : 1. (0.0416666666) \\\\\n4 \\times 5 \\times 6 & : 1. (0.0083333333) \\\\\n6 \\times 7 \\times 8 & : 1. (0.0029761904) \\\\\n8 \\times 9 \\times 10 & : 1. (0.0013888888) \\\\\n10 \\times 11 \\times 12 & : 1. (0.0007575757) \\\\\n12 \\times 13 \\times 14 & : 1. (0.0004578754) \\\\\n14 \\times 15 \\times 16 & : 1. (0.0002976190) \\\\\n16 \\times 17 \\times 18 & : 1. (0.000179484) \\\\\n18 \\times 19 \\times 20 & : 1. (0.0001082251) \\\\\n20 \\times 21 \\times 22 & : 1. (0.0000641026) \\\\\n22 \\times 23 \\times 24 & : 1. (0.0000366021) \\\\\n24 \\times 25 \\times 26 & : 1. (0.0000213346) \\\\\n26 \\times 27 \\times 28 & : 1. (0.0000129756) \\\\\n28 \\times 29 \\times 30 & : 1. (0.0000076869) \\\\\n30 \\times 31 \\times 32 & : 1. (0.0000045180) \\\\\n32 \\times 33 \\times 34 & : 1. (0.0000027851) \\\\\n34 \\times 35 \\times 36 & : 1. (0.0000016719) \\\\\n36 \\times 37 \\times 38 & : 1. (0.0000009793) \\\\\n38 \\times 39 \\times 40 & : 1. (0.0000005401) \\\\\n40 \\times 41 \\times 42 & : 1. (0.0000003034) \\\\\n42 \\times 43 \\times 44 & : 1. (0.0000001719) \\\\\n44 \\times 45 \\times 46 & : 1. (0.0000000979) \\\\\n46 \\times 47 \\times 48 & : 1. (0.0000000540) \\\\\n48 \\times 49 \\times 50 & : 1. (0.0000000278) \\\\\n50 \\times 51 \\times 52 & : 1. (0.0000000167) \\\\\n52 \\times 53 \\times 54 & : 1. (0.0000000098) \\\\\n54 \\times 55 \\times 56 & : 1. (0.0000000054) \\\\\n56 \\times 57 \\times 58 & : 1. (0.0000000030) \\\\\n58 \\times 59 \\times 60 & : 1. (0.0000000017) \\\\\n60 \\times 61 \\times 62 & : 1. (0.0000000009) \\\\\n62 \\times 63 \\times 64 & : 1. (0.0000000005)\n\\end{align*}\n\\]\n\nTherefore \\( 0.05679179 + 0.00004583 + 0.00001528 = 0.05685290 > EdCy \\).\n\nFor, it has been demonstrated that, of any terme in the last Column is less than the terme next after it; and therefore that, of the last terme, at which you stop\nstop, is less than the remaining terms, and that the total of these is less than\nof a third proportional to the two last.\n\nAnd therefore \\( A B C y E \\) being = 0.75 ——— ——— ——— ———\nand \\( E d C y \\) > 0.05685279 ——— and < 0.05685290\n\nAnd \\( A B C d E \\) is < 0.69314720 ——— and > 0.69314709\n\nBut when \\( AE \\cdot BC :: 5.4 \\), or as \\( EA \\), to \\( KH \\), then will the space \\( ABCE \\). or now,\nthe space \\( AHKE \\) (\\( AH = AB \\)) be found as follows.\n\n\\[\n\\begin{align*}\n8 \\times 9 \\times 10 & \\quad (0.0013888888) \\\\\n16 \\times 17 \\times 18 & \\quad (0.0002042484) \\\\\n18 \\times 19 \\times 20 & \\quad (0.0001461988) \\\\\n32 \\times 33 \\times 34 & \\quad (0.0000278520) \\\\\n34 \\times 35 \\times 36 & \\quad (0.0000233426) \\\\\n36 \\times 37 \\times 38 & \\quad (0.0000197566) \\\\\n38 \\times 39 \\times 40 & \\quad (0.0000168691)\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n& \\quad 0.003888888 \\\\\n& \\quad 0.0003504472 \\\\\n& \\quad 0.0000878204 \\\\\n& \\quad 0.001871564 \\\\\n& \\quad 0.0000292735 \\\\\n& \\quad 0.0018564299 \\\\\n& \\quad 0.0003504472 \\\\\n& \\quad 0.0000878204 \\\\\n& \\quad 0.00002200737 \\\\\n& \\quad 0.0018271564 \\\\\n& \\quad 0.0000220074 \\\\\n& \\quad 0.0000073358 \\\\\n& \\quad 0.0018564996\n\\end{align*}\n\\]\n\nTherefore \\( EMb \\) (Fig 4.)\nbeing = 0.025 ——— ——— ——— ———\n\\( Eab \\) > 0.0018564299 ——— & < 0.0018564996\n\n\\( EMba \\) (Fig 4.) or \\( EKM \\) (Fig. 1.)\n\\( 0.02685643 \\) ——— < 0.02685650\n\\( AHKM \\) < 0.22314356 ——— > 0.22314349\n\nTherefore \\( 3ABCdE = 2.07944154 \\)\nand \\( AHKE = 0.22314355 \\)\n\\( ABCdE \\) (when \\( AE, BC :: 10.1 \\)) = 2.025850\n\nTherefore the Logar. of 103\nis to the Log. of 2,\nas 2.302585\nto 0.693147\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101264.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10884,
+    "total-output-tokens": 4568,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1634,
+        2
+      ],
+      [
+        1634,
+        3541,
+        3
+      ],
+      [
+        3541,
+        5840,
+        4
+      ],
+      [
+        5840,
+        7994,
+        5
+      ],
+      [
+        7994,
+        9580,
+        6
+      ],
+      [
+        9580,
+        9580,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101264",
+    "title": "The Squaring of the Hyperbola, by an Infinite Series of Rational Numbers, Together with Its Demonstration, by that Eminent Mathematician, the Right Honourable the Lord Viscount Brouncker",
+    "authors": "Viscount Brouncker",
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/101264"
+  }
+}

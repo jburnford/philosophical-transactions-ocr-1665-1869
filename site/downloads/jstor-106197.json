@@ -1,0 +1,139 @@
+{
+  "id": "ff945ec79d9d500f79447ab20f6e2fea67c11962",
+  "text": "XXVI. An Investigation of a general Theorem for finding the Length of any Arc of any Conic Hyperbola, by Means of Two Elliptic Arcs, with some other new and useful Theorems deduced therefrom. By John Landen, F.R.S.\n\nRedde, Mar. 23, 1775. In a paper, which the Society did me the honour to publish in the Philosophical Transactions for the year 1771, I announced, that I had discovered a general theorem for finding the length of any arc of any conic hyperbola, by means of two elliptic arcs; and I promised to communicate the investigation of such theorem. I now purpose to perform my promise; and, being pleased with the discovery (by which we are enabled to bring out very elegant conclusions in many interesting enquiries, as well mechanical as purely geometrical), I cannot but flatter myself, that what I am about to communicate will be acceptable to gentlemen who are curious in such inquiries.\n\n1. From the theorem taken notice of in Art. 1. of the paper I have just now mentioned, it follows, that in the hyperbola AD (TAB. VII. fig. 1.), if the semi-transverse axis AC be \\( m - n \\); the semi-conjugate \\( = 2 \\times \\sqrt{m-n} \\); and the perpendicular CP, from the center C upon the tangent DP, \\( = \\sqrt{m-n^2-t^2} \\); the difference (DP-AD) between the said tangent\ntangent DP and the arc AD will be equal to the fluent of\n\n\\[ \\frac{m-n}{m+n} \\times t. \\]\n\n2. It is well known, that in any ellipsis whose semi-\ntranverse axis is \\( m \\), and semi-conjugate \\( n \\); if \\( x \\) be the\nabscissa, measured from the center upon the transverse\naxis, and \\( z \\) the arc between the conjugate axis and the\nordinate corresponding to \\( x \\),\n\n\\[ \\frac{m^2 - g x^2}{m^2 - x^2} \\times z \\] will be \\( = z \\),\n\n\\( g \\) being \\( = \\frac{m^2 - n^2}{m^2}. \\)\n\nHence,\n\n\\[ \\frac{m+n}{m-n} \\times t \\text{ being } \\frac{m+n}{m-n} \\times \\frac{m+n}{m-n} t, \\] it\n\nappears, that in the ellipsis aed (fig. 2.) whose semi-\ntranverse axis cd is \\( = m + n \\), semi-conjugate ca \\( = 2 \\times m \\),\n\nand abscissa cb (corresponding to the ordinate be)\n\n\\( = \\frac{m+n}{m-n} t; \\) the arc ae is equal to the fluent of\n\n\\[ \\frac{m+n}{m-n} \\times t. \\]\n\n3. In the ellipsis aefd (fig. 3.), the semi-tranverse\naxis cd being \\( = m; \\) the semi-conjugate ca \\( = n; \\) and\nthe abscissa cb (corresponding to the ordinate be) \\( = x; \\)\nif ep, the tangent at e, intercepted by a perpendicular\n(cp) drawn thereto from the center c, be denoted by \\( t; \\)\n\n\\[ g x \\times \\frac{m^2 - x^2}{m^2 - g x^2} \\] (as is well known) will be \\( = t, \\) \\( g \\) being as\nin the preceding article.\n\nHence\nHence \\( x^2 = \\frac{m^2 + t^2}{2g} - \\frac{(m^2 - n^2)^2 - 2 \\times m^2 + n^2 \\times t^2 + t^4}{2g} \\).\n\nFrom which equation, by taking the fluxions, we have,\n\n\\[\nx \\dot{x} = \\frac{ti}{2g} + \\frac{m^2 + n^2 \\times ti - t^3 i}{2g \\times (m^2 - n^2) - 2 \\times m^2 + n^2 \\times t^2 + t^4}\n\\]\n\nBut \\( \\dot{x} \\) being \\( \\frac{m^2 - g^2}{m^2 - x^2} \\times \\dot{x} \\),\n\nas observed in the preceding article, it appears that\n\n\\( \\dot{x} \\times x \\dot{x} \\) is \\( \\dot{x} \\). It is obvious, therefore, that\n\n\\[\n\\dot{x} = \\frac{1}{2} \\dot{t} + \\frac{1}{2} \\times \\frac{m^2 + n^2 \\times t - t^2}{m - n^2 - t^2 \\times m + n^2 - t^2}\n\\]\n\n\\[\n= \\frac{1}{2} \\dot{t} + \\frac{1}{4} \\times \\frac{m - n^2 \\times t - t^2}{m - n^2 - t^2 \\times m + n^2 - t^2} + \\frac{1}{4} \\times \\frac{m + n^2 \\times t - t^2}{m - n^2 - t^2 \\times m + n^2 - t^2}\n\\]\n\n\\[\n= \\frac{1}{2} \\dot{t} + \\frac{1}{4} \\times \\frac{m - n^2 - t^2}{m + n^2 - t^2} \\times \\dot{t} + \\frac{1}{4} \\times \\frac{m + n^2 - t^2}{m - n^2 - t^2} \\times \\dot{t}.\n\\]\n\nFrom whence taking the fluents by the theorems in art. 1. and 2. we have \\( x = ae \\) (fig. 3.) \\( = \\frac{1}{2} t + \\frac{DP - AD}{4} \\) (fig. 1.) \\( + \\frac{ae}{4} \\) (fig. 2.)\n\nconsequently the hyperbolic arc \\( AD \\) is \\( DP + ae + 2t - 4ae \\).\n\nThus, beyond my expectation, I find, that the hyperbola may in general be rectified by means of two ellipses.\n\nWriting \\( E \\) and \\( F \\) for the quadrantals arcs \\( ad, ad, \\) (fig. 2. and 3.) respectively, and \\( L \\) for the limit of the difference \\( DP - AD \\), whilst the point of contact \\( D \\) is supposed to be carried to an infinite distance from the vertex \\( A \\) of the hyperbola (fig. 1.), we find\n\n\\[\n2F - E = L,\n\\]\n\nthe value of \\( ae \\) being \\( \\frac{1}{2} F + \\frac{1}{4} m - \\frac{1}{2} n \\) when \\( t \\) is \\( m - n \\);\nthat is, when e coincides with d (fig. 2.), and p with c (fig. 1.), by what I have proved in the before mentioned paper; art. 10.\n\n4. From what is done above, the following useful theorems are deduced.\n\n**THEOREM I.**\n\nThe fluent of \\( \\frac{1}{2} a^{\\frac{1}{2}} z^{-\\frac{1}{2}} \\times \\frac{a-z}{b^2+z} \\) is \\( de \\).\n\n**THEOREM II.**\n\nThe fluent of \\( \\frac{1}{2} a^{\\frac{1}{2}} z^{-\\frac{1}{2}} \\times \\frac{a-z}{b^2+z} \\) is \\( \\frac{2a^2}{b^2+1} \\cdot de - \\frac{2a^2}{b^2+2} \\cdot ef \\).\n\n**THEOREM III.**\n\nThe fluent of \\( \\frac{1}{2} a^{\\frac{1}{2}} z^{\\frac{1}{2}} \\times \\frac{a-z}{b^2+2kz-z^2} \\) is \\( 2ef - de = 2F - E + AD - DP \\).\n\n**THEOREM IV.**\n\nThe fluent of \\( \\frac{1}{2} a^{\\frac{1}{2}} b^{\\frac{1}{2}} z^{-\\frac{1}{2}} \\times \\frac{a-z}{b^2+2kz-z^2} \\) is \\( 2 \\times de - ef \\). N.B. \\( k = \\frac{a^2-b^2}{2a} \\).\n\nThese theorems still refer to fig. 1. 2. 3.; but now the values of the several lines therein (being not as before) are as here specified; *videlicet*,\n\nFig. 1. In the hyperbola AD, the semi-transverse axis AC is now = a; the semi-conjugate = b; the perpendicular CP, from the center C upon the tangent DP, is \\( \\frac{a-z}{z} \\); the said tangent DP = \\( \\frac{a}{z} \\times \\frac{b^2+2kz-z^2}{z} \\); and the abscissa CB (corresponding to the ordinate BD) is \\( \\frac{a}{z} \\times \\frac{az+b^2}{a^2+b^2} \\).\n\nFig.\nFig. 2. In the ellipsis \\(aed\\), the semi-transverse axis \\(cd\\) is \\(\\sqrt{a^2 + b^2}\\); the semi-conjugate \\(ca = b\\); the abscissa \\(cb = \\frac{\\sqrt{a^2 + b^2}}{a} \\times a - z\\); and the ordinate \\(be = b \\times \\frac{z}{a}\\).\n\nFig. 3. In the ellipsis \\(aefd\\), the semi-transverse axis \\(cd\\) is \\(\\frac{1}{2} \\cdot \\sqrt{a^2 + b^2} + \\frac{1}{2}a\\); the semi-conjugate \\(ca = \\frac{1}{2} \\cdot \\sqrt{a^2 + b^2} - \\frac{1}{2}a\\); the tangents \\(ep, fq\\), intercepted by perpendiculars \\((cp, cq)\\) drawn thereto from the center \\(c\\), each \\(= \\frac{1}{2} \\cdot \\sqrt{a^2 + b^2} - \\frac{1}{2}a\\); and the abscissa \\((cb' \\text{ or } cb'')\\) on \\(cd\\), corresponding to the point \\(e\\) or \\(f\\), of the curve is determined by the expression\n\n\\[\n\\frac{\\sqrt{a^2 + b^2} + a - z \\pm \\sqrt{b^2 + a^2 - z^2}}{2^{1/2} + \\sqrt{a^2 - b^2}} \\times cd.\n\\]\n\nThe quadrant arc \\(ad\\) (fig. 2.) is denoted by \\(e\\); and the quadrant arc \\(ad\\) (fig. 3.) is denoted by \\(f\\). The limit of \\(DP - AD\\) (fig. 1.) is \\(= 2F - E\\).\n\nFrom what is now done, I might proceed to deduce many other new theorems, for the computation of fluents; but I shall, at present, decline that business: and, after giving a remarkable example of the use of theorem 4. in computing the descent of a heavy body in a circular arc, conclude this paper with a few observations relative to the contents of the preceding articles.\n\n5. Let \\(lpqn\\) (fig. 4.) be a semi-circle perpendicular to the horizon, whose highest point is \\(l\\), lowest \\(n\\), and center \\(m\\). Let \\(ps, qt\\), parallel to the horizon, meet the diameter \\(lmn\\) in \\(s\\) and \\(t\\); and let the radius \\(lm\\) (or \\(mn\\)) be denoted by \\(r\\); the height \\(ns\\) by \\(d\\); and the distance\nst by \\( x \\). Then, putting \\( b \\) for \\( (16\\frac{1}{2} \\text{ feet}) \\) the space a heavy body, descending freely from rest, falls through in one second of time; and supposing a pendulum, or other heavy body, descending by its gravity from \\( p \\), along the arc \\( pqn \\), to have arrived at \\( q \\); the fluxion of the time of descent will be \n\\[\n\\frac{\\frac{3}{2}rb - \\frac{1}{2}x - \\frac{1}{2}}{2rd - d^2 - 2r - d - x - x^2}.\n\\]\nThe fluent whereof, or the time of descent from \\( p \\) to \\( q \\) is (by theor. 4. of the preceding article) \n\\[\n\\frac{2r}{b^{\\frac{1}{2}} \\times 2r - d} \\times de - ef,\n\\]\n\\( a \\) (in that theorem) being taken \\( =d^{\\frac{1}{2}}, b=2r-d^{\\frac{1}{2}}, cb \\) (fig. 2.) \\( =\\frac{2r}{d^{\\frac{1}{2}}} \\times \\frac{d-x}{d-x^{\\frac{1}{2}}}, \\) and ep, fq, (fig. 3.) each \\( =\\frac{d-x}{d-x^{\\frac{1}{2}}}. \\)\nHence it appears, that the whole time of descent from \\( p \\) to \\( n \\) is \n\\[\n\\frac{2r}{b^{\\frac{1}{2}} \\times 2r - d} \\times E-F;\n\\]\nwhen, in fig. 2. and 3. the semi-axes are taken according to the values of \\( a \\) and \\( b \\) just now specified.\n\n6. If \\( pqn \\) be a quadrant; that is, if \\( d \\) be \\( r \\), the whole time of descent from \\( p \\) to \\( n \\) will be \n\\[\n\\frac{2}{b^{\\frac{1}{2}}} \\times E-F,\n\\]\nby the above theorem. Which time, by what I have shewn in the Philos. Transact. for 1771, is \n\\[\n\\frac{1}{b^{\\frac{1}{2}}} \\times \\frac{1}{2}E + \\frac{1}{2}\\sqrt{E^2 - 2c},\n\\]\n\\( c \\) being \\( \\frac{1}{4} \\) of the periphery of the circle whose radius is \\( r \\).\nConsequently, \n\\[\n\\frac{2}{b^{\\frac{1}{2}}} \\times E-F \\text{ being found } = \\frac{1}{b^{\\frac{1}{2}}} \\times \\frac{1}{2}E + \\frac{1}{2}\\sqrt{E^2 - 2c},\n\\]\nwe find from that equation \\( F=\\frac{3}{4}E-\\frac{1}{4}\\sqrt{E^2 - 2c} \\), where \\( E \\) is the quadrantal arc of the ellipsis, whose semi-transverse and semi-conjugate axes are \\( 2r^{\\frac{1}{2}} \\) and \\( r^{\\frac{1}{2}} \\); and \\( F \\) the quadrantal\ndrantal arc of another ellipsis, whose semi-transverse and semi-conjugate axes are $\\frac{r}{2} + \\frac{1}{2} r^{\\frac{1}{2}}$ and $\\frac{r}{2} - \\frac{1}{2} r^{\\frac{1}{2}}$.\n\nBefore Mr. MacLaurin published his excellent Treatise of Fluxions, some very eminent mathematicians imagined, that the elastic curve could not be constructed by the quadrature or rectification of the conic sections. But that gentleman has shewn, in that treatise, that the said curve may in every case be constructed by the rectification of the hyperbola and ellipsis; and he has observed, that, by the same means, we may construct the curve along which, if a heavy body moved, it would recede equally in equal times from a given point. Which last mentioned curve Mr. James Bernoulli constructed by the rectification of the elastic curve, and Mr. Leibnitz and Mr. John Bernoulli by the rectification of a geometrical curve of a higher kind than the conic sections. It is observable, that Mr. MacLaurin's method of construction just now adverted to, though very elegant, is not without a defect. The difference between the hyperbolic arc and its tangent being necessary to be taken, the method always fails when some principal point in the figure is to be determined; the said arc and its tangent then both becoming infinite, though their difference be at the same time finite. The contents of this paper, properly applied, will evince, that both the elastic curve and the curve of equable recess from a given point (with many others) may be constructed by the rectification of the ellipsis only, without failure in any point.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106197.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 16186,
+    "total-output-tokens": 4198,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1281,
+        4
+      ],
+      [
+        1281,
+        2574,
+        5
+      ],
+      [
+        2574,
+        4374,
+        6
+      ],
+      [
+        4374,
+        5730,
+        7
+      ],
+      [
+        5730,
+        7450,
+        8
+      ],
+      [
+        7450,
+        9390,
+        9
+      ],
+      [
+        9390,
+        10992,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106197",
+    "title": "An Investigation of a General Theorem for Finding the Length of Any Arc of Any Conic Hyperbola, by means of Two Elliptic Arcs, with Some Other New and Useful Theorems Deduced Therefrom. By John Landen, F. R. S.",
+    "authors": "John Landen",
+    "year": 1775,
+    "volume": "65",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/106197"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "efe0c56f01ebff83a426338f029b78f432e8e9de",
+  "text": "LXI. Latitude of the Observatory at the Cape of Good Hope, reduced from the Observations of different Stars; by Mr. Charles Mason.\n\nRead June 17, 1762.\n\n| Date       | Lat. South |\n|------------|------------|\n| June 19    | 33° 55' 41½\" By Antares. |\n| June 21    | 33° 55' 40½\" Per Spica. |\n| June 22    | 55° 45½\" Arcturus. |\n| July 2     | 55° 31\" Fomalhaut. |\n| July 3     | 55° 37\" |\n| Sept. 22   | 55° 43\" |\n| July 2     | 55° 30\" μ Scorpii. |\n| July 1     | 55° 47\" λ Scorpii. |\n| July 2     | 55° 44\" δ Sagittarii. |\n| July 12    | 55° 29\" σ Scorpii. |\n| Aug. 8     | 55° 40\" Antares. |\n| Aug. 10    | 51° 57\" α Aquilæ. |\n\nMean = 33° 55' 40½\" Or, by leaving out the observation of α Aquilæ, and three of the least, it gives 33° 55' 42+ = Latitude South.\n\nCharles Mason.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105638.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 414,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        777,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105638",
+    "title": "Latitude of the Observatory at the Cape of Good Hope, Reduced from the Observations of Different Stars; By Mr. Charles Mason",
+    "authors": "Charles Mason",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105638"
+  }
+}

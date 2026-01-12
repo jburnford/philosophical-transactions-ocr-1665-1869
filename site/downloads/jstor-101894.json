@@ -1,0 +1,139 @@
+{
+  "id": "c74b4c3acfabbd9600c178849e07bfb1e3dfcf82",
+  "text": "De Constructione Problematum Solidorum, sive Æquationum tertiæ vel quartæ Potestatis, unica data Parabola ac Circulo efficienda; dissertatiuncula: Authore Edm. Halley.\n\nQuo pacto æquationes omnes Cubum vel Quadrato-quadratum quantitatis incognitæ involventes, ope Parabolæ cujuscumq; datæ & Circuli, construi possint, clare tradit ac Liquido demonstrat præclarus ille Cartesius in Lib. III. Geometriæ suæ: sed primum jubet secundum æquationis terminum, si adfuerit, tollere, ac deinde reductæ æquationis Radices regula ibidem exposita elicere. Cum vero operatio ista nimis laboriosa videatur, nonnullis visum est constructionem similem etiam absq; ulla prævia reductione comminisci; inter quos Franciscus a Schooten Methodum valde facilem ac simplicissimam pro construendis Cubicis quomodolibet affectis prodidisset, si modo exposito principio unde regulam derivavit, Lectoris memoriae, quam plurimis ac intricatis cautionibus obruit, melius studuisset. Nuper vero Vir Cl. D. Thomas Baker nostras, integro libello de constructionibus bisce conscripto, non solum Cubicas sed etiam Biquadraticas omnes cujuscumq; generis unica generali regula complexus est, eamq; demonstrationibus ac Exemplis per omnes casus abunde satis illustravit; nec non sub finem modum proponit unde regula ista generalis investigari possit: Haud tamen illum ipsum ostendit, cujus ope (uti suppicor) Clavem suam Geometricam Catholicam obtinuit, vel saltem multo facilius obtinere potuit. Cumq; perplexis cautionibus de signis + & — Regula hæc D. Bakeri non minus obnoxia sit quam illa Schooteni, ut vix abente libro constructiones illas quis tuto peragat; haud injucundum nec Tyronibus incommodum fore vi-\ntam est, utriusq; fundamentum exponere, ac simul emendata\nmethodo, in re tam difficili, lucem quantum valeam afferre.\n\nConstructio quam tradit Cartesiuss, quaqq; facillime radices\nequationum omnium Cubicarum vel biquadraticarum, ubi deficit\nsecundus terminus, eruit, ut nota supponi possit; attamen cum\ncardo sit a quo subsequentia pendent, ne dissertatiuncula hæc ca-\npite truncata videatur, ex illius Geometria desumptam pla-\ncuit Regulam adiungere, pauculis nonnullis in melius uti reor\ntranspositis.\n\nDeficiente secundo termino omnes æquationes Cubicæ reducuntur\nad hanc formam $z^3 + ax^2 + bx + c = 0$, ac Biquadraticæ ad\nhanc $z^4 + ax^3 + bx^2 + cx + d = 0$. (ubi a designat Latus\nrectum Parabola cujusvis datae, quam in Construïtione adhibere\nlicet.) vel sumendo a pro Unitate, ad hanc $z^3 + ax^2 + bx + c = 0$,\nvel ad hanc $z^4 + ax^3 + bx^2 + cx + d = 0$.\n\nJam data Parabola F-\nA G cujus Axis fit A C-\nD K L ac latus rectum a\nvel 1, fiat A C ejus dimi-\ndium ac collocetur semper\na vertice A versus interi-\nora figurae: dein sumatur\nC D = $\\frac{1}{2}p$ in linea illa\nA C continuata versus C\nh in æquatione fuerit — p,\nvel versus alteram par-\ntem si habeatur + p. Por-\nro e puncto D, aut ex punc-\nto C si non habeatur quan-\ntitas p, erigenda est ad\naxem perpendicularis D-\nE æqualis $\\frac{1}{2}q$, dextror-\nsum quidem si fuerit — q, ad alterum vero axis latus si fuerit\n+ q; ac Circulus centro E radio A E descriptus, si æquatio fu-\nerit tantum Cubica, Parabolam tot punctis F & G intersecabit\nquot veras habet Radices, quarum quidem affirmativæ ut G K\nerunt\nerunt ad dextram Axis partem, Negativae ut FL ad sinistram.\n\nAet si Aequatio Biquadratica fuerit, augeri vel minui debet Circuli Radius AE, addendo si fuerit — r, vel subducendo, si sit + r, ex ejus quadrato rectangulum a r, seu contentum sub Latere recto & quantitate data r; id quod nullo fere negotio efficitur Geometrica. Hujus vero Circuli intersectiones cum Parabola omnes veras Biquadraticae Aequationis radices dimissis ad Axem perpendiculis exhibebunt; Affirmativas quidem ad dextram Axis, Negatives vero ad sinistram. Totius demonstrationem Cartesio ejus inventori relinquo.\n\nNotandum hic me operam dare ut semper habeantur Radices affirmativa ad dextrum Axis latus, ut evitetur confusio a pluribus cautionibus, quarum causa minime evidens est, necessario critura.\n\nHis praemissis, ut aditus pateat ad constructionem etiam earum aequationum ubi repertur termius secundus, consideranda venit regula pro tollendo termino secundo, ac reducenda aequatione ad aliam quae methodo praecedente construi possit. Omnes vero hujus classis aequationes cubicæ ad hanc formam $z^3 \\cdot bzz \\cdot apz \\cdot aaq = 0$, vel ad hanc $z^3 \\cdot bzz \\cdot * \\cdot aaq = 0$. Biquadraticæ vero ad hanc $z^4 \\cdot bzz \\cdot apzz \\cdot aaqz \\cdot a^3r = 0$, vel hanc $z^4 \\cdot bzz \\cdot * \\cdot aaqz \\cdot a^3r = 0$, vel, $z^4 \\cdot bzz \\cdot apzz \\cdot * \\cdot a^3r = 0$ vel denique ad hanc $z^4 \\cdot bzz \\cdot * \\cdot * \\cdot a^3r = 0$ reduci possunt: e quibus omnibus, prout signis + & — diversimode connectuntur, ingens oritur varietas; unde Regula generalis omnibus inferiens obscura ac maxime difficilis redditur, nisi methodo quam subjungimus illustrata nodisq; extricata tradetur.\n\nTollitur in Biquadraticis secundus terminus, ponendo $x = z - \\frac{1}{4}b$, si fuerit + b in aequatione, vel $x = z - \\frac{1}{4}b$, si fuerit — b: hinc $x = \\frac{1}{4}b$ in prima cau, & + $\\frac{1}{4}b$ in altero aequatur z; & in aequatione quavis proposta, substituta loco z quantitate æquali, prodibit nova aequatio termino secundo carens, cujus radices omnes x data differentia $\\frac{1}{4}b$ vel exceedunt vel deficiunt a radice quaesita z: Cum vero in rebus istiusmodi plus exempla quam praecpta valere solent, proponatur una vel altera aequatio Construenda.\n\nU u 2. Exem.\nExemp. I.\n\n\\[ z^4 + bz^3 - apzz - aaqz + aaar = 0. \\]\n\nSit \\( x - \\frac{1}{2} b = z \\)\n\n\\[ xx - \\frac{1}{2} bx + \\frac{1}{6} bb = zz \\]\n\n\\[ xxx - \\frac{3}{4} xxb + \\frac{1}{6} xbb - \\frac{1}{6} bbb = z^3 \\]\n\n\\[ x^4 - bx^3 + \\frac{3}{8} bbbxx - \\frac{1}{6} bbbx + \\frac{1}{2} b^4 = z^4 \\]\n\n\\[ bx^3 - \\frac{3}{4} bbbx + \\frac{1}{6} bbbx - \\frac{1}{6} b^4 = +bz^3 \\]\n\n\\[ -apxx + \\frac{1}{2} apbx - \\frac{1}{6} apbb = -apzz \\]\n\n\\[ -aaqx + \\frac{1}{4} aaqb = -aaqz \\]\n\n\\[ +aaar \\]\n\nHarum omnium summa fit æquatio nova secundo termino carens, quæq; proinde juxta regulam Cartesianam construi possit, sumendo loco \\( \\frac{1}{2} p \\) dimidium coefficientis termini tertii per a five Latus rectum divisi, hoc est \\( -\\frac{3}{16} bb/a - \\frac{1}{2} p \\); ac Loco \\( \\frac{1}{2} q \\), dimidium coefficientis termini quarti per aa divisi, five \\( +\\frac{1}{16} bbb/a \\)\n\n\\[ +\\frac{1}{4} pb/a - \\frac{1}{2} q. \\]\n\nCujus partes signo \\( + \\) notatae sinistrorsum ab Axe, signo \\( - \\) notatae dextrorsum collocandae sunt, ut habeatur centrum Circuli ad constructionem requisiti, ac cujus intersectiones cum Parabola, dimissis in axem perpendiculis, radices omnes veras \\( x \\) designet, affirmativas quidem ad dextram axis, negativas vero ad sinistram. Cum vero \\( x - \\frac{1}{4} b = z \\), ducendo lineam Axi parallelam, ad dextrum ejus latus \\( & \\) ad distantiæm \\( \\frac{1}{4} b \\), perpendicula illa ad banc parallelam terminata designabunt omnes radices quæstas \\( z \\), affirmativas ad dextram, negativas vero ad sinistram. Radium circuli quod attinet, habetur ille addendo partes negativas ac auferendo partes affirmatives termini quinti per aa divisi, e quadrato lineæ AE, a centro invento E ad Ver-\nVerticem Parabolæ A ductæ: id quod maxima ex parte efficitur capiendo loco lineæ AE lineam EO, quae ad O intersectionem Parabolæ ac parallelae prædictæ terminatur; ejus enim quadratum omnes termini quinti partes ex ablatione termini secundi æquationi novæ ingestas compleetitur (ut facile probabitur:) ac restat solummodo ut ipsius EO quadratum augeatur, si in æquatione habeatur — r, vel minuatur si sit + r, additione vel subductione rectanguli a r, unde conflatur quadratum Radii Circuli quæsitæ.\n\nHæc est methodus investigandi regulam centralem Dni Bakeri omnibus cautionibus libera ac satis facilis; ac sola differentia ex eo provenit, quod ego juxta Axem, ille vero juxta Axis parallelam circuli ejusdem centrum determinat: quodq; ego semper radices affirmativas ex Axis dextro latere invenio, quas ille nunc dextro nunc sinistro constituit.\n\nÆquationes cubicas quod attinet, eæ reduci debent ad Biquadraticas, antequam eadem regula generali construi possint; id quod fit ducendo æquationem propositam in radicem suam z, unde provenit æquatio Biquadratica in qua deficit terminus ultimus sive r: quapropter sublato secundo termino & invento centro E, linea EO est radius Circuli; cum scilicet a r sit = o, & in nova æquatione totus terminus quintus ex ipsa ablatione termini secundi criatur. Construenda fit hæc æquatio.\n\nExemp. II.\n\n\\[ z^3 - bzz + apz + aaq = 0 \\]: Quæ ducta in z fit\n\n\\[ z^4 - bz^3 + apzz + aaqz = 0 \\].\n\nAd tollendum secundum terminum ponatur \\( x + \\frac{1}{4}b = z \\), & fiat\n\n\\[ x^4 + bx^3 + \\frac{3}{2}bbxx + \\frac{1}{6}b^3x + \\frac{1}{8}b^4 = + z^4 \\]\n\n\\[ = bx^3 - \\frac{3}{4}bbxx - \\frac{1}{6}b^3x - \\frac{1}{8}b^4 = - bz^3 \\]\n\n\\[ + apxx + \\frac{1}{2}abpx + \\frac{1}{6}apbb = + apzz \\]\n\n\\[ + aaqx + \\frac{1}{2}aaqb = + aaqz \\]\n\nIn hac nova Æquatione, tertii termini semicoefficiens per a divisa, viz. \\( = \\frac{3}{16} \\frac{b^b}{a} + \\frac{1}{2}p \\), loco \\( \\frac{1}{2}p \\) usurpanda est; ac coefficiens\ncientis termini quarti dimidium, divisum per a a Lateris recti quadratum, viz. — $\\frac{b b b}{16 a a} + \\frac{p b}{4 a} + \\frac{1}{2} q$, vicem ipsus $\\frac{1}{2} q$ in constructione Cartesii subit; unde centrum E determinatur.\n\nDeinde ducta Axi parallela ad distantiam $\\frac{1}{4} b$ ad sinistrum ejus latus (ob $x + \\frac{1}{4} b = z$) cujus intersectio cum Parabola sit O; circulus centro E, Radio EO descriptus Parabolam secet vel tanget in tot punctis quot aequatio veras habet radices: quae quidem radices seu z sunt perpendicularia de punctis illis in Axi parallelam demissa; ad dextram-quotem Affirmative, Negative ad sinistrum.\n\nSi in aequatione defuerit terminus tertius vel quartus vel uterque, in investiganda regula centrali nulla omnino observanda est methodus differentia, sed deficiente quantitate p vel q, derivant partes illae linearum C D ac D E ex quantitate illa aliquo modo deductae, ac procedendum est cum reliquis coefficientibus termini tertii and quarti in aequatione nova, sicut in praemissis exemplis praescriptum est.\n\nHaec tenus Cl. Bakeri methodum generalem pertractavimus, qua quidem nulla alia facilior ac parator expectanda est, assumpta ad constructionem sine Parabola, sine alia quaevis linea curva, cum scilicet aequatio ad Biquadraticam ascendit. Etenim dum haec scribo mihi occurrit regula Centralis Effectio Geometrica praeter omne spem expedita, ac barum rerum Curiosis abundae satisfactura.\n\nDescripta Parabola N A M, cujus vertex A, Axis A B C ac latus rectum a, reducatur aequatio ad hanc formam $z^4 + b z^3$. $a p z z. a a q z. a^3 r. = o$ vel ad hanc $z^3. b z z. a p z. a a q = o$ si cubica tantum fuerit: dein ad distantiam B D = $\\frac{1}{4} b$ ducatur linea D H Axi parallela, ad sinistrum quidem si fuerit — b, ad dextram si + b, parabole occurrens in puncto D; de quo dimittatur perpendicularum in axem B D. In linea A B continuata versus B fiat B K = $\\frac{1}{2} a$, & ducatur linea D K utrinqueterminata. Porro fit K C = 2 A B in Axe semper ultra K continuato; ac si habeatur quantitas p signo — affecta, verus easdem partes etiam simatur C E = $\\frac{1}{2} p$, vel in contrarias,\nsi habeatur \\(+ p\\), ac e puncto E erigatur Axi perpendicularum E F (vel e puncto C si defuerit quantitas p) lineae D K, si opus est continuatae, occurrens in puncto F; quod quidem circuli requisiti centrum est, si defuerit quantitas q; Alt si habeatur q, sumenda est in F E, si opus est continuata, linea FG = \\(q/2\\), sinistrorsum quidem si fuerit \\(+ q\\), dextrorsum si \\(- q\\) collocanda: Et punctum G erit centrum circuli ad constructionem propositam idonei; ejusq; Radius, si defuerit quantitas r, hoc est si tantum cubica fuerit, erit linea G D; cuius quadratum in Biquadraticis augendum est, si fuerit \\(- r\\), vel minuendum si \\(+ r\\) additione vel subductione rectanguli sub \\(r\\) & latere recto. Descripto sic Circulo, ab intersectionibus ejus cum Parabola demissis in lineam D H perpendicularis, quae ad sinistram sunt, ut N O, radices æquationis negativas semper designant, quae ad dextram ut M L affirmativas.\n\nAliter ac paulo simplicius æquationes cubicæ juxta Schootenii Regulam construuntur, quaq; etiam radices ad Axem referuntur: quoniam vero ipse inventor nec modum inveniendi nec demonstrationem inventi exponit, non abs re erit ejusdem fundamentum hic adjicere, simul atq; Effectioem Geometricam concinniores reddere, atq; cautionibus quibus implicatur extricare.\n\nHæc Regula derivatur ex eo quod omnis æquatio Cubica reduci possit ad Biquadraticam, in qua deficiet terminus secundus: Hoc fit ducendo æquationem propositam in \\(z - b = 0\\), si fuerit \\(+ b\\) in\naequatione, vel in $z + b = 0$, si fuerit $-b$; & aequatio nova producita eadem habebit radices cum Cubica, atq, insuper alteram ipsi $-b$ aequalem, si fuerit $-b$ in aequatione, vel contra.\n\nProponatur construenda $z^3 - z^2 b + apz + aaq = 0$.\n\nHac ducta in $z + b$ fit $z^4 - z^3 b + apz^2 + aapz + aaqb$.\n\nHic deficit secundus terminus, ac coefficiens tertii $-bb + ap$ det $\\frac{bb}{2a} + \\frac{1}{2} p$ loco $\\frac{1}{2} p$ vel CD in Constructione Cartesi,\n\n& ex dimidio coefficientis termini quarti fit $+ \\frac{1}{2} q + \\frac{bp}{2a}$ loco\n\n& vel DE usurpanda; adeoque determinatur centrum circuli quaestis: atq, ob datam unam ex radicibus aequationis novae, viz. $-vel + b$, dabitur etiam punctum in circumferentia, id est Radius ejus. Denique descripto circulo, ab intersectionibus ejus cum Parabola demissa in Axem perpendiculara Equationis radices exhibebunt, affirmativas & negativas, eadem lege ac supra.\n\nInvestigatur autem centrum Circuli constructione quam facili, ceteris omnibus in Cubicis praeferenda. Descriptae Parabole A MD sit vertex A, atq, Axis AF: ad distantiam ipsi $b$ aequalem ducatur Axi parallela DK, ad dextram si fuerit $+b$ in Aequatione, ad sinistram si $-b$, quae Parabolae occurrat in puncto D. Centris D & A describantur radiis aequalibus arcus occulti utrinque se intersecantes, ac per sectio num puncta ducatur linea interminata BC, quae medio lineae suppositae AD perpendiculariter insitiat,\n\n& Axi occurrat in puncto E. Ab E, inferne quidem si in aequatione habeatur $= p$, vel superne versus A si fuerit $+p$, ponatur\ntur \\( EF = \\frac{1}{2} p \\); & ex \\( F \\) (vel ex \\( E \\) si defuerit \\( p \\)) educatur perpendicularum \\( FG \\), lineae \\( BC \\) occurrens in puncto \\( G \\); & in \\( GF \\) producita fiat \\( GH = \\frac{1}{2} q \\), dextrorsum quidem si in æquatione habeatur — \\( q \\), aliter sinistrorum, applicanda: ac punctum \\( H \\) erit centrum quaestum, \\( HD \\) vero circuli Radius, qui demissis in axem perpendicularis ab intersectionibus suis cum Parabola, ut \\( LM \\), Radices omnes, ut prius, commonstrabit. Quomodo vero constructio hæc ex praemissis consequatur, per se satís edens est, nec opus est ut in eadem demonstranda diutius immorer.\n\nNe in bis edendis frustraneam navasse operam, & ex aliorum inventis gloriam captare videar, conjurat Lector Cl. Bakeri librum Anno 1684 Londini editum, & quæ de hoc Argumento scripsit a Schooten in Commentario suo in Librum III. Geometriae Cartesianæ. Brevi conceffo otto tractatulum alium de numero Radicum in hujumodi Æquationibus, earumq; limitibus, ex contemplatione Constructionum paæcedentium, aggredi ac in lucem proferre statuo.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101894.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 15450,
+    "total-output-tokens": 5631,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1678,
+        2
+      ],
+      [
+        1678,
+        3249,
+        3
+      ],
+      [
+        3249,
+        5508,
+        4
+      ],
+      [
+        5508,
+        7205,
+        5
+      ],
+      [
+        7205,
+        9143,
+        6
+      ],
+      [
+        9143,
+        11282,
+        7
+      ],
+      [
+        11282,
+        12766,
+        8
+      ],
+      [
+        12766,
+        14330,
+        9
+      ],
+      [
+        14330,
+        15404,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101894",
+    "title": "De Constructione Problematum Solidorum, Sive AEquationum Tertiae Vel Quartae Potestatis, Unica Data Parabola ac Circulo Efficienda; Dissertati-Uncula: Authore Edm. Halley",
+    "authors": "Edm. Halley",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/101894"
+  }
+}

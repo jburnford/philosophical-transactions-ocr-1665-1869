@@ -1,0 +1,69 @@
+{
+  "id": "4bb7c611de008fe2a2d0a491651db056222affcb",
+  "text": "distabat ab Orbe nostro annuo, quam semidiametro solari (sive Radio Lunaris Orbitae, uti existimo) idque Novemb. 11°. 1h. 6°. P M. Quo tempore, si Terra quoad Longitudinem conjunctus fuisset, parallaxis sane Lunari æqualis in Cometae nova observari potuisset. Hæc Astronomis dicta sunt. Quæ vero ab hujusmodi allapsu, vel contactu vel denique collisione Corporum coelestium (quæ quidem omnino non impossibilis est) consequi debeant, rerum Physicarum studiosis discutienda relinquor:\n\nV. Part of two Letters from the Reverend Dr Rich. Wroe, Warden of Manchester Colledge, to Dr Hans Sloane, S. R. S. concerning Horn-like Excrencences growing on the Fingers, &c.\n\nManchester, Aug. 26. 1704.\n\nSir,\n\nThere lives at Bolton (8 miles from this Town) one Nathaniel Hulme, aged about 17, who had the Small Pox about 8 years of age: Soon after which he had a great Itch, almost to the degree of a Leprosie, with which his Finger-nails and Thumb-nails began to grow thick, and by degrees hardened into Horns; which grew in 7 or 8 months to the length of an Inch, and some almost 2 Inches, and some much longer. It began in the Fore-finger of his Left Hand, and so to all the rest of that Hand, which had as many Horns as Fingers, and Thumb. All which Horns about the end of 12 months fell off by degrees; that which grew first falling off first, without any pain, unless when cut off, as they were at first, there\nappearing great quicks (as they call them) or Roots under the Nails. By degrees they came on the Thumb, and then on the Fingers of the Right Hand; which grew to the same length in about a year's time, and then fell off, he having shed them 5 or 6 several times. One of the Horns, that grew on the Ring Finger of the Left Hand, was a quarter long. They are now at present all come off his Left Hand, but growing again: That on his Little Finger is 2 Inches long. I have now by me one or two of them.\n\nThis account I took of him above two years since, in 1702; and have seen him frequently since, and lately, and the Horns still grow, and fall off, as usual.\n\nRic. Wroe.\n\nOctob. 2. 1704.\n\nSir,\n\nI Have, according to your request, sent you two of the Horns which grew upon the Boys Fingers, I writ to you of. He has at present all the Fingers of both Hands armed with such like, and some as long as these I send. He has on every Toe also, but keeps them cut, that he may be able to wear Shoes. I saw him a few days since, and think he cannot live long, being miserably overspread with his Leprosie.\n\nRic. Wroe.\n\nOne of the Horns above-mentioned is now in the Repository of the Royal Society.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102981.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 820,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1403,
+        2
+      ],
+      [
+        1403,
+        2591,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102981",
+    "title": "Part of Two Letters from the Reverend Dr Rich. Wroe, Warden of Manchester Colledge, to Dr Hans Sloane, S. R. S. concerning Horn-Like Excrescences Growing on the Fingers, etc.",
+    "authors": "Rich. Wroe",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102981"
+  }
+}

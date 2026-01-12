@@ -1,0 +1,69 @@
+{
+  "id": "ca64679a85ccb644d21d52717fc80bffbda7e779",
+  "text": "An Appulse of the Moon to the Planet Jupiter, 25. Dec. 1762.\n\nNote. The Angles A.B.J denote the Angle of Position of the two Cusps & the Planet at the End of each ten Minutes of Time before the Observation.\n\nJ. Mynde sc.\nIX. An Account of an Appulse of the Moon to the Planet Jupiter, observed at Chelsea, by Mr. Samuel Dunn.\n\nRead Feb. 17, 1763.\n\nThe alteration of the angles of position made by the cusps of the Moon, and a planet to which the Moon makes a near appulse, will always enable the astronomically inclined to determine from observation, the longitudes of places, by the naked eye and a clock or watch set to apparent or equal time.—Such an observation I made at Chelsea 25th Dec. 1762 at $11^h - 0' - 30''$ apparent time, the satellites being as in the figure at the same time. — Jupiter's distance from the Moon half a degree. Tab. II.\n\nLat. $51^\\circ 29' 5''$, Long. $41''$ West of Greenwich.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105698.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 349,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        221,
+        2
+      ],
+      [
+        221,
+        908,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105698",
+    "title": "An Account of an Appulse of the Moon to the Planet Jupiter, Observed at Chelsea, by Mr. Samuel Dunn",
+    "authors": "Samuel Dunn",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105698"
+  }
+}

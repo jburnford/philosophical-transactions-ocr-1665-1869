@@ -1,0 +1,79 @@
+{
+  "id": "a2771b8ce2f946f4c6c4417c74c894a99bd0c86a",
+  "text": "XXIX. An Account of a remarkable Frost on the 23d of June, 1783. In a Letter from the Rev. Sir John Cullum, Bart. F. R. S. and S. A. to Sir Joseph Banks, Bart. P. R. S.\n\nRead May 27, 1784.\n\nDear Sir,\n\nWhen I had the pleasure of seeing you in London, in the autumn, and mentioned a frost that happened in my neighbourhood on the 23d of last June, you expressed a desire of receiving some particulars about it. I therefore now send you some memorandums which I made at the time.\n\nAbout six o'clock, that morning, I observed the air very much condensed in my chamber-window; and, upon getting up, was informed by a tenant, who lives close to my house, that finding himself cold in bed, about three o'clock in the morning, he looked out at his window, and to his great surprise saw the ground covered with a white frost: and I was afterwards assured, upon indubitable authority, that two men at Barton, about three miles off, saw between three and four o'clock that morning, in some shallow tubs, ice of the thickness of a crown-piece, and which was not melted before six.\n\nThis unseasonable frost produced some remarkable effects. The aristae of the barley, which was coming into ear, became brown and withered at their extremities, as did the leaves of the oats; the rye had the appearance of being mildewed; to\nSir John Cullum's Account of a remarkable Frost.\n\nthat the farmers were alarmed for those crops. The wheat was not much affected. The larch, Weymouth pine, and hardy Scotch fir, had the tips of their leaves withered; the first was particularly damaged, and made a shabby appearance the rest of the summer. The leaves of some ashes, very much sheltered in my garden, suffered greatly. A walnut-tree received a second shock (the first was from a severe frost on the 26th of May) which completed the ruin of its crop. Cherry-trees, a standard peach-tree, filbert and hazel-nut trees, shed their leaves plentifully, and littered the walks as in autumn. The barberry-bush was extremely pinched, as well as the hypericum perforatum and hirsutum: as the two last are solstitial, and rather delicate plants, I wondered at their sensibility; but was much surprised to find, that the vernal black-thorn and sweet violet, the leaves of which one would have thought must have acquired a perfect firmness and strength, were injured full as much. All these vegetables appeared exactly as if a fire had been lighted near them, that had shrivelled and discoloured their leaves:\n\n— penetrabile frigus adurit.\n\nAt the time this havoc was made among some of our hardy natives, the exotic mulberry-tree was very little affected; a fig-tree, against a north-west wall, remained unhurt, as well as the vine, on the other side, though just coming into blossom. I speak of my own garden, which is high; for in the low ones about Bury, that is but a mile off, the fig-trees, in particular, were very much cut: and, in general, all those gardens suffer more by frost than mine.\n\nSome weather, that was cold for the time of year, had preceded this frost. On the 21st the thermometer had, at no time of the day, risen to $60^\\circ$; on the 22d, at ten at night, it had\nSir John Cullum's Account of a remarkable Frost.\n\nhad sunk to $50^\\circ$. On the last day, and on the 23d, disappeared that dry haze, which had taken place some days before, and continued to blot out the face of the sun for so long a time afterwards. After sun-set on the 24th it appeared again, and the next day the leaves of many vegetables were covered with a clammy sweetness.\n\nThe above flight notes were taken in my garden and its environs; and I wish they may afford you the smallest entertainment. If you should think them worth the attention of the Royal Society, dispose of them accordingly. So severe a frost, at so advanced a season, is certainly not one of the least remarkable among the atmospherical phenomena of this year.\n\nI remain, dear Sir,\n\nYour much obliged and faithful servant,\n\nJOHN CULLUM.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106598.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 1076,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1310,
+        2
+      ],
+      [
+        1310,
+        3151,
+        3
+      ],
+      [
+        3151,
+        3965,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106598",
+    "title": "An Account of a Remarkable Frost on the 23d of June, 1783. In a Letter from the Rev. Sir John Cullum, Bart. F. R. S. and S. A. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "John Cullum",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106598"
+  }
+}

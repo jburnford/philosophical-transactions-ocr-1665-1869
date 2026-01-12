@@ -1,0 +1,69 @@
+{
+  "id": "1675e7790a9b153be5848a53005b2fb8fd7ba457",
+  "text": "I. Observations of the Comparative, Intensive or Specific Gravities of various Bodies. Made by Mr. J. C.\n\n| Substance                                      | Gravity |\n|------------------------------------------------|---------|\n| Pump-water                                     | 1000    |\n| Cork                                           | 237     |\n| Sassafras Wood                                 | 482     |\n| Juniper Wood (dry.)                            | 556     |\n| Plum-tree (dry.)                               | 663     |\n| Mastic                                         | 849     |\n| Santalum Citrinum                              | 809     |\n| Santalum album                                 | 1041    |\n| Santalum rubrum                                | 1128    |\n| Ebony                                          | 1177    |\n| Lignum Rhodium                                 | 1125    |\n| Lignum Asphaltium                              | 1179    |\n| Aloes                                          | 1177    |\n| Succinum pellucidum                            | 1065    |\n| Succinum pingue                                | 1087    |\n| Jet                                            | 1238    |\n| The top part of a Rhinoceros-horn              | 1242    |\n| The top part of an Ox-horn                     | 1840    |\n| The (Blade) bone of an Ox.                     | 1656    |\n| An human Calculus                              | 1240    |\n| Another Calculus humanus                       | 1433    |\n| Another Calculus                               | 1664    |\n| Brimstone, such as commonly sold               | 1811    |\n| Borax                                          | 1720    |\n| A spotted factitious Marble                    | 1822    |\n| A Gally-Pot                                    | 1928    |\n| Oyster shell                                   | 2092    |\n| Murex-shell                                    | 2590    |\n| Lapis manati                                   | 2270    |\n| Selenitis                                      | 2322    |\n| Wood petrefied in Lough-Neagh                  | 2341    |\n| Onyx stone                                     | 2510    |\n| Turcois-stone                                  | 2508    |\n| English Agat                                   | 2512    |\n| Grammatias lapis                               | 2515    |\n| A Cornelian                                    | 2568    |\n| Corallachates                                  | 2605    |\n| Talc                                           | 2657    |\n| Coral                                          | 2689    |\n| Hyacinth (spurious.)                           | 2631    |\n| Jasper (spurious.)                             | 2666    |\n| A pellucid Pibble                              | 2641    |\n| Rock Crystal                                   | 2659    |\n| Crystallum Disdiaclasticum                     | 2704    |\n| A red Paste                                    | 2842    |\n| Lapis Nephriticus                              | 2894    |\n| Lapis Amiantus from Wales                      | 2913    |\n| Lapis                                          |         |\n| Item                                      | Value |\n|-------------------------------------------|-------|\n| Lapis Lazuli                              | 3054  |\n| An Hone                                   | 3288  |\n| Sardachates                               | 3598  |\n| A Granat                                  | 3978  |\n| A Golden Marcasite                         | 4589  |\n| A blew Slate with shining Particles       | 3500  |\n| A mineral stone, yielding 1 part in 160 Metal | 2650  |\n| The Metal thence extracted                 | 8500  |\n| The (reputed) Silver Ore of Wales         | 7464  |\n| The Metal thence extracted                 | 11087 |\n| Bismuth                                   | 9859  |\n| Spelter                                   | 7065  |\n| Spelter Soder                             | 8362  |\n| Iron of a Key                             | 7643  |\n| Steel                                     | 7852  |\n| Cast Brass                                | 8100  |\n| Wrought Brass                             | 8280  |\n| Hammer'd Brass                            | 8349  |\n| A false Guinea                            | 9075  |\n| A true Guinea                             | 18888 |\n| Sterling Silver                           | 10535 |\n| A brass Half-Crown                        | 9468  |\n| Electrum, a British Coin                  | 12071 |\n| A Gold Coin of Barbary                    | 17548 |\n| A Gold Medal from Morocco                 | 18420 |\n| AMentz Gold Ducat                         | 18261 |\n| A Gold Coin of Alexanders                 | 18893 |\n| A Gold Medal of Q. Mary                   | 19100 |\n| A Gold Medal of Q. Elizabeth              | 19125 |\n| A Medal esteem'd to be near fine Gold     | 19636 |\n\nII. Extracts of some Letters from Mr. John Sturdie of Lancashire concerning Iron Ore; and more particularly of the Hämatites, wrought into Iron at Milthrop-Forge in that County. Communicated by Dr. Martin Lister, S. R. S.\n\nTownley, March 14. 1674.\n\nSIR,\n\nYOU will receive herewith some of the Cinder you desir'd, as also a little of Iron-stone both burnt and unburnt. They have several sorts of Iron-stone, and of",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101963.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 1390,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3156,
+        2
+      ],
+      [
+        3156,
+        5305,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101963",
+    "title": "Observations of the Comparative, Intensive or Specific Gravities of Various Bodies. Made by Mr. J. C.",
+    "authors": "J. C.",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101963"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "b73e2d3c824422d1f47e94d45fca913bb056c4ae",
+  "text": "OBSERVATIONES\nECLIPSIS LUNÆ\nDie 11 Februarii post Meridiem.\n\n| Parisii. | In Observatorio Regio. | In Collegio Claromontano. |\n|----------|------------------------|---------------------------|\n| A D. Cassini | A D. D. Picard, &c. De la Hire | A R. P. de Fontenay. |\n\n| Initium | Aristarchus medius | Medium Copernici | Initium Tychoonis | Finis Tychoonis | Initium Platonis | Centrum Luna | Centrum ex Comparatione Initii & Finis | Manilius medius | Menelaus | Dionysius | Promontorium acutum | Initium Caspiae | Finis Caspiae | Luna penitus immersa. |\n|---------|--------------------|------------------|------------------|----------------|-----------------|-------------|----------------------------------------|----------------|---------|----------|---------------------|----------------|--------------|----------------------|\n| h. l. m. | 9. 20. 55 | 9. 21. 58 | 9. 21. 25 | 9. 21. 50 | 9. 29. 37 | 9. 29. 33 | 9. 29. 28 | 9. 29. 50 | 9. 38. 45 | 9. 38. 40 | 9. 38. 48 | 9. 38. 50 | 9. 45. 53 | 9. 45. 48 | 9. 45. 48 | 9. 46. 20 | 9. 47. 40 | 9. 47. 36 | 9. 47. 20 | 9. 47. 50 | 9. 49. 47 | 9. 49. 08 | 9. 48. 25 | 9. 49. 50 | 9. 50. 24 | 9. 50. 44 | 9. 50. 10 | 9. 50. 30 | 9. 53. 16 | 9. 53. 30 | 9. 53. 18 | 9. 53. 20 | 9. 56. 43 | 9. 56. 20 | 9. 56. 14 | 9. 56. 20 | 9. 57. 09 | 9. 57. 40 | 10. 04. 31 | 10. 04. 15 | 10. 04. 12 | 10. 04. 20 | 10. 11. 40 | 10. 11. 25 | 10. 11. 20 | 10. 11. 50 | 10. 16. 27 | 10. 16. 30 | 10. 15. 50 | 10. 16. 50 | 10. 19. 53 | 10. 19. 20 | 10. 19. 18 | 10. 19. 50 |\n\nInitium Emerf. Grimaldi iner & Galilei\nAristarchus medius\nMedium Platonis\nMedium Copernici\nMedium Tychoonis\nCentrum Luna\nCentrum ex Comparatione Emerf. Limborum\nManilius medius\nMenelaus medius\nDionysius\nPromontorium acutum\nInitium Caspiae\nFinis Caspiae\nFinis Eclipsis\n\n| Hafnia. |\n|----------|\n| A D. Roomer reductione Meridianorum facta subtr. 41'. 40\" pridem Observationibus Jovialium reperita a D. Picard. |\n\nV",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102228.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3504,
+    "total-output-tokens": 1049,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1920,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102228",
+    "title": "Observationes Eclipsis Lunae Die 11/21 Februar. post Meridiem",
+    "authors": null,
+    "year": 1683,
+    "volume": "13",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102228"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "2a980270d1b186ed810558a1554d6efbd9458b13",
+  "text": "XXII. Two Theorems, by Edward Waring, M. A. Lucasian Professor of Mathematics in the University of Cambridge, and F. R. S. In a Letter to Charles Morton, M. D. Sec. R. S.\n\nTHEOREMA I.\n\nFIGURA I.\n\nRead April 25, 1765.\n\nIN datâ Ellipsi inscribantur duo (n) Laterum Polygona \\(abcde\\), &c. et \\(pqrst\\), &c. ad Puncta respectiva \\(a, b, c, d, e, \\&c.\\). \\(p, q, r, s, t, \\&c.\\) ducantur Tangentes \\(AB, BC, CD, DE, \\&c.\\) et \\(PQ, QR, RS, ST, \\&c.\\) et sint\n\n\\[\\angle abB = \\angle cbC, \\quad \\angle bcC = \\angle dcD, \\quad \\angle cdD = \\angle edE, \\&c.\\] et \\[\\angle pqQ = \\angle rqR, \\quad \\angle qrR = \\angle srS, \\quad \\angle rsS = \\angle tsT,\\] et sic deinceps.\n\nEt erit Summa Laterum\n\n\\[ab + bc + cd + de + \\&c. = pq + qr + rs + st + \\&c.\\]\n\nFIGURA 2.\n\nCor. Ducatur in Ellipsi Polygonum \\(abcde\\) &c. (n) Laterum Methodo supra traditâ; inscribatur etiam aliud Polygonum \\(abhklm\\) &c. (n) Laterum quovis alio.\nalio Modo, cujus unus Angulus ponitur ad Punctum (a), et Summa $ab + bc + cd + de + \\ldots$ &c. major est quam Summa $ab + bk + kl + lm + \\ldots$ &c.\n\n**THEOREMA II.**\n\n**TAB. IV. FIGURA I.**\n\nDescribantur circa datam Ellipsim duo (n) Laterum Polygona ABCDE &c. et PQRS T &c. quorum Puncta Contactuum respective sunt $a, b, c, d, e,$ &c. et $p, q, r, s, t,$ &c.\n\nEt sint\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle aBb : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle cCb :: bC : bB,$ et\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle cCb : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle cDd :: cD : cC,$ et\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle cDd : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle eEd :: Ed : aD$ &c.\n\nEt sic\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle pQq : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle qRr :: qR : qQ,$ et\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle qRr : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle sSr :: Sr : rR,$ et\n\n$\\text{Tang.} + \\text{Seca. Comp.} \\angle sSr : \\text{Tan.} + \\text{Seca. Comp.}$\n\n$\\angle tTs :: Ts : sS,$ et sic deinceps.\n\nEt erit Summa Laterum\n\n$AB + BC + CD + DE + \\ldots = PQ + QR + RS + ST + \\ldots$\n\n**FIGURA**\nFigura 3.\n\nCor. Describatur circa Ellipsim Polygonum (n) Laterum A B C D E, &c. Methodo, quae prius data fuit; Describatur etiam circa Ellipsim aliud Polygonum G H K L M, &c. (n) Laterum quavis aliâ Methodo, cujus unum Punctum Contactus (a) est Punctum Contactus Polygoni A B C D E, &c.\n\nEt Summa A B + B C + C D + D E + &c. minor erit quam Summa G H + H K + K L + L M + &c.\n\nConsimiles Proprietates affirmari possunt de Polygonis Hyperbolas descriptis, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105457.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8070,
+    "total-output-tokens": 1192,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        912,
+        2
+      ],
+      [
+        912,
+        2071,
+        3
+      ],
+      [
+        2071,
+        2071,
+        4
+      ],
+      [
+        2071,
+        2528,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "None",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105457",
+    "title": "Two Theorems, by Edward Waring, M. A. Lucasian Professor of Mathematics in the University of Cambridge, and F. R. S. In a Letter to Charles Morton, M. D. Sec. R. S.",
+    "authors": "Edward Waring",
+    "year": 1765,
+    "volume": "55",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105457"
+  }
+}

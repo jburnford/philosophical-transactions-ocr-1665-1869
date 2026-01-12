@@ -1,0 +1,69 @@
+{
+  "id": "0ea2619f32495b6edfd4ab5b2fe52706b3afec5e",
+  "text": "In the Fourth Section, the Author, in conformity to the Custom of those that write of Fevers, discourses of the Small-pox; and First, examining the cause of this sickness and its universality, delivers his peculiar opinion of the blood's endeavouring a Renovation or a New Texture (once at least in a Man's life) and is inclin'd to preferr the same to the received doctrine of its malignity. Then, having laid down, for a foundation of the Cure, the two times, of Separation and Expulsion, he argues as well against too high an Ebullition or too hasty a separation (by a hot diet or high Cordials) as against too languid a one (by Blood-ting, Purges, and Cooling medicines.) The like he does to the Time of Expulsion, forbidding both immoderate Heat (whereby Nature's expelling operation is disturbed by a precipitated and too thick a crowd of the protruded pustules,) and too much Cooling, whereby due Expulsion is hindred. In short, he advises, to permit Nature to do her own work, requiring nothing of the Physician, but to regulate her, when she is exorbitant, and to fortifie her, when she is too weak. He concludes all, with delivering a Model of the Method, he would use for his own only Son, if he should fall into this Sickness.\n\nAdvertisement.\n\nWhereas 'tis taken notice of, that several persons persuade themselves, that these Philosophical Transactions are publish't by the Royal Society, notwithstanding many circumstances, to be met with in the already publish't ones, that\nthat import the contrary; The Writer thereof hath thought fit, expressly here to declare, that that perswision, if there be any such indeed, is a meer mistake; and that he, upon his Private account (as a Well-wisher to the advancement of usefull knowledge, and a Furtherer thereof by such Communications, as he is capable to furnish by that Philosophical Correspondency, which he entertains, and hopes to enlarge) hath begun and continues both the composition and publication thereof: Though he denies not, but that, having the honour and advantage of being a Fellow of the said Society, he inserts at times some of the Particulars that are presented to them; to wit, such as he knows he may mention without offending them, or transgressing their Orders; tending only to administer occasion to others also, to consider and carry them further, or to Observe or Experiment the like, according as the nature of such things may require.\n\nPrinted with Licence for John Martyn, and James Allestry, Printers to the Royal Society. 1666.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101492.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 654,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1488,
+        2
+      ],
+      [
+        1488,
+        2516,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101492",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101492"
+  }
+}

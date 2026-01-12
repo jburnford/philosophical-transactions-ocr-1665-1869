@@ -1,0 +1,59 @@
+{
+  "id": "124bf0863225ce0427c9bfc7489dc2afe42bd6c1",
+  "text": "X. Observations upon the Variation of the Needle made in the Baltick, Anno 1720. By Mr. William Sanderson. Communicated by Capt. Soame.\n\nWednesday, June the First 1720, being at Anchor near Revell, in the Latitude of $58^\\circ 58'$ North, the Magnetic Amplitude at Sun-Set was West $64^\\circ 30'$ North. And the True was West $49^\\circ 37'$ North.\n\nVariation North $14^\\circ 53'$ West.\n\nSaturday, July 23, at the Isle Gottsand, in the Latitude of $58^\\circ 21'$ North, at Sun Set, the Magnetic Amplitude was West $49^\\circ 50'$ North, and the True Amplitude, West $35^\\circ 00'$ North, which gives the Variation North $14^\\circ 50'$ West.\n\nThe Difference of Longitudes of the two foresaid Places by Dead Reck. is $1^\\circ 50'$.\n\nOctober the 24th at Bornholme, in the Latitude of $56^\\circ 00'$, at Sun Rising, the Magnetic Amplitude was East $43^\\circ 15'$ South, and the True was East $28^\\circ 31'$ which gives the Variation North $14^\\circ 44'$ West.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103403.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 370,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        953,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103403",
+    "title": "Observations upon the Variation of the Needle Made in the Baltick, Anno 1720. By Mr. William Sanderson. Communicated by Capt. Soame",
+    "authors": "Capt. Soame, William Sanderson",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103403"
+  }
+}

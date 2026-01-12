@@ -1,0 +1,69 @@
+{
+  "id": "8ef53828c2141af01e4ab6642b8572d29d1f62ac",
+  "text": "An Observation\n\nConcerning a Blemish in an Horse's Eye, not hitherto discover'd by any Author, which may be of great use in the Choice of an Horse to those who are Curious; made by Dr. Richard Lower at the Royal Society, January 23. 1663.\n\nAmong the many defects and distempers in the Eyes, the Eyes of Horses are peculiarly affected with one, which no Animal besides is troubled withall (as far as I have observed) neither do I remember any Author hitherto to have taken notice of it; and that is a Spungy Excrecence (commonly of a dark musk-colour) which grows out of the edge of that Coat of the Eye called the Uvea; which Spunge, if it grow large, or increase in number (as it frequently happens) it depraves the sight very much, or totally intercepts it. But, that you may more easily conceive the manner how 'tis done, you may remember, that the Uvea is a muscular part, the use of it being chiefly to contract and dilate itself for the admission of the Objects with as much light as the Eye can conveniently bear; so that the brighter and more resplendent the light is, to which the Eye is expos'd, that Membrane contracts itself into a narrower compass; and the more dark the place is, it dilates itself the more, as you may see in a Cat's Eye more readily perform'd, than in any other Animal I have yet observ'd: So that if that spungy substance, which grows out of the edge of the Uvea, be so great, or the number of them such, as that they grow in several places about the pupil of the Eye, where it contracts itself, the pupil or sight is very much (if not totally) obstructed, and consequently the Horse sees very little or nothing at all: As I have many times taken exact notice in some Horses, which being brought into the Sun-shine, could not see at all, but suffer'd me to touch the sight of their Eye with my finger without the least winking; which Horses being led back into the Stable, the Uvea in that obscure place dilating itself, they could see very well again, and would not suffer me to shew my finger near to the Eye without frequent closing their Eye-lids and tossing their Heads. The same Horses I understood by the Owners\nOwners were very apt to stumble in the day-time, if it were bright and Sun-shine, but travell’d very well and securely in the evening, and in dark cloudy weather.\n\nWhat the cause may be of that fungous Excrecence, or why Horses are peculiarly obnoxious to it, or what kind of Horses most, I have not considered. But, I cannot think, it comes from straining in great draughts and races, or from hard travel, because I have seen very large Spunges (as I may call them) in young Horses eyes of 2 and 4 years old, before they were backed; which, after they have been taken up from Grass, and kept with dry meat, have very much abated, and afterwards being turn’d to grass in the Spring to cleanse and cool their bodies, have increased again to the wonted bigness. But whether it were from their moist feeding, or holding down their heads to eat (whereby there might be a greater deflux of humours to that part) I cannot determine. But for as much as there are few Horses quite free from this evil, and many render’d very inconsiderable by it, I will recount the most remarkable Cases, which make Horses most useless and suspected.\n\n1. The more and greater those Excrecences are, the more the pupil of the Eye or the Sight is in danger of being quite obstructed; which you may farther examine by turning the Horse’s eye to the light, and observing how much of the pupil they do obstruct.\n\n2. These Spunges on the upper edge of the Uvea are apt to grow the largest, and hinder the Sight most.\n\n3. That which grows on the middle of the Uvea, does more hinder the sight by distracting the Object, than that, which grows in either Corner or Angle of it.\n\nAs for the Cure, I suppose there can be none expected, but from a drying kind of diet; though perhaps outwardly something may be devised to shadow the Eyes, and keep them from being nakedly exposed to the Sun, whereby the pupil will not be so closely contracted, and consequently the Sight not so much obstructed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101251.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1063,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2152,
+        2
+      ],
+      [
+        2152,
+        4111,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101251",
+    "title": "An Observation Concerning a Blemish in an Horses Eye, Not Hitherto Discover'd by Any Author, Which May be of Great Use in the Choice of an Horse to Those Who are Curious; Made by Dr. Richard Lower at the Royal Society, January 23. 1667/8",
+    "authors": "Richard Lower",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101251"
+  }
+}

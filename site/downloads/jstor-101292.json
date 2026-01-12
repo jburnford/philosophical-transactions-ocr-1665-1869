@@ -1,0 +1,59 @@
+{
+  "id": "3f8fc09b0657c9a3daa734126f8c42b0b1894ede",
+  "text": "rum, plus summa eorundem terminorum, plus summa quadratorum ab illisdem, &c.\n\nSin minimus terminus ponatur = 1, manentibus caeteris ut supra, evadit summa ratiuncularum = 3i — 6ii + 14i³ — 36i⁴, &c.\n\nHinc data differentia terminorum = o₁, erit numerus terminorum = o₁, & per 16 Logarithmot. summa eorundem terminorum = 0,005, & summa quadratorum = 0,000333. At data differentia terminorum = o₁₀; numerus terminorum est = o₁, & summa eorundem = 0,00005, & summa quadratorum = 0,00000333, &c.\n\nNota. Prop. IV. Logarithmot. Signa speciebus intercedentia debebant esse alternatim affirmata & negata: atque ubicunque, Lector offenderit infinitissimam, legat infinitessimam.\n\nErrata.\n\nPage 742.l.25.put a comma after open'd, (which is material for the sense.) p.749.l.16.r.idque.ibid.l.40.r.magnitudinum.p.753.l.20.r.—a + a²—a³, p.754.l.19.r.Husc.p.755.l.11.r.b²a² + b²a³ + b³a².ibid.l.14.r + a² + a³.p.756.in Fig.1.the letters appearing obscure,those,that denote the small lines parallel to the Asymptote N A, are I B.p.s.qt.rn. And the other capital letters are G F H. G B A. G M N.\n\nIn the SAVOY,\n\nPrinted by T.N. for John Martyn, Printer to the Royal Society, and are to be sold at the Bell a little without Temple-Bar, 1668.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101292.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 540,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1223,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101292",
+    "title": "Errata",
+    "authors": null,
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101292"
+  }
+}

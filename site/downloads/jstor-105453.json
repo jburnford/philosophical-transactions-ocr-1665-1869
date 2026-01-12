@@ -1,0 +1,79 @@
+{
+  "id": "a69464eed48b91d0c9ee2ddf589f0ac94026c537",
+  "text": "usa est infelix familia: hæc omnia suam solverunt symbolam.\n\n6. Morbus non fuit contagiosus.\nVale, vir optime; et benigne hasce qualescumque paginulas accipe.\n\nLausannæ Helvetiorum, 28 die Junii, 1764.\n\nXVIII. Observations for settling the Proportion, which the Decrease of Heat bears to the Height of Situation. Extracted from a Letter of Thomas Heberden, M. D. F. R. S. to William Heberden, M. D. F. R. S.\n\nRead March 28, 1765.\n\nTHE remarkable transition from heat to cold in all seasons in proportion as we ascend the mountains here, induced me to make the following observations, with intention to discover if there subsists any regularity between the difference of heat and the elevation of situation. In order thereto, besides several observations made at different times, without any remarkable variation, I took the opportunity of a journey of some English gentlemen in October last, whose curiosity led them to ascend the mountain, called here Pico Ruivo, being the highest land on this island, the perpendicular height of which above the sea's surface is, according to Mr. de la Luc's method of mensuration by the barometer and thermometer, $5141 \\frac{8}{15}$ English feet. Being supplied by me with the proper instruments,\nand their watch adjusted by my regulator, they carefully remarked the hour and minute each observation was made, which on their return was compared with the height of the thermometer and barometer in my study at the time of the observation, of which I had kept an exact account during the journey. From which observations I have formed the following table, supposing the descent of the barometer $\\frac{1}{10}$ of an inch for every 90 feet.\n\n| Descent of Barom. | Elevat. at 90 feet for one tenth of in. | Descent of Therm. | Elevat. corresponding to each Degree of Thermometer. |\n|-------------------|----------------------------------------|------------------|-----------------------------------------------------|\n| In. Dec.          | Feet.                                  | Degrees.         | Feet.                                               |\n| 0. 4              | 360                                    | 2                | 180                                                 |\n| 1. 2              | 1080                                   | 5 $\\frac{1}{2}$ | 196+                                                |\n| 1. 3              | 1170                                   | 6                | 195                                                 |\n| 1. 5              | 1350                                   | 9                | 150                                                 |\n| 1. 65             | 1485                                   | 10               | 148.5                                               |\n| 3. 75             | 3375                                   | 17               | 198                                                 |\n| 4. 2              | 3780                                   | 10               | 199                                                 |\n| 5. 1              | 4590                                   | 18               | 255                                                 |\n\nI suspect the justness of the last observation, it being made at noon on the summit of the mountain, the sun shining very hot, and no proper shade for the instruments.\n\nN. B. The thermometers were Fahrenheit's.\n\nAlthough the different degrees of heat in different places must depend greatly on the accident of situation, with regard to mountains, valleys, and to the different soils, &c. yet there is so much regularity in the above observations, that, perhaps, we shall not err\nerr much in computing (where the soil and surface are tolerably uniform) \"the decrease of heat (by Fahrenheit's thermometer) in the proportion of one degree for near 190 feet of elevation on this island.\"\n\nXIX. An Account of a Stone voided without Help from the Bladder of a Woman at Bury. Communicated by William Heberden, M.D. F.R.S.\n\nRead Mar. 28, 1765.\n\nELIZABETH, the wife of Charles Coe, a poor labouring man, of the parish of Lawshall, in Suffolk, aged about 67, having been severely afflicted with symptoms of the stone between 11 and 12 years; her urine continually draining away with great uneasiness; sometimes attended with the most excruciating pains; and for some years unable to sit upon a seat; on Monday 11th of February, 1765, voided a stone as described in the Plate.\n\nFor two or three days before the stone came away, blood was discharged from the Meatus Urinarius, particularly a large quantity of sincere blood without Mucus at the time the stone was voided; at which time she was not in great pain; but after its exclusion remarkably easy. Her urine now passes involuntarily without pain; and she can sit upon a seat without uneasiness.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105453.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1200,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1235,
+        2
+      ],
+      [
+        1235,
+        3655,
+        3
+      ],
+      [
+        3655,
+        4814,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105453",
+    "title": "Observations for Settling the Proportion, Which the Decrease of Heat Bears to the Height of Situation. Extracted from a Letter of Thomas Heberden, M. D. F. R. S. to William Heberden, M. D. F. R. S.",
+    "authors": "Thomas Heberden",
+    "year": 1765,
+    "volume": "55",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105453"
+  }
+}

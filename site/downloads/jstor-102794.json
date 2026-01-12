@@ -1,0 +1,109 @@
+{
+  "id": "b8a37a577ea7b4cd3ce74673c2a40396f320d74c",
+  "text": "I shall conclude with my earnest entreaty, that my most humble service may be presented to the Noble Members of the Royal Society, and remain\n\nHonour'd Sir, Your Humble Servant,\nAnthony Van Leeuwenhoek.\n\nIV. Reverendi D. Johannis Craig, Epistola ad Editorem continens solutionem duorum problematum.\n\nAd Eruditissimum Virum Dominum H. Sloane, M. D. & R. S. Secretarium.\n\nItto tibi, vir clarissime, solutiones, duorum Problematum; quibus solvendis operam dederunt (& etiamnum dant) Celeberrimi hujus aetatis Mathematici. Primi est de inveniendo Solido Rotundo, quod minimam in fluido patiatur resistentiam, ab incomparabili viro D. Is. Newtono jam olim solutum; quod denuò nuper aggressi sunt, Illustrißimus Marchio Hospitalius, & Celeber Jo. Bernoulli, ulterius exponere; quoniam Analysis suam supprimere voluit Dignissimus Newtonus. Posterior autem Problema est de inventanda Linæ celeberrimi descensus; quod ante hos quatuor annos omnibus (ut nosti) Europa Mathematicis à clariss. Jo. Bernoulli proponebatur, & jam sapientis solutum fuit. Ad meas solutiones quod attinet: Eas jam publici juris facio (non quod me quicquam magni momenti praecipue eorum laboribus addere posse sperem, sed) ut majori casdem res tractandi varietate, ad majora Scientiae illæ incrementa promoveantur. Et quamvis seriùs prodeat mea de Curva celeberrimi descensus Analysis; magna tamen ejus simplicitate mora (ut spero) compensabitur. Qualem alii adhibuerint, nescio; cum nulla hujus solutio (nec qua in vestris, nec qua in Leipsiciis Actis eduntur) ad manus meas adhuc pervenerit, præter Newtonianam, quæ Analysis, non exhibet. Si inter selectas tuas Collectiones Philosophicas, tenues etiam ha nostræ loco aliquo dignæ videantur, babebis tibi devinitissimum,\n\nGillingham, 21 Dec. 1700.\n\nJo. Craig\nLemma. Inveneri rationem inter resistentiam, quam patitur Triangulum rectangulum AIG, & resistentiam quam patitur rectangulum circumscriptum AIGg dum utrumque in fluido movetur juxta directionem Linæ IA, ab I versus X.\n\nA puncto quovis B ducantur BC normalis ad AG; & Bb parallela ad AI, item BM normalis ad AI. Tum in bB capiantur bH = \\frac{CM^2}{BC} & bE = BC; & per puncta H, E ducantur rectæ HA, EA, qua productæ secant Gg in K & F: Dico Resistentiam Trianguli AIG esse ad resistentiam Rectanguli AIGg ut Area trianguli AKG, ad Area Trianguli AFG. Imo & resistentiam in partem quamlibet lineæ AG ad resistentiam in partem correspondentem lineæ Ag exem. gra. in AB & Ab ut Area AHB ad Area AEB. Demonstratio pendet à Theoremate generali, quod facillimè deduxi ex Prop. xxxv. Newtoni, p. 324.\n\nCorol. 1. Sint jam BG, bg partes infinitæ parvae linearum AG, Ag, & producatur bB ad L; dico resistentiam in BG (quam vocamus e) esse ad resistentiam in bg (quam vocamus E) ut GL² ad GB².\n\nNam e. E :: KHbg. FEbg, id est e E :: bgxbH. bgxbE (per Lemma praecedens) Ergo e. E :: bH. bE, id est e E :: \\frac{CM^2}{BC} BC (per constructionem superioris Lemmatis) Ergo e. E :: CM². BC². Sed CM². BC² :: GL². GB². (ob similia Triangula BMC, GLB) Ergo e. E :: GL². GB². Q.e.D.\n\nCor.\nCorol. 2. Resistentia in partem infinite parvam GB est æqualis Cubo lineæ GL diviso per Quadratum lineæ GB. Nam si omnes partes infinitè parvae in linea Ag ut bg supponantur æquales, tum Resistentia in bg per ipsam bg exprimi possit, id est, E = bg, adeoque E = GL Ergo per Corollarium primum e. GL :: GL². GB²; unde e = \\frac{GL^3}{GB^2} Q.e.D.\n\nCorol. 3. Sit r radius & c circumferentia cujusvis circuli, dico resistentiam in conicam superficiem genitam à rotatione, linea- lex GB circa AI esse æqualem producto ex \\frac{CxBM}{r} in \\frac{GL^3}{GB^2}\n\nNam resistentia in Conicam illam superficiem est æqualis omnibus resistentis in lineolam GB, id est omnibus e; id est æqua- lis circumferentiae circuli cujus radius est BM in e multiplicatae; id est, resistentia in Conicam illam superficiem est æqualis \\frac{cxBM}{r} xe; adeoque per Corol. 2. æqualis \\frac{cxBM}{r} x \\frac{GL^3}{GB^2} Q.e.D.\n\nProblem 1. Invenire Lineam curvam cujus rotatione produ- catur Solidum rotundum, quod (dum in medio fluido secun- dum axis sui directionem movetur) minimam patiatur Resi- dentiam.\n\nSint OG, GB duæ particulae infinite parvae in Curva quaestâ, qua circa AQ protata producat Solidum rotundum minimaæ Resistentiae. Ducantur BM, GP normales ad AQ, item BL, GN\nGN ad AQ, & ON ad OM parallelae. Jam \\( \\frac{cxBMxGL^3}{rxGB^2} \\) est resistentia in superficiem genitam a rotatione lineolae GB circa AQ, & \\( \\frac{cxGPxON^3}{rxOG^2} \\) est resistentia in superficiem genitam similiter ab OG per Cor. 3. Jam utraque haec Resistentia simul sumpta debet esse minima scil. \\( \\frac{cxBMxGL^3}{rxGB^2} + \\frac{cxGPxON^3}{rxOG^2} = \\text{minimae. Adeoque in linea RS i.a ad AQ parallela ut ON sit=} GL, quærendum est punctum G ut hoc contingat; quod supponendo puncta O & B esse fixa facile invenietur per notissimam Maximorum & minimorum Methodum. Calculum prosequendo devenietur tandem ad \\( \\frac{BMxBL}{BG^4} = \\frac{GPxNG}{OG^4} \\); unde patet \\( \\frac{BMxBL}{BG^4} = \\text{constanti}; \\) sic si absissa AM vocetur x, & ordinata BM, y, erit BL=dx, LG=dy (quam constantem in toto hoc calculo supposui) adeoque BG²=dx² + dy², unde \\( \\frac{ydr}{dx dx + dy dy^2} = \\text{constanti}; \\) Sit a linea quælibet constans &c proinde, ut observetur Lex homogeneorum erit \\( \\frac{ydx}{dx dx + dy dy^2} = \\frac{a}{dy^3} \\) ut ab Illustriß. Hospitalio &c celeber. Jo. Bernouillio inventum est. Et hic obiter clariss. Bernouillio significare visum est me plurimum delectari methodo suâ construendi curvas ex æquationibus differentialibus, in quibus deest altera ex indeterminatis x vel y, in Actis Lipsicis publicatâ mense Maio Anni 1700. &c per quam eleganter deduxit constructionem Curvae modo quæsitæ. Nov. 1699. pag. 515.\n\nProblema\n**Problem 2. Invenire Lineam Celerrimi Descensus.**\n\nSint BC, CD duæ particulae infinitè parvae in curva qua sita. Jam Curva illa debet esse talis ut transitus a B ad D post calum a horizontali AQ fiat in tempore minimo; quærendum itaque est punctum in linea RS (ita ad AQ parallela ut differentia ordinatarum GC, DE sint æquales) tale punctum C ut hoc contingat.\n\nJam velocitas ejus in puncto C est $\\sqrt{LC}$ & velocitas in puncto D est $\\sqrt{QD}$; Ergo $\\frac{BC}{\\sqrt{LC}}$ est tempus descensus per BC, & etiam $\\frac{CD}{\\sqrt{QD}}$ est tempus descensus per CD (per Prop. ltv. pag. 158 Newtoni) Ergo punctum C debet esse tale ut $\\frac{RC}{\\sqrt{LC}} + \\frac{CD}{\\sqrt{QD}} = \\text{minimo}$. Supponendo B & D esse fixa, sint constantes GC=DE=m, LC=b, QD=p; indeterminata BG=u, CE=z; unde $\\frac{\\sqrt{m^2+u^2}}{\\sqrt{b}} + \\frac{\\sqrt{m^2+z^2}}{\\sqrt{p}} = \\text{minimo}$; Ergo\n\n$$\\frac{udu}{b\\sqrt{m^2+u^2}} + \\frac{zdz}{p\\sqrt{m^2+z^2}} = 0 \\text{ sed } du = -dz \\text{ (quia } v+z = \\text{ constans)}$$\n\nErgo $$\\frac{u}{b\\sqrt{m^2+u^2}} = \\frac{z}{p\\sqrt{m^2+z^2}}$$; unde patet\n\\[\n\\frac{u}{\\sqrt{m^2 + u^2}} = \\text{constanti}; \\quad \\text{sit jam Abscissa } AL=x; \\quad \\text{ordinata } LC=y; \\quad \\text{adeoque } BG=dx, \\quad GC=dy, \\quad BC=\\sqrt{dx^2}; \\quad \\text{sitque a linea quælibet constans Erit} \\quad \\frac{dx}{y\\sqrt{dx^2 + dy^2}} = \\frac{1}{\\sqrt{a}}, \\quad \\text{unde } dx\\sqrt{a} = \\sqrt{x}\\sqrt{dx^2 + dy^2}. \\quad \\text{Sed in omni Curva } dx \\text{ est, ad } \\sqrt{dx^2 + dy^2} \\text{ ut Subtangens ad Tangentem; Ergo talis est natura Curvae quæstæ: ejus subtangens sit ad Tangentem ut } \\sqrt{a} \\text{ ad } \\sqrt{y}. \\quad \\text{Quam utique Cycloidis proprietatem esse sciunt omnes, quibus notum est Tangentem Cycloidis esse parallelam Chordæ arcus contermini in Circulo genitore, cujus Diameter est } a, \\quad \\& \\text{ cujus vertex deorium spectat.}\n\\]\n\nEt pari facilitate Curvam invenire possum Celerrimi Descensus pro qualibet alia gravitatis Hypothesi.\n\nV. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102794.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10332,
+    "total-output-tokens": 2968,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1777,
+        2
+      ],
+      [
+        1777,
+        3049,
+        3
+      ],
+      [
+        3049,
+        4303,
+        4
+      ],
+      [
+        4303,
+        5763,
+        5
+      ],
+      [
+        5763,
+        6853,
+        6
+      ],
+      [
+        6853,
+        7761,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102794",
+    "title": "Reverendi D. Johannis Craig, Epistola ad Editorem Continens Solutionem Duorum Problematum",
+    "authors": "Johannis Craig",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/102794"
+  }
+}

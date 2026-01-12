@@ -1,0 +1,109 @@
+{
+  "id": "e1fbcab70033c71a0a1f826d048061cc1bb1a8d5",
+  "text": "VII. The Latitudes and Longitudes of several Places in Denmark; calculated from the Trigonometrical Operations. By Thomas Bugge, F. R. S. Regius Professor of Astronomy at Copenhagen.\n\nRead January 9, 1794.\n\nThe geographical surveying of Denmark was begun in the year 1762. The foundations of geographical maps are the trigonometrical operations, or great triangles, whose bases were measured with deal rods. The angles of the triangles were observed with a circular instrument of 1 foot radius; the divisions of this instrument are double, in 90 and 96 degrees. With this instrument the angles may be observed to a less error than $8''$, and the sum of all the angles in every triangle very seldom have had a difference of $15''$ from 180 degrees. For this reason the bases, measured at several places in Seland and Jutland, have very well agreed with the corresponding sides, computed through a long series of triangles, begun from the observatory at Copenhagen. I believe that a distance, found by those trigonometrical operations, is to be depended upon to $\\frac{1}{20000}$th part of the whole. I beg leave to observe, that the Danish astronomers and geographers, for 31 years, have been before hand in making use of circular instruments, which now begin to be of a more general use in astronomical and geographical observations. The royal observatory at Copenhagen has, since the year 1781, been adorned with a\ncircular instrument of 4 feet radius, which, at least at that time, was the only circular instrument of that size.\n\nBy the trigonometrical operations, the meridian of Copenhagen, and of several other places, and a perpendicular to the meridian of the observatory, are drawn. The special position of villages, farms, and cottages, the situation of the coast, woods, rivers, ponds, moors, roads, are laid down by the plain table, on a scale of 2000 Danish or Rhenish feet to one decimal inch. After a reduction to $\\frac{1}{6}$th part, to a scale of 1 Danish mile to 2 inches, we have published 9 geographical maps, which, as well for the geometrical exactness, as for the beauty of engraving, seem not to be unworthy of the approbation of foreigners.\n\nI have described the instruments, and the methods of our geometrical surveying, and of the trigonometrical operations, in a treatise published in the Danish language at Copenhagen 1779, and translated into the German by Major Aster at Dresden, 1787. In this paper I only shall lay before the Royal Society a new method of computing the longitude and the latitude of places, laid down by trigonometrical operations.\n\nLet EAIH (Tab.VIII.) be an ellipse; EH half the less axis; IH half the greater axis; A the observatory at Copenhagen; AV its vertical line; the angle V the complement to the latitude of the observatory. Then by the nature of the ellipsis,\n\n$$AV = \\frac{HI^2}{(HI^2 \\sin^2 V + HE^2 \\cos^2 V)^{\\frac{1}{2}}}.$$ \n\nAN is a great circle, perpendicular to the meridian of Copenhagen. The tangent to the same meridian $AF = AV \\times \\tan V$. $Amnop...D$ is a series of triangles in the direction of the parallel of Copenhagen. $gturx...G$ is a series of triangles in the direction of\nthe meridian GDE of a place G, whose longitude and latitude are to be calculated. For the first series of triangles may be taken the parallel, divided into small parts \\( AB = BC = CD \\); and for the second series may be taken the meridian GD; because the arches of those circles are known by the triangles, and computed from the trigonometrical operations. FAGD in the 1st. fig. is laid down in fig. 2 upon a plane. The angles \\( a, b, c, d \\), are equal to the angles A, B, C, D. The lines \\( af, bf, cf, gdf \\), are equal to AF, BF, CF, GDF, touching the meridians AE, BE, CE, GDE in A, B, C, D. The angle \\( dfa = DFA = AFB + BFC + CFD \\). For the place \\( g \\), or G, are given the distance from the meridian of Copenhagen \\( = gk \\), and the distance from the perpendicular \\( = ak \\), and \\( af = AF = AV \\times \\text{tang. V} \\). In the case that \\( g \\) is more southerly than \\( an \\), then \\( fk = af + ak \\). If the place is northerly, then \\( fk = af - ak \\). Hence \\( \\text{tang. } dfa = \\frac{gk}{fk} \\). The complement to the angle \\( dfa \\) is the angle \\( fna = fgk \\), which the meridian \\( gdf \\) makes with the perpendicular to the meridian of Copenhagen.\n\nNow DEA : DFA = AF : AM = tang. V : sin. V; therefore the longitude of the place G from the meridian of Copenhagen \\( = DEA = DFA \\times \\frac{\\text{tang. V}}{\\sin. V} = \\frac{DFA}{\\cos. V} \\).\n\nAgain, \\( gf = \\frac{gk}{\\sin. afd} = \\frac{fk}{\\sin. g} \\). If the place \\( g \\) is more southerly than the perpendicular \\( an \\), then \\( dg = gf - fd = gf - af \\); if more northerly than \\( an \\), in that case \\( dg = af - fg \\). From hence the latitude of the place \\( g \\) may be found.\n\nThe following Table contains the latitudes of towns and places, with their longitudes from the royal observatory at Copenhagen, calculated from our trigonometrical operations.\n| Names of Places                  | Sea or Country | Latitude | Longitude |\n|---------------------------------|---------------|----------|-----------|\n| Landscrone                      | Sweden        | 55° 52' 23\" | 0° 15' 16\" h 1° 0' 5\" E. |\n| Hveen (church)                  |               | 55° 54' 38\" | 0° 5' 56\" o 23° 7' 5\" E. |\n| Kullen (light-house)            |               | 56° 18' 3\"  | 0° 7' 58\" o 31° 7' 5\" W. |\n| Franeklint (cape)               | Langeland     | 55° 9' 44\"  | 1° 38' 47\" o 6° 35' W.    |\n| Kongsberg (cape)                | Møen          | 54° 58' 3\"  | 0° 4' 12\" o 16° 7' 5\" W.  |\n| Sproe (isle)                    | Belt          | 55° 19' 56\" | 1° 37' o 6° 35' 25\" W.    |\n| Copenhagen (observatory)        | Seland        | 55° 41' 4\"  | 0° 0' 0\" o 0° 0' 0\"       |\n| Roeskilde (cathedral)           |               | 55° 38' 25\" | 0° 29' 48\" o 1° 59' 7' 5\" W. |\n| Holbek (church)                 |               | 55° 43' 2\"  | 2° 51' 26\" o 3° 25' 7' 5\" W. |\n| Kallundborg (church)            |               | 55° 40' 54\" | 1° 29' 12\" o 5° 56' 7' 5\" W. |\n| Korsør (light-house)            |               | 55° 20' 22\" | 1° 27' o 5° 48' W.        |\n| Nestved (church)                |               | 55° 13' 55\" | 0° 49' 12\" o 3° 16' 7' 5\" W. |\n| Wordingborg (tower)             |               | 55° 0' 32\"  | 0° 40' 4\" o 2° 40' 25\" W.  |\n| Ringsted (church)               |               | 55° 26' 51\" | 0° 47' 20\" o 3° 9' 25\" W.  |\n| Skagen (light-house)            | North Jutland | 57° 43' 44\" | 1° 57' 55\" o 7° 51' 7\" W. |\n| Höring (church)                 |               | 57° 27' 44\" | 2° 35' 17\" o 10° 21' 1\" W. |\n| Fladstrand (church)             |               | 57° 27' 3\"  | 2° 2' 15\" o 8° 9' W.      |\n| Sæbye (church)                  |               | 57° 20' 2\"  | 2° 2' 36\" o 8° 10' 5\" W.   |\n| Aalborg (St. Budolph)           |               | 57° 2' 57\"  | 2° 39' 4\" o 10° 36' 3\" W.  |\n| Nibe (church)                   |               | 56° 59' 4\"  | 2° 55' 54\" o 11° 43' 6\" W. |\n| Grenaae (church)                |               | 56° 24' 57\" | 1° 41' 49\" o 6° 47' 3\" W.  |\n| Randers (highest steeple)       |               | 56° 27' 48\" | 2° 32' 3\" o 10° 8' 2\" W.   |\n| Viborg (cathedral)              |               | 57° 27' 11\" | 3° 9' 25\" o 12° 37' 7\" W.  |\n| Aarhus (cathedral)              |               | 56° 9' 35\"  | 2° 21' 40\" o 9° 26' 6\" W.  |\n| Ribe (cathedral)                |               | 55° 19' 57\" | 3° 48' 25\" o 15° 13' 7\" W. |\n| Hadersleben (church)            | South Jutland | 55° 15' 15\" | 3° 4' 56\" o 12° 19' 7\" W.  |\n| Norborg (highest steeple)       | or Schleswig  | 55° 3' 53\"  | 2° 49' 53\" o 11° 19' 6\" W. |\n| Apennrade (St. Nicolas)         |               | 55° 2' 57\"  | 3° 9' 7\" o 12° 36' 9\" W.   |\n| Tøndern (Christ.)               |               | 54° 56' 30\" | 3° 41' 53\" o 14° 47' 5\" W. |\n| Sønderborg (St. Mary)           |               | 54° 54' 59\" | 2° 47' 1\" o 11° 8' 1\" W.   |\n| Flensborg (highest steeple)     |               | 54° 47' 18\" | 3° 8' 5\" o 12° 32' 3\" W.   |\n| Husum (church)                  |               | 54° 28' 29\" | 3° 31' 3\" o 14° 4' 2\" W.   |\n| Glückstad (highest steeple)     | Holstein      | 53° 47' 44\" | 3° 8' 43\" o 12° 34' 8\" W.  |\n| Hesselöe (isle)                 | Kattegat      | 56° 11' 46\" | 0° 51' 44\" o 3° 27' W.     |\n| Anholt (light-house)            |               | 56° 44' 20\" | 0° 55' 24\" o 3° 41' 5\" W.   |\n\nIn all the best maps of the Kattegat, as that by Mr. Lous, published at Copenhagen, 1790, that by M. Verdun de la Crenne, M. Borda, and M. Pingre', Paris, 1778, that by Mr. Akeleie, Copenhagen, 1771, that by Mr. Ankerkrona,\nStokholm, 1782, the position of Anholt is very erroneous. The light-house of Anholt, and the whole isle, is from 7 to 9 minutes too much westerly; and the distance from the light-house to the Swedish coast, in a direction perpendicular to the meridian of the light-house is, in all maps hitherto published, nearly 4 English miles, or $\\frac{1}{8}$th part of the whole too great. Experience has taught the navigators, that they come too soon down upon Anholt; or that they, cruising between Anholt and Sweden, overrun their reckoning, which was ascribed to the currents; although the true reason of it was the great error in the geographical and hydrographical position of Anholt in a narrow and dangerous passage.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106889.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11482,
+    "total-output-tokens": 3587,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1416,
+        2
+      ],
+      [
+        1416,
+        3161,
+        3
+      ],
+      [
+        3161,
+        5004,
+        4
+      ],
+      [
+        5004,
+        8702,
+        5
+      ],
+      [
+        8702,
+        8702,
+        6
+      ],
+      [
+        8702,
+        9415,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106889",
+    "title": "The Latitudes and Longitudes of Several Places in Denmark; Calculated from the Trigonometrical Operations. By Thomas Bugge, F. R. S. Regius Professor of Astronomy at Copenhagen",
+    "authors": "Thomas Bugge",
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/106889"
+  }
+}

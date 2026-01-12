@@ -1,0 +1,89 @@
+{
+  "id": "002ea78d1f8935f5edab713c02033dabcf8c5d9a",
+  "text": "XXV. Description of a new Method of observing the heavenly Bodies out of the Meridian: By J. Smeaton, F. R. S.\n\nRead May 16, 1768.\n\nTHE instrument I propose for this purpose, is a transit telescope, mounted on a vertical axis; for example, such a one as is described in the introduction to the Histoire Celeste of Mr. le Monnier; being one of the instruments made by Mr. Graham for the academicians who went to measure a degree at the Polar circle; this or any other instrument upon equivalent principles will suffice, that is, capable of such adjustments, as to be made correctly to describe an almicanther and azimuth circle; and capable of being retained in any given position: the use will appear by the following example.\n\nMake choice of any fixed star, which according to the diurnal motion, precedes the heavenly body to be observed by a few minutes, more or less, as it may happen; let the instrument be set to an azimuth, somewhat preceding the fixed star; and carefully observe the time of the star's transit cross the vertical wire of the telescope; then wait till the heavenly body comes to the same azimuth; and, when arrived within the field of view, keep gently turning the screw that alters the elevation of the telescope, so as to follow the heavenly body in altitude; keeping it intersected by\nby the horizontal wire of the telescope, till the body passes the middle vertical wire, and carefully note the time of its passage; there leave the telescope fixed as to altitude, and releasing the horizontal motion, turn it round on its vertical axis, till you meet with some star, that in a little time after will by rising or falling come to the same almicanther; and, on its arrival, carefully note the time of its passage cross the horizontal hair of the telescope.\n\nNow, from the right ascensions and declinations of the two stars being previously known, or afterwards determined from meridian observations; the azimuth of the first star, and the altitude of the last, at the time of their respective passages, may be determined by computation; which will give the altitude and azimuth of the heavenly body, for the time of the middle observation, when it passed the intersection of the two wires.\n\nThe same end may also be obtained by taking the observations in an inverted order; that is, by choosing a star at such an altitude, that the heavenly body shall in a competent time afterwards arrive at the same altitude, &c. but, as in these latitudes the alteration of azimuth is, especially in those parts that are in the neighbourhood of the zodiack, quicker than that of altitude, I apprehend it to be easier to follow the slower motion with the screw, so as to preserve the intersection, than the quicker, and therefore in general to be preferred; but where it happens otherwise, or the stars lay more conveniently, the inverse method may be pursued.\n\nIt is true, that some degree of dexterity and practice may be requisite in the observer in managing\nthe set screw, so as to keep the object intersected by the wire; but if fine smooth screws, such as are used for micrometers to astronomical quadrants, are adapted to the instrument, as well that commanding the horizontal motion as the vertical, I apprehend, the management will be perfectly easy and familiar to an observer otherwise well practised.\n\nIt is easy to see, that those stars are to be preferred that are nearest the heavenly body to be observed; and that, *caeteris paribus*, those in such positions, as rise or fall slow, are best for determining their altitude; and those that alter their azimuth slow, are best for determining the azimuth.\n\nTo avoid intricacy in description, I have supposed only two wires intersecting each other at a right angle, in the focus of the telescope: but, for the sake of getting a medium in such parts of the observations as depend on time, it will be proper to have, not only three perpendicular wires, parallel to each other as common, but also three horizontal wires; the proportional distances of which being previously determined by observation, the oblique motions may (in parts not near the pole) be considered as right lines.\n\nThis method is the more valuable as it is entirely free from the knowledge of refractions; for since the computation gives the real altitude from the time given independent of refractions; and since the heavenly body is equally affected by refraction, at the same altitude; the computed altitude of the star will give the real altitude of the heavenly body cleared of refraction, which never enters the question: and since such stars may be chosen as will render the time intercepted\ntercepted short, there is the less chance of a change of refraction, during the time, between the middle and last observation; and therefore this method will be particularly useful in observations near the horizon.\n\nAusthorpe, April 17,\n1768. J. Smeaton.\n\nN. B. Observations of this kind may be made upon the planets in the day light, by making use of the Sun for the first observation, instead of a star; and waiting afterwards for the appearance of the stars.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105773.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1224,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1312,
+        2
+      ],
+      [
+        1312,
+        2974,
+        3
+      ],
+      [
+        2974,
+        4639,
+        4
+      ],
+      [
+        4639,
+        5100,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105773",
+    "title": "Description of a New Method of Observing the Heavenly Bodies out of the Meridian: By J. Smeaton, F. R. S.",
+    "authors": "J. Smeaton",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105773"
+  }
+}

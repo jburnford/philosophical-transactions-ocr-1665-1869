@@ -1,0 +1,69 @@
+{
+  "id": "1b86a1d4249d7a427ccc57f87a60f7b3c7f4883a",
+  "text": "III. An Account of Mr. Tho Savery's Engine for raising Water by the help of Fire.\n\nMr. Savery, June 14. 1699. Entertain'd the Royal Society with shewing a small Model of his Engine for raising Water by the help of Fire, which he let to Work before them; the Experiment succeeded according to Expectation, and to their Satisfaction.\n\nThe Engine may be understood by the Draughts of it,\n\nWhere, Fig 1. is the Front of the Engine for Raising Water by Fire.\n\nA the Furnace.\nB The Boyler.\nC Two Cocks which Convey the Steam by turns, to the Vessels D.\nD The Vessels which receive the Water from the bottom, in order to discharge it again at the top.\nE Valves.\nF Cocks which keep up the Water, while the Valves on occasion are Cleans'd.\nG The Force Pipe.\nH The sucking Pipe.\nI The Water.\n\nFig. 2. the side Prospect of the same Engine.\n\nERRATA, Transactions Numb. 253.\n\nPage 200. Line 19. dele (it).\nPage 210. line penult, dele (wholly free and clear).\n\nLONDON: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St Paul's Church-yard. 1699.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102623.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4750,
+    "total-output-tokens": 397,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1081,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102623",
+    "title": "An Account of Mr. Tho Savery's Engine for Raising Water by the Help of Fire",
+    "authors": "Tho Savery",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102623"
+  }
+}

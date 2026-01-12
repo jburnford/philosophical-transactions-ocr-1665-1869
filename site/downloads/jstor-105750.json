@@ -1,0 +1,69 @@
+{
+  "id": "5f5f5d15416abd2215f18fa4b77a768ffb5d6831",
+  "text": "II. Extract of a Letter, dated Vienna April 4, 1767, from Father Joseph Liesganig, Jesuit, to Dr. Bevis, F. R. S. containing a short Account of the Measurement of Three Degrees of Latitude under the Meridian of Vienna.\n\nRead Feb. 18, 1767.\n\nPOST paucas septimanas prelo committam opusculum meum de dimensione trium fere graduum meridiani nostri, Augustae nostrae jussu a me suscepta. Continentur arcus totus quem dimensus sum, inter pagum Sobieschiz (Brunnâ, Moraviae urbe, 3' borealiorem) ac inter Varasdinum Croatiae. Arcum terrestrem definivi 22 triangulis sat magnis, si ea demam, quae duas bases (quarum quaevis 6000 hexapedarum Parisinarum superat) cum triangulorum serie connectunt. Arcus coelestis amplitudinem determinavi per observationes plurium fixarum, quas feci sectore decem pedum, non in extremis duntaxat arcus mei, locis Sobieschizii videlicet et Varasdini, verum etiam Brunnæ, Viennæ, et Graecii, Styriæ metropoli: quo magnitudinem unius gradus, tum ex arcu toto, tum ex interjectis partialibus arcubus deducere liceret. Nec imprudenter id a me actum esse eventus docuit: nam gradum inter Viennam et Graecium interceptum 186 hexapedas Parisinas minorem reperi eo, qui Viennâ Brunnam, Boream versus porrigitur, Varasdinensem fere 300 hexapedis Brunnense majorem. Insignem hanc differentiam attractioni ingentium Styriæ superioris ac inferioris montium, quibus Graecium subjicitur, tribuendam esse ostendam. Adjecta pagina compendio totius laboris ac opusculi mei summam exhibet.\n### Arcus Meridiani Cœlestis.\n\n|                      | Dracon | γ Dracon | α Cygni | Capra | β Aurigae | Medium |\n|----------------------|--------|----------|---------|-------|-----------|--------|\n| **Inter Sobieschiz,** |        |          |         |       |           |        |\n| et Brunnam           | 3 35,8 |          |         |       |           |        |\n| et Viennam           | 2 29,6 |          |         |       |           |        |\n| et Græcium           | 1 54,3 |          |         |       |           |        |\n| et Varafdin.         |        |          |         |       |           |        |\n| **Inter Brunnam**    |        |          |         |       |           |        |\n| et Viennam           | 58 53,2|          |         |       |           |        |\n| et Græcium           | 7 18,1 |          |         |       |           |        |\n| **Inter Viennam**    |        |          |         |       |           |        |\n| et Græcium           | 8 24,9 |          |         |       |           |        |\n| et Varafdin.         |        |          |         |       |           |        |\n| **Inter Græcium**    |        |          |         |       |           |        |\n| et Varafdin.         | 45 50,5|          |         |       |           |        |\n\n|                      | Amplit. arcus cœlestis. | Distantia parallelogram. | Ex serie triangulorum. | Magnitudo unius Gradus. |\n|----------------------|--------------------------|---------------------------|------------------------|-------------------------|\n|                      |                          |                           |                        | Hex. Vienn.             |\n|                      |                          |                           |                        | Hex. Paris.             |\n|                      |                          |                           |                        | Red. ad libell. maris.  |\n| **Inter Sobieschiz** |                          |                           |                        |                         |\n| et Varafdin.         | 56 45,8                  | 172808,1                  | 58657,5                | 57079,8                 |\n|                      |                          |                           |                        | 57077,4                 |\n| **Inter Sobieschiz** |                          |                           |                        |                         |\n| et Viennam           | 2 29,0                   | 61094,0                   | I.                     | 58665,9                 |\n|                      |                          |                           | II.                    | 58662,7                 |\n|                      |                          |                           | III.                   | 58660,9                 |\n|                      |                          |                           |                        | 58672,3                 |\n| **Inter Brunnam**    |                          |                           |                        |                         |\n| et Viennam           | 58 53,5                   | 57588,5                   |                        |                         |\n|                      |                          |                           |                        |                         |\n| **Inter Viennam**    |                          |                           |                        |                         |\n| et Græcium           | 8 25,8                   | 66681,8                   | Medium                 | 58665,4                 |\n|                      |                          |                           |                        | 58467,2                 |\n|                      |                          |                           |                        | 58481,4                 |\n| **Inter Græcium**    |                          |                           |                         |                         |\n| et Varafdin.         | 45 49,9                   | 45032,3                   | Medium                 | 58474,3                 |\n|                      |                          |                           |                        | 58953,5                 |\n|                      |                          |                           |                        | 57367,9                 |\n\nReceived",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105750.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5210,
+    "total-output-tokens": 1482,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1497,
+        2
+      ],
+      [
+        1497,
+        5944,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105750",
+    "title": "Extract of a Letter, Dated Vienna April 4, 1767, from Father Joseph Liesganig, Jesuit, to Dr. Bevis, F. R. S. Containing a Short Account of the Measurement of Three Degrees of Latitude under the Meridian of Vienna",
+    "authors": "Joseph Liesganig",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105750"
+  }
+}

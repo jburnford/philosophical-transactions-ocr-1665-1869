@@ -1,0 +1,79 @@
+{
+  "id": "78be2188e535bd7121db0b527fb46ccc393cbe11",
+  "text": "Read December 21, 1769.\n\nLV. Eclipses of Jupiter's First Satellite, the Eclipse of the Moon, and Occultations of Fixed Stars by the Moon. Observed at the Royal Observatory at Greenwich, in the Year 1769. Communicated by the Astronomer Royal.\n\nApparent time.\n\n| Date   | Time | Remarks |\n|--------|------|---------|\n| March 29 | 12 25 7 | with a 2 feet reflector of Short's constr. |\n| April 12 | 16 16 8 | with a 2 feet reflector of Bird's constr. |\n| April 28 | 14 35 17½ | with a 2 feet reflector of Short's. |\n| May 16 | 9 32 15 | with a 6 feet reflector of Short's. |\n| June 8 | 9 40 56 | with a 6 feet reflector of Short's. |\n| June 15 | 11 35 33 | with a 2 feet reflector of Short's. |\n| July 1 | 9 50 24 | Air a little hazy. Jupiter very clear. |\n\nECLIPSE OF THE MOON.\n\nObserved with a 3½ feet achromatic treble object glass telescope of Dollond, with least magnifying power 30 times; and a 2 feet reflector of Short's, with least magnifying power 60 times.\n\nApparent time.\n\n| Date   | Time | Remarks |\n|--------|------|---------|\n| Dec. 12 | 16 57 13 | Beginning of eclipse. |\n|        | 16 57 9 | The shadow first touches Kepler. |\n|        | 17 3 3 | bisects ditto. |\n|        | 17 3 33 | covers ditto. |\n\nApparent\nApparent time.\n\n| Dec. 12 | h   | \"   | h   | \"   |\n|---------|-----|-----|-----|-----|\n|         | 17  | 9   | 19  |     |\n|         | 17  | 10  | 32  | 17  |\n|         | 17  | 13  | 22  |     |\n|         | 17  | 15  | 54  | 17  |\n|         | 17  | 16  | 56  |     |\n|         | 17  | 18  | 20  |     |\n|         | 17  | 20  | 1   |     |\n|         | 17  | 26  | 1   | 17  |\n|         |     |     |     | 26  |\n|         |     |     |     | 5   |\n\nThe shadow touches Pytheas.\ncovers ditto.\ncovers Timochares.\ncovers Archimedes.\ntouches Eratothenes.\ncovers ditto.\nbisects Copernicus.\ntouches Mare Serenitatis.\ntouches Manilius.\ncovers ditto.\ntouches Menelaus.\ncovers ditto.\ntouches Plinius.\ncovers ditto.\ncovers Dionyius.\ncovers a spot between Plinius and Promont. Somnii.\nbisects a black spot surrounded by a white circle in Terra Mannae, lying in a leni joining Langrenus and Kepler.\n\nThe observations in the first column were made by myself, with the 3½ f. achromatic telescope; and the others by my assistant W. Bayley, with the 2 f. reflector.\n\nOCCULTATIONS OF FIXED STARS BY THE MOON.\n\nApparent time.\n\n| April 11 | h   | \"   |\n|----------|-----|-----|\n|          | 7   | 24  |\n|          | 11  |     |\n\nEm. of μ Geminorum, from the Moon’s bright limb. Certain to 5 or 10 seconds, with Dollond’s 3½ feet telescope.\n\nMay 9\n\nEm. of ξ Geminorum, from the Moon’s bright limb, with a 2 feet reflector. The true emersion is supposed to have been about 5 seconds sooner.\n\nMean\nMean time.\n\nSept. 15\n\n8 1 43.3 im. of 16 Piscium, at D's bright limb,\nwith 6 f. reflector, certain to 1\".\n\nbetween 10 22 47.3\nand 49\",3\nwith 6 feet refl.\n\nbetween 10 22 50.3\nand 51\",3\nwith 2 f. ref. by W. B.\n\nSept. 20\n\n10 28 19.6 im. of 1st x Tauri, with both telescopes exactly the same.\n\n11 12 28.2 em. of 1st x Tauri, at D's dark limb,\nwith 2 feet reflector.\n\n11 16 54.5 em. of 2d x Tauri, with both telescopes exactly the same.\n\nSept. 25\n\n17 24 14.6 im. b Leonis, at D's bright limb,\nwith 6 feet refl.\n\n17 24 12.6 ditto, with 2 f. reflector, by W. B.\n\nThe star was eclipsed to the north of the Moon's center, and the time seemed certain to less than a second, with both telescopes.\n\nNov. 18\n\n14 39 3.7 im. of 2d α Cancri, at D's bright limb,\nwith 2 f. refl. Uncertain to 10\".\n\n15 5 49.3 em. of ditto, at D's dark limb, instantaneous, and the same with both telescopes.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105853.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1452,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1225,
+        2
+      ],
+      [
+        1225,
+        2700,
+        3
+      ],
+      [
+        2700,
+        3572,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105853",
+    "title": "Eclipses of Jupiter's First Satellite, the Eclipse of the Moon, and Occultations of Fixed Stars by the Moon. Observed at the Royal Observatory at Greenwich, in the Year 1769. Communicated by the Astronomer Royal",
+    "authors": null,
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105853"
+  }
+}

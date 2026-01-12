@@ -1,0 +1,119 @@
+{
+  "id": "1c9bbb27a897c5a839b8d7d49f7352577f227114",
+  "text": "XXVI. Researches in Physical Astronomy. By J. W. Lubbock, Esq. V.P. and Treas. R.S.\n\nRead June 21, 1832.\n\nOn the development of $R$.\n\nIn the following method of developing the disturbing function, the coefficients of the inequalities corresponding to any given order are expressed in terms of the coefficients of the inferior orders; so that, for example, the coefficients of the terms in the disturbing function multiplied by the squares of the eccentricities, are given analytically by means of the coefficients of those independent of the eccentricities, and of those multiplied by their first powers. As the theorems to which this method gives rise, are of great simplicity, I trust they will not be thought unworthy attention. By their means and with the assistance of the table given in my Lunar Theory, the expressions may be obtained, which are necessary for the development of $R$, as far as the fourth powers of the eccentricities inclusive; it may easily be carried to any extent, and the expressions given by Burckhardt in the Mémoires de l'Institut, 1808, may be verified without difficulty. This method is peculiarly advantageous in the lunar theory, and for the terms in $R$ dependent on powers of the eccentricities above the squares; for the expression thus obtained for the coefficients of the terms dependent on the squares and products of the eccentricities in the planetary theory, is by no means so simple or so convenient for numerical calculation as that given in the Phil. Trans. 1831, p. 295. A similar method is applicable to the terms dependent on the inclinations.\n\nLet $R = R_0 + e^2 R_0' + e_i^2 R_0'' + \\&c.$\n\n$+ \\{R_1 + e^2 R_1' + e_i^2 R_1'' + \\&c.\\} \\cos (i n t - i n_i t)$\n\n$[1]$\n\n$+ \\{R_2 + e^2 R_2' + e_i^2 R_2'' + \\&c.\\} e \\cos (n t - w)$\n\n$[2]$\n\\[ + \\{ R_3 + e^2 R_3 + e_i^2 R_3 + \\&c \\} e \\cos (i n t - i n_t - n t + \\varphi) \\]\n\n\\[ + \\&c. \\]\n\nwhere the indices are as follows, and the same as in my Lunar Theory, merely writing the indeterminate \\( i \\) instead of the number 2.\n\n\\[\n\\begin{array}{cccc}\n0 & 0 & 21 & it - 3x \\\\\n1 & it & 22 & it + 3x \\\\\n2 & x & 23 & 2x + z \\\\\n3 & it - x & 24 & it - 2x - z \\\\\n4 & it + x & 25 & it + 2x + z \\\\\n5 & z & 26 & 2x - z \\\\\n6 & it - z & 27 & it - 2x + z \\\\\n7 & it + z & 28 & it + 2x - z \\\\\n8 & 2x & 29 & x + 2z \\\\\n9 & it - 2x & 30 & it - x - 2z \\\\\n10 & it + 2x & 31 & it + x + 2z \\\\\n11 & x + z & 32 & x - 2z \\\\\n12 & it - x - z & 33 & it - x + 2z \\\\\n13 & it + x + z & 34 & it + x - 2z \\\\\n14 & x - z & 35 & 3z \\\\\n15 & it - x - z & 36 & it - 3z \\\\\n16 & it + x - z & 37 & it + 3z \\\\\n17 & 2z & 38 & 4x \\\\\n18 & it - 2z & 39 & it - 4x \\\\\n19 & it + 2z & 40 & it + 4x \\\\\n20 & 3x & 41 & 3x + z \\\\\n42 & it - 3x - z \\\\\n43 & it + 3x + z \\\\\n44 & 3x - z \\\\\n45 & it - 3x + z \\\\\n46 & it + 3x - z \\\\\n47 & 2x + 2z \\\\\n48 & it - 2x - 2z \\\\\n49 & it + 2x + 2z \\\\\n50 & 2x - 2z \\\\\n51 & it - 2x + 2z \\\\\n52 & it + 2x - 2z \\\\\n53 & x + 3z \\\\\n54 & it - x - 3z \\\\\n55 & it + x + 3z \\\\\n56 & x - 3z \\\\\n57 & it - x + 3z \\\\\n58 & it + x - 3z \\\\\n59 & 4z \\\\\n60 & it - 4z \\\\\n61 & it + 4z \\\\\n\\end{array}\n\\]\n\n\\[ r = 1 + \\frac{e^2}{2} - e \\left( 1 - \\frac{3e^2}{8} \\right) \\cos x - \\frac{e^2}{2} \\left( 1 - \\frac{2e^2}{3} \\right) \\cos 2x + \\frac{9}{8} e^3 \\cos 3x + \\frac{4}{3} e^4 \\cos 4x \\]\n\n\\[ \\frac{dr}{de} = e - \\left( 1 - \\frac{9}{8} e^2 \\right) \\cos x - e \\left( 1 - \\frac{4e^2}{3} \\right) \\cos 2x + \\frac{27}{8} e^2 \\cos 3x + \\frac{16}{3} e^3 \\cos 4x \\]\n\n\\[ \\frac{d^2r}{de^2} = \\frac{e}{2} \\left( 1 + \\frac{e^2}{4} \\right) - \\left( 1 - \\frac{9}{8} e^2 \\right) \\cos x - \\frac{3}{2} e \\left( 1 - \\frac{11}{9} e^2 \\right) \\cos 2x \\]\n\n\\[ - \\frac{17}{8} e^2 \\cos 3x - \\frac{71}{24} e^3 \\cos 4x \\]\n\n\\[ \\frac{d\\lambda}{de} = 2 \\left( 1 - \\frac{3e^2}{8} \\right) \\sin x + \\frac{5}{2} e \\left( 1 - \\frac{28}{15} e^2 \\right) \\sin 2x + \\frac{13}{4} e^2 \\sin 3x + \\frac{103}{24} e^3 \\sin 4x \\]\n\n\\[ \\frac{dR}{de} = \\frac{dR}{dr} \\frac{dr}{de} + \\frac{dR}{d\\lambda} \\frac{d\\lambda}{de} \\]\n\\[\n\\frac{r \\, dR}{dr} = \\frac{a \\, dR}{da} \\quad \\frac{dR}{d\\lambda} = -iR^*\n\\]\n\nMultiplying by means of Table II. Phil. Trans. 1831, p. 238, we find\n\n\\[\nR_2 = -\\frac{a \\, dR_0}{2 \\, da} \\quad R_3 = -\\frac{a \\, dR_1}{2 \\, da} - iR_1 \\quad R_4 = -\\frac{a \\, dR_1}{2 \\, da} + iR_1\n\\]\n\n\\[\n2R_5 = -\\frac{a \\, dR_2}{2 \\, da} - \\frac{3a \\, dR_0}{2 \\, da}\n\\]\n\n\\[\n2R_9 = -\\frac{a \\, dR_3}{2 \\, da} - iR_3 - \\frac{3a \\, dR_1}{4 \\, da} - \\frac{5i \\, R_1}{4}\n\\]\n\n\\[\n2R_{10} = -\\frac{a \\, dR_4}{2 \\, da} + iR_4 - \\frac{3a \\, dR_1}{4 \\, da} + \\frac{5i \\, R_1}{4}\n\\]\n\nThese equations may be formed at once from the Table by inspection, taking care to write \\(R\\) with the sign \\(+\\) in the term multiplied by \\(i\\) when the index is found in the upper line in the Table, as in the case of the argument (10); and with the sign \\(-\\) when in the lower, as in the case of the argument (9). The term multiplied by \\(\\frac{a \\, dR}{da}\\) always takes its sign from the factor arising from \\(\\frac{dr}{r \\, de}\\). In what precedes, \\(i\\) is any positive whole number.\n\nBy means of the Tables, any term in \\(R\\) depending on the eccentricities may be found at pleasure, and the development given in the Phil. Trans. 1831, p. 263, may be verified with great facility; thus\n\n\\[\n4R_{38} = -\\frac{a \\, dR_{20}}{2 \\, da} - \\frac{3a \\, dR_8}{4 \\, da} - \\frac{17a \\, dR_2}{16 \\, da} - \\frac{71a \\, dR_0}{24 \\, da}\n\\]\n\nI find on reference to the development in question\n\n\\[\nR_{38} = \\frac{a^2}{24a_i^3} \\quad R_{20} = \\frac{a^2}{16a_i^3} \\quad R_8 = \\frac{a^2}{8a_i^3} \\quad R_2 = \\frac{a^2}{2a_i^3} \\quad R_0 = -\\frac{a^2}{4a_i^3}\n\\]\n\nwhence\n\n\\[\n\\frac{a \\, dR_{20}}{da} = \\frac{a^2}{8a_i^3} \\quad \\frac{a \\, dR_8}{da} = \\frac{a^2}{4a_i^3} \\quad \\frac{a \\, dR_2}{da} = \\frac{a^2}{a_i^3} \\quad \\frac{a \\, dR_0}{da} = -\\frac{a^2}{2a_i^3}\n\\]\n\nwhich values satisfy the equation above, for\n\n\\[\n\\frac{4}{24} = \\frac{1}{2 \\cdot 8} - \\frac{3}{4 \\cdot 4} - \\frac{17}{16} + \\frac{71}{24 \\cdot 2}\n\\]\n\nBy successive substitutions in the expressions which have been given, it is\n\n* This is only a method of notation as regards the coefficients, which will be easily understood.\nobvious that they may be reduced so as to contain only the quantity $R_1$ and the differential coefficients of this quantity with respect to $a$ and $a_i$.\n\nThus\n\n$$R_t = -\\frac{a \\, d \\, R_1}{2 \\, da} + i \\, R_1$$\n\n$$2 \\, R_{10} = -\\frac{a \\, d \\, R_4}{2 \\, da} + i \\, R_4 - \\frac{3 \\, a \\, d \\, R_1}{4 \\, da} + \\frac{5 \\, i \\, R_1}{4}$$\n\n$$= -\\frac{1}{2} \\left\\{ -\\frac{a^2 \\, d^2 \\, R_1}{2 \\, da^2} - \\frac{a \\, d \\, R_1}{2 \\, da} + i \\, a \\, \\frac{d \\, R_1}{da} \\right\\}$$\n\n$$- \\frac{i \\, a \\, d \\, R_1}{2 \\, da} + i^2 \\, R_1 - \\frac{3 \\, a \\, d \\, R_1}{4 \\, da} + \\frac{5 \\, i \\, R_1}{4}$$\n\n$$R_{10} = \\frac{a^2 \\, d^2 \\, R_1}{8 \\, da^2} - \\frac{(2i + 1) \\, a \\, d \\, R_1}{4 \\, da} + \\frac{(4i^2 + 5i) \\, R_1}{8}$$\n\nChanging the sign of $i$, we get\n\n$$R_9 = \\frac{a^2 \\, d^2 \\, R_1}{8 \\, da^2} + \\frac{(2i - 1) \\, a \\, d \\, R_1}{4 \\, da} + \\frac{(4i^2 - 5i) \\, R_1}{8}$$\n\nwhich accords with the expression (for $N^{(0)}$) given in the *Théor. Anal.* vol. i. p. 463.\n\n$$3 \\, R_{22} = -\\frac{a \\, d \\, R_{10}}{da} + i \\, R_{10} - \\frac{3}{4} \\frac{a \\, d \\, R_4}{da} + \\frac{5i}{4} \\, R_4 - \\frac{17}{16} \\frac{a \\, d \\, R_1}{da} + \\frac{13i}{8} \\, R_1$$\n\n$$= -\\frac{1}{2} \\left\\{ \\frac{a^2 \\, d^3 \\, R_1}{8 \\, da^3} + \\frac{a^2 \\, d^2 \\, R_1}{4 \\, da^2} - \\frac{(2i + 1) \\, a^2 \\, d^2 \\, R_1}{4 \\, da^2} - \\frac{(2i + 1) \\, a \\, d \\, R_1}{4 \\, da} + \\frac{(4i + 5) \\, i \\, d \\, R_1}{8 \\, da} \\right\\}$$\n\n$$+ i \\left\\{ \\frac{a^2 \\, d \\, R_1}{8 \\, da^2} - \\frac{(2i + 1) \\, a \\, d \\, R_1}{4 \\, da} + \\frac{(4i + 5) \\, i \\, R_1}{8} \\right\\}$$\n\n$$- \\frac{3}{4} \\left\\{ -\\frac{a^2 \\, d^2 \\, R_1}{2 \\, da^2} - \\frac{a \\, d \\, R_1}{2 \\, da} + i \\, a \\, d \\, R_1 \\right\\}$$\n\n$$+ \\frac{5i}{4} \\left\\{ -\\frac{a \\, d \\, R_1}{2 \\, da} + i \\, R_1 \\right\\} - \\frac{17}{16} \\frac{a \\, d \\, R_1}{da} + \\frac{13}{8} \\, R_1$$\n\n$$R_{22} = \\frac{1}{48} \\left\\{ (26i + 30i^2 + 8i^3) \\, R_1 - (9 + 27i + 12i^2) \\, a \\, d \\, R_1 \\right\\}$$\n\n$$+ (6i + 6) \\frac{a^2 \\, d^2 \\, R_1}{da^2} - \\frac{a^3 \\, d^3 \\, R_1}{da^3} \\right\\}$$\n\nChanging the sign of $i$, we get\n\\[ R_{21} = -\\frac{1}{48} \\left\\{ (26i - 30i^2 + 8i^3) R_1 + (9 - 27i + 12i^2) a \\frac{dR}{da} \\right. \\\\\n+ (6i - 6) \\frac{a^2 d^2 R_1}{da^2} + \\frac{a^3 d^3 R_1}{da^3} \\left\\} \\right. \\]\n\nwhich agrees with the expression given by Burckhardt for \\( M^{(0)} \\), Memoires de l'Institut, 1808, Second Semestre, p. 39.\n\nSimilarly\n\n\\[ 2R_{51} = \\frac{a^2 d^2 R_{19}}{4 da^2} + \\frac{(2i - 1)}{2} \\frac{a d R_{19}}{da} + \\frac{(4i^2 - 5i)}{4} R_{19} \\]\n\n\\[ 2R_{19} = \\frac{a^2 d^2 R_1}{4 da^2} + \\frac{(2i - 1)}{2} \\frac{a d R_1}{da} + \\frac{(4i^2 - 5i)}{4} R_1 \\]\n\nIf \\( i = 2 \\),\n\n\\[ 2R_{51} = \\frac{a^2 d^2 R_{19}}{4 da^2} + \\frac{3}{2} \\frac{a d R_{19}}{da} + \\frac{3}{2} R_{19} \\]\n\n\\[ 2R_{19} = \\frac{a^2 d^2 R_1}{4 da^2} + \\frac{3}{2} \\frac{a d R_1}{da} + \\frac{3}{2} R_1 \\]\n\n\\[ R_1 = -\\frac{b_{1,2}}{a_i} = -\\frac{3a^2}{4a_i^3} - \\frac{3.5}{2.4.6a_i^5} - \\frac{3.3.5.7}{2.4.4.6.8a_i^7} - \\&c. \\]\n\nIn the Lunar Theory, the higher terms may be neglected; and taking \\( R_1 = -\\frac{3a^2}{4a_i^3} \\), it is evident that \\( R_{19} \\) and \\( R_{51} \\) are each equal to zero. This theorem, however, cannot be extended to the other terms, and therefore in the Planetary Theory the coefficient corresponding to the argument \\( 2t - 2x + 2z \\) or \\( 2\\varpi - 2\\varpi' \\), in the development of \\( R \\), (which term is important as regards the secular inequalities,) does not vanish.\n\nIf the coefficients of the \\( n \\)th argument in the expressions for \\( \\frac{a}{r} \\) and \\( \\lambda \\) be called \\( r_n \\) and \\( \\lambda_n \\), the Table which has been used for the preceding multiplications may also be used (when the square of the disturbing force is neglected,) for the integration of the equations\n\n\\[ \\frac{d^2 r^2}{2 dt^2} - \\frac{\\mu}{r} + \\frac{\\mu}{a} + 2 \\int dR + r \\frac{dR}{dr} = 0 \\]\n\nand\n\n\\[ \\frac{d\\lambda}{dt} = \\frac{h}{r^2} - \\frac{1}{r^2} \\int \\frac{dR}{d\\lambda} dt \\]\n\n\\[ - \\frac{d^2 r^2}{dt^2} - \\frac{1}{r} + 2 \\int dR + r \\frac{dR}{dr} = \\]\n\nMDCCCXXXII.\n\\[ \\frac{r^3}{a^3} = 1 + 3e^2 \\left( 1 + \\frac{e^2}{8} \\right) - 3e \\left( 1 + \\frac{3}{8} e^2 \\right) \\cos x - \\frac{5}{8} e^4 \\cos 2x + \\frac{e^3}{8} \\cos 3x + \\frac{e^4}{8} \\cos 4x \\]\n\nThus\n\n\\[ \\left\\{ i(n-n_i) + 3n \\right\\}^2 \\left\\{ (1 + 3e^2)r_{22} - \\frac{3}{2} r_{10} - \\frac{r_1}{16} \\right\\} - r_{22} + \\frac{2(i(n+3n)a)}{i(n-n_i)+3n} R_{22} + \\frac{a^2 dR_{22}}{da} = 0 \\]\n\nIf \\( R \\) be considered as a function of \\( r', \\lambda' \\) and \\( s \\), we have\n\n\\[ \\frac{dR}{d\\gamma} = \\frac{rdR}{dr'} \\frac{dr'}{d\\gamma} + \\frac{dR}{d\\lambda'} \\frac{d\\lambda'}{d\\gamma} + \\frac{dR}{ds} \\frac{ds}{d\\gamma} \\]\n\n\\[ \\frac{dr'}{d\\gamma} = \\frac{\\gamma}{2} - \\frac{\\gamma}{2} (1 - 4e^2) \\cos 2y + \\gamma e \\cos (x - 2y) - \\gamma e \\cos (x + 2y) \\]\n\n\\[ - \\frac{3}{8} \\gamma e^2 \\cos (2x - 2y) + \\frac{13}{8} \\gamma e^2 \\cos (2x + 2y) \\]\n\n\\[ \\frac{d\\lambda'}{d\\gamma} = - \\gamma (1 - 4e^2) \\sin 2y + \\gamma e \\sin (x - 2y) - 3\\gamma e \\sin (x + 2y) \\]\n\n\\[ - \\frac{13}{2} \\gamma e^2 \\sin (2x + 2y) \\]\n\n\\[ \\frac{ds}{d\\gamma} = (1 - e^2) \\sin y + e \\sin (x - y) + e \\sin (x + y) + \\frac{e^2}{8} \\sin (2x - y) + \\frac{9}{8} e^2 \\sin (2x + y) \\]\n\nIf \\( R \\) be considered as a function of \\( r, \\lambda' \\) and \\( s \\),\n\n\\[ \\frac{dR}{d\\gamma} = \\frac{dR}{d\\lambda'} \\frac{d\\lambda'}{d\\gamma} + \\frac{dR}{ds} \\frac{ds}{d\\gamma} \\]\n\n\\[ \\frac{dR}{d\\lambda'} = - iR \\] as before, and the expression for \\( \\frac{dR}{ds} \\) (in this case) is given for the Lunar Theory, Phil. Trans. 1832, p. 6.\n\nThe multiplications required may be effected by means of the following Table. In the terms multiplied by \\( \\frac{d\\lambda'}{d\\gamma} \\), the coefficient of \\( R \\) is to be taken with a positive sign when its index is found in the upper line, and with a negative in the contrary case. In the terms multiplied by \\( \\frac{dR}{ds} \\), the coefficient of \\( \\frac{dR}{ds} \\) is to be taken with a negative sign when the index is found in the upper line, and with a positive when in the lower.\n|   | 62 | 65 | 66 | 77 | 78 | 146 | 149 | 150 | 161 | 162 |\n|---|----|----|----|----|----|-----|-----|-----|-----|-----|\n| 62 | ... | ... | ... | ... | ... | 146 | 150 | -149 | ... | ... |\n| 63 | ... | ... | ... | ... | ... | 147 | 151 | ... | ... | ... |\n| 64 | ... | ... | ... | ... | ... | 148 | 152 | ... | ... | ... |\n| 65 | ... | ... | ... | ... | ... | 149 | -146 | ... | ... | ... |\n| 66 | ... | ... | ... | ... | ... | 150 | 146 | ... | ... | ... |\n| 67 | ... | ... | ... | ... | ... | 151 | 147 | ... | ... | ... |\n| 68 | ... | ... | ... | ... | ... | 152 | 148 | ... | ... | ... |\n| 69 | ... | ... | ... | ... | ... | 153 | 147 | ... | ... | ... |\n| 70 | ... | ... | ... | ... | ... | 154 | 148 | ... | ... | ... |\n| 71 | ... | ... | ... | ... | ... | 155 | ... | ... | ... | ... |\n| 72 | ... | ... | ... | ... | ... | 156 | ... | ... | ... | ... |\n| 73 | ... | ... | ... | ... | ... | 157 | ... | ... | ... | ... |\n| 74 | ... | ... | ... | ... | ... | 158 | ... | ... | ... | ... |\n| 75 | ... | ... | ... | ... | ... | 159 | ... | ... | ... | ... |\n| 76 | ... | ... | ... | ... | ... | 160 | ... | ... | ... | ... |\n| 77 | ... | ... | ... | ... | ... | 149 | -146 | ... | ... | ... |\n| 78 | ... | ... | ... | ... | ... | 161 | 150 | 146 | ... | ... |\n\n|   | 62 | 65 | 66 | 77 | 78 | 146 | 149 | 150 | 161 | 162 |\n|---|----|----|----|----|----|-----|-----|-----|-----|-----|\n| 79 | ... | ... | ... | ... | ... | 163 | 151 | ... | ... | ... |\n| 80 | ... | ... | ... | ... | ... | 164 | 152 | ... | ... | ... |\n| 81 | ... | ... | ... | ... | ... | 165 | 153 | 147 | ... | ... |\n| 82 | ... | ... | ... | ... | ... | 166 | 154 | 148 | ... | ... |\n| 83 | ... | ... | ... | ... | ... | 167 | 155 | ... | ... | ... |\n| 84 | ... | ... | ... | ... | ... | 168 | 156 | ... | ... | ... |\n| 85 | ... | ... | ... | ... | ... | 169 | 157 | ... | ... | ... |\n| 86 | ... | ... | ... | ... | ... | 170 | 158 | ... | ... | ... |\n| 87 | ... | ... | ... | ... | ... | 171 | 159 | ... | ... | ... |\n| 88 | ... | ... | ... | ... | ... | 172 | 160 | ... | ... | ... |\n| 89 | ... | ... | ... | ... | ... | 173 | -156 | ... | ... | ... |\n| 90 | ... | ... | ... | ... | ... | 174 | ... | ... | ... | ... |\n| 91 | ... | ... | ... | ... | ... | 175 | ... | ... | ... | ... |\n| 92 | ... | ... | ... | ... | ... | 176 | ... | ... | ... | ... |\n| 93 | ... | ... | ... | ... | ... | 177 | ... | ... | ... | ... |\n| 94 | ... | ... | ... | ... | ... | 178 | ... | ... | ... | ... |",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107978.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 13694,
+    "total-output-tokens": 6942,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1785,
+        2
+      ],
+      [
+        1785,
+        3921,
+        3
+      ],
+      [
+        3921,
+        6057,
+        4
+      ],
+      [
+        6057,
+        8101,
+        5
+      ],
+      [
+        8101,
+        10076,
+        6
+      ],
+      [
+        10076,
+        12052,
+        7
+      ],
+      [
+        12052,
+        14511,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107978",
+    "title": "Researches in Physical Astronomy [Continued]",
+    "authors": "J. W. Lubbock",
+    "year": 1832,
+    "volume": "122",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/107978"
+  }
+}

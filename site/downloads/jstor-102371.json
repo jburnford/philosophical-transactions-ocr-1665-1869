@@ -1,0 +1,59 @@
+{
+  "id": "accc757cf50a65a50534e129eb65fbcb9b07a0a6",
+  "text": "VII. Part of a Letter, Dated June the 9th, 1697, from Herefordshire, giving a Relation of the Effects of a great Hail-storm there, June 1697.\n\nThis is to give you an Account of an Extraordinary Hail, which happened on Sunday last in this Country. A little of it fell in several places, but in the Parish of Westhide, not far from Hereford, so great a quantity fell, as destroyed all the Poultrey, Garden Stuff, Corn, Grass, and most of the Fruit Trees in the Parish, but kill'd no Men nor Cattle, but hurt several, and broke most of the Windows: Many of the Stones were measured above Nine Inches in Compass.\n\nVIII. A Note concerning an Extraordinary Hail in Monmouthshire, Extracted out of a Letter sent from Mr. Edward Lhwyd to Dr. Tancred Robinson, Fell. of Coll. of Phys. &c. R. S. Dat. Usk in Monmouthshire, June 15. 1697.\n\nWe had at Pont y Pool in Monmouthshire, on the 6th of June last, an Extraordinary Shower of Hail, which extended about a Mile, and lasted...",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102371.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 330,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        969,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102371",
+    "title": "Part of a Letter, Dated June the 9th, 1697. from Herefordshire, Giving a Relation of the Effects of a Great Hail-Storm There, June 1697",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102371"
+  }
+}

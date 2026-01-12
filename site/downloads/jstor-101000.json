@@ -1,0 +1,59 @@
+{
+  "id": "e6f7eb88ef0a7fcf9c20100481beafa7e46c02b7",
+  "text": "III. GUAGING PROMOTED, Being an Appendix to Stereomatical Propositions, formerly published by Rob. Anderson. Printed for Josh. Coniers 1669. in Octavo.\n\nIn this small Tract the Author reduceth his former Doctrine of Gauging to farther Practice, and illustrateth the same by Examples.\n\nAnd first he supposeth the Axis of a Pyramid, Cone, Sphere, Parabolical, and Hyperbolical Conoid, and of a Figure of different Bases, which he calls a Frustrum of a Prism, which if round, may resemble a Drinking Cup like an Horn, having its top squeezed into an Elliptick form, and the bottom remaining either a Circle, or be likewise compress'd; the said Axis to be divided into equal Segments, and Plains passing through those Segments erect to the Axis; to divide the above-mention'd Solids into divers Portions or Rings: and upon these Foundations, viz. That in the Parabolical Conoid the second differences of the Solid Contents of the whole Figures so divided are equal; but in the rest of these Solids their third Differences are equal: he hath fitted his Examples to the Axis cut by the said Plains at 3 Inches distance from each other, shewing first the nature of the differences in hand, and then some easy ways to attain a first, second, and third difference; and how out of them to compute the several Capacities sought by Additions of Differences plac'd in several Columns. Lastly, He gives directions for the more easy Calculation of the second Segments of the Sphere and Spheroid.\n\nBut we must not omit to take notice, that this Author, speaking pag. 23. of such Elliptick Solids, whose Bases are unlike, asserts, That every such Elliptick Solid is equal to the Frustrum or Truncus of an Hyperbolick Conoid, the Circular Bases whereof are equal to the Elliptick Bases of the Solid propos'd; and the Height of the one Frustrum equal to the Height of the other: the Invention and Demonstration whereof argues good Knowledge in Geometry.\n\nERRATA in N°. 46.\n\nP. 928. l. 1. r. punctum D in B, ib. l. 28. r. fortissime omnium ager.\n\nLONDON,\n\nPrinted by T. N. for John Martyn Printer to the Royal Society, and re to be sold at the Bell a little without Temple-Bar, 1669.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101000.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 602,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2163,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101000",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101000"
+  }
+}

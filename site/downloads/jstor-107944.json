@@ -1,0 +1,59 @@
+{
+  "id": "0dec7566ac02de918fac42560528eeca244f45b6",
+  "text": "Errata in the former Paper, Phil. Trans. 1830.\n\nThe following errata in my former paper have arisen from my having omitted to add the initial $32^\\circ$ in the reduction of the Centigrade scale to that of Fahrenheit.\n\nPage 266, line 24, for $360^\\circ$, read $392^\\circ$.\n\n— 266, — 26, — 360°, — 392°.\n— 266, — 27, — 360°, — 392°.\n— 269, — 3, — 360°, — 392°.\n— 269, — 5, — 360°, — 392°.\n— 269, — 23, — 360°, — 392°.\n— 269, — 25, — 360°, — 392°.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107944.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3458,
+    "total-output-tokens": 293,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        444,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107944",
+    "title": "Errata",
+    "authors": null,
+    "year": 1831,
+    "volume": "121",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107944"
+  }
+}

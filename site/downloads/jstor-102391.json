@@ -1,0 +1,59 @@
+{
+  "id": "971a037adfef8b32c7c2a6829296808cd9f7a7fd",
+  "text": "Archæologiae Graecæ, or the Antiquities of Greece, by Mr. Potter Fellow of Lincoln College. Octavo. Part I.\n\nArtis Logicæ Compendium. Duod. 2 Edit.\n\nGramatica Rationis, sive Institutiones Logicae. Duod. 2 Edit.\n\nADVERTISEMENT.\n\nWhereas the small Numbers of Royal-Paper Books usually Printed, have occasion'd great Complaints from several curious Men, and sometimes the great Numbers of such Books have made considerable Losses in the way of Trade: To remedy such Uncertainties for the future in all Impressions of Books, as shall be Printed at the Theater in Oxford, it is desired, that those Gentlemen, who are willing to have Books of the larger Paper, signifie their Names to some Person known to John Hall, Ware-house Keeper there.\n\nERRATA. In Numb. 228. and 230.\n\nPage 532. l. 18. read, There is not one House at Neira without Damage, several are quite demolished to the Ground by the Weight of the Dust and Ashes.\n\nPage col. l. 26. somewhat. 622. Forget. 603. Betus. PRO. 604. l. 20. Garland. 605. l. 6. dele care. l. 7. Spine add, by a narrow Interval, 608. Diagonera. l. 1. II. This is not accurately expressed: The Meaning is, That the Steps are so many, and of so large a Compass, being Semicircles, that they may contain about a Thousand upon them at the same time. 612. Giglio. l. 15. dele Light. l. 16. for glorious, read glowing. 616. l. 29. and Tophana. l. 20. l. Flav. Rusti. 617. for Oriftis read or Iris. l. 12. September 1671. l. 13. Arimath. 619. l. 1. and sometimes.\n\nLondon: Printed for Sam. Smith, and Benj. Wallford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1697.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102391.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 574,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1624,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102391",
+    "title": "Errata",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102391"
+  }
+}

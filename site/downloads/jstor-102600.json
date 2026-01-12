@@ -1,0 +1,59 @@
+{
+  "id": "05bd0b6715a1f1082f9e903a7c40d54fd511d6b4",
+  "text": "V. An Account of the Vertues of Faba Sti Ignatii, mentioned last Transaction.\n\nIndex virtutum quas experti sumus in fructu quodam amarissimo Philippinarum qui dicitur de Caba longa.\n\nAiunt quemdam venenarium venisse ad Patrem Societatis Jesu ut eum interficeret cum halitu masticando herbas infectas, sed contrarium accidit, nam Maleficus cecidit semi-mortuus; Ex illis vero qui concurrent dixit unus, (forte Venenarius,) Patri, habes tecum aliquod Preservativum, & Reflectione facta, respondit Pater, habeo hic fabam quandam amarissimam cujus virtutes me latent. O Pater, dixit Indus, hoc est contra Maleficos, & hic miser sine dubio jacet semivivus, quia volebat maleficare te; exploratoque ore illius invenereunt illic supradictas herbas notorie venenatas: Ex hinc cepit magnificare hic fructus, & paulatim explicat sequentes alias Virtutes.\n\n1. Habet Virtutes illius metalli quod Tumbaga dicitur, & compositi illius quod Ilingo dicitur, proficit enim contra spasmos ac ventos infectos, & contra quoddam genus spasmi quem nos dicimus soan.\n\n2. Proficit ut evomatur quodcumque venenum, si rasura ejus bibantur cum Aqua frigida, item contra morsus venenatorum, si simul applicentur morsui aliqua rasura ejus.\n\n3. Item si aliquod Membrum laboret spasmo proficit, si super partem infectam applicentur supradictae rasurae.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102600.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 471,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1320,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102600",
+    "title": "An Account of the Vertues of Faba Sti Ignatii, Mentioned Last Transaction",
+    "authors": null,
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102600"
+  }
+}

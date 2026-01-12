@@ -1,0 +1,79 @@
+{
+  "id": "8fb8b1abb9a86c05b53945b75b4449f3c27731ed",
+  "text": "XXXIII. Note on Archdeacon Pratt's Paper \"On the Effect of Local Attraction in the English Arc.\" By Captain A. R. Clarke, R.E. Communicated by Lieut.-Colonel James, R.E.\n\nReceived June 30,—Read November 18, 1858.\n\nThe distances between the parallels of latitude of the principal stations of the original English Arc, as used by Archdeacon Pratt in his paper \"On the Effects of Local Attraction*,\" are taken from the second and third volumes of the \"Account of the Trigonometrical Survey.\" The correct distances, with the exception of that for Blenheim, are given at page 732 of the last published volume† of the Ordnance Survey. They are as follows:\n\n| Arc                  | Feet          |\n|----------------------|---------------|\n| Dunnose and Greenwich| 313716.9      |\n| Greenwich and Blenheim| 132802.0     |\n| Blenheim and Arbury Hill| 139837.4    |\n| Arbury Hill and Clifton| 450225.2    |\n| Clifton and Burleigh Moor| 406596.9   |\n\nThe distance, Greenwich to Bleinheim, is not altered, as there is no new determination of that quantity. The quantities $\\lambda$ and $\\mu$, as used by Archdeacon Pratt, do not require alteration.\n\nThe following Table exhibits the values of $E$ and $A$ for the several arcs:\n\n| Arc | Values of $E$ | Values of $A$ |\n|-----|--------------|--------------|\n| 1.  | 0.18568      | 0.0985408    |\n| 2.  | 0.15446      | 0.0984849    |\n| 3.  | 0.13546      | 0.0987075    |\n| 4.  | 0.09455      | 0.0986928    |\n| 5.  | 0.03572      | 0.0986262    |\n\n* Published in the Philosophical Transactions for 1856, Part I. p. 31.\n† \"Account of the Observations and Calculations of the Principal Triangulation, and of the Figure, Dimensions, and Mean Specific Gravity of the Earth as deduced therefrom.\" Published by Order of the Master-General and Board of Ordnance. London, 1858.\nFrom this, taking the arcs two and two, we obtain the following results:\n\n| Arcs compared | Ellipticity deduced |\n|---------------|---------------------|\n| 1st and 2nd   | +0·01818            |\n| 1st and 3rd   | -0·03363            |\n| 1st and 4th   | -0·01690            |\n| 1st and 5th   | -0·00577            |\n| 2nd and 3rd   | -0·11869            |\n| 2nd and 4th   | -0·03516            |\n| 2nd and 5th   | -0·01207            |\n| 3rd and 4th   | +0·00364            |\n| 3rd and 5th   | +0·00825            |\n| 4th and 5th   | +0·01148            |\n\nMean value = -0·018067 = \\(-\\frac{1}{55·350}\\).\n\nThe value obtained by Archdeacon Pratt is \\(-\\frac{1}{47·6846}\\).\n\nTaking for the elements of the mean meridian of the earth the values adopted by Archdeacon Pratt, viz.—\n\n\\[a=20923713 \\text{ feet} \\quad \\varepsilon=\\frac{1}{300·8},\\]\n\nwe obtain for the different arcs the following values of \\(A\\):\n\n- 1st arc, value of \\(A=0·00986403\\)\n- 2nd arc, value of \\(A=0·00986301\\)\n- 3rd arc, value of \\(A=0·00986238\\)\n- 4th arc, value of \\(A=0·00986104\\)\n- 5th arc, value of \\(A=0·00985911\\)\n\nIf we take the differences between these and the values before deduced, we have\n\n- 1st arc, defect of \\(A\\) below the mean = 0·0000995\n- 2nd arc, defect of \\(A\\) below the mean = 0·0001452\n- 3rd arc, excess of \\(A\\) above the mean = 0·0000837\n- 4th arc, excess of \\(A\\) above the mean = 0·0000824\n- 5th arc, excess of \\(A\\) above the mean = 0·0000351.\n\nThese quantities, multiplied by the lengths of the several arcs, give the following:\n\n- 1st arc: amplitude is in defect 3·121\n- 2nd arc: amplitude is in defect 1·928\n- 3rd arc: amplitude is in excess 1·170\n- 4th arc: amplitude is in excess 3·710\n- 5th arc: amplitude is in excess 1·427\n\nwhich are considerably smaller than the values obtained by Archdeacon Pratt from the data of the original work.\nThe diagram at page 35 of the paper referred to, will, by the substitution of the quantities just obtained, be changed to the following:\n\nFrom the 'Account of the Principal Triangulation,' page 712, it appears, however, that the most probable deflections are—\n\nAt Dunnose . . . . 1°117 South.\nAt Greenwich . . . . 1°864 North.\nAt Arbury . . . . 2°226 North.\nAt Clifton . . . . 2°447 South.\nAt Burleigh Moor . . . 3°589 South.\n\nThese values result from the comparison of all the geodetical and astronomical determinations in Great Britain and Ireland. When the English arc is used in the determination of the figure of the earth, in combination with the measurements in other countries, the following system of quantities is obtained (pages 764, 765):\n\nAt Dunnose . . . . 1°767 South.\nAt Greenwich . . . . 1°270 North.\nAt Arbury . . . . 1°692 North.\nAt Clifton . . . . 2°864 South.\nAt Burleigh Moor . . . 3°885 South.\n\nFrom this it will be seen that the \"rough approximation\" of Archdeacon Pratt (at page 46 of his paper), namely, the determination of the local attraction at Burleigh Moor from the form of the masses of hill in the neighbourhood, is exceedingly near the truth. He finds 3°660 South, which is intermediate to the quantities quoted above, viz. 3°589 and 3°885; but the values assigned at page 47 for the deflections at the other stations are not correctly inferred.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108680.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 1829,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1808,
+        2
+      ],
+      [
+        1808,
+        3651,
+        3
+      ],
+      [
+        3651,
+        5031,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108680",
+    "title": "Note on Archdeacon Pratt's Paper \"On the Effect of Local Attraction in the English Arc\"",
+    "authors": "A. R. Clarke",
+    "year": 1858,
+    "volume": "148",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/108680"
+  }
+}

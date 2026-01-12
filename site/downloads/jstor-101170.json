@@ -1,0 +1,59 @@
+{
+  "id": "727816471d5ebc0f2524a850733494445a73eee4",
+  "text": "III The ROYAL ALMANACK, &c. by N. Stevenson, one of his Majesties Gunners. London, for 1675. in 12°.\n\nThis full and very ingeniously contrived Diary, contains first the true Places of the Sun, Moon, and other Planets together with their Rising and Setting. Secondly, the High-water at London-bridge, with Rules to serve other places after the New-Theory of Tides, and Directions of that knowing and public-minded Gentleman Sir Jonas Moor, Kt. Thirdly, the Eclipses; as also the Tables of the Suns Rising, Moons Southing, Moons Rising and Setting. Fourthly, the Moons and the other Planets Appulses to the Fixt Stars for the Meridian of London, procur'd from the Learn'd and Industrious Astronomer, Mr. John Flamsted, here deliver'd in Latin (as the like have been done by the same for some former years, and were then inserted in these Tracts,) because it may also be of use to Strangers abroad; who are desired to impart their Observations of this nature to Mr. Hook, Professor of Geometry at Gresham-Colledge, or to one of the Secretary's of the Royal Society in London.\n\nAdvertisement.\n\nHaving already given an account both of Antoniile Grandhis institutio Philosophiae secundum principia R. des Cartes, and of Mr. Kersey's Body of Algebra in English: of the one, in Numb. 80; of the other, in Numb. 90. and 91, of these Tracts: These are to give notice, that the former is now reprinted with many and very considerable additions, for Mr. Martyn at the Bell in St. Paul's Churchyard; the other, finish't, in all its four Books; much commended by competent Judges; and to be had at the same Shop.\n\nErrata in Numb. 107.\n\nP. 151. l. 9. r. Salt as ruben. p. 154. l. 23. r. conjure with an. p. 166. l. antepen. r. Urine for Wine. p. 168. l. 20. r. Numb. 106. for Numb. 120.\n\nErrata in this Numb. 108.\n\nPag. 174. l. 5 r. or their. p. 178. l. 12. r. amter phantasme.\n\nLONDON.\n\nPrinted for John Martyn, Printer to the Royal Society. 1674.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101170.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 645,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1933,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101170",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101170"
+  }
+}

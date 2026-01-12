@@ -1,0 +1,59 @@
+{
+  "id": "aefd4476116decf0d25f847491405c0cb3e644cf",
+  "text": "V. Crystallorum quarundam rarissimarum nuper detectarum descriptio, ex literis Viri Cl. Johannis Jacobi Scheuczer, ad Dominum Hans Sloane, Bar. Reg. Soc. & Coll. Med. Lond. Præsidem.\n\nIn summis Grimfulæ jugis, paucis abhinc annis detecta est, nunc exhausta, in saxo medio, crystallorum vena, quibus nec majores, nec puriores, vidit fortè orbis. Maxima earum pars, ad 60 circiter centenarios, in manibus est D. Frisching pastoris Hajleani, venales omnes, sed pretio, quod ex sequentibus patebit, haud vulgari, quod fortè, praeter puritatem, excusat rara magnitudo. Præcipuarum en, quam nuper ab ipso expetii possesse feriem!\n\nNum. 1. Duorum vel 2½ centeniorum, longa 2 ped. 9½ dig. Peripheria 3 ped. 7½ dig. limpidissima, hexagona. Pretium librae 1½ Ludov. aur.\n\nN. 2. Pondus 136 lb, longit. 2 ped. 3 dig. Peripheria 2 ped. 9 dig. Purpuras quasdam habet ad marginem, purissima cæterum. Pretium librae 1 Ludov. aur.\n\nN. 3. Pondus 135½ lb, longit. 2 ped. 4 dig. Peripheria 3 ped. 2 dig. limpidissima, excepto apice; pretium librae 4 Floren.\n\nN. 4. Pondus 96 lb, longit. 2 ped. Peripheria 2 ped. 9 dig. pretium idem.\n\nIta descendendo pergit ad 10 librarum pondus, qualitatis, proportionis, pretii varii.\n\nVI. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103490.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 524,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1207,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103490",
+    "title": "Crystallorum Quarundam Rarissimarum Nuper Detectarum Descriptio, Ex Literis Viri Cl. Johannis Jacobi Scheuczer, ad Dominum Hans Sloane, Bar. Reg. Soc. & Coll. Med. Lond. Praesidem",
+    "authors": "Johannis Jacobi Scheuczer",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103490"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "7f0bd7b4dc84d026280ac4c32ce2026fe04fbdac",
+  "text": "XIII. An Abstract of the Bills of Mortality in Bridge-Town in Barbados for the Years 1737 ——— 1744. communicated by the Rev. Mr. John Clark.\n\nRead May 26. Bridge-Town, Barbadoes.\n\n| An. Dom. | Born | Males | Females | Baptiz'd | Buried |\n|----------|------|-------|---------|----------|--------|\n| 1737     | 52   | 26    | 26      | 77       | 208    |\n| 1738     | 81   | 41    | 40      | 106      | 250    |\n| 1739     | 91   | 54    | 37      | 119      | 244    |\n| 1740     | 91   | 49    | 42      | 123      | 242    |\n| 1741     | 68   | 33    | 35      | 95       | 261    |\n| 1742     | 87   | 42    | 45      | 130      | 296    |\n| 1743     | 92   | 43    | 49      | 126      | 252    |\n| 1744     | 89   | 46    | 43      | 120      | 166    |\n\n651 334 317 896 1919\n\nXIV. The Elements of a Short Hand, by Samuel Jeake Esq;.\n\nRead May 26. A Succession of new Short-Hands published without the Reason of their Construction, having put me on forming a Method founded on Nature, the only Guide to Perfection, I settled an Alphabet in the following Manner.\n\nHaving",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104555.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 522,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1075,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104555",
+    "title": "An Abstract of the Bills of Mortality in Bridge-Town in Barbados for the Years 1737-1744. Communicated by the Rev. Mr. John Clark",
+    "authors": "John Clark",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104555"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "a6b115b7da627a3f8226bcde35a2a838bd90b8c8",
+  "text": "VIII. On Periodical Laws discoverable in the mean effects of the larger Magnetic Disturbances.—No. II. By Colonel Edward Sabine, R.A., Treas. and V.P.R.S. . . . . . . . . . . . . . . . . . . . . . . page 103\n\nIX. On the Lunar Atmospheric Tide at Singapore. By Captain C. M. Elliot, Madras Engineers, F.R.S. . . . . . . . . . . . . . . . . . . 125\n\nX. Discovery that the Veins of the Bat's Wing (which are furnished with valves) are endowed with rhythmical contractility, and that the onward flow of blood is accelerated by each contraction. By T. Wharton Jones, F.R.S., Fullerian Professor of Physiology in the Royal Institution of Great Britain, Ophthalmic Surgeon to University College Hospital, Corresponding Member of the Society of Biology of Paris, &c. &c. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131\n\nXI. Experimental Researches in Electricity.—Twenty-ninth Series. By Michael Faraday, Esq., D.C.L., F.R.S., Fullerian Prof. Chem. Royal Institution, Foreign Associate of the Acad. Sciences, Paris, Ord. Boruss. Pour le Mérite, Eq., Memb. Royal and Imp. Acadd. of Sciences, Petersburgh, Florence, Copenhagen, Berlin, Göttingen, Modena, Stockholm, Munich, Bruxelles, Vienna, Bologna, &c. &c. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 137\n\nXII. On the Symbolic Forms derived from the Conception of the Translation of a Directed Magnitude. By the Rev. M. O'Brien, M.A., late Fellow of Caius College, Cambridge, and Professor of Natural Philosophy and Astronomy in King's College, London . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161\n\nERRATA.—PART II. 1851.\n\nIn equations 11, 12, 13, 15, 16, 17, 18, 19, 23, 24, for $H_1 + H_2$ read $H_1 - H_2$.\n\nIn equation 19, for $\\frac{1}{12}$ μ read $\\frac{1}{24}$ μ.\n\nIn page 620, omit the third, fourth and fifth lines.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108529.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 696,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1885,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108529",
+    "title": "Errata",
+    "authors": null,
+    "year": 1852,
+    "volume": "142",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108529"
+  }
+}

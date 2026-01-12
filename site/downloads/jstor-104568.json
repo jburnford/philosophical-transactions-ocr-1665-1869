@@ -1,0 +1,59 @@
+{
+  "id": "b4cc326cb0f013a85ca0576518fd9a8673499e7e",
+  "text": "ERRATA:\n\nNo. 487. in the Contents, Art. VII. and p. 320,\nTit. VII. The Rev. Charles Lyttleton LL.D.\nF. R. S. and for Archdeacon of Exeter, read\nDean of Exeter.\n\nPrinted for C. Davis, over-against Gray's Inn Gate\nin Holbourn, Printer to the Royal Society,\nM.DCC.XLIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104568.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 157,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        266,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104568",
+    "title": "Errata",
+    "authors": null,
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104568"
+  }
+}

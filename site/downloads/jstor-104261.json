@@ -1,0 +1,99 @@
+{
+  "id": "1efe60240198d77a3eafb7b8ed29e7b8d962f840",
+  "text": "Vide Tab. I. Fig. A. B. C.\n\nFigurarum, sub lente Musschenbroeckiana a me delineatarum, explicatio.\n\nFig. A. Flos antice visus, ut filamentum adpareat.\na. Filamentum.\nb. Antheræ, antice visæ.\n\nFig. B. Flos a tergo pictus, ut pistillum conspicatur.\nc. Antheræ, postice visæ, ut sulci in conspectum prodeant.\nd. Germen.\ne. Stylus cum stigmate.\n\nFig. C. Semen.\nf. Semen fere maturum.\ng. Stylus marcescens, supra semen reflexus.\n\nXII. Observatio Anthelii Vitembergæ spectati; per J. Fried. Weidlerum Mathes. Prof. ibidem Primar. & R. S. Lond. Soc. communicata, in Epistola ad C. Mortimerum, R. S. Secr.\n\nDie 18 Januarii A. 1738. quidam ex auditoribus meis, cum ante meridiem in campo prope Vitembergam agros dimetiretur, forte fortuna Anthelium, sive Solis imaginem e regione Solis veri versus septentrionem positam conspexit. Nimirum mane hora 8 cœlum undique serenum, mox circa horam 9, e septentrionali plaga, nubes exoriuntur, ibique\nsensim & paullatim condensantur, temporis progres-\nsu hæ in meridiem ulterius se se explicabant. Hora\n9. min. 30. cum nubes obscuræ fere verticem atti-\ngissent, apparuit in illis Sol Soli oppositus, pari ma-\ngnitudine, rotundus, admodum splendidus, ut oculi\nejus lucem ferre non possent, corona sive halone\novali cinctus. Diameter coronæ major, Solis circiter\ndiametros quinque, minor tres capiebat: Ipsa corona\nrubro flavoque coloribus exornata, parte rubra in\nAnthelium versa: Tractus nubium, reliquus intra\ncoronam flavescebat, hinc inde etiam rubebat. In\nAnthelio decussatim se se secabant duæ iridis por-\ntiones, sub angulo 60 fere graduum, utrimque in\nortum & occasum flexæ, & ad coronæ ovalis peri-\npheriam continuatæ: Quales A. 1661. D. 6. Sept.\nHevelius quoque cum Anthelio vidit, quemadmodum\nin tractatum de Mercurio sub Sole p. 176. narrat.\nDurabat spectaculum per horæ quadrantem; cum\nenim nubes in meridiem longius extenderentur, &\nSolem verum occultarent, Anthelius evanuit. Ningit\npostea parum hora undecima: Mane lenis ventus ex\nmedia inter meridiem & occasum plaga spirabat.\nEn figuram ab ipso spectatore mihi exhibitam, in\nTAB. II. Fig. 1.\n\nXIII. Oc.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104261.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 10236,
+    "total-output-tokens": 937,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        933,
+        5
+      ],
+      [
+        933,
+        2101,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104261",
+    "title": "Observatio Anthelii Vitembergae Spectati; per J. Fried. Weidlerum Mathes. Prof. Ibidem Primar. & R. S. Lond. Soc. Communicata, in Epistola ad C. Mortimerum, R. S. Secr.",
+    "authors": "C. Mortimerum, J. Fried Weidlerum",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/104261"
+  }
+}

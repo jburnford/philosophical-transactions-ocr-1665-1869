@@ -1,0 +1,59 @@
+{
+  "id": "cb1c5bb7e07c44697d318f1c12c45781ce590376",
+  "text": "The CONTENTS.\n\nthe communicating the Electric Virtue to Non-electrics; by Wm. Watson, F.R.S. p. 388.\n\nX. Abstract of a Letter from Mr. W. Arderon, F.R.S. to Mr. Henry Baker, F.R.S. concerning the perpendicular Ascent of Eels. p. 395.\n\nXI. A Dissertation on those fossil figured Stones called Belemnites; by Mr. E. Mendez da Costa. p. 397.\n\nXII. A Letter from R. Brocklesby, M.D. and F.R.S. to the President, concerning the Indian Poison, sent over from M. Condamine, Member of the Acad. of Sciences at Paris. p. 408.\n\nXIII. A Letter from Mr. R. Dunthorne, to the Rev. Mr. Mason, concerning the Moon's Motion. p. 412.\n\nXIV. Extract of a Letter from Mr. Leonard Euler, Member of the Imp. Society at Petersburgh, to the Rev. Mr. Wetstein, Chaplain to His R. H. the Prince of Wales, concerning the Discoveries of the Russians on the North-East Coast of Asia. p. 421.\n\nXV. Abstract of a Letter from Mr. W. Arderon, to Mr. H. Baker, concerning some Obs. made on the Bansticle or Prickleback, and also on Fish in general. 424.\n\nXVI. A Supposition how the white Matter is produced, which floats about in the Air in Autumn; in a Letter from Mr. Arderon to Mr. Baker. p. 428.\n\nXVII. Some Remarks on the precious Stone called the Turquoise; by C. Mortimer, Sec. R.S. &c. p. 429.\n\nXVIII. A Description of a curious Echinites; by Mr. Henry Baker, F.R.S. p. 432.\n\nERRATA.\n\nN°. 481. p. 299. l. 9. for $\\frac{7}{10}$ read $\\frac{4}{10}$. for 20 r. 2.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104827.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 536,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1434,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104827",
+    "title": "Errata",
+    "authors": null,
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104827"
+  }
+}

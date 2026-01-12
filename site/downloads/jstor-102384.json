@@ -1,0 +1,59 @@
+{
+  "id": "0a5beca31350f80e3befacc303535515b0ef6df0",
+  "text": "IV. Extract of a Letter from Mr. Scarburgh, dated Acomack, July 14. 1694. Giving a Relation of the Effects of a violent Storm of the 19th of October, on the Rivers of that Country. Communicated by the Honourable Sir Robert Southwell, F. R. S.\n\nUPON the 19th Day of October last happened a most violent Storm, which stopped the Course of ancient Channels, and made some where never were any: So that betwixt the Bounds of Virginia and New-Castle (in Pennsylvania) on the Sea-bord side, are many Navigable Rivers for Sloops and small Vessels.\n\nV. An Account of the Damage that hapned in the Isle of Portland the Third of February, 1696. Communicated by the Honourable Sir Robert Southwell, F. R. S.\n\nTHE Great Peer is quite demolished and filled up with Rubbish, and the Rocks that lay about 40 Yards off in the Sea at the Peer-head, are risen above Water; so that there is no hopes of making good that Peer again. And the ways leading to that Peer from the Quarry, are turned upside down, and",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102384.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 317,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        991,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102384",
+    "title": "Extract of a Letter from Mr. Scarburgh, Dated Acomack, July 14. 1694. Giving a Relation of the Effects of a Uiolent Storm of the 19th of October, on the Rivers of That Country. Communicated by the Honourable Sir Robert Southwell, F. R. S.",
+    "authors": "Robert Southwell, Mr. Scarburgh",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102384"
+  }
+}

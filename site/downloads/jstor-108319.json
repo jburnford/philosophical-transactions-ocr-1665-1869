@@ -1,0 +1,59 @@
+{
+  "id": "93a8f2201be08977fd021accaf655986b74a20ed",
+  "text": "Contributions to Terrestrial Magnetism.—No. VIII. Containing a Magnetic Survey of the Southern Hemisphere between the Latitudes of —20° and —70°, and Longitudes of 0° and 125° East, by Lieut. Moore, Royal Navy, and Lieut. Clerk, Royal Artillery, in Her Majesty's hired Bark Pagoda.\n\nPage\n\nIntroduction, page 337 to 346.\n337. Origin of the Survey; preliminary arrangements.\n338. Magnetic Instructions.\n342. Proceedings during the Survey.\n343. Additional observations furnished by Lieuts. Smith and Dayman, Royal Navy, and by the Antarctic Expedition under Sir J. C. Ross.\n343. Value of the total force at the Cape of Good Hope and at Hobarton, as primary base stations of the observations included in this number of the Contributions.\n\n346. Lieut. Clerk's Report on the observations of the Survey.\n347. Mr. Archibald Smith's Third Memorandum on the corrections to be applied to magnetic observations made on board ship; containing formulæ applicable where no supposition is made as to the distribution of the iron in the vessel, except that there is no iron very near the instrument by which the observations are made.\n355. Lieut. Clerk's Report resumed:—Corrections for the observations of the Declination.\n356. Corrections for the observations of the Inclination.\n359. Corrections for the observations of the Force.\n360. Index Corrections.\n362. Elements of calculation of the observations of the Force.\n367. Elements of reduction employed for the observations of Lieut. Smith and Dayman, and of the Antarctic Expedition.\n370. Observations in the Pagoda of the Declination.\n382. Observations in the Pagoda of the Inclination.\n404. Observations in the Pagoda of the Force.\n422. General Table of the Declinations determined in the Pagoda.\n423. General Table of the Inclinations determined in the Pagoda.\n424. General Table of the Force determined in the Pagoda.\n425. Lieut. Smith's determinations of the Inclination and Force.\n426. Lieut. Dayman's determinations of the Inclination and Force.\n427. Declination, Inclination and Force, determined by the Antarctic Expedition.\n\nMeteorological Observations in the Pagoda, by Lieut. Clerk, Royal Artillery.\n433. Preliminary notices.\n435. Results; and their comparison with those of Dr. Erman.\n437. Table containing a daily abstract of the Meteorological observations.\n439. Table exhibiting weekly means.\n440. The general meteorological results arranged according to latitude.\n\nERRATUM.\n\nPage 259. Heading of Table VII. line 3, for from 261° to 268° 30' read from 231° to 268° 30''.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108319.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 716,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2524,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108319",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1846,
+    "volume": "136",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108319"
+  }
+}

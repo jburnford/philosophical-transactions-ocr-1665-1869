@@ -1,0 +1,179 @@
+{
+  "id": "c29ef6875506565e91eea72cf12990606df92b73",
+  "text": "A Letter from the Reverend Dr Wallis, Professor of Geometry in the University of Oxford, and Fellow of the Royal Society, London, to Mr. Richard Norris, Concerning the Collection of Secants; and the true Division of the Meridians in the Sea-Chart.\n\nAn old enquiry, (about the sum or Aggregate of Secants,) having been of late moved anew; I have thought fit to trace it from its Original: with such solution as seems proper to it: Beginning first with the general Preparation; and then applying it to the Particular Case.\n\nGeneral Preparation.\n\n1. Because Curve lines are not so easily managed as Streight lines: the Ancients, when they were to consider of Figures terminated (at least on one side) by a Curve line (Convex or Concave,) as $AFKE$, Fig. 1.2. did oft make use of some such expedient as this following, (but diversly varied as occasion required.) Namely,\n\n2. By Parallel Streight lines, as $AF$, $BG$, $CH$, &c, (at equal or unequal distances as there was occasion,) they parted it into so many segments as they thought fit; (or supposed it to be so parted.)\n\n3. These segments were so many wanting one, as was the number of those Parallels.\n\n4. To each of these Parallels, wanting one, they fitted Parallelograms, of such breadths as were the Intervalls (equal or unequal) between each of them (respectively) and the next following. Which formed an Adscribed Figure made up of those Parallelograms.\n\nI i i 2 5. And\n5. And, if they began with the Greatest (and therefore neglected the least,) such Figure was Circumscribed (as Fig. 1.) and therefore Bigger than the Curvilinear proposed.\n\n6. If with the Least (neglecting the greatest;) the Figure was Inscribed (as Fig. 2.) and therefore Less than that proposed.\n\n7. But, as the number of Segments was increased, (and thereby their breadths diminished;) the difference of the Circumscribed from the Inscribed (and therefore of either from that proposed,) did continually decrease, so as at last to be less than any assigned.\n\n8. On which they grounded their Method of exhaustions.\n\n9. In cases wherein the Breadth of the Parallelograms, or Intervalls of the Parallels, is not to be considered, but their length only; (or, which is much the same, where the Intervalls are all the same, and each repeated = 1:) Archimedes (instead of Inscribed and Circumscribed Figures) used to say, All except the Greatest, and All except the Least. As Prop. 11. Lin. Spiral.\n\nParticular Case.\n\n10. Though it be well known, that, in the Terrestrial Globe, all the Meridians meet at the Pole, (as EP, EP, Fig. 3.) whereby the Parallels to the Equator, as they be nearer to the Pole, do continually decrease:\n\n11. And hereby a degree of Longitude in such Parallels, is less than a degree of Longitude in the Equator, or a degree of Latitude:\n\n12. And that, in such proportion, as is the Co-Sine of Latitude (which is the semidiameter of such Parallel) to the Radius of the Globe, or of the Equator:\n\n13. Yet hath it been thought fit (for some reasons) to represent these Meridians, in the Sea Chart, by Parallel straight lines; as EP, EP.\n\n14. Where-\n14. Whereby, each Parallel to the Equator (as \\( LA \\)) was represented in the Sea-Chart, (as \\( la \\),) as equal to the Equator \\( EE \\): and a degree of Longitude therein, as large as in the Equator.\n\n15. By this means, each degree of Longitude in such Parallels, was increased, beyond its just proportion, at such rate as the Equator (or its Radius) is greater than such Parallel, (or the Radius thereof,) Longitude\n\n16. But, in the Old Sea-Charts, the degrees of Latitude were yet represented (as they are in themselves) equal to each other; and, to those of the Equator.\n\n17. Hereby, amongst many other Inconveniences, (as Mr. Edward Wright observes, in his Correction of Errors in Navigation, first published in the year 1599,) the representation of places remote from the Equator, was so distorted in those Charts, as that (for instance) an Island in the Latitude of 60 degrees, (where the Radius of the Parallel is but half so great as that of the Equator,) would have its Length (from East to West) in comparison of its Breadth (from North to South) represented in a double proportion of what indeed it is.\n\n18. For rectifying this in some measure (and of some other inconveniences,) Mr. Wright adviseth; that (the Meridians remaining Parallel, as before) the degrees of Latitude, remote from the Equator, should at each Parallel, be protracted in like proportion with those of Longitude.\n\n19. That is; As the Co-Sine of Latitude (which is the Semidiameter of the Parallel) to the Radius of the Globe, (which is that of the Equator:) so should be a degree of Latitude (which is everywhere equal to a degree of Longitude in the Equator,) to such degree of Latitude so protracted (at such distance from the Equator;) and so to be represented in the Chart.\n\n20. That is; every where, in such proportion as is\nthe respective Secant (for such Latitude) to the Radius.\nFor, As the Co-Sine, to the Radius; so is the Radius,\nto the Secant (of the same Arch or Angle;) as Fig. 4.\n∴ R :: R. ∫.\n\n21. So that (by this means) the position of each Par-\nallel in the Chart, should be at such distance from the\nEquator, compared with so many Equinoctial Degrees\nor Minutes, (as are those of Latitude,) as are all the\nSecants (taken at equal distances in the Arch) to so\nmany times the Radius.\n\n22. Which is equivalent (as Mr. Wright there notes)\nto a Projection of the Spherical surface (supposing the\nEye at the Center) on the concave surface of a Cylinder\nerected at right Angles to the Plain of the Equator.\n\n23. And the division of Meridians, represented by the sur-\nface of a Cylinder erected (on the Arch of Latitude) at\nright Angles to the Plain of the Meridian (or a portion\nthereof.) The Altitude of such Projection (or portion\nof such Cylindric surface) being, (at each point of\nsuch Circular base) equal to the secant (of Latitude)\nanswering to such point. As Fig. 5.\n\n24. This Projection (or portion of the Cylindric\nsurface) if expanded into a Plain, will be the same with\na Plain Figure, who's base is equal to a Quadrantal\nArch extended (or a portion thereof) on which (as or-\ndinates) are erected Perpendiculars equal to the Secants,\nanswering to the respective points of the Arch so ex-\ntended: The left of which (answering to the Equi-\nnoctial) is equal to the Radius; and the rest continu-\nally increasing, till (at the Pole) it be Infinite. As at\nFig. 6.\n\n25. So that, as ER/L. (a Figure of Secants erected\nat right Angles on EL, the Arch of Latitude extend-\ned,) to ER/R/L, (a rectangle on the same base, who's\naltitude ER is equal to the Radius;) so is EL (an\nArch of the Equator equal to that of Latitude,) to the\ndistance of such Parallel, (in the Chart) from the Equator.\n\n26. For finding this distance, answering to each degree and Minute of Latitude; Mr. Wright (as the most obvious way) Adds all the Secants (as they are found calculated in the Trigonometrical Canon) from the beginning, to the degree or Minute of Latitude proposed.\n\n27. The sum of all which except the Greatest, (answering to the Figure Inscribed) is too Little: The sum of all except the Left, (answering to the Circumscribed,) is too Great, (which is that he follows:) And it would be nearer to the truth than either, if (omitting all these) we take the intermediates; for Min. $\\frac{1}{2}$, $\\frac{1}{3}$, $\\frac{2}{3}$, $\\frac{3}{2}$, &c. or (the doubles of these) Min. 1, 3, 5, 7, &c. Which yet (because on the Convex side of the Curve) would be somewhat too Little.\n\n28. But any of these ways are exact enough for the use intended, as creating no sensible difference in the Chart.\n\n29. If we would be more exact; Mr. Oughtred directs (and so had Mr. Wright done before him) to divide the Arch into parts yet smaller than Minutes, and calculate Secants fitting thereunto.\n\n30. Since the Arithmetick of Infinites introduced, and (in pursuance thereof) the doctrine of Infinite Series (for such cases as would not, without them, come to a determinate proportion;) Methods have been found for squaring some such Figures; and (particularly) the Exterior Hyperbola (in a way of continual approach) by the help of an Infinite series. As, in the Philosophical Transactions, Numb. 38, (for the Month of August 1668,) And my Book Demotu, Cap 5. prop. 31.\n\n31. In Imitation whereof, it hath been desired (I find) by some, that a like Quadrature for this Figure of Secants (by an Infinite series fitted thereunto) might be found.\n\n32. In\n32. In order to which; Put we, for the Radius of a Circle, $R$; the right Sine of an Arch or Angle, $S$; the Versed Sine, $V$; the Co-Sine (or Sine of the Complement) $z = R - V = \\sqrt{R^2 - S^2}$; the Secant, $f$; the Tangent, $T$. Fig. 4.\n\n33. Then is, $z \\cdot R :: R \\cdot f$. That is, $z \\cdot R^2 (S = \\frac{R}{2})$; the Secant.\n\n34. And $z \\cdot S :: R \\cdot T$. That is, $z \\cdot S \\cdot R (T = \\frac{R}{2})$; the Tangent.\n\n35. Now, if we suppose the Radius $CP$, Fig. 7, divided into equal parts, (and each of them = $\\frac{1}{n} R$;) and, on these, to be erected the Co-Sines of Latitude $LA$:\n\n36. Then are the Sines of Latitude in Arithmetick Progression.\n\n37. And the Secants answering thereunto, $Lf = \\frac{R}{2}$.\n\n38. But these Secants, (answering to right Sines in Arithmetical progression,) are not those that stand at equal distances on the Quadrantal Arch extended, Fig. 6.\n\n39. But, standing at unequal distances (on the same extended Arch;) Namely, on those points thereof, who's right Sines (whilst it was a Curve) are in Arithmetical Progression. As Fig. 8.\n\n40. To find therefore the magnitude of $RELf$, Fig. 6. Which is the same with that of Fig. 8. (supposing $EL$ of the same length in both; however the number of Secants therein may be unequal:) we are to consider the Secants, though at unequal distances, Fig. 8. to be the same with those at equal distances in Fig. 7. answering to Sines in Arithmetical Progression.\n\n41. Now these Intervalls (or portions of the base) in Fig. 8. are the same with the intercepted Arches (or portions of the Arch) in Fig. 7. For this Base is but that Arch extended.\n\n42. And these Arches (in parts infinitely small) are to be reputed equivalent to the portions of their respective Tangents intercepted between the same ordinates. As in Fig. 7. 9.\n\n43. That\n43. That is, Equivalent to the portions of the Tangents of Latitude.\n\n44. And these portions of Tangents are, to the Equal intervals in the base, as the Tangent (of Latitude) to its Sine.\n\n45. To find therefore the true Magnitude of the Parallelograms (or segments of the Figure;) we must either protract the equal segments of the base Fig. 7. (in such proportion as is the respective Tangent to the Sine) to make them equal to those of Fig. 8.\n\n46. Or else (which is equivalent) retaining the equal intervals of Fig. 7. protract the Secants in the same proportion. (For, either way, the Intercepted Rectangles or Parallelograms will be equally increased.) As \\(LM\\). Fig. 9.\n\n47. Namely; As the Sine (of Latitude) to its Tangent; so is the Secant, to a Fourth; which is to stand (on the Radius equally divided) instead of that Secant.\n\n\\[S \\cdot \\frac{SR}{2} (\\because \\Sigma R) :: \\frac{R_2}{2} \\cdot \\frac{R_3}{2} = LM, \\text{ Fig. 9.}\\]\n\n48. Which therefore are as the Ordinates in (what I call Arith. Infn. Prop. 104.) Reciproca Secundanorum: supposing \\(\\Sigma^2\\) to be squares in the order of Secundanes.\n\n\\[R^2 - S^2 \\cdot R^3 \\left( \\frac{R_2 + S_2}{R} + \\frac{S_4}{R_3} + \\cdots \\right)\\]\n\n49. This (because of \\(\\Sigma^2 = R^2 - S^2\\); and the Sines \\(S\\), in Arithmetical Progression) is reduced (by division) into this Infinite Series\n\n\\[R + \\frac{S_2}{R} + \\frac{S_4}{R_3} + \\frac{S_6}{R_5}, \\&c.\\]\n\n50. That is, (putting \\(R = 1\\))\n\n\\[1 + S^2 + S^4 + S^6, \\&c.\\]\n\n51. Then (according to the Arithmetick of Infinites)\nwe are to interpret $S$, successively, by $1S$, $2S$, $3S$, &c., till we come to $S$, the greatest. Which therefore represents the number of All.\n\n52. And because the first member doth represent a Series of Equals; the second, of Secundans; the third, of Quartans, &c. Therefore the first member is to be multiplied, by $S$; the second, by $\\frac{1}{2}S$; the third, by $\\frac{1}{3}S$; the fourth, by $\\frac{1}{4}S$; &c.\n\n53. Which makes the Aggregate,\n\n$$S + \\frac{1}{2}S^2 + \\frac{1}{3}S^3 + \\frac{1}{4}S^4 + \\frac{1}{5}S^5, \\text{ &c.} = ECLM, \\text{ Fig. 9.}$$\n\n54. This (because $S$ is always less than $R = r$) may be so far continued, till some power of $S$ become so small as that it (and all which follow it) may be safely neglected.\n\n55. Now (to fit this to the Sea-Chart, according to Mr. Wright's design:) Having the proposed Parallel (of Latitude) given; we are to find (by the Trigonometrical Canon) the Sine of such Latitude; and take, equal to it, $CL = S$. And, by this, find the magnitude of $ECLM$, Fig. 9; that is, of $REL$, Fig. 8. that is, of $REL$, Fig. 6. And then, As $RRLE$ (or so many times the Radius,) to $REL$ (the Aggregate of all the Secants;) so must be a like Arch of the Equator (equal to the Latitude proposed,) to the distance of such Parallel, (representing the Latitude in the Chart) from the Equator. Which is the thing required.\n\n56. The same may be obtained, in like manner, by taking the Versed Sines in Arithmetical progression. For if the right Sines (as here) beginning at the Equator, be in Arithmetical progression, as $1$, $2$, $3$, &c. Then will the Versed Sines, beginning at the Pole, (as being their complements to the Radius) be so also.\n\nThe Collection of Tangents.\n\n57. The same may be applyed in like manner, (though that be not the present business,) to the Aggregate of Tangents, (answering to the Arch divided into equal parts.)\n\n58. For,\n58. For, those answering to the Radius so divided, are \\( \\frac{SR}{S} \\); (taking S in Arithmetical progression.)\n\n59. And then, inlarging the Base (as in Fig. 8.) or the Tangent (as in Fig. 9.) in the proportion of the Tangent to the Sine.\n\n\\[\nS \\cdot \\frac{SR}{S} (\\because \\Sigma R) :: \\frac{SR}{S} \\cdot \\frac{SR_2}{R_2 - S_2}.\n\\]\n\n60. We have (by division) this Series,\n\n\\[\nR^2 S^2 \\cdot SR^2 \\cdot (S, + \\frac{S_3}{R_2}, \\frac{S_5}{R_4}, + \\frac{S_7}{R_6}, + \\frac{S_9}{R_8} &c.\n\\]\n\n61. That is (putting \\( R = 1 \\))\n\n\\[\nS + S^3 + S^5 + S^7 + S^9, &c.\n\\]\n\n62. Which (multiplying the respective members by \\( \\frac{1}{2} S, \\frac{1}{4} S, \\frac{1}{8} S, \\frac{1}{16} S, &c \\)) becomes\n\n\\[\n\\frac{1}{2} S^2 + \\frac{1}{4} S^4 + \\frac{1}{8} S^6 + \\frac{1}{16} S^8 + \\frac{1}{32} S^{16}, &c.\n\\]\n\nWhich is the Aggregate of Tangents to the Arch whose right Sine is S.\n\n63. And this method may be a pattern for the like process in other cases of like nature.\n\nAn Explanation of the Figures of Several Antiquities, communicated by a Member of the Royal Society.\n\nFIG. 10, 11, 12, 13, 14, 15. Res Turpiculae, or Priapi, worn by Roman Children against Fascination.\n\n16. An Egyptian brass Serapis, or Teraphim.\n\n17. A brass Stilus Scriptorius.\n\nK k k 2 18, 19. Old",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102178.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 14,
+    "total-input-tokens": 21308,
+    "total-output-tokens": 4810,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        1428,
+        6
+      ],
+      [
+        1428,
+        3095,
+        7
+      ],
+      [
+        3095,
+        4910,
+        8
+      ],
+      [
+        4910,
+        6725,
+        9
+      ],
+      [
+        6725,
+        8518,
+        10
+      ],
+      [
+        8518,
+        10342,
+        11
+      ],
+      [
+        10342,
+        11875,
+        12
+      ],
+      [
+        11875,
+        13774,
+        13
+      ],
+      [
+        13774,
+        15032,
+        14
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102178",
+    "title": "A Letter from the Reverend Dr Wallis, Professor of Geometry in the University of Oxford, and Fellow of the Royal Society, London, to Mr. Richard Norris, concerning the Collection of Secants; And the True Division of the Meridians in the Sea-Chart",
+    "authors": "Dr Wallis",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 14,
+    "jstor_url": "https://www.jstor.org/stable/102178"
+  }
+}

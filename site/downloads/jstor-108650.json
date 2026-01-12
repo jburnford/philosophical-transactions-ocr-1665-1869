@@ -1,0 +1,129 @@
+{
+  "id": "5fbb9e58663eb755fe6f9cc9637b1c4a4f2f410a",
+  "text": "III. A Memoir on the Automorphic Linear Transformation of a Bipartite Quadric Function. By Arthur Cayley, Esq., F.R.S.\n\nReceived December 10, 1857,—Read January 14, 1858.\n\nThe question of the automorphic linear transformation of the function $x^2 + y^2 + z^2$, that is the transformation by linear substitutions, of this function into a function $x'^2 + y'^2 + z'^2$ of the same form, is in effect solved by some formulæ of Euler's for the transformation of coordinates, and it was by these formulæ that I was led to the solution in the case of the sum of $n$ squares, given in my paper \"Sur quelques propriétés des déterminants gauches*.\" A solution grounded upon an a-priori investigation and for the case of any quadric function of $n$ variables, was first obtained by M. Hermite in the memoir \"Remarques sur une Mémoire de M. Cayley relatif aux déterminants gauches†.\" This solution is in my Memoir \"Sur la transformation d'une function quadratique en elle-même par des substitutions linéaires‡,\" presented under a somewhat different form involving the notation of matrices. I have since found that there is a like transformation of a bipartite quadric function, that is a lineo-linear function of two distinct sets, each of the same number of variables, and the development of the transformation is the subject of the present memoir.\n\n1. For convenience, the number of variables is in the analytical formulæ taken to be 3, but it will be at once obvious that the formulæ apply to any number of variables whatever. Consider the bipartite quadric\n\n$$\\begin{pmatrix} a & b & c \\\\ a' & b' & c' \\\\ a'' & b'' & c'' \\end{pmatrix} (x, y, z)$$\n\nwhich stands for\n\n$$(ax + by + cz)x + (a'x + b'y + c'z)y + (a''x + b''y + c''z)z,$$\n\nand in which $(x, y, z)$ are said to be the nearer variables, and $(x, y, z)$ the further variables of the bipartite.\n\n* Crelle, t. xxxii. pp. 119–123 (1846).\n† Cambridge and Dublin Mathematical Journal, t. ix. pp. 63–67 (1854).\n‡ Crelle, t. l. pp. 288–299 (1855).\n2. It is clear that we have\n\n\\[\n\\begin{pmatrix}\na & b & c \\\\\na' & b' & c' \\\\\na'' & b'' & c''\n\\end{pmatrix}\n(x, y, z) = \\begin{pmatrix}\na & a' & a'' \\\\\nb & b' & b'' \\\\\nc & c' & c''\n\\end{pmatrix}\n(x, y, z)\n\\]\n\nand the new form on the right-hand side of the equation may also be written\n\n\\[\n(\\text{tr.} \\begin{pmatrix}\na & b & c \\\\\na' & b' & c' \\\\\na'' & b'' & c''\n\\end{pmatrix})(x, y, z),\n\\]\n\nthat is, the two sets of variables may be interchanged provided that the matrix is transposed.\n\n3. Each set of variables may be linearly transformed: suppose that the substitutions are\n\n\\[\n(x, y, z) = \\begin{pmatrix}\nl & m & n \\\\\nl' & m' & n' \\\\\nl'' & m'' & n''\n\\end{pmatrix}(x_p, y_p, z_p)\n\\]\n\nand\n\n\\[\n(x, y, z) = \\begin{pmatrix}\n1 & l' & l'' \\\\\nm & m' & m'' \\\\\nn & n' & n''\n\\end{pmatrix}(x_p, y_p, z_p)\n\\]\n\nThen first substituting for \\((x, y, z)\\) their values in terms of \\((x_p, y_p, z_p)\\), the bipartite becomes\n\n\\[\n\\begin{pmatrix}\na & b & c \\\\\na' & b' & c' \\\\\na'' & b'' & c''\n\\end{pmatrix}\n\\begin{pmatrix}\nl & m & n \\\\\nl' & m' & n' \\\\\nl'' & m'' & n''\n\\end{pmatrix}\n(x_p, y_p, z_p)(x, y, z)\n\\]\n\nRepresent for a moment this expression by\n\n\\[\n(A, B, C, (x_p, y_p, z_p))(x, y, z),\n\\]\n\nthen substituting for \\((x, y, z)\\) their values in terms of \\((x_p, y_p, z_p)\\), it is easy to see that the expression becomes\n\n\\[\n\\begin{pmatrix}\n1 & m & n \\\\\nl' & m' & n' \\\\\nl'' & m'' & n''\n\\end{pmatrix}\n\\begin{pmatrix}\nA & B & C \\\\\nA' & B' & C' \\\\\nA'' & B'' & C''\n\\end{pmatrix}\n(x_p, y_p, z_p)(x, y, z),\n\\]\n\nand re-establishing the value of the auxiliary matrix, we obtained, finally, as the result\nof the substitutions,\n\n\\[\n\\begin{pmatrix}\na, b, c \\\\\na', b', c' \\\\\na'', b'', c''\n\\end{pmatrix}\n(x, y, z) = \\begin{pmatrix}\n1, m, n \\\\\nl', m', n' \\\\\nl'', m'', n''\n\\end{pmatrix}\n\\begin{pmatrix}\na, b, c \\\\\nl, m, n \\\\\na', b', c'\n\\end{pmatrix}\n(x_p, y_p, z_p)\n\\]\n\nthat is, the matrix of the transformed bipartite is obtained by compounding in order first or furthest the transposed matrix of substitution of the further variables, next the matrix of the bipartite, and last or nearest the matrix of substitution of the nearer variables.\n\n4. Suppose now that it is required to find the automorphic linear transformation of the bipartite\n\n\\[\n\\begin{pmatrix}\na, b, c \\\\\na', b', c' \\\\\na'', b'', c''\n\\end{pmatrix}\n(x, y, z)\n\\]\n\nor as it will henceforward for shortness be written,\n\n\\[\n(\\Omega)(x, y, z)\n\\]\n\nThis may be effected by a method precisely similar to that employed by M. Hermite for an ordinary quadric. For this purpose write\n\n\\[\nx + x_i = 2\\xi, \\quad y + y_i = 2\\eta, \\quad z + z_i = 2\\zeta,\n\\]\n\\[\nx + x_i = 2\\Xi, \\quad y + y_i = 2H, \\quad z + z_i = 2Z,\n\\]\n\nor as these equations may be represented,\n\n\\[\n(x + x_i, y + y_i, z + z_i) = 2(\\xi, \\eta, \\zeta),\n\\]\n\\[\n(x + x_i, y + y_i, z + z_i) = 2(\\Xi, H, Z),\n\\]\n\nwe ought to have\n\n\\[\n(\\Omega)(2\\xi - x, 2\\eta - y, 2\\zeta - z)(2\\Xi - x, 2H - y, 2Z - z) = (\\Omega)(x, y, z)(x, y, z).\n\\]\n\n5. The left-hand side is\n\n\\[\n4(\\Omega)(\\xi, \\eta, \\zeta)(\\Xi, H, Z) - 2(\\Omega)(x, y, z)(\\Xi, H, Z) - 2(\\Omega)(\\xi, \\eta, \\zeta)(x, y, z) + (\\Omega)(x, y, z)(x, y, z),\n\\]\n\nand the equation becomes\n\n\\[\n2(\\Omega)(\\xi, \\eta, \\zeta)(\\Xi, H, Z) - (\\Omega)(x, y, z)(\\Xi, H, Z) - (\\Omega)(\\xi, \\eta, \\zeta)(x, y, z) = 0,\n\\]\n\nor as it may be written,\n\n\\[\n(\\Omega)(\\xi, \\eta, \\zeta)(\\Xi, H, Z) - (\\Omega)(x, y, z)(\\Xi, H, Z) = 0;\n\\]\n\\[\n+ (\\Omega)(\\xi, \\eta, \\zeta)(\\Xi, H, Z) - (\\Omega)(\\xi, \\eta, \\zeta)(x, y, z) = 0;\n\\]\n\nor again,\n\n\\[\n(\\Omega)(\\xi - x, \\eta - y, \\zeta - z)(\\Xi, H, Z) = 0,\n\\]\n\\[\n+ (\\Omega)(\\xi, \\eta, \\zeta)(\\Xi - x, H - y, Z - z) = 0,\n\\]\n\nor what is the same thing,\n\n\\[\n(\\Omega)(\\xi - x, \\eta - y, \\zeta - z)(\\Xi, H, Z) = 0,\n\\]\n\\[\n+ (\\text{tr.}\\Omega)(\\Xi - x, H - y, Z - z)(\\xi, \\eta, \\zeta) = 0,\n\\]\nand it is easy to see that the equation will be satisfied by writing\n\n\\[ (\\Omega \\xi - x, \\eta - y, \\zeta - z) = (Y \\xi, \\eta, \\zeta), \\]\n\n\\[ (\\text{tr.} \\Omega \\Xi - x, H - y, Z - z) = -(\\text{tr.} Y \\Xi, H, Z), \\]\n\nwhere \\( Y \\) is any arbitrary matrix. In fact we have then\n\n\\[ (\\Omega \\xi - x, \\eta - y, \\zeta - z) = (\\text{tr.} \\Omega \\Xi - x, H - y, Z - z) = -(\\text{tr.} Y \\Xi, H, Z), \\]\n\nand the sum of the two terms consequently vanishes.\n\n6. The equation\n\n\\[ (\\Omega \\xi - x, \\eta - y, \\zeta - z) = (Y \\xi, \\eta, \\zeta) \\]\n\ngives\n\n\\[ (\\Omega - Y \\xi, \\eta, \\zeta) = (\\Omega x, y, z), \\]\n\nand we then have\n\n\\[ (\\Omega + Y \\xi, \\eta, \\zeta) = (\\Omega x, y, z). \\]\n\nIn fact the two equations give\n\n\\[ (2\\Omega \\xi, \\eta, \\zeta) = (\\Omega x + x, y + y, z + z), \\]\n\nor what is the same thing,\n\n\\[ 2(\\xi, \\eta, \\zeta) = (x + x, y + y, z + z), \\]\n\nwhich is the equation assumed as the definition of \\((\\xi, \\eta, \\zeta)\\); and conversely, this equation, combined with either of the two equations, gives the other of them.\n\n7. We have consequently\n\n\\[ (x, y, z) = (\\Omega^{-1}(\\Omega - Y) \\xi, \\eta, \\zeta), \\]\n\n\\[ (\\xi, \\eta, \\zeta) = ((\\Omega + Y)^{-1}\\Omega x, y, z), \\]\n\nand thence\n\n\\[ (x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega x, y, z). \\]\n\n8. But in like manner the equation\n\n\\[ (\\text{tr.} \\Omega \\Xi - x, H - y, Z - z) = -(\\text{tr.} Y \\Xi, H, Z) \\]\n\ngives\n\n\\[ (\\text{tr.} \\Omega + Y \\Xi, H, Z) = (\\text{tr.} \\Omega x, y, z), \\]\n\nand we then obtain\n\n\\[ (\\text{tr.} \\Omega - Y \\Xi, H, Z) = (\\text{tr.} \\Omega x, y, z). \\]\n\n9. In fact these equations give\n\n\\[ (\\text{tr.} 2\\Omega \\Xi, H, Z) = (\\text{tr.} \\Omega x + x, y + y, z + z), \\]\n\nor\n\n\\[ 2(\\Xi, H, Z) = (x + x, y + y, z + z); \\]\n\nand conversely, this equation, combined with either of the two equations, gives the other of them. We have then\n\n\\[ (x, y, z) = ((\\text{tr.} \\Omega)^{-1}(\\text{tr.} \\Omega + Y \\Xi, H, Z), \\]\n\n\\[ (\\Xi, H, Z) = ((\\text{tr.} \\Omega - Y)^{-1} \\text{tr.} \\Omega x, y, z), \\]\nand thence\n\n\\[(x, y, z) = ((\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega + Y)(\\text{tr. } \\Omega - Y)^{-1}\\text{tr. } \\Omega \\langle x, y, z \\rangle).\\]\n\n10. Hence, recapitulating, we have the following theorem for the automorphic linear transformation of the bipartite\n\n\\[(\\Omega \\langle x, y, z \\rangle \\langle x, y, z \\rangle),\\]\n\nviz. \\(Y\\) being an arbitrary matrix, if\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\langle x, y, z \\rangle),\\]\n\n\\[(x, y, z) = ((\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega + Y)(\\text{tr. } \\Omega - Y)^{-1}\\text{tr. } \\Omega \\langle x, y, z \\rangle),\\]\n\nthen\n\n\\[(\\Omega \\langle x, y, z \\rangle \\langle x, y, z \\rangle) = (\\Omega \\langle x, y, z \\rangle \\langle x, y, z \\rangle),\\]\n\nwhich is the theorem in question.\n\n11. I have thought it worth while to preserve the foregoing investigation, but the most simple demonstration is the verification \\textit{à posteriori} by the actual substitution of the transformed values of \\((x, y, z), (x, y, z)\\). To effect this, recollecting that in general\n\n\\[\\text{tr. } (\\Lambda^{-1}) = (\\text{tr. } A)^{-1} \\text{ and } \\text{tr. } ABCD = \\text{tr. } D. \\text{ tr. } C. \\text{ tr. } B. \\text{ tr. } A,\\]\n\nthe transposed matrix of substitution for the further variables is\n\n\\[\\Omega(\\Omega - Y)^{-1}(\\Omega + Y)\\Omega^{-1};\\]\n\nand compounding this with the matrix \\(\\Omega\\) of the bipartite and the matrix\n\n\\[\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega\\]\n\nof substitution for the nearer variables, the theorem will be verified if the result is equal to the matrix \\(\\Omega\\) of the bipartite, that is, we ought to have\n\n\\[\\Omega(\\Omega - Y)^{-1}(\\Omega + Y)\\Omega^{-1}\\Omega(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega = \\Omega,\\]\n\nor what is the same thing,\n\n\\[\\Omega(\\Omega - Y)^{-1}(\\Omega + Y)\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega = \\Omega;\\]\n\nthis is successively reducible to\n\n\\[(\\Omega + Y)\\Omega^{-1}(\\Omega - Y) = (\\Omega - Y)\\Omega^{-1}(\\Omega + Y)\\]\n\n\\[\\Omega^{-1}(\\Omega + Y)\\Omega^{-1}(\\Omega - Y) = \\Omega^{-1}(\\Omega - Y)\\Omega^{-1}(\\Omega + Y)\\]\n\n\\[(1 + \\Omega^{-1}Y)(1 - \\Omega^{-1}Y) = (1 - \\Omega^{-1}Y)(1 + \\Omega^{-1}Y),\\]\n\nwhich is a mere identity, and the theorem is thus shown to be true.\n\n12. It is to be observed that in the general theorem the transformations or matrices of substitution for the two sets of variables respectively are not identical, but it may be required that this shall be so. Consider first the case where the matrix \\(\\Omega\\) is symmetrical, the necessary condition is that the matrix \\(Y\\) shall be skew symmetrical; in fact we have then\n\n\\[\\text{tr. } \\Omega = \\Omega, \\text{ tr. } Y = -Y,\\]\n\nand the transformations become\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\langle x, y, z \\rangle),\\]\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\langle x, y, z \\rangle),\\]\nwhich are identical. We may in this case suppose that the two sets of variables become equal, and we have then the theorem for the automorphic linear transformation of the ordinary quadric\n\n\\[(\\Omega \\chi(x, y, z))^2,\\]\n\nviz. \\(Y\\) being a skew symmetrical matrix, if\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\chi(x_p, y_p, z_i),\\]\n\nthen\n\n\\[(\\Omega \\chi(x, y, z))^2 = (\\Omega \\chi(x_p, y_p, z_i))^2.\\]\n\n13. Next, if the matrix \\(\\Omega\\) be skew symmetrical, the condition is that the matrix \\(Y\\) shall be symmetrical; we have in this case \\(\\text{tr. } \\Omega = -\\Omega\\), \\(\\text{tr. } Y = Y\\), and the four factors in the matrix of substitution for \\((x, y, z)\\) are respectively \\(-\\Omega^{-1}, -(\\Omega - Y), -(\\Omega + Y)^{-1}\\) and \\(-\\Omega\\), and such matrix of substitution becomes therefore, as before, identical with that for \\((x, y, z)\\); we have therefore the following theorem for the automorphic linear transformation of a skew symmetrical bipartite\n\n\\[(\\Omega \\chi(x, y, z) \\chi(x, y, z),\\]\n\nwhen the transformations for the two sets of variables are identical, viz. \\(Y\\) being any symmetrical matrix, if\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\chi(x_p, y_p, z_i),\\]\n\n\\[(x, y, z) = (\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega \\chi(x_p, y_p, z_i),\\]\n\nthen\n\n\\[(\\Omega \\chi(x, y, z) \\chi(x, y, z) = (\\Omega \\chi(x_p, y_p, z_i) \\chi(x_p, y_p, z_i).\\]\n\n14. Lastly, in the general case where the matrix \\(\\Omega\\) is anything whatever, the condition is\n\n\\[\\Omega^{-1}Y = -(\\text{tr. } \\Omega)^{-1} \\text{tr. } Y\\]\n\nfor assuming this equation, then first\n\n\\[\\Omega^{-1}(\\Omega - Y) = (\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega + Y),\\]\n\nand in like manner\n\n\\[\\Omega^{-1}(\\Omega + Y) = (\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega - Y).\\]\n\nBut we have\n\n\\[1 = (\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega - Y)(\\text{tr. } \\Omega - Y)^{-1} \\text{tr. } \\Omega,\\]\n\nand therefore, secondly,\n\n\\[(\\Omega + Y)^{-1}\\Omega = (\\text{tr. } \\Omega - Y)^{-1} \\text{tr. } \\Omega;\\]\n\nand thence\n\n\\[\\Omega^{-1}(\\Omega - Y)(\\Omega + Y)^{-1}\\Omega = (\\text{tr. } \\Omega)^{-1}(\\text{tr. } \\Omega + Y)(\\text{tr. } \\Omega - Y)^{-1} \\text{tr. } \\Omega,\\]\n\nor the two transformations are identical.\n\n15. To further develope this result, let \\(\\Omega^{-1}\\) be expressed as the sum of a symmetrical matrix \\(Q_o\\) and a skew symmetrical matrix \\(Q_p\\), and let \\(Y\\) be expressed in like manner as the sum of a symmetrical matrix \\(Y_o\\) and a skew symmetrical matrix \\(Y_p\\). We have then\n\\[\n\\Omega^{-1} = Q_0 + Q_\\rho,\n\\]\n\\[\n(\\text{tr. } \\Omega)^{-1} = \\text{tr. } (\\Omega^{-1}) = Q_0 - Q_\\rho,\n\\]\n\\[\nY = Y_0 + Y_\\rho,\n\\]\n\\[\n\\text{tr. } Y = Y_0 - Y_\\rho,\n\\]\n\nand the condition, \\( \\Omega^{-1}Y = -(\\text{tr. } \\Omega)^{-1}\\text{tr. } Y \\), becomes\n\n\\[\n(Q_0 + Q_\\rho)(Y_0 + Y_\\rho) = -(Q_0 - Q_\\rho)(Y_0 - Y_\\rho),\n\\]\n\nthat is,\n\n\\[\nQ_0 Y_0 + Q_\\rho Y_\\rho = 0,\n\\]\n\nand we have\n\n\\[\nY_0 = -Q_0^{-1}Q_\\rho Y_\\rho,\n\\]\n\nor as we may write it,\n\n\\[\nY_0 = -\\left(\\frac{1}{2}(\\Omega^{-1} + \\text{tr. } \\Omega^{-1})\\right)^{-1}\\left(\\frac{1}{2}(\\Omega^{-1} - \\text{tr. } \\Omega^{-1})\\right)Y_\\rho,\n\\]\n\nand thence\n\n\\[\nY = -\\left(\\frac{1}{2}(\\Omega^{-1} + \\text{tr. } \\Omega^{-1})\\right)^{-1}\\left(\\frac{1}{2}(\\Omega^{-1} - \\text{tr. } \\Omega^{-1})\\right)Y_\\rho + Y_\\rho,\n\\]\n\nwhere \\( Y_\\rho \\) is an arbitrary skew symmetrical matrix.\n\n16. This includes the before-mentioned special cases; first, if \\( \\Omega \\) is symmetrical, then we have simply \\( Y = Y_\\rho \\), an arbitrary skew symmetrical matrix, which is right. Next, if \\( \\Omega \\) is skew symmetrical, then \\( Y = -0^{-1}\\Omega^{-1}Y_\\rho + Y_\\rho \\), which can only be finite for \\( Y_\\rho = 0 \\), that is, we have \\( Y = -0^{-1}\\Omega^{-1}0 \\), and (the first part of \\( Y \\) being always symmetrical) this represents an arbitrary symmetrical matrix. The mode in which this happens will be best seen by an example. Suppose\n\n\\[\n\\Omega^{-1} = \\begin{pmatrix}\nA & H + \\nu \\\\\nH - \\nu & B\n\\end{pmatrix}, \\quad \\text{tr. } \\Omega^{-1} = \\begin{pmatrix}\nA & H - \\nu \\\\\nH + \\nu & B\n\\end{pmatrix}\n\\]\n\nand write\n\n\\[\nY_\\rho = \\begin{pmatrix}\n0 & \\theta \\\\\n-\\theta & 0\n\\end{pmatrix}\n\\]\n\nthen we have\n\n\\[\nY = -\\begin{pmatrix}\nA & H \\\\\nH & B\n\\end{pmatrix}^{-1}\\begin{pmatrix}\n0 & \\nu \\\\\n-\\nu & 0\n\\end{pmatrix}\\begin{pmatrix}\n0 & \\theta \\\\\n-\\theta & 0\n\\end{pmatrix} + \\begin{pmatrix}\n0 & \\theta \\\\\n-\\theta & 0\n\\end{pmatrix}\n\\]\n\n\\[\n= -\\frac{\\nu \\theta}{AB - H^2}\\begin{pmatrix}\n-B & H \\\\\nH & -A\n\\end{pmatrix} + \\begin{pmatrix}\n0 & \\theta \\\\\n-\\theta & 0\n\\end{pmatrix}\n\\]\n\n\\[\n= \\begin{pmatrix}\n\\frac{\\nu B \\theta}{AB - H^2} & \\frac{-\\nu H \\theta}{AB - H^2} + \\theta \\\\\n\\frac{-\\nu H \\theta}{AB - H^2} - \\theta & \\frac{\\nu A \\theta}{AB - H^2}\n\\end{pmatrix} + \\begin{pmatrix}\n0 & \\theta \\\\\n-\\theta & 0\n\\end{pmatrix}\n\\]\n\nWhen \\( \\Omega \\) is skew symmetrical, \\( A, B, H \\) vanish; but since their ratios remain arbitrary, we may write \\( zA, zB, zH \\) for \\( A, B, H \\), and assume ultimately \\( z = 0 \\). Writing \\( z\\theta \\) in the place of \\( \\theta \\), and then putting \\( z = 0 \\), the matrix becomes\nwhich, inasmuch as $A : \\theta$, $B : \\theta$, and $C : \\theta$ remain arbitrary, represents, as it should do, an arbitrary symmetrical matrix.\n\n17. Hence, finally, we have the following Theorem for the automorphic linear transformation of the bipartite quadric,\n\n$$\\Omega(x, y, z) = \\Omega(x_p, y_p, z_p),$$\n\nwhen the two transformations are identical, viz. if $\\Upsilon_i$ be a skew symmetrical matrix, and if\n\n$$\\Upsilon = -\\left(\\frac{1}{2}(\\Omega^{-1} + \\text{tr.} \\Omega^{-1})\\right)\\left(\\frac{1}{2}(\\Omega^{-1} - \\text{tr.} \\Omega^{-1})\\right)\\Upsilon_i + \\Upsilon_i;$$\n\nthen if\n\n$$(x, y, z) = (\\Omega^{-1}(\\Omega - \\Upsilon)(\\Omega + \\Upsilon)^{-1}\\Omega(x_p, y_p, z_p),$$\n\n$$(x, y, z) = (\\Omega^{-1}(\\Omega - \\Upsilon)(\\Upsilon + \\Upsilon)^{-1}\\Omega(x_p, y_p, z_p);$$\n\nWe have\n\n$$(\\Omega(x, y, z) = \\Omega(x_p, y_p, z_p);$$\n\nand in particular,\n\nIf $\\Omega$ is a symmetrical matrix, then $\\Upsilon$ is an arbitrary skew symmetrical matrix;\n\nIf $\\Omega$ is a skew symmetrical matrix, then $\\Upsilon$ is an arbitrary symmetrical matrix.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108650.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 14434,
+    "total-output-tokens": 6396,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1991,
+        2
+      ],
+      [
+        1991,
+        3573,
+        3
+      ],
+      [
+        3573,
+        5720,
+        4
+      ],
+      [
+        5720,
+        7703,
+        5
+      ],
+      [
+        7703,
+        10557,
+        6
+      ],
+      [
+        10557,
+        13085,
+        7
+      ],
+      [
+        13085,
+        15635,
+        8
+      ],
+      [
+        15635,
+        16679,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108650",
+    "title": "A Memoir on the Automorphic Linear Transformation of a Bipartite Quadric Function",
+    "authors": "Arthur Cayley",
+    "year": 1858,
+    "volume": "148",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/108650"
+  }
+}

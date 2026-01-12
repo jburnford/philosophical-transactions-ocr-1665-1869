@@ -1,0 +1,109 @@
+{
+  "id": "0262a3562faf25cace44c9309a0b9768a21a4c34",
+  "text": "IV. Supplementary Researches on the Partition of Numbers.\n\nBy Arthur Cayley, Esq., F.R.S.\n\nReceived March 19,—Read June 18, 1857.\n\nThe general formula given at the conclusion of my memoir, \"Researches on the Partition of Numbers*,\" is somewhat different from the corresponding formula of Professor Sylvester†, and leads more directly to the actual expression for the number of partitions, in the form made use of in my memoir; to complete my former researches, I propose to explain the mode of obtaining from the formula the expression for the number of partitions.\n\nThe formula referred to is as follows, viz. if \\( \\frac{\\varphi x}{f x} \\) be a rational fraction, the denominator of which is made up of factors (the same or different) of the form \\( 1-x^m \\), and if \\( a \\) is a divisor of one or more of the indices \\( m \\), and \\( k \\) is the number of indices of which it is a divisor, then\n\n\\[\n\\left\\{ \\frac{\\varphi x}{f x} \\right\\}_{[1-x^a]} = \\cdots + \\frac{1}{\\Pi(s-1)} (\\partial_x)^{s-1} S \\chi \\varphi \\cdots\n\\]\n\nwhere\n\n\\[\n\\chi \\varphi = \\text{coeff. } \\frac{1}{t} \\text{ in } t^{s-1} \\frac{g(t)}{f(t)}\n\\]\n\nin which formula \\([1-x^a]\\) denotes the irreducible factor of \\(1-x^a\\), that is, the factor which equated to zero gives the prime roots, and \\( g \\) is a root of the equation \\([1-x^a]=0\\); the summation of course extends to all the roots of the equation. The index \\( s \\) extends from \\( s=1 \\) to \\( s=k \\); and we have then the portion of the fraction depending on the denominator \\([1-x^a]\\). In the partition of numbers, we have \\( \\varphi x=1 \\), and the formula becomes therefore\n\n\\[\n\\left\\{ \\frac{1}{f x} \\right\\}_{[1-x^a]} = \\cdots + \\frac{1}{\\Pi(s-1)} (\\partial_x)^{s-1} S \\chi \\varphi \\cdots\n\\]\n\nwhere\n\n\\[\n\\chi \\varphi = \\text{coeff. } \\frac{1}{t} \\text{ in } t^{s-1} \\frac{g(t)}{f(t)}\n\\]\n\n* Philosophical Transactions, t. cxlvii. p. 127 (1856).\n† Professor Sylvester's researches are published in the Quarterly Mathematical Journal, t. i. p. 141; there are some numerical errors in his value of \\( P(1,2,3,4,5,6) q \\).\nWe may write\n\n\\[ f(x) = \\Pi(1-x^m), \\]\n\nwhere \\( m \\) has a given series of values the same or different. The indices not divisible by \\( a \\) may be represented by \\( n \\), the other indices by \\( ap \\), we have then\n\n\\[ f(x) = \\Pi(1-x^n)\\Pi(1-x^{ap}), \\]\n\nwhere the number of indices \\( ap \\) is equal to \\( k \\). Hence\n\n\\[ f(\\varepsilon e^{-t}) = \\Pi(1-\\varepsilon^n e^{-nt})\\Pi(1-\\varepsilon^{ap} e^{-apt}); \\]\n\nor since \\( \\varepsilon \\) is a root of \\([1-x^a]=0\\), and therefore \\( \\varepsilon^a=1 \\), we have\n\n\\[ f(\\varepsilon e^{-t}) = \\Pi(1-\\varepsilon^n e^{-nt})\\Pi(1-e^{-apt}); \\]\n\nand it may be remarked that if \\( n \\equiv v \\pmod{a} \\), where \\( v < a \\), then instead of \\( \\varepsilon^n \\) we may write \\( \\varepsilon^v \\), a change which may be made at once, or at the end of the process of development.\n\nWe have consequently to find\n\n\\[ \\chi_\\varepsilon = \\text{coeff. } \\frac{1}{t} \\text{ in } t^{s-1} \\frac{\\varepsilon}{\\Pi(1-\\varepsilon^n e^{-nt})\\Pi(1-e^{-apt})}. \\]\n\nThe development of a factor \\( \\frac{1}{1-\\varepsilon^n e^{-nt}} \\) is at once deduced from that of \\( \\frac{1}{1-ce^{-t}} \\) and is a series of positive powers of \\( t \\). The development of a factor \\( \\frac{1}{1-e^{-apt}} \\) is deduced from that of \\( \\frac{1}{1-e^{-t}} \\) and contains a term involving \\( \\frac{1}{t} \\). Hence we have\n\n\\[ \\frac{1}{\\Pi(1-\\varepsilon^n e^{-nt})\\Pi(1-e^{-apt})} = A_{-k} \\frac{1}{t^k} + A_{-(k-1)} \\frac{1}{t^{k-1}} + \\cdots + A_{-1} \\frac{1}{t} + A_0 + &c., \\]\n\nand thence\n\n\\[ \\chi_\\varepsilon = \\varepsilon A_{-s}. \\]\n\nThe actual development, when \\( k \\) is small (for instance \\( k=1 \\) or \\( k=2 \\)), is most readily obtained by developing each factor separately and taking the product. To do this we have\n\n\\[ \\frac{1}{1-ce^{-t}} = \\frac{1}{1-c} - \\frac{c}{(1-c)^2} t + \\frac{c+c^2}{(1-c)^3} \\frac{1}{2} t^2 - \\frac{c+4c^2+c^3}{(1-c)^4} \\frac{1}{6} t^3 + &c., \\]\n\nwhere by a general theorem for the expansion of any function of \\( e^t \\), the coefficient of \\( t^f \\) is\n\n\\[ \\frac{(-)^f}{\\Pi f} \\frac{1}{1-c(1+\\Delta)} 0^f \\]\n\n\\[ = \\frac{(-)^f}{\\Pi f} \\left( \\frac{1}{1-c} + \\frac{c}{(1-c)^2} \\Delta + \\cdots + \\frac{c^f}{(1-c)^{f+1}} \\right) 0^f \\]\n\n(where as usual \\( \\Delta 0^f = 1^f - 0^f \\), \\( \\Delta^2 0^f = 2^f - 2.1^f + 0^f \\), &c.) and\n\n\\[ \\frac{1}{1-e^{-t}} = \\frac{1}{t} + \\frac{1}{2} + \\frac{1}{12} t - \\frac{1}{720} t^3 + \\frac{1}{30240} t^5 + &c., \\]\n\nwhere, except the constant term, the series contains odd powers only and the coefficient of \\( t^{2f-1} \\) is \\( \\frac{(-)^{f+1} B_f}{\\Pi 2f} \\); \\( B_1, B_2, B_3, \\ldots \\) denoting the series \\( \\frac{1}{6}, \\frac{1}{30}, \\frac{1}{42}, \\ldots \\) of Bernoulli's numbers.\nBut when \\( k \\) is larger, it is convenient to obtain the development of the fraction from that of the logarithm, the logarithm of the fraction being equal to the sum of the logarithms of the simple factors, and these being found by means of the formulae\n\n\\[\n\\log \\frac{1}{1-ce^{-t}} = \\log \\frac{1}{1-c} - \\frac{c}{1-c} t + \\frac{c+c^2}{(1-c)^2} \\frac{t^2}{2} - \\frac{c+c^2+c^3}{(1-c)^3} \\frac{t^3}{6} + \\frac{c+4c^2+c^3}{(1-c)^4} \\frac{t^4}{24} + \\text{&c.}\n\\]\n\n\\[\n\\log \\frac{1}{1-e^{-t}} = -\\log t + \\frac{1}{2} t - \\frac{1}{24} t^3 + \\frac{1}{2880} t^5 - \\frac{1}{181440} t^7 + \\text{&c.}\n\\]\n\nThe fraction is thus expressed in the form\n\n\\[\n\\frac{1}{\\Pi(1-\\varepsilon^n)\\Pi(ap)} \\frac{1}{i^k} e^{k_1 t + k_2 t^2 + \\cdots};\n\\]\n\nand by developing the exponential we obtain, as before, the series commencing with \\( A_{-k} \\frac{1}{i^k} \\).\n\nResuming now the formula\n\n\\[\n\\chi_\\varepsilon = \\varepsilon A_{-s},\n\\]\n\nwhich gives \\( \\chi_\\varepsilon \\) as a function of \\( \\varepsilon \\), we have\n\n\\[\n\\frac{\\delta x}{[1-x^\\alpha]} = S \\frac{\\chi_\\varepsilon}{\\varepsilon-x};\n\\]\n\nbut this equation gives\n\n\\[\n\\chi_\\varepsilon = \\theta_\\varepsilon \\left( \\frac{\\varepsilon-x}{[1-x^\\alpha]} \\right)_{x=\\varepsilon},\n\\]\n\nand we have\n\n\\[\n[1-x^\\alpha] = (x-\\varepsilon)(x-\\varepsilon^a) \\ldots (x-\\varepsilon^{\\alpha_s})\n\\]\n\nif \\( 1, a_s, \\ldots a_\\alpha \\) are the integers less than \\( a \\) and prime to it (\\( \\alpha \\) is of course the degree of \\([1-x^\\alpha])\\). Hence\n\n\\[\n\\chi_\\varepsilon = \\theta_\\varepsilon \\frac{-1}{\\varepsilon^{\\alpha-1}\\Pi(1-\\varepsilon^{\\alpha_i-1})},\n\\]\n\nand therefore\n\n\\[\n\\theta_\\varepsilon = -\\varepsilon^{\\alpha-1}\\Pi(1-\\varepsilon^{\\alpha_i-1})\\chi_\\varepsilon;\n\\]\n\nor putting for \\( \\chi_\\varepsilon \\) its value\n\n\\[\n\\theta_\\varepsilon = -\\varepsilon^{\\alpha}\\Pi(1-\\varepsilon^{\\alpha_i-1})A_{-s},\n\\]\n\nwhere \\( \\alpha \\) is the degree of \\([1-x^\\alpha]\\) and \\( \\alpha_i \\) denotes in succession the integers (exclusive of unity) less than \\( a \\) and prime to it. The function on the right-hand, by means of the equation \\([1-\\varepsilon^\\alpha]=0\\), may be reduced to an integral function of \\( \\varepsilon \\) of the degree \\( \\alpha-1 \\), and then by simply changing \\( \\varepsilon \\) into \\( x \\) we have the required function \\( \\theta x \\). The fraction \\( \\frac{\\delta x}{[1-x^\\alpha]} \\) can then by multiplication of the terms by the proper factor be reduced to a fraction with the denominator \\( 1-x^\\alpha \\), and the coefficients of the numerator of this fraction are the coefficients of the corresponding prime circulator ( )per \\( a_q \\).\n\nThus, let it be required to find the terms depending on the denominator \\([1-x^\\alpha]\\) in\n\n\\[\n\\frac{1}{(1-x)(1-x^2)(1-x^3)(1-x^4)(1-x^5)(1-x^6)};\n\\]\nthese are\n\n\\[ S \\frac{\\chi_1}{g-x}, \\quad x \\partial_x S \\frac{\\chi_2}{g-x}, \\]\n\nwhere\n\n\\[ \\chi_1 = \\text{coeff. } \\frac{1}{t} \\text{ in } \\frac{g}{f(g e^{-t})} \\]\n\n\\[ \\chi_2 = \\text{coeff. } \\frac{1}{t} \\text{ in } t \\frac{g}{f(g e^{-t})} \\]\n\nand\n\n\\[ \\frac{1}{f(g e^{-t})} = \\frac{1}{(1-g)(1-g^3)(1-g^4)(1-g^5)} \\left[ \\frac{1}{4} - \\frac{1}{18} \\left( \\frac{g}{1-g} + \\frac{2g^2}{1-g^2} + \\frac{4g^4}{1-g^4} + \\frac{4g^5}{1-g^5} \\right) \\right], \\]\n\n\\[ A_{-2} = \\frac{1}{18} (1-g)(1-g^3)(1-g^4)(1-g^5), \\]\n\n\\[ A_{-1} = \\frac{1}{(1-g)(1-g^3)(1-g^4)(1-g^5)} \\left[ \\frac{1}{4} - \\frac{1}{18} \\left( \\frac{g}{1-g} + \\frac{2g^2}{1-g^2} + \\frac{4g^4}{1-g^4} + \\frac{4g^5}{1-g^5} \\right) \\right], \\]\n\nand we have\n\n\\[ \\theta g = -g^2(1-g)A_{-2}, \\]\n\n\\[ \\theta g = -g^2(1-g)A_{-1}. \\]\n\nBut \\([1-g^3] = 1 + g + g^2 = 0.\\) Hence \\(g^3 = 1,\\) and therefore\n\n\\[ (1-g)(1-g^2)(1-g^4)(1-g^5) = (1-g)^2(1-g^2)^2 = 9. \\]\n\nHence\n\n\\[ \\theta g = -\\frac{1}{162} g^2(1-g) = \\frac{1}{162} (1-g^2) = \\frac{1}{162} (2+g), \\]\n\nwhence\n\n\\[ \\theta x = \\frac{1}{162} (2+x), \\]\n\nand the partial fraction is\n\n\\[ \\frac{1}{162} \\frac{2+x}{1+x+x^2}, \\]\n\nwhich is\n\n\\[ = \\frac{1}{162} \\frac{2-x-x^2}{1-x^3}, \\]\n\nand gives rise to the prime circulator \\(\\frac{1}{162}(2,-1,-1)\\) per \\(3_g.\\)\n\nThe reduction of \\(\\theta g\\) is somewhat less simple; we have\n\n\\[ \\theta g = -\\frac{1}{9} g^2(1-g) \\left[ \\frac{1}{4} - \\frac{1}{18} \\left( \\frac{g}{1-g} + \\frac{2g^2}{1-g^2} + \\frac{4g^4}{1-g^4} + \\frac{5g^5}{1-g^5} \\right) \\right] \\]\n\n\\[ = -\\frac{1}{9} g^2(1-g) \\left[ \\frac{1}{4} - \\frac{5}{18} \\frac{g}{1-g} - \\frac{7}{18} \\frac{g^2}{1-g^2} \\right] \\]\n\n\\[ = \\frac{1}{9} (1-g^2) \\left[ \\frac{1}{4} - \\frac{5}{54} g(1-g^2) - \\frac{7}{54} g^2(1-g) \\right] \\]\nwhence, finally,\n\n\\[ \\theta_{\\xi} = \\frac{1}{324}(42 + 23\\xi), \\quad \\theta_{x} = \\frac{1}{324}(42 + 23x); \\]\n\nand the partial fraction is\n\n\\[ \\frac{1}{324} x \\partial_x \\frac{42 + 23x}{1 + x + x^2}, \\]\n\nwhich is\n\n\\[ = \\frac{1}{324} x \\partial_x \\frac{42 - 19x - 23x^2}{1 - x^3}, \\]\n\nand gives rise to the prime circulator \\( \\frac{1}{324} q(42, -19, -23) \\) per 3.\n\nThe part depending on the denominator \\( 1 - x \\) is\n\n\\[ \\frac{A_{-1}}{1-x} + \\frac{1}{1} x \\partial_x \\frac{A_{-2}}{1-x} + \\frac{1}{1.2} (x \\partial_x)^2 \\frac{A_{-3}}{1-x} \\cdots + \\frac{1}{1.2.3.4.5} (x \\partial_x)^5 \\frac{A_{-6}}{1-x}, \\]\n\nwhere\n\n\\[ \\frac{1}{(1-e^{-t})(1-e^{-2t})(1-e^{-3t})(1-e^{-4t})(1-e^{-5t})(1-e^{-6t})} = A_{-6} \\frac{1}{t^6} + A_{-5} \\frac{1}{t^5} \\cdots + A_{-1} \\frac{1}{t} + &c. \\]\n\nWe have here\n\n\\[ \\log \\frac{1}{1-e^{-t}} = -\\log t + \\frac{1}{2} t - \\frac{1}{24} t^3 + \\frac{1}{2880} t^4 - &c., \\]\n\nand thence the fraction is\n\n\\[ \\frac{1}{720} t^6 e^{21/24 t^2 + 455/576 t^4} + &c. \\]\n\nwhich is equal to\n\n\\[ \\frac{1}{720} t^6 \\left(1 + \\frac{21}{2} t + \\frac{441}{8} t^2 + \\frac{3087}{16} t^3 + \\frac{64827}{128} t^4 + \\frac{1361367}{1280} t^5 + \\cdots \\right) \\times \\left(1 - \\frac{91}{24} t^2 + \\frac{8281}{1152} t^4 + \\cdots \\right) \\times \\left(1 + \\frac{455}{576} t^4 + \\cdots \\right) \\]\n\n\\[ = \\frac{1}{720} \\frac{1}{t^6} + \\frac{7}{480} \\frac{1}{t^5} + \\frac{77}{1080} \\frac{1}{t^4} + \\frac{245}{1152} \\frac{1}{t^3} + \\frac{43981}{103680} \\frac{1}{t^2} + \\frac{199577}{345600} \\frac{1}{t} + \\cdots \\]\n\nand consequently the partial fractions are\n\n\\[ \\frac{1}{86400} (x \\partial_x)^5 \\frac{1}{1-x} + \\frac{7}{11520} (x \\partial_x)^4 \\frac{1}{1-x} + \\frac{77}{6480} (x \\partial_x)^3 \\frac{1}{1-x} + \\frac{245}{2304} (x \\partial_x)^2 \\frac{1}{1-x} \\]\n\n\\[ + \\frac{43981}{103680} (x \\partial_x) \\frac{1}{1-x} + \\frac{199577}{345600} \\frac{1}{1-x}, \\]\n\nfrom which the non-circulating part is at once obtained.\nThe complete expression for the number of partitions is $P(1, 2, 3, 4, 5, 6)q =$\n\n$$\\frac{1}{1036800}(12q^5 + 630q^4 + 1230q^3 + 110250q^2 + 439810q + 598731)$$\n\n$$+ \\frac{1}{4608}(6q^2 + 126q + 581)(1, -1) \\text{ per } 2_q$$\n\n$$+ \\frac{1}{162}q \\ldots \\ldots \\ldots (2, -1, -1) \\text{ per } 3_q$$\n\n$$+ \\frac{1}{324} \\ldots \\ldots (42, -19, -23) \\text{ per } 3_q$$\n\n$$+ \\frac{1}{32} \\ldots \\ldots (1, 1, -1, -1) \\text{ per } 4_q$$\n\n$$+ \\frac{1}{25} \\ldots \\ldots (2, 1, 0, -1, -2) \\text{ per } 5_q$$\n\n$$+ \\frac{1}{36} \\ldots (2, 1, -1, -2, -1, 1) \\text{ per } 6_q.$$",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108651.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11160,
+    "total-output-tokens": 5208,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2053,
+        2
+      ],
+      [
+        2053,
+        4723,
+        3
+      ],
+      [
+        4723,
+        7455,
+        4
+      ],
+      [
+        7455,
+        9173,
+        5
+      ],
+      [
+        9173,
+        11083,
+        6
+      ],
+      [
+        11083,
+        11649,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108651",
+    "title": "Supplementary Researches on the Partition of Numbers",
+    "authors": "Arthur Cayley",
+    "year": 1858,
+    "volume": "148",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/108651"
+  }
+}

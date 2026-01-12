@@ -1,0 +1,59 @@
+{
+  "id": "94aef717ab935a2b340b70780cf92e704d7abdde",
+  "text": "The CONTENTS.\n\nV. An Account of the several Strata of Earths and Fossils found in sinking the mineral Wells at Holt. By the Reverend Mr. Lewis, Vicar of the Place. Communicated by John Brome, Esq;\n\nVI. An Extract of a Letter of Signior Michele Pinelli, concerning the Causes of the Gout. Translated from the Italian by Joh. James Scheutzer, M.D. F.R.S. and Coll. Med. Lond. Lic.\n\nI. An\n\nERRATUM.\nPag. 471. Lin. 24. pro vite lege rite.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103701.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 193,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        434,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103701",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103701"
+  }
+}

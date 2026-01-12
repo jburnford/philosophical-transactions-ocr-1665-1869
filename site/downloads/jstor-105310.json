@@ -1,0 +1,139 @@
+{
+  "id": "8d76119eccd5607bd148d45397f9b973f835f157",
+  "text": "mountain, that had been forming within it for some years, and was risen above the sides; and throwing up, by violent explosions, immense quantities of stones, lava, ashes, and fire. At night the flames burst out with greater vehemence, the explosions were more frequent and horrible, and our houses shook continually. Many fled to Naples, and the boldest persons trembled. For my own part, I resolved to abide the event here at Portici on account of my family, consisting of eight children, and a very weak and aged mother, whose life must have been lost by a removal in such circumstances, and so rigorous a season. But it pleased God to preserve us; for the mountain having vented itself that night and the succeeding day, is since become calm, and throws out only a few ashes.\n\nLXXXV. A further Attempt to facilitate the Resolution of Isoperimetrical Problems. By Mr. Thomas Simpson, F. R. S.\n\nRead April 13, 1758.\n\nABOUT three years ago I had the honour to lay before the Royal Society the investigation of a general rule for the resolution of isoperimetrical problems of that kind, wherein one, only, of the two indeterminate quantities enters along with the fluxions, into the equations expressing the conditions of the problem. Under which kind are included the determination of the greatest figures under given bounds, lines of the swiftest descent, solids\nof the least resistance, with innumerable other cases. But altho' cases of this sort do, indeed, most frequently occur, and have therefore been chiefly attended to by mathematicians, others may nevertheless be proposed, such as actually arise in inquiries into nature, wherein both the flowing quantities, together with their fluxions, are jointly concerned. The investigation of a rule for the resolution of these, is what I shall in this paper attempt, by means of the following\n\n**General Proposition.**\n\nLet $Q, R, S, T, \\&c.$ represent any variable quantities, expressed in terms of $x$ and $y$ (with given coefficients), and let $q, r, s, t, \\&c.$ denote as many other quantities, expressed in terms of $\\dot{x}$ and $\\dot{y}$; It is proposed to find an equation for the relation of $x$ and $y$, so that the fluent of $Qq + Rr + Ss + Tt, \\&c.$ corresponding to a given value of $x$ (or $y$), may be a maximum or minimum.\n\n![Diagram](image-url)\nLet \\( AE, AF, \\) and \\( AG, \\) denote any three values of the quantity \\( x, \\) having indefinitely small equi-differences \\( EF, FG; \\) and let \\( EL, FM, \\) and \\( GN, \\) (perpendicular to \\( AG \\)) be the respective values of \\( y, \\) corresponding thereto; and, supposing \\( EF (= FG = x) \\) to be denoted by \\( e, \\) let \\( CM \\) and \\( DN \\) (the successive values of \\( y \\)) be represented by \\( u \\) and \\( w. \\) Moreover, supposing \\( P'p' \\) and \\( P''p'' \\) to be ordinates at the middle points \\( P'P'', \\) between \\( E, F \\) and \\( F, G, \\) let the former \\((P'p')\\) be denoted \\( a, \\) and the latter \\((P''p'')\\) by \\( b; \\) putting \\( AP' = a \\) and \\( AP'' = b. \\) Then, if \\( a \\) and \\( \\alpha \\) (the mean values of \\( x \\) and \\( y, \\) between the ordinates \\( EL \\) and \\( FM \\)) be supposed to be substituted for \\( x \\) and \\( y, \\) in the given quantity \\( Qg + Rr + Ss + Tt, \\&c. \\) and if, instead of \\( x \\) and \\( y, \\) their equals \\( e \\) and \\( u \\) be also substituted, and the said (given) quantity, after such substitution, be denoted by \\( Q'g' + R'r' + S's' + T't', \\&c. \\) it is then evident, that this quantity \\( Q'g' + R'r' + S's' + T't', \\&c. \\) will express so much of the whole required fluent, as is comprehended between the ordinates \\( EL \\) and \\( FM, \\) or as answers to an increase of \\( EF \\) in the value of \\( x. \\) And thus, if \\( b \\) and \\( \\beta \\) be conceived to be wrote for \\( x \\) and \\( y, \\) \\( e \\) for \\( x, \\) and \\( w \\) for \\( y, \\) and the quantity resulting be denoted by \\( Q''g'' + R''r'' + S''s'' + T''t'', \\&c. \\) this quantity will, in like manner, express the part of the required fluent corresponding to the interval \\( FG. \\) Whence that part answering to the interval \\( EG \\) will consequently be equal to \\( Q'g' + R'r' \\&c. + Q''g'' + R''r'' \\&c. \\) But it is manifest,\nmanifest, that the whole required fluent cannot be a maximum or minimum, unless this part, supposing the bounding ordinates \\(EL, GN\\) to remain the same, is also a maximum or minimum. Hence, in order to determine the fluxion of this expression \\((Q'q' + R'r' &c. Q''q'' + R''r'' &c.)\\) which must, of consequence, be equal to nothing, let the fluxions of \\(Q'\\) and \\(q'\\) (taking \\(a\\) and \\(u\\) as variable) be denoted by \\(Q'a\\) and \\(q'u\\); also let \\(R'a\\) and \\(r'u\\) denote the respective fluxions of \\(R'\\) and \\(r'\\); and let, in like manner, the fluxions of \\(Q'', q'', R'', r''\\), &c. be represented by \\(Q''a\\), \\(q''w\\), \\(R''a\\), \\(r''w\\), &c. respectively. Then, by the common rule for finding the fluxion of a rectangle, the fluxion of our whole expression \\((Q'q' + R'r' &c. + Q''q'' + R''r'' &c.)\\) will be given equal to \\(Q'a + q'Q'a + R'r'u + r'R'a &c. + Q''q'w + q''Q''a + R''r'w + r''R''a &c. = 0\\).\n\nBut \\(u + w\\) being \\(= GN - EL\\), and \\(\\beta - a = \\frac{GN - EL}{2}\\) (a constant quantity), we therefore have \\(w = -u\\), and \\(\\beta = a\\): also \\(u\\) being \\((= 2r') = 2a - 2EL\\), thence will \\(u = 2a\\): which values being substituted above, our equation, after the whole is divided by \\(a\\), will become\n\n\\[2Q'a + q'Q'a + 2R'r + r'R, &c. - 2Q''q' + q''Q''a - 2R''r + r''R, &c. = 0;\\]\n\nor, \\(Q''q' - Q'a + R''r - R'r &c. = \\frac{q'Q' + q''Q''}{2} + \\frac{r'R + r''R}{2}, &c.\\)\n\nBut.\nBut \\( Q''q - Q'q \\), the excess of \\( Q''q \\) above \\( Q'q \\), is the increment or fluxion (answering to the increment, or fluxion, \\( x \\)) arising by substituting \\( b \\) for \\( a \\), \\( \\beta \\) for \\( \\alpha \\), and \\( w \\) for \\( u \\). Moreover, with regard to the quantities on the other side of the equation, it is plain, seeing the difference of \\( q'Q \\) and \\( q''Q \\) is indefinitely little in comparison of their sum, that \\( q'Q \\) may be substituted in the room of \\( \\frac{q'Q + q''Q}{2} \\), &c., which being done, our equation will stand thus:\n\n\\[\n\\text{Flux. } Q'q + R'r &c. = q'Q + r'R &c.\n\\]\n\nBut \\( q'Q + r'R &c. \\) represents (by the preceding notation) the fluxion of \\( q'Q + r'R &c. \\) (or of \\( Qq + Rr &c. \\)) arising by substituting \\( \\alpha \\) for \\( y \\), making \\( \\alpha \\) alone variable, and casting off \\( \\dot{\\alpha} \\). If, therefore, that fluxion be denoted by \\( \\dot{u} \\), we shall have flux. \\( Q'q + R'r &c. = \\dot{u} \\), and consequently \\( Q'q + R'r &c. = u \\).\n\nBut \\( Q'q + R'r &c. \\) (by the same notation) appears to be the fluxion of \\( Q'q + R'r &c. \\) (or of \\( Qq + Rr &c. \\)) arising by substituting \\( u \\) for \\( j \\), making \\( u \\) alone variable, and casting off \\( \\dot{u} \\). Whence the following\n\n**General Rule.**\n\nTake the fluxion of the given expression (whose fluent is required to be a maximum or minimum) making \\( y \\) alone variable; and, having divided by \\( \\dot{y} \\), let the quotient be denoted by \\( u \\): Then take, again, the fluxion of the same expression, making \\( y \\) alone variable, which divide by \\( \\dot{y} \\); and then this last quotient will be \\( = \\dot{u} \\).\nWhen \\( y \\) is not found in the quantity given, \\( v \\) will then be = 0; and, consequently, the expression for \\( i \\), equal to nothing also. But if \\( y \\) be absent, then will \\( i = 0 \\), and consequently the value of \\( v = \\) a constant quantity. It is also easy to comprehend, that, instead of \\( y \\) and \\( y \\), \\( x \\) and \\( x \\) may be made successively variable. Moreover, should the case to be resolved be confined to other restrictions, besides that of the maximum or minimum, such as, having a certain number of other fluents, at the same time, equal to given quantities, still the same method of solution may be applied, and that with equal advantage, if from the particular expressions exhibiting all the several conditions, one general expression composed of them all, with unknown (but determinate) coefficients, be made use of.\n\nIn order to render this matter quite clear, let \\( A, B, C, D, \\&c. \\) be supposed to represent any quantities expressed in terms of \\( x, y, \\) and their fluxions, and let it be required to determine the relation of \\( x \\) and \\( y, \\) so that the fluent of \\( A \\dot{x} \\) shall be a maximum, or minimum, when the cotemporary fluents of \\( B \\dot{x}, C \\dot{x}, D \\dot{x}, \\&c. \\) are, all of them, equal to given quantities.\n\nIt is evident, in the first place, that the fluent of \\( A \\dot{x} + b B \\dot{x} + c C \\dot{x} + d D \\dot{x}, \\&c. \\) (\\( b, c, d, \\&c. \\) being any constant quantities whatever) must be a maximum, or minimum, in the proposed circumstance: and, if the relation of \\( x \\) and \\( y \\) be determined (by the rule), so as to answer this single condition (under all possible\npossible values of \\( b, c, d, \\&c. \\) it will also appear evident, that such relation will likewise answer and include all the other conditions propounded. For, there being in the general expression, thus derived, as many unknown quantities \\( b, c, d, \\&c. \\) (to be determined) as there are equations, by making the fluents of \\( B \\dot{x}, C \\dot{x}, D \\dot{x}, \\&c. \\) equal to the values given; those quantities may be so assigned, or conceived to be such, as to answer all the conditions of the said equations. And then, to see clearly that the fluent of the first expression, \\( A \\dot{x} \\), cannot be greater than arises from hence (other things remaining the same) let there be supposed some other different relation of \\( x \\) and \\( y \\), whereby the conditions of all the other fluents of \\( B \\dot{x}, C \\dot{x}, D \\dot{x}, \\&c. \\) can be fulfilled; and let, if possible, this new relation give a greater fluent of \\( A \\dot{x} \\) than the relation above assigned. Then, because the fluents \\( bB \\dot{x}, cC \\dot{x}, dD \\dot{x}, \\&c. \\) are given, and the same in both cases, it follows, according to this supposition, that this new relation must give a greater fluent of \\( A \\dot{x} + bB \\dot{x} + cC \\dot{x} + dD \\dot{x}, \\&c. \\) (under all possible values of \\( b, c, d, \\&c. \\)) than the former relation gives: which is impossible; because (whatever values are assigned to \\( b, c, d, \\&c. \\)) that fluent will, it is demonstrated, be the greatest possible, when the relation of \\( x \\) and \\( y \\) is that above determined, by the General Rule.\n\nTo exemplify, now, by a particular case, the method of operation above pointed out, let there be proposed\nproposed the fluxionary quantity $\\frac{x^n y^m j_p}{x^{p-1}}$; wherein the relation of $x$ and $y$ is so required, that the fluent, corresponding to given values of $x$ and $y$, shall be a maximum, or minimum. Here, by taking the fluxion, making $j$ alone variable (according to the rule) and dividing by $j$, we shall have $\\frac{p x^n y^m j_{p-1}}{x^{p-1}} = u$. And, by taking the fluxion a second time, making $y$ alone variable, and dividing by $j$, will be had $\\frac{m x^n y^{m-1} j_p}{x^{p-1}} = v$. Now from these equations to exterminate $v$, let the latter be divided by the former; so shall $\\frac{m j}{p y} = \\frac{v}{u}$; and therefore $ay^p = v$ ($a$ being a constant quantity). From whence $y^p j = \\frac{a}{p} \\times x^{n-p+1}$; and consequently $\\frac{p}{m+p} \\times y^{m+p} = \\frac{a}{p} \\times x^{p-n-1} \\times x^{p-1}$.\n\nLet there be now proposed the two fluxions $x^n y^m j$ and $x^p y^q j$, the fluent of the former being required to be a maximum, or minimum, and that of the latter, at the same time, equal to a given quantity. Then the latter, with the general coefficient $b$ prefixed, being joined to the former, we shall here have $x^n y^m j + bx^p y^q j$. From whence, by proceeding as before, $bx^p y^q = v$, and $mx^n y^{m-1} x + qb x^p y^{q-1} j = v$.\nFrom the former of which equations, by taking the fluxions on both sides, will be had \\( pbx^{p-1}y^q \\dot{x} + qbx^py^{q-1}\\dot{y} (= i) = mx^n y^{m-1}\\dot{x} + qbx^py^{q-1}\\dot{y} \\). Whence \\( pbx^{p-1}y^q = mx^n y^{m-1} \\); and therefore \\( pb y^{q-m+1} = mx^{n-p+1} \\). And in the same manner proper equations, to express the relation of \\( x \\) and \\( y \\), may be derived, in any other case, and under any number of limitations.\n\nLXXXVI. Observations on the Alga Marina latifolia; The Sea Alga with broad Leaves. By John Andrew Peyffonel, M.D. F.R.S. Translated from the French.\n\nRead April 13, 1758.\n\nHAVING cast anchor at Verdun, the road at the entrance of the river of Bourdeaux, I was fishing with a kind of drag-net upon a bank of sand, which was very fine and muddy. We collected a number of sea-plants, and among them the great broad-leaved Alga, which I did not know: and as the root or pedicle of this plant appeared to be very particular, I observed it with attention. The following is its description, and the detail of my observations.\n\nFrom a pedicle, which is sometimes flat, and sometimes round (for they vary in these plants, and might be about three lines in diameter, and an inch high, of a blackish colour, and coriaceous substance, approaching to the nature of the bodies of lithophyta),",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105310.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 14208,
+    "total-output-tokens": 4248,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1365,
+        2
+      ],
+      [
+        1365,
+        2315,
+        3
+      ],
+      [
+        2315,
+        4170,
+        4
+      ],
+      [
+        4170,
+        5584,
+        5
+      ],
+      [
+        5584,
+        7237,
+        6
+      ],
+      [
+        7237,
+        8891,
+        7
+      ],
+      [
+        8891,
+        10565,
+        8
+      ],
+      [
+        10565,
+        11850,
+        9
+      ],
+      [
+        11850,
+        13165,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105310",
+    "title": "A Further Attempt to Facilitate the Resolution of Isoperimetrical Problems. By Mr. Thomas Simpson, F. R. S.",
+    "authors": "Thomas Simpson",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/105310"
+  }
+}

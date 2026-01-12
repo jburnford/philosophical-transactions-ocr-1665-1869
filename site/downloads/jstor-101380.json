@@ -1,0 +1,69 @@
+{
+  "id": "a9d2b80de996490e3285f2aaa1d05f50a8aaf48b",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nNovemb. 17. 1673.\n\nThe CONTENTS.\n\nAn Account of the Current of the Tydes about the Orcades. A Continuation of the Letters exchanged between Monsieur Slusius and Monsieur Hugenius, concerning the Optic Problem of Alhazen, discussed in Numb.97. A Letter of Dr. John Wallis, asserting to William Neile Esquire, the first Invention and Demonstration of the Equality of the Curve line of a Paraboloid to a Straight line: And next, to Sir Christopher Wren Knight, the finding a Straight line equal to that of a Cycloid, and to the parts thereof. Two other Letters, consonant to the former; one of the Lord Vis-count Brouncker; the other, of the said Sir Ch. Wren. An Account of Monsieur Du Hamel's Book De Corpore Animato.\n\nAn Account of the Current of the Tydes about the Orcades, given in by a Gentleman of Scotland, who had pass'd himself that way, and from him communicated to the Publisher by the truly Honourable Sir Robert Moray Knight, deceased, lately one of the Vice-Presidents of the R. Society, of which he had been President formerly; whose Death is no less deservedly than exceedingly lamented by all that knew his Worth, Knowledge, Integrity, Prudence, and Courage.\n\nIn Fairay-Sound (betwixt the Isles of Fairay and Ætha in Orkney) the Sea runneth North-east, for the space only of three hours in Flowing, and nine hours South-west in Ebbing. This is the course of the Tide only in the middle of the Sound, which is but one mile broad.\n\nThe next Isle to Fairay, towards the South-west, is Westra, which is an Island about five miles in length, and three or four miles in breadth. Upon the South-east side of this Island, within a mile to the shore, lyeth another little Isle, which is not half a mile in Circumference. South and South-west from these two Islands, is Westra-Frith, eight miles in breadth, running betwixt them, and the Isle called Pansa. Through this Frith the English ships do ordinarily pass, in their course to Island.\n\nWhilst\nWhilst the Sea runneth from West to East in Flowing, through this Wessex Frith, there are no greater Surges, than in any other place of the Sea; and in a calm day, it is as smooth as any Lake, though there is constantly a great current, in the flux and reflux of the Sea. Yet at the South-East end of the aforementioned little Island, the Sea so sooner begins to run westward in Ebbing, but there beginneth a surge to appear, which continually increaseth, until the Ebb be half spent, and afterwards it decreaseth, until it be low water; at which time there appeareth no such thing. East and west from this great Surge, there are some few lesser surges seen, which are gradually less, towards the east and west, after this manner.\n\nI having occasion to pass that way, in a little boat, when we had passed over the Eastmost surges, and were beginning to ascend the biggest, upon the tenth of April, at one of the clock in the afternoon, the surge before us was so high, that it intercepted the sight of the Sun, and some deg. of the firmament above it. This surge is about a quarter of a mile in length. When there is any wind, which occasioneth the breaking of the tops of the Surges, there is no passing that way. The current of the Tyde is so strong there, that there is no need of Sails or of Oars, save only to direct the boat, as doth the helm.\n\nContinuatio Excerptorum ex Epistolis Slutianis & Hugenianis, super Albazeni Problemate Optico, in Artis Philosophicis proximè progressis commemorato.\n\nDn. Hugenum ad novissimum Dn. Slufii, p.6123. & seqq. Num. 97. Editum, rescriptit Editori, Lutetia Parisiorum Apr. 9. 1672. in hanc sententiam;\n\nEst quod Tibi gratias agam, quòd non fuisti gravatus Dn. Slufii super problema Albaziano analysin mihi transmittere. Est illa doctissima & Authore suo dignissima; fuitque in causa, dum eam bisce disibus examinarem, ut noscir circa problema illua meditationibus me tradarem, eo spectantibus, ut constructionem quam possim compendiosissimam maximeque genuinam obtinerem; quam tandem me consecutum esse reor. Eam hic adscribam, postquam Tibi compensationem illud tradidero, quod codem tempore inveni circ. primam, ab initio tibi communicatione. Id autem tale est*: Dati linea AT, parallela CB, eaque bisecta in I, punctum hoc est illud, per quod transire debet una hyperbolarum oppositarum, quarum asymptoti inventae fuerunt YM, MN.\n\nSed en Tibi bonam illam constructionem, que in omnibus casibus obi-\nvet†. Sit Circulus datius ED, cujus centrum est A; puncta da-\nta, B & C.\n\nDuctis lineis AB, AC, sint proportionales BA (radius circuli) & FA:\nEodem modo CA, (radius circuli) & GA. Tum jungatur FG, eaque bisectur in H. Eò per hoc punctum ducatur linea LHK, MHN, se invicem interse-\ncantes ad angulos rectos, quarumque LHK sit parallela ei, qua bisecat angulum BAC. His sunt dua Asymptori Hyperbolarum describendarum per puncta F &\nG, & quarum una transibit etiam per centrum A, quarum intersectiones cum",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101380.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1426,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1984,
+        2
+      ],
+      [
+        1984,
+        4932,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101380",
+    "title": "An Account of the Current of the Tydes about the Orcades, Given in by a Gentleman of Scotland Who Had Pass'd Himself That Way, and from Him Communicated to the Publisher by the Truly Honourable Sir Robert Moray Knight, Deceased, Lately One of the Vice. Presidents of the R. Society, of Which he Had Been President Formerly",
+    "authors": "Robert Moray Knight",
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101380"
+  }
+}

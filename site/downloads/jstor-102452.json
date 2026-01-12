@@ -1,0 +1,69 @@
+{
+  "id": "a63b4b3b6ea10ffc7d21c99b95c6886199d4b154",
+  "text": "IV An Abstract of a Letter from Mr. Samuel Dale, to Dr William Briggs, M.D., F.R.S. Concerning a Contumacious Jaundice, accompanied with a very odd case in Vision.\n\nBraintree, Oct. the 27th. 1693.\n\nSIR,\n\nTHAT you might not think me unmindful of my promise to you when you were at Braintree; I have here sent you the Account of my Patient Grace Dennis, of Braxsted Magna, in this County of Essex, which you did desire of me.\n\nAbout Christmas, Anno 1689. After much grief and trouble of Mind in the foregoing Autumn, the Jaundice began to appear upon her; for which, after having for about nine Months used many Medicines, which were told her by divers of her Friends and Acquaintance, but without Success: She in September, 1690. applyed her self to me, to whom I administered divers Medicines, famous in the most Celebrated Authors for the cure of the Jaundice, and which I had often used with Success in the cure of that Disease, yet to her they were of no Benefit: After which she had the Advice of several Learned Physicians in the Countrey, and likewise of some in London; but all that could be done for her hath not yet had any Effect, for her Disease yet continues; and her Body which used to be plump and fleshy, is now become lean and emaciated, almost like a Skeleton, and her Appetite is little and depraved.\n\nIn May 1691. after an extraordinary Menstrual Flux for about three Months, she began as soon as the Sun was down, to be deprived of her Sight by degrees until it was quite dark; when altho never so big a fire or many candles were in the Room, yet could she not discern\ncern the Object (except a small shining of Light) and so she remained until the Morning as one Stone Blind, when by little and little, as the light increased her sight returned, until the Sun arose, and then she recovered her perfect Sight.\n\nAnd in this Case she continued, until August 1692, when being returned from Epsom, where she had been drinking the Waters for about a Month, her sight returned to her again, so that she could see in the night perfectly. Thus she continued until January last, when an extraordinary Menstrual Flux again seizing her, her Nocturnal sight likewise left her, and she became Blind again as formerly.\n\nLast July she was seized with a Fever, when her sight again returned and continued for about a Month and then left her as formerly; so that now she hath her Nocturnal Blindness, and her Jaundice likewise continues.\n\nThus Sir, I have hereby troubled you with an exact Relation from time to time of matter of fact, and will leave the Philosophical Solution thereof, to be decided by the better Judgments of your self and others, in the mean time subscribe my self,\n\nSir, Yours, &c.\n\nV. Librorum",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102452.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 738,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1589,
+        2
+      ],
+      [
+        1589,
+        2718,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102452",
+    "title": "An Abstract of a Letter from Mr. Samuel Dale, to Dr William Briggs, M. D. F. R. S. Concerning a Contumaecious Jaundise, Accompanied with a Very Odd Case in Vision",
+    "authors": "Samuel Dale",
+    "year": 1694,
+    "volume": "18",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102452"
+  }
+}

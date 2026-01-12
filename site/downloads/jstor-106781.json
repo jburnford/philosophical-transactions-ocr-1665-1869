@@ -1,0 +1,59 @@
+{
+  "id": "6bea32149c6b1ebbb8c2c790e0c55ee8a23e5cf7",
+  "text": "of the cell, which is seldom done with wax alone, but with a mixture; and they sometimes cover the silk lining of the last chrysalis; but all this makes such cells clumsy, in comparison to the original ones.\n\nTo Charles Blagden, M.D. Sec.R.S.\n\nDear Sir,\n\nIn a Paper on the Chronology of the Hindoos, which the Society did me the honour to print in the LXXXth Volume of their Transactions, I have said (p. 566 and 570) that the era of Bikramajit commences in the year 56 before Christ, and that the year 1846 corresponds with our year 1790 (from April): but it appears from an examination of the numbers of an original Benares almanack, that I have calculated the elapsed time of that era one year short (by comparison with the era of Salabán, which being employed in astronomical computations is sufficiently ascertained), and that the year 1847, not 1846, should correspond with 1790, and the commencement of the era with the year 57 before Christ, both from April.\n\nI am very desirous that this error should be noticed as soon as possible, and request that the correction may have a place in the Volume now printing.\n\nI am, dear Sir, &c.\n\nWM. Marsden.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106781.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 359,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1153,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106781",
+    "title": "A Letter from William Marsden, Esq. F.R.S. to the Secretary",
+    "authors": "William Marsden",
+    "year": 1792,
+    "volume": "82",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106781"
+  }
+}

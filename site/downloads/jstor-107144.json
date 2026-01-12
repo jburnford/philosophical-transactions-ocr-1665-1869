@@ -1,0 +1,59 @@
+{
+  "id": "ef4937dbe9e1b1cad451a3d53afb0aacf464a90e",
+  "text": "XV. Observations on the Change of some of the proximate Principles of Vegetables into Bitumen; with analytical Experiments on a peculiar Substance which is found with the Bovey Coal. By Charles Hatchett, Esq. F. R. S. p. 385\n\nXVI. On two Metals, found in the black Powder remaining after the Solution of Platina. By Smithson Tennant, Esq. F. R. S. p. 411\n\nXVII. On a new Metal, found in crude Platina. By William Hyde Wollaston, M. D. F. R. S. p. 419\n\nERRATUM\n\nIn Part I. page 145, line 20, for 9199, read 9919.\n\nThe three Plates in the second Part are numbered VII, VIII, IX, instead of VI, VII, VIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107144.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 260,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        602,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107144",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1804,
+    "volume": "94",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107144"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "cd1194d886b70e24bea34489ef8d392ae3b6d4d3",
+  "text": "V. Mr. Alexander Orme's pectoral Syrup, sent in a Letter to Sir Hans Sloane, Bart. &c. from Culcutte, dated Jan. 25. 1733.\n\nBy Nantsjera Patsja Horti Malabarici cum toto q. v. Incis. & contus. coq. ex aquae font. q. f. Colatura fortiter express. adde Sacchari par pondus, & coque ad Syrupi consistentiam absque clarificatione.\n\nSome Uses of the pectoral Syrup.\n\nA Drop or two, with a little Honey, given to newborn Infants, greatly helps the necessary cleansing of the Bowels. Three or Four Drops are a safe Puke for them, and cleanse the Stomach and Bowels from that Phlegm that causes their Gripes.\n\nIt is of great Service in most Asthma's, and has relieved, when the best Remedies have failed. If the Fit is violent, give a large Spoonful of it, which will soon procure a Vomit or two. If the Fit is moderate, Two Tea Spoonfuls three times a Day will be sufficient.\n\nIn Fevers that are attended with a laborious Breathing, it has been found serviceable.\n\nIt is excellent in the Small-pox, as well to vomit in the Beginning, as to help on the necessary Salivation in the confluent Sort.\n\nIt helps Coughs, and promotes Expectoration.\n\nFrom these few Hints, a Physician will be able to adjust its Use in other Distempers. I should not\nrecommend it, had not repeated Experience convinced me of its Usefulness: And that it may be of Use to Posterity, I mean to Physicians that are really such, I give the Receipt of it to be given to the President and Censors of the College of Physicians, London.\n\nVI. A Letter from the Rev'd Mr. Henry Miles to Mr. John Eames, F. R. S. concerning the Seed of Fern.\n\nSIR,\n\nIn the Edition which the celebrated Boerhaave and Gaubius have given us of Swammerdam's Biblia Natura, sive Historia Insectorum, in Dutch and Latin, 2 Vol. in Fol. printed at Leyden 1737. and 1738. we have an Epistolary Dissertation on the Seed of the Male Fern, together with a very curious Cut, representing the Seed-vessels, their Mechanism, and the Seed, as viewed by a good Microscope; inserted at the End of the said History. The Cut I have attempted, with my unskilful Hand, to draw, as well as I could; and, possibly, it may help you to conceive of the Form of what it is designed to represent, in some measure.\n\nThe Author, I find, claims to himself the having first discovered the Seed of Fern, in his Dissertation, at the Beginning: \"You rightly judge\" (says he to his Friend) \"me to have been the first,\" &c. Boerhaave says,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104368.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 741,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1235,
+        2
+      ],
+      [
+        1235,
+        2441,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104368",
+    "title": "Mr. Alexander Orme's Pectoral Syrup, Sent in a Letter to Sir Hans Sloane, Bart. etc. from Culcutte, Dated Jan. 25. 1733",
+    "authors": "Alexander Orme",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104368"
+  }
+}

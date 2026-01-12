@@ -1,0 +1,79 @@
+{
+  "id": "7c6a5b9d26abb075de4e37c24201af03a235421e",
+  "text": "V. Part of a Letter of Dr Jo. Wallis F. R. S. to the Publisher, concerning the use of the Numeral Figures in England, in the year 1690.\n\nAug. 21. 1700.\n\nI Now send you, from Mr Thomus Luffkin of Colchester, a Draught fig.6. (as it is was sent to me) of the Window in Colchester, (mentioned in the Transactions Numb. 255, for the month of Aug. 1699) whereby it appears that the Numeral Figures were here in use in the year 1690.\n\nVI. A Letter of the Reverend Mr Abr. de la Pryme to the Publisher, concerning Broughton in Lincolnshire, with his observations on the Shell-fish observed in the Quarries about that place.\n\nSir,\n\nI Heartily thank you for your kind acceptance of my last Letter, which you thought worthy to insert into the Transactions: In answer to your further enquiries be pleas'd to understand as follows.\n\nBroughton lies by that Roman Way, which I have given you so large an account of in my former Letter.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102780.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 371,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        921,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102780",
+    "title": "Part of a Letter of Dr Jo. Wallis F. R. S. to the Publisher, concerning the Use of the Numeral Figures in England, in the Year 1090",
+    "authors": "Jo. Wallis",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102780"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "eebbf4f51cbe315761b5e74e2559c4aaf6473fa6",
+  "text": "I. Problematis Kepleriani, de inveniendo vero Motu Planetarum, areas temporis proportionales in Orbibus Ellipticis circa Focorum alterum descriptentium, Solutio Newtoniana; à D. J. Keill, Astr. Prof. Savil. Oxon. & R. S. S. demonstrata & exemplis illustrata.\n\nKEPLERUS primus demonstravit, Planetas non in Orbibus Circularibus, sed Ellipticis, deferrit; Solemque in Ellipsoide focorum uno situm ea ratione circumire, ut Radius à Planeta ad Solis centrum protensus, semper verrat Areas Ellipticas, quae temporibus quibus describuntur sunt proportionales.\n\nDivinum hoc sagacissimi Kepleri Inventum, exactissimis Tychonis Brahe Observationibus debetur; & tanto magis est suspiciendum, quod illius ope, Universale motuum leges, totiusque Mundani Systematis Philosophiam felicissime patefecerit Dominus Newtonus.\nCum itaque lege moveantur circa Solem Planetae,\nquo ipsorum loca in propriis Orbitis ad datum tempus\ndeterminentur, necesse est ut solvetur Problema quod\nsequitur.\n\nInvenire Positionem rectae, qua per datae Ellipsecos focum\nalterutrum transiens, abscindat A-\nream motu suo descriptam, qua sit\nad Aream totius Ellipsecos in ratione\ndata.\n\nSit nempe Ellipsis A P B, cu-\njus focus alteruter S. Inveni-\nenda est positio rectae S P, qua\nabscindat Aream trilineam A S P,\nad quam Area totius Ellipsecos\neandem rationem habet, quam\ntempus Periodicum Planetae El-\nliptici describentis, ad aliud\ntempus datum; qua inventa da-\nbitur punctum P ubi planeta ad\ntempus illud datum versatur. Vel\nsit A Q B semicirculus supra\nEllipsecos axem maiorem descrip-\ntus, ducenda est per S recta S Q\nabscindens Aream A S Q, ad quam Area totius circuli est\nin eadem ratione: si enim ex Q demittatur in Axem per-\npendicularis Q H, Ellipsis occurrens in P, ducta SP dabit\nAream Ellipticam quaestam; & punctum P erit locus\nPlanetae ad datum tempus. Est enim semisegmentum El-\nlipticum A P H ad semisegmentum circulare A Q H, ut\nH P ad H Q, hoc est, ut area totius Ellipsecos ad aream\ntotius Circuli; sed est triangulum S P H ad triangulum\nS Q H in eadem ratione P H ad Q H: Adeoque Area ASP\nest ad Aream totius Ellipsecos, ut area AS Q ad aream to-\ntius Circuli. Unde si habeatur methodus secandi in data\nratione Aream circuli, recta ducta per datum punctum S,\nfacile erit hac ipsa ratione secare Aream Ellipticam.\n\nIpsi\nIpsi Keplerio, qui primus Problemata proposuit, nulla innotuit Methodus directa computandi locum Planetarum ex dato tempore; sed illi necesse fuit, per singulos gradus semicirculi AQB progrediendo, ex dato arcu AC, quam vocat Anomaliam Excentri, tam tempus per aream ASQ, quae Anomaliae mediae est proportionalis, quam angulum ASP, hoc est locum Planetarum, seu Anomaliam consequentem, huic temporis respondentem, calculo eruere.\n\nCum itaque difficilis facta hujus Problematis solutio, Astronomi ad alias transiverant Hypotheses, fingendo punctum aliquod circa quod motus foret æquabilis, seu temporis proportionalis, & exinde data Anomalia media, coxquatam determinabant. Sed computus hisce hypothesibus innixus, observationibus non congruere deprehensus est: Itaque Geometrae varias adhibuerunt approximationes, quibus ex data Area ASQ temporis Analogia, angulus ASP, hoc est Planetarum locus, quam proxime elicatur. At horum omnium facilissima, & ad Praxim maxime expedita, mihi videtur esse illa methodus quam tradit Dominus Newtonus in Principiis, pag. 111 & 112. Edit. imæ, qua fere similis est ei, qua ex æquationibus affectis extrahunt Radicem Analyseæ; & quidem tanto magis est æstimanda, quod non solum exhibeat Planetarum loca, quorum orbitæ ad Circuli formam proxime accedunt, sed eadem fere facilitate inservit etiam Cometis, qui in orbitis maxime excentricis moveantur.\n\nHanc itaque methodum in gratiam Artificum, qui Tabulas Astronomicas secundum veras motuum leges, & non ex fictis hypothesibus condere volunt, hic exponendam duxi.\n\nSit itaque AQB semicirculus supra Axem majorem Ellipso descriptus, cujus centrum C, & focus in quo Sol locatur sit S. Ducatur CQ, in quam (si opus sit) productam cadat perpendicularis SF. Est Area ASQ = sectori ACQ + Triang. CSQ = \\(\\frac{1}{2}CQ \\times AQ + \\frac{1}{2}CQ \\times SF\\); adeoque ob datam \\(\\frac{1}{2}CQ\\) erit Area ASQ semper pro-\nproportionalis arcui \\( A Q + recta S F \\), cum scil. motus sit ab Aphelio versus Perihelium: at cum à Perihelio ad Aphelion tendit Planeta, ut in Figura quarta, fit Area \\( BSQ = sectori BCQ — Triang. CSQ \\), adeoque; erit illa proportionalis arcui \\( BQ — recta SF \\). Hinc si capiatur Arcus \\( AN \\) in Fig. 2. & 3. & \\( BN \\) in Fig.4. temporibus proportionalis, erit \\( AQ + SF = AN \\), & \\( BQ — SF = BN \\): unde \\( SF \\) erit \\( = QN \\), modo arcus \\( AN \\) vel \\( BN \\) sint proportionales temporibus quibus describuntur areae \\( ASQ \\) vel \\( BSQ \\). Ut vero inveniatur in gradibus eorumque partibus mensura arcus in peripheria \\( AQB \\), qui sit æqualis rectæ \\( SF \\), Fiat ut \\( CQ \\) ad \\( CS \\) ita arcus graduum \\( 57,29578 \\) (qui æqualis est \\( CQ \\) radio) ad arcum quartum, qui æqualis erit \\( CS \\). Sit arcus ille \\( B \\). Est autem \\( CS \\) ad \\( SF \\) ut Radius ad sinum anguli \\( SCF \\) vel \\( ACQ \\). Fiat itaque ut Radius ad sinum anguli \\( ACQ \\) vel arcus \\( AQ \\), ita arcus \\( B \\) ad alium \\( D \\); erit arcus ille \\( D \\) æqualis rectæ \\( SF \\), adeoque; si, ad datum tempus, Area \\( ASQ \\) esset temporis proportionalis, esset Arcus \\( D = NQ \\): & capiendo arcum \\( NP = D \\), punctum \\( P \\) caderet in \\( Q \\). Si vero Area \\( ASQ \\) non exacte temporis respondeat, punctum \\( P \\) cadet supra vel infra \\( Q \\), prout Area \\( ASQ \\) major sit vel minor verâ Areae quae temporis respondeat. Sit ea \\( ASq \\) & in \\( Cq \\) cadat perpendicularis \\( SH \\): erit per haec tenus demonstrata \\( SH = Nq \\), At est \\( SF = NP \\), unde erit \\( SH — SF \\) vel \\( SF — SH \\), hoc est fere \\( HE = qP = QP — Qq \\) vel \\( = Qq — QP \\): Et si angulus \\( QCq \\) sit parvus, erit \\( CH : CQ :: HE : Qq :: QP — Qq : Qq \\), unde \\( CQ + CH : CQ :: QP : Qq \\), cum arcus \\( AQ \\) est quadrante minor. At cum is est quadrante major, erit \\( CQ — CH : CQ :: QP : Qq \\). Et similiter cum arcus \\( BQ \\) est quadrante minor, erit \\( CQ — CH : CQ :: QP : Qq \\).\n\nSi angulus \\( ACQ \\) vel \\( BCQ \\) parvus sit, h.e. si Planeta prope Apsides versetur, erit ut \\( CA + CS : CA :: QP : Qq \\).\nFiat ut CS ad CQ, ita Radius R ad longitudinem quan-\ndam L, erit CQ = \\frac{CS \\times L}{R}. Est vero Radius ad cosinum\nanguli ACQ ut SC ad CF vel CH (sunt enim CH & CF\nfere æquales) quare erit CH = \\frac{SC \\times \\cos ACQ}{R}, adeoq; QP:\nQq :: \\frac{CS \\times L + CS \\times \\cos ACQ}{R} : \\frac{CS \\times L}{R} :: L +\n\\cos ACQ : L, cum arcus AQ sit quadrante minor. At\nsi AQ sit quadrante major, erit QP : Qq :: L — \\cosin.\nACQ : L.\n\nAtque hac ratione si capiatur utcunq; arcus AQ, qui\naliquantisper minor sit aut major vero, invenietur exinde\narcus Qq huic addendus aut demendus, qui facit ut Area\nASq sit quam proxime temporis proportionalis. Et si\nloco AQ capiatur arcus Aq, & instituatur processus pri-\nori similis, invenietur alius Aq, qui similiter eundem re-\npetendo processum dabit alium Aq, atq; sic quantumvis\nproxime ad veritatem accedere licebit.\n\nInvento angulo ACq, facile habebitur angulus ASq,\ncum in triang. q CS dentur latera Cq & CS & angulus\nq CS. Dabitur exinde angulus CSq cujus tangens dimi-\nnuendus est in ratione axis minoris Ellipseos ad majorem,\nut tandem habeatur tangens anguli ASP. Vel sic forte\nfacilius investigatur angulus ASP. Sit F numerus qui ex-\nprimit longitudinem CS in partibus qualium CQ est\n100000 : a puncto q ad axem demittatur perpendicularis\nqr, qui erit sinus arcus dati Aq, & erit Cr ejusdem cosinus\n& Sr = summæ vel differentiæ rectarum Cr, CS, hoc est\nSr = F + \\cosin. ACq: adeoq; in rectangulo triangulo\nrSq, datis Sr, rq, invenietur angulus rSq. Hiunc si in\nunam summam addantur sinus Log. ang. ACq, comple-\nmentum Arithmeticum Logarithmi Sr, & Logarithmus\nrationis axis minoris Ellipseos ad majorem dabitur Tan-\ngens anguli ASP.\n\nTanta\nTanta autem est hujus methodi facilitas ut ea exemplis magis quam ulteriori explicatione indigeat; adeoque licebit eam in motibus Planetarum Martis experiri, in cujus orbita, secundum Tabulas Carolinas, Excentricitas est ad distan- tiam mediam ut 14100 ad 152369, adeoque Logarithmus arcus B, qui æqualis est rectæ S C, erit 0,7244451. Erit etiam in hoc exemplo L partium 1080631 qualium Radius est 100000: Inveniendus sit angulus A C Q cum motus medius, seu arcus temporis proportionalis ab Aphe- lio computatus, sit unius Gradus. Quoniam CS sit hic fere pars decima ipsius CA, pono Arcum AQ esse 0,9 grad. decima scilicet parte minorem motu medio. Addatur sinus Logarithmicus arcus AQ ad Log. B, & fit summa 8,9205471 = Log. numeri 0,083281 qui numerus expri- mit arcum æqualem rectæ SF = NP. Et si arcus AQ esset recte assumptus, foret AN—NP = AQ, & QP = 0. At hic est QP = 0,016719, a quo si auferatur ejus pars undecima, cum AS superat AC undecima circiter ipsius parte, restabit QQ = 0,01523; qui additus ad AQ dat AQ = c.9152, qui ne millesima gradus parte a vero AQ differt. Sit secundo Arcus AN seu motus medius = 2 gr. Pono AQ = 1,83 prioris AQ fere duplum, & ad ejus sinum Log. addatur Log.B: erit summa 9.2286997 = Log. numeri 0,16931, unde erit QP 0,00069; a quo si subduca- tur ejus pars undecima, fit QQ = 0,00063, & AQ = 1,83063, qui ne decies millesima gradus parte a vero AQ discrepat. Eodem modo sit motus medius seu arcus temporis proportionalis grad. 3. Fiat arcus AQ 2,745 = 1,83 + 0,915, & ad ejus sinum Log. addendo Log. B, habebitur Log. numeri 0,25392 = NP, & AN—NP = 2,74608, adeoque QP = 0,00108, unde QQ fere = 0,001 & AQ = 2,746. Sic unica duorum Logarithrorum additione inveniatur arcus AQ, qui erit verus ad gradus partes millesimas.\n\nSi jam non gradatim sed per saltum pergendo, inveniendus sit angulus AC q, cum motus medius est grad. 45. Pono arcum AQ esse graduum 40, & ad sinum ejus Lo- garithm-\ngarithmicum addendo Log. B fit summa $0.5325125 =$ Log. numeri $3,4081$; qui numerus à $45$ subductus relinquit $AN - NP = 41,5919$, cujus excessus supra arcum $AQ$ est $1,5919$. Unde si fiat ut $L + col. ACQ ad L ita 1,5919$ ad alium, invenietur arcus $QQ$ esse graduum $1.4865$, adeoque $Aq = 41,4865$, qui non multum supra millesimam gradus partem à vero differt. Verum absq; hac proportione inveniri potest $Aq$, capiendo novum arcum $AQ$, qui sit aliquantulum minor quam $AN - NP$, eadem tamen fere æqualis; scil. si $AQ = 41,50$, & addendo Log. datum $B$ ad ejus sinum Log. habebitur alter $NP = 3.35:31$, qui ab $AN$ subductus dat $41,4869$ pro novo $Aq$: & hic arcus minore labore eruitur, & aliquanto propius ad verum accedit quam prior $Aq$.\n\nPost inventionum $Aq$ correspondentem motui medio $45°$, rursus gradatim pergendo, unica duorum Logarithrorum additione, habebitur $Aq$, ad omnes motus medij gradus subsequentes. Nempe cum motus medius sit grad. $46$, pono $AQ = 42,40$. & addendo ejus sinum Log. ad constantem $B$, fit $AN - NP = 42,4249$; cui arcui si novus $AQ$ æqualis ponatur, habebitur $Aq$, qui ne millesima gradus parte à vero $Aq$ discrepabit. Sic cum motus medius sit $47°$, pono $AQ = 43,36 = priori Aq + incremento istius arcus pro uno gradu motus medij, & addendo ejus sinum Log. ad Log. $B$, fit summa = Log. numeri $3,6402$, qui ab $AN$ subductus relinquit $AN - NP = 43,3598$ = novo $Aq$, qui circiter gradus parte decies millesima à vero $Aq$ discrepat.\n\nSi omissis gradibus intermediis inveniendus esset arcus $Aq$, cum motus medius sit gr. $100$. Pono $AQ$ grad. $96$, & addendo ejus sinum Log. ad Log. $B$, fit summa = Log. numeri $5,273$ unde, $AN - NP = 94,727$. Itaque pono secundo $AQ = 94,72$ & addendo ejus sinum ad Log. $B$, habebitur Log. numeri $5,285$, qui ab $AN$ subductus dat $AN - NP = 94,715 = Aq$ quam proxime. Similiter si motus medius sit grad. $101$, pono $AQ$ esse $95,71$,\ncujus sinus Log. ad Log. B additus dat Log. numeri 4,2756; quo numero ab 101 sublato, restabit AN — NP = 95, 7244 = Aq. Atq; hac ratione, dato motu medio, si gradatim fiat processus, habebitur angulus ad centrum per unicum tantum duorum logarithmorum additionem; quorum unus, qui constans est, in charta seorsim servandus, quo labori saepius eundem exscribendi parcatur.\n\nTransamus jam ad Orbitam alterius speciei, talem nempe ut distantia Aphelij sit ad distantiam Perihelij ut 70 ad 15, qualis fere est istius Cometae Orbita quem Periodum suam annis 75 completere primus deprehendit Sagacissimus Astronomus & Geometra D. Edmundus Halleius, Geometriae Professor Savilianus. In hac Orbita crit AC vel CQ partium 35,5, & CS 34,5 qualium SB est una. Et inveniendus est arcus Bq, cum motus medius est gradus pars centesima. Quoniam media distantia trigesies & quinquies circularis superat distantiam minimam, pono BQ = 0,35, cum motus medius est 0,01. In hac Orbita invenitur constans Log. B = 1,7457133. Hic itaque Log. ad sinum Log. arcus 0,35 additus dat Log. numeri 0,34013, qui ad arcum 0,01 additus crit = 0,35013. Si hæc summa esset æqualis 0,35, arcus BQ esset recte assumptus: sed differentia est 0,00013. Unde quoniam CB est ad SB ut 35,5 ad 1, multiplicetur differentia 0,00013 per 35,5, & prodibit Qq = 0,004615; unde erit arcus Bq = 0,354615, qui vix per partes tres decies-millesimas a vero discrepat.\n\nSit secundo motus medius 0,02, & ponatur BQ esse 0,71. Ad ejus sinum Log. addendo Log. B, fit summa = Log. numeri 0,68998, unde BN + NP = 0,70998, adeoque arcus assumptus BQ = 0,71 nimius fuit: & est differentia = 0,00002, quæ si per 35,5 multiplicetur & productus a BQ subducatur, restabit Bq = 0,7092, vix gradus parte decies-millesima a vero aberrans.\n\nSit motus medius 0,03. Ponatur BQ esse 1°,06: addendo ejus Log.sin, ad Log.B, fit summa = Log. numeri 1,03008,\ncui si addatur $BN = 0.03$, fit summa $1.06008$, qui numerus major est quam $BQ$; quare si differentia $0.00008$ per $35.5$ multiplicetur & ad $BQ$ addatur, erit $Bq = 1.06284$. Similiter cum motus medius sit $0.04$, pono $BQ = 1.40$ & invenio $NP = 1.3604$; ad quem numerum addendo $BN = 0.04$ fit summa $= 1.4004$ qui superat $1.40$ per $0.0004$. Multiplicetur hæc differentia per $35.5$ & productus $0.01420$ erit æqualis $Qq$, unde $Bq = 1.41420$. In hisce omnibus errores sunt admodum exiguī, & raro millesimam gradus partem transcurrentes.\n\nInveniendus sit jam arcus $Bq$, cum motus medius sit æqualis uni gradui. Pono $BQ = 20°$, & addendo ejus sinum Log. ad Log. $B$, habebitur Log. numeri $19.045$; cui addendo $BN = 1°$, summa $20.045$ superat $20$ per $0.045$: Et cum in hoc casu $L — \\cosin BQ$ est ad $L$ ut $1$ ad $11.5$ fere, multiplico differentiam $0.045$ per $11.5$, & productus $5175$ ad $BQ$ additus facit $20.5175$. Pono igitur secundo $BQ = 20.51$, & prodibit, similiter ut in præcedentibus, $NP = 19.5092$; cui addendo $BN$ fit summa $20.5092$, qua minor est quam $BQ$: unde si differentia $0.0008$ multiplicetur per $11.5$, & productus $0.0092$ subtrahatur a $BQ$, restabit $Bq = 20.5008$.\n\nSit denique motus medius æqualis duobus grad. Pono $BQ$ grad. $30°$, & invenitur $NP = 27.84$, cui addendo gradus duos, summa $29.84$ minor est quam $30°$; & si multiplicetur differentia $0.16$ per $6.3$ (nam $L — \\cosin BQ$ est ad $L$ ut $1$ ad $6.3$ fere) fit $1.008 = Qq$; adeoque hic arcus a $BQ$ subductus dat $Bq = 28.982$: Ut vero corrigitur $Bq$, assumo secundo $BQ = 29°$, & simili pro-cessu inveniatur $Bq = 28.9672$.\n\nII. De",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103175.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16512,
+    "total-output-tokens": 6083,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        808,
+        2
+      ],
+      [
+        808,
+        2300,
+        3
+      ],
+      [
+        2300,
+        4196,
+        4
+      ],
+      [
+        4196,
+        4196,
+        5
+      ],
+      [
+        4196,
+        6298,
+        6
+      ],
+      [
+        6298,
+        7989,
+        7
+      ],
+      [
+        7989,
+        9922,
+        8
+      ],
+      [
+        9922,
+        11855,
+        9
+      ],
+      [
+        11855,
+        13736,
+        10
+      ],
+      [
+        13736,
+        15386,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "None",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103175",
+    "title": "Problematis Kepleriani, de Inveniendo Vero Motu Planetarum, Areas Tempori Proportionales in Orbibus Ellipticis Circa Focorum Alterum Describentium, Solutio Newtoniana; A D. J. Keill, Astr. Prof. Savil. Oxon. & R. S. S. Demonstrata & Exemplis Illustrata",
+    "authors": "D. J. Keill",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/103175"
+  }
+}

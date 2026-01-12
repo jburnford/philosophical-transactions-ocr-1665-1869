@@ -1,0 +1,89 @@
+{
+  "id": "38d1d3bde6ae3bf9d0c8deb57bdb08ba254bb676",
+  "text": "XXIV. Observations on the Eclipse of the Sun, April 1, 1764: In a Letter to the Right Honourable James Earl of Morton, Pres. R. S. from the Rev. Nathanael Bliss, M. A. Savilian Professor of Mathematics at Oxford, and Astronomer Royal.\n\nMy Lord,\n\nRead May 10, 1764.\n\nAs I had reason to believe, from a calculation made from the best lunar tables, that the north-west limit of the annular appearance, in the late great eclipse of the Sun, would pass but a few miles to the South-west of the Royal Observatory at Greenwich, I thought myself indispensably obliged, to leave Oxford, where my employment then called me; and to attend to an observation which might possibly be of some consequence. And I had at the same time an opportunity of paying my duty to their Royal Highnesses Prince William Henry and Prince Henry Frederick, who had signified their intention a few days before, of honouring the Royal Observatory with their presence on that occasion.\n\nOn the 1st of April, soon after eight in the morning, their Royal Highnesses arrived, and were pleased to signify to me, that it was their desire, notwithstanding their presence, that the observations might be made with all possible accuracy. Their Royal Highnesses were also pleased to permit his excellency\nthe Neapolitan envoy extraordinary, the right honourable Lord Leigh, Dr. Morton, S. R. S. and several other gentlemen to be present.\n\nEarly in the morning the sky seemed to promise to be favourable to us; but before the time when the eclipse was expected to begin, it became so hazy that we almost despaired of making any observation at all. However Mr. Reeve, the assistant observer, was prepared to observe on the triangular leads, with a two foot reflecting telescope made by Mr. Short, and on March 31st, 21h 5' 3'' apparent time, he saw the first impression made on the Sun's limb by the Moon; the sky being got tolerably clear a few minutes before. Mr. John Bird, mathematical instrument maker in the Strand; with a two feet reflecting telescope made by himself, on the leads over the new chamber, did not see the beginning, by reason of a tremor, until six seconds later. I myself was endeavouring to observe it with an excellent refractor of 15 feet focal length in the great room: but, having at that time a watery defluxion on my eyes occasioned by a cold, I was unfortunately obliged to wipe my eye perhaps at the very time of the contact: for at 21h 5' 30'' when I again applied my eye to the telescope and placed it on the object, the eclipse was sensibly advanced. So that I apprehend the beginning as observed by Mr. Reeve to be very near the truth.\n\nIt had been before agreed that Mr. Reeve, to whose eye the reflecting telescope had been adjusted when armed with Dollond's micrometer, should observe the quantity of the lucid parts, as they decreased before the middle, and also as they increased after the\nthe middle was past; while Mr. Bird and myself, with the old micrometer applied to the 15 foot tube, should measure the Moon's diameter as seen upon the Sun: But unfortunately, some time before the middle of the eclipse, the haziness became so very thick that we lost sight of the Sun for many minutes. But as soon as the clouds began to disperse, Mr. Reeve observed the lucid parts as under, but did not ascertain the time at either observation.\n\n$2' 55''$, $5-3' 0''$, $2-3' 28''$, $7-3' 47''$, 6 with several others that increased much faster. By a mean of six observations made (as near the middle as the clouds would permit) both by Mr. Bird and myself, the extremes of which did not differ so much as $3''$, the Moon's equatorial diameter was found to be $29' 45\\frac{1}{2}''$ as seen on the Sun.\n\nAs the observations of the lucid parts were made as fast as the numbers of the micrometer could be read off, and as the difference increased but slowly at first, we will suppose the two first observations to have been made not long after the time of the middle, and at the time of the first observation, the Sun was at least eclipsed 10, 9 digits.\n\nThe Sun's horizontal diameter, as observed by Mr. Reeve, with the same micrometer, on the day before, and on the morning of the eclipse, was $31' 56\\frac{1}{2}''$, being a mean of six observations not sensibly differing.\n\nAbout 11 o'clock the haziness became so thick that no further observations could be made, nor, at the time when the end was expected, could the Sun be seen.\nAt the observatory of the right honourable the Earl of Macclesfield at Shirburn Castle, the beginning of the eclipse was observed at $21^h\\ 0'48''$ apparent time by one observer, and but one second later by the other. And the end was observed at $23^h\\ 56'10''$; but this last observation is marked as very doubtful, the air being extremely hazy.\n\nIf your Lordship should think the above observations worthy of the attention of the Royal Society, and will be pleased to communicate them to that learned body, it will very much oblige,\n\nMy Lord,\n\nYour Lordship's and their most obedient humble servant,\n\nNathanael Blifs.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105540.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 1364,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1262,
+        2
+      ],
+      [
+        1262,
+        2886,
+        3
+      ],
+      [
+        2886,
+        4418,
+        4
+      ],
+      [
+        4418,
+        5037,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105540",
+    "title": "Observations on the Eclipse of the Sun, April 1, 1764: In a Letter to the Right Honourable James Earl of Morton, Pres. R. S. from the Rev. Nathanael Bliss, M. A. Savilian Professor of Mathematics at Oxford, and Astronomer Royal",
+    "authors": "Nathanael Bliss",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105540"
+  }
+}

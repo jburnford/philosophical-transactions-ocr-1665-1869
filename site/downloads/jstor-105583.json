@@ -1,0 +1,79 @@
+{
+  "id": "f2be2519c61cd4994838156b78c1fb0cd1e08abe",
+  "text": "VI. A Letter from the Rev. Nevil Maskelyne, M.A. F.R.S. to William Watson, M.D. F.R.S.\n\nSIR,\n\nPrince Henry, St. Helen's Road,\nJan. 17, 1761.\n\nRead Jan 22, 1761.\n\nIn a letter which I wrote to you from this place, the beginning of this week, I desired you would, in your answer to Abbé De la Caille, acquaint him, that I had proposed to the Royal Society the observations of the moon's parallax, before his letter came; and that Dr. Bradley was to make observations at Greenwich, correspondent to mine at St. Helena; and that I was drawing up a list of the proper observations to be made, and the proper stars with which the moon was to be compared, which I proposed to transmit to the Abbé De la Caille, in order that he might attend to the same observations, if he thought proper. But as he has made out a list of proper opportunities of observing, I shall only set down five observations to be added thereto, which I beg you will transmit to the Abbé De la Caille; and likewise deliver a copy of the same to Dr. Bradley.\n\nI also desired in my letter, that you would desire the Abbé De la Caille, and the other French astronomers by him, to attend to the observations of the eclipses of Jupiter's satellites, especially the first, from May 1761 to June 1762, inclusive, in order to settle the difference of longitude between Paris and St. Helena; which if it came in the name of the Society, it would be better; and that you would also deliver it\nit as my request to the Society, that they would recommend it to my Lord Macclesfield, Dr. Bradley, Mr. Raper, and Mr. Short, and any other gentlemen they know propose to attend carefully to the observation of the transit of Venus, to make as many observations of the eclipses of the satellites as they conveniently can, in order to settle the difference of longitude between their place of observation and St. Helena, in the most exact manner; which is of the utmost importance with respect to the use to be made of the observations of the transit of Venus.\n\nWe sailed from hence last Tuesday; but the wind not holding, returned hither again the next day. We are now under way again; but doubt whether the wind will serve for us. I am sorry to hear of the accident, which befell the Sea-horse, though they came off victors. I hope it will not stop their voyage; for I learn, that if they sail in a fortnight, they may still be in time.\n\nI am,\n\nYour obedient\n\nhumble servant,\n\nN. Maskelyne.\nVII. A Dissertation upon a Samnite Denarius, never before published. In a Letter to the Rev. Thomas Birch, D.D. Secretary to the Royal Society, from the Rev. John Swinton, B.D. of Christ-Church, Oxon. F.R.S.\n\nReverend Sir,\n\nRead Jan. 15, and 29, 1761. Since the communication of my last paper to the Royal Society, I have met with another Samnite denarius; which will, in a great measure, confirm what I endeavoured to evince in that paper. This inedited silver coin is adorned with two Etruscan inscriptions, that very well merit the attention of the learned. It is of the size of the larger consular denarii, discovers much of the Roman taste, and is in the finest conservation. On one side it exhibits a galeated head, in all respects agreeing",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105583.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 903,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1447,
+        2
+      ],
+      [
+        1447,
+        2438,
+        3
+      ],
+      [
+        2438,
+        3184,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105583",
+    "title": "A Letter from the Rev. Nevil Maskelyne, M. A. F. R. S. to William Watson, M. D. F. R. S.",
+    "authors": "Nevil Maskelyne",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105583"
+  }
+}

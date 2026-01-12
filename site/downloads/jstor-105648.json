@@ -1,0 +1,59 @@
+{
+  "id": "9207b1bec4fb5448770a7ad4b4aff1085a6f21a7",
+  "text": "I directed him pills of Millepedes and Gum Ammoniac made up with Bal. Sulph. to be taken twice a day, drinking warm milk after them; by which means, he grew perfectly well, and went to sea in twelve days.\n\nLXX. A Letter from Benjamin Franklin, LL. D. and F. R. S. to the Reverend Thomas Birch, D. D. and Secretary to the Royal Society.\n\nS I R,\n\nCraven-Street, Feb. 4, 1762.\n\nRead Feb. 4, 1752.\n\nM R. Canton did me the favour to shew me the ingenious experiments he has described in the inclosed letter. They succeeded perfectly as he has related them; and I imagine, the communication of them must be agreeable to the curious in this branch of natural knowledge.\n\nI am,\n\nS I R,\n\nWith great respect,\n\nYour most obedient\n\nand most humble servant,\n\nB. Franklin.\n\nLXXI.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105648.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 267,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        765,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105648",
+    "title": "A Letter from Benjamin Franklin, LL. D. and F. R. S. to the Reverend Thomas Birch, D. D. and Secretary to the Royal Society",
+    "authors": "Benjamin Franklin",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105648"
+  }
+}

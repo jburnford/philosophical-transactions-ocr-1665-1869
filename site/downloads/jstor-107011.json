@@ -1,0 +1,79 @@
+{
+  "id": "3f293fa3401f67e11879e6ea1ba8ade5fef4d6d1",
+  "text": "XVI. Newton's Binomial Theorem legally demonstrated by Algebra. By the Rev. William Sewell, A. M. Communicated by Sir Joseph Banks, Bart. K. B. P. R. S.\n\nRead May 12, 1796.\n\nLet \\( m \\) and \\( n \\) be any whole positive numbers; and \\( 1 + x^n \\) a binomial to be expanded into a series, as \\( 1 + Ax + Bx^2 + Cx^3 + \\ldots \\), &c. where \\( A, B, C, D, \\ldots \\) are the coefficients to be determined.\n\nAssume \\( v = 1 + x^n = 1 + Ax + Bx^2 + Cx^3 + Dx^4 + \\ldots \\), &c.\n\nAnd \\( z = 1 + y^n = 1 + Ay + By^2 + Cy^3 + Dy^4 + \\ldots \\), &c.\n\nThen will \\( v = 1 + x \\), and \\( z = 1 + y \\ldots v - z = x - y \\).\n\nAnd \\( v - z = A \\times x - y + B \\times x^2 - y^2 + C \\times x^3 - y^3 + D \\times x^4 - y^4 + \\ldots \\), &c.\n\nConsequently \\( \\frac{v - z}{v^n - z^n} = A + B \\times x + y + C \\times x^2 + xy + y^2 + D \\times x^3 + x^2y + xy^2 + y^3 + \\ldots \\), &c. Now \\( v - z \\times : v^{n-1} + v^{n-2}z + v^{n-3}z^2 + \\ldots z^{n-1} \\). Also \\( v - z = v - z \\times : v^{n-1} + v^{n-2}z + v^{n-3}z^2 + \\ldots z^{n-1} \\). Therefore \\( \\frac{v - z}{v^n - z^n} \\) reduces to, and becomes \\( \\frac{v^{n-1} + v^{n-2}z + v^{n-3}z^2 + \\ldots z^{n-1}}{v^{n-1} + v^{n-2}z + v^{n-3}z^2 + \\ldots z^{n-1}} \\).\n\n\\( = A + B \\times x + y + C \\times x^2 + xy + y^2 + D \\times x^3 + x^2y + xy^2 + y^3 + \\ldots \\), &c.\n\nThe law is manifest; and it is likewise evident that the\nnumerator and denominator of the fraction, respectively terminate in \\( m \\) and \\( n \\) terms. Suppose then \\( x = y \\); then will \\( v = z \\); and our equation will become \\( \\frac{mv^n}{nv^m} = A + 2Bx + 3Cx^2 + 4Dx^3 + \\ldots \\), &c.\n\nBut \\( v^n = 1 + x \\), therefore by multiplying we have \\( \\frac{mv^n}{n} = A + A + 2Bx + 2B + 3Cx^2 + 3C + 4Dx^3 + \\ldots \\). Or \\( v^n = \\frac{1 + x^n}{1 + x^n} = \\frac{nA}{m} + \\frac{nA + 2nB}{m} x + \\frac{2nB + 3nC}{m} x^2 + \\frac{3nC + 4nD}{m} x^3 + \\ldots \\), &c.\n\nCompare this with the assumed series, to which it is similar and equal, and it will be\n\n\\[\n\\begin{align*}\n\\frac{nA}{m} &= 1 \\\\\n\\frac{nA + 2nB}{m} &= A \\\\\n\\frac{2nB + 3nC}{m} &= B, \\\\\n&\\ldots, &\\ldots.\n\\end{align*}\n\\]\n\n\\[\n\\therefore A = \\frac{m}{n}; \\quad B = \\frac{m - nA}{1.2.n}; \\quad C = \\frac{m - 2nB}{1.2.3.n}; \\quad \\ldots\n\\]\n\nTherefore \\( \\frac{1 + x^n}{1 + x^n} = 1 + \\frac{m}{n} x + \\frac{m \\times m - n}{1.2.n^2} x^2 + \\frac{m \\times m - n \\times m - 2n}{1.2.3.n^3} x^3 + \\ldots \\), &c. The law is manifest, and agrees with the common form derived from other principles.\n\nSch. In the above investigation, it is obvious that unless \\( m \\) be a positive whole number, the numerator abovementioned does not terminate: it still remains, therefore, to shew how to derive the series when \\( m \\) is a negative whole number. In this case, the expression \\( (v^n - z^n) \\) assumes this form, \\( \\frac{1}{v^n} - \\frac{1}{z^n} \\), or its equal \\( \\frac{z^n - v^n}{v^n z^n} \\), which divided by \\( v^n - z^n \\), as before, gives\n\n\\[\n\\frac{1}{v^n z^n} \\times \\frac{z^n - v^n}{v^n - z^n} = \\frac{1}{v^n z^n} \\times \\frac{v^n - z^n}{v^n - z^n} \\times \\frac{v^n - z^n}{v^n - z^n} \\times \\frac{v^n - z^n}{v^n - z^n} \\times \\ldots, &c.\n\\]\n\\[\n\\frac{1}{v^n z^{n+1}} \\times \\frac{v^{m-1} + v^{m-2} z + v^{m-3} z^2 + \\ldots}{v^{n-1} + v^{n-2} z + v^{n-3} z^2 + \\ldots} = (\\text{when } v = z) - \\frac{mv^{m-1}}{v^{2m} \\times nv^{n-1}}\n\\]\n\n\\[= \\frac{-mv^{m-n}}{n}, \\text{ which is the same as the expression } \\left( \\frac{mv^{m-n}}{n} \\right) \\text{ before derived with only the sign of } m \\text{ changed. The remainder of the process being the same as before, shews that the series is general, or extends to all cases, regard being had to the signs. Q.E.D.}\\]",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107011.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1667,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1357,
+        2
+      ],
+      [
+        1357,
+        3100,
+        3
+      ],
+      [
+        3100,
+        3617,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107011",
+    "title": "Newton's Binomial Theorem Legally Demonstrated by Algebra. By the Rev. William Sewell, A. M. Communicated by Sir Joseph Banks, Bart. K. B. P. R. S.",
+    "authors": "Joseph Banks, William Sewell",
+    "year": 1796,
+    "volume": "86",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107011"
+  }
+}

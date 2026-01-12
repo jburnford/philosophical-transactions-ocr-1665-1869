@@ -1,0 +1,59 @@
+{
+  "id": "7816c57d544e2ce993bbb21b0935ca2a7516b1d4",
+  "text": "An Advertisement.\n\nViris Eruditis Saciæ Antiquitatis Studiosis Joannes Anissonius. Praefectus Typographeo Regis Christianissimi.\n\nCOEPTA sunt nuper a nobis Acta Conciliorum, cum Epistolis Decretalibus & Constitutionibus Summorum Pontificum Regis typis imprimi. Damus autem operam, ut elegantia characterum & chartæ nitore, priores reliquas editiones hæc editio longe antecellat.\n\nProdire enimvero voluit adeo utile Reipublicae Christianæ opus e suo Typographeo Christianissimus Rex Ludovicus Magnus: jussitque nulli in eam rem opera vel sumptui parci. Optat ille nimium, ut & legentium oculos illicitat detineatque cum voluptate perfectio artis in eo opere: & potissima sumptuum parte in se ultro suscepta, sentiant in hoc quoque genere Regiam munificentiam, tum viri Principes, quos hisce voluminibus muneraturus est: tum privatus quisque, non modo e subjectis sibi, verum etiam ex universo orbe Christiano facta scilicet omnibus copia comparandæ hujus editionis Regie multo minori pretio, quam qua privati cujusquam Typographi, aut collatitiis societatis ullius Typographicae impensis prodire possit in lucem.\n\nContulere certe annos jam complures in emendationem Graeci Latinique contextus, collectionemque diversorum monumentorum & variarum lectionum ex quanturimis optimisque Mss. ad hanc editionem omnibus numeris absolventdam, vires percruditi: quibus si quis aliquid nihilominus indicandum putaverit, quod huic operi locupletando & perficiendo prospere scripsis ad nos literis ut id efficiat flagitamus; praestituri vicissim, ut ejusdem fiat, collatique ab eo beneficìi mentio perhonorifica in prefatione operi praefigenda. Parisis, v. Kal. Maias, anni MDCLXXXIX.\n\nLondon: Printed for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard, 1699.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102656.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 606,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1805,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102656",
+    "title": "An Advertisement",
+    "authors": null,
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102656"
+  }
+}

@@ -1,0 +1,1049 @@
+---
+layout: default
+title: "A Memoir on the Theory of Matrices"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/148/">Volume 148</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>A Memoir on the Theory of Matrices</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">Arthur Cayley</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1858</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">148</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">22 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-108649.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-108649.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/108649" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">II. A Memoir on the Theory of Matrices. By Arthur Cayley, Esq., F.R.S.
+
+Received December 10, 1857,—Read January 14, 1858.
+
+The term matrix might be used in a more general sense, but in the present memoir I consider only square and rectangular matrices, and the term matrix used without qualification is to be understood as meaning a square matrix; in this restricted sense, a set of quantities arranged in the form of a square, e.g.
+
+\[
+\begin{pmatrix}
+a &amp; b &amp; c \\
+a&#x27; &amp; b&#x27; &amp; c&#x27; \\
+a&#x27;&#x27; &amp; b&#x27;&#x27; &amp; c&#x27;&#x27;
+\end{pmatrix}
+\]
+
+is said to be a matrix. The notion of such a matrix arises naturally from an abbreviated notation for a set of linear equations, viz. the equations
+
+\[
+X = ax + by + cz,
+\]
+\[
+Y = a&#x27;x + b&#x27;y + c&#x27;z,
+\]
+\[
+Z = a&#x27;&#x27;x + b&#x27;&#x27;y + c&#x27;&#x27;z,
+\]
+
+may be more simply represented by
+
+\[
+(X, Y, Z) = \begin{pmatrix}
+a &amp; b &amp; c \\
+a&#x27; &amp; b&#x27; &amp; c&#x27; \\
+a&#x27;&#x27; &amp; b&#x27;&#x27; &amp; c&#x27;&#x27;
+\end{pmatrix} (x, y, z),
+\]
+
+and the consideration of such a system of equations leads to most of the fundamental notions in the theory of matrices. It will be seen that matrices (attending only to those of the same order) comport themselves as single quantities; they may be added, multiplied or compounded together, &amp;c.: the law of the addition of matrices is precisely similar to that for the addition of ordinary algebraical quantities; as regards their multiplication (or composition), there is the peculiarity that matrices are not in general convertible; it is nevertheless possible to form the powers (positive or negative, integral or fractional) of a matrix, and thence to arrive at the notion of a rational and integral function, or generally of any algebraical function, of a matrix. I obtain the remarkable theorem that any matrix whatever satisfies an algebraical equation of its own order, the coefficient of the highest power being unity, and those of the other powers functions of the terms of the matrix, the last coefficient being in fact the determinant; the rule for the formation of this equation may be stated in the following condensed form, which will be intelligible after a perusal of the memoir, viz. the determi-
+
+MDCCCLVIII.
+nant, formed out of the matrix diminished by the matrix considered as a single quantity involving the matrix unity, will be equal to zero. The theorem shows that every rational and integral function (or indeed every rational function) of a matrix may be considered as a rational and integral function, the degree of which is at most equal to that of the matrix, less unity; it even shows that in a sense, the same is true with respect to any algebraical function whatever of a matrix. One of the applications of the theorem is the finding of the general expression of the matrices which are convertible with a given matrix. The theory of rectangular matrices appears much less important than that of square matrices, and I have not entered into it further than by showing how some of the notions applicable to these may be extended to rectangular matrices.
+
+1. For conciseness, the matrices written down at full length will in general be of the order 3, but it is to be understood that the definitions, reasonings, and conclusions apply to matrices of any degree whatever. And when two or more matrices are spoken of in connexion with each other, it is always implied (unless the contrary is expressed) that the matrices are of the same order.
+
+2. The notation
+
+\[
+\begin{pmatrix}
+a &amp; b &amp; c \\
+a&#x27; &amp; b&#x27; &amp; c&#x27; \\
+a&#x27;&#x27; &amp; b&#x27;&#x27; &amp; c&#x27;&#x27;
+\end{pmatrix}
+(x, y, z)
+\]
+
+represents the set of linear functions
+
+\[
+((a, b, c)(x, y, z), (a&#x27;, b&#x27;, c&#x27;)(x, y, z), (a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;)(x, y, z)),
+\]
+
+so that calling these \((X, Y, Z)\), we have
+
+\[
+(X, Y, Z) = \begin{pmatrix}
+a &amp; b &amp; c \\
+a&#x27; &amp; b&#x27; &amp; c&#x27; \\
+a&#x27;&#x27; &amp; b&#x27;&#x27; &amp; c&#x27;&#x27;
+\end{pmatrix}
+(x, y, z)
+\]
+
+and, as remarked above, this formula leads to most of the fundamental notions in the theory.
+
+3. The quantities \((X, Y, Z)\) will be identically zero, if all the terms of the matrix are zero, and we may say that
+
+\[
+\begin{pmatrix}
+0 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 0
+\end{pmatrix}
+\]
+
+is the matrix zero.
+
+Again, \((X, Y, Z)\) will be identically equal to \((x, y, z)\), if the matrix is
+
+\[
+\begin{pmatrix}
+1 &amp; 0 &amp; 0 \\
+0 &amp; 1 &amp; 0 \\
+0 &amp; 0 &amp; 1
+\end{pmatrix}
+\]
+
+and this is said to be the matrix unity. We may of course, when for distinctness it is
+required, say, the matrix zero, or (as the case may be) the matrix unity of such an order. The matrix zero may for the most part be represented simply by 0, and the matrix unity by 1.
+
+4. The equations
+
+\[
+(X, Y, Z) = \begin{pmatrix} a, b, c \\ a&#x27;, b&#x27;, c&#x27; \\ a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \end{pmatrix}, \quad (X&#x27;, Y&#x27;, Z&#x27;) = \begin{pmatrix} \alpha, \beta, \gamma \\ \alpha&#x27;, \beta&#x27;, \gamma&#x27; \\ \alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27; \end{pmatrix}
+\]
+
+give
+
+\[
+(X + X&#x27;, Y + Y&#x27;, Z + Z&#x27;) = \begin{pmatrix} a + \alpha, b + \beta, c + \gamma \\ a&#x27; + \alpha&#x27;, b&#x27; + \beta&#x27;, c&#x27; + \gamma&#x27; \\ a&#x27;&#x27; + \alpha&#x27;&#x27;, b&#x27;&#x27; + \beta&#x27;&#x27;, c&#x27;&#x27; + \gamma&#x27;&#x27; \end{pmatrix}
+\]
+
+and this leads to
+
+\[
+(a + \alpha, b + \beta, c + \gamma) = (a, b, c) + (\alpha, \beta, \gamma)
+\]
+
+as the rule for the addition of matrices; that for their subtraction is of course similar to it.
+
+5. A matrix is not altered by the addition or subtraction of the matrix zero, that is, we have \(M \pm 0 = M\).
+
+The equation \(L = M\), which expresses that the matrices \(L, M\) are equal, may also be written in the form \(L - M = 0\), i.e. the difference of two equal matrices is the matrix zero.
+
+6. The equation \(L = -M\), written in the form \(L + M = 0\), expresses that the sum of the matrices \(L, M\) is equal to the matrix zero, the matrices so related are said to be opposite to each other; in other words, a matrix the terms of which are equal but opposite in sign to the terms of a given matrix, is said to be opposite to the given matrix.
+
+7. It is clear that we have \(L + M = M + L\), that is, the operation of addition is commutative, and moreover that \((L + M) + N = L + (M + N) = L + M + N\), that is, the operation of addition is also associative.
+
+8. The equation
+
+\[
+(X, Y, Z) = \begin{pmatrix} a, b, c \\ mx, my, mz \end{pmatrix}
+\]
+
+written under the forms
+
+\[
+(X, Y, Z) = m \begin{pmatrix} a, b, c \\ x, y, z \end{pmatrix} = \begin{pmatrix} ma, mb, mc \\ ma&#x27;, mb&#x27;, mc&#x27; \\ ma&#x27;&#x27;, mb&#x27;&#x27;, mc&#x27;&#x27; \end{pmatrix}
+\]
+gives
+
+\[ m \begin{pmatrix} a, b, c \\ a&#x27;, b&#x27;, c&#x27; \\ a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \end{pmatrix} = \begin{pmatrix} ma, mb, mc \\ ma&#x27;, mb&#x27;, mc&#x27; \\ ma&#x27;&#x27;, mb&#x27;&#x27;, mc&#x27;&#x27; \end{pmatrix} \]
+
+as the rule for the multiplication of a matrix by a single quantity. The multiplier \( m \) may be written either before or after the matrix, and the operation is therefore commutative. We have it is clear \( m(L+M)=mL+mM \), or the operation is distributive.
+
+9. The matrices \( L \) and \( mL \) may be said to be similar to each other; in particular, if \( m=1 \), they are equal, and if \( m=-1 \), they are opposite.
+
+10. We have, in particular,
+
+\[ m \begin{pmatrix} 1, 0, 0 \\ 0, 1, 0 \\ 0, 0, 1 \end{pmatrix} = \begin{pmatrix} m, 0, 0 \\ 0, m, 0 \\ 0, 0, m \end{pmatrix}, \]
+
+or replacing the matrix on the left-hand side by unity, we may write
+
+\[ m = \begin{pmatrix} m, 0, 0 \\ 0, m, 0 \\ 0, 0, m \end{pmatrix}. \]
+
+The matrix on the right-hand side is said to be the single quantity \( m \) considered as involving the matrix unity.
+
+11. The equations
+
+\[ (X, Y, Z) = \begin{pmatrix} a, b, c \\ a&#x27;, b&#x27;, c&#x27; \\ a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \end{pmatrix} (x, y, z), \quad (x, y, z) = \begin{pmatrix} \alpha, \beta, \gamma \\ \alpha&#x27;, \beta&#x27;, \gamma&#x27; \\ \alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27; \end{pmatrix} (\xi, \eta, \zeta), \]
+
+give
+
+\[ (X, Y, Z) = \begin{pmatrix} A, B, C \\ A&#x27;, B&#x27;, C&#x27; \\ A&#x27;&#x27;, B&#x27;&#x27;, C&#x27;&#x27; \end{pmatrix} \begin{pmatrix} \alpha, \beta, \gamma \\ \alpha&#x27;, \beta&#x27;, \gamma&#x27; \\ \alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27; \end{pmatrix} (\xi, \eta, \zeta), \]
+
+and thence, substituting for the matrix
+
+\[ \begin{pmatrix} A, B, C \\ A&#x27;, B&#x27;, C&#x27; \\ A&#x27;&#x27;, B&#x27;&#x27;, C&#x27;&#x27; \end{pmatrix} \]
+
+its value, we obtain
+
+\[ \begin{pmatrix} (a, b, c \alpha, \alpha&#x27;), (a, b, c \beta, \beta&#x27;), (a, b, c \gamma, \gamma&#x27;) \\ (a&#x27;, b&#x27;, c&#x27; \alpha, \alpha&#x27;), (a&#x27;, b&#x27;, c&#x27; \beta, \beta&#x27;), (a&#x27;, b&#x27;, c&#x27; \gamma, \gamma&#x27;) \\ (a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \alpha, \alpha&#x27;), (a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \beta, \beta&#x27;), (a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \gamma, \gamma&#x27;) \end{pmatrix} = \begin{pmatrix} a, b, c \alpha, \beta, \gamma \\ a&#x27;, b&#x27;, c&#x27; \alpha&#x27;, \beta&#x27;, \gamma&#x27; \\ a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27; \alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27; \end{pmatrix} \]
+as the rule for the multiplication or composition of two matrices. It is to be observed, that the operation is not a commutative one; the component matrices may be distinguished as the first or further component matrix, and the second or nearer component matrix, and the rule of composition is as follows, viz. any line of the compound matrix is obtained by combining the corresponding line of the first or further component matrix successively with the several columns of the second or nearer compound matrix.
+
+12. A matrix compounded, either as first or second component matrix, with the matrix zero, gives the matrix zero. The case where any of the terms of the given matrix are infinite is of course excluded.
+
+13. A matrix is not altered by its composition, either as first or second component matrix, with the matrix unity. It is compounded either as first or second component matrix, with the single quantity \( m \) considered as involving the matrix unity, by multiplication of all its terms by the quantity \( m \): this is in fact the before-mentioned rule for the multiplication of a matrix by a single quantity, which rule is thus seen to be a particular case of that for the multiplication of two matrices.
+
+14. We may in like manner multiply or compound together three or more matrices: the order of arrangement of the factors is of course material, and we may distinguish them as the first or furthest, second, third, &amp;c., and last or nearest component matrices, but any two consecutive factors may be compounded together and replaced by a single matrix, and so on until all the matrices are compounded together, the result being independent of the particular mode in which the composition is effected; that is, we have \( L.MN = LM.N = LMN, LM.NP = L.MN.P, \) &amp;c., or the operation of multiplication, although, as already remarked, not commutative, is associative.
+
+15. We thus arrive at the notion of a positive and integer power \( L^p \) of a matrix \( L \), and it is to be observed that the different powers of the same matrix are convertible. It is clear also that \( p \) and \( q \) being positive integers, we have \( L^p.L^q = L^{p+q} \), which is the theorem of indices for positive integer powers of a matrix.
+
+16. The last-mentioned equation, \( L^p.L^q = L^{p+q} \), assumed to be true for all values whatever of the indices \( p \) and \( q \), leads to the notion of the powers of a matrix for any form whatever of the index. In particular, \( L^p.L^0 = L^p \) or \( L^0 = 1 \), that is, the 0th power of a matrix is the matrix unity. And then putting \( p = 1, q = -1 \), or \( p = -1, q = 1 \), we have \( L.L^{-1} = L^{-1}.L = 1 \); that is, \( L^{-1} \), or as it may be termed the inverse or reciprocal matrix, is a matrix which, compounded either as first or second component matrix with the original matrix, gives the matrix unity.
+
+17. We may arrive at the notion of the inverse or reciprocal matrix, directly from the equation
+
+\[
+(X, Y, Z) = \begin{pmatrix}
+a &amp; b &amp; c \\
+a&#x27; &amp; b&#x27; &amp; c&#x27; \\
+a&#x27;&#x27; &amp; b&#x27;&#x27; &amp; c&#x27;&#x27;
+\end{pmatrix} (x, y, z),
+\]
+in fact this equation gives
+
+\[
+(x, y, z) = \begin{pmatrix}
+A, A&#x27;, A&#x27;&#x27; \\
+B, B&#x27;, B&#x27;&#x27; \\
+C, C&#x27;, C&#x27;&#x27;
+\end{pmatrix} (X, Y, Z) = \begin{pmatrix}
+a, b, c \\
+a&#x27;, b&#x27;, c&#x27; \\
+a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;
+\end{pmatrix}^{-1} (X, Y, Z),
+\]
+
+and we have, for the determination of the coefficients of the inverse or reciprocal matrix, the equations
+
+\[
+\begin{pmatrix}
+A, A&#x27;, A&#x27;&#x27; \\
+B, B&#x27;, B&#x27;&#x27; \\
+C, C&#x27;, C&#x27;&#x27;
+\end{pmatrix} \begin{pmatrix}
+a, b, c \\
+a&#x27;, b&#x27;, c&#x27; \\
+a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;
+\end{pmatrix} = \begin{pmatrix}
+1, 0, 0 \\
+0, 1, 0 \\
+0, 0, 1
+\end{pmatrix},
+\]
+
+which are equivalent to each other, and either of them is by itself sufficient for the complete determination of the inverse or reciprocal matrix. It is well known that if \( \nabla \) denote the determinant, that is, if
+
+\[
+\nabla = \begin{vmatrix}
+a, b, c \\
+a&#x27;, b&#x27;, c&#x27; \\
+a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;
+\end{vmatrix}
+\]
+
+then the terms of the inverse or reciprocal matrix are given by the equations
+
+\[
+A = \frac{1}{\nabla} \begin{vmatrix}
+1, 0, 0 \\
+0, 1, 0 \\
+0, 0, 1
+\end{vmatrix}, \quad B = \frac{1}{\nabla} \begin{vmatrix}
+0, 1, 0 \\
+a&#x27;, 0, c&#x27; \\
+a&#x27;&#x27;, 0, c&#x27;&#x27;
+\end{vmatrix}, \quad \text{&amp;c.}
+\]
+
+or what is the same thing, the inverse or reciprocal matrix is given by the equation
+
+\[
+\begin{pmatrix}
+a, b, c \\
+a&#x27;, b&#x27;, c&#x27; \\
+a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;
+\end{pmatrix}^{-1} = \frac{1}{\nabla} \begin{pmatrix}
+\partial_a \nabla, \partial_{a&#x27;} \nabla, \partial_{a&#x27;&#x27;} \nabla \\
+\partial_b \nabla, \partial_{b&#x27;} \nabla, \partial_{b&#x27;&#x27;} \nabla \\
+\partial_c \nabla, \partial_{c&#x27;} \nabla, \partial_{c&#x27;&#x27;} \nabla
+\end{pmatrix}
+\]
+
+where of course the differentiations must in every case be performed as if the terms \( a, b, \) &amp;c. were all of them independent arbitrary quantities.
+
+18. The formula shows, what is indeed clear \textit{à priori}, that the notion of the inverse or reciprocal matrix fails altogether when the determinant vanishes: the matrix is in this case said to be indeterminate, and it must be understood that in the absence of express mention, the particular case in question is frequently excluded from consideration. It may be added that the matrix zero is indeterminate; and that the product of two matrices may be zero, without either of the factors being zero, if only the matrices are one or both of them indeterminate.
+19. The notion of the inverse or reciprocal matrix once established, the other negative integer powers of the original matrix are positive integer powers of the inverse or reciprocal matrix, and the theory of such negative integer powers may be taken to be known. The further discussion of the fractional powers of a matrix will be resumed in the sequel.
+
+20. The positive integer power $L^m$ of the matrix $L$ may of course be multiplied by any matrix of the same degree, such multiplier, however, is not in general convertible with $L$; and to preserve as far as possible the analogy with ordinary algebraical functions, we may restrict the attention to the case where the multiplier is a single quantity, and such convertibility consequently exists. We have in this manner a matrix $cL^m$, and by the addition of any number of such terms we obtain a rational and integral function of the matrix $L$.
+
+21. The general theorem before referred to will be best understood by a complete development of a particular case. Imagine a matrix
+
+$$M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix},$$
+
+and form the determinant
+
+$$\begin{vmatrix} a-M &amp; b \\ c &amp; d-M \end{vmatrix},$$
+
+the developed expression of this determinant is
+
+$$M^2 - (a+d)M + (ad-bc)I;$$
+
+the values of $M^2$, $M$, $I$ are
+
+$$\begin{pmatrix} a^2+bc &amp; b(a+d) \\ c(a+d) &amp; d^2+bc \end{pmatrix}, \quad \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}, \quad \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix},$$
+
+and substituting these values the determinant becomes equal to the matrix zero, viz. we have
+
+$$\begin{vmatrix} a-M &amp; b \\ c &amp; d-M \end{vmatrix} = \begin{pmatrix} a^2+bc &amp; b(a+d) \\ c(a+d) &amp; d^2+bc \end{pmatrix} - (a+d) \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} + (ad-bc) \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix} = \begin{pmatrix} 0 &amp; 0 \\ 0 &amp; 0 \end{pmatrix},$$
+
+that is,
+
+$$\begin{vmatrix} a-M &amp; b \\ c &amp; d-M \end{vmatrix} = 0,$$
+
+where the matrix of the determinant is
+
+$$\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} - M \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix},$$
+
+that is, it is the original matrix, diminished by the same matrix considered as a single
+quantity involving the matrix unity. And this is the general theorem, viz. the determinant, having for its matrix a given matrix less the same matrix considered as a single quantity involving the matrix unity, is equal to zero.
+
+22. The following symbolical representation of the theorem is, I think, worth noticing: let the matrix $M$, considered as a single quantity, be represented by $\tilde{M}$, then writing 1 to denote the matrix unity, $\tilde{M}.1$ will represent the matrix $M$, considered as a single quantity involving the matrix unity. Upon the like principles of notation, $\tilde{1}.M$ will represent, or may be considered as representing, simply the matrix $M$, and the theorem is
+
+$$\text{Det.} (\tilde{1}.M - \tilde{M}.1) = 0.$$
+
+23. I have verified the theorem, in the next simplest case, of a matrix of the order 3, viz. if $M$ be such a matrix, suppose
+
+$$M = \begin{pmatrix} a &amp; b &amp; c \\ d &amp; e &amp; f \\ g &amp; h &amp; i \end{pmatrix},$$
+
+then the derived determinant vanishes, or we have
+
+$$\begin{vmatrix} a-M &amp; b &amp; c \\ d &amp; e-M &amp; f \\ g &amp; h &amp; i-M \end{vmatrix} = 0,$$
+
+or expanding,
+
+$$M^3 - (a+e+i)M^2 + (ei+ia+ae-fh-cg-bd)M - (aei+bfg+cdh-afh-bdi-ceg) = 0;$$
+
+but I have not thought it necessary to undertake the labour of a formal proof of the theorem in the general case of a matrix of any degree.
+
+24. If we attend only to the general form of the result, we see that any matrix whatever satisfies an algebraical equation of its own order, which is in many cases the material part of the theorem.
+
+25. It follows at once that every rational and integral function, or indeed every rational function of a matrix, can be expressed as a rational and integral function of an order at most equal to that of the matrix, less unity. But it is important to consider how far or in what sense the like theorem is true with respect to irrational functions of a matrix. If we had only the equation satisfied by the matrix itself, such extension could not be made; but we have besides the equation of the same order satisfied by the irrational function of the matrix, and by means of these two equations, and the equation by which the irrational function of the matrix is determined, we may express the irrational function as a rational and integral function of the matrix, of an order equal at most to that of the matrix, less unity; such expression will however involve the coefficients of the equation satisfied by the irrational function which are functions (in number equal to the order of the matrix) of the coefficients assumed unknown, of the irrational function itself. The transformation is nevertheless an important one, as reducing the
+number of unknown quantities from $n^2$ (if $n$ be the order of the matrix) down to $n$. To complete the solution, it is necessary to compare the value obtained as above, with the assumed value of the irrational function, which will lead to equations for the determination of the $n$ unknown quantities.
+
+26. As an illustration, consider the given matrix
+
+$$M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}$$
+
+and let it be required to find the matrix $L = \sqrt{M}$. In this case $M$ satisfies the equation
+
+$$M^2 - (a+d)M + ad - bc = 0;$$
+
+and in like manner if
+
+$$L = \begin{pmatrix} \alpha &amp; \beta \\ \gamma &amp; \delta \end{pmatrix}$$
+
+then $L$ satisfies the equation
+
+$$L^2 - (\alpha+\delta)L + \alpha\delta - \beta\gamma = 0;$$
+
+and from these two equations, and the rationalized equation $L^2 = M$, it should be possible to express $L$ in the form of a linear function of $M$: in fact, putting in the last equation for $L^2$ its value ($= M$), we find at once
+
+$$L = \frac{1}{\alpha+\delta} [M + (\alpha\delta - \beta\gamma)],$$
+
+which is the required expression, involving as it should do the coefficients $\alpha+\delta$, $\alpha\delta - \beta\gamma$ of the equation in $L$. There is no difficulty in completing the solution; write for shortness $\alpha+\delta = X$, $\alpha\delta - \beta\gamma = Y$, then we have
+
+$$L = \begin{pmatrix} \alpha &amp; \beta \\ \gamma &amp; \delta \end{pmatrix} = \begin{pmatrix} \frac{a+Y}{X} &amp; \frac{b}{X} \\ \frac{c}{X} &amp; \frac{d+Y}{X} \end{pmatrix},$$
+
+and consequently forming the values of $\alpha+\delta$ and $\alpha\delta - \beta\gamma$,
+
+$$X = \frac{a+d+2Y}{X},$$
+
+$$Y = \frac{(a+Y)(d+Y)-bc}{X^2},$$
+
+and putting also $a+d = P$, $ad - bc = Q$, we find without difficulty
+
+$$X = \sqrt{P+2\sqrt{Q}},$$
+
+$$Y = \sqrt{Q},$$
+
+and the values of $\alpha$, $\beta$, $\gamma$, $\delta$ are consequently known. The sign of $\sqrt{Q}$ is the same in both formulæ, and there are consequently in all four solutions, that is, the radical $\sqrt{M}$ has four values.
+
+MDCCCLVIII.
+27. To illustrate this further, suppose that instead of $M$ we have the matrix
+
+$$M^2 = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}^2 = \begin{pmatrix} a^2 + bc &amp; b(a+d) \\ c(a+d) &amp; d^2 + bc \end{pmatrix},$$
+
+so that $L^2 = M^2$, we find
+
+$$P = (a+d)^2 - 2(ad - bc),$$
+
+$$Q = (ad - bc)^2,$$
+
+and thence $\sqrt{Q} = \pm (ad - bc)$. Taking the positive sign, we have
+
+$$Y = ad - bc,$$
+
+$$X = \pm (a+d),$$
+
+and these values give simply
+
+$$L = \pm \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} = \pm M,$$
+
+But taking the negative sign,
+
+$$Y = -ad + bc,$$
+
+$$X = \pm \sqrt{(a-d)^2 + 4bc},$$
+
+and retaining $X$ to denote this radical, we find
+
+$$L = \begin{pmatrix} \frac{a^2 - ad + 2bc}{X} &amp; \frac{b(a+d)}{X} \\ \frac{c(a+d)}{X} &amp; \frac{d^2 - ad + 2bc}{X} \end{pmatrix},$$
+
+which may also be written
+
+$$L = \frac{a+d}{X} \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} - \frac{2(ad - bc)}{X} \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix},$$
+
+or, what is the same thing,
+
+$$L = \frac{a+d}{X} M - \frac{2(ad - bc)}{X};$$
+
+and it is easy to verify \textit{à posteriori} that this value in fact gives $L^2 = M^2$. It may be remarked that if
+
+$$M^2 = \begin{pmatrix} 1 &amp; 0 \\ 0 &amp; 1 \end{pmatrix}^2 = 1,$$
+
+the last-mentioned formula fails, for we have $X = 0$; it will be seen presently that the equation $L^2 = 1$ admits of other solutions besides $L = \pm 1$. The example shows how the values of the fractional powers of a matrix are to be investigated.
+
+28. There is an apparent difficulty connected with the equation satisfied by a matrix, which it is proper to explain. Suppose, as before,
+
+$$M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix},$$
+so that $M$ satisfies the equation
+
+$$\begin{vmatrix} a-M, &amp; b \\ c, &amp; d-M \end{vmatrix} = 0,$$
+
+or
+
+$$M^2 - (a+d)M + ad - bc = 0,$$
+
+and let $X_1$, $X_2$ be the single quantities, roots of the equation
+
+$$\begin{vmatrix} a-X, &amp; b \\ c, &amp; d-X \end{vmatrix} = 0$$
+
+or
+
+$$X^2 - (a+d)X + ad - bc = 0.$$
+
+The equation satisfied by the matrix may be written
+
+$$(M - X_1)(M - X_2) = 0,$$
+
+in which $X_1$, $X_2$ are to be considered as respectively involving the matrix unity, and it would at first sight seem that we ought to have one of the simple factors equal to zero, which is obviously not the case, for such equation would signify that the perfectly indeterminate matrix $M$ was equal to a single quantity, considered as involving the matrix unity. The explanation is that each of the simple factors is an indeterminate matrix, in fact $M - X_i$ stands for the matrix
+
+$$\begin{pmatrix} a-X_i, &amp; b \\ c, &amp; d-X_i \end{pmatrix},$$
+
+and the determinant of this matrix is equal to zero. The product of the two factors is thus equal to zero without either of the factors being equal to zero.
+
+29. A matrix satisfies, we have seen, an equation of its own order, involving the coefficients of the matrix; assume that the matrix is to be determined to satisfy some other equation, the coefficients of which are given single quantities. It would at first sight appear that we might eliminate the matrix between the two equations, and thus obtain an equation which would be the only condition to be satisfied by the terms of the matrix; this is obviously wrong, for more conditions must be requisite, and we see that if we were then to proceed to complete the solution by finding the value of the matrix common to the two equations, we should find the matrix equal in every case to a single quantity considered as involving the matrix unity, which it is clear ought not to be the case. The explanation is similar to that of the difficulty before adverted to, the equations may contain one, and only one, common factor, and may be both of them satisfied, and yet the common factor may not vanish. The necessary condition seems to be, that the one equation should be a factor of the other; in the case where the assumed equation is of an order equal or superior to the matrix, then if this equation contain as a factor the equation which is always satisfied by the matrix, the assumed equation will be satisfied identically, and the condition is sufficient as well as necessary:
+in the other case, where the assumed equation is of an order inferior to that of the matrix, the condition is necessary, but it is not sufficient.
+
+30. The equation satisfied by the matrix may be of the form $M^n = 1$; the matrix is in this case said to be periodic of the $n$th order. The preceding considerations apply to the theory of periodic matrices; thus, for instance, suppose it is required to find a matrix of the order 2, which is periodic of the second order. Writing
+
+$$M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix},$$
+
+we have
+
+$$M^2 - (a+d)M + ad - bc = 0,$$
+
+and the assumed equation is
+
+$$M^2 - 1 = 0.$$
+
+These equations will be identical if
+
+$$a + d = 0, \quad ad - bc = -1,$$
+
+that is, these conditions being satisfied, the equation $M^2 - 1 = 0$ required to be satisfied, will be identical with the equation which is always satisfied, and will therefore itself be satisfied. And in like manner the matrix $M$ of the order 2 will satisfy the condition $M^3 - 1 = 0$, or will be periodic of the third order, if only $M^3 - 1$ contains as a factor
+
+$$M^2 - (a+d)M + ad - bc,$$
+
+and so on.
+
+31. But suppose it is required to find a matrix of the order 3,
+
+$$M = \begin{pmatrix} a &amp; b &amp; c \\ d &amp; e &amp; f \\ g &amp; h &amp; i \end{pmatrix}$$
+
+which shall be periodic of the second order. Writing for shortness
+
+$$\begin{vmatrix} a-M &amp; b &amp; c \\ d &amp; e-M &amp; f \\ g &amp; h &amp; i-M \end{vmatrix} = -(M^3 - AM^2 + BM - C),$$
+
+the matrix here satisfies
+
+$$M^3 - AM^2 + BM - C = 0,$$
+
+and, as before, the assumed equation is $M^2 - 1 = 0$. Here, if we have $1+B=0, A+C=0$, the left-hand side will contain the factor $(M^2 - 1)$, and the equation will take the form $(M^2 - 1)(M + C) = 0$, and we should have then $M^2 - 1 = 0$, provided $M + C$ were not an indeterminate matrix. But $M + C$ denotes the matrix
+
+$$\begin{pmatrix} a+C &amp; b &amp; c \\ d &amp; e+C &amp; f \\ g &amp; h &amp; i+C \end{pmatrix}$$
+
+the determinant of which is $C^3 + AC^2 + BC + C$, which is equal to zero in virtue of
+the equations $1+B=0$, $A+C=0$, and we cannot, therefore, from the equation $(M^2-1)(M+C)=0$, deduce the equation $M^2-1=0$. This is as it should be, for the two conditions are not sufficient, in fact the equation
+
+$$M^2 = \begin{pmatrix} a^2 + bd + cg &amp; ab + be + ch &amp; ac + bf + ci \\ da + ed + fg &amp; db + e^2 + fh &amp; dc + ef + fi \\ ga + hd + ig &amp; gb + he + ih &amp; gc + hf + i^2 \end{pmatrix} = 1$$
+
+gives nine equations, which are however satisfied by the following values, involving in reality four arbitrary coefficients; viz. the value of the matrix is
+
+$$k = \begin{pmatrix} \frac{\alpha}{\alpha + \beta + \gamma}, &amp; -\frac{(\beta + \gamma) \nu}{\mu}, &amp; -\frac{(\beta + \gamma) \nu}{\mu} \\ -\frac{(\gamma + \alpha) \mu \nu^{-1}}{\alpha + \beta + \gamma}, &amp; \frac{\beta}{\alpha + \beta + \gamma}, &amp; -\frac{(\gamma + \alpha) \lambda}{\mu} \\ -\frac{(\alpha + \beta) \mu \nu^{-1}}{\alpha + \beta + \gamma}, &amp; -\frac{(\alpha + \beta) \nu}{\lambda}, &amp; \frac{\gamma}{\alpha + \beta + \gamma} \end{pmatrix}$$
+
+so that there are in all four relations (and not only two) between the coefficients of the matrix.
+
+32. Instead of the equation $M^n - 1 = 0$, which belongs to a periodic matrix, it is in many cases more convenient, and it is much the same thing to consider an equation $M^n - k = 0$, where $k$ is a single quantity. The matrix may in this case be said to be periodic to a factor près.
+
+33. Two matrices $L, M$ are convertible when $LM = ML$. If the matrix $M$ is given, this equality affords a set of linear equations between the coefficients of $L$ equal in number to these coefficients, but these equations cannot be all independent, for it is clear that if $L$ be any rational and integral function of $M$ (the coefficients being single quantities), then $L$ will be convertible with $M$; or what is apparently (but only apparently) more general, if $L$ be any algebraical function whatever of $M$ (the coefficients being always single quantities), then $L$ will be convertible with $M$. But whatever the form of the function is, it may be reduced to a rational and integral function of an order equal to that of $M$, less unity, and we have thus the general expression for the matrices convertible with a given matrix, viz. any such matrix is a rational and integral function (the coefficients being single quantities) of the given matrix, the order being that of the given matrix, less unity. In particular, the general form of the matrix $L$ convertible with a given matrix $M$ of the order 2, is $L = aM + b$, or what is the same thing, the matrices
+
+$$\begin{pmatrix} a, b \\ c, d \end{pmatrix}, \quad \begin{pmatrix} a&#x27;, b&#x27; \\ c&#x27;, d&#x27; \end{pmatrix}$$
+
+will be convertible if $a&#x27;d&#x27; - b&#x27;c&#x27; = a - d : b : c$.
+34. Two matrices $L$, $M$ are skew convertible when $LM = -ML$; this is a relation much less important than ordinary convertibility, for it is to be noticed that we cannot in general find a matrix $L$ skew convertible with a given matrix $M$. In fact, considering $M$ as given, the equality affords a set of linear equations between the coefficients of $L$ equal in number to these coefficients; and in this case the equations are independent, and we may eliminate all the coefficients of $L$, and we thus arrive at a relation which must be satisfied by the coefficients of the given matrix $M$. Thus, suppose the matrices
+
+$$\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}, \begin{pmatrix} a&#x27; &amp; b&#x27; \\ c&#x27; &amp; d&#x27; \end{pmatrix}$$
+
+are skew convertible, we have
+
+$$\begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} \begin{pmatrix} a&#x27; &amp; b&#x27; \\ c&#x27; &amp; d&#x27; \end{pmatrix} = \begin{pmatrix} aa&#x27; + bc&#x27;, ab&#x27; + bd&#x27; \\ ca&#x27; + dc&#x27;, cb&#x27; + dd&#x27; \end{pmatrix},$$
+
+$$\begin{pmatrix} a&#x27; &amp; b&#x27; \\ c&#x27; &amp; d&#x27; \end{pmatrix} \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} = \begin{pmatrix} aa&#x27; + b&#x27;c, ab&#x27; + b&#x27;d \\ ca&#x27; + d&#x27;c, cb&#x27; + d&#x27;d \end{pmatrix},$$
+
+and the conditions of skew convertibility are
+
+$$2aa&#x27; + bc&#x27; + b&#x27;c = 0,$$
+
+$$b&#x27;(a+d) + b(a&#x27;+d&#x27;) = 0,$$
+
+$$c&#x27;(a+d) + c(a&#x27;+d&#x27;) = 0,$$
+
+$$2dd&#x27; + bc&#x27; + b&#x27;c = 0.$$
+
+Eliminating $a&#x27;$, $b&#x27;$, $c&#x27;$, $d&#x27;$, the relation between $a$, $b$, $c$, $d$ is
+
+$$\begin{vmatrix} 2a &amp; c &amp; b &amp; . \\ b &amp; a+d &amp; . &amp; b \\ c &amp; . &amp; a+d &amp; c \\ . &amp; c &amp; b &amp; 2d \end{vmatrix} = 0,$$
+
+which is
+
+$$(a+d)^2(ad - bc) = 0.$$
+
+Excluding from consideration the case $ad - bc = 0$, which would imply that the matrix was indeterminate, we have $a+d = 0$. The resulting system of conditions then is
+
+$$a+d = 0, \quad a&#x27;+d&#x27; = 0, \quad aa&#x27; + bc&#x27; + b&#x27;c + dd&#x27; = 0,$$
+
+the first two of which imply that the matrices are respectively periodic of the second order to a factor près.
+
+35. It may be noticed that if the compound matrices $LM$ and $ML$ are similar, they are either equal or else opposite; that is, the matrices $L$, $M$ are either convertible or skew convertible.
+36. Two matrices such as
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}, \quad
+\begin{pmatrix}
+a &amp; c \\
+b &amp; d
+\end{pmatrix},
+\]
+
+are said to be formed one from the other by transposition, and this may be denoted by the symbol tr.; thus we may write
+
+\[
+\begin{pmatrix}
+a &amp; c \\
+b &amp; d
+\end{pmatrix} = \text{tr.} \begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}.
+\]
+
+The effect of two successive transpositions is of course to reproduce the original matrix.
+
+37. It is easy to see that if \( M \) be any matrix, then
+
+\[
+(\text{tr. } M)^p = \text{tr. } (M^p),
+\]
+
+and in particular,
+
+\[
+(\text{tr. } M)^{-1} = \text{tr. } (M^{-1}).
+\]
+
+38. If \( L, M \) be any two matrices,
+
+\[
+\text{tr. } (LM) = \text{tr. } M. \text{ tr. } L,
+\]
+
+and similarly for three or more matrices, \( L, M, N, \&amp;c., \)
+
+\[
+\text{tr. } (LMN) = \text{tr. } N. \text{ tr. } M. \text{ tr. } L, \&amp;c.
+\]
+
+40. A matrix such as
+
+\[
+\begin{pmatrix}
+a &amp; h &amp; g \\
+h &amp; b &amp; f \\
+g &amp; f &amp; c
+\end{pmatrix}
+\]
+
+which is not altered by transposition, is said to be symmetrical.
+
+41. A matrix such as
+
+\[
+\begin{pmatrix}
+0 &amp; \nu &amp; -\mu \\
+-\nu &amp; 0 &amp; \lambda \\
+\mu &amp; -\lambda &amp; 0
+\end{pmatrix}
+\]
+
+which by transposition is changed into its opposite, is said to be skew symmetrical.
+
+42. It is easy to see that any matrix whatever may be expressed as the sum of a symmetrical matrix, and a skew symmetrical matrix; thus the form
+
+\[
+\begin{pmatrix}
+a &amp; h+\nu &amp; g-\mu \\
+h-\nu &amp; b &amp; f+\lambda \\
+g+\mu &amp; f-\lambda &amp; c
+\end{pmatrix}
+\]
+
+which may obviously represent any matrix whatever of the order 3, is the sum of the two matrices last before mentioned.
+
+43. The following formulæ, although little more than examples of the composition of transposed matrices, may be noticed, viz.
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix} \begin{pmatrix}
+a &amp; c \\
+d &amp; b
+\end{pmatrix} = \begin{pmatrix}
+a^2 + b^2 &amp; ac + bd \\
+ac + bd &amp; c^2 + d^2
+\end{pmatrix}
+\]
+which shows that a matrix compounded with the transposed matrix gives rise to a symmetrical matrix. It does not however follow, nor is it the fact, that the matrix and transposed matrix are convertible. And also
+
+\[
+\begin{pmatrix}
+a &amp; c \\
+b &amp; d
+\end{pmatrix}
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}
+=
+\begin{pmatrix}
+a^3 + bcd + a(b^2 + c^2) &amp; c^3 + abd + c(a^2 + d^2) \\
+b^3 + acd + b(a^2 + d^2) &amp; d^3 + abc + d(b^2 + c^2)
+\end{pmatrix}
+\]
+
+which is a remarkably symmetrical form. It is needless to proceed further, since it is clear that
+
+\[
+\begin{pmatrix}
+a &amp; c \\
+b &amp; d
+\end{pmatrix}
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}
+= \left( \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} \right)^2
+\]
+
+44. In all that precedes, the matrix of the order 2 has frequently been considered, but chiefly by way of illustration of the general theory; but it is worth while to develope more particularly the theory of such matrix. I call to mind the fundamental properties which have been obtained, viz. it was shown that the matrix
+
+\[ M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix} \]
+
+satisfies the equation
+
+\[ M^2 - (a+d)M + ad - bc = 0, \]
+
+and that the two matrices
+
+\[ \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}, \quad \begin{pmatrix} a&#x27; &amp; b&#x27; \\ c&#x27; &amp; d&#x27; \end{pmatrix}, \]
+
+will be convertible if
+
+\[ a&#x27; - d&#x27;: b&#x27;: c&#x27; = a - d: b: c, \]
+
+and that they will be skew convertible if
+
+\[ a + d = 0, \quad a&#x27; + d&#x27; = 0, \quad aa&#x27; + bc&#x27; + b&#x27;c + dd&#x27; = 0, \]
+
+the first two of these equations being the conditions in order that the two matrices may be respectively periodic of the second order to a factor près.
+
+45. It may be noticed in passing, that if \( L, M \) are skew convertible matrices of the order 2, and if these matrices are also such that \( L^2 = -1, M^2 = -1 \), then putting \( N = LM = -ML \), we obtain
+
+\[ L^2 = -1, \quad M^2 = -1, \quad N^2 = -1, \]
+
+\[ L = MN = -NM, \quad M = NL = -NL, \quad N = LM = -ML, \]
+
+which is a system of relations precisely similar to that in the theory of quaternions.
+
+46. The integer powers of the matrix
+
+\[ M = \begin{pmatrix} a &amp; b \\ c &amp; d \end{pmatrix}, \]
+
+are obtained with great facility from the quadratic equation; thus we have, attending first to the positive powers,
+\[
+M^2 = (a+d)M - (ad-bc),
+\]
+\[
+M^3 = [(a+d)^2 - (ad-bc)]M - (a+d)(ad-bc),
+\]
+\&amp;c.,
+
+whence also the conditions in order that the matrix may be to a factor près periodic of the orders 2, 3, \&amp;c. are
+
+\[
+a+d = 0,
+\]
+\[
+(a+d)^2 - (ad-bc) = 0,
+\]
+\&amp;c.;
+
+and for the negative powers we have
+
+\[
+(ad-bc)M^{-1} = -M + (a+d),
+\]
+
+which is equivalent to the ordinary form
+
+\[
+(ad-bc)M^{-1} = \begin{pmatrix} d &amp; -b \\ -c &amp; a \end{pmatrix};
+\]
+
+and the other negative powers of \( M \) can then be obtained by successive multiplications with \( M^{-1} \).
+
+47. The expression for the \( n \)th power is however most readily obtained by means of a particular algorithm for matrices of the order 2.
+
+Let \( h, b, c, J, q \) be any quantities, and write for shortness \( R = -h^2 - 4bc \); suppose also that \( h&#x27;, b&#x27;, c&#x27;, J&#x27;, q&#x27; \) are any other quantities, such nevertheless that \( h&#x27;: b&#x27;: c&#x27; = h : b : c \), and write in like manner \( R&#x27; = -h&#x27;^2 - 4b&#x27;c&#x27; \). Then observing that \( \frac{h}{\sqrt{R}}, \frac{b}{\sqrt{R}}, \frac{c}{\sqrt{R}} \) are respectively equal to \( \frac{h&#x27;}{\sqrt{R&#x27;}}, \frac{b&#x27;}{\sqrt{R&#x27;}}, \frac{c&#x27;}{\sqrt{R&#x27;}} \), the matrix
+
+\[
+\begin{pmatrix}
+J(\cot q - \frac{h}{\sqrt{R}}), \frac{2bJ}{\sqrt{R}} \\
+\frac{2cJ}{\sqrt{R}}, J(\cot q + \frac{h}{\sqrt{R}})
+\end{pmatrix}
+\]
+
+contains only the quantities \( J, q \), which are not the same in both systems; and we may therefore represent this matrix by \((J, q)\), and the corresponding matrix with \( h&#x27;, b&#x27;, c&#x27;, J&#x27;, q&#x27; \) by \((J&#x27;, q&#x27;)\). The two matrices are at once seen to be convertible (the assumed relations \( h&#x27;: b&#x27;: c&#x27; = h : b : c \) correspond in fact to the conditions, \( a&#x27;-d&#x27;: b&#x27;: c&#x27; = a-d : b : c \), of convertibility for the ordinary form), and the compound matrix is found to be
+
+\[
+\left( \frac{\sin(q+q&#x27;)}{\sin q \sin q&#x27;}, JJ&#x27;, q+q&#x27; \right).
+\]
+
+And in like manner the several convertible matrices \((J, q), (J&#x27;, q&#x27;), (J&#x27;&#x27;, q&#x27;&#x27;)\) \&amp;c. give the compound matrix
+
+\[
+\left( \frac{\sin(q+q&#x27;+q&#x27;&#x27;..)}{\sin q \sin q&#x27; \sin q&#x27;&#x27;..}, JJ&#x27;J&#x27;&#x27;.., q+q&#x27;+q&#x27;&#x27;.. \right).
+\]
+48. The convertible matrices may be given in the first instance in the ordinary form, or we may take these matrices to be
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}, \quad
+\begin{pmatrix}
+a&#x27; &amp; b&#x27; \\
+c&#x27; &amp; d&#x27;
+\end{pmatrix}, \quad
+\begin{pmatrix}
+a&#x27;&#x27; &amp; b&#x27;&#x27; \\
+c&#x27;&#x27; &amp; d&#x27;&#x27;
+\end{pmatrix} \text{ &amp;c.}
+\]
+
+where of course \(d-a:b:c=d&#x27;-a&#x27;:b&#x27;:c&#x27;=d&#x27;&#x27;-a&#x27;&#x27;:b&#x27;&#x27;:c&#x27;&#x27;=&amp;c.\). Here writing \(h=d-a\), and consequently \(R=-(d-a)^2-4bc\), and assuming also \(J=\frac{1}{2}\sqrt{R}\) and \(\cot q=\frac{d+a}{\sqrt{R}}\), and in like manner for the accented letters, the several matrices are respectively
+
+\[
+\left(\frac{1}{2}\sqrt{R}, q\right)\left(\frac{1}{2}\sqrt{R&#x27;}, q&#x27;\right), \left(\frac{1}{2}\sqrt{R&#x27;&#x27;}, q&#x27;&#x27;\right), \text{ &amp;c.,}
+\]
+
+and the compound matrix is
+
+\[
+\begin{pmatrix}
+\sin(q+q&#x27;+q&#x27;&#x27;...) &amp; \sin q \sin q&#x27; \sin q&#x27;&#x27;... \\
+\sin q \sin q&#x27; \sin q&#x27;&#x27;... &amp; \left(\frac{1}{2}\sqrt{R}\right)\left(\frac{1}{2}\sqrt{R&#x27;}\right)\left(\frac{1}{2}\sqrt{R&#x27;&#x27;}\right)..., q+q&#x27;+q&#x27;&#x27;+...
+\end{pmatrix}.
+\]
+
+49. When the several matrices are each of them equal to
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix},
+\]
+
+we have of course \(q=q&#x27;=q&#x27;&#x27;...\), \(R=R&#x27;=R&#x27;&#x27;...\), and we find
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}^n = \left(\frac{\sin nq}{\sin^n q}\left(\frac{1}{2}\sqrt{R}\right)^n, nq\right);
+\]
+
+or substituting for the right-hand side, the matrix represented by this notation, and putting for greater simplicity
+
+\[
+\frac{\sin nq}{\sin^n q}\left(\frac{1}{2}\sqrt{R}\right)^n = \left(\frac{1}{2}\sqrt{R}\right)L, \text{ or } L=\frac{\sin nq}{\sin^n q}\left(\frac{1}{2}\sqrt{R}\right)^{n-1},
+\]
+
+we find
+
+\[
+\begin{pmatrix}
+a &amp; b \\
+c &amp; d
+\end{pmatrix}^n = \left(\frac{1}{2}L(\sqrt{R} \cot nq-(d-a)), Lb \\
+Le, \frac{1}{2}L(\sqrt{R} \cot nq+(d-a))\right)
+\]
+
+where it will be remembered that
+
+\[
+R=-(d-a)^2-4bc \text{ and } \cot q=\frac{d+a}{\sqrt{R}},
+\]
+
+the last of which equations may be replaced by
+
+\[
+\cos q+\sqrt{-1}\sin q=\frac{d+a+\sqrt{-R}}{2\sqrt{ad-bc}}.
+\]
+
+The formula in fact extends to negative or fractional values of the index \(n\), and when \(n\) is a fraction, we must, as usual, in order to exhibit the formula in its proper generality, write \(q+2m\pi\) instead of \(q\). In the particular case \(n=\frac{1}{2}\), it would be easy to show the identity of the value of the square root of the matrix with that before obtained by a different process.
+50. The matrix will be to a factor *près*, periodic of the *n*th order if only $\sin nq = 0$, that is, if $q = \frac{m\pi}{n}$ (*m* must be prime to *n*, for if it were not, the order of periodicity would be not *n* itself, but a submultiple of *n*); but $\cos q = \frac{d + a}{2\sqrt{ad - bc}}$, and the condition is therefore
+
+$$(d + a)^2 - 4(ad - bc) \cos^2 \frac{m\pi}{n} = 0,$$
+
+or as this may also be written,
+
+$$d^2 + a^2 - 2ad \cos \frac{2m\pi}{n} + 4bc \cos^2 \frac{m\pi}{n} = 0,$$
+
+a result which agrees with those before obtained for the particular values 2 and 3 of the index of periodicity.
+
+51. I may remark that the last preceding investigations are intimately connected with the investigations of Babbage and others in relation to the function $\varphi x = \frac{ax + b}{cx + d}$.
+
+I conclude with some remarks upon rectangular matrices.
+
+52. A matrix such as
+
+$$\begin{pmatrix}
+a, &amp; b, &amp; c \\
+a&#x27;, &amp; b&#x27;, &amp; c&#x27;
+\end{pmatrix}$$
+
+where the number of columns exceeds the number of lines, is said to be a broad matrix; a matrix such as
+
+$$\begin{pmatrix}
+a, &amp; b \\
+a&#x27;, &amp; b&#x27;
+\end{pmatrix}$$
+
+where the number of lines exceeds the number of columns, is said to be a deep matrix.
+
+53. The matrix zero subsists in the present theory, but not the matrix unity. Matrices may be added or subtracted when the number of the lines and the number of the columns of the one matrix are respectively equal to the number of the lines and the number of the columns of the other matrix, and under the like condition any number of matrices may be added together. Two matrices may be equal or opposite the one to the other. A matrix may be multiplied by a single quantity, giving rise to a matrix of the same form; two matrices so related are similar to each other.
+
+54. The notion of composition applies to rectangular matrices, but it is necessary that the number of lines in the second or nearer component matrix should be equal to the number of columns in the first or further component matrix; the compound matrix will then have as many lines as the first or further component matrix, and as many columns as the second or nearer component matrix.
+
+55. As examples of the composition of rectangular matrices, we have
+
+$$\begin{pmatrix}
+a, &amp; b, &amp; c \\
+d, &amp; e, &amp; f
+\end{pmatrix} \begin{pmatrix}
+a&#x27;, &amp; b&#x27;, &amp; c&#x27; \\
+e&#x27;, &amp; f&#x27;, &amp; g&#x27;
+\end{pmatrix} = \left( \begin{pmatrix}
+(a, b, c)(a&#x27;, e&#x27;, i&#x27;) \\
+(d, e, f)(a&#x27;, e&#x27;, i&#x27;)
+\end{pmatrix}, \begin{pmatrix}
+(a, b, c)(b&#x27;, f&#x27;, j&#x27;) \\
+(d, e, f)(b&#x27;, f&#x27;, j&#x27;)
+\end{pmatrix}, \begin{pmatrix}
+(a, b, c)(c&#x27;, g&#x27;, k&#x27;) \\
+(d, e, f)(c&#x27;, g&#x27;, k&#x27;)
+\end{pmatrix}, \begin{pmatrix}
+(a, b, c)(d&#x27;, h&#x27;, l&#x27;) \\
+(d, e, f)(d&#x27;, h&#x27;, l&#x27;)
+\end{pmatrix} \right),$$
+
+$$\begin{pmatrix}
+i&#x27;, &amp; j&#x27;, &amp; k&#x27;, &amp; l&#x27;
+\end{pmatrix}.$$
+and
+
+\[
+\begin{pmatrix}
+a &amp; d &amp; (a&#x27;, b&#x27;, c&#x27;, d&#x27;) \\
+b &amp; e &amp; (e&#x27;, f&#x27;, g&#x27;, h&#x27;) \\
+c &amp; f &amp; (c&#x27;, f&#x27;, g&#x27;, h&#x27;)
+\end{pmatrix} =
+\begin{pmatrix}
+(a, d \times a&#x27;, e&#x27;), (a, d \times b&#x27;, f&#x27;), (a, d \times c&#x27;, g&#x27;), (a, d \times d&#x27;, h&#x27;) \\
+(b, e \times a&#x27;, e&#x27;), (b, e \times b&#x27;, f&#x27;), (b, e \times c&#x27;, g&#x27;), (b, e \times d&#x27;, h&#x27;) \\
+(c, f \times a&#x27;, e&#x27;), (c, f \times b&#x27;, f&#x27;), (c, f \times c&#x27;, g&#x27;), (c, f \times d&#x27;, h&#x27;)
+\end{pmatrix}
+\]
+
+56. In the particular case where the lines and columns of the one component matrix are respectively equal in number to the columns and lines of the other component matrix, the compound matrix is square, thus we have
+
+\[
+\begin{pmatrix}
+a, b, c &amp; (a&#x27;, d&#x27;) \\
+d, e, f &amp; (b&#x27;, e&#x27;) \\
+c&#x27;, f&#x27;
+\end{pmatrix} =
+\begin{pmatrix}
+(a, b, c \times a&#x27;, b&#x27;, c&#x27;), (a, b, c \times d&#x27;, e&#x27;, f&#x27;) \\
+(d, e, f \times a&#x27;, b&#x27;, c&#x27;), (d, e, f \times d&#x27;, e&#x27;, f&#x27;)
+\end{pmatrix}
+\]
+
+and
+
+\[
+\begin{pmatrix}
+a&#x27;, d&#x27; &amp; (a, b, c) \\
+b&#x27;, e&#x27; &amp; (d, e, f) \\
+c&#x27;, f&#x27;
+\end{pmatrix} =
+\begin{pmatrix}
+(a&#x27;, d&#x27; \times a, d), (a&#x27;, d&#x27; \times b, e), (a&#x27;, d&#x27; \times c, f&#x27;) \\
+(b&#x27;, e&#x27; \times a, d), (b&#x27;, e&#x27; \times b, e), (b&#x27;, e&#x27; \times c, f&#x27;) \\
+(c&#x27;, f&#x27; \times a, d), (c&#x27;, f&#x27; \times b, e), (c&#x27;, f&#x27; \times c, f&#x27;)
+\end{pmatrix}
+\]
+
+The two matrices in the case last considered admit of composition in the two different orders of arrangement, but as the resulting square matrices are not of the same order, the notion of the convertibility of two matrices does not apply even to the case in question.
+
+57. Since a rectangular matrix cannot be compounded with itself, the notions of the inverse or reciprocal matrix and of the powers of the matrix and the whole resulting theory of the functions of a matrix, do not apply to rectangular matrices.
+
+58. The notion of transposition and the symbol tr. apply to rectangular matrices, the effect of a transposition being to convert a broad matrix into a deep one and reciprocally. It may be noticed that the symbol tr. may be used for the purpose of expressing the law of composition of square or rectangular matrices. Thus treating \((a, b, c)\) as a rectangular matrix, or representing it by \((a, b, c)\), we have
+
+\[
+\text{tr.} \begin{pmatrix} a&#x27;, b&#x27;, c&#x27; \end{pmatrix} = \begin{pmatrix} a&#x27; \\ b&#x27; \\ c&#x27; \end{pmatrix},
+\]
+
+and thence
+
+\[
+\begin{pmatrix} a, b, c \end{pmatrix} \text{tr.} \begin{pmatrix} a&#x27;, b&#x27;, c&#x27; \end{pmatrix} = \begin{pmatrix} a, b, c \times a&#x27; \\ b&#x27; \\ c&#x27; \end{pmatrix} = (a, b, c \times a&#x27;, b&#x27;, c&#x27;),
+\]
+
+so that the symbol
+
+\((a, b, c \times a&#x27;, b&#x27;, c&#x27;)\)
+
+would upon principle be replaced by
+
+\((a, b, c) \text{tr.} (a&#x27;, b&#x27;, c&#x27;)\):
+it is however more convenient to retain the symbol
+
+\[(a, b, c) \mathcal{X} (a&#x27;, b&#x27;, c&#x27;).\]
+
+Hence introducing the symbol tr. only on the left-hand sides, we have
+
+\[
+\begin{pmatrix}
+(a, b, c) \\
+(d, e, f)
+\end{pmatrix}
+\text{tr.}
+\begin{pmatrix}
+(a&#x27;, b&#x27;, c&#x27;) \\
+(d&#x27;, e&#x27;, f&#x27;)
+\end{pmatrix}
+=
+\begin{pmatrix}
+((a, b, c) \mathcal{X} (a&#x27;, b&#x27;, c&#x27;)), (a, b, c) \mathcal{X} (d&#x27;, e&#x27;, f&#x27;) \\
+(d, e, f) \mathcal{X} (a&#x27;, b&#x27;, c&#x27;), (d, e, f) \mathcal{X} (d&#x27;, e&#x27;, f&#x27;)
+\end{pmatrix},
+\]
+
+or to take an example involving square matrices,
+
+\[
+\begin{pmatrix}
+(a, b) \\
+(d, e)
+\end{pmatrix}
+\text{tr.}
+\begin{pmatrix}
+(a&#x27;, b&#x27;) \\
+(d&#x27;, e&#x27;)
+\end{pmatrix}
+=
+\begin{pmatrix}
+((a, b) \mathcal{X} (a&#x27;, b&#x27;)), (a, b) \mathcal{X} (d&#x27;, e&#x27;) \\
+(d, e) \mathcal{X} (a&#x27;, b&#x27;), (d, e) \mathcal{X} (d&#x27;, e&#x27;)
+\end{pmatrix},
+\]
+
+so that in the composition of matrices (square or rectangular), when the second or nearer component matrix is expressed as a matrix preceded by the symbol tr., any line of the compound matrix is obtained by compounding the corresponding line of the first or further component matrix successively with the several lines of the matrix which preceded by tr. gives the second or nearer component matrix. It is clear that the terms &#x27;symmetrical&#x27; and &#x27;skew symmetrical&#x27; do not apply to rectangular matrices.</div>

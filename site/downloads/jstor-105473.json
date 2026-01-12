@@ -1,0 +1,79 @@
+{
+  "id": "73a9d93d132c47fc4bb35e2e543b4de48755fa62",
+  "text": "PHILOSOPHICAL\nTRANSACTIONS.\n\nReceived November 23, 1765.\n\nI. Observations of the Eclipse of the Sun on\nthe 16th of August, 1765, made at\nColombes, near Paris, at the Observatory\nof the Marquis of Courtenvaux, 5° 13', 8\" North\nof the Royal Observatory, and\n20' ½ in Time to the East. By M. Messier,\nAstronomer, Keeper of the Journals, Plans,\nand Maps belonging to the Marine of France,\nFellow of the Royal Society in London,\nand Member of the Society of Sciences in\nHolland; translated from the French by\nMatthew Maty, M.D. Sec. R.S.\n\nRead Jan. 23, 1766.\n\nTHE sky was almost continually\novercast for many days, and very\nlittle hopes were left about this eclipse; yet it having\nin part cleared up on the afternoon of the 16th, I\nobserved the beginning and several phases of it.\n\nVol. LVI. B\nI had settled the going of an excellent clock, regulated according to mean time, by corresponding altitudes of the sun taken the 14th, 15th, 16th, and 17th of August, and by the meridian transits taken by an instrument, of five feet focus, on the 12, 13, 14, 15, and 17, so that no doubt remained about the motion of this clock, which was extremely regular.\n\nTo make the observation, I made use of a very good Gregorian reflector of 12 inches focus, the great mirror being three inches diameter, which magnified that of the objects about 40 times. This instrument was mounted upon a parallactic machine, extremely commodious, and having very easy motions. The telescope was furnished with a micrometer with filken threads, inclinable on all sides, so that it was easy to place it according to the motion of the sun, and to incline it in such a manner, as to measure the distances of the horns and the magnitude of the Eclipse. One might likewise have adapted to this instrument an object glass micrometer of 24 feet focal length; but I rather chose to make use of the filken threaded micrometer, which was more convenient, and easier to be managed. Here follow the observations.\n| True Time | Par. of the Microm. | Parts of a gr. Circle | Mag.of the Ec. in Dig. |\n|-----------|---------------------|-----------------------|------------------------|\n| Aug.16    |                     |                       | Diameter of the Sun measured in the Parallel. |\n| 0 45      | 2484                | 31 41                 | Diameter of the Sun. Beginning of the Eclipse to a Second. The Sky clear about the Sun. |\n| 3 52      | 2486                | 31 42                 | Magnit. of the Eclipse. Distance of the Horns. Magnit. of the Eclipse. The Sun covered. |\n| 3 58      |                     |                       | Magnit. of the Eclipse measured without a Glass, light Clouds. Dist. of the Horns, measured without a Glass, light Clouds. |\n| 4 7       | 2316½               | 29 33*                | Magnit. of the Eclipse measured without a Glass. |\n| 4 9       | 969                 | 12 21                 | Thick Clouds covering the Sun. |\n| 4 13      | 2200                | 28 3*3                | The Sun appears again, but the Eclipse is over. |\n\nThe quantities marked with * are the remaining bright parts of the diameter of the sun measured in a direction perpendicular to the line of the horns.\n\nII. Remarks",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105473.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 978,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        789,
+        2
+      ],
+      [
+        789,
+        1968,
+        3
+      ],
+      [
+        1968,
+        3209,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105473",
+    "title": "Observations of the Eclipse of the Sun on the 16th of August, 1765, Made at Colombes, Near Paris, at the Observatory of the Marquis of Courtenvaux, 5<sup>′</sup> 13,8<sup>′ ′</sup> North of the Royal Observatory, and 20<sup>′ ′</sup> 1/3 in Time to the East. By M. Messier, Astronomer, Keeper of the Journals, Plans, and Maps Belonging to the Marine of France, Fellow of the Royal Society in London, and Member of the Society of Sciences in Holland; Translated from the French by Matthew Maty, M. D. Sec. R. S.",
+    "authors": "Matthew Maty, M. Messier",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105473"
+  }
+}

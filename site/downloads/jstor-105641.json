@@ -1,0 +1,59 @@
+{
+  "id": "77d4d70f373d842dc1a8605235d70a45c07d00ba",
+  "text": "The external contact was observed\n\nAt $21^{\\text{h}}\\ 22^{\\text{m}}\\ 53^{\\text{s}}$ with a telescope of 6 feet.\n$21^{\\text{h}}\\ 22^{\\text{m}}\\ 50^{\\text{s}}$ - - - - - - 8 feet.\n$21^{\\text{h}}\\ 22^{\\text{m}}\\ 59^{\\text{s}}$ - - - - - - 11 feet.\n\nProfessor Canterzani examined the observations by projection, and found them to agree very nearly with those made in the upper chamber by Signor Zanotti.\n\nEND of PART I.\n\nERRATUM.\nPage 198, Line 11, for from, read with.\n\nERRATUM in Vol. LI. Part II.\nPage 922, Line 2, for sum or difference, read difference or sum.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105641.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3090,
+    "total-output-tokens": 273,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        560,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105641",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105641"
+  }
+}

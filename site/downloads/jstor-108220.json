@@ -1,0 +1,109 @@
+{
+  "id": "aa9b9f1e91e2260ae3e139deff50319b7ea4eff9",
+  "text": "METEOROLOGICAL JOURNAL,\n\nKEPT BY THE ASSISTANT SECRETARY,\n\nAT THE APARTMENTS OF THE\n\nROYAL SOCIETY,\n\nBY ORDER OF\n\nTHE PRESIDENT AND COUNCIL.\n\nOBSERVANDA.\n\nHeight of the Cistern of the Barometer above the plinth at Waterloo Bridge...83 feet 2 inches.\nabove the mean level of the sea .........................97 feet.\nHeight of the receiver of the Rain Gauge above the court of Somerset House ..79 feet.\nThe External Thermometer is 2 feet higher than the Barometer Cistern.\nThe Thermometers are graduated to Fahrenheit's scale.\nThe Barometer is divided into inches and tenths.\nThe Hours of Observation are of Mean Time, the day beginning at Midnight.\nThe daily observations of the Barometer are not corrected.\nThe monthly means are corrected for capillarity and temperature by the Table contained in Mr. Baily's paper in Phil. Trans. for 1837.\n## Meteorological Journal for July and August, 1839\n\n### Barometer Corrections\n\n| Time   | A.M. Barometer Uncorrected | P.M. Barometer Uncorrected | A.M. Altitude | P.M. Altitude | External Thermometers |\n|--------|-----------------------------|----------------------------|---------------|--------------|----------------------|\n|        |                             |                            |               |              |                     |\n| 9 o'clock, A.M. |                             |                            |               |              |                     |\n| 3 o'clock, P.M. |                             |                            |               |              |                     |\n\n### Temperature Data\n\n| Time   | Fahrenheit | Self-registering |\n|--------|------------|------------------|\n|        |            |                  |\n\n### Additional Information\n\n- **Mean Barometer Corrected**: [F 29.959] [C 29.919]\n\n- **Mean Temperature**: [F 68.6] [C 19.68]\n\n- **Remarks**: Various weather conditions noted throughout the days.\n\n### Locations\n\n- **M**: Flint Glass\n- **T**: Crown Glass\n- **W**: Flint Glass\n- **S**: Crown Glass\n\n---\n\nThis table provides detailed meteorological data including barometric pressure corrections, altitude readings, external thermometers, and temperature data across various locations marked with different glass types. Additional remarks describe the weather conditions observed during each period.\nThe observations for the month of September were not taken by the Assistant Secretary, on account of absence.\n## Meteorological Journal for November and December, 1839\n\n### Remarks\n\n- **F** Overcast—high wind throughout the day, as also the evening.\n- **S** Overcast—light rain—brick wind throughout the day. Ev. The like.\n- **NE** (A.M.) Light fog and wind—deposition. P.M. Overcast—lt. wind.\n- **W** (A.M.) Overcast—light wind. P.M. Fine—light clouds. Evening, Overcast—light rain.\n- **SE** (A.M.) Light overcast—light rain and wind. P.M. Fine—light wind. Evening, Overcast—fine rain.\n- **E** (A.M.) Thick fog—light haze. Ev. Overcast—fine rain.\n- **NW** Overcast—lt. rain and wind throughout the day, as also the evening. (Overcast—light wind, with occasional rain throughout the day.)\n- **SW** (A.M.) Fine cloud and wind. P.M. Overcast—light wind. Evening, Very light rain.\n- **S** Overcast—very light rain and wind throughout the day. Ev. The like.\n- **N** Fine—light clouds and wind throughout the day. Ev. Overcast.\n- **NNW** (A.M.) Light fog and wind. P.M. Overcast—lt. wind. Ev. Light fog.\n- **SSE** (A.M.) Fine—light clouds and wind. P.M. Overcast—light rain.\n- **SE** Overcast—light fog throughout the day. Evening, Light rain.\n- **SW** (A.M.) Light fog and wind. P.M. Fine—light clouds. Ev. Cloudy.\n- **S** Overcast, with occasional rain throughout the day. Ev. The like. (Occasional fine rain throughout the day.)\n- **SSW** Fine—lt. clouds & wind throughout the day. Ev. Overcast—lt. rain.\n- **W** Evening, Fine and clear.\n- **NW** (Overcast—brick wind, with occasional rain throughout the day.)\n- **SW** (A.M.) Fine—light clouds and wind. P.M. Cloudy. Ev. Fine & clear.\n- **S** (A.M.) Light fog & wind. P.M. Fine—lt. clouds & wind. Ev. Cloudy.\n- **SSW** Overcast—brick wind with occasional rain throughout the day. Evening, The like.\n- **S** Overcast—very fine rain throughout the day. Evening, The like.\n- **E** Fine and clear—Frost during the night.\n- **NW** (A.M.) Thick fog. P.M. Overcast—light rain and snow. Evening, Overcast—light rain.\n- **SW** (A.M.) Overcast—light rain and wind—heavy rain throughout the day. Ev. The like.\n- **S** Overcast—light rain—brick wind throughout the day. Ev. The like.\n- **SSW** Fine—nearly cloudy—light wind throughout the day. Evening, Ev. Overcast—very light rain.\n\n### Mean Barometer corrected\n\n| Time | Barometer |\n|------|-----------|\n| 9 A.M. | 29.656 |\n| 3 P.M. | 29.659 |\n\n*An unusual quantity during the twenty-four hours.*\n\nThe quantity of rain has been unusually great for the year 1839 compared with those for 1837 and 1838:\n\n- In Paris: 17.942 inches\n- In London: 19.587 inches\n- In Berlin: 24.504 inches\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108220.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11436,
+    "total-output-tokens": 1535,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        842,
+        2
+      ],
+      [
+        842,
+        2308,
+        3
+      ],
+      [
+        2308,
+        2418,
+        4
+      ],
+      [
+        2418,
+        4979,
+        5
+      ],
+      [
+        4979,
+        4979,
+        6
+      ],
+      [
+        4979,
+        4979,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108220",
+    "title": "Meteorological Journal, Kept by the Assistant Secretary, at the Apartments of the Royal Society, by Order of the President and Council",
+    "authors": null,
+    "year": 1840,
+    "volume": "130",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/108220"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "2275c9bba27a5f1fe233f7b3944476ca19070f07",
+  "text": "IX. Theorema Spherico-Catoptricum Universale. Per D. Humfredum Ditton.\n\nExororum Inventio tum in Dioptrica, tum in Catoptrica, ex Calculo pro curvis Causticis facili modo sequitur. Nil enim aliud agendum est, quam ut locus in quo Radius (ad Curvam, vel Refringentem, vel Reflectentem perpendicularris) Curvam Diacausticam vel Catacausticam tangit, cognitus habeatur. De quâ methodo videatur D. Hayes Liber Fluxionum nuper editus: nos ex aliis principiis, rem (ad Catoptricam quatenus spectat) aggrediemur.\n\nSit DEF Speculi Sphericci concavi portio, cujus Centrum B, semidiame ter BE vel BD: Sit etiam A punctum radians in axe collocatum, a quo profuere radius linea AD, qua ad punctum D reflectatur in DC. Investiganda jam est Foci C, a Speculi vertice E distantia.\n\nNotandum vero, quod punctum D ipsi E proximum supponimus. Radii enim remotiores oculum (quem in axe AE constituimus) praeterlabuntur, nec ad imaginis visionem aliquid faciunt. Porro, propter arcum DE indefinite parvum, anguli DAB, ADB (ut & ipsorum summa DBC) sunt quam minimi, ac idcirco candem habebunt inter se rationem, quam ipsis latera opposita: quo ratiocinii principio positio, ad Theorema Dioptricum pervenit, D. Halleius Geometriae Professor apud Oxonienses.\n\nHisce premisis, sit AB = h. BD = BE = r. BC = z. CE (= r = z, sed brevitatis causa ponatur) = f. Quan-\ntitates & cognita sunt (dantur enim semidiameter speculi, ac puncti lucidi a vertice distantia) vero & quaestae ac incognitae. Jam in Triangulo DAB, erit \\( \\angle DAB : \\angle ADB :: r : b \\). Item in Triangulo DBC, \\( \\angle BDC = \\angle ADB \\), ex natura Reflexionis, & \\( \\angle DBC = \\angle DAB + \\angle ADB \\), ex Elem. Eucl. Ergo cum \\( \\angle DBC \\) sit ut \\( r + b \\), & \\( \\angle BDC \\) ut \\( b \\); erit etiam \\( \\angle DBC : \\angle BDC :: r + b : b \\), & (quod ex principio supra memorato consequitur) DC : BC :: \\( r + b : b \\). Sed quoniam punctum D ipsi E proximum est, erit DC ipsi CE equalis estimanda, ergo CE : BC :: \\( r + b : b \\); hoc est \\( f : z :: r + b : b \\), & (comparando Antecedentium & Consequentium summas ad Antecedentes) \\( f + z : f :: r + 2b : r + b \\); sed \\( f + z = r \\), ergo \\( r : f :: r + 2b : r + b \\), ergo \\( f = \\frac{rrab}{r + r} \\). Q: E: I.\n\nSi ponatur \\( r + b (= AE) = d \\), Theorema in formam contractiorem \\( r \\) diget \\( r \\), & sic stabit \\( f = \\frac{rd}{2d - r} \\). Sed utrovis modo, focorum inventioni, quæcunque tandem sit, vel Speculi forma, vel radiorum conditio, aptum evadet.\n\nCoroll. I. Erit \\( zd = df - rf \\), sive \\( AE \\times BC = AB \\times CE \\), vel quod idem est, linea AE harmonicè dividitur in punctis A, B, C, E; nam praedicta Rectangulorum equalitas, lineæ secundum proportionem harmonicam secatæ, propria est. Patet hæc veritas: Est enim \\( f = \\frac{dr}{2d - r} \\), & \\( z = r - f = r - \\frac{dr}{2d - r} \\), unde valores hæc substituendo, Equatio manifesta fiet. Adeo ut in omni Speculo Sphærico, lineæ DA, DB, DC, DE, sunt Harmonicales; & Punctum radians, Centrum, Focus, Vertex sunt puncta divisionem Harmonicam efficiens.\n\nCoroll. II. 1ma Posito \\( d > r \\); erit ex calculo \\( f \\), sive \\( \\frac{rd}{2d - r} \\) semper. Hoc est, si puncti radiantis distantia major sit Semidiametro Speculi, foci distantia semper major erit quarta parte Diametri.\n\nItem, erit \\( \\frac{rd}{2d - r} < r \\) semper. Hoc est, distantia foci semper erit minor speculi semidiametro.\n\n2do. Si ponatur \\( d = r \\), erit \\( \\frac{rd}{2d - r} \\), sive \\( f = r \\). Hoc est, si punctum radians in centro speculi constituatur, Imago ejus ibi cum eo unietur.\n3a Si ponatur \\(d < r\\), tum ipsius f expressio erit vel positiva vel negativa vel infinita, prout quantitas \\(2d\\) quantitate \\(r\\) vel major est vel minor, vel ei equalis.\n\nSi \\(2d > r\\), hoc est, si \\(d > \\frac{r}{2}\\), tum punctum radians & focus ad easdem partes speculi jacent.\n\nSi \\(2d < r\\), vel \\(d < \\frac{r}{2}\\), tum Imago, in axe ultra speculi verticem producto, sita est.\n\nSi \\(2d = r\\), vel \\(d = \\frac{r}{2}\\), Imago infinitè distat, sive radius reflexus, axi parallelus evadit.\n\nCoroll. III. Calculi hujus ope expeditè determinari potest, quomodo objecti radiantis (speculi respectu) motui, ipsius imaginis motus respondeat. Sit (ut an ea) imaginis a speculo distantia \\(= \\frac{dr}{2d-r}\\), quando objecti distantia est \\(d\\). Maretur jam utcunque objecti distantia, & ex \\(d\\), fiat \\(n d\\), quantitate \\(n\\) Numerum vel integrum vel fractum designante: & sic loco prioris Equationis, \\(f = \\frac{dr}{2d-r}\\), habebimus pro Novo Foco aliam Equationem, \\(F = \\frac{n dr}{2nd-r}\\). Et quidem si \\(n\\) Numerum integrum exprimere supponatur, secunda haec objecti distantia primâ major erit, si vero sit fractus, tum minor erit primâ.\n\nHisce positis, si \\(d > r\\), & \\(n\\) sit integer, erit \\(F < f\\), id est, erit \\(\\frac{n dr}{2nd-r} < \\frac{dr}{2d-r}\\), sive \\(2nddr - ndrr < 2nddr - dr^2\\), quod manifestum est. Hoc est, si in speculo concavo objecti distantia major sit semidiametro, tum recedente objecto a speculo, Imago versus speculum accedet. Rursus, designet \\(n\\) Numerum fractum, & tunc reperietur \\(2nddr - ndrr > 2nddr - dr^2\\), sive \\(F > f\\). Hoc est, accedente objecto ad speculum recedet Imago.\n\nSupponatur jam \\(d < r\\); ut & alia quæcunque sit objecti distantia non intelligatur ea semper minor esse quam \\(\\frac{r}{2}\\). Tum erunt \\(2nddr - ndrr\\), & \\(2nddr - dr^2\\), quantitates negative, sine \\(ndrr - 2nddr\\), & \\(dr^2 - 2nddr\\) quantitates positivæ. Et quidem si \\(n\\) numero integro æquetur, erit \\(ndrr - 2nddr > dr^2 - 2nddr\\), sive \\(F > f\\); si vero a fractio sit, tum erit \\(ndrr - 2nddr < dr^2 - 2nddr\\), sive \\(F < f\\). Hoc est, si in speculo concavo objecti distantia minor sit speculi Diametri quartâ parte, tum recedente\ndente objecto a speculo, recedet & Imago; vel accedente\nobjecto versus speculum, Imago etiam accedet.\n\nEt hæc omnia (quæ calculi vestigia premendo deduximus)\nScholio unico conclusit, & in suâ Catoptricâ tradidit D.\nGregorius apud Oxonienses Astronomiæ Professor.\n\nCoroll. IV. In Equatione \\( f = \\frac{dr}{2d-r} \\), si ponatur d infinita,\nerit \\( f = \\frac{r}{2} \\); quæ regula est pro Radiis parallelis, sive pro ob-\nobjecto radiante ad distantiam infinitam remoto. Idem sequen-\ntur, potito b infinito in Equatione \\( f = \\frac{rr+rb}{r+2b} \\).\n\nCoroll. V. In Equatione \\( \\frac{dr}{2d-r} \\), mutato quantitatis r signo\nnegativo in positivum, erit \\( f = \\frac{dr}{2d+r} \\); vel in equatione \\( f = \\frac{rr+rb}{r+2b} \\),\nmutato signo positivo in negativum, erit tunc \\( f = \\frac{rb-rr}{2b-r} \\); quæ regulam exhibet pro speculo versus objectum ra-\ndians convexo. Patet hæc mutatio signi; nam sicut in specu-\nlo concavo \\( d = r + b \\), sic in convexo \\( d = b - r \\).\n\nCoroll. VI. In speculo convexo (stantibus quæ ad Cor. III.\nannotavimus de Concavo) parebit quod (si n sit numerus in-\nteger) \\( 2rndd + ndrr > 2rndd + drr \\); & (n fra-\nctione existente) quod \\( 2rndd + ndrr < 2rndd + drr \\).\nHoc est, quod recevente objecto a speculo, vel versus idem\naccedente Imago similiter recedet vel accedet.\n\nPatet etiam in speculo convexo, objecto ad immensam usq;\ndistantiam retrocedente; Imaginem tamen illius non ultra\nDiametri partem quartam abire a vertice, sed ibi, in puncto,\ncentrum inter & verticem medio, se sistere. Posito enim d\nvel b infinito, erit \\( f = \\frac{dr}{2d} \\) vel \\( \\frac{br}{2b} \\), id est (utrovis modo) \\( = \\frac{1}{2} \\).\n\nHisce adjungi poteat & Problematis Catoptrici solutio, Ra-\ndiantis positionem respectu speculi dati ralem invenire, ut radi-\nans ad ipsius Imaginem a speculo factum, datam habent rationem.\nSit Ratio data \\( r : q \\). & symbolo O designetur Objectum, I\nImago, d distantia objecti, & f imaginis a speculo. Jam\n(quod demonstravit D. Greg.) erit \\( O : I :: d : f \\), (hoc est Ob-\njectum & Imago sunt distantiis suis a speculi vertice directè\nproportionales) & quoniam requiritur ut sit \\( O : I :: r : q \\),\ndebet\ndebet etiam esse \\( d : f :: r : q \\), vel (ipsius f expressionem scribendo) \\( d : \\frac{dr}{2d-r} :: r : q \\), unde \\( 2ddq - rdq = rdr \\), & \\( 2dq = rr + qr \\), & \\( d = \\frac{rr+rq}{2q} \\). Unde quoniam \\( dr = \\frac{rr+rrq}{2q} \\), & \\( 2d - r = \\frac{rr}{q} \\), erit etiam f sive \\( \\frac{dr}{2d-r} = \\frac{rr+rrq}{2q} \\)\n\n\\[\n\\frac{rr}{q} = \\frac{qrr+qrr}{2qr} = \\frac{rr+rq}{2}\n\\]\n\nquaest ipsius f, sive imaginis a speculo distantia, huic objecti distantiae congrua. Ergo si statuatur objectum ad distantiam \\( \\frac{rr+rq}{2q} \\), ipsius Imago facta ad distantiam \\( \\frac{rr+rq}{2} \\) ei comparata, eandem habebit rationem, quam \\( q : r \\), sive erit \\( O : I :: r : q \\). Nam \\( O : I :: d : f :: \\frac{rr+rq}{2q} :: r : q \\). Q.E.D.\n\nObjectum Radians & Imaginem hic tanquam lineas consideravimus. Si enim Superficies sunt, tum erit \\( O : I :: d : f :: r : q \\), sic ut ultimo deveniatur ad Equationem \\( 4dd - 4qdr = rr - qrr \\), equa radicis d valor, Methodis vulgaribus facillime inveniri potest.\n\n---\n\nLONDON,\nPrinted for Sam. Smith and Benj. Walford, Printers to the Roy:1 Society,\nat the Prince's Arms in St Paul's Church-yard, 1705.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102970.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9362,
+    "total-output-tokens": 3413,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1340,
+        2
+      ],
+      [
+        1340,
+        3551,
+        3
+      ],
+      [
+        3551,
+        5724,
+        4
+      ],
+      [
+        5724,
+        7887,
+        5
+      ],
+      [
+        7887,
+        9039,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102970",
+    "title": "Theorema Spherico-Catoptricum Universale. Per D. Humfredum Ditton",
+    "authors": "Humfredum Ditton",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/102970"
+  }
+}

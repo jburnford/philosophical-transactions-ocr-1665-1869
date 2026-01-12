@@ -1,0 +1,69 @@
+{
+  "id": "c393bb1a08152d070b9809b04c459580f696f1cc",
+  "text": "XIII. An Account of an extraordinary Meteor seen in the County of Rutland, which resembled a Water-Spout, communicated to the President, by Tho. Barker, Esq;\n\nRead Dec. 14.\n\nSept. 15. 1749. a remarkable Meteor was seen in Rutland, which I suspect to have been of the same kind as Spouts at Sea; being much like the Account of two seen at Hatfield in Yorkshire; Phil. Trans. No. 281. p. 1248. and No. 284. p. 1331.\n\nIt was a calm, warm, and cloudy Day, with some Gleams and Showers; the Barometer low and falling, and the Wind South, and small. The Spout came between 5 and 6 in the Evening; at 8 came a Thunder-Shower, and Storm of Wind, which did Mischief in some Places; and then it cleared up with a brisk N.W. Wind.\n\nThe earliest Account I have was from Seaton. A great Smoke rose over or near Gretton, in Northamptonshire, with the Likeness of Fire, either one single Flash, as the Miller said, or several bright Arrows darting down to the Ground, and repeated for some Time, as others say. Yet some who saw it, did not think there was really any Fire in it, but that the bright Breaks in a black Cloud looked like it. However, the Whirling, Breaks, Roar, and Smoke, frightened both Man and Beast. Coming down the Hill, it took up Water from the River Welland, and passing over Seaton Field, carried away several Shocks of Stubble; and crossing Glaiston,\nton, and Morcot Lordships, at Pilton Town's End tore off two Branches, and carried one of them a good way. In a Hedge-row in the Meadow, at Right Angles to the Spout's Course, stood an Oak and an Ash 15 Yards asunder; the Oak a young sound one, 16 Inches thick, it split two Yards down, and one Half fell to the Ground, but was not quite parted from the other; the Ash, about 8 Inches thick, was torn off in the Middle, and carried 10 or 12 Yards. Between and on each Side of these Trees were other smaller ones, which were not hurt: I heard of no Harm it did after, but breaking and scattering a few Boughs. I saw it pass from Pilton over Lyndon Lordship, like a black smoky Cloud, with bright Breaks; an odd whirling Motion, and a roaring Noise, like a distant Wind, or a great Flock of Sheep galloping along on hard Ground; it was divided into two Parts all the Way it went, and tho' there was no Wind, moved apace from S. by W. to N. by E. As it went by a Quarter of a Mile East from me, I saw some Straws fall from it, and a Part, like an inverted Cone of Rain, reached down to the Ground. Some who were milking, said it came all round them like a thick Mist, whirling and parting, and, when that was past, a strong Wind for a very little while, though it was calm both before and after. It then passed off between Edithweston and Hambleton, but how much further I do not know.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104638.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 827,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1360,
+        2
+      ],
+      [
+        1360,
+        2742,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104638",
+    "title": "An Account of an Extraordinary Meteor Seen in the County of Rutland, Which Resembled a Water-Spout, Communicated to the President, by Tho. Barker, Esq;",
+    "authors": "Tho. Barker",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104638"
+  }
+}

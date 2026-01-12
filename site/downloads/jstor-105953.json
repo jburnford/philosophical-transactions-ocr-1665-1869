@@ -1,0 +1,59 @@
+{
+  "id": "7633757acb4ac1b41787aa0fa8a427f4c8009a66",
+  "text": "XXVIII. Thermometrical Observations at Derby, by Mr. John Whitehurst, communicated by Charles Morton, M. D. Sec. R. S.\n\nDear Sir,\n\nWe experienced a much greater degree of cold at Derby, in the late frost, than perhaps was ever observed in England; and the quick transitions were no less remarkable.\n\nOn Sunday the 18th of last month, at nine of the clock in the evening, my thermometer stood at 20. At half an hour after nine, nearly one degrew below 0. At seven the next morning, 30. external air.\n\nI am, Sir,\n\nYour most obedient servant,\n\nDerby,\nFeb. 15, 1767.\n\nJohn Whitehurst.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105953.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 217,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        580,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105953",
+    "title": "Thermometrical Observations at Derby, by Mr. John Whitehurst, Communicated by Charles Morton, M. D. Sec. R. S.",
+    "authors": "Charles Morton, John Whitehurst",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105953"
+  }
+}

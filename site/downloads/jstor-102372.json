@@ -1,0 +1,69 @@
+{
+  "id": "b467793af4a652d9b4b369127ded28bcca5804a5",
+  "text": "VII. Part of a Letter, Dated June the 9th, 1697, from Herefordshire, giving a Relation of the Effects of a great Hail-storm there, June 1697.\n\nThis is to give you an Account of an Extraordinary Hail, which happened on Sunday last in this Country. A little of it fell in several places, but in the Parish of Westhide, not far from Hereford, so great a quantity fell, as destroyed all the Poultrey, Garden Stuff, Corn, Grass, and most of the Fruit Trees in the Parish, but kill'd no Men nor Cattle, but hurt several, and broke most of the Windows: Many of the Stones were measured above Nine Inches in Compass.\n\nVIII. A Note concerning an Extraordinary Hail in Monmouthshire, Extracted out of a Letter sent from Mr. Edward Lhwyd to Dr. Tancred Robinson, Fell. of Coll. of Phys. &c. R. S. Dat. Usk in Monmouthshire, June 15. 1697.\n\nWe had at Pont y Pool in Monmouthshire, on the 6th of June last, an Extraordinary Shower of Hail, which extended about a Mile, and lasted...\ned near half an Hour. It broke the Stalks of all the Beans and Wheat within that Circumference, and Ruined as much Glass at Major Hanbury's House, as cost Four Pounds Repairing; some of the Hail were Eight Inches about, their Figure very irregular and unconstant, several of the Hailstones being Compounded.\n\nIX. An Account of a Fetus, voided by the Ulcered Navil of a Negro in Nevis, by Mr. James Brodie; Communicated by Dr. Preston.\n\nSIR,\n\nIN the Island of Nevis, in the West-Indies, there was a Negro Woman belonging to one Captain Mead, who after one Year and halfs being with Child, was at the last, to a wonder relieved by the Navil, in this manner; about the 17th Month, the Woman being believed to be Hydropical, by reason of her passing her time so far, and of the great swelling of her Belly. Her Navil did begin to Swell and Impostumate, so that most People did believe she would dye by that. It did Tumifie and grow livid, so that the Surgeon was unwilling to meddle with it; but by reason of the Importunity of the Master of the Woman, who was willing to try all ways to save her Life, he was coming to open it, but in that time it did break of itself, and void some quantity of Ichorous Matter, and then leave off, but the Woman had some ease by it then;",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102372.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 685,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        970,
+        2
+      ],
+      [
+        970,
+        2238,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102372",
+    "title": "A Note Concerning an Extraordinary Hail in Monmouthshire, Extracted out of a Letter Sent from Mr. Edward Lhwyd to Dr. Tancred Robinson, Fell. of Coll. of Phys. et R. S. Dat. Usk in Monmouthshire, June 15. 1697",
+    "authors": "Edward Lhwyd",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102372"
+  }
+}

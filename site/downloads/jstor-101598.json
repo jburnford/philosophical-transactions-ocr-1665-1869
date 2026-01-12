@@ -1,0 +1,69 @@
+{
+  "id": "afdbc00530cde7addfcedab357521ffd60a5777e",
+  "text": "The CONTENTS.\n\nAn Extract of a Letter, intimating two New Anatomical Discoveries. A Narrative of divers odd Effects of a dreadful Thunder clap. An Extract of a Letter of M. Hevelius concerning a New Star lately discover'd in the Constellation of the Swan; together with the present Appearance of the Planet Saturn. An Accompt from Paris in two Letters, concerning the Earlier discovery of the same New Star, described in the precedent Letter. Some Communications confirming the present Appearance of the Ring about Saturn, by M. Hugens de Zulichem, and M. Hook. An Extract out of a lately Printed Epistolary Address to the G. Duke of Toscany, touching some Anatomical Engagements of Laurentius Bellini. A relation of a late Monstrous Birth in Plymouth, together with the Anatomical Observations taken thereupon by Dr. Will. Durston. Some Observations on Insects lodging themselves in Old Willows; by Dr. Edmund King, and Francis Willoughby Esquire. A Confirmation of what was formerly Printed in Numb. 50. about the manner of Spiders projecting their Threads; communicated by Mr. Wray, and Mr. Lister. An Accompt of some Books. I. DE CORPORUM AFFECTIONIBUS cum MANIFESTIS tum OCCULTIS, Auth. J. B. Du Hamel. II. ELEMENTA PHYSICA, Auth. Franc. Wilh. Barone de Nuland. III. A Discourse of LOCAL MOTION, English out of French. IV. Congiecture Physico-Astronomiche della Natura del Universo, da M. Cavina; in Faenza, 1662. in 4°. V. Dimonstratione Delle 7. Propositioni, Promessa da Don. Roletti; in Firenze 1668. in 4°.\n\nAn Extract of a Letter written to the Publisher out of France, Octob. 29. 1670. intimating two New Anatomical Discoveries.\n\nA Friend of mine, a professed Physician, hath assured me, that at Montpelier, a German hath discover'd the vessels,\nwhich convey the Chyle to the Breasts of Nursing Women; and shew'd, that they do issue out of the Duclis of Monsieur Pecquet. This is a discovery of a thing, the being of which hath been believed long since, though not made out. Another person hath assured me, that there is certainly another passage of the Urine to the Bladder than by the Ureters; an Experiment having been lately made, whereby the Ureters of a Dog were so carefully tyed up, that nothing could pass that way, and yet the Urinary Bladder was found full of Water.\n\nA Narrative of divers odd Effects of a dreadful Thunder-clap, at Stralsund in Pomerania, 19 June 1675; taken out of a Relation, there Printed by Authority in High Dutch.\n\nAfter a very hot season from the beginning of this month of June, on the 19th of the same, early in the morning a great Tempest was observed, gathering West-South West, of which there appear'd much Lightning, with some Thunder only as afar off. On the nineteenth (being Sunday) after several less strong reports of Thunder, the whole Town, and particularly the Congregation in St. Nicolaus Church, when the Minister was Preaching, was strangely surprised with a most terrible flash of Lightning and a fearful Thunder-clap, which lighted down through the lesser steeple upon the body of the Church, and through the round large hole in the upper Vault within the same, in the shape (as some observ'd) of a black fiery ball, directly upon the Altar, causing such an hideous crack, fire-flash, smoak and damp there, as if many fire balls had been thrown down thither from the said Vault, and bursted all at once; begetting a dismal consternation among the people, and leaving an ill Sulphureous smell behind.\n\nThe Candle on the South-side of the Altar was put out by the blow, the other remain'd burning. Two of the Chalices there, were overthrown, and the Wine Spilt, and the Wafers scatter'd about; but the empty Chalice stood firm. All three were somewhat smutted at the foot, and one of them a little bent there, and in two places pierced through as if it had been by hail-shot: And the Wafer-boxes were likewise a little smutted.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101598.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1062,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1758,
+        2
+      ],
+      [
+        1758,
+        3892,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101598",
+    "title": "An Extract of a Letter, Written to the Publisher Out of France, Octob. 29. 1670. Intimating Two New Anatomical Discoveries",
+    "authors": null,
+    "year": 1670,
+    "volume": "5",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101598"
+  }
+}

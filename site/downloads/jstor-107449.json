@@ -1,0 +1,99 @@
+{
+  "id": "4594e7a339b2b302a60ff9820b0500c3b014133f",
+  "text": "XXIX. On an easier Mode of procuring Potassium than that which is now adopted. By Smithson Tennant, Esq. F. R. S.\n\nRead June 23, 1814.\n\nThe great discovery of Sir H. Davy, that the alkalies might be decomposed by the Voltaic electricity, was soon succeeded by that of Gay Lussac and Thenard, who shewed that a similar decomposition of them might be produced by means of iron.\n\nBesides the new and unexpected fact which was thus brought to light, that the alkaline metals might be deprived of oxygen by a substance inferior to them in attraction; this new process was highly valuable, in affording the means of obtaining them far more abundantly than by electricity.\n\nThe circumstances described by Gay Lussac and Thenard, as requisite for producing the decomposition of the alkalies by iron, are first, that the iron should be intensely heated, and afterwards that the alkalies should be brought in contact with it in that heated state. For this purpose a furnace must be made, capable of admitting a gun barrel, containing the iron turnings, to pass through it, and a short piece of barrel containing the alkali must be adapted to the former by grinding, so as to be air tight. As this short piece of barrel is out of the furnace, G. Lussac and Thenard direct that a separate fire be applied to it, in order to make the alkali pass from it into the longer barrel. To avoid the necessity of a separate fire, this\npassage of the alkali has, in England, been generally effected through a small perforation between the two barrels, being poured very hot into the smaller barrel, which is then closed with a ground stopper.\n\nThe process conducted in either way requires the construction of a particular furnace, and the correct fitting of the barrels by grinding, so as to be air tight, and being somewhat complicated is not always performed with success.\n\nAs it was very desirable to facilitate the mode of obtaining potassium, which is so powerful a chemical agent, I have attempted to simplify the process, and having so far succeeded as to render it capable of being performed in a common smith's fire, and without the junction of the iron barrels by grinding, I have thought it might deserve to be communicated to the Royal Society.\n\nIf it was absolutely necessary to heat the alkali and iron separately, and in that state to unite them, no material improvement in the simplicity of the present apparatus could be reasonably looked for; but upon considering that the alkali frequently passed through the short barrel in a few minutes, it did not seem probable that much of the potassium was then formed, since the whole operation required a continuance of the heat for near an hour.\n\nIn order therefore to learn whether potassium might not be produced merely by distilling turnings of iron and potash, I put the two together into a piece of gun barrel, the lower end of which was closed by welding, and the upper end by a cork, having a small glass tube through it to admit the escape of air.\n\nThe lower end of the barrel being coated as usual with lute\nto protect it from the air, was exposed to a strong heat, whilst the upper part was kept cool, and upon opening the barrel, when it had become quite cold, it was found that potassium had sublimed into the upper part. The potassium, however, so produced, though it burnt on contact with water, had not the purely metallic aspect of that formed in the common mode. It was of a more dusky appearance, resembling a mixture of some black powder with potassium. As it seemed probable that some of the potash had risen along with the potassium, I repeated the experiment with attention, to heat the barrel to a greater length, so as to force the potassium to rise further from the ingredients below, but the potassium formed with this precaution had nearly the same dusky appearance as before.\n\nAfter trying different means for obviating this imperfection, I found the following to be quite effectual. Into the upper part of the barrel a narrower piece, nearly fitting it, was inserted, open only by a perforation at the lower end to admit the vapour of the potassium to pass into it, and upon distilling potash and iron turnings with this addition, the potassium rose into the narrow tube, quite pure, with its usual brightness.\n\nThe most convenient dimensions of the apparatus, are for the external barrel to be about a foot and a half long, and the internal one about seven or eight inches. The latter should not be wholly inserted in the former, but about an inch of it left out for the greater ease in withdrawing it. The width is in general determined by that of a common gun barrel, but may be increased to a certain degree. I have had the thick part of a gun barrel so much enlarged by hammering it thinner,\nas to contain twice as much iron turnings and potash, and have employed it with success. But on the other hand, there are limits to this extension of the width, arising from the increased difficulty of making the heat penetrate throughout.\n\nThe opening of the barrels at the top must be covered with a cap or wide tube, which being at a distance from the fire need only be fastened with sealing wax, but for the greater security of keeping this part cool, the whole of the tube which is out of the fire should be wrapped round with linen or blotting paper kept wet.\n\nThe opening of the wide tube must be closed with a cork having a crooked tube of glass through it, containing a drop of mercury, which being moved by the passage of the air shews that the vessels are perfectly tight. But the annexed sketch will at once shew both the construction and dimensions of the apparatus.\nThe principal point to be attended to, both in this and in the common mode, is the giving a strong heat, which should be continued for the greater part of an hour; and to enable the iron barrel to support this, it is quite essential to cover it with a proper lute, carefully applied.\n\nThe lute which I have found most effectual for this purpose was composed of a small proportion of Stourbridge clay in its natural state, with a much larger proportion which had before been burnt and powdered, and both of which may be easily had at any glass house.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107449.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9776,
+    "total-output-tokens": 1487,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1413,
+        2
+      ],
+      [
+        1413,
+        3055,
+        3
+      ],
+      [
+        3055,
+        4764,
+        4
+      ],
+      [
+        4764,
+        5644,
+        5
+      ],
+      [
+        5644,
+        6193,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107449",
+    "title": "On an Easier Mode of Procuring Potassium Than That Which is Now Adopted",
+    "authors": "Smithson Tennant",
+    "year": 1814,
+    "volume": "104",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/107449"
+  }
+}

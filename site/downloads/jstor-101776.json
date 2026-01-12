@@ -1,0 +1,59 @@
+{
+  "id": "4812688d1ee2c0c364014af3ba0ab9a797659a12",
+  "text": "explicate all phenomena of the World by, must be left to the professed and sagacious Searchers of Nature to determine.\n\nIV. A New Treatise of CHYMISTRY, &c. written in French by Christopher Glaser, and now faithfully Englished by F. R. S. London, 1677. in 8°.\n\nThis Author having reflected upon the causes, why many have declaimed against Chymical Writers and even against Chymistry itself, maketh it his business in this Treatise to publish a short and easy method for the happy attainment of all the most necessary preparations of Chymistry; assuring us, that the considering Reader shall find therein nothing tedious, superfluous, or defective in any matter that deserves to be known, and that, though indeed the Preparations of all Chemical matters cannot be found therein, yet sufficient Examples of them will be had from it; affirming withal, that he hath deliver'd no operation, but what he has made and well experienced himself, and what any one, following the Rules by him prescribed, may do after him.\n\nAs for the Theory, he speaks succinctly, yet seems to say so much of it as may suffice for direction to the Preparations: performing his operations on Minerals, Vegetables, and Animals, and proceeding therein orderly, without omitting any necessary directions.\n\nAdvertisement.\n\nDISTANCES WITHOUT SCALE and COMPASS:\nA New large Map of England full six foot square, wherein computed and measured Miles are entered in figures: Designed by Mr. John Adams in the Inner-Temple. Sold by Mr. Gregory King at the East corner-Piazza house of James's-street Covent-Garden; Mr. John Smith Teacher of the Viol and Guitar at the Mermaid, next door to the Bull-head Tavern in Cheapside; Mr. Thomas Basset at the George near St. Dunstans Church in Fleetstreet; and Mr. Richard Chiswel at the Rose and Crown in St. Pauls Church-yard. Price ready made up Two Guinies.\n\nImprimatur,\n\nMay 31.\n1677.\n\nJONAS MOORE R.S.V.Pr.\n\nLondon, Printed for John Martyn, Printer to the R. Society, 1677.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101776.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 529,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1980,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101776",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101776"
+  }
+}

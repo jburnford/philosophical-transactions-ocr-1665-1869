@@ -1,0 +1,79 @@
+{
+  "id": "0df0825823288608c71bc610fb8d884aabc893fa",
+  "text": "Received December 12, 1765.\n\nIV. Account of an inedited Coin of the Empress Crispina. In a Letter to the Rev. Thomas Birch, D.D. Secretary to the Royal Society, from the Rev. John Swinton, B.D. F.R.S. Member of the Academy degli Apatisti at Florence, and of the Etruscan Academy of Cortona in Tuscany.\n\nSIR,\n\nRead Feb. 13, 1766.\n\nA Greek coin of the empress Crispina, which seems to have had a place formerly assigned it in the cabinet of the celebrated Professor Ott, and from thence afterwards to have passed into that of his son, the late Reverend Mr. Ott, some years since fell into my hands. The medal is nearly of the size of the middle Roman brass, and tolerably well preserved. The workmanship is somewhat rude, and savours sufficiently both of the age and the remote province in which it first appeared. On one side is exhibited the head of Crispina, wife of the emperor Commodus, attended by the Greek legend ΚΡΙΣΠΙΝΑ ΚΕΒΑΣΤΗ, CRISPINA AVGUSTA; and on the reverse two human figures, one sitting in a chair, with a lance in its left hand, and the other standing by its side, present themselves to our view. They are both surrounded\nsurrounded by the inscription ΔΑΡΔΑΝΟΣΣΕΝΩΝ, \nDARDANOSSENORVM, or DARDANOSSENSIVM, which \nevidently points at the inhabitants of some antient \ntown. Not one of the letters, either of the legend \nor inscription, has suffered greatly from the injuries \nof time.\n\nWho the Dardanossenians were, or in what part of \nthe world situated, I must not take upon me abso-\nlutely to decide; the word ΔΑΡΔΑΝΟΣΣΑ, DAR-\nDANOSSA, not appearing, as the name of a city, \nin any antient writer. But that this word occurred, \nin such a sense, in the original text (1) of Ptolemy, and \nwas afterwards converted by some ignorant transcri-\nber into DARANISSA, which still remains in all the \nprinted and manuscript copies of that author, will, \nI persuade myself, not be contested by the critics of \nthe present age. The coin therefore was struck at \nDardanossa, or Daranissa, which seems to have been \na town seated in Sophene, a province of the Greater \nArmenia, in the reign of the emperor Commodus, \nwhere the Roman power at that time prevailed. And \nthis is consonant to the faith of history (2), from \nwhence we learn, that the conquest of Armenia was \neffected, after the reduction of Artaxata, by Statius \nPriscus, not many years before Commodus ascended \nthe imperial throne. Nay, the whole country is said to \nhave been conquered, and reduced to the form of a \nRoman province, in the days of Trajan. The figure \nof the Sigma likewise on this medal, so similar \nto the form of that element on certain Armenian\n\n(1) Ptol. Geograph. Lib. V. c. 13.\n(2) Dio, Lib. LXVIII. Jul. Capitolin. in Marc. & in Ver. \nLucian. p. 347. Jamblichus apud Photium, p. 242.\ncoins of the same age, will bring a fresh accession of strength to the notion here proposed to the consideration of the learned; if it will not, in conjunction with what has been offered, evince this beyond the possibility of a doubt.\n\nAs the medal before me has never been hitherto published, nor perhaps ever seen in any other cabinet, either of the curious or the learned, I was inclined to believe, that a description of it, as well as the draught of it attending this paper, [See Tab. I.] might not prove altogether unacceptable to the Royal Society; especially, as it enables us to emend the corrupted proper name of a town in Ptolemy, and evinces Dardanossa, or Daranissa, to have been subject to Commodus when he presided over the Roman world. Nor can anything, as the authority of MSS. must give way to that of antient coins and inscriptions, be better supported than such an emendation. Nor have any coins of this city been ever discovered before. All which will, I flatter myself, be deemed a sufficient apology for the trouble given on this occasion by,\n\nSIR,\n\nYour most obedient humble Servant,\n\nChrist-Church, Oxon.\nDec. 7, 1765.\n\nJohn Swinton.\n\nV. Observations",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105476.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 1165,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1141,
+        2
+      ],
+      [
+        1141,
+        2780,
+        3
+      ],
+      [
+        2780,
+        3955,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105476",
+    "title": "Account of an Inedited Coin of the Empress Crispina. In a Letter to the Rev. Thomas Birch, D. D. Secretary to the Royal Society, from the Rev. John Swinton, B. D. F. R. S. Member of the Academy Degli Apatisti at Florence, and of the Etruscan Academy of Cortona in Tuscany",
+    "authors": "John Swinton",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105476"
+  }
+}

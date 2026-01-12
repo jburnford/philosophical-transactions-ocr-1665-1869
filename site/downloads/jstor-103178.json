@@ -1,0 +1,119 @@
+{
+  "id": "1f063ca08adf3f4198fc171cb8d1780726570a9e",
+  "text": "IV. De motu Nervi tensi. Per Brook Taylor Armig.\nRegal. Societatis Sodal.\n\nLemma I.\n\nSint ADFB, et\nA Δ Φ B Curvae\nduae, quarum re-\nlatio inter se haec\nest, ut, ductis ad\nlibitum ordinatis C Δ D, E Φ F, sit C Δ : CD :: E Φ : EF.\nTum ordinatis in infinitum imminutis, adeo ut coincident\nCurvae cum axe AB; dico quod sit ultima ratio curvaturae\nin Δ ad curvaturam in D, ut C Δ ad CD.\n\nDemonstr. Duc ordinatam c & d ipsi CD proximam;\n& ad D & Δ duc tangentes Dt & Δ θ, ordinatae\nc d occurrentes in t & θ. Tum ob c Δ : cd :: C Δ : CD\n(per Hypothesen) tangentes productae sibi invicem & axi\noccurrent in eodem puncto P. Unde ob triangula similia\nCDP & c t P, C Δ P & c θ P, erit c θ : ct :: C Δ : CD\n(:: c Δ : cd, per Hyp) :: s θ (= c θ - c Δ) ad dt (= c t - cd.)\nAtqui sunt curvaturae in Δ & D, ut anguli contactūs θ Δ θ\n& t D d; & ob Δ & d D coincidentes cum c C, anguli\nisti sunt ut eorum subtensae θ θ & dt, hoc est (per ana-\nlogiam supra inventam) ut C Δ & C D. Quare, &c.\nQ.E.D.\n\nLemma\nLemma 2.\n\nIn aliquo articulo vibrationis sue induat Nervus tensus, inter puncta A & B, formam curvae cujusvis A p π B. Tum dico quod sit incrementum velocitatis puncti aliquujus P, seu acceleratio oriunda a vi tensionis Nervi, ut curvatura Nervi in eodem puncto.\n\nDemonstr. Finge Nervum consistere ex particulis rigidis aequalibus infinitae parvis p P & P π, &c. & ad punctum P erige perpendicularem P R = radio curvaturae in P, cui occurrant tangentes p t & π t in t, iis parallelae π s & p s in s, & chorda p π in c. Tum, per Principia Mechanicae, vis absoluta, qua urgentur particulae ambae p P & P π versus R, erit ad vim tensionis fili, ut s t ad p t s & hujus vis dimidium, quo urgetur particula una p P, erit ad Nervi tensionem, ut c t ad t p, hoc est, (ob triangula similia c t p, t p R) ut t p vel P p ad R. t vel P R. Quare, ob tensionis vim datam, erit vis acceleratrix absoluta ut $\\frac{P p}{P R}$. Sed est acceleratio genita in ratione composita ex rationibus vis absolutae directe & materiae movendae inverse; atq; est materia movenda ipsa particula P p. Quare est acceleratio ut $\\frac{1}{P R}$, hoc est ut Curvatura in P. Est enim Curvatura reciprocè ut radius circuli osculatorii. Q. E. D.\n\nE 2. Prob. 1.\nProb. 1.\n\nDefinire motum Nervi tensi.\n\nIn hoc Proble-\nmate & sequen-\ntibus pono Ner-\nvum moveri per\nspatium mini-\nmum ab axe\nmotûs; ut incre-\nmentum tensio-\nnis ex auctâ longitudine, item obliquitas radiorum curva-\nturæ possint tuto negligi.\n\nItaq; extendatur Nervus inter puncta A & B; & ple-\nctro deducatur punctum z ad distantiam C z ab axe A B.\nTum amoto plectro, ob flexuram in puncto solo C, illud\nprimum incipiet moveri (per Lemma 2.) At statim\ninflexo Nervo in punctis proximis & d, incipient\nhæc puncta etiam moveri; & deinde E & e, & sic\ndeinceps. Item ob magnam flexuram in C, illud pun-\nctum primo velocissime movebitur; & exinde auctâ\ncurvaturâ in punctis proximis D, E, &c. ea continuo\nvelocius accelerabuntur; & eadem operâ, imminutâ cur-\nvaturâ in C, id punctum vicissim tardius accelerabitur.\nEt universaliter, punctis justâ tardioribus magis & ve-\nlocioribus minus acceleratis, tandem fiat ut viribus inter-\nse rite temperatis, motus omnes conspicient, punctis omni-\nbus ad axem simul euntibus & simul redeuntibus, vicibus\nalternis ad infinitum.\n\nSed ut hoc fiat debet Nervus semper induere formam\ncurvæ A C D E B, cujus curvatura in quovis puncto E\nest ut ejusdem distantia ab axe E n; velocitatibus etiam\npunctorum C, D, E, &c. constitutis inter se in ratione\ndistantiarum ab axe C z, D z, E n, &c. Etenim in hoc\ncasu,\ncasu, spatia C x, D s, E ε, &c. eodem tempore minimo percursa, erunt inter se ut velocitates, hoc est ut spatia percurrenda C z, D s, &c. Unde erunt spatia residua x z, s s, ε n, &c. inter se in eadem ratione. Item (per Lemma 2.) erunt accelerationes inter se in eadem ratione. Quo pacto, semper servata ratione velocitatum inter se eadem ac spatiarum percurrendorum, puncta omnia simul pervenient ad axem & simul redibunt: adeoque recte definitur curva A C D E B. Q. E. D.\n\nPræterea, comparatis inter se duabus curvis A C D E B, & A x s ε B, per Lemma 1. erunt curvaturæ in D & s, ut distantiae ab axe D s & s s: adeoque per Lemma 2. acceleratio dati cujusvis puncti in Nervo erit ut ejusdem distantia ab axe. Unde (per Phil. Nat. Princip. Math. Sect. X. Prop. 51.) vibrationes omnes, tam maximæ quam minimæ, peragentur in eodem tempore periodico, & puncti cujusvis motus similis erit oscillationi corporis Funiculendi in Cycloide. Q. E. I,\n\nCor. Sunt Curvaturæ reciprocè ut radii circulorum osculantium. Sit ergo a linea data, atq; erit radius curvaturæ in E = \\frac{a a}{E n}.\n\nProb. 2.\n\nDatis longitudine & pondere Nervi, una cum pondere tendente; invenire tempus unius vibrationis.\n\nExtendatur nervus inter puncta A & B per vim ponderis P, & sit nervi ipsius pondus N, & longitudo L. Item consti-\ntuatur nervus in positi-\none A F p C B, & ad\npunctum medium C erige normalem C S = radio curvaturae in C, & occurrentem axi A B in D; & sumpto puncto p ipsi C proximo, duc normalem p c & tangente p t.\n\nErgo, ut in Lemmate 2, constat vim absolutam quâ acceleratur particula p C, effè ad vim ponderis P, ut ct ad pt, i.e. ut p C ad CS. Sed est pondus P ad pondus ipsius particulae p C, in ratione compositâ ex rationibus P ad N, & N ad pondus particulae p C, vel L ad p C; hoc est, ut P × L ad N × p C. Quare compositis his rationibus, est vis acceleratrix ad vim gravitatis ut P × L ad N × C S. Constituatur igitque pendulum longitudine CD: tum (per Princip. Math. Sect. X. Prob. 52.) crit tempus periodicum Nervi ad tempus periodicum istius penduli, ut √N × C S ad √P × L. At (per eandem Proposit.) datâ vi gravitatis longitudines pendulorum sunt in duplicata ratione temporum periodicorum; unde crit \\[ \\frac{N \\times C S \\times CD}{P \\times L} \\] vel (pro CS scripto \\[ \\frac{a^2}{CD} \\]) per Cor.\n\nProb. I.) \\[ \\frac{N \\times a^2}{P \\times L} \\] longitudo penduli cujus vibrationes sunt isochronae vibrationibus Nervi.\n\nAd inveniendam lineam a, sit Curvae abscissa AE = z, & ordinata EF = x, & ipsa Curva AF = v, & CD = b.\n\nTum (per Cor. Prob. I.) crit radius curvaturae in F = \\[ \\frac{a^2}{x} \\]\n\nAt dato \\[ \\dot{v} \\] est radius curvaturae \\[ \\frac{\\dot{v} \\cdot \\dot{x}}{z} \\]. Unde \\[ \\frac{a^2}{x} = \\frac{\\dot{v} \\cdot \\dot{x}}{z} \\];\n\nadeoque; \\[ \\dot{a} \\cdot \\dot{z} = \\dot{v} \\cdot \\dot{x} \\cdot \\dot{x} \\]: & sumptis fluentibus \\[ \\dot{a} \\cdot \\dot{z} = \\frac{\\dot{v} \\cdot \\dot{x} \\cdot \\dot{x}}{2} - \\frac{\\dot{v} \\cdot \\dot{b} \\cdot \\dot{b}}{2} + \\dot{v} \\cdot \\dot{a} \\cdot \\dot{a} \\] ubi additur data quantitas \\[ \\dot{v} \\cdot \\dot{b} \\cdot \\dot{b} \\]\n\\[ \\frac{v b^2}{2} + v a a, ut fiat z = v \\text{ in puncto medio C.} \\] Et hinc peracto calculo erit \\( z = \\frac{a^2 x - \\frac{1}{4} b^2 x + \\frac{1}{4} x_2 x}{\\sqrt{a^2 b^2 - a^2 x^2 - \\frac{1}{4} x^4 - \\frac{1}{4} b^2 + \\frac{1}{4} b^2 x^2}} \\)\n\nEvanescant jam b & x respectu a, ut coincidat curva cum axe, & fit \\( z = \\frac{a x}{\\sqrt{b b - x x}} \\). At centro C & radio C D = b descripto quadrante circulari D P E, & facto C Q = x, & erectâ normali Q P, atque arcu D P existente y, crit\n\n\\[ \\dot{y} = \\sqrt{\\frac{b x}{b b - x x}} = \\frac{b}{a} \\dot{z}. \\]\n\nUnde \\( y = \\frac{b}{a} z, \\) & \\( z = \\frac{a}{b} y. \\) Et facto \\( x = b = C D, \\) (quo casu etiam fit \\( y = \\text{arci quadrantali D P E, } \\) & \\( z = A D = \\frac{1}{2} L \\)) erit \\( \\dot{L} = a \\times \\frac{D E}{C D}, \\) atq; \\( a = L \\times \\frac{C D}{2 D E}. \\)\n\nSit ergo C D ad 2 D E (ut diameter circuli ad circumferentiam) ut d ad c; atq; erit \\( a a = L L = \\frac{d d}{c c}. \\) Substituto itaq, hoc valore pro a a, erit \\( \\frac{N}{P} \\times L \\times \\frac{d d}{c c} \\) longitudo penduli isochroni ipsi Nervo. Sit ergo \\( D \\) longitudo cujus tempus periodicum est 1, atq; erit \\( \\frac{d}{c} \\sqrt{\\frac{N}{P} \\times \\frac{L}{D}} \\) tempus periodicum Nervi. Q. E. I. Sunt enim pendulorum tempora periodica in dimidiatâ ratione longitudinum.\n\nCor. 1:\nCor. 1. Numerus vibrationum Nervi in tempore unius vibrationis penduli $D$ est $\\frac{c}{d} \\times \\sqrt{\\frac{P}{N}} \\times \\frac{D}{L}$.\n\nCor. 2. Ob datum $\\frac{d}{c} \\times \\sqrt{\\frac{1}{D}}$, tempus periodicum Nervi est ut $\\sqrt{\\frac{N}{P}} \\times L$. Et dato pondere $P$ est tempus ut $\\sqrt{\\frac{N}{P}} \\times L$. Item constitutis Nervis ex eodem filo, quo casu fit $N$ ut $L$, est tempus ut $L$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103178.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12084,
+    "total-output-tokens": 3383,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        986,
+        2
+      ],
+      [
+        986,
+        2209,
+        3
+      ],
+      [
+        2209,
+        3548,
+        4
+      ],
+      [
+        3548,
+        4895,
+        5
+      ],
+      [
+        4895,
+        6624,
+        6
+      ],
+      [
+        6624,
+        7950,
+        7
+      ],
+      [
+        7950,
+        8357,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103178",
+    "title": "De motu Nervi Tenst. Per Brook Taylor Armig. Regal. Societat. Sodal",
+    "authors": "Brook Taylor",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/103178"
+  }
+}

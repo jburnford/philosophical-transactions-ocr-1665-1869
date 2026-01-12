@@ -1,0 +1,59 @@
+{
+  "id": "087dce0be19b8d945c6ae4654dd096cf0bb153ae",
+  "text": "IX. An Account of a Method of measuring the comparative Intensities of the Light emitted by luminous Bodies. By Lieutenant-General Sir Benjamin Thompson, Count of Rumford, F. R. S. In two Letters to Sir Joseph Banks, Bart. P. R. S. p. 67\n\nX. An Account of some Experiments upon coloured Shadows. By Lieutenant-General Sir Benjamin Thompson, Count of Rumford, F. R. S. In a Letter to Sir Joseph Banks, Bart. P. R. S. p. 107\n\nXI. Investigations, founded on the Theory of Motion, for determining the Times of Vibration of Watch Balances. By George Atwood, Esq. F. R. S. p. 119\n\nAPPENDIX.\n\nMeteorological Journal kept at the Apartments of the Royal Society, by Order of the President and Council.\n\nERRATA.\n\nPage 14, line 17, for XY, read XI.\nPage 151, line 4, for remaining semiarc, read remaining part of the semiarc.\nPage 153, note, line 6 from the bottom, for 91, read 87.\nIbid. note, line 4 from the bottom, for 5, read 9.\nPage 167, line 14, for so adjusted, read adjusted so.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106882.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 352,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        976,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106882",
+    "title": "Errata",
+    "authors": null,
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106882"
+  }
+}

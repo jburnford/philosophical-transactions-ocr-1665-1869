@@ -1,0 +1,69 @@
+{
+  "id": "0f77ac03a8b8b6028f95a96736c7554e8caa6ad2",
+  "text": "LXXXIII. Extract of a Letter from Wm. Dixon, Esq; F. R. S. to Mr. W. Watson, F. R. S. from Loversall near Doncaster in Yorkshire, June 1, 1752. concerning some vegetable Balls; with Remarks on them by Mr. Wm. Watson.\n\nDear Sir,\n\nRead June 18, 1752. I HAVE sent you some balls, which seem to me to be plants of a very particular kind. They were taken up in a fresh-water lake, on a large common in the East Riding of Yorkshire, about twelve miles west of Hull. The lake is from one hundred to two hundred acres in bigness, according to different seasons, and empties into the Humber; which is pretty salt, and has sometimes infected it a little at very high tides. The water is very bright, and the bottom in many places is quite cover'd with these balls, like a pavement, at different depths. These now sent were about six inches under water; and many are left quite dry every summer. Whether they are particular to this place, I know not, having no description of them in my botanic library. To you, who have so general an acquaintance in that branch of natural knowledge, they may prove old acquaintance. [Thus far Mr. Dixon.]\n\nThe vegetable here mention'd, and which I take the liberty of laying before you, I have never seen till now; neither have I been able to find it described in any of the botanic writers, whom I have consulted. The matter, of which it is composed, is that of a conferva; and should therefore have had a place under that genus\ngenus in Dillénius's Historia Muscorum. They are of a deep-green mossy colour, are hollow, of an irregularly spherical figure, and of different sizes, from an inch and half to three inches in diameter. They are cover'd with very short villi externally, and the thickness, from their external to their internal surface, is about a quarter of an inch; their texture is most compact the nearest to the surface. I should denominate them globose conferva.\n\nMr. Ray, in his history of plants, Vol. I. p. 83, describes a plant, which he found in Sicily, something like this now sent by Mr. Dixon. When treating of the Algae Pomum of John Bauhin, which, according to this last, was of the colour of sponge, he says, Quod nos in Siciliae littoribus invenimus, colore erat viridi, et propius accedebat ad bursae marinae Cesalpini descriptionem; erat enim intus concavum, ex muscosa seu spongiosa scilicet capillari substantia constans, et ostiolum habebat rotundum, qua lapidibus adhaerebat.\n\nThe plant now before you wants the ostiolum, by which it adheres to the rocks, taken notice of by Mr. Ray, in all the specimens I have seen; and, from its mossy substance, can by no means be ranged under the genus of alcyonium, where Mr. Ray has given us the passage just now mention'd.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105096.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 778,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1454,
+        2
+      ],
+      [
+        1454,
+        2723,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105096",
+    "title": "Extract of a Letter from Wm. Dixon, Esq; F. R S. to Mr. W. Watson, F. R. S. from Loversall Near Doncaster in Yorkshire, June 1, 1752. concerning Some Vegetable Balls; With Remarks on Them by Mr. Wm. Watson",
+    "authors": "Wm. Dixon, Wm. Watson",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105096"
+  }
+}

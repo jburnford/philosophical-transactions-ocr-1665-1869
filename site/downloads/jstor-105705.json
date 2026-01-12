@@ -1,0 +1,79 @@
+{
+  "id": "fbfc9988c0eb112fcf9f3c8b219f5a3310dfc9e3",
+  "text": "XVI. An Account of a remarkable Marine Insect: In a Letter of Mr. Andrew Peter Du Pont, to Mr. Emanuel Mendez da Costa, Librarian to the R. S.\n\nDear Sir,\n\nRead March 10, 1763.\n\nMy friend Robert Long, Esq; of Jamaica, favoured me with the drawing and description of a marine insect he took up at sea. I believe it is a non-descript, and as you have often desired me to communicate to you any observations worthy attention to present to the Royal Society, I send you this to communicate to that learned body, if you deem it worthy their notice. I shall always think it a pleasure to tender my respects in whatever I can to the Society, which pray assure them of. I am, with great esteem,\n\nDear Sir,\n\nYour very obliged friend,\n\nand humble servant,\n\nChiswel-Street,\nJan. 17, 1763.\n\nAndrew Peter Dupont.\nAugust 13, 1762.\n\nIn a calm on my voyage to England, on board the Friendship, captain Thompson, two persons swimming took up this most singular creature floating on the surface. Its motions muscular. Its length a little more than one inch. Four small and short horns, probably its eyes. It protruded them in the water only; an orifice in the front part seeming its mouth. Two round spots opaque, marked A, possibly respiracula. The mid-line of the back part appeared through a common magnifier like a silver leaf, and was in continual undulating motion, either from the muscles or circulation of juices. Two side lines extending the whole creature's length, and ending in one in the tail of a deep blue. The fingers, or tentacles, end in a deep blue; a silvery cast intermixed with the blue over the whole back, or upper parts, where the blue is lighter. Vide Tab. III.\n\nThis figure is a magnified drawing by the common hand-microscope. It can turn itself on the back by a muscular contraction of the head part, the tail and ramified arms inwards. The inferior parts are white.\n\nIt died the third day, though the water was shifted once every day.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105705.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 581,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        799,
+        2
+      ],
+      [
+        799,
+        1946,
+        3
+      ],
+      [
+        1946,
+        1946,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105705",
+    "title": "An Account of a Remarkable Marine Insect: In a Letter of Mr. Andrew Peter Du Pont, to Mr. Emanuel Mendez da Costa, Librarian to the R. S.",
+    "authors": "Andrew Peter Du Pont",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105705"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "13fa79259f8404d29a6f973c913024dd7107badc",
+  "text": "The Chromatick Hemitones are the smallest Intervals our Modern Musick aims at, tho' the Ancients had their Enharmonick quarter Notes, which they esteem'd their greatest excellency: These may also in time be recover'd, since we know their proportions; for as the Diatonick Tone is divided into Chromatick Hemitones, so after the same manner may the Chromatick Hemitones be divided into those least Enharmonick Intervals, which were ever made use of.\n\nBut if we go no further, yet this Experiment demonstrates the true Theory of Musick, and brings the practice of it to the greatest perfection.\n\nV. Part of a Letter from the late Sir Philip Skippon, Kt., to the late Reverend Mr John Ray, concerning the Bones of a Humane Fœtus voided thro' an Impostume in the Groin. Communicated to the Publisher, by Mr Samuel Dale.\n\nLondon, January 22. 1662.\n\nYesterday in the Afternoon my Cozen Horneel and myself visited a Woman 66 years old, in Drury-lane, who had a Child consumed in her Uterus about 28 years ago; She bore two Children after this, one lived 11 years, and the other 6. About 8 years ago an Impostume broke out in the Right Inguen, and then several Bones of a Dead Child were expelled, (some of them I have by me.) She hath a great Swelling now in that Groin, where she feels somewhat very hard, which she attributes to the Bones. I took a particular account of all Circumstances; but this is proportionable to the narrow extent of a Letter, and indeed is the substance of all.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103007.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 432,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1481,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103007",
+    "title": "Part of a Letter from the Late Sir Philip Skippon, Kt, to the Late Reverend Mr John Ray, concerning the Bones of a Humane Foetus Voided thro' an Impostume in the Groin. Communicated to the Publisher, by Mr Samuel Dale",
+    "authors": "Philip Skippon, Samuel Dale",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103007"
+  }
+}

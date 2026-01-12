@@ -1,0 +1,59 @@
+{
+  "id": "b081067ed456f8d222f69b81a6caf10b6133f624",
+  "text": "BOOKS printed for W. and J. Innys.\n\nBibliotheca Literaria: Being a Collection of Inscriptions, Medals, Dissertations. No 5. To be continued.\n\nInscriptio Sigae antiquissima ΒΟΥΣΤΡΟΦΗΔΟΝ exarata. Commentario eam Historico, Grammatico, Critico illustravit, Edmundus Chishull, S. T. B. Regiae Majestati à Sacris. Fol.\n\nPhilosophical Letters between the late Learned Mr. Ray, and several of his ingenious Correspondents, Natives and Foreigners. To which are added, Those of Francis Willoughby, Esq; The whole consisting of many curious Discoveries and Improvements in the History of Quadrupeds, Birds, Fishes, Insects, Plants, Fossiles, Fountains, &c. Published by the Reverend Mr. Derham, F. R. S. 8vo.\n\nA Natural History of English Insects; illustrated with a hundred Copper Plates curiously engraven from the Life: And (for those who desire it) exactly coloured by the Author, Eleazer Albin, Painter. 4to.\n\nMemoirs of the Royal Academy of Sciences in Paris epitomized; with the Lives of the late Members of that Society; and a Preface by Monsieur Fontenelle, Secretary, and Author of the History of the said Academy. The second Edition, 8vo.\n\nOpticks: Or, a Treatise of the Reflections, Refractions, Inflections, and Colours of Light. The third Edition corrected, by Sir Isaac Newton, Knt. 8vo.\n\nAn Introduction to Natural Philosophy: Or, Philosophical Lectures read in the University of Oxford, A.D. 1700. To which are added, the Demonstrations of Monsieur Huygens's Theorems, concerning the Centrifugal Force and Circular Motion. By John Keill, M. D., Savilian Professor of Astronomy, F. R. S. 8vo.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103405.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 495,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1598,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103405",
+    "title": "Books Printed for W. and J. Innys",
+    "authors": null,
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103405"
+  }
+}

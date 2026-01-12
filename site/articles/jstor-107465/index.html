@@ -1,0 +1,688 @@
+---
+layout: default
+title: "On Circulating Functions, and on the Integration of a Class of Equations of Finite Differences into "
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/108/">Volume 108</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>On Circulating Functions, and on the Integration of a Class of Equations of Finite Differences into Which They Enter as Coefficients</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">John F. W. Herschel</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1818</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">108</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">26 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-107465.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-107465.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/107465" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">IX. On circulating functions, and on the integration of a class of equations of finite differences into which they enter as coefficients. By John F. W. Herschel, Esq. F. R. S.
+
+Read February 19, 1818.
+
+(1). So much has been written on the subject of recurring series, and the equations of differences from which they arise, that we can now expect little more to be added to their theory. This is not the case with the class of series, and their corresponding equations I propose to consider in the following pages, which bear a great analogy to the other, and include them as a particular case: I mean, series in which the same relation between a certain number of successive terms recurs periodically; the terms so related being separated by others connected by relations similar in their general analytical form, but modified by a variation in the constant or variable coefficients which enter into the equations expressing them. Such series have, I believe, never yet been considered as a class: particular cases have very frequently occurred in the course of analytical investigations, and have then been treated by peculiar considerations of such a description as to give a very uninviting air to their theory, but no general view has hitherto been taken of their nature, and no uniform train of analytical artifices been exposed by whose aid they may be subjected to the same modes of treatment as those of the ordinary kind.
+
+(2). Let us imagine a series of quantities
+
+\[ u_0, u_1, u_2, u_3, \&amp;c. \]
+produced from one another by the following regular law,
+
+\[ u_0 = u_0, \quad u_1 = au_0, \quad u_2 = bu_1, \quad u_3 = au_2, \quad u_4 = bu_3, \quad \text{&amp;c.} \]
+
+It is evident then that, were the coefficients \(a, b\) equal, the series would be a recurring one of the simplest kind, viz. a geometric progression, and might be represented by a single equation of differences of the first order
+
+\[ u_{x+1} = au_x \]
+
+If this, however, be not the case, the series will consist of two distinct geometric progressions, the terms of which alternate with one another, thus
+
+\[ u = u_0 \quad u_2 = abu_0 \quad u_4 = a^2b^2u_0 \quad \text{&amp;c.} \]
+\[ u_1 = au_0 \quad u_3 = a^2bu_0 \quad u_5 = a^3b^2u_0, \quad \text{&amp;c.} \]
+
+It would seem then that no single equation of differences of the first order could comprehend all the terms of this series, so as to pass uninterruptedly from one to the other; and were this really the case, the method which has hitherto been always followed, of actually resolving it into the distinct series of which it consists, and instituting a separate process for the odd and the even values of \(x\), so as to get the two equations of differences
+
+\[ u_{2x+1} = a \cdot u_{2x}, \quad \text{and} \quad u_{2x+2} = b \cdot u_{2x+1} \]
+
+would be the only course we could pursue. That this, however, is not the case, at least in the instance before us, is evident, if we consider that both these equations are included in the equation of the second order,
+
+\[ u_{x+2} = ab \cdot u_x \]
+
+the first integral of which will be an equation of the first order comprehending the whole extent of the series, provided the constant be properly determined by the equation \(u_1 = au_0\).
+
+MDCCCXVIII.
+At all events however several inconveniences embarrass this method. It is entirely at variance with the uniformity which ought to reign throughout all analytical operations, thus to descend into arithmetical details in the outset of symbolic investigation, and to vary our processes according to the numerical form of the quantities concerned. If we would avoid this by having recourse to an equation of a higher order including all the separate cases, we are required either to seize at once, by an undirected effort of intellect, on the relation which connects the terms periodically equidistant, or to go through some preparatory process to discover it, which for the most part will be found very troublesome. Moreover, it demands the actual formation of certain terms to determine the constants, which are not (as will hereafter appear) necessary. It is true that in the very simple case I have just stated, these inconveniences, though really existing, are not felt. If we take one a little more complicated, they will speedily form a prominent part of the difficulty. Suppose the law of formation of the terms of a series were, for instance, as follows:
+
+\[ u_2 = au_1 + \alpha u_0, \quad u_3 = bu_2 + \beta u_1, \quad u_4 = cu_3 + \alpha u_2, \]
+\[ u_5 = au_4 + \beta u_3, \quad u_6 = bu_5 + \alpha u_4, \quad u_7 = cu_6 + \beta u_5, \quad \text{&amp;c.} \]
+
+it would be necessary to divide the whole investigation into six cases, and to integrate six several equations of differences,
+
+\[ u_{6x+2} = au_{6x+1} + \alpha u_{6x}, \quad u_{6x+3} = bu_{6x+2} + \beta u_{6x+1}, \quad \text{&amp;c.} \]
+
+and after all, the general term of the series would not be obtained, but merely the several general terms of six other series which, interlaced, as it were, one with the other, form the series in question; which is in fact much the same way
+of proceeding as it would be to consider the series of natural numbers as consisting of several other arithmetical progressions such as
+
+\[
+1 \ldots 4 \ldots 7 \ldots 10 \ldots 13 \ldots \&amp;c.
+\]
+
+\[
+2 \ldots 5 \ldots 8 \ldots 11 \ldots 14 \ldots \&amp;c.
+\]
+
+\[
+3 \ldots 6 \ldots 9 \ldots 12 \ldots 15, \&amp;c.
+\]
+
+the general terms of which are respectively \(3x - 2\), \(3x - 1\), \(3x\), united into one, the general term of which is \(x\).
+
+It is interesting then to discover some analytical artifice which shall obviate these inconveniences, by comprehending the whole extent of these and similar series in one single equation, whose order shall be no higher than is absolutely indispensible; which shall require no preparatory investigation to obtain it; nor the actual calculation of any superfluous terms for the determination of the constants in its integral; and, finally, whose integration shall lead to an expression in functions of the index \(x\), such that the substitution of the natural progression of numbers in succession for \(x\) shall produce all the terms of the series in their order. Such an artifice, or train of artifices, I shall now proceed to explain. They turn upon a theorem familiar to every algebraist, but which does not seem to have been yet applied to all the uses of which it is susceptible.
+
+(3). Let us then represent by \(S_x^{(n)}\) the function
+
+\[
+\frac{\alpha^x + \beta^x + \gamma^x + \&amp;c.}{n}
+\]
+
+\(\alpha, \beta, \gamma, \&amp;c.\) being the several roots of the equation \(z^n - 1 = 0\).
+
+If we have occasion to denote other functions similarly composed of the roots of other equations \(z^p - 1 = 0, z^q - 1 = 0, \&amp;c.\) they will therefore be represented as follows:
+Mr. Herschel on circulating functions, &amp;c.
+
+\[ S_x^{(p)} = \frac{\alpha^x + \beta^x + \&amp;c.}{p}, \quad S_x^{(q)} = \frac{\alpha&#x27;^x + \beta&#x27;^x + \&amp;c.}{q}, \&amp;c. \]
+
+but when only one quantity \( n \) is under consideration, we shall, for convenience, omit the superior index \( (n) \) and write the function thus
+
+\[ S_x = \frac{\alpha^x + \beta^x + \&amp;c.}{n} \]
+
+Let us also denote by \( P_x^{(n)} \) the function
+
+\[ a_x \cdot S_x^{(n)} + b_x \cdot S_{x-1}^{(n)} + c_x \cdot S_{x-2}^{(n)} + \ldots k_x \cdot S_{x-n+1}^{(n)} \]
+
+omitting, in like manner, the superior index \( (n) \) and writing it \( P_x \) when only one quantity \( n \) is considered. Here we suppose \( a_x, b_x, \&amp;c. \) to represent any given functions of \( x \) and constant quantities. The functions \( S_x \) and \( P_x \) are possessed then of the following properties.
+
+(4). \( S_x \) is unity whenever \( x \) is a multiple of \( n \): in all other cases, \( S_x = 0 \). This is a well known property of the roots of unity. Hence, some one of the functions
+
+\[ S_x, S_{x-1}, S_{x-2}, \ldots S_{x-n+1} \]
+
+is necessarily unity, the rest being all zero, though when the numerical form of \( x \) is not specified, it is undecided which that one may be. Hence too it follows, that when \( x \) is a multiple of \( n \), \( P_x \) or
+
+\[ a_x \cdot S_x + b_x \cdot S_{x-1} + \ldots k_x \cdot S_{x-n+1} \]
+
+reduces itself to \( a_x \); when \( x - 1 \) is a multiple of \( n \), to \( b_x \) when \( x - 2 \) is such a multiple, to \( c_x \), and so on. Thus in all cases \( P_x \) will reduce itself to a single term, the form of which will be either \( a_x, b_x, \ldots k_x \), in rotation, after which the same functions recur over again, for some one of the numbers
+Mr. Herschel on circulating functions, &amp;c.
+
+\[ x, x - 1, x - 2, \ldots, x - n + 1 \]
+
+is necessarily a multiple of \( n \).
+
+If the coefficients \( a_x, b_x, \&amp;c. \) be all constant, or if
+
+\[ P_x = a \cdot S_x + b \cdot S_{x-1} + \ldots k \cdot S_{x-n+1} \]
+
+and we give to \( x \) the several values \( 0, 1, 2, 3, 4, \&amp;c. \) to infinity, in succession, the first \( n \) values of \( P_x \) will be in their order
+
+\[ a, b, c, \ldots, k \]
+
+after which the same set of quantities will be reproduced in the same order by continuing the substitution, and so on to infinity. The function \( P_x \) may be called in this case a circulating function, and the same name (with less propriety however) may be extended to the case when the coefficients are variable. The system of coefficients \( a, b, c, \ldots, k \) may be called a period. Hence if the terms of a series be in rotation, \( a, b, \ldots, k, a, b, \&amp;c. \) the general term will be truly represented by \( P_x \), or \( aS_x + bS_{x-1} + \ldots kS_{x-n+1} \), and if they coincide in rotation with the values of \( n \) functions \( a_x, b_x, \&amp;c. \) thus:
+
+\[ a_0, b_1, c_2, \ldots k_{n-1}, a_n, b_{n+1}, \&amp;c. \]
+
+the general term will be
+
+\[ a_x \cdot S_x + b_x \cdot S_{x-1} + \ldots k_x \cdot S_{x-n+1} \]
+
+(5). Any function, however complicated, of \( x, S_x, S_{x-1}, \ldots, S_{x-n+1} \) is reducible to the form \( P_x \)
+
+Let \( \phi(x) = f \{ x, S_x, S_{x-1}, \ldots, S_{x-n+1} \} \)
+
+be the proposed function. If then \( x \) be of the form \( mn \), or a multiple of \( n \), we have \( S_x = 1 \), and the rest zero, therefore in this case
+
+\[ \phi(x) = f \{ x, 1, 0, 0, \ldots, 0 \} \]
+If \( x \) be of the form \( mn + 1 \), or if \( x - 1 \) be a multiple of \( n \), we have in like manner
+
+\[ \phi(x) = f\{x, o, 1, o, \ldots o\} \]
+
+and so on. If then we take
+
+\[ a_x = f\{x, 1, o, o, \ldots o\} \]
+\[ b_x = f\{x, o, 1, o, \ldots o\} \]
+\[ \ldots \ldots \ldots \ldots \ldots \]
+\[ k_x = f\{x, o, o, o, \ldots 1\} \]
+
+the whole series of values of \( \phi(x) \) will coincide, term by term, to infinity, with the corresponding values of
+
+\[ P_x = a_x \cdot S_x + b_x \cdot S_{x-1} + \ldots + k_x \cdot S_{x-n+1} \]
+
+and therefore \( \phi(x) = P_x \), integer values of \( x \) only being considered.
+
+For example,
+
+\[ a_x = a_x \cdot S_x + a_x \cdot S_{x-1} + \ldots + a_x \cdot S_{x-n+1}; \]
+\[ \{a_x \cdot S_x + b_x \cdot S_{x-1} + \ldots k_x \cdot S_{x-n+1}\} \times \{a&#x27;_x \cdot S_x + b&#x27;_x \cdot S_{x-1} + \ldots k&#x27;_x \cdot S_{x-n+1}\} \]
+\[ = a_x \cdot a&#x27;_x \cdot S_x + b_x \cdot b&#x27;_x \cdot S_{x-1} + \ldots k_x \cdot k&#x27;_x \cdot S_{x-n+1}; \]
+\[ \{a \cdot S_x + b \cdot S_{x-1} + \ldots k \cdot S_{x-n+1}\}^m = a^m \cdot S_x + b^m \cdot S_{x-1} + \ldots k^m \cdot S_{x-n+1}. \]
+
+It should be remarked, that any number of the coefficients \( a_x, b_x, \) &amp;c. may be zero, without infringing on the truth of this or the following propositions.
+
+(6). Every symmetrical function of \( S_x, S_{x-1}, \ldots, S_{x-n+1} \)
+
+is invariable.
+
+Let \( f\{\bar{x}, \bar{y}, \bar{z}, \&amp;c.\} \) denote a symmetrical function of any number of elements \( x, y, z, \&amp;c. \) (in the manner proposed
+by Mr. Babbage in the Philosophical Transactions for 1816) and let us consider the symmetrical function
+
+\[ f \{ \bar{S}_x, \bar{S}_{x-1}, \ldots, \bar{S}_{x-n+1} \} \]
+
+Then, by the nature of the roots of unity as demonstrated in most treatises on algebra, we have
+
+\[ S_x = S_{x-n} = S_{x-2n} = &amp;c. \]
+\[ S_{x-1} = S_{x-n+1} = S_{x-2n+1} = &amp;c. \text{ and so on.} \]
+
+If then \( x \) be changed to \( x + 1 \), the above function will become
+
+\[ f \{ \bar{S}_{x-n+1}, \bar{S}_x, \ldots, \bar{S}_{x-n+2} \} \]
+
+that is, by the nature of symmetrical functions, (the order in which the elements are operated on making no difference in their form)
+
+\[ f \{ \bar{S}_x, \bar{S}_{x-1}, \ldots, \bar{S}_{x-n+2}, \bar{S}_{x-n+1} \} \]
+
+the same as before. The function therefore remains unaltered, while \( x \) changes to \( x + 1 \), and is therefore invariable.
+
+Hence we have in general
+
+\[ f \{ \bar{S}_x, \bar{S}_{x-1}, \ldots, \bar{S}_{x-n+1} \} = f \{ \bar{1}, \bar{o}, \ldots, \bar{o} \} \]
+
+This proposition may be extended to any number of functions of the form \( S^{(n)}_x, S^{(m)}_x, &amp;c. \) and to functions symmetrical in different senses relative to each set of them: thus we have
+
+\[ f \{ \bar{S}^{(n)}_x, \bar{S}^{(n)}_{x-1}, \ldots, \bar{S}^{(n)}_{x-n+1}, \bar{S}^{(m)}_x, \ldots, \bar{S}^{(m)}_{x-m+1}, \bar{S}^{(\rho)}_x, \ldots, \bar{S}^{(\rho)}_{x-\rho+1}, &amp;c. \} \]
+
+\[ = f \{ \bar{1}, \bar{o}, \ldots, \bar{o}, \bar{1}, \bar{o}, \ldots, \bar{o}, &amp;c. \} \]
+
+the accents pointing out the different kinds of symmetry observed in the composition of the function relative to its several elements.
+(7). If $P_x$ denote any circulating function with constant coefficients, as
+
+$$a S_x + b S_{x-1} + \ldots + k S_{x-n+1}$$
+
+Then, 1st, $P_x = P_{x-n} = P_{x-2n} = \&amp;c.$ and 2dly,
+
+$$f \{ \overline{P}_x, \overline{P}_{x-1}, \ldots, \overline{P}_{x-n+1} \} = f \{ \overline{a}, \overline{b}, \ldots, \overline{k} \}$$
+
+For in the expression of $P_x$ write successively $x, x-1, x-2, \ldots, x-n$ for $x$, and we have (since $S_{x-n} = S_x, \&amp;c.$)
+
+$$\begin{align*}
+P_x &amp;= a S_x + b S_{x-1} + \ldots + k S_{x-n+1} \\
+P_{x-1} &amp;= a S_{x-1} + b S_{x-2} + \ldots + k S_x \\
+P_{x-2} &amp;= a S_{x-2} + b S_{x-3} + \ldots + k S_{x-1} \\
+&amp;\vdots \\
+P_{x-n+1} &amp;= a S_{x-n+1} + b S_x + \ldots + k S_{x-n+2}
+\end{align*}$$
+
+and lastly $P_{x-n} = a S_x + b S_{x-1} + \ldots + k S_{x-n+1} = P_x$.
+
+Any function then, symmetrical relative to all the first members of the equations (A) will, by reason of the circulating form of their second members be also symmetrical relative to $S_x, S_{x-1}, \ldots, S_{x-n+1}$, whence by the last proposition the truth of this becomes evident. For example
+
+$$P_x \cdot P_{x-1} \cdots P_{x-n+1} = a \cdot b \cdots k.$$  
+
+$$P_x + P_{x-1} + \cdots P_{x-n+1} = a + b + \cdots k.$$  
+
+(8). We are now prepared to proceed to the integration of circulating equations, and to determine by that means the general terms of such series as depend on them. The manner of reducing the law of a series of this kind into an equation will be rendered evident by a simple instance. Suppose this law to be as follows:*  
+
+* This example is selected as having actually occurred in an enquiry of another nature.
+\[ u_2 = au_1 + u_0, \quad u_3 = bu_2 + u_1, \quad u_4 = au_3 + u_2, \]
+\[ u_5 = bu_4 + u_3, \text{ &amp;c.} \]
+
+The period of the coefficients of the second terms of all these equations being \(a, b\), if we take \(S_x\) to represent the sum of the \(x\)th powers of the roots of \(z^2 - 1 = 0\), the circulating function \(aS_x + bS_{x-1}\) will express the general term of the series \(a, b, a, b, \text{ &amp;c.}\) and the equation
+
+\[ u_x = (aS_x + bS_{x-1})u_{x-1} + u_{x-2} \]
+
+will coincide in succession with each of the given ones, by giving \(x\) every integer value from \(z\) to infinity. This then is the equation of the series, which it only remains to integrate. To this end assume
+
+\[ u_x = v_x \cdot \sqrt{aS_x + bS_{x-1}} = v_x \cdot \sqrt{P_x} \]
+
+putting \(P_x\) for \(aS_x + bS_{x-1}\). Then, by (7) we have \(P_{x-2} = P_x\) and the equation becomes, by substitution,
+
+\[ v_x \cdot \sqrt{P_x} = P_x \cdot \sqrt{P_{x-1}} \cdot v_{x-1} + v_{x-2} \cdot \sqrt{P_x} \]
+
+that is,
+
+\[ v_x = v_{x-1} \cdot \sqrt{P_x \cdot P_{x-1}} + v_{x-2} \]
+
+but, \(\sqrt{P_x \cdot P_{x-1}}\) being a symmetrical function of \(P_x\) and \(P_{x-1}\) is by (7) invariable, and equal to \(\sqrt{ab}\), whence we have
+
+\[ v_x = \sqrt{ab} \cdot v_{x-1} + v_{x-2} \]
+
+an ordinary equation with constant coefficients, and consequently integrable by the usual methods. Similar considerations will enable us to arrive at the equations of all periodical series, and we shall therefore confine our attention to the equations alone, in the most extended form of which they are susceptible.
+
+MDCCCXVIII.
+(9). Given the circulating equation
+
+\[ u_x + {}^1P_x \cdot u_{x-1} + {}^2P_x \cdot u_{x-2} + \ldots + {}^mP_x \cdot u_{x-m} = {}^{m+1}P_x \]
+
+where \( {}^1P_x, {}^2P_x, \ldots \) are any circulating functions, with either constant or variable coefficients, the period of their circulation being the same in each, and equal to \( n \); to integrate it
+
+Assume \( u_x = {}^1A_x \cdot S_x + {}^2A_x \cdot S_{x-1} + \ldots + {}^nA_x \cdot S_{x-n+1} \)
+
+Then we have
+
+\[ u_{x-1} = {}^nA_{x-1} \cdot S_x + {}^{n-1}A_{x-1} \cdot S_{x-1} + \ldots + {}^1A_{x-1} \cdot S_{x-n+1} \]
+
+\[ u_{x-2} = {}^{n-1}A_{x-2} \cdot S_x + {}^{n-2}A_{x-2} \cdot S_{x-1} + \ldots + {}^2A_{x-2} \cdot S_{x-n+1} \]
+
+and so on; and supposing
+
+\[ {}^1P_x = {}^1a_x \cdot S_x + {}^1b_x \cdot S_{x-1} + \ldots + {}^1k_x \cdot S_{x-n+1}, \text{ &amp;c.} \]
+
+we shall have by (5),
+
+\[ u_{x-1} \cdot {}^1P_x = {}^1a_x \cdot {}^nA_{x-1} \cdot S_x + {}^1b_x \cdot {}^{n-1}A_{x-1} \cdot S_{x-1} + \ldots + {}^1k_x \cdot {}^1A_{x-1} \cdot S_{x-n+1}, \]
+
+similarly,
+
+\[ u_{x-2} \cdot {}^2P_x = {}^2a_x \cdot {}^{n-1}A_{x-2} \cdot S_x + {}^2b_x \cdot {}^{n-2}A_{x-2} \cdot S_{x-1} + \ldots + {}^2k_x \cdot {}^2A_{x-2} \cdot S_{x-n+1}, \text{ &amp;c.} = \text{&amp;c.} \]
+
+The equation then will become by substitution
+
+\[ o = S_x \left\{ {}^1A_x + {}^1a_x \cdot {}^nA_{x-1} + {}^2a_x \cdot {}^{n-1}A_{x-2} + \ldots + {}^m_a_x \cdot {}^{n-m+1}A_{x-m} - {}^{m+1}a_x \right\} \]
+
+\[ + S_{x-1} \left\{ {}^2A_x + {}^1b_x \cdot {}^nA_{x-1} + {}^2b_x \cdot {}^{n-1}A_{x-2} + \ldots + {}^m_b_x \cdot {}^{n-m+2}A_{x-m} - {}^{m+1}b_x \right\} \]
+
+\[ + \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \]
+
+\[ + S_{x-n+1} \left\{ {}^nA_x + {}^1k_x \cdot {}^{n-1}A_{x-1} + {}^2k_x \cdot {}^{n-2}A_{x-2} + \ldots + {}^m_k_x \cdot {}^{n-m}A_{x-m} - {}^{m+1}k_x \right\}; \text{(B).} \]
+
+\( n \) has here been supposed greater than \( m \). If the contrary
+be the case, when the progression \( nA_x, n-1A_x, \ldots, 1A_x \) is exhausted, instead of going on to write \(-1A_x, -2A_x\), we must begin over again with \( nA_x \), &amp;c. and so continue in regular rotation as often as may be necessary. Now to determine these functions, let each term be separately made to vanish, and a system of equations will be obtained as follows:
+
+\[
+\begin{align*}
+1A_x + 1a_x \cdot nA_{x-1} + 2a_x \cdot n-1A_{x-2} + \ldots + m_a_x \cdot n-m+1A_{x-m} &amp;= m+1a_x; (1) \\
+2A_x + 1b_x \cdot 1A_{x-1} + 2b_x \cdot nA_{x-2} + \ldots + mb_x \cdot n-m+2A_{x-m} &amp;= m+1b_x; (2) \\
+\ldots \\
+nA_x + 1k_x \cdot n-1A_{x-1} + 2k_x \cdot n-2A_{x-2} + \ldots + mk_x \cdot n-mA_{x-m} &amp;= m+1k_x; (n)
+\end{align*}
+\]
+
+These equations are of that peculiar class which Laplace has distinguished by the name of &quot;re-entering equations&quot; (equations rentrantes). The elimination of \( 1A_x, 2A_x, \ldots, n-mA_x \) from them may be performed by the ordinary process for elimination between algebraic equations of the first degree, if we only prepare them by substituting \( x+1 \) for \( x \) in (2), \( x+2 \) for \( x \) in (3), and so on throughout; because only one value of each of these functions is contained in each equation, and by this substitution that value becomes the same throughout the system. This done, the system is reduced to another, consisting of \( m \) equations, between the remaining \( m \) unknown functions, among which the process of elimination must then be pursued by the rules peculiar to equations of differences. Without encumbering our pages with the detail of this operation (which a possible difference in the numerical forms of \( m \) and \( n \) renders necessarily very complex, when taken up in
+its general form) it will be sufficient to state that the final equation for determining \( nA_x \) will be of the form
+
+\[
+nA_x + mn + ^1H_x \cdot nA_x + mn - n + ^2H_x \cdot nA_x + mn - 2n + \ldots + mH_x \cdot nA_x = I_x; (D)
+\]
+
+\( ^1H_x, ^2H_x, \ldots \), &amp;c. and \( I_x \) being certain known functions of \( x \).
+
+The integrable cases of this equation (which is an ordinary one of finite differences, and although of the \( m \times n^{th} \) order reducible by a very obvious substitution to the \( m^{th} \)) are for the most part those in which all the functions \( ^1P_x, ^2P_x, \ldots, ^mP_x \) are circulating functions with constant coefficients, while \( m + ^1P_x \) may be of any form whatever, variable or constant.
+
+In these cases then the proposed circulating equation is integrable, and they comprise nearly all which are of any real utility in the present state of analysis.
+
+The complete integral of the equation (D) involves \( m.n \) arbitrary constants; and, since by means of the system (C) all the other unknown functions \( ^1A_x, ^2A_x, \ldots, ^{n-1}A_x \) may be expressed by linear combinations of \( nA_x \) and its successive values, these constants will be involved in each of the several terms of which \( u_x \) consists. But as their number exceeds what is necessary for expressing the complete integral of the proposed, whose order is only \( m \), there must exist equations of relation between them to the number of \((n-1).m\), or else some of them must coalesce into one, by some peculiarity in the composition of these functions. But any such relations may be directly investigated by substituting the value of \( u_x \) with all its superfluous constants in the proposed equation, and causing the result to vanish. It will be worth while,
+however, to examine the integrable cases above alluded to rather more minutely.
+
+If we leave out the consideration of the last term \( m + P_x \), which is allowable, because by the well known theory of linear equations, the part of the integral dependent on the last term can be supplied afterwards, we have \( I_x = 0 \), and the rest of the coefficients of the equation (D) constant. Denoting them then by \( H_1, H_2, \ldots, H_m \), and supposing \( \alpha, \beta, \gamma, \&amp;c. \) to be the roots of
+
+\[
+z^m + H_1 z^{m-1} + H_2 z^{m-2} + \ldots + H_m = 0
+\]
+
+let us take \( s_x \) to represent the function
+
+\[
+\left( \frac{n}{a} \right)^x + \left( \frac{n}{b} \right)^x + \left( \frac{n}{c} \right)^x + \&amp;c.
+\]
+
+and the integral of the equation
+
+\[
+A_{nx} + H_1 A_{nx-n} + \ldots + H_m A_{nx-mn} = 0
+\]
+
+may be universally expressed as follows:
+
+\[
+A_{nx} = S_x \{ C_1 s_x + C_2 s_{x-n} + \ldots + C_m s_{x-mn} \}
+\]
+
+\[
++ S_{x-1} \{ C_1 s_x + C_2 s_{x-n} + \ldots + C_m s_{x-mn} \}
+\]
+
+\[
++ S_{x-n+1} \{ C_1 s_x + C_2 s_{x-n} + \ldots + C_m s_{x-mn} \}
+\]
+
+This may be proved without difficulty from the known form of the integral of the equation of a recurring series. Now since the values of \( A_x, A_{x-n}, \&amp;c. \) are all expressible by means of \( A_{nx} \) as above described, it is easily seen that these are all in like manner circulating functions of a similar form, and since
+
+\[
+u_x = A_x S_x + A_{x-n} S_{x-n} + \ldots + A_{x-mn} S_{x-mn}
+\]
+we may neglect in the expression of $^1A_x$ all those terms which have not $S_x$ for a multiplier; in that of $^2A_x$, all but those multiplied by $S_{x-1}$; and so on. This is a simplification of considerable moment, and will enable us in any assigned case to dispense with the troublesome and complicated process of determining $^1A_x$, &amp;c. by elimination from (C) after $^nA_x$ is obtained. In fact, if we suppose (*)
+
+$$^1A_x = S_x \left\{ ^1C_1 \cdot s_x + ^2C_1 \cdot s_{x-n} + \ldots ^mC_1 \cdot s_{x-mn+n} \right\}$$
+
+$$^2A_x = S_{x-1} \left\{ ^1C_2 \cdot s_x + ^2C_2 \cdot s_{x-n} + \ldots ^mC_2 \cdot s_{x-mn+n} \right\}$$
+
+&amp;c.
+
+the relation between the constants which enter into these expressions may be assigned by merely substituting them in the equations (C), and after writing for $s_x$ its value
+
+$$\frac{1}{m} \left\{ (^n\sqrt{\alpha})^x + (^n\sqrt{\beta})^x + &amp;c. \right\}$$
+
+and for $s_{x-n}, s_{x-2n}, &amp;c.$ their values.
+
+$$\frac{1}{m} \left\{ \frac{(^n\sqrt{\alpha})^x}{\alpha} + \frac{(^n\sqrt{\beta})^x}{\beta} + &amp;c. \right\}, &amp;c.$$ 
+
+equating the coefficients of each separate term $(^n\sqrt{\alpha})^x, (^n\sqrt{\beta})^x, &amp;c.$ to zero. This will give $m \times n$ equations of relation between the constants, but it will be found that $m$ of them are necessary consequences of the others, in virtue of the equations ($m$ in number)
+
+* In these equations the constants $^1C_1, ^2C_1, &amp;c., ^1C_2, &amp;c.$ are not intended to represent the same with those in the expression above given for $^nA_x$ which are denoted by the same letters. They are functions of them, whose form it is of no moment to enquire, it being sufficient for our purpose, that the one system of constants consists of an equal number with the other, viz. $m \times n$.
+\[
+\alpha^m + \beta^m + \ldots + mH = 0 \\
+\beta^m + \beta^{m-1} + \ldots + mH = 0, \text{ &amp;c.}
+\]
+
+The above mentioned equations are therefore equivalent only to \((n - 1) \cdot m\) distinct ones, which as we have already seen, is the number of relations which ought to subsist between them. Hence then, all the constants except those which remain arbitrary may be eliminated from the expression of \(u_x\), and the result will be the complete integral required.
+
+(10). Having thus determined the value of \(u_x\), when the last term of the proposed equation, or \(m+1P_x\) is zero, if we would then extend the integration to cases where it has any given form, the usual theory of linear equations will afford the requisite formulæ, and their application will be attended with no other embarrassment than what may arise from the integration of explicit functions of the forms
+
+\[
+\Sigma S_x \cdot f(x) \quad \text{and} \quad \Sigma P_x \cdot f(x)
+\]
+
+Into this part of the subject, however, we need not enter at any length, because it may be avoided by pursuing the process originally laid down in (9) without neglecting the last term. We shall confine ourselves to the remark, that both the above expressions are reducible to the form
+
+\[
+a_x \cdot S_x + b_x \cdot S_{x-1} + \ldots + k_x \cdot S_{x-n+1},
+\]
+
+and to the developement of one interesting case, viz. that in which \(f(x) = 1\), or the function to be integrated is simply \(S_x\).
+
+Let us then denote \(\Sigma S_x\) by \(u_x\), and it is remarkable that in the determination of \(u_x\) all the ordinary methods are unavailing. It is true that since \(S_x\) is of the form
+the direct integration of each term will give
+
+\[ u_x = \frac{1}{n} \left\{ \frac{\alpha^x}{\alpha - 1} + \frac{\beta^x}{\beta - 1} + \text{&amp;c.} \right\} + C \]
+
+but the peculiar values of \( \alpha, \beta, \text{&amp;c.} \) (the roots of unity) render this expression useless. Neither is it of any service to regard \( S_x \) as the general term of a recurring series whose equation is
+
+\[ S_{x+n} = S_x \]
+
+for the general expression of the sum of such a series becomes illusory when applied to this particular case. We shall be successful, however, if we regard \( u_x \) as originating from an equation of differences \( \Delta u_x = S_x \), or \( u_{x-1} - u_x = S_x \), and treat it as a particular case of the equation integrated in (9). Thus if we assume
+
+\[ u_x = {}^1A_x \cdot S_x + {}^2A_x \cdot S_{x-1} + \ldots \ldots {}^nA_x \cdot S_{x-n+1} \]
+
+the system of equations (C) becomes
+
+\[ {}^2A_{x+1} - {}^1A_x = 1 \]
+\[ {}^3A_{x+1} - {}^2A_x = 0 \]
+\[ {}^4A_{x+1} - {}^3A_x = 0 \]
+\[ \ldots \ldots \ldots \]
+\[ {}^1A_{x+1} - {}^nA_x = 0 \]
+
+These give
+
+\[ {}^nA_x = {}^1A_{x+1}, {}^{n-1}A_x = {}^nA_{x+1} = {}^1A_{x+2}, {}^{n-2}A_x = {}^1A_{x+3}, \ldots \ldots \]
+\[ \ldots \ldots {}^2A_x = {}^1A_{x+n-1} \]
+
+and finally
+
+\[ {}^1A_{x+n} - {}^1A_x = 1 \]
+
+But, since a particular value of \( u_x \) suffices to determine the general one, we need only seek a particular value of \( {}^1A_x \).
+now such a one presents itself at once, viz. \(^1A_x = \frac{x}{n}\) because we have obviously \(x + n - x = 1\). Hence then we obtain
+
+\[
+^2A_x = \frac{x}{n} + 1 - \frac{1}{n}
+\]
+
+\[
+^3A_x = \frac{x}{n} + 1 - \frac{2}{n}
+\]
+
+and so on, from which we obtain for the general value of \(u_x\)
+
+\[
+u_x = \text{Const.} + ^1A_x \cdot S_x + \ldots + ^nA_x \cdot S_{x-n+1}
+\]
+
+\[
+= \text{Const.} + \left\{ S_x + S_{x-1} + \ldots S_{x-n+1} \right\} \left( \frac{x}{n} + 1 \right)
+\]
+
+\[
+- \frac{1}{n} \left\{ o \cdot S_x + 1 \cdot S_{x-1} + \ldots (n-1) S_{x-n+1} \right\}
+\]
+
+But by (6) we have \(S_x + S_{x-1} + \ldots S_{x-n+1} = 1\), and if we include the independent unit in the arbitrary constant, we find
+
+\[
+u_x = \sum S_x = \frac{x-o \cdot S_x - 1 \cdot S_{x-1} - 2 \cdot S_{x-2} - \ldots (n-1) S_{x-n+1}}{n} + C
+\]
+
+There is something remarkable in this expression. If \(x + 1\) be put for \(x\), and the integral made to vanish when \(x = 0\), it expresses the sum of the series
+
+\[
+S_1 + S_2 + S_3 + \ldots S_x
+\]
+
+this sum will therefore be represented by
+
+\[
+\frac{x-o \cdot S_x - 1 \cdot S_{x-1} - \ldots (n-1) S_{x-n+1}}{n}
+\]
+
+Now it is evident that this series of terms will contain as many equal to unity, as there are units in the integer part of \(\frac{x}{n}\), and all the rest are zero. Here then we have an analytical expression for the integer part of the quotient in the division of any one number, \(x\), by any other, \(n\), without in any way specifying their numerical form; whence also a similar expression for the remainder in the same division is easily
+obtained: a proposition which seems likely to be of some service in the theory of numbers.
+
+The same expression may also be obtained by the following considerations. If \( x \) be a multiple of \( n \), the integer part of \( \frac{x}{n} \) will evidently be represented by \( \frac{x}{n} \); if \( x \) be of the form \( in + 1 \), or a multiple of \( n \) increased by unity, the same integer part will be represented by \( \frac{x-1}{n} \); if of the form \( in + 2 \) by \( \frac{x-2}{n} \), and so on. If then we can devise such a function \( f(x) \), that when \( x = in \) we shall have \( f(x) = 0 \), when \( x = in + 1, f(x) = 1 \), when \( x = in + 2, f(x) = 2 \), and so on, \( i \) being any integer whatever, it is evident that \( \frac{x-f(x)}{n} \) will represent in general the integer part of \( \frac{x}{n} \). Now
+
+\[ 0 \cdot S_x^{(n)} + 1 \cdot S_{x-1}^{(n)} + 2 \cdot S_{x-2}^{(n)} + \ldots \ldots (n-1) \cdot S_{x-n+1}^{(n)} \]
+
+is such a function. I thought it right to mention this, because the observation of this fact (so deduced) was among the first things which led me to the general consideration of circulating equations in the form I have here presented it.
+
+(11). The next case I propose to consider is that of circulating equations, in which the period of circulation is not the same in all the coefficients. This, however, will not detain us long. Suppose
+
+\[ u_x + P_x^{(n)} \cdot u_{x-1} + P_x^{(p)} \cdot u_{x-2} + \ldots \ldots P_x^{(t)} \cdot u_{x-m} = P_x^{(v)} \]
+
+\( n, p, q, \ldots \ldots t, v \), denoting the respective periods of circulation in each of the coefficients. Take \( N \) to represent the product of all the numbers \( n \cdot p \cdot q \ldots \ldots t \cdot v \), divided by their greatest common measure, and \( P_x^{(n)} \) may be regarded as a circulating function, whose period of circulation is \( N \), but the
+coefficients of which, taken in their order, form \( \frac{N}{n} \) subordinate periods within it, each consisting of the \( n \) coefficients of \( P^{(n)}_x \).
+
+Thus suppose \( n = 2 \), and \( N = 6 \) then
+
+\[
+P^{(2)}_x = a_x S^{(2)}_x + b_x S^{(2)}_{x-1}
+\]
+
+\[
+= a_x S^{(6)}_x + b_x S^{(6)}_{x-1} + a_x S^{(6)}_{x-2} + b_x S^{(6)}_{x-3} + a_x S^{(6)}_{x-5} + b_x S^{(6)}_{x-6}
+\]
+
+The identity of these two expressions is easily recognised: when \( x \) is a multiple of 6, and therefore of 2, they both reduce themselves to \( a_x \); when \( x - 1 \) is such a multiple, to \( b_x \); when \( x - 2 \) is a multiple of 6, \( x - 2 \) is also one of 2, and therefore \( x \) is so; consequently both functions reduce themselves to \( a_x \), and so on for every form of \( x \).
+
+Thus every coefficient of the proposed equation may be reduced to one whose period of circulation is \( N \); and this being done, the equation comes under the general form integrated in (9). The second series whose law is stated in Art. (2) leads to an equation of this kind. In fact the equation
+
+\[
+u_x - (a S^{(3)}_x + b S^{(3)}_{x-1} + c S^{(3)}_{x-2}) u_{x-1} - (\alpha S^{(2)}_x + \beta S^{(2)}_{x-1}) u_{x-2} = 0
+\]
+
+coincides in succession with the whole series of equations there assigned; and if we write instead of the coefficients of this, the following,
+
+\[
+a S^{(6)}_x + b S^{(6)}_{x-1} + c S^{(6)}_{x-2} + a S^{(6)}_{x-3} + b S^{(6)}_{x-4} + c S^{(6)}_{x-5}
+\]
+
+\[
+\alpha S^{(6)}_x + \beta S^{(6)}_{x-1} + \alpha S^{(6)}_{x-2} + \beta S^{(6)}_{x-3} + \alpha S^{(6)}_{x-4} + \beta S^{(6)}_{x-5}
+\]
+
+they are reduced to a common period of circulation, and the equation may then be integrated as above. It remains to consider equations with more than one independent variable whose coefficients are circulating functions.
+(12). A circulating function with two independent variables may have a double period of circulation, and may in general be represented thus:
+
+\[ P^{(m,n)}_{x,y} = a^{(0,0)}_{x,y} S^{(m)}_x S^{(n)}_y + a^{(1,0)}_{x,y} S^{(m)}_{x-1} S^{(n)}_y + a^{(0,1)}_{x,y} S^{(m)}_x S^{(n)}_{y-1} + \ldots \ldots + a^{(m-1,n-1)}_{x-m+1,y-n+1} S^{(m)}_{x-m+1} S^{(n)}_{y-n+1} \]
+
+one with three may have a triple one, and its expression will be
+
+\[ P^{(m,n,r)}_{x,y,z} = a^{(0,0,0)}_{x,y,z} S^{(m)}_x S^{(n)}_y S^{(r)}_z + a^{(1,0,0)}_{x,y,z} S^{(m)}_{x-1} S^{(n)}_y S^{(r)}_z + \ldots \ldots + &amp;c. \]
+
+and so on, and these functions possess general properties analogous to those of one variable. To avoid complication we will confine ourselves to the case of two variables, a similar mode of treatment being applicable to any number.
+
+First then, any function whatever of \( x, y, S^{(m)}_x, S^{(n)}_y, &amp;c. \) and their successive values is reducible to the form \( P^{(m,n)}_{x,y} \) and thus the sums, products, quotients, or powers of two or more such functions are reducible to a single one, as in the case of one variable.
+
+2dly. Any symmetrical function whatever of the values
+
+\[ P^{(m,n)}_{x,y}, P^{(m,n)}_{x-1,y}, P^{(m,n)}_{x,y-1}, \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots P^{(m,n)}_{x-m+1,y-n+1} \]
+
+is invariable, provided the coefficients of each term in the expression of \( P^{(m,n)}_{x,y} \) are so; and it is equal to a function similarly composed of those coefficients.
+
+3dly. Any circulating function of the form \( P^{(m,n)}_{x,y} \) may be reduced to another of the form \( P^{(M,N)}_{x,y} \), M and N being any multiples of m and n respectively, and thus any number of such functions may be reduced to the same period of circula-
+These properties are easily demonstrated as in the case of a single independent variable, and by their aid all circulating equations of partial differences may be cleared of their circulating form.
+
+(13). Let the proposed equation of partial differences be
+
+\[ u_{x,y} + (1,0) P^{(m,n)}_{x,y} \cdot u_{x-1,y} + (0,1) P^{(m,n)}_{x,y} \cdot u_{x,y-1} + \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \]
+
+To integrate it, we assume
+
+\[ u_{x,y} = A^{(0,0)}_{x,y} \cdot S^{(m)}_x S^{(n)}_y + A^{(1,0)}_{x,y} \cdot S^{(m)}_{x-1} S^{(n)}_y + A^{(0,1)}_{x,y} \cdot S^{(m)}_x S^{(n)}_{y-1} + \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \]
+
+and supposing the general representation of any one of the coefficients as \( (r,s) P^{(m,n)}_{x,y} \) to be
+
+\[ (r,s) a^{(0,0)}_{x,y} \cdot S^{(m)}_x S^{(n)}_y + (r,s) a^{(1,0)}_{x,y} \cdot S^{(m)}_{x-1} S^{(n)}_y + (r,s) a^{(0,1)}_{x,y} \cdot S^{(m)}_x S^{(n)}_{y-1} + &amp;c. \]
+
+Then, if the above expression be substituted for \( u_x \) in the proposed equation, it becomes
+
+\[ = S^{(m)}_x S^{(n)}_y \cdot \left\{ A^{(0,0)}_{x,y} + (1,0) a^{(0,0)}_{x,y} \cdot A^{(m-1,o)}_{x-1,y} + (0,1) a^{(0,0)}_{x,y} \cdot A^{(o,n-1)}_{x,y-1} + &amp;c. - a^{(0,0)}_{x,y} \right\} \]
+
+\[ + S^{(m)}_{x-1} S^{(n)}_y \cdot \left\{ A^{(1,o)}_{x,y} + (1,0) a^{(1,o)}_{x,y} \cdot A^{(o,o)}_{x-1,y} + (0,1) a^{(1,o)}_{x,y} \cdot A^{(1,n-1)}_{x,y-1} + &amp;c. - a^{(1,o)}_{x,y} \right\} \]
+
+\[ + S^{(m)}_x S^{(n)}_{y-1} \cdot \left\{ A^{(0,1)}_{x,y} + (1,0) a^{(0,1)}_{x,y} \cdot A^{(m-1,1)}_{x-1,y} + (0,1) a^{(0,1)}_{x,y} \cdot A^{(o,o)}_{x,y-1} + &amp;c. - a^{(0,1)}_{x,y} \right\} \]
+
+\[ + S^{(m)}_{x-m+1} S^{(n)}_{y-n+1} \cdot \left\{ A^{(m-1,n-1)}_{x,y} + (1,0) a^{(m-1,n-1)}_{x,y} \cdot A^{(m-2,n-1)}_{x-1,y} + &amp;c. - a^{(m-1,n-1)}_{x,y} \right\} \]
+
+Let now each term of this, enclosed in the brackets, be separately made to vanish, and we shall obtain a system of re-entering equations of partial differences, for the determination of the unknown functions \( A^{(0,0)}_{x,y}, &amp;c. \). The number of these equations is \( m \times n \), which being also that of the functions to be determined, they suffice for the purpose.
+It will be unnecessary to enter into the detail of the process of elimination in this case; it is always practicable, and leads to a final equation with constant coefficients, when those of the circulating functions which enter into the proposed equation are constant, just as in the case of one variable.
+
+(14). I am unwilling to occupy the pages of the Philosophical Transactions with examples of the application of the processes here delivered to the various problems in the pure and mixed mathematics where they afford either a remarkable simplicity in the result, or great neatness in the investigation. Such instances occur frequently in the evaluation of continued fractions and other similar functions where the denominators (or other elements) recur in a certain order. A variety of complicated questions relative to the simultaneous employment of capital in different mercantile transactions, can scarcely be treated with perspicuity in any other way, and other instances will readily suggest themselves to the reader whose experience in enquiries of this nature has led him to feel the inconvenience which these pages are designed to obviate. I will therefore merely subjoin one example of the integration of a circulating equation of the second order, with constant coefficients, by way of illustration of the methods themselves.
+
+Suppose then we have
+
+\[ u_x = (aS_x + bS_{x-1})u_{x-1} + (\alpha S_x + \beta S_{x-1})u_{x-2} = 0 \]
+
+where \( S_x \) is \( \frac{1}{2} \) the sum of the \( x^{th} \) powers of the roots of \( z^2 - 1 = 0 \) assume
+
+\[ u_x = A_x \cdot S_x + B_x \cdot S_{x-1} \]
+
+and we get by substitution
+\[ o = S_x \{ A_x - a B_{x-1} + \alpha A_{x-2} \} + S_{x-1} \{ B_x - b A_{x-1} + \beta B_{x-2} \} \]
+
+whence we find
+
+\[
+\begin{align*}
+A_x + \alpha A_{x-2} &amp;= a B_{x-1} \\
+B_x + \beta B_{x-2} &amp;= b A_{x-1}
+\end{align*}
+\]
+
+The first of these gives \( B_x = \frac{1}{a} \{ A_{x+1} + \alpha A_{x-1} \} \); (E)
+
+which substituted in the second multiplied by \( a \) produces
+
+\[
+A_{x+1} + (\alpha + \beta - ab) A_{x-1} + \alpha \beta A_{x-3} = 0
+\]
+
+or,
+
+\[
+A_{x+4} - (ab - \alpha - \beta) A_{x+2} + \alpha \beta A_x = 0
+\]
+
+This equation corresponds to the equation (D) of the foregoing articles, and if we take \( p \) and \( q \) such that
+
+\[
+(z^2 - p^2)(z^2 - q^2) = z^4 - (ab - \alpha - \beta) z^2 + \alpha \beta,
+\]
+
+we shall have for the complete value of \( A_x \)
+
+\[
+A_x = S_x \{ C \cdot (p^x + q^x) + C&#x27; \cdot (p^{x-2} + q^{x-2}) \} \\
++ S_{x-1} \{ c \cdot (p^x + q^x) + c&#x27; \cdot (p^{x-2} + q^{x-2}) \} \quad (F)
+\]
+
+This expression substituted in (E) will give the value of \( B_x \), but as it is sufficiently evident that the expression so obtained, as well as the value of \( u_x \) thence derived, will all have the same form, the constants only differing, we may at once suppose \( u_x \) equal to the second member of (F) and determine the relations between \( C, C&#x27;, c, c&#x27; \) by substituting it in the proposed equation. This gives the following four equations of condition among the constants.
+
+\[
+\begin{align*}
+(C + \frac{C&#x27;}{p^2})(1 + \frac{\alpha}{p^2}) - \frac{a}{p}(c + \frac{c&#x27;}{p^2}) &amp;= 0 \\
+(c + \frac{c&#x27;}{p^2})(1 + \frac{\beta}{p^2}) - \frac{b}{p}(C + \frac{C&#x27;}{p^2}) &amp;= 0 \\
+(C + \frac{C&#x27;}{q^2})(1 + \frac{\alpha}{q^2}) - \frac{a}{q}(c + \frac{c&#x27;}{q^2}) &amp;= 0 \\
+(c + \frac{c&#x27;}{q^2})(1 + \frac{\beta}{q^2}) - \frac{b}{q}(C + \frac{C&#x27;}{q^2}) &amp;= 0
+\end{align*}
+\]
+Eliminating \((c + \frac{c&#x27;}{p^2})\) from the two first of these, and \((c + \frac{c&#x27;}{q^2})\) from the two last we find
+
+\[
+\frac{1}{p^4} \cdot (C + \frac{C&#x27;}{p^2}) \cdot \left\{ p^4 - (ab - \alpha - \beta) p^2 + \alpha \beta \right\} = 0
+\]
+
+\[
+\frac{1}{q^4} \cdot (C + \frac{C&#x27;}{q^2}) \cdot \left\{ q^4 - (ab - \alpha - \beta) q^2 + \alpha \beta \right\} = 0
+\]
+
+but the values of \(p\) and \(q\) are such by hypothesis, that the latter factors of these equations vanish separately of themselves: the equations are therefore verified independently of any particular values of \(C + \frac{C&#x27;}{p^2}\) or \(C + \frac{C&#x27;}{q^2}\), which therefore remain arbitrary. \(C\) and \(C&#x27;\) then being arbitrarily assumed, and \(c\), and \(c&#x27;\) determined from the above equations, which give
+
+\[
+c = \frac{Cpq(p^2 + q^2 + pq + \alpha) + C&#x27;(pq - \alpha)}{a \cdot pq \cdot (p + q)}
+\]
+
+\[
+c&#x27; = \frac{C \left\{ (pq)^2 + \alpha (p^2 + q^2 + pq) \right\} - C \cdot (pq)^2 \cdot (pq - \alpha)}{a \cdot pq \cdot (p + q)}
+\]
+
+the second member of the equation \((F)\) will be the complete value of \(u_x\), and it will be noticed that we have
+
+\[
+pq = \sqrt{\alpha \beta}, \quad p^2 + q^2 = ab - (\alpha + \beta)
+\]
+
+\[
+(p + q) = \sqrt{(p^2 + q^2) + 2pq}
+\]
+
+whence the whole is readily reduced to functions of the proposed coefficients \(a, b, \alpha, \beta\).
+
+JOHN F. W. HERSCHEL.
+
+Slough, Nov. 1817.</div>

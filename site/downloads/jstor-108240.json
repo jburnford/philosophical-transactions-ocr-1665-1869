@@ -1,0 +1,69 @@
+{
+  "id": "86990e4011084ad5eb36035794e29b4578636699",
+  "text": "IV. On a Remarkable Property of the Diamond.\n\nBy Sir David Brewster, K.H. D.C.L. F.R.S. and V.P.R.S.Ed.\n\nReceived February 15,—Read March 4, 1841.\n\nHAVING had occasion, some years ago, to examine the structure of a diamond plano-convex lens which gave triple images of minute microscopic objects, I discovered, by a particular method of observation, that the whole of its plane surface was covered with hundreds of minute bands, some reflecting more and some less light; and I naturally drew the inference that this diamond consisted of a great number of layers of different reflective, and consequently refractive, powers, from which arose all its imperfections as a single microscope. In this case the veins or layers lay parallel, or nearly so, to the axis of the lens, so as to produce the worst effect upon the refracted pencil; for if the axis of the lens had been perpendicular to the surfaces of these veins, its performance as a microscope would scarcely have been injured by them.\n\nIn repeating Mr. Airy's experiments on the action of the diamond in modifying Newton's rings near the polarising angle, I was led to re-examine the flat surface of the diamond above mentioned; but though I found my former observations perfectly correct, yet I was induced to suspect the accuracy of the inference which I drew from them, and which I could not but draw in the circumstances under which the phenomenon was presented to me.\n\nIn order that the Society may be able to judge of the new results at which I have arrived, I have given in Plate I. fig. 1. as accurate a drawing as I am able to make of the appearance of the flat surface of the diamond under consideration, as seen by light incident upon it nearly perpendicularly. The flat surface of the diamond is 0'058, or \\( \\frac{1}{17} \\)th of an inch in diameter, and owing to the great convexity of its other surface, the light reflected by it does not interfere with the examination of the structure above mentioned.\n\nThe appearance shown in the figure is that which I observed some years ago; but upon shifting the line of illumination, I was surprised to perceive that all the dark bands became light ones, and all the light bands became dark ones, a phenomenon which placed it beyond a doubt that all the bands were the edges of veins or laminae whose visible terminations were inclined at different angles, not exceeding two or three seconds to the general surface. Had this surface been an original face of the crystal there would have been nothing surprising in its structure, excepting the exceeding minuteness of the strata and the slight inclination of their terminal planes to each other; but being a surface ground and polished by art, the phenomenon which it presents is one extremely interesting.\n\nThe mineralogist will have no hesitation in admitting that this diamond is part of MDCCXLII.\na composite crystal consisting of a great number of individual crystals, like certain specimens of feldspar, carbonate of lime, and other minerals; but it is more difficult to conceive that the terminal planes of these individual crystals should retain their relative inclination after undergoing the operations of grinding and polishing upon a lapidary's wheel.\n\nTo many persons such a result may appear inadmissible; but there are several physical facts, which, when well considered, cannot fail to diminish its improbability. If we grind and polish a surface of mother-of-pearl obliquely to the strata of which it is composed, we shall find it impossible to produce a perfectly flat surface: even if we grind it on the finest and softest hone, and polish it with the smoothest powder, the termination of each stratum will remain; and while the general surface reflects a white image, the grooves or striæ will give rise to the beautiful prismatic images produced by interference*.\n\nAnother analogous fact presented itself to me many years ago in examining calcareous spar. Having had occasion to form an artificial face upon one of the edges of the rhomb containing the obtuse angle, I used a coarse file without water, and found that it exposed faces of cleavage which had never been previously seen, and which were inclined to the general surface produced by the file†.\n\nIn examining the optical figures produced by the disintegration of crystallized surfaces, I have found that by coarse sandstone, or the action of a rasp, or large-toothed file, we can expose surfaces of crystallization with their natural polish differently inclined to the general surface‡.\n\nIn all these cases the faces, exposed by the mechanical action of grinding or filing, preserve their natural surfaces and polish, and will preserve them more perfectly and readily if they are faces of easy cleavage. The facility of exposing such faces by the action of grinding must increase as the veins or strata become thinner, and it is probable that their exceeding minuteness in the diamond may have aided in the production of the structure which has been described.\n\nI have found it quite impossible to measure the inclination of any of the faces by the goniometer; but I have succeeded, though with some difficulty, in taking an impression of the grooved surface upon wax.\n\nThis structure sufficiently explains the existence of three images when the lens was used as a microscope, without supposing that the veins had different refractive powers. Faces of different inclinations would, of course, converge the rays to different foci on the retina, as effectually as if there had been only a variation in their refractive indices.\n\n* See Philosophical Transactions, 1814. † Edinburgh Journal of Science, Oct. 1828, vol. ix. p. 312. ‡ Trans. Royal Soc. Edin. vol. xiv.\n\nSt. Leonard's, St. Andrew's,\nFebruary 11th, 1841.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108240.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1307,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2861,
+        2
+      ],
+      [
+        2861,
+        5754,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108240",
+    "title": "On a Remarkable Property of the Diamond",
+    "authors": "David Brewster",
+    "year": 1841,
+    "volume": "131",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/108240"
+  }
+}

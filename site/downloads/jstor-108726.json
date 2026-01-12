@@ -1,0 +1,199 @@
+{
+  "id": "f913e0d2af76cc9a6ab760afc230dc152726e4f8",
+  "text": "III. On the Equation for the Product of the Differences of all but one of the Roots of a given Equation. By Arthur Cayley, Esq., F.R.S.\n\nReceived November 30, 1860,—Read January 10, 1861.\n\nIt is easy to see that for an equation of the order $n$, the product of the differences of all but one of the roots will be determined by an equation of the order $n$, the coefficients of which are alternately rational functions of the coefficients of the original equation, and rational functions multiplied by the square root of the discriminant. In fact, if the equation be $\\varphi v = (a, \\ldots)(v, 1)^n = a(v-\\alpha)(v-\\beta)\\ldots$, then putting for the moment $a=1$, and disregarding numerical factors, $\\sqrt{\\Delta}$, the square root of the discriminant, is equal to the product of the differences of the roots, and $\\varphi/\\alpha$ is equal to $(\\alpha-\\beta)(\\alpha-\\gamma)\\ldots$, consequently the product of the differences of the roots, all but $\\alpha$, is equal to $\\sqrt{\\Delta} \\div \\varphi/\\alpha$, and the expression $\\frac{1}{\\varphi/\\alpha}$ is the root of an equation of the order $n$, the coefficients of which are rational functions of the coefficients of the original equation. I propose in the present memoir to determine the equation in question for equations of the orders three, four, and five: the process employed is similar to that in my memoir \"On the Equation of Differences for an Equation of any Order, and in particular for Equations of the Orders Two, Three, Four, and Five*,\" viz. the last coefficient of the given equation is put equal to zero, so that the given equation breaks up into $v=0$ and into an equation of the order $n-1$ called the reduced equation; and this being so, the required equation breaks up into an equation of the order $n-1$ (which however is not, as for the equation of differences, that which corresponds to the reduced equation) and into a linear equation; the equation of the order $n-1$ is calculated by the method of symmetric functions; and combining it with the linear equation, which is known, we have the required equation, except as regards the terms involving the last coefficient, which terms are found by the consideration that the coefficients of the required equation are seminvariants. The solution leads immediately to that of a more general question; for if the product of the differences of all the roots except $\\alpha$, of the given equation\n\n$$\\varphi v = (*)(v, 1)^n = a(v-\\alpha)(v-\\beta)\\ldots = 0$$\n\n(which product is a function of the degree $n-2$ in regard to each of the roots $\\beta, \\gamma, \\delta, \\ldots$), is multiplied by $(x-\\alpha y)^{n-2}$, the function so obtained will be the root of an equation of the order $n$, the coefficients of which are covariants of the quantic $(*)(x, y)^n$, and these coefficients can be at once obtained by writing, in the place of the seminvariants of the former result, the covariants to which they respectively belong. In the case of the\n\n* Philosophical Transactions, vol. cl. p. 112 (1860).\nquintic equation, one of these covariants is, in regard to the coefficients, of the degree 6, which exceeds the limit of the tabulated covariants, the covariant in question has therefore to be now first calculated. The covariant equations for the cubic and the quartic might be deduced from the formulæ Nos. 119 and 142 of my Fifth memoir on Quantics*; they are in fact the bases of the methods which are there given for the solution of the cubic and the quartic equations respectively; and it was in this way that I was led to consider the problem which is here treated of.\n\n1. The notation $\\zeta(\\alpha, \\beta, \\gamma, \\ldots)$ is used (after Professor Sylvester) to denote the product of the squared differences of $(\\alpha, \\beta, \\gamma, \\ldots)$, and the notation $\\zeta^3(\\alpha, \\beta, \\gamma, \\ldots)$ to denote the product of the differences taken in a determinate order, viz.\n\n$$\\zeta^3(\\alpha, \\beta, \\gamma, \\delta, \\ldots) = (\\alpha - \\beta)(\\alpha - \\gamma)(\\alpha - \\delta)\\ldots$$\n\n$$(\\beta - \\gamma)(\\beta - \\delta)\\ldots$$\n\n$$(\\gamma - \\delta)\\ldots$$\n\n...\n\n2. The product of the differences of the roots of an equation depends, as already noticed, on the square root of the discriminant; and in order to fix the numerical factors and signs, it will be convenient, in regard to the equations\n\n$$(a, b, c, d, v, 1)^3 = 0,$$\n\n$$(a, b, c, d, e, f, v, 1)^4 = 0,$$\n\nto write as follows:\n\n$$\\zeta^3(\\alpha, \\beta) = \\frac{1}{a} \\sqrt{-(4ac - b^2)} = \\frac{1}{a} \\sqrt{-\\Box},$$\n\n$$\\zeta^3(\\alpha, \\beta, \\gamma) = \\frac{1}{a^2} \\sqrt{-(27a^3d^2 + 4ac^3 + \\ldots)} = \\frac{1}{a^2} \\sqrt{-\\Box},$$\n\n$$\\zeta^3(\\alpha, \\beta, \\gamma, \\delta) = -\\frac{1}{a^3} \\sqrt{256a^3e^3 - 27a^3d^4 + \\ldots} = -\\frac{1}{a^3} \\sqrt{\\Box},$$\n\n$$\\zeta^4(\\alpha, \\beta, \\gamma, \\delta, \\varepsilon) = -\\frac{1}{a^4} \\sqrt{3125a^4f^4 + 256a^3e^3 + \\ldots} = -\\frac{1}{a^4} \\sqrt{\\Box},$$\n\nwhere it is to be observed, for example, that writing in the last equation $\\varepsilon = 0$, and therefore $f = 0$, we have $\\zeta^3(\\alpha, \\beta, \\gamma, \\delta, 0) = -\\frac{e}{a^4} \\sqrt{256a^3e^3 + \\ldots}$, which agrees with the equation $\\zeta^3(\\alpha, \\beta, \\gamma, \\delta, 0) = \\alpha \\beta \\gamma \\delta \\zeta^3(\\alpha, \\beta, \\gamma, \\delta) = \\frac{e}{a} \\zeta^3(\\alpha, \\beta, \\gamma, \\delta)$, if for $\\zeta^3(\\alpha, \\beta, \\gamma, \\delta)$ we substitute the value given by the last equation but one.\n\nFor the cubic equation $(a, b, c, d, v, 1)^3 = 0$;\n\n3. We have to find the equation for $\\theta = \\zeta^3(\\alpha, \\beta) = \\alpha - \\beta$; the roots are\n\n$$\\theta_1 = \\beta - \\gamma, \\quad \\theta_2 = \\gamma - \\alpha, \\quad \\theta_3 = \\alpha - \\beta.$$\n\n* Philosophical Transactions, vol. cxlviii. pp. 415-427 (1858).\nTo apply the method above explained, write \\( \\gamma = 0 \\), and therefore also \\( d = 0 \\); the roots thus become\n\n\\[\n\\theta_1 = \\beta, \\quad \\theta_2 = -\\alpha, \\quad \\theta_3 = \\alpha - \\beta,\n\\]\n\nand we have the quadric and linear equations\n\n\\[\n(\\theta + \\alpha)(\\theta - \\beta) = 0, \\quad \\theta - (\\alpha - \\beta) = 0,\n\\]\n\nwhere \\( (\\alpha, \\beta) \\) are the roots of the equation\n\n\\[\n(a, b, c \\chi v, 1)^2 = 0.\n\\]\n\nHence, writing\n\n\\[\nZ = 4ac - b^2,\n\\]\n\nwe have\n\n\\[\n\\alpha - \\beta = \\frac{1}{a} \\sqrt{-Z},\n\\]\n\nand the two equations become\n\n\\[\n\\theta^2 a + b \\sqrt{-Z} - c = 0, \\quad \\theta a - \\sqrt{-Z} = 0;\n\\]\n\nor multiplying the two equations together,\n\n\\[\n\\theta^2 a^2 + b^2 0 + \\theta (3ac - b^2) + c \\sqrt{-Z} = 0,\n\\]\n\nwhich is what the required equation becomes, on putting therein \\( d = 0 \\); the coefficients of the complete equation are seminvariants, and the terms in \\( d \\) are to be inserted by means of this property. The coefficient \\( 3ac - b^2 \\) is reduced to zero by the operator\n\n\\[\n3a \\partial_b + 2b \\partial_c + c \\partial_d,\n\\]\n\nit is therefore a seminvariant, and remains unaltered. The coefficient \\( c \\sqrt{-Z} \\) is what \\( \\sqrt{-} \\) becomes (\\( \\square \\) being the discriminant of the cubic equation) on putting therein \\( d = 0 \\), it is therefore to be changed into \\( \\sqrt{-} \\). Hence\n\n4. For the cubic equation \\((a, b, c, d \\chi v, 1)^3 = 0\\) the equation for \\( \\theta (= \\zeta^3(\\alpha, \\beta)) \\) is 0 =\n\n\\[\n\\begin{array}{c|c|c|c}\na^2 & +1 & 0 & +3 ac \\\\\n\\hline\n+1 & 0 & +1 & \\sqrt{-} \\times \\chi \\theta, 1)^3.\n\\end{array}\n\\]\n\nFor the quartic equation \\((a, b, c, d \\chi v, 1)^4 = 0\\);\n\n5. Here\n\n\\[\n\\theta = -\\zeta^4(\\alpha, \\beta, \\gamma) = -(\\alpha - \\beta)(\\alpha - \\gamma)(\\beta - \\gamma),\n\\]\n\nthe roots are\n\n\\[\n\\theta_1 = \\zeta^4(\\beta, \\gamma, \\delta),\n\\]\n\n\\[\n\\theta_2 = -\\zeta^4(\\gamma, \\delta, \\alpha),\n\\]\n\n\\[\n\\theta_3 = \\zeta^4(\\delta, \\alpha, \\beta),\n\\]\n\n\\[\n\\theta_4 = -\\zeta^4(\\alpha, \\beta, \\gamma),\n\\]\n\nthe signs being in this case (and indeed for an equation of any even order) alternately positive and negative; in fact, if the equation is represented by \\( \\varphi v = 0 \\), then the roots divided by \\( \\zeta^4(\\alpha, \\beta, \\gamma, \\delta) \\) should respectively be \\( \\varphi' \\alpha, \\varphi' \\beta, \\varphi' \\gamma, \\varphi' \\delta \\), and this will be the case if the signs are taken as above.\n6. Putting now $\\delta = 0$ (and therefore $e = 0$) the roots become\n\n$$\\theta_1 = \\beta \\gamma (\\beta - \\gamma),$$\n$$\\theta_2 = \\gamma \\alpha (\\gamma - \\alpha),$$\n$$\\theta_3 = \\alpha \\beta (\\alpha - \\beta),$$\n$$\\theta_4 = -\\zeta^b(\\alpha, \\beta, \\gamma),$$\n\nwhere $(\\alpha, \\beta, \\gamma)$ are the roots of $(a, b, c, d)(v, 1)^3 = 0$. Let $Z$ denote the discriminant of the cubic function, then $\\zeta^b(\\alpha, \\beta, \\gamma) = \\frac{1}{a^3} \\sqrt{-Z}$, and we have thus the linear equation; the cubic equation is\n\n$$\\Pi_3 \\{\\theta - \\beta \\gamma (\\beta - \\gamma)\\} = 0,$$\n\nthe coefficients of which can be calculated by the method of symmetric functions (see Annex No. 1).\n\n7. The cubic equation being thus obtained, we have the two equations\n\n$$\\theta^3 \\cdot a^4 + \\theta^2 \\cdot a^3 \\sqrt{-Z} + \\theta \\cdot (-9a^3d^2 + 4abcd - b^3d) + d^2 \\sqrt{-Z} = 0,$$\n$$\\theta \\cdot a^3 + \\sqrt{-Z} = 0;$$\n\nand multiplying these together, the resultant equation is\n\n$$\\theta^4 \\cdot a^6 + \\theta^3 \\cdot 0 + \\theta^2 \\cdot a^3(-9a^3d^2 + 4abcd - b^3d + Z) + \\theta \\cdot (-8a^3d + 4abc - b^3)d \\sqrt{-Z} - d^2Z = 0,$$\n\nwhere the coefficients have to be completed by adding the terms which contain $e$. We have $\\sqrt{\\Box}$ in the place of $d \\sqrt{-Z}$, and $\\Box$ in the place of $-d^2Z$. The coefficient $-8a^3d + 4abc - b^3$ is a seminvariant, and requires no alteration. The coefficient\n\n$$-9a^3d^2 + 4abcd - b^3d + Z$$\n\nis\n\n$$-9a^3d^2 + 4abcd - b^3d$$\n$$+27a^3d^2 - 18abcd + 4ac^3 + 4b^3d - b^2c^2;$$\n\nthat is,\n\n$$+18a^3d^2$$\n$$-14abcd$$\n$$+4ac^3$$\n$$+3b^3d$$\n$$-1b^2c^2,$$\nand the terms in \\( e \\) to be added to this, in order to make it a seminvariant, are easily found to be\n\n\\[-16a^3ce + 6ab^2e.\\]\n\n8. Hence, for the quartic equation \\((a, b, c, d; v, 1)^4\\), the equation for \\( \\theta = \\zeta^4(\\alpha, \\beta, \\gamma) \\) is \\( 0 = \\)\n\n\\[\n\\begin{array}{c|c|c|c|c}\na^4 & a^2 \\sqrt{\\Box} & a^2 \\times & \\sqrt{\\Box} \\times & \\Box \\times \\\\\n\\hline\n+1 & 0 & -16 & -8 & +1 \\\\\n& & a^2ce & a^2d & \\\\\n& & +18 & +4 & \\\\\n& & ab^2c & abc & \\\\\n& & -14 & -1 & \\\\\n& & ac^2 & bd & \\\\\n& & +3 & & \\\\\n& & -1 & & \\\\\n\\end{array}\n\\]\n\nFor the quintic equation \\((a, b, c, d, e; f; v, 1)^5 = 0;\\)\n\n9. We have \\( \\theta = \\zeta^5(\\alpha, \\beta, \\gamma, \\delta, \\varepsilon) \\), the roots being\n\n\\[\n\\begin{align*}\n\\theta_1 &= \\zeta^5(\\beta, \\gamma, \\delta, \\varepsilon), \\\\\n\\theta_2 &= \\zeta^5(\\gamma, \\delta, \\varepsilon, \\alpha), \\\\\n\\theta_3 &= \\zeta^5(\\delta, \\varepsilon, \\alpha, \\beta), \\\\\n\\theta_4 &= \\zeta^5(\\varepsilon, \\alpha, \\beta, \\gamma), \\\\\n\\theta_5 &= \\zeta^5(\\alpha, \\beta, \\gamma, \\delta).\n\\end{align*}\n\\]\n\n10. The linear equation is \\( \\theta a^3 + \\sqrt{Z} = 0 \\); the quartic equation may be written \\( \\Pi(\\theta - \\theta_i) = 0 \\), for the determination of which see Annex No. 2. The two equations are\n\n\\[\n\\begin{align*}\n\\theta^4 \\cdot a^9 + \\theta^3 \\cdot a^8 \\sqrt{Z} + \\theta^2 \\cdot a^7 Me + \\theta \\cdot Ne^2 \\sqrt{Z} + e^3 Z = 0 \\\\\n\\theta \\cdot a^3 + \\sqrt{Z} = 0;\n\\end{align*}\n\\]\n\nand multiplying these together, the resulting equation is\n\n\\[\n\\begin{align*}\n\\theta^5 \\cdot a^{12} + \\theta^4 \\cdot 0 + \\theta^3 \\cdot a^6(Me - Z) + \\theta^2 \\cdot a^3(Ne + M)e\\sqrt{Z} + \\theta \\cdot (N + a^3e)e^2Z + e^3Z\\sqrt{Z} = 0,\n\\end{align*}\n\\]\nwhere the coefficients have to be completed by the addition of the terms in $f$. We have $\\sqrt{\\Box}$ in the place of $e\\sqrt{Z}$, and therefore $\\Box$ in the place of $e^2Z$.\n\n11. The value of $Me-Z$ is\n\n$$\\begin{array}{c|c}\n+96-256 & -160 \\ a^3e^3 \\\\\n-60+192 & +132 \\ a^2bde^2 \\\\\n-40+128 & +88 \\ a^2c^2e^2 \\\\\n+27-144 & -117 \\ a^2cd^2e \\\\\n+27 & +27 \\ a^2d^4 \\\\\n+47-144 & -97 \\ ab^2ce^2 \\\\\n+6 & +6 \\ ab^2d^2e \\\\\n-18+80 & +62 \\ abcd^3e \\\\\n-18 & -18 \\ abed^3 \\\\\n+4-16 & -12 \\ ac^3e \\\\\n+4 & +4 \\ ac^3d^3 \\\\\n-9+27 & +18 \\ b^3e^2 \\\\\n+4-18 & -14 \\ b^3de \\\\\n+4 & +4 \\ b^3d^3 \\\\\n-1+4 & +3 \\ b^3e^2 \\\\\n-1 & -1 \\ b^3d^2 \\\\\n\\end{array}$$\n\nand the terms in $f$ are found to be\n\n$$\\begin{array}{c|c}\n+300 \\ a^3def \\\\\n-130 \\ a^2beef \\\\\n-120 \\ a^2bd^2f \\\\\n+40 \\ a^2c^2df \\\\\n+28 \\ ab^3ef \\\\\n+66 \\ ab^3cdf \\\\\n-24 \\ abc^3f \\\\\n-16 \\ b^3df \\\\\n+6 \\ b^3cf \\\\\n-125 \\ a^3cf^2 \\\\\n+50 \\ a^2b^2f^2 \\\\\n\\end{array}$$\n\n12. The value of $Ne+M$ is\n\n$$\\begin{array}{c|c}\n-16+96 & +80 \\ a^3e^2 \\\\\n+6-60 & -54 \\ a^2bde \\\\\n+4-40 & -36 \\ a^2c^2e \\\\\n+27 & +27 \\ a^2cd^2 \\\\\n-5+47 & +42 \\ ab^2ce \\\\\n-18 & -18 \\ ab^2d^2 \\\\\n+4 & +4 \\ ac^3d \\\\\n+1-9 & -8 \\ b^3e \\\\\n+4 & +4 \\ b^3cd \\\\\n-1 & -1 \\ b^3e^2 \\\\\n\\end{array}$$\n\nand the terms in $f$ to be added thereto are found to be\n\n$$\\begin{array}{c|c}\n-50 \\ a^3df \\\\\n+30 \\ a^2bef \\\\\n-8 \\ ab^3f \\\\\n\\end{array}$$\n13. The value of \\( N + a^3 e \\) is\n\n\\[\n\\begin{align*}\n-15 & \\quad a^3 e \\\\\n+6 & \\quad a^2 b d \\\\\n+4 & \\quad a^2 c^2 \\\\\n-5 & \\quad a b^2 c \\\\\n+1 & \\quad b^4\n\\end{align*}\n\\]\n\nwhich is a seminvariant, and requires no addition.\n\n14. Hence, for the quintic equation\n\n\\[\n(a, b, c, d, e, f)(x, v, 1)^5 = 0,\n\\]\n\nthe equation for \\( \\theta = \\zeta^k(\\alpha, \\beta, \\gamma, \\delta) \\) is 0 =\n\n\\[\n\\begin{array}{c|c|c|c|c|c}\na^{12} \\times & a^6 \\times & a^3 \\sqrt{\\Pi} \\times & \\Pi \\times & \\Pi \\sqrt{\\Pi} \\times \\\\\n\\hline\n+1 & 0 & -125 & -50 & -15 & +1 \\\\\n& & +300 & +80 & +6 & \\\\\n& & -160 & +30 & +4 & \\\\\n& & +50 & -54 & -5 & \\\\\n& & +132 & -36 & +1 & \\\\\n& & -130 & +27 & \\\\\n& & -120 & -8 & \\\\\n& & +40 & +42 & \\\\\n& & +88 & -18 & \\\\\n& & -117 & +4 & \\\\\n& & +27 & -8 & \\\\\n& & +28 & +4 & \\\\\n& & -97 & -1 & \\\\\n& & +6 & \\\\\n& & +62 & \\\\\n& & +66 & \\\\\n& & -18 & \\\\\n& & -24 & \\\\\n& & -12 & \\\\\n& & +4 & \\\\\n& & -16 & \\\\\n& & +18 & \\\\\n& & +14 & \\\\\n& & +4 & \\\\\n& & +6 & \\\\\n& & +3 & \\\\\n& & -1 &\n\\end{array}\n\\]\n\n15. As a verification of this result, I remark that, taking for the quintic equation\n\n\\[\nv^5 + v^4 + v^3 + v^2 + v + 1 = 0,\n\\]\n\nthe roots of this equation are \\(-1, \\omega, \\omega^2, -\\omega, -\\omega^2\\), where \\( \\omega \\) is an imaginary cube root of unity (\\( \\omega^2 + \\omega + 1 = 0 \\)). We ought to have \\( \\zeta^k(\\alpha, \\beta, \\gamma, \\delta, \\epsilon) = -\\sqrt{\\Pi} = -36 \\); and this will be the case if, for instance, \\( \\alpha, \\beta, \\gamma, \\delta, \\epsilon \\) are respectively \\(-1, \\omega, \\omega^2, -\\omega, -\\omega\\). We have then\n\n\\[\n\\begin{align*}\n\\zeta^k(\\alpha, \\beta, \\gamma, \\delta) &= -1 - \\omega - 1 - \\omega^2 - 1 + \\omega^3 \\cdot \\omega - \\omega^2 \\cdot \\omega + \\omega^2 \\cdot 2\\omega^3 = 6, \\\\\n\\zeta^k(\\beta, \\gamma, \\delta, \\epsilon) &= \\omega - \\omega^2 \\cdot \\omega + \\omega^3 \\cdot 2\\omega \\cdot 2\\omega^2 \\cdot \\omega^2 + \\omega - \\omega^3 + \\omega = -12, \\\\\n\\zeta^k(\\gamma, \\delta, \\epsilon, \\alpha) &= 2\\omega^2 \\cdot \\omega^3 + \\omega \\cdot \\omega^2 + 1 - \\omega^2 + \\omega - \\omega^2 + 1 - \\omega + 1 = +6(\\omega - \\omega^2), \\\\\n\\zeta^k(\\delta, \\epsilon, \\alpha, \\beta) &= -\\omega^2 + \\omega - \\omega^2 + 1 - \\omega^2 - \\omega - \\omega + 1 - 2\\omega - 1 - \\omega = -6(\\omega - \\omega^2), \\\\\n\\zeta^k(\\epsilon, \\alpha, \\beta, \\gamma) &= -\\omega + 1 - 2\\omega - \\omega - \\omega^2 - 1 - \\omega - 1 - \\omega^2 \\cdot \\omega - \\omega^2 = 6.\n\\end{align*}\n\\]\nThe equation in $\\theta$ is thus $(\\theta-6)(\\theta+12)(\\theta^2+108)=0$, or multiplying out it is\n\n$$ (1, 0, 0, +432, -11664, +46656\\sqrt{\\theta}, 1)^4=0, $$\n\nwhich in fact (observing that $\\sqrt{\\theta}=36$) is what the preceding formula becomes for the equation $(1, 1, 1, 1, 1, 1)\\theta^4=0$.\n\nThe analogous verifications for the cubic and the quartic equations are as follows;\n\n16. For the cubic, if the assumed equation is $v^3+v^2+v+1=0$, the roots whereof are $-1, i, -i$ ($i^2=-1$), then we should have $\\zeta^b(\\alpha, \\beta, \\gamma)=\\sqrt{-\\theta}=4i$, which will be the case if $\\alpha, \\beta, \\gamma=-1, i, -i$, respectively, and the roots $\\beta-\\gamma, \\gamma-\\alpha, \\alpha-\\beta$ of the equation in $\\theta$ then are $2i, -i+1, -i-1$, so that the equation in $\\theta$ is $(\\theta^2+2i\\theta-2)(\\theta-2i)=0$, or\n\n$$ (1, 0, 2, 4i\\sqrt{\\theta}, 1)^3=0, $$\n\nwhich (observing that $\\sqrt{\\theta}=4i$) is what the formula for the equation in $\\theta$ becomes for the equation $(1, 1, 1, 1)\\theta^3=0$.\n\n17. For the quartic equation, taking this to be $v^4+v^3+v^2+v+1=0$, the roots are $\\omega, \\omega^2, \\omega^3, \\omega^4$, where $\\omega$ is an imaginary fifth root of unity ($\\omega^4+\\omega^3+\\omega^2+\\omega+1=0$), and putting $\\alpha, \\beta, \\gamma, \\delta$ equal to $\\omega, \\omega^2, \\omega^3, \\omega^4$ respectively, we have\n\n$$ -\\sqrt{\\theta}=\\zeta^b(\\alpha, \\beta, \\gamma, \\delta)=-5(\\omega+\\omega^4-\\omega^2-\\omega^3), $$\n\ngiving, as it should do, $\\theta=125$. The equation in $\\theta$ is therefore by the formula\n\n$$ (1, 0, 0, -25\\omega+\\omega^4-\\omega^2-\\omega^3, 125\\sqrt{\\theta}, 1)^4=0. $$\n\nBut the roots are\n\n$$ \\theta_1=\\zeta^b(\\beta, \\gamma, \\delta)=(\\omega^2-\\omega^3)(\\omega^2-\\omega^4)(\\omega^3-\\omega^4)=2-\\omega+\\omega^2-2\\omega^3=2-X, $$\n\n$$ \\theta_2=-\\zeta^b(\\gamma, \\delta, \\alpha)=-(\\omega^3-\\omega^4)(\\omega^3-\\omega)(\\omega^4-\\omega)=-1+3\\omega+2\\omega^2+\\omega^3=-1+Y, $$\n\n$$ \\theta_3=\\zeta^b(\\delta, \\alpha, \\beta)=(\\omega^4-\\omega)(\\omega^4-\\omega^3)(\\omega-\\omega^3)=-4-3\\omega-2\\omega^2-\\omega^3=-4-Y, $$\n\n$$ \\theta_4=-\\zeta^b(\\alpha, \\beta, \\gamma)=-(\\omega-\\omega^2)(\\omega-\\omega^3)(\\omega^2-\\omega^3)=3+\\omega-\\omega^2+2\\omega^3=3+X, $$\n\nif, for shortness,\n\n$$ X=\\omega-\\omega^2+2\\omega^3, \\quad Y=3\\omega+2\\omega^2+\\omega^3. $$\n\nThe equation in $\\theta$ is therefore\n\n$$ (\\theta-2+X)(\\theta+1-Y)(\\theta+4+Y)(\\theta-3-X)=0, $$\n\nwhere the left-hand side is the product of the factors\n\n$$ (\\theta-2+X)(\\theta-3-X)=\\theta^2-5\\theta+6-X-X^2=\\theta^2-5\\theta+10-5(\\omega+\\omega^4) $$\n\nand\n\n$$ (\\theta+1-Y)(\\theta+4+Y)=\\theta^2+5\\theta+4-3Y-Y^2=\\theta^2+5\\theta+10-5(\\omega^2+\\omega^3); $$\n\nand the equation in $\\theta$ is, therefore, as it should be,\n\n$$ (1, 0, 0, -25\\omega+\\omega^4-\\omega^2-\\omega^3, 125\\sqrt{\\theta}, 1)^4=0. $$\n\nPassing from the denumerate to the standard forms;\n18. For the cubic equation \\((a, b, c, d)(v, 1)^3 = 0\\), the equation for \\(\\theta(\\xi^b(\\beta, \\gamma))\\) is \\(0 =\\)\n\n\\[\n\\begin{array}{c|c|c|c}\na^2 & 9 & \\sqrt{-27} & \\\\\n\\hline\n+1 & +1 & ac & -1 \\\\\n0 & 0 & b^2 & +1 \\\\\n\\end{array}\n\\]\n\n\\(X(\\theta, 1)^3.\\)\n\n19. For the quartic equation \\((a, b, c, d, e)(v, 1)^4 = 0\\), the equation for \\(\\theta(\\xi^b(\\alpha, \\beta, \\gamma))\\) is \\(0 =\\)\n\n\\[\n\\begin{array}{c|c|c|c|c}\na^5 & 96a^2 & 512\\sqrt{\\Delta} & 256 & \\\\\n\\hline\n+1 & 0 & -1 & -1 & \\\\\n-1 & a^2ce & a^2d & +3 & \\\\\n+3 & a^2d^2 & abc & -2 & \\\\\n+1 & ab^2e & b^3 & +1 & \\\\\n-14 & abcd & +8 & \\\\\n+9 & ac^3 & \\\\\n+8 & b^2d & \\\\\n-6 & b^2c^2 & \\\\\n\\end{array}\n\\]\n\n\\(X(\\theta, 1)^4.\\)\n\n20. For the quintic equation \\((a, b, c, d, e, f)(v, 1)^5 = 0\\), the equation for \\(\\theta(\\xi^b(\\alpha, \\beta, \\gamma, \\delta))\\) is \\(0 =\\)\n\n\\[\n\\begin{array}{c|c|c|c|c|c}\na^{12} & 625a^6 & 12500\\sqrt{\\Delta}a^3 & 15625 & 76125\\sqrt{\\Delta} & \\\\\n\\hline\n+1 & 0 & -1 & -3 & +1 & \\\\\n-2 & a^2ef & a^2e^2 & +12 & \\\\\n+24 & a^2def & +4 & +16 & \\\\\n-32 & a^2e^3 & +3 & +50 & \\\\\n+2 & a^2b^2f & -27 & abde & \\\\\n+264 & a^2bd^2 & -36 & ac^2e & \\\\\n-52 & a^2becf & +54 & acdf & \\\\\n-96 & a^2bdf & -2 & alf & \\\\\n+64 & a^2cdf & +105 & abce & \\\\\n+352 & a^2c^2e & -180 & abed & \\\\\n-936 & a^2cd^2e & +80 & ac^4 & \\\\\n+432 & a^2d^3 & -50 & b^4e & \\\\\n+28 & abef & +100 & b^3cd & \\\\\n-970 & ab^2ce^2 & -50 & b^2c^3 & \\\\\n+120 & ab^2d^2e & \\\\\n+264 & ab^2cdf & \\\\\n+2480 & ab^2de & \\\\\n-1440 & abcd^3 & \\\\\n-192 & ab^2ef & \\\\\n-960 & ac^3e & \\\\\n+640 & ac^3d^2 & \\\\\n-160 & b^3df & \\\\\n+450 & b^3e^2 & \\\\\n-1400 & b^3ede & \\\\\n+800 & b^3ef & \\\\\n+120 & b^3cef & \\\\\n+600 & b^3c^2e & \\\\\n-400 & b^3c^2d^2 & \\\\\n\\end{array}\n\\]\n\n\\(X(\\theta, 1)^5.\\)\n\n21. I remark, with respect to the equation in \\(\\theta\\), for the cubic, that it leads at once to the equation of differences. In fact we have\n\n\\[a^3\\theta^3 + 9(ac-b^2)\\theta + \\sqrt{-27}\\Delta = \\Pi_3\\{\\theta-(\\alpha-\\beta)\\},\\]\nwhence changing the sign of $\\theta$,\n\n$$a^3\\theta^3 + 9(ac - b^2)\\theta - \\sqrt{-27} = \\Pi_3\\{\\theta + (a - \\beta)\\};$$\n\nor multiplying the two equations and putting $u$ for $\\theta^3$,\n\n$$u\\{a^3u + 9(ac - b^2)\\}^2 + 27 = \\Pi_3\\{u - (a - \\beta)^3\\},$$\n\nthat is, the equation of differences is\n\n$$a^4u^3 + 18(ac - b^2)a^2u^3 + 81(ac - b^2)^2u + 27 = 0;$$\n\nbut this mode of composition of the equation of differences is peculiar to the case of the cubic.\n\nIf in the several equations in $\\theta$ we substitute for the seminvariants the covariants to which they respectively belong, we obtain as follows:\n\n22. For the cubic equation $(a, b, c, d)(v, 1)^3 = 0$, the equation for $(\\Omega = (\\beta - \\gamma)(x - ay))$ is\n\n$$U^2 \\times \\begin{array}{c|c|c|c}\n+1 & 0 & H & +1 \\\\\n\\end{array} \\times \\begin{array}{c}\n9 \\times \\\\\n\\end{array} \\times \\begin{array}{c}\n\\sqrt{-27} \\times \\\\\n\\end{array} \\times \\begin{array}{c}\n(\\Omega, 1)^3 = 0.\n\\end{array}$$\n\n23. For the quartic equation $(a, b, c, d, e)(v, 1)^4 = 0$, the equation for\n\n$$S = (\\beta - \\gamma)(\\gamma - \\delta)(\\delta - \\beta)(x - ay)^3$$\n\nis\n\n$$U^6 \\times \\begin{array}{c|c|c|c|c}\n+1 & 96U^3 \\times & 512\\sqrt{\\Delta} \\times & 256\\Delta \\times \\\\\n-3JU & -\\Phi & +1 \\\\\n+2IH &\n\\end{array} \\times \\begin{array}{c}\n(\\Omega, 1)^4 = 0.\n\\end{array}$$\n\n24. And for the quintic equation $(a, b, c, d, e, f)(v, 1)^5 = 0$, the equation for\n\n$$S = (\\beta - \\gamma)(\\beta - \\delta)(\\beta - \\varepsilon)(\\gamma - \\delta)(\\gamma - \\varepsilon)(\\delta - \\varepsilon)(x - ay)^3$$\n\nis\n\n$$U^{12},$$\n\n$$0,$$\n\n$$625U^6(A, B, C, D, E, F, G)(x, y)^6,$$\n\n$$12500\\sqrt{\\Delta}U^3\\{4U(No. 14)^2 - U(No. 20) - 50(No. 15)(No. 16)\\},$$\n\n$$15625\\Delta\\{-3U^2(No. 14) + 25(No. 15)^2\\},$$\n\n$$76125\\Delta\\sqrt{\\Delta}$$\n\nwhere the covariant which enters into the coefficient of $\\Omega^3$ being of the sixth degree in the coefficients, is not given in the Tables.\n\nIts value (completed for me, from the first term, by Mr. Davis) is\nIn the following two Annexes, the notation of the symmetric functions is the same as in my \"Memoir on the Symmetric Functions of the Roots of an Equation*,\" and the values of the symmetric functions are taken from that memoir, the powers of \\(a\\) being restored by the principle of homogeneity. The suffixes of the \\(\\Sigma\\) indicate the number of terms in the sum; thus in the first Annex \\(\\Sigma_3\\gamma(\\beta-\\gamma)(\\gamma-\\alpha) = \\Sigma_3(\\beta\\gamma^2 - \\alpha\\beta\\gamma - \\gamma^3 + \\alpha\\gamma^2)\\); the terms \\(\\Sigma_3(\\beta\\gamma^2 + \\alpha\\gamma^2)\\) are equal to \\(\\Sigma_6\\alpha^2\\beta\\), the complete symmetric function; the correct result will be obtained (though of course neither of these equations is true) by writing \\(\\Sigma_3\\beta\\gamma^2 = \\frac{1}{2}\\Sigma_6\\alpha^2\\beta\\), \\(\\Sigma_3\\alpha\\gamma^2 = \\frac{1}{3}\\Sigma_6\\alpha^2\\beta\\), and so in similar cases; the insertion of the suffix to the \\(\\Sigma\\) very much facilitates the calculation, and is a check on its accuracy.\n\nAnnex No. 1, containing the calculation of the equation \\(\\Pi_3(\\theta - \\theta_1) = 0\\), where\n\n\\[\n\\theta_1 = \\beta\\gamma(\\beta - \\gamma), \\quad \\theta_2 = \\gamma\\alpha(\\gamma - \\alpha), \\quad \\theta_3 = \\alpha\\beta(\\alpha - \\beta),\n\\]\n\n\\(a, b, c, d, v, 1\\) being the roots of the cubic equation \\((a, b, c, d, v, 1)^3 = 0\\).\n\nWe have\n\n\\[\n\\Sigma_3\\theta_1 = \\Sigma_3\\beta\\gamma(\\beta - \\gamma) = -(\\alpha - \\beta)(\\beta - \\gamma)(\\gamma - \\alpha) = \\frac{1}{a^2} \\sqrt{-Z},\n\\]\n\nwhere \\(Z = 27a^2d^2 + \\&c.\\) is the discriminant of the cubic.\n\n\\[\n\\Sigma_3\\theta_1\\theta_2 = \\Sigma_3\\beta\\gamma(\\beta - \\gamma)\\gamma\\alpha(\\gamma - \\alpha) = \\alpha\\beta\\gamma\\Sigma_3(\\beta - \\gamma)(\\gamma - \\alpha),\n\\]\n\nwhere \\(\\alpha\\beta\\gamma = -\\frac{d}{a}\\) and\n\n\\[\n\\Sigma_3\\gamma(\\beta - \\gamma)(\\gamma - \\alpha) = \\Sigma_3(\\beta\\gamma^2 - \\alpha\\beta\\gamma - \\gamma^3 + \\alpha\\gamma^2)\n\\]\n\n* Philosophical Transactions, vol. cxlvii. (1857) pp. 415-456.\n\\[ \\Sigma_3 \\alpha^3 = - (3) = \\frac{1}{a^2} \\left( 3a^2d - 3abc + 1b^3 \\right) \\]\n\\[ + \\Sigma_6 \\alpha^2 \\beta + (21) + 3a^2d - 1abc \\]\n\\[ - 3a\\beta\\gamma - 3(13) + 3a^2d \\]\n\\[ = \\frac{1}{a^2} (9a^2d - 4abc + 1b^3), \\]\n\nand therefore\n\n\\[ \\Sigma_3 \\theta_1 \\theta_2 = - \\frac{1}{a^3} (9a^2d^2 - 4abcd + 1b^3d). \\]\n\nAnd lastly,\n\n\\[ \\Sigma_1 \\theta_1 \\theta_2 \\theta_3, \\text{ or } \\theta_1 \\theta_2 \\theta_3 = \\alpha^2 \\beta^2 \\gamma^2 (\\alpha - \\beta)(\\beta - \\gamma)(\\gamma - \\alpha) \\]\n\\[ = - \\alpha^2 \\beta^2 \\gamma^2 \\xi^4(\\alpha, \\beta, \\gamma) \\]\n\\[ = - \\frac{d^2}{a^4} \\sqrt{-Z}. \\]\n\nSo that the equation is the one given above, No. 7.\n\nAnnex No. 2, containing the calculation of the equation \\( \\Pi_4(\\theta - \\theta_1) = 0 \\), where\n\n\\[ \\theta_1 = \\beta \\gamma \\delta \\xi^4(\\beta, \\gamma, \\delta), \\quad \\theta_2 = - \\gamma \\delta \\alpha \\xi^4(\\gamma, \\delta, \\alpha), \\quad \\theta_3 = \\delta \\alpha \\beta \\xi^4(\\delta, \\alpha, \\beta), \\quad \\text{and} \\quad \\theta_4 = - \\alpha \\beta \\gamma \\xi^4(\\alpha, \\beta, \\gamma), \\]\n\n\\( \\alpha, \\beta, \\gamma, \\delta \\) being the roots of the quartic equation \\((a, b, c, d, e, v, 1)^4 = 0\\).\n\n\\[ \\Sigma_4 \\theta_1 = * \\Sigma_4 \\beta \\gamma \\delta \\xi^4(\\beta, \\gamma, \\delta) = - (\\alpha - \\beta)(\\alpha - \\gamma)(\\alpha - \\delta)(\\beta - \\gamma)(\\beta - \\delta)(\\gamma - \\delta) \\]\n\\[ = - \\xi^4(\\alpha, \\beta, \\gamma, \\delta) \\]\n\\[ = \\frac{1}{a^3} \\sqrt{Z}, \\]\n\nwhere \\( Z = 256a^3e^3 + \\&c. \\) is the discriminant of the quartic.\n\n\\[ \\Sigma_6 \\theta_1 \\theta_2 = \\Sigma_6 \\theta_2 \\theta_3 = \\Sigma_6 \\delta \\alpha \\beta \\xi^4(\\delta, \\alpha, \\beta) \\times - \\alpha \\beta \\gamma \\xi^4(\\alpha, \\beta, \\gamma) \\]\n\\[ = \\Sigma_6 \\delta \\alpha \\beta (\\delta - \\alpha)(\\delta - \\beta)(\\alpha - \\beta) \\times - \\alpha \\beta \\gamma (\\alpha - \\beta)(\\alpha - \\gamma)(\\beta - \\gamma) \\]\n\\[ = - \\alpha \\beta \\gamma \\delta \\Sigma_6 \\alpha \\beta (\\alpha - \\beta)^2 (\\alpha - \\gamma)(\\alpha - \\delta)(\\beta - \\gamma)(\\beta - \\delta), \\]\n\nwhere \\( \\alpha \\beta \\gamma \\delta = - \\frac{e}{a^2} \\) and\n\n* The signs of \\( \\theta_1, \\theta_2, \\theta_3, \\theta_4 \\) are taken account of implicitly.\nOF THE DIFFERENCES OF THE ROOTS OF A GIVEN EQUATION.\n\n\\[ \\sum_6 \\alpha \\beta (\\alpha - \\beta)^3 (\\alpha - \\gamma)(\\alpha - \\delta)(\\beta - \\gamma)(\\beta - \\delta) \\]\n\n\\[ = \\sum_6 \\alpha^3 \\beta^3 (\\alpha - \\beta)^2 \\{ \\alpha^2 \\beta^2 - \\alpha \\beta (\\alpha + \\beta)(\\gamma + \\delta) + (\\alpha^2 + \\beta^2) \\gamma \\delta + \\alpha \\beta (\\gamma + \\delta)^2 - \\gamma \\delta (\\alpha + \\beta)(\\gamma + \\delta) + \\gamma^2 \\delta^2 \\} \\]\n\n\\[ = \\sum_6 \\alpha^3 \\beta^3 (\\alpha - \\beta)^2, \\text{ viz.} \\quad \\sum_{12} \\alpha^5 \\beta^3 \\]\n\n\\[ - 2 \\sum_4 \\alpha^4 \\beta^4 \\]\n\n\\[ - \\sum_6 \\alpha^2 \\beta^2 (\\alpha - \\beta)^2 (\\alpha + \\beta)(\\gamma + \\delta), \\text{ viz.} \\quad - \\sum_{24} \\alpha^5 \\beta^3 \\gamma \\]\n\n\\[ + \\sum_{24} \\alpha^5 \\beta^3 \\gamma \\]\n\n\\[ + \\alpha \\beta \\gamma \\delta \\sum_6 (\\alpha - \\beta)^3 (\\alpha^2 + \\beta^2), \\text{ viz.} \\quad + \\frac{e}{a} \\sum_4 \\alpha^4 \\]\n\n\\[ - 2 \\sum_4 \\alpha^3 \\beta \\]\n\n\\[ + 2 \\sum_8 \\alpha^2 \\beta^2 \\]\n\n\\[ + \\sum_6 \\alpha^2 \\beta^2 (\\alpha - \\beta)^2 (\\gamma + \\delta)^2, \\text{ viz.} \\quad + 2 \\sum_{12} \\alpha^5 \\beta^3 \\gamma^2 \\]\n\n\\[ - 2 \\sum_{12} \\alpha^4 \\beta^3 \\gamma^2 \\]\n\n\\[ + 2 \\sum_{12} \\alpha^3 \\beta^3 \\gamma^2 \\]\n\n\\[ - 2 \\sum_{12} \\alpha^2 \\beta^2 \\gamma^2 \\]\n\n\\[ - \\alpha \\beta \\gamma \\delta \\sum_6 (\\alpha - \\beta)^3 (\\alpha + \\beta)(\\gamma + \\delta), \\text{ viz.} \\quad - 2 \\sum_{12} \\alpha^5 \\beta^3 \\gamma \\]\n\n\\[ + 2 \\sum_{12} \\alpha^5 \\beta^3 \\gamma \\]\n\n\\[ + \\alpha \\beta \\gamma \\delta \\sum_6 (\\alpha - \\beta)^3 \\gamma \\delta, \\text{ viz.} \\quad + \\frac{e}{a} \\sum_{12} \\alpha^2 \\beta^3 \\gamma \\delta \\]\n\n\\[ - 12 \\frac{e^2}{a^3} \\]\n\nwhere for a moment \\( a \\) is put equal to unity.\n\nThe value of the last-mentioned expression is then calculated as follows:\n\n| \\( e^2 \\) | -4 | -12 | -8 | -8 | -8 | -8 | -12 | -8 | -4 | -12 | -12 | = | -96 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| \\( bde \\) | +1 | +16 | +10 | +10 | +2 | +12 | +2 | +4 | +3 | = | +60 |\n| \\( c^2e \\) | +8 | +8 | +4 | +8 | +4 | +6 | +4 | +2 | = | +40 |\n| \\( b^2ce \\) | -9 | -8 | -11 | -1 | -4 | -12 | -2 | = | -47 |\n| \\( b^3e \\) | +3 | +3 | +3 | = | +9 |\n| \\( cd^2 \\) | -7 | -8 | -5 | -1 | -4 | -2 | = | -27 |\n| \\( b^2d^2 \\) | +3 | -4 | +1 | -2 | +2 | = | 0 |\n| \\( bc^3d \\) | +6 | +8 | +3 | +1 | = | +18 |\n| \\( b^3cd \\) | -3 | -1 | = | -4 |\n| \\( c^4 \\) | -2 | -2 | = | -4 |\n| \\( b^2c^2 \\) | +1 | = | +1 |\n\nAnd restoring the powers of \\( a \\) by the principle of homogeneity, and putting\nwe have\n\n\\[ M = \\begin{bmatrix}\n+96 & a^3e \\\\\n-60 & a^2bd \\\\\n-40 & a^2ce \\\\\n+27 & ab^2d \\\\\n+47 & ab^2ce \\\\\n-18 & abc^2d \\\\\n+4 & ac^4 \\\\\n-9 & b^4e \\\\\n+4 & b^3cd \\\\\n-1 & b^3c^2\n\\end{bmatrix} \\]\n\nNext,\n\n\\[ \\Sigma_{\\theta_1\\theta_2\\theta_3} = \\Sigma_{\\beta\\gamma\\delta\\zeta}(\\beta, \\gamma, \\delta) \\times -\\gamma\\delta\\alpha\\zeta(\\gamma, \\delta, \\alpha) \\times \\delta\\alpha\\beta\\zeta(\\delta, \\alpha, \\beta) \\]\n\n\\[ = \\Sigma_{\\beta\\gamma\\delta}(\\beta-\\gamma)(\\beta-\\delta)(\\gamma-\\delta) \\times -\\gamma\\delta\\alpha(\\gamma-\\delta)(\\gamma-\\alpha)(\\delta-\\alpha) \\times \\delta\\alpha\\beta(\\delta-\\alpha)(\\delta-\\beta)(\\alpha-\\beta) \\]\n\n\\[ = \\alpha^2\\beta^2\\gamma^2\\delta^2(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta)(\\beta-\\gamma)(\\beta-\\delta)(\\gamma-\\delta)\\Sigma_{\\alpha}(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta) \\]\n\n\\[ = \\alpha^2\\beta^2\\gamma^2\\delta^2(\\alpha, \\beta, \\gamma, \\delta)\\Sigma_{\\alpha}(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta) \\]\n\n\\[ = -\\frac{e^2}{a^2}\\sqrt{\\Sigma_{\\alpha}(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta)}, \\]\n\nand observing that\n\n\\[ (a, b, c, d, e, v, 1)^4 = a(v-\\alpha)(v-\\beta)(v-\\gamma)(v-\\delta), \\]\n\nand therefore\n\n\\[ 4av^3 + bv^2 + 2cv + d = a(v-\\beta)(v-\\gamma)(v-\\delta) + \\text{&c.}, \\]\n\nwhich, putting \\( v = \\alpha \\), gives\n\n\\[ 4a\\alpha^3 + 3b\\alpha^2 + 2c\\alpha + d = a(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta), \\]\n\nwe have\n\n\\[ \\Sigma_{\\alpha}(\\alpha-\\beta)(\\alpha-\\gamma)(\\alpha-\\delta) = \\frac{1}{a}(4a\\Sigma\\alpha^4 + 3b\\Sigma\\alpha^3 + 2c\\Sigma\\alpha^2 + d\\Sigma\\alpha) \\]\n\n\\[ = 4(4) + 3b(3) + 2c(2) + d(1), \\]\n\nwhere for a moment \\( a \\) is put equal to 1. This is calculated by\n\n|   |   |\n|---|---|\n| e | -16 |\n| bd | +16 |\n| c^2 | +8 |\n| b^2c | -16 |\n| b^4 | +4 |\n\nor restoring the powers of \\( a \\), and putting\n\n\\[ N = \\begin{bmatrix}\n-16 & a^3e \\\\\n+6 & a^2bd \\\\\n+4 & a^2c^2 \\\\\n-5 & ab^2c \\\\\n+1 & b^4\n\\end{bmatrix} \\]\nwe have\n\n\\[ \\Sigma_4 \\theta_1 \\theta_2 \\theta_3 = \\frac{1}{a^8} Ne^2 \\sqrt{Z}. \\]\n\nLastly,\n\n\\[ \\Sigma_1 \\theta_1 \\theta_2 \\theta_3 \\theta_4 \\text{ or } \\theta_1 \\theta_2 \\theta_3 \\theta_4 = \\alpha^2 \\beta^2 \\gamma^2 \\delta^2 \\zeta(\\beta, \\gamma, \\delta) \\zeta(\\gamma, \\delta, \\omega) \\zeta(\\delta, \\alpha, \\beta) \\zeta(\\alpha, \\beta, \\gamma) \\]\n\n\\[ = \\alpha^2 \\beta^2 \\gamma^2 \\delta^2 \\zeta(\\alpha, \\beta, \\gamma, \\delta) \\]\n\n\\[ = \\frac{\\epsilon^8}{a^8} Z, \\]\n\nand the equation \\( \\Pi_4 (\\theta - \\theta_i) = 0 \\) is thus found to be the one given above, No. 10.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108726.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 25456,
+    "total-output-tokens": 12948,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3021,
+        2
+      ],
+      [
+        3021,
+        5740,
+        3
+      ],
+      [
+        5740,
+        8108,
+        4
+      ],
+      [
+        8108,
+        9683,
+        5
+      ],
+      [
+        9683,
+        11350,
+        6
+      ],
+      [
+        11350,
+        12664,
+        7
+      ],
+      [
+        12664,
+        15039,
+        8
+      ],
+      [
+        15039,
+        17871,
+        9
+      ],
+      [
+        17871,
+        19783,
+        10
+      ],
+      [
+        19783,
+        21738,
+        11
+      ],
+      [
+        21738,
+        23694,
+        12
+      ],
+      [
+        23694,
+        25827,
+        13
+      ],
+      [
+        25827,
+        28292,
+        14
+      ],
+      [
+        28292,
+        30162,
+        15
+      ],
+      [
+        30162,
+        30725,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108726",
+    "title": "On the Equation for the Product of the Differences of All but One of the Roots of a Given Equation",
+    "authors": "Arthur Cayley",
+    "year": 1861,
+    "volume": "151",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/108726"
+  }
+}

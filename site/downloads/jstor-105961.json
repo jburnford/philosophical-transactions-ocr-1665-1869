@@ -1,0 +1,229 @@
+{
+  "id": "ffb6526fce26e3b7ca5a9db931585376b9263053",
+  "text": "XXXV. A Memoir concerning the most advantageous Construction of Water-Wheels, etc. by Mr. Mallet of Geneva. Communicated by M. Maty, M. D. Sec. R. S. Translated from the French, by J. Bevis, M. D. R. S. S. Read March 26, 1767.\n\n§ I THE stream of rivers is of such importance in moving machines of all kinds, that any attempt towards perfecting this part of mechanics may be considered as of very great utility.\n\nThe first wheel on which the stream acts is one of the most essential members of the machine, and it is easy to discern that the greater or less effect thereof must depend, in a great measure, on the manner of constructing this wheel, and on the dimensions given to it. I shall not at present inquire whether wheels of different constructions from those which have been long in use might be advantageously substituted in their stead; but confine myself, in this essay, to an examination of the most common ones, and to discover the means by which they may be made to produce the greatest possible effects. Their construction is very simple; they consist of several planes inserted into the same axle placed horizontally above the surface of the water, and in a position perpendicular to the stream. These planes, called float-\nFlat-boards, by yielding to the action of the stream, cause the axle on which they are fixed to turn round, by means of several wheels, which take into each other, and give motion to the part destined to produce some purposed effect, as the mill-stone in a corn-mill.\n\nThe size of the float-boards, the velocity with which the wheel is to turn, and the number of the float-boards to produce the greatest possible effect, are three main things I propose to examine in the following inquiry.\n\nIn the first place I will suppose the total resistance which this wheel has to encounter, on the part of the machine, and which hinders it from moving so swift as the stream, to be expressed by a weight $\\pi$, suspended to the extremity of a cord fixed to the circumference of a wheel whose radius is $d$, and which has the same axle as the float-board wheel, so that the effect of the stream is to raise the said weight $\\pi$, as expressed in Tab. XV. fig. 1. I will likewise suppose, that the stream, by its velocity, moves through $v$ feet in one second of time, and that this velocity is the same, though at different depths.\n\n§ II. After these suppositions, the first thing that presents, is to determine what should be the size of the float-boards for the stream to be capable of raising the weight $\\pi$ with a certain determinate velocity.\n\nLet AA BB, fig. 2, be one of the float-boards let into the axle AA, and placed vertically in the water, so as to receive the perpendicular impulse of the stream. Its horizontal length BB = $\\beta$ feet, its vertical height AB = $\\alpha$ feet, the velocity of the wheel\nwheel at the point B, such that it shall run through \\( z \\) feet in a second; \\( n \\) pounds the weight of a cubic foot of water; and I will suppose the impulse of the stream on a plane perpendicular to it is (as Dr. Daniel Bernoulli has stated in his Hydrodynamica) equal to the weight of a prism of water, whose base is the plane, and its altitude the generating height of the velocity with which the plane is impelled. This being supposed; let \\( AP = x \\), \\( Pp \\), its differential, \\( dx \\), which will give the velocity of the float-board at the point \\( p = \\frac{x}{z} \\), and the relative velocity of the stream with which the plane is impelled at the same point \\( = v - \\frac{x}{z} \\) whose generating height is \\( \\frac{(v - \\frac{x}{z})^2}{60} \\) feet, whence we have the weight of the parallelopiped of that height, and of the base \\( PP pp \\) equal to \\( \\frac{n\\beta dx}{60} (-v \\frac{x}{z})^2 \\) pounds, which weight multiplied by the length \\( AP (x) \\) of the lever which tends to turn the plane, will give \\( \\frac{n\\beta dx}{60} (v - \\frac{x}{z})^2 \\) for the total effect of the stream on the little rectangle \\( PP pp \\), whose integral is \\( \\frac{n\\beta}{60} \\int (vvx dx - \\frac{2}{3} vx \\cdot x^2 + \\frac{zz}{aa} x^3 dx) = \\frac{n\\beta}{60} \\left( \\frac{1}{3} vvxx - \\frac{2}{3} vx \\cdot x^2 + \\frac{1}{4} zz \\cdot x^4 - \\frac{1}{2} vvff + \\frac{2}{3} vz \\cdot f^2 - \\frac{1}{4} zzf^4 \\right) \\) (putting \\( AC = f \\) for the distance between the axle and the surface of the water when the float-board has only its part \\( CB \\) plunged in the water) which (putting \\( x = a \\)) will become \\( \\frac{n\\beta}{60} \\left( \\frac{1}{3} vv - \\frac{2}{3} vz + \\frac{1}{4} zz \\cdot aa - \\frac{1}{2} vvff + \\frac{2}{3} vzf^2 \\right) \\).\nand will express the effect on the whole plane CCBB, equal $\\pi d$, the product of the weight $\\pi$ by the length $d$ of the lever on which it acts in opposing the motion of the wheel.\n\n§ III. If the wheel be plunged as deep as its axle, that is, $f = 0$, the equation is changed into this\n\n$$\\frac{n \\beta \\alpha \\alpha}{60} \\left( \\frac{1}{4} vv - \\frac{2}{3} vz + \\frac{1}{4} zz \\right) = d \\pi,$$\n\nwhere it appears\n\n1°. That the quantities $d$, $\\pi$, $v$ and $z$ remaining the same, we have $\\beta$ inversely proportional to the square of $\\alpha$, whence it follows, that if the length $\\beta$ is to be diminished without altering the effect of the float-board, the height $\\alpha$ must be increased proportionally to the square root of $\\beta$; for example, if $\\beta$ is to be made four times less, it will be sufficient to double the height $\\alpha$. 2° That likewise the velocity of the float-board remaining the same, the weight $\\pi$ will be in the compound ratio of the length $\\beta$, and of the square of the height $\\alpha \\alpha$. 3° Without meddling with the dimensions of the float-board, the more the quantity $z$ is increased, the more must the weight $\\pi$ be diminished. If $z$ be made $= 0$, we have\n\n$$\\pi = \\frac{n \\beta \\alpha \\alpha}{60d} \\cdot \\frac{1}{4} vv,$$\n\nand if $z = v$ we have\n\n$$\\pi = \\frac{n \\beta \\alpha \\alpha}{60d} \\cdot \\frac{1}{4} vv,$$\n\nthat is six times greater than in the first case; which is very conformable to the nature of things, for when the wheel is in motion, the stream then not acting upon it but with the excess of its velocity above that of the wheel, it follows, that the greater such velocity is, the more will the effect of the stream be diminished.\nIt follows from our last remark, that the greatest weight with which the stream can constitute an equilibrium, will be \\( \\frac{n\\beta \\alpha \\alpha vv}{120d} \\), but then the wheel will not have any motion, nor consequently the weight \\( \\pi \\): If the float-board be increased, or the weight diminished, from that instant the wheel will begin to turn, and the swifter as the float-board is greater, or the weight less; but in most machines, it is required that the weight may be the greatest possible, as also the velocity with which it is raised. A question therefore here offers itself, whose solution is of much importance. What must be the velocity of the float-board whose dimensions are given, that the product of the weight by its velocity shall be the greatest possible?\n\n§ IV. The velocity of the weight \\( \\pi \\) is \\( \\frac{d}{a} z \\) feet in a second, which being multiplied by the value of \\( \\pi = \\frac{n\\beta \\alpha \\alpha}{60d} \\left( \\frac{1}{2} vv - \\frac{2}{3} vz + \\frac{1}{4} zz \\right) \\) will give the product \\( \\frac{n\\beta \\alpha}{60} \\left( \\frac{1}{2} v^2z - \\frac{2}{3} vz^2 + \\frac{1}{4} z^3 \\right) \\) which must be a maximum; for which purpose make \\( \\frac{1}{2} vvdz - \\frac{4}{3} vzdz + \\frac{3}{4} z^2 dz = 0 \\); whence we have \\( z = \\frac{8 - \\sqrt{10}}{9} = 0.53752v \\): this value of \\( z \\) being substituted, make the equation \\( \\frac{1}{2} vv - \\frac{2}{3} vz + \\frac{1}{4} zz = \\frac{11 + 2\\sqrt{10}}{81} vv \\), so that we have the equation \\( \\beta \\alpha \\alpha = \\frac{11 + 2\\sqrt{10}}{4860} + \\frac{d\\pi}{nvv} = 280.529 + \\frac{d\\pi}{nvv} \\), which expresses the dimensions of the float-board where the effect will be the greatest possible. If the float-board be plunged no deeper than to CC, as we have at first supposed, the most advantageous value of\nof \\( z \\) may be determined in the same manner, which will be found\n\n\\[\nz = \\frac{8a^4 - 8af^3 + a \\sqrt{10a^6 + 54a^4f^2 - 128a^3f^3 + 54a^2f^4 + 10f^6}}{9(a^4 - f^4)} v\n\\]\n\nIf \\( f = 0 \\), this value of \\( z = 0.537v \\)\n\n\\( f = 0.25 \\alpha = \\frac{1}{4} \\alpha. = 0.498v \\)\n\n\\( f = 0.3 \\alpha = 0.486v \\)\n\n\\( f = 0.5 \\alpha = \\frac{1}{2} \\alpha. = 0.436v \\)\n\n\\( f = 0.7 \\alpha = 0.390v \\)\n\n\\( f = 0.9 \\alpha = 0.353v \\)\n\n\\( f = \\alpha = 0.333v \\)\n\nBy the inspection of these different values it appears that this value of \\( z \\) diminishes as the plunged part is greater, and that this velocity can never exceed the quantity \\( 0.537v \\), nor be less than \\( \\frac{1}{3}v \\).\n\nThis value of \\( z \\) and of its square \\( zz \\) being substituted in the general formula (\\$ II.) we shall obtain from it the following equation:\n\n\\[\n\\frac{\\text{God } \\pi}{v \\beta vv} = \\frac{11a^6 - 27a^4f^2 + 32a^3f^3 - 27a^2f^4 + 11f^6 + 2(a^3 - af) \\sqrt{10a^6 + 54a^4f^2 - 128a^3f^3 + 54a^2f^4 + 10f^6}}{81(a^4 - f^4)}\n\\]\n\nwhich for a given relation between \\( f \\) and \\( \\alpha \\) will shew the breadth \\( \\beta \\) for producing the greatest effect.\n\n* If in the value of \\( z \\) we make \\( f = \\alpha \\), we have \\( z = 0 \\)\n\nwhich obliges us to take, according to the common method, the differentials of the numerator and of the denominator, considering \\( f \\) as variable, and the relation of these differentials will give the value of \\( z \\): but on account of the radical quantity, the calculus being somewhat tedious, and, again bringing out \\( z = 0 \\)\n\nand that after several similar operations, it is better to have recourse to the equation from which the value of \\( z \\) was deduced; this equation is \\( \\frac{3}{4} \\alpha vv \\cdot \\frac{a^3 - f^3}{a^4 - f^4} - \\frac{1}{2} \\alpha vv \\cdot \\frac{a^2 - f^2}{a^4 + f^4} \\), which by the above operation will be \\( \\frac{3}{4} zz = vv - \\frac{1}{4} vv \\), and \\( z = \\frac{1}{3} v \\).\nAs the extremity of the float-board must have a certain velocity depending on the relation of the height \\( \\alpha \\) to the plunged part, and as the velocity of the weight \\( \\pi = \\frac{d}{\\alpha} z \\), it follows that if we would increase the velocity of \\( \\pi \\), we must diminish the height \\( \\alpha \\) and increase the breadth \\( \\beta \\), so that the product \\( \\beta \\alpha \\) and the relation of \\( f \\) to \\( \\alpha \\) may be the same as before; for example, if the wheel be plunged as deep as the axle, to double the velocity of the weight, the height of the float-board must be reduced one half, and its breadth be quadrupled.\n\n§ V. It may so happen that the channel on which the wheel is placed shall be so shallow and narrow, as not to allow the float-boards the necessary dimensions, for raising the weight with a convenient velocity. In this case we are obliged to raise the axle of the wheel above the surface of the water, so much that the lever on which the stream acts may be long enough to recompense the smallness of the float-boards. Herein it is necessary to solve the following problem:\n\nThe breadth \\( b \\), and the height \\( a \\), of the float-board \\( AB \\) being given; to find the radius \\( CA (r) \\) of the wheel which shall cause the weight \\( \\pi \\) to ascend with the velocity \\( \\frac{d}{r + \\alpha} z \\).\n\nThe exact solution of this problem might be deduced from the formula (§ II.) which would render the operation tedious, the equation being of the fourth degree; but it may be rendered far more simple by a supposition which is but little wide of the truth when \\( AB \\) is but small in comparison of \\( CA \\), and this is to consider\nconsider all the points of the float-board \\( AB \\) as affected with the same velocity \\( z \\).\n\nLet \\( CP \\) fig. 3. \\( = x \\), we shall have \\( \\frac{nb}{60} (v - z)^2 f \\cdot x dx \\)\n\nfor the effect of the portion \\( AP \\), and \\( \\frac{nb}{60} (v - z)^2 \\times \\frac{2ar + aa}{2} \\) for the effect of the whole float-board \\( AB \\).\n\nThis quantity must be made equal to \\( d \\pi \\), and then, just as in the foregoing cases, such a value of \\( z \\) be sought, that the weight \\( \\pi \\) and its velocity may be the greatest possible; that is, the differential of \\( z (v - z)^2 \\) must be made \\( = 0 \\), which gives \\( z = \\frac{1}{3} v \\). Therefore \\( d \\pi = \\frac{nabuv}{270} (2r + a) \\), and \\( r = \\frac{270d\\pi - naabuv}{2nabuv} \\),\n\nand the velocity of the weight \\( \\pi \\) will be \\( = \\frac{2ndabuv}{810d\\pi + 3nbaav} \\times v \\).\n\n§ VI. We have seen that the calculus was much simplified by supposing one of the velocities constant for all points of the float-board. For this velocity being \\( c \\), the effect of the whole float-board will be simply \\( \\frac{n\\beta}{60} (vc)^2 \\frac{aa - ff}{2} \\). It will therefore not be useless to inquire what this velocity \\( c \\) must be, that the effect of the float-board may be the same, as supposing, as we have hitherto done, a variable velocity, and proportional to the distances from the axle, we have only to make \\( \\frac{n\\beta}{60} (v - c)^2 \\left( \\frac{aa - ff}{2} \\right) \\)\n\n\\( = \\frac{n\\beta}{60} \\left( \\frac{1}{2} vv (aa - ff) - \\frac{2}{3} vz \\frac{a^3 - f^3}{a} + \\frac{1}{4} zz \\frac{a^4 - f^4}{aa} \\right) \\)\n\n(§ IV.) but the equation whence we got the value of \\( z \\)\n\\[\n\\left( \\frac{1}{2} vv - \\frac{4}{3} \\frac{vz}{a^2} \\cdot \\frac{a^3 - f^3}{a^2 - f^2} + \\frac{1}{4} zz \\cdot \\frac{aa + ff}{aa} \\right) = 0,\n\\]\nwe shall have \\( c = v - \\sqrt{\\frac{1}{2} vv - \\frac{1}{4} zz \\cdot \\frac{aa + ff}{aa}} \\).\n\nIf \\( f = 0 \\), we have \\( zz = 0.288vv \\) and \\( c = 0.345v \\)\n\n\\( f = \\frac{1}{2} a \\) \\( zz = 0.190vv \\) \\( c = 0.336v \\)\n\n\\( f = a \\) \\( zz = \\frac{1}{5} vv \\) \\( c = \\frac{1}{3} v \\).\n\nso that whatever be the relation of \\( f \\) to \\( a \\), the velocity \\( c \\) is ever nearly \\( \\frac{1}{3} v \\), and the more exactly so, as \\( f \\) is greater.\n\nWherefore we may always assume \\( \\frac{n\\beta vv}{a^2} (aa - ff) = d\\pi \\) for the effect of the stream upon a float-board whose plunged part is \\( a - f \\); this effect will be increased in the ratio of 4 to 9, when the wheel has no motion, for making \\( c = 0 \\), we find it \\( = \\frac{1}{2} n\\beta vv (aa - ff) \\).\n\n§ VII. Hitherto we have all along supposed, that the float-board did through its whole plunged part receive the perpendicular impulse of the stream; but it is easily understood, that the wheel coming to turn, presents to the stream the plane of the float-board under an angle which is continually varying, which diminishes its effect every instant, as it removes from the vertical: This inconvenience may be remedied by multiplying the number of the float-boards, so that when the first is removed from the vertical as far as a certain point, the next may occupy that advantageous place, to be in its turn replaced some time after by a third, and so on. Now our third inquiry is, to assign the angle contained between two float-boards, or, which comes to the same, the number of float-boards the wheel should consist of, that its effect may be the greatest possible, being of no less importance than the preceding ones. To begin then with the most simple\nfimple case; we will suppose the wheel immoveable, or that \\( c = 0 \\), and proceed to investigate, whether, supposing the number of float-boards to be greater, the sum of the effects will come out greater or less than what results from one single float-board placed vertically.\n\nIn order to a general solution of this question, we will suppose two float-boards CD and CE fig. 4. making any angles with the vertical, and let us compare the effect of the single float-board GD with the effect resulting from the float-boards FE and GD taken together, which will be reduced to FE and OD, because the part OG becomes useless, as the stream is intercepted by FE. Let CB = CD = CE = \\( a \\), CA = \\( f \\), cosin. BCD = \\( m \\), cosin. BCE = \\( \\mu \\), which gives CG = \\( \\frac{f}{m} \\) CF = \\( \\frac{f}{\\mu} \\) and CO = \\( \\frac{\\mu}{m} a \\). Then we shall find, by § VI, the effect of GD = \\( \\frac{n \\beta vv}{120} (mmaa - ff) \\) that of OD = \\( \\frac{n \\beta vv}{120} (mmaa - \\mu \\mu aa) \\). and that of FE = \\( \\frac{n \\beta vv}{120} (\\mu \\mu aa - ff) \\); whence it appears, that the sum of the two last is exactly equal to the first, which will ever hold good whatever be the value of \\( f \\).\n\nWhence arises the following theorem:\n\nWhether the wheel be plunged quite up to the axle, or only in part so, provided it be immoveable, and that one of its float-boards be placed vertically, its effect will be constantly the same, whatever be the number of float-boards opposed to the stream, even though it were infinite.\nThe latter part of this theorem, though flowing from the general demonstration, may be also demonstrated immediately, in the following manner; Let BP fig. 5. be \\( x \\), we have \\( MO = \\frac{adx}{a-x} \\), and \\( CO = \\frac{xx - dx - ax}{a-x} \\); \n\n\\[\nCO = \\frac{\\alpha^4 - 2\\alpha^3x + \\alpha^2x^2 - 2\\alpha^3dx + 2\\alpha axdx}{\\alpha - 2\\alpha x + xx}\n\\]\n\nneglecting the \\( dx^2 \\) and \\( \\alpha - CO = \\frac{2\\alpha axdx}{\\alpha - v} \\); Therefore the effect of the stream upon OM, which is \\( = \\frac{n\\beta uv}{120} (\\alpha - CO) \\frac{CP^2}{CP} \\) will become \\( = \\frac{n\\beta uv}{120} (2\\alpha x - 2xdx) \\) whose integral is \\( = \\frac{n\\beta uv}{120} (2\\alpha x - xx) \\) wherein putting \\( x = a - f \\), we have \\( \\frac{n\\beta uv}{120} (\\alpha - ff) \\) for the total effect of the stream upon the wheel, which is the same as that of a single float-board A B in a vertical position.\n\n§ VIII. This theorem will also hold true for the case of § V. wherein we have supposed the height of the float-boards very small, in comparison of the radius of the wheel; we have seen that the effect of a single float-board placed vertically was \\( = nabuv (2r + a) \\); the demonstration of the preceding § will be applicable here after the same manner, and will shew that whatever be the number of float-boards, the effect will be ever the same.\n\nIt does not however follow that the number of float-boards should be indifferent; for the wheel coming to turn the float-board, its lower part, which received the perpendicular impulse, will no longer receive\nreceive it otherwise than obliquely, and the effect will diminish till the angle formed by two neighbouring float-boards be bisected exactly by the vertical, which will render the first entirely useless; after which the effect will increase anew, and will become again greatest, when the second float-board is got to the vertical; so that in order to fix upon the most advantageous number of float-boards, regard must be had to the sum of the different effects for all the situations of the float-boards during one whole turn of the wheel.\n\nWhence it follows that in this case, wherein they are supposed very small, the greater their number is, the greater will be the sum total of the effects, since, if that number were infinite, there would be a float-board in a vertical position every instant.\n\n§ IX. This will no longer hold good, if the height of the float-boards be more considerable, and it be found necessary to take the different velocity of their different points into consideration; by comparing (fig. 4.) the pressure on FE with that on the portion GO, they will be found no longer equal, as in the foregoing case; it is true that the same quantity of fluid acts on these two planes, and the disadvantage which FE has by receiving the impulse more obliquely, is exactly compensated, as before, by the length of the lever, but the difference arises from the different velocity of the corresponding points of FE and GO; those velocities are in the ratio of CF to CG, or as cos. ACG to cos. ACF, which shews that the effect of FE is always less than that of GO, and consequently the effect must be diminished, by adding a greater number of float-boards;\nthe said effect will be greatest when there is only one float-board placed vertically, and least when their number is infinite: let us enquire what it will be in this latter case. We will suppose the same fig. 5, and the same denominations as in § VII. We had \\( CO = \\frac{aa - ax - adx}{a-x} \\), we shall have (neglecting \\( dx^2, dx^3, \\) and \\( dx^4 \\)) \\( aa - CO^2 = \\frac{2aadx}{a-x}, \\)\n\n\\( \\frac{a^3 - CO^3}{a} \\), and \\( \\frac{a^4 - CO^4}{aa} = \\frac{4aadx}{a-x} \\). Now the pressure on OM is, by § II, \\( = \\frac{n\\beta}{120} \\frac{aa - x^2}{aa} (vv(aa - CO^2) - \\frac{4}{3} vz.\\frac{a^3 - CO^3}{a} + \\frac{1}{2} zz.a^4 - \\frac{CO^4}{aa}) \\)\n\nwhich (by putting for CO its value) will become \\( = \\frac{n\\beta}{120} (2aadx - 2xdx)(v - z^2) \\) whose integral \\( \\frac{n\\beta}{120} (2ax - xx)(v - z^2) = \\frac{n\\beta(v - z^2)}{120}(aa - ff) \\)\n\n(making \\( x = a - f \\)) will express the effect resulting from an infinite number of float-boards: this least effect will be to the greatest, that is when there is but one float-board, as \\( (v - z^2) : vv - \\frac{4}{3} vz.\\frac{3-f^3}{aa-ff} + \\frac{1}{2} zz.(aa + ff) \\) or as \\( (v - x^2) : \\frac{1}{2} vv - \\frac{1}{4} zz.\\left(\\frac{aa+ff}{aa}\\right) \\) § VI.\n\nThis ratio will be that of \\( 1 : 2 \\) if \\( f = 0 \\)\n\\( 1 : 1,485 \\) \\( f = \\frac{1}{2}a \\)\n\\( 1 : 1 \\) \\( f = a \\)\n§ X. If\n§ X. If we take nothing but the most advantageous position into consideration, and preserve the greatest effect entire, it follows that the angle BCD (fig. 6.) between two float-boards must be such that E should enter the water at the instant when A.B quits the vertical, so that the cosine of that angle be \\( \\frac{f}{a} \\); in consequence of which the following table may be constructed, shewing what the number of float-boards should be for a given ratio between \\( f \\) and \\( a \\).\n\nFor 4 float-boards, we have \\( f = 0 \\),\n\n\\[\n\\begin{align*}\n5 & : 0.3090a \\\\\n6 & : 0.5000a \\\\\n7 & : 0.6236a \\\\\n8 & : 0.7071a \\\\\n9 & : 0.7660a \\\\\n10 & : 0.8090a \\\\\n12 & : 0.8669a \\\\\n14 & : 0.9009a \\\\\n16 & : 0.9239a \\\\\n18 & : 0.9397a \\\\\n20 & : 0.9510a \\\\\n& \\text{&c.}\n\\end{align*}\n\\]\n\n§ XI. Certain authors treating of hydraulics, have in this part thereof given the same table, as containing the true number of float-boards the wheel should consist of: but we have seen upon what principle it was formed, and that it was only to preserve entirely the effect of the vertical float-board; from whence it follows not that the number of float-boards which it assigns should be the most advanta-\n\nVol. LVII. D d d\ngeous. To which purpose the effect produced from every position of the wheel, and for the different number of the float-boards, should be computed; the number which gives the arithmetical mean between all these effects, the greatest of all, will be that to be chosen, and preferred before what the above table indicates.\n\nIt may be sufficiently satisfactory to compute only the effect from 1 to 10 degrees. Thus, for example, for the wheel entirely plunged, we are to find the effect (fig. 7.)\n\n1° on OA, 2° on OI and gb, 3° on OH, and fc,\n4° on OG and hd, 5° on OF, and pe, 6° on OE,\n7° on OD, 8° on OC, and 9° on OB.\n\nAfter which the wheel returns into the same position it had at first; and we are to divide the sum of all these effects by 9, to get the arithmetical mean.\n\nWe will next suppose the number of six float-boards for the same case of \\( f = 0 \\), and compute the following effects.\n\n1° on OG + aA, 3° on OE + nc, 5° on OI + yC\n2° OF + mb, 4° OD 6° OH + BB.\n\nThe sum of all these effects divided by 6 will give the effect of the wheel of 6 float-boards.\n\nThe same thing, supposing the angle 40 degrees, or 9 float-boards, and as after a revolution of these 40 degrees, the wheel returns into a similar position, the same must be divided by 4.\n\nThen for an angle of 30 degrees we are to divide by 3, and so on.\nI have made this computation to great exactness, for the case of \\( f = 0 \\), \\( f = \\frac{1}{2} \\alpha \\), and \\( f = 0 \\), \\( 866 \\alpha = \\alpha \\cos 30^\\circ \\); the result,\n\n1° If \\( f = 0 \\):\nfor 4 float-boards, the arith. mean \\( = 0.335 \\) (\\( \\frac{1}{2} n \\beta \\alpha \\alpha \\nu \\nu \\)).\n\nIt may be observed in this first case, that there is some advantage in taking 6 float-boards instead of 4 shewn by the table; the effect will be increased in the ratio of 100 to 118, and yet will be more than about \\( \\frac{9}{10} \\) of the greatest effect above calculated for a single vertical float-board; so that the found dimensions must be a small matter altered, and the quantity \\( \\beta \\alpha \\alpha \\) increased by \\( \\frac{1}{10} \\).\n\n| Number of Floats | Mean Effect |\n|------------------|-------------|\n| 6                | 0.396 (etc.)|\n| 9                | 0.336 (etc.)|\n| 12               | 0.323 (etc.)|\n| 18               | 0.295 (etc.)|\n| an infinite number | 0.214 (etc.)|\n\n2° If \\( f = \\frac{1}{2} \\alpha \\).\nfor 6 flo.\n| Number of Floats | Mean Effect |\n|------------------|-------------|\n| 7                | 0.277 (etc.)|\n| 9                | 0.281 (etc.)|\n| 12               | 0.285 (etc.)|\n| 18               | 0.284 (etc.)|\n| an infinite number | 0.276 (etc.)|\n| an infinite number | 0.238 (etc.)|\n\nIn this second case 9 float-boards are to be taken instead of 6 shewn by the table, though the difference will be but very small; and we shall have an effect which will be \\( \\frac{8}{10} \\) of that of a vertical float-board, and in that ratio that the quantity \\( \\beta \\alpha \\alpha \\) found by the above formulæ, must be increased.\n\nD d d 2\n\n3° If\n3° If $f = 0.866a$\n\nfor 12 ft. $= 0.099$ (etc.)\n\n18 $= 0.099$ (etc.)\n\n36 $= 0.104$ (etc.)\n\nan infinite number $= 0.103$ (etc.)\n\nIn this third case the difference is still very small, and the effect resulting from 36 float-boards will be $\\frac{1}{10}$ of the effect of a single vertical float-board.\n\nXXXVI.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105961.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 19,
+    "total-input-tokens": 28228,
+    "total-output-tokens": 8322,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1239,
+        2
+      ],
+      [
+        1239,
+        1239,
+        3
+      ],
+      [
+        1239,
+        2848,
+        4
+      ],
+      [
+        2848,
+        4606,
+        5
+      ],
+      [
+        4606,
+        6320,
+        6
+      ],
+      [
+        6320,
+        8126,
+        7
+      ],
+      [
+        8126,
+        10061,
+        8
+      ],
+      [
+        10061,
+        11737,
+        9
+      ],
+      [
+        11737,
+        13386,
+        10
+      ],
+      [
+        13386,
+        15253,
+        11
+      ],
+      [
+        15253,
+        16772,
+        12
+      ],
+      [
+        16772,
+        18323,
+        13
+      ],
+      [
+        18323,
+        19988,
+        14
+      ],
+      [
+        19988,
+        21333,
+        15
+      ],
+      [
+        21333,
+        22530,
+        16
+      ],
+      [
+        22530,
+        23855,
+        17
+      ],
+      [
+        23855,
+        25533,
+        18
+      ],
+      [
+        25533,
+        25840,
+        19
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105961",
+    "title": "A Memoir concerning the Most Advantageous Construction of Water-Wheels, etc. by Mr. Mallet of Geneva. Communicated by M. Maty, M. D. Sec. R. S. Translated from the French, by J. Bevis, M. D. R. S. S. Read March 26, 1767",
+    "authors": "J. Bevis, M. Maty, Mr. Mallet",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 19,
+    "jstor_url": "https://www.jstor.org/stable/105961"
+  }
+}

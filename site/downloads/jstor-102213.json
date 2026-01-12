@@ -1,0 +1,59 @@
+{
+  "id": "093f11d1d4557cdaafed25c04a0248a6192d6667",
+  "text": "Southings, and the True High-Waters, for which reason I forbear it, till further Experience shall have informed us better.\n\nAn Observation of the Beginning of the Lunar Eclipse which hapned Aug. 19. 1681. in the Morning, made on the Island of St. Lawrence or Madagascar, by Mr. Tho. Heathcot, and communicated by Mr. Flamstead.\n\nMr. Heathcot was Chyrurgeon to a Ship which lay then at the bottom of a deep Bay on the Western Shore of the Island, and that part which the Portugese and our Maps call the Terra del Gada, he had with him then on Shore, a Quadrant of 2 Foot Radius, and a Telescope of 9 Foot, but no Clock; to supply which defect, he made a Pendulum of a String and a Bullet 39 Inches long, that each single Vibration might answer a Second of Time: Waiting the beginning of the Eclipse with his Glass, as soon as he saw the True Shadow enter on the Moons Limb, he caused his Friends, who assisted him, to make the Pendulum Vibrate, and count its Vibrations; of which they had numbred 140; of time when he took the height of Procyon (then East of the Meridian); the next day he observed the Suns Meridional height with the same Quadrant, whence he found the Latitude of that Place South, hence the time when he took the Height of Procyon is found 4 mane, and subtracting the past since the observed beginning of the Eclips, its\n\nTrue Beginning was at 4 48 40\nWhich at the Observatory, here, I noted at 1 50 40\ntherefore this part of Madagascar more easterly 2 58 00\nor 44 30, which our Maps make 52 gr; that is 7 1/2 gr more remote from it than it really is.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102213.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3090,
+    "total-output-tokens": 481,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1569,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102213",
+    "title": "An Observation of the Beginning of the Lunar Eclipse which Hapned Aug. 19. 1681. in the Morning, Made on the Island of St. Lawrence or Madagascar, by Mr. Tho. Heathcot, and Communicated by Mr. Flamstead",
+    "authors": "Mr. Flamstead, Tho. Heathcot",
+    "year": 1683,
+    "volume": "13",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102213"
+  }
+}

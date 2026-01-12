@@ -1,0 +1,69 @@
+{
+  "id": "ba0c52f5b46622551e4a87c86dc2196e8c1c3b97",
+  "text": "III. The Lunar Eclipse, Oct. 11, 1772, observed at Canton. Communicated by John Blake, Esq. of Parliament-Street.\n\nRedde, Nov. 4, 1772.\n\nTo John Blake, Esq. of Parliament-Street, Westminster.\n\nMY DEAR FATHER,\n\nWithin an hour after I closed my letter to you, by this ship, enclosing Astronomical Observations from Pekin, I received the enclosed observation, of the late Eclipse, made by a Jesuit here. An accident prevented their sealing the packet for a few hours; and Mr. Hume is now waiting only for this letter of mine to finally dispatch.\n\nCanton, Dec. 12, 1772.\nper ship Osterley.\n\nJ. B. Blake.\n\nI know nothing of the accuracy of the observation, as he is lately arrived here*.\n\n* And the time being taken only by a watch regulated by the sun the day before, the observation is not much to be depended on. Nevil Maskelyne.\n\nObservatio\nObservatio Lunaris Eclipseos habita Cantone,\ndie 11 Octobris, 1772.\n\nObservationem institui telescopio 6 palmarum:\ntempus adnotavi ostentium ab horologio parvo\nsecundorum, spirâ, a mago Arnold Londinensi elab-\norato, quod in meridie vero antecedente correxi;\nillius tamen fidelitatem examinare non potui in me-\nridie sequenti. Cælum erat omni ex parte limpi-\ndiffimum, et intentus expectabam penumbrae denfio-\nris adventum, quæ tamen valde tenuis apparuit,\nideoque initium non notavi.\n\nJam coeperat Eclipseis —— 10 54 26\nForsan 32'' citius fuisset.\nInitium verum —— 10 53 54\nImmersio —— 12 3 29\nMedium. —— 12 58 59\nEmercio —— 13 54 29\nFinis —— 15 4 4\n\nIV. Experiments",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105982.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4658,
+    "total-output-tokens": 586,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        840,
+        2
+      ],
+      [
+        840,
+        1507,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105982",
+    "title": "The Lunar Eclipse, Oct. 11, 1772, Observed at Canton. Communicated by John Blake, Esq. of Parliament-Street",
+    "authors": "J. B. Blake",
+    "year": 1774,
+    "volume": "64",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105982"
+  }
+}

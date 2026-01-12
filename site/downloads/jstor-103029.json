@@ -1,0 +1,69 @@
+{
+  "id": "b46251da8f230d090b9e56ac672027626320e88c",
+  "text": "THE\n\nPREFACE.\n\nThe Philosophical Transactions, (begun to be Published by that indefatigably diligent Promoter of Learned Correspondence, Mr. Oldenburgh, the first who attempted any thing of this Nature) having been sufficiently known to the Curious, and always acceptable to the Learned, when due care has been taken in the choice of the Collections so recommended to the inquisitive and intelligent Reader; a long Preface must appear wholly unnecessary.\n\nHowever, it may not be amiss to inform the Learned and Ingenious, of some Particulars of the present Publisher's Design:\n\nWhich is;\n\nFirst, To present the Publick with such Short Tracts, as might otherwise be lost to Posterity, if printed in single Sheets or Pamphlets.\n\nSecondly, To give the Extracts, for the most part, of the Material, omitting the Preambles and Conclusions, and the useless parts of such Letters as Correspondents shall please to honour him with, relating to the Improvement of Natural Philosophy, Mathematicks, or Mechanicks.\n\nThirdly, To give an exact account of such Experiments, as having been made before the Illustrious Royal Society, they shall please to order or permit the Publication of.\n\nFourthly,\nFourthly, To give, as Opportunity offers, the Abstracts or Accounts of such Books, relating to the Ends of the Royal Society's Institution, as the Authors shall please to communicate themselves; which shall be distinguished from others: or of such as are with difficulty to be procured in England, or extraordinary in their kind; upon which there shall sometimes be added some Remarks.\n\nTo this Undertaking the Publisher invites and desires all real Lovers of Knowledge to contribute their Assistance, by communicating their Observations, Discoveries, or Inventions; which shall not only be faithfully and duly Published, with due Acknowledgment; but some Returns made them, by Informations of what shall be thought acceptable to the Gentlemen, who shall think fit to entertain a Philosophical Correspondence: Who are desired, in any Tract or Discourse they shall so communicate, to omit all Personal Reflections; for if such should happen to be inserted, the Publisher shall take the liberty of leaving them out; it being his Opinion, that Disputes on Philosophical Subjects, may be managed with the utmost Candor, Respect and Friendship by the Disputants, whose only Aim ought to be the Search of Truth.\n\nThe Gentlemen willing to encourage this Undertaking, are desired to direct their Letters, To be left at the Royal Society's House, in Crane-Court, in Fleetstreet, London, for the Secretary of the ROYAL SOCIETY.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103029.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 643,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1186,
+        2
+      ],
+      [
+        1186,
+        2603,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103029",
+    "title": "The Preface",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103029"
+  }
+}

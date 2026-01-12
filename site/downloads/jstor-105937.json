@@ -1,0 +1,89 @@
+{
+  "id": "e5951b042a329597c480b269f38c0480c01a80e4",
+  "text": "earth, and as much fixed air as is contained in 2 $\\frac{1}{2}$ grains of calcareous earth.\n\nThe same quantity of water, from the pump in Hanover-square, contains $2 \\frac{1}{2}$ grains of unneutralized earth, with as much fixed air as is contained in $7 \\frac{1}{2}$ of earth.\n\nThe same quantity of water, from St. Martin's Church-yard, contains $3 \\frac{4}{5}$ grains of unneutralized earth, with as much fixed air as is contained in $8 \\frac{2}{5}$ of earth.\n\nReceived November 18, 1766.\n\nXII. Description of a Meteor seen at Oxford, October 12, 1766. In a Letter to Charles Morton, M.D. Sec. R.S. from the Rev. John Swinton, B.D. F.R.S. Member of the Academy degli Apatisti at Florence, and of the Etruscan Academy of Cortona in Tuscany.\n\nDear Sir,\n\nRead Feb. 26, 1767.\n\nTHE Reverend Dr. Sharp coming into Christ-Church common-room out of the great quadrangle, on Saturday, October 12, 1765, about 8h 30' P.M. informed the company there, that he had seen some remarkable Aurora Boreales a few minutes before. But, as such phenomena\nmena are common enough here, they gave little attention to the information. However, being upon the terrace, about $8^h\\ 45'$ P. M. I discovered (See Tab. V.*) a broad luminous arch, in the northern part of the hemisphere, extending from E. to W. almost terminated by the horizon, and somewhat less than a semicircle. The upper or exterior limb of this arch, together with a certain portion of the lucid adjoining tract, was white and resplendent; but the brightness gradually decreased as it approached the lower or interior limb, which was so fuscous and obscure, that it seemed scarce distinguishable from the clouds that were contiguous to it. For about five minutes, the lustre remained pretty strong and vivid, and the meteor without any visible change or variation; but, after the expiration of that short term, the arch began to grow faint, and in one or two minutes more, as near as I can guess, totally disappeared.\n\nHow long this meteor had been formed, when I first observed it, I cannot take upon me to say; but I believe it was then, and perhaps for some time had been, upon the decline. It was seen by the Reverend Mr. Selstone and the Reverend Mr. Best, chaplains of Christ-Church, as well as by other members of the University, not without some degree of wonder and surprize. The crepusculum, or illustration of the atmosphere, which sometimes precedes such meteors as that described here, and even continues long after their extinction, might perhaps have remained till ten or eleven o'clock; which if we admit, this crepusculum may not improbably be considered as the same phænomenon with \"the surprizing bright * luminous appearance visible at London in\n\n* Lloyd's Evening Post, &c. No. 1289. p. 365.\n\"the hemisphere from the East to the West, about ten o'clock, which lasted about an hour,\" the same night, or at least as something similar to it. In either of which cases, the atmosphere at London will be allowed to have been in a proper disposition for the production of this species of meteors, and impregnated with the same kind of luminous vapour that occasioned the phenomenon mentioned here.\n\nThe singularity of this meteor was fixed by the gradual and regular diminution of its resplendency between the upper and lower limbs, an instance of which I never observed before. This continued from the time I first discovered the arch almost to the very moment of its extinction. The limbs of the zone forming this arch were, however, very well defined; insomuch that the regularity of its figure, by the gradual decrease of brightness, was not in the least impaired. The evening was somewhat cloudy, but still and calm, and several of the stars appeared. As I have not met with a description of such a phenomenon, in any of the physiological papers consulted by me on this occasion; I have taken the liberty to transmit you the foregoing account of the meteor seen here, on Saturday, October 12, 1766, to be communicated to the Royal Society, hoping it may prove not altogether unacceptable to the members of that most learned and illustrious body. I am, with great regard,\n\nDear Sir,\n\nYour most obliged humble Servant,\n\nChrist-Church, Oxon.\nNov. 7, 1766.\n\nJohn Swinton.\nReceived",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105937.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7748,
+    "total-output-tokens": 1188,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1036,
+        2
+      ],
+      [
+        1036,
+        1036,
+        3
+      ],
+      [
+        1036,
+        2757,
+        4
+      ],
+      [
+        2757,
+        4239,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105937",
+    "title": "Description of a Meteor Seen at Oxford, October 12, 1766. In a Letter to Charles Morton, M. D. Sec. R. S. from the Rev. John Swinton, B. D. F. R. S. Member of the Academy Degli Apatisti at Florence, and of the Etruscan Academy of Cortona in Tuscany",
+    "authors": "John Swinton",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105937"
+  }
+}

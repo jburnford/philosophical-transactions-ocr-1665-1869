@@ -1,0 +1,69 @@
+{
+  "id": "c72623e4cd8987440615a21fb0a4e2aa98d00f0d",
+  "text": "XXXVII. An Account of a new Die from the Berries of a Weed in South Carolina: In a Letter from Mr. Moses Lindo, dated at Charles Town, September 2, 1763, to Mr. Emanuel Mendez da Costa, Librarian of the Royal Society.\n\nRead Nov. 10, 1763. In August 1757, I observed the mocking bird fond of a berry, which grows on a weed called Pouck, represented to me as of a poisonous quality; the juice of this berry being a blooming crimson. I was several times inclined to try, if I could extract a die from it; yet the very thoughts of its quality prevented me from proceeding, till observing these birds to void their excrement of the same colour as the berry, on the Chinese rails in my garden, convinced me it was not of the quality represented. I therefore made a tryal in the following manner.\n\n1st. I ordered one of my negroes to gather me a pint of those berries, from which I extracted almost three quarters of a pint of juice, and boiled it with a pint of Bristol water, one quarter of an hour.\n\n2dly. I then took two pieces of flannel and numbered them 1 and 2, boiled them in a separate tin pot with alum a quarter of an hour, and rinced them in cold water.\n\n3dly. I then dipped the piece of flannel N° 1. into the pot, where the juice was, and left it to simmer five\nfive minutes, then took it out, and rinced it in cold water; when, to my surprize, I found a superior crimson dye fixed on the flannel than the juice of the berry.\n\n4thly. I then dipped the piece of flannel No. 2. in the same juice, and being desirous to clean my hands from the stain, which No. 1. had caused, I ordered some lime water to be brought me, such as we use to settle our indico, and found the colour of the stain change to a bright yellow. This unexpected change urged me to throw a wine glass-full of lime water into the pot, where the piece of flannel No. 2. was simmering; on which, all the juice, as well as the flannel, became of a bright yellow, by which I find alum fixed the crimson, and lime the yellow.\n\n5thly. Having then put a quart of fresh juice in two pint decanters, in one of which I put a small quantity of powdered alum, I laid them up: about six weeks after, I then examined them, and found the juice in the decanter, which had no alum, was turned black, and the other retained its colour.\n\nXXXVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105726.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 675,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1270,
+        2
+      ],
+      [
+        1270,
+        2302,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105726",
+    "title": "An Account of a New Die from the Berries of a Weed in South Carolina: In a Letter from Mr. Moses Lindo, Dated at Charles Town, September 2, 1763, to Mr. Emanuel Mendez da Costa, Librarian of the Royal Society",
+    "authors": "Moses Lindo",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105726"
+  }
+}

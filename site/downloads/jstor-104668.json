@@ -1,0 +1,79 @@
+{
+  "id": "70b56e937874735cd8d935c19d690bbafb235749",
+  "text": "I. A Catalogue of the fifty Plants from Chelsea Garden, presented to the Royal Society, by the Worshipful Company of Apothecaries for the Year 1749, pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. et Societat. Reg. nuper Praef. by John Wilmer, M.D. Clariss. Societat. Pharmacut. Lond. Soc. Hort. Chelsean. Praefect. et Praelect. Botan.\n\nRead April 1351.\n\n26. 1750. A Conitum coeruleum seu napellus. S.C.B.P. 183.\n\n1352 Aconitum Pyrenaicum; ampliore folio tenuius laciniato. T. 424.\n\n1353 Adhatoda minor Canariensis. Pluk. Phyt. Fig. 1.\n\n1354 Apocynum majus Syriacum rectum. Cornut. 91.\n\n1355 Aristolochia, Pistolochia Cretica. C.B. 107.\n\n1356 Baccharis Africana; Coronopi folio. Vaill. Acad.\n\n1357 Barba Jovis Africana; foliis viridibus pinnatis; flore coeruleo. Boerh.\n\n1358 Blattaria alba. C.B. 241.\n\n1359 Bupleurum foliis lincaribus acutis sessilibus. Fl. Leyd.\n\n1360 Centaurea calicibus setaceo-spinosis, foliis lanceolatis petiolatis dentatis. Hort. Cliff.\n\n1361 Commelina foliis ovato-lanceolatis; petalis tribus majoribus aequalibus. Lin.\n\n1362 Convolvulus argenteus elegantissimus; foliis tenuiter incisis. Inst. R.H.\n\nF f f 1363\n1363 Convolvulus peregrinus pulcher; folio Betonicae. J.B.\n\n1364 Convolvulus Siculus minor; flore parvo auriculato. Boc. Rar.\n\n1365 Digitalis lutea major; parvo flore. Mor. Hist.\n\n1366 Dracocephalon Canariense triphyllon; Cedronella. H. Amstel.\n\n1367 Echium Creticum angustifolium rubrum. C.B. P. 255.\n\n1368 Emerus Americanus; siliquâ incurvâ. Inst. R.H.\n\n1369 Gallium saxatile minimum supinum et pumilum. Inst. R.H. 115.\n\n1370 Glaucium hirsutum; flore phœniceo. Tourn.\n\n1371 Glaucium Orientale; flore magno aureo. T.Corr.\n\n1372 Helleborus Fumariae foliis. Amman. Ruth. 74.\n\n1373 Hieracium calyce barbato. Col. Ec. 2. 27.\n\n1374 Jasminum Africanum; ilicis folio; flore albo. Com. Rar.\n\n1375 Linaria pumila; foliis carnosis; flosculis minimis flavis. C.B. 213.\n\n1376 Melilotus Italica; folliculis rotundis. C.B. P. 331.\n\n1377 Melissa Romana molliter hirsuta et graveolens. H.R. Par.\n\n1378 Milleria annua erecta; foliis conjugatis; floribus luteis spicatis. Houft.\n\n1379 Monarda floribus capitatis; caule obtuso. Hort. Cliff.\n\n1380 Myagrum filiculis sulcatis rugosis; foliis obtusis dentatis. Hort. Upsal.\n\n1381 Nardus Americana procerior; foliis caesisis. Pluk. Alm.\n1382 Obeliscotheca, Hydrophylli foliis, lobis latioribus. Vaill.\n1383 Obeliscotheca, Hydrophylli foliis, lobis angustioribus. ibid.\n1384 Oxys lutea. J.B. 388.\n1385 Partheniastrum Helenii folio. Hort. Elt.\n1386 Scrophularia, Ruta canina dicta, vulgaris: C.B. 236.\n1387 Scrophularia foliis, Filicis modo, laciniatis, vel Ruta canina latifolia.\n1388 Sideritis orientalis; Phlomidis folio. T.Cor.\n1389 Sinapisstrum Lusitanicum, triphyllum, flore rubro siliquis corniculatis.\n1390 Stachys alba. Michel.\n1391 Staphylodendron Virginianum triphyllum. T. 616.\n1392 Statice Lusitanica; Scorzoneræ folio. Inst. R. H. 341.\n1393 Tribulus terrestris; foliis Ciceris; fructu aculeato. C.B. P.\n1394 Thlaspi Virginianum Iberidis foliis amplioribus et serratis. Tourn.\n1395 Veronica coerulea; trifido et quinquefido folio. Fl. Bat.\n1396 Veronica petraea sempervirens. Pon. Bald.\n1397 Veronica Virginiana altissima; spica multiplice; floribus candidis.\n1398 Urtica foliis profunde laciniatis; semine lini. Amman.\n1399 Xylon Americanum praestantissimum; semine virescente. Lin.\n1400 Zacantha, sive Cichorium verrucarium. Matth. 505.\n\nF f f 2 II. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104668.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1502,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1152,
+        2
+      ],
+      [
+        1152,
+        2317,
+        3
+      ],
+      [
+        2317,
+        3444,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104668",
+    "title": "A Catalogue of the Fifty Plants from Chelsea Garden, Presented to the Royal Society, by the Worshipful Company of Apothecaries for the Year 1749, Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. et Societat. Reg. Nuper Praes. by John Wilmer, M. D. Clariss. Societat. Pharmaceut. Lond. Soc. Hort. Chelsean. Praefect. et Praelect. Botan",
+    "authors": "John Wilmer",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104668"
+  }
+}

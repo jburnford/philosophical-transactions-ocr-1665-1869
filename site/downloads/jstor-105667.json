@@ -1,0 +1,59 @@
+{
+  "id": "e43ebc500749b7744508a40d728ddefa9f337b1a",
+  "text": "LXXXIX. Observations on the same Eclipse; by Dr. Bevis.\n\nRead May 13, 1762.\n\nClerkenwell-Close, May 7, 1762.\n\nApparent time.\n\n14 8 0\n14 20\n\nDiscernible penumbra on the northeast part of the Moon's limb.\n\nThe beginning of the eclipse, by my bare eye; but doubtful to about a minute, from the dilute and uncertain termination of the true shadow.\n\nThe following phases were observed with a refracting telescope, of Dollond's construction, about 4 feet long, and much more exactly than the beginning.\n\n24 12 Shadow touches Grimaldi.\n26 45 Grimaldi all in the shadow.\n33 30 Shadow touches Plato.\n34 32 ———— touches Copernicus.\n43 33 ———— touches Mare serenitatis.\n\nAt Mr. Short's, before the eclipse.\n\nα Librae passed the meridian at\n\nMoon's first limb ditto\nSubsequent ditto\n\nClock.\n\n11 34 9\n11 45 42\n11 47 57½\n\nApparent time.\n\n11 30 47½\n11 42 30½\n11 44 46\n\nJ. Bevis.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105667.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 362,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        863,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105667",
+    "title": "Observations on the Same Eclipse; By Dr. Bevis",
+    "authors": "J. Bevis",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105667"
+  }
+}

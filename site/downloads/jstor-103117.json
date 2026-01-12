@@ -1,0 +1,59 @@
+{
+  "id": "601a4320a7f3f895286e375262540e157e1fe61d",
+  "text": "tity, the Parts above-named are unfit for the Natural discharge of their respective Offices, whence several dangerous Distempers must necessarily follow: He adds some Cases of this kind, which he has observed in the Dissection of morbid Bodies.\n\nAdvertisement.\n\nAll Persons who have any thing to communicate to the Royal Society, are desired to direct it to be left at their House in Crane-Court, in Fleet-street, London.\n\nLondon:\n\nPrinted for H. Clements at the Half Moon, and W. Innys at the Princes Arms, in St. Paul's Church-yard; and D. Brown at the Black Swan without Temple-Bar.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103117.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 195,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        585,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103117",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103117"
+  }
+}

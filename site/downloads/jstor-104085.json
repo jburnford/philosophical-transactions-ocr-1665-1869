@@ -1,0 +1,79 @@
+{
+  "id": "197552121f2dae44da24eeebe450c8e3c6027c63",
+  "text": "III. A Letter from Jacob de Castro Sarmento, M. D. and F. R. S. to Cromwell Mortimer, M. D. Secr. R. S. concerning Diamonds lately found in Brazil.\n\nSIR,\n\nHAVING an Opportunity of discoursing with a Gentleman recommended to me, that came from the Gold Mines in Brazil belonging to the King of Portugal, and brought many Diamonds of considerable Value, lately found in those Places, I thought proper to desire of him an Account of the same, being the fittest Person to describe every minute Circumstance of it, as one that has liv'd, and digg'd Gold there for these fifteen Years last past; and he having obliged me with the said Account, in the Portuguese Tongue, I think it will not be unacceptable to the Society, if you will be so good as to offer the Translation of it, which is as follows:\n\nIn the Prince's Town, Capital of the County do Serro do Frio, belonging to the Government of the Gold Mines, there is a Place near the said Town called by the Natives Cay the Merin, where they used to dig Gold for many Years, as also from a small River called do Milho Verde. The Miners that digg'd Gold in those Places did turn up the Ground and Sands of the Banks of the said River, to extract the Gold therefrom, and by so doing found several Diamonds, which\nwhich then they did not prize as such; for some of the Miners kept several Stones for their Figure and Curiosity, which Stones (though so valuable) by Length of Time they neglected and lost, and did the same till the Year 1728, at which Time one of the Miners lately coming to work there, and better acquainted, deemed them to be Diamonds, made Experiments upon them, and finding them really so, began to seek for them in the same Ground and Sand, where the former Miners had ignorantly left them, so did the rest of the People follow his Example.\n\nAfter they had thoroughly examined the Places aforesaid, they began to search for them in the River itself, and do actually find Diamonds there, but with more Trouble and Difficulty; for in the former Places they found them together among the Earth and Sand, as they lay; but in the River, as the Sand is more dispersed, they lie farther from one another.\n\nExperience and common Reason teaches the People there, that these Diamonds came from another Place by the Current of the Waters, and are not the natural Product of the Situation where they now are found.\n\nThey are using all possible Diligence to find out the Place where they grow. They have not yet discovered it; but their great Hopes are very much encouraged upon the Account of having near the said Situation several Mountains, where nothing is to be seen but fine solid Chryystal Rocks.\n\nThe Diamonds that have been found, are commonly from one Grain to six Carrats, some larger, and among these one of forty-five Carrats. The Colour, Solidity, and rest of their Properties are the same as the\nthe Oriental ones; only it was observed, that those Diamonds that lay more superficially, and exposed to the Air and Sun were more scurfy, and by Consequence lost more by polishing than the other.\n\nSIR,\n\nYour most obliged humble Servant,\n\nJacob de Sarmento.\n\nIV. Viri Celeberrimi Johannis Marchionis Poleni, R. S. S. ad virum Doctissimum Jacobum Jurinum, M. D. R. S. S. Epistola, qua continetur Summarium Observationum Meteorologicarum per sexennium Patavij habitarum.\n\nJam ante viginti ferme annos coeperam Meteorologicas Ephemerides ex observationibus meis, hic Patavij, conscribere; plures tamen in adversariis meis inerant lacunae (varias ob causas, praesertim quod saepe ab urbe abesse cogerer) visâ autem Invitatione tua, Ornatisse Vir, ad Observationes Meteorologicas communi consilio instituendas, quam Londini Anno hujusce seculi vigesimo quarto edidisti, rem in posterum diligenter curare institui ad exemplar, quod eadem in Invitatione dedisti; domesticamque sedulam",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104085.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6272,
+    "total-output-tokens": 1044,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1258,
+        2
+      ],
+      [
+        1258,
+        2863,
+        3
+      ],
+      [
+        2863,
+        3840,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104085",
+    "title": "A Letter from Jacob de Castro Sarmento, M. D. and F. R. S. to Cromwell Mortimer, M. D. Secr. R. S. concerning Diamonds Lately Found in Brazil",
+    "authors": "Jacob de Castro Sarmento",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104085"
+  }
+}

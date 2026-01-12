@@ -1,0 +1,69 @@
+{
+  "id": "082d1cde613fccc29451303be9e73ec53c839c86",
+  "text": "III. Observation of the Moon's Transit by Aldebaran, April 3, 1736, made at London by John Bevis, M.D.\n\nThe Glass inverting the Objects.\n\nApparent Time.\nH. M. S.\n7 40 00 The Moon's Body and Aldebaran seen together in the distinct Base of the Telescope.\n7 45 52 The Moon's southern Limb running along the parallel Thread, the western Limb came to the horary Thread.\n7 49 41 The Glass remaining fix'd, and Aldebaran running along the parallel Thread, (having the same Declination with the Moon's southern Limb) came to the Intersection of the Threads.\n8 13 04 The Moon again running along the Parallel, came to the horary Thread.\n8 15 50 Aldebaran (the Glass remaining fix'd) came to the first oblique Thread at c.\n8 15 54½ —to the horary Thread at b.\n8 15 59 —to the second oblique Thread at a.\nH. M. S.\n8 59 54 Aldebaran in the Line passing through\nthe Cusps, his nearest Distance from\nthe Moon's Body being somewhat\nless than the Length of Mare Cris-\ntium, or nearly $\\frac{1}{10}$ of the Moon's\nDiameter.\n\nMoons Visible Way\n\n7.49.51 8.15.50. 8.59.55",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103896.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 430,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        794,
+        2
+      ],
+      [
+        794,
+        1051,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103896",
+    "title": "Observation of the Moon's Transit by Aldebaran, April 3, 1736. Made at London by John Bevis, M. D.",
+    "authors": "John Bevis",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103896"
+  }
+}

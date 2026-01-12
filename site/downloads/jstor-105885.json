@@ -1,0 +1,89 @@
+{
+  "id": "b210362e3f9a61f923c3100574e05cec9079bb23",
+  "text": "XVI. A Letter from Captain Davies to John Ellis, Esquire, F. R. S. on a Method of preparing Birds for Preservation.\n\nS. I R,\n\nShooter's-Hill, 12th March, 1770.\n\nRead March 22, 1770.\n\nAs officers in his Majesty's army and navy have greatly the advantage in general, of most people (by means of their profession) of visiting different parts of the world, they have of course more frequent opportunities of meeting with many new and wonderful productions; which, though they do not pass altogether unheeded, are in a manner lost to mankind, for want of knowledge in the discoverer, of modes for preserving such things as may appear extraordinary or worth adding to the collections of the curious. I have therefore, for the advantage of the gentlemen of those professions, or any others, disposed to enlarge the funds of natural history already extant, (knowing no one labours more assiduously to add to the knowledge of the productions of nature than yourself), taken the liberty of sending you an account of a process for the preservation of birds, beasts, and other extraordinary productions of the animal world, which I have by a series of experi-\nexperiments, and variety of methods and compositions, found to answer better than any I have ever met with. A specimen of my own preservation I have also sent with this, in order for your inspection; and if you should think worth while, to communicate the same to the Royal Society, as by that means it may be published to the world, for the advantage of those who are desirous of adding fresh specimens to the collections of natural curiosities.\n\nThe Receipt is as follows:\n\nLet a bird, beast, or any such like production of nature, be procured, that has been well preserved in its death, either naturally or by shot, as those that intend making any tolerable collection must do. I would not recommend shooting them (birds in particular) with shot smaller than common partridge shot, or No. 5, and that at a considerable distance, to prevent their being torn with too great a number. Having procured a bird as aforesaid, let it be opened from the upper part of the breast, to the vent, with a sharp knife or pair of scissors, the feathers of the breast and belly being first carefully laid aside by the fingers, so as not to hinder the skin being easily come at. The skin must then be carefully loosened from all the fleshy parts of the breast, body, thighs, and wings; then cut off all the flesh from those parts, and take out also the entrails and all the inside: then, having got a composition of burnt alum, camphire, and cinnamon, of each an equal quantity, well powdered and mixt together, strew some of this powder lightly over the whole\nwhole carcase, but salt is by no means to be used with this composition, as it always will drop and nasty the plumage in moist weather; pour also into the body a small quantity of camphire dissolved in rectified spirits of wine; after that, fill up the cavity with fine cotton, or any soft woolly substance, pouring some of the aforesaid spirits into the cotton, or stuffing. Open next the mouth, and with a pair of scissors take away the tongue, the roof of the mouth, eyes, brains, and inside of the head; fill that also with the same composition; and having procured eyes as near the natural ones as possible, put them into the sockets by means of a small pair of nippers introduced at the mouth. The eyes will be best made by dropping drops of black sealing wax on a card of the size of the natural ones; the card must be cut something larger than the wax to prevent their falling out of the head. Fill the head quite full with cotton, pouring some of the spirits down the throat, with some of the powder; a small piece of brass wire, that has been heated in the fire to make it pliable, may be put down the throat, being passed through one of the nostrils, and fastened to the breast bone, to place the head in any attitude you choose; next fill up the body where the flesh has been taken away, with cotton and your composition; and, having a fine needle and silk, sew up the skin, beginning at the breast, observing, as you approach towards the vent, to stuff the skin as tight as it will bear. This will be easiest accomplished by means of a small piece of stick or ivory, like a skewer, till the whole is done: then lay your feathers of the breast and belly in their proper order, and your bird will be completed;\ncompleted. If you would choose to put it into an attitude, by introducing a small piece of the wire above-mentioned through the sole of each foot up the leg, and into the pinion of each wing, it may be disposed of as you please.\n\nA composition of sublimate mercury, tempered with some water, and rubbed gently over the feathers, will prevent insects, and other vermin, from destroying the plumage; but, as you have treated already very sufficiently on the sublimate composition, I shall conclude, with assuring you, I am,\n\nSIR,\n\nWith great esteem,\n\nyour most obedient and obliged humble servant,\n\nTho. Davies,\n\nCaptain Lieutenant of Artillery.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105885.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 1273,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1148,
+        2
+      ],
+      [
+        1148,
+        2694,
+        3
+      ],
+      [
+        2694,
+        4416,
+        4
+      ],
+      [
+        4416,
+        5059,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105885",
+    "title": "A Letter from Captain Davies to John Ellis, Esquire, F. R. S. on a Method of Preparing Birds for Preservation",
+    "authors": "Tho. Davies",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105885"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "510a05cfd45d55c2e9de2a1ce69cc6ee180e85b7",
+  "text": "Part of a Letter to one of the Secr. of the R. Society, from the Learned Dr Salomon Reiselius, Chief Physician to the Duke of Wirtemberg; concerning the Sipho Wirtembergicus Stutgardiae. 8. Oct. S. V. 1685.\n\nStatim atque vestras 4 Junii datas vidit Serenissimus Princeps meus; in quibus communicas Vestra Experimenta in Siphone Vitreo decem pedum; scire desideras quantum temporis sit duraturus Siphonis fluxus nostri; das consilium pro extrahendis bullulis in Siphone collectis, quae fluxum possint sufflaminare; speras Serenissimum Ducem passurum, ut & vobis & Orbi toti exponatur artificium Machinæ suæ: Jussit Typis manifestare secretam sui Siphonis structuram, inprimis postquam paulo ante rescivisset Socium aliquem vestrum ex mandato Societatis Regiae imitatum esse eodem effectus, & Phænomena sui Siphonis. Quod hisce jam Nundinis praeteritis Francofurtensibus factum esset, nisi prius voluisse in altitudinem & amplitudinem insignem & satis utilem elevare; quandoquidem à Vidua Jordani & alio Oculato Teste audivi, ipsum ad quinquaginta quatuor pedes in domo sua exaltasse cum fluxu & refluxu, cujus Vestigia ipse observavi, cum altitudinem metiri; quam vero altitudinem transcende re haec tenus propter varia impedimenta & negotia non dum fuit concessum.\n\nNe vero diutius Serenissimæ Societatis desiderium frustrarer, aut morarer, fateor excellentissimi Dni. Dris. Papin Siphonem ipsissimum esse Wirtembergicum, etiam cum recurvatione pedum factum; neque aliud esse mysterium ut Inventor ipse scripsit, in summitate, quam quod per infundibulum debeat impleri, sine qua imple tione non potest transfluere. Quod proxime Typis amplius\namplius confirmabitur, quia longum nimis esset & tædiosum hic omnia scribere.\n\nAest ut in praesenti ostendam me hactenus nonnihil laborasse circa Siphonis effectus; ecce inter Experimentandum, hoc quoque mihi occurrit; ut didicerim, quomodo in Vertice vel ad latera possit effluere; quod hactenus multi promiserere, vix quisquam effecit; sed quod Principi meo ferenissimo ostendi, & promittere audeo me in quavis possibile Elevatione & transfluxu velle exhaustire aquam in Summitate vel ad latera, in posterum aperiam, quando per plura experimenta tam altitudinis quam continuationis certior redditus fuero.\n\nQuid apud vos hactenus sit tentatum, & quoique sit progressus Dr. Papin, expecto à tua liberalitate: Interim per compendii modum vidi Papiniani Siphonis figuram & Descriptionem in mensa Majo Novellarum Reip. Literariæ Amsterodami excufarum, cui gratulor de tam felici imitamine, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102200.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 868,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1642,
+        2
+      ],
+      [
+        1642,
+        2533,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102200",
+    "title": "Part of a Letter to One of the Secr. of the R. Society, from the Learned Dr Salomon Reiselius, Chief Physician to the Duke of Wirtemberg; concerning the Sipho Wirtembergicus Stutgardiae. 8. Oct. S. V. 1685",
+    "authors": "Dr Salomon",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102200"
+  }
+}

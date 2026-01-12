@@ -1,0 +1,69 @@
+{
+  "id": "b7211389c7913bc07b5aff79f7eff23c6ba5907d",
+  "text": "IV. Extract of a Letter from F. J. H. Wollaston (dated Sydney College, Cambridge, February 24, 1784) to the Rev. Francis Wollaston, LL.B. F. R. S.\n\nRead December 14, 1786.\n\nI SEND you an account of a remarkable stream of light which appeared last night, from about 9 h. 5' to 9 h. 25', extending entirely across the hemisphere from W. to E. It rose from the horizon, about 10° S. of W., near δ and γ Ceti; thence ascended in a straight line, inclining a little S. to δ and ε Tauri, where it made an angle with its former course, and proceeded nearly in a vertical circle over β Aurigæ, η Ursæ majoris, by Cor Caroli to Arcturus, setting in the horizon about 20° N. of E. The light was steady, not undulating like Aurora; and as it converged towards the horizon at each end, had much the appearance which I conceive the tail of a comet must make whose nucleus is just in the horizon. That was particularly the case at the W. end, where it was brightest, growing gradually fainter towards the zenith; the E. part was nearly of the same brightness. The greatest breadth of the stream in the zenith was about equal to the distance between the Pointers in Ursa major. It disappeared gradually. When first I saw it, it did not incline so much towards\ntowards the S. at its W. end as afterwards; but rose directly up from δ Ceti to the zenith. I should like to know, whether this has been seen elsewhere, and in what direction. I remarked it, because I never saw a stream extend so steadily across the heavens. There was very little of Aurora in any other part of the sky; indeed what would not have been observed at all, had it not been for this stream.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106826.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 514,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1245,
+        2
+      ],
+      [
+        1245,
+        1647,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106826",
+    "title": "Extract of a Letter from F. J. H. Wollaston (Dated Sydney College, Cambridge, February 24, 1784) to the Rev. Francis Wollaston, LL.B. F. R. S.",
+    "authors": "F. J. H. Wollaston",
+    "year": 1790,
+    "volume": "80",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106826"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "175028ff77585a5451caf495bfcca8593ae7e94b",
+  "text": "Errata left uncorrected in Numb. 112.\n\nPag. 298. l. 33. r. first Emerion. p. 266. l. 14. for JKL r. ILK.\n\nErrata in Numb. 114.\n\nPag. 312. l. 7. r. your acceptance. p. 321. l. 21. r. many times over refuted. ibid.l. 26. r. those days. ibid.l. 35. enclose the words from that of hoping to that of America in a parenthesis, that the sense may go on coherently for what follows: p. 322. l. 3 J. B. Gent. is put for J. W. Gent. who wrote a large and very obliging Volum of Husbandry, entituled Systema Agriculture, or The Mystery of Agriculture discover'd, &c. in fol. publish't A. 1669. As for J. B. Gent; he wrote the Epitome there extracted.p. 324. l. 12. r. and when best.\n\nErrata in this Numb. 115.\n\nPag. 330. l. 20. r. lighter for higher.\n\nLondon, Printed by T.R. for John Martyn, Printer to the Royal Society. 1675.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101655.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 377,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        817,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101655",
+    "title": "Errata",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101655"
+  }
+}

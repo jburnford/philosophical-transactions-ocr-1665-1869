@@ -1,0 +1,59 @@
+{
+  "id": "3f315ff739030474ee30df6232c00b5ba9c254dc",
+  "text": "CONTENTS.\n\nX. Additional Remarks on the State in which Alcohol exists in fermented Liquors. By William Thomas Brande, Esq. F.R.S. p. 82\n\nXI. On a new Variety in the Breeds of Sheep. By Colonel David Humphreys, F. R. S. In a Letter to the Right Hon. Sir Joseph Banks, Bart. K. B. P. R. S. p. 88\n\nXII. Experiments to ascertain the coagulating Power of the Secretion of the gastric Glands. By Sir Everard Home, Bart. F. R. S. Communicated by the Society for promoting the Knowledge of Animal Chemistry. p. 96\n\nXIII. On some Properties of Light. By David Brewster, LL.D. F. R. S. Edin. In a Letter to Sir H. Davy, LL. D. F. R. S. p. 101\n\nXIV. An Appendix to Mr. Ware's Paper on Vision. By Sir Charles Blagden, F. R. S. p. 110\n\nXV. A Method of drawing extremely fine Wires. By William Hyde Wollaston, M. D. Sec. R. S. p. 114\n\nXVI. Description of a single-lens Micrometer. By William Hyde Wollaston, M. D. Sec. R. S. p. 119\n\nXVII. Observation of the Winter Solstice of 1812, with the Mural Circle at Greenwich. By John Pond, Esq. Astronomer Royal, F. R. S. p. 123\n\nXVIII. On the Tusks of the Narwhale. By Sir Everard Home, Bart. F. R. S. p. 126\n\nAPPENDIX.\n\nMeteorological Journal kept at the Apartments of the Royal Society, by Order of the President and Council.\n\nERRATUM.\n\nPage 50, line 4, for concave read convex.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107382.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 498,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1310,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107382",
+    "title": "Erratum: Observations Relative to the Near and Distant Sight of Different Persons",
+    "authors": null,
+    "year": 1813,
+    "volume": "103",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107382"
+  }
+}

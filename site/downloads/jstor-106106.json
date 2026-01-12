@@ -1,0 +1,179 @@
+{
+  "id": "ab306de55b89e3ab3654315f192f0b45f6fdcbd3",
+  "text": "XXXVI. A Disquisition concerning certain Fluents, which are assignable by the Arcs of the Conic Sections; wherein are investigated some new and useful Theorems for computing such Fluents: By John Landen, F. R. S.\n\nRead June 6, 1771.\n\nMr. Mac Laurin, in his Treatise of Fluxions, has given sundry very elegant Theorems for computing the Fluents of certain Fluxions by means of Elliptic and Hyperbolic Arcs; and Mr. D'Alembert, in the Memoirs of the Berlin Academy, has made some improvement upon what had been before written on that subject. But some of the Theorems given by those Gentlemen being in part expressed by the difference between an Arc of an Hyperbola and its Tangent, and such difference being not directly attainable, when such Arc and its Tangent both become infinite, as they will do when the whole Fluent is wanted, although such Fluent be at the same time finite; those Theorems therefore in that case fail, a computation thereby being then impracticable, without some farther help.\n\nThe supplying that defect I considered as a point of some importance in Geometry, and therefore I\nearnestly wished, and endeavoured, to accomplish that business; my aim being to ascertain, by means of such arcs, as above-mentioned, the Limit of the difference between the Hyperbolic Arc and its Tangent, whilst the point of contact is supposed to be carried to an infinite distance from the vertex of the curve, seeing that, by the help of that Limit, the computation would be rendered practicable in the case wherein, without such help, the before-mentioned Theorems fail. And having succeeded to my satisfaction, I presume, the result of my endeavours, which this Paper contains, will not be unacceptable to the Royal Society.\n\n1.\n\nSuppose the curve ADEF (Tab. XII. fig. 1.) to be a conic Hyperbola, whose semi-transverse axis AC is \\(= m\\), and semi-conjugate \\(= n\\).\n\nLet CP, perpendicular to the tangent DP, be called \\(p\\); and put \\(f = \\frac{m^2 - n^2}{2m}\\), \\(z = \\frac{p^2}{m}\\). Then (as is well known) will DP — AD be = the fluent of \\(-\\frac{1}{2} \\frac{m^2 z^2}{\\sqrt{n^2 + 2fz - z^2}}\\), \\(p\\) and \\(z\\) being each \\(= m\\) when AD is \\(= 0\\).\n\n2.\n\nSuppose the curve adefg (fig. 2.) to be a quadrant of an Ellipsis, whose semi-transverse axis cg is \\(= \\sqrt{m^2 + n^2}\\), and semi-conjugate ac \\(= n\\). Let\nct be perpendicular to the tangent dt, and let the abscissa cp be \\( n \\times \\frac{z}{m} \\). Then will the said tangent dt be \\( m \\times \\frac{mz - z^2}{n^2 + mz} \\); and the fluxion thereof will be found\n\n\\[\n= \\frac{1}{2} mn^2 z^{-\\frac{1}{2}} \\dot{z} \\times \\frac{m - z}{n^2 + mz} = \\frac{\\frac{1}{2} m^{\\frac{1}{2}} z^{\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}.\n\\]\n\n3.\n\nIn the expression \\( \\frac{yq^{-1}j}{a + by} \\times c + dy \\), let \\( \\frac{c + dy}{a + by} \\) be supposed \\( = z \\). Then will \\( \\frac{az - c}{d - bz} \\) be \\( = y \\), and the proposed expression will be\n\n\\[\n= \\frac{aa - bd}{az - c} \\times z^{-\\frac{1}{2}} \\dot{z}.\n\\]\n\n4.\n\nTaking, in the last article, \\( r \\) and \\( s \\) each \\( = \\frac{1}{2} \\), \\( q = \\frac{3}{2} \\), \\( a = -d = \\frac{n^2}{m} \\), \\( b = 1 \\), and \\( c = n^2 \\), we have\n\n\\[\n\\frac{y^{\\frac{1}{2}} j}{n^2 + y} \\times n^2 - \\frac{n^2}{m} y \\left( = \\frac{m^{\\frac{1}{2}} n^{-1} y^{\\frac{1}{2}} j}{\\sqrt{n^2 + 2fy - y^2}} \\right)\n\\]\n\n\\[\n= -mnz^{-\\frac{1}{2}} \\dot{z} \\times \\frac{m - z}{n^2 + mz}.\n\\]\nIt appears therefore, that, \\( y \\) being \\( = n^2 \\times \\frac{m - z}{n^2 + mz} \\),\n\n\\[\n\\frac{\\frac{1}{2} m^{\\frac{3}{2}} y^{\\frac{1}{2}} j}{\\sqrt{n^2 + 2fy - y^2}} - \\frac{\\frac{1}{2} m^{\\frac{3}{2}} z^{\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} \\text{ is}\n\\]\n\n\\[\n= \\frac{1}{2} mn^2 z^{-\\frac{1}{2}} \\dot{z} \\times \\frac{m - z}{n^2 + mz}^{\\frac{1}{2}} - \\frac{\\frac{1}{2} m^{\\frac{3}{2}} z^{\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}};\n\\]\n\nwhich, by Art. 2. is \\( = \\) the fluxion of the tang. d.t.\n\nConsequently, taking the fluents, by Art. 1. and correcting them properly, we find\n\n\\( DP - AD + FR - AF = L + dt. \\)\n\n\\( CP, \\) in fig. 1. being \\( = m^{\\frac{3}{2}} z^{\\frac{1}{2}}; \\) cp, in fig. 2. \\( = n \\times \\left[ \\frac{z}{m} \\right]^{\\frac{1}{2}}; \\)\n\n\\( CR, \\) perpendicular to the tangent \\( FR = m^{\\frac{3}{2}} y^{\\frac{1}{2}}; \\)\n\n\\( DP - AD = \\) the fluent of \\( \\frac{-\\frac{1}{2} m^{\\frac{3}{2}} z^{\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}; \\)\n\n\\( FR - AF = \\) the fluent of \\( \\frac{-\\frac{1}{2} m^{\\frac{3}{2}} y^{\\frac{1}{2}} j}{\\sqrt{n^2 + 2fy - y^2}}; \\)\n\nand \\( L \\) the Limit to which the difference \\( DP - AD, \\) or \\( FR - AF, \\) approaches, upon carrying the point \\( D, \\) or \\( F, \\) from the vertex \\( A \\) ad infinitum.\n\n5.\n\nSuppose \\( y \\) equal to \\( z, \\) and that the points \\( D \\) and \\( F \\) then coincide in \\( E, \\) the points \\( d \\) and \\( p \\) being at the same time in \\( e \\) and \\( q \\) respectively. Then \\( cv \\) being perpendicular to the tangent \\( ev, \\) that tangent will be a maximum and equal to \\( cg - ac = \\sqrt{m^2 + n^2} - n; \\) the tangent \\( EQ \\) (in the hyperbola) will be \\( = \\sqrt{m^2 + n^2}; \\) the\nthe abscissa BC = m \\sqrt{1 + \\frac{n}{\\sqrt{m^2 + n^2}}}; the ordinate BE = n \\times \\sqrt{\\frac{n}{\\sqrt{m^2 + n^2}}}; and it appears, that\n\nL is = 2EQ - 2AE - ev = n + \\sqrt{m^2 + n^2} - 2AE!\n\nThus the Limit which I proposed to ascertain is investigated, m and n being any right lines whatever!\n\n6.\n\nThe whole fluent of \\( \\frac{\\frac{3}{4}m^2z^{\\frac{3}{2}}\\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} \\), generated whilst \\( z \\) from o becomes = m, being equal to L; and the fluent of the same fluxion (supposing it to begin when \\( z \\) begins) being in general equal to \\( L + AD - DP = FR - AF - dt \\); it appears, that, \\( k \\) being the value of \\( z \\) corresponding to the fluent \\( L + AD - DP \\), \\( \\frac{mn^2 - n^2k}{n^2 + mk} \\) will be the value of \\( z \\) corresponding to the fluent \\( L + AF - FR \\), and \\( FR - AF \\) will be the part generated whilst \\( z \\) from \\( \\frac{mn^2 - n^2k}{n^2 + mk} \\) becomes = m. It follows therefore, that the tang. dt, together with the fluent of \\( \\frac{\\frac{3}{4}m^2z^{\\frac{3}{2}}\\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} \\) generated whilst \\( z \\) from o becomes equal to any quantity \\( k \\), is equal to the fluent of the same fluxion generated whilst \\( z \\) from \\( \\frac{mn^2 - n^2k}{n^2 + mk} \\) becomes = m; cp being taken = \\( n \\times \\left( \\frac{k}{m} \\right)^{\\frac{3}{2}} \\).\n\nSuppose\nSuppose \\( k = \\frac{m^2 - n^2}{n^2 + m} \\), its value will then be\n\n\\[\n\\frac{n}{m} \\sqrt{m^2 + n^2} - \\frac{n^2}{m}.\n\\]\n\nConsequently the fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}\n\\]\n\ngenerated whilst \\( z \\) from 0 becomes\n\n\\[\n= \\frac{n}{m} \\sqrt{m^2 + n^2} - \\frac{n^2}{m},\n\\]\n\ntogether with the quantity\n\n\\[\n\\sqrt{m^2 + n^2} - n,\n\\]\n\nis equal to the fluent of the same fluxion generated whilst \\( z \\) from\n\n\\[\n\\frac{n}{m} \\sqrt{m^2 + n^2} - \\frac{n^2}{m}\n\\]\n\nbecomes \\( = m \\): and these two parts of the whole fluent being denoted by \\( M \\) and \\( N \\) respectively;\n\n\\( M \\) will be \\( = n - AE \\), and \\( N = \\sqrt{m^2 + n^2} - AE \\).\n\n7.\n\nThe fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}\n\\]\n\nbeing \\( L + AD - DP \\),\n\nthe fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} + DP - AD - L \\]\nwill be \\( = a \\).\n\nTherefore, the fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}\n\\]\n\n+ the fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}\n\\]\n\nbeing \\( = \\) the fluent of\n\n\\[\n\\frac{1}{2} z^{-\\frac{1}{2}} \\dot{z} \\times \\frac{n^2 + mz}{m - z},\n\\]\n\nit is obvious, that the fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^2 z^{\\frac{3}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}\n\\]\n\nis\n\n\\[\n= DP - AD - L + \\text{the fluent of } \\frac{1}{2} z^{-\\frac{1}{2}} \\dot{z} \\times \\frac{n^2 + mz}{m - z} = DP\n\\]\n\\[ DP - AD - L + \\text{the elliptic arc } dg \\text{ (fig. 2.)} \\]\n\nwhose abscissa \\( cp \\) is \\( = n \\times \\frac{z}{m} \\).\n\nConsequently, putting \\( E \\) for \\( \\frac{1}{4} \\) of the periphery of that ellipse, it appears that the whole fluent of\n\n\\[\n\\frac{\\frac{1}{2} m^{-\\frac{1}{2}} n^{\\frac{1}{2}} z^{-\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}, \\text{ generated whilst } z \\text{ from } o \\text{ becomes } = m,\n\\]\n\nis equal to \\( E - L = E + 2AE - n - \\sqrt{m^2 + n^2} \\).\n\n8.\n\nBy taking, in Art. 3. \\( q, r, \\) and \\( s, \\) each \\( = \\frac{1}{2}; \\)\n\nand \\( a = -d = \\frac{n^2}{m}, b = 1, \\) and \\( c = n^2; \\) we find,\n\nthat, if \\( y \\) be \\( = \\frac{mn^2 - n^2 z}{n^2 + mz}, \\)\n\n\\[\n\\frac{z^{-\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} + \\frac{y^{-\\frac{1}{2}} \\dot{y}}{\\sqrt{n^2 + 2fy - y^2}}\n\\]\n\nwill be \\( = 0. \\)\n\nIt is obvious therefore, that the fluent of\n\n\\[\n\\frac{z^{-\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}, \\text{ generated whilst } z \\text{ from } o \\text{ becomes }\n\\]\n\nequal to any quantity \\( k, \\) is equal to the fluent of the same fluxion, generated whilst \\( z \\text{ from } \\frac{mn^2 - n^2 k}{n^2 + mk} \\text{ becomes } = m. \\)\n\nNow, supposing \\( k = \\frac{mn^2 - n^2 k}{n^2 + mk}, \\) its value will be\n\n\\[\n\\frac{n}{m} \\sqrt{m^2 + n^2} - \\frac{n^2}{m}.\n\\]\n\nConsequently, the fluent of\n\n\\[\n\\frac{z^{-\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}}, \\text{ generated whilst } z \\text{ from } o \\text{ becomes } = \\frac{n}{m} \\sqrt{m^2 + n^2} - \\frac{n^2}{m},\n\\]\nis equal to half the fluent of the same fluxion, generated whilst \\( z \\) from \\( o \\) becomes \\( = m \\); which half fluent is known by the preceding article.\n\n9.\n\nIt appears, by Ar. 4. that\n\n\\[\n\\frac{\\frac{1}{2} m^{\\frac{1}{2}} y^{\\frac{1}{2}} j}{\\sqrt{n^2 + 2fy - j^2}} + \\frac{\\frac{1}{2} m^{\\frac{1}{2}} z^{\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} \\text{ is } = \\text{the flux.of the tang.} dt;\n\\]\n\nand it appears, by the last article, that\n\n\\[\n\\frac{\\frac{1}{2} m^{-\\frac{1}{2}} n^{\\frac{1}{2}} y^{-\\frac{1}{2}} j}{\\sqrt{n^2 + 2fy - j^2}} + \\frac{\\frac{1}{2} m^{-\\frac{1}{2}} n^{\\frac{1}{2}} z^{-\\frac{1}{2}} \\dot{z}}{\\sqrt{n^2 + 2fz - z^2}} \\text{ is } = 0;\n\\]\n\n\\( mn^2 - n^2 y - n^2 z - myz \\) being \\( = 0 \\).\n\nTherefore, by addition, we have\n\n\\[\n\\frac{1}{2} y^{-\\frac{1}{2}} j \\times \\left( \\frac{n^2 + my}{m - y} \\right)^{\\frac{1}{2}} + \\frac{1}{2} z^{-\\frac{1}{2}} \\dot{z} \\times \\left( \\frac{n^2 + mz}{m - z} \\right)^{\\frac{1}{2}}\n\\]\n\n\\( = \\text{the fluxion of the tangent } dt. \\)\n\nConsequently, by taking the correct fluents, we find the tang. \\( dt \\) (\\( = \\) the tang. \\( fw \\)) \\( = \\) the arc \\( ad \\)—the arc \\( fg! \\) the abscissa \\( cp \\) being \\( = n \\times \\left( \\frac{z}{m} \\right)^{\\frac{1}{2}}, \\)\n\nthe abscissa \\( cr = n \\times \\left( \\frac{j}{m} \\right)^{\\frac{1}{2}}, \\) and their relation expressed by the equation \\( n^6 - n^4 u^2 - n^4 v^2 - m^2 u^2 v^2 = 0, \\) \\( u \\) and \\( v \\) being put for \\( cp \\) and \\( cr \\) respectively.\n\nMoreover, the tangents \\( dt, fw, \\) will each be \\( = \\frac{m^2 uv}{n^4}; \\)\n\nand \\( ct \\times cw = cv^2 = ac \\times cg. \\)\n\nIf for the semi-transverse axis \\( cg \\) we substitute \\( b \\) instead of \\( \\sqrt{m^2 + n^2}, \\) the relation of \\( u \\) to \\( v \\) will be expressed\nexpressed by the equation\n\n\\[ n^6 - n^4 u^2 - n^4 v^2 - \\frac{b^2}{n^2} \\times u^2 v^2 = 0, \\]\n\nand\n\n\\[ dt (= fw) \\text{ will be } \\frac{b^2}{n^3} \\times uv. \\]\n\nIf \\( u \\) and \\( v \\) be respectively put for \\( fr \\) and \\( dp \\), their relation will be expressed by the equation\n\n\\[ b^6 - b^4 u^2 - b^4 v^2 + \\frac{b^2}{n^2} \\times u^2 v^2 = 0, \\]\n\nand\n\n\\[ dt (= fw) \\text{ will be } \\frac{b^2}{n^3} \\times uv. \\]\n\n10.\n\nSuppose \\( y = z \\), (that is, \\( v = u \\)) and that the points \\( d \\) and \\( f \\) coincide in \\( e \\). In which case the tangent \\( dt \\) will be a maximum, and \\( = cg - ac \\).\n\nIt appears then that the arc \\( ae \\) — the arc \\( eg \\) is \\( = cg - ac \\).\n\nConsequently, putting \\( E \\) for the quadrant arc \\( ag \\), we find that the arc \\( ae \\) is \\( = \\frac{E + b - n}{2} \\),\n\nthe arc \\( eg = \\frac{E - b + n}{2} \\).\n\nThere are, I am aware, some other parts of the arc \\( ag \\), whose lengths may be assigned by means of the whole length (\\( ag \\)) with right lines; but to investigate such other parts is not to my present purpose.\n\n11.\n\nTaking \\( m \\) and \\( n \\) each \\( = 1 \\); that is, \\( ac (= AC) = 1 \\), and \\( cg = \\sqrt{2} \\); let the arc \\( ag \\) be then expressed\npressed by $e$: put $c$ for $\\frac{1}{4}$ of the periphery of the circle whose radius is $1$; and let the whole fluents of\n\n$$\\frac{\\frac{1}{2}z^{\\frac{3}{2}}}{\\sqrt{1 - z^2}} \\quad \\text{and} \\quad \\frac{\\frac{1}{2}z^{-\\frac{3}{2}}}{\\sqrt{1 - z^2}},$$\n\ngenerated whilst $z$ from $0$ becomes $= 1$, be denoted by $F$ and $G$ respectively. Then, by what is said above, $F + G$ will be $= e$; and, by my theorem for comparing curvilinear areas, or fluents, published in the Philos. Transact. for the year 1768, it appears that $F \\times G$ is $= \\frac{1}{2}c$. From which equations we find $F = \\frac{1}{2}e - \\frac{1}{2}\\sqrt{e^2 - 2c}$, and $G = \\frac{1}{2}e + \\frac{1}{2}\\sqrt{e^2 - 2c}$.\n\nBut $m$ and $n$ being each $= 1$, $L$ is $= F$; therefore $1 + \\sqrt{2} - 2AE$, the value of $L$, from Art. 5. is, in this case, $= \\frac{1}{2}e - \\frac{1}{2}\\sqrt{e^2 - 2c}$. Consequently, in the equilateral hyperbola, the arc $AE$, whose abscissa $BC$ is $\\sqrt{1 + \\frac{1}{\\sqrt{2}}}$, will be $= \\frac{1}{2} + \\frac{1}{\\sqrt{2}} - \\frac{1}{4}e + \\frac{1}{4}\\sqrt{e^2 - 2c}$, by what is said in the article last mentioned. Hence the rectification of that arc may be effected by means of the circle and ellipsis!\n\nThe application of these Improvements will be easily made by the intelligent Reader, who is acquainted with what has been before written on the subject. But there is a theorem (demonstrable by what is proved in Art. 8.) so remarkable, that I cannot conclude this disquisition without taking notice of it.\nLet \\( lpqn \\) (fig. 3.) be a circle perpendicular to the horizon, whose highest point is \\( l \\), lowest \\( n \\), and center \\( m \\): let \\( p \\) and \\( q \\) be any points in the semi-circumference \\( lpqn \\): draw \\( ps \\), \\( qt \\) parallel to the horizon, intersecting \\( lmn \\) in \\( s \\) and \\( t \\); and, having joined \\( lp \\), \\( pt \\), make the angle \\( lpv \\) equal to \\( ltp \\), and draw \\( rv \\) parallel to \\( qt \\), intersecting the circle in \\( r \\), and the diameter \\( lmn \\) in \\( v \\). Let a pendulum, or other heavy body, descend by its gravity from \\( p \\) along the arc \\( pqrn \\): the body so descending will pass over the arc \\( pq \\) exactly in the same time as it will pass over the arc \\( rn \\); and therefore, \\( qt \\) and \\( rv \\) coinciding when \\( lt \\) is equal to \\( lp \\), it is evident that the time of descent from \\( p \\) to \\( q \\) will then be precisely equal to half the time of descent from \\( p \\) to \\( n \\)!\n\nAnd it is farther observable, that, if \\( pqn \\) be a quadrant, the whole time of descent will be\n\n\\[\n\\left( \\frac{a}{b} \\right)^{\\frac{1}{2}} \\times \\frac{1}{2} e + \\frac{1}{2} \\sqrt{e^2 - 2c}; \\text{ the radius } lm, \\text{ or } mn,\n\\]\n\nbeing \\( = a \\); and \\( b \\) being put (for 16 feet) the space a heavy body descending freely from rest falls through in one second of time.\n\nIn general, \\( ns \\) being denoted by \\( d \\), and the distance of the body from the line \\( ps \\), in its descent, by \\( x \\), the fluxion of the time of descent will be expressed by\n\n\\[\n\\frac{\\frac{1}{2} ab^{-\\frac{1}{2}} x^{-\\frac{1}{2}} \\dot{x}}{\\sqrt{2ad - d^2 - 2a - 2d \\cdot x - x^2}};\n\\]\n\nthe fluent whereof, corresponding to any value of \\( x \\), may be obtained by Art. 7. By which article it appears, that the whole time\ntime of descent from any point $p$ will be\n\n$$\\frac{a}{b^2 d^2 \\times 2a - d} \\times E + 2AE - pn - ps.$$  \n\nThe semi-transverse AC (fig. 1.) being $= ns$;  \nthe semi-transverse cg (fig. 2.) $= np$;  \nand the semi-conjugate in each figure $= ps$.\n\nSince writing the above, I have discovered a general theorem for the rectification of the Hyperbola, by means of two Ellipses; the investigation whereof I purpose to make the subject of another Paper.\n\nXXXVII. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106106.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 14,
+    "total-input-tokens": 21262,
+    "total-output-tokens": 6424,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1100,
+        2
+      ],
+      [
+        1100,
+        1100,
+        3
+      ],
+      [
+        1100,
+        2326,
+        4
+      ],
+      [
+        2326,
+        3376,
+        5
+      ],
+      [
+        3376,
+        5056,
+        6
+      ],
+      [
+        5056,
+        6398,
+        7
+      ],
+      [
+        6398,
+        7871,
+        8
+      ],
+      [
+        7871,
+        9368,
+        9
+      ],
+      [
+        9368,
+        11117,
+        10
+      ],
+      [
+        11117,
+        12321,
+        11
+      ],
+      [
+        12321,
+        13834,
+        12
+      ],
+      [
+        13834,
+        15601,
+        13
+      ],
+      [
+        15601,
+        16060,
+        14
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106106",
+    "title": "A Disquisition concerning Certain Fluents, Which are Assignable by the Arcs of the Conic Sections; Wherein are Investigatea Some New and Useful Theorems for Computing Such Fluents: By John Landen, F. R. S.",
+    "authors": "John Landen",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 14,
+    "jstor_url": "https://www.jstor.org/stable/106106"
+  }
+}

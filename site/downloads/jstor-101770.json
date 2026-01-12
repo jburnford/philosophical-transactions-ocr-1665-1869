@@ -1,0 +1,59 @@
+{
+  "id": "91bfcde4e591107fe6be94212a8c2133dba7bded",
+  "text": "An Account of four sorts of fictitious Shining Substances, communicated to the Publisher from very good hands, both in printed Papers and in Letters not printed.\n\nTwo of these four substances have been already spoken of in two of the late Transactions, vid. Numb. 131. p.788, and Numb.134.p.842; and they are, one of them, the Fictitious Paste of Dr. Baldwin, shining in the dark like a glowing Coal, after it hath been a while exposed to the Day or Candle-light; the other, the Bononian Stone calcin'd, which imbibes light from the Sun-beams, and so renders it again in the dark, whereas the former needs no Shining Sun, but doth the effect in quite overcast weather and even in a misty day. To these we shall now add two other sorts. The one is by the Germans called Phosphorus Smaragdinus, said to be of this nature, that it collectis its light not so much from the Sun-beams, or the illuminated Air, as from the Fire itself; seeing that, if some of it be laid upon a Silver or Copper-plate, under which are put some live coals, or a lighted Taper, it will presently shine, and if the same matter be shaped into Letters, one is able to read it. The other is called Phosphorus Fulgurans, which is a matter, made both in a liquid and dry form, and not only shineth in the dark, and communicates a sudden light to such bodies as 'tis rubbed upon; but, being included in a Glass-vessel well closed, doth now and then fulgurate, and sometimes also raise it self as 'twere into waves of light: Differing very much from the Baldwinian Stone, which is to be exposed to some shining Body, as the Day, the Sun, the Fire or some lighted Candle, to receive light from thence; whereas this Fulgurating substance carries its light alwaies with it, and when put in a dark place, presently shews the same. Of which we have this further assurance given us, that a little portion of it, having been kept two whole years, hath not yet lost its power of shining: So that 'tis believed, if a considerably big piece were prepared of it, it would serve for a perpetual, or at least, a very long-lasting light.\n\nSo far this communication; the effect of which 'tis hoped will in due time appear here amongst us, if the Author be competently encouraged thereunto.\n\nSigner",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101770.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 613,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2248,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101770",
+    "title": "An Account of Four Sorts of Factitious Shining Substances, Communicated to the Publisher from Very Good Hands, Both in Printed Papers and in Letters Not Printed",
+    "authors": null,
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101770"
+  }
+}

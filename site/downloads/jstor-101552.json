@@ -1,0 +1,59 @@
+{
+  "id": "cfd5f72f694de020f750fdd213a15137cba74909",
+  "text": "Advertisement.\n\nIt was thought fit to publish here the following Advertisement of John Evelyn Esquire, and that, as himself proposed it. Viz.\n\nBeing much solicited by many worthy Persons, to publish a Second Edition of my Discourse and Directions concerning Timber, &c. which was printed at the Command and by the Encouragement of the R. Society, I do humbly request, that if any Person have any Material Additions or Reformations, which he thinks necessary either to the Part, which concerns the Improvement of Forreft-Trees, or that of Cider, he would be pleased to communicate his Notes and Directions to Mr. H. Oldenburgh, one of the Secretaries of the said Society, at his House in the Palmal of St. James's Fields Westminster, with what speed they conveniently can, before our Lady-day next, to be inserted into this intended Edition.\n\nNOTE,\n\nWhat was observed, Numb. 20. p. 364. l. 18. of the Number of Vegetables, (vid. That they are about 410.) found in England; and catalogued by Dr. Merret in his Pinax, &c. is to be understood only of the different Kinds of Plants, not of the several sorts of several Plants; for, these being comprised, the Number will amount to about 1400.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101552.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 352,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1187,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101552",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101552"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "50c3ae6e2f6f4092f3f3449024354afc79ca3751",
+  "text": "vided for, if Sylley were not subdued as well as Cornwall.\n\nVIII. An Account of Mr. Appleby's Process to make Sea-Water fresh; with some Experiments therewith; communicated to the Royal Society, by W. Watson, F. R. S.\n\nRead Feb. 8, 1753.\n\nTHE making sea-water fresh has been frequently attempted, and several accounts thereof, from time to time, been communicated to the Royal Society. I thought it therefore not improper to lay before you Mr. Appleby's process for this purpose, in order to its being preserved in the journal-books of the Society. To this I have subjoined some experiments upon the water prepared in Mr. Appleby's manner, made by Mr. Michael Clark, operator at Apothecaries Hall, a person extremely well versed in the theory and practice of chemistry, at the desire, and under the inspection, of the censors of the college of physicians, to whom Mr. Appleby's process was referred by the lords commissioners of the admiralty.\n\nMr. Appleby's process.\n\nINTO twenty gallons of sea-water put six ounces of a fixed alcali, prepared with quick-lime as strong as lapis infernalis, and six ounces of bones calcined\nto whiteness, and finely powder'd. With a slow fire, draw off in a common still fifteen gallons.\n\nMr. Appleby conceives, that the alkali here employed is the best adapted to prevent the bituminous matter in sea-water from rising by the heat in distillation.\n\nMr. Clark's experiments.\n\nInto a spoonful of the distilled sea-water he put twenty drops of a solution of silver in aq. fortis: He likewise did the same with the like quantity of common water distilled. There appeared no change in either, and both retained their transparency.\n\nThis demonstrates, that the distilled sea water is by the process entirely freed from marine salt, or its acid spirit. For, if we take a spoonful of common distilled water, and add the least particle of sea-salt, with the point of a penknife, and then drop into the mixture one or two drops of the solution of silver, it will appear turbid and milky.\n\nFrom the number of animal bodies constantly perishing in the tea, it may reasonably be suspected, that a volatile urinous spirit may be retained in this distilled water; and this is evident from the following experiment:\n\nInto a spoonful of distilled sea-water drop ten drops of a strong solution of sugar of lead, and the mixture immediately becomes turbid and milky.\n\nInto another spoonful of common distilled water, with two drops of spirit of sal ammoniac, add ten drops of a solution of sugar of lead: and this mixture had the same appearance with the foregoing.\nIf into a spoonful of common distilled water is dropp'd one drop of oil of tartar per deliquium, and then added ten drops of a strong solution of corrosive sublimate, the mixture will immediately become turbid and brown, and with a few drops of the solution of silver, it will be precipitated, and turn milky. It is a volatile alkali therefore, and not a fixed one, that is contained in this water.\n\nThe solution of silver will not discover a volatile alkali contained in water, but very plainly a fixed one.\n\nA solution of sugar of lead will not discover a small quantity of marine salt or spirit, till we add more.\n\nA solution of sublimate will manifest both a volatile and fixed alkali.\n\nIX. Extract of a Letter from Signor Camillo Paderni, to Dr. Mead, concerning the Antiquities dug up from the antient Herculaneum, dated from Naples, Nov. 18, 1752. Translated from the Italian.\n\nRead Feb. 8, 1753.\n\nTHE things, of which I have the charge, are many, and extraordinary; consisting of\n\nMetals; that is, bronzes, silver and gold of all kinds, of excellent workmanship.\n\nBeautiful cameo's and intaglio's.\n\nGlass of all sorts.\n\nVarious",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105122.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 980,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1125,
+        2
+      ],
+      [
+        1125,
+        2582,
+        3
+      ],
+      [
+        2582,
+        3717,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105122",
+    "title": "An Account of Mr. Appleby's Process to Make Sea-Water Fresh; With Some Experiments Therewith; Communicated to the Royal Society, by W. Watson, F. R. S.",
+    "authors": "W. Watson, Mr. Appleby",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105122"
+  }
+}

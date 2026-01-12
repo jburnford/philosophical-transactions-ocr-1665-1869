@@ -1,0 +1,69 @@
+{
+  "id": "3cbc5fd136aa6033a03b80120d72e202b57051a6",
+  "text": "I. A Relation of four extraordinary Medico-Cirurgical Cases, Communicated to the Publisher by Mr Greenhill.\n\nSIR,\n\nFrancis Butler's Lady, being surprized with a large and painful Tumor of the Umbilicus, consulted Mr Knowles and Dr Eels about it, who by reason of some very odd Symptoms, were dubious both of the Nature and Consequence of it. Mr Knowles being apprehensive of the ill success would ensue from the opening such an Abscess, advised the Lady to the contrary, tho she mightily persisted for the doing it. However, soon after it broke of itself, and discharged a great Quantity of Prune-stones, and notwithstanding all the care could be taken of it, she died in about 20 days.\n\nThe said Mr Knowles being called to open a Youth, who dyed, as was supposed of the Cholic and Convolvulus, found the Cecum vastly extended, and stufft with abundance of Cherry-stones; which then were proved to be the occasion of his Death.\n\nA Servant to Sir Anthony Keck, complained of a pain and hardness of his right side, which had continued more or less for 12 years, and was observed to approach daily nearer the Skin. This encouraged him to have it opened, and an incision being made, I plucked out a rusty Wire with my Forceps; whereupon a nicer examination we found it to be a broken Needle, which\nwhich he thought he might have formerly swallowed. It stuck in a manner so firm in the Flesh as if it had been fixed in Wood, so that it could not be extracted without some Violence and a small Hemorrhage.\n\nSir F. L. was swelled mightily in his Legs, Abdomen, Stomach, and to his very Throat, even to Suffocation that he died. Mr K——s was sent for to let out the supposed Waters; for his Physicians had treated him as in a Dropsy, with powerful diuretics, &c., and 1 or 2 Pails were provided ready to receive the matter; but upon opening him, there issued forth nothing but a gush of Wind. He cut 6 inches and a half deep of Fat on the Peritoneum, and died of Corpulentia nimia, being one that fed prodigiously.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102769.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 577,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1294,
+        2
+      ],
+      [
+        1294,
+        2005,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102769",
+    "title": "A Relation of Four Extraordinary Medico-Cirurgical Cases, Communicated to the Publisher by Mr Greenhill",
+    "authors": "Mr Greenhill",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102769"
+  }
+}

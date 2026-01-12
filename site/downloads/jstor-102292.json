@@ -1,0 +1,59 @@
+{
+  "id": "6c3fe57da060070fe4da03979232958c0feef802",
+  "text": "(God willing) one day, make it appear to the Publick.\n\nThe Philosophical Reader is desired to excuse our breaking-in upon the Subject of these Tracts, by intermixing Historical and Philological Matters, as also our exceeding the Bounds of an Extract: But we hope the Curiosity of the Subject, joyned to the Desires of the Royal Society, may make an easie Apology suffice. There may be many other Instructive Remarks made thereon, which still deserve the Consideration of the Learned, and from such the Publick may yet expect a further Account.\n\nERRATA.\n\nNumb.217. page 112.line 28 & 29. for Abkda read AbkDA. Numb.218. p. 137. l. 24. for p. 89 r. 98; p. 138. l. 24. for open Place r. open Plain; p.139 l.35. for Andecin r. Andreen; p.172. l.23 for [ΤΕΙ]MHC r. [ΤΕΙ]MHC.\n\nLONDON:\nPrinted for S. Smith and B. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-yard, 1695.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102292.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 358,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        900,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102292",
+    "title": "Errata",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102292"
+  }
+}

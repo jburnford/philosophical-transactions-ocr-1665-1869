@@ -1,0 +1,99 @@
+{
+  "id": "1f89d192e37de01d64379305cdca733bc7e57700",
+  "text": "whereof we are obliged to the Author of the Journal des Scavans) undertakes to prove, that the Transfusion is yet of greater Antiquity, as having been known to Libavius above 50 years since. For which, that Roman Author alledgeth a place out of the said Libavius (in Defensione Syntagmatis Arcanorum Chymicorum contra Heningum Schnemannum, actione 2. pag. 8. Edit. Francos. A. 1615.) where the Transfusion is so plainly described, that one can hardly discourse of it with more clearness, than there is done, in these words: Adsit (saith Libavius l. c.) Juvenis robustus, sanus, sanguine spirituoso plenus: Adstet exhaustus viribus, tenuis, macilentus, vix animam trahens. Magister artis habeat tubulos argenteos inter se congruentes, aperiat arteriam robusti, & tubulum inserat munitaque; mox & agroti arteriam findat, & tubulum famineum infigat. Fam duos tubulos sibi mutuo applicet, & ex sane sanguis arterialis, calens & spirituosus saliet in agrotum, unaque vite fontem affert omnemque languorem pellet. This indeed is clear enough, and obliges us to averre a greater antiquity of this operation, than before we were aware of; though 'tis true, Libavius did not propose it but only to mock at it (which is the common fate of new Inventions, in their Cradle;) besides that he contrives it with great danger, both to the Recipient and Emittent, by proposing to open Arteries in both; which indeed may be practised upon Brutes, but ought by no means upon Man.\n\nMr. Gregories Answer\n\nTo the Animadversions of Mr. Hugenius upon his Book, De vera Circuli & Hyperbolae Quadratura; as they were publish'd in the Journal des Scavans of July 2. 1668.\n\nThis Answer we shall give the Reader in the same Language and Words, in which the Author of it desired, it might be inserted in this Tract, viz.\n\nAd qua dicit D. Hugenius contra meam Circ. & Hyperb. Quadraturam, ingenue fatior (cum illa scriberem) me non animadvertisse exemplum in prop. 10. non esse seriem convergentem; experientiam enim feci sollemmodo de primis & secundis terminis, non considerando tertios cum primis coincidere; nam ratiociniis insuffebam, de exemplis parum solicitus: Ut autem appareat in hoc nihil contineri contra nostram Doctrinam, agendum hoc loco 10. prop. totidem verbis, sed cum legitimo exemplo, repetamus,\n\nProp.\nProp. IO. Problema.\n\nEx data quantitate eodem modo composita a duobus terminis convergentibus cujuscunque seriei convergentis, quo componitur ex terminis convergentibus immediate sequentibus; seriei propositae terminationem invenire.\n\nSit series convergens, cujus duo termini convergentes quicunque sint $a, b$, & termini convergentes immediate sequentes $\\frac{ab}{a}$; termini priores inter se multiplicati efficiant ab, item sequentes inter se multiplicati efficiant eandem ab; ex his invenienda sit proposita seriei terminatio. Manifestum est, quantitatem ab eodem modo fieri a terminis convergentibus $a, b$, quo a terminis convergentibus immediate sequentibus $\\frac{ab}{a}, \\frac{ab}{b}$: & quoniam quantitates $a, b$, indefinite ponuntur pro quibuslibet totius seriei terminis convergentibus, evidens est, duos quoscunque terminos convergentes propositae seriei inter se multiplicatos idem efficere productum, quod faciant termini immediate sequentes eriam inter se multiplicati; cumque duo termini convergentes duos terminos convergentes semper immediate sequantur, manifestum est, duos quoscunque terminos convergentes inter se multiplicatos idem semper efficere productum, semper ab, arguendo ultimi termini convergentes sunt aequales, & praecipue sit ultimus illae terminus, seu seriei terminatio $z$, qua in se ipsum multiplicata facit $z = ab$; est igitur $z$, seu seriei terminatio $z = ab$, quam invenire oportuit: & praecipue ad inveniendam cujuscunque seriei convergentis terminatunem opus est solutummodo invenire quantitatem eodem modo compositam ex terminis convergentibus primis, quo componitur eadem quantitas ex terminis convergentibus secundis.\n\nConjectarium.\n\nQuoniam non refert in Problemate, sine termini convergentes $a, b$, sint primi, secundi vel tertii, &c. manifestum est, omnis seriei convergentis terminationem eodem modo esse compositam ex terminis convergentibus primis, quo ex secundis, tertiiis, &c.\n\nSi quis aliud exemplum desideret, sint primi termini $a, b$, secundi $ra, rb$: $S = ra + rb$, quantitas eodem modo composita &c. est $a + b$ & seriei terminatio $ra + rb$: videat Hugenius, duo exempla legitima hic addulta inquisitionem septimae non admittere; opere tamen prop. decimae (supposita tertia illa quantitate) facile resolvuntur, neque ullo modo conjectarium respicient, quod solutummodo esse momenti satis fit indicasse; plura autem exempla desideranti millena afferam.\n\nAd primam Hugenii objectionem quod spectat, miror eum non considerasse praecedens conjectarium, ubi illa, qua desiderat, evidentior, deduco ex prop. IO.\nAt agnoscit hoc verum esse in illis seriebus, quae ope nostra methodi turminantur: velim certe ut assignet mihi Nobiliss. vir scribam aliquam convergentem cum sua terminatione, qua confectionarum nostrum respuit; vel si eam assignare non possit, solidam dubitandi rationem tantum desidero. Ut autem funditus evertat hic objectio, sequentem exhibeo demonstrationem Geometricam.\n\nSit A. polygonum regulare sectori inscriptum, B. eadem simile circumscriptum; continetur series convergens polygonorum &c. ut sit ejus terminatio seu circuli sectior Z: sit x eodem modo composita a terminis C, D, quo Z a terminis A, B; dico Z & x esse indefinite aequales; si non sint indefinite aequales, sit inter illas indefinita differentia a, & continetur series convergens in terminos convergentes I, K, ita ut eorum differentia sit minor quam a; hoc enim absque dubio concipi potest, etiam hic omnes quantitates sint indefinite, quoniam definitis quantitatibus A, B, definitur etiam a, sed adhuc restat K-I quantitas indeterminata in infinitum decrescens. Manifestum est, sectorem z esse indefinite minorem quam K, & maiorem quam l: item quantiam Z. eodem modo compositur ex quantitatibus A, B, quo X. e quantitatibus C, D, & Z indefinite minor est quam K & major quam I, patet ex proprietatibus scribium convergentium. X etiam esse indefinite maiorem quam I, & minorem quam K (est enim revera indefinite major quam L & minor quam M) & proinde sunt quater quantitates indefinite, quarum maxima & minima sunt I, K, intermedia autem Z & X, & ideo differentia extrema- rum K-I major est quam a differentia mediarum, quod est absurdum, ponitur enim minor; quantitates ergo Z & X non sunt indefinite aequales, & ideo sunt indefinite aequales, quod demonstrandum erat. Manifestum est hanc demonstrationem eodem modo applicabilem esse omnium serierum convergentium.\n\nIn objectionibus 2, 3 & 4, contra suas ipsius imaginationes argumentatur Hugenius: Ego enim satis dilucidè affirmo in scholio prop.5, et in fine prop.9. septimum & nonam propositionem esse particularem, unamquamq. suo casui; item in prop. decima (quam ergo pro generali substituo) evidenter suppono, & non quaro, illam quantitatem eodem modo compositam ex primis, quo ex secundis terminis convergentibus; satis enim scio, talen methodum generalem esse impossibilem. Sed omnium maxime admiror, Clarissimum virum non an- madvertisse in 8 definitione, Quantitates C, D, E, compositionem ingredientes, semper esse easdem, nempe definitas & invariabiles, ipsos autem terminos A, B, esse indefinitos & variabiles, nimium in F, G, & infinitos alios: at quis est qui non videt, Hugenii $\\frac{b^m}{a^{2m}+ba}$ non minus esse indefinitam, quam sunt ipsi ter- mini? Deinde in Proceo nostro Geometriae partis universalis, sic dico. Alii objicant contra prop.2, ita; si addatur $a^3$ termino $a^2+a^b$ & termino $ba^2+b^a$, enervetur vis utriusq.; demonstrationis. Respondeo, $a^3$ esse quantitatem indefinitam, & alias quantitates indefinitas præter ipsos terminos convergentes compo-\ncompositionem non posse ingredi, quod analytarn latere non potest: Eodem modo respondeo Hugenio, bbm esse quantitatem indefinitam & idem compositionem non posse ingredi. Si autem mihi obijicat, in septima me credidisse, maembe ad-bd suisse quantitatem indefinitam; Respondeo, etiam si divisio per a-b & me satis inconsiderate neglecta sit, aperte tamen constat, me hoc cognovisse, ex diversitate methodorum, quibus uter in septima & decima, quippe ista particula- ri, in qua quantitatem illam quaro, & hac generali, in qua illam suppono; nulla enim alia ratio hujus diversitatis excogitari potest; quod etiam ex ipsis septima & decima est manifestum, cum appellem semper terminos convergentes quantitates indefinitas, hoc ipso satius significans, nullas alias quantitates indefinitas calculo inesse.\n\nSemper credidi in rebus scientificis verba ita candide esse explicanda (si modo possibile sit) ut discursus nullum includat absurdam; at Hugenius satis percipie, discursum nihil continere absurdi, modo nulla quantitas indefinita praeter ipsos terminos compositionem ingrediatur; judicat tamen absque omni ratione, me contrarium existimasse; libenter enim opinavero Hugenium assignasse locum, ubi assero, illam inquisitionem tuae esse universalem. Dico igitur & declaro me intelligere, nullam quantitatem indefinitam praeter ipsos terminos convergentes compositionem posse ingredi. Atque ita corrumpunt tres ultimae Hugenii sine diversa objectiones, sine ejusdem portiones; necio enim, quare in tot partes dividatur.\n\nPrecedentibus perceptis, evidentissimum est, Circuli, Ellipseos vel Hyperbo- lae Sectorem esse terminacionem serici convergentis, cujus primi termini $a^2 + a^1b$, $ab^2 + b^3$, & secundi $ba^2 + b^1a$, $b^2a$, & proinde Sectorem eodem modo componi ex primis terminis quo ex secundis; atque evidens est, nullam dari quantitatem eodem modo analytice compostam ex primis terminis quo ex secundis, quam primos eodem modo analytice tractando quo secundos, semper restat altior po- teftas ipsius a in primorum producto, quam in producto secundorum; de hoc (si non credatur) fiat experientia, & constabit non solum assertionis veritas, sed etiam ejusdem demonstratio; quando autem altior est ejusdem potentia in una quantitate quam in altera, nulla datur indefinita aquatio, de qua hic tantum loquimur, hoc est, ut (positis a, b, ad libitum) aequalitas semper ritè procedat. Atque hoc est summa non solum propriis illae sed etiam totius nostra Circ. & Hyp. Quadraturæ, ab Hugenio adhuc intactæ. Gratias tamen ago nobilissimo viro, quod meas qualisunque incubrationes examinare dignatus est, hinc enim mihi data est occasio illas fustis explicandi & confirmandi. Num Hugeniana methodus circulum mensurandi mea sit praecisior, experientia re- linquo judicandum; quod autem nostra, Hyperbolam quadrandi, illi etiam innotuerat, de hoc nihil habeo quod dicam, nisi quod mihi gratuler, inventa mea ipso Hugenio non estimari indigna.\n\nMmm 2 An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101286.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9362,
+    "total-output-tokens": 3363,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2292,
+        3
+      ],
+      [
+        2292,
+        4868,
+        4
+      ],
+      [
+        4868,
+        7887,
+        5
+      ],
+      [
+        7887,
+        10835,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101286",
+    "title": "Mr. Gregories Answer to the Animadversions of Mr. Hugenius upon His Book, de Vera Circuli & Hyperbolae Quadratura; As They Were Publish'd in the Journal des Scavans of July 2. 1668",
+    "authors": "Mr. Gregories",
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/101286"
+  }
+}

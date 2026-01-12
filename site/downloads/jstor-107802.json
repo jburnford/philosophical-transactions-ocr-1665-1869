@@ -1,0 +1,69 @@
+{
+  "id": "2a9fad80c5be78f979aea6f8c23cbbcaadcf888e",
+  "text": "VII. On the transit instrument of the Cambridge Observatory; being a Supplement to a former Paper. By Robert Woodhouse, Esq. Plumian Professor of Astronomy in the University of Cambridge.\n\nRead January 19, 1826.\n\nIn the brief account of the transit instrument which I had the honour some time ago of presenting to the Royal Society, I stated the circumstance of the instrument's deviation from the meridian arising from the unequal expansion of its braces; but no instance was then given of the magnitude of such deviation. I now subjoin one.\n\nOn the morning of Oct. 15, (civil reckoning) after observing the passage of Regulus, the southern shutters were accidentally left open, so that when I returned to observe the inferior culmination of the pole star, the sun was shining on the upper western brace, the object-glass of the instrument being towards the zenith. The effect of this was a retardation of more than 25 seconds in the star's passage, as will thus appear:\n\n| Rate of Clock | Oct. 14. | Oct. 15. | Oct. 16. | Oct. 17. &c. |\n|---------------|----------|----------|----------|-------------|\n|               | 0° 59' 20\" | 0° 59' 20\" | 0° 59' 19.5\" | 0° 59' 20\" |\n|               | 12 59 44 | 12 59 17 | 0 59 19.5 | 0 59 20 |\n|               | Polaris. | Polaris S. P. | Polaris. | Polaris. |\n\nReversed the axis.\nI now view, with great suspicion, all the observations of the sun's transits, which I observed previously to the detection of that source of inequality which is the subject of the present, and of my former communication.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107802.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 517,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1325,
+        2
+      ],
+      [
+        1325,
+        1545,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107802",
+    "title": "On the Transit Instrument of the Cambridge Observatory; Being a Supplement to a Former Paper",
+    "authors": "Robert Woodhouse",
+    "year": 1826,
+    "volume": "116",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107802"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "664eb24d1189be331d6a30c05abb0f79967b59d1",
+  "text": "XLI. Extract of a Letter from Mr. Edward Gulston, at Chittigong, to Major John Carnac, at Calcutta.\n\nDear Sir,\n\nRead Nov. 17, 1763.\n\nThe reason principally of this address is to give you a particular account of the shocks of a violent earthquake, which were felt here on the 2d instant at 5 in the afternoon lasting the space of four minutes. The factory, a brick building, is totally spoiled, so as not to be safely habitable; for thereabouts, and in many other places, the earth opened, and the waters gushed out prodigiously; and in the chaife-road, especially towards the north quarter, there are great chasms two feet wide and upwards, so strange, that the morning after, riding that way, the horse started and went round another way, not willing to go over them.\n\nAt the time of the first thake, great explosions were heard like the noise of cannons, of which Mr. Plaisted and others counted 15.\n\nAll the tanks overflowed their banks, fish were cast up, and the river rushed upon the shore like the surf of the sea. It was the most extraordinary event I was ever witness to: by the enclosed paper you will discern how many alarms we had, however nothing equal to the first, in which the whole force of the earthquake seems to be exerted. At present, the afternoon of the 4th of April, all our heads seem to be quiet and still, and consequently the earth at rest; but really\nreally yesterday, from the repeated tremours of the ground, every one appeared giddy and alarmed, fancying the earth to be in perpetual vibration, which however an experiment of a glass of water upon the floor by no means admitted of. I would not that such a shock as the first should happen at Calcutta for all I am worth, since of necessity the terraffed houses must fall to ruin, and I please myself with the thoughts, that we have had the worst of it.\n\nChittigong, April 4, 1762. I am, &c.\n\nCopy of the Paper mentioned in the foregoing letter.\n\nChittigong, April 2, 1762.\n\nApril 2 at 5 P.M. a severe shock of an earthquake lasted 4 minutes.\n5 12 a second lasted one minute.\n5 30 a third.\n7 0 a fourth.\n10 0 a fifth.\n1 0 in the morning of the 3d, a sixth.\n2 0 a seventh.\n3 0 an eighth.\n5 0 a ninth.\n10 25 a tenth.\n10 30 an eleventh.\n\nBetween 6 and 7 in the evening I felt a twelfth shock; also others upon Marriet's hill, at a distance from mount Pleasant, which every one thought in continual motion.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105730.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 704,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1380,
+        2
+      ],
+      [
+        1380,
+        2384,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105730",
+    "title": "Extract of a Letter from Mr. Edward Gulston, at Chittigong, to Major John Carnac, at Calcutta",
+    "authors": "Edward Gulston",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105730"
+  }
+}

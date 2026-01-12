@@ -1,0 +1,69 @@
+{
+  "id": "aaa196ab7cf16958daf1661b049f1d650ecb982c",
+  "text": "XVI. An Observation of an Eclipse of the Moon, Dec. 12. 1749. made at Earith, near St. Ives, in Huntingdonshire, by Mr. Wm. Elstobb, jun. communicated in a Letter to Martin Folkes, Esq; Pr. R. S.\n\nRead Dec. 21. 1749.\n\nAt 7 at Night the Umbra came on the lower Limb of the Moon, almost directly under the Spot called Tycho, in Keil's Map of the Moon.\n\nAt 2 Min. 3/4 after 7, the Penumbra overspread Tycho.\n\nAt 6 Min. after 7, the Umbra approached the lower Part of Mare Humorum, and Tycho immersed into the Umbra.\n\nAt 21 Min. after 7, Mare Humorum totally immersed into the Umbra.\n\nAt 41 Min. after 7, the lower Part of Mare Nectaris immersed into the Umbra.\n\nAt 57 Min. after 7, the North-East Limb began to evolve itself; and that Part of the Limb below the Spot called Grimaldus, began to appear brighter, than when the Penumbra covered it.\n\nAt 9 Min. after 8, the upper Part of Mare Humorum emerged from the Umbra.\n\nAt 21 Min. after 8, Mare Humorum totally emerged.\n\nAt 45 Min. 1/2 after 8, Tycho emerged from the Umbra.\n\nAt 51 Min. 1/4 after 8, the Penumbra left Tycho.\nAt 54 Min. \\( \\frac{1}{2} \\) after 8, *Mare Nectaris* emerged from the Umbra.\n\nAt 9, the Penumbra left *Mare Nectaris*.\n\nAt 4 Min. \\( \\frac{3}{4} \\) after 9, *Mare Fecunditatis* emerged from the Umbra.\n\nAt 16 Min. after 9, the Umbra left the Moon a little below *Mare Fecunditatis*.\n\nAt 18 Min. after 9, the Penumbra went off, and the Eclipse ended.\n\nAt the Time of the greatest Obscuration, the Edge of the Umbra passed below Grimaldus; approached the lower Part of *Peninsula Fulgurum*; passed over the upper Part of *Mare Nectaris*, and crossed about the Middle of *Mare Fecunditatis*. The Edge of the Umbra did not seem to make one regular Curve, but looked like two Curves, meeting in a very obtuse Angle near *Peninsula Fulgurum*. And that Part of the Moon, immersed in the Umbra, was not visible.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104641.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 695,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1074,
+        2
+      ],
+      [
+        1074,
+        1877,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104641",
+    "title": "An Observation of an Eclipse of the Moon, Dec. 12. 1749. Made at Earith, Near St. Ives, in Huntingdonshire, by Mr. Wm. Elstobb, Jun. Communicated in a Letter to Martin Folkes, Esq; Pr. R. S.",
+    "authors": "Wm. Elstobb",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104641"
+  }
+}

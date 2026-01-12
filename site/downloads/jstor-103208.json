@@ -1,0 +1,89 @@
+{
+  "id": "b21caf5ea8fbebb9fc612ec667ef058356b37f05",
+  "text": "XXXIV. An Extract of a Letter from the late Mr. Edward Lhwyd, to Dr. Richard Richardson; containing some Remarks on an Undescribed Plant, and other Particulars, observed by him in Wales.\n\nGogerddan in Cardiganshire, April 18. 1699.\n\nSIR,\n\nI have here sent you the Draught of a remarkable Sea Plant, which we met with a dredging for Oysters near Llan Danwg in Meirionydsire. The whole Plant is of a Straw colour, and much of the bigness the Figure represents it. The Stems are hollow, and filled with a kind of thick reddish Liquor, as much like Blood [or Gore] as the Juice of Plants; insomuch, that it seems referable to the Zoophyts. If you press these Stems at the Bottom betwixt your Fingers, the red Liquor is forced up, and causes the drooping Flowers [or Seed-vessels] to mount erect.\n\nWe have lately discovered a sort of Marble in that County, which when polished represents a number of small Oranges cut across; the reason whereof is an infinite quantity of Porus [or Alcyonium] stuck through the Stone. This might serve very well for Inlaying Work, as Tables, Windows, Cabinets, Closets, &c. and would make curious Saltcellers.\n\nIf you are acquainted with any Gentlemen that deal in Alum or Copperas, you may please to acquaint them\nthat Wales affords good quantity of each, if they judge it worth their while to put up any Works there; particularly Pembrokehire and Caermarthenshire for the former, and Meirionydhire for Copperas, where I saw a great Vein of Pyrites strongly impregnated.\n\nEdw. Lhwyd.\n\nXXXV. A Relation of a Scirrhous Tumour, included in a Cystis, &c. By Mr. Richard Russell, Surgeon, at Lewes in Sussex; and communicated by Mr William Chefelden, Surgeon, F.R.S.\n\nAugust the 18th, 1713. I was sent for to Mrs. Smith, who had been reduc'd very low by a Fever, which from her Cough, sharp Pain under her Breast, and other Symptoms was judg'd Pleuritick.\n\nBut upon having a Discharge from her painful Breast, of a thin Gleet, all Symptoms vanished.\n\nWhen I saw her first, the Liquor discharg'd by a small Pin-hole near the Papilla, was little more than would have wet a Handkerchief four times double.\n\nExamining of the Breast, I found a large Tumour, that lay deep, yielding to my Fingers, and pasting like Dough.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103208.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8024,
+    "total-output-tokens": 748,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1243,
+        4
+      ],
+      [
+        1243,
+        2239,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103208",
+    "title": "An Extract of a Letter from the Late Mr. Edward Lhwyd, to Dr. Richard Richardson; Containing Some Remarks on an Undescribed Plant, and Other Particulars, Observed by Him in Wales",
+    "authors": "Edward Lhwyd",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103208"
+  }
+}

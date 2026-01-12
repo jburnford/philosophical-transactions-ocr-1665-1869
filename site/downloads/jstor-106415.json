@@ -1,0 +1,79 @@
+{
+  "id": "bc55584e4ef1ea7f057207d789417bb63743b54f",
+  "text": "XV. Account of the Effects of Lightning on Board the Atlas. By Allen Cooper, Esq. Master of the Atlas East India-man. In a Letter to Joseph Banks, Esq. P. R. S.\n\nRead January 19, 1779.\n\nDEAR SIR,\n\nAs I am desirous of acquainting you with every observation made either by my friend Dr. Lind or myself during the voyage, I cannot help troubling you with an account of the melancholy effects of the lightning on board my ship the Atlas on the 31st of Dec. 1778. The morning and forenoon of that day were clear and cold, with a strong dry wind from the N.W. which by Dr. Lind's wind-gage generally sustained a column of water of two inches\\(^{(a)}\\), and was so high as to prevent boats coming off to the ship. At 3 P.M. a squall from the N.N.W. came with a violence scarcely credible, attended with very heavy rain, large hail, and the most severe lightning, which struck our main-mast-head, descended down the mast or its rigging, and entered the gun-deck somewhere nigh the main hatchway.\n\n\\((a)\\) A force equal to lb. 10,4.\nwho were employed in letting down the sheet cable (as we had then brought both our anchors a-head) received very smart shocks, and were witnesses to the fire going out at several parts of the ship, and to an explosion equal to that of a well-charged cannon, accompanied with a most sulphureous smell which lasted all that day and night. It was not till the squall abated that our attention was called to the masts, when we saw one of our best seamen hanging by his feet in the main catharpins struck dead; another in the main-top was so miserably scorched as to remain senseless, and now continues in a dangerous way. The boatswain's mate, who was nigh him, had his arm so much hurt by the shock he received, as not to recover the use of it for half an hour. All possible means were used to save the poor fellow who had received the fatal stroke; but there appeared no signs of returning life in him. His face was quite livid; and from the livid colour of the scorched places it appeared the lightning had entered his head, come out again on the left side of his neck, and spread itself down his left side and over his legs. The other man was struck down in the main-top, his back much scorched, and on the inside of his right leg the stocking burst open a little below the knee. I have sent the cloaths of the man who suffered, as also the stocking of the other man. Our top-gallant-masts, at\nthe time they were struck, had no iron work upon them\\(^{(b)}\\). Upon a careful examination, no visible track of the lightning could be found upon the masts, or any part over which it had passed, nor was any damage done to the ship, masts, or rigging.\n\n\\(^{(b)}\\) On account of the season of the year, in which lightning is so extremely unusual, it had not been thought necessary to fix the conductor.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106415.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 812,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1024,
+        2
+      ],
+      [
+        1024,
+        2418,
+        3
+      ],
+      [
+        2418,
+        2819,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106415",
+    "title": "Account of the Effects of Lightning on Board the Atlas. By Allen Cooper, Esq. Master of the Atlas East India-Man. In a Letter to Joseph Banks, Esq. P. R. S.",
+    "authors": "Allen Cooper",
+    "year": 1779,
+    "volume": "69",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106415"
+  }
+}

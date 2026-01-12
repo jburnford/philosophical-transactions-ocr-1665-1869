@@ -1,0 +1,69 @@
+{
+  "id": "4cca681f3dcccfa1f97cc1078fc231cab8178501",
+  "text": "I. Observationes Cometæ, a R. P. Frantz Soc. Jes. factæ, mensæ Februario anni MDCCXLIII. Viennæ Austriæ. Ex Epistola Rev. Petri Isaaci Carnabè, ad Isaacum Lawson, M.D.\n\nF Ebr. XI°. (St. Nov.) vesperi Cometa in linea {ε & ξ Ursæ Majoris. recta cum {α & δ Ursæ Majoris.\n\nXII°. Febr. in linea recta cum {γ Ursæ Majoris & λ Draconis.\n\nXIII°. Febr. Cometa in linea recta vesperi cum {δ & χ Ursæ Majoris.\n\nXIV°. Febr. in linea recta {α Leonis & ν Ursæ Majoris. vesperi fere cum {β Leonis & β Virginis.\n\nXV°. Feb. Vesperi in triangulo rectangulo cum {γ & ω Ursæ Majoris.\n\nXVIII°. Febr. Vesperi in linea recta fere cum β Leonis & β Virginis; quo tempore Cometa & β Virginis fere æqualiter distabant a β Leonis.\n\nXXI° Febr. Vesperi in Cauda Leonis prope stellulam sextæ magnitudinis, quæ prope lineam rectam con-stituit cum {β Leonis & π Virg.\n\nCometa observatus est; neque reliquis diebus quocumque telescopio detegi potuit.\n\nO o o\n\nItaque\nII. An Abstract of some new Observations upon Insects: By M. Charles Bonnet of Geneva. Communicated in a Letter to Sir Hans Sloane, Bart. late President of the Royal Society, &c. Translated from the French by P. H. Z. Esq; F. R. S.\n\nUpon Caterpillars.\n\nI. It is well known, that among Caterpillars there are several Species, which like to live in Society, and which know how to build Nests wherein to shelter themselves against the Injuries of the Air. Of this Sort are those* to which Gardeners have given the Name of Liverymen, by reason of the Distribution of their Colours. They may be ranked among the Processioners, or those that follow one another. They all go about, spinning, with great Order: But what is most surprising, is to see them straggle very far from\n\n* Memoires pour servir à l'Histoire des Insectes. Tom. I. and II. of the Paris Edition.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104201.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 648,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        932,
+        2
+      ],
+      [
+        932,
+        1790,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104201",
+    "title": "Observationes Cometae, a R. P. Frantz Soc. Jes. Factae, Mense Februario Anni MDCCXLIII. Viennae Austriae. Ex Epistola Rev. Petri Isaaci Carnabe, ad Isaacum Lawson, M. D.",
+    "authors": "Petri Isaaci Carnabe",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104201"
+  }
+}

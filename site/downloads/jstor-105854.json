@@ -1,0 +1,69 @@
+{
+  "id": "606e9586b231a1238e052a1cf83518e5f459966e",
+  "text": "Read December 1, 1769.\n\nLVI. Eclipses of Jupiter's First Satellite, with an Eighteen Inch Reflector of Mr. Short's. Observed by Dr. Wilson at the Glasgow Observatory.\n\n| Equal time | Apparent |\n|------------|----------|\n| h' m\" s\"   | h' m\" s\" |\n| 1762 Sept. | 11 Im. 10 55 33 21 | 10 55 33 21 good. |\n| Oct.       | 4 Im. 11 1 58 —     | 11 13 22 21 good. |\n| Nov.       | 14 Em. 6 8 33        | 6 23 43 55 indifferent. |\n|            | 21 Em. 8 1 31 38     | 8 16 39 good [ly clear. |\n| 1763 Oct.  | 23 Im. 12 50 24 —    | 13 5 56 53 good, airextreme- |\n| Nov.       | 1 Im. 9 12 18 43     | 9 28 29 18 good, like the for- |\n| 1764 Oct.  | 25 Im. 16 8 48 —     | 16 24 40 indif. good. [mer. |\n| 1765 Febr. | 14 Em. 6 18 28       | 6 3 55 good. |\n| March      | 7 Em. 12 2 24        | 11 51 29 good. |\n| Nov.       | 29 Im.             | 15 53 26 indifferent. |\n| Dec.       | 22 Im. 15 54 4 —     | 15 54 25 indifferent. |\n| 1766 April | 20 8 4 23 —          | 8 5 41 15 good. |\n\nSolar Eclipse.\n\n| h' m\" s\" | h' m\" s\" |\n|----------|----------|\n| 1769 March 31 | Beginning 20 58 16 | 20 54 15 9 |\n| Gr. obs. | 22 19 3 | 22 15 2 |\n| End      | 23 46 55 | 23 42 52 |\n\n1769 Nov. 6\n\nD's west. limb. Merid.\n\n| h' m\" s\" | Alt. of D's under limb. |\n|----------|-------------------------|\n| 6 52 6   | 20 47 36+               |\n|          | Parts of 96.            |\n|          | o' m\" s\" parts.         |\n|          | 22 1 14                 |\n\nTher.\n\nBarom. without. This is the only one of the Moon since the quadrant was in order.\n\nN. B. The equation of time made use of, is taken from De la Caille's Ephemeris.\n\nObser-\nObservations of Eclipses of Jupiter's First Satellite, proper to be compared with the foregoing ones, in order to determine the Difference of Meridians of Greenwich and Glasgow. Communicated by the Astronomer Royal.\n\nApp. time.\n\n1762 Sept. 11 Im. 11 12 43 Surry-street, 2 feet reflector. By N. Maskelyne.\nOct. 4 Im. 11 31 1 Surry-street, 2 f. ref. Observed by J. Short.\nNov. 3 Em. 15 56 57½ Greenwich, 6 f. ref. By C. Green.\nNov. 12 Em. 12 10 56 Surry-str. 2 f. ref. By J. Short.\n\n1763 Oct. 16 Im. 11 27 39 Surry-str. 2 f. ref. By J. Short.\nNov. 1 Im. 9 45 25 Surry-str. 2 f. ref. By J. Short.\n\n1764 Nov. 4 Im. 13 3 37 Greenwich, 2 f. ref. By C. Green.\nNov. 10 Im. 14 57 11 Greenwich, 6 f. ref. By C. Green.\nFeb. 19 Em. 13 46 42 Greenwich, 6 f. ref. By C. Green, good observation.\n\nDec. 1 Im. 10 40 11 Greenw. 18 inch ref.\n8 Im. 12 31 34 Greenw. 6 f. ref. Air very clear. By N.\n15 Im. 14 22 3 Greenw. 6 f. ref. Maskelyne\n22 Im. 16 12 19 Greenw. 6 f. ref.\n24 Im. 10 39 27 Greenw. 6 f. ref.\n\n1766 April 11 Em. 11 56 30 Greenw. 6 f. ref. By J. Dymond.\n\nN. B. The late Mr. Short's house, in Surry-street, where some of the above observations were made, is 26\" ½ of time west of Greenwich.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105854.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1385,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1617,
+        2
+      ],
+      [
+        1617,
+        2801,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105854",
+    "title": "Eclipses of Jupiter's First Satellite, with an Eighteen Inch Reflector of Mr. Short's. Observed by Dr. Wilson at the Glasgow Observatory",
+    "authors": "Dr. Wilson",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105854"
+  }
+}

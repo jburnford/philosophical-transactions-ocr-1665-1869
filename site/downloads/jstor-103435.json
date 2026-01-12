@@ -1,0 +1,69 @@
+{
+  "id": "951789c3da668f98d9f6ef903a824153969c6966",
+  "text": "sent, who sent a Verbal Process to the Court, without acquainting me with it, or offering any Objection, although I had very much press'd them to it, in order to obviate the Prejudices might be conceiv'd against this Novelty.\n\nAt my Return to Paris, Mr. de Salabery, surpriz'd at my knowing nothing of that Account, gave it me to answer, which I did Paragraph by Paragraph: The whole was given to a general Officer then at Court to examine, and make a Report of it, the Result of which was, That this Invention ought to be put in Practice.\n\nXII. Part of a Letter from the Reverend Mr. Rowlands, to the Reverend Mr. Derham, Prebendary of Windsor, and F. R. S. Concerning the Stocking of the River Mene with Oysters.\n\nThe River of Mene, that divides Anglesey from Carnarvonshire, near which I live, has at present the Bottom of its Channel for some Miles in length, all bedded with good Oysters, in such Plenty, that in the Season, several Boats are daily employ'd to dredge them up, and have done so these eight or nine Years last past to their great Profit; but what I recommend as observable, is, that about twenty four Years ago, we have good Assurance, that there were none to be found on that Bottom: but that a Gentleman about that Time, caused three or four hundred large\nlarge Oysters to be dropp'd into the Channel, just under his Land; from the Spat or Seed of which, it is most probable, the Flux and Reflux of Tides dispersing it, all the Bottom at length, where small Stones and a large Cultch received the Sperm, became cover'd with Oysters. And what favours this Conjecture, that they are a Brood of Oysters begun at that Time, is, that at the first finding, they appeared young and small, but have since yearly increased in Bulk and Plenty, though prodigious Quantities have been taken up of them.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103435.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 533,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1278,
+        2
+      ],
+      [
+        1278,
+        1812,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103435",
+    "title": "Part of a Letter from the Reverend Mr. Rowlands, to the Reverend Mr. Derham, Prebendary of Windsor, and F. R. S. concerning the Stocking of the River Mene with Oysters",
+    "authors": "Mr. Rowlands",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103435"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "5ae57fbd4ae7fa6ea75f49213c3199629b27493c",
+  "text": "XXV. Letter from Mr. John Baptist Beccaria, of Turin, F.R.S. to Mr. John Canton, F.R.S. on his new Phosphorus receiving several Colours, and only emitting the same.\n\nClarissimo Viro\n\nJoanni Canton, M.A. et Lond. Soc. Membro meritiff.\nJoannes Baptista Beccaria, ex Scholiis Piis, S.P.D.\n\nRead April 11, 1771.\n\nTHECAS plures confici curavi ex lamina ferrea cylindraceas intus nigerrimas. Operculum late pertusum crystallo occluditur, colore in theca quaque diverso. Singulis thecis offas immisi ex phosphoro calcareo-sulphureo singulas omnia pares. Haec clausae soli objiciuntur simul omnes; asportatas in tenebras aperio, atque offam, quae per crystallum viridem, video virescere; rubescere, quae per rubram; flavescere, quae per flavam crystallum lucem imbuit: videlicet confit hoc experimento jam non quantam solum lucem ebiberit phosphorus, sed et quam, eam ipsum unice emittere. Quod etiam experimentum Regiae Societati obveniet fortasse non injucundum. Vale.\n\nSummo Franklinio obsequium meo nomine, et salutem plurimam dicas rogo.\n\nXXVI. Some",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106094.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 393,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1046,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106094",
+    "title": "Letter from Mr. John Baptist Beccaria, of Turin, F. R. S. to Mr. John Canton, F. R. S. on His New Phosphorus Receiving Several Colours, and Only Emitting the Same",
+    "authors": "John Baptist Beccaria",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106094"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "496e99b5392921b16ffccb5f378bb2abcfb05413",
+  "text": "III. An Extraordinary high Tide in the River Thames observed by Capt. Tho. Jones.\n\nMarch the 8th, 1725-6, The Tide in the River Thames, at New Crane in Shadwell, flow'd twenty Foot, five Inches and a half, taken by a Level, from that High-water Mark, to Low-water the next Morning, and was four Inches higher than has been known these fourty Years.\n\nIV. Observations upon the Tides in the River Thames, by Mr. Henry de Saumarez.\n\nThat the Use of my Instrument call'd the * Marine Surveyor may yet farther appear, I shall here give some Experiments I made with it on the River Thames, in order to determine the Strength of the Tides of Flood and Ebb. Were the same to be done in the Channel, and on the Sea Coast of Great Britain, and mark'd in our Charts, I am humbly of Opinion, it would be of no small advantage to our Commerce, and of consequence a sufficient Recommendation of the Marine Surveyor, if that alone were the Use of it.\n\nI am induced the rather to be of this Opinion, in regard I am not insensible of the Dangers on the Casquets, in the Race of Alderney, &c. where rapid Tides and Currents have occasioned but too many to mourn the Loss of Friends and Fortunes: As I dwell in the Neighbourhood of these Dangers, I have (in manifest hazard of my Life) survey'd and taken correct Draughts not only of them, but of the Islands of Guernsey, Sark, &c. And as I persuade myself they are as correct, as any Thing that has hitherto appear'd of this kind, it is my intent to publish them for the Good of the Publick.\n\n* Vid. Philos. Transact. No. 391.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103446.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 458,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1558,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103446",
+    "title": "An Extraordinary High Tide in the River Thames Observ d by Capt. Tho. Jones",
+    "authors": "Tho. Jones",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103446"
+  }
+}

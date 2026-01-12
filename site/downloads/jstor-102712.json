@@ -1,0 +1,79 @@
+{
+  "id": "e08cd6b74d9d3034a04e904b57a8186a36e15ac5",
+  "text": "Caput XVII. De Doloribus in Corpore vagis, fixis; de Ophthalmia; de Erysipelite; & Achori-\nbus Arthriticis.\n\nCaput XVIII. De Epiphora, & Dolore Dentium Ar-\nthritico.\n\nCaput XIX. Corollaria continet, cum Epilogo.\n\nHæc sunt (Vir Clarissime!) Quæ de Interna Arthritide,\nAffectu non novo, sed cum magno humani generis in-\ncommodo à nostris Hominibus neglecto, lucubravi; &\nquidem, quantum in me est, ad Hippocratis mentem: Ita\nenim Ille,\n\nκαὶ τοῦτο ἐν εἰδέναι Χρῖ, ἐπεὶ Αἰσχρὸς ἢ Νεῖκος, ἐπεὶ Μεταπνίγει ἐς\nἐπίσημον Δάσος.\n\nVale, Vir Doctissime! Et Societatem summam, qua decet,\nObservantia meo Nomine saluta.\n\nIsca Damnoniorum, 3 Idus Aprilis, MDCCCVII.\n\nIX. An Account of a Book, intituled, The Whole\nArt of Husbandry. By J. M. Esq F. R. S.\n\nTHIS Book gives an Account of the several Ways and\nMethods about the Inclosing of Land.\nThe way of ordering and improving of all sorts of\nPasture and Meadow Land, and of the overflowing and\ndraining Marsh and Boggy Lands, &c.\nThe way of making of Hay, and the Management of\nClover, St. Foin, and other French Grasses.\nThe ordering of all sorts of Arable Lands for all sorts\nof Grains; the making of several sorts of Ploughs, and the\ndifferent\ndifferent ways used in several Counties, for the improvement of Chalkey, Sandy, Gravelly, Stony, Clay, and other sorts of Land.\n\nAn Account of the several sorts of Manure used for the improvement of Land; as of Burning of Land, of several sorts of Marle, of Sea Sand, Dung, Ashes, &c. and what is properest and best for each sort of Soil, &c.\n\nOf the ordering of the several sorts of Corn and Grain, as Wheat, Rye, &c. and what Soil is best for each particular sort, &c.\n\nOf the several ways of preserving of Corn; the making of Graineries, and the ordering of each sort for Keeping, &c.\n\nOf the several Methods used for the ordering of Beasts, Fowls, Insects, and other things necessary for the Stocking of a Farm.\n\nOf such things as are Injurious to the Husbandman, with Remedies for the same.\n\nOf the general use of all sorts of Grain; of several ways of making Malt, &c.\n\nOf the several Instruments, Tools and Engines necessary for the Husbandman: Of Building and Repairs, and of the several sorts of Work belonging to the Husbandman, with the Cost and Charges of each.\n\nOf the Benefit and Advantage of Timber Trees, and what Soils are best for each sort, and the way of Raising, Planting, and ordering of all sort of Timber Trees, and Coppice Wood, &c.\n\nOf the Raising of Fruit Trees, the making of a Nursery, the several ways of Grafting, Inoculating, &c. the way of Cultivating the Ground, with Directions how to prune and manage each particular sort of Fruit, and a Catalogue of several sorts of Fruit, with particular Remarks on them.\nOf the ordering of Vines, the making of Vineyards, and of English Wine.\n\nOf several ways of making English Liquors; as Beer, Ale, Cyder, Mum, and several sorts of English Wines, &c. with many other Particulars, too long to be inserted here.\n\nThe whole Work contains a compleat Collection of what the Ancients and Moderns have writ about this Subject, and near a third part of it is new Experiments and Improvements; giving an account of all the Ways and Methods used in several Counties, especially about London; with a design to procure intelligence concerning the several sorts of Husbandry used in all Parts of England, in order to make a compleat System of it: Which the Author hopes all that are willing to promote so useful a Work will assist him in; and he thinks what he has already done, will make it easy for any so to do, because he has therein stated the Practice of the above mentioned Places; so that every one may readily know what different Methods, and what particular sort of Management, is used upon any sorts of Lands by either themselves or their Neighbours in the places where they live, which is not mentioned in the aforesaid Book, and by that means be easily able to give an account to the Publisher.\n\nLondon, Printed for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Prince's-Arms in St. Paul's Church yard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102712.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1228,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1183,
+        2
+      ],
+      [
+        1183,
+        2727,
+        3
+      ],
+      [
+        2727,
+        4082,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102712",
+    "title": "An Account of a Book",
+    "authors": "J. M.",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102712"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "581ae94221a3b88fc03c2547f94a023aa0a0b0f8",
+  "text": "A Summary Account given by Dr. John Wallis,\nOf the General Laws of Motion, by way of Letter written by him\nto the Publisher, and communicated to the R. Society, Novemb. 26. 1668.\n\nPetis, V. C. ut quae meri sunt de Motibus æstimandis Principia, paucis\naperire velim. Id autem, si meministi, jam olim factum est, non mo-\ndo in illo Operc., quod ante octo menses R. Societati exhibuit, eorum\njussu prælo subjectum est; sed & jamdudum in duobus scriptis eadem Socie-\ntati ante plures Annos exhibitis, quæ & Te penes sunt: Quorum alterum,\nex generalibus Motus Principiis, rationem reddit, quæ fieri possit, ut Ho-\nmo flatu suo (Vesicam inflando) saltem Centipondium elevare potis sit\n(quod Experim. ante 16. vel 18. annos Oxonia exhibuit, coram Ipsis ali-\nquoties fuit repetitum;) Alterum, varia de Experim. Torricelliano dicto,\nPhænomena, ex principiis Hydrostaticis exponit.\n\nSumma rei huc redit:\n\n1. Si Agens ut A efficit ut E; Agens ut 2 A, efficiet ut 2 E; 3 A, ut\n3 E, &c. cæteris paribus: Et, universaliter, m A ut m E; cujuscunq; rati-\nonis Exponens sit m.\n\n2. Ergo, si Vis ut V moveat Pondus P; vis m V ut movebit m P, cæter:\nparibus: puta, per eandem Longitudinem eodem Tempore, h.e. eadem Ce-\nleritate.\n\n3. Item, si Tempore T. moveat illud per Longitudinem L, Tempore\nT movebit per Longitudinem n L.\n\n4. Adeoque, si Vis V, tempore T, moveat Pondus P, per Longitudinem\nL; Vis m V, Tempore n T, movebit m P, per Longitud. n L. Et prop-\nterea, ut V T (factum ex viribus & tempore) ad P L (factum ex pondere\n& Longitudine) sic m n V T, ad m n P L.\n\n5. Quoniam Celeritatis gradus sunt Longitudinibus eodem Tempore\ntransactis Proportionales, seu (quod eodem recidit) reciproce Propor-\ntionales Temporibus eadem Longitudini transigendæ impensis: erit\n\\[\n\\frac{L}{T} \\cdot C :: \\frac{m L}{n T} \\cdot \\frac{m}{n} C. \\text{ h.e. Gradus Celeritatum, in ratione composita ex}\n\\]\nDirecta Longitudinum & Reciproca Temporum.\n\n6. Ergo, propter V T. P L :: m n V T. m n P L: erit V. \\(\\frac{P L}{T}\\) :: m V. \\(\\frac{m n P L}{n T}\\):\nh.e. V. P C :: m V. m P C = m P x C = P x m C.\n\n7. Hoc est, si Vis V movere potis sit Pondus P, Celeritate C: Vis m V\nmovebit vel idem Pondus P, Celeritate m C; vel eadem Celeritate, Pon-\ndus m P; vel denique quodvis Pondus ea Celeritate, ut factum ex Pondere\n& Celeritate sit m P C.\n\n8. Atque hinc dependet omnium Machinarum (pro facilitandis motibus)\nconstru-\nconstruendarum ratio: nempe, ut qua ratione augetur Pondus, eadem minuetur Celeritas; quo fiat, ut Factum ex Celeritate & Pondere, eadem Vi movendo, idem sit: puta V. P C :: V. m P × \\(\\frac{1}{m}\\) C = P C.\n\n9. Si Pondus P, Vi V, Celeritate C, latum, in pondus Quiescens (non impeditum) m P directe impingat; ferentur utraque Celeritate \\(\\frac{1}{1+m}\\) C. Nam, propter eandem Vim, majori Ponderi movendo adhibitam, eadem ratione minuetur autti Celeritas: nempe V. P C :: V. \\(\\frac{1}{1+m}\\) P × \\(\\frac{1}{1+m}\\) C = P C. Adeoque Alterius Impetus (intellige factum ex Pondere & Celeritate) fiet \\(\\frac{1}{1+m}\\) P C; Reliqui \\(\\frac{1}{1+m}\\) m P C.\n\n10. Si in Pondus P, (Vi V) Celeritate C latum, directe impingat aliud, eadem via, majori Celeritate insequens; puta Pondus m P, Celeritate n C, adeoque Vi mn V latum; ferentur ambo Celeritate \\(\\frac{1}{1+m}\\) C. Nam V. P C :: mn V. m n P C :: V + mn V = \\(\\frac{1}{1+m}\\) V. \\(\\frac{1}{1+m}\\) P C = \\(\\frac{1}{1+m}\\) P × \\(\\frac{1}{1+m}\\) C. Adeoque praecedentis Impetus fiet \\(\\frac{1}{1+m}\\) P C; subsequentis, \\(\\frac{1}{1+m}\\) m P C.\n\n11. Si Pondera contrariis Viis lata, sibi directe occurrant sive impingant mutuo, puta, Pondus P (Vi V) Celeritate C, dextrorsum; & Pondus m P, Celeritate n C (adeoque Vi mn V) sinistrorsum: Utriusque Celeritas, Impetus, & directio, sic colliguntur. Pondus dextrorsum latum, reliquo si quiesceret, inferret Celeritatem \\(\\frac{1}{1+m}\\) C, adeoque Impetum \\(\\frac{1}{1+m}\\) m P C, dextrorsum, sibique retineret hanc eandem Celeritatem; adeoque Impetum \\(\\frac{1}{1+m}\\) P C dextrorsum (per Sect. 9.) Pondusque sinistrorsum latum (simili ratione) reliquo si quiesceret, inferret Celeritatem \\(\\frac{1}{1+m}\\) C, adeoque Impetum \\(\\frac{1}{1+m}\\) m P C sinistrorsum; sibique retineret hanc eandem Celeritatem; adeoque Impetum \\(\\frac{1}{1+m}\\) m P C sinistrorsum. Cum itaque motus utrinque fiat; Impetus dextrorsum prius lati, jam aggregatus erit ex \\(\\frac{1}{1+m}\\) P C dextrorsum, & \\(\\frac{1}{1+m}\\) m P C sinistrorsum; adeoque readse vel dextrorsum vel sinistrorsum, prout ille vel hic major fuerit, eo impetu qui est duorum differentia: h.e. (posito signo dextrorsum, & sinistrorsum significante,) Impetus erit\n\\[ + \\frac{1}{1+m}PC = \\frac{m}{1+m}PC = \\frac{1-m}{1+m}P; \\text{ Celeritas } \\frac{1-m}{1+m}C; \\]\n(adeoque Dextrorum vel sinistrorum, prout \\( m \\) vel \\( n \\) major fuerit.)\n\nEt similiter Impetus sinistrorum prius lati, erit \\( + \\frac{1}{1+m}mPC \\)\n\\[- \\frac{mn}{1+m}mPC = \\frac{1-mn}{1+m}mPC; \\text{ Celeritas } \\frac{1-mn}{1+m}C : \\text{ Adeoque dextrorum vel sinistrorum, prout } m \\text{ vel } n \\text{ major fuerit.}\\]\n\n12. Si vero Pondera nec eadem directe vii procedunt, nec directe contraria, sed oblique sibi mutuo impingant; moderandus est praecedens Calculus pro obliquitatis mensura. Impetus autem oblique impingentis, ad ejusdem Impetum qui esset si directe impingeret (ceter. paribus) est in ea ratione qua Radius ad Secantem anguli Obliquitatis; (Quod etiam intelligendum est, ubi Perpendiculariter, sed Oblique cadit in percussi superficiem non minus quam ubi viæ motuum se mutuo Oblique decussant:) Quæ quædem Consideratio, cum Calculo priori debite adhibita, determinabit, quænam futura sint sic Oblique impingentium Celeritas, Impetus, & direction, h.e. quo Impetu, qua Celeritate, & in quas partes ab invicem resilient, quæ sic impingant. Eademque est ratio Gravitationis gravium Oblique descendentium, ad eorundem Perpendiculariter descendentium Gravitationum. Quod alibi demonstramus.\n\n13 Si quæ sic impingunt Corpora, intelligantur non absolute dura (prout hactenus supposuiimus) sed ita ictui cedentia, ut Elastica tamen vis eae valeant restituere, hinc fieri poterit ut a se mutuo resilient ea corpora, quæ secus essent simul processura; (& quidem plus minusve, prout hæc vis restitutiva major minorve fuerit,) nempe si Impetus ex vi rellitutiva sit progressiva major.\n\nIn motibus acceleratis & retardatis, Impetus pro singulis momentis is reputandus est, qui gradui Celeritatis tum acquisito convenit. Ubi autem per Curvam fit motus, ea reputanda est, in singulis punctis, motus direction, quæ est Rectæ ibidem Tangentis. Et si quando motus tum acceleratus vel retardatus fit, tum & per Curvam fiat (ut in Vibrationibus Penduli;) Impetus æstimandus erit, pro singulis punctis, secundum tum gradum accelerationis, tum Obliquitatem ibidem Tangentis.\n\nAtque hæ sunt (quantum Ego judico) Generales Motuum Leges, quæ ad Casus particulares Calculo sunt accommodandæ. Quos tamen, si sigillatim persequi vellem Epistolæ limites transilirem: Neque commode fieri potest scire Schematum apparatu, quibus hic abstinendum putavi. Vale. Oxon. d. 15. Novemb. 1668.\n\nDr. Christo-\nDr. Christopher Wren\n\nTheory concerning the same Subject; imparted to the R. Society Decemb. 17. last, though entertain'd by the Author divers years ago, and verified by many Experiments, made by Himself and that other excellent Mathematician M. Rook before the said Society, as is attested by many Worthy Members of that Illustrious Body.\n\nLex Naturae de Collisione Corporum.\n\nVelocitates Corporum proprie & maxime Naturales sunt ad Corpora reciproce proportionales.\n\nItaque Corpora R.S. habentia proprias Velocitates, etiam post impulsum retinent proprias.\n\nEt Corpora R.S. improprias Velocitates habentia ex Impulsu revertuntur ad Aequilibrium; hoc est, Quantum R superat, S deficit a propria Velocitate arte Impulsu, tantum ex Impulso abstrahitur ab R & additur ipsi S &c contra.\n\nQuare Collisio Corporum proprias Velocitatem habentium equipollet Librae scilicet super Centrum Gravitatis.\n\nEt Collisio Corporum improprias Velocitatem habentium equipollet Librae super bina Centra aequaliter huic inde a Centro Gravitatis distantia: Libra vero jugum, ubi opus est, producitur.\n\nItaque Corporum aequalium: improprie moventium tres sunt casus. Corporum vero inaequalium improprie moventium (sive ad contrarias sive ad easdem partes) decem sunt omnino Casus, quorum quinque oriuntur ex Conversione.\n\nInaequalia.\n\n|   |   |\n|---|---|\n| 1 | R + a - c = s |\n| 2 | R o a e s |\n| 3 | R a e s |\n| 4 | R o a s |\n| 5 | R a s |\n\nAequalia.\n\n|   |   |\n|---|---|\n| 6 | R o a c s |\n| 7 | R o a s |\n| 8 | R o a s |\n| 9 | R o a s |\n| 10 | R o a s |\n\nR.S.Corn.\nRS Corpora aquilia, vel R corpus majus, S corpus minus.\na Centrum Gravitatis sive ansa Librae. Z summa velocitatum utrinque corporis.\n\nRe \\( \\{ \\) R \\( \\} \\) ante impulsum data \\( \\{ \\) So \\( \\} \\) veloci corp. \\( \\{ \\) S \\( \\} \\) ante impuls data.\nSe \\( \\{ \\) S \\( \\} \\) post impuls. quaesita \\( \\{ \\) Ro \\( \\} \\) veloci corp. \\( \\{ \\) R \\( \\} \\) post impuls. quaesita.\nOR \\( \\{ \\) R \\( \\} \\) veloci corp. \\( \\{ \\) eS \\( \\} \\) veloci corp. \\( \\{ \\) S \\( \\} \\) post impuls. quaesita.\nOS \\( \\{ \\) S \\( \\} \\) post impuls. quaesita \\( \\{ \\) eR \\( \\} \\) veloci corp. \\( \\{ \\) R \\( \\} \\) post impuls. quaesita.\n\n[Lege syllabas (quamvis disjunctas) Re Se o Ro S vel Ro So Se R in Linea cujuslibet Casus, & harum quae scribitur in Schemate more Hebraico, ea indicat motum contrarium motui, quem notat cujusvis syllaba scriptio Latina. Syllaba conjuncta quietem Corporis denotat.]\n\nCalculus \\( \\{ \\) R \\( \\} + S : S :: Z : Ra \\} \\) Re \\( - 2 Ra = oR \\} \\) So \\( - 2 Sa = eS \\}.\n\\( \\{ \\) R \\( \\} + S : R :: Z : Sa \\} \\) \\( 2Sa \\pm Se = oS \\} \\) \\( 2Ra + Ro = eR \\).\n\nNatura observat regulas Additionis & Subductionis Speciosae.\n\nAn Account of two Books.\n\nI. HISTORIA CÆLESTIS; Ex Libris & Commentariis M.Stis. Observationum Vicennalium TYCHONIS BRAHE, Dani, Augustæ Vindelic. An. 1666, in Folio.\n\nThese Observations of the Noble Tycho, as they were procured and preserved by those Three Mighty Emperors, RUDOLPH. II. FERDINAND. II. and III.; so they were lately by the Command of his Imperial Majesty LEOPOLD made publick. They are usher'd in by a Liber Prologomenos, compendiously representing the Observations made from the time of the very Infancy of Astronomy unto that of its Restoration by the Illustrious Tycho, and reduced into 7. Classes, viz.\n\n1. The Babylonian Observations; from A. before Christ 721. unto A. 432.\n2. The Grecian; from A. before Christ 432. unto the beginning of the Vulgar Christian Account.\n3. The Alexandrian; from A. Christi 1. until A. 827.\n4. The Syro-Persian; from A.C. 827. unto 1457.\n5. The Norimbergian; from A.C. 1457. unto 1509.\n6. The",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101321.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9362,
+    "total-output-tokens": 3989,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2385,
+        2
+      ],
+      [
+        2385,
+        4596,
+        3
+      ],
+      [
+        4596,
+        7089,
+        4
+      ],
+      [
+        7089,
+        8634,
+        5
+      ],
+      [
+        8634,
+        10700,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101321",
+    "title": "A Summary Account of the General Laws of Motion by Dr. John Wallis, and Dr. Christopher Wren.",
+    "authors": "Christopher Wren, John Wallis",
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/101321"
+  }
+}

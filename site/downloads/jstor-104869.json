@@ -1,0 +1,69 @@
+{
+  "id": "c69557fee1cb03b326be7b05fa99298f2df64508",
+  "text": "Miles, and many Thousands more Acres on both Sides the Road are given.\n\nF. Drake.\n\nXXIV. A Letter from Mr. Joseph Amcs F.R.S. and Secr. of the Soc. Antiquar. to C. Mortimer M.D. Secr. R.S. concerning a Plica Polonica.\n\nGood Sir,\n\nRead May 28. June the 22d, 1746, in the Morning, '747.\n\nMrs. Hannah Coomes, a neat old Woman, whose Hair (or Plica Polonica, as it is call'd) I shew'd the Society last Thursday, came and gave me the following Informations.\n\nThat she was of a genteel Family in Staffordshire, who had suffer'd much in the Civil Wars; and that her Mother had her Hair grow in the same manner, whose Maiden Name was Alice Goldsmith; but her own Maiden Name was Hannah Bunby, born in the Hay-market, in the Parish of White-Chapel and baptized at Aldgate on a Saturday the 1st of June, 1645. Her Mother, having such sort of Hair, used to comb hers much to prevent it, till sometimes the Blood came: When she was about 14 Years old she perceived it to grow thick just about the back Part of her Head, and at length grew to this matted long Substance I now saw it, of 109 Inches long. She says\nsays she has had four Husbands; the first Nicholas Woodcock, to whom she was married when about 28 Years old, and had four Children by him; all died young; but observed nothing of their Hair growing so. I am,\n\nSIR,\n\nYour most humble Servant,\n\nJ. Ames.\n\nSee some Cases of the Plica Polonica in these Transactions, No. 417. p. 50. et seq.\n\nC. M.\n\nXXV. A Description of some Clay Moulds or Concaves of ancient Roman Coins found in Shropshire; by Mr. Henry Baker F.R.S.\n\nRead June 4. 1747.\n\nHAVING been lately favour'd by a very ingenious Gentleman of Shrewsbury with the Sight and Use of some ancient Moulds made of Clay, bearing the same Types and Inscriptions that some of the Roman Coins are known to have, and being enabled, by the Assistance of our most worthy President of the Royal Society, to make out the Inscriptions and Types impressed on the said Moulds, I judged it might prove agreeable to this Society to see Specimens of so great a Curiosity as these Moulds seem to be, and to have some Account concerning them.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104869.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 658,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1100,
+        2
+      ],
+      [
+        1100,
+        2124,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104869",
+    "title": "A Letter from Mr. Joseph Ames F. R. S. and Secr. of the Soc. Antiquar. to C. Mortimer M. D. Secr. R. S. concerning a Plica Polonica",
+    "authors": "Joseph Ames",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104869"
+  }
+}

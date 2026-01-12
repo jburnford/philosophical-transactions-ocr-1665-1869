@@ -1,0 +1,69 @@
+{
+  "id": "f5eef148cfb8cb40c2ddc1acfb00b41ac73fd260",
+  "text": "This Instrument with a little variation may be made a Reflecting Microscope of Water, if instead of the Ring G there be only a small Arm with a hole in it to receive a drop of Water, and the Cylindrick Vessel B be either taken away or screwed on with its bottom upwards, so as to make an Object Plate, and this will be found more convenient for viewing the Textures of Opacous Object, than that described in No. 223 of the Transactions, which is more fit for Fluid and Transparent ones.\n\nI have begun some Experiments towards a way of making a large Concave Speculum for Burning Glasses, and have proceeded so far, as to find Materials that will naturally receive their true Figure, though of many Feet in Diameter, but have not yet overcome the difficulties of giving them a good Polish.\n\nVII. Extract of two Letters, the one to Dr. William Gibbons, Fellow of the College of Physitians London; the other to Mr. Nicholas Staphorst, Operator in Chymistry at Apothecaries-Hall, from Mr. Edward Coles, giving an account of a Red Colour produced by mixture of a Sulphureous Spirit with a Volatile Alcali.\n\nIn making several Chymical Experiments found a Sulphureous Spirit, which being mixt with a Volatile Alcali, such as Spirit of Sal Armoniack, or Urin, &c. gives it a red Colour in a moment, and does the same without any effervescence, tho' both the Liquors were clear\nclear before, wherefore considering that this Experiment might be serviceable in the demonstrating of Sanguification: I humbly offer it to your more refined judgment, and am\n\n—In the Box is a bottle of the Spirit, you may put two parts of the Spirit to one of Spirit of Sal Armoniack, and shake the Glass or Bottle, and it will be red in a Moment, tho' the more the Glass is shaken the deeper or blacker red it will be. I suppose there is enough in the Glass for you to Experiment, and to shew to the Virtuosos.—I made the Spirit by Distilling 2 or 3 Pound of Benzoin with a little Sand in a Retort, ad Siccitatem, and put the Oil, Spirit, and Flowers altogether into a Paper Filter, and the Spirit which came first thro' is that which I have sent.\n\nThe Experiment abovementioned was tried before the Royal Society, and succeeded as above related, but the Circumstances must be diligently attended, or else it will not succeed.\n\nVIII. A Note Communicated by Mr. Hill, confirming the great Age of Henry Jenkins, mentioned No 221. p. 265. of these Transactions.\n\nIn the Kings Remembrancers Office in the Exchequer, is a record of a deposition in a cause by English Bill, between Ant. Clark and Smirkson, taken April 1665, at Kettering in Yorkshire, where Henry Jenkins of Ellerton upon Swale Labourer Aged 157 Years was produced and deposed as a Witness. Divers very ancient Witnesses swore him to be a very Old Man when they first knew him.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102361.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 772,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1369,
+        2
+      ],
+      [
+        1369,
+        2808,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102361",
+    "title": "Extract of Two Letters, the One to Dr. William Gibbons, Fellow of the College of Physitians London; the Other to Mr. Nicholas Staphorst, Operator in Chymistry at Apothecaries.Hall, from Mr. Edward Coles, Giving an Account of a Red Colour Produced by Mixture of a Sulphureous Spirit with a Volatile Alcali",
+    "authors": "Edward Coles",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102361"
+  }
+}

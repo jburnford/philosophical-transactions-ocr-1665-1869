@@ -1,0 +1,59 @@
+{
+  "id": "b390271e33aa7c080753e072e3c9ad647b7c3346",
+  "text": "A Receipt to cure Mad Dogs, or Men or Beasts bitten by Mad Dogs: Communicated to the Royal Society, by Sir Rob. Gourdon. By His MAJESTIES Command.\n\nBy Grimony Roots, Primrose Roots, Dragon Roots, Single Peony Roots, the Leaves of Box, of each a Handful; the Starr of the Earth two Handfuls; the black of Crabs Claws prepared, Venice Treacle, of each one Ounce; all these are to be beaten and bruised together, and boyled in about a Gallon of Milk, till the half be boyled away; then put it into a Bottle, unstrained, and give of it, about 3 or 4 Spoonfuls at a time, to the Dog or Beast, three Mornings together before new and full Moon.\n\nObserve that it will be necessary the Day before you administer the Medicine, to take away a little Blood.\n\nSome of these Roots and Herbs, being difficult to be gotten in the Winter, they may be gathered in their Season, and being dried, and well powdered, may be given mixt with the Crabs Claws, and Venice Treacle, with Sallet Oyl or Butter, and it will do as well.\n\nIf it be for Men or Women that are bitten with Mad Dogs; take the same Ingredients in the same Quantities, and the Roots and Herbs being bruised altogether, with the Crabs Claws and Venice Treacle; let them be infused warm in two Quarts of strong White Wine, for at least 12 Hours. This being strained, the Party bitten is to take about a quarter of a Pint Evening and Morning, three Days before the new and full Moon; it may be sweetned either with Sugar or some Cordial Syrup.\n\nN. B. The Plant in this Receipt called Starr of the Earth, and which is the chief Ingredient, is known among the Botanists, by the Name of Sesamoides Salamantica, Parkinsoni, sive Lychnis viscosa flore musco, Casp. Baukini. Anglice, Spanish Catch-flie. It grows plentifully about Thetford, and about the Mills near New-Market. Vide Raii Catalogum Plantarum Angliae, &c. Histor. Plant Tom. II. inter Lychnides.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101886.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 551,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1897,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101886",
+    "title": "A Receipt to Cure Mad Dogs, or Men or Beasts Bitten by Mad Dogs: Communicated to the Royal Society, by Sir Rob. Gourdon. By His Majesties Command",
+    "authors": "Rob. Gourdon",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101886"
+  }
+}

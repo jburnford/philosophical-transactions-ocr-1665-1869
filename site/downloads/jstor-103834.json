@@ -1,0 +1,69 @@
+{
+  "id": "5bba3fc763561db775e60238dcca144eee2a7a61",
+  "text": "VII. Nonnullae Jovis Satellitum Eclipsees Bono-\nniæ, Observatae ab Eustachio Manfredi.\n\nTemp. Ver. Anno 1732. Apr. 2.\n\n10 56 3 Emergso 2di satellit. Jovis ab umbra,\ncælo sereno, Telescopio pedum 22.\n\n13 2 36 Emergso 4di satel. Jovis ab umbra,\ncælo sereno, Telef. p. 22.\n\nApr. 3.\n\n7 31 40 Emergso ab umbra intimi Jovis satel.\ncælo sereno, Telef. p. 22.\n\nApr. 9.\n\n13 32 4 Emergso ab umbra 2di satel. Jovis, cælo\nsereno, Telef. p. 22. aliquantulum dubia.\n\nMaij 3.\n\n9 44 41 Emergso ab umbra intimi satel. Jovis,\ncælo sereno, Telef. p. 22.\n\nMaij 4.\n\nEmergso ab umbra Jovis 2di satel. ne-\nbuloso cælo, & spirante vento.\n\n10 35 32 Telef. p. 14.\n\n10 35 41 Telef. p. 11.\n\nMaij 26.\n\nEmergso intimi satel. Jovis ab umbra,\ncælo sereno.\n\n9 58 4 Telef. p. 22.\n\n9 58 21 Telef. p. 11.\n\nQ An. 1732.\nTemp. Ver. Anno 1732. Jun. 2.\n\n9 43 47 Emersio 3°ii satel. ab umbra Jovis, nebuloso coelo, Telef. pedum 22.\n\nJun. 9.\n\n11 7 24 Immersio 3°ii satel. in umbram coelo sereno, Telef. p. 22.\n\nJun. 18.\n\n10 8 25 Emersio ab umbar intimi Jovis satel. coelo sereno, Telef. p. 22.\n\nJulij 27.\n\n7 36 5 Emersio intimi satel. ab umbra Jovis, coelo sereno, Telef. p. II. dubia.\n\nAnno 1733. Jan. 17.\n\nImmersio 3°ii satel. in umbram Jovis, coelo sereno.\n\n14 8 45 Telef. p. 22.\n\n14 8 33 Telef. p. 14.\n\n16 13 29 Emersio 3°ii satel. ab umbra Jovis, coelo sereno, Telef. p. 22.\n\nMart. 12.\n\nImmersio intimi satel. in umbram Jovis, coelo sereno.\n\n13 23 34 Telef. p. 22.\n\n13 23 22 Telef. p. II.\n\nVIII. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103834.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 842,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        782,
+        2
+      ],
+      [
+        782,
+        1459,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103834",
+    "title": "Nonnullae Jovis Satellitum Eclipses Bononiae, Observatae ab Eustachio Manfredi",
+    "authors": "Eustachio Manfredi",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103834"
+  }
+}

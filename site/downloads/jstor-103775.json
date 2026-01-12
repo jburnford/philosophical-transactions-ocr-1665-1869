@@ -1,0 +1,59 @@
+{
+  "id": "d08cb57f70c0ea5d1c06f1c24e5ed50c11a4ad4a",
+  "text": "XI. Ambergris found in Whales. Communicated by Dr. Boylston of Boston in New-England.\n\nThe most learned Part of Mankind are still at a Loss about many Things, even in medical Use; and, particularly, were so in what is called Ambergris, until our Whale Fishermen of Nantucket, in New-England, some three or four Years past, made the Discovery. Their Account to me is this.\n\nCutting up a Spermaceti Bull Whale, they found accidentally in him, about twenty Pound Weight, more or less, of that Drug. After which, they, and other such Fishermen, became very curious in searching all such Whales they kill'd; and it has been since found in lesser Quantities, in several Male Whales of that Kind, and in no other, and that scarcely in one of an Hundred of them. They add further, that it is contained in a Cyst, or Bag, without any inlet or outlet to it, and that they have sometimes found the Bag empty, and yet entire.\n\nThe Bag is nowhere to be found, but near the Genital Parts of the Fish. The Ambergris is, when first taken out, moist, and of an exceeding strong and offensive Smell.\n\nWhether or not (from the Account above) the Ambergris be naturally, or accidentally produced in that Fish, I leave to the Learned to determine.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103775.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 355,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1226,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103775",
+    "title": "Ambergris Found in Whales. Communicated by Dr. Boylston of Boston in New-England",
+    "authors": "Dr. Boylston",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103775"
+  }
+}

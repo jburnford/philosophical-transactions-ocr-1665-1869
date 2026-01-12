@@ -1,0 +1,59 @@
+{
+  "id": "3155ec6a17cdf7b6e9f3dd57f0a0f580bb147c9e",
+  "text": "ADDITIONS AND CORRECTIONS.\n\nPage 135, last line but two, for $\\sigma \\frac{dx}{dt}$, read $\\sigma \\frac{dx_o}{dt}$\none, for $\\sigma \\frac{dy}{dt}$, read $\\sigma \\frac{dy_o}{dt}$\n, for $\\sigma \\frac{dz}{dt}$, read $\\sigma \\frac{dz_o}{dt}$\n\n141, line 1, for $\\sigma' \\rho^o \\cos \\lambda^o \\sin (c^o - n)$, read $\\sigma' \\rho^o \\cos \\lambda^o \\sin (c^o - n)$\n151, — 1, for $\\frac{(r^2 - r'^2)^2}{(r + r')^2}$, read $\\frac{(r^2 - r'^2)^2}{(r + r')^2}$\n180, — 9, for $\\sigma' \\rho^o \\cos \\lambda^o \\sin (c^o - n)$, read $\\sigma' \\rho^o \\cos \\lambda^o \\sin (c^o - n)$\n399, line 11, for perfectly, read perfectly flat\n18, for S, read S'\n22, for s, read s', and for rs, read rs'\n402, table, col. 3, for $4^\\circ 37'$, read $3^\\circ 37'$\n403, line 12, for Ms'Nt, read Ms'Nt'\n487, — 3, at the word iodine, add the following note: I am obliged to M. Courtois for the iodine employed in these experiments, who, with great liberality, furnished me with a considerable quantity.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107453.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 463,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        964,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107453",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1814,
+    "volume": "104",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107453"
+  }
+}

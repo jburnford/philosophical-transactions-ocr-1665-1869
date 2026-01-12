@@ -1,0 +1,69 @@
+{
+  "id": "a6ba75252e79112d37ad4baee7d6e9eea7940fbc",
+  "text": "still greater, if there be many of these Points, that the Error lights not upon such a single Article; as in the Third Proposition.\n\nIV. Part of a Letter from Dr. Hotton to Dr. Tancred Robinson, Concerning the late Swammerdams Treatise de Apibus; the Ahmella Ceylonensisbus, and the Faba Sti. Ignatii.\n\nIT A est, damnabat sua studia ὑπαρξίας Swammerdamius noster; erat enim Sectae Antoniae Bourignon adiunctus: id vero doleo non prodisse Amici hujus nostri Commentarium de Apibus, omnium quae unquam elaboravit Caetigatissimum; hoc opus vernaculo Sermone scriptum cum Iconibus quamplurimis ed spectantibus plus semel apud eum vidisse me satis memini; at ubi jam latitat ignoro prorsus.\n\nNuperis Annis magnam celebritatem nacta est ob vim Lithontripticam quae ipsi ascribitur, Herba quaedam à Ceylonensisbus Ahmella dicta. An jam uspiam existet necno; sed eam colui, cum versarer in Praefectura Horti Amstelod. Flores fundit in summis caulibus persimiles Chrysanthemo Curassav. alato caule flo. Aurantiæ Par. Bat. Semen ei bidens, caules quadrati, fol. Lamii vel Urticæ (quae subacria sunt) conjugatis amicti; unde manifestè liquet ad Cannabinæ Genus, quod bidens vocat Ca/alpinus, eumque sequutus Tournefortius, spectare; neque fortè inconcinnè nuncupari posse Cannabinam aut bidensem Urticaefoliam Indicam Lithontripticam.\n\nNovissime quoque increbuit usus Fabe, quam vocant, di St. Ignatio; dicitur & Higosur & Faba di St. Nicholas & de Cava longa. Semen est amarissimum, quod nullam Fabæ\nFabae praesertim similitudinem, ut ex ipso semine adjecto videbis. Ad movendos sudores & debellandos Febris praecipuum creditur; & Diarrhoeæ, Dysenteriæ, colicis doloribus, motibus convulsivis, ipsique epilepsia mederi, & externè admotum scabiei; celebratur cum primis & ejus Virtus Alexipharmaca. Provenit in Philippinis quas vocant, iisque vicinis Insulis. Cujus Generis stirps sit ignoratur; id tantum didici ex D. Rafaële de Roa, Hispano viro egregio & erudito, qui in iis Insulis diu vixit, convolvulaceam esse Plantam Arbores altissimas scandentem, fructumque ferre Mali Punici magnitudine, quo complura Semina reconduntur, ex quibus deciduis novæ Plantæ subnascuntur. Fortè erit ut ejus mentio fiat in Historia Naturali Insularum Molucarum, Opere grandi & insigni, quod ad Societatem nostram Indicam nuper misit ejus Auctor Georgius Rumphius. Hoc si aliquando publicetur (ut credibile est) materiam præbère poterit Quarto Volumini Histor. General. Plantarum. D. f. Raii.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102650.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 897,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1490,
+        2
+      ],
+      [
+        1490,
+        2467,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102650",
+    "title": "Part of a Letter from Dr. Hotton to Dr. Tancred Robinson, Concerning the Late Swammerdams Treatise de Apibus; the Ahmella Ceylonensibus, and the Faba Sti. Ignatii",
+    "authors": "Dr. Hotton",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102650"
+  }
+}

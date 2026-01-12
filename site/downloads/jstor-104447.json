@@ -1,0 +1,59 @@
+{
+  "id": "112b5ae763f4ed02a7d21fb9682e40bd94968282",
+  "text": "XIV. Abstract of a Letter from Mr. Wm. Arderon to Mr. Baker, F.R.S. of a Shuttle-Spire taken out of the Bladder of a Boy.\n\nNorwich, Oct. 12. 1744.\n\nRead Dec. 6. On the 16th of September last, Mr. John Harmer, a Surgeon in this City, cut one Peter Riggs, a Boy about seventeen Years of Age, for the Stone; at which time there was extracted from him (to the utmost Surprise of the Spectators) an iron Shuttle Spire, four Inches long. He had, it is said, some time before, a Stoppage of Urine; and, by endeavouring with this Piece of Wire to relieve himself, and thrusting it too far along the urinary Passage, he let it drop into the Bladder, where it occasioned the same Symptoms as a Stone would have done. He underwent the Operation with great Fortitude; and said nothing of this Accident until it was all over. He is now perfectly recovered.\n\nXV. An Account of a remarkable Cure, performed on the Eye of a young Woman in Scotland, by Tho. Hope, M.D. communicated from Dr. Mead.\n\nRead Dec. 13. Jane Willson, a Girl now eighteen Years of Age, about seven Years ago began to have her left Eye turned towards the Temple, occasioned by some Tumour betwixt the Globe and the Orbit. This Tumour, for some Years, did not",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104447.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 384,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1214,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104447",
+    "title": "Abstract of a Letter from Mr. Wm. Arderon to Mr. Baker, F.R.S. of a Shuttle-Spire Taken out of the Bladder of a Boy",
+    "authors": "Wm. Arderon",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104447"
+  }
+}

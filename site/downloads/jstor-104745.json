@@ -1,0 +1,59 @@
+{
+  "id": "cb7166ed203ef76c906954eb7182133af64cb051",
+  "text": "all the visible and invisible World. Reverend Sir,\n\nI am,\n\nYour sincere Friend, and\n\nmost obedient Servant,\n\nWalter Bowman.\n\nXXXVIII.\n\nAbstract of a Letter from Mr. Pennant to Rich. Holford Esq; Master in Chancery, of an Earthquake felt in Flintshire, on April 2. 1750.\n\nDowning, near Holywell in Flintshire, April 3. 1750.\n\nRead May 10. 1749.\n\nLAST Night we were greatly alarm'd with a violent Shock of an Earthquake between 10 and 11 o' Clock. I, who was in Bed, was frequently moved up and down; and the Bed, having Casters, was removed some small Space from its proper Situation.\n\nDuring the Shock, a great Noise was heard in the Air; and, some Nights before, Lights were seen in the Sky; such as were previous to the Earthquake in Town.\n\nThanks to Providence, no further Mischief has happen'd, than the Terror this unusual Phenomenon occasion'd in our Family.\n\nThis Place is about two Miles from the Sea.\n\nXXXIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104745.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 307,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        917,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104745",
+    "title": "Abstract of a Letter from Mr. Pennant to Rich. Holford Esq; Master in Chancery, of an Earthquake Felt in Flintshire, on April 2. 1750",
+    "authors": "Mr. Pennant",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104745"
+  }
+}

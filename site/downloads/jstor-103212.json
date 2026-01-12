@@ -1,0 +1,89 @@
+{
+  "id": "03aa04ca6d5a3e119c85795b66c262eb77a16afe",
+  "text": "The three sorts of Trades, of which there died most, were Coffin-makers (which took measure of the dead Bodies) Surgeons, and Shoe-makers.\n\nThe Care that was taken, and the Medicines that were used, did great Service. I was told that Theriaca did little good; and they observed the same also at Dantzick.\n\nXXXVIII. Some Anatomical Observations. By Mr. William Cheselden, Surgeon, F. R. S.\n\nFig. 8. Tab. VI. shews the beginning of the Aorta, Tab VI. or great Artery, from the Heart of a Woman who died of a Dropsy. A. is the Aorta. B. B. two Chalk-stones which possessed the Place of the Semilunar Valves. The left Ventricle of the Heart was dilated to twice its Natural Magnitude. We supposed that these Stones occasioned the Dropsy, by obstructing the Valves, and hindring a regular Distribution of the Blood.\n\nFig. 9. shews a Bone taken from the Falx, or first Process of the Dura Mater, of a Man who died of violent Head-aches.\n\nFig. 10. shews a Bone taken from the between the Ventricles of the Heart of a Man, who died Hydropic and Tabid. In this Body the whole Pericardium adher'd to the Heart.\n\nFig. 11. shews the Optick Nerves; the right Nerve being wasted and discoloured: The Eyes both appeared to be very good. I had not an opportunity of inquiring into the Case of this Person; but I suppose it must have been a Gutta Serena.\nI opened another Eye of a Man who died of that Distemper; in which I found that part of the Nerves, which is within the Cranium, crushed flat by the anterior Lobes of the Brain, their Ventricles being full of Lymph.\n\nFig. 12. shews three Spleens taken from one Body.\n\nFig. 13. Two Spleens taken from a Man.\n\nFig. 14. Two Spleens taken from a Woman.\n\nN.B. That in all these three Cases of the Spleens, each had proper Vessels, but the Arteries only are there expressed; and that the Spleens in each Body taken together were but equal in Magnitude to the one we usually meet with.\n\nA Heart, with the Vena Azygos inserted into the right Auricle; and the Descending Cava coming round the Basis of the Heart, above the Aorta and Pulmonary Vessels, to enter the Auricle at the lower part with the Ascending Cava.\n\nAn Urcter double two Thirds of its length next the Kidneys, and distended by Stones passing through it.\n\nThe Tube Fallopian impermeable, and without Ale Vespetilionis; the outer Ends being connected to the Testes.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103212.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8024,
+    "total-output-tokens": 780,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1338,
+        4
+      ],
+      [
+        1338,
+        2359,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103212",
+    "title": "Some Anatomical Observations. By Mr. William Cheselden, Surgeon, F. R. S.",
+    "authors": "William Cheselden",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103212"
+  }
+}

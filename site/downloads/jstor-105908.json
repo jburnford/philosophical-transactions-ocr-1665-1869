@@ -1,0 +1,79 @@
+{
+  "id": "8c164a0a5d5d40058e90e756e7c3e7f7c86b4d46",
+  "text": "XXXVI. Some New Theorems for computing the Areas of certain Curve Lines: By Mr. John Landen, F.R.S.\n\nRead June 28, 1770.\n\nTHE learned editor of Mr. Cotes's Harmonia Mensurarum first gave us, in that book, the celebrated theorems for computing the areas of the curves whose ordinates are expressed by \\( \\frac{x^p}{a^n + x^n} \\), \\( \\frac{x^p}{a^n + x^n \\times e^n + x^n} \\), or \\( \\frac{x^p}{a^{2n} + 2ca^n x^n + x^{2n}} \\); and several other writers have since done the like. Which theorems consist of many terms, being obtained by previously resolving the expression for the ordinate, into others of a more simple form. Now I have found, that the whole area of every such curve (when finite) may be assigned by theorems remarkably concise, without the trouble of resolving the expression for the ordinate as aforesaid: and, as in the resolution of problems, the whole area of a curve is more commonly wanted than a part thereof; and as these new theorems enable us to compute such whole areas as above-mentioned, or the whole fluents of \\( \\frac{x^p \\dot{x}}{a^n + x^n} \\), \\( \\frac{x^p \\dot{x}}{a^n + x^n \\times e^n + x^n} \\), and \\( \\frac{x^p \\dot{x}}{a^{2n} + 2ca^n x^n + x^{2n}} \\), with admirable\nadmirable facility; I do myself the honour of communicating them to the Royal Society, presuming they may be thought worthy to be published in the Philosophical Transactions.\n\n**THEOREM I.**\n\n$m$ being any positive integer or fraction, and $n$ any such integer or fraction, greater than $m$; the whole area of the curve, whose abscissa is $x$, and ordinate $\\frac{x^{m-1}}{a^n+x^n}$ is $= \\frac{a^{m-n}}{f^n} \\times A$.\n\n**THEOREM II.**\n\n$m$ and $n$ being as before-mentioned, the whole area of the curve, whose abscissa is $x$, and ordinate $\\frac{x^{n+m-1}}{a^n+x^n \\times e^n+x^n}$ is $= \\pm \\frac{a^{m-e+m}}{a^n-e^n} \\times \\frac{A}{f^n}$.\n\n*Note.* When $e$ is $= a$, the expression for the area becomes $= \\frac{ma^{m-n}}{f^n^2} \\times A$.\n\n**THEOREM III.**\n\n$m$ and $n$ being as in the preceding theorems, the whole area of the curve, whose abscissa is $x$, and ordinate $\\frac{a^{n+m-1}}{a^{2n}+2ca^{n}x^n+x^{2n}}$ is $= \\frac{g a^{m-n}}{b f^n} \\times A$.\n\n*Note.* If $m$ be $= 0$, the area will be $= \\frac{a^{-n}B}{b^n}$.\n\nIn these theorems,\nA denotes the semi-periphery of the circle, whose radius is 1;\nB an arc of the same circle, whose cosine is \\( c \\), and sine \\( b \\);\n\\( f \\) the sine of the arc \\( \\frac{m}{n} \\times A \\);\n\\( g \\) the sine of the arc \\( \\frac{m}{n} \\times B \\).\n\nConcerning the investigation of these theorems, it is sufficient to say, they are directly obtained by the help of my new method of comparing curvilinear areas, inserted in the Philos. Transact. for the year 1768.\n\nIt is obvious, that, by means of the above theorems, we may very readily compute the whole areas (when finite) of the curves, whose ordinates are\n\n\\[\n\\frac{x^p}{p + qx^n + rx^{2n} + sx^{3n}}, \\quad \\text{and} \\quad \\frac{x^p}{p + qx^n + rx^{2n} + sx^{3n} + tx^{4n}}, \\quad \\&c., \\]\nseeing these expressions may be easily transformed into others similar to those already considered.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105908.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1109,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1204,
+        2
+      ],
+      [
+        1204,
+        2255,
+        3
+      ],
+      [
+        2255,
+        3099,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105908",
+    "title": "Some New Theorems for Computing the Areas of Certain Curve Lines: By Mr. John Landen, F. R. S.",
+    "authors": "John Landen",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105908"
+  }
+}

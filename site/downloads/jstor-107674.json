@@ -1,0 +1,79 @@
+{
+  "id": "67e398f5f396a9803b4813dd31c14c8cea4b0809",
+  "text": "X. A Letter from John Pond, Esq. Astronomer Royal, to Sir Humphry Davy, Bart. President of the Royal Society, relative to a derangement in the Mural Circle at the Royal Observatory.\n\nRead November 22, 1821.\n\nMy Dear Sir,\n\nThe interest which the Royal Society has always taken in every thing relating to this Observatory, and to which may be attributed its present prosperous condition, will, I trust, render unnecessary any apology for this communication.\n\nI wish to make known to astronomers, as soon as possible, a derangement that has for some time past existed in the mural circle, and of which I have not, till lately, been able to ascertain the cause with certainty.\n\nThis derangement began, I believe, about the autumn of the year 1819; the position of the telescope was then changed; and from that time the error has been gradually increasing till last summer, when the cause was distinctly ascertained, and the proper remedy applied.\n\nIn the Preface to the Greenwich Observations for the year 1820, now printing, I shall have an opportunity of stating the amount of this error, and the correction which should be applied to the observations made within the two last years. At present it will be sufficient to mention, in as few words as possible, the cause of this error.\n\nThose who are acquainted with the construction of the\nGreenwich Mural Circle, are aware, that though the telescope may be applied to every part of the circle, yet, when fixed for observation, the principle of the instrument requires that the tube, especially at its extremities, should be so firmly fixed to the circle as to form one piece with it: to accomplish this, connecting braces are attached at each end of the telescope.—It now appears that these braces have, in progress of time, become insecure, owing to the screws which fastened them having given way. The effect of this will be, to permit the ends to bend from the centre instead of retaining, as they ought to do, an invariable position with respect to the circle. Under these circumstances, when the telescope is directed to the zenith, the position may be considered as free from error; but when the instrument is moved either towards the north or south horizon, should either extremity bend more than the other, an error will take place, and will increase from the zenith towards the horizon, but in what exact proportion, remains to be determined by future observations.\n\nThe cause of this error being thus ascertained, Mr. Troughton has applied additional braces to connect the telescope with the circle, sufficiently strong, I should conceive, to prevent the possibility of such an accident for the future.\n\nThis alteration has already produced such an improvement in the observations, as prove sufficiently that the source of error has not been mistaken. Of the published observations, only those made in the three last months of the year 1819 are affected by this error, and that in so very small a degree, as must have entirely escaped notice, had it not afterwards increased.\nDuring the year 1820 the error increased; but did not, I believe, in the distance from the pole to the equator amount to two seconds; at altitudes lower than Sirius, and at the altitude of the sun at the winter solstice, the error may have been greater than two seconds, but did not exceed four.\n\nBut after the month of February 1821, the error rapidly increased; and this ultimately led to a discovery of the cause.\n\nMy present object in this letter, is simply to state these circumstances to the Society. I shall defer a more detailed account of the nature of this derangement, and of its effects, till I shall be enabled, by a sufficient number of observations made with the instrument in its improved state, to ascertain, with some degree of certainty, at what period the derangement took place, and what corrections are required to be applied, till the instrument was restored to its perfect state.\n\nI have the honor to be,\n\nMy Dear Sir,\n\nwith the highest regard,\n\nyour most obedient humble Servant,\n\nJOHN POND.\n\nRoyal Observatory,\nNov. 21, 1821.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107674.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 989,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1336,
+        2
+      ],
+      [
+        1336,
+        3033,
+        3
+      ],
+      [
+        3033,
+        4084,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107674",
+    "title": "A Letter from John Pond, Esq. Astronomer Royal, to Sir Humphry Davy, Bart. President of the Royal Society, Relative to a Derangement in the Mural Circle at the Royal Observatory",
+    "authors": "John Pond",
+    "year": 1822,
+    "volume": "112",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107674"
+  }
+}

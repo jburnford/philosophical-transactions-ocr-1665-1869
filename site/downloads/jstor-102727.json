@@ -1,0 +1,69 @@
+{
+  "id": "a5f21828ec4788810fa3f6d07fa2ca28ca44e9c5",
+  "text": "VII. Observatio Eclipsei Lunaris peracta Bostoni Novembris Anglorum, die quinto Aprilis vespere, A.D. 1707.\n\na Tho. Brattle.\n\n| Immersiones | Tempus ex Alt. correct. |\n|-------------|------------------------|\n| Penumbra valde notabilis | 6 52 |\n| Palus Maræotis tegitur | 6 58 20 |\n| M. Porphyrites incipit | 7 8 15 |\n| Tegitur | 7 9 20 |\n| M. Ætna incipit | 7 16 |\n| Penitus tectus | 7 17 15 |\n| M. Sinai incipit | 7 21 40 |\n| Planè tectus | 7 22 40 |\n| Insula Corsica tegitur | 7 24 |\n| Lacus niger major tegitur | 7 31 40 |\n| Insula Besbicus | 7 33 |\n| Bizantium | 7 36 30 |\n| M. Horminius | 7 37 20 |\n| M. Apollonii | 7 40 30 |\n| M. Hercules | 7 44 30 |\n| M. Corax | 7 51 30 |\n| Palus Maeotis incipit | 7 52 45 |\n| Insul. Maj. in M. Caspio incipit | 7 54 45 |\n| Tegitur | 7 56 |\n| Palus Maeotis omnino tegitur | 7 57 30 |\n| Luna plena Immersa | 8 1 15 |\n\nEmersiones\n| Event                                      | Tempus ex Alt. correct. |\n|-------------------------------------------|-------------------------|\n| Comp. Alt. Arcturi                        | 53° 34' 8 28            |\n|                                           | 51° 30' 8 39 15         |\n| Comp. Alt. stellæ quæ sequitur lucidum in corona septentrionali |                       |\n| Lat. 44° 33'                             | 60° 2' 9 0 30           |\n|                                           | 56° 57 9 17 15          |\n| Luna Emergere planè incipit               | 9 46 30                 |\n| M. Ætna tota illustrata                   | 10 9 30                 |\n| M. Sinai tota apparet                      | 10 10 15                |\n| Insula Besbicus                           | 10 25                   |\n| Bizantium                                 | 10 28 30                |\n| M. Apollonii                              | 10 33                   |\n| M. Hercules                               | 10 36 30                |\n| Palus Mæotis incipit                      | 10 44                   |\n| Intula Major in M. Caspio restauratur      | 10 47                   |\n| Palus Mæotis tota retecta                 | 10 49                   |\n| Luna plenè illuminatur                    | 10 54                   |\n\nAn",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102727.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 854,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        870,
+        2
+      ],
+      [
+        870,
+        2191,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102727",
+    "title": "Observatio Eclipsis Lunaris Peracta Bostony Nov. Angtorum, Die Quinto Aprilis Vespere, A. D. 1707. a Tho. Brattle",
+    "authors": "Tho. Brattle",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102727"
+  }
+}

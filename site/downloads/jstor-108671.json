@@ -1,0 +1,79 @@
+{
+  "id": "fcae46dc262fd952d14c65d9950a9e5ff18bffe5",
+  "text": "XXIV. On the Tangential of a Cubic. By Arthur Cayley, Esq., F.R.S.\n\nReceived February 11,—Read March 18, 1858.\n\nIn my \"Memoir on Curves of the Third Order*,\" I had occasion to consider a derivative which may be termed the \"tangential\" of a cubic, viz. the tangent at the point \\((x, y, z)\\) of the cubic curve \\((x^3 + y^3 + z^3 + 6xyz = 0)\\) meets the curve in a point \\((\\xi, \\eta, \\zeta)\\), which is the tangential of the first-mentioned point; and I showed that when the cubic is represented in the canonical form \\(x^3 + y^3 + z^3 + 6xyz = 0\\), the coordinates of the tangential may be taken to be \\(x(y^3 - z^3) : y(z^3 - x^3) : z(x^3 - y^3)\\). The method given for obtaining the tangential may be applied to the general form \\((a, b, c, f, g, h, i, j, k, l)(x, y, z)^3\\): it seems desirable, in reference to the theory of cubic forms, to give the expression of the tangential for the general form†; and this is what I propose to do, merely indicating the steps of the calculation, which was performed for me by Mr. Creedy.\n\nThe cubic form is\n\n\\[\n(a, b, c, f, g, h, i, j, k, l)(x, y, z)^3,\n\\]\n\nwhich means\n\n\\[\nax^3 + by^3 + cz^3 + 3fy^2z + 3gz^2x + 3hx^2y + 3iyz^2 + 3jzx^2 + 3kxy^2 + 6lxyz;\n\\]\n\nand the expression for \\(\\xi\\) is obtained from the equation\n\n\\[\nx^2\\xi = (b, f, i, c)(j, f, c, i, g, l)(x, y, z)^2 - (h, b, i, f, l, k)(x, y, z)^2)^3\n\\]\n\n\\[\n-(a, b, c, f, g, h, i, j, k, l)(x, y, z)^3(Cx + D),\n\\]\n\nwhere the second line is in fact equal to zero, on account of the first factor, which vanishes. And \\(C, D\\) denote respectively quadric and cubic functions of \\((y, z)\\), which are to be determined so as to make the right-hand side divisible by \\(x^3\\); the resulting value of \\(\\xi\\) may be modified by the adjunction of the evanescent term\n\n\\[\n(2x + hy + gz)(a, b, c, f, g, h, i, j, k, l)(x, y, z)^3,\n\\]\n\nwhere \\(a, g, h\\) are arbitrary coefficients; but as it is not obvious how these coefficients should be determined in order to present the result in the most simple form, I have given the result in the form in which it was obtained without the adjunction of any such term.\n\nWrite for shortness\n\n\\[\nP = (h, l)(y, z),\n\\]\n\n\\[\nQ = (b, f, i)(y, z)^2,\n\\]\n\n* Philosophical Transactions, vol. cxlvii. 1857.\n\n† At the time when the present paper was written, I was not aware of Mr. Salmon's theorem (Higher Plane Curves, p. 156), that the tangential of a point of the cubic is the intersection of the tangent of the cubic with the first or line polar of the point with respect to the Hessian; a theorem, which at the same time that it affords the easiest mode of calculation, renders the actual calculation of the coordinates of the tangential less important. Added 7th October, 1858.—A. C.\n\\[ R = (l, g, \\xi y, z), \\]\n\\[ S = (f, i, c \\xi y, z)^3, \\]\n\\[ B = (h, j, \\xi y, z), \\]\n\\[ C = (k, l, g \\xi y, z)^3, \\]\n\\[ D = (b, f, i, o \\xi y, z)^3, \\]\n\nso that\n\n\\[ (h, b, i, f, l, k \\xi x, y, z)^3 = (h, P, Q \\xi x, 1)^3, \\]\n\\[ (j, f, c, i, g, l \\xi x, y, z)^3 = (j, R, S \\xi x, 1)^3, \\]\n\\[ (a, b, c, f, g, h, i, j, k \\xi x, y, z)^3 = (a, B, C, D \\xi x, 1)^3. \\]\n\n\\[ Cx + D = (C, D \\xi x, 1), \\]\n\nand then for greater convenience writing \\((h, 2P, Q \\xi x, 1)^3, \\) &c. for \\((h, P, Q \\xi x, 1)^3, \\) &c., and omitting the \\((x, 1)^3, \\) &c. and the arrow-heads, or representing the functions simply by \\((h, 2P, Q), \\) &c., we have\n\n\\[ x^3 = b(j, 2R, S)^3 \\]\n\\[ -3f(j, 2R, S)^2(h, 2P, Q) \\]\n\\[ +3i(j, 2R, S)(h, 2P, Q)^2 \\]\n\\[ -e(h, 2P, Q)^3 \\]\n\\[ -(a, 3B, 3C, D)(C, D), \\]\n\nwhich can be developed in terms of the quantities which enter into it. The conditions, in order that the coefficients of \\(x, x^6\\) may vanish, are thus seen to be\n\n\\[ DD = bS^3 - 3fS^2Q + 3iSQ^2 - eQ^3, \\]\n\\[ DC - 3CD = b(6RS^2) - 3f(2S^2P + 4RSQ) + 3i(2RQ^2 + 4SPQ) - e6PQ^2, \\]\n\nand from these we obtain\n\n\\[ C = \\begin{pmatrix} -3 bck & +6 big & +3 bcg \\\\ +6 bil & -6 cfk & -6 cfl \\\\ +3 fik & -6 f^2g & -3 fgi \\\\ -6 f^3l & +6 i^2k & +6 i^3l \\end{pmatrix} \\xi y, z)^3 \\]\n\n\\[ D = \\begin{pmatrix} -1 b^2c & -3 bef & +3 bci & +1 bc^2 \\\\ +3 bfi & +6 bi^2 & -6 cf^2 & -3 cf^3 \\\\ -2 f^3 & -3 f^2i & +3 f^2i & +2 f^3i \\end{pmatrix} \\xi y, z)^3 \\]\n\nand substituting these values, the right-hand side of the equation divides by \\(x^2, \\) and throwing out this factor we have the value of \\(\\xi; \\) and the values of \\(n, \\zeta \\) may be thence deduced by a mere interchange of letters. The value for \\(\\xi \\) is\nAnd it is not necessary to write down the corresponding values for \\( n, \\xi \\).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108671.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 1867,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2706,
+        2
+      ],
+      [
+        2706,
+        4389,
+        3
+      ],
+      [
+        4389,
+        4469,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108671",
+    "title": "On the Tangential of a Cubic",
+    "authors": "Arthur Cayley",
+    "year": 1858,
+    "volume": "148",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/108671"
+  }
+}

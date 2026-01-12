@@ -1,0 +1,79 @@
+{
+  "id": "87eef8b73a8eff6b8d969f264654267c80346cd6",
+  "text": "XL.\n\nMr. Henry Baker F. R. S. to the President,\nconcerning an Earthquake felt at Win-\nbourn in Dorsetshire, May 4. 1749. and\nof another at Taunton in Somersetshire,\nJuly 1. 1747.\n\nSIR,\n\nRead May 17. As the two remarkable Shocks of\nan Earthquake, lately felt at London, may probably excite a Curiosity of knowing\nwhat of the same kind has happen'd in other Parts\nof the Kingdom within these few Years, I wrote,\nabout a Week ago, to a Sister of my Wife, who\nlives at Winbourne in Dorsetshire, desiring her to\nsend me the best Account she could collect, of an\nEarthquake, which, in one of her Letters some\nMonths ago, she had mention'd to have felt herself\nat that Place, in the Month of May last Year; and\nthe Substance of her Answer is as follows:\n\nShe says, that, on the 4th Day of May 1749.\nabout 10 o' Clock in the Morning, she was stand-\ning at one of the Windows in her Chamber, her\nSon (a Boy about 9 Years old) was sitting on a\nBed in the Middle of the Room, and her Sister\nwas in another Chamber two Rooms from her, all\non the same Floor; when they heard a sudden\nBlow (so she expresses it) that seem'd to be very\nnear, which shook the House so much, that the\nWindows rattled, and the Floor shook very much,\nand frighted her to such a Degree, that she cried out, Lord have Mercy upon me, what is that? Supposing it had been a Burst of Thunder. Then looking out, the Sky was very clear, without any Cloud near at hand; but there seemed to be a heavy Cloud hovering at a Distance, whence she and her Sister imagined the Shock came; for they had then no Thought of an Earthquake.\n\nThere was, she says, but one Blow, with a Noise very loud, like the Discharge of a Cannon; which made her send to inquire if there were any Powder-Mills in that Part of the Country, but was assured there were none. Her Husband (Mr. Bostan) was then at a Place called Cashmoor, on the London Road, 6 Miles from Blandford, and about 8 from Winbourne, where he heard it in much the same manner. Their next Neighbour was at the same time 12 Miles distant, and heard it there; and everybody said it was an Earthquake.\n\nIt was heard at Shapeck, about 4 Miles from Winbourne; and at a Place called Eastbrook, about half a Mile from Winbourne, the People say it threw the Pewter off the Shelves. She says, I may depend upon it as a Truth, that it was heard 20 Miles round Winbourne; and adds, that People were very much frighted, but no Harm was done.\n\nI had, Sir, the Honour, two Years ago, to lay before you an Account of an Earthquake felt at Tounton in Somersetshire, and for 40 Miles in Length as well as Breadth, on the 1st Day of July, in the Year 1747, which was communicated to me by the Rev. Mr. John Forster, who happen'd at that time\nto be there by Accident. It was likewise by mere Accident I came to the Knowledge of what I have just now been describing: Which induces me to imagine, that Shocks of this kind may possibly happen more frequently than is commonly supposed, tho' we hear nothing of them: For, in Country Places, People are so little attentive to such Matters, that, unless some considerable Mischief be done, they mind them very little at the time, and, as soon as over, think no more about them.\n\nI have the Honour to be, with all possible Respect,\n\nSIR,\n\nCatherine-street, May 10. Your most obedient Servant,\n\nH. Baker.\n\nXLl.\n\nPart of a Letter from M. de Reaumur F. R. S. to the President, concerning an Earthquake felt in France, October 11. 1749.\n\nParis, April 23. 1750.\n\nRead May 17. On Saturday, the 11th of October 1749, about 7 in the Evening, there was an Earthquake in France, which, according to my own Inquiries, reached one Way above 60 Leagues in Extent, from our Coast of Poictou beyond Luçon, as far as the Neighbourhood of Blois.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104747.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1130,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1215,
+        2
+      ],
+      [
+        1215,
+        2723,
+        3
+      ],
+      [
+        2723,
+        3751,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104747",
+    "title": "Mr. Henry Baker F. R. S. to the President, concerning an Earthquake Felt at Winbourn in Dorsetshire, May 4. 1749. and of Another at Taunton in Somersetshire, July 1. 1747",
+    "authors": "Henry Baker",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104747"
+  }
+}

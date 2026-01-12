@@ -1,0 +1,59 @@
+{
+  "id": "89212aacb2231d75413bed6ccef4f4d097dd16e3",
+  "text": "XXIII. On the Sources of the Nitrogen of Vegetation; with special reference to the Question whether Plants assimilate Free or uncombined Nitrogen. By John Bennet Lawes, F.R.S., F.C.S., Joseph Henry Gilbert, Ph.D., F.R.S., F.C.S., and Evan Pugh, Ph.D., F.C.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . page 431\n\nXXIV. On the Indian Arc of Meridian. By the Venerable J. H. Pratt, M.A., Archdeacon of Calcutta. Communicated by Professor Stokes, Sec. R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 579\n\nXXV. Notes on the Generative Organs, and on the Formation of the Egg in the Annulosa. By John Lubbock, Esq., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 595\n\nXXVI. On the Influence of Atmospheric Pressure upon some of the Phenomena of Combustion. By Dr. E. Frankland, F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 629\n\nXXVII. Account of Experiments made at Holyhead (North Wales) to ascertain the Transit-Velocity of Waves analogous to Earthquake Waves, through the Local Rock Formations. By Robert Mallet, C.E., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 655\n\nXXVIII. On the Construction of Specula of Six-feet Aperture; and a selection from the Observations of Nebulae made with them. By the Earl of Rosse, K.P., &c., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 681\n\nXXIX. On the Elimination of Urea and Urinary Water, in relation to the Period of the Day, Season, Exertion, Food, Prison Discipline, Weight of Body, and other influences acting in the Cycle of the Year. By Edward Smith, M.D., LL.B., F.R.S., Assistant-Physician to the Hospital for Consumption and Diseases of the Chest, Brompton, Corresponding Fellow of the Academy of Sciences and Arts of Montpellier, and of the Natural History Society of Montreal, &c. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 747\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 835\n\nAPPENDIX.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [ 1 ]\n\nERRATUM.\n\nPage 259 (seven lines from the bottom), upwards of 80 years, Females, Minimum, Encephalon, for 15·25 read 35·25.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108750.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 1156,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2857,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108750",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1861,
+    "volume": "151",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108750"
+  }
+}

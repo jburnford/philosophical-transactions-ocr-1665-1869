@@ -1,0 +1,59 @@
+{
+  "id": "ddf3b10d8b88e4077bc5aac2e48ca156a3cd9b71",
+  "text": "I took it out of the glass, and spread it abroad, because it was blacker to the eye than the before-mentioned, and did see that there were also part of flying animals, and among this stuff did also lye several of the before-mentioned Eels, but they were all dead, and somewhat less than the former.\n\nFurther, I had put the Frog in a glass with water, whereout it made its escape, and got away.\n\nDelft, Jan. 2. 1700.\n\nV. An Account of the Houses and Hearths in Dublin, for the years following. Communicated by Captain South.\n\n| Houses | Good | Poor | Waste | Total |\n|--------|------|------|-------|-------|\n| January 1695 | 4665 | 485 | 849 | 5999 |\n| 1696 | 4905 | 502 | 717 | 6124 |\n\n| Hearths |\n|---------|\n| January 1695 | 24402 | 1080 | 3439 | 29220 |\n| 1696 | 25366 | 1227 | 2627 | 29519 |\n\nIn the total of Hearths there are included 229 which are in Colledges, &c. and are not reckon'd in the three first Columns.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102745.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 383,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        920,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102745",
+    "title": "An Account of the Houses and Hearths in Dublin, for the Years Following. Communicated by Captain South",
+    "authors": "Captain South",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102745"
+  }
+}

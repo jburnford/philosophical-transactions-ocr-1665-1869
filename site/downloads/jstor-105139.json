@@ -1,0 +1,69 @@
+{
+  "id": "5d6a8b5ac1df1b7bc6389ba3094fbe9592056fac",
+  "text": "becomes flaccid, upon the issue of the aqueous humour, and renders the operation tedious and embarrassing, as I myself have found by experience in one patient, on whom I performed the incision of the cornea with a pair of scissors, as recommended by Mons. Daviel.\n\nXXV. Experiments by Francis Hume, M. D., on Fish and Flesh preserved in Lime-water, communicated by John Clephane, M. D. F. R. S.\n\nRead May 3, 1753.\n\nWITH a design to find out how long I could keep fish and flesh fit to eat in lime-water, I put two haddock, and a pound of beef, in different pots full of lime-water, and corked them well. They stood in our cellar 18 days.\n\nI then took out one of the fish: it was sweet, sound, and firm; I boiled one part of it, and I broiled the other: it eat well, and had not the least taste of lime-water; but was not just so firm as a fresh fish. But when I open’d the beef-pot, to my great surprize, it stunk abominably.\n\nI poured the lime-water from both pots, and put in fresh lime-water. This stood 4 weeks longer; the remaining fish was quite fresh, and a little swelled, but, when I boil’d it, dissolved to a jelly. The flesh was very putrid.\n\nThus lime-water appears to preserve fish, but not flesh.\n\nX 2 Dr.\nDr. Alston's experiment was made with fish, and Dr. Pringle's with flesh; which has made the former say, that lime-water withstood corruption strongly; and the latter, that it did it but weakly, if at all.\n\nEdinburgh, April 6, 1753.\n\nI LATELY repeated the experiment more fully, and with the same success. On the 26 of March I put a haddock into a pot of common water. I did the same to a piece of beef: the water was changed every day. At the same time I put a haddock into a pot of lime-water, and did the same with a piece of beef: at the same time I hung a fish and a bit of flesh in the air. On the second of April the fish and flesh in the air were a little corrupted and dried; the flesh and fish in common water smelt strong; the fish in the lime-water was sweet, and the lime-water good, and are so at present; but the flesh smelt rather worse than that in common water changed every day, and the corruption had quite overpower'd the smell of the lime-water.\n\nAll this you have my leave to shew, as a confirmation of the former experiment.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105139.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 671,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1220,
+        2
+      ],
+      [
+        1220,
+        2268,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105139",
+    "title": "Experiments by Francis Hume, M. D. on Fish and Flesh Preserved in Lime-Water, Communicated by John Clephane, M. D. F. R. S.",
+    "authors": "John Clephane, Francis Hume",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105139"
+  }
+}

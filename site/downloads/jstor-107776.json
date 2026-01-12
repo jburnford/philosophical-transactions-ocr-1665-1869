@@ -1,0 +1,209 @@
+{
+  "id": "869f9c2ef70bd539edc6796a7371263c2d1be887",
+  "text": "XVI.—An attempt to rectify the inaccuracy of some logarithmic formulae. By John Thomas Graves, of the Inner Temple, Esq. Communicated by John Frederick William Herschel, Esq. V.P.\n\nRead December 18, 1828.\n\nFrom the recent researches [Note A.] of MM. Poisson and Poinsot on angular section, and their discovery of error in trigonometrical formulæ usually considered complete, my attention has been drawn to analogous incorrectness in logarithmic series. Accordingly, the end proposed in the present investigation is the exhibition in an amended form of two fundamental developments, as the principles employed in their establishment admit of application in expanding by different methods various similar functions, and tend to elucidate other parts of the exponential theory.\n\nLet \\( a^x = y \\).  \n\nIt is proposed to exhibit correct developments;\n\nI. Of \\( y \\) in terms of \\( a \\) and \\( x \\);\n\nII. Of \\( x \\) in terms of \\( a \\) and \\( y \\);\n\nthe corresponding formulæ hitherto given being incomplete; viz.*\n\nI. \\( y = 1 + x l a \\ldots + \\frac{(x l a)^n}{1 \\cdot 2 \\ldots n} \\ldots \\)\n\nII. \\( x, \\) when \\( y \\) is positive, \\( = \\frac{\\sqrt{-1} (2 i + 1) \\pi + 1 - y}{l a} \\)\n\nSome authors, for the case when \\( y \\) is negative, have provided for \\( x \\) the formula\n\n\\( \\frac{\\sqrt{-1} (2 i + 1) \\pi + 1 - y}{l a} \\)\n\nThe notation above used will be adhered to, and requires to be explained. \\( i \\) denotes 0, or any integer positive or negative, and \\( \\pi \\) the ratio of the circumference of a circle to its diameter. \\( l a \\) is intended to designate the tabular\n\n* Lacroix, \"Traité du Calcul différentiel et intégral:\" Introduction, Art. 25, 27, 28, 81.\nNeperian logarithm of $a$, which logarithm is a quantity assignable only in the case when $a$ is positive, and may then be found from the development\n\n$$-2\\left\\{\\frac{1-a}{1+a} \\cdots + \\frac{1}{2n+1} \\left(\\frac{1-a}{1+a}\\right)^{2n+1} \\cdots \\right\\}. \\quad [5]$$\n\nIndependently of the circumstance that neither of these formulæ for $y$ and $x$ provides for the case when $a$ is negative or impossible, and that neither [3] nor [4] provides for the case when $y$ is impossible, their incompleteness will appear from what follows.\n\nThat [2] is incomplete is primâ facie obvious, from the known fact that when $x$ is a rational fraction, $a^x$ has as many values as there are units in the denominator of $x$ reduced to its lowest terms, whereas [2] never exhibits more than one value.\n\nThus, $e^\\frac{x}{2}$ ($e$ being the Neperian base and $1e = 1$) has two values, viz.: $+\\sqrt{e}$ and $-\\sqrt{e}$, whereas\n\n$$1 + \\frac{1}{2} \\cdots + \\frac{1}{1.2 \\cdots n} \\left(\\frac{1}{2}\\right)^n \\cdots$$\n\nrepresents the value $+\\sqrt{e}$ only.\n\nThe imperfection of [3] and [4] arises from the imperfection of [2], of which [3] and [4] are reverted solutions.\n\nThus, as one of the values of $e^\\frac{x}{2} = -\\sqrt{e}$, $\\frac{1}{2}$ is a Neperian logarithm of $-\\sqrt{e}$, but yet, if in [4] $-\\sqrt{e}$ be substituted for $y$, and $e$ for $a$, the resulting formula, viz.\n\n$$\\frac{\\sqrt{-1}(2i+1)\\pi + 1\\sqrt{e}}{1e} \\quad \\text{or} \\quad \\sqrt{-1}(2i+1)\\pi + \\frac{1}{2}$$\n\ncomprises, whatever value be given to $i$, only imaginary quantities, among which, of course, $\\frac{1}{2}$ cannot be found.\n\nFor the purpose of developing $y$ and $x$ correctly, adopting the equation\n\n$$f\\theta = \\cos \\theta + \\sqrt{-1} \\sin \\theta \\quad [6]$$\n\nit will be useful to possess two preliminaries;\n\n1st, a development of $f\\theta$;\n\n2nd, a development of $f^{-1}\\theta$;\n\nas it will appear that upon the form of these developments depend the desired ones of $y$ and $x$.\n\n(By $f^{-1}\\theta$ is to be understood, according to the notation of Mr. Herschel, every such quantity $q$, that $f q = \\theta$).\nPostulates.\n\nTo obviate the necessity of interrupting the course of the argument hereafter, it may be satisfactory to enumerate the principal truths immediately connected with our subject and not immediately evident, which will be taken for granted in this paper.\n\nFor their support, the authority of Dr. Lardner's Trigonometry, Part III. Sections 1 and 2, may be referred to.\n\nEuler's development of $f\\theta$, or\n\n$$f\\theta = 1 + \\sqrt{-1}\\theta + \\frac{(\\sqrt{-1}\\theta)^n}{1 \\cdot 2 \\cdots n} \\cdots$$\n\n[7]\n\nDe Moivre's theorem, or\n\n$$f(x\\theta) = \\text{a value of } (f\\theta)^x$$\n\n[8]\n\n$$f^{-1}f\\theta = 2i\\pi + \\theta$$\n\n[9]\n\nDe Moivre's theorem as extended by M. Poinsot, or\n\n$$f\\{x(2i\\pi + \\theta)\\} = (f\\theta)^x$$\n\n[10]\n\n$$f(\\theta + h) = f\\theta \\cdot fh$$\n\n[11]\n\nSubsidiary division.\n\n1st, To possess a development of $f\\theta$.\n\nThe development of Euler [7] is accurate and sufficient.\n\n2nd, It remains to obtain a development of $f^{-1}\\theta$.\n\nDifferentiating [6] we obtain\n\n$$\\frac{df\\theta}{d\\theta} = \\sqrt{-1}(\\cos\\theta + \\sqrt{-1}\\sin\\theta) \\text{ or } \\sqrt{-1}f\\theta$$\n\n[12]\n\nSubstituting in [12] $f^{-1}\\theta$ for $\\theta$, we obtain\n\n$$\\frac{dff^{-1}\\theta}{df^{-1}\\theta} = \\sqrt{-1}ff^{-1}\\theta; \\text{ or since } ff^{-1}\\theta = \\theta; \\frac{d\\theta}{df^{-1}\\theta} = \\sqrt{-1}\\theta.$$\n\nHence we find\n\n$$\\frac{df^{-1}\\theta}{d\\theta} = (\\sqrt{-1}\\theta)^{-1}.$$  \n\n[13]\n\nIt is evident by [13], that when $\\theta$ becomes $= 0$, $\\frac{df^{-1}\\theta}{d\\theta}$ becomes infinite, and\nconsequently it is impossible to develop $f^{-1} \\theta$ according to the ascending integral powers of $\\theta$. Let us then proceed to develop according to the ascending powers of $1 - \\theta f c$; (c being a constant, and introduced—be it remarked in advance—on account of the power it possesses, if properly chosen, of rendering the intended development of $f^{-1} \\theta$ convergent.)\n\nTo effect this purpose, let\n\n$$1 - \\theta f c = \\omega$$\n\nHence\n\n$$\\theta = (1 - \\omega)(fc)^{-1}; \\text{ or since, by [8], } (fc)^{-1} = f - c; \\theta = (1 - \\omega)f - c:$$\n\nAccordingly, after substituting in [13] $(1 - \\omega)f - c$ for $\\theta$, and therefore $-\\omega f - c d \\omega$ for $d \\theta$, we find\n\n$$\\frac{df^{-1}}{d\\omega} \\{(1 - \\omega)f - c\\} = \\sqrt{-1}(1 - \\omega)^{-1}$$\n\nHence, continuing to derive the successive differential coefficients, we obtain\n\n$$\\frac{d^n f^{-1}}{d\\omega^n} \\{(1 - \\omega)f - c\\} = \\sqrt{-1}.1.2...n-1.(1 - \\omega)^{-n}$$\n\nHence, evidently,\n\n$$\\left(\\frac{d^n f^{-1}}{d\\omega^n} \\{(1 - \\omega)f - c\\}\\right) = \\sqrt{-1}.1.2...n-1$$\n\n(by the notation $\\left(\\frac{d^n f^{-1}}{d\\omega^n} \\{(1 - \\omega)f - c\\}\\right)$ being designated the value which $\\frac{d^n f^{-1}}{d\\omega^n} \\{(1 - \\omega)f - c\\}$ acquires, when $\\omega = 0.$)\n\nAlso, by [9],\n\n$$\\left(f^{-1} \\{(1 - \\omega)f - c\\}\\right) \\text{ or } f^{-1}f - c = 2i\\pi - c$$\n\nBut, by MacLaurin's theorem,\n\n$$f^{-1} \\{(1 - \\omega)f - c\\} = \\left(f^{-1} \\{(1 - \\omega)f - c\\}\\right) ... + \\frac{\\left(\\frac{d^n f^{-1}}{d\\omega^n} \\{(1 - \\omega)f - c\\}\\right)}{1.2...n} \\omega^n ...$$\n\nSubstituting for the successive terms of this equation their values derived from [16] and [15], we obtain\n\n$$f^{-1} \\{(1 - \\omega)f - c\\} = 2i\\pi - c + \\sqrt{-1}(\\omega... + \\frac{\\omega^n}{n}...)$$\nReplacing, in [17], \\( \\omega \\) by \\( 1 - \\theta f c \\) (see [14]), and therefore \\( (1 - \\omega) f - c \\) by \\( \\theta \\), we obtain finally the required development; viz.\n\n\\[\nf^{-1} \\theta = 2i\\pi - c + \\sqrt{-1} \\left\\{ (1 - \\theta fc) \\ldots + \\frac{(1 - \\theta fc)^n}{n} \\ldots \\right\\} \\quad \\text{[Note B.]} \\quad [18]\n\\]\n\nHaving advanced thus far, it will now be easy to fulfil our original intention.\n\n**General division.**\n\nI. To develop \\( y \\) in terms of \\( a \\) and \\( x \\).\n\nLet\n\n\\[\na = f \\theta \\quad [19]\n\\]\n\nThen by [10], \\( a^x \\) or \\( (f \\theta)^x = f \\{x(2i\\pi + \\theta)\\} \\)\n\nBut by [9], \\( 2i\\pi + \\theta = f^{-1} f \\theta \\) or (see [19]) \\( f^{-1} a \\)\n\nHence \\( a^x \\), or (see [1]) \\( y = f(xf^{-1} a) \\) [Note C.] \\quad [20]\n\nHence, expanding \\( f(xf^{-1} a) \\) by formula [7], we obtain,\n\n\\[\ny = 1 + \\sqrt{-1} xf^{-1} a \\ldots + \\frac{(\\sqrt{-1} xf^{-1} a)^n}{1,2,\\ldots,n} \\ldots \\quad [21]\n\\]\n\nII. To develop \\( x \\) in terms of \\( a \\) and \\( y \\).\n\nSolving [20], we obtain,\n\n\\[\nx = \\frac{f^{-1} y}{f^{-1} a} \\quad \\text{[Note D.]} \\quad [22]\n\\]\n\nHence, developing by formula [18],\n\n\\[\nx = \\frac{2i\\pi - c + \\sqrt{-1} \\left\\{ (1 - yfc) \\ldots + \\frac{1}{n} (1 - yfc)^n \\ldots \\right\\}}{2i\\pi - c + \\sqrt{-1} \\left\\{ (1 - afc) \\ldots + \\frac{1}{n} (1 - afc)^n \\ldots \\right\\}} \\quad [23]\n\\]\n\n(i and c are dotted underneath, to show that when rendered determinate, their individual values may differ from those of i and c.)\n\n[21] and [23] may now be compared with [2], [3], and [4].\n\n**Remarks on the application of the preceding theory.**\n\nFrom the foregoing principles many collateral deductions may be inferred. For instance, they present a solution of difficulties and illustrate peculiarities appertaining to the theory of the logarithms of negative quantities. Directed to geometry, they advance into an almost uninvestigated part of analysis, by conducing to trace the form and evolve the properties of curves (if figures,\nconsisting generally of discontinuous points, can accurately be called curves), whose equations involve exponential functions. By their means also, various differential and other formulæ usually exhibited in logarithmic treatises may be rendered complete. An extended pursuit of these objects would exceed the limits of the present design; but to explain briefly the mode of procedure employed in application of the preceding general results, an Appendix is subjoined, containing a few examples.\n\n**APPENDIX.**\n\n§ 1. The constant $c$ might appear to be needlessly introduced, if its necessity to insure the convergence (and universal accuracy [Note E.]) of the series [18] were not plain from what follows.\n\nDifferentiating $n$ terms of the series [18] there results,\n\n$$-\\sqrt{-1} fc \\left\\{ 1 + (1 - \\theta fc) \\ldots + (1 - \\theta fc)^{n-1} \\right\\} d\\theta$$\n\nwhich, as is evident on multiplying by $1 - (1 - \\theta fc)$,\n\n$$= -\\sqrt{-1} fc \\left\\{ \\frac{1 - (1 - \\theta fc)^n}{1 - (1 - \\theta fc)} \\right\\} d\\theta \\text{ or } (\\sqrt{-1} \\theta)^{-1} \\left\\{ 1 - (1 - \\theta fc)^n \\right\\} d\\theta [24]$$\n\nThis expression, if the series [18] be convergent, or, carried to infinity, be numerically equivalent to $f^{-1} \\theta$, ought, as $n$ is increased without limit, to approach indefinitely to $d f^{-1} \\theta$, or (see [13]) $(\\sqrt{-1} \\theta)^{-1} d\\theta$; but, on referring to [24], it is obvious that such can be the case only where $c$ is so assumed, that, $n$ being supposed to increase without limit, $(1 - \\theta fc)^n$ shall approach indefinitely to 0.\n\nWere $c$ neglected, or, in other words, taken = 0, and therefore (see [6]) $fc = 1$, $\\theta$ would not always necessarily lie between such limits that $(1 - \\theta)^n$ should possess this property; but a quantity $fc$ is, in any case, supposable, which will insure for $(1 - \\theta fc)^n$ the required essential, whatever, at the time, be the value of $\\theta$.\n\n§ 2. If $a^x$ have among its values two quantities differing only in sign, $x$ must be a rational fraction with, in its lowest terms, an even denominator. [Note F.]\n\nBy [20] all the values of $a^x$ are expressed by $f(x f^{-1} a)$. Any determined\nvalue must, therefore, be expressible by \\( f(x \\dot{f}^{-1} a) \\), where \\( \\dot{f}^{-1} a \\) is a determined value of \\( f^{-1} a \\). Moreover, by [9], the expressions \\( f^{-1} a \\), and \\( 2i\\pi + \\dot{f}^{-1} a \\), are co-extensive. Now \\( a^x \\) having two values which differ only in sign, let one of them \\( = f(x \\dot{f}^{-1} a) \\); then (since \\( f\\pi = -1 \\)) the other will \\( = f\\pi \\cdot f(x \\dot{f}^{-1} a) \\) or (see [11]) \\( f(\\pi + x \\dot{f}^{-1} a) \\). The supposition is that \\( f(\\pi + x \\dot{f}^{-1} a) = \\) one of the values of \\( a^x \\) or \\( f\\{x(2i\\pi + \\dot{f}^{-1} a)\\} \\). Hence, by [9], one of the quantities \\( 2i\\pi + \\pi + x \\dot{f}^{-1} a \\) must \\( = \\) one of the quantities \\( x(2i\\pi + \\dot{f}^{-1} a) \\).\n\nHence \\( x \\) must \\( = \\) one of the quantities \\( \\frac{2i+1}{2i} \\), a formula comprising all rational fractions, which, in their lowest terms, have even denominators.\n\n§ 3. \\( f^{-1}(\\theta h) = f^{-1}\\theta + f^{-1}h \\) [Note G.].\n\nBy [11], \\( f(f^{-1}\\theta + f^{-1}h) = ff^{-1}\\theta \\cdot ff^{-1}h \\) or \\( \\theta h \\).\n\nHence, \\( f^{-1}\\theta h = f^{-1}\\theta + f^{-1}h \\). Q. E. D.\n\n§ 4. On the Neperian logarithms of positive numbers.\n\nDeveloping by [7], it appears that \\( f-\\sqrt{-1} = 1 + 1 \\ldots + \\frac{1}{1.2\\ldots n} \\ldots = e \\) the Neperian base.\n\nHence, by [9], \\( f^{-1}e = 2i\\pi - \\sqrt{-1} \\).\n\nHence, by [22], the Neperian logarithms of \\( k^2 \\) are expressed by\n\n\\[\n\\frac{f^{-1}k^2}{2i\\pi - \\sqrt{-1}}\n\\]\n\nNow, by § 3,\n\n\\[\nf^{-1}\\frac{2K^2}{1+K^2} = f^{-1}\\frac{2}{1+K^2} + f^{-1}K^2.\n\\]\n\nHence\n\n\\[\nf^{-1}K^2 = f^{-1}\\frac{2K^2}{1+K^2} - f^{-1}\\frac{2}{1+K^2}\n\\]\n\nAnd, \\( K^2 \\) being positive, (in the formulæ of this paper capital letters will be used to denote real quantities) \\( 1 - \\frac{2K^2}{1+K^2} \\) or \\( \\frac{1-K^2}{1+K^2} \\) and \\( 1 - \\frac{2}{1+K^2} \\) or \\( \\frac{1-K^2}{1+K^2} \\) must evidently both lie between 1 and \\(-1\\).\n\nHence it is plain that \\( \\left(1 - \\frac{2K^2}{1+K^2}\\right)^n \\) and \\( \\left(1 - \\frac{2}{1+K^2}\\right)^n \\) will both approach indefinitely to 0, as \\( n \\) increases without limit.\n\nMDCCCXXIX.\nHence, by §1, constants may be dispensed with in the developments according to formula [18] of $f^{-1} \\frac{2K^3}{1+K^3}$ and $f^{-1} \\frac{2}{1+K^3}$.\n\nWe have, therefore,\n\n$$f^{-1} \\frac{2K^3}{1+K^3} = 2i\\pi + \\sqrt{-1} \\left\\{ \\frac{1-K^3}{1+K^3} \\cdots + \\frac{1}{2n} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n} + \\frac{1}{2n+1} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n+1} \\right\\}$$\n\nand\n\n$$f^{-1} \\frac{2}{1+K^3} = 2i\\pi - \\sqrt{-1} \\left\\{ \\frac{1-K^3}{1+K^3} \\cdots - \\frac{1}{2n} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n} + \\frac{1}{2n+1} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n+1} \\right\\}$$\n\nHence $f^{-1} K^3$ or $f^{-1} \\frac{2K^3}{1+K^3} - f^{-1} \\frac{2}{1+K^3}$\n\n$$= 2(i-i)\\pi + 2\\sqrt{-1} \\left\\{ \\frac{1-K^3}{1+K^3} \\cdots + \\frac{1}{2n+1} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n+1} \\right\\}$$\n\nHence the Neperian logarithms of $K^3$ are\n\n$$\\frac{2i\\pi + 2\\sqrt{-1}}{2i\\pi - \\sqrt{-1}} \\left\\{ \\frac{1-K^3}{1+K^3} \\cdots + \\frac{1}{2n+1} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n+1} \\right\\}$$\n\n[Note H.] [26]\n\nCorollary. When $i$ and $i$ are both $= 0$, this expression reduces itself to\n\n$$-2 \\left\\{ \\frac{1-K^3}{1+K^3} \\cdots + \\frac{1}{2n+1} \\left( \\frac{1-K^3}{1+K^3} \\right)^{2n+1} \\right\\}$$\n\nwhich is the tabular Neperian logarithm (see [5]) of $K^3$. Let it be designated by $lK^3$. On comparing [25] and [26], it appears, by [9], that $-\\sqrt{-1} lK^3$ is one of the values of $f^{-1} K^3$.\n\nHence we have the equation\n\n$$f(-\\sqrt{-1} lK^3) = k^3$$\n\n[27]\n\n§5. To separate the real and imaginary parts of $f^{-1} \\theta$.\n\n$\\theta$ in its most general form $= R + \\sqrt{-1} S.$—(See Lacroix \"Traité,\" &c. Introd. 87.)\n\nOn inspecting a circle whose radius is supposed to be $= 1$, it will be obvious that for all arcs whose magnitude lies between $\\pi$ and $-\\pi$, the arc and sine at any time are either both positive or both negative. Suppose therefore such an arc to have for cosine the quantity $\\frac{R}{\\sqrt{R^2+S^2}}$, then will its sine or\n\n$$\\pm \\sqrt{1-\\frac{R^2}{R^2+S^2}} = \\frac{S}{\\sqrt{R^2+S^2}},$$\n\nas long as the arc and $S$ have the same sign.\nNow let $\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}}$ (characterized, to distinguish it from any of the other values of $\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}}$) be the arc, when radius = 1, in the first positive or negative semicircle, according as $S$ is positive or negative, whose cosine $= \\frac{R}{\\sqrt{R^2 + S^2}}$; (as $\\frac{R}{\\sqrt{R^2 + S^2}}$ always lies between 1 and -1, it is evident that such an arc $\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}}$ is always assignable) then, by what has been premised, will its sine $= \\frac{S}{\\sqrt{R^2 + S^2}}$.\n\nHence\n\n$$f \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} = \\frac{R + \\sqrt{-1} S}{\\sqrt{R^2 + S^2}}$$\n\nAgain, let $l \\sqrt{R^2 + S^2}$ designate the tabular Neperian logarithm of $\\sqrt{R^2 + S^2}$; then, by [27], will\n\n$$f(-\\sqrt{-1} l \\sqrt{R^2 + S^2}) = \\sqrt{R^2 + S^2}$$\n\nHence\n\n$$f \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\cdot f(-\\sqrt{-1} l \\sqrt{R^2 + S^2}) \\text{ or } (\\text{see [11]})$$\n\n$$f(\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} - \\sqrt{-1} l \\sqrt{R^2 + S^2}) = R + \\sqrt{-1} S$$\n\nHence, by [9],\n\n$$f^{-1}(R + \\sqrt{-1} S) \\text{ or } f^{-1} \\theta = 2i\\pi + \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} - \\sqrt{-1} l \\sqrt{R^2 + S^2} \\quad [28]$$\n\nin which expression the real and imaginary parts of $f^{-1} \\theta$ are separated.\n\n**Corollary.** I may remark that from the ambiguity of $d \\cos^{-1} \\theta$, which $= \\mp \\sqrt{1 - \\theta^2} d \\theta$, the arcs in odd positive and even negative semicircles whose cosines $= \\theta$, a quantity between 1 and -1, will be found on development to be represented by\n\n$$2i\\pi + \\frac{\\pi}{2} - \\theta \\ldots - \\frac{1^3 \\cdot 3^3 \\ldots (2n-1)^3}{1 \\cdot 2 \\ldots 2n \\cdot 2n+1} \\theta^{2n+1} \\ldots$$\n\nSimilarly, the arcs in odd negative and even positive semicircles whose cosines $= \\theta$, are represented by\n\n$$2i\\pi - \\frac{\\pi}{2} + \\theta \\ldots + \\frac{1^3 \\cdot 3^3 \\ldots (2n-1)^3}{1 \\cdot 2 \\ldots 2n \\cdot 2n+1} \\theta^{2n+1} \\ldots$$\n\nAs\n\n$$\\frac{\\pi}{2} - \\theta \\ldots - \\frac{1^3 \\cdot 3^3 \\ldots (2n-1)^3}{1 \\cdot 2 \\ldots 2n \\cdot 2n+1} \\theta^{2n+1} \\ldots$$\nis a value of $\\cos^{-1} \\theta$, which is always less than $\\pi$ (it being recollected that $\\theta$ is a quantity between 1 and $-1$) it follows that the particular value of $\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}}$, which I denote by $\\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}}$\n\n\\[= \\frac{S}{\\sqrt{S^2}} \\left\\{ \\frac{\\pi}{2} - \\frac{R}{\\sqrt{R^2 + S^2}} \\cdots - \\frac{1^2 \\cdot 3^2 \\cdots (2n-1)^2}{1 \\cdot 2 \\cdots 2n \\cdot 2n+1} \\left( \\frac{R}{\\sqrt{R^2 + S^2}} \\right)^{2n+1} \\right\\} \\quad [29]\\]\n\n§ 6. In the equation $x^A + \\sqrt{-1} B = y$, to determine what real values $x$ may possess, so that in each case a corresponding value of $y$ may likewise be real.—[Note I.]\n\nBy [20],\n\n\\[y = f \\{(A + \\sqrt{-1} B)f^{-1} x\\}\\]\n\nBy [28],\n\n\\[f^{-1} x = 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} - \\sqrt{-1} \\sqrt{x^2}\\]\n\nHence\n\n\\[y = f \\left\\{ (A + \\sqrt{-1} B)(2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} - \\sqrt{-1} \\sqrt{x^2}) \\right\\}\\]\n\nor\n\n\\[f \\left\\{ A \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) + B_1 \\sqrt{x^2} + \\sqrt{-1} \\left[ B \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) - A_1 \\sqrt{x^2} \\right] \\right\\}\\]\n\nor (see [11]).\n\n\\[f \\left\\{ A \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) + B_1 \\sqrt{x^2} \\right\\} \\cdot f \\left\\{ \\sqrt{-1} \\left[ B \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) - A_1 \\sqrt{x^2} \\right] \\right\\}\\]\n\nIn this expression the factor\n\n\\[f \\left\\{ \\sqrt{-1} \\left[ B \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) - A_1 \\sqrt{x^2} \\right] \\right\\}\\]\n\nis always real, as is evident on developing by [7].\n\nHence, that some $y$ may be real, the other factor, viz.\n\n\\[f \\left\\{ A \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) + B_1 \\sqrt{x^2} \\right\\}\\]\n\nmust also have some real value.\n\nHence (see [6]) some one, at least, of the quantities\n\n\\[\\sin \\left\\{ A \\left( 2i\\pi + \\cos^{-1} \\frac{x}{\\sqrt{x^2}} \\right) + B_1 \\sqrt{x^2} \\right\\}\\]\n\nmust $= 0$.\nHence some value of $\\sin^{-1}0$ or $i\\pi$ must be to be found among\n\n$$A \\left(2i\\pi + \\cos^{-1}\\frac{x}{\\sqrt{x^3}}\\right) + B1\\sqrt{x^3}.$$  \n\nHence\n\n$$1\\sqrt{x^3} \\text{ must } = \\text{ some quantity } \\frac{i\\pi - A\\left(2i\\pi + \\cos^{-1}\\frac{x}{\\sqrt{x^3}}\\right)}{B}$$  \n\n$x$ is either positive or negative.\n\nWhen $x$ is positive, $\\cos^{-1}\\frac{x}{\\sqrt{x^3}} = \\cos^{-1}1$ or $0$.\n\nWhen $x$ is negative, $\\cos^{-1}\\frac{x}{\\sqrt{x^3}} = \\cos^{-1}-1$ or $\\pm\\pi$.\n\nHence and from [30] it follows, that, for $y$ as well as $x$ to be real, $x$ must $=$ one of those quantities whose tabular Neperian logarithms are\n\n$$\\frac{i-2iA}{B}\\pi$$\n\nor one of the negatives of those quantities whose tabular Neperian logarithms are\n\n$$\\frac{i-(2i\\pm1)A}{B}\\pi$$\n\nHence $x$ must $=$ one of the quantities\n\n$$f\\left\\{(i-\\sqrt{-1}\\frac{i-A}{B})\\pi\\right\\}$$  \n\n[31]\n\na formula, which, as appears by [11] and [27], comprises all the quantities that respectively fulfil the conditions above stated.\n\nCorollary. On retracing our steps under the guidance of formula [31], it would not be difficult to prove, among others, the following theorems, viz.\n\n1st. When $B = 0$, for $x$ to be negative and $y$ real, $A$ must be a rational fraction with, in its lowest terms, an odd denominator.\n\n2nd. When $B = 0$, and $A$ is a rational fraction, which, in its lowest terms, $= \\frac{m}{n}$, the number of real values of $y$ that can correspond with a real $x$ will be one or two, according as $n$ is odd or even.\n\n3rd. In general, when $A$ is irrational, $y$ can have only one real value consistently with the simultaneous reality of an $x$.\n\n4th. When $B$ is not $= 0$ and $A$ is rational, $y$, in every case when it has one real value corresponding to a real $x$, has an infinite number.\n§ 7. On the orders and ranks of logarithms.\n\nIn [22] let \\( y = R + \\sqrt{-1} S \\) and \\( a = A + \\sqrt{-1} B \\); then, by [28], will\n\n\\[\n\\frac{f^{-1} y}{f^{-1} a} \\text{ or } x = \\frac{2i\\pi + \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} - \\sqrt{-1} \\sqrt{R^2 + S^2}}{2i\\pi + \\cos^{-1} \\frac{A}{\\sqrt{A^2 + B^2}} - \\sqrt{-1} \\sqrt{A^2 + B^2}}\n\\]\n\nWhen I have thus separated respectively the real and imaginary parts of the numerator and denominator of [22], upon assigning particular values, \\( i \\) and \\( j \\), to \\( i \\) and \\( i \\) in [32], I would indicate the order of a logarithm by the \\( i \\) in the denominator, and the rank it bears in that order by the \\( j \\) in the numerator; e.g. I would say of the resulting \\( x \\) that, in the base \\( a \\), it was the \\( j \\)th logarithm of \\( y \\) of the \\( i \\)th order.\n\nBy [20], all the values of \\((A + \\sqrt{-1} B)^x\\) are comprised in the formula\n\n\\[ f \\left\\{ x f^{-1} (A + \\sqrt{-1} B) \\right\\} \\]\n\nor, (see [28])\n\n\\[ f \\left\\{ x \\left( 2i\\pi + \\cos^{-1} \\frac{A}{\\sqrt{A^2 + B^2}} - \\sqrt{-1} \\sqrt{A^2 + B^2} \\right) \\right\\} \\]\n\nWhen, in this formula, \\( i \\) assumes the particular value \\( j \\), I would denominate\n\n\\[ f \\left\\{ x \\left( 2i\\pi + \\cos^{-1} \\frac{A}{\\sqrt{A^2 + B^2}} - \\sqrt{-1} \\sqrt{A^2 + B^2} \\right) \\right\\} \\]\n\nthe \\( j \\)th value of \\((A + \\sqrt{-1} B)^x\\).\n\nWhen, with respect to the base \\( a \\), \\( x \\) is any logarithm of \\( y \\) of the \\( j \\)th order, the \\( j \\)th value of \\( a^x \\) will \\( = y \\).\n\nEmploying the mode of expression above explained, I conceive that the chief novelty of my system consists, not in showing that any assigned quantity, relatively to a given base, has an infinite number of logarithms (which was known before), but in showing that it has an infinite number of orders of logarithms, and an infinite number of logarithms in each order.\n\nThus, all the Neperian logarithms of 1 have been hitherto supposed to be comprised in the formula\n\n\\[ \\sqrt{-1} 2i\\pi \\]\nwhereas [32], on supposing $R = 1$, $S = 0$, $A = e$, and $B = 0$, gives the more general formula\n\n$$\\frac{2i\\pi}{2i\\pi - \\sqrt{-1}} \\quad \\text{[Note K.]}$$\n\nA remark necessary to prevent misconception is, that, in certain cases, a logarithm may re-appear at intervals with different ranks in different orders.\n\n**NOTES.**\n\n**Note A.**—My knowledge of these researches is derived not from the original Essays, but from abstracts of their contents given in the Dublin Philosophical Journal, vol. ii. No. 3. p. 60, and No. 4. p. 219.\n\nMy occupations have prevented me from examining whether mathematicians have directed further attention to the extended application of the principles there promulged. In October 1826 I had obtained the results presented in this paper.\n\n**Note B.**—As long as the development [18] is not illusory, its values will be independent of the value assigned at any time to the arbitrary constant $c$. [Vide infra, Notes E and K.]\n\n**Note C.**—It is important to observe, that notwithstanding the infinite number of values of $f^{-1}a$, yet where $x$ is a real and rational quantity, $y$ or $f(x f^{-1}a)$ will, from the form of the function, have periodical recurrences of the same values.\n\n**Note D.**—When this expression is required to assume particular values, there needs be no correspondence between the numerator and the denominator; for, $y$ being supposed for a moment given, $x$, by the definition of \"logarithm of $y$,\" may be any such quantity that $y$ may be found among the values of $a^x$ or (see [20]) $f(x f^{-1}a)$. Every value whatever of formula [22] satisfies this criterion; for, let $\\frac{\\dot{x}-1}{\\dot{x}-1}a$ be any one of its values, in which the numerator and denominator are wholly independent, then will $a^{\\dot{x}-1}a$ or $f(\\frac{\\dot{x}-1}{\\dot{x}-1}a f^{-1}a)$ possess among its values\n\n$$f(\\frac{\\dot{x}-1}{\\dot{x}-1}a f^{-1}a) = ff^{-1}y = y$$\n\n**Note E.**—As this example seems to lead to the general consideration of diverging and illusory series, I shall endeavour to state succinctly my impressions respecting that important and delicate subject.\n\nInstances frequently occur to the analyst of developments, in which, upon substituting a particular value for the variable in each, there is no approximation to numerical identity between the several\nresulting series calculated to any number of terms, and the respective functions which they ought to represent.\n\nSuch developments have been said to be analytically accurate, notwithstanding the numerical discrepancy in each particular case. \"They serve,\" it is argued, \"to represent their functions, and by performing algebraical operations upon them, correct conclusions are attained.\"\n\nNow, it appeared to me that there was some confusion of expression in asserting universally that equations were analytically true, which, numerically considered, were, in particular instances, palpably false. In ascertaining the correctness of the conclusions deduced from them, and relied upon as evidence of the truth of their premises, I observed that the formerly rejected test of numerical identity was often appealed to. Nay further, I was induced to ascribe, in the absence of other visible causes, to the intervention of such equations the limited results which were occasionally elicited where previous calculations would lead to the expectation of general ones, and even the conclusions absolutely and unlimitedly erroneous to which the mathematician was sometimes conducted by apparently un-deviating paths.\n\nTo account for these difficulties, upon reverting to first principles, it will be found that the theorems of development (such as Taylor's, Maclaurin's, &c.) are based upon hypothetic reasoning to this effect, viz. \"if the function be developable according to certain powers, it will be developed in a certain form,\" which is assigned. Now imagine a function of $x$, for instance, which for those values only of $x$ that lie between certain limits, is capable of being developed according to the ascending integral powers of $x$, such a function, it would seem, evolved by Maclaurin's theorem, would afford an expansion which, when $x$ transgresses those limits, would be illusory.\n\nIn the treatment of developments thus partially true, when more than one of them come in question, the extent of their compatibility should, in my opinion, be most carefully attended to; for, if two such developments of a function were equated, whereof the one was applicable for values of the variable which would render the other illusory, the consequences derived from such equation might, in proportion to the extent of those values, be partly or entirely false. An instance of the limitation introduced by the caution here recommended is to be found in Appendix § 4.\n\nTo learn how far a development was applicable, it might be useful to ascertain the error committed upon calculating $n$ terms of the series, and, then supposing $n$ an infinitely great integer, to observe if there were any values of the variable which would prevent the expression for the error from vanishing.\n\nShould these reflections appear dubious or unfounded, I wish it to be fully understood that they may, in that case, be considered as operating on my results only, at most, by way of superfluous caution. Thus, if $c$ be deemed unnecessary to the universal accuracy of the series [18], it has, at all events, the merit of ensuring its convergence.\n\nSince writing the above, I have been informed by Professor Hamilton that M. Poisson has lately given examples of the danger of using diverging series, even when the final development to which they conduct is converging.\n\nNote F.—This seems to prove that the logarithms of negative numbers are not in general the same as those of their positives, as Jean Bernouilli and D'Alembert thought. (See Lacroix, \"Traité,\" &c. Introd. 82.) Hence also conversely by easy inference it seems to follow, that negative numbers have occasionally even real logarithms, contrary to the opinion that they have none whatever,\nmaintained in the Encyclopedia Metropolitana, article Algebra, 284. Indeed, when $-2$ is admitted to be one of the values of $4^{\\frac{1}{2}}$, the extension of the notion \"logarithm\" must be greatly abridged to deny that, relatively to the base 4, $\\frac{1}{2}$ is a logarithm of $-2$.\n\n**Note G.**—From this theorem it does not follow that $f^{-1} \\theta^2 = 2 f^{-1} \\theta$; an expression that has only half as many values as $f^{-1} \\theta + f^{-1} \\theta$, which admits the addition of any one value of $f^{-1} \\theta$ to any other.\n\nThis instance is adapted to give notice of a very insidious species of fallacy, whose intrusion, in reasoning on subjects like the present, should be guarded against with vigilance.\n\n**Note H.**—As $2i\\pi$ comprises exactly the same values as $2(i-i)\\pi$, and serves as well to show that the integer in the numerator of [26] may be chosen without reference to that in the denominator, it is preferred for briefness and concinnity in a general formula.\n\n**Note I.**—The solution of this problem assists in constructing the figure whose equation is $x^A + \\sqrt{-1} B = y$.\n\nM. Vincent has inserted in the commencement of the 15th volume of the \"Annales de Mathématiques,\" &c. published at Nismes in 1824 and 1825, and edited by M. J. D. Gergonne, an ingenious paper on the construction of some discontinuous transcendental curves. His paper is entitled \"Considerations nouvelles sur la nature des courbes logarithmiques et exponentielles. Par M. Vincent, Professeur de Mathématiques au Collège Royal de Reims, ancien élève de l'École normale.\" His general principles appear to me to be correct; but, in my opinion, he has occasionally fallen into error. For instance, he seems to take it for granted when $a$ is positive, that whatever value of $a^x$ be considered, $d_a^x = 1 a a^x d x$; whereas, when the $i^{th}$ value of $a^x$ is considered (see Appendix § 7.), $d_a^x = (\\sqrt{-1} i \\pi + 1 a) a^x d x$.\n\nTo obviate some objections to my general theory, I may here observe incidentally that M. Stein, who has occasionally written on the subject of logarithms in the same journal, would introduce a very confused and inconvenient notation by supposing $a^x$ to vary its signification according to the form in which the value of $x$ is expressed—by supposing, for instance, that, while $a^1 = a$, $a^{\\frac{1}{2}}$ would $= (a^2)^{\\frac{1}{2}}$ or $\\pm a$. Hence, by the same analogy $a^{\\sqrt{2}}$ would $= a \\cdot 1^{\\sqrt{2}}$. According to the usual interpretation of $a^x$, which I have adopted, and by which it is identical with $f(x f^{-1} a)$, $a^1$, $a^{\\frac{1}{2}}$ and $a^{\\sqrt{2}}$ have all the same signification.\n\nThe following definition of $a^x$, derived from the characteristic property which led to the extension of the exponential notation beyond integral exponents, has been suggested to me by my friend Mr. Hamilton, Royal Astronomer of Ireland:\n\n\"$a^x$ comprises every successive function $\\varphi x$ of $x$, which, independently of $x$ and $y$, satisfies the conditions $\\varphi x \\varphi y = \\varphi (x + y)$ $\\varphi 1 = a.$\"\n\nFrom this definition does not follow, in all its generality, the equation $a^x a^y = a^{x+y}$, for the product of the $i^{th}$ value of $a^x$ (which I would designate by $a_i^x$) multiplied by the $i^{th}$ value of $a^y$ is not necessarily among the values of $a^{x+y}$; a legitimate consequence of the definition of $a^x$ is the equation $a_i^x a_i^y = a_i^{x+y}$.\n\nMDCCCXXIX.\nNote K.—To exemplify the agreement with which the positions we have established lead by different processes to the same conclusion, it may be mentioned that the same general formula for the Neperian logarithms of 1 would be obtained from [23], on supposing \\( y = 1, c = 0, a = e \\) and \\( c = \\sqrt{-1} \\), or, more concisely, from [26], on supposing \\( K^2 = 1 \\).\n\nIf, however, in [29] we had selected other values for \\( c \\) and \\( c \\), consistently with the convergence of the numerator and denominator; e.g. if \\( c \\) were supposed \\( = 2i\\pi \\) and \\( c = 2i\\pi + \\sqrt{-1} \\), upon making all the necessary substitutions; formula [23] would produce\n\n\\[\n\\frac{2i\\pi - 2i\\pi}{2i\\pi - 2i\\pi - \\sqrt{-1}}\n\\]\n\nNow though this formula has precisely the same values as \\( \\frac{2i\\pi}{2i\\pi - \\sqrt{-1}} \\), yet their arrangement is different. In general, therefore, [23], from its liability to alter the arrangement of its values by the alterations imparted to \\( c \\) and \\( c \\), cannot be resorted to for the definitive computation of the orders and ranks of logarithms. It was from the necessity of establishing a standard (whose only requisite is that, when once determined, it should not be varied,) from which to commence such computation, that, in Appendix, §5, I fixed arbitrarily (the consideration of superior simplicity abstracted) on that value of \\( \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\) which I denote by \\( \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\), although any other defined value \\( \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\), which would satisfy the equation\n\n\\[\nf \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} = R + \\sqrt{-1} S\n\\]\n\nwould have answered the same purpose.\n\nWhen \\( R \\) is negative and \\( S = 0 \\), according as we decide to consider 0 positive or negative, \\( \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\) will = either \\( +\\pi \\) or \\( -\\pi \\); in every other case the value of \\( \\cos^{-1} \\frac{R}{\\sqrt{R^2 + S^2}} \\) will be definitively fixed by [29].\n\nIf \\( l_a \\) designate the 0th Neperian logarithm of \\( a \\) of the 0th order, [32] may be expressed as follows:\n\n\\[\nx = \\frac{\\sqrt{-12i\\pi + ly}}{\\sqrt{-12i\\pi + la}}\n\\]\n\nwhich may be compared with (3) and (4).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107776.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 17,
+    "total-input-tokens": 29048,
+    "total-output-tokens": 12133,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1665,
+        2
+      ],
+      [
+        1665,
+        3750,
+        3
+      ],
+      [
+        3750,
+        5267,
+        4
+      ],
+      [
+        5267,
+        7042,
+        5
+      ],
+      [
+        7042,
+        9004,
+        6
+      ],
+      [
+        9004,
+        11190,
+        7
+      ],
+      [
+        11190,
+        13307,
+        8
+      ],
+      [
+        13307,
+        15385,
+        9
+      ],
+      [
+        15385,
+        17455,
+        10
+      ],
+      [
+        17455,
+        19384,
+        11
+      ],
+      [
+        19384,
+        21158,
+        12
+      ],
+      [
+        21158,
+        23136,
+        13
+      ],
+      [
+        23136,
+        25452,
+        14
+      ],
+      [
+        25452,
+        29182,
+        15
+      ],
+      [
+        29182,
+        32656,
+        16
+      ],
+      [
+        32656,
+        34850,
+        17
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107776",
+    "title": "An Attempt to Rectify the Inaccuracy of Some Logarithmic Formulae",
+    "authors": "John Thomas Graves",
+    "year": 1829,
+    "volume": "119",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 17,
+    "jstor_url": "https://www.jstor.org/stable/107776"
+  }
+}

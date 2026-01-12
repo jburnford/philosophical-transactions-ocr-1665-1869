@@ -1,0 +1,69 @@
+{
+  "id": "c76d5af0d64934ec2a3e1bb75e7c0a19a77e7a91",
+  "text": "V. De Morbo veneno Canis rabidi.\n\nIn the Year 1688 there was brought to us for Cure a Child of about Three Years of Age, who had just then received a large Wound upon the Masseter Muscle by the bite of a Dog. The Child was sitting upon the Threshold of the Door, and a Dog came running by him, upon which another Dog comes out upon the former, and in the scuffle the Child received this Accident from the strange Dog, whom the People supposed to be Mad, as it after was made evident.\n\nThe Wound we treated with Digestives for some time, Sutures were forbidden, though otherwise necessary, that the Sanation thereof being defer'd, the contracted Venom might have the freer egress thereat. There was in a short time discharged a very laudable Pus, and the Wound incarned as fast as we could desire; there was no supervenient Humour, or Inflammation that attended, nor any other apparent Symptom that could presage what followed.\n\nIn about three Weeks time we had incarned, and brought over a very firm and seemly Cicatrix; and in about two days after Cicatrizing the Wound, the Child was seized with a Fever, a disorderly Pulse, and Palpitation of the Heart: The Night ensuing he grew Delirious, and the succeeding Day the Malignity had made so virulent an impression upon the Animal Spirits, as did excite very strong irritations in the Members of the Body, by convelling of their Muscular Fibres. Neither was the Brain and its parts freed from the same Morbid taint, which manifested its ferocity in a most strange and unusual distortion of the Eyes, from a confused and irregular expansion of the Optick Nerve, attended with an extraordinary fierceness in the whole Visage, continual Vigilies,\nVigilies, and a constant Trepidation, with a reiterated snatching up of the lower Mandible, making signs as if he would have bit at any thing that was offered him. His Voice was uttered with a Canine hoarseness, and had an extraordinary resemblance to the barking of a Dog. He was moreover infested from that time with a Singultus, and foaming at the Mouth. Thus he continued the most part of the Day: being with him for a considerable time, to observe these wonderful Phenomena, I took the occasion (out of Curiosity) to present a Looking-glass before him, but found him so extremely disturbed thereat, that I immediately took it away: He was no sooner sensible of the Reflection, than that he threw his Head backwards with great violence, and continued barking, and snapping at every thing near him: In the Evening, notwithstanding such Alexipharmicks as had been exhibited, he sunk under the Oppression of these cruel Symptoms. I would very desirously have opened his Body, but it was forbidden by his Parents. The Abdomen, I perceived, was excessively inflated, his Limbs convuls'd, and the surface of the Body of a livid colour; the Muscles of the Face were drawn into such a form as did nearly represent a Spasmus Cinicus.\n\nVI. Solutio Problematis Florentini de Testudine Veliformi Quadrabili, a Davide Gregorio, M. D. ac R. S. S. Communicata.\n\nProdiit Florentiae Anno MDCXCII. Ænigma Geometricum de miro opificio Testitudinis Hemisphaericae quadrabilis quod eo spectabat ut detractis ex Hemisphaerica Testudine quatuor æqualibus similibus similiterque positis fenestris, reliqua Hemisphaerica superficies sit quadraturæ verè",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102425.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 888,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1695,
+        2
+      ],
+      [
+        1695,
+        3326,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102425",
+    "title": "De Morsu Uenenoso Canis rabidi",
+    "authors": null,
+    "year": 1694,
+    "volume": "18",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102425"
+  }
+}

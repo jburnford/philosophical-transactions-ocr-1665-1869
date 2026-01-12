@@ -1,0 +1,59 @@
+{
+  "id": "481383d06d4dbd70fa43bb82c6ac849af1615e2e",
+  "text": "II. Epistola Viri Doctissimi Johannis Hoogvlietii ad Jacobum Jurin, M. D. R. S. Secr. De Epistolis duabus Posthumis Viri Celeberrimi Antonij a Leeuwenhoek, R. S. S.\n\nSenex noster venerandus Leeuwenboekius, jam in agonè Mortis versans, ac nihilominus artis suae memor, me ad se vocari iussit, attollensque oculos jam gravatos morte, verbis semiabruptis me rogabat, vellem ne hasce binas literas ex vernaculo in Latinum Sermonem vertere, tibique, Vir Amplissime, mittere. Ut ergo hisce tanti viri, quo abhinc jam aliquot annos usus fueram familiarissime, parerem praceptis, non possum, quin tibi, Vir eruditissime, hoc extremum, Viri mihi amicissimi morientis, munus mittam, sperans fore ut hæc ultima ejus conamina tibi grata sint futura.\n\nDelphis in Batavis,\npridie Nonas Sept.\n1723.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103653.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 337,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        783,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103653",
+    "title": "Epistola Viri Doctissimi Johannis Hoogvlietii ad Jacobum Jurin, M. D. R. S. Secr. de Epistolis Duabus Posthumis Viri Celeberrimi Antonij a Leeuwenhoek, R. S. S.",
+    "authors": "Antonij a Leeuwenhoek, Johannis Hoogvlietii",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103653"
+  }
+}

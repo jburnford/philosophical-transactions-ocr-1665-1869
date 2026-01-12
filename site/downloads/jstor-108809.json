@@ -1,0 +1,119 @@
+{
+  "id": "68cb21634d07fe26c020e53551a4e4492b004308",
+  "text": "XXIV. On the Calculus of Symbols.—Third Memoir. By W. H. L. Russell, Esq., A.B.\n\nCommunicated by A. Cayley, F.R.S.\n\nReceived May 15,—Read May 21, 1863.\n\nIn my second Memoir \"On the Calculus of Symbols,\" I worked out the general case of multiplication according to one of the two systems of combination of non-commutative symbols previously given. In the present paper I propose to investigate the general case of multiplication according to the other system. I commence with the Binomial Theorem, to which the second system gives rise. In my previous researches I obtained the general term of the binomial theorem when the symbols combine according to the first system by equating symbolical coefficients; here, on the other hand, I consider the nature of the combinations which arise from the symbolical multiplication, and obtain the general term by summation. I next proceed to the multiplication of binomial factors. Here the general term is obtained by considering the alteration of weight undergone by certain symbols in the process of multiplication. The multinomial theorem according to the second system is next considered and its general term calculated. I conclude the memoir with some applications of the calculus of symbols to successive differentiation. This paper completes the investigation of symbolical multiplication and division according to the two systems of combination, the general case of division having been worked out by Mr. Spottiswoode in a very beautiful memoir recently published in the Transactions of this Society.\n\nI shall commence with expanding the binomial \\((\\pi + \\theta \\xi)^n\\) in terms of \\(\\pi\\).\n\nI shall put \\(\\delta\\) in place of the symbol \\(\\xi \\frac{d}{d\\xi}\\), and write \\(a_a\\), for \\(a, \\frac{a-1}{2}, \\frac{a-2}{3}, \\ldots, \\frac{a-a+1}{a_1}\\).\n\nNow\n\n\\[\n(\\pi + \\theta \\xi)^2 = \\pi^2 + \\theta \\xi \\cdot \\pi + \\theta \\xi^2 + \\theta (\\xi)^2,\n\\]\n\n\\[\n(\\pi + \\theta \\xi)^3 = \\pi^3 + (\\pi^2 \\theta \\xi + \\pi \\theta \\xi^2 + \\theta \\xi^3) + (\\theta \\xi^2 \\pi + \\theta \\xi \\theta \\xi + \\pi \\theta \\xi^3) + \\theta \\xi^3.\n\\]\n\nHence we evidently have\n\n\\[\n(\\pi + \\theta \\xi)^n = \\pi^n + \\Sigma(\\pi^{n-1} \\theta \\xi) + \\Sigma(\\pi^{n-2} \\theta \\xi^2) + \\Sigma(\\pi^{n-3} \\theta \\xi^3) + \\ldots,\n\\]\n\nwhere \\(\\Sigma(\\pi^m \\theta \\xi^r)\\) denotes the sum of all the factors in which the symbol \\((\\pi)\\) occurs \\((m)\\) times and the symbol \\((\\theta \\xi)\\) \\((r)\\) times irrespective of position.\n\nNow if \\(a + b = m\\),\n\n\\[\n\\pi^b \\theta \\xi^a = \\theta \\xi^a \\pi^b + b_1 \\delta \\theta \\xi^a \\pi^{m-1} + b_2 \\delta^2 \\theta \\xi^a \\pi^{m-2} + b_3 \\delta^3 \\theta \\xi^a \\pi^{m-3} + \\ldots\n\\]\n\nAgain, if \\(a + b + c = m\\),\n\n\\[\n\\pi^c \\theta \\xi^b \\theta \\xi^a = \\theta \\xi^a \\pi^c + b_1 \\delta \\theta \\xi^b \\theta \\xi^a \\pi^{m-1} + b_2 \\delta^2 \\theta \\xi^b \\theta \\xi^a \\pi^{m-2} + b_3 \\delta^3 \\theta \\xi^b \\theta \\xi^a \\pi^{m-3} + \\ldots\n\\]\n\nMDCCCLXIII.\nand if \\(a + b + c + e = m\\), we have\n\n\\[\n\\pi^a \\theta^b \\xi^c \\theta^e \\xi^m = (\\theta^e)^3 \\pi^m + b_1 \\theta^2 \\xi^2 \\theta^e \\xi^{m-1} + b_2 \\theta^2 \\xi^2 \\theta^e \\xi^{m-2} + b_3 \\theta^2 \\xi^2 \\theta^e \\xi^{m-3} + \\ldots \\\\\n+ c_1 \\theta^2 \\xi^2 \\theta^e \\xi^{m-1} + c_2 \\theta^2 \\xi^2 \\theta^e \\xi^{m-2} + c_3 \\theta^2 \\xi^2 \\theta^e \\xi^{m-3} + \\ldots \\\\\n+ e_1 \\theta^2 \\xi^2 \\theta^e \\xi^{m-1} + e_2 \\theta^2 \\xi^2 \\theta^e \\xi^{m-2} + e_3 \\theta^2 \\xi^2 \\theta^e \\xi^{m-3} + \\ldots\n\\]\n\nHence we see that if \\(a + b + c + e + \\ldots + l = n\\), the general term of \\(\\pi^a \\theta^b \\xi^c \\theta^e \\xi^l \\xi^m\\) will be\n\n\\[\n\\Sigma b_0 c_0 \\ldots l_0 \\delta^a \\theta^b \\xi^c \\theta^e \\xi^l \\xi^m,\n\\]\n\nwhere the sum \\(\\Sigma\\) extends to all values of \\(b_0 c_0 \\ldots l_0\\) included in the equation\n\n\\[\nb_0 + c_0 + \\ldots + l_0 = s;\n\\]\n\nand if \\((r)\\) be the number of the factors \\(\\theta^e\\), we shall have\n\n\\[\n\\pi^a \\theta^b \\xi^c \\theta^e \\xi^m = (\\theta^e)^r \\pi^m + \\{b_1 (\\theta^e)^{r-1} \\delta^2 \\theta^e + c_1 (\\theta^e)^{r-2} \\delta^2 \\theta^e + e_1 (\\theta^e)^{r-3} \\delta^2 \\theta^e + \\ldots \\} \\pi^{m-1} \\\\\n+ \\{b_2 (\\theta^e)^{r-1} \\delta^2 \\theta^e + c_2 (\\theta^e)^{r-2} \\delta^2 \\theta^e + e_2 (\\theta^e)^{r-3} \\delta^2 \\theta^e + \\ldots + b_1 (\\theta^e)^{r-2} \\delta^2 \\theta^e \\delta^2 \\theta^e \\\\\n+ b_2 (\\theta^e)^{r-2} \\delta^2 \\theta^e \\delta^2 \\theta^e + \\ldots \\} \\pi^{m-2} + \\ldots + \\Sigma b_0 c_0 \\ldots l_0 \\delta^a \\theta^b \\xi^c \\theta^e \\xi^l \\xi^m + \\ldots,\n\\]\n\nand hence we shall have\n\n\\[\n\\Sigma \\pi^m (\\theta^e)^r = (\\theta^e)^r \\pi^m + \\{(b_1 + b_2 + \\ldots)(\\theta^e)^{r-1} \\delta^2 \\theta^e + (c_1 + c_2 + \\ldots)(\\theta^e)^{r-2} \\delta^2 \\theta^e + (e_1 + e_2 + \\ldots)(\\theta^e)^{r-3} \\delta^2 \\theta^e + \\ldots \\} \\pi^{m-1} \\\\\n+ \\{(b_2 + b_3 + \\ldots)(\\theta^e)^{r-1} \\delta^2 \\theta^e + (c_2 + c_3 + \\ldots)(\\theta^e)^{r-2} \\delta^2 \\theta^e + \\ldots + (b_1 c_1 + b_2 c_1 + \\ldots) \\delta^2 \\theta^e \\delta^2 \\theta^e + \\ldots \\} \\pi^{m-2} \\\\\n+ \\ldots + \\Sigma_m b_0 c_0 \\ldots l_0 \\delta^a \\theta^b \\xi^c \\theta^e \\xi^l \\xi^m + \\ldots,\n\\]\n\nwhere \\(\\Sigma_s\\) extends to all values of \\(b_0 c_0 \\ldots\\) included in the equation\n\n\\[\nb_0 + c_0 + \\ldots + l_0 = s,\n\\]\n\nand \\(\\Sigma_m\\) to all values of \\(abc\\) included in the equation\n\n\\[\na + b + c + \\ldots + l = m.\n\\]\n\nNow the general term of the binomial \\((\\pi + \\theta^e)^n\\) will be the term involving \\(\\pi^a\\) in the sum of\n\n\\[\n\\Sigma (\\pi^{n-1} \\theta^e), \\quad \\Sigma (\\pi^{n-2} \\theta^e^2), \\quad \\&c.\n\\]\nHence we easily see that the coefficient of $\\pi^n$ in the binomial is\n\n$$\\sum_{n-1} \\sum_{n-\\mu-1} b_0 \\delta^{\\alpha} \\theta^{\\beta} + \\sum_{n-2} \\sum_{n-\\mu-2} b_0 c_0 \\delta^{\\alpha} \\theta^{\\beta} \\theta^{\\gamma} + \\sum_{n-3} \\sum_{n-\\mu-3} b_0 c_0 e_0 \\delta^{\\alpha} \\theta^{\\beta} \\theta^{\\gamma} \\theta^{\\delta} + \\ldots$$\n\n$$+ \\sum_{n-\\nu} \\sum_{n-\\mu-\\nu} b_0 c_0 \\ldots l_0 \\delta^{\\alpha} \\theta^{\\beta} \\ldots \\delta^{\\alpha} \\theta^{\\beta} \\theta^{\\gamma} + \\ldots,$$\n\nwhere\n\n$$a + b + c + e + \\ldots + l = n - \\nu$$\n\n$$b_0 + c_0 + \\ldots + l_0 = n - \\mu - \\nu.$$\n\nI shall next investigate the general term of the symbolical product,\n\n$$(\\pi + \\theta_1)(\\pi + \\theta_2)(\\pi + \\theta_3) \\ldots (\\pi + \\theta_n).$$\n\nNow\n\n$$(\\pi + \\theta_1)(\\pi + \\theta_2) = \\pi^2 + \\pi \\theta_1 + \\theta_2 \\pi + \\theta_1 \\theta_2;$$\n\n$$(\\pi + \\theta_1)(\\pi + \\theta_2)(\\pi + \\theta_3) = \\pi^3 + (\\theta_1 \\pi^2 + \\pi \\theta_2 \\pi + \\pi^2 \\theta_3)$$\n\n$$+ (\\theta_1 \\theta_2 \\pi + \\theta_1 \\theta_3 \\pi + \\theta_2 \\theta_3 \\pi) + \\theta_1 \\theta_2 \\theta_3;$$\n\n$$(\\pi + \\theta_1)(\\pi + \\theta_2)(\\pi + \\theta_3)(\\pi + \\theta_4) = \\pi^4 + (\\theta_1 \\pi^3 + \\pi \\theta_2 \\pi^2 + \\pi^2 \\theta_3 \\pi + \\pi^3 \\theta_4)$$\n\n$$+ (\\theta_1 \\theta_2 \\pi^2 + \\theta_1 \\theta_3 \\pi^2 + \\theta_1 \\theta_4 \\pi^2 + \\theta_2 \\theta_3 \\pi^2 + \\theta_2 \\theta_4 \\pi^2 + \\theta_3 \\theta_4 \\pi^2)$$\n\n$$+ (\\theta_1 \\theta_2 \\theta_3 \\pi + \\theta_1 \\theta_2 \\theta_4 \\pi + \\theta_1 \\theta_3 \\theta_4 \\pi + \\theta_2 \\theta_3 \\theta_4 \\pi) + \\theta_1 \\theta_2 \\theta_3 \\theta_4.$$ \n\nHence we deduce the following law of multiplication in this case.\n\nConsider the symbolical expression\n\n$$\\pi^a \\theta_{a_1}(\\varepsilon) \\pi^b \\theta_{b_2}(\\varepsilon) \\pi^c \\theta_{c_3}(\\varepsilon) \\ldots \\pi^r \\theta_{r_r}(\\varepsilon) \\pi^s,$$\n\nwhere\n\n$$a + b + c + \\ldots + s = n - r, \\ldots \\ldots \\ldots \\ldots (1.)$$\n\n$$a_1 = a + 1,$$\n\n$$b_2 = a + b + 2,$$\n\n$$c_3 = a + b + c + 3,$$\n\n&c. = &c.,\n\n$$l_r = a + b + c + \\ldots + l + r,$$\n\nand let $a, b, c, \\ldots s$ have all the values which can be assigned consistently with equation (1.); the sum of the symbolical terms thus formed will be that group of the symbolical product in which the factor $\\pi$ occurs $(n-r)$ times. And by giving $(r)$ the successive values $0, 1, 2, 3 \\ldots n$, we obtain the entire product, and may write\n\n$$(\\pi + \\theta_1)(\\pi + \\theta_2)(\\pi + \\theta_3) \\ldots (\\pi + \\theta_n) = \\pi^n + \\sum \\theta_1 \\pi^{n-1} + \\sum \\theta_1 \\theta_2 \\pi^{n-2} + \\sum \\theta_1 \\theta_2 \\theta_3 \\pi^{n-3} + \\ldots$$\n\n$$+ \\sum \\theta_1 \\theta_2 \\theta_3 \\theta_4 \\ldots \\theta_r \\pi^{n-r} + \\ldots,$$\n\nwhere $\\sum \\theta_1 \\pi^{n-1}$, &c. are the groups we have just considered.\nNow if $\\psi$, $\\phi$, $\\theta$ are any functions of $(\\xi)$, and $a + b + c + e = m$, we have\n\n$$\\pi^a \\psi^c \\phi^b \\theta^n = \\psi \\phi \\theta \\pi^{m-1} + b_1 \\psi \\phi \\theta \\pi^{m-2} + \\ldots + c_1 \\psi \\phi \\theta \\pi^{m-1} + b_1 c_1 \\psi \\phi \\theta \\pi^{m-2} + \\ldots + c_2 \\psi \\phi \\theta \\pi^{m-2} + \\ldots + e_1 \\psi \\phi \\theta \\pi^{m-1} + b_1 e_1 \\psi \\phi \\theta \\pi^{m-2} + \\ldots + c_1 e_1 \\psi \\phi \\theta \\pi^{m-2} + \\ldots + e_2 \\psi \\phi \\theta \\pi^{m-2} + \\ldots$$\n\nwhere $b_1$, $c_1$, &c. have their original significations.\n\nHence we see that the general term of $\\pi^a \\theta_1 \\xi \\ldots \\pi^a \\theta_r (\\xi) \\pi^a \\theta_{r-1} \\xi \\pi^a \\theta_r \\xi \\pi^a$ is\n\n$$\\sum b_0 c_0 \\ldots l_0 \\delta^b_0 \\theta_1 \\xi \\ldots \\delta^b_{r-1} \\theta_{r-1} (\\xi) \\delta^b_r \\theta_r (\\xi) \\pi^{m-s},$$\n\nwhere\n\n$$a + b + c + e + \\ldots + l = m,$$\n\n$$b_0 + c_0 + e_0 + \\ldots + l_0 = s;$$\n\nhence the general term of $\\sum \\theta_1 \\xi \\theta_2 \\xi \\ldots \\theta_r \\xi \\pi^m$ is\n\n$$\\sum \\sum b_0 c_0 \\ldots l_0 \\delta^b_0 \\theta_1 \\xi \\ldots \\delta^b_{r-1} \\theta_{r-1} (\\xi) \\delta^b_r \\theta_r (\\xi) \\pi^{m-s};$$\n\nand we find the symbolical coefficient of $\\pi^m$ in $(\\pi + \\theta_1 \\xi)(\\pi + \\theta_2 \\xi)(\\pi + \\theta_3 \\xi) \\ldots (\\pi + \\theta_r \\xi)$ to be\n\n$$\\sum \\sum \\sum \\sum \\sum b_0 c_0 \\ldots l_0 \\delta^b_0 \\theta_1 \\xi \\ldots \\delta^b_{r-1} \\theta_{r-1} (\\xi) \\delta^b_r \\theta_r (\\xi) \\pi^{m-s} + &c.$$ \n\nwhere\n\n$$a + b + c + \\ldots + l = n - r,$$\n\n$$b_0 + c_0 + \\ldots + l_0 = n - \\mu - \\nu.$$\n\nLet us now expand the binomial $(\\pi^a + \\theta(\\xi) \\pi)^n$. We might of course do this by putting\n\n$$\\theta_1 \\xi = \\theta_2 \\xi = \\ldots = \\theta_r \\xi = 0$$\n\nin the previous investigation, but we shall proceed as follows:\n\n$$(\\pi^a + \\theta(\\xi) \\pi)^n = \\pi^{2m} + \\sum (\\pi^a)^{n-1} (\\theta(\\xi) \\pi) + \\sum (\\pi^a)^{n-2} (\\theta(\\xi) \\pi)^2 + &c. + \\sum (\\pi^a)^{n-r} (\\theta(\\xi) \\pi)^r + \\ldots,$$\n\nand the general term of $\\sum (\\pi^a)^m (\\theta(\\xi) \\pi)^r$ will be\n\n$$\\sum \\sum (2b+1)_0 (2c+1)_0 \\ldots (2l)_0 \\delta^b_0 \\theta_1 \\xi \\ldots \\delta^b_{r-1} \\theta_{r-1} (\\xi) \\delta^b_r \\theta_r (\\xi) \\pi^{2m+r-s},$$\n\nwhere\n\n$$a + b + c + \\ldots + l = m,$$\n\n$$b_0 + c_0 + \\ldots + l_0 = s,$$\n\nand the symbolical coefficient of $\\pi^m$ in the binomial will be\n\n$$\\sum \\sum \\sum \\sum \\sum (2b+1)_0 (2c+1)_0 \\ldots (2l)_0 \\delta^b_0 \\theta_1 \\xi \\ldots \\delta^b_{r-1} \\theta_{r-1} (\\xi) \\delta^b_r \\theta_r (\\xi) + \\ldots$$\nwhere\n\n\\[ a + b + c + \\ldots + l = n - v, \\]\n\\[ b_0 + c_0 + \\ldots + l_0 = 2n - \\mu - v. \\]\n\nTo determine the general term in the expansion of the multinomial expression\n\n\\[ (\\pi^n + \\theta_1 \\xi \\pi^{n-1} + \\theta_2 \\xi \\pi^{n-2} + \\theta_3 \\xi \\pi^{n-3} + \\ldots)^m. \\]\n\nThis reduces itself to finding the symbolical coefficient of \\( \\pi^\\alpha \\) in the expression\n\n\\[ \\Sigma (\\pi^n)^\\alpha (\\theta_1 \\xi \\pi^{n-1})^{\\beta_1} (\\theta_2 \\xi \\pi^{n-2})^{\\beta_2} \\ldots, \\]\n\nwhere \\( \\alpha + \\beta_1 + \\gamma_1 + \\ldots = m \\), and \\( \\pi^n, \\theta_1 \\xi \\pi^{n-1}, \\ldots \\) are combined in every possible way so that \\( \\pi^n \\) should occur \\( \\alpha \\) times, \\( \\theta_1 \\xi \\pi^{n-1} \\) \\( \\beta_1 \\) times, \\( \\theta_2 \\xi \\pi^{n-2} \\) \\( \\gamma_1 \\) times, &c. irrespective of position,—or, in other words, to determining the symbolical coefficient of \\( \\pi^\\alpha \\) in the expression\n\n\\[ \\pi^{n\\alpha} (\\theta_1 \\xi \\pi^{n-1})^{\\beta_1} (\\theta_2 \\xi \\pi^{n-2})^{\\beta_2} \\ldots \\pi^{n\\alpha} (\\theta_1 \\xi \\pi^{n-1})^{\\beta_1} (\\theta_2 \\xi \\pi^{n-2})^{\\beta_2} \\ldots \\pi^{n\\alpha} (\\theta_1 \\xi \\pi^{n-1})^{\\beta_1} (\\theta_2 \\xi \\pi^{n-2})^{\\beta_2} \\ldots, \\]\n\nwhere\n\n\\[ \\alpha_1 + \\alpha_2 + \\alpha_3 + \\ldots = \\alpha, \\]\n\\[ \\beta_1 + \\beta_2 + \\beta_3 + \\ldots = \\beta, \\]\n\\[ \\gamma_1 + \\gamma_2 + \\gamma_3 + \\ldots = \\gamma, \\ldots \\]\n\nNow the symbolical coefficient of\n\n\\[ nm - (\\beta + 2\\gamma + 3\\xi + \\ldots) - s \\]\n\nin the preceding expression will be as follows:\n\n\\[ \\Sigma (n-3)\\xi(n-3)\\xi'' \\ldots (\\zeta_3 \\text{ factors})(n-2)\\xi(n-2)\\xi'' \\ldots (\\gamma_3 \\text{ factors})(n-1)\\xi(n-1)\\xi'' \\ldots (\\beta_3 \\text{ factors})(n\\alpha_3)\\xi' \\ldots \\]\n\n\\[ (n-3)\\xi(n-3)\\xi'' \\ldots (\\zeta_2 \\text{ factors})(n-2)\\xi(n-2)\\xi'' \\ldots (\\gamma_2 \\text{ factors})(n-1)\\xi(n-1)\\xi'' \\ldots (\\beta_2 \\text{ factors})(n\\alpha_2)\\xi' \\ldots \\]\n\n\\[ (n-3)\\xi(n-3)\\xi'' \\ldots (\\zeta_1 \\text{ factors})(n-2)\\xi(n-2)\\xi'' \\ldots (\\gamma_1 \\text{ factors})(n-1)\\xi(n-1)\\xi'' \\ldots (\\beta_1 \\text{ factors})(n\\alpha_1)\\xi' \\ldots \\]\n\n\\[ \\delta^{\\alpha_1} \\theta_1 \\xi \\delta^{\\beta_1} \\theta_2 \\xi \\delta^{\\gamma_1} \\theta_3 \\xi \\ldots \\delta^{\\alpha_2} \\theta_1 \\xi \\delta^{\\beta_2} \\theta_2 \\xi \\delta^{\\gamma_2} \\theta_3 \\xi \\ldots \\delta^{\\alpha_3} \\theta_1 \\xi \\delta^{\\beta_3} \\theta_2 \\xi \\delta^{\\gamma_3} \\theta_3 \\xi \\ldots \\ldots \\]\n\nwhere the sum of the indices of \\( \\delta \\) must equal \\( s \\).\n\nFrom this expression, by putting\n\n\\[ nm - (\\beta + 2\\gamma + 3\\xi + \\ldots) - s = \\mu, \\]\n\nthe symbolical coefficient of \\( \\pi^\\alpha \\) in the expression of the given multinomial may be immediately deduced.\n\nThere are certain methods of expressing the differential coefficients of implicit functions by means of symbolical notation which I notice in this place, as the method of summation employed for that purpose is similar to some of the symbolical summations we have already considered in this paper.\nLet $F(x, y)$ be a function of $x$ and $y$, $y$ being a function of $(x)$, and $y_1, y_2, y_3, \\ldots$ the successive differential coefficients of $(y)$. Then\n\n$$\\frac{dF}{dx} = \\frac{dF}{dx} + \\frac{dF}{dy} y_1,$$\n\n$$\\frac{d^2F}{dx^2} = \\frac{d^2F}{dx^2} + 2 \\frac{d^2F}{dxdy} y_1 + \\frac{d^2F}{dy^2} y_1^2 + \\frac{dF}{dy} y_2,$$\n\n$$\\frac{d^3F}{dx^3} = \\frac{d^3F}{dx^3} + 3 \\frac{d^3F}{dx^2dy} y_1 + 3 \\frac{d^3F}{dxdy^2} y_1^2 + \\frac{d^3F}{dy^3} y_1^3 + 3 \\frac{d^2F}{dxdy} y_2 + 3 \\frac{d^2F}{dy^2} y_1 y_2 + \\frac{dF}{dy} y_3,$$\n\n$$\\frac{d^4F}{dx^4} = \\frac{d^4F}{dx^4} + 4 \\frac{d^4F}{dx^3dy} y_1 + 6 \\frac{d^4F}{dx^2dy^2} y_1^2 + 4 \\frac{d^4F}{dxdy^3} y_1^3 + \\frac{d^4F}{dy^4} y_1^4$$\n\n$$+ 6 y_2 \\left( \\frac{d^3F}{dx^2dy} + 2 \\frac{d^3F}{dxdy^2} y_1 + \\frac{d^3F}{dy^3} \\right) + 4 \\frac{d^2F}{dxdy} y_3 + \\frac{d^2F}{dy^2} (4 y_1 y_2 + 3 y_2^2) + \\frac{dF}{dy} y_4.$$\n\nNow let $U_{r,m,n}$ be the coefficient of $\\frac{dm+n}{dx^m dy^n} F$ in the expansion of $\\frac{d^rF}{dx^r}$. Then\n\n$$\\frac{d^rF}{dx^r} = \\frac{d^rF}{dx^r} + r \\frac{d^rF}{dx^{r-1}dy} y_1 + r \\cdot \\frac{r-1}{2} \\frac{d^rF}{dx^{r-2}dy^2} y_2 + r \\cdot \\frac{r-1}{2} \\cdot \\frac{r-2}{3} \\frac{d^rF}{dx^{r-3}dy^3} y_3$$\n\n$$+ r \\cdot \\frac{r-1}{2} y_2 \\left( \\frac{d^{r-1}F}{dx^{r-2}dy} + (r-2) \\frac{d^{r-1}F}{dx^{r-3}dy^2} y_1 + \\frac{(r-2)(r-3)}{1 \\cdot 2} \\frac{d^{r-1}F}{dx^{r-4}dy^3} y_1^2 + \\text{&c.} \\right)$$\n\n$$+ \\frac{d^{r-2}F}{dx^{r-3}dy} U_{r-3,1} + \\frac{d^{r-2}F}{dx^{r-4}dy^2} U_{r-4,2} + \\frac{d^{r-2}F}{dx^{r-5}dy^3} U_{r-5,3} + \\ldots$$\n\n$$+ \\frac{d^{r-3}F}{dx^{r-4}dy} U_{r-4,1} + \\frac{d^{r-3}F}{dx^{r-5}dy^2} U_{r-5,2}$$\n\n$$+ \\frac{d^{r-4}F}{dx^{r-5}dy} U_{r-5,1} + \\text{&c.}$$\n\nWe easily obtain this law of coefficients,\n\n$$U_{r,m,n} = \\frac{d}{dx} U_{r-1,m,n} + y_1 U_{r-1,m,n-1} + U_{r-1,m-1,n},$$\n\nwhence\n\n$$U_{0,m,n} = \\frac{d}{dx} U_{0,m,n} + y_1 U_{0,m,n-1}$$\n\n$$= \\frac{d^2}{dx^2} U_{0,m,n} + \\left( \\frac{d}{dx} y_1 + y_1 \\frac{d}{dx} \\right) U_{0,m,n-1} + y_1^2 U_{0,m,n-2}$$\n\n$$= \\frac{d^3}{dx^3} U_{0,m,n} + \\Sigma \\left( \\frac{d^2}{dx^2} y_1 \\right) U_{0,m,n-1} + \\Sigma \\left( \\frac{d}{dx} y_1^2 \\right) U_{0,m,n-2} + y_1^3 U_{0,m,n-3}$$\n\n$$= \\frac{d^{r-1}}{dx^{r-1}} U_{1,m,n} + \\Sigma \\left( \\frac{d^{r-2}}{dx^{r-2}} y_1 \\right) U_{1,m,n-1}$$\n\n$$+ \\Sigma \\left( \\frac{d^{r-3}}{dx^{r-3}} y_1^2 \\right) U_{1,m,n-2} + \\ldots + \\Sigma \\left( \\frac{d^{r-v-1}}{dx^{r-v-1}} y_1^v \\right) U_{1,m,n-v} + \\text{&c.}$$\nLet \\( n - r = 1 \\), then \\( U_{0,n-r}^i = U_{0,1}^i = y_1 \\), and \\( U_{0,n-1}^i = U_{0,n-2}^i = \\ldots = c = 0 \\). Hence\n\n\\[\nU_{r,n}^i = \\Sigma \\left( \\frac{d^{r-n}}{dx^{r-n}} y_1^{n-1} \\right) y,\n\\]\n\nwhere \\( \\Sigma \\left( \\frac{d^{r-n}}{dx^{r-n}} y_1^{n-1} \\right) \\) denotes the sum of all the symbolical products in which \\( \\frac{d}{dx} \\) occurs \\( r-n \\) times, and \\( y_1 (n-1) \\) times.\n\nWe have\n\n\\[\nU_{r,n}^i = \\frac{d}{dx} U_{r-1,n}^i + y_1 U_{r-1,n-1}^i + U_{r-1,n}^i,\n\\]\n\nfrom which, substituting for \\( U_{r-1,n}^i \\) the value just obtained, \\( U_{r,n}^i \\) may be found in a similar manner, and so we may proceed. I shall not, however, enter upon these higher coefficients, my object being principally to call attention to the use of symbolical expressions in expansions of this nature.\n\nThe subject of implicit differentiation has been treated by Mr. George Scott of Trinity College, Dublin, in a very elegant paper in the Quarterly Journal of Mathematics, vol. iv. p. 77. His results have great generality, but do not appear to include the above.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108809.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 13050,
+    "total-output-tokens": 7680,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2885,
+        2
+      ],
+      [
+        2885,
+        5396,
+        3
+      ],
+      [
+        5396,
+        8106,
+        4
+      ],
+      [
+        8106,
+        10568,
+        5
+      ],
+      [
+        10568,
+        13504,
+        6
+      ],
+      [
+        13504,
+        15929,
+        7
+      ],
+      [
+        15929,
+        16995,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108809",
+    "title": "On the Calculus of Symbols.--Third Memoir",
+    "authors": "W. H. L. Russell",
+    "year": 1863,
+    "volume": "153",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/108809"
+  }
+}

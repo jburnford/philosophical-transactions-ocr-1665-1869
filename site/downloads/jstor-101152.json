@@ -1,0 +1,69 @@
+{
+  "id": "9a52b0010990866e27a5cb33e787d99e47aa6009",
+  "text": "An Extract of Monsieur Christian Hugens de Zulichem his Letter to the Publisher, of the 15th of May 1674, from Paris; touching his Thoughts of Mr. Hook's Observations for proving the Motion of the Earth, not long since printed by Mr. Martyn, and taken Notice of in Numb. 101. of these Tracts.\n\nThe Observations of Mr. Hook for finding out the Motion of the Earth are very good, and of great Consequence; but they must be continued, to see, whether in the Course of one or more Years the Parallaxes do regularly answer to the Annual Motion of the Earth. To which we also shall contribute our Labours; and the Vault, that is in our Observatory, being 28 Fathom deep, will in Time be very useful for that Purpose. This, if it succeed, will prove an almost entire Conviction of the Anti-copernicans, since there will remain for them nothing but this un-grounded Subterfuge, to say, that the Center of the Sphere of the fix'd Stars continually changes its Place for an Annual Motion.\n\nAn Extract of another Letter, written by Seignior Cassini to the Publisher, relating to the same Subject, dated June 28. 1674. Which we shall insert here in the same Language, 'twas written in.\n\nNon poterat, meo judicio, D. Hookius aptiori methodo Parallaxes Orbis annui in Fixis investigare, nec aptiorum ad eam investigationem eligere Stellam, qua ex lucidioribus & vertici proxima esset, & à polo Zodiaci non remota. Nec inutilis fuit viri doctissimi conatus, cum diversitatem invenerit ad eam partem, ad quam exigit Parallaxis.\n\nNostre equidem Observationes nihil adhuc adeò liquidum hoc in genere exhibuere, licet in Fixarum Altitudinibus meridianis, variis anni temporibus, deprehenderemus differentias alias ab his, qua ad promotionem Fixarum ex Æquinoctiorum precessione consequuntur. Nondum tamen, quas ad hanc rem præmeditati sumus Observationes, exqui potuisse.\n\nPateum\nPuteum habemus in Observatorio ad id paratum, per forniciuri\njoramina coelo pervium, altitudinis à fundo, quò scala commodè du-\ncit, pedum fermè ducentorum, sed operibus fabrorum, supremum for-\nnicem sufficientibus, adeo impeditum. Itaque nihil nobis per eum\nhaeçtenus tentare licuit. Gratias interim Tibi ago maximas, Vir\nClarissime, pro communicatis D. Hookii Observationibus, qua no-\nbis majori erunt incitamento ad correspondentes instituendas. Vale,\net me ama.\n\nObservations concerning the Comet that was seen in Brasil, An-\n1668. in March, by P. Valentin Estancel a Jesuit, and by him\nsent to Rome; where they were printed in the 9th Italian Gior-\nnale de Letterati, Septemb. 31. 1673.\n\nThis being the same Comet with that, taken Notice of in\nNumb. 35. of these Tracts, and our Account, then given\nof the same, being likely to receive some Advantage and Light\nfrom these Observations, made in Brasil, and but lately come\nto our Hands, we thought it would not be un-acceptable to the\nCurious in England, to see them English'd out of the Italian,\nand here inserted. They are as followeth;\n\nThere hath not been a Phanomenon this great while, of which,\nas of this, I am now going to describe, we have had Observations\nfrom all Parts of the World. Those from Europe and Asia may\nbe seen in our 3d and 4th Giornale. Now I have received those\nof America, made in the City of St. Salvador, in the Southern\nLatitude of 12 deg. 47 min. Likewise the Jesuit P. Pietro Su-\nfarte, Rector of Macao, in the East-Indies, well vers'd in Mat-\nters Astronomical, writes to have seen the same all along the\nCoast of Bona Speranza, though he communicates no particu-\nlar Observations, because he wanted Instruments to make accu-\nrate Ones, and to see the Head of this Comet.\n\nTo come then to the Brasilian Observations, it hapned, that\non the 5th of March 1668. (ft.n.) at 7 a Clock at Night, the\nSun being then in Pisces, Father Estancel began to see this Co-\nmet a little above the Horizon from West to East-South-East.\nThat which somewhat surprized him was, that at the very\nBeginning it appear'd in its greatest Bulk, and with extraordi-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101152.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1196,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1861,
+        2
+      ],
+      [
+        1861,
+        3986,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101152",
+    "title": "Extracts of Two Letters, the One from Monsieur Christian Hugens de Zulichem, Touching His Thoughts of Mr. Hook's Observations for Proving the Motion of the Earth; The Other from Seignior Cassini, Concerning the Same Argument",
+    "authors": "Christian Hugens de Zulichem, Seignior Cassini",
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101152"
+  }
+}

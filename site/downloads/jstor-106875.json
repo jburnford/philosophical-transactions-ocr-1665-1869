@@ -1,0 +1,269 @@
+{
+  "id": "1ce3d5cc50cea85e20b0f91b7db96f25662a3081",
+  "text": "XX. A new Method of investigating the Sums of Infinite Series.\nBy the Rev. Samuel Vince, A. M. F. R. S.\n\nRead June 2, 1791.\n\nThe summation of infinite series is a subject, not only of curious speculation, but also of the greatest importance in the various branches of mathematics and philosophy; in consequence of which it has always claimed a very considerable share of attention from the most celebrated mathematicians. I shall therefore make no apology for offering to the public the following new and very expeditious method, by which we may obtain the sums of a great variety of series, most of which have never before been treated of. As the summation depends on the sums of the reciprocals of the powers of the natural numbers, tables of such sums are given as far as the 40th power to twelve places of decimals, by which the sums of the series will be found true to ten or eleven places; and if greater accuracy were required (which is a case that can very rarely happen) it might easily be obtained by continuing the tables. The first and third columns shew the sums, and the second and fourth the powers corresponding.\n\nTABLE\nMr. Vince on the Sums\n\nTABLE I.\n\nSum of $\\frac{1}{2^n} + \\frac{1}{3^n} + \\frac{1}{4^n} + \\ldots$ ad infinitum.\n\n| Sum | n |\n|-----|---|\n| A = ,644934066848 | 2 |\n| B = ,202056903159 | 3 |\n| C = ,082323233711 | 4 |\n| D = ,036927755107 | 5 |\n| E = ,017343061984 | 6 |\n| F = ,008349277387 | 7 |\n| G = ,004077356198 | 8 |\n| H = ,002008392826 | 9 |\n| I = ,000994575128 | 10 |\n| K = ,000494188604 | 11 |\n| L = ,000246086553 | 12 |\n| M = ,000122713347 | 13 |\n| N = ,000061248135 | 14 |\n| O = ,000030588236 | 15 |\n| P = ,000015282259 | 16 |\n| Q = ,000007637196 | 17 |\n| R = ,000003817292 | 18 |\n| S = ,000001908212 | 19 |\n| T = ,000000953961 | 20 |\n| V = ,000000476932 | 21 |\n\n| Sum | n |\n|-----|---|\n| W = ,000000238450 | 22 |\n| X = ,00000019219 | 23 |\n| Y = ,000000059608 | 24 |\n| Z = ,000000029803 | 25 |\n| A' = ,000000014901 | 26 |\n| B' = ,000000007450 | 27 |\n| C' = ,000000003725 | 28 |\n| D' = ,000000001863 | 29 |\n| E' = ,000000000931 | 30 |\n| F' = ,000000000465 | 31 |\n| G' = ,000000000233 | 32 |\n| H' = ,000000000116 | 33 |\n| I' = ,000000000058 | 34 |\n| K' = ,000000000029 | 35 |\n| L' = ,000000000015 | 36 |\n| M' = ,000000000007 | 37 |\n| N' = ,000000000004 | 38 |\n| O' = ,000000000002 | 39 |\n| P' = ,000000000001 | 40 |\nTABLE II.\n\nSum of $\\frac{1}{2^n} - \\frac{1}{3^n} + \\frac{1}{4^n} - \\frac{1}{5^n} + \\&c.$ ad infinitum.\n\n| Sum | $n$ |\n|-----|-----|\n| $a = ,177532966576$ | 2 |\n| $b = ,098457322630$ | 3 |\n| $c = ,052967170503$ | 4 |\n| $d = ,027880229587$ | 5 |\n| $e = ,014448908703$ | 6 |\n| $f = ,007406180072$ | 7 |\n| $g = ,003766998147$ | 8 |\n| $h = ,001905702459$ | 9 |\n| $i = ,000960492403$ | 10 |\n| $k = ,000482856502$ | 11 |\n| $l = ,000242314856$ | 12 |\n| $m = ,000121457237$ | 13 |\n| $n = ,000060829654$ | 14 |\n| $o = ,000030448787$ | 15 |\n| $p = ,000015235790$ | 16 |\n| $q = ,000007621788$ | 17 |\n| $r = ,000003812130$ | 18 |\n| $s = ,000001906491$ | 19 |\n| $t = ,000000953389$ | 20 |\n| $v = ,0000000476742$ | 21 |\n\n| Sum | $n$ |\n|-----|-----|\n| $w = ,000000238386$ | 22 |\n| $x = ,000000119199$ | 23 |\n| $y = ,000000059602$ | 24 |\n| $z = ,000000029801$ | 25 |\n| $a' = ,000000014901$ | 26 |\n| $b' = ,000000007450$ | 27 |\n| $c' = ,000000003725$ | 28 |\n| $d' = ,000000001863$ | 29 |\n| $e' = ,000000000931$ | 30 |\n| $f' = ,000000000465$ | 31 |\n| $g' = ,000000000233$ | 32 |\n| $h' = ,000000000116$ | 33 |\n| $i' = ,000000000058$ | 34 |\n| $k' = ,000000000029$ | 35 |\n| $l' = ,000000000015$ | 36 |\n| $m' = ,000000000007$ | 37 |\n| $n' = ,000000000004$ | 38 |\n| $o' = ,000000000002$ | 39 |\n| $p' = ,000000000001$ | 40 |\nMr. Vince on the Sums\n\nTABLE III.\n\nSum of $\\frac{1}{2^n} + \\frac{1}{4^n} + \\frac{1}{6^n} + \\&c.$ ad infinitum.\n\n| Sum | n |\n|-----|---|\n| A'' = ,411233516712 | 2 |\n| B'' = ,100257112895 | 3 |\n| C'' = ,067645202107 | 4 |\n| D'' = ,032403992347 | 5 |\n| E'' = ,015895985344 | 6 |\n| F'' = ,007877728730 | 7 |\n| G'' = ,003922177173 | 8 |\n| H'' = ,001957047643 | 9 |\n| I'' = ,000977533765 | 10 |\n| K'' = ,000488522553 | 11 |\n| L'' = ,000244200705 | 12 |\n| M'' = ,000122085292 | 13 |\n| N'' = ,000061038895 | 14 |\n| O'' = ,000030518512 | 15 |\n| P'' = ,000015259024 | 16 |\n| Q'' = ,000007629452 | 17 |\n| R'' = ,000003814712 | 18 |\n| S'' = ,000001907352 | 19 |\n| T'' = ,000000953675 | 20 |\n| V'' = ,000000476837 | 21 |\n\n| Sum | n |\n|-----|---|\n| W'' = ,000000238419 | 22 |\n| X'' = ,000000119209 | 23 |\n| Y'' = ,000000059605 | 24 |\n| Z'' = ,000000029502 | 25 |\n| A''' = ,000000014901 | 26 |\n| B''' = ,000000007450 | 27 |\n| C''' = ,000000003725 | 28 |\n| D''' = ,000000001863 | 29 |\n| E''' = ,000000000931 | 30 |\n| F''' = ,000000000465 | 31 |\n| G''' = ,000000000233 | 32 |\n| H''' = ,000000000116 | 33 |\n| I''' = ,000000000058 | 34 |\n| K''' = ,000000000029 | 35 |\n| L''' = ,000000000015 | 36 |\n| M''' = ,000000000007 | 37 |\n| N''' = ,000000000004 | 38 |\n| O''' = ,000000000002 | 39 |\n| P''' = ,000000000001 | 40 |\n### TABLE IV.\n\nSum of $\\frac{1}{3^n} + \\frac{1}{5^n} + \\frac{1}{7^n} + \\&c.$ ad infinitum.\n\n| Sum | n |\n|-----|---|\n| $a'' = ,233700550136$ | 2 |\n| $b'' = ,051799790264$ | 3 |\n| $c'' = ,014678031604$ | 4 |\n| $d'' = ,004523762760$ | 5 |\n| $e'' = ,001447076640$ | 6 |\n| $f'' = ,000471548657$ | 7 |\n| $g'' = ,000155179025$ | 8 |\n| $h'' = ,000051345183$ | 9 |\n| $i'' = ,000017041362$ | 10 |\n| $k'' = ,000005666051$ | 11 |\n| $l'' = ,000001885848$ | 12 |\n| $m'' = ,000000628055$ | 13 |\n\n| Sum | n |\n|-----|---|\n| $n'' = ,000000209240$ | 14 |\n| $o'' = ,00000069724$ | 15 |\n| $p'' = ,00000023234$ | 16 |\n| $q'' = ,00000007744$ | 17 |\n| $r'' = ,00000002531$ | 18 |\n| $s'' = ,00000000864$ | 19 |\n| $t'' = ,00000000286$ | 20 |\n| $v'' = ,00000000095$ | 21 |\n| $w'' = ,00000000032$ | 22 |\n| $x'' = ,00000000011$ | 23 |\n| $y'' = ,00000000004$ | 24 |\n| $z'' = ,00000000001$ | 25 |\n\n---\n\n**PROP. I.**\n\nTo find the sum of the sums of the reciprocal squares, cubes, &c. &c. ad infinitum.\n\nBy division $\\frac{1}{x-1 \\times x} = \\frac{1}{x^2} + \\frac{1}{x^3} + \\frac{1}{x^4} + \\&c.$ ad inf.; hence if we make each of these terms the general term of a series, and write 2, 3, 4, &c. ad inf. for $x$, we have $\\frac{1}{1 \\cdot 2} + \\frac{1}{2 \\cdot 3} + \\frac{1}{3 \\cdot 4} + \\&c. = (\\text{Table I.}) A + B + C + D + \\&c.$; but $\\frac{1}{1 \\cdot 2} + \\frac{1}{2 \\cdot 3} + \\frac{1}{3 \\cdot 4} + \\&c. \\text{ad inf.} = 1$; hence $A + B + C + D + \\&c. \\text{ad inf.} = 1$.\nAs \\(\\frac{1}{x \\times x + 1} = \\frac{1}{x^2} - \\frac{1}{x^3} + \\frac{1}{x^4} - \\frac{1}{x^5} + \\&c.\\ ad inf.\\); we have, by the same method of proceeding, \\(A - B + C - D + \\&c.\\ ad inf. = \\frac{1}{2}\\); consequently \\(A + C + E + \\&c. = \\frac{3}{4}\\), and \\(B + D + F + \\&c. = \\frac{1}{4}\\).\n\nBecause \\(\\frac{1}{x - 1 \\times x} = \\frac{1}{x^2} + \\frac{1}{x^3} + \\frac{1}{x^4} + \\&c.\\ ad inf.\\); if for \\(x\\) we write 2, 4, 6, \\&c., then will \\(\\frac{1}{1 \\cdot 2} + \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 6} + \\&c. = (\\text{Tab. 3}) A'' + B'' + C'' + D'' + \\&c.;\\) but \\(\\frac{1}{1 \\cdot 2} + \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 6} + \\&c. = \\text{hyp. log. 2};\\) hence \\(A'' + B'' + C'' + D'' + \\&c. = \\text{hyp. log. 2}.\\)\n\nIf in the same expression we write 3, 5, 7, \\&c. for \\(x\\), then \\(\\frac{1}{2 \\cdot 3} + \\frac{1}{4 \\cdot 5} + \\frac{1}{6 \\cdot 7} + \\&c. = (\\text{Tab. 4.}) a'' + b'' + c'' + \\&c.;\\) but \\(\\frac{1}{2 \\cdot 3} + \\frac{1}{4 \\cdot 5} + \\frac{1}{6 \\cdot 7} + \\&c. = 1 - \\text{hyp. log. 2};\\) hence \\(a'' + b'' + c'' + \\&c. = 1 - \\text{hyp. log. 2}.—Hence from either of these two last cases, we have a very expeditious method of finding the hyp. log. 2.\n\n**Prop. II.**\n\nTo find the sum of the infinite series whose general term is \\(\\frac{1}{mx^r \\pm n}.\\)\n\nBy division \\(\\frac{1}{mx^r \\pm n} = \\frac{1}{mx^r} = \\frac{n}{m^2x^{2r}} + \\frac{n^2}{m^3x^{3r}} + \\frac{n^3}{m^4x^{4r}} + \\&c.\\ ad inf.;\\) hence, if \\(\\frac{1}{mx^r \\pm n}\\) be made the general term of a series, and for \\(x\\) we write 2, 3, 4, \\&c., its sum will be equal to the sums of another set of serieses, whose terms are the powers of the reciprocals of the natural numbers respectively multiplied into\ninto $\\frac{1}{m}$, $\\frac{n}{m^2}$, $\\frac{n^2}{m^3}$, &c.; hence the sum of each of these series being known from the tables, the sum of the given series will be found.\n\nEx. 1. Let $\\frac{1}{x^2 + 1}$ be the general term; now $\\frac{1}{x^2 + 1} = \\frac{1}{x^2} - \\frac{1}{x^4} + \\frac{1}{x^6} - \\frac{1}{x^8} + \\&c.$; hence if for $x$ we write 2, 3, 4, &c. we have\n\n$\\frac{1}{5} + \\frac{1}{10} + \\frac{1}{17} + \\frac{1}{26} + \\&c. = A - C + E - G + \\&c. = (\\text{by Tab. 1.})$\n\n,576674037469.\n\nEx. 2. Let $\\frac{1}{x^2 - 1}$ be the general term; then, by the same method of proceeding, $\\frac{1}{3} + \\frac{1}{8} + \\frac{1}{15} + \\frac{1}{24} + \\&c. = A + C + E + \\&c. = (\\text{by Prop. 1.}) \\frac{3}{4}$.\n\nCor. Because $\\frac{1}{8} + \\frac{1}{24} + \\frac{1}{48} + \\&c. = \\frac{1}{8} \\times 1 + \\frac{1}{3} + \\frac{1}{6} + \\&c. = (\\text{as } 1 + \\frac{1}{3} + \\frac{1}{6} + \\&c. \\text{ is the reciprocal of the figurative numbers of the second order}) \\frac{1}{8} \\times 2 = \\frac{1}{4}$; therefore $\\frac{1}{3} + \\frac{1}{15} + \\frac{1}{35} + \\&c. = \\frac{1}{2}$.\n\nAlso, as $\\frac{1}{x^2 - 1} = \\frac{1}{x^2} + \\frac{1}{x^4} + \\frac{1}{x^6} + \\&c.$; if we write 2, 4, 6, &c. for $x$, we have $\\frac{1}{3} + \\frac{1}{15} + \\frac{1}{35} + \\&c. = (\\text{by Tab. 3.}) A'' + C'' + E'' + \\&c. = \\frac{1}{2}$; but, by Prop. 1. $A'' + B'' + C'' + D'' + \\&c. = \\text{hyp. log. 2}$; hence $B'' + D'' + F'' + \\&c. = -\\frac{1}{2} + \\text{hyp. log. 2}$.\n\nEx. 3. Let the general term be $\\frac{1}{x^3 - 1} = \\frac{1}{x^3} + \\frac{1}{x^6} + \\frac{1}{x^9} + \\&c.$, and, by writing 2, 3, 4, &c. for $x$, we have $\\frac{1}{7} + \\frac{1}{26} + \\frac{1}{63} + \\&c. = B + E + H + \\&c. = ,221689395104$.\nEx. 4. Let the general term be \\( \\frac{1}{3x^2 - 2} = \\frac{1}{3x^2} + \\frac{2}{9x^3} + \\frac{4}{27x^4} + \\&c. \\), and, by writing 2, 3, 4, &c. for \\( x \\), &c. we have \\( \\frac{1}{46} + \\frac{1}{241} + \\frac{1}{766} + \\&c. \\).\n\n\\[\n\\frac{1}{3}C + \\frac{2}{9}G + \\frac{4}{27}L + \\&c. = ,028385252052.\n\\]\n\nEx. 5. To find the sum of the series \\( \\frac{1}{9} - \\frac{1}{26} + \\frac{1}{65} - \\frac{1}{124} + \\&c. \\). If we write 2, -3, 4, -5, &c. for \\( x \\), the general term will be \\( \\frac{1}{x^3 + 1} = \\frac{1}{x^3} - \\frac{1}{x^6} + \\frac{1}{x^9} - \\frac{1}{x^{12}} + \\&c. \\). Now, by writing 2, -3, 4, -5, &c. for \\( x \\), the serieses of which \\( \\frac{1}{x^3}, \\frac{1}{x^6}, \\&c. \\) are the general terms, will be alternately + and -, and therefore their sums will be found in Tab. 2. and the serieses of which \\( \\frac{1}{x^9}, \\frac{1}{x^{12}}, \\&c. \\) are the general terms will have their terms all +, and therefore their sums will be found in Tab. 1. Hence the sum required \\( = b + b + o + \\&c. - E - L - R - \\&c. = ,082800931803. \\)\n\nPROP. III.\n\nTo find the sum of the sums of the reciprocals of the odd powers in Tab. 2.\n\nBy division \\( \\frac{1}{x-1 \\times x} = \\frac{1}{x^2} + \\frac{1}{x^3} + \\frac{1}{x^4} + \\frac{1}{x^5} + \\&c. \\); hence by writing 2, -3, 4, -5, &c. for \\( x \\), the sums of the serieses of which \\( \\frac{1}{x^3}, \\frac{1}{x^6}, \\&c. \\) are the general terms, may be found by Tab. 2. and the other sums by Tab. 1.; hence \\( \\frac{1}{1 \\cdot 2} + \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 6} + \\&c. = A + C + E + \\&c. + b + d + f + \\&c.; \\) but \\( \\frac{1}{1 \\cdot 2} + \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 6} + \\&c. \\)\n&c. = -\\frac{1}{2} + 2 \\text{ hyp. log. } 2; \\text{ and by Prop. I. } A + C + E + &c. =\n\\frac{3}{4}; \\text{ hence } b + d + f + &c. = -\\frac{5}{4} + 2 \\text{ hyp. log. } 2.\n\n**PROP. IV.**\n\nTo find the sum of the infinite series whose general term is\n\n\\[\n\\frac{x^s}{mx^r \\pm n}.\n\\]\n\nBy division\n\n\\[\n\\frac{x^s}{mx^r \\pm n} = \\frac{1}{mx^r} = \\frac{n}{m^2x^{2r}} + \\frac{n^2}{m^3x^{3r}} + &c. \\text{ ad inf.};\n\\]\n\nhence the sum of the series of which\n\n\\[\n\\frac{x^s}{mx^r \\pm n}\n\\]\n\nis the general term, is found as in Prop. 2. Here \\( r \\) must be greater than \\( s \\) at least by 2, otherwise the sum will be infinite.\n\n**Ex. 1.** Let the general term be\n\n\\[\n\\frac{x^2}{x^4 + 1} = \\frac{1}{x^2} - \\frac{1}{x^5} + \\frac{1}{x^8} - &c.;\n\\]\n\nhence if for \\( x \\) we write 2, 3, 4, &c. we have\n\n\\[\n\\frac{4}{17} + \\frac{9}{82} + \\frac{16}{257} + &c. = A - E + I - N + &c. = 538527924723.\\]\n\nIf for \\( x \\) we write 2, 4, 6, &c. we get\n\n\\[\n\\frac{4}{17} + \\frac{16}{257} + \\frac{36}{1296} + &c. = A'' - E'' + I'' - N'' + &c. = 396257616555.\n\\]\n\n**Ex. 2.** Let the general term be\n\n\\[\n\\frac{x}{3x^3 - 1} = \\frac{1}{3x^2} + \\frac{1}{9x^5} + \\frac{1}{27x^8} + &c.;\n\\]\n\nhence if we write 2, 3, 4, &c. for \\( x \\), we have\n\n\\[\n\\frac{2}{23} + \\frac{3}{80} + \\frac{4}{191} + &c. = \\frac{1}{3} A + \\frac{1}{9} D + \\frac{1}{27} G + &c. = 219238483448.\n\\]\n\nBy this proposition we may find the sum of any series whose general term is\n\n\\[\n\\frac{ax^s + bx^{s-1} + cx^{s-2} + &c.}{mx^r \\pm n};\n\\]\n\nfor this resolves itself into\n\n\\[\n\\frac{ax^s}{mx^r \\pm n}, \\frac{bx^{s-1}}{mx^r \\pm n}, &c. &c., \\text{ the sum of each of which series is found.}\n\\]\nfound by this proposition. Now the \\( s+1 \\)th differences of the numerators of this general term are = 0, and therefore it comprehends all series under such circumstances. For example, let the given series be \\( \\frac{4}{17} + \\frac{13}{82} + \\frac{26}{257} + \\frac{43}{626} \\). Here the third differences of the numerators = 0; to find therefore the general expression for the numerator, assume \\( ax^2 + bx + c \\) for it; and, by writing 2, 3, 4, for \\( x \\), we have \\( 4a + 2b + c = 4, 9a + 3b + -c = 13, 16a + 4b + c = 26 \\); hence \\( a = 2, b = -1, c = -2 \\); and as the denominator is manifestly \\( x^4 + 1 \\), the general term will be \\( \\frac{2x^2 - x - 2}{x^4 + 1} = \\frac{2x^2}{x^4 + 1} - \\frac{x}{x^4 + 1} - \\frac{2}{x^4 + 1} \\), each of which being made the general term of a series, their sum will be found to be respectively 1,077055849446, 0,194173022145, and 0,156955159332; hence the sum of the given series is 0,725927667969.\n\nIf \\( s \\) be negative, the general term becomes \\( \\frac{1}{x^i \\times mx^r \\pm n} = \\frac{1}{mx^i + s} \\)\n\n\\( = \\frac{1}{m^i x^{2r + i}} + \\frac{1}{m^i x^{3r + i}} + &c. \\)\n\nEx. 1. To find the sum of \\( \\frac{1}{1 \\cdot 2 \\cdot 3} - \\frac{1}{2 \\cdot 3 \\cdot 4} + \\frac{1}{3 \\cdot 4 \\cdot 5} - &c. \\)\n\nad inf. Here the general term is \\( \\frac{1}{x - 1 \\times x \\times x + 1} = \\frac{1}{x \\times x^2 - 1} = \\frac{1}{x^3 + \\frac{1}{x^5} + \\frac{1}{x^7} + &c.} \\); hence, by writing 2, -3, 4, -5, &c. for \\( x \\), we have the sum = \\( b + a + f + &c. = (\\text{by Prop. 3.}) - \\frac{5}{4} + 2 \\text{ hyp. log. } 2 \\).\n\nIf \\( \\frac{1}{x - 1 \\times x^3 \\times x + 1} \\) be the general term it resolves itself into \\( \\frac{1}{x^5} + \\frac{1}{x^7} + \\frac{1}{x^9} + &c. \\); consequently the sum of \\( \\frac{1}{1 \\cdot 2^3 \\cdot 3} - \\frac{1}{2 \\cdot 3^3 \\cdot 4} + &c. \\)\n\\[\n\\frac{1}{3 \\cdot 4^5 \\cdot 5} + \\text{&c.} = -b - \\frac{5}{4} + 2 \\text{ hyp. log. } 2.\n\\]\nIn like manner the sum of\n\\[\n\\frac{1}{1 \\cdot 2^5 \\cdot 3} - \\frac{1}{2 \\cdot 3^5 \\cdot 4} + \\frac{1}{3 \\cdot 4^5 \\cdot 5} + \\text{&c.} = -b - d - \\frac{5}{4} + 2 \\text{ hyp. log. } 2.\n\\]\nThus we may proceed as far as we please by adding two powers to the middle term; and hence this remarkable property of the serieses, that the difference of the sums of the serieses where the middle term is \\(x, x^3, x^5, \\text{&c.}\\) is \\(b, d, f, \\text{&c.}\\) respectively.\n\nEx. 2. In like manner if the general term be\n\\[\n\\frac{1}{x-1 \\times x^3 \\times x+1},\n\\]\nand we write 2, 3, 4, &c. for \\(x\\), we have\n\\[\n\\frac{1}{1 \\cdot 2^3 \\cdot 3} + \\frac{1}{2 \\cdot 3^3 \\cdot 3} + \\frac{1}{3 \\cdot 4^3 \\cdot 5} + \\text{&c.} = D+F+H+\\text{&c.} = (\\text{by Prop. I.}) \\frac{1}{4} - B.\n\\]\nHence also\n\\[\n\\frac{1}{1 \\cdot 2^3 \\cdot 3} + \\frac{1}{2 \\cdot 3^3 \\cdot 4} + \\text{&c.} = \\frac{1}{4} - B - D; \\text{ and so on as before.}\n\\]\n\nIf the general term be under the form\n\\[\n\\frac{1}{x^n \\cdot x+m},\n\\]\nit will be most convenient to resolve it thus: by division\n\\[\n\\frac{1}{x+m} = \\frac{1}{x} - \\frac{m}{x^2} + \\frac{m^2}{x^3} - \\text{&c.} = \\frac{m^n}{x^n \\cdot x+m}; \\text{ hence } \\frac{1}{x^n \\cdot x+m} =\n\\]\n\\[\n\\frac{1}{x+m} - \\frac{1}{x} + \\frac{m}{x^2} - \\frac{m^2}{x^3} + \\text{&c.} \\times \\frac{1}{m^n} = -\\frac{m}{x \\cdot x+m} + \\frac{m^2}{x^2 \\cdot x^3} + \\text{&c.} \\times \\frac{1}{m^n},\n\\]\nwhere the sign on the left hand will be + or − according as \\(n\\) is even or odd, and the number of terms on the right is \\(= n\\).\n\nNow the sum of the series whose general term is\n\\[\n\\frac{m}{x \\cdot x+m}\n\\]\nis well known, and the sums of the other are found from the tables.\n\nEx. 1. To find the sum of\n\\[\n\\frac{1}{2^2 \\cdot 3} + \\frac{1}{3^2 \\cdot 4} + \\frac{1}{4^2 \\cdot 5} + \\text{&c. ad inf.}\n\\]\nHere the general term is \\(\\frac{1}{x^2 \\times x + 1} = -\\frac{1}{x \\cdot x + 1} + \\frac{1}{x^2}\\), and by writing \\(2, 3, 4, \\&c.\\) for \\(x\\), we have the sum \\(= -\\frac{1}{2 \\cdot 3} - \\frac{1}{3 \\cdot 4} - \\&c. + A = -\\frac{1}{2} + A\\). In like manner \\(\\frac{1}{2^3 \\cdot 3} + \\frac{1}{4^2 \\cdot 5} + \\frac{1}{6 \\cdot 7} + \\&c. = -1 + \\text{hyp.log.} z + A''\\). Also \\(\\frac{1}{2^3 \\cdot 5} + \\frac{1}{3^3 \\cdot 6} + \\frac{1}{4^3 \\cdot 7} + \\&c. = \\frac{13}{12} - 3A + 9B \\times \\frac{1}{27}\\).\n\nIf \\(m\\) be negative, then \\(\\frac{1}{x^n \\cdot x - m} = \\frac{m}{x \\cdot x - m} - \\frac{m^2}{x^2} - \\&c. \\times \\frac{1}{m^2}\\).\n\nHence \\(\\frac{1}{2^4 \\cdot 1} + \\frac{1}{3^4 \\cdot 2} + \\frac{1}{4^4 \\cdot 3} + \\&c. = 1 - A - B - C\\); and so on for others of the same kind.\n\nIf the general term be under this form \\(\\frac{1}{x^n \\cdot ax^n + m}\\), then, in like manner, we have \\(\\pm \\frac{1}{x^n \\cdot ax^n + m} = \\frac{1}{ax^n + m} - \\frac{1}{ax^n} + \\frac{m}{a^2x^{2n}} - \\&c. \\times \\frac{ar}{m^r}\\), where the sign on the left hand will be \\(+\\) or \\(-\\), according as \\(r\\) is even or odd, and the number of terms on the right is \\(= r + 1\\).\n\nEx. 1. To find the sum of \\(\\frac{1}{2^4 \\cdot 5} + \\frac{1}{3^4 \\cdot 10} + \\frac{1}{4^4 \\cdot 17} + \\&c.\\)\n\nHere \\(m = 1, n = 2, r = 2, a = 1\\), and the general term \\(\\frac{1}{x^2 \\times x^2 + 1} = \\frac{1}{x^2 + 1} - \\frac{1}{x^2} + \\frac{1}{x^4}\\); now the sum of the series whose general term is \\(\\frac{1}{x^2 + 1}\\) is \\(= ,576674037469\\), by Prop. 2.; consequently the sum required \\(= ,576674037469 - A + C = ,014063204332\\).\n\nEx. 2. If the given series be \\(\\frac{1}{4 \\cdot 5} + \\frac{1}{9 \\cdot 10} + \\frac{1}{16 \\cdot 17} + \\&c.\\) the general\ngeneral term will be \\(\\frac{1}{x^2 \\cdot x + 1} = -\\frac{1}{x^2 + 1} + \\frac{1}{x^2}\\); hence, by writing \\(2, 3, 4, \\&c.\\) for \\(x\\), we have the sum \\(= -576674037469 + A = 06826002938\\).\n\nIf \\(m\\) be negative, then \\(\\frac{1}{x^n \\cdot ax^n - m} = \\frac{1}{ax^n - m} - \\frac{m}{a^2 x^{2n}} - \\&c.\\)\n\nEx. 1. To find the sum of \\(\\frac{1}{1 \\cdot 2^2 \\cdot 3} + \\frac{1}{2 \\cdot 3^2 \\cdot 4} + \\frac{1}{3 \\cdot 4^2 \\cdot 5} + \\&c.\\)\n\nHere the general term is \\(\\frac{1}{x^2 \\cdot x^2 \\cdot x + 1} = \\frac{1}{x^2 \\cdot x^2 - 1} = \\frac{1}{x^2 - 1} - \\frac{1}{x^2}\\);\n\nnow, by writing \\(2, 3, 4, \\&c.\\) for \\(x\\), the sum of the series whose general term is \\(\\frac{1}{x^2 - 1}\\) is \\(= \\frac{3}{4}\\), by Prop. 2.; hence the sum required \\(= \\frac{3}{4} - A\\).\n\nEx. 2. Let the given series be \\(\\frac{1}{1 \\cdot 2^2 \\cdot 3} + \\frac{1}{3 \\cdot 4^2 \\cdot 5} + \\frac{1}{5 \\cdot 6^2 \\cdot 7} + \\&c.\\). Here the general term is the same as before, writing \\(2, 4, 6, \\&c.\\) for \\(x\\); and, by Prop. 2. the sum of the series whose general term is \\(\\frac{1}{x^2 - 1}\\) is \\(= \\frac{1}{2}\\); hence the sum \\(= \\frac{1}{2} - A''\\).\n\nEx. 3. In like manner the sum of the series \\(\\frac{1}{1 \\cdot 2^2 \\cdot 3} + \\frac{1}{2 \\cdot 3^2 \\cdot 4} + \\frac{1}{3 \\cdot 4^2 \\cdot 5} + \\&c. = 221689395104 - B\\).\n\nEx. 4. To find the sum of \\(\\frac{1}{3 \\cdot 4^2 \\cdot 5} + \\frac{1}{8 \\cdot 9^2 \\cdot 10} + \\frac{1}{15 \\cdot 16^2 \\cdot 17} + \\&c.\\). Here the general term is \\(\\frac{1}{x^2 - 1 \\cdot x^4 \\cdot x^2 + 1} = \\frac{1}{x^4 \\cdot x^4 - 1} = \\frac{1}{x^4 - 1} - \\frac{1}{x^4}\\); but the sum of the series whose general term is \\(\\frac{1}{x^4 - 1}\\) is \\(= 086662976264\\); hence the sum required \\(= 086662976264 - C\\).\n\nS f 2\n\nPROP.\nPROP. V.\n\nTo find the sum of the infinite series \\( \\frac{1}{15} + \\frac{1}{40} + \\frac{1}{85} + \\frac{1}{156} + \\frac{1}{259} + \\ldots \\)\n\nIn this series the fourth differences of the denominators = 0; therefore the general term must be represented by \\( \\frac{1}{ax^3 + bx^2 + cx + d} \\); write therefore 2, 3, 4, &c. for \\( x \\), and we have\n\n\\[\n8a + 4b + 2c + d = 15, \\quad 27a + 9b + 3c + d = 40, \\quad 64a + 16b + 4c + d = 85, \\quad 125a + 25b + 5c + d = 156;\n\\]\n\nhence \\( a = 1, b = 1, c = 1, d = 1 \\), and the general term is \\( \\frac{1}{x^3 + x^2 + x + 1} = \\frac{1}{x^3} - \\frac{1}{x^4} + \\frac{1}{x^7} - \\frac{1}{x^8} + \\ldots \\);\n\nhence the sum \\( = B - C + F - G + K - L + \\ldots = 1242700165 \\).\n\nPROP. VI.\n\nTo find the sum of \\( \\frac{2}{5^2} + \\frac{3}{10^2} + \\frac{4}{17^2} + \\ldots \\) ad inf.\n\nThe general term \\( = \\frac{x}{x^2 + 1} = \\frac{1}{x^3} - \\frac{2}{x^5} - \\frac{3}{x^7} + \\ldots \\); hence, by writing 2, 3, 4, &c. for \\( x \\), we have the sum \\( = B - 2D + 3F - \\ldots = 147115771469 \\).\n\nIn like manner \\( \\frac{2}{3^2} + \\frac{3}{8^2} + \\frac{4}{15^2} + \\ldots = B + 2D + 3F + \\ldots = 312498999865 \\).\nPROP. VII.\n\nTo find the sum of \\( \\frac{1}{3^2 \\cdot 5^2} + \\frac{1}{8^2 \\cdot 10^2} + \\frac{1}{15^2 \\cdot 17^2} + \\&c. \\) ad inf.\n\nThe general term is \\( \\frac{1}{x^2 - 1 \\times x + 1} = \\frac{1}{x^2} + \\frac{2}{x^4} + \\frac{3}{x^6} + \\&c.; \\)\n\nhence, by writing 2, 3, 4, &c. for \\( x, \\) we have the sum \\( = G + 2L + 3P + \\&c. = ,009447690684. \\)\n\nPROP. VIII.\n\nTo find the sum of \\( \\frac{1}{1^3 \\cdot 2^3 \\cdot 3^3} + \\frac{1}{2^3 \\cdot 3^3 \\cdot 4^3} + \\frac{1}{3^3 \\cdot 4^3 \\cdot 5^3} + \\&c. \\) ad inf.\n\nHere the general term is \\( \\frac{1}{x^3 - 1 \\times x^3 \\times x + 1} = \\frac{1}{x^3} + \\frac{3}{x^6} + \\frac{6}{x^9} + \\&c., \\)\n\nand hence the sum \\( = H + 3K + 6M + \\&c. = ,004707148337. \\)\n\nPROP. IX.\n\nTo find the sum of the infinite series \\( 1 - \\frac{1}{3} + \\frac{1}{6} - \\frac{1}{10} + \\&c. \\) being a series of the reciprocal of the figurative numbers of the 3rd order, having the signs alternately + and −.\n\nThis series, by resolving two terms into one, becomes \\( \\frac{4}{1 \\cdot 2 \\cdot 3} + \\frac{4}{3 \\cdot 4 \\cdot 5} + \\frac{4}{5 \\cdot 6 \\cdot 7} + \\&c. \\) whose general term, by writing 2, 4, 6, &c. for \\( x, \\) is \\( \\frac{4}{x^3 - 1 \\times x \\times x + 1} = \\frac{4}{x^3} + \\frac{4}{x^5} + \\frac{4}{x^7} + \\&c. \\)\n\nconsequently the sum \\( = 4B'' + 4D'' + 4F'' + \\&c. = \\) (by Cor. Ex. 2. Prop. 2.) \\( - 2 + 4 \\) hyp. log. 2.\n\nCor.\nCor. Hence, as \\(1 + \\frac{1}{3} + \\frac{1}{6} + \\frac{1}{10} + \\&c. = 2\\), we have \\(1 + \\frac{1}{6} + \\frac{1}{15} + \\&c. = 2\\) hyp. log. 2, and \\(\\frac{1}{3} + \\frac{1}{10} + \\frac{1}{21} + \\&c. = 2 - 2\\) hyp. log. 2.\n\n**Prop. X.**\n\nTo find the sum of the infinite series \\(1 - \\frac{1}{4} + \\frac{1}{10} - \\frac{1}{20} + \\&c.\\), being the reciprocals of the figurative numbers of the 4th order, having the signs alternately + and −.\n\nIf we write 2, −3, 4, −5, &c. for \\(x\\), the general term will be \\(\\frac{6}{x^3 - x} = \\frac{6}{x^3} + \\frac{6}{x^5} + \\&c.\\); hence the sum required = \\(6b + 6d + 6f + \\&c. = (by \\ Prop. 3.) - 7\\frac{1}{2} + 12\\) hyp. log. 2.\n\nCor. Because the sum of \\(1 + \\frac{1}{4} + \\frac{1}{10} + \\frac{1}{20} + \\&c. = \\frac{3}{2}\\); therefore \\(1 + \\frac{1}{10} + \\frac{1}{35} + \\&c. = -3 + 6\\) hyp. log. 2; and \\(\\frac{1}{4} + \\frac{1}{10} + \\frac{1}{56} + \\&c. = 4\\frac{1}{2} - 6\\) hyp. log. 2.\n\n**Prop. XI.**\n\nTo find the sum of \\(\\frac{2^2}{1^2 \\cdot 3^2} + \\frac{3^2}{2^2 \\cdot 4^2} + \\frac{4^2}{3^2 \\cdot 5^2} + \\&c.\\) ad infinitum.\n\nThe general term, by writing 2, 3, 4, &c. for \\(x\\), is \\(\\frac{x^2}{x-1 \\times x+1} = \\frac{1}{x^2} + \\frac{2}{x^4} + \\frac{3}{x^6} + \\&c.\\); hence the sum = A + 2C + 3E + &c. = ,884966993407.\n\n**Prop.**\nPROP. XII.\n\nTo find the sum of \\( \\frac{1}{1 \\cdot 2^2 \\cdot 3} + \\frac{1}{2 \\cdot 3^2 \\cdot 4} + \\frac{1}{3 \\cdot 4^2 \\cdot 5} + \\&c. \\) ad infinitum.\n\nHere the general term, by writing 2, 3, 4, &c. for \\( x \\), is\n\n\\[\n\\frac{1}{x-1 \\cdot x^2 \\cdot x+1} = \\frac{1}{x^6} - \\frac{2}{x^7} + \\frac{4}{x^8} + \\frac{6}{x^9} - \\frac{9}{x^{10}} - \\frac{12}{x^{11}} + \\frac{16}{x^{12}} - \\&c.;\n\\]\n\nconsequently the sum \\( = E - 2F + 4G - 6H + 9I - 12K + \\&c. = 0.010370898482. \\)\n\nPROP. XIII.\n\nTo find the sum of \\( \\frac{1}{2}A - \\frac{1}{4}B + \\frac{1}{8}C + \\&c. \\) ad infinitum.\n\nThe hyp. log. \\( z = 1 - \\frac{1}{2} + \\frac{1}{3} - \\frac{1}{4} + \\frac{1}{5} - \\&c. = 1 + \\frac{1}{3} + \\frac{1}{5} + \\&c. - \\frac{1}{2} - \\frac{1}{4} - \\frac{1}{6} - \\&c.; \\)\n\nhence \\( 2 \\times \\text{hyp. log. } z, \\text{ or hyp. log. } 4z, \\)\n\n\\[\n= \\frac{2}{1} + \\frac{2}{3} + \\frac{2}{5} + \\&c. - 1 - \\frac{1}{2} - \\frac{1}{3} - \\&c.\n\\]\n\nNow, by division,\n\n\\[\n\\frac{2}{2x+1} = \\frac{1}{x} - \\frac{1}{2x^2} + \\frac{1}{4x^3} - \\frac{1}{8x^4} + \\&c.; \\]\n\nhence, by writing 2, 3, 4, &c. for \\( x \\), we have (after transposition) \\( \\frac{2}{5} + \\frac{2}{7} + \\&c. - \\frac{1}{2} - \\frac{1}{3} - \\frac{1}{4} - \\&c. = - \\frac{1}{2}A + \\frac{1}{4}B - \\frac{1}{8}C + \\&c.; \\)\n\nhence, by adding equal quantities to each side, we have \\( \\frac{2}{1} + \\frac{2}{3} + \\frac{2}{5} + \\&c. - \\frac{1}{2} - \\frac{1}{3} - \\frac{1}{4} - \\&c. = \\frac{8}{3} - \\frac{1}{2}A + \\frac{1}{4}B - \\frac{1}{8}C + \\&c., \\)\n\nconsequently \\( \\frac{1}{2}A - \\frac{1}{4}B + \\frac{1}{8}C + \\&c. = \\frac{8}{3} - \\text{hyp.log. } 4z. \\)\nPROP. XIV.\n\nTo find the sum of the infinite series \\( \\frac{1}{2 \\cdot 5} + \\frac{1}{3 \\cdot 7} + \\frac{1}{4 \\cdot 9} + \\&c. \\)\n\nThe general term, by writing 2, 3, 4, &c. for \\( x \\), is\n\n\\[\n\\frac{1}{x \\cdot 2x + 1} = \\frac{1}{2x^2} - \\frac{1}{4x^3} + \\frac{1}{8x^4} - \\&c.; \\text{ hence the sum} = \\frac{1}{2}A - \\frac{1}{4}B + \\frac{1}{8}C - \\&c. = (\\text{by Prop. 13.}) \\frac{8}{3} - \\text{hyp. log. } 4.\n\\]\n\nPROP. XV.\n\nTo find the sum of \\( 1 + \\frac{1}{2} + \\frac{1}{3} + \\&c. \\) to \\( \\frac{1}{x} \\).\n\nThe hyp. log. \\( \\frac{x}{x-1} = \\frac{1}{x} + \\frac{1}{2x^2} + \\frac{1}{3x^3} + \\frac{1}{4x^4} + \\&c.; \\text{ consequently} \\)\n\nhyp. log. \\( \\frac{x}{x-1} = \\frac{1}{2x^2} - \\frac{1}{3x^3} - \\frac{1}{4x^4} - \\&c. = \\frac{1}{x}; \\text{ hence, if we write} \\)\n\n\\( 2, 3, 4, \\&c. \\) for \\( x \\), we have hyp. log. \\( \\frac{2}{1} + \\text{hyp. log. } \\frac{3}{2} + \\&c. \\&c. \\&c. \\)\n\n\\[\n\\begin{align*}\n\\text{hyp. log. } \\frac{x}{x-1} &= \\frac{1}{2} \\times \\frac{1}{2^2} + \\frac{1}{3^2} + \\&c. \\&c. \\&c. \\\\\n&= \\frac{1}{3} \\times \\frac{1}{2^3} + \\frac{1}{3^3} + \\&c. \\&c. \\&c. \\\\\n&= \\frac{1}{4} \\times \\frac{1}{2^4} + \\frac{1}{3^4} + \\&c. \\&c. \\&c. \\\\\n&= \\&c. \\&c. \\&c.\n\\end{align*}\n\\]\n\n\\( \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\&c. \\&c. \\&c. \\&c.; \\text{ but hyp. log. } \\frac{2}{1} + \\text{hyp. log. } \\frac{3}{2} + \\&c. \\&c. \\&c. \\&c.; \\text{ hyp. log. } \\frac{x}{x-1} = \\text{hyp. log. } \\frac{2}{1} \\times \\frac{3}{2} \\times \\frac{4}{3} \\times \\&c. \\&c. \\&c. \\&c.; \\text{ hyp. log. } x; \\text{ also } \\frac{1}{2^2} + \\frac{1}{3^2} + \\&c. \\&c. \\&c. \\&c.; \\text{ the sum} \\]\nsum of the same series ad infinitum, minus the sum of all the terms from \\( \\frac{1}{x^2} = (if x + 1 = n) A - \\frac{1}{n} - \\frac{1}{2n^2} - \\frac{1}{6n^3} + \\frac{1}{30n^5} - \\frac{1}{42n^7} + &c.; \\) in the same manner \\( \\frac{1}{2^3} + \\frac{1}{3^3} + &c. \\ldots \\frac{1}{x^3} = B - \\frac{1}{2n^2} - \\frac{1}{2n^3} - \\frac{1}{4n^4} + \\frac{1}{12n^5} - \\frac{1}{12n^8} + &c.; \\) and so on for the other series; hence, by substitution, and adding unity to each side, we have hyp. log. \\( x + 1 - \\frac{1}{2}A - \\frac{1}{3}B - \\frac{1}{4}C - &c. + \\frac{1}{2n} + \\frac{5}{12n^2} + \\frac{1}{3n^3} + \\frac{31}{120n^4} + \\frac{1}{5n^5} + \\frac{41}{252n^6} + \\frac{61}{7n^7} + \\frac{31}{240n^8} + &c. = 1 + \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + &c. \\ldots \\frac{1}{x}; \\) but \\( 1 - \\frac{1}{2}A - \\frac{1}{3}B - \\frac{1}{4}C - &c. = ,577215664901; \\) hence \\( 1 + \\frac{1}{2} + \\frac{1}{3} + &c. \\ldots \\frac{1}{x} = \\text{hyp. log. } x + ,577215664901 + \\frac{1}{2n} + \\frac{5}{12n^2} + \\frac{1}{3n^3} + \\frac{31}{120n^4} + \\frac{1}{5n^5} + \\frac{41}{252n^6} + \\frac{1}{7n^7} + \\frac{31}{240n^8} + &c. \\)\n\nEx. 1. Let \\( x = 10000; \\) then\n\n\\[\n\\begin{align*}\n\\text{hyp. log. } 10000 &= 9,210340371976 \\\\\n\\text{const. quant.} &= ,577215664901 \\\\\n\\frac{1}{2n} &= ,000049995000 \\\\\n\\frac{5}{12n^2} &= ,000000004166 \\\\\n\\end{align*}\n\\]\n\ntherefore the sum required \\( = 9,787606036043 \\)\n\nEx. 2. Let \\( x = 10000000; \\) then\n\n\\[\n\\begin{align*}\n\\text{hyp. log. } 10000000 &= 16,118095650958 \\\\\n\\text{const. quant.} &= ,577215664901 \\\\\n\\frac{1}{2n} &= ,000000049999 \\\\\n\\end{align*}\n\\]\n\ntherefore the sum required \\( = 16,695311365858 \\)\nPROP. XVI.\n\nTo find the value of $\\alpha \\times \\beta \\times \\gamma \\times \\delta \\times \\&c.$ ad infinitum, supposing the general term to be a rational function of $x$.\n\nLet $\\pi$ be the general term, then resolve $\\frac{\\dot{x}}{\\pi}$ into an infinite series, and take the fluent on both sides; then write 2, 3, 4, &c. for $x$, and one side will become the hyp. log. of the given series, and the value of the other side may be found from the tables.\n\nEx. 1. To find the value of $\\frac{4}{3} \\times \\frac{9}{8} \\times \\frac{16}{15} \\times \\&c.$ ad infinitum.\n\nHere the general term is $\\frac{x^2}{x^2 - 1}$; hence $\\frac{\\dot{x}}{\\pi} = -\\frac{2\\dot{x}}{x^3 - x} = -\\frac{2\\dot{x}}{x^3} - \\frac{2\\dot{x}}{x^7} - \\&c.$; hence the hyp. log. $\\frac{x^2}{x^2 - 1} = \\frac{1}{x^2} + \\frac{1}{2x^4} + \\frac{1}{3x^6} + \\&c.$\n\nWrite 2, 3, 4, &c. for $x$, and we have the hyp. log. $\\frac{4}{3} + \\text{hyp. log.} \\frac{9}{8} + \\text{hyp. log.} \\frac{16}{15} + \\&c. = A + \\frac{1}{2}C + \\frac{1}{3}E + \\&c. = ,693147180574,$ which is the hyp. log. 2; but hyp. log. $\\frac{4}{3} + \\text{hyp. log.} \\frac{9}{8} + \\text{hyp. log.} \\frac{16}{15} + \\&c. = \\text{hyp. log.} \\frac{4}{3} \\times \\frac{9}{8} \\times \\frac{16}{15} \\times \\&c.$ consequently $\\frac{4}{3} \\times \\frac{9}{8} \\times \\frac{16}{15} \\times \\&c. = 2.$\n\nEx. 2. To find the value of $\\frac{8}{7} \\times \\frac{27}{26} \\times \\frac{64}{63} \\times \\&c.$ ad infinitum.\n\nHere the general term is $\\frac{x^3}{x^3 - 1}$; hence $\\frac{\\dot{x}}{\\pi} = -\\frac{3\\dot{x}}{x^4 - x} = -\\frac{3\\dot{x}}{x^4} - \\frac{3\\dot{x}}{x^7} - \\frac{3\\dot{x}}{x^{10}} - \\&c.$; hence the hyp. log. $\\frac{x^3}{x^3 - 1} = \\frac{1}{x^3} + \\frac{1}{2x^6} + \\frac{1}{3x^9} + \\&c.$\n\nWrite 2, 3, 4, &c. for $x$, and we have hyp. log. $\\frac{8}{7} + \\text{hyp. log.} \\frac{27}{26}$\nof Infinite Series.\n\n\\[\n\\frac{27}{26} + \\text{hyp. log. } \\frac{64}{63} + \\&c. = B + \\frac{1}{2}E + \\frac{1}{3}H + \\&c. = ,211466250444;\n\\]\n\nor hyp. log. \\(\\frac{8}{7} \\times \\frac{27}{26} \\times \\frac{64}{63} \\times \\&c. = ,211466250444\\); hence \\(\\frac{8}{7} \\times \\frac{27}{26} \\times \\frac{64}{63} \\times \\&c. = 1,627295, \\&c.\\).\n\nHence we may find the value of such a quantity, supposing the number of factors to be finite.\n\nEx. To find the value of \\(\\frac{2}{1} \\times \\frac{4}{3} \\times \\frac{6}{5} \\times \\&c. \\ldots\\) to \\(\\frac{2x}{2x-1}\\).\n\nHere the general term being \\(\\frac{2x}{2x-1}\\), we have \\(\\frac{x}{\\pi} = -\\frac{\\dot{x}}{2x^2} - \\frac{\\ddot{x}}{4x^3} - \\frac{\\dddot{x}}{8x^4} - \\frac{\\ddddot{x}}{16x^5} - \\&c.;\\) hence hyp. log. \\(\\frac{2x}{2x-1} = \\frac{1}{1 \\cdot 2x} + \\frac{1}{2 \\cdot 4x^2} + \\frac{1}{3 \\cdot 8x^3} + \\frac{1}{4 \\cdot 16x^4} + \\&c.\\). Now write \\(2, 3, 4, \\&c.\\) for \\(x\\), and we have the hyp. log. \\(\\frac{4}{3} \\times \\frac{6}{5} \\times \\frac{8}{7} \\times \\&c. \\ldots\\)\n\n\\[\n\\frac{2x}{2x-1} = \\frac{1}{2} \\times \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\ldots \\frac{1}{x}\n\\]\n\n\\[\n+ \\frac{1}{2 \\cdot 4} \\times \\frac{1}{2^2} + \\frac{1}{3^2} + \\frac{1}{4^2} + \\ldots \\frac{1}{x^2}\n\\]\n\n\\[\n+ \\frac{1}{3 \\cdot 8} \\times \\frac{1}{2^3} + \\frac{1}{3^3} + \\frac{1}{4^3} + \\ldots \\frac{1}{x^3}\n\\]\n\n\\[\n+ \\&c. \\quad \\&c. \\quad \\&c.\n\\]\n\nBut, by Prop. 15. \\(\\frac{1}{2} \\times \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\ldots \\frac{1}{x} = \\frac{1}{2} \\text{hyp. log.}\\)\n\n\\(x = ,211392167549 + \\frac{1}{4n} + \\frac{5}{24n^2} + \\frac{1}{6n^3} + \\frac{31}{240n^4} + \\frac{1}{10n^5} + \\frac{41}{504n^6} + \\&c.;\\)\n\nalso \\(\\frac{1}{2 \\cdot 4} \\times \\frac{1}{2^2} + \\frac{1}{3^2} + \\ldots \\frac{1}{x^2} = \\frac{1}{2 \\cdot 4} \\times A - \\frac{1}{n} - \\frac{1}{2n^2} - \\frac{1}{6n^3} + \\frac{1}{30n^5} - \\&c.\\) and \\(\\frac{1}{3 \\cdot 8} \\times \\frac{1}{2^3} + \\frac{1}{3^3} + \\ldots \\frac{1}{x^3} = \\frac{1}{3 \\cdot 8} \\times B - \\frac{1}{2n^2} - \\frac{1}{2n^3} - \\frac{1}{4n^4} + \\frac{1}{12n^6} - \\&c.,\\) and so on for the other serieses: hence, by substitution,\ntion, hyp. log. $\\frac{4}{3} \\times \\frac{6}{5} \\times \\frac{8}{7} \\times \\&c. \\ldots \\ldots \\frac{2x}{2x-1} = \\frac{1}{2}$ hyp. log. $x =$ ,12078223764 + $\\frac{1}{8n} + \\frac{1}{8n^2} + \\frac{23}{192n^3} + \\frac{7}{64n^4} + \\frac{61}{640n^5} + \\&c.$; consequently $\\frac{4}{3} \\times \\frac{6}{5} \\times \\frac{8}{7} \\times \\&c. \\ldots \\ldots \\frac{2x}{2x-1} =$ the natural number corresponding to the right hand side of the equation; hence $\\frac{2}{1} \\times \\frac{4}{3} \\times \\frac{6}{5} \\times \\ldots \\ldots \\frac{2x}{2x-1} =$ twice that natural number.\n\nEx. Let $x = 10000$; then\n\n$\\frac{1}{2}$ hyp. log. $x = 4,605170185988$;\n\nconst. quant. $= ,120782237640$\n\n$\\frac{1}{8n} = 4,484387948548$\n\n$\\frac{1}{8n^2} = ,000012498750$\n\n$\\frac{1}{8n^3} = ,000000001249$\n\n$\\frac{20000}{19999} = 177,2476$ the natural number corresponding to which hyp. log. is 88,6238, &c., consequently $\\frac{2}{1} \\times \\frac{4}{3} \\times \\frac{6}{5} \\times \\ldots \\ldots \\frac{20000}{19999} = 177,2476$.\n\nIf $x$ be a very large number, it may be sufficiently exact in most cases to take twice the natural number corresponding to the hyp. log. of $\\frac{1}{2}$ hyp. log. $x =$ ,120782237640.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106875.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 23,
+    "total-input-tokens": 35236,
+    "total-output-tokens": 18119,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1136,
+        2
+      ],
+      [
+        1136,
+        2356,
+        3
+      ],
+      [
+        2356,
+        3656,
+        4
+      ],
+      [
+        3656,
+        4955,
+        5
+      ],
+      [
+        4955,
+        6403,
+        6
+      ],
+      [
+        6403,
+        8099,
+        7
+      ],
+      [
+        8099,
+        9784,
+        8
+      ],
+      [
+        9784,
+        11439,
+        9
+      ],
+      [
+        11439,
+        13063,
+        10
+      ],
+      [
+        13063,
+        14877,
+        11
+      ],
+      [
+        14877,
+        16754,
+        12
+      ],
+      [
+        16754,
+        18461,
+        13
+      ],
+      [
+        18461,
+        20185,
+        14
+      ],
+      [
+        20185,
+        21321,
+        15
+      ],
+      [
+        21321,
+        22682,
+        16
+      ],
+      [
+        22682,
+        23957,
+        17
+      ],
+      [
+        23957,
+        25539,
+        18
+      ],
+      [
+        25539,
+        27122,
+        19
+      ],
+      [
+        27122,
+        28753,
+        20
+      ],
+      [
+        28753,
+        30557,
+        21
+      ],
+      [
+        30557,
+        32647,
+        22
+      ],
+      [
+        32647,
+        33821,
+        23
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106875",
+    "title": "A New Method of Investigating the Sums of Infinite Series. By the Rev. Samuel Vince, A. M. F. R. S.",
+    "authors": "Samuel Vince",
+    "year": 1791,
+    "volume": "81",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 23,
+    "jstor_url": "https://www.jstor.org/stable/106875"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "f7090e2e8e02d63dc9b4e621b1cd4ab096a19b07",
+  "text": "VI. An Account of two Observations upon the Cataract of the Eye; contain'd in a Letter from Signor Antonio Benevoli, Master-Surgeon in the Hospital of S. Maria Nuova in Florence, to Dr. Valsalva; Printed in Italian at Florence, this present Year, and communicated to the Royal Society, at the Desire of the Author, by Sir Thomas Dereham, F.R.S.\n\nIn this Letter the learned Author informs Signor Valsalva, that, on the 13th of July in the Year 1720, he had couch'd a German Soldier of Cataracts in both his Eyes, who immediately after the Operation recover'd the Sight of both Eyes, and continued to see till his Death, which happen'd of an Acute Illness on the 6th of April in this present Year. Upon this, Signor Benevoli took the Eyes out of their Orbits, in order to examine whether the Cataracts, which this Soldier had been couch'd of, consisted of a membranous Pellicle, as some Writers maintain; or, as others pretend, of a preternatural Opacity in the Crystalline Humour. Proceeding immediately to the Dissection of the left Eye, upon a careful and very exact Examination of all the Contents of it, he could not find any such thing as a Pellicle within it, but discover'd a small yellowish Body at the bottom of the Bulb of the Eye, of a lenticular Shape, without Adhesion to any of the other Parts.\nParts of the Eye, which, upon taking it out, appear'd to be the Crystalline Humour grown opake, and something less than its natural Size, having two or three small Dents, or Impressions, made in its Circumference, which it had received from the Needle during the Operation of couching.\n\nThe next Day he examin'd the right Eye in the same manner, in the Presence of several eminent Physicians and Surgeons, and other curious Persons, whom he had invited to the Demonstration, and found in it the Crystalline grown opake and depressed in the same manner as the former, to the bottom of the Eye, still carrying the Marks of the Needle evidently upon it, but found no Pellicle within the Eye, notwithstanding the most diligent Search he could make for it. Signor Benevoli farther relates, that having formerly made some Experiments upon the Eyes of dead Subjects, at Bologna, in company with Dr. Valsalva, he had introduced the Needle into the Eye in the same Place, and in the same Manner, as is commonly practised in the Operation of couching, and having afterwards dissected the same Eyes, he had always found, that the Needle had pass'd into the Eye on the backside of the Crystalline Humour, so that it had been impossible to bring the Needle forward from thence into that Part of the aqueous Humour, which is seated between the Uvea and the Crystalline Humour, in order to depress a Pellicle seated there, according to the common Opinion, unless he would have pass'd his Needle thro' the Body of the Crystalline.\n\nThis curious Author likewise observes, that the aforesaid Space, between the Uvea and the Crystalline Humour, is so very narrow, that tho' he finds it not impossible to introduce a Needle into that Space, yet there is by no means room enough to turn the Needle up and down in all Directions, with that Freedom,\nthat is used in couching Cataracts, without wounding either the Uvea, or the Crystalline.\n\nLastly, Signor Benevoli observes, that in his Practice of couching Cataracts for many Years, having generally couched about twelve or fourteen in a Year, he had always found, that he work'd upon a hard and resisting Substance, which being tenderly touch'd by the Needle, would vibrate and fluctuate backwards and forwards, and would sometimes return against the Needle with a sensible Impetus, which by no means agrees with the common Notion of the Cataract's consisting in a Pellicle or membranous Substance.\n\nFINIS.\n\nLONDON: Printed for W. and J. Innys, Printers to the Royal Society, at the Prince's Arms the West End of St. Paul's Churchyard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103597.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1051,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1308,
+        2
+      ],
+      [
+        1308,
+        3135,
+        3
+      ],
+      [
+        3135,
+        3872,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103597",
+    "title": "An Account of Two Observations upon the Cataract of the Eye; Contain'd in a Letter from Signor Antonio Benevoli, Master-Surgeon in the Hospital of S. Maria Nuova in Florence, to Dr. Valsalva; Printed in Italian at Florence, This Present Year, and Communicated to the Royal Society, at the Desire of the Author, by Sir Thomas Dereham, F. R. S.",
+    "authors": "Thomas Dereham, Antonio Benevoli",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103597"
+  }
+}

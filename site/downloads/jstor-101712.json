@@ -1,0 +1,59 @@
+{
+  "id": "0a6f2607b745562cbd74d2c2dd57e75a937eb7d5",
+  "text": "Monsieur Bullialdus and Mr. Richelis account of the last Lunar Eclipse of January 1676 St. Novo; whereby it appears that the Rudolphine Tables or Hecker's calculus made thereon, do considerably differ from the Heavens both for duration and magnitude, but the Philolaic Tables, less.\n\n**Tabula Philolaica exhibent in Eclipsi visae Januarii die 1 mane, 1676.**\n\n| Uraniburgi | Parisis | Decemb 31. | St. novo. |\n|------------|---------|------------|-----------|\n| Initium    | H.      | 14. 53. 29 | 14. 13. 29 |\n| Max. obse. | 16. 0. 33 | 15. 20. 33 | Digitos III. LI |\n| Veram     | 16. 9. 18 | 15. 29. 18 |            |\n| Finis     | 17. 7. 37 | 16. 27. 37 |            |\n\n**Observationum observavit M. Michael Bullialdus.**\n\n| Capella Difi. a vertice. | Parisis mane. |\n|--------------------------|---------------|\n| Initium                  | H.            |\n| Umbra attigit Atlanicum minorum. | 23 32 |\n| Umbra paulo supra laminae, super Liquidum, occasum paverat Macr. M. | 56 27 |\n| U. attigit fere caelum Montis. | 6 20 |\n| U. attigit Montanum. | 12 54 |\n| Attigit fere Peronie Montem Pyram. & med. paludem Hyperboraeum. | 17 51 |\n| Occupavit fere Montem Saphiricum & Peroritium, atque Promont. Lunae. | 29 1 |\n| Leucopetra extra umbra. | 48 21 |\n| Sinus peroritius extra umbra. | 54 6 |\n| Sinus Saphiricus extra umbra. | 55 12 |\n| Sinus Cercinites fere emergit. | 58 29 |\n| Pars sub umb. aquatis fere Latitudinis Paludis Macrodum. | 5 38 |\n| Finis versus e reg. Mont. Macrocom. circa g. 355. | 13 56 |\n| Penumbra. |            |\n\n**Parisis observatum. Heckerus Parisis.**\n\n| Initium | H. | 14. 22. 32 |\n| Max. obse. | 15. 18. 14 | 15. 20. 18 |\n| Finis | 16. 13. 50 | 16. 32. 36 |\n\n**Tabula ergo Rudolphinae offendunt durat. longorem observationis 33' 13'. Magnitudin. deliquit majorem 54\" 31. unius digitii 60, id est, unus fere digitus.**\n\n**Argentinæ sic observ. D. Julius Richelis Profess. Mathematicorum, utemque ut ipse dicit, ob nondum absoluta correctione instrumenta.**\n\n| Alto Arcturo. |\n|---------------|\n| Initium. | H. | \" |\n| U. per Montem Porphyritem & Promont. Lunae. | 30 30 | 14 48 48 |\n| U. Strinxit Lacum Thrafymen. Mont. Baronifam & finum Cimmerium. | 36 0 15 20 8 |\n| U. transit per Prom. Lunae & Montem Cimmerium. | 39 50 15 45 44 |\n| U. retigit Lacum nigrum minorem & M. Carpathum. | 44 15 16 13 20 |\n| Deficit in Regione Hyperborea media ad Mare Hyperboreum. | 46 25 16 27 36 |\n| Tota duratio observata Argent. H. 1. 52. 56 Merid. Parisien. ab Argentoraci distat O° 22. 43 ex fine. |\n\n**Observationibus Longinis factis observatum est,**\n\n| Initium | H. | 14 16 |\n| Max. obse. | 15 11 37 | Qui ex observatione Eclipseis die vii. |\n| Finis | 16 7 15 | Juli 1675 apparuit eo, ut etiam in Totadur. 15 15 |\n\nEclipsi xi. Januarii ejusdem anni.\n\nAn",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101712.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 1206,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2773,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101712",
+    "title": "Monsieur Bullialdus and M. Richelts Account of the Last Lunar Eclipse of Januar, I. 1676. St. Novoi Whereby It Appears That the Rudolphin Tables or Hecker's Calculos Made thereon, do Considerably Differ from the Heavens Both for Duration and Magnitude, but the Philolaique Tables, Less",
+    "authors": "Monsieur Bullialdus, M. Richelts",
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101712"
+  }
+}

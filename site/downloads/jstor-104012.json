@@ -1,0 +1,69 @@
+{
+  "id": "895d664fd64512e1006f4ff46af1a538c1bda926",
+  "text": "V. Observationes nonnullae singulares Anni ccccxxxiii. tam Astronomicæ, quam Physicæ, & Meteorologicæ, ab Joh. Frid. Weidlero, Prof. Math. Pr. R. S. S. Vitemberge factæ.\n\n1. Observatio conjunctionis Saturni & Martis. Die 5 Febr. vesperi Hor. 7 m. 30, visi sunt duo illi planetæ cum stella E ἀ Beieri in eadem recta linea.\n\n\\[ \\text{E} ἀ \\]\n\n\\[ \\text{δ} Ὁ \\]\n\n\\[ \\text{δ} Ὁ 2° 15' \\]\n\n\\[ \\text{δ} Ἀ Ὁ 1. 12. 30'' \\]\n\n2. Die 19 Febr. vesperi h. 7. 15'. notata fuit distantia δ ab Ὁ, nempe Ὁ Ὁ 1° 17' 30''. Mars distabat à stella versus Septentrionem.\n\n3. Lenitas hiemis praecedentis Mensibus Febr. & Martii febres catarrhales epidemicas peperit.\n\n4. Mensis Martii d. 14. frigus solito asperius, quod illo die experti fuimus, ventus N. E. duos ante dies impetuosissimus attulit.\n\n5 Observatio Eclipse Solaris die. 2. Maii St. V. facta separatim Inclutæ Regiæ Societati oblata fuit & in Transf. No 233, invenienda est.\n\n6. Maii die. 3. Dicitur Aurora Borealis luxisse.\n\n7. Maii\n7 Maii die 5. frigus nocturnum vites laefit & juglandes etiam fegetes passim locis maxime humilio-ribus exusit, ut spicæ postea granis carerent.\n\n8. Junii die 26. vesperi Aurora Borealis luxit, & solitas pyramides circa h. 12 noctis ejaculata est.\n\n9. Octobris die 27. iterum lucit Aurora Borealis. Vesperi illius diei circa Hor. 7. arcus niger, alba fascia tectus, sub septemtrionibus apparebat. hor. VIII. 30'. Zona candida nigro arcui incumbens sensim altius expandebatur, circiter usque ad altitudinis gradum 40. atque haec regio lucida tranquilla usque ad hor. X permanebat. post hor. X. passim ex tracitu candido radiationes pyramidales, celeriter emicabant, nebulæ quoque undarum instar per coelos provoluebantur, quin visus aliquando est totus margo candidus instar undæ lucidae verus polum assurgere. Haec undulatio materiae lucentis, permistis subinde radiis pyramidalibus, lucida illa regione multo clarioribus, durabat usque ad hor. XI. tota materia lucida sensim paulatimque versus ortum premovebatur, in cujus locum nubes atræ distractæ versus occasum succedebant. Paulo ante hor. XI. prope N. W. nubes alba diutius lucebat, & subinde rubebat, materia quoque ejusdem undulabat. cessavit spectaculum post h. XI. aer tempore apparitionis tranquillus passim quoque Stellæ per candidam regionem translucebat: Notabile mihi visum est, quod die proxime sequente caelum caliginosum & pluviosum fuerit, item quod Noctu post diem XXIX ventus longe impetuosissimus & procellosus fævierit, cum aliis post auroras boreales insigniores ferenior plerumque tempestas sequi soleat.\n\nIdem Aurora borealis phænomenon etiam Stockholmii in Suecia annotatum fuit.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104012.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 1036,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        974,
+        2
+      ],
+      [
+        974,
+        2630,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104012",
+    "title": "Observationes Nonnullae Singulares Anni [MDCCXXXIII] tam Astronomicae, quam Phyficae, & Meteorologicae, ab Joh. Frid. Weidlero, Prof. Math. Pr. R. S. S. Vitembergae Factae",
+    "authors": "Joh. Frid. Weidlero",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104012"
+  }
+}

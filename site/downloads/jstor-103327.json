@@ -1,0 +1,149 @@
+{
+  "id": "5b83785dfbedab973b351b53bc563c35aedd7cca",
+  "text": "III. Tractatus de Curvarum Constructione & Mensura; ubi plurimae series Curvarum Infinitae vel rectis mensurantur vel ad simpliciores Curvas reducuntur. Autore Colin Maclaurin, in Collegio novo Abredonensi Matheaeos Professore.\n\nEximiae Matheaeos Theoriae, ob infinitam Propositionum Universalitatem, æternam ac necessariam Veritatem, Evidentiam omni dubitatione majorum, Idearum claritatem luculentissimam, Demonstratiorum elegantiam, Theorematum nexus & mutuas dependentias, pulcherrimis certè ac summis humani intellectus repertis sunt annumerandæ; inter eas vero eminent summorum hujus sæculi Philosophorum de Curvarum Longitudinibus & areis mensurandis ardua Theoremata. Ad hos diffusos cognitionis campos diu altè latentes tandem cruendos infinitæ scientiæ portiunculam mutuari, vix sibi temperare posset quin pronuntiaret, qui Arithmeticae Infinitorum vires in immenso elegantissimarum Veritatum abyssò cruendo, & humani intellectus Horizontem infinite ferè extendendo, paucis praeteritis annorum decadibus, amplè satis comprobatas, animo perpenderit; Hujus vero methodi (sicut nunc aucta & exculta est) ope, incidi in rationem mensurandi infinitas Curvarum series, quam paucissimis explicabo.\n\nCum in omni linea curva sit aliqua curvaturæ regularitas licet fortè implicata, secundum quam figura determinatur; ideo Geometrae varias Curvarum characteres ex Æquatione Ordinarum relationem ad abscissas axis aliquæ exprimente definiturunt. Cum vero idem fieri possit ex consideratione Curvarum respectu unius dati centri,\nimo simplicissima Naturae uniformitas in ejus indagine id fieri saepe postulet, ideo hanc Curvas considerandi Methodum impraesentiarum usurpabimus, & imprimis ostendamus qua facillima ratione (secundum hanc Methodum Curvas determinandi) ex simplicibus complexiores construi possint.\n\n§ I. Sint L & l puncta quamproxima in Curva B l; fit l o arcus centro S descriptus perpendicularis in l L; & crit L l ut momentum Curvae & L o momentum Radii SL: Ac si detur ratio L l ad L o, vel ad l o in distan- tia S L, dabitur aquatio Curvae ad centrum S. Sint L P, l p Tangentes Curvae in punctis L & l, in quas ex de- mittantur normales S P, S p iis occurrentes in punctis P & p; similiter in omnes Curvae Tangentes demittantur perpendiculares ex dato puncto S & constructur Cur- va transiens per omnes Tangentium & perpendiculorum intersectiones. Hujus triangulum elementare P n p simile erit triangulo L o l, quæ proinde dabitur ex data Curva B l L. Quippe ob æquales S n p, P n L, & rectos S p n, S P L æquiangula erunt triangula S p n, P n L, & proinde P n : pn :: L n : S n :: L o : lo, adeoque ob angulos P n p, S n L, L o l æquales, crunt tri- angula P n p, S n L, L o l similia. Cum igitur ca- dem sit ratio L l ad lo quæ P p ad p n. & S L ad S P, manifestum est da- rà ratione L l ad lo, & rectà S L, dari rationem P p ad p n & rectam S P, adeoque Curvam D p. Badem ratio- ne ex D P construi potest Tertia, & ex ea dein Quarta, & progrediendo prodibit series Curvarum infinita, quæ omnes ex uno dato innotescunt. Quod si erigantur L N &\n§ I. perpendiculares in radios S L, S l, sibi mutuo occurrentes in n; & per omnia similiter definita perpendicularium concursum puncta describatur Curva E N: ea ipsa erit Curva ex qua deduci potest B L, eadem ratione qua construximus D P ex B L. Ex E N similiter construi potest alia Curva, atque ex hac quoque parte Series infinita Curvarum construi poterit.\n\n§ II. Curvarum verò hac ratione consideratarum simplicissimae sunt quarum L l est ad L o in ratione potestatis alicujus Radii, ita ut, si a sit data quantitas, r denotet Radium Curvae, n numerum quemicunque, sit L l ad l o ut a^n ad r^n æquatio earum generalis. Omnes verò hæ Apsidem habent cum r=a, quoniam in eo caso L l=l o. Ut investigem æquationem Curvae D P, cum in B L est ut L l ad l o ita a^n ad r^n, ita r ad SP=\\frac{r^{n+1}}{a^n}, ita \\frac{a^n}{r^{n+1}} \\times SP_{n+1} ad SP, ita \\frac{a^n}{r^{n+1}} ad SP_{n+1}, ita P p ad p n. Proinde si i representet momentum Curvae, j arcum circularem radio descriptum à centro S, & r radius correspondentem, quæcunque sit Curva cujus Æquatio investigatur, erit Æquatio Curvae B L, i : j :: a^n : r^n; Æquatio verò Curvae D P, i : j :: a^n+1 : r^n+1. Angulus autem P S p erit ad Angulum L S l ut \\frac{p^n}{S P} ad \\frac{l o}{S L}, sive ut \\frac{P^n}{S P} ad \\frac{L o}{S L}, vel (si SP dicatur x & S L, r) ut \\frac{x}{x} ad \\frac{r}{r}, hoc est, (ob x=\\frac{r^{n+1}}{a^n}) ut \\frac{n+1}{r} r ad \\frac{r}{r}, sive ut n+1-x ad r. Hinc (vid. Fig. II.) B S P est ad B S L ut n+1 ad 1; unde facilius absque Tangentium ope duci potest Curva B P. Si sumatur angulus B S P ad B S L in ratione n+1-1 ad 1, & in S P demittatur perpendicularis ex L, erit occuritus perpendiculari cum S P, in Curva B P prius Tangentium ope descripta.\n\n§ III. Olen-\n§ III. Ostendimus quo pacto ex una series Curvarum infinita deducitur; quo vero pacto singularum longitudines ex illius & unius alterius longitudinibus datis innotescant pergo demonstrare. Cum angulus S P p = S L l,\n\n\\[ \\text{FIG. II} \\]\n\natque L S l sit ad P S p ut r ad n + 1, erit L l ad P p ut S L ad n + 1 S P, sive (ob S L : S P :: L l : l o) ut L l ad n + 1 l o, ac proinde P p = n + 1 l o : sed l o = l n - n n = l n - L N + N n ; ergo P p = n + 1 x l n - L N + N n.\n\nSed l n - L N est momentum rectæ L N normalis in S L, P p momentum Curvæ B P, & N n momentum Curvæ B N : Cumque B P, B N, B L simul evanescant in B, e-runt in ratione momentorum, adeoque B P = n + 1 x B N + vel - L N. Unde Curva B P est ad summam vel differentiam Curvæ penultimæ in Serie ejusque Tangentis ab intermedia interceptæ, ut n + 1 ad 1 ; sive, si m sit Index æquationis Curvæ B P (quoniam \\( m = \\frac{n}{n+1} \\)) ut 1 ad 1 - m.\n\nHinc i mo in serie Curvarum infinitâ supra descriptâ, si dentur Longitudines duarum proximarum, dabuntur longitudines omnium; quippe mensura cujuvis pendet à mensura penultimæ semper in serie, & proinde unum par\npar omnibus mensurandis sufficiet: Si una Curva sit rectis commensurabilis vel incommensurabilis, erit integræ seriei pars dimidia rectis commensurabilis vel incommensurabilis. Hinc 2°. Licet Curvae B P & B N essent rectis incommensurabiles, differentia tamen Curvae B P ab \\( n+1 \\) Curvae B N esset æqualis assignabili rectae. 3°. Si Curva transit per S, recta L N evanescente in S, erit \\( BP = \\frac{BNS}{1-m} \\).\n\n§ IV. Curvarum de quibus egimus, quarum nimirum \\( s : y :: a^n : r^n \\), maxime insignis est Circulus, existente S in circumferentia, cujus æquatio est \\( s : y :: a : r \\), ut ex similitudine triangulorum L o l, B L S (Fig. III.)\n\nmanifestum est, adeoque \\( n=1 \\); & proinde \\( m=\\frac{n}{n+1}=\\frac{1}{2} \\)\n\n& æquatio Curvae B P erit \\( s : y :: a^{\\frac{1}{2}} : r^{\\frac{1}{2}} \\), quæ ipsa est æquatio Epicycloidis revolutione Circuli super basim sibi æqualem revolventis descripti, ad punctum ubi punctum describens tangit basim, quæ Dno Paschal dicitur la Li-\n\nL 11111 maçon\nmason de M. Roberval, quamque M. De la Hire considerat ut Conchoide Basis Circularis, in Actis Academiae Parisiensis Anni 1708. Perpendicularares omnes LN, l n concurrunt in puncto B, adeoque BN = ∞: unde BP = \\(\\frac{BN + NL}{1 - m} = 2BL\\): Hinc Curva tota BPS = 2BS, ac longitudo Epicycloidis semper dupla est chordae arcus in circulo correspondentis. 2do. Ex Epicycloide describatur Curva BΠS, eadem ratione qua Epicycloidem ex Circulo descriptimus: In hoc casu \\(n = \\frac{1}{2}\\), & \\(m = \\frac{n}{n+1} = \\frac{1}{2+1} = \\frac{1}{3}\\), ac proinde æquatio Curvae BΠS crit \\(i : y :: a^2 : r^2\\). Longitudo Curvae erit \\(\\frac{BL + LP}{1 - m} = \\frac{2}{3}BL + LP = \\frac{2}{3}BL + LG\\), & proinde BΠ est sesquiplus summae Arcus circularis ejusque Sinus recti. Quod si sumatur CD = BD, & radio SD centro S describatur Circulus occurrens rectae SP in H, & sit HK perpendicularis in BS; quoniam DH = \\(\\frac{2}{3}BL\\), erit BΠ = DH + HK. Hinc arcus BΠ neque sunt rectis neque arcibus circularibus commensurabiles, differentia tamen arcuum BΠ & DH est recta HK. In puncto S evanescit LG. adeoque BΠS = \\(\\frac{2}{3}BLS\\), unde tota Curva est sescupla semicirculi. Nulla vero pars hujus Curvae assignabilis commensurari paret toti, nec integra Curva in data quavis ratione secabilis est, ita ut portiones rationem assignabilem habeant ad se mutuo aut ad totam. Si hæc curva in data aliqua ratione Geometricè secari posset, constaret Quadratura Circuli, nam si \\(e.gr.\\) esset BΠ ad BΠS ut 1 ad \\(m\\), & BL ad BLS ut 1 ad \\(n\\), esset BΠ = \\(\\frac{BΠS}{m} = \\frac{2}{3}BLS = \\frac{3nBL}{2m} = \\frac{2}{3}BL + LG\\), unde esset BL = \\(\\frac{mLG}{n-m}\\) & BLS = \\(\\frac{nm}{n-m}LG\\). 3rd Ex BΠS, confiruatur explicata methodo Curva BR, & quoniam \\(n = \\frac{1}{2}\\)\n\\( n = \\frac{1}{2} \\) erit \\( m = \\frac{n}{n+1} = \\frac{1}{4} \\), atque æquatio Curvae BR erit\n\n\\[\n\\dot{s} : \\dot{y} :: a^{\\frac{1}{2}} : r^{\\frac{1}{2}}.\n\\]\n\nHinc longitudo Curvae fiet \\( \\frac{1}{2} \\sqrt{BL} + \\text{PIT} \\), totalis vero Longitudo Curvae BRS \\( = \\frac{8}{3} \\) diametri SB.\n\nSi harum Curvarum Constructiones continuentur, produbit hujusmodi series Æquationum quæ facile producitur ad libitum.\n\nÆquatio Circuli\n\n1. \\( \\dot{s} : \\dot{y} :: a : r \\)\n\nEpicycloidis\n\n2. \\( \\dot{s} : \\dot{y} :: a^{\\frac{1}{2}} : r^{\\frac{1}{2}} \\)\n\nSecundi\n\n3. \\( \\dot{s} : \\dot{y} :: a^{\\frac{1}{3}} : r^{\\frac{1}{3}} \\)\n\nTertii\n\n4. \\( \\dot{s} : \\dot{y} :: a^{\\frac{1}{4}} : r^{\\frac{1}{4}} \\)\n\nCujusvis\n\n\\( n. \\dot{s} : \\dot{y} :: a^{\\frac{1}{n}} : r^{\\frac{1}{n}} \\), &c.\n\nObservare licet in genere, omnes quarum Indicum denominatores sunt Numeri pares, perfectæ rectificationis esse capaces; cumque quævis sit ad penultimam ut 1 ad 1—m, perpendenti manifestum erit Curvae cujusvis longitudinem fore \\( \\frac{1}{1-m} \\times \\frac{1-2m}{1-3m} \\times \\frac{1-4m}{1-5m} \\times \\frac{1-6m}{1-7m}, &c. \\times SB \\) continuando seriem donec ad nihilum reducatur Fractio.\n\nQuod si Indicis denominator sit Numerus impar, Curvae erunt perfectæ rectificationis incapaces, & earum arcus quicunque erunt sibi mutuo, ipsis totis, rectis quibusvis & arcubus Circularibus incommensurabiles: exprimi vero possunt omnes arcubus circularibus & rectis: At Curvae cujusvis totalis Longitudo erit ad Semicirculum ut\n\n\\[\n\\frac{1}{1-m} \\times \\frac{1-2m}{1-3m} \\times \\frac{1-4m}{1-5m}, &c. \\text{ ad unitatem}.\n\\]\n\nDenique si Areola à Corpore in harum quavis revolvente sumatur constans, hoc est si \\( r = y = 1 \\), subtensa anguli contactus, cui semper (ob datum datâ areâ tempus) proportionalis est Vis Centripeta tendens ad S, erit reciproce ut potestas distantiae cujus Index est \\( 2m + 3 \\); atque hoc est non contemendum.\ntemendum harum Curvarum privilegium, quod in iis omnibus Vis centripeta tendens ad S sit ut aliqua reciproca distantiae dignitas, quae simplicissima est, & utilissima in Naturae indagine, Virium Centripetarum lex.\n\n§ V. Curvarum quarum \\( s : y :: a^n : r^n \\) proxime consideranda venit (quae Curva quidem improprie dicitur) ipsa Linea recta, existente S extra rectam. In hac linea, ob similia triangula PpN, PBS erit (si BS = a & SP = r) \\( s : y :: r : a \\). Ex linea recta methodo directâ nihil nisi punctum B construi potest, Methodo vero inversâ, perpendicularium nimirum PL, pl concursu, construi potest Curva, cujus Index (si m sit Index Curvae BP) æqualis erit \\( \\frac{m}{1-m} \\); nam si Index Curvae BL sit \\( n \\), erit \\( m = \\frac{n}{n+1} \\), ac proinde \\( n = \\frac{m}{1-m} \\). Unde in hoc casu, cum \\( m = -1 \\) erit \\( n = \\frac{-1}{2} \\), & æquatio Curvae BL erit \\( s : y :: r^2 : a^2 \\), quae æquatio est Parabola ad Focum. Ex hac construe aliam, constituendo angulum LS N = LSB & erigendo LN normalem in SL occurrentem ipsi SN in N. Quoniam vero \\( m = \\frac{-1}{2} \\) erit \\( n = \\frac{-1}{3} \\), & æquatio Curvae \\( s : y :: r^3 : a^3 \\) & BP = \\( \\frac{BN - LN}{1-m} = \\frac{1}{2} BN - LN \\), ergo BN =\nBN = BP + LN; proinde hæc Curva est rectificabilis. Si Series continuetur, prodibunt ut prius æquationes in hoc ordine.\n\nÆquatio Rectæ \\( s : y :: r : a \\)\n\nParabolæ \\( s : y :: r^2 : a^2 \\)\n\nSecundæ \\( s : y :: r^3 : a^3 \\)\n\nTertiæ \\( s : y :: r^4 : a^4 \\)\n\nCujuvis \\( s : y :: r^n : a^n \\)\n\nIn hac Serie primæ sunt Recta & Parabola, unde patet dimidiam hujus similiter ac prioris Seriei esse rectis mensurabilem: alia vero dimidia pars in rectis & arcubus Parabolicis exhiberi potest. In his omnibus Vis centripeta ad S est reciproce ut potentia distantiæ cujus Index 3 — 2m, ac proinde semper inter duplicatam & triplicatam rationem distantiæ reciproce.\n\n§ VI. Æquatio Hyperbolæ æquilateræ ad centrum est \\( s : y :: r^2 : a^2 \\), ex qua deducitur methodo directa Series hujusmodi,\n\n1. \\( s : y :: r^2 : a^2 \\)\n2. \\( s : y :: a^2 : r^2 \\)\n3. \\( s : y :: a^3 : r^3 \\)\n4. \\( s : y :: a^5 : r^5 \\)\n5. \\( s : y :: a^{2n-1} : r^{2n-1} \\)\n\nEx his Curvæ, quarum Indicum denominatores sunt in progression—1, 3, 7, 11, &c. exhiberi possunt in rectis & arcubus Hyperbolicis; reliquæ verò in rectis & arcubus Curvæ cujus æquatio ad axem SB (si x sit abscissa, y verò Ordinata) est \\( x^2 + y^2 = a^2x^2 - a^2y^2 \\), quæque construitur (vid. Fig. III.) bifecando angulum B'SL & sumendo...\nfumendo SN mediam proportionalem inter SB & SL.\n\nCurvae quae ex Hyperbola methodo inversa construi possunt progresiuntur in hac Serie,\n\nHyperbolae 1. \\( s : y :: r^2 : a^2 \\)\n\n2. \\( s : y :: r^3 : a^3 \\)\n\n3. \\( s : y :: r^5 : a^5 \\), &c.\n\nUbi Curvae quarum Indicum denominatores sunt in progressionem 1, 5, 9, 13, &c. exprimi possunt in rectis & arcubus Hyperbolicis; reliquae vero in rectis & arcubus Curvae modo explicatae.\n\nSi aliae Curvae desiderentur quae alias exhiberent Series, id facillime fieri potest ope vel Circuli vel Rectae: quippe ex earum aliqua omnes, in quibus \\( s : y :: a^n : r^n \\), construi possunt, fumendo, si ope Circuli Problema sit solvendum, BSR ad BSL ut 1 ad n, & SN in ipsa SR = \\( a^n \\times S L^{n-1} \\); quippe Curvae per omnia puncta N ductae æquatio erit \\( s : y :: a^n : r^n \\). Similiter ope Rectae construi possunt quarum æquatio est \\( s : y :: r^n : a^n \\).\n\nDuas exhibuimus Series infinitas Curvarum rectis commensurabilium; aliam arcubus circularibus, aliam Parabolicis, aliam Hyperbolicis una cum rectis mensurabiles demonstravimus: ex vero ad rectarum menturam arte sola infinita reduci posse videntur, sicut æquatione sola infinita in rectis exprimuntur.\n\nHac Cl. Author brevitati studens panis tradit, illum autem plenius rem pro dignitate ejus illustraturum speramus.\n\nIV. Remarks",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103327.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16512,
+    "total-output-tokens": 5599,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1526,
+        2
+      ],
+      [
+        1526,
+        3062,
+        3
+      ],
+      [
+        3062,
+        4813,
+        4
+      ],
+      [
+        4813,
+        5942,
+        5
+      ],
+      [
+        5942,
+        6946,
+        6
+      ],
+      [
+        6946,
+        8708,
+        7
+      ],
+      [
+        8708,
+        10617,
+        8
+      ],
+      [
+        10617,
+        11844,
+        9
+      ],
+      [
+        11844,
+        13124,
+        10
+      ],
+      [
+        13124,
+        14455,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      true,
+      true,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103327",
+    "title": "Tractatus de Curvarum Constructione & Mensura; ubi Plurimae Series Curvarum Infinitae vel Rectis Mensurantur vel ad Simpliciores Curvas Reducuntur. Autore Colin Maclaurin, in Collegios Novo Abredonensi Matheseos Professore",
+    "authors": "Colin Maclaurin",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/103327"
+  }
+}

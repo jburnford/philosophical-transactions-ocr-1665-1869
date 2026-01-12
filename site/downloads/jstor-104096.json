@@ -1,0 +1,69 @@
+{
+  "id": "8187eb12050ac92a835b23ec68bb7cbeb9e257f5",
+  "text": "VI. An Extract of a Letter from Oliver St. John, Esq; F. R. S. dated from Florence, November the 30th, 1731, N. S. Communicated by R. Graham, F. R. S.\n\nWHEN I consider how many are charged overlaid in the Bills of Mortality, I wonder that the Arcutio's, universally used here, are not used in England. I here send you the Design of one, drawn in Perspective, with the Dimensions, which are larger than usual.\n\nThe Arcuccio. Vide Fig. 3.\n\na, The Place where the Child lies.\nb, The Head-board.\nc, The Hollows for the Nurses Breasts.\nd, A Bar of Wood to lean on when she suckles the Child.\ne, A small Iron Arch to support the said Bar.\nThe Length 3 Feet, 2 Inches and a half.\n\nEvery Nurse in Florence is obliged to lay the Child in it, under Pain of Excommunication. The Arcutio, with the Child in it, may be safely laid entirely under the Bed-cloaths in the Winter, without Danger of smothering.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104096.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5026,
+    "total-output-tokens": 338,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        893,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104096",
+    "title": "An Extract of a Letter from Oliver St. John, Esq; F. R. S. Dated from Florence, November the 3 0th, 1731, N. S. Communicated by R. Graham, F. R. S.",
+    "authors": "Oliver St. John, R. Graham",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104096"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "645f7729dfcb3a25169508eadab77aa6aff573d0",
+  "text": "XII. A Letter from Dr. Donald Monro, F. R. S. to Mathew Maty, M. D. Sec. R. S. inclosing one from Mr. Farley, of Antigua, on the good Effects of the Quass Root in some Fevers.\n\nSIR,\n\nRead March 17, 1768.\n\nAs we have had no further accounts of the Quass Root, since Dr. Linnæus published the sixth volume of his *Amoenitates Academicae* in the year 1764, I have, according to your desire, sent you the copy of a letter on the good effects of this root, which I hope will be acceptable to the Society, as it may excite Physicians to make trials of this medicine which seems to promise to be of so much use. The original letter was given me by the gentleman to whom it is addressed, while I attended him last year when he was here in England for the benefit of his health. I am,\n\nSIR,\n\nYour most obedient humble servant,\n\nJermyn-Street, March 8, 1768.\n\nD. Monro.\n\n* Dr. Carol. Linnæus gives a particular description and figure of the Quass tree, which grows in the neighbourhood of Surinam, in South America, and of the Root having been administered at Surinam, with great success, in malignant, remitting and intermitting fevers: and he tells us that its virtues were first discovered by a slave of the name of Quass, from whom the tree got its name.*\nCopy of a Letter from Mr. James Farley, Practitioner in Physick in the Island of Antigua, to his Partner, Mr. Arch. Gloster, in London; dated Antigua, July 26, 1767.\n\nSIR,\n\nMR. T—r has been extremely ill since his arrival with a fever, which lasted for many hours; and, upon its going off, he could not retain the bark in any shape whatever. Many things were tried to check the vomiting, and enable him to keep down some bark, but to no purpose. At last I tried the Quassli Root, an account of which I read in one of the magazines for this year; it sat extremely well on his stomach; he had no vomiting after the first dose, and recovered very speedily.\n\nI have lately tried it in three or four cases, where there has been a tendency to putrefaction and the bark would not stay on the stomach; a dram of this root, has effectually answered every purpose that the bark would. It has this advantage over the bark, that it does not heat the patient.\n\nI have given it in fevers, joined with the Radix Serpentariae Virginianae, with success. I had a pound or two from Esquebo, and have sent you a little of it.\n\nDr. Warner has sent Dr. Jackson a piece of it; he saw the good effects of this medicine, in a patient, Captain B—n, who sails for London to-day. He attended him with me. I could not get the bark to fit\n\nVol. LVIII. M\non his stomach, for he had a perpetual vomiting, and could not keep down any nourishment whatever. I prepared a decoction of a dram and a half of the Quaffi Root, and a dram of the Rad. Serpent. Virgin. When it was ready, I sent for Dr. Warner, that he might see the patient before I administered it; he complained of some pain on touching the pit of his stomach, had a very sluggish low pulse, a great pain over his eyes and in his eye balls, and vomitings. He took the decoction, which surprizingly put a stop to his vomiting; he had no return after the first dose, and kept down every thing. We indeed gave him some Camphor and Sal Succini, on account of the sluggishness of the pulse, but I have tried it alone in a decoction, with infinite advantage.\n\nSigned, J. Farley.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105760.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 980,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1250,
+        2
+      ],
+      [
+        1250,
+        2574,
+        3
+      ],
+      [
+        2574,
+        3349,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105760",
+    "title": "A Letter from Dr. Donald Monro, F. R. S. to Mathew Maty, M. D. Sec. R. S. Inclosing One from Mr. Farley, of Antigua, on the Good Effects of the Quassi Root in Some Fevers",
+    "authors": "James Farley, Donald Monro",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105760"
+  }
+}

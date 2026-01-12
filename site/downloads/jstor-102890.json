@@ -1,0 +1,59 @@
+{
+  "id": "ddb46a21adb13748d30e4dc2d4403684e8bf6448",
+  "text": "BOOKS Imported and Sold by\nSam. Smith and Benj. Walford,\nPrinters to the Royal Society, at the\nPrinces Arms in St Paul's Church-\nyard.\n\nBern. Ramazzini in Patav. Archi Lyceo Prof. Publ. de\nMorbis Artificum Diatriba, accedunt Lucæ Ant. Portij in\nHippocratis librum de Veteri Medicina paraphrasis, nec\nnon ejusdem dissertatio Logica, in Ottavo Ultrajecti 1703.\n\nGeo. Baglivi Med. Rom &c. Specimen quatuor, Libro-\nrum de Fibra Motrice & Morbosa, in quibus de solidorum\nStructura, Vi, Elatere, Æquilibrio, Usu, Potestate, &\nMorbis disseritur, nec non de Duræ Matris Constructione,\n& in singula quæque solida Oscillatione systaltica, & obiter\nde Experimentis, ac Morbis salivæ, Bilis & Sanguinis de\nStatice Aëris, & Liquidorum per Observationes barometri-\ncas, & hydrostaticas ad usum Respirationis explicata, de\nCirculatione Sanguinis in Testudine, ejusdem Cordis\nAnatome, in Ottavo Ultrajecti 1703.\n\n— Ejusdem praxis Medica in Ottavo, ibid.\n\nCasp. Barthol mi Specimen Historiae Anatomice partium\nCorporis Humani ad Recentiorum mentem accommodatae,\nNovisq; Observationibus illustratae, cum figuris Auct.\n1701.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102890.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 430,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1105,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102890",
+    "title": "Books Imported and Sold by Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St Paul's Churchyard",
+    "authors": "Benj. Walford, Sam. Smith",
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102890"
+  }
+}

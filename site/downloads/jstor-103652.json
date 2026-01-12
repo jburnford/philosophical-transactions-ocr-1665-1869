@@ -1,0 +1,79 @@
+{
+  "id": "900ed7fdfb8761fbd7fa0b0e762db0257cab3ad3",
+  "text": "I. A Letter from Mr. David Martineau Surgeon in Norwich, to Sir Hans Sloane, Bart. Coll. Med. Lond. Pr. S. R. V. Pr. Concerning Stones voided per Anum.\n\nNorwich, Oct. 5th 1723.\n\nThese Stones (Vid. Fig. 1, 2, 3, 4, 5.) were voided by a poor Woman, per Anum, on the 26, 27, and 28th of March last past, who was then pregnant about the 11, or 12th Week, according to Computation. I was call'd in the Night to this poor Woman on the 23d, who in Appearance was in the Extremity of a Convulsion Fit, attended with violent Vomitings, which when over, she complain'd of great Pain in her Back, from her Reins downward to the Anus, upon which I blooded her, order'd some Anti-Emetics, and left her: She continued with much Pain the whole Day; on the 24th, in the Night, her Fits return'd again with double Force, her Pains also increasing like unto Labour-Pains, put me upon further Inquiry, but nothing appear'd more than ordinary; the Extremity of Pain drove me to the Use of Glysters, which was attempted, but none could be thrown up, although repeated by one and another of the most experienced Nurses, upon which I gave her a gentle Draught, which she observed increas'd her Pain with a strong Tenesmus, that continued near three Hours before the largest Stone appear'd, which stopp'd at the upper Part A, D, Fig. 1. but was quickly remov'd by pressing the lower Protuberance C, upon which, with a plentiful Discharge, she had Ease,\nEase, slept some Hours, waking with a Desire to stool, and voided with it the 2d and 3d; and the next Day, at four Hours Distance, the other two. She recovered perfectly, and was deliver'd of a very fine living Girl, on the 24th of August past. Upon Inquiry, it seems, she had been frequently troubled, for fourteen Years past, with Pains in her Side and Stomach without Vomitings; which is all she remembers.\n\nThe Largeness of the Stones, their Seat and Substance, is what to me seems worthy Speculation; their being all alike in Colour and Weight, according to their Dimensions, is the Reason I broke but one.\n\n| Wt. of the Stones | Their Dimensions in Circumference |\n|------------------|----------------------------------|\n| oz. dwts. gr.    | Inch.                            |\n| Fig. 1.          | A. B. C. D.                      |\n| 2 16 12         | 8 A.D. the top of the Stone oval. |\n|                 | 6 ½                              |\n| Fig. 2.          | E. F. G. H.                      |\n| 8 12            | 5 ½                              |\n|                 | E.G. 4 ½                          |\n| Fig. 3.          | I. K. L. M.                      |\n| 7 3             | 5                                 |\n|                 | I. L. 3 ½                         |\n| Fig. 4.          | N.O.P.Q.                         |\n| 7 12            | 4 ½                              |\n|                 | N.P. 3 ½                          |\n| Fig. 5.          | R.S.T.U.                         |\n| 5 13            | 4 ½                              |\n|                 | R.T. 4 ½                          |\n\n1. A Shell taken of the Stone at the End 2. The Stone and Shell being like a Chefnut soft and like Wool, cutting into the Stone at 3, I found it hard.\n\nH. Epistolæ",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103652.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6226,
+    "total-output-tokens": 970,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1429,
+        3
+      ],
+      [
+        1429,
+        3212,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103652",
+    "title": "A Letter from Mr. David Martineau Surgeon in Norwich, to Sir Hans Sloane, Bart. Coll. Med. Lond. Pr. S. R. V. Pr. Concerning Stones Voided per Anum",
+    "authors": "David Martineau",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103652"
+  }
+}

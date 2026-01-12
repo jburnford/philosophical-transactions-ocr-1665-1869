@@ -1,0 +1,59 @@
+{
+  "id": "fd191b48f1a70a8e764e3a784003dbb2f35595fd",
+  "text": "INDEX.\n\nWill hath the Power of rendering the Sensations of the Nerves more acute, p. 312.\nWilmer's (Dr. John) Catalogue of the Fifty Plants from Chelsea Garden, for the Year 1751, p. 396.\nWinkler's (Professor) Experiments relating to Odours passing thro' electrified Glasses and Tubes, p. 231.\nWoman, the Bones of a Faetus extracted from one, p. 92.\n\nFINIS.\n\nERRATA.\n\nPage 43, Note l. 3, for June 4, read May 28. Page 64, l. 4, for Tab. Fig. read Tab. I. Fig. P. 421, l. 34. for will have power, read will have no power. P. 422, l. 2. after 1000 times, add, and frequently 2000. Ibid. l. 5. dele same. Ibid. l. 14. for been at it, read been done at it. Ibid. l. 16. for vapours read moisture. P. 424. l. 15. for with several joints, read, and several joints of the pump. Ibid. l. 25. after cock make a comma, and blot out that after valve in the next line. P. 415, l. 4. for use read rise. P. 496, l. 10. dele new method. Ibid. l. 28. for figure annexed read Fig. 6. Plate xviii.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105111.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 423,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        979,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105111",
+    "title": "Errata",
+    "authors": null,
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105111"
+  }
+}

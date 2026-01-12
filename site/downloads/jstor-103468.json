@@ -1,0 +1,59 @@
+{
+  "id": "5c9af9399de709bffddbbac756e7dca815b7df45",
+  "text": "XII. Two newly discover'd Arteries in Women, going to the Ovaria. By Mr Ranby, Surgeon to his Majesty's Household, F. R. S.\n\nSometime ago I presented the Royal Society with a Description of two * Arteries, which arising from the Aorta, and sending Branches to the Glandula Renalis, then descend to the Testicles. And I have since found the same Arteries in Women, descending in the same common Capsula with the Spermatick Artery and Vein, to the Ovaria. These Arteries very probably are what the late Excellent Anatomist, Valsalva, took for excretory Ducts of the Glandulae Renales, the Disposition and Progress of these being very much alike to what has been ascrib'd to those supposed Ducts.\n\n* v. Phil. Trans. No. 387.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103468.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 263,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        729,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103468",
+    "title": "Two Newly Discover'd Arteries in Women, Going to the Ovaria. By Mr Ranby, Surgeon to His Majesty's Houshold, F. R. S.",
+    "authors": "Mr Ranby",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103468"
+  }
+}

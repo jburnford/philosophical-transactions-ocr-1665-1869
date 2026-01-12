@@ -1,0 +1,99 @@
+{
+  "id": "773fd1fa2a9752386578478e862e4c4ee30f8f43",
+  "text": "III. A Letter from Mr. Jac. Theod. Klein, Secret. Dan. &c. F. R. S. to Sir Hans Sloane Bart. Pr. R. S. &c. serving to accompany the Pictures of a very extraordinary fossile Skull of an Ox with the Cores of the Horns; of the Plica Polonica mentioned in Transact. No 417; and of a very large Tumor of the Eye. Translated from the Latin by T. S. M. D.\n\nSIR,\n\nA Friend from the City of Dirschaw has lately placed in my Collection part of the Skull of an Ox with the Cores of the Horns, which in all Probability must have been terrible. It was dug up near the said City, which is three Miles distant from hence. I beg leave to send you some Draughts thereof. Fig. I, represents the outside to the Orbits of the Eyes. Fig. II, the Basis of the Skull, and Fig. III, the Occiput. The Cores of the Horns contain deep longitudinal Furrows; they are not entire at the Extremities, and yet are distant from one another.\n\nFig. I. a b. 3 Feet 2 \\(\\frac{1}{2}\\) Inches.\nc d. 1 Foot 1 \\(\\frac{1}{3}\\) Inch.\ne f. 1 Foot 4 Inches.\ng h. 1 Foot 1 \\(\\frac{3}{4}\\) Inch.\n\nK.\nK. The Root of the Horns 1 Foot 6 Inches in Circumference.\n\nI m. The Cores 11 Inches in a strait Line.\n\nI dare not determine to what kind of Bulls this Fossil is to be ascribed. I only conjecture it may belong to the *Taurolephantes*, of which you have made mention, in your learned Dissertation, of a Pair of very extraordinary large Horns, published in Vol. 34 of *Philosoph. Transact.* No 397. For as to the *Zubrones* which Gejner on the *Urus*, pag. 144, mentions from *Munsterus*, there is no sufficient Proof that the Animal in question was of that Kind.\n\nTo this I make bold to add two other Draughts: The one is that of a stupendous *Plica Polonica*, which Dr. Floercke, Physician to the Princes of Radzivil, got drawn. The *Plica* itself was sent to Dresden, where I saw it. It is remarkable, that the Woman affected with this *Plica*, who was a Subject of the Princes, and liv'd in the District of Novogrod, during 52 Years that she laboured under it, never changed her Resting-Place but twice a Year, viz. in Spring and Winter. Upon the Approach of Winter she could endure Cold so very well, that she shunned all Sort of Heat, even that of a lighted Candle. She never used any strong Liquor, but lived on very bad Bread, raw Herbs, and Water, to seventy Years of Age. In the Spring she used to be carried to some Place where the Heat could not easily penetrate. She at length died, near two Years ago. [Vid. *Transact.* No 417.]\nThe other Draught is of a prodigious Swelling of the Eye of a Subject of the aforesaid Princess. This Swelling was occasioned by Hail; and it daily encreases and grows hard, except at the Place marked by the Letter \\(a\\), Fig. 5. This Circumstance is very singular, that the Optic Nerve and the Tunicles have stretched so much, that the Eye quitted its Socket, and fell down to the Beard, Letter \\(b\\). The unhappy Man is still living, and can move this Eye, which weeps, but, as is no Wonder, cannot see with it. The Tumour is not painful, but it is very troublesome to him about his Nose. If these few Curiosities be acceptable to such inquisitive Philosophers, as the Gentlemen of the Royal Society are, I have my Wish. I am, &c.\n\nDantzick, July 4, 1730.\n\nIV. An Abstract by James Douglas, M.D. Med. Regin. & F.R.S. of a Book, entituled, A short Account of Mortifications, and of the Surprising Effect of the Bark, in putting a Stop to their Progress, &c. By John Douglas, Surgeon, F.R.S. London, Printed for John Nurse, at the Lamb without Temple-Bar. 1732.\n\nThis short Account of Mortifications, &c. which contains Forty-eight Pages in a large Octavo, is dedicated to Ambrose Dickins and LII Glau-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104121.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 10006,
+    "total-output-tokens": 1224,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1053,
+        4
+      ],
+      [
+        1053,
+        2494,
+        5
+      ],
+      [
+        2494,
+        3696,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104121",
+    "title": "A Letter from Mr. Jac. Theod. Klein, Secret. Dan. & F. R. S. to Sir Hans Sloane Bart. Pr. R. S. &c. Serving to Accompany the Pictures of a Very Extraordinary Fossile Skull of an Ox with the Cores of the Horns; Of the Plica Polonica Mentioned in Transact. No 417; And of a Very Large Tumor of the Eye. Translated from the Latin by T. S. M. D.",
+    "authors": "Jac. Theod. Klein, T. S.",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/104121"
+  }
+}

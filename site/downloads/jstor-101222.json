@@ -1,0 +1,59 @@
+{
+  "id": "82c60ad4787638c1dd1e34d6bf6d186ed7e7ae6c",
+  "text": "4. The same Malpighi thought he should have met with the same thing in Terrestrial Animals; but he found, that Fishes alone have such a structure of the Optique Nerve: For that of an Ox, Fg, and other such Animals, is nothing but a heap of many small Fibres of the same substance with the Brain, wrapped about with the Dura Mater, and accompanied with many little vessels with blood. Hence he draws the decision of that great question among Anatomists; Whether the Optique Nerve be hollow or not? For, saith he, it cannot be otherwise, but there must be many cavities in this Nerve; forasmuch as the small filaments, of which it is composed, cannot be so closely joined, that there should not be some void space betwixt them.\n\n5. Concerning the Tongue, the same Author hath discovered in it many little Eminences, which he calls Papillary, and believes to be the principal Organ of Taste.* But here is not to be omitted the Observation of Fracassati, importing, that as the Tongue hath towards its point many Eminences, by the means whereof it goes, as it were, to meet objects of Taste; so on the contrary, it hath many cavities towards its root, wherein it receives them. All which cavities terminate in nerves, and seem to serve for Funnels to convey the aliment into them. Which maketh the Author think it very probable, that the finest part of the aliment passeth immediately from the Tongue into the Nerves, whence it comes to pass, that Wine, being only taken into the mouth, restoreth vigour presently.\n\nAn Experiment of Signior Fracassati upon Blood grown cold.\n\nWhen any blood is become cold in a dish, that part which is beneath the superficies appears much blacker, than that on the top; and 'tis vulgarly said, that this black part of the blood is Melancholy blood, and men are wont to make use of this example to shew that the Melancholy humor as 'tis called, enters with the others into the composition of the blood. But Signior Fracassati maintains, that this blackish colour comes from hence, that the blood, which is underneath, is not expos'd to the Air, and not from a mixture of Melancholy: to prove which he assures, that upon its being expos'd to the Air it changes colour, and becomes of a florid red.\n\nAn Experiment as easy to try, as 'tis curious.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101222.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 596,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2273,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101222",
+    "title": "An Experiment of Signior Fracassati upon Bloud Grown Cold",
+    "authors": "Signior Fracassati",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101222"
+  }
+}

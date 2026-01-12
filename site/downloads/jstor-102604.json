@@ -1,0 +1,109 @@
+{
+  "id": "08c753f965a708bf17327ab41b1050d1426cdcda",
+  "text": "VIII. The Extract of a Letter from Mr. Petto, a Grave Divine, Concerning some Parelii seen at Sudbury in Suffolk, Decemb. 28th, 1698. Communicated by Dr. Beverley.\n\nOn August 28, 1698, being the Lord's-Day, about Eight a Clock in the Morning, some Persons saw the Appearance of Three Suns; 'tis said, then the Apparition was most full, or a little after. There is really but one true Sun, the Reflection of its Beams cause such Images, as if they were Suns: About half an Hour after Eight of the Clock, I myself saw this; There was in the East, a dark, dusky, watry Cloud in the Form above described; where these Lines are, and below it towards the middle, was the true Sun, shining with fierce and piercing Beams, that Persons could not look upon it; on each side were the Reflections with the true Sun in the middle, as you have it in Figure 1. Elsewhere much of the Firmament was of an Azure, Light, Blew Colour. The Circles which I saw, was not of Rainbow Colours, but white: There was also, higher in the Firmament, more over our Heads, and towards the South, at the same time, at a considerable distance from the other, the form of a half Moon; but I think it was more than twice the bigness of a half Moon, with the Horns turned upward, and within of a fiery red Colour, and more like\nlike a Rain-bow Colour: These all faded gradually; They continued in all, I suppose, two Hours: There were very many Spectators.\n\nThe Moon was then about Two Days old, and might well enough be seen (in the day time) in such a Posture as is described.\n\nLONDON: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-yard. 1699.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102604.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10976,
+    "total-output-tokens": 654,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        1292,
+        6
+      ],
+      [
+        1292,
+        1679,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102604",
+    "title": "The Extract of a Letter from Mr. Petto, a Grave Divine, Concerning Some Parelii Seen at Sudbury in Suffolk, Decemb. 28th, 1698. Communicated by Dr. Beverley",
+    "authors": "Mr. Petto, Dr. Beverley",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/102604"
+  }
+}

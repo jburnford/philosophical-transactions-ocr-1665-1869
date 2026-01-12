@@ -1,0 +1,69 @@
+{
+  "id": "7bb5831dd5b5d35c38abc5d55ac5682e9b683332",
+  "text": "III. An Account of Newton's Dial presented to the Royal Society by the Rev. Charles Turnor, in a letter addressed to the Marquis of Northampton, Pres. R.S., &c. By the Rev. Charles Turnor, F.R.S. Communicated by the President.\n\nReceived May 25, 1844,—Read June 13, 1844.\n\nMy Lord,\n\nYour Lordship having been pleased to express a wish to Captain Smyth that I should furnish a detailed account of the Newtonian Dial which I have had the honour of presenting to the Royal Society, I beg to submit to your Lordship the following particulars. The dial was taken down in the early part of the present year from the south wall of the Manor House at Woolsthorpe*, a hamlet to Colsterworth in the county of Lincoln, the birthplace of Newton.\n\nThe house is built of stone, and the dial, now in the possession of the Royal Society, was marked on a large stone in the south wall at the angle of the building, and about six feet from the ground, and which was reduced to its present dimensions for the convenience of carriage. The name of Newton, with the exception of the first two letters, which have been obliterated by the hand of time, will, on close inspection, appear to have been inscribed under the dial in rude and capital letters. There is also another dial marked on the wall, smaller than the former, and not in such good preservation. The above are the only dials about the house which I have been able to discover, nor can I find by inquiry on the spot that more ever existed, though some of Newton's biographers assert that there were several. An opinion has always prevailed that the dials now in being were executed by Newton's own hand when a boy, which appears probable from the well-known fact, that at a very early period of his life he discovered a genius for mechanical contrivances, evinced more particularly by the construction of a windmill of his own invention, and a clock to go by water applied to its machinery. Finding, however, this latter contrivance (however ingenious) to fail in keeping accurate time, it is not improbable, that with a view to secure that object, he formed with his own hands the two dials in question; and very probably the dial now remaining in the wall of the house, from its inferiority in point of construction to that now in the possession of the Royal Society, was his first attempt in dial-making. The gnomons of these dials have unfortunately disappeared many years, but as they are described in some of the printed\n\n* See Woodcut in the next page.\naccounts as clumsy performances, it may be concluded that they were not the work of a professed mechanic, but were probably formed and applied by Newton himself when he constructed the dials.\n\nI trust your Lordship will allow me to express the high satisfaction I feel in seeing this very interesting relic in the possession of that Society of which Newton was so distinguished an ornament, and over which he presided more than twenty years.\n\nI must beg your Lordship's permission to add, that for the gratification which I experience on this occasion, I am greatly indebted to my nephew, Christopher Turnor, Esq., of Stoke, Rochford, to whom the manor-house and landed property of Newton now belong, and who not only permitted, but kindly encouraged me to offer this valuable relic to that Society, which he, as well as myself, consider as its fittest and most appropriate depository.\n\nI have the honour to be, my Lord,\n\nYour Lordship's obedient humble Servant,\n\nSpa Buildings, Cheltenham,\nMay 24, 1844.\n\nCharles Turnor.\n\nMANOR-HOUSE, WOOLSTHORPE;\nTHE BIRTH-PLACE OF\nSIR ISAAC NEWTON, P.R.S.,\nSHOWING THE SOLAR DIALS WHICH HE MADE WHEN A BOY.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108265.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5072,
+    "total-output-tokens": 920,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2499,
+        2
+      ],
+      [
+        2499,
+        3642,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108265",
+    "title": "An Account of Newton's Dial Presented to the Royal Society by the Rev. Charles Turnor, in a Letter Addressed to the Marquis of Northampton, Pres. R.S., &c.",
+    "authors": "Charles Turnor",
+    "year": 1845,
+    "volume": "135",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/108265"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "bf1f9c2fa4108784028aa984c884708d9e8e1ddd",
+  "text": "II. Solutio Problematis à Dom'° G. G. Leibnitio,\nGeometris Anglis nuper proposti. Per Brook\nTaylor, LL. D. & R. S. Secr.\n\nCUM Dom. G. G. Leibnitius nuper defunctus, in\ncontroversiâ jampridem ortâ circa inventionem\nMethodi Fluxionum, (quam is Differentialem\nvocare maluit, sibique pertinaciter appropriari nisus\nest,) nihil omnino responsi dederit argumentis, qui-\nbus inclyti istius Inventi gloria Domno Neutono vendi-\ncatur; en tandem, hortante Domno Joh. Bernoulli, Pro-\nblema Geometris Anglis solvendum proposuit; quo sci-\nlicet vires corum in Methodo istâ experiretur; quasi\nProblematis istius Solutioni si cæteri istius Nationis de-\nprehendantur impares, rectè concludatur, nec ipsum\nNeutonum, qui, fatente eriam Leibnitio, ab hujusmodi\ncontemplationibus jam jure immunis esse debet, olim\nfuisset parem inventioni istius Methodi. Sive Problema\nsolvatur, sive insolutum maneat, nihil exinde conseque-\ntur quod Neutonum afficiat; nec istis certè Leibniti Fau-\ntoribus, qui Problematis solutionem etiamnum conti-\nnenter efflagitant, jus ullum est nos ad certamen ingenio-\nrum tantâ cum licentia provocandi; adeoque Problema\ncorum jure merito negligi posset. Verum ne aliquando\nexinde occasionem triumphandi arripiant, si hoc Pro-\nblema maneat ab Anglis omnino intactum, ipse, Geo-\nmetra longè non summi inter nostrates subsellii, inducor,\nut solutionem edam quamdem quam Problematis, nec\nusu, nec difficultate adeò insignis.\n\nProblema à Leibnitio primò propositum, ita fuit in-\ntellectum quasi nihil aliud requisitum fuisset, quam ut\nsecarentur ad angulos rectos Hyperbolaæ Conicæ iisdem\nCentro & Verticibus descriptæ. Verum cum illi nuncia-\n\nVvvvv\ntum fuerat hunc casum à quibusdam Anglis suisse illicò solutum, rescriptit, non solutionem casûs particularis, sed generalem requiri. Quo factum est ut solutiones istæ particulares non editæ fuerint; verùm in Transactio Philosophicâ N° 347 subinde prodìit Solutio maximè generalis. Sed nec illà contenti fuerunt Leibnitius & Fautores ejus, quin illam derisui habuêre, quasi qui illam excogitaverat non potuisse cam ad casum specialem applicare. Si nondum viderint quomodo ex illà æquationes sint deducendæ, id profectò illorum imperitia tribuendum erit. Paulò ante Leibnitii obitum prodìit tandem Problema sequens; quod quidem diversimodè solvi potest, premendo vestigia Solutionis generalis modò citatæ, sed quod in præsentia solvimus ut sequitur.\n\n**Problema.**\n\nSuper rectâ AG tanquam axe, ex puncto A educere infinitas Curvas, qualis est ABD, ejus naturæ, ut radii Osculi, in singulis punctis B ubique ducti, BO secentur ab axe AG in C, in data ratione, ut nempe sit BO ad BC ut i ad n.\n\nDeinde construende sunt Trajectoria EBF primas Curvas ABD normaliter secantes.\n\nSolutionis\nSolutionis Pars prima;\n\nNempe Inventio Curvarum secundarum ABD.\n\n1. Ducta ordinata BH ad axem AG normali, sint,\n   Abscissa AH = z, Ordinata HB = x, Curva\n   AB = v. Tum per Methodum Fluxionum directam e-\n   rit BC = \\frac{v}{z} x, & fluente uniformiter v, BO = \\frac{v}{z} x. Unde\n   per conditionem Problematis fit BO \\left(\\frac{v}{z} x\\right) : BC\n   \\left(\\frac{v}{z} x\\right) :: 1 : n; adeoque z x - n z x = 0.\n\n2. Collata hæc æquatione cum formulâ Fluxionum se-\n   cundâ, in calce Prop. 6. Methodi Incrementorum, inve-\n   nitur z x^{-n} = v_{\\alpha}^{-n}; existente \\alpha linea data, per cujus\n   valorem poteat Curva ABD accommodari conditioni a-\n   licui Problemati annexæ.\n\n3. Pro v scripto ipsius valore \\sqrt{x^2 + z^2}, migrat æqua-\n   tio z x^{-n} = v_{\\alpha}^{-n} in hanc z = \\frac{x^n}{\\sqrt{\\alpha^{2n} - x^{2n}}}. Unde datur\n   z ex datâ x, per quadraturam Curvae cujus abscissâ exi-\n   stente x est ordinata \\frac{x^n}{\\sqrt{\\alpha^{2n} - x^{2n}}}.\n\n4. Sint \\sigma & \\tau numeri integri, vel affirmativi vel ne-\n   gativi, tales ut sit Curvarum isto modo provenientium\n   simplicissima, ea cujus est Abscissa y, & Ordinata y = \\frac{1 - n + 2\\sigma n}{2n}\n   \\times \\frac{x - \\gamma}{x - \\gamma}; tum erit ea omnium Curvarum simplicissi-\n   ma, per quarum Quadraturam datur Abscissa z ex datâ\n   Ordinata x.\n\n5. Est Curva ABD Geometrica, quoties pro n su-\n   mitur reciprocum numeri cujusvis imparis.\n\nVVVVV 2 6. In\n6. In praedictis Curvam \\( ABD \\) consideravimus ut versus axem \\( AG \\) concavam, quo in casu maxima ordinata \\( x \\) æqualis est lineæ datæ \\( \\alpha \\), quam Parametrum Curvae commodè vocare licet. Et in hoc casu Curva æquu occurrat Axi. Unde fluente ipsius \\( \\frac{x^n}{\\sqrt{a^{2n} - x^n}} \\) debitè sumptâ, hoc est, ita ut simul evanescant \\( z \\) & \\( x \\), transibit Curva per punctum datum \\( A \\), sicut postulat Problema.\n\n7. Sed si quaeratur Curva \\( ABD \\), quæ sit versus axem convexa, ad eundem modum pervenietur ad æquationem \\( z = \\frac{\\alpha^n x}{\\sqrt{x^{2n} - \\alpha^{2n}}} \\); quæ etiam ex æquatione priori derivari potest mutando signum ipsius \\( n \\). Et in hoc casu est curva \\( ABD \\) Geometrica, quoties pro \\( n \\) sumitur reciprocum cujusvis numeri paris. In hoc verò casu Ordinata omnium minima \\( x \\) æqualis est Parametro \\( \\alpha \\); adeoque Curva nusquam occurrat Axi. Quare limitatur Problema ad casum priorem.\n\n8. Ex præmissis facile colligitur Curvas omnes \\( ABD \\) esse inter se similes, & circa punctum datum \\( A \\) simili-ter positas, lateribus earum homologis existentibus proportionalibus Parametricis \\( \\alpha \\).\n\nSolutionis Pars altera\n\nNempe Inventio Curvae secantis\n\n9. Ex § 2. fit \\( \\dot{v} : \\dot{z} :: \\alpha^n : x^n \\). Sed est \\( BC : BH :: \\dot{v} : \\dot{z} \\), Unde fit \\( BC : BH :: \\alpha^n : x^n \\). Ex conditione verò Problematis est \\( BC \\) tangens Curvae quæsitæ \\( EBF \\). Quare si jam sumantur \\( AH(z) \\) & \\( BH(x) \\) pro coordinatis Curvae \\( EBF \\), Curvâ ipsâ \\( EB \\) existente \\( r \\), erit, per Meth. Flux. direct. \\( r : -x :: (BC : BH :: ) \\alpha^n : x^n \\). Unde fit \\( \\frac{x^n}{\\alpha^n} = \\frac{\\dot{x}}{r} \\).\n10. In Curva $A B D$ singe æquationem $\\dot{z} = \\frac{\\dot{x} x^n}{\\sqrt{a^{2n} - x^{2n}}}$ transformari in æquationem signis radicalibus non affec-tam $\\dot{z} = A \\dot{x} x^n + B \\dot{x} x^{3n} + \\ldots$, &c. Tum regrediendo ad Fluentes fiet $z = \\frac{1}{n+1} A \\frac{x^{n+1}}{x^n} + \\frac{1}{3n+1} B \\frac{x^{3n+1}}{x^n} + \\ldots$, &c. coefficiente novâ introductâ nullâ, quoniam per condi-tionem Problematis debent simul nasci $z$ & $x$. Hinc vice $\\frac{x^n}{x}$ substituto ipsius valore $\\frac{x}{r}$ in § 9 invento, fit $z = \\frac{1}{n+1} A \\frac{x^{n+1}}{x^n} + \\frac{1}{3n+1} B \\frac{x^{3n+1}}{x^n} + \\ldots$, &c. quæ æquatio fluxionalis est primi gradûs ad Curvam quæsitam $E B F$. Revocatur autem ad formulam simpliciorem in terminis numero finitis; modo sequenti.\n\n11. Fluat uniformiter $r$, & existente $a$ quantitate non fluente, sit $\\frac{\\dot{x}}{r} = \\frac{s^n}{a^n}$. Substituto hoc valore ipsius $\\frac{\\dot{x}}{r}$ in æquatione novissimè inventâ, atque ductâ æquatione in $\\frac{s}{x}$, transformatur ea in hanc $\\frac{\\dot{z}}{x} = \\frac{1}{n+1} A \\frac{s^{n+1}}{a^n} + \\frac{1}{3n+1} B \\frac{s^{3n+1}}{a^n} + \\ldots$, &c. Unde capiendo Fluxiones fit $\\frac{\\dot{z} x + s^2 x - s z x}{x^2} = A \\frac{s^{n+1}}{a^n} + B \\frac{s^{3n+1}}{a^n} = \\frac{\\dot{s} s^n}{\\sqrt{a^{2n} - s^{2n}}}$. Quod ultimum constat ex Analogia Serierum $A \\dot{x} x^n + \\ldots$, & $A \\dot{s} s^n + \\ldots$. Hinc pro $s$ & $\\dot{s}$ substitutis eorum valoribus ex æquatione $\\frac{\\dot{x}}{r} = \\frac{s^n}{a^n}$ collectis, elicitur æquatio $n x^2 z z - x x z z - n x \\dot{x} z^2 - \\dot{x} \\dot{x} x^2 = 0$. Quæ ad Fluxiones primas revocatur modo sequenti.\n12. In termino ultimo \\( \\dot{x}x^2 \\) vice \\( \\dot{x}x \\) scripto ipsius valore \\( -zz \\), & æquatione deinde applicata ad \\( z \\), fit \\( \\dot{x}x^2z - xzx - nxxz + xzx = 0 \\). Quæ æquatio in \\( x^{n-1} \\) ducta est Fluxio æquationis \\( -x^{n-1}z + x^{1-n}z = a^{1-n}r \\); existentibus \\( a \\) & \\( r \\) non fluentibus. Est ergo \\( \\dot{x}x^{n-1}z + x^{1-n}z = a^{1-n}r \\), seu \\( zz - zx \\times a^{n-1} = xx^n \\), æquatio fluxionalis primi gradûs ad Curvam quæsitam \\( EBF \\).\n\n13. In istâ autem æquatione est \\( a \\) valor Ordinatæ \\( BH \\), quando incidit punctum \\( H \\) in punctum \\( A \\).\n\n14. Haud proclive est æquationem \\( zz - zx \\times a^{n-1} = rx^n \\), manente \\( n \\) in terminis generalibus, revocare ad æquationem Fluentes tantum involventem, vel ad quadraturam Curvarum. Sed puncta curvæ \\( EBF \\) possunt commodè inveniri per descriptionem Curvæ \\( ABD \\), & Curvæ cujusdam Geometricæ. Per Geometricam hic intelligo Curvam, cujus æquationem non ingrediuntur Fluxiones, nec fluentes in Índicibus dignitatum. Seceitur enim Curva \\( ABD \\), cujus Parameter sit \\( a \\), in \\( B \\), à Curvâ geometricâ cujus æquatio est \\( a \\alpha^n x^n - z a^n x^n = x a^n \\sqrt{a^2 - x^2} \\); atque erit punctum illud intersectionis \\( B \\) ad unam ex Trajectoriis quæsitis, nempe quæ transit per punctum \\( E \\), existente \\( AE = a \\) & normali ipsi \\( AG \\).\n\n15. Hinc si \\( ABD \\) sit Curva Geometrica, erit etiam \\( EBF \\) geometrica.\n\nScholium. Poteat & alio modo inveniri æquatio \\( zz - zx \\times a^{n-1} = rx^n \\). Nam certà quâdam Analytì quam nunc celare statuo, inveni æquationem \\( \\frac{a}{\\alpha} = \\frac{rr}{zz + xx} \\). Quæ comparatâ cum æquatione \\( \\frac{x^n}{\\alpha^n} = \\frac{-x}{r} \\) (§9) eliminando \\( a \\) & \\( \\alpha \\), tandem pervenitur ad prædictam æquationem \\( zz - zx \\times a^{n-1} = rx^n \\).\n\nExemplum.\nExemplum. Ad demonstrationem Solutionis nostrae suffecerit exemplum simplicissimum. Sit itaque \\( n = 1 \\); quo in Casu est \\( ABD \\) semicirculus diametro \\( AG \\) descriptus, atque est \\( EBF \\) item semicirculus descriptus diametro \\( AE \\). Est autem in hoc Casu \\( \\frac{x^n}{\\sqrt{a^n - x^n}} = \\frac{xx}{\\sqrt{a^2 - x^2}} \\). Unde in § 3. fit \\( z = \\frac{xx}{\\sqrt{a^2 - x^2}} \\); adeoque \\( z = a - \\sqrt{a^2 - x^2} \\), quæ æquatio est ad Circulum diametro \\( AG = a \\) descriptum, ut fieri debuit. Item pro \\( n \\) scripto 1, æquatio \\( zz - zx \\times a^{n-1} = r x^n \\) (§ 12.) migrat in hanc \\( zz - zx = rx \\). Unde exterminando \\( r \\) ope æquationis \\( rr = xx + zz \\), fit \\( \\frac{zz - xx}{x^2} = -x \\); adeoque regrediendo ad Fluentes \\( \\frac{zz}{x} = -x + a \\), quæ æquatio est ad Circulum diametro \\( AE = a \\) descriptum, ut etiam fieri debuit.\n\nIII. Extract of a Letter of Dr. Chr. Hunter, M.D. to Dr. J. Woodward, R.S.S. from Durham, giving an Account of a Roman Inscription, lately dug up in the North of England; with some Historical and Chronological Remarks thereon.\n\nThe Inscription which comes herewith, (Fig. II.) was dug up, two Years ago, in the Roman CASTRUM, near Lanchester: The Inscription is very legible, and gives me reason to hope, a Search after the first Fortifying this Place will not be unnecessary; especially, being able to fix the Time of Gordian's Repair-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103312.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12084,
+    "total-output-tokens": 4190,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1651,
+        2
+      ],
+      [
+        1651,
+        2734,
+        3
+      ],
+      [
+        2734,
+        4171,
+        4
+      ],
+      [
+        4171,
+        5868,
+        5
+      ],
+      [
+        5868,
+        7522,
+        6
+      ],
+      [
+        7522,
+        9361,
+        7
+      ],
+      [
+        9361,
+        10765,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103312",
+    "title": "Solutio Problematis a Domno G. G. Leibnitio, Geometris Anglis Nuper Propositi. Per Brook Taylor, LL. D. & R. S. Secr.",
+    "authors": "G. G. Leibnitio, Brook Taylor",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/103312"
+  }
+}

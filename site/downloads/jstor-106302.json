@@ -1,0 +1,79 @@
+{
+  "id": "0e62950a38d13fbf99992ccc508aaeb2147f9d2e",
+  "text": "XXXVIII. Experiments on Ignited Substances. By Mr. John Whitehurst, in a Letter to James Stuart, Esquire, F. R. S.\n\nTO JAMES STUART, ESQ.\n\nSIR,\n\nLondon,\nNov. 29, 1775.\n\nR. May 23, 1776.\n\nTHE experiments of Mr. Buffon upon ignited bodies seem to prove, that, when heated to the degree he mentions, they are more ponderous than when cold. The experiments which I have made on heated metals, suggest a different idea, and contradict the fact he relates; so that I am induced to believe, that some circumstance, not attended to, has introduced a mistake in the relation this learned philosopher has published as the result of his inquiry.\n\nHis experiment stands thus recorded (Suppl. Nat. Hist. vol. II. p. 11.): a mass of iron, after receiving a white heat, weighed 49 lbs. 9 oz.; when restored again to the temperature of the atmosphere 49 lbs. 7 oz. Hence he concluded, that the igneous particles, contained in the heated iron, increased its absolute weight 2 ounces.\nMy experiments are as follows: 1st, One pennyweight of gold, made red-hot, became apparently lighter; but, when restored again to the temperature of the atmosphere, its former weight was perfectly restored.\n\n2d, One pennyweight of iron, heated as above, was also apparently lighter; but, when it became cool again, its weight was visibly augmented.\n\nIt is now several years since I made these experiments; but I well remember to have repeated them several times, and that the results were always the same. It may be necessary to remark, that the beam used in these experiments was sensibly affected by the \\(\\frac{1}{2000}\\)th part of a grain; and likewise, that each of the metals was heated upon charcoal, by means of a candle and a blow-pipe, and both were brought nearly to a state of fusion.\n\nIt seems needless to observe, that the apparent levity of the gold and of the iron, when hot, was owing to the ascent of the rarified air above the scale, and to the tendency of that underneath to restore the equilibrium of its pressure. The increase of weight in the iron might probably arise from its having, in some degree, acquired the property of steel, by means of the flame and charcoal.\n\nI am at a loss to account for the fallacy which seems to have attended M. Buffon's experiment; but it seems probable, that the heat of the mass of iron employed by him, had a greater effect on that arm of the beam from which\nwhich it hung than on the other, which being less heated, would consequently be less expanded; and this difference of expansion might produce the error in M. Buffon's account of the weight of heated iron.\n\nIf these observations afford you any satisfaction, it will give me pleasure.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106302.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 751,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        967,
+        2
+      ],
+      [
+        967,
+        2386,
+        3
+      ],
+      [
+        2386,
+        2679,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106302",
+    "title": "Experiments on Ignited Substances. By Mr. John Whitehurst, in a Letter to James Stuart, Esquire, F. R. S.",
+    "authors": "John Whitehurst",
+    "year": 1776,
+    "volume": "66",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106302"
+  }
+}

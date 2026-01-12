@@ -1,0 +1,99 @@
+{
+  "id": "025b6ba66a97d3eb4a2eb4f7143279e089c2d8f7",
+  "text": "XXIV. Account of a Machine for raising Water, executed at Oulton, in Cheshire, in 1772. In a Letter from Mr. John Whitehurst to Dr. Franklin.\n\nDEAR SIR,\n\nRedde, Mar. 16, 1775.\n\nPresuming the mode of raising water by its momentum may be new and useful to many individuals, induces me to send you the inclosed plan and description of a work, executed in the year 1772, at Oulton, in Cheshire, the seat of Philip Egerton, Esq. for the service of a brewhouse and other offices, and is found to answer effectually. I am, sir,\n\nYour most obedient servant,\n\nJOHN WHITEHURST.\n\nPlease to observe, that the circumstances attending this water-work, require a particular attention, and are as follows (see Tab. vii. fig. a.): (A) represents the spring or original reservoir, whose upper surface coincides with the horizontal line BC, and the bottom of the reservoir K. D the main pipe, 1\\(\\frac{1}{2}\\) inch diameter, and nearly two hundred yards in length. E a branch pipe, of the former dimensions,\nmensions, for the service of the kitchen offices. Now it is to be observed, that the kitchen offices are situated at least eighteen or twenty feet below the surface of the reservoir A, and that the cock F is about fifteen feet below it. G represents a valve-box, g the valve, H an air-vessel, oo the ends of the main-pipe inserted into H, and bending downwards, to prevent the air from being driven out when the water is forced into it, w the surface of the water. Now it is well known, that water discharged from an aperture, under a pressure of sixteen feet perpendicular height, moves at the rate of thirty-two feet in a second of time; therefore such will be the velocity of the water from the cock F. And although the aperture of the cock F is not equal to the diameter of the pipe D, yet the velocity of the water contained in it will be very considerable: consequently, when a column of water, two hundred yards in length, is thus put into motion, and suddenly stopped by the cock F, its momentous force will open the valve g, and condense the air in H, as often as water is drawn from F. In what degree the air is thus condensed, is needless to say in the instance before us; therefore I shall only observe, that it was sufficiently condensed to force out the water into the reservoir K, and even to burst the vessel H, in a few months after it was first constructed, though apparently very firm, being made of sheet lead, about nine or ten pounds weight to a square foot. From whence it seems reasonable to infer, that the momentous force is much superior\nsuperior to the simple pressure of the column IK; and therefore equal to a greater resistance (if required) than a pressure of four or five feet, perpendicular height. It seems necessary further to observe, that the consumption of water in the kitchen offices is very considerable; that is, that water is frequently drawing from morning till night all the days of the year.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106195.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 10098,
+    "total-output-tokens": 857,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        989,
+        4
+      ],
+      [
+        989,
+        2554,
+        5
+      ],
+      [
+        2554,
+        2927,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106195",
+    "title": "Account of a Machine for Raising Water, Executed at Oulton, in Cheshire, in 1772. In a Letter from Mr. John Whitehurst to Dr. Franklin",
+    "authors": "John Whitehurst",
+    "year": 1775,
+    "volume": "65",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/106195"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "eddaa2cae94d51daba546aec036989b73466b017",
+  "text": "X. De Reductione Radicalium ad simpliciores terminos, seu de extrahenda radice quacunque data ex Binomio $a + \\sqrt{+b}$, vel $a + \\sqrt{-b}$.\n\nEPISTOLA.\n\nGULIELMO JONES, Armigero, S. P. D.\nA. De MOIVRE.\n\nCum nuper incidisses, Amice doctissime, in locum quendam Sandersoni Algebrae, ubi occurrunt nonnulla, qua ego Editori impertiveram eo spectantia, ut Methodum exponerem, qua liceret extrahere Radicem quamcunque datam ex Binomio $a + \\sqrt{-b}$; hoc autem in caso Radicis cubicae, Clarissimus Auctor paulo antequam mortem obiret, me rogaverat, ut facere tentarem, utpote qui minime acquiescere poterat in iis qua circa hanc rem tradiderat Wallisius; hac data occasione a me quaesivisti, num Methodus aliqua mihi suppeteret illud idem faciendi in Binomio possibile $a + \\sqrt{+b}$, quod quidem judicabas aliquanto facilius fieri posse, respondi te non ignorasse illud fuisse a plurimis praestitum, praesertim a Newtono, atque adeo, si ad rem denuo aggrederer, me vix arrogantiae crimen effugere posse; cum tamen hac mea excusatione haud tibi satisfieri sentirem, instaresque ut quicquid de hoc Argumento mihi in mentem veniret, in Chartam conjicerem, hec sequentia exaravi, eo potissimum animo, ut mei erga te obsequii pignus publicum tibi darem. Vale.\nPROBLEMA I.\n\nSIT Binomium $\\sqrt[n]{a} + \\sqrt[n]{b}$ ad simpliciores Terminos reducendum.\n\nSOLUTIO.\n\nFinge Binomium illud generali sua Radicalitate involutum ad Binomium istud alterum $x + \\sqrt{y}$ Radicalitate generali extutum reduci posse; ut autem inveniatur utraque quantitas $x$ & $y$, experire an summa Binomiorum $\\sqrt[n]{a} + \\sqrt[n]{b} + \\sqrt[n]{a} - \\sqrt[n]{b}$, quam capere licet ope Tabulae Logarithrorum, conficiat numerum integrum quamproxime; quod si acciderit, pone $2x$ æqualem huic integro; vide præterea, an $\\sqrt[n]{aa-b}$ sit numerus integer; quod si fiat, pone $m$ æqualem huic novo Integro, eritque $y = xx - m$, quamobrem Binomium datum reducetur ad formam datam.\n\nPriusquam vero ad Demonstrationem accedamus, non incommodum erit rem binis ternisve Exemplis illustrare.\n\nEXEMPLUM Ium:\n\nSit ergo Binomium $\\sqrt[2]{54 + \\sqrt{980}}$ ad simplicius reducendum.\n\nPone\nPone \\(a = 54, b = 980\\); erit igitur \\(\\sqrt{b} = \\sqrt{980}\\) \\(= 31,3049\\) prope, quo fiet ut \\(a + \\sqrt{b} = 22,6951\\).\nRadix quadrata prioris numeri est 9,236 proxime.\nRadix quadrata posterioris est 4,763.\nSumma Radicum est 13,999, cui proxime adjacet integer 14; pone igitur \\(2x = 14\\), seu \\(x = 7\\); jam cum sit \\(y = xx - m\\), sitque \\(m = \\sqrt{aa - b} = \\sqrt{2916 - 980} = \\sqrt{1936} = 44\\); erit propterea \\(y = 49 - 44 = 5\\), atque adeo Binomium reductum erit \\(7 + \\sqrt{5}\\); quod vide, si lubet, an non ita sit.\n\n**Exemplum 2um.**\n\nSit \\(\\sqrt{45} + \\sqrt{1682}\\) ad simplicius reducendum.\nPone \\(a = 45, b = 1682\\), erit igitur \\(\\sqrt{b} = 41,01219\\) proxime; erit idcirco \\(a + \\sqrt{b} = 86,01219\\), atque \\(a - \\sqrt{b} = 3,89781\\).\nRadix cubica prioris numeri est 4,4142; Radix cubica posterioris est 1,5857; summa Radicum est 5,9999, cui proxime adjacet integer 6; pone ergo \\(2x = 6\\), seu \\(x = 3\\); sed est \\(y = xx - m\\); est autem \\(m = \\sqrt{aa - b} = \\sqrt{343} = 7\\); atque adeò \\(y = 9 - 7 = 2\\); est igitur Binomium reductum \\(3 + \\sqrt{2}\\).\n\n**Exemplum 3um.**\n\nSit \\(\\sqrt{170} + \\sqrt{18252}\\) ad simplicius reducendum.\nPone \\(a = 170, b = 18252\\), erit igitur \\(\\sqrt{b} = 135,1\\) proxime; quapropter erit \\(a + \\sqrt{b} = 305,1\\), & \\(a - \\sqrt{b} = 34,9\\).\nRadix cubica prioris numeri est 6,73 proxime.\nRadix cubica posterioris est 3,26 proxime.\nSumma Radicum est 9,99, cui proxime adjacet integer 10; pone igitur \\(2x = 10\\), seu \\(x = 5\\), porro est \\(y = xx - m\\); jam vero \\(m = \\sqrt[3]{aa - b} = 22\\); est itaque \\(y = 25 - 22 = 3\\); est igitur \\(5 + \\sqrt[3]{3}\\) Binomium reductum.\n\n**Demonstratio.**\n\nSume Binomium quodvis, quale \\(\\sqrt[3]{a + \\sqrt{b}}\\), quod finge ad Binomium \\(x + \\sqrt{y}\\) reduci posse; est igitur,\n\\[x^3 + 3xx\\sqrt{y} + 3xy + y\\sqrt{y} = a + \\sqrt{b};\\]\npone \\(x^3 + 3xy = a,\\)\n& \\(3xx\\sqrt{y} + y\\sqrt{y} = \\sqrt{b}.\\)\n\nQualiscunque autem fuerit index Radicalitatis, ex quadrato prioris partis subtrahe quadratum posterioris; porro quadratum prioris partis erit\n\\[x^6 + 6x^4y + 9xxyy = aa;\\]\nquadratum posterioris \\(9x^4y + 6xxyy + y^3 = b;\\)\nresiduum erit \\(x^6 - 3x^4y + 3xxyy - y^3 = aa - b,\\)\nextrahe utrinque Radicem cujus index est \\(n\\), hoc est, hoc in casu, Radicem cubicam; erit igitur \\(xx - y = \\sqrt[3]{aa - b},\\) sive factio \\(\\sqrt[3]{aa - b} = m;\\) crit \\(xx - y = m;\\)\nadeoque \\(y = xx - m;\\) jam in Æquatione superius scripta, nempe \\(x^3 + 3xy = a,\\) pro \\(y\\) scribe \\(xx - m,\\)\nobtinebis Æquationem \\(4x^3 - 3mx = a;\\) hic paululum consiste.\n\nResume nunc Æquationem \\(2x = \\sqrt[3]{a + \\sqrt{b}} + \\sqrt[3]{a - \\sqrt{b}},\\) et finge te velle Radicalitatem \\(\\sqrt[3]{delere};\\) quo\nquo id fiat, pone $a + \\sqrt{b} = z^3$,  \n& $a - \\sqrt{b} = v^3$;  \nhabebis igitur has binas Æquationes novas,  \n$$z^3 + v^3 = 2a$$  \n$$z + v = 2x$$  \nSequitur ergo fore $$\\frac{z^3 + v^3}{z + v} = \\frac{a}{x}$$  \n\nSed $$\\frac{z^3 + v^3}{z + v} = zz - zv + vv;$$ est igitur $zz - zv$  \n$+ vv = \\frac{a}{x}$; est præterea $zz + 2zv + vv = 4xx$.  \n\nSume differentiam harum Æquationum, habebis  \n$$3zv = 4xx - \\frac{a}{x};$$ sed $z^3 v^3 = aa - b$; est igitur $zv$  \n$$= \\sqrt{aa - b};$$ quod si posueris $= m$, inde fiet $3m$  \n$$= 4xx - \\frac{a}{x},$$ sive $4x^3 - 3mx = a$, quæ est ipsissima  \nÆquatio, quæ ante se protulerat, & res eodem recidet  \nin casu quocunque Radicalitatis.  \n\nSi ergo tibi sit tentandum, an possit Expressio  \n$$\\sqrt{a + \\sqrt{b}}$$ ad simpliciorem reduci; pone $2x$  \n$$= \\sqrt{a + \\sqrt{b}} + \\sqrt{a - \\sqrt{b}};$$ pone etiam $\\sqrt{aa - b} = m$,  \natque $y = xx - m$; & erit expressio reducta $x + \\sqrt{y}$,  \nsi modo hæc possint fieri per quantitates integras aut  \nsaltem rationales.  \n\nVerum ne quidem sint hæ quantitates integrae aut  \nrationales, Regula tamen, quam tradidimus, erit utilis fol-\nsolvendis Æquationibus cujusdam generis, ut postea videbitur.\n\nInterim, hic dubium fortasse oriri potest, an in potentatibus quibuscunque Binomii, hæc Regula universè obtineat, nempe, quod in Binomio quocunque expanso, cujus Index est $n$, si ex quadrato summæ eorum Terminorum, qui in imparibus locis consistunt, subtrahatur quadratum summæ eorum, qui consistunt in paribus locis, residuum futurum sit Binomium aliud cujus Index etiamnum futurum sit $n$.\n\nCui respondeo, illud à pluribus scriptoribus ante me fuisse observatum, adeoque rem tanquam experimentis stabilitam assumi posse; attamen Demonstrationem afferre, non pigebit, quam non memini me usquam vidisse.\n\nSume Binomium $\\frac{x+y}{n}$ quod expande; sume etiam Binomium alterum $\\frac{x-y}{n}$; quod similiter expande; sit $\\frac{x+y}{n} = s$, & $\\frac{x-y}{n} = p$; jam cuilibet inspicienti patebit, si Binomia expansa additione jungantur, eorum summam futuram fore æqualem duplæ summæ terminorum imparium prioris Binomii; sin posterius ex priori subtrahatur, futurum fore residuum æquale duplæ summæ Terminorum parium prioris itidem Binomii; quod cum ita sit, sequitur $\\frac{s+p}{2}$ esse summam terminorum imparium; itemque $\\frac{s-p}{2}$, summam terminorum parium.\n\nEx quadrato prioris summæ, hoc est, ex quadrato $\\frac{ss + 2ps + pp}{4}$, subtrahe quadratum posterioris, vide-\n\nlicet\nlicet \\(\\frac{ss - 2ps + pp}{4}\\), residuum erit \\(\\frac{4ps}{4} = sp\\)\n\n\\(= x^n y^n \\times x^n - y^n = xx - yy\\), cujus Radix, (cui index est \\(n\\)) \\(= xx - yy\\).\n\n**Corollarium.**\n\nSi ponatur \\(2x = \\sqrt[n]{a + \\sqrt{b}} + \\sqrt[n]{a - \\sqrt{b}}\\), sumaturque praetera \\(\\sqrt[n]{aa - b} = m\\), atque interpreteris \\(n\\) successiva per 1, 2, 3, 4, 5, 6, 7, 8, &c. orientur Æquationes hic subjectæ.\n\n1°. \\(x = a\\).\n2°. \\(2xx - m = a\\).\n3°. \\(4x^3 - 3mx = a\\).\n4°. \\(8x^4 - 8mx + mm = a\\).\n5°. \\(16x^5 - 20mx^3 + 5mmx = a\\).\n6°. \\(32x^6 - 48mx^4 + 18mmxx - m^3 = a\\).\n7°. \\(64x^7 - 112mx^5 + 56mmx^3 - 7m^3x = a\\).\n&c.\n\nHæ autem Æquationes ejusdem sunt formæ atque Æquationes ad Cosinus, quamquam natura omnino dissideant.\n\nSit \\(r\\) radius Circuli, \\(l\\) Cosinus arcus cujuslibet dati, \\(x\\) Cosinus alterius arcus, qui sit ad priorem ut 1 ad \\(n\\).\n\n1°. crit \\(x = l\\).\n2°. \\(2xx - rr = rl\\).\n3°. \\(4x^3 - 3rrx = rrl\\).\n4°. \\(8x^4 - 8rrxx + r^4 = r^4l\\).\n5°. \\(16x^5 - 20rrx^3 + 5r^4x = r^4l\\).\n6°. \\(32x^6 - 48rrx^4 + 18r^4xx - r^6 = r^6l\\).\n7°. \\(64x^7 - 112rrx^5 + 56r^4x^3 - 7r^6 = r^6l\\).\n&c.\n\nPpp Harum\nHarum vero generalis forma hæc est, ponendo brevitudinis causa \\( r = 1 \\).\n\n\\[\n\\begin{align*}\n2^n x^{n-1} - 2^n x^{n-3} + 2^n x^{n-5} \\\\\n- 2^n x^{n-7} + 2^n x^{n-9} \\\\\n&\\ddots = 0.\n\\end{align*}\n\\]\n\nDifferentia harum Æquationum in hoc potissimum ponitur, ut priores ortum ducant ab Æquatione\n\n\\[\n2x = \\sqrt[n]{a + \\sqrt[n]{b}} + \\sqrt[n]{a - \\sqrt[n]{b}},\n\\]\n\npostiores vero ab Æquatione\n\n\\[\n2x = \\sqrt[n]{a + \\sqrt[n]{-b}} + \\sqrt[n]{a - \\sqrt[n]{-b}},\n\\]\n\nquae posterior Æquatio si Radicalitate sua generali liberetur, obtinebuntur Æquationes ad Cosinus. Hoc autem persificetur modo sequenti, quem tanquam specimen propono.\n\nSit ergo Æquatio\n\n\\[\n2x = \\sqrt[3]{a + \\sqrt[3]{-b}} + \\sqrt[3]{a - \\sqrt[3]{-b}},\n\\]\n\nquam liberare oporteat signo suo Radicali \\( \\sqrt[3]{} \\).\n\nPone \\( \\sqrt[3]{a + \\sqrt[3]{-b}} = z \\), & \\( \\sqrt[3]{a - \\sqrt[3]{-b}} = v \\); pone tiam \\( z + v = 2x \\). Hinc fiet ut habeas,\n\n1°. \\( z^3 = a + \\sqrt[3]{-b} \\).\n2°. \\( v^3 = a - \\sqrt[3]{-b} \\).\n\nhinc erit \\( z^3 + v^3 = 2a \\).\n\nSed \\( z + v = 2x \\), crit igitur \\( \\frac{z^3 + v^3}{z + v} = \\frac{a}{x} \\);\nSed \\( \\frac{z^3 + v^3}{z + v} = zz - zv + vv \\); quamobrem fit\n\nat \\( zz - zv + vv \\) sit \\( = \\frac{a}{x} \\).\n\nSed \\( zz + 2zv + vv = 4xx \\); unde fit \\( zzv = 4xx - \\frac{a}{x} \\);\n\njam vero est \\( z^3 v^3 = aa + b \\).\n\nSequitur ergo, ut sit \\( zv = \\sqrt[3]{aa + b} \\); quam si posueris \\( = m \\), erit propterea \\( 4xx - \\frac{a}{x} = 3m \\), sive\n\n\\( 4x^3 - 3mx = a \\).\n\nHaec tenus habuimus duplex genus Aequationum; prius, in quo \\( m \\) posita fuerat \\( = \\sqrt[3]{aa - b} \\); posteriorius, in quo fuerat \\( = \\sqrt[3]{aa + b} \\). Prius appellare licet Hyperbolicum, posterius Circulare.\n\nPPP z PRO-\nPROBLEMA II.\n\nExtrahere Radicem cubicam ex Binomio impossibili \\(a + \\sqrt{-b}\\).\n\nSOLUTIO.\n\nFinge Radicem illam esse \\(x + \\sqrt{-y}\\), cujus si sumperis Cubum, invenies esse \\(x^3 + 3xx\\sqrt{-y} - 3xy - y\\sqrt{-y}\\).\n\nPone jam \\(x^3 - 3xy = a\\),\n\\[\\& \\quad 3xx\\sqrt{-y} - y\\sqrt{-y} = \\sqrt{-b}.\\]\n\nTunc sumendo quadrata, orientur alteræ binæ Æquationes, nempe\n\n\\[x^6 - 6x^4y + 9xxyy = aa.\\]\n\\[-9x^4y + 6xxyy - y^3 = -b.\\]\n\nJam sume differentiam quadratorum, erit \\(x^6 + 3x^4y + 3xxyy + y^3 = aa + b\\); quapropter est \\(xx + y = \\sqrt[3]{aa + b}\\): pone nunc \\(\\sqrt[3]{aa + b} = m\\), unde erit \\(xx + y = m\\), sive \\(y = m - xx\\); jam nunc in Æquatione \\(x^3 - 3xy = a\\), in locum quantitatis \\(y\\), substitue valorem ejus \\(m - xx\\), habebis \\(x^3 - 3mx + 3x^3 = a\\), sive \\(4x^3 - 3mx = a\\), qua est ipsissima Æquatio, qua prius deducta fuerat ex Æquatione\n\n\\[2x = \\sqrt[3]{a + \\sqrt{-b}} + \\sqrt[3]{a - \\sqrt{-b}},\\] attamen non sequitur ut possit in Æquatione \\(4x^3 - 3mx = a\\), valor quantitatis \\(x\\) cognosci, per superiorem Æquationem, quippe qua constet ex binis partibus, quarum utraque includit quantitatem imaginariam \\(\\sqrt{-b}\\); sed res optime conficietur subsidio Tabulae sinuum.\n\nSit\nSit igitur extrahenda Radix cubica ex Binomio $81 + \\sqrt{-2700}$; pone $a = 81$, $b = 2700$; jam vero $aa + b = 6561 + 2700 = 9261$, cujus Radix cubica $= 21$, quam pone $= m$, quo fiet ut $3mx = 63x$; erit igitur resolvenda Æquatio $4x^3 - 63x = 81$, quæ si comparetur cum Æquatione ad Cosinus, scilicet $4x^3 - 3rrx = rr$, erit $rr = 21$; proinde erit $r = \\sqrt{21}$; erit praeterea $l = \\frac{a}{rr} = \\frac{81}{21} = \\frac{27}{3}$.\n\nSit igitur arcus Circuli, cujus Radius sit $= \\sqrt{21}$, Cosinus $= \\frac{27}{3}$.\n\nSit $C$ Circumferentia tota, sume Arcus $\\frac{A}{3}, \\frac{C-A}{3}$, qui calculo Trigonometrico facile innotescunt; præsertim si adhibeantur Logarithmi, tunc Cosinus ipsorummet Arcuum ad Radium $\\sqrt{21}$, erunt tres Radices quantitatis $x$; quapropter cum sit $y = m - xx$, erunt idcirco totidem valores quantitatis $y$, erit itaque Radix cubica triplex Binomii $81 + \\sqrt{-2700}$, sed lubet rem ad Numeros accommodare.\n\nFac ut $\\sqrt{21}$ ad $\\frac{27}{3}$, sic Radius Tabularum ad Cosinum Arcus cujusdem cui arcui pone $A$ æqualem; arcus autem ille reperietur $23d, 42'$ prope; hinc arcus $C-A$, erit $327d, 18'$, & $C+\\frac{A}{3}92d, 42'$, quorum partes tertiae erunt $10d, 54'$; $109d, 6'$; $130d, 54'$; jam vero cum earum prima sit quadrante minor, Cosinus ejus, hoc est, sinus $79d, 6'$, spectari debet tanquam positivus; alteri ambo cum sint quadrante Majores, eorum\nrum Cosinus, hoc est, sinus Arcuum $19^\\circ, 6'$; $40^\\circ, 54'$. spectari debent tanquam negativi; sed ex calculo Trigonometrico constabit hos sinus ad Radium $\\sqrt{21}$, fore $4.4999$, $-1.4999$, $-3.0000$, sive $\\frac{9}{2}$, $-\\frac{3}{2}$, $-3$; quo fit ut totidem futuri sint valores quantitatis $\\gamma$, hi scilicet quos $m - x^x$ repraesentat omnes, hoc est, $21 - \\frac{8}{4}$, $21 - \\frac{2}{4}$, $21 - 9 = \\frac{3}{4}$, $\\frac{75}{4}$, $12$, quorum Radices quadratae sunt $\\frac{1}{2}\\sqrt{3}$, $\\frac{5}{2}\\sqrt{3}$, $2\\sqrt{3}$; quapropter tres valores quantitatis $\\sqrt{\\gamma}$ erunt $\\frac{1}{2}\\sqrt{-3}$, $\\frac{5}{2}\\sqrt{-3}$, $2\\sqrt{-3}$; ex quo fit ut, tres valores quantitatis $\\sqrt[3]{81 + \\sqrt{-2700}}$ sint $\\frac{9}{2} + \\frac{1}{2}\\sqrt{-3}$, $-\\frac{3}{2} + \\frac{5}{2}\\sqrt{-3}$, $-3 + \\frac{1}{2}\\sqrt{-3}$, eodemque procedendi modo, inveniantur tres valores quantitatis $\\sqrt[3]{81 - \\sqrt{-2700}}$, hi scilicet $\\frac{9}{2} - \\frac{1}{2}\\sqrt{-3}$, $-\\frac{3}{2} - \\frac{5}{2}\\sqrt{-3}$, $-3 - \\frac{1}{2}\\sqrt{-3}$.\n\nFueré non pauci, inter quos eminet Wallisius, qui putarunt eas Cubicas Æquationes, quae ad Circulum referuntur, posse solvi per extractionem Radicis Cubicæ ex quantitate imaginaria, qualis est, v.g. $81 + \\sqrt{-2700}$, nulla habita ratione Tabulae Sinuum; sed quicquid de hac re commenti sunt, vanum est Figmentum, & petitio Principii; si enim rem tentaris, tibi necessario recurrendum erit in eam Æquationem, quam tibi solvendam sumperas. Illud autem directe fieri non potest, nisi subsidio Tabulae Sinuum, praesertim si Radices sint irrationales; id autem a pluribus ante me fuit observatum. Sed non alienum crit rem ulterius prosequi.\nPROBLEMA III.\n\nSit extrahenda Radix, cujus Index est \\( n \\), ex Binomio impossibili \\( a + \\sqrt{-b} \\).\n\nSOLUTIO.\n\nSit ea Radix \\( x + \\sqrt{-y} \\), tunc facto \\( \\frac{n}{a + b} = m \\); facto etiam \\( \\frac{n-1}{n} = p \\), describe circulum, vel finge describi, cujus Radius sit \\( \\sqrt{m} \\), in quoque sume arcum quendam \\( A \\), cujus Cosinus sit \\( \\frac{a}{m^p} \\); sit \\( C \\) Circumferentia tota. Sume ad eundem Radium, Cosinus Arcuum \\( \\frac{A}{n}, \\frac{C-A}{n}, \\frac{C+A}{n}, \\frac{2C-A}{n}, \\frac{2C+A}{n}, \\frac{3C-A}{n}, \\frac{3C+A}{n}, \\&c. \\)\n\nDonec eorum multitudine adaequet numerum \\( n \\); quo facto, ibi siste; tunc Cosinus ille omnes erunt totidem valores quantitatis \\( x \\); quod attinet ad quantitatem \\( y \\), ea semper erit \\( m - xx \\).\n\nNon praetermittendum est, quamquam mentio superius injecta fuerit, eos Cosinus affirmativos censeri oportere, quorum arcus minores sunt Quadrante, illos autem Negativos quorum arcus sunt Quadrante maiores.\n\nPRO-\nPROBLEMA IV.\n\nData Æquatione aliqua ex earum genere, quas supra descriptimus, dignoscere an ejus solutio ad speciem Hyperbolicam, an vero ad Circularem referenda sit.\n\nSOLUTIO.\n\nSit \\( n \\) altissima dimensio Æquationis; divide Coefficientem secundi termini per \\( 2^n \\times n \\), sitque Quotus \\( = m \\); jam vide an Quadratum \\( aa \\) majus minusve sit potestate \\( m \\); si prior casus acciderit, Æquatio ad Hyperbolam referenda est; sin posterior, ad Circulum.\n\nDetur Æquatio \\( 16x^5 - 40x^3 + 20x = 7 \\), ubi \\( n = 5 \\), crit igitur \\( 2^n \\times n = 20 \\): Divide 40 per 20 quotus est \\( 2 = m \\), porro \\( m^n = 32 \\), &c quadratum \\( aa = 49 \\); quod cum majus sit potestate 32, consequens est, Æquationem ad speciem Hyperbolicam referendam esse; sed cum in casu Hyperbolico positum fuerit \\( \\sqrt{aa} - b = m \\), sequitur esse \\( aa - b = m^5 = 32 \\), adeoque \\( b = aa - 32 = 49 - 32 = 17 \\): Jam vero Radix Æquationis, in hoc casu, est \\( \\frac{1}{2} \\sqrt{7 + \\sqrt{17}} \\)\n\n\\[\n\\frac{1}{2} \\sqrt{7 - \\sqrt{17}}; \\text{ sed } \\sqrt{17} = 4,123105 \\text{ prope, est igitur } 7 + \\sqrt{17} = 11,123105, \\& 7 - \\sqrt{17} = 2,876895; \\text{ porro Radix quinta prioris numeri invenitur } = 1,6221,\n\\]\n\nRadix\nRadix quinta posterioris = 1,2353, summa Radicum = 2,8574, Dimidia summa 1,4287, est valor quantitatis \\( x \\) in Æquatione data.\n\nJam detur Æquatio \\( 16x^5 - 40x^3 + 20x = 5 \\); in qua \\( m \\) etiamnum est = 2, at \\( a = 5 \\), patet quadratum \\( a^a \\) minus est quinta potestate numeri 2; quapropter valor incognitæ \\( x \\) non potest elici nisi per quinquiescionem anguli; illud autem perficietur ope Theorematis nostri generalis, ante allati, sumendo ad Radium \\( \\sqrt{2} \\), arcum cujus Cosinus sit \\( \\frac{a}{m^p} = \\frac{a}{4} = \\frac{5}{4} \\).\n\nArcus autem ille reperietur 27°, 55′ prope, cujus quinta pars est 5°, 35′; jam vero si sumpturis Logarithmum Cosinus istius arcus ad Radium 1, illum reperies esse 9,9979347; sed cum Radius noster debeat esse \\( \\sqrt{2} \\), superiori Logarithmo adde Logarithmum \\( \\sqrt{2} \\), hoc est 0,1515150, summa erit 10,1484497 e qua si dempscris 10, residuum, nempe 0,1484497, erit Logarithmus Numeri quaesiti, qui proinde erit 1,4075 proxime, eodemque modo reliquæ quatuor Radices inveniri possunt.\n\nPauca quædam supersunt observanda, quæ hic subjiciam.\n\nSi Æquatio sit Hyperbolici generis, sitque præterea \\( n \\) numerus impar, erit una tantummodo Radix possibilis, reliquæ erunt impossibiles; sin sit \\( n \\), numerus par, erit unus tantum valor quadrati \\( xx \\), reliqui sunt impossibiles.\n\nSi Æquatio sit Circularis generis, omnes Radices erunt possibles.\nQuo facile dignoscatur quot futuræ sint Radices Affirmativæ, quot Negativæ, in Æquationibus ad Cosinus, hæc observetur Regula.\n\nSi fuerit \\( n \\) Numerus par, tot erunt Radices Affirmativæ quot Negativæ.\n\nSi fuerit \\( n \\) numerus impar, talis tamen ut \\( \\frac{n+1}{2} \\), sit numerus par, numerus Affirmativarum erit \\( \\frac{n-1}{2} \\), numerus Negativarum \\( \\frac{n+1}{2} \\).\n\nSin \\( \\frac{n+1}{2} \\) fuerit numerus impar, numerus Affirmativarum erit \\( \\frac{n+1}{2} \\), Negativarum \\( \\frac{n-1}{2} \\).\n\nAliqua huc spectantia jampridem inveneram, quæ Aëtis Philosophicis inserta fuerunt Anno 1707, deinde fusiæ fuerant exposita in Libro, qui inscribitur Miscellanea Analytica; sed cum ratio processus fuerit huic paulo dissimilis, nec fortasse adeo dilucida, nec directe ad eundem scopum collimans, hæc, spero, non inutilia judicabuntur.\n\nFINIS.\n\nERRATA.\n\nPage 40. Line penult. for Measurations, read Mensurations.\n\nP. 384. after l. II. add and if single, whether the respective Poles were opposite?\n\nERRATUM.\n\nIn Vol. XXXIV. n. 393. p. 66. the Latitude of Southwick should be 52° 31'. nearly, instead of 51° 58'. nearly, as it is by Mistake there printed.\n\nTo the Bookbinder.\n\nThe Croonian Lectures on Muscular Motion for the Year 1738. are to follow this Page.\n\nTHREE LECTURES",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103957.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 17,
+    "total-input-tokens": 24632,
+    "total-output-tokens": 8483,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1255,
+        2
+      ],
+      [
+        1255,
+        2150,
+        3
+      ],
+      [
+        2150,
+        3450,
+        4
+      ],
+      [
+        3450,
+        4832,
+        5
+      ],
+      [
+        4832,
+        5963,
+        6
+      ],
+      [
+        5963,
+        7318,
+        7
+      ],
+      [
+        7318,
+        8431,
+        8
+      ],
+      [
+        8431,
+        9520,
+        9
+      ],
+      [
+        9520,
+        10127,
+        10
+      ],
+      [
+        10127,
+        11334,
+        11
+      ],
+      [
+        11334,
+        12736,
+        12
+      ],
+      [
+        12736,
+        14435,
+        13
+      ],
+      [
+        14435,
+        15418,
+        14
+      ],
+      [
+        15418,
+        16636,
+        15
+      ],
+      [
+        16636,
+        18047,
+        16
+      ],
+      [
+        18047,
+        19332,
+        17
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103957",
+    "title": "De Reductione Radicalium ad Simpliciores Terminos, Seu de Extrahenda Radice Quacunque Data ex Binomio <tex-math>$a+\\sqrt{+b}$</tex-math>, vel <tex-math>$a+\\sqrt{-b}$</tex-math>. Epistola",
+    "authors": "Gulielmo Jones",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 17,
+    "jstor_url": "https://www.jstor.org/stable/103957"
+  }
+}

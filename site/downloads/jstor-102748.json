@@ -1,0 +1,69 @@
+{
+  "id": "396cc9007ab5a0cf13c558a51d18bc9c0115a96c",
+  "text": "VIII. An Account of the Romish Clergy, according to a return made in 1698. communicated by Capt. South.\n\n| Counties       | Regulars | Seculars |\n|----------------|----------|----------|\n| Cavan          |          | 5        | 29      |\n| Fermanagh      |          | 6        | 13      |\n| Donegall       |          | 22       | 24      |\n| Tyrone         |          | 7        | 22      |\n| Downe          |          | 4        | 15      |\n| Antrim         |          | 5        | 13      |\n| Ardmagh        |          | 4        | 10      |\n| Monaghan       |          | 5        | 20      |\n| Waterford      |          | 16       | 23      |\n| Limerick       |          | 15       | 51      |\n| Clare          |          | 18       | 43      |\n| Cork           |          | 30       | 97      |\n| Kerry          |          | 19       | 23      |\n| Tipperary      |          | 48       | 39      |\n| Londonderry    |          | 5        | 15      |\n| Wicklow        |          | 6        | 15      |\n| Wexford        |          | 16       | 24      |\n| Kildare        |          | 9        | 16      |\n| Lowth          |          | 12       | 14      |\n| Carlow         |          | 8        | 8       |\n| Kilkenny       |          | 17       | 30      |\n| Kings County   |          | 13       | 19      |\n| Queens         |          | 1        | 16      |\n| Westmeath      |          | 16       | 22      |\n| Longford       |          | 15       | 22      |\n| Roscommon      |          | 24       | 52      |\n| Leitrim        |          | 13       | 20      |\n\nSligoe\n| Counties       | Regulars | Seculars |\n|---------------|----------|----------|\n| Sligoe        |          |          |\n| Mayoe         |          |          |\n| Gallway       |          |          |\n| Meath         |          |          |\n| Dublin        |          |          |\n| Drogheda Town |          |          |\n\n495 872\n\nShipt for Foreign parts, by Act of Parliament, the number of Regulars following, their Passage and Provisions, being paid for by the Government (viz.)\n\nFrom Dublin 153\nGallway 170\nCork 75\nWaterford 26\n\n424\n\nLondon, Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St Paul's Church Yard, 1700.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102748.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 783,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1572,
+        2
+      ],
+      [
+        1572,
+        2243,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102748",
+    "title": "An Account of the Romish Clergy, according to a Return Made in 1698. Communicated by Capt. South",
+    "authors": "Capt. South",
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102748"
+  }
+}

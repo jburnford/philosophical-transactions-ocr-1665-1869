@@ -1,0 +1,109 @@
+{
+  "id": "16dce942dff8e261d67daa0ab5bfccd7778d998a",
+  "text": "LXXII. An Engine for raising Water by Fire; being an Improvement of Savery's Construction, to render it capable of working itself, invented by Mr. De Moura of Portugal, F. R. S. described by Mr. J. Smeaton.\n\nRead Nov. 9, 1752.\n\nThis engine consists of a receiver, a steam and an injection-cock; a suction and a forcing-pipe, each furnished with a valve; together with a boiler, which, on account of its bulk and weight, is not sent with the rest; but, as it may be of the common globular shape, and having nothing particular in its construction, a description of it will not be necessary; as also the rest of these parts already mentioned being essential to every machine of this kind, a further account of them may be dispensed with. What is peculiar to this engine is a float within the receiver, composed of a light ball of copper, which is not loose therein, but fastened to the end of an arm, which is made to rise and fall by the float, while the other end of the arm is fasten'd to an axis; and, consequently, as the float moves up and down, the axis is turned round one way, or the other. This axis is made conical, and passes through a conical socket; which last is folder'd to the side of the receiver. Upon one of the ends of the axis, which projects beyond the socket, is fitted a second arm, which is also moved backward and forward by the axis, as the float rises or falls. By these means, the rising or falling of the surface of the water within the receiver communicates a correspondent motion to the outside, in order to give\ngive proper motions to the rest of the gear, which regulates the opening and shutting of the steam and injection-cocks; and serves the same purpose as the plug-frame, &c., in Newcomen's engine. The particular construction, and relation of those pieces, will better appear by the figure and references, than can be done by a general description.\n\n\\(AB\\) an arm, which is fastened to \\(ab\\), a conical axis, which goes through a conical socket in\n\n\\(C\\), a triangular piece folder'd to the receiver. This piece has this shape, to give liberty to the arm to rise and fall, that carries the float on the inside.\n\n\\(DE\\) is a small cistern, folder'd to the receiver; which, being kept full of water, keeps the axis and socket air-tight. This cistern is constantly kept full of water, by means of a small leakage through the wooden peg \\(c\\), which follows the packthread \\(cd\\) to the cistern.\n\n\\(e\\), is a small weight to counterpoise the float within.\n\n\\(f\\), is a slider; which being set nearer to, or farther from, the axis, will rise, or fall, a greater or lesser space, as may be required; and is fastened by the screw \\(g\\). This slider is furnish'd with a turn-about, \\(hi\\), which is also fastened by a screw and nut at the end \\(i\\), and serves to adjust the length of\n\n\\(FGGH\\), a chain, which gives motion, by means of the shorter chain \\(kl\\), to\n\n\\(IKL\\), the balance, which opens and shuts the cocks; and moves upon the small axis \\(L\\).\n\n\\(GG\\) are two pulleys, supported by two arms, that are fasten'd to the side of the receiver, and give the chain,\nchain a proper direction in order to move the balance.\n\nMN is the steam-cock; the end N being supposed to be detached from a pipe, that gives it communication with the boiler.\n\nO is the injection-cock, whose key is turned by the arm Om.\n\nPQ is the injection-pipe, communicating between the forcing-pipe above the valve, and the top of the receiver.\n\nRS is the arm, by which the key of the steam-cock is worked.\n\nIK two rollers annexed to the balance, which, by striking upon the arm RS, open and shut the steam-cock, as the balance is moved backward and forward.\n\nRno is the steam-cock's key-tail, which is furnished with two small rollers, n, o, which open and shut the injection-cock, by acting upon the arm Om in such a manner, that, when the steam-cock is opened, the injection is shut, and vice versa.\n\nT is a bell of advice, which, moving along with the balance, continues to ring as long as the engine is at work.\n\nV is a cock, which serves to discharge the air from the receiver, and is open'd by hand, when necessary.\n\nW is a weight sufficient to raise the balance to a perpendicular posture, when it is inclined to the right, and also to overcome the friction of the float, axis, pullies, chain, &c.\n\nTo put the engine in motion, press down the arm AB, which will bring the balance over to the right side, and in its motion will open the steam-cock, and shut\nshut the injection; set open the cock at \\( V \\), that the air may be discharged by the entrance of the steam into the receiver. This being done, shut that cock, and let go the arm; the weight \\( W \\) will bring over the balance to the left, and in its motion shut the steam-cock, and open the injection; this presently condensing the steam into water, in a great measure leaves a vacuum in the receiver. Things remain in this situation, till the pressure of the atmosphere has caused the water to mount thro' the suction-pipe into the receiver, where, as its surface rises, it causes the float to ascend; and, depressing the arm \\( A B \\), raises the balance, till it has passed the perpendicular; and, in its descent, which is done by its own gravity, the roller \\( K \\) lays hold of the arm \\( R S \\), again opens the steam-cock, and shuts the injection. The receiver being now almost filled with water, the balance cannot return, till the surface of the water therein subsides, and suffers the float to descend. This is performed by the elasticity of the steam; which, at the same time that it fills the receiver, drives out the water thro' the forcing-pipe; and when the surface is descended so low, as to suffer the weight \\( W \\) to bring the balance beyond the perpendicular towards the left; it then falls of its own accord, and, in falling, the roller \\( I \\) lays hold of the arm \\( R S \\), shuts the steam-cock, and opens the injection, as before.\n\nWhen the engine is desired to be stopp'd, observe, when the balance lies to the right, to turn round the arm \\( O m \\) of the injection-cock, so that the tail of the steam-cock may miss it in the next motion; so that, at the same time that the receiver is fill'd with steam, and the steam-cock shut, the injection not being opened, the motion will stop for want thereof.\n\nLXXIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105085.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10700,
+    "total-output-tokens": 1725,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1543,
+        3
+      ],
+      [
+        1543,
+        1543,
+        4
+      ],
+      [
+        1543,
+        3106,
+        5
+      ],
+      [
+        3106,
+        4475,
+        6
+      ],
+      [
+        4475,
+        6315,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105085",
+    "title": "An Engine for Raising Water by Fire; Being an Improvement of Savery's Construction, to Render It Capable of Working Itself, Invented by Mr. De Moura of Portugal, F. R. S. Described by Mr. J. Smeaton",
+    "authors": "<prefix>Mr.</prefix> De Moura, J. Smeaton",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/105085"
+  }
+}

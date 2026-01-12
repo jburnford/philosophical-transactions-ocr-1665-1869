@@ -1,0 +1,59 @@
+{
+  "id": "958d07fb9671033a7cb465428f4c47b9efb43a85",
+  "text": "V. The Manner of making Styrax liquida, alias Rosa Mallas. Communicated by Mr. James Petiver, F. R. S.\n\nRosa Mallas grows upon the Island Cobrofs, at the upper end of the Red Sea near Cadefs, which is 3 days Journey from Suez: It is the Bark off a Tree (taken off every Year, and grows again) boiled in Salt Water till it comes to a Consistence like Bird-lime, then separated and put into a Cask and brought to Judda, and so to Mocha in June and July, where it sells from 60 to 120 Dollars per Barrel, according to its Goodness: The best is what is freest from Clay and Dirt, which is commonly mixed with it; and the way to try it is by washing it in Salt Water, which will cleanse it: The Arabs and Turks call it Cotter Mija.\n\nN. B. A Barrel is 420 l.\n\nLondon,\nPrinted for Henry Clements at the Half-Moon in St. Paul's Church-yard. MDCCVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103220.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 298,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        842,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103220",
+    "title": "The Manner of Making Styrax Liquida, Alias Rosa Mallas. Communicated by Mr. James Petiver, F. R. S.",
+    "authors": "James Petiver",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103220"
+  }
+}

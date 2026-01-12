@@ -1,0 +1,59 @@
+{
+  "id": "692a30f3012654ff736a4f8aed33aa14e2282bae",
+  "text": "Some New observations about the Planet Mars, communicated since the Printing of the former sheets.\n\nThere was very lately produced a Paper, containing some observations, made by Mr. Hook, about the Planet Mars; in the Face whereof he affirmed to have discovered, in the late months of February and March, that there are several Maculae or Spotted parts, changing their place, and not returning to the same Position, till the next ensuing night near about the same time. Whence it may be collected, that Mars (as well as Jupiter, and the Earth, &c.) does move about his own Axis, of which a fuller account will be given hereafter, God permitting. This short and hasty intimation of it, is intended only to invite others, that have opportunity, timely to make Observations, (either to confirm, or rectify) before Mars gets out of sight.\n\nPrinted with Licence for John Martyn, and James Allestry, Printers to the Royal Society. 1666.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101484.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 270,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        930,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101484",
+    "title": "Some New Observations about the Planet Mars, Communicated Since the Printing of the Former Sheets",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101484"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "e96957202361326b3e032718b646bf66c6686f0d",
+  "text": "XVIII. Part of a Letter from the Abbe Pluche to Dr. Mortimer, Sec. R. S. concerning the Smut of Corn. Translated from the French by T. S. M. D. F. R. S.\n\nSIR,\n\nParis, Oct. 24. 1736. N. S.\n\nI have lately passed some Months in the Country, where I have had the Satisfaction to read in the great Book (Nature), which far exceeds all our Libraries; and I made several small Observations, among which are the following:\n\n1. Having with the Assistance of the Microscope viewed the Smut of Corn, I observed the Stalks were all spotted and pricked with small Burnings: Now as the Smut happens after a fine Rain followed by a bright Sun-shine, the Cause of this Evil is, that the Focus of those very small Drops is just near them, and on the Stalk that supports them: Wherefore the Sun’s Rays, collected in this Point, must there burn; which dries up the Stalk, and prevents the Ear from graining.\n\nThe second Remark is on the Corn that grows up into Ears, the Grains of which are for the most part full of Meal quite black. With the Microscope I saw, all round or above these black Grains, small long Bodies, rolled up, and having each a Pedicle; which I found to be the Flowers, that could not reach their due Form, or come forth and ripen; so that the Grain, being deprived of this Help, could not develop its Germ, and produced only a black Meal, for want of the unfolding of certain Vessels.\nThe third Remark is, the Reason that invites Thrushes or Starlings under the Legs of black Cattle grazing in a Pasture. Not being able to get near them, I observed them at a Distance with a good Glass. I saw all these Birds thrust their Head and half their Body down into the Grass, in such manner that their Tails remained erect in the Air, as that of a Duck upon diving; which makes me think, that those Birds seek after Worms in the Earth; and that they gather about the Cattle, because as they are large Animals, upon trampling on the Ground, they oblige such Worms to come forth, as happen to be press'd under the Weight of their Hoofs.—I shall be glad of every Opportunity of convincing you how much I respect you, and am,\n\nYour most humble,\nand most obedient Servant,\n\nPluche.\n\nXIX. A Letter from John Bartram, M.D. to Peter Collinson, F.R.S. concerning a Cluster of small Teeth observed by him at the Root of each Fang or great Tooth in the Head of a Rattle-Snake, upon dissecting it.\n\nMr. Collinson, Philadelphia, July 17. 1734.\n\nNear German-town, about six Miles from this City, we found a Rattle-snake, which is now become a Rarity so near our Settlements. I took it home,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104291.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 734,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1388,
+        2
+      ],
+      [
+        1388,
+        2571,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104291",
+    "title": "Part of a Letter from the Abbe Pluche to Dr. Mortimer, Sec. R. S. concerning the Smut of Corn. Translated from the French by T. S. M. D. F. R. S.",
+    "authors": "Abbe Pluche, T. S.",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104291"
+  }
+}

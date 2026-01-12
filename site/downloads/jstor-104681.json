@@ -1,0 +1,79 @@
+{
+  "id": "cccabe4b234a8a504150b1f6ed64e45897c0a74d",
+  "text": "POCVLI INSCRIPTIO.\n\nFig. 3. p. 488.\n\nΦΕΥΣ ΜΙΘΑΔΑΤΤΗΣ\nΤΑ ΑΡΤΡΙΕΝΤΩΤΟΥ\nΤΟΠΙΣΤΑΙΣ\nΕΙΟΥΕΥΤΤΑ\nΣΥΡΑ ΔΙΑΖΩΣΕ\nXIV. Descriptio Fœtus monstrosi sine ullo Sexus Signo; Regali Societati communicata per Job Baster, Acad. Cæsar. et Reg. Soc. Lond. Soc.\n\nRead June 28. 1750.\n\nQuamvis plurimae sint monstrorum delineationes et descriptiones raro tamen occurrunt exempla, in quibus nullae adsint partes genitales: cum tamen hic casus mihi obvenit, Regiae Societati hujus delineationes offero: (TAB. II. Fig. 1 and 2.) quem circiter septimestrem sanissima mulier, tertio partu, tempore gravidationis nulla imaginatione, metu, aut terrore percussa, in lucem edidit.\n\nCaput hujus infantis non, uti oportet, erat sphæricæ figuræ, sed valde acuminatum, brachium dextrum bene formatum; sinistri vero radius et ulna multo breviores esse videbantur.\n\nNe minimum partium genitalium, quibus sexum distingueres, erat vestigium, nec anus, aut ejus apertura; verum eo loco cutis, abundante pinguedine, quasi in gyros erat reducta, et circumvoluta.\n\nEx medio ventre, genitalium loco, provenit pes unus in unicum quasi digitum, sine ungue tamen finiens.\n\nRepetitis precibus apertio cadaveris fuit negata, externa delineatio concessa, quam Regiae Societati debita reverentia offero, una cum delineationibus foetus et hydrocephali, quorum historiam ante aliquot annos (anno 1742) Regiae Societati obtuli, et N°. 466, p. 277, in Transactionibus legi possunt.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104681.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 7238,
+    "total-output-tokens": 630,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        102,
+        3
+      ],
+      [
+        102,
+        1423,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104681",
+    "title": "Descriptio Foetus Monstrofi Sine Ullo Sexus Signo; Regali Societati Communicata per Job Baster, Acad. Caesar. et Reg. Soc. Lond. Soc.",
+    "authors": "Job Baster",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104681"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d3085222149b722b89d7da6215ad9e9622f64a1e",
+  "text": "The CONTENTS.\n\nV. A New and Exact Table, Collected from several Observations, taken in four Voyages to Hudson's-Bay in North America, from London: Shewing the Variation of the Magnetical Needle, or Sea-Compas, in the Path-way to the said Bay, according to the several Latitudes and Longitudes from the Year 1721, to 1725. By Mr. Christopher Middleton.\n\nVI. An Account of several Experiments concerning the running of Water in Pipes, as it is retarded by Friction and intermix'd Air, some of which were made before the Royal Society on Thursday the 5th of May, 1726. With a Description of a new Machine, whereby Pipes may be clear'd of Air, as the Water runs along, without Stand-Pipes, or the help of any Hand. By the Rev. J. T. Desaguliers, LL.D. F.R.S.\n\nERRATA.\n\nPage 51. line 8. lege & i parte tartari. p. 69. l. 1. dele III.\np. 71. l. 2. dele IV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103443.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        850,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103443",
+    "title": "Errata",
+    "authors": null,
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103443"
+  }
+}

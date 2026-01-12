@@ -1,0 +1,89 @@
+{
+  "id": "5d6b1233513f40a7973522b5159251076baf1e17",
+  "text": "XIV. A Description of Malformation in the Heart of an Infant.\n\nBy Mr. Hugh Chudleigh Standert. Communicated by Anthony Carlisle, Esq. F. R. S.\n\nRead May 9, 1805.\n\nThe child, from whom the subject of the present description was taken, died at the age of ten days; during which period all the animal functions seemed to have been regularly discharged, with this exception, that the skin exhibited the purple or blue colour, so often noticed in cases of imperfect pulmonary circulation.\n\nThe body was fleshy, somewhat less than the usual size, and the extremities were livid. All the viscera were in a natural state, except the heart, which presented the following remarkable structure.\n\nOn viewing it externally, only one auricle could be observed, into which the pulmonary veins, and venæ cavæ, entered in their ordinary directions. The pulmonary artery was wholly deficient; and, on dissection, it appeared that the body of the heart possessed but one ventricle, separated from the auricle by tendinous valves, and opening into the aorta.\n\nThe auricle was also single, having a narrow muscular band, which crossed the ostium venosum, in the place of the septum. The aorta sent off an artery, from the situation of the ductus arteriosus, which divided itself into two branches, supplying each mass of the lungs. These vessels were of small diameter.\nThe arterial system had been injected with wax, and, in removing the heart from the thorax, this pulmonary branch of the aorta was unfortunately cut away.\n\nThe pulmonary veins were four in number; but neither the area of these veins, nor that of the vessel which acted as the pulmonary artery, exceeded half the common dimensions.\n\nThis child, when alive, came under the observation of Dr. Combe, who did not perceive that its respiration, temperature, or muscular action, were materially affected. In the records of malformation of the heart, the present case is extraordinary, resembling in organization the amphibious animals, rather than the mammalia. That an infant should have existed so long, under such circumstances, carrying on all the vital functions, appears a physiological fact of some importance, especially as the dependence of life on respiration, and the changes produced in the vascular system, are so imperfectly understood.\n\nEXPLANATION OF THE DRAWING. (Plate VI.)\n\nFig. 1. A view of the left side of the heart, the common ventricle being opened by a simple incision, showing the valves of the ostium.\n\na, The aorta.\nb, The common trunk of the two branches of the right pulmonary veins.\nc, The vena cava superior.\nd, e, The two trunks of the left pulmonary veins.\n\nFig. 2. A view of the right side of the heart, exhibiting the common cavity of the auricle, a portion of its parietes being cut away, with the vena cava inferior.\nMr. Standert's Description, &c.\n\na, c, The two trunks of the left pulmonary vein.\nb, The vena cava superior.\nd, The aorta.\ne, The trunk of the right pulmonary veins.\nf, The muscular band in the auricle.\n\nThese drawings are of the natural size, and the subject of them is preserved in the collection of Dr. Combe.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107171.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7886,
+    "total-output-tokens": 858,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1349,
+        2
+      ],
+      [
+        1349,
+        2798,
+        3
+      ],
+      [
+        2798,
+        3111,
+        4
+      ],
+      [
+        3111,
+        3111,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107171",
+    "title": "A Description of Malformation in the Heart of an Infant",
+    "authors": "Hugh Chudleigh Standert",
+    "year": 1805,
+    "volume": "95",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/107171"
+  }
+}

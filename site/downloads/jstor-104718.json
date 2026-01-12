@@ -1,0 +1,69 @@
+{
+  "id": "75a4a1bda156b9978d515d5d953e57707653fcbd",
+  "text": "XI.\n\nMr. Henry Baker F. R. S. to Martin Folkes,\nEsq; Pres. of the Royal Soc. concerning the same.\n\nRead March 8. 1749-50.\n\nABOUT 40 Minutes after 5 o’Clock this Morning I was waked out of a sound Sleep by a great Noise, hardly to be describ’d, but what seem’d then to me as if the Roof of the House was tumbling in, or like the rumbling I have sometimes heard Thunder make before a very loud Clap. It continued 2 or 3 Seconds, as nearly as I could guess, under the Surprize of being awaked so suddenly; during which time the Windows rattled, the Tables, Chairs, and other Furniture in the Room, shook greatly; and a brass Warming-pan, in particular, that stood upon a marble Slab before the Chimney, made a very remarkable ringing and jarring Noise.\n\nTwo Maids, in a Room over mine, were also wak’d by it, and got up immediately, being frighted by the shaking of the Bed on which they lay; but for my own part I felt little or no Motion of my own Bed. However, as most People who were in Bed agree in describing such a Motion, it was probably that which wak’d me, tho’ the Violence of it might be over, before I was sufficiently awake to take due notice of it.\n\nMy Son was likewise wak’d by the great rattling of the Windows in his Chamber, which he at first imagined to be shaken by a high Wind, they being apt to make some Noise in windy Weather, tho’\nnever like what he then heard, which seem'd like opening a Casement-Window and shutting it again very suddenly and violently. A Cat that lay upon his Bed started up in much Surprise.\n\nSeveral People in the Neighbourhood went out into the Streets, and others got upon the Leads of their Houses, to see if any Damage was done. Some Milk-women felt it very strongly as they were milking their Cows near Maribone. It was violent in Bond-street, and all that Quarter of the Town; and I find, by People living in very different and distant Parts of London and Westminster, that it was felt universally through the Whole, and was not only longer in Continuance, but that its Motion was more violent and shocking than the Earthquake, which happen'd on Feb. 8. (this Day was four Weeks) a hasty Account of which I had the Honour to lay before you.\n\nA Waterman that was lying in his Boat, then at Anchor near Kingston, told a Friend of mine, that he was frighted with something like a violent Blow striking against the Bottom of the Boat; that the Water was much agitated, and that the Barges and other Vessels upon the River were tossed about as in a Tempest.\n\nThese, Sir, are all the Particulars yet come to my Knowledge; which, tho' put together in a Hurry, may, I hope, prove acceptable. ——— I shall only add, that I have the Honour to be,\n\nSIR,\n\nCatherine-street, Your most obedient humble Servant,\nMarch 8. 1749-50.\n\nHenry Baker.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104718.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 780,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1354,
+        2
+      ],
+      [
+        1354,
+        2779,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104718",
+    "title": "Mr. Henry Baker F. R. S. to Martin Folkes, Esq; Pres. of the Royal Soc. concerning the Same",
+    "authors": "Henry Baker",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104718"
+  }
+}

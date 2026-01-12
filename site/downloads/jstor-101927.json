@@ -1,0 +1,79 @@
+{
+  "id": "9942be805da2ab4332f98c2298e3534030de6f08",
+  "text": "Some Observations made on the Spawn of Frogs, and of the Production of Todpoles therein, by the Learned and Curious Richard Waller, Esq; Reg. S. Secret.\n\nAbout the twelfth of March 1689, I took some Frog-Spawn out of a Ditch, which I suppose might have been Spawned about 14 days, and keep it in a Gally-Pot of Water, which I shifted every day or two, and kept them in a Window where the Sun shined some part of the Day.\n\nAt the first they appeared as Fig. 5. being a round black Globule encompass with a clear Liquor as I afterwards found, and a Membrane encompassing that Liquor, and that encompassed with a larger Sphere of a more Mucous Liquor,\n\nThe second day that I kept them they appeared as Fig. 6. The third day as Fig. 6. The fourth day as Fig. 7.\n\nAnd about the fifth day several of them were loosed from their Eggs, and on the 7th and 8th more of them: when they appeared of the shape of Fig. 8. which in Fig. 9. is represented bigger than the Life, that the posture they lay in may be seen the better.\n\nOn the 7th and 8th days upon pricking of them with the point of a Needle they would contract themselves; and some of them on the 8th day would of themselves bend their bodies, but not move out of their place, which was the bottom of the Pot they were kept in.\n\nWhen they first got through their Egg (which I suppose they did by eating their way) they hung fast upon the outside of it, by that part which I afterwards found to be their Mouth, and when loosed from their hold they sunk\nsunk to the bottom of the Water, and could not rise again.\n\nOn the 9th day they were not visibly increased in bulk, only they moved themselves more freely at the bottom of the Vessel.\n\nAt about 14 days end they appeared as Fig. 10. at which time they swam about in the Water by moving their Tails, as Fig. 11. and some Rudiments of their fore Legs were visible, which looked forked and like a sprig of a Plant.\n\nAt three weeks end their Mouths were to be seen, which they opened and shut, and emitted Faeces from the other end.\n\nAt a months end the Eyes were to be discerned, at which time they would swim near the top of the Water, and opening their Mouths let out a small bubble of Air, and I suppose take in fresh.\n\nThe Liquor which was contained in the innermost Membrane, was more transparent than the other, which was a Mucous Liquor, and like the White of an Egg; the whole was a little heavier in Specie than Water, for a single Egg sunk when loosed from the rest, but when they were fastened a great many together, they swam, every three Eggs leaving a little space, which being filled with Air made them specifically lighter than common Water.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101927.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6640,
+    "total-output-tokens": 781,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1500,
+        3
+      ],
+      [
+        1500,
+        2653,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101927",
+    "title": "Some Observations Made on the Spawn of Frogs, and of the Production of Todpoles therein, by the Learned and Curious Richard Waller, Esq; Reg. S. Secret",
+    "authors": "Richard Waller",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101927"
+  }
+}

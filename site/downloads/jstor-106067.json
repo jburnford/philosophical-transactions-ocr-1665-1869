@@ -1,0 +1,59 @@
+{
+  "id": "4e054b22d187adab0d38228df7e46713b982b764",
+  "text": "ERRATA.\n\nVol. LXI.\nPag. 139. line ii. from the bottom, read upon, with regard to\n141. l. i. notes, erase the comma after Ex,\n143. notes, l. penult. r. Archiepiscopis. l. 15. r. Redleiam\n144. l. 2. r. Dena. Notes, l. 14. from the bottom, r. Noewera,\nl. ult. r. Vincentii.\n145. notes, l. 4. r. Crevecor.\n147. l. 3. the 4th letter in the Saxon word should be z.\n\nVol. LXII.\nPag. xi. line penult. for vingtimee read vingtieme\n6. 6 Caniculus Cuniculus\n8. 1 male mule\nibid. 14. is in other is other\n37. 7 Jupiter Jupiter\n55. 21 grows it grows\n75. 21 distantis distantia\n77. 22 (Tab. IV.) (Tab. IV. & Tab. IV.*)\n125. note †, l. 4. weter water\n146. 8 them it\n303. note *, l. 2. Aëdologue Aëdologie\n314. 17 cough chough\n388. 21 Three-toed Three-toed\n426. 17 vesti vestiti\n429. 6 mandibu mandibula\n457. 27 property proportion\n462. note, line last, 207 287.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106067.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 449,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        846,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106067",
+    "title": "Errata",
+    "authors": null,
+    "year": 1772,
+    "volume": "62",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106067"
+  }
+}

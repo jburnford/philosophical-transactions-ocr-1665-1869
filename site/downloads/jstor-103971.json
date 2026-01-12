@@ -1,0 +1,89 @@
+{
+  "id": "20e620f92eba0b1ba57d34dd9895435f9a49420f",
+  "text": "I. An Account of an Instrument or Machine for changing the Air of the Room of sick People in a little Time, by either drawing out the foul Air, or forcing in fresh Air; or doing both successively, without opening Doors or Windows.\n\nN.B. The Model of this Machine, made by a Scale of an Inch to a Foot, was shewn the Royal Society the thirteenth Day of June, 1734. By Dr. J. T. Desaguliers, F.R.S. (Vide Tab.)\n\nFig. I. Represents a Case DECB, containing a Wheel of 7 Feet in Diameter, and 1 Foot thick; being a cylindrical Box, divided into 12 Cavities by Partitions directed from the Circumference towards the Center, but wanting 9 Inches of reaching the Center, being open towards the Center, and also towards the Circumference, and only clos'd at the Circumference by the Case, in which the Wheel turns by means of an Handle fix'd to its Axis A, which Axis turns in two Iron Forks, or half concave Cylinders of Bell-Metal, such as A, fix'd to the upright Timber or Standard AE.\n\nFrom the Middle of the Case on the other Side behind A, there comes out a Trunk or square Pipe, which we call the Sucking-Pipe; which is continued quite to the upper Part of the sick Person's Room, whether it be near or far from the Place where the Machine stands, in an upper or lower Story, above or below the Machine. There is a circular Hole in one of the circular Planes of the Machine of F 18 Inches\n18 Inches Diameter round the Axis, just where the Pipe is inserted into the Case, whereby the Pipe communicates with all the Cavities; and as the Wheel is turn'd swiftly round, the Air which comes from the sick Room, is taken in at the Center of the Wheel, and driven to the Circumference, so as to go out with great Swiftness at the Blowing-Pipe B, fix'd to the said Circumference.\n\nAs the foul Air is drawn away from the sick Rooms, the Air in the neighbouring Apartments will gradually come into the Room through the smallest Passages: But there is a Contrivance to apply the Pipes which go to the sick Room to the Blowing-Pipe B, while the Sucking-Pipe receives its Air only from the Room where the Machine stands. By this means fresh Air may be driven into the sick Room after the foul has been drawn out.\n\nThis Machine would be of great use in all Hospitals, and in Prisons: It would also serve very well to convey warm or cold Air into any distant Room; nay, to perfume it insensibly, upon occasion.\n\nFig. 2. Represents the Inside of the Flat of the Wheel which is farthest from the Handle, and next to the Sucking-Pipe.\n\n1, 2, 3, 4. Represents the Cavity or Hole which receives the Air round the Axis, having about it a circular Plate of Iron to hold all firm; which Plate is made fast to the Wood and to the Iron Crofs that has the Axis in it.\n\ng g g, Denotes, by a prick'd Circle, a narrow Ring of thick Blanketing, which (by pressing against the outside Case, whilst it is fix'd to the outside of the Flat of the Wheel) makes the Passage into the Wheel tight. H H H, is\nHHH is another Circle of Blanketing, likewise fix'd to the outside of the Wheel, and rubbing against the Case, that the Air violently driven against the inner Circumference of the Case, may have no way out, but at the Blowing-Pipe at B.\n\nThere is on the outside of the other Flat of the Wheel, where the Handle is fix'd, a Ring of Blanketing, like HHH, opposite to it; but none opposite to ggg, because the Wood there is not open, but comes home close to the Axis.\n\nFig. 3. gives a vertical Section of the Wheel and Case a little forward of the Axis, drawn by a Scale twice as large as that of the other two Figures.\n\nAa, the Axis supported by the Irons Aa, cylindrically hollow'd, except the upper Part, where a Pin keeps in the Axis.\n\nBD, the Case with the Sucking-Pipe Sa.\n\nEA, the Prop for one End of the Axis.\n\n1, 2, the Opening into the Wheel.\n\ngg, the Eminence of the Wood to which is fix'd the small Ring of Blanketing.\n\nThe four black Marks, one of which is near H, represent the Sections of the two other Rings of Blanketing.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103971.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8254,
+    "total-output-tokens": 1140,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1387,
+        3
+      ],
+      [
+        1387,
+        2968,
+        4
+      ],
+      [
+        2968,
+        4003,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103971",
+    "title": "An Account of an Instrument or Machine for Changing the Air of the Room of Sick People in a Little Time, by Either Drawing out the Foul Air, or Forcing in Fresh Air; or Doing Both Successively, without Opening Doors or Windows",
+    "authors": "J. T. Desaguliers",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103971"
+  }
+}

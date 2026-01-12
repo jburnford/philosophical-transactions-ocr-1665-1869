@@ -1,0 +1,59 @@
+{
+  "id": "f4f343a126d83f2f4e0239902a10d5812235bb9b",
+  "text": "ERRATA.\n\nPage Line\n317 0 for \"[117]\" read \"[317]\" at the top of the page.\n375 Running title, for \"prevention\" read \"preservation.\"\n439 4 for \"Plate XXVII\" read \"Plate XXIX.\"\n445 3 from bottom, for \"having\" read \"leaving.\"\n449 18 for \"1092\" read \"8092.\"\n457 1 from bottom, for \"there were mixtures\" read \"these were mixtures.\"\n463 In the column of differences, the numbers should be placed to stand intermediate between those of the column of parts. Also, dele \"23.4\" in line 8 of the former column, and bring up the remaining differences each a line higher.\n492 2 for \"place\" read \"plane.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107741.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 252,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        589,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107741",
+    "title": "Errata",
+    "authors": null,
+    "year": 1825,
+    "volume": "115",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107741"
+  }
+}

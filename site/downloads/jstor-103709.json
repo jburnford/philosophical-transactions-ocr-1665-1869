@@ -1,0 +1,219 @@
+{
+  "id": "be553e8b1c9a640b28650ae0318db63dc5ff6690",
+  "text": "II. A Method for determining the Number of impossible Roots in affected Equations. By Mr. George Campbell.\n\nLemma I.\n\nIn every affected quadratic equation \\( ax^2 - Bx + A = 0 \\), whose Roots are real, a fourth Part of the Square of the Coefficient of the second Term is greater than the Rectangle under the Coefficient of the first Term and the absolute Number or \\( \\frac{1}{4} B^2 > a \\times A \\); and vice versa if \\( \\frac{1}{4} B^2 < a \\times A \\), the Roots of the Equation \\( ax^2 - Bx + A = 0 \\), will be real. But if \\( \\frac{1}{4} B^2 < a \\times A \\), the Roots will be impossible. This is evident from the Roots of the Equation being\n\n\\[\n\\frac{\\frac{1}{2} B + \\sqrt{\\frac{1}{4} B^2 - a \\times A}}{a}, \\quad \\frac{\\frac{1}{2} B - \\sqrt{\\frac{1}{4} B^2 - a \\times A}}{a}.\n\\]\n\nLemma II.\n\nWhatever be the Number of impossible Roots in the Equation \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + \\ldots + d x^3 \\mp c x^2 \\pm b x \\mp A = 0 \\), there are just as many in the Equation \\( Ax^n - bx^{n-1} + cx^{n-2} - dx^{n-3} + \\ldots + D x^3 \\mp C x^2 \\pm B x \\mp 1 = 0 \\). For the Roots of the last Equation are the Reciprocals of those of the first, as is evident from common Algebra. Let the Roots of the biquadratic Equation \\( x^4 - Bx^3 + Cx^2 - Dx + A = 0 \\) be \\( a, b, c, d \\), whereof let \\( c, d \\) be impossible, then the Roots of the Equation\n\\(Ax^4 - Dx^3 + Cx^2 - Bx + 1 = 0\\) will be \\(\\frac{1}{a}, \\frac{1}{b}, \\frac{1}{c}, \\frac{1}{d}\\), and therefore two of them to wit \\(\\frac{1}{c}, \\frac{1}{d}\\) impossible.\n\n**Lemma III.**\n\nIn every Equation \\(x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} + \\ldots + e x^4 + d x^3 + c x^2 + b x + A = 0\\), all whose Roots are real, if each Term be multiply'd by the Index of \\(x\\) in that Term, and each Product be divided by \\(x\\), the resulting Equation \\(nx^{n-1} - n - 1 Bx^{n-2} + n - 2 Cx^{n-3} - n - 3 Dx^{n-4} + n - 4 Ex^{n-5} + \\ldots + 4e x^3 + 3d x^2 + 2c x + b = 0\\) shall have all its Roots real. Thus if all the Roots of the Equation \\(x^4 - Bx^3 + Cx^2 - Dx + A = 0\\) be real, then all the Roots of the Equation \\(4x^3 - 3Bx^2 + 2Cx - D = 0\\) will also be real. This Lemma doth not hold conversly, for there are an Infinity of Cases where all the Roots of the Equation \\(nx^{n-1} - n - 1 Bx^{n-2} + n - 2 Cx^{n-3} - n - 3 Dx^{n-4} + \\ldots + 3d x^2 + 2c x + b = 0\\) are real, at the same Time some or perhaps all the Roots of the Equation \\(x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + \\ldots + d x^3 + c x^2 + b x + A = 0\\) are impossible: But whatever be the Number of impossible Roots in the Equation \\(nx^{n-1} - n - 1 Bx^{n-2} + n - 2 Cx^{n-3} + \\ldots + 2c x + b = 0\\), there are at least as many in the Equation \\(x^n - Bx^{n-1} + Cx^{n-2} + \\ldots + c x^2 + b x + A = 0\\). Thus all the Roots of the Equation \\(4x^3 - 3Bx^2 + 2Cx - D = 0\\) may be real, and yet two or perhaps all the four\nfour Roots of the Equation \\( x^4 - Bx^3 + Cx^2 - Dx + A = 0 \\) may be impossible, but if two of the Roots of the Equation \\( 4x^3 - 3Bx^2 + 2Cx - D = 0 \\) be impossible, there must be at least two impossible Roots in the Equation \\( x^4 - Bx^3 + Cx^2 - Dx + A = 0 \\). All this hath been demonstrated by Algebraical Writers, particularly by Mr. Reyneau in his Analyse Demonstré, and is easily made evident by the Method of the Maxima and Minima.\n\nCorollary. Let all the Roots of the Equation \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} - Fx^{n-5} + \\&c. \\pm f x^5 \\mp e x^4 \\pm d x^3 \\mp c x^2 \\pm b x \\mp A = 0 \\) be real, and by this Lemma all the Roots of the Equation \\( nx^{n-1} - n-1Bx^{n-2} + n-2Cx^{n-3} - n-3Dx^{n-4} + n-4Ex^{n-5} - n-5Fx^{n-6} + \\&c. \\pm 5f x^4 \\mp 4e x^3 \\pm 3d x^2 \\mp 2c x \\pm b = 0 \\) will be real, and therefore (by the same Lemma) all the Roots of the Equation \\( nx^{n-1} x^{n-2} - n-1x^{n-2} - n-2Bx^{n-3} + n-2x^{n-3} - n-3Cx^{n-4} - n-3x^{n-4}Dx^{n-5} + n-4x^{n-5}Ex^{n-6} - n-5x^{n-6}Fx^{n-7} + \\&c. \\pm 20f x^3 \\mp 12e x^2 \\pm 6dx \\mp 2c = 0 \\)\n\nor (dividing all by 2) of \\( n \\times \\frac{n-1}{2} x^{n-2} - n-1x^{n-2} - n-2Bx^{n-3} + n-2x^{n-3} - n-3Cx^{n-4} - n-3x^{n-4}Dx^{n-5} + n-4x^{n-5}Ex^{n-6} - n-5x^{n-6}Fx^{n-7} + \\&c. \\pm 10f x^3 \\mp 6e x^2 \\pm 3d x \\mp c = 0 \\) will be real. After the same Manner all the Roots of the Equation \\( n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} x^{n-3} - n-1x^{n-3} - n-2x^{n-3} - n-3Cx^{n-4} - n-3x^{n-4}Dx^{n-5} + n-4x^{n-5}Ex^{n-6} - n-5x^{n-6}Fx^{n-7} + \\&c. \\pm 20f x^3 \\mp 12e x^2 \\pm 6dx \\mp 2c = 0 \\)\n\\[ B x^{n-4} + \\frac{n-2}{2} \\times \\frac{n-3}{3} \\times \\frac{n-4}{4} C x^{n-5} - \\text{&c.} \\pm \\]\n\nIf \\( x^2 + 4ex + d = 0 \\) will be real; and thus we may descend until we arrive at the quadratick Equation\n\n\\[ n \\times \\frac{n-1}{2} x^2 - n-1 Bx + C = 0. \\]\n\nThe same Equations do ascend thus\n\n\\[ n \\times \\frac{n-1}{2} x^2 - n-1 Bx + C = 0, \\]\n\\[ n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} x^3 - n-1 \\times \\frac{n-2}{2} Bx^2 + \\]\n\\[ n-2 Cx - D = 0, \\]\n\\[ n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\frac{n-3}{4} x^4 \\]\n\\[ n-1 \\times \\frac{n-2}{2} \\times \\frac{n-3}{3} Bx^3 + n-2 \\times \\frac{n-3}{2} \\times \\]\n\\[ Cx^2 - n-3 Dx + E = 0, \\]\n\\[ n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\]\n\\[ n-3 \\times \\frac{n-4}{4} x^5 - n-1 \\times \\frac{n-2}{2} \\times \\frac{n-3}{3} \\times \\frac{n-4}{4} \\]\n\\[ Bx^4 + n-2 \\times \\frac{n-3}{2} \\times \\frac{n-4}{3} Cx^3 - n-3 \\times \\frac{n-4}{2} \\]\n\\[ Dx^2 + n-4 Ex - F = 0, \\text{ and so on.} \\]\n\nLet \\( M \\) represent any of the Coefficients of the Equation\n\n\\[ x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} - \\text{&c.} \\pm A = 0, \\]\n\nand let \\( LN \\) be the adjacent Coefficients, let \\( M \\) be the Exponent of the Coefficient \\( M \\): By the Exponent of a Coefficient I mean the Number which expresseth\nexpresseth the Place which it hath among the Coefficients, thus if $M$ represent the Coefficient $E$ (and therefore $L = D$ and $N = F$) then $m = 4$. It will be easy to see, that, amongst the foregoing ascending Equations, that which hath its absolute Number $N$ will be $n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\&c.$\n\n$\\frac{n-m}{m+1} x^{m+1} - n-1 \\times \\frac{n-2}{2} \\times \\&c. \\frac{n-m}{m} B x^m +$\n\n$n-2 \\times \\&c. \\frac{n-m}{m-1} C x^{m-1} - \\&c. \\pm n-m+1 \\times$\n\n$\\frac{n-m}{2} L x^2 \\mp n-m M x \\pm N = 0$, all whose Roots are real when all the Roots of the Equation $x^n - B x^{n-1} + C x^{n-2} - \\&c. \\pm A = 0$ are real.\n\nLet $N = F$ and therefore $M = E$, $L = D$ and $m = 4$, then that of the ascending Equations whose absolute Number is $F$, will be $n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times$\n\n$\\frac{n-3}{4} \\times \\frac{n-4}{5} x^5 - n-1 \\times \\frac{n-2}{2} \\times \\frac{n-3}{3} \\times \\frac{n-4}{4}$\n\n$B x^4 + n-2 \\times \\frac{n-3}{2} \\times \\frac{n-4}{3} C x^3 - n-3 \\times \\frac{n-4}{2}$\n\n$D x^2 + \\frac{n-4}{2} E x - F = 0.$\n\nPRO.\nPROPOSITION I.\n\nLet \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} + \\ldots \\pm e x^4 \\mp dx^3 \\pm cx^2 \\mp bx \\pm A = 0 \\) be an Equation of any Dimensions all whose Roots are real, let \\( M \\) be any Coefficient of this Equation, \\( L, N \\) the adjacent Coefficients, and \\( m \\) the Exponent of \\( M \\). Then the Square of any Coefficient \\( M \\) multiply'd by the Fraction \\( \\frac{m \\times n - m}{m + 1 \\times n - m + 1} \\) will always exceed the Rectangle under the adjacent Coefficients \\( L \\times N \\). Thus in the Equation \\( x^4 - Bx^3 + Cx^2 - Dx + A = 0 \\), where \\( n = 4 \\), making \\( M = C \\) and therefore \\( L = B, N = D \\), and \\( m = 2 \\), then\n\n\\[\n\\frac{2 \\times 4 - 2}{2 + 1 \\times 4 - 2 + 1} \\times C^2 \\text{ or } \\frac{4}{9} C^2 \\text{ will exceed } B \\times D\n\\]\n\nproviding all the Roots of the Equation be real.\n\nBecause (by Lem. 3.) the Roots of the quadratick Equation \\( n \\times \\frac{n-1}{2} x^2 - n-1 Bx + C = 0 \\), are real, therefore (by Lem. 1.) \\( \\frac{1}{4} n-1 \\times B^2 \\) must be greater than \\( n \\times \\frac{n-1}{2} \\times C \\) and (dividing both by \\( n \\times \\frac{n-1}{2} \\)) \\( \\frac{n-1}{2n} \\times B^2 \\) greater than \\( 1 \\times C \\). Therefore in the Equation \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + \\ldots \\pm A = 0 \\) of the \\( n \\) Degree, all whose Roots are real, the Square of \\( B \\) the Coefficient of the second Term,\nTerm, multiply'd by the Fraction $\\frac{n-1}{2n}$ is greater than $1 \\times C$ the Rectangle under the adjacent Coefficients. But (by Lem. 2.) all the Roots of the Equation $Ax^n - bx^{n-1} + cx^{n-2} - \\&c. \\pm Cx^2 \\mp Bx \\pm 1 = 0$ or (dividing by $A$) of $x^n - \\frac{b}{A}x^{n-1} + \\frac{c}{A}x^{n-2} - \\&c. \\pm \\frac{C}{A}x^2 \\mp \\frac{B}{A}x \\pm \\frac{1}{A} = 0$ are real, therefore (from what hath been just now said) $\\frac{n-1}{2n} \\times \\frac{b^2}{A^2}$ must be greater than $1 \\times \\frac{c}{A}$ and consequently $\\frac{n-1}{2n} \\times b^2$ greater than $c \\times A$. Therefore in an Equation $x^n - Bx^{n-1} + Cx^{n-2} - \\&c. \\pm c x^a \\mp b x \\pm A = 0$, of the $n$ Degree, all whose Roots are real, the Square of the Coefficient of $x$ multiply'd by the Fraction $\\frac{n-1}{2n}$ is greater than the Rectangle under the Coefficient of $x^2$ and the absolute Number. But by Cor. Lem. 3. all the Roots of the Equation $n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\&c. \\times \\frac{n-m}{m+1} \\times x^{m+1} - \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\&c. \\times \\frac{n-m}{m} Bx^n + \\frac{n-2}{2} \\times \\&c. \\frac{n-m}{m-1} Cx^{m-1} \\&c. \\pm n-m+1 \\times \\frac{n-m}{2} \\times Lx^2 \\mp$\n\\[\n\\frac{n-m}{n-m} M \\times N = 0 \\text{ are real, therefore (seeing this Equation is of the } m + 1 \\text{ Degree) the Square of}\n\\]\n\\[\n\\frac{n-m}{n-m} \\times M \\text{ multiply'd by the Fraction } \\frac{m+1-i}{2 \\times m+1}\n\\]\n\\[\n\\text{will be greater than the Rectangle under } \\frac{n-m+i}{n-m+i} \\times\n\\]\n\\[\n\\frac{n-m}{2} \\times L \\text{ and } N, \\text{ that is } \\frac{m}{2 \\times m+1} \\times \\frac{n-m}{n-m} \\times\n\\]\n\\[\nM^2 \\text{ will be greater than } \\frac{n-m+i}{n-m+i} \\times \\frac{n-m}{2} \\times L \\times N\n\\]\n\\[\n\\text{and therefore (dividing both by } \\frac{n-m+i}{n-m+i} \\times \\frac{n-m}{2})\n\\]\n\\[\n\\frac{m \\times n-m}{m+1 \\times n-m+i} \\times M^2 \\text{ greater than } L \\times N.\n\\]\n\n**Corollary.** Make a Series of Fractions\n\\[\n\\frac{n}{1}, \\frac{n-1}{2}, \\frac{n-2}{3}, \\frac{n-3}{4}, \\&c. \\text{ unto } \\frac{1}{n} \\text{ whose Denominators are Numbers going on in the Progression}\n\\]\n\\[\n1, 2, 3, 4, \\&c. \\text{ unto the Number } n \\text{ which is the Dimensions of the Equation } x^n - Bx^{n-1} + Cx^{n-2} - \\&c. \\pm A = 0, \\text{ and whose Numerators are the same Progression inverted. Divide the second of these Fractions by the first, the third by the second, the fourth by the third, and so on, and place the Fractions which result from this Division above the middle Terms of}\n\\]\n\\[\n\\frac{n-1}{2^n} \\quad \\frac{2 \\times n-2}{3 \\times n-1} \\quad \\frac{3 \\times n-3}{4 \\times n-2} \\quad \\&c.\n\\]\n\\[\n\\text{the Equation, thus } x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} +\n\\]\nThen if all the Roots of the Equation are real, the Square of any Coefficient multiply'd by the Fraction which stands above, will be greater than the Rectangle under the adjacent Coefficients. This Corolary doth not hold conversly, for there are an Infinity of Equations in which the Square of each Coefficient multiply'd by the Fraction above it, may be greater than the Rectangle under the adjacent Coefficients, and notwithstanding some or perhaps all of the Roots may be impossible. Therefore when the Square of a Coefficient multiply'd by the Fraction above, is greater than the Rectangle under the adjacent Coefficients, from this Circumstance nothing can be determined as to the Possibility or Impossibility of the Roots of the Equation: But when the Square of a Coefficient multiply'd by the Fraction above it, is less than the Rectangle under the adjacent Coefficients, it is a certain Indication of two impossible Roots. From what hath been said, is immediately deduced the Demonstration of that Rule which the most illustrious Newton gives for determining the Number of impossible Roots in any given Equation.\n\nSCHOLIUM.\n\nLet the Roots of the Equation \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} - Fx^{n-5} + \\&c. \\pm A = 0 \\) (with their Signs) be represented by the Letters \\( a, b, c, d, e, f, g, \\&c. \\) then (as is commonly known) \\( B \\) will be the Sum of all the Roots or \\( = a + b + c + d + e + f + \\&c. \\) \\( C \\) the Sum of the Products \\( A \\) of\nof all the Pairs of Roots or \\(= ab + ac + ad + af + ag + \\&c.\\) D the Sum of the Products of all the Ternaryes of Roots or \\(= abc + abd + abe + abf + abg + \\&c.\\) E \\(= abcd + abce + abcf + abeg + \\&c.\\) F \\(= abcde + abcdf + abcdg + bcdef + \\&c.\\) and so on. Let (as in this Proposition) \\(M\\) represent any of these Coefficients, \\(L, N\\) the adjacent Coefficients, and \\(m\\) the Exponent of \\(M\\); let \\(Z\\) represent the Sum of the Squares of all the possible Differences between the Terms of the Coefficient \\(M\\), let \\(a\\) be the Sum of all those of the foresaid Squares whose Terms differ by one Letter, \\(b\\) the Sum of all those Squares whose Terms differ by two Letters, \\(y\\) the Sum of those Squares whose Terms differ by three Letters, \\(d\\) the Sum of those Squares whose Terms differ by four Letters and so on. Thus if \\(M = F = abcde + abcdf + abcdg + \\&c.\\)\n\nthen \\(Z = abcde - abcdf|^2 + abcde - abcdg|^2 + abcde - abcfg|^2 + bcdef - abfgb|^2 + \\&c.\\)\n\n\\(a = abcde - abcdf|^2 + abcde - abcdg|^2 + abcde - abcfg|^2 + bcdef - bcdeg|^2 + \\&c.\\)\n\n\\(b = abcde - abcfg|^2 + abcde - abcfg|^2 + bcdef - acdfb|^2 + \\&c.\\)\n\n\\(y = abcde - abfgb|^2 + abcdf - abegb|^2 + \\&c.\\)\n\n\\(d = abcde - afgbk|^2 + acdfg - abehk|^2 + \\&c.\\)\n\nThis being laid down I say that the Square of any Coefficient \\(M\\) multiply'd by the Fraction \\(\\frac{m \\times n - m}{m + 1 \\times n - m + 1}\\) exceeds the Rectangle under the adjacent Coefficients \\(L \\times N\\) by \\(\\frac{n + 1 \\times Z}{n + 1 \\times Z}\\).\nThe Series \\( \\frac{1}{2} \\alpha - \\frac{1}{3} \\beta - \\frac{1}{4} \\gamma - \\ldots \\) must consist of \\( m \\) Number of Terms.\n\nLet the Equation be \\( x^5 - Bx^4 + Cx^3 - Dx^2 + Ex - A = 0 \\), whose Roots let be \\( a, b, c, d, e \\), in which Case \\( n = 5 \\). Let \\( M = B = a + b + c + d + e \\), then \\( L = 1, N = G, m = 1, Z = |a - b|^2 + |a - c|^2 + |a - d|^2 + |a - e|^2 + |b - c|^2 + \\ldots = \\alpha \\); therefore \\( \\frac{1 \\times 5 - 1}{1 + 1 \\times 5 - 1 + 1} \\times B^2 \\) or \\( \\frac{2}{5} B^2 \\) exceeds \\( 1 \\times C \\) by \\( \\frac{5 + 1 \\times Z}{1 + 1 \\times 5 - 1 + 1} \\).\n\n\\[ \\frac{1}{2} \\alpha = \\frac{3}{5} Z - \\frac{1}{2} \\alpha = (\\text{because } Z = \\alpha) \\]\n\n\\[ \\frac{1}{10} Z = \\frac{1}{10} |a - b|^2 + \\frac{1}{10} |a - c|^2 + \\frac{1}{10} |a - d|^2 + \\ldots \\] which is always a positive Number when the Roots \\( a, b, c, d, e \\) are real, positive or negative Numbers. Let \\( M = C = ab + ac + ad + ae + bc + \\ldots \\) then \\( L = B, N = D, m = 2, Z = ab - ac|^2 + ab - ad|^2 + ab - cd|^2 + ab - de|^2 + \\ldots \\alpha = ab - ac|^2 + ab - ad|^2 + ab - ae|^2 + \\ldots \\beta = ab - cd|^2 + ab - ce|^2 + ab - de|^2 + \\ldots \\) therefore \\( \\frac{2 \\times 5 - 2}{2 + 1 \\times 5 - 2 + 1} \\times C^2 \\)\nor \\( \\frac{1}{2} C^2 \\) surpasseth \\( B \\times D \\) by \\( \\frac{5 + 1 \\times Z}{2 + 1 \\times 5 - 2 + 1} \\)\n\n\\[- \\frac{1}{2} \\alpha - \\frac{1}{3} \\beta = (\\text{because } Z = \\alpha + \\beta) = \\frac{1}{6} \\]\n\n\\( \\beta = \\frac{1}{6} \\times |ab - cd|^2 + \\frac{1}{6} \\times |ab - ce|^2 + \\frac{1}{6} \\times |ab - de|^2 + \\&c. \\) which is always a positive Number when the Roots \\( a, b, c, d, e \\) are real Numbers, positive or negative. Let \\( M = D = abc + abd + abe + acd + ace + \\&c. \\) then \\( L = C, N = E, m = 3, Z = abc - abd|^2 + abc - abe|^2 + abc - ade|^2 + \\&c. \\alpha = abc - abd|^2 + abc - abe|^2 + abc - ade|^2 + \\&c. \\beta = abc - ade|^2 + abc - cde|^2 + abc - bde|^2 + \\&c. \\gamma = 0, \\) therefore \\( \\frac{3 \\times 5 - 3}{3 + 1 \\times 5 - 3 + 1} \\times D^2 \\) or \\( \\frac{1}{2} D^2 \\) exceeds \\( C \\times E \\) by \\( \\frac{5 + 1}{3 + 1 \\times 5 - 3 + 1} \\times Z - \\frac{1}{2} \\alpha - \\frac{1}{3} \\beta = (\\text{because } Z = \\alpha + \\beta) = \\frac{1}{6} \\times \\)\n\n\\( \\beta = \\frac{1}{6} \\times |abc - ade|^2 + \\frac{1}{6} \\times |abc - cde|^2 + \\frac{1}{6} \\times |abc - bde|^2 + \\&c. \\) which is a positive Number when the Roots are real Numbers. Let \\( M = E = abcd + abce + abde + bcde + \\&c. \\) then \\( L = D, N = A, m = 4, Z = abcd - abce|^2 + abcd - bcde|^2 + abcd - acde|^2 + \\&c. = \\alpha, \\beta = \\)\n\\[\n\\beta = 0 = \\gamma = \\delta, \\text{ therefore } \\frac{4 \\times 5 - 4}{4 + 1 \\times 5 - 4 + 1} \\times E^2 \\text{ or }\n\\]\n\n\\[\n\\frac{2}{5} E^2 \\text{ exceeds } D \\times A \\text{ by } \\frac{5 + 1}{4 + 1 \\times 5 - 4 + 1} \\times Z -\n\\]\n\n\\[\n\\frac{1}{2} \\alpha = \\frac{3}{5} Z - \\frac{1}{2} \\alpha = \\frac{1}{10} Z = \\frac{1}{10} \\times abcd - abce^2 +\n\\]\n\n\\[\n\\frac{1}{10} \\times abcd - bcde^2 + \\&c. \\text{ which is a positive Number when the Roots are real Numbers.}\n\\]\n\n**Proposition II.**\n\nLet \\( x^n - Bx^{n-1} + Cx^{n-2} - Dx^{n-3} + Ex^{n-4} - \\&c. \\pm A = 0 \\) be an Equation of any Degree, whose Roots with their Signs let be expressed by the Letters \\( a, b, c, d, e, f, \\&c. \\) let \\( M \\) represent any Coefficient of this Equation, \\( L, N \\) the Coefficients adjacent to \\( M; K, O \\) the Coefficients adjacent to \\( L, N; I, P \\) those adjacent to \\( K, O; H, Q \\) those adjacent to \\( I, P, \\) and so on. Let \\( m \\) represent the Exponent of \\( M \\) and let \\( Z \\) (as in the preceding Proposition) represent the Sum of the Squares of all the possible Differences between the Terms of the Coefficient \\( M. \\) Then the Product of the Square of any Coefficient \\( M \\) multiply'd by the Fraction \\( \\frac{1}{2} \\times \\)\n\n\\[\n\\frac{1}{n \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\&c. \\times \\frac{n-m+1}{m}} \\text{ doth always }\n\\]\nalways exceed $L \\times N - K \\times O + I \\times P - H \\times Q + \\&c.$\n\nby $\\frac{1}{2} Z$ which\n\n$$\\frac{n \\times n - 1}{2} \\times \\frac{n - 2}{3} \\times \\&c. \\times \\frac{n - m + 1}{m}$$\n\nis always a positive Number, when the Roots $a, b, c, d, e \\&c.$ are real Numbers positive or negative.\n\nLet the Equation be of the seventh Degree or\n\n$$x^7 - Bx^6 + Cx^5 - Dx^4 + Ex^3 - Fx^2 + Gx - A = 0,$$\n\nwhose Roots let be $a, b, c, d, e, f, g$, in which Case $n = 7$. Let $M = E = abcd + abce + abc f + abcg + bcde + \\&c.$ then $m = 4$,\n\n$L = -D, N = -F, K = C, O = G, I = -B,$\n\n$P = -A, Z = abcd - abce|^2 + abcd - abcf|^2 + abcd - abcg|^2 + \\&c.$ Therefore $\\frac{1}{2} \\times$\n\n$$\\frac{1}{7 \\times \\frac{6}{2} \\times \\frac{5}{3} \\times \\frac{4}{4}} \\times E^2 \\text{ or } \\frac{17}{35} E^2 \\text{ exceeds } D \\times$$\n\n$F - C \\times G + B \\times A$ by $\\frac{1}{2} Z$ or $\\frac{Z}{70} =$\n\n$$\\frac{1}{70} \\times abcd - abce|^2 + \\frac{1}{70} \\times abcd - abcf|^2 + \\&c.$$ \n\nFrom this Proposition, is deduced the following Rule for determining the Number of impossible Roots in any given Equation. From each of the Uncise of the middle Terms of that Power of a Binomial, whose\nwhose Index is the Dimensions of the proposed Equation, subtract Unity, then divide each Remainder by twice the Correspondent Uncia, and set the Fractions which result from this Division, above the middle Terms of the given Equation. And under any of the middle Terms if its Square multiplyed by the Fraction standing above it, be greater than the Rectangle under the immediately adjacent Terms, Minus the Rectangle under the next adjacent Terms, Plus the Rectangle under the Terms then next adjacent — &c. place the Sign +, but if it be less, place the Sign —. And under the first and last Term place +. And there will be at least as many impossible Roots, as there are Changes in the Series of the under-written Signs from + to —, or from — to +. Let it be required to determine the Number of impossible Roots in the Equation $x^7 - 5x^6 + 15x^5 - 23x^4 + 18x^3 + 10x^2 - 28x + 24 = 0$. The Unciae of the middle Terms of the 7th Power of a Binomial are 7, 21, 35, 35, 21, 7, from which subtracting Unity, and dividing each of the Remainders by twice the correspondent Uncia, the Quotients will be $\\frac{6}{14}, \\frac{20}{42}, \\frac{34}{70}, \\frac{34}{70}, \\frac{20}{42}, \\frac{6}{14}$ or $\\frac{3}{7}, \\frac{10}{21}, \\frac{17}{35}, \\frac{17}{35}, \\frac{10}{21}, \\frac{3}{7}$ which Fractions place above the middle Terms of the Equation, has $x^7 - 5x^6 + 15x^5 - 23x^4 + 18x^3 + 10x^2 - 28x + 24 = 0$.\n\\[23x^4 + 18x^3 + 10x^2 - 28x + 24 = 0.\\] Then because the Square of \\(-5x^6\\) multiply'd into the Fraction over its Head \\(\\frac{3}{7}\\), to wit \\(\\frac{75}{7} x^{12}\\) is less than \\(x^7 \\times 15x^5\\) or \\(15x^{12}\\) I place the Sign — under the Term \\(5x^6\\). Because the Square of \\(15x^5\\) multiply'd by the Fraction over its Head \\(\\frac{10}{21}\\) to wit \\(\\frac{705}{7} x^{10}\\) is greater than \\(-5x^6 \\times -23x^4 - x^7 \\times 18x^3 = 97x^{10}\\) I place the Sign + under the Term \\(15x^5\\). Seeing \\(\\frac{8993}{35} x^8\\) (the Square of the Term \\(-23x^4\\) multiply'd by the Fraction over its Head \\(\\frac{17}{35}\\)) is less than \\(15x^5 \\times 18x^3 - 5x^6 \\times 10x^2 + x^7 \\times -28x = 292x^8\\), I place the Sign — under the Term \\(23x^4\\). Because \\(\\frac{18x^3}{2} \\times \\frac{17}{35}\\) or \\(\\frac{5508}{35} x^6\\) exceeds \\(-23x^4 \\times 10x^2 - 15x^5 \\times -28x + -5x^6 \\times 24 = 70x^6\\) I place the Sign + under the Term \\(18x^3\\). Since \\(\\frac{10}{21} x^2 \\times \\frac{1000}{21} x^4\\) is less than \\(+18x^3 \\times -28x - 23x^4 \\times 24 = 48x^4\\) I place the Sign — under the\nthe Term $10x^2$. Because $\\frac{28}{7} \\times \\frac{3}{7}$ or $336x^2$ is greater than $10x^2 \\times 24 = 240x^2$ under $28x$ I place $+$, then under the first and last Terms I place $+$; and the six Changes of under-written Signs shews that there are six impossible Roots.\n\nIf the impossible Roots were to be found by the Newtonian Rule, the Operation would stand thus:\n\n$$x^7 - \\frac{5}{7}x^6 + \\frac{15}{9}x^5 - \\frac{23}{4}x^4 + \\frac{18}{3}x^3 + \\frac{10}{5}x^2 - \\frac{28}{3}x + 24 = 0,$$\n\nby which Rule there are found only two impossible Roots, whereas there are six to wit $1 + \\sqrt{-3}, 1 - \\sqrt{-3}, 1 + \\sqrt{-2}, 1 - \\sqrt{-2}, 1 + \\sqrt{-1}, 1 + \\sqrt{-1}$, the seventh Root being $-1$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103709.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 18,
+    "total-input-tokens": 26062,
+    "total-output-tokens": 9434,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1356,
+        2
+      ],
+      [
+        1356,
+        2864,
+        3
+      ],
+      [
+        2864,
+        4462,
+        4
+      ],
+      [
+        4462,
+        5730,
+        5
+      ],
+      [
+        5730,
+        6810,
+        6
+      ],
+      [
+        6810,
+        8198,
+        7
+      ],
+      [
+        8198,
+        9407,
+        8
+      ],
+      [
+        9407,
+        10899,
+        9
+      ],
+      [
+        10899,
+        12377,
+        10
+      ],
+      [
+        12377,
+        13876,
+        11
+      ],
+      [
+        13876,
+        15101,
+        12
+      ],
+      [
+        15101,
+        16430,
+        13
+      ],
+      [
+        16430,
+        17781,
+        14
+      ],
+      [
+        17781,
+        18958,
+        15
+      ],
+      [
+        18958,
+        20363,
+        16
+      ],
+      [
+        20363,
+        21465,
+        17
+      ],
+      [
+        21465,
+        22168,
+        18
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103709",
+    "title": "A Method for Determining the Number of Impossible Roots in Adfected AEquations. By Mr. George Campbell",
+    "authors": "George Campbell",
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 18,
+    "jstor_url": "https://www.jstor.org/stable/103709"
+  }
+}

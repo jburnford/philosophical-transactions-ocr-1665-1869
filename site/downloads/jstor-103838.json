@@ -1,0 +1,69 @@
+{
+  "id": "0eee5cb4b14fbf638a4821596f7a7ccfb7d95eff",
+  "text": "XI. Observatio Eclipsei Solis totalis cum mora facta Gothoburgi Sveciae, sub elev. Poli 57° 40' 54\", d. 2 Maij, stylo Jul. An. 1733, à Dom. Birgero Vassenio, Leetore Mathem. in Gymnasio Regio Gothoburg.\n\nInitium Eclipseos, quod ob nubes interpositas animadverti non potuit, ante 6h 26' post mer. incidisse videtur.\n\n6h 38' 43' ad tres fere digitos obscurabatur Sol.\n6 49 52 ad sex plus minus digitos.\n7 14 6 adparebat 4.\n7 14 46 incepit totus tegi Solis discus.\n7 15 50 Maximae tenebræ, cum stellæ omnes ursæ majoris, cor 8, Sirius, Procyon, Oculus 8, & nonnullæ aliæ videri poterant: non tamen 9 neque 8 conspecti.\n7 16 54 Cum incredibili celeritate Sol radios ejaculari coepit.\n7 20 12 adparebat adhuc 4.\n7 41 38 ad sex digitos Sol tegebatur.\n8 5 50 finis Eclipseis, toto lucente Solis disco.\n\nMora Eclipseos totalis Gothoburgi Sveciae, 2' 8\".\nMora hujus Eclipseis totalis in loco quodam Swenaker dicto, septem milliar. Svethic. hinc versus Septentrionem distante, sub Elev. Poli 58°. 15', ut ope penduli oscillatorii observavit Frater meus Germanus Torbanus Vassenius, erat 2' 31\".\n\nTempore,\nTempore, quo Sol totus tegebatur, praeter maximam partem macularum in disco, atmosphaeram Lunae, per Telescopium 21 fere pedum Sveti vidi; eamque in limbo Lunae occidentali, sub maxima immersione, paulo lucidiorem; absque tamen irregularitate illa & inaequalitate luminosorum radiorum, quae in oculos sine tubo intuentium incurrebat. Admiratione non solum, sed & judicio Illusterrimae Regiae Societatis maxime dignae videbantur subrubicundae nonnullae maculae in illa, extra peripheriam disce Lunaris, conspectae, numero tres aut quattuor; quas inter una erat ceteris major, medio fere loco inter meridiem & occidentem, quantum judicare licuit. Composita haec erat tribus quasi partibus seu nubeculis minoribus parallelis inaequalis longitudinis, cum aliquali obliquitate ad peripheriam Lunae. Admiratus Phaenomenon Socio, qui lynceis erat oculis, copiam videndi feci. Ceterum, cum is tubo non adsuetus ne quidem lunare corpus inveniret; ipse iterum eandem maculam, aut, si mavis, nubem invariatae situmque pristinum in Atmosphaera prope ad peripheriam Lunae occupantem, sine omni suspicione vitii tubi aut oculi, per 40 aut plurium minutorum sec. tempus laetus perspexi. Tandem vero radius Solaris, fulguris instar, in boreali Lunae limbo emissus oculo Mercurium fere perigeum in tanta festinatione frustra inquisituro jucundissimum hoc Spectaculum, exspectatione citius, subduxit.\n\nGothob. 20 Jun. stylo Jul.\nAnni 1733.\n\nXII. Pro-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103838.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 1002,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1095,
+        2
+      ],
+      [
+        1095,
+        2527,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103838",
+    "title": "Observatio Eclipsis Solis Totalis Cum Mora Facta Gothoburgi Sveciae, Sub Elev. Poli 57 degrees 40<sup>′</sup> 54<sup>′ ′</sup> d. 2 Maij, Stylo Jul. An. 1733, á Dom. Birgero Vassenio, Lectore Mathem. in Gymnatio Regio Gothoburg",
+    "authors": "Birgero Vassenio",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103838"
+  }
+}

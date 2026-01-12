@@ -1,0 +1,59 @@
+{
+  "id": "48394667006cda2b6568d2a55558a482ecf9b616",
+  "text": "formi major. Ampana H. M. Raii Hist. p. 1366. Shown to the Society by Mr. James Pettiver, one of their Members, that the several Leaves of all these Books were made of the Leaves of this Palm wrote on by a Stile.\n\nVI. An Account of what happened to a Child on swallowing two Copper Farthings. Communicated by Dr. Edward Baynard, Fellow of the College of Physicians.\n\nI Living then in Worcester, my Son William Underhill, aged about Three Years, swallowed by accident two Copper Farthings, but half a Year one after the other. Upon the first Farthing, he eat nothing for ten Days, and complained of a great Pain at his Stomach, and dri-vel'd as if he had been salivated; and often said he had a nauseous venomous Taste in his Mouth, the Farthing not coming from him in half a Year. After the swallowing of the second Farthing he began by Degrees to lose his Limbs, his Breast growing narrow, and the Child Consumptive; who was after perfectly cured by the Bath, and his Breast dilated and grew broad as before. This happening about Ten Years since, these are most of the Particulars I can remember. Witness my Hand,\n\nHer. Underhill.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102569.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 334,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1131,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102569",
+    "title": "An Account of What Happened to a Child on Swallowing Two Copper Farthings. Communicated by Dr. Edward Baynard, Fellow of the College of Physitians",
+    "authors": "Edward Baynard",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102569"
+  }
+}

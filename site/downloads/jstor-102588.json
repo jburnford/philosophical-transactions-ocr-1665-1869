@@ -1,0 +1,69 @@
+{
+  "id": "7778302095f475f96c1f746a8c693a088d710248",
+  "text": "If you put a little of this last Liquor into the first, it will give a fine redish Colour, without making it troubled or causing any other sensible Alteration.\n\nIf instead of this Wine mixed with Acids, you put to the first some Drops of any volatile Alcali's, as of Spirit of Sal Armoniack, or other, it will give a Green Colour to the Infusion.\n\nThe Two first mentioned Liquors were brought to a Meeting of the Royal Society by Monsieur Geoffrey, one of their Members, where the first Experiment above-recited being made, it succeeded according to Expectation.\n\nIII. A further Account of the China Cabinet, by Hans Sloane, M.D.\n\nSEEDS to clarify Water, (vid. Fig. 8.) These Seeds I have seen come several times heretofore from the Coast of Coromandel and Malabar, where they are used for the clarifying Water. They are about the Bignets of a small Pea, only broader and flatter, having Striae run from their Center after the manner of the common Nux Vomica. The best Account I have had of the way of using them was from Dr. Brown, who lived in the East-Indies some time, he says they rub or grate them on the bottom of a small Earthen Basin, wherein is contained some Water. This Water and Powder is put into a large Quantity of muddy, or foul Water, which is by this clarified.\n\nNux pepita seu faba sancti Ignatii. This is figured No. 7, being about the bigness of a Nutmeg, and Triangular. This Fruit is very much esteemed in the Philippine Islands for the Cure of many Distempers, as will be more at large seen in the next Transaction, wherein is design'd to be published from Mr. Buckley, a further Account of it, and the Description and Figure of its Leaves, Flower, &c. drawn and sent from the Philippine Islands, where it grows, by Father Kamelli, to Mr. Ray and Mr. Pettiver, Fellows of the Royal Society.\n\nIV. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102588.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 534,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1825,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102588",
+    "title": "A Further Account of the China Cabinet, by Hans Sloane, M. D.",
+    "authors": "Hans Sloane",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102588"
+  }
+}

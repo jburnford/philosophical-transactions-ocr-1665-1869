@@ -1,0 +1,79 @@
+{
+  "id": "05c811377fffa0ce6ca60ff085821974e7018a46",
+  "text": "I. Experimenta circa gradum caloris liquorum non-nullorum ebullientium instituta. A Daniele Gabr. Fahrenheit, R. S. S.\n\nCum elapsis abhinc circiter decem annis in Hito-\nriâ Scientiarum Societatis Regiæ Parisiensis legis-\nsem, quod celeberrimus Amontonius, ope alicujus ther-\nmometri ab eo inventi, detexisset, aquam fixo caloris\ngradu ebullire; statim magno accendebar desiderio,\nthermometrum ejusmodi mihi meti ipsi præparare, ut\npulchrum hocce naturæ phænomenon mihi oculis per-\nlustrare liceret, & de veritate experimenti convictus\nessem.\n\nQuapropter thermometri structuram quidem tenta-\nbam, sed ob habitudinis sufficientis in elaboratione illi-\nus defectum, vana erant conamina, licet sæpius iterata;\n& quoniam etiam alia negotia prohibebant thermometri\nelaborationi magis insisterè, opportuniore repetitionem\nillius dedicabam temporì. Cum defectu virium atque\ntemporis ardor non langueficebat, æque avidus enim\nexperimenti exitum videndi manebam. In mentem autem\nmihi veniebant ea, quæ solertissimus ille rerum natu-\nralium scrutator de rectificatione barometrorum scrip-\nserat; observaverat enim altitudinem columnæ mercuri-\nalis in barometro a vario temperamento mercurii ali-\nquantulum (satis sensibiliter tamen) turbari. Ex his re-\nbar, quod thermometron fortasse e mercurio construi\nposset, cujus structura non adeo difficilis foret, & cujus\ntamen ope experimentum maxime a me desideratum ex-\nplorare liceret.\n\nVol. XXXIII. B Præpa-\nPræparato ejusmodi thermometro (licet in multis adhuc imperfecto) voto tamen meo eventus respondebat; magnâ enim animi voluptate rei veritatem contemplabat.\n\nTres jam erant anni elapsi, in quibus opticis aliisque incubuissem laboribus, cum cupidus fierem experimentis explorare, an etiam alii liquores fixo ebullituri essent gradu caloris. Exitus experimentorum sequenti continetur tabula, cujus prima columna exhibet liquores adhibitos; secunda illorum gravitatem specificam; tertia gradum caloris, ad quem unusquisque liquor ebulliendo pertigit.\n\n| Liquores          | Gravitas specifica Liquorum ad 48 Gr. calidorum. | Gradus ebullitione acquisiti. |\n|-------------------|--------------------------------------------------|-------------------------------|\n| Spiritus vel Alcobol vini. | 8260                                             | 176                           |\n| Aqua Pluvia.      | 10000                                            | 212                           |\n| Spiritus Nitri.   | 12935                                            | 242                           |\n| Lixivium cineris clavellati | 15634                                           | 240                           |\n| Ol. Vitrioli      | 18775                                            | 546                           |\n\nGravitatem specificam cujuscunque liquoris addendum necesse judicavi, ut si aliorum experimenta jam instituta, vel adhuc instituenda, a memoratis different, colligi possit, an e variatione gravitatis specificae, vel ex aliis differentia petenda sit causis. Experimenta præterea non eodem tempore sunt facta, & inde etiam liquores vario temperamenti vel caloris gradu erant affecti, sed quoniam illorum gravitas diversimode & inæqualiter turbatur, calculo illorum gravitatem ad 48 gradum (qui in thermometris meis medium tenet locum inter terminum intensissimi frigoris arte commixtione aquæ, glaciei, salisque Armoniaci, vel etiam maritimi, confecti, &c.\ninter terminum caloris, qui in sanguine hominis sani reperitur) revocavi.\n\nOlea Volatilia aliquo gradu quidem incipiunt ebullire, sed eorum calor ebulliendo semper augetur. Cujus rei causa fortasse erit, quod nempe volatiliores particulae avolent, dum resinose majori attractione praeditae restant.\n\nOlea fixa autem tanto calore afficiuntur, ut Mercurius in thermometro simul cum illis ebullire incipiat, &c. inde eorum calor memorato modo vix certe explorari poterit. Sed alium excogitavi modum, cujus in alia schedula coram Illustri Societate Regia meminiisse me honorem habiturum esse spero.\n\nExcepto spiritu vini & aqua, fortasse etiam gradus coeterorum liquorum hic commemoratorum variabit, precipue si magna satis quantitate adhibeantur & longius ebulliant.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103730.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 1337,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1444,
+        2
+      ],
+      [
+        1444,
+        3402,
+        3
+      ],
+      [
+        3402,
+        4165,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103730",
+    "title": "Experimenta Circa Gradum Caloris Liquorum Nonnullorum Ebullientium Instituta. A Daniele Gabr. Fahrenheit, R. S. S.",
+    "authors": "Daniele Gabr. Fahrenheit",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103730"
+  }
+}

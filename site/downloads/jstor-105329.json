@@ -1,0 +1,79 @@
+{
+  "id": "3ac8a16fab07b2374c62bf4c17b3460a001a2d78",
+  "text": "series given, the even powers of \\( x \\), or any other terms whatever, be wanting, their places must be supplied with cyphers; which, in order the of numbering off, must be reckoned as real terms.\n\n---\n\n**CIV. Observatio Eclipseis Lunæ Die 30 Julii 1757. habita Olissipone à Joanne Chevalier, Congregationis Oratorii Presbytero, é Regia Londinensi Societate. Communicated by Jacob de Castro Sarmiento, M D F. R. S.**\n\nTubo optico 8 pedum.\n\n| Read Nov. 16. | Initium penumbrae | 9 | 15 | 18 |\n|---------------|-------------------|---|----|----|\n| 1758.         | Initium dubium eclipsis | 9 | 22 | 24 |\n| Certo jam incœperat | — | — | 9 | 23 | 34 |\n| Umbra ad mare humorum observata | — | — | 9 | 31 | 2 |\n| vitro plano cæruleo | — | — | 9 | 31 | 29 |\n| Solo tubo optico observata | — | — | 9 | 31 | 48 |\n| Vitro flavo observata | — | — | 9 | 31 | 20 |\n| Umbra tangit Grimaldum observata | — | — | 9 | 31 | 50 |\n| vitro plano cæruleo | — | — | 9 | 32 | 8 |\n| Solo tubo optico | — | — | 9 | 34 | 4 |\n| Vitro plano flavo | — | — | 9 | 34 | 28 |\n| Totus Grimaldus tegitur observatus | — | — | 9 | 34 | 47 |\n| vitro plano cæruleo | — | — | 9 | 34 | 47 |\n\nVol. 50.\n| Description                                                                 | Time |\n|---------------------------------------------------------------------------|------|\n| Umbra ad Typhonem observata vitro plano caeruleo                           | 9    |\n| Solo tubo optico                                                          | 9    |\n| Vitro flavo                                                               | 9    |\n| Umbra ad Harpalum vitro caeruleo observata                                | 9    |\n| Solo tubo optico                                                          | 9    |\n| Umbra ad Fracastorium                                                     | 9    |\n| Umbra ad Mare Nectaris                                                    | 10   |\n| Observata vitro flavo                                                     | 10   |\n| Umbra ad Dionyfium                                                        | 10   |\n| Umbra tangit Mare Tranquillitatis                                         | 10   |\n| Umbra ad Mare Serenitatis                                                 | 10   |\n| Umbra tegit Menelaum observata vitro caeruleo                              | 10   |\n| Solo tubo optico                                                          | 10   |\n| Vitro flavo                                                               | 10   |\n| Totum Mare Fœcunditatis tegitur                                           | 10   |\n| Umbra tangit Mare Crisium vitro caeruleo observata                         | 10   |\n| Solo tubo optico                                                          | 10   |\n| Vitro flavo                                                               | 10   |\n| Umbra ad Proclum                                                           | 10   |\n| Posidonius totus tegitur                                                   | 10   |\n| Totum Mare Serenitatis tegitur                                            | 10   |\n| Totum Mare Crisium ab umbra tegitur                                       | 10   |\n| Plato tegitur vitro caeruleo observatus                                    | 10   |\n| Solo tubo optico                                                          | 10   |\n| Vitro flavo                                                               | 10   |\n| Obscuratio maxima                                                         | 10   |\n### Emersiones.\n\n| Event                                                                 | Time |\n|----------------------------------------------------------------------|------|\n| Plato emergit observatus vitro flavo                                 | 11   |\n| Solo tubo optico                                                     | 19   |\n| Vitro caeruleo                                                       | 19   |\n| Aristarchus emergit                                                   | 21   |\n| Gassendus incepit emergere observatus vitro flavo                    | 25   |\n| Observatus solo tubo optico                                          | 25   |\n| Observatus vitro caeruleo                                            | 26   |\n| Gassendus totus extra umbram                                         | 28   |\n| Schicardus incipit emergere                                          | 45   |\n| Totus extra umbram                                                   | 47   |\n| Totum Mare Humorum extra umbram                                      | 46   |\n| Menelaus extra umbram                                                | 55   |\n| Mare Serenitatis extra umbram                                        | 59   |\n| Tycho extra umbra observatus vitro flavo                             | 00   |\n| Solo tubo optico                                                     | 00   |\n| Vitro caeruleo                                                       | 01   |\n| Incipit emergere Mare Crisium                                        | 08   |\n| Totum Mare Crisium extra umbram                                      | 16   |\n| Finis eclipsis                                                       | 28   |\n\nObservatio hæc peracta est coelo claro; umbra autem terræ ita diluta erat, ut maculæ in ea conditæ fatis dignoscerentur.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105329.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 1354,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1159,
+        2
+      ],
+      [
+        1159,
+        3547,
+        3
+      ],
+      [
+        3547,
+        5367,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105329",
+    "title": "Observatio Eclipsis Lunae Die 30 Julii 1757. Habita Olissipone à Joanne Chevalier, Congregationis Oratorii Presbytero, é Regia Londinensi Societate. Communicated by Jacob De Castro Sarmiento, M D F. R. S.",
+    "authors": "Joanne Chevalier, Jacob de Castro Sarmiento",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105329"
+  }
+}

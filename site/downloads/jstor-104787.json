@@ -1,0 +1,89 @@
+{
+  "id": "58f89a4e21a4287dd135ff21ad73582d2a54a365",
+  "text": "I. Extract of a Letter from Mr. William Arderon F. R. S. to Mr. Henry Baker, F. R. S. with the Description of an improved Hygroscope.\n\nDear Sir,\n\nRead Feb. 27. THE great Mr. Boyle has taken much pains to bring the Hygrometer to Perfection; and Mr. Roger Pickering, one of your ingenious Members, has * lately made an Improvement to it: But, as the Instrument I use differs from them both, I shall beg Leave to describe it to you.\n\nSome Years ago I applied my Thoughts to consider the Nature of Hygrosopes, and compared many different Sorts together, in order to determine which I might employ with the greatest Certainty; when none appeared to me to come nearer the Truth than that recommended by Mr. Boyle, of weighing a Piece of Sponge in a Pair of Gold Scales. But the Difficulty and Time, which I found, upon Trial, were requisite to adjust the Weights, and discover the true State of the Air, set me upon contriving another Method, whereby at all Seasons I might perceive, by Inspection only, the most minute Alterations with respect to Moisture or Dryness; and the following Drawing will, I believe, sufficiently describe what I found most effectual for that Purpose.\n\n* See Phil. Trans. n. 473.\nA represents a thin Piece of Sponge, so cut as to contain as large a Superficies as possible. This hangs by a fine Thread of Silk, upon the Beam B, and is exactly balanced by another Thread of Silk at D, strung with the smallest Lead-Shot, at equal Distances, and so adjusted as to cause the Index E to point at G, in the Middle of the graduated Arch F, G, H, when the Air is in a middle State between the greatest Moisture and the greatest Dryness.\n\nI. shews a little Table or Shelf, for that Part of the Silk and Shot which is not suspended, to rest upon.\n\nMore Words are, I believe, unnecessary; and therefore I only beg you'll believe me,\n\nYours, &c,\n\nFeb. 15. 1745.\n\nW. Arderon.\n\nII. A Letter from ———— to Mr. John Elliotcot, F. R. S. of weighing the Strength of Electrical Effluvia.\n\nSIR,\n\nRead March 6. 1745-6.\n\nAs you were the first, and indeed the only Person who ever shew'd me any electrical Experiments, and have been so kind, according to your wonted Candour, to assist me freely upon this and all other like Occasions; I think it proper to give you this first Account of what I have thought",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104787.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8484,
+    "total-output-tokens": 727,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1202,
+        4
+      ],
+      [
+        1202,
+        2306,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104787",
+    "title": "Extract of a Letter from Mr. William Arderon F. R. S. to Mr. Henry Baker, F. R. S. with the Description of an Improved Hygroscope",
+    "authors": "William Arderon",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104787"
+  }
+}

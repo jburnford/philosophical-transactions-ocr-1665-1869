@@ -1,0 +1,189 @@
+{
+  "id": "4bd14004fed4158f8ecb797c5da8f3a72e6e2263",
+  "text": "VII. Researches on the Partition of Numbers. By Arthur Cayley, Esq.\n\nReceived April 14,—Read May 3 and 10, 1855.\n\nI propose to discuss the following problem: \"To find in how many ways a number \\( q \\) can be made up of the elements \\( a, b, c, \\ldots \\) each element being repeatable an indefinite number of times.\" The required number of partitions is represented by the notation\n\n\\[\nP(a, b, c, \\ldots)q,\n\\]\n\nand we have, as is well known,\n\n\\[\nP(a, b, c, \\ldots)q = \\text{coefficient } x^q \\text{ in } \\frac{1}{(1-x^a)(1-x^b)(1-x^c)\\ldots},\n\\]\n\nwhere the expansion is to be effected in ascending powers of \\( x \\).\n\nIt may be as well to remark that each element is to be considered as a separate and distinct element, notwithstanding any equalities which may exist between the numbers \\( a, b, c, \\ldots \\); thus, although \\( a = b \\), yet \\( a + a + a + \\&c. \\) and \\( a + a + b + \\&c. \\) are to be considered as two different partitions of the number \\( q \\), and so in all similar cases.\n\nThe solution of the problem is thus seen to depend upon the theory, to which I now proceed, of the expansion of algebraical fractions.\n\nConsider an algebraical fraction\n\n\\[\n\\frac{\\phi x}{f x},\n\\]\n\nwhere the denominator is the product of any number of factors (the same or different) of the form \\( 1 - x^m \\). Suppose in general that \\([1 - x^m]\\) denotes the irreducible factor of \\( 1 - x^m \\), i.e. the factor which, equated to zero, gives the prime roots of the equation \\( 1 - x^m = 0 \\). We have\n\n\\[\n1 - x^m = \\Pi [1 - x^{m'}],\n\\]\n\nwhere \\( m' \\) denotes any divisor whatever of \\( m \\) (unity and the number \\( m \\) itself not excluded). Hence, if \\( a \\) represent a divisor of one or more of the indices \\( m \\), and \\( k \\) be the number of the indices of which \\( a \\) is a divisor, we have\n\n\\[\nf x = \\Pi [1 - x^a]^k.\n\\]\n\nNow considering apart from the others one of the multiple factors \\([1 - x^a]^k\\), we may write \\( f x = [1 - x^a]^k f_i x \\).\n\nSuppose that the fraction \\( \\frac{\\phi x}{f x} \\) is decomposed into simpler fractions, in the form\n\n\\[\n\\frac{\\phi x}{f x} = I(x) + (x \\partial_x)^{k-1} \\frac{\\theta x}{[1 - x^a]} + (x \\partial_x)^{k-2} \\frac{\\theta_1 x}{[1 - x^a]} \\cdots + \\frac{\\theta_{k-1} x}{[1 - x^a]} + \\&c.,\n\\]\nwhere \\( I(x) \\) denotes the integral part, and the &c. refers to the fractional terms depending upon the other multiple factors, such as \\([1-x^a]^k\\). The functions \\( \\theta x \\) are to be considered as functions with indeterminate coefficients, the degree of each such function being inferior by unity to that of the corresponding denominator; and it is proper to remark that the number of the indeterminate coefficients in all the functions \\( \\theta x \\) together is equal to the degree of the denominator \\( f_x \\).\n\nThe term \\((x \\partial_x)^{k-1} \\frac{\\theta x}{[1-x^a]}\\) may be reduced to the form\n\n\\[\n\\frac{gx}{[1-x^a]^k} + \\frac{g_1x}{[1-x^a]^{k-1}} + \\text{&c.},\n\\]\n\nthe functions \\( gx \\) being of the same degree as \\( \\theta x \\), and the coefficients of these functions being linearly connected with those of the function \\( \\theta x \\). The first of the foregoing terms is the only term on the right-hand side which contains the denominator \\([1-x^a]^k\\); hence, multiplying by this denominator and then writing \\([1-x^a]=0\\), we find\n\n\\[\n\\frac{\\phi x}{f_x} = gx,\n\\]\n\nwhich is true when \\( x \\) is any root whatever of the equation \\([1-x^a]=0\\). Now by means of the equation \\([1-x^a]=0\\), \\( \\frac{\\phi x}{f_x} \\) may be expressed in the form of a rational and integral function \\( Gx \\), the degree of which is less by unity than that of \\([1-x^a]\\). We have therefore \\( Gx= gx \\), an equation which is satisfied by each root of \\([1-x^a]=0\\), and which is therefore an identical equation; \\( gx \\) is thus determined, and the coefficients of \\( \\theta x \\) being linear functions of those of \\( gx \\), the function \\( \\theta x \\) may be considered as determined. And this being so, the function\n\n\\[\n\\frac{\\phi x}{f_x} - (x \\partial_x)^{k-1} \\frac{\\theta x}{[1-x^a]}\n\\]\n\nwill be a fraction the denominator of which does not contain any power of \\([1-x^a]\\) higher than \\([1-x^a]^{k-1}\\); and therefore \\( \\theta x \\) can be found in the same way as \\( \\theta x \\), and similarly \\( \\theta_2 x \\), and so on. And the fractional parts being determined, the integral part may be found by subtracting from \\( \\frac{\\phi x}{f_x} \\) the sum of the fractional parts, so that the fraction \\( \\frac{\\phi x}{f_x} \\) can by a direct process be decomposed in the above-mentioned form.\n\nParticular terms in the decomposition of certain fractions may be obtained with great facility. Thus \\( m \\) being a prime number, assume\n\n\\[\n\\frac{1}{(1-x^a)(1-x^b)\\ldots(1-x^m)} = \\text{&c.} + \\frac{\\theta x}{[1-x^m]};\n\\]\n\nthen observing that \\((1-x^m)=(1-x)[1-x^m]\\), we have for \\([1-x^m]=0\\),\n\n\\[\n\\theta x = \\frac{1}{(1-x)(1-x^2)\\ldots(1-x^{m-1})}.\n\\]\nNow \\( u \\) being any quantity whatever and \\( x \\) being a root of \\([1-x^m]=0\\), we have identically\n\n\\[\n[1-u^m] = (u-x)(u-x^2)\\ldots(u-x^{m-1});\n\\]\n\nand therefore putting \\( u=1 \\), we have\n\n\\[\nm=(1-x)(1-x^2)\\ldots(1-x^{m-1}),\n\\]\n\nand therefore\n\n\\[\n\\theta x = \\frac{1}{m},\n\\]\n\nwhence\n\n\\[\n\\frac{1}{(1-x^2)(1-x^3)\\ldots(1-x^m)} = &c. + \\frac{1}{m} \\frac{1}{[1-x^m]}.\n\\]\n\nAgain, \\( m \\) being as before a prime number, assume\n\n\\[\n\\frac{1}{(1-x)(1-x^2)\\ldots(1-x^m)} = &c. + \\frac{\\theta x}{[1-x^m]},\n\\]\n\nwe have in this case for \\([1-x^m]=0\\),\n\n\\[\n\\theta x = \\frac{1}{(1-x)^2(1-x^2)\\ldots(1-x^{m-1})},\n\\]\n\nwhich is immediately reduced to \\( \\theta x = \\frac{1}{m} \\frac{1}{1-x} \\). Now\n\n\\[\n\\frac{[1-u^m]}{u-x} = \\frac{[1-u^m]-[1-x^m]}{u-x} = (1+u+\\ldots+u^{m-2})+(1+u+\\ldots+u^{m-3})x\\ldots+(1+u)x^{m-3}+x^{m-2};\n\\]\n\nor putting \\( u=1 \\),\n\n\\[\n\\frac{m}{1-x} = m-1+m-2x\\ldots+x^{m-2};\n\\]\n\nand substituting this in the value of \\( \\theta x \\), we find\n\n\\[\n\\frac{1}{(1-x)(1-x^2)\\ldots(1-x^m)} = &c. + \\frac{1}{m^3} \\frac{(m-1)+(m-2)x\\ldots+x^{m-2}}{[1-x^m]}.\n\\]\n\nThe preceding decomposition of the fraction \\( \\frac{\\theta x}{f_x} \\) gives very readily the expansion of the fraction in ascending powers of \\( x \\). For, consider a fraction such as\n\n\\[\n\\frac{\\theta x}{[1-x^a]},\n\\]\n\nwhere the degree of the numerator is in general less by unity than that of the denominator; we have\n\n\\[\n1-x^a = [1-x^a]\\Pi[1-x^{a'}],\n\\]\n\nwhere \\( a' \\) denotes any divisor of \\( a \\) (including unity, but not including the number \\( a \\) itself). The fraction may therefore be written under the form\n\n\\[\n\\frac{\\theta x\\Pi[1-x^{a'}]}{1-x^a},\n\\]\n\nwhere the degree of the numerator is in general less by unity than that of the denominator, i.e. is equal to \\( a-1 \\). Suppose that \\( b \\) is any divisor of \\( a \\) (including unity, but not including the number \\( a \\) itself), then \\( 1-x^b \\) is a divisor of \\( \\Pi[1-x^{a'}] \\), and\ntherefore of the numerator of the fraction. Hence representing this numerator by\n\n\\[ A_0 + A_1 x + \\cdots + A_{a-1} x^{a-1}, \\]\n\nand putting \\( a = bc \\), we have (corresponding to the case \\( b = 1 \\))\n\n\\[ A_0 + A_1 + A_2 + \\cdots + A_{a-1} = 0, \\]\n\nand generally for the divisor \\( b \\),\n\n\\[ A_0 + A_b + \\cdots + A_{(c-1)b} = 0 \\]\n\\[ A_1 + A_{b+1} + \\cdots + A_{(c-1)b+1} = 0 \\]\n\\[ \\vdots \\]\n\\[ A_{b-1} + A_{2b-1} + \\cdots + A_{cb-1} = 0. \\]\n\nSuppose now that \\( a_q \\) denotes a circulating element to the period \\( a \\), i.e. write\n\n\\[ a_q = 1 \\quad q = 0 \\pmod{a} \\]\n\\[ a_q = 0 \\text{ in every other case.} \\]\n\nA function such as\n\n\\[ A_0 a_q + A_1 a_{q-1} + \\cdots + A_{a-1} a_{q-a+1} \\]\n\nwill be a circulating function, or circulator to the period \\( a \\), and may be represented by the notation\n\n\\[ (A_0, A_1, \\ldots, A_{a-1}) \\text{ circlor } a_q. \\]\n\nIn the case however where the coefficients \\( A \\) satisfy, for each divisor \\( b \\) of the number \\( a \\), the above-mentioned equations, the circulating function is what I call a prime circulator, and I represent it by the notation\n\n\\[ (A_0, A_1, \\ldots, A_{a-1}) \\text{ per } a_q. \\]\n\nBy means of this notation we have at once\n\n\\[ \\text{coefficient } x_q \\text{ in } \\frac{\\theta x}{[1-x^a]} = (A_0, A_1, \\ldots, A_{a-1}) \\text{ per } a_q, \\]\n\nand thence also\n\n\\[ \\text{coefficient } x_q \\text{ in } (x \\partial_x)^r \\frac{\\theta x}{[1-x^a]} = q^r(A_0, A_1, \\ldots, A_{a-1}) \\text{ per } a_q. \\]\n\nHence assuming that in the fraction \\( \\frac{\\phi x}{f x} \\) the degree of the numerator is less than that of the denominator (so that there is not any integral part), we have\n\n\\[ \\text{coefficient } x_q \\text{ in } \\frac{\\phi x}{f x} = \\Sigma q^r(A_0, A_1, \\ldots, A_{a-1}) \\text{ per } a_q; \\]\n\nor, if we wish to put in evidence the non-circulating part arising from the divisor \\( a = 1 \\),\n\n\\[ \\text{coefficient } x_q \\text{ in } \\frac{\\phi x}{f x} = Aq^{k-1} + Bq^{k-2} + \\cdots + Lq + M \\]\n\\[ + \\Sigma q^r(A_0, A_1, \\ldots, A_{a-1}) \\text{ per } a_q; \\]\n\nwhere \\( k \\) denotes the number of the factors \\( 1 - x^m \\) in the denominator \\( f x \\), \\( a \\) is any divisor (unity excluded) of one or more of the indices \\( m \\); and for each value of \\( a \\)\n\n\\( r \\) extends from \\( r = 0 \\) to \\( r = k - 1 \\), where \\( k \\) denotes the number of indices \\( m \\) of which\n\\(a\\) is a divisor. The particular results previously obtained show, that \\(m\\) being a prime number,\n\n\\[\n\\text{coefficient } x^q \\text{ in } \\frac{1}{(1-x^2)(1-x^3)\\ldots(1-x^m)} = &c. + \\frac{1}{m}(1,-1,0,0,\\ldots) \\text{ pcr } m_q,\n\\]\n\nand\n\n\\[\n\\text{coefficient } x^q \\text{ in } \\frac{1}{(1-x)(1-x^2)\\ldots(1-x^m)} = &c. + \\frac{1}{m^2}(m-1,-1,-1,\\ldots) \\text{ pcr } m_q.\n\\]\n\nSuppose, as before, that the degree of \\(\\varphi x\\) is less than that of \\(fx\\), and let the analytical expression above obtained for the coefficient of \\(x^q\\) in the expansion in ascending powers of \\(x\\) of the fraction \\(\\frac{\\varphi x}{fx}\\) be represented by \\(Fq\\), it is very remarkable that if we expand \\(\\frac{\\varphi x}{fx}\\) in descending powers of \\(x\\), then the coefficient of \\(x^q\\) in this new expansion (\\(q\\) is here of course negative, since the expansion contains only negative powers of \\(x\\)) is precisely equal to \\(-Fq\\); this is in fact at once seen to be the case with respect to each of the partial fractions into which \\(\\frac{\\varphi x}{fx}\\) has been decomposed, and it is consequently the case with respect to the fraction itself*. This gives rise to a result of some importance. Suppose that \\(\\varphi x\\) and \\(fx\\) are respectively of the degrees \\(N\\) and \\(D\\); it is clear from the form of \\(fx\\) that we have \\(f\\left(\\frac{1}{x}\\right) = (-)^D x^{-D} fx\\); and I suppose that \\(\\varphi x\\) is also such that \\(\\varphi\\left(\\frac{1}{x}\\right) = (\\pm)^N x^{-N} \\varphi x\\); then writing \\(D-N=h\\), and supposing that \\(\\frac{\\varphi x}{fx}\\) is expanded in descending powers of \\(x\\), so that the coefficient of \\(x^q\\) in the expansion is \\(-Fq\\), it is in the first place clear that the expansion will commence with the term \\(x^{-h}\\), and we must therefore have\n\n\\[\nFq=0\n\\]\n\nfor all values of \\(q\\) from \\(q=-1\\) to \\(q=-(h-1)\\).\n\nConsider next the coefficient of a term \\(x^{h-q}\\), where \\(q\\) is 0 or positive; the coefficient in question, the value of which is \\(-F(-h-q)\\), is obviously equal to the coefficient of \\(x^{h+q}\\) in the expansion in ascending powers of \\(x\\) of \\(\\frac{\\varphi x}{fx}\\), i.e. to\n\n\\[\n(\\pm)^N(-)^D \\text{ coefficient } x^{h+q} \\text{ in } \\frac{x^h \\varphi x}{fx},\n\\]\n\nor what is the same thing, to\n\n\\[\n(\\pm)^N(-)^D \\text{ coefficient } x^q \\text{ in } \\frac{\\varphi x}{fx};\n\\]\n\nand we have therefore, \\(q\\) being zero or positive,\n\n\\[\nF(-h-q)=-(\\pm)^N(-)^DFq.\n\\]\n\nIn particular, when \\(\\varphi x=1\\),\n\n\\[\nFq=0\n\\]\n\n* The property is a fundamental one in the general theory of developments.\nfor all values of $q$ from $q = -1$ to $q = -(D-1)$; and $q$ being 0 or positive,\n\n$$F(-D-q) = (-)^{D-1} F_q.$$\n\nThe preceding investigations show the general form of the function $P(a, b, c, \\ldots)q$, viz. that\n\n$$P(a, b, c, \\ldots)q = Aq^{k-1} + Bq^{k-2} + \\ldots + Lq + M + \\sum q'(A_0, A_1, \\ldots A_{l-1}) \\text{ per } l_q,$$\n\na formula in which $k$ denotes the number of the elements $a, b, c, \\ldots$ &c., and $l$ is any divisor (unity excluded) of one or more of these elements; the summation in the case of each such divisor extends from $r=0$ to $r=k-1$, where $k$ is the number of the elements $a, b, c, \\ldots$ &c. of which $l$ is a divisor; and the investigations indicate how the values of the coefficients $A$ of the prime circulators are to be obtained. It has been moreover in effect shown, that if $D=a+b+c+\\ldots$, then, writing for shortness $P(q)$ instead of $P(a, b, c, \\ldots)q$, we have\n\n$$P(q) = 0$$\n\nfor all values of $q$ from $q = -1$ to $q = -(D-1)$, and that $q$ being 0 or positive,\n\n$$P(-D-q) = (-)^{D-1} P(q);$$\n\nthese last theorems are however uninterpretable in the theory of partitions, and they apply only to the analytical expression for $P(q)$.\n\nI have calculated the following particular results:\n\n$$P(1, 2)q = \\frac{1}{4}\\left\\{2q + 3 + (1, -1) \\text{ per } 2_q\\right\\}$$\n\n$$P(1, 2, 3)q = \\frac{1}{72}\\left\\{6q^2 + 36q + 47 + 9(1, -1) \\text{ per } 2_q + 8(2, -1, -1) \\text{ per } 3_q\\right\\}$$\n\n$$P(1, 2, 3, 4)q = \\frac{1}{288}\\left\\{2q^3 + 30q^2 + 135q + 175 + (9q + 45)(1, -1) \\text{ per } 2_q + 32(1, 0, -1) \\text{ per } 3_q + 36(1, 0, -1, 0) \\text{ per } 4_q\\right\\}$$\n\n$$P(1, 2, 3, 4, 5)q = \\frac{1}{86400}\\left\\{30q^4 + 900q^3 + 9300q^2 + 38250q + 50651 + (1350q + 10125)(1, -1) \\text{ per } 2_q + 3200(2, -1, -1) \\text{ per } 3_q + 5400(1, 1, -1, -1) \\text{ per } 4_q + 3456(4, -1, -1, -1, -1) \\text{ per } 5_q\\right\\}$$\n\n$$P(2)q = \\frac{1}{2}\\left\\{1 + (1, -1) \\text{ per } 2_q\\right\\}$$\nMR. A. CAYLEY'S RESEARCHES ON THE PARTITION OF NUMBERS.\n\n\\[ P(2, 3)q = \\frac{1}{12} \\left\\{ 2q + 5 \\right. \\\\\n+ 3 (1, -1) \\text{ pcr } 2_q \\\\\n+ 4 (1, -1, 0) \\text{ pcr } 3_q \\left. \\right\\} \\]\n\n\\[ P(2, 3, 4)q = \\frac{1}{288} \\left\\{ 6q^3 + 54q + 107 \\right. \\\\\n+ (18q + 81)(1, -1) \\text{ pcr } 2_q \\\\\n+ 32 (2, -1, -1) \\text{ pcr } 3_q \\\\\n+ 36 (1, -1, -1, 1) \\text{ pcr } 4_q \\left. \\right\\} \\]\n\n\\[ P(2, 3, 4, 5)q = \\frac{1}{1440} \\left\\{ 2q^3 + 42q^2 + 267q + 497 \\right. \\\\\n+ (45q + 315)(1, -1) \\text{ pcr } 2_q \\\\\n+ 160 (1, -1, 0) \\text{ pcr } 3_q \\\\\n+ 180 (1, 0, -1, 0) \\text{ pcr } 4_q \\\\\n+ 288 (1, -1, 0, 0, 0) \\text{ pcr } 5_q \\left. \\right\\} \\]\n\n\\[ P(2, 3, 4, 5, 6)q = \\frac{1}{172800} \\left\\{ 10q^4 + 400q^3 + 5550q^2 + 31000q + 56877 \\right. \\\\\n+ (450q^2 + 9000q + 39075)(1, -1) \\text{ pcr } 2_q \\\\\n+ 3200q (1, -1, 0) \\text{ pcr } 3_q \\\\\n+ 1600 (21, -19, -2) \\text{ pcr } 3_q \\\\\n+ 10800 (1, 0, -1, 0) \\text{ pcr } 4_q \\\\\n+ 6912 (4, -1, -1, -1, -1) \\text{ pcr } 5_q \\\\\n+ 4800 (1, -1, -2, -1, 1, 2) \\text{ pcr } 6_q \\left. \\right\\} \\]\n\n\\[ P(1, 2, 3, 5)q = \\frac{1}{720} \\left\\{ 4q^3 + 66q^2 + 324q + 451 \\right. \\\\\n+ 45 (1, -1) \\text{ pcr } 2_q \\\\\n+ 80 (1, -1, 0) \\text{ pcr } 3_q \\\\\n+ 144 (1, 0, 0, 0, -1) \\text{ pcr } 5_q \\left. \\right\\} \\]\n\n\\[ P(1, 2, 2, 3, 4)q = \\frac{1}{6912} \\left\\{ 6q^4 + 144q^3 + 1194q^2 + 3960q + 4267 \\right. \\\\\n+ (54q^2 + 648q + 1701)(1, -1) \\text{ pcr } 2_q \\\\\n+ 256 (2, -1, -1) \\text{ pcr } 3_q \\\\\n+ 432 (1, 0, -1, 0) \\text{ pcr } 4_q \\left. \\right\\} \\]\n\n\\[ P(8)q = \\frac{1}{8} \\left\\{ 1 \\right. \\\\\n+ 1 (1, -1) \\text{ pcr } 2_q \\\\\n+ 2 (1, 0, -1, 0) \\text{ pcr } 4_q \\\\\n+ 8 (1, 0, 0, 0, -1, 0, 0, 0) \\text{ pcr } 8_q \\left. \\right\\} \\]\n\\[ P(7, 8)q = \\frac{1}{112} \\left\\{ 2q + 43 \\right. \\]\n\\[ + 7 (1, -1) \\text{ per } 2_q \\]\n\\[ + 14 (1, -1, -1, 1) \\text{ per } 4_q \\]\n\\[ + 16 (3, 2, 1, 0, -1, -2, -3) \\text{ per } 7_q \\]\n\\[ + 56 (0, -1, -1, 0, 0, 1, 1, 0) \\text{ per } 8_q \\left\\} \\]\n\nwhich are, I think, worth preserving.\n\nReceived April 14,—Read May 3 and 10, 1855.\n\nI proceed to discuss the following problem: \"To find in how many ways a number \\( q \\) can be made up as a sum of \\( m \\) terms with the elements 0, 1, 2, ... \\( k \\), each element being repeatable an indefinite number of times.\" The required number of partitions is represented by\n\n\\[ P(0, 1, 2, ..k)^m q, \\]\n\nand the number of partitions of \\( q \\) less the number of partitions of \\( q-1 \\) is represented by\n\n\\[ P'(0, 1, 2, ..k)^m q. \\]\n\nWe have, as is well known,\n\n\\[ P(0, 1, 2, ..k)^m q = \\text{coefficient } x^q z^m \\text{ in } \\frac{1}{(1-z)(1-xz)...(1-x^kz)}, \\]\n\nwhere the expansion is to be effected in ascending powers of \\( z \\). Now\n\n\\[ \\frac{1}{(1-z)(1-xz)...(1-x^kz)} = 1 + \\frac{1-x^{k+1}}{1-x} z + \\frac{(1-x^{k+1})(1-x^{k+2})}{(1-x)(1-x^2)} z^2 + &c., \\]\n\nthe general term being\n\n\\[ \\frac{(1-x^{k+1})(1-x^{k+2})...(1-x^{k+m})}{(1-x)(1-x^2)...(1-x^m)} z^m, \\]\n\nor, what is the same thing,\n\n\\[ \\frac{(1-x^{m+1})(1-x^{m+2})...(1-x^{m+k})}{(1-x)(1-x^2)...(1-x^k)} z^m, \\]\n\nand consequently\n\n\\[ P(0, 1, 2, ..k)^m q = \\text{coefficient } x^q \\text{ in } \\frac{(1-x^{m+1})(1-x^{m+2})...(1-x^{m+k})}{(1-x)(1-x^2)...(1-x^k)}; \\]\n\nto transform this expression I make use of the equation\n\n\\[ (1+xz)(1+x^2z)...(1+x^kz) = 1 + \\frac{x(1-x^k)}{1-x} z + \\frac{x^3(1-x^k)(1-x^{k-1})}{(1-x)(1-x^2)} z^2 + &c., \\]\n\nwhere the general term is\n\n\\[ x^{3s(s+1)} \\frac{(1-x^k)(1-x^{k-1})...(1-x^{k-s+1})}{(1-x)(1-x^2)...(1-x^s)} z^s, \\]\nand the series is a finite one, the last term being that corresponding to $s=k$, viz. $x^{k(k+1)}z^k$. Writing $-x^m$ for $z$, and substituting the resulting value of\n\n$$ (1-x^{m+1})(1-x^{m+2})\\ldots(1-x^{m+k}) $$\n\nin the formula for $P(0, 1, 2, \\ldots k)^mq$, we have\n\n$$ P(0, 1, 2, \\ldots k)^mq = \\sum_s \\left[ (-)^s \\text{ coefficient } x^q \\text{ in } \\frac{x^{sm+\\frac{1}{2}s(s+1)}}{(1-x)(1-x^2)\\ldots(1-x^s)(1-x^2)\\ldots(1-x^k-s)} \\right], $$\n\nwhere the summation extends from $s=0$ to $s=k$; but if for any value of $s$ between these limits $sm+\\frac{1}{2}s(s+1)$ becomes greater than $q$, then it is clear that the summation need only be extended from $s=0$ to the last preceding value of $s$, or what is the same thing, from $s=0$ to the greatest value of $s$, for which $q-sm-\\frac{1}{2}s(s+1)$ is positive or zero.\n\nIt is obvious, that if $q>km$, then\n\n$$ P(0, 1, 2, \\ldots k)^mq = 0; $$\n\nand moreover, that if $\\theta > \\frac{1}{2}km$, then\n\n$$ P(0, 1, 2, \\ldots k)^mq = P(0, 1, 2, \\ldots k)^m.km - \\theta, $$\n\nso that we may always suppose $q > \\frac{1}{2}km$. I write therefore $q=\\frac{1}{2}(km-\\alpha)$ where $\\alpha$ is zero or a positive integer not greater than $km$, and is even or odd according as $km$ is even or odd. Substituting this value of $q$ and making a slight change in the form of the result, we have\n\n$$ P(0, 1, 2, \\ldots k)^m\\frac{1}{2}(km-\\alpha) = \\sum_s \\left[ (-)^s \\text{ coeff. } x^{(k-s)m} \\text{ in } \\frac{x^{4\\alpha+\\frac{1}{2}s(s+1)}}{(1-x)(1-x^2)\\ldots(1-x^s)(1-x^2)\\ldots(1-x^k-s)} \\right], $$\n\nwhere the summation extends from $s=0$ to the greatest value of $s$, for which $(\\frac{1}{2}k-s)m-\\frac{1}{2}\\alpha-\\frac{1}{2}s(s+1)$ is positive or zero. But we may, if we please, consider the summation as extending, when $k$ is even, from $s=0$ to $s=\\frac{1}{2}k-1$, and when $k$ is odd, from $s=0$ to $s=\\frac{1}{2}(k-1)$, the terms corresponding to values of $s$ greater than the greatest value for which $(\\frac{1}{2}k-s)m-\\frac{1}{2}\\alpha-\\frac{1}{2}s(s+1)$ is positive or zero, being of course equal to zero. It may be noticed, that the fraction will be a proper one if $\\alpha<(k-s)(k-s+1)$; or substituting for $s$ its greatest value, the fraction will be a proper one for all values of $s$, if, when $k$ is even, $\\alpha<\\frac{1}{4}k(k+2)$, and when $k$ is odd, $\\alpha<\\frac{1}{4}(k+1)(k+3)$.\n\nWe have in a similar manner,\n\n$$ P'(0, 1, 2, \\ldots k)^mq = \\text{coefficient } x^qz^m \\text{ in } \\frac{1-x}{(1-z)(1-xz)\\ldots(1-x^kz)}, $$\n\nwhich leads to\n\n$$ P'(0, 1, 2, \\ldots k)^m\\frac{1}{2}(km-\\alpha) = \\sum_s \\left[ (-)^s \\text{ coeff. } x^{(k-s)m} \\text{ in } \\frac{x^{4\\alpha+s(s+1)}}{(1-x^2)\\ldots(1-x^s)(1-x^2)\\ldots(1-x^k-s)} \\right], $$\n\nwhere the summation extends, as in the former case, from $s=0$ to the greatest value of $s$, for which $(\\frac{1}{2}k-s)m-\\frac{1}{2}\\alpha-\\frac{1}{2}s(s+1)$ is positive or zero, or, if we please, when $k$ is even, from $s=0$ to $s=\\frac{1}{2}k-1$, and when $s$ is odd, from $s=0$ to $s=\\frac{1}{2}(k-1)$. The condition, in order that the fraction may be a proper one for all values of $s$, is, when $k$ is even, $\\alpha+1<\\frac{1}{4}k(k+2)$, and when $k$ is odd, $\\alpha+1<\\frac{1}{4}(k+1)(k+3)$.\nTo transform the preceding expressions, I write when \\( k \\) is odd \\( x^2 \\) instead of \\( x \\), and I put for shortness \\( \\theta \\) instead of \\( \\frac{1}{2}k - s \\) or \\( 2(\\frac{1}{2}k - s) \\), and \\( \\gamma \\) instead of \\( \\frac{1}{2}\\varepsilon + \\frac{1}{2}s(s+1) \\) or \\( \\alpha + s(s+1) \\); we have to consider an expression of the form\n\n\\[\n\\text{coefficient } x^{\\theta m} \\text{ in } \\frac{x^\\gamma}{Fx},\n\\]\n\nwhere \\( Fx \\) is the product of factors of the form \\( 1-x^\\alpha \\). Suppose that \\( a' \\) is the least common multiple of \\( a \\) and \\( \\theta \\), then \\( (1-x^{a'}) \\div (1-x^\\alpha) \\) is an integral function of \\( x \\), equal \\( x^\\gamma x \\) suppose, and \\( 1 \\div (1-x^\\alpha) = x^\\gamma x \\div (1-x^\\alpha) \\). Making this change in all the factors of \\( Fx \\) which require it (\\( i.e. \\) in all the factors except those in which \\( a \\) is a multiple of \\( \\theta \\)), the general term becomes\n\n\\[\n\\text{coefficient } x^{\\theta m} \\text{ in } \\frac{x^\\gamma Hx}{Gx},\n\\]\n\nwhere \\( Gx \\) is a product of factors of the form \\( 1-x^{\\alpha'} \\), in which \\( \\alpha' \\) is a multiple of \\( \\theta \\), \\( i.e. \\) \\( Gx \\) is a rational and integral function of \\( x^\\beta \\). But in the numerator \\( x^\\gamma Hx \\) we may reject, as not contributing to the formation of the coefficient of \\( x^{\\theta m} \\), all the terms in which the indices are not multiples of \\( \\theta \\); the numerator is thus reduced to a rational and integral function of \\( x^\\beta \\), and the general term is therefore of the form\n\n\\[\n\\text{coefficient } x^{\\theta m} \\text{ in } \\frac{\\lambda(x^\\theta)}{\\chi(x^\\theta)},\n\\]\n\nor what is the same thing, of the form\n\n\\[\n\\text{coefficient } x^m \\text{ in } \\frac{\\lambda x}{\\chi x}.\n\\]\n\nWhere \\( \\chi x \\) is the product of factors of the form \\( 1-x^\\alpha \\), and \\( \\lambda x \\) is a rational and integral function of \\( x \\), the particular value of the fraction depends on the value of \\( s \\); and uniting the different terms, we have an expression\n\n\\[\n\\text{coefficient } x^m \\text{ in } S_s(-)^s \\frac{\\lambda x}{\\chi x},\n\\]\n\nwhich is equivalent to\n\n\\[\n\\text{coefficient } x^m \\text{ in } \\frac{\\phi x}{fx},\n\\]\n\nwhere \\( fx \\) is a product of factors of the form \\( 1-x^\\alpha \\), and \\( \\phi x \\) is a rational and integral function of \\( x \\). And it is clear that the fraction will be a proper one when each of the fractions in the original expression is a proper fraction, \\( i.e. \\) in the case of \\( P(0,1,2..k)^{m\\frac{1}{2}}(km-\\alpha) \\), when for \\( k \\) even \\( \\alpha < \\frac{1}{4}k(k+2) \\), and for \\( k \\) odd \\( \\alpha < \\frac{1}{4}(k+1)(k+3) \\); and in the case of \\( P'(0,1,2..k)^{m\\frac{1}{2}}(km-\\alpha) \\), when for \\( k \\) even \\( \\alpha + 1 < \\frac{1}{4}k(k+2) \\), and for \\( k \\) odd \\( \\alpha + 1 < \\frac{1}{4}(k+1)(k+3) \\).\n\nWe see, therefore, that\n\n\\[\nP(0,1,2..k)^{m\\frac{1}{2}}(km-\\alpha),\n\\]\n\nand\n\n\\[\nP'(0,1,2..k)^{m\\frac{1}{2}}(km-\\alpha),\n\\]\n\nare each of them of the form\n\n\\[\n\\text{coefficient } x^m \\text{ in } \\frac{\\phi x}{fx},\n\\]\nwhere \\( f(x) \\) is the product of factors of the form \\( 1 - x^\\alpha \\), and up to certain limiting values of \\( \\alpha \\) the fraction is a proper fraction. When the fraction \\( \\frac{f(x)}{g(x)} \\) is known, we may therefore obtain by the method employed in the former part of this Memoir, analytical expressions (involving prime circulators) for the functions \\( P \\) and \\( P' \\).\n\nAs an example, take \\( P(0, 1, 2, 3)^{\\frac{3}{2}m} \\),\n\nwhich is equal to\n\n\\[\n\\text{coefficient } x^{3m} \\text{ in } \\frac{1}{(1-x^2)(1-x^4)(1-x^6)}\n\\]\n\n\\[\n-\\text{coefficient } x^m \\text{ in } \\frac{1}{(1-x^2)(1-x^4)(1-x^6)}.\n\\]\n\nThe multiplier for the first fraction is\n\n\\[\n\\frac{(1-x^6)(1-x^{12})}{(1-x^2)(1-x^4)},\n\\]\n\nwhich is equal to \\( 1 + x^2 + 2x^4 + x^6 + 2x^8 + x^{10} + x^{12} \\).\n\nHence, rejecting in the numerator the terms the indices of which are not divisible by 3, the first term becomes\n\n\\[\n\\text{coefficient } x^{3m} \\text{ in } \\frac{1+x^6+x^{12}}{(1-x^6)(1-x^{12})(1-x^6)},\n\\]\n\nor what is the same thing, the first term is\n\n\\[\n\\text{coefficient } x^m \\text{ in } \\frac{1+x^2+x^4}{(1-x^2)^2(1-x^4)};\n\\]\n\nand the second term being\n\n\\[\n-\\text{coefficient } x^m \\text{ in } \\frac{x^2}{(1-x^2)^2(1-x^4)},\n\\]\n\nwe have \\( P(0, 1, 2, 3)^{\\frac{3}{2}m} = \\text{coefficient } x^m \\text{ in } \\frac{1+x^4}{(1-x^2)^2(1-x^4)} \\).\n\nAnd similarly it may be shown, that\n\n\\[\nP(0, 1, 2, 3)^{\\frac{1}{2}(3m-1)} = \\text{coefficient } x^n \\text{ in } \\frac{x+x^3}{(1-x^2)^2(1-x^4)}.\n\\]\n\nAs another example, take \\( P'(0, 1, 2, 3, 4, 5)^{\\frac{5}{2}m} \\),\n\nwhich is equal to\n\n\\[\n\\text{coefficient } x^{5m} \\text{ in } \\frac{1}{(1-x^4)(1-x^6)(1-x^8)(1-x^{10})}\n\\]\n\n\\[\n-\\text{coefficient } x^{3m} \\text{ in } \\frac{x^3}{(1-x^2)(1-x^4)(1-x^6)(1-x^8)}\n\\]\n\n\\[\n+\\text{coefficient } x^m \\text{ in } \\frac{x^6}{(1-x^2)(1-x^4)(1-x^6)(1-x^8)}.\n\\]\n\nThe multiplier for the first fraction is\n\n\\[\n\\frac{(1-x^{20})(1-x^{30})(1-x^{40})}{(1-x^4)(1-x^6)(1-x^8)},\n\\]\nwhich is a function of $x^2$ of the order 36, the coefficients of which are\n\n1, 0, 1, 1, 2, 1, 3, 2, 4, 3, 4, 4, 6, 4, 6, 5, 7, 5, 7, 5, 6, 4, 6, 4, 4, 3, 4, 2, 3, 1, 2, 1, 1, 0, 1,\n\nand the first part becomes therefore\n\n$$\\text{coefficient } x^m \\text{ in } \\frac{1 + x^8 + 4x^4 + 5x^6 + 7x^8 + 4x^{10} + 3x^{12}}{(1 - x^2)(1 - x^4)(1 - x^6)(1 - x^8)}.$$  \n\nThe multiplier for the second fraction is\n\n$$\\frac{(1 - x^6)(1 - x^{12})(1 - x^{24})}{(1 - x^2)(1 - x^4)(1 - x^8)},$$\n\nwhich is a function of $x^2$ of the order 14, the coefficients of which are\n\n1, 1, 2, 1, 3, 2, 3, 1, 3, 2, 3, 1, 2, 1, 1;\n\nand the second term becomes\n\n$$-\\text{coefficient } x^m \\text{ in } \\frac{2x^2 + 2x^4 + 3x^6 + x^8 + x^{10}}{(1 - x^2)^2(1 - x^4)(1 - x^8)};$$\n\nand the third term is\n\n$$\\text{coefficient } x^m \\text{ in } \\frac{x^6}{(1 - x^2)(1 - x^4)^2(1 - x^8)}.$$\n\nNow the fractions may be reduced to a common denominator\n\n$$(1 - x^2)(1 - x^4)(1 - x^6)(1 - x^8)$$\n\nby multiplying the terms of the second fraction by $\\frac{1 - x^6}{1 - x^2}(= 1 + x^3 + x^4)$, and the terms of the third fraction by $\\frac{1 - x^8}{1 - x^4}(= 1 + x^4)$; performing the operations and adding, the numerator and denominator of the resulting fraction will each of them contain the factor $1 - x^2$; and casting this out, we find\n\n$$P(0, 1, 2, 3, 4, 5)^{\\frac{5}{2}m} = \\text{coefficient } x^m \\text{ in } \\frac{1 - x^6 + x^{12}}{(1 - x^4)(1 - x^6)(1 - x^8)}.$$\n\nI have calculated by this method several other particular cases, which are given in my \"Second Memoir upon Quantics;\" the present researches were in fact made for the sake of their application to that theory.\n\nReceived April 20.—Read May 3 and 10, 1855.\n\nSince the preceding portions of the present Memoir were written, Mr. Sylvester has communicated to me a remarkable theorem which has led me to the following additional investigations*.\n\nLet $\\frac{gx}{fx}$ be a rational fraction, and let $(x - x_1)^k$ be a factor of the denominator $fx$, then if\n\n$$\\left\\{ \\frac{gx}{fx} \\right\\}_{x_1}$$\n\n* Mr. Sylvester's researches are published in the Quarterly Mathematical Journal, July 1855, and he has there given the general formula as well for the circulating as the non-circulating part of the expression for the number of partitions.—Added 23rd February, 1856.—A. C.\ndenote the portion which is made up of the simple fractions having powers of \\( x - x_1 \\) for their denominators, we have by a known theorem\n\n\\[\n\\left\\{ \\frac{\\varphi(x)}{f(x)} \\right\\}_{x_1} = \\text{coefficient } \\frac{1}{z} \\text{ in } \\frac{1}{x-x-z} \\frac{\\varphi(x_1+z)}{f(x_1+z)}.\n\\]\n\nNow by a theorem of Jacobi's and Cauchy's,\n\n\\[\n\\text{coefficient } \\frac{1}{z} \\text{ in } Fz = \\text{coefficient } \\frac{1}{t} \\text{ in } F(\\psi t)\\psi't;\n\\]\n\nwhence, writing \\( x_1 + z = x_1 e^{-t} \\), we have\n\n\\[\n\\left\\{ \\frac{\\varphi(x)}{f(x)} \\right\\}_{x_1} = \\text{coefficient } \\frac{1}{t} \\text{ in } \\frac{x_1}{x_1-xe^t} \\frac{\\varphi(x_1e^{-t})}{f(x_1e^{-t})}.\n\\]\n\nNow putting for a moment \\( x = x_1 e^\\theta \\), we have\n\n\\[\n\\frac{1}{x_1-xe^t} = \\frac{1}{x_1(1-e^\\theta+t)} = \\frac{1}{x_1(1-e^\\theta)} + \\partial_\\theta \\frac{1}{x_1(1-e^\\theta)} + \\ldots\n\\]\n\nand \\( \\partial_\\theta = x \\partial_x \\), whence\n\n\\[\n\\frac{1}{x_1-xe^t} = \\frac{1}{x_1-x} + \\frac{t}{1} x \\partial_x \\frac{1}{x_1-x} + \\frac{t^2}{1.2} (x \\partial_x)^2 \\frac{1}{x_1-x} + \\ldots,\n\\]\n\nthe general term of which is\n\n\\[\n\\frac{t^{s-1}}{\\Pi(s-1)} (x \\partial_x)^{s-1} \\frac{1}{x_1-x}.\n\\]\n\nHence representing the general term of\n\n\\[\n\\frac{x_1 \\varphi(x_1e^{-t})}{f(x_1e^{-t})}\n\\]\n\nby \\( \\chi x_1 t^{-s} \\), so that\n\n\\[\n\\chi x_1 = \\text{coefficient } \\frac{1}{t} \\text{ in } t^{s-1} \\frac{x_1 \\varphi(x_1e^{-t})}{f(x_1e^{-t})},\n\\]\n\nwe find, writing down only the general term\n\n\\[\n\\left\\{ \\frac{\\varphi(x)}{f(x)} \\right\\}_{x_1} = \\ldots + \\frac{1}{\\Pi(s-1)} (x \\partial_x)^{s-1} \\frac{\\chi x_1}{x_1-x} + \\ldots\n\\]\n\nwhere the value of \\( \\chi x_1 \\) depends upon that of \\( s \\), and where \\( s \\) extends from \\( s = 1 \\) to \\( s = k \\).\n\nSuppose now that the denominator is made up of factors (the same or different) of the form \\( 1 - x^m \\). And let \\( a \\) be any divisor of one or more of the indices \\( m \\), and let \\( k \\) be the number of the indices of which \\( a \\) is a divisor. The denominator contains the divisor \\( [1-x^a]^k \\), and consequently if \\( \\varepsilon \\) be any root of the equation \\( [1-x^a] = 0 \\), the denominator contains the factor \\( (\\varepsilon - x)^k \\). Hence writing \\( \\varepsilon \\) for \\( x \\), and taking the sum with respect to all the roots of the equation \\( [1-x^a] = 0 \\), we find\n\n\\[\n\\left\\{ \\frac{\\varphi(x)}{f(x)} \\right\\}_{[1-x^a]} = \\ldots + \\frac{1}{\\Pi(s-1)} (x \\partial_x)^{s-1} S \\frac{\\chi \\varepsilon}{\\varepsilon-x} + \\ldots\n\\]\n\n\\[\n= \\ldots + \\frac{1}{\\Pi(s-1)} (x \\partial_x)^{s-1} \\frac{\\chi \\varepsilon}{[1-x^a]} + \\ldots,\n\\]\n\nwhere\n\n\\[\n\\chi \\varepsilon = \\text{coefficient } \\frac{1}{t} \\text{ in } t^{s-1} \\frac{\\varepsilon \\varphi(\\varepsilon e^{-t})}{f(\\varepsilon e^{-t})},\n\\]\nand as before $s$ extends from $s=1$ to $s=k$. We have thus the actual value of the function $\\phi x$ made use of in the memoir.\n\nA preceding formula gives\n\n$$\\left\\{\\frac{\\phi x}{f(x)}\\right\\}_1 = \\text{coefficient } \\frac{1}{t} \\text{ in } \\frac{1}{1-xe^t} f(e^{-t}),$$\n\nwhich is a very simple expression for the non-circulating part of the fraction $\\frac{\\phi x}{f(x)}$. This is, in fact, Mr. Sylvester's theorem above referred to.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108582.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 24992,
+    "total-output-tokens": 12563,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2240,
+        2
+      ],
+      [
+        2240,
+        4895,
+        3
+      ],
+      [
+        4895,
+        6808,
+        4
+      ],
+      [
+        6808,
+        9145,
+        5
+      ],
+      [
+        9145,
+        11696,
+        6
+      ],
+      [
+        11696,
+        13633,
+        7
+      ],
+      [
+        13633,
+        15306,
+        8
+      ],
+      [
+        15306,
+        17071,
+        9
+      ],
+      [
+        17071,
+        20271,
+        10
+      ],
+      [
+        20271,
+        23298,
+        11
+      ],
+      [
+        23298,
+        25234,
+        12
+      ],
+      [
+        25234,
+        27531,
+        13
+      ],
+      [
+        27531,
+        30246,
+        14
+      ],
+      [
+        30246,
+        30681,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108582",
+    "title": "Researches on the Partition of Numbers",
+    "authors": "Arthur Cayley",
+    "year": 1856,
+    "volume": "146",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/108582"
+  }
+}

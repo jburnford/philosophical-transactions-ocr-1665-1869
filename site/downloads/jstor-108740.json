@@ -1,0 +1,109 @@
+{
+  "id": "1b3f7c8735d069c0860b173fb9de90d3b5180429",
+  "text": "XVII. On the Double Tangents of a Curve of the Fourth Order.\n\nBy Arthur Cayley, Esq., F.R.S.\n\nReceived May 30,—Read June 20, 1861.\n\nThe present memoir is intended to be supplementary to that \"On the Double Tangents of a Plane Curve.\"* I take the opportunity of correcting an error which I have there fallen into, and which is rather a misleading one, viz. the emanants $U_1, U_2, \\ldots$ were numerically determined in such manner as to become equal to $U$ on putting $(x_1, y_1, z_1)$ equal to $(x, y, z);$ the numerical determination should have been (and in the latter part of the memoir is assumed to be) such as to render $H_1, H_2, \\&c.$ equal to $H,$ on making the substitution in question; that is, in the place of the formulae\n\n$$U_1 = \\frac{1}{n} (x_1 \\partial_x + y_1 \\partial_y + z_1 \\partial_z) U,$$\n\n$$U_2 = \\frac{1}{n(n-1)} (x_1 \\partial_x + y_1 \\partial_y + z_1 \\partial_z)^2 U, \\&c.,$$\n\nthere ought to have been\n\n$$U_1 = \\frac{1}{(n-2)} (x_1 \\partial_x + y_1 \\partial_y + z_1 \\partial_z) U,$$\n\n$$U_2 = \\frac{1}{(n-2)(n-3)} (x_1 \\partial_x + y_1 \\partial_y + z_1 \\partial_z)^2 U, \\&c.$$\n\nThe points of contact of the double tangents of the curve of the fourth order or quartic $U=0,$ are given as the intersections of the curve with a curve of the fourteenth order $\\Pi=0;$ the last-mentioned curve is not absolutely determinate, since instead of $\\Pi=0,$ we may, it is clear, write $\\Pi+MU=0,$ where $M$ is an arbitrary function of the tenth order. I have in the memoir spoken of Hesse's original form (say $\\Pi_1=0$) of the curve of the fourteenth order obtained by him in 1850, and of his transformed form (say $\\Pi_2=0$) obtained in 1856. The method in the memoir itself (Mr. Salmon's method) gives, in the case in question of a quartic curve, a third form, say $\\Pi_3=0.$ It appears by his paper \"On the Determination of the Points of Contact of Double Tangents to an Algebraic Curve,\"† that Mr. Salmon has verified by algebraic transformations the equivalence of the last-mentioned form with those of Hesse; but the process is not given. The object of the present memoir is to demonstrate the equivalence in question, viz. that of the equation $\\Pi_3=0$ with the one or other of the equations $\\Pi_1=0, \\Pi_2=0,$ in virtue of the equation $U=0.$ The transformation depends, 1st, on a theorem used by Hesse for\n\n---\n\n* Philosophical Transactions, vol. cxlix. (1859) pp. 193–212.\n† Quart. Math. Journ. vol. iii. p. 317 (1859).\nthe deduction of his second form $\\Pi_2 = 0$ from the original form $\\Pi_1 = 0$, which theorem is given in his paper \"Transformation der Gleichung der Curven 14ten Grades welche eine gegebene Curve 4ten Grades in den Berührungspuncten ihrer Doppeltangenten schneiden,\" *Crelle*, t. lii. pp. 97–103 (1856), containing the transformation in question; I prove this theorem in a different and (as it appears to me) more simple manner; 2nd, on a theorem relating to a cubic curve proved incidentally in my memoir \"On the Conic of Five-pointic Contact\" at any point of a Plane Curve\",* the cubic curve being in the present case any first emanant of the given quartic curve: the demonstration occupies only a single paragraph, and it is here reproduced; and I reproduce also Hesse's demonstration of the equivalence of the two forms $\\Pi_1 = 0$ and $\\Pi_2 = 0$.\n\nLet $U = (*x, y, z)^4$ be a quartic function of $(x, y, z)$; $(a, b, c, f, g, h)$ its second differential coefficients; $(A, B, C, F, G, H)$ the reciprocal system\n\n$$\n(bc - f^2, ca - g^2, ab - h^2, gh - af, hf - bg, fg - ch).\n$$\n\nAnd let $H$ be the Hessian of $U$, or determinant $abc - af^2 - bg^2 - ch^2 + 2fgh$ ($H$ is of course a sextic function of $x, y, z$); $(a', b', c', f', g', h')$ the second differential coefficients of $H$; $(A', B', C', F', G', H')$ the reciprocal system\n\n$$\n(b'c' - f'^2, c'a' - g'^2, a'b' - h'^2, g'h' - a'f', h'f' - b'g', f'g' - c'h').\n$$\n\nThen $U = 0$ being the equation of a quartic curve, the equation of the curve of the fourteenth order which by its intersections determines the points of contact of the double tangents of the quartic curve, may be taken to be (Hesse's original form)\n\n$$\n\\Pi_1 = (a, b, c, f, g, h)(\\partial_x H, \\partial_y H, \\partial_z H)^2 - 3H(A, B, C, F, G, H)(\\partial_x U, \\partial_y U, \\partial_z U)^2 = 0 \\dagger.\n$$\n\nOr it may be taken to be (Hesse's transformed form)\n\n$$\n\\Pi_2 = 5(a, b, c, f, g, h)(\\partial_x H, \\partial_y H, \\partial_z H)^2 - 3(A', B', C', F', G', H')(U)(\\partial_x U, \\partial_y U, \\partial_z U)^2 = 0.\n$$\n\nAnd moreover, if $U_1 = \\frac{1}{2}(x\\partial_x + y\\partial_y + z\\partial_z)U$, and if $H_1$ be the Hessian of $U_1$, and $(a'', b'', c'', f'', g'', h'')$ the second differential coefficients of $H - 3H_1$, where in the differentiations $(x_1, y_1, z_1)$ are treated as constants but after the differentiations are effected they are replaced by $(x, y, z)$, and if $(A'', B'', C'', F'', G'', H'')$ be the reciprocal system\n\n$$\n(b''c'' - f''^2, c''a'' - g''^2, a''b'' - h''^2, g''h'' - a''f'', h''f'' - b''g'', f''g'' - c''h''),\n$$\n\nthen the equation of the curve of the fourteenth order may be taken to be (Salmon's form)\n\n$$\n\\Pi_3 = (A'', B'', C'', F'', G'', H'')(U)(\\partial_x U, \\partial_y U, \\partial_z U)' = 0.\n$$\n\nI have preferred to write the three equations in the foregoing forms; but it is clear that the terms\n\n$$\n(a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^2H; (A', B', C', F', G', H')(U)(\\partial_x U, \\partial_y U, \\partial_z U)\n$$\n\nmight also have been written\n\n$$\n(a, b, c, f, g, h)(a', b', c', 2f', 2g', 2h'); (A', B', C', F', G', H')(a, b, c, 2f, 2g, 2h).\n$$\n\n* Philosophical Transactions, vol. cxlix. (1859), see p. 385.\n\n† In quoting this formula in my former memoir, the numerical factor 3 is by mistake omitted.\nAs already noticed, it has been shown by Hesse (and his demonstration is to be here reproduced) that the two forms $\\Pi_1 = 0$ and $\\Pi_2 = 0$ are equivalent to each other. And the object of the memoir is to show that the third form $\\Pi_3 = 0$ is equivalent to the other two. The equivalences in question subsist in virtue of the equation $U = 0$, that is, the functions $\\Pi_1$, $\\Pi_2$, $\\Pi_3$ are not identical, but differ from each other by multiples of $U$.\n\n**Demonstration of Hesse's Theorem.**\n\nLet $(a, b, c, f, g, h)$, $(a', b', c', f', g', h')$ be any systems of coefficients of a ternary quadratic function; $(\\lambda, B, C, F, G, H)$, $(\\lambda', B', C', F', G', H')$ the reciprocal systems as above, $(x, y, z)$ arbitrary quantities. Consider the function\n\n$$\\square = (a, b, c, f, g, h)(x, y, z)^2 \\cdot (\\lambda', B', C', F', G', H')(a, b, c, 2f, 2g, 2h) - (\\lambda', B', C', F', G', H')(ax + hy + gz, hx + by + fz, gx + fy + cz)^2.$$  \n\nThe term involving $\\lambda'$ is\n\n$$a(a, b, c, f, g, h)(x, y, z)^2 - (ax + hy + gz)^2,$$\n\nwhich is\n\n$$=(ab - h^2)y^2 + (ac - g^2)z^2 + 2(af - gh)yz = Cy^2 + Bz^2 - 2Fyz;$$\n\nand the term involving $2F'$ is\n\n$$f(a, b, c, f, g, h)(x, y, z)^2 - (hx + by + fz)(gx + fy + cz),$$\n\nwhich is\n\n$$=(af - gh)x^2 + (f^2 - bc)yz + (fg - ch)zx + (hf - bg)xy = -Fx^2 - Ayz + Hzx + Gxy;$$\n\nand the entire expression for $\\square$ is thus\n\n$$\\lambda'(Cy^2 + Bz^2 - 2Fyz) + B'(Ax^2 + Cx^2 - 2Gzx) + C'(Bx^2 + Ay^2 - 2Hxy) + 2F'(-Fx^2 - Ayz + Hzx + Gxy) + 2G'(-Gy^2 - Bzx + Fxy + Hyz) + 2H'(-Hz^2 - Cxy + Gy + Fzx);$$\n\nor what is the same thing,\n\n$$\\square = (BC' + B'C - 2FF', CA' + C'A - 2GG', AB' + A'B - 2HH', GH' + G'H - AF' - A'F, HF' + H'F - BG' - B'G, FG' + F'G - CH' - C'H)(x, y, z)^2,$$\n\nwhich is really the fundamental theorem. It is however used as follows; viz. the right-hand side being symmetrical in regard to the two systems\n\n$$(a, b, c, f, g, h), (a', b', c', f', g', h'),$$\n\nthe left-hand side, which is not in form symmetrical as regards the two systems, must be so in reality; or if $\\square'$ is what $\\square$ becomes by interchanging the two systems, then $\\square' = \\square$.\nor substituting for $\\square$ and $\\square'$ their values, we have\n\n$$ (a, b, c, f, g, h)(x, y, z)^2 \\cdot (\\Lambda', B', C', F', G', H')(a, b, c, 2f, 2g, 2h) $$\n\n$$ - (\\Lambda', B', C', F', G', H')(ax + hy + gz, hx + by + fz, gx + fy + cz)^2 $$\n\n$$ = (a', b', c', f', g', h')(x, y, z)^2 \\cdot (\\Lambda, B, C, F, G, H')(a', b', c', 2f', 2g', 2h') $$\n\n$$ - (\\Lambda, B, C, F, G, H')(a'x + h'y + g'z, h'x + b'y + f'z, g'x + f'y + c'z)^2, $$\n\nwhich is Hesse's theorem.\n\nIf in particular $(a, b, c, f, g, h)$ are the second differential coefficients of a function $u = (*x, y, z)^p$, and $(a', b', c', f', g', h')$ the second differential coefficients of a function $u' = (*x, y, z)^{p'}$, then the equation becomes\n\n$$ p(p-1)u \\cdot (\\Lambda', B', C', F', G', H')(x, y, z)^2 u - (p-1)^2(\\Lambda', B', C', F', G', H')(x, y, z)^2 $$\n\n$$ = p'(p'-1)u' \\cdot (\\Lambda, B, C, F, G, H')(x, y, z)^2 u' - (p'-1)^2(\\Lambda, B, C, F, G, H')(x, y, z)^2 $$\n\nand if for $u, u'$ we take the quartic function $U$ and the sextic function $H$, its Hessian, we have\n\n$$ 12U \\cdot (\\Lambda', B', C', F', G', H')(x, y, z)^2 U - 9(\\Lambda', B', C', F', G', H')(x, y, z)^2 $$\n\n$$ = 30H \\cdot (\\Lambda, B, C, F, G, H')(x, y, z)^2 H - 25(\\Lambda, B, C, F, G, H')(x, y, z)^2; $$\n\nand if in this identical equation we write $U = 0$, then from the resulting equation and the equation\n\n$$ \\Pi_1 = -3H \\cdot (\\Lambda, B, C, F, G, H')(x, y, z)^2 H + (\\Lambda, B, C, F, G, H')(x, y, z)^2 $$\n\nwe may eliminate any one of the three terms\n\n$$ (\\Lambda', B', C', F', G', H')(x, y, z)^2 U, (\\Lambda, B, C, F, G, H')(x, y, z)^2 H, $$\n\n$$ (\\Lambda, B, C, F, G, H')(x, y, z)^2; $$\n\nand in particular if the second term be eliminated, we obtain the equation\n\n$$ \\Pi_2 = 5(\\Lambda, B, C, F, G, H')(x, y, z)^2 H - 3(\\Lambda', B', C', F', G', H')(x, y, z)^2 $$\n\nand the equivalence of the two forms $\\Pi_1 = 0$ and $\\Pi_2 = 0$ is thus established.\n\nBut Hesse's theorem leads also to the demonstration of the equivalence of the third form $\\Pi_3 = 0$. To use it for this purpose, I remark that if $(a'', b'', c'', f'', g'', h'')$ are the second differential coefficients of $H - 3H_1$, where after the differentiations $x_1, y_1, z_1$ are to be replaced by $(x, y, z)$, then the theorem gives\n\n$$ 12U \\cdot (\\Lambda'', B'', C'', F'', G'', H'')(x, y, z)^2 U - 9(\\Lambda'', B'', C'', F'', G'', H'')(x, y, z)^2 $$\n\n$$ = (a'', b'', c'', f'', g'', h'')(x, y, z)^2 \\cdot (\\Lambda, B, C, F, G, H')(x, y, z)^2(H - 3H_1) $$\n\n$$ - (\\Lambda, B, C, F, G, H')(x, y, z)^2(a''x + h''y + g''z, h''x + b''y + f''z, g''x + f''y + c''z)^2. $$\n\nBut on putting $(x, y, z)$ for $(x_1, y_1, z_1)$ we have (since $H$ is a homogeneous function of the order 6, and $H_1$ before the change is a homogeneous function of the order 3 in $(x, y, z)$) $a''x + h''y + g''z = 5\\partial_x H - 3.2\\partial_y H_1 = 5\\partial_x H - 3\\partial_y H$ (since, on making the substi-\ntution, $H_1 = H$, but $\\partial_x H_1 = \\frac{1}{2} \\partial_x H$; and thus\n\n$$ (a''x + h''y + g''z, h''x + b''y + f''z, g''x + f''y + c''z) = (2\\partial_x H, 2\\partial_y H, 2\\partial_z H); $$\n\nand similarly, on making the substitution,\n\n$$ (a'', b'', c'', f'', g'', h'')(x, y, z)^3 = 6.5H - 3.3.2H_1 = (30 - 18)H = 12H. $$\n\nHence writing therein $U = 0$, the foregoing equation becomes\n\n$$ -9(A'', B'', C'', F'', G'', H'')\\partial_x U, \\partial_y U, \\partial_z U)^2 $$\n\n$$ = 12H.(A, B, C, F, G, H)\\partial_x , \\partial_y , \\partial_z)^2(H - 3H_1) $$\n\n$$ - 4(A, B, C, F, G, H)\\partial_x U, \\partial_y U, \\partial_z U)^2, $$\n\nwhich may also be written\n\n$$ -9(A'', B'', C'', F'', G'', H'')\\partial_x U, \\partial_y U, \\partial_z U)^2 $$\n\n$$ = 12H.(A, B, C, F, G, H)\\partial_x , \\partial_y , \\partial_z)^2H $$\n\n$$ - 36H.(A, B, C, F, G, H)\\partial_x , \\partial_y , \\partial_z)^2H_1 $$\n\n$$ - 4(A, B, C, F, G, H)\\partial_x U, \\partial_y U, \\partial_z U)^2, $$\n\nwhere $(x_1, y_1, z_1)$ are ultimately to be replaced by $(x, y, z)$. The second line in fact vanishes, which I show as follows:\n\n**Demonstration of my Theorem for a Cubic Curve.**\n\nLet $U = (*)(x, y, z)^3$ be a cubic function; it may by a linear transformation of the coordinates be reduced to the canonical form $x^3 + y^3 + z^3 + 6lxyz$, and we then have\n\n$$ (A, B, C, F, G, H)\\partial_x , \\partial_y , \\partial_z)^2H \\div 6^5 $$\n\n$$ = (yz - l^2x^2).-6l^2x $$\n\n$$ + (zx - l^2y^2).-6l^2y $$\n\n$$ + (xy - l^2z^2).-6l^2z $$\n\n$$ + 2(l^2yz - lx^2).(1 + 2l^2)x $$\n\n$$ + 2(l^2zx - ly^2).(1 + 2l^2)y $$\n\n$$ + 2(l^2xy - lz^2).(1 + 2l^2)z $$\n\n$$ = -18l^2xyz + 6l^4(x^3 + y^3 + z^3) $$\n\n$$ + 6l^2(1 + 2l^2)xyz - 2l(1 + 2l^2)(x^3 + y^3 + z^3) $$\n\n$$ = (-12l^2 + 12l^4)xyz + (-2l + 2l^4)(x^3 + y^3 + z^3) $$\n\n$$ = 2(-l + l^4)(x^3 + y^3 + z^3 + 6lxyz). $$\n\nOr since $-l + l^4$ is equal to the quartinvariant $S$, and the equation is an invariantive one, we have for any cubic function whatever\n\n$$ (A, B, C, F, G, H)\\partial_x , \\partial_y , \\partial_z)^2H \\div 6^5 = 2S.U, $$\n\nwhich is the theorem in question. There is a difference of notation, and consequently a\ndifferent numerical factor in the theorem, as stated in the memoir on the conic of five-pointic contact, referred to above.\n\nIf, as above, \\( U \\) is a quartic function \\((x, y, z)^4\\), and \\( U_1 = \\frac{1}{2}(x_1 \\partial_x + y_1 \\partial_y + z_1 \\partial_z)U \\), then \\( U_1 \\) is a cubic function, and we have\n\n\\[\n(a_1, b_1, c_1, f_1, g_1, h_1)(\\partial_x, \\partial_y, \\partial_z)^3H_1 \\div 6^5 = 2S_1 \\cdot U_1,\n\\]\n\nwhere it is to be noticed that \\( S_1 \\) denotes a quartic function in the coefficients of \\( U_1 \\), and consequently a quartic function in \\((x_1, y_1, z_1)\\), the coefficients being quartic functions of the coefficients of \\( U \\). On writing \\((x, y, z)\\) in the place of \\((x_1, y_1, z_1)\\), \\( S_1 \\) becomes a quartic function of \\((x, y, z)\\), which is in fact a quartic covariant quartic of \\( U \\).\n\nIf in the foregoing equation we write \\((x, y, z)\\) in the place of \\((x_1, y_1, z_1)\\), then \\( U_1 \\) becomes equal to \\( 2U \\); and consequently, if \\( U = 0 \\), the right-hand side of the equation vanishes. Moreover \\((a_i, b_i, c_i, f_i, g_i, h_i)\\) (the second differential coefficients of \\( U_1 \\)) become equal to \\((a, b, c, f, g, h)\\), and consequently the coefficients \\((a_1, b_1, c_1, f_1, g_1, h_1)\\) become equal to \\((a, b, c, f, g, h)\\). Hence, assuming always that \\( U = 0 \\), the equation becomes\n\n\\[\n(a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^3H_1 = 0,\n\\]\n\nwhere after the differentiations \\((x_1, y_1, z_1)\\) are replaced by \\((x, y, z)\\). This is the form which is required for the present purpose.\n\nReturning to the foregoing expression of \\(-9(a'', b'', c'', f'', g'', h'')(\\partial_x, \\partial_y, \\partial_z)^3H_1\\), this now becomes\n\n\\[\n-9\\Pi_3 = -9(a'', b'', c'', f'', g'', h'')(\\partial_x, \\partial_y, \\partial_z)^3H_1 = 4\\{3H \\cdot (a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^3H_1 - (a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^3H_1\\},\n\\]\n\nso that the equation \\( \\Pi_3 = 0 \\) gives\n\n\\[\n\\Pi_1 = (a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^3H_1 - 3H \\cdot (a, b, c, f, g, h)(\\partial_x, \\partial_y, \\partial_z)^3H_1 = 0,\n\\]\n\nand the equivalence of the equations \\( \\Pi_1 = 0 \\) and \\( \\Pi_3 = 0 \\) is thus established.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108740.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11436,
+    "total-output-tokens": 5992,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2447,
+        2
+      ],
+      [
+        2447,
+        5743,
+        3
+      ],
+      [
+        5743,
+        7881,
+        4
+      ],
+      [
+        7881,
+        10772,
+        5
+      ],
+      [
+        10772,
+        12881,
+        6
+      ],
+      [
+        12881,
+        15104,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108740",
+    "title": "On the Double Tangents of a Curve of the Fourth Order",
+    "authors": "Arthur Cayley",
+    "year": 1861,
+    "volume": "151",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/108740"
+  }
+}

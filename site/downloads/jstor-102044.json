@@ -1,0 +1,69 @@
+{
+  "id": "a5b544f8135c6f7a5b7c16bc2655108682353b76",
+  "text": "An account of a Book, viz. The Geometrical Key, or Construction of all Equations Linear, Quadratic, Cubic and Biquadratic, by a Circle and one only Parabola; by Mr. Tho. Baker Rector of Bishop Nympton in Devonshire.\n\nThe Analysis which the Ancients used for the constructing Problems geometrically or by lines, has been highly advanced by des Cartes's method; that part of this method which concerns local Problems has been well explained by de Wit, but the other and more principal part of constructing Equations has been lately cleared by de la Hire. Yet neither des Cartes nor de la Hire do it without the trouble of preparing the Equation by taking away the second Term. To free us of this trouble our Author here shews us to construct all affected Equations not exceeding the 4th power, by the Intersection of a Circle and Parabola without omission or change of any terms. And altho by the Method of des Cartes we may find not only any Parabola, but also Ellipses and Hyperbola's to construct these Equations, yet of all lines of the first kind a Circle and Parabola being the most simple, it follows that the way which our Author has chosen is the best.\n\nIn the Book (to render it intelligible even to those who have read no Conics) the Author shews, how a Parabola arises from the Section of a Cone, then how to describe it in plano, and from that construction demonstrates that the squares of the Ordinates are one to another as the correspondent Sagittæ or intercepted Diameters; then he shews that if a line be inscrib'd in a Parabola perpendicular to any Diameter, a Rectangle made of the Segments of the Inscript, will be equal to a rectangle made of the intercepted Diameter and Parameter of the Axis. From this last propriety our Author deduces the universality of his central Rule for the Solution of all Biquadratic and cubic Equations, however affected or varied\nvaried in terms or signs. After the Synthesis our Author shews the analysis or method by which he found this Rule, viz. a Parabola being described, and a point in its plain given in position, he expresses 2 ways, the radius of a Circle passing through the Vertex of any diameter, i.e. by position of the given Center, and application of the foresaid propriety to express the ratio of the radius to the given lines of the parabola: So having an Equation of 4 dimensions, and rejecting equal on both sides, he depresses it to a Cubic, but adjoining to it a quantity for the Homogene of the comparison, the Equation subsists in a Biquadratic, having all its terms, if the Circle be supposed to pass not thro the vertex of the diameter, but thro a point which being joyn'd with the Vertex and Center may terminate a right angled triangle.\n\nThis Equation he compares with another like it and equal to it; then by equating the Coefficients of these 2 Equations he presently discovers the central Rule; whose universal extent appears in Biquadratic Equations affected under all their Parodic degrees; for all the other cases where any terms are wanting, are but Corollaries or more compendious Constructions deriv'd from the general rule. So that the invention of the rule seems as much due to the last Equation of the Coefficients, as to the foresaid propriety, which is demonstrated by Archimedes in the Section of a parabolic Conoid by a plane parallel to the axis, and is particularly used by Slusius in his Analytics, who thereby constructs a Biquadratic Equation keeping all its terms. But then the Analysis of Slusius by breaking the Equation into 2 others to find 2 places is very different from that whereby our Author found his central rule; then which nothing can be expected more easy, simple, or universal; seeing any Parabola being once for all described, will give all the roots true and false, of any Equation without reduction or any alteration.\n\nERRATUM. p. 518. line the last, read Nubigenum.\n\nOXFORD, Printed at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102044.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1011,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1880,
+        2
+      ],
+      [
+        1880,
+        4043,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102044",
+    "title": "An Account of a Book",
+    "authors": "Tho. Baker",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102044"
+  }
+}

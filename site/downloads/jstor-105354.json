@@ -1,0 +1,69 @@
+{
+  "id": "acc3c43c2349285f4b37183e13a3a237aa1e8a80",
+  "text": "I ask pardon of your Lordship and the Society for taking up so much time as this paper hath required: but if it meets with your Lordship's and the Society's approbation, I may, in some future paper (when the necessary avocations of my profession will allow me leisure), lay before you some experiments, relating to colours which are not likely to change by being painted on any kind of ground.\n\nAs your Lordship's recommendation contributed much to make me a member of this learned body, I must beg your patronage of this communication; and am, with the greatest respect,\n\nYour Lordship's and the Society's\n\nMost obedient humble Servant,\n\nBudge-row.\nFebruary 27, 1759.\n\nJosiah Colebrooke.\n\nIX. A Letter concerning the success of the preceding Experiments. In a Letter to the Right Honourable Lord Charles Cavendish, V. P. R. S. from Mr. Josiah Colebrooke, F. R. S.\n\nMy Lord,\n\nRead April 5. In a paper (I lately had the honour to lay before the Royal Society, on the encaustic painting of the ancients) I mentioned an use which might be made of it to preserve drawings. I have now the pleasure of laying before your Lordship\nship and the Society a specimen of the encaustic upon paper, being a bird drawn by Mr. George Edwards, a fellow of this Society, on paper prepared with a ground of whitening and fish-glew, painted with water colours, and then the wax, &c. burned in. This will roll up as easily as common paper, without cracking the varnish. There are also two landscapes, painted by a young lady, after the same manner, on wood. These will fully evince all I advanced in that paper.\n\nI am, my Lord, with the greatest respect,\n\nYour Lordship's most humble Servant,\n\nBudge-row,\nApril 5, 1759.\n\nJosiah Colebrooke.\n\nX. An Account of a particular Species of Cocoon, or Silk-pod, from America. By the Reverend Samuel Pullein, M. A.\n\nHAVING lately seen the aurelia of a particular species of caterpillar, I judged, from its texture and consistence, that there might be procured from it a silk not inferior to that of the common silk-worm in its quality, and in its quantity much superior. I have made some experiments on this new species of silk-pod, which strengthen this opinion.\n\nThis pod is about three inches and a quarter in length, and above one inch in diameter; its outward form not",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105354.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 640,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1124,
+        2
+      ],
+      [
+        1124,
+        2292,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105354",
+    "title": "A Letter concerning the Success of the Preceding Experiments. In a Letter to the Right Honourable Lord Charles Cavendish, V. P. R. S. from Mr. Josiah Colebrooke, F. R. S.",
+    "authors": "Josiah Colebrooke",
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105354"
+  }
+}

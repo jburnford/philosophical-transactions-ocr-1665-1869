@@ -1,0 +1,79 @@
+{
+  "id": "61b2d83cd1f77f83adcd23a78b03809a78107aa3",
+  "text": "After this the Clouds thickened, and covered the Moon till the End of the Eclipse, which was about $8h$, $30'$, as near as I could guess through the Clouds.\n\nThe Night before the Eclipse, viz. 20 December, at $12h$, $14'$, I saw the Moon eclipse a Fixed Star, which, I think, is in the Heel of Castor.\n\nThese Two last Observations were made with an Eight Foot Telescope, my Watch being rectified to the apparent Time by correspondent Altitudes of the Sun, taken with the before-mentioned Quadrant for several Days together, before and after the Eclipse.\n\nI must ask your Pardon for this long Trouble, and am,\n\nSIR,\n\nCambridge in New-England, Dec. 30. 1740.\n\nYour most humble Servant,\n\nJohn Winthrop.\n\nIII. An Account of the Transit of Mercury over the Sun, Oct. 25. 1743. in the Morning, observed at Mr. Geo. Graham's House in Fleetstreet.\n\nRead Nov. 3. 1743.\n\nTHE Beginning could not be seen by reason of Clouds, but about $8h$, $45'$, Mercury was seen (through a reflecting Telescope Three Foot Focus, magnifying about 50 times) about Four or Five of his Diameters within the Sun's Limb.\n\nAt Mr. Short's House in Surrey-street, Mercury was seen just past the interior Contact $8h$, $30'$, $59''$, through\nthrough a reflecting Telescope Two Foot Focus, magnifying about 70 times; the Person who observed it says, that the Thread of Light between Mercury and the Sun's Limb was so small, as scarcely to amount to the 20th or 30th Part of Mercury's Diameter.\n\nThe following Differences of Right Ascension between the Sun's preceding Limb and Mercury, were taken at Mr. Short's House.\n\nSun's preceding Limb touched the Wire at \\[10.58.55\\]\nMercury touched the same Wire at \\[10.59.40\\]\n\nSun's preceding Limb touched the Wire at \\[11.48.4\\]\nMercury touched the same Wire at \\[11.48.32\\]\nSun's subsequent Limb touched the same Wire at \\[11.50.20\\]\n\nSun's preceding Limb touched the Wire at \\[11.49.20\\]\nMercury touched the same Wire at \\[11.49.46\\]\n\nSun's preceding Limb touched the Wire at \\[11.51.9\\]\nMercury touched the same Wire at \\[11.51.36\\]\n\nSun's preceding Limb touched the Wire at \\[12.1.33\\]\nMercury touched the same Wire at \\[12.1.57\\]\n\nMr. Graham got an Observation made by a Person in his Neighbourhood, by which it appears, that\nat 11h, 59', 50\", Mercury preceded the Sun's Centre 42\" in Right Ascension.\n\nThe Sky clearing up towards One o'Clock, the following Times were observed at Mr. Graham's House with great Accuracy.\n\nLast interior Contact at . . . . . . 1. 0. 42.\nEnd, or Mercury just leaving the Sun's Limb at . . . . . . 1. 2. 16.\n\nThis last Observation agrees to a Second with the same Observation made by Dr. Bevis at Mr. Sisson's House in the Strand.\n\nDuring the time of these Observations it blew a violent Gale of Wind, so that both Observers and Instruments were somewhat disturbed.\n\nIV. Eclipse of the Moon, Oct. 22. 1743. in the Morning, observed at Mr. Graham's House in Fleetstreet.\n\nRead Nov. 3. 1743.\n\nThe Sky was mostly overcast with Clouds, so that the following Observations are the only ones that could be made with any Degree of Certainty.\n\nBeginning of the Eclipse about . . . . 1. 21. 0.\nThe Shade touched Copernicus about . . 1. 39. 0.\ntouched Plato about . . . . . . 1. 45. 0.\ntouched Tycho about . . . . . . 1. 51. 0.\nTotal Immersion about . . . . . . 2. 17. 0.\n\nV. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104215.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1117,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1207,
+        2
+      ],
+      [
+        1207,
+        2240,
+        3
+      ],
+      [
+        2240,
+        3313,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104215",
+    "title": "An Account of the Transit of Mercury Over the Sun, Oct. 25. 1743. in the Morning, Observed at Mr. Geo. Graham's House in Fleetstreet",
+    "authors": null,
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104215"
+  }
+}

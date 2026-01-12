@@ -1,0 +1,59 @@
+{
+  "id": "91f26c64dd975f583dcb6baa0f5d40232104da1e",
+  "text": "XLVIII. Observationes Eclipshum Satellitum Jovis Ulissipone habita a Joanne Chevalier, Presbytero Congregationis Oratorii, Regiaeque Londinensis Societatis Socio, Anno 1757.\n\nRead Dec. 8. Telescopio Gregoriano 7 pedum observavi emersionem primi satellitis die 7 Junii cum caelum serenum ac clarum esset, hora postmeridiana temporis veri — 10h 29' 21\"'\n\nDie 8 Junii eodem telescopio observavi emersionem secundi satellitis hora postmeridiana 8h 32' 48\" caelum aliquantum nubilum erat.\n\nEadem die observavi emersionem tertii satellitis hora postmeridiana — — — 9h 36' 25\" caelo claro.\n\nDie 15 Junii caelo claro observavi emersionem secundi satellitis hora postmeridiana — 11h 6' 15\"'\n\nSequenti die 16 Junii observavi immersionem tertii satellitis hora matutina temporis veri — 0h 0' 29\"'\n\nXLIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105273.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 353,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        792,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105273",
+    "title": "Observationes Eclipsium Satellitum Jovis Ulissipone Habitae à Joanne Chevalier, Presbytero Congregationis Oratorii, Regiaeque Londinensis Societatis Socio, Anno 1757",
+    "authors": "Joanne Chevalier",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105273"
+  }
+}

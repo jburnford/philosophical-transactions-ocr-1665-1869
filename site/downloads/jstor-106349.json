@@ -1,0 +1,69 @@
+{
+  "id": "bf9380beb88388f52997b655713f4cad2ed97365",
+  "text": "XXXVIII. On the Use of an Amalgam of Zinc, for the Purpose of electrical Excitation, &c. By Bryant Higgins, M.D. in a Letter to Richard Brocklesby, M.D. F.R.S.\n\nTO DR. BROCKLESBY.\n\nDEAR SIR,\n\nGreek Street, Soho,\nMay 8, 1778.\n\nRead July 4, 1778. BY divers experiments lately made by myself, and repeated by others, I find that, agreeable to the suggestion made in my last course of chemistry, the amalgam of zinc, which contains four times more quicksilver than zinc, is much better for electrical excitation than the tin amalgam of the ingenious Mr. Canton, when used in the same circumstances.\n\nI also find, that electrical cylinders are easily and effectually cleansed by applying to them a piece of the dry skin of the dog-fish whilst the cylinders are turned round;\nround; and that in this method of cleansing the glass cylinders, we avoid the inconvenience of removing the cushion, and the danger of scratching the glass, to both which we are exposed in the use of whiting and other cleansing powders.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106349.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 344,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        770,
+        2
+      ],
+      [
+        770,
+        1017,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106349",
+    "title": "On the Use of an Amalgam of Zinc, for the Purpose of Electrical Excitation, &c. By Bryant Higgins, M. D. in a Letter to Richard Brocklesby, M. D. F. R. S.",
+    "authors": "Bryant Higgins",
+    "year": 1778,
+    "volume": "68",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106349"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "a8e3a75087b0d25df567332760253cf9ac645117",
+  "text": "III. Singularia quaedam in Cadavere calculoso dissecto reperta, ab Abrahamo Vater, M.D. Pr. Anat. Wittemb. R.S.S.\n\nJuvenis studiosus per duos annos Dysuria frequenti laborans, per illud tempus ultra quinquaginta calculos excrevit; quorum plerique sine insigni dolore intermingendum seceperunt; quidam tamen eorum reliquis maiores, pisorum majorum vel phaeolorum magnitudinem habentes, in urethra substiterunt, ac manu chirurgi comminuti aut sectione extracti fuerunt. Incidit hic sensim in Marasmus totius corporis, ac urgente tussi sicca & Asthmate, accidente insuper tumore pedum oedematoso, tandem pridie ante mortem, lecto affixus, animam Creatori reddidit. Ad sectionem corporis defuncti accedentes, aperto Thorace, pulmonem cum pericardio, diaphragmate & costis, hinc inde concretum, ac in dextro praeprimis latere scirrhosum invenimus, in utroque praeterae ventriculo cordis, Polypos insignes, qui truncos vasorum occupaverant & proculdubiò Asthmatis atque insequentis suffocationis, mortisque subitaneæ praecipua causa fuerunt.\n\nIn abdomine hepàr & lien nullo manifesto vitio laborabant; intestinum autem ileon fugillatum erat, & colon in toto suo ambitu, à dextro inde latere, ubi hepari accumbit, una cum recto, ita constrictum & contractum apparebat, ut vix digiti crassitiam æquaret, nullamque serè cavitate m interius monstraret.\n\nTandem vias urinarias, utpote officinam tot calculorum visitantes, in renibus atque ureteribus nihil praeternaturalis invenimus, in vesica vero tres calculos, pha-\nphaseolorum magnitudinem habentes, eos tamen non liberos, sed membrana valida involutos, ac lateri anteriore prope sphincterem adhaerentes deprehendimus, quos in rei memoria una cum eorum involucro asservo. Unde haec membrana calculos involvens originem trahat, explicatu difficillimum mihi videtur; quamobrem hac data occasione, flatu per ureterem utrumque immisso, inquisivi, an illa (viz membrana) cum ureteribus communicet; & utrum sit ipsa membrana Vesicæ interior, à calculis in ureteribus, inter substantiam Vesicæ incedentibus, una cum uretere, vel hoc rupto, extensa: nihil tamen detegere potui. Hos tamen calculos Dysuriæ non tantum continuæ, sed etiam propter irritationem perpetuam, constrictio- nis præternaturalis intestini coli atque recti extitisse, rationi conveniens videtur.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103452.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 797,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1508,
+        2
+      ],
+      [
+        1508,
+        2301,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103452",
+    "title": "Singularia Quaedam in Cadavere Calculoso Dissecto Reperta, ab Abrahamo Vater, M. D. Pr. Anat. Wittemb. R.S.S.",
+    "authors": "Abrahamo Vater",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103452"
+  }
+}

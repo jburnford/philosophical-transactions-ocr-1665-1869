@@ -1,0 +1,69 @@
+{
+  "id": "b05c81576090d8ee95b2777b9d7e264dc2312f34",
+  "text": "XX. Meteorological Observations for 1769, made at Bridgewater in Somersetshire. Communicated by Dr. Jeremiah Milles, Dean of Exeter, and F. R. S.\n\nRead April 5, 1770. Received February 8, 1770.\n\nMETEOROLOGICAL OBSERVATIONS at BRIDGEWATER, 1769.\n\n| Month | Barometer | State of the Weather and Wind | Fahrenheit's Thermom. | Ombr. |\n|-------|-----------|------------------------------|----------------------|-------|\n|       |           |                              | Highest Lowest       | Inches |\n| January | Highest 30.22 | The first 9 days chiefly cloudy, the next 7 days sun shine and storms intermixed, then frost for 3 days, the remainder of the month chiefly stormy. The first part of the month very calm; the latter, high winds; the first S.W. and N.E., the latter S.E. and N.W. | Highest 30° Med. Lowest 22° 26° | 38° 3° |\n|       | Lowest 29.35 |                              |                      | 1° 1° |\n| February | Highest 30.21 | The first part cloudy and sun shine intermixed, the latter part cloudy and stormy. The wind chiefly N.W. the whole month; the first part and the latter part high, the middle moderate. | Highest 8° Med. Lowest 1° 31° | 52° 49° |\n|       | Lowest 29.11 |                              |                      | 2.54° |\n| March  | Highest 30.50 | To the 14th, cloudy and stormy, from thence to the end cloudy and sun shine, intermixed. The first part, the middle, and the latter end, high winds, the intermediate parts moderate. The first part Westerly winds, then S.E., the latter part nearly equally divided between N.E. and N.W. | Highest 4° Med. Lowest 31° 29° | 53° 43° |\n|       | Lowest 28.99 |                              |                      | 1° 7° |\n\nApril\n| Month | Barometer | State of the Weather and Wind | Fahrenheit's Thermom. | Ombr. |\n|-------|-----------|-------------------------------|----------------------|-------|\n| April | Highest 30°33′ | The first 18 days sun shine and cloudy intermixed, the other 12 days continued sun shine. The first and latter parts very moderate winds, the middle high, and remarkably high in the night of the 13th. The first 8 days N. E. the middle Westerly, and the latter part N. W. | Highest 30°65′ | Med. |\n|       | Lowest 28°68′ |                               | Lowest 1°32′ | 49°5′ |\n|       |             |                               | Inches. | .978 |\n| May   | Highest 30°54′ | The first 16 days chiefly sun shine, from thence to the 26th cloudy and sun shine intermixed, the latter part stormy. The first 11 days the wind N. W. the next 10 N. E. and the latter part divided between N. W. and S. W. The wind moderate till the 25th, the remainder high. | Highest 22°70′ | 52°2′ |\n|       | Lowest 29°34′ |                               | Lowest 12°43′ | 2°758 |\n| June  | Highest 30°23′ | The whole month in general cloudy and stormy, with a few days of sun shine about the middle. The wind for the most part high, and nearly equally divided between S. W. and N. W. | Highest 27°67′ | 57°2′ |\n|       | Lowest 29°42′ |                               | Lowest 12°51′ | 3°252½ |\n| July  | Highest 30°23′ | To the 24th chiefly sun shine; from thence cloudy and stormy, moderate winds in general, highest towards the latter end, generally N. W. | Highest 7°74′ | 64°6′ |\n|       | Lowest 29°68′ |                               | Lowest 1°52′ | 1°247½ |\n\nAugust 1°948  \nSeptember 1°215  \nOctober 6°80  \nNovember 3°122½  \nDecember 2°782½  \n\nTotal Rain this Year 1769. 2°3°1°6°8°",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105889.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5118,
+    "total-output-tokens": 1164,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1717,
+        2
+      ],
+      [
+        1717,
+        3485,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105889",
+    "title": "Meteorological Observations for 1769, Made at Bridgewater in Somersetshire. Communicated by Dr. Jeremiah Milles, Dean of Exeter, and F. R. S.",
+    "authors": "Jeremiah Milles",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105889"
+  }
+}

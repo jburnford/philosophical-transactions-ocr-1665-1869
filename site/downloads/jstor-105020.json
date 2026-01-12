@@ -1,0 +1,79 @@
+{
+  "id": "29ef4b958a49a82eae2fe022ebb9c9548a36857d",
+  "text": "VII. Aurora borealis, observata a Petro Gabriij, J. V. D. Phys. Astron. et Math. anni 1750, die 27 Februarii, Nov. St. Hagae Com.\n\nRead Jan. 24. OBSERVAVI tempore vespertino per-rarum meteoron, quae mihi aurora borealis visa, referens magnam lucem, eamque formam iridis, principium fumens ab horizonte circa orientem, finiensque ad horizontem circa occasum. Culmen erat versus meridiem zenith, et fere 80 grad. supra horizontem; (Tab. I. Fig. 2.) latitudo autem prope verticem fere 2 grad. ad utramque extremitatem pergens quasi cuspidatim. Medius arcus magnam candidamque lucem emittebat, quae tamen ad limbos et magis debilis et subcærulea apparebat.\n\nMeteoron hoc decima vespertina maxime vividum conspicere, at vero post horæ quadrante discussum erat. Quum autem sidera noctem belle illustrabant, distincte dabatur haec, quamquam debilius, quam quae extra arcum, transpicere.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105020.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 7054,
+    "total-output-tokens": 414,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        879,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105020",
+    "title": "Aurora Borealis, Observata a Petro Gabrij, J. V. D. Phys. Astron. et Math. Anni 1750, die 27 Februarii, Nov. St. Hagae Com.",
+    "authors": "Petro Gabrij",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105020"
+  }
+}

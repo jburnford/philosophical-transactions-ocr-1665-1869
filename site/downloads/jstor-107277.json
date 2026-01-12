@@ -1,0 +1,59 @@
+{
+  "id": "76a118f2fb8e200e1541b27382fb5c4be33e1123",
+  "text": "PRESENTS.\n\nJune 1. A Journal of Natural Philosophy, by W. Nicholson. No. XCVIII. to CII.\nThe Philosophical Magazine, by A. Tilloch. No. CXXXIII.\nThe Critical Review. May, 1809.\n\n8. An Index to the first 15 Volumes of the Archaeologia. London, 1809.\n\nAnnual Report of the Royal Humane Society. 1809. London.\n\n15. Transactions of the Royal Society of Edinburgh. Vol. V. Part III. 1805. and Vol. VI. Part II. 1809.\n\n22. Kongl. Vetenskaps Academiens Nya Handlingar Tom. XXVII. för år 1806, 2d, 3d, and 4th quarter, Tom. XXVIII. för år 1807, and Tom. XXIX. för år 1808. Stockholm.\n\nA new Elucidation of Colours, by J. Sowerby. London, 1809.\n\nDONORS.\n\nMr. William Nicholson.\n\nMr. Alexander Tilloch.\n\nThe Proprietor.\n\nThe Society of Antiquaries.\n\nJohn Coakley Lettsom, M. D. F. R. S.\n\nThe Royal Society of Edinburgh.\n\nThe Royal Academy of Sciences of Stockholm.\n\nMr. James Sowerby.\n\nERRATA.\n\nPage 110, at three lines from bottom, for $85^\\circ 30'$, read $85^\\circ 25'$; and do the same at five lines from bottom.\n\nPage 126, at three lines from bottom, for full dimensions, read half dimensions.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107277.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 432,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1088,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107277",
+    "title": "Errata",
+    "authors": null,
+    "year": 1809,
+    "volume": "99",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107277"
+  }
+}

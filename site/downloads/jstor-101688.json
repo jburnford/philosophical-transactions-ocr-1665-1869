@@ -1,0 +1,79 @@
+{
+  "id": "11d1239cc8bf01ed973aae54cad7546907ecdd57",
+  "text": "A Letter of Mr. Franc. Linus, written to the Publisher from Liege\nthe 25th of Febr. 1675. ft.n. being a Reply to the Letter printed\nin Numb. 110. by way of Answer to a former Letter of the same\nMr. Linus, concerning Mr. Isaac Newton's Theory of Light and\nColours.\n\nHonoured Sir,\n\nIn yours of Dec. 17. which I received about the end of Jan. you\nsay, I may rest assured, First, that the Experiment was made in\nclear days. Secondly, that the Prism was placed close to the hole,\nso that the light had no room to diverge: And thirdly, that the I-\nmage was not Parallel (as I conjectured) but Transverse to the\nAxis of the Prism. Truly, Sir, if these Assertions be admitted,\nthey do indeed directly cut off what I said of Mr. Newton's being\ndeceived by a bright cloud. But if we compare them with Mr.\nNewton's Relation of the Experiment in the Phil. Transactions, N.\n80 p. 3076. it will evidently appear, they cannot be admitted as\nbeing directly contrary to what is there delivered. For there he\ntells us, the ends of the coloured Image, he saw on the opposite\nwall, near five times as long as broad, seemed to be Semicircular.\nNow these Semicircular Ends are never seen in a clear day, as Ex-\nperience shews. From whence follows against the first Assertion,\nThat the Experiment was not made in a clear day. Neither are those\nSemicircular Ends ever seen, when the Prism is placed close to\nthe Hole; which contradicts the second Assertion. Neither are\nthey ever seen, when the Image is Transverse to the length or Axis\nof the Prism; which directly opposes the third Assertion. But if\nin any of these three Cases, the Image be made so much longer than\nbroad (as easily it may, by turning the Prism a little about its Ax-\nis) near five times as long as broad, than the one End thereof will run\nout into a sharp Cone or Pyramis like the flame of a Candle, and the\nother into a Cone somewhat more blunt; both which are far from\nseeming Semicircular: Whereas, if the Image be made not in a\nclear day, but with a bright cloud, and the Prism not placed close\nto the Hole, but in a competent distance from the same (as you see\nit placed in the Scheme of the Experiment in N. 84. p. 4091.) then\nthese Semicircular Ends always appear with the sides thereof\nstraight lines just as Mr. Newton there describes them. Neither\nis the length of the Image Transverse, but Parallel to the length of the Prism. Out of all which evidently follows, that the Experiment was not made in a clear day; nor with the Prism close to the Hole; nor yet with the Image Transverse (as is now affirmed,) but by a bright Cloud, and a Parallel Image (as I conjectured;) and I hope you will also now say, I had good reason so to conjecture, since it so well agrees with the Relation. And Experience will also shew you, if you please to make tryal, as it was made, in a dark Chamber, and observe the difference between such an Image made by a bright Cloud, and another made by the immediate rays of the Sun: For, the former you shall always find Parallel, with the Ends Semicircular; but the latter you shall find Transverse, with the Ends Pyramidical, as aforesaid, whosoever it appears so much longer than broad.\n\nMore might be said out of the same Relation, to shew that the Image was not Transverse. For, if it had been Transverse, Mr. Newton, so well skilled in Opticks, could not have been surprised (as he says he was) to see the length thereof so much to exceed the breadth; it being a thing so obvious and easy to be explicated by the ordinary Rules of Refraction. That other place also, in the next page 3077. (where he says, the Incident Refractions were made in the Experiment equal to the Emergent,) proves again that the said oblong Image was not Transverse, but Parallel. For it is impossible, the Transverse Image should be so much longer than broad, unless those two Refractions be made very unequal, as both the computation according to the common Rules of Refraction, and Experience testify. Wherefore Mr. Newton had no reason to tax (in pag. 409.) P. Pardies of Hallucination, for making in page 4088. those two Refractions very unequal: For, that learned Optike very well saw, that in a clear day so great an inequality of length and breadth could not be made, unless those two Refractions were also made very unequal. These places, I say, might be added to the former, and further here explicated if need were; but there being no need, I cease to detain you any longer herein.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101688.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1219,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2305,
+        3
+      ],
+      [
+        2305,
+        4454,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101688",
+    "title": "A Letter of Mr. Franc. Linus, Written to the Publisher from Liege the 25th of Febr. 1675. st.n. being a Reply to the Letter Printed in Numb. 110. by Way of Answer to a Former Letter of the Same Mr. Linus, Concerning Mr. Isaac Newton's Theory of Light and Colours",
+    "authors": "Franc. Linus",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101688"
+  }
+}

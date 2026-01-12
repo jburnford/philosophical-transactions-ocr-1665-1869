@@ -1,0 +1,59 @@
+{
+  "id": "2d966fb108911f57ea559191384a6dc68872e6a5",
+  "text": "For this purpose, he wishes, That the Observations may be made every where about the same time, especially, about the Equinoxes and the Summer Solstice. That the Meridian line be taken by Azimuths, as one of the best ways. That every Observation be made at least with two Needles; and that these Needles be neither too little, nor too great; he having frequently experienced the deceitfulness of both extremes. Concluding with a Caution, that the Observations be made upon an exact level.\n\nIt is intended, that the Transactions for the next Month, shall come forth about the end of the Term.\n\nLONDON:\n\nPrinted for Henry Hunt, Operator to the Royal Society. And Sold by him at the Repository in Gresham College: By J. Rogers at the Bible in Westminster-Hall; and by J. Smith at the Princes-Arms in St. Paul's Church-Yard.\n\nERRATA.\n\nP. Ag. 4. l. 5. r. petrified. p. 6. l. 20. r. walens. p. 9. l. 2. delg and. p. 15. l. 20. r. is mort. p. 16. l. 7. r. indulgit. l. 13. r. poß 11. Partem. l. 19. r. aliquot. l. 20. r. pernox. l. 31. for 1. r. p. 17. l. 1. for 1. r. l. 8. for 18 00', r. 18 0 30' l. 10. for 250 30' l. 25 0' l. 2c. for 5 28. r. 5 0 28' l. 25. for 49 r. 46. l. 25. r. invicem. l. 25. r. et al. p. 18. l. 2. reliquos. l. 10. r. magique. l. 14. r. sc. for in r. a. l. 20. for 6 r. 8'. l. 22. for. in r. a. p. 19. l. 2. r. calculique. l. 22. r. Linea. l. 12. r. sed Sextant. l. 25. r. & gibbosa. p. 23. l. 18. r. Declination.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102216.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3090,
+    "total-output-tokens": 651,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1433,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102216",
+    "title": "Errata",
+    "authors": null,
+    "year": 1683,
+    "volume": "13",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102216"
+  }
+}

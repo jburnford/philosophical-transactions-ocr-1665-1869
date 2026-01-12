@@ -1,0 +1,59 @@
+{
+  "id": "60bb9e2d96f07e72bea511d17b534a2f8eb7a4f6",
+  "text": "De Nederlandsche Herbarius, ofte Kruidboek der voornaamste Kruiden, &c. met kopere platen vercierd door Steph. Blankaart. T' Amsterdam by Jan. Ten Hoorn, 1698.\n\nXV. An Account of Books now Printing beyond Sea.\n\nDr. Volcamer is Printing a Catalogue of the Plants about Nurenberg; with the Exoticks of his Garden, with Figures. Dr. Bagliui, at Rome, is Printing a Book De Fibra Motrice, de Lympha & Pinguedine Morbisq; ab iis dependentibus. Senr. Bulifon is Printing the Lives of the famous Men of the Kingdom of Naples, with their Effigies. Abbate Maruscelli, as also a French Bookseller, at Rome, are about writing an universal Catalogue of Books, Secundum Materias; the first, as he says, has already done above 140,000 Volumes. Monsig Strozzi is writing the Lives of the Popes; illustrated by their Medals. Signior Abbate Nazari is about re-printing the Giornale de Letterati.\n\nFather Plumier will publish a Book called, Filicetum Americanum. Monsieur Du Hamel, Author of the Philosophical Systeme, has almost ended his History of the Academie Royale of Sciences at Paris.\n\nLONDON: Printed for Sam.Smith, and Benj.Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-Yard. 1698.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102563.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 408,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1209,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102563",
+    "title": "An Account of Books Now Printing beyond Sea",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102563"
+  }
+}

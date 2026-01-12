@@ -1,0 +1,69 @@
+{
+  "id": "a9495c328b3ea9a5e0c850baa3494951a92365ac",
+  "text": "The Method the Indians in Virginia and Carolina use to Dress Buck and Doe Skins; as it was communicated to the Royal Society by the Honourable Sir Robert Southwell, Knt. their President.\n\nThe Felt being taken off is first strained by Lines, or otherwise, most like the Clothiers Racks, but for no other purpose but to dry them.\n\nThe Brains of the Deer, whether Buck or Doe, is taken out and mangled, and dawbed on Moss or dried Grass, and then dried in the Sun, or by a Fire to preserve them.\n\nWhen the Hunting time is over, the Women dress the Skins; first, by putting them in a Pond, or Hole of Water, to soak them well. Then they with an old Knife fixed in a Cleft-Stick, force off the Hair, whilst they remain wet. The Hair being taken or forced off, they put as many Skins as they have made so ready, into a Kettle or Earthen Pot, and a proportion of the Deers Brains, before spoken of, into the Kettle with the Skins; and then put them over a Fire till they are more than Blood-warm; which will make them ladder and scour perfectly clean; which done, they with small sticks wrest and twist each Skin as long as they find any Wet to drop from them, letting them remain so wrested some Hours; and then they untwist each Skin, and put them into a sort of a Rack, like a Clothiers Rack (which they fix at every place they come to, with no more Trouble than two small Poles set upright, and two more put athwart, all fixed with their own Barcks,) and extend them every way by Lines, and as the Skin dries, so they with a dull Hatcher, or a Stick flatted, and brought\nbrought to a round edge, or a Stone fitted by nature for that purpose, rub them all over to force all the Water and Grease out of them, till they become perfectly dry: which is all they do.\n\nAnd one Woman will dress eight or ten Skins in a day; that is, begin and end them. I intamate this because the Men never do it.\n\nObservationes ponderis Testudinis terrestris, cum in Autumno terram subiret, cum ejusdem ex Terrâ Verno tempore exeuntis ponderere comparati, per plures anos repetitæ: experimento celeberrimi D. D. Georgii Ent, Equitis, & M. D. & à Doctissimo D. D. Rob. Pitt, M. D. & R. S. S. communicatæ.\n\nDie septimo Octobris, Anno 1651. Testudinem meam appendi, primum latibulum adiret, ibidem per totam Hyemem hybernatura, pendebatque exactè libras 4. uncasque totidem minus drachma, nempe lib. 4. unc. 3. drach. 7.\n\nDie octavo Octobris 1652. Erutam è terra Testudinem (nam se pridie humaverat) appendi denno, ponderabatque lib. 4. unc. 6. & drach. 1.\n\nDie 16. Martii 1653. Testudo sponte è latibulo suo prodiit. Pendebatque lib. 4. atque unc. 4.\n\nDie 4. Octobris 1653. Testudo postquam per aliquot dies jejunasset, subiùsque terram se abscondisset, inde educita atque appensa ponderabat lib. 4. unc. 5. Occlu (quos diei clausos habuerat) tum aperti plurimum madescebat.\n\nDie 18. Martii. 1653. Testudo è latebris prodiens & in lance appensa ponderabat lib. 4. unc. 4. & drach. 2.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101930.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 962,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1568,
+        2
+      ],
+      [
+        1568,
+        2955,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101930",
+    "title": "The Method the Indians in Virginia and Carolina use to Dress Buck and Doe Skins; As It was Communicated to the Royal Society by the Honourable Sir Robert Southwell, Knt. Their President",
+    "authors": "Robert Southwell",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101930"
+  }
+}

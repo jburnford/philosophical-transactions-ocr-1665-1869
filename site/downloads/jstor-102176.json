@@ -1,0 +1,59 @@
+{
+  "id": "16c31fbac5ed741672d7acbc5503a4a85664bf77",
+  "text": "Ophthalmographia, sive Oculi ejusque partium descriptio Anatomica: cui accessit Nova Visionis Theoria, Regiae Societatis Londin. proposita. per Gui. Briggs, M. D. Colleg. Med. Londin. Socium, & Nosocomii Regal. (quod Dvo. Thomae dicatur) Medicum Ordinarium. Editio altera: 8vo. 1685. prostant venales apud Sam: Smith, ad Insignia Principis in Cæmeterio D Pauli; Londin.\n\nOfficina Chymica Londinensis; sive exacta notitia Medicamentorum Spagyricorum, quæ apud Aulam Societatis Pharmaceuticæ Londin. præparantur, & Venalia prostant. Consilio Pharmacopœorum, & Approbatione Collegii Medicorum Londinensium exhibutum. Opera & studio Nicolai Staphorß, oper. Chym. dict. Societatis. prostant venales apud Gui. Miller, ad Insigne Glandis Aureæ in Cæmeterio D. Pauli, 1685. 12°.\n\nErrata in the Transactions for August.\n\nPag. 1107, lines 10, 11, 12, 13. Dele [ver. Convulsionis quintanam observantiam periodum, & Convulsionis afflictae oftimarum periodum a mutis annis observantiam.] [Pag. 1113, line 4. for [Convulsionis—Observantiam] read [Convulsiones — Observantes.]\n\nErrata.\n\nIn the Transactions for September and October, in the pag. following 1169 for [1870] read [1170.]\n\nPrinted at the Theater at Oxford for Sam. Smith at the Prince's Arms in Paul's Churchyard London; and Hen. Clements Book-seller in Oxford.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102176.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 503,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1317,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102176",
+    "title": "Errata",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102176"
+  }
+}

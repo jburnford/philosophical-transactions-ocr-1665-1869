@@ -1,0 +1,59 @@
+{
+  "id": "281c811bd8e8a654fd4b9238ff7b51edec32c1d7",
+  "text": "The NOTE.\n\nThis Stone is a sort of Coral, and the Lapidis Astroitidis sive Stellaris primum genus Boet. de Boadt, or Astroites Worm, Mus. It grows in the Seas adjoining to Jamaica. It is frequently found fossil in England. I have some of it found here, that will Polish as well as Agat, which was many Years since found out by Mr. Beaumont. There are many other things growing in the Seas about Jamaica, and not to be found in these parts, which are frequently dug up in the Inland parts of England, and elsewhere, near to which places they do not naturally grow.\n\nLONDON: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-yard. 1699.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102620.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 239,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        700,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102620",
+    "title": "The Note",
+    "authors": null,
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102620"
+  }
+}

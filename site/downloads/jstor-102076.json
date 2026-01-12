@@ -1,0 +1,69 @@
+{
+  "id": "cdaa2614ff9f656cc58f2e3bb709d2fa8391d547",
+  "text": "Defectus exigui Lunaris Observationes, Grenovici habita Junii 16. 1684 p.m.n.seq. à Johanne Flamsteedio. Math. Reg.\n\nDifficillima fuerit parvae hujus Eclipsis observatio, propter obliquam lune in umbram terrae Incidentiam, Umbræque ipsius tenuitatem, per quam limbum Lunæ, media etiam Eclipsi, satis distincte cernere potuimus. Partes diametri tunc ab umbra vera deficientes, propter confusos ejus terminos accurate definire non licuit. Distantiam ergo coepi inter cuspides male definitos, circa medium defectus, è qua dictæ partes facile deduci possint, & cum erroris minore periculo Coelum habuimus toto tempore Eclipsis satis serenum. Observata sic se habent.\n\n| Tempora per horolog. oscillator. | Tempora vera ab obs. Correc. |\n|----------------------------------|-------------------------------|\n|                                  | 1684 Junii 16.                |\n| b                                | \"b\"                           |\n| 13 4° 40' 13\" 31 08\"              | Eclipsis minæ                  |\n| 14 04' 30\"                       | Luna diameter tubo ped 16 e   |\n|                                 | rat 6405                      |\n| 6 40\"                            | rep. 6430                      |\n| 12 00' 14\" 02\" 28\"               | Penumbra densa forsan initium, |\n| 16 00\"                           | Umbra limbum supra finam temeraverat, |\n| 18 00\"                           | Umbra certe intra discum      |\n| 21 36\"                           | Chorda peripheriae obscuro    |\n| 26 00\"                           | rep. 2010                      |\n| 36 00\"                           | iter. 2290                     |\n| 42 00\"                           | Decrevit Eclipsis sensibiliter |\n\nN 2 43 00\nInter Cuspides obscuriter-1895\nFinis sed dubius mihi\nFinita certe, ministro Fabro Consentiente\nPenumbra densa\nEtiam adhuc.\nLimbus Austrinus haud adhuc limbi borei claritudinem recuperaverat. Sed lux ejus hebetior quam in limbo boreo, ut in prima observatione apparuisset.\n\nSolaris",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102076.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 691,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1723,
+        2
+      ],
+      [
+        1723,
+        2003,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102076",
+    "title": "Defectus Exigui Lunaris Observationes, Grenovici Habitae Junii 16. 1684 p. m. n. Seq. à Johanne Flamsteedio. Math. Reg.",
+    "authors": "Johanne Flamsteedio",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102076"
+  }
+}

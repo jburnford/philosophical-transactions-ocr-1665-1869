@@ -1,0 +1,69 @@
+{
+  "id": "365cd75bb4a9cc2d504b322d389062061479cbfb",
+  "text": "Beginning the Thirteenth year.\n\nPHILOSOPHICAL TRANSACTIONS.\n\nMarch 25. 1677.\n\nThe CONTENTS.\n\nThe Preface to the Thirteenth year of these Traits. Some Observations and Advertisements, tending to improve Gardens and other Land. Observations concerning various little Animals, in great numbers discover'd by Mr. Leewenhoeck in Rain-Well-Sea-and Snow-water, as also in water wherein Pepper had lain infused. Some new Observations made by Signor Cassini concerning the two Planets about Saturn, not long since discover'd by the same. An Account of some Books:\n\nI. PHARMACOPOEIA Collegii Regalis Londini; II. Catalogus PLANTARUM ANGLIÆ, &c. Edit. secunda; opera Johannis Raii, M.A. e Soc. Regia; III. Aero-Chalinos, or, A Register of the Air, &c. Edit. secunda: By Nathan Henshaw M.D. Fellow of the Royal Society; IV. A Philosophical Essay of Musick.\n\nA Preface to March 25. 1677.\n\nI have little to say for a Preface to this my Twelfth Volume (which by the Divine Assistance I now begin:) For that so many of the chief Universities in Christendom have already formed themselves into Philosophical Societies; and have so largely contributed their Aydes to advance the Lord Bacon's Design for the Instauration of Arts and Sciences, that it is now become above my abilities to direct or propose those rare and excellent things, which are suggested to many worthy Authors by their own happy Genius.\nMany useful inventions are already brought to perfection, and published; and many more are dextrously commenced.\n\nIn the Preface to my last foregoing Volume, I solicited for Natural Histories of Countries: And now I see very much done in that kind; and I hear of much more in the hands of many judicious Philosophers, learned Gentlemen, industrious Students, and noble Travellers. And ingenious Travellers are now furnished with extraordinary accommodations, that were not known to former Ages; such as Thermometers, Baroscopes, Hygrosopes, Microscopes, Telescopes, Micrometers, exact Scales and Weights, promptly to weigh Liquors, and, with other circumstances, to examine the intrinsic value of all Coins and Medals or Metals; Pendulum Watches, Instruments and Indexes for Magnetical Variations, and Inclinatory Needles, and other helps to come to ascertain Longitudes; and other Mechanical Contrivances for manifold Uses. And every branch of Mathematicks, pure and mixt, Arithmetick, Geometry, Astronomy, Architecture, all Ingenious Arts are daily rendered more ease and more pregnant.\n\nThese the most Intelligent and Industrious, being some of them in full Bodies associated, well settled and devoted for solid Truth in all our best Academies; and others led by their own Genius and Affairs, to undertake inquisitive Journeys by Sea and Land; we cannot suspect a Relapse, nor fail of a perpetual Progress in sound and useful knowledge, to the satisfaction of all the Ingenuous.\n\nSome Agrestic Observations and Advertisements, from Dr. John Beale communicated to the Publisher.\n\nIn Devonshire they mingle black Mulberries fully ripe, with a full bodied Cider in the time of grinding or pressing the Apple, with discretion for tincture and relish: And there they esteem it a very wholesome and stout wine. Of this Mulberry-cider, some notice was given from Devonshire long since, as may be seen in the Phil. Transact. Vol.2. Numb.27.p.503. Sept.1667.\n\n'Tis strange, that in nine or ten years since this was published, the practice hath not been spread into other Countries, where they abound with strong and winy Cider; many being willing that their Cider should in tincture resemble Claret, Tente, or Alicant wine.\n\nBut it may seem, that we do yet retain somewhat of our Fathers aversion from planting Mulberries, which they shewed near the beginning of King James his Reign, to our great loss and shame.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101756.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 986,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1389,
+        2
+      ],
+      [
+        1389,
+        3796,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101756",
+    "title": "A Preface to March 25. 1677",
+    "authors": null,
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101756"
+  }
+}

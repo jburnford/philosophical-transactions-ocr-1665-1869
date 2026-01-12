@@ -1,0 +1,89 @@
+{
+  "id": "6c156dd769cf8a933e606e6e03a4072dd1f15484",
+  "text": "On Examination, I find the five Appearances to answer the five Stamina on which the Apices are set; and from this Appearance, growing nearer and nearer to each other by degrees, they join at last all in one in the Stalk of the Flower.\n\nXIII. Part of a Letter from Mr. Wm. Arderon, F. R. S. to Mr. Henry Baker, F. R. S. concerning an Improvement of the Weather-Cord.\n\nSIR,\n\nRead April 24, 1746.\n\nTHE Weather-Cord is an Hygrometer of a very ancient Invention, and, if properly constructed, may be made use of with very good Success, to shew the various Alterations of the Atmosphere, in respect to Moisture and Dryness; but, as commonly made, it never rises or falls sufficiently to point out such minute Changes as the Curious would be desirous to know. A Sense of this Defect set me upon endeavouring to find out some Method of removing it; and how far I have succeeded, will best appear upon casting your Eye upon the Drawings, Tab. II. Fig. 4. and Fig. 5.\n\nIn the first of these Hygrometers which I made, as in Fig. 1. I only fixed the End of the Index $AB$ fast to the Silk $CE$ at $A$, leaving it lying loose upon the Point $D$; and in this manner the other End of the Index would nearly describe the Arch $FGH$: But then I soon perceived, that the Centre of Motion,\nwhereon the Index turned, was changed whenever it moved ever so little; and, consequently, that the Arch struck by the End $B$ must be irregular.\n\nOn considering this, I toothed two Pieces of Brass, as 1, 2, and 3, 4 (See Fig. 5.) to fit each other so exactly, that, upon the least Motion of the one, the other would move; then, fixing the Index upon the Centre $C$, its Motions were rendered much more regular.\n\nI placed likewise a little Collar of Brass at $B$, upon the Cord $SR$, and to that Collar tied the Silk, which gave Motion to the Index, that the Cord $SR$ might twist and untwist without any Impediment.\n\nIf there is no Weight placed at Bottom, as in Fig. 4 X the Piece of Brass 1, 2 must be so heavy as to keep the Cord $SBR$ at a convenient Tightness, and also to counterbalance the End of the Index $CE$, provided it be heavier than the other.\n\nThe Length of the Cord $SBR$, its Thickness, and the Manner of preparing it, are already described in so many Books which treat of Hygromscopes, that to mention them would seem unnecessary; and I shall only add, that I am\n\nNorwich, Dec. 21, 1745.\n\nYours, &c.\n\nWm. Arderon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104799.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8300,
+    "total-output-tokens": 794,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1271,
+        4
+      ],
+      [
+        1271,
+        2404,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104799",
+    "title": "Part of a Letter from Mr. Wm. Arderon, F. R. S. to Mr. Henry Baker, F. R. S. concerning an Improvement of the Weather-Cord",
+    "authors": "Wm. Arderon",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104799"
+  }
+}

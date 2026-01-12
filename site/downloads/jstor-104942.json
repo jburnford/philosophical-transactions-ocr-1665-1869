@@ -1,0 +1,89 @@
+{
+  "id": "9a6676127e2c0b3d23b9b01a70c50872b513f4d9",
+  "text": "XLIX. A Letter to the Right Honourable George Earl of Macclesfield, President of the Royal Society, concerning the Stones mentioned in the preceding Article. By Mr. Arthur Pond, F. R. S.\n\nMy Lord,\n\nAs your Lordship was pleased to inform me, that the council had thought fit to order Mr. Byam's account of the fossil fish, found in Antigua, to be printed, which curious specimen my worthy and most esteemed friend William Fauquier, Esq; was kindly pleased to add to my collection; I have made a drawing of it, that a print, the best illustration of the account, may accompany it, and have taken the liberty add a short description of the colours, and some other particulars, which will not be apparent in the print.\n\nThe impression of this fish is in a chalky kind of stone, of a pale ochre colour; some parts, when scraped, are white, and all the impression is of a yellowish brown, nearly the colour of brown ochre.\n\nThe impressions of the bones and fins are very perfect; and the cavity, that contained the back-bone, extremely sharp and delicate. When I first saw it, two or three of the vertebrae were in it. All the cavities of the bones are now sufficiently open to contain them, and 'tis probable, that most, if not all of them, were in the stone, when it was first split.\n\nBetween the rib-bones and the two long fins, which come down from the head, which parts were\nonly neshy, there is not any impression, the stone having united quite through; and on the upper part of the fin, by the side of the cheek, is a deep impression of a very small cockle-shell. The impression on the counter-part of the stone is much the same, except that the tail is wanting.\n\nThe forms in this fish are so very delicate and elegant (as indeed they are in all the works of nature), that I do not pretend to have done them justice; but I have been particularly careful not to exaggerate or add the smallest trifle, by way of making it seem more complete or perfect than it is. I am, with the greatest respect,\n\nYour Lordship's\n\nGreat Queen-street,\nFeb. 5, 1756.\n\nmost obedient and\nmost devoted servant,\n\nArthur Pond.\n\nL. An Account of the Effects of Lightning in the Danish Church, in Wellclose-Square. By Gustavus Brander, Esq.; F. R. S.\n\nRead Dec. 18, 1755.\n\nHAVING been informed, that the lightning some time since had done damage to the Danish Church in Wellclose-square, Ratcliff-highway, I waited on Mr. Michel-fon the minister, who lives in the square, to know the particulars, and who very obligingly informed me,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104942.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8208,
+    "total-output-tokens": 753,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1374,
+        4
+      ],
+      [
+        1374,
+        2508,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104942",
+    "title": "A Letter to the Right Hononrable George Earl of Macclessied, President of the Royal Society, concerning the Stones Mentioned in the Preceding Article. By Mr. Arthur Pond, F. R. S.",
+    "authors": "Arthur Pond",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104942"
+  }
+}

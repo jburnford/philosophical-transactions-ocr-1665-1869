@@ -1,0 +1,79 @@
+{
+  "id": "af654ffa6eb57ba2b37996ac4590d2c9338cda5f",
+  "text": "XLV. Translation of a Letter from M. de Stehlin, Counsellor of State to her Imperial Majesty of Russia, to Dr. Maty, with a Specimen of native Iron.\n\nSIR,\n\nRedde, June 9, 1774.\n\nAs a testimony of my attachment to the Royal Society, and as the first tribute I owe her, I have the honour to transmit herewith two real novelties, which I think worthy of her notice.\n\nThe first is, a new map, and my preliminary description, of a new Archipelago in the North, discovered a few years ago by the Russians, in the N.E. beyond Kamtchatka.\n\nThe second is a piece of raw and native iron; of which Mr. Pallas, one of our academicians, who has these five years been employed in making researches in natural history, in the provinces of the Russian empire, has discovered last year a hillock or mass, weighing fifty puds (the pud consisting of forty Russian pounds) in Siberia, in the mountains called Nemir, between the rivulets Ubec and Sifim, which fall into the river Jenisei, scarce one hundred fathoms from a rich mine of loadstone or iron (a).\n\n(a) See the article in the Petersburg Gazette.\nYou know, sir, that the existence of raw or native iron has hitherto been doubted; but I should almost think, that this discovery determines the question; especially if it is considered, that in the whole district where this mass has been found, there is not the least trace extant of any ancient forge, nor any place that might leave room to suspect that there had been, in former times, any works of iron ore, which had been melted, and afterwards abandoned to that mass.\n\nShould any doubt remain concerning the existence of the native iron, and the authenticity of this discovery, I should rather suppose that, many ages ago, there might have been a Volcano, which by melting the iron ore had formed the above mass, to which might afterwards have been joined the little hyacinthine spars and other stones which are now mixed with it.\n\nTranslation of an Article in the Petersburg Gazette of Sept. 6, 1773.\n\n\"The academy expects from Siberia a black mass weighing about forty puds\\(^{(b)}\\), of raw or native, soft and flexible iron, which the academician Pallas has discovered during his residence in the neighbourhood of the river Jenisei. This very remarkable and huge lump is of a spungy texture, of the most perfect and malleable iron, whose cavities are closely filled with small polished pieces of hyacinthine spar, some round, some with flat surfaces, and all of the colour of transparent amber.\n\n(b) The mass, in its present state, weighs 152 Russian pounds.\nThe mass (of which some considerable pieces have already been received) is rusty only on the surface; but the interior has been preserved by a kind of black varnish that is spread all over the iron, which is of an irregular form blunted at the corners.\n\nThis iron may be bent and hammered when cold, and, when moderately heated, may be shaped into nails and other tools; but, in a violent heat, and especially if in order to separate it from the sparry particles it is thrown into melting ovens, it becomes brittle, granulated, and will not join again in the forge.\n\nThis mass was found lying on the surface, at the top of a high woody eminence, not far from the mountains called, by the Tartars, Nemir, between the two rivulets Ubei and Sifim, which fall from the right into the Jenisei, a little below Abakanskoi Ostrog, and scarce 100 fathom from a rich mine of hard ore of loadstone.\n\nThe appearance and nature of this mass, and the qualities of the iron, of which it chiefly consists, are so decisive, that it cannot be doubted but that it has been thus produced by Nature; and if so, the existence of native iron, which has hitherto been questioned, is established beyond all contradiction; especially if it be considered, that no trace of any old iron work, of which there are many in the Siberian mountains, is to be met with in the desert where the mass was found; and that the mine above-mentioned was not opened before the year 1752, when the miners, who were there employed, first discovered this mass of iron: since which time no further notice had been taken of it.\n\nXLVI. Of",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106024.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1085,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1086,
+        2
+      ],
+      [
+        1086,
+        2555,
+        3
+      ],
+      [
+        2555,
+        4144,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106024",
+    "title": "Translation of a Letter from M. de Stehlin, Counsellor of State to Her Imperial Majesty of Russia, to Dr. Maty, with a Specimen of Native Iron",
+    "authors": "M. de Stehlin",
+    "year": 1774,
+    "volume": "64",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106024"
+  }
+}

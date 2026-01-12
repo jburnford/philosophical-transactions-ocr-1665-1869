@@ -1,0 +1,69 @@
+{
+  "id": "e7ea474c9a9d20ae1f3efd956f454e1b8d3bbe81",
+  "text": "II. An Account of an Experiment, shewing that actual Sound is not to be Transmitted through a Vacuum. By Mr. Fr. Hauksbee, F. R. S.\n\nTHAT the Experiments already made, endeavouring to produce Sound from a Bell in Vacuo, have been altogether ineffectual, is sufficiently manifest: Yet that the loss of it should be wholly attributed to the absence of the Air, I think could not without another Experiment be absolutely concluded, since the following Query, (which very well deserves an Answer) might fairly be started upon this Occasion.\n\nWhether the Sonorous Body in such a Medium might not so suffer, or undergo such a Change in its Parts, as to be render'd uncapable of being put into such a Motion as is requisite for the Action or Production of Sound.\n\nNow to set the Matter of Fact in a true Light as near as I could, I contriv'd the following Experiment.\n\nI took a strong Receiver, arm'd with a Brass-hoop at bottom, in which I included a Bell as large as well it could contain. This Receiver I screw'd strongly down to a Brass-Plate, with a wet Leather between, and was full of common Air, which could no ways makes its escape. Thus secur'd, it was set on the Pump, where it was cover'd with another large Receiver.\nIn this manner, the Air contain'd between the outward and inward Receivers was exhausted.\n\nNow here I was sure, when the Clapper should be made to strike the Bell, there would be actual Sound produc'd in the inward Receiver, the Air in which was of the same density with common Air; and could suffer no Alteration by the Vacuum on its outside, so strongly was it secur'd on all sides. And as I said before, that if the Sonorous Body should suffer in any measure, by being in a very rare Medium, so as to contribute to the loss of its Sound, that this Method seem'd probable to discover it.\n\nThus all being ready for Trial, the Clapper was made to strike the Bell; but I found that there was no transmission of it thro' the Vacuum, tho' I was sure there was actual Sound produc'd in the Receiver.\n\nThis plainly shews, and seems positively to confirm, That Air is the only Medium for the Propagation of Sound.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103270.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 578,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1223,
+        2
+      ],
+      [
+        1223,
+        2130,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103270",
+    "title": "An Account of an Experiment, Shewing That Actual Sound is Not to be Transmitted through a Vacuum. By Mr. Fr. Hauksbee, F. R. S.",
+    "authors": "Fr. Hauksbee",
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103270"
+  }
+}

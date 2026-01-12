@@ -1,0 +1,69 @@
+{
+  "id": "2d513e28b1240ae87d649a51f8c8d0b6b4fc0c15",
+  "text": "Nobilissimi cujusdam Angli Demonstratio Synchronismi Vibrationum peractarum in Cycloide; nunc juris publici facta ex occasione quam suppeditavit Rev. P. Pardies, de eodem Argumento Demonstrationem exhibens ad calcem libelli nuper ab ipso Gallicè editi de Statica, inferius à nobis commemorandi.\n\nInt a b, bc, cd, de, ef, &c. omnes invicem æquales;\n& b₁, c₂, d₃, e₄, f₅, &c. equaliter crescant ut\n1, 3, 5, 7, 9, &c.\n\nDico, in hac Linea Grave quodlibet, cadens ex quovis ejus puncto, attingere fundum in eodem temporis spatio, quo cum attingeret si cadere ex quovis ejusdem puncto alio.\n\nNam si ponas a = ab = bc = cd &c. & b = b₁, & x pro quolibet numero alterutrorum; tunc, si x a ponatur pro a f, xx b representet oportet f &c., proindeque tempus descensus necessario erit\n\\[ \\frac{xxb}{xxaa} \\] sen \\( \\frac{b}{aa} \\); atque idem in omnibus obtinet casibus. Ergo, &c.\n\nDico insuper, Curvam hanc esse Cycloidem, quod demonstratu est facile ex Constructione, atque ex eo quod jam innuo; nempe, Curvam hanc abcdefz æquare duplum ultime rectarum, h.e. \\( 2\\pi \\), & a æqualem esse semi-circumferentiae Circuli cujus \\( z \\) est diameter; ac universim Triangulum \\( \\gamma \\delta \\pi \\) representare rectam \\( z \\omega \\); & Quadratum \\( \\gamma \\delta \\pi \\), Curvam abcdefz, & Quadrantem \\( \\gamma \\delta \\pi \\) representare rectam \\( a \\omega \\): ac partes unius, partes alterius respectivè. Ut si \\( \\gamma \\delta \\pi \\) representat \\( f \\), tunc \\( \\gamma \\delta \\pi \\) representat \\( a \\), & \\( \\gamma \\delta \\pi \\) representat \\( a f \\). At non vacat jusius hic prosequi.\n\nDico diniq.; Globulum suspensum è funiculo (justæ longitudinis) intra duas Cycloides vibrantem, moveri in Cycloide. Quare Vibrations ejusmodi sunt synchronæ, quod erat &c.\n\nAn Extract\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101346.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 707,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1760,
+        2
+      ],
+      [
+        1760,
+        1760,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101346",
+    "title": "Nobilissimi Cujusdam Angli Demonstratio Synchronismi Vibrationum Peractarum in Cycloide; Nunc Juris Publici Facta ex Occasione Quam Suppeditavit Rev. P. Pardies, De eodem Argumento Demonstrationem Exhibens Ad Calcem Libelli Nuper ab Ipso Gallice Editi de Statica, Inferius a Nobis Commemorandi",
+    "authors": null,
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101346"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0f389a6b5164812f254eb4667b828cd872c76540",
+  "text": "A Relation\nOf the Raining of Ashes, in the Archipelago, upon the Eruption of Mount Vesuvius, some years ago.\n\nThis came but lately to hand from that knowing person, Mr. Henry Robinson; and was thought fit to be now inserted here, that it might not be lost, though it hath hapned above 30 years ago. It was contained in a Letter, (subscribed by Capt. Will. Badly) in these words:\n\nThe 6th of December 1631, being in the Gulf of Volo, riding at Anchor, about ten of the Clock that Night, it began to rain Sand or Ashes, and continued till two of the Clock the next Morning. It was about two inches thick on the Deck, so that we cast it over board with Shovels, as we did Snow the day before: The quantity of a Bushel we brought home, and presented to several Friends*, especially to the Masters of Trinity House. There was in our Company, Capt. John Wilds Commander of the Dragon, and Capt. Anthony Watts, Commander of the Elizabeth and Dorcas. There was no Wind stirring, when these Ashes fell, it did not fall onely in the places, where we were, but likewise in other parts, as Ships were coming from St. John D' Acre to our Port; they being at that time a hundred Leagues from us. We compared the Ashes together, and found them both one. If you desire to see the Ashes, let me know.\n\nAn Extract\nOf a Letter not long since written from Rome, rectifying the Relation of Salamanders living in Fire.\n\nThis came from that Expert Anatomist M. Steno, to Dr. Croon, Videl. That a Knight called Corvini, had assured him, that, having cast a Salamander, brought him out of the Indies, into the Fire, the Animal thereupon swell'd presently, and then vomited store of thick slimy matter, which did put out the neighbouring Coals, to which the Salamander retired immediately, putting them out again in the same manner, as soon as they rekindled.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101541.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 516,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1833,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101541",
+    "title": "A Relation of the Raining of Ashes, in the Archipelago, upon the Eruption of Mount Vesuvius, Some Years Ago",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101541"
+  }
+}

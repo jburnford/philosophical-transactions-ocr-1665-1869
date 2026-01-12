@@ -1,0 +1,59 @@
+{
+  "id": "59f68ab1f86373d70cf47b4e51110517823bb290",
+  "text": "A Table shewing the time of High Water on the Coasts, and in the Ports of France, upon the day of the New and Full Moon. Taken from the French Ephemerides called La Connoissance des Temps for the Year 1687.\n\nOn the Coast of Gascony and Guienne.\nAt 3 h. at the Mouth of Garonne, and the Isle of Ree.\nAt 3½ h. at St. John de Luz, at Bayonne, and Memissan.\nAt 3¾ h. at Royan, Brouage and Rochelle.\nAt 3 h. on the Coast of Poitou.\nAt 3¼ h. at Olonne and Beauvoir.\n\nOn the Coast of Britany.\nAt 1½ h. at Bell Isle.\nAt 3 h. at the mouth of the Loyre, at Garaude, Morbihan, Blavet, and Concarneau.\nAt 3¾ h. at Apenars, Vannes, and Auray.\nAt 2½ h. at Apenmark, Audierne, the Race of Fontenay, and Le Conquet.\nAt 2½ h. at Brest, and at Cape de Four.\nAt 4 h. at St. Paul de Leon.\nAt 4½ h. at Port Blanc.\nAt 6 h. at St. Malo and Cancale.\n\nOn the Coast of Normandy.\nAt 7 h. at Granville, and Barneville.\nAt 8 h. at Cherbourg and Barfleur.\nAt 9 h. at Caen and Honfleur, at the Mouth of the Seine, and at Havre de Grace.\nAt 9¾ h. at Fescan and St. Valeri.\nAt 10½ h. at Rouen, Dieppe, and Treport.\n\nOn the Coast of Picardie.\nAt 11 h. at the Mouth of the Somme, at Estaple, Boulogne, and Ambleteuse.\nAt 11 h. at Calais.\nAt 12 h. at Dunkerk, Newport and Ostend.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101867.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 513,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1243,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101867",
+    "title": "A Table Shewing the Time of High Water on the Coasts, and in the Ports of France, upon the Day of the New and Full Moon. Taken from the French Ephemerides called La Connoissance Des Temps for the Year 1687",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101867"
+  }
+}

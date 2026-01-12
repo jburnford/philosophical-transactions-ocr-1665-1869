@@ -1,0 +1,89 @@
+{
+  "id": "ba9624c28ff164946f25db247748f0fc6c4dd70b",
+  "text": "XXXIV. Tables of the Sturmian Functions for Equations of the Second, Third, Fourth, and Fifth Degrees. By Arthur Cayley, Esq., F.R.S.\n\nReceived December 18, 1856,—Read January 8, 1857.\n\nThe general expressions for the Sturmian functions in the form of determinants are at once deducible from the researches of Professor Sylvester in his early papers on the subject in the Philosophical Magazine, and in giving these expressions in the Memoir 'Nouvelles Recherches sur les Fonctions de M. Sturm,' Liouville, t. xiii. p. 269 (1848), I was wrong in claiming for them any novelty. The expressions in the last-mentioned memoir admit of a modification by which their form is rendered somewhat more elegant; I propose on the present occasion merely to give this modified form of the general expression, and to give the developed expressions of the functions in question for equations of the degrees two, three, four, and five.\n\nConsider in general the equation\n\n\\[ U = (a, b, \\ldots, j, k)(x, 1)^n, \\]\n\nand write\n\n\\[ P = (a, b, \\ldots, j)(x, 1)^{n-1}, \\]\n\\[ Q = (b, \\ldots, j, k)(x, 1)^{n-1}, \\]\n\nthen supposing as usual that the first coefficient \\( a \\) is positive, and taking for shortness \\( n_1, n_2, \\ldots \\) to represent the binomial coefficients \\( \\frac{n-1}{1}, \\frac{n-1.n-2}{1.2}, \\ldots \\) corresponding to the index \\((n-1)\\), the Sturmian functions, each with its proper sign, are as follows, viz.\n\n\\[\n\\begin{array}{c|c|c|c}\nU, & P, & P, & Q \\\\\n\\hline\na, & b & a, & b \\\\\nn_1b, & a, & n_1c, & b \\\\\nn_2c, & n_1b, & n_2d, & n_1c \\\\\nn_3d, & n_2c, & n_3e, & n_2d, n_1c \\\\\nn_4e, & n_3d, & n_4f, & n_3e, n_2d \\\\\n\\end{array}\n\\]\n\nwhere the terms containing the powers of \\( x \\), which exceed the degrees of the several\nfunctions respectively, vanish identically (as is in fact obvious from the form of the expressions), but these terms may of course be omitted \\textit{ab initio}.\n\nThe following are the results which I have obtained; it is well known that the last or constant function is in each case equal to the discriminant, and as the expressions for the discriminant of equations of the fourth and fifth degrees are given, Tables No. 12 and No. 26 in my 'Second Memoir upon Quantics*', I have thought it sufficient to refer to these values without repeating them at length.\n\nTable for the degree 2.\n\nThe Sturmian functions for the quadric \\((a, b, c \\chi x, 1)^2\\) are\n\n\\[\n\\begin{array}{c|c|c}\na & 2b & c \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\chi x, 1)^2,\n\\]\n\n\\[\n\\begin{array}{c|c}\na & b \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\chi x, 1),\n\\]\n\n\\[\n\\begin{array}{c|c}\n-1 & ac \\\\\n+1 & b^2 \\\\\n\\hline\n\\end{array}\n\\]\n\nTable for the degree 3.\n\nThe Sturmian functions for the cubic \\((a, b, c, d \\chi x, 1)^3\\) are\n\n\\[\n\\begin{array}{c|c|c|c}\na & 3b & 3c & d \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\chi x, 1)^3,\n\\]\n\n\\[\n\\begin{array}{c|c|c}\na & 2b & c \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\chi x, 1)^2,\n\\]\n\n\\[\n\\begin{array}{c|c|c}\n-2 & ac & ad \\\\\n+2 & b^2 & bc \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\chi x, 1),\n\\]\n\n\\[\n\\begin{array}{c|c|c|c}\n+1 & a^2d^2 \\\\\n+6 & abcd \\\\\n-4 & ac^3 \\\\\n-4 & bd^3 \\\\\n-3 & b^2c^2 \\\\\n\\hline\n\\end{array}\n\\]\n\n* Philosophical Transactions, t. cxlvii. p. 101 (1856).\nTable for the degree 4.\n\nThe Sturmian functions for the quartic \\((a, b, c, d, e)(x, 1)^4\\), are\n\n\\[\n\\begin{array}{c|c|c|c|c}\na & 4b & 6c & 4d & e \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c}\na & 3b & 3c & d \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c|c}\n-3ac & -3ad & -ae & +3b^2 & +3bc & +bd \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c|c}\n-1a^2ce & +1a^2de & +3a^2d^2 & -4abce & +1ab^2e & -1abd^2 \\\\\n+9ac^3 & +3b^3e & +8b^3d & -2b^2cd & -6b^2c^2 \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c}\n+1a^2e^3 & +\\&c. \\\\\n\\hline\n\\end{array}\n\\]\n\nDisct. Tab. No. 12.\n\nTable for the degree 5.\n\nThe Sturmian functions for the quintic \\((a, b, c, d, e, f)(x, 1)^5\\) are\n\n\\[\n\\begin{array}{c|c|c|c|c|c|c}\na & 5b & 10c & 10d & 5e & f \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c|c}\na & 4b & 6c & 4d & e \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c|c|c}\n-4ac & -6ad & -4ae & -af & +4b^2 & +6bc & +4bd & +be \\\\\n\\hline\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c|c|c|c|c|c}\n-8a^2ce & -2a^2cf & +3a^2df & +18a^2d^2 & +12a^2de & -11abcf & +8ab^2e \\\\\n+76abcd & -42abce & +8ac^3 & +48ac^3 & -12abd^2 & +8ab^2f & -5b^3ce \\\\\n+40b^3d & +32ac^3d & -30b^3e & -20b^2cd \\\\\n\\hline\n\\end{array}\n\\]\n\\[\n\\begin{array}{c}\n-2a^3ef^2 + 3a^3df^2 \\\\\n+24a^3def - 8a^3ef \\\\\n-32a^3e^2 - 11a^3bef^2 \\\\\n+2a^3d^2f^2 + 58a^3bdef \\\\\n+264a^3bd^2e + 8a^3be^2 \\\\\n-52a^3becf + 104a^3cef \\\\\n-96a^3bd^2f - 156a^3cdf \\\\\n+64a^3cd^2f - 96a^3ede^2 \\\\\n+352a^3ce^2 + 108a^3de^2 \\\\\n-938a^3d^2e + 8a^3f^2 \\\\\n+432a^3d^3e - 266a^3cef \\\\\n+28ab^3ef - 8ab^3d^2f \\\\\n-970ab^3ce^2 + 35ab^3de^2 \\\\\n+120ab^3d^2e + 584abc^2df \\\\\n+2480abc^2de + 120abc^2e^2 \\\\\n+264abcd^2f - 360abcd^2e \\\\\n-1440abcd^3 - 288ac^2f \\\\\n-192abc^2f + 160ac^2de \\\\\n-960ac^3e + 120b^2ef \\\\\n+640ae^3d^2 - 320b^2cdf \\\\\n-160b^3df - 75b^3ce^2 \\\\\n+450b^3e^2 + 200b^3d^2e \\\\\n-1400b^3cde + 180b^3ce^2 \\\\\n+800b^3de - 100b^3ce^2 \\\\\n+120b^3cef + 600b^3ce^2 \\\\\n-400b^3d^2\n\\end{array}\n\\]\n\n\\[2(x, 1),\\]",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108641.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8392,
+    "total-output-tokens": 2483,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1721,
+        2
+      ],
+      [
+        1721,
+        3142,
+        3
+      ],
+      [
+        3142,
+        4335,
+        4
+      ],
+      [
+        4335,
+        5058,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108641",
+    "title": "Tables of the Sturmian Functions for Equations of the Second, Third, Fourth, and Fifth Degrees",
+    "authors": "Arthur Cayley",
+    "year": 1857,
+    "volume": "147",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/108641"
+  }
+}

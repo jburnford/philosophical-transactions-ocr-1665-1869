@@ -1,0 +1,79 @@
+{
+  "id": "29794670505c78f627febfaba8fb4116e5fb53a6",
+  "text": "Jupiter so accelerates the Earth's Motion in its Orbit round the Sun, that the Diminution of the Years would be too sensible, if the diurnal Motion had not been accelerated nearly in the same Proportion. Wherefore, since we hardly at all remark this considerable Diminution in the Years, from thence I conclude, that the Days suffer much the same Diminution; so that the same Number will answer nearly to a Year.\n\nXVII. A Catalogue of the fifty Plants from Chelsea Garden, presented to the Royal Society, by the worshipful Company of Apothecaries for the Year 1748, pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. et Societat. Reg. nuper Praef. by John Wilmer, M.D. Clariss. Societat. Pharmaceut. Lond. Soc. Hort. Chelsean. Præfect. et Prælect. Botan.\n\nRead March 8. 1301\n\nA Butilon, Lavateræ flore, fructu cristato. Hort. Elt.\n\n1302 Acetosa rotundifolia repens Eboracensis, folio in medio deliquium patiente.\n\n1303 Agrimonioides Column. Ec. i. 145.\n\n1304 Alyssum fruticosum incanum. Turnfurt.\n\n1305 Ananthocycus, coronopi folio. Vail.\n\n1306 Anonis purpurea, spicata, alopecuroides major Boerh.\n1307 Asarina caule erecto ramoso, foliis oblongis acutis sessilibus, floribus erectis.\n\n1308 Astragalus annuus, angustis floribus, pediculis longis. T.\n\n1309 Astragalus orientalis altiss. Galegae foliis. T. 602.\n\n1310 Astragalus luteus, perennis procumbens vulgaris sive Sylvestris.\n\n1311 Brunella major, folio non dissecto. C. B. 260. Off. 386.\n\n1312 Brunella folio laciniato. C. B. 261.\n\n1313 Buglossum Creticum majus, flore coeruleo purpureante. H. R. Par.\n\n1314 Campanula minor, foliis incisis. H. L. B.\n\n1315 Cataria minor Alpina. T. Inß. 202.\n\n1316 Cerinthe minor, flavo flore. C. B. 258.\n\n1317 Chenopodio-morus minor. Boerb. Ind. 91.\n\n1318 Cistus ladanifera Hispanica, flore albo macula punicante insignito.\n\n1319 Commelina radice Anacampserotis. Hort. Elt. Tab. 79.\n\n1320 Cornus foliis lancicolatis acutis subtus incanis, umbellis minořibus.\n\n1321 Coronilla leguminibus teretibus articulatis erectis Fl. Leyd. 387.\n\n1322 Cynoglossum Creticum argenteo folio. C. B.\n\n1323 Helianthemum foliis Sampfuchi, capitulis valde hirtutis. J. B.\n\n1324 Hieracium amygdalas amaras olens, flore suave rubente. C. B. 127.\n\n1325 Hypocoum latiore folio. T. 230.\n\n1326 Jacea cinerea laciniata, flore purpureo. Triumfet.\n\n1327 Jacea Spinosa Cretica. Zanon.\n1328 Lathyrus tuberosus arvensis repens. C. B.\n1329 Lilium convallium, flore pleno variegato, Didac. T. 77.\n1330 Linaria triphylla minor, lutea, floris vexillo et calcari purpurco. B.\n1331 Malva Alexandrina Alchimillae folio. Sherard.\n1332 Malva, viscus arborescens, flore miniatato clauso. Hort. Elt.\n1333 Marrubiastrum limbo atro-purpureo, &c.\n1334 Mespilus Virginiana, Apii folio, vulgari similis, major.\n1335 Mollugo foliis verticillatis, cuneiformibus acutis. Hort. Upsal.\n1336 Myagrum, siliculis obverse ovatis, lateribus depressis. Fl. Lugd.\n1337 Myrrhis lutea daucoides. Mor. H. R. Bleff.\n1338 Ornithopodium portulacae folio. T. 400.\n1339 Polygonatum caule purpurascente. Raii Syn. 2. 148.\n1340 Primula veris flore rubro. Ger.\n1341 Pseudo-acacia. T. 649.\n1342 Rapistrum maximum Cornuti. 147.\n1343 Refeda foliis inferioribus integris, superioribus laciniatis.\n1344 Sambucus folio laciniato. C. B. 456.\n1345 Sambucus humilis, sive Ebulus. ib. Off. 180.\n1346 Scutellaria foliis cordato-lanceolatis, serratis, pedunculis multifloris.\n1347 Sherardia Dillenii. Cat. Giff. p. 96.\n1348 Sonchus maritimus angustitolius. C. B. P.\n1349 Trigonella leguminibus pedunculatis congestis, &c. Hort. Upsal.\n1350 Viola Martia arborescens purpurea. C. B. 199. XVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104661.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1518,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1109,
+        2
+      ],
+      [
+        1109,
+        2353,
+        3
+      ],
+      [
+        2353,
+        3607,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104661",
+    "title": "A Catalogue of the Fifty Plants from Chelsea Garden, Presented to the Royal Society, by the Worshipful Company of Apothecaries for the Year 1748, Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. et Societat. Reg. Nuper Praef. by John Wilmer, M. D. Clariss. Societat. Pharmaceut. Lond. Soc. Hort. Chelsean. Praefect. et Praelect. Botan",
+    "authors": "John Wilmer",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104661"
+  }
+}

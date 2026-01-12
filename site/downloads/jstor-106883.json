@@ -1,0 +1,59 @@
+{
+  "id": "07c8704f04ac75980fda31e3e07c02787b60dd75",
+  "text": "I. An Account of the Discovery of a Comet. In a Letter from Miss Caroline Herschel, to Joseph Planta, Esq. Sec. R. S.\n\nRead November 7, 1793.\n\nSIR,\n\nLast night I discovered a comet near 1st (δ) Ophiuchi, but clouds covering the part of the heavens where it was, its place could not be obtained.\n\nMy brother has just now (7 o'clock) determined its situation, as follows.\n\nThe comet precedes the 1st (δ) Ophiuchi 6′ 34″ in time, and is 1° 25′ more north than that star.\n\nI remain, Sir, &c.\n\nCAR. HERSCHEL.\n\nSlough,\nTuesday, Oct. 8, 1793.\n\nMDCCXCIV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106883.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 238,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        546,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106883",
+    "title": "An Account of the Discovery of a Comet. In a Letter from Miss Caroline Herschel, to Joseph Planta, Esq. Sec. R. S.",
+    "authors": "Caroline Herschel",
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106883"
+  }
+}

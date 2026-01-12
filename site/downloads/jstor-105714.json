@@ -1,0 +1,139 @@
+{
+  "id": "8c402d7070c65e7cf0ff770db8ae9615f4c0a99c",
+  "text": "XXVI. An Account of some subterraneous Apartments, with Etruscan Inscriptions and Paintings, discovered at Civita Turchino in Italy [TAB. VII. VIII. IX.]: Communicated from Joseph Wilcox, Esq; F. S. A. by Charles Morton, M. D. S. R. S.\n\nRead March 17, 1763.\n\nCivita Turchino, about three miles to the north of Corneto, is an hill of an oblong form, the summit of which is almost one continued plain. From the quantities of medals, intaglio's, fragments of inscriptions, &c. that are occasionally found here, this is believed to be the very spot, where the powerful and most ancient city of Tarquinii once stood: tho' at present it is only one continued field of corn. On the south-east side of it runs the ridge of an hill, which unites it to Corneto. This ridge is at least three or four miles in length, and almost entirely covered by several hundreds of artificial hillocks, which are called, by the inhabitants, Monti Rossi. About twelve of these hillocks have at different times been opened; and in every one of them have been found several subterranean apartments cut out of the solid rock. These apartments are of various forms and dimensions: some consist of a large outer room, and a small one within; others of a small room at the first entrance, and a larger one within: others are supported by a column of the solid rock, left in the centre, with openings on every part, from twenty to thirty feet. The entrance to them all is by a door of about five feet in height, by two feet and\nand an half in breadth. Some of these have no other light but from the door, while others seem to have had a small light from above, through an hole of a pyramidal form. Many of these apartments have an elevated part that runs all round the wall, being a part of the rock left for that purpose. The moveables found in these apartments consist chiefly in Etruscan vases of various forms; in some indeed have been found some plain sarcophagi of stone with bones in them. The whole of these apartments are stucco'd, and ornamented in various manners: some indeed are plain; but others, particularly three, are richly adorned; having a double row of Etruscan inscriptions running round the upper parts of the walls, and under it a kind of freize of figures in painting: some have an ornament under the figures, that seem to supply the place of an architrave. There have been no relieves in stucco hitherto discovered. The paintings seem to be in fresco, and are in general in the same style as those which are usually seen on the Etruscan vases: though some of them are much superior perhaps to anything as yet seen of the Etruscan art in painting. The paintings, though in general slight, are well conceived, and prove that the artist was capable of producing things more studied and more finished: though in such a subterranean situation, almost void of light, where the delicacy of a finished work would have been in a great measure thrown away; these artists (as the Romans did in their best ages, when employed in such sepulchral works) have in general contented themselves with slightly expressing their thoughts. But among the immense number of those subterranean apartments which\nwhich are yet unopened, it is to all appearance very probable that many and many paintings and inscriptions may be discovered, sufficient to form a very entertaining, and perhaps a very useful, work: a work which would doubtless interest all the learned and curious world, not only as it may bring to light (if success attends this undertaking) many works of art, in times of such early and remote antiquity, but as perhaps it may also be the occasion of making some considerable discoveries in the history of a nation, in itself very great, though, to the regret of all the learned world, at present almost unknown. This great scene of antiquities is almost entirely unknown even in Rome. Mr. Jenkins, now resident at Rome, is the first and only Englishman who ever visited it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105714.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 17382,
+    "total-output-tokens": 1198,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        6
+      ],
+      [
+        0,
+        0,
+        7
+      ],
+      [
+        0,
+        1495,
+        8
+      ],
+      [
+        1495,
+        3179,
+        9
+      ],
+      [
+        3179,
+        3957,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105714",
+    "title": "An Account of Some Subterraneous Apartments, with Etruscan Inscriptions and Paintings, Discovered at Civita Turchino in Italy [Tab. VII. VIII. IX.]: Communicated from Joseph Wilcox, Esq; F. S. A. by Charles Morton, M. D. S. R. S.",
+    "authors": "Charles Morton, Joseph Wilcox",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/105714"
+  }
+}

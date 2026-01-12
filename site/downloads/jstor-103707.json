@@ -1,0 +1,89 @@
+{
+  "id": "87314d616cf16a0525e7242f294506c283e398f6",
+  "text": "The neighbouring Country is chiefly a strong Clay; the Quarries produce a very hard Stone, which seems to be a Composition of Shells closely cemented and embody'd together, and some Marchalites which abound with Sulphur: In sinking deep Pits they throw up Stones like Iron Oar, and covered with a shining metallick Substance and serpentine Stones, &c. and the plough'd Fields abound with Stones resembling Shells of the Escallop and Cockle Kind, striated with some Astroites, which are all strong Alkalies, and with Aqua-fortis, or Spirit of Nitre, raise a violent Ebulition.\n\nVI. An Extract of a Letter of Signior Michele Pinelli, concerning the Causes of the Gout. Translated from the Italian by Joh. James Scheutzer, M. D. F. R. S. and Coll. Med. Lond. Lic.\n\nIn Order to acquire a competent Knowledge of the various Distempers incident to the human Body, particularly such, whose Causes being not very well known, their Cures also have been found hitherto very difficult, it is absolutely necessary, that by the concurrent Assistance of Reason and Experience, we should make an accurate Inquiry into the Principles of which it is composed.\n\nWith this general View, but more particularly in Order to discover the Nature and Cause of the Gout, I have\nI have for some Time applied myself to examine the several Parts of the human Body, whether solid or fluid, and by chymical Processes to dissolve them into their primitive or constituent Parts.\n\nThus, for Instance, I have found, that the solid Substance of the Bones, and the circumambient Parts, is composed of Phlegm, Oil, an alcaline volatile Salt, and a little Earth. The same Principles I have also constantly discovered in the Blood, and all the other Fluids, which are secreted from it, as well as the other solid Parts, with this Difference only, that there is more Phlegm, and less Oil and volatile Salt in the Fluids, than may be extracted from the Solids.\n\nCarrying these Experiments still further, and endeavouring to extract via humidá, as the Chymists call it, the Salt from the Excrements in the Stomach and Intestins, I have constantly found a Salt not unlike Sea-salt, and appearing upon Examination to be a perfect Acid.\n\nAnd yet, with all possible Art and Carefulness whatever, nothing of this acid Salt could ever be obtained from all the other solid, or fluid Parts of the Body.\n\nHence it appears how much those must be mistaken, who have hitherto asserted, that the Cause of the Gout is a coagulating Acid existing in the Blood, since nothing of an Acid is found in any Part of the Body, but the Excrements. This put me upon thinking, that the Cause of the Gout may be owing, perhaps, to that other saline Principle which chymical Trials shew us to exist both in the solid and fluid Parts: And\nAnd I have been confirmed herein by the following Experiments.\n\nA very gouty Person being lately dead at Rome, I procured as much as I could of that tophaceous gouty Substance commonly found about the Joints of Persons afflicted with this Distemper: And having got about three Ounces and a Half, I took six glass Bottles, and put ten Grains of it into each. The first of these Bottles I filled with distilled Vinegar, the second with Spirit of Vitriol, the third with Spirit of Salt, the fourth with Spirit of Sal-armoniac, the fifth with Spirit of Hartthorn, and the sixth with Spirit of Urine. After four and twenty Hours, I found the aforesaid tophaceous Matter totally dissolved in the three first Bottles, which contained the acid Spirits, but in the three others, which I filled with alcaline Spirits, it remained entire and untouched, even for some Time after. From hence I concluded this tophaceous Matter to be of an alcaline Nature, forasmuch as it is the Nature of acid Spirits, to dissolve such Substances as are either altogether alcaline, or composed in Part of an Alkali. And this also I conceived to be the Reason why the aforeaid tophaceous Substance remained entire in the Bottles filled with alcaline Spirits, both being of the same Nature, and consequently not to be dissolved by each other.\n\nBut for a farther Satisfaction, I took the remaining Part of this tophaceous Matter, being about three Ounces, and put it into a small Retort. Then having fixed a Recipient to it, I distilled it, according to the Rules of Art, by a gradual Fire, and obtained a Spirit, with some few Drops of Oil, about two Drams of a Caput Mortuum remaining in the Retort. This Spirit\nSpirit I found to be a perfect volatile Alcali, altogether of the same Nature with that which is extracted from Blood, from Urine, and from Bones. Hence again it is evident, that this tophaceous gouty Substance is composed of the same Principles with the other fluid and solid Parts of the human Body, or, that the Cause of the Gout is nothing else but a volatile, alkaline, corrosive Salt, which by corroding the sensible Membranes about the Joints, occasions those acute Pains, which we call the Gout.\n\nFINIS.\n\nLONDON: Printed for WILLIAM INNYS, at the West End of St. Paul's.\n\nM.DCC.XXVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103707.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 1322,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1252,
+        2
+      ],
+      [
+        1252,
+        2768,
+        3
+      ],
+      [
+        2768,
+        4450,
+        4
+      ],
+      [
+        4450,
+        5043,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103707",
+    "title": "An Extract of a Letter of Signior Michele Pinelli, concerning the Causes of the Govt. Translated from the Italian by Joh. James Scheutzer, M. D. F. R. S. and Coll. Med. Lond. Lic.",
+    "authors": "Michele Pinelli, Joh. James Scheutzer",
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103707"
+  }
+}

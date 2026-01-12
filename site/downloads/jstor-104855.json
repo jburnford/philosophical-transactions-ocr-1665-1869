@@ -1,0 +1,89 @@
+{
+  "id": "f27cd5a1c40797f2b881b80daf54ab9cbe8f9d03",
+  "text": "be safely used for a long time, without Danger to Health, I can vouch by my own Experience; for a Quart of Lime-Water, and an Ounce of Soap, has never given me the least Nauseating, Lowness of Spirits, or Abatement of Appetite, and I think I was never better in Health than I am now.\n\nMy Motive for being so particular in this Affair, is a Desire to be instrumental, by your means, of giving Ease to others in so unhappy a Condition; being firmly persuaded, that what has already so far reliev'd me, will, if prescrib'd, dissolve Stones of greater Magnitude than I suppose mine to be. From\n\nAbergavenny, Dec. Your affectionate Brother,\n\n1746.\n\nRobert Lucas.\n\nX. The Figures of some very extraordinary calculous Concretions formed in the Kidney of a Woman; communicated by Mr. Charles Lucas at Dublin.\n\nSee Tab. III.\n\nPresented March 26. Parts of a calculous Concretion formed in the left Kidney of Mary Anne Mac-Mahon, otherwise England, taken out after her Death, in the 30th Year of her Age.\n\nFigure\nFigure I. A View of the anterior Part of the Calculus in its proper Situation, wanting, to complete its Form, fig. III. and v. and some other small Pieces which were joined or adhered to it at A.\n\nFig. II. A View of the posterior Part, completely the reverse of fig. I.\n\nFig. III. A View of another Portion, which, by the Intermediation of some smaller Pieces, was joined at B to fig. I. at A.\n\nFig. IV. The reverse of fig. III.\n\nFig. V. A Portion which seem'd broke off fig. I. at A; for it fitted it exactly at C.\n\nFig. VI. VII. VIII. Different Fragments, whose Places could not be certainly determined.\n\nFig. IX. A Nucleus of a dark Olive-Colour, and oval Figure, of the common Texture and Consistence of ordinary Calculi, discovered by cutting fig. v. transversely at D.\n\nFig. X. A transverse Section of fig. II. at E, very solid, white, and semi-pellucid, except at F, where a brown Vein, of the Colour of the Surface of the Nucleus, fig. IX. at G, and very porous, runs through it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104855.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8208,
+    "total-output-tokens": 674,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1002,
+        4
+      ],
+      [
+        1002,
+        1989,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104855",
+    "title": "The Figures of Some Very Extraordinary Calculous Concretions Formed in the Kidney of a Woman; Communicated by Mr. Charles Lucas at Dublin",
+    "authors": "Charles Lucas",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104855"
+  }
+}

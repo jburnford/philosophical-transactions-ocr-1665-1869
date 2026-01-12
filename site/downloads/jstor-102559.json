@@ -1,0 +1,59 @@
+{
+  "id": "01753d67804e5ed4ef5d3b7cdf2776037d19c2dd",
+  "text": "XI. Some Experiments about Freezing. By Mr. Desmasters. Communicated by Dr. William Musgrave, Fell. Coll. Phys. and R. S.\n\nA Tube of \\( \\frac{1}{4} \\) of an Inch Diameter being fill'd with Water to the height of two Inches, and set to freeze in a Mixture of Snow and Salt, the Water, when perfectly frozen, appear'd \\( \\frac{1}{6} \\) of an Inch, above the Mark it stood at before freezing.\n\nAnother Tube, of almost an Inch Diameter, being fill'd with Water to the height of Six Inches, and set to freeze, as before, rose \\( \\frac{3}{8} \\) of an Inch above the Mark.\n\nIt was observable, that when the Water thus set in Snow and Salt began to freeze, a great many small Bubbles continually rose from the Bottom.\n\nXII. A Catalogue of Electrical Bodies. By the late Dr. Rob. Plot, F. R. S.\n\nNon solum Succinum & Gagates allectant corpuscula, sed & Adamas, Saphirus, Carbunculus, Iris gemma, Opalus, Amethystus, Pseudo-adamas Bristolensis, Berillus & Christallus: Item Hyacinthus, Granatus Bohemicus, Vitrum & ex vitro sive Chrystallo gemmæ adulteratæ, vitrum Antimonii & Saturni, omnes fluores ex fodinis, Belemnites, Sulphur, Mastix, Cera sigillaris ex lacca, Resina durior, Arsenicum sed imbecillius, & Caelo sicco Sal gemmæ, Lapis Specularis, & Alumen rupeum.\n\nXIII. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102559.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 435,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1268,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102559",
+    "title": "Some Experiments about Freezing. By Mr. Desmasters. Communicated by Dr. William Musgrave, Fell. Coll. Phys. and R. S.",
+    "authors": "William Musgrave, Mr. Desmasters",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102559"
+  }
+}

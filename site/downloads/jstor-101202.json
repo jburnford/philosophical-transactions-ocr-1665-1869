@@ -1,0 +1,69 @@
+{
+  "id": "acc57c268290312f165bd3e270899273351a5d8a",
+  "text": "An Extract\nOf a Letter of M. Denis Prof. of Philosophy\nand Mathematicks to M. * * * touching\nthe Transfusion of Blood, of April 2.\n1667.\n\nThis we English out of the 8th Journal des Scavans of 1667.\n\nViz.\n\nSince the Experiments, of which I wrote to you the 9th of March, we have transfused the blood of three Calves into three Dogs, to assure ourselves, what the mixture of two such differing sorts of blood might produce. I shall hereafter acquaint you at large with the particulars; at present I shall onely inform you, that the Animals, into whom the blood hath been transmitted, do all of them eat as well as before, and that one of these three Dogs, from whom the day before so much blood had been drawn, that he could hardly stir any more, having been supplied the next morning with the blood of a Calf, recover'd instantly his strength, and shew'd a surprizing vigor.\n\nWe have found new wayes of making this Transfusion with so much facility, that M. Emmerez undertakes to perform it without any Ligature, onely by pricking, like that, which is used in Letting of blood.\n\nObservations\nConcerning the Uniting of Barks of Trees cut,\nto the Tree it self; made by Christopher Merret M.D. and read before the Royal Society January 9. 1666.\n\nIn the midst of March An. 1664. I made a Section of the Rinds of Ash, and of the Tree, falsly called Sycamore. The first Section of each of the Rinds was square, whereof three sides were cut,\ncut, the fourth uncut. The success was, that the whole Bark did unite, by binding it with pack-thread, leaving a scar in each of the sides cut.\n\nThen I cut off and separated entirely from the Tree, several parts of the Bark, some shallower, leaving part of the Bark on; others to the very wood itself, both in the Trunk and Branches; from an inch square to less dimensions; and some of them I bound close with pack-thread: all which were separated, a new Rind succeeding in their place. Some I cover'd over, beyond the place of Incision, with Diachylon-plaister, and tied them fast with pack-thread. All which, thus bound and plaister'd, did within the space of three weeks, firmly unite to the Tree, not without some shriveling of the outward skin of the Bark, and also with some shrinking in each side, where the Incision was made; where also appear'd in each of the Interstices a scar.\n\nThe like Experiment I made, some years before, about the same time of the year, and succeeded as before related. But tying the same about Michaelmas, and in the Winter-season, at neither of these times any Union could be made of the Bark to the Tree. I suppose, it was, because the Sappe mounted not so vigorously and in such plenty, as in the Spring-season.\n\nSome Branches of the fore-mentioned Trees were decorticated round, and where no Union was, there certainly follow'd a withering of the Branch beyond the place, where the Section was made.\n\nI also separated a Twig from the Branch, by cutting of it slopping, for the better fastning of it to the Branch again. This Twig I exactly fitted to the Branch, from whence 'twas cut, in the same posture, it before grew in: I firmly bound it, and cover'd it with Diachylon-plaister. The success was, that in 3 dayes time, the Twig, that was cut off, withered.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101202.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 883,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1434,
+        2
+      ],
+      [
+        1434,
+        3232,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101202",
+    "title": "Observations Concerning the Uniting of Barks of Trees Cut, to the Tree It Self; Made by Christopher Merret M. D. and Read before the Royal Society January 9. 1666",
+    "authors": "Christopher Merret",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101202"
+  }
+}

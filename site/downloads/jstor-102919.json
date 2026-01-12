@@ -1,0 +1,79 @@
+{
+  "id": "115b05e84a4140aea4088f59b0918f9f2848e922",
+  "text": "were so divided, that they never fell to the Earth, but were exhaled up into the Clouds.\n\nIn the said small Particles of Water are conveyed the above-mentioned small Animalcula far up into the Land, and when the Ground becomes dry, they contract themselves into an oval Figure, and the Pores of their Skin are so well clos'd, that they do not perspire at all, whereby they preserve themselves till it Rains, upon which they open their Bodies and enjoy the moisture. And thus, in my poor opinion, it happens that we find these Animalcula in every Meadow of our Country, none of which are very remote from the Sea or Water Canals.\n\nII. Solutio Problematis.\n\nA Clariss. viro D. Jo. Bernoulli in Diario Gallico Febr. 1403. Propositi.\nQuam D. G. Cheynæo communicavit Jo. Craig.\n\nProblema. Propositæ Curvæ Geometricæ alias innumeræ Longitudine æquales invenire.\n\nSolutio. Sint \\( w, s \\), co-ordinatae Curvæ datae; & Curvæ quaestæ sint co-ordinatae \\( x, y \\); tum ex conditione Problematis erit \\( dw^2 + ds^2 = dx^2 + dy^2 \\). Ponatur \\( dx = dw - m dz \\), unde erit \\( dy = \\sqrt{ds^2 + 2m dw dz - m^2 dz^2} \\); in hac pro \\( ds \\) substituatur ejus valor per \\( w, dw \\) & determinatas expressus: & pro \\( dz \\) assumatur talis valor ex \\( w, dw \\) & determinatis compositus, ut valores quantitatum \\( dx, dy \\) sint summabiles: Et sic habentur \\( x \\) ac \\( y \\) Co-ordinatae Curvæ quaestæ. Q. E. J.\n\nExemplum 1. Invenire Curvam æqualem Lineæ Parabolicæ. Sit \\( z \\) latus rectum Parabolæ; adeoque \\( z \\)\n\\[\nds = w^2 \\quad \\text{unde } ds^2 = a^2 - w^2 \\quad \\text{adque } dy = \\sqrt{a^2 - w^2} \\quad dw + 2m \\quad dw \\quad dz - m^2 \\quad dz^2; \\quad \\text{ut hæc sit summabilis assumatur } mdz = \\frac{w^2}{a^2} \\quad dw; \\quad \\text{unde } dx = dw - a^2 \\quad w^2 \\quad dw; \\quad dy = dw \\quad \\sqrt{3a^2 - w^2} - a^4 \\quad w^4 \\quad \\text{quarum integrales per Methodos dudum cognitas inveniuntur } x = w - \\frac{w^3}{3a^2}, y = \\frac{w^2 - 3a^2}{3a^2} \\quad \\sqrt{3a^2 - w^2}.\n\\]\n\nExemp. 2. Invenire Curvam æqualem Circulari. Sit a radius Circuli; tum \\( s = \\sqrt{a^2 - w^2} \\); unde \\( ds^2 = \\frac{w^2}{a^2} \\quad dw^2 \\); & proinde erit \\( dy = \\sqrt{\\frac{w^2}{a^2 - w^2}} + 2m \\quad dw \\quad dz - m^2 \\quad dz^2; \\quad \\text{ut hæc sit summabilis, assumatur } mdz = \\frac{4w^2}{a^2} \\quad dw, \\quad \\text{adcoq; } dx = dw - \\frac{4w^2}{a^2} \\quad dw; \\quad dy = -\\frac{3a^2w + 4w^3}{a^2 \\sqrt{a^2 - w^2}} \\quad dw. \\quad \\text{Quarum integrales per communes Methodos inveniuntur } x = w - \\frac{4w^3}{3a^2}, y = \\frac{a^2 - 4w^2}{3a^2} \\quad \\sqrt{a^2 - w^2}:\n\nExemp. 3. Invenire Curvam æqualem Ellipticæ. Sit \\( r \\) latus rectum, \\( 2a \\) latus transversum, tum \\( s = \\frac{r \\sqrt{a^2 - w^2}}{a} \\), unde erit \\( ds^2 = \\frac{r^2}{a^2} \\quad w^2 \\quad dw^2 \\), adque \\( dy = \\sqrt{\\frac{r^2}{a^2 - a^2w^2}} + 2m \\quad dw \\quad dz - m^2 \\quad dz^2; \\quad \\text{ut hæc sit summabilis assumatur } mdz = \\frac{2a + 2r}{a^2} \\quad w^2 \\quad dw : \\quad \\text{unde } dx = dw - \\frac{2a + 2r}{a^2} \\quad w^2 \\quad dw. \\quad dy = dw \\quad \\sqrt{\\frac{r^2}{a^2 - a^2w^2}} + \\frac{2a + 4r}{a^2} \\quad w^2 + \\frac{2a + 2r}{a^2} \\quad w^4; \\quad \\text{quarum Inte-}\ntegrales per Methodos novissimos inveniuntur \\( x = \\frac{2a^3 - ra^2}{3a^2} \\)\n\\( y = \\frac{2a^3 - ra^2 - 2aw^2 + 2w^3}{3a^2} \\)\n\nExemp. 4. Invenire Curvam æqualem Parabœæ Cubicæ\ncujus æquatio sit \\( 3a^2 s = w^3 \\). Unde \\( ds^2 = \\frac{w^4 dw^2}{a^2} \\)\n& proinde \\( dy = \\sqrt{a^4 w^4 dw^2 + 2m dw dz - m^2 dz^2} \\);\nUt hæc sit summabilis assumatur \\( mdz = \\frac{w^2 dw}{2a^2} \\). Unde\n\\( dx = dw - \\frac{w^2 dw}{2a^2} \\sqrt{3w^2 + 4a^2} \\). Quorum integrales\nper Methodos vulgo notas sunt \\( x = w - \\frac{w^3}{6a^2}, y = \\frac{2}{9} + \\frac{1}{3} w^2 + 4a^2 \\).\n\nEx aliis infinitis valoribus quantitatis \\( m dz \\) debité assumptis\ninfinitas invenias Curvas dataæ æquales. Tu vero, vir Eruditissime,\nfacilè percipias hoc Problema aliquam habere cum\nProblemate quodam Diophantœ affinitatem: Problema Dio-\nphanti est, dividere summam duorum Quadratorum in duo\nalia quadrata, quorum latera sint rationalia; & Problema\nBernoullii est, dividere summam duorum Quadratorum in\nalia duo Quadrata, quorum latera sint summabilia. Sic ut\nProblematis Diophantœi solutio a vulgari tantum Algebra de-\npendet, sic Bernoulliani Problematis solutio communes tan-\ntum Fluxionum Methodos inversas requirit: utriusq; artefi-\ncium in debito laterum quaestiorum summatione consistit; sed.\nDiophantœum ut sint rationalia, Bernoullianum ut sint sum-\nmabilia.\n\nIII. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102919.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6272,
+    "total-output-tokens": 1945,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1505,
+        2
+      ],
+      [
+        1505,
+        3167,
+        3
+      ],
+      [
+        3167,
+        4518,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102919",
+    "title": "Solutio Problematis. A Clariss. viro D. Jo. Bernoulli in Diario Gallico Febr. 1403. Propositi. Quam D. G. Cheynaeo Communicavit Jo. Craig",
+    "authors": "Jo. Craig, Jo. Bernoulli",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102919"
+  }
+}

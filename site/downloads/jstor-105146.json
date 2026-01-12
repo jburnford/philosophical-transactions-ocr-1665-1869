@@ -1,0 +1,89 @@
+{
+  "id": "696d8fa24b84abb62c5d857f28443962d02e2700",
+  "text": "XXXII. The Number of People in the City of Bristol, calculated from the Burials for Ten Years successive, and also from the Number of Houses; by John Browning, Esq; of Barton-hill near Bristol: Communicated by Henry Baker, F.R.S.\n\nRead Jan. 25, 1753.\n\nThe certificates were obtained under the hands of the præcentor of the college, the several ministers of the seventeen parish-churches, the register-keeper of the several Quakers cemeteries, the several Anabaptists cemeteries, the Jews new-erected cemetery, for ten years, including the year 1741 and 1750. Whereas some of the parishes within the liberties of the city do extend themselves beyond the liberties into the counties of Gloucester and Somerset, they are distinguished by the names of the out-parishes. The inhabitants of the several out-parishes being buried within the liberties of the city, must of consequence be brought into the city bill of mortality.\n| Names of the Parishes          | Burials |\n|-------------------------------|---------|\n| The Cathedral                 | 23      |\n| All Saints                    | 58      |\n| St. Michael's                 | 637     |\n| St. Werburgh's                | 101     |\n| St. James's                   | 2945    |\n| St. Mary Redcliff's           | 1538    |\n| St. Thomas's                  | 639     |\n| Temple                        | 1398    |\n| St. Nicolas's                 | 844     |\n| St. Mary Port's               | 245     |\n| St. Peter's                   | 638     |\n| St. Philip and Jacob          | 3661    |\n| St. Ewin's                    | 30      |\n| St. John Baptist's            | 538     |\n| St. Leonard's                 | 74      |\n| St. Stephen's                 | 1234    |\n| St. Augustin's                | 916     |\n| Christ-church                 | 311     |\n| The Quakers Cemeteries        | 506     |\n| The Baptists Cemeteries       | 979     |\n| The Jews new-erected Cemetery | 2       |\n\nTotal Number Burials for Ten Years 17317\n\n\\[ 17317 \\div 10 = 1731 \\text{ Burials in each Year.} \\]\n\nRated\n| Rated Houses in each Parish | Number |\n|-----------------------------|--------|\n| All Saints                  | 42     |\n| St. Michael's               | 375    |\n| St. Werburgh's              | 43     |\n| St. James's                 | 1020   |\n| St. Mary Redcliff's         | 420    |\n| St. Thomas's                | 209    |\n| Temple                      | 211    |\n| St. Nicolas                 | 411    |\n| St. Mary Port               | 106    |\n| St. Peter's                 | 181    |\n| St. Philip and Jacob (large out-parish) | 363 |\n| St. Ewin's                  | 25     |\n| St. John Baptist's          | 144    |\n| St. Leonard's               | 54     |\n| St. Stephen's               | 375    |\n| St. Augustin's              | 480    |\n| Christ-church               | 160    |\n| The Castle Precinct's Ward  | 247    |\n\nTotal number of rated houses 4866\n\nThe latest and most accurate observations demonstrate, that in great cities a twenty-fifth part of the people die yearly.\n\nThe yearly amount of the burials at a medium for ten years, $1731 \\times 25 = 43275$, the number of inhabitants.\nThe number of houses rated to the land-tax, as appears by the rates in the council-house, Michaelmas, 1751,\n\nAs the rates are not always accurately made, and as it is the usual custom not to rate houses, which are untenanted, hospitals, or alms-houses, it will be necessary to make a very large allowance for these deficiencies, especially as many houses are rated in gross under the denomination of several tenements; when they belong to the same landlord in all the several parishes, an allowance of 25 per cent. will be more than sufficient.\n\nThe number of houses computed in the several out-parishes\n\nTotal number of houses 7282\n\nThe usual number of souls allowed to each house is six.\n\nHouses\n\\[ 7282 \\times 6 = 43692 \\] number of inhabitants by the houses.\n\\[ 43275 \\] number of inhabitants by the burials.\n\nXXXIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105146.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 1244,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        921,
+        2
+      ],
+      [
+        921,
+        2041,
+        3
+      ],
+      [
+        2041,
+        3142,
+        4
+      ],
+      [
+        3142,
+        3963,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105146",
+    "title": "The Number of People in the City of Bristol, Calculated from the Burials for Ten Years Successive, and Also from the Number of Houses; By John Browning, Esq; Of Barton-Hill Near Bristol: Communicated by Henry Baker, F. R. S.",
+    "authors": "Henry Baker, John Browning",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105146"
+  }
+}

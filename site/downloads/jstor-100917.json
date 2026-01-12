@@ -1,0 +1,79 @@
+{
+  "id": "460486fc173b774d7bc0207cb100f50b6959b01a",
+  "text": "Extract of a Letter of Monsieur Hevelius from Dantzick written to the Publisher in Latin, March 9. (St. Nov.) 1672; giving some Account of a New Comet, lately seen in that Country: Englished as followeth.\n\n—I shall not excuse my long silence, but acquaint you in brief with a New Appearance in the Heavens. There hath been seen here a New Comet from the 2d of March 1672; which I myself, being some days absent from home and from my instruments, could not observe till March 6th in the evening. It is seen both mornings and evenings. It is but little, having at the present a train not above a degree or a degree and an half long: which would doubtless appear bigger, if it were not for the twy-light, and the Moon were absent. It is now about the Stars in the right Arm of Andromeda on her Shoulder-blade. As far as I can collect from one or two observations, it tends towards the Lucida of Andromeda's girdle, and that with a direct diurnal motion of about two degrees in its course.\n\nThe 6th of March in the evening, h. 7.40', it was in grad. 7. of ν in the 25th deg. of Northern Latitude; as I guessed by the hasty inspection of a Globe.\n\nMarch 7. in the morning h. 3.30', its Longitude was about 8. deg. ν, with a somewhat lesser latitude than before: in the Evening of the same day its Longitude was 10. deg. ν, and Latitude 34. deg. fere.\n\nMarch 8. in the morning h.4. the Longitude was 12. deg. ν, and the Latitude 33. deg.: Which yet I would not have taken precisely, because I cannot yet reduce my Observations to a calculus. This evening, I hope, I shall see him again; although this morning we could see nothing by reason of the dark weather.\n\nI intend to send you by the next more particular and more accurate Observations, which I purpose to make carefully, as oft as I can, with my Brails Octant, which is about 9 feet long. And I long to hear, what you or other Nations have observed of this Phenomenon.\n\nM m m m 2 Besides,\nBesides, I cannot but advertise you, that I have observed again March 6, 1672, the New Star under the Head of the Constellation of the Swan; but it can hardly be seen as yet with the naked Eye.\n\nSo far this diligent Observer; with whose Observations we presently acquainted some of our Astronomers here, to excite them to make theirs also in this place; who yet have seen nothing of this Comet hitherto.\n\nMeantime we have received fresh Letters from Paris, informing us, that there, and at La Flèche also, it hath been seen, from March 16 (ft. n.) until March 26; both inclusively: Of which we expect a particular account hereafter. At the present they intimate, that the reason why it hath not been observed but very late, is, that for a good while it was near the Sun; and when it was got clear of him, it was much obscured by the Moon.\n\nSince this, we have been informed by our Worthy and Learned Friend Mr. Isaac Newton, that about the 16th of March 1672, ft. v. he saw at night a dull Star South-west of Perseus, which, he saith, he now takes to have been that Comet, of which we gave him information: But he adds, that it was very small, and had not any visible Tail, which made him regard it no further; he fearing withall, that it will now be difficult to find it.\n\nAn Account of what hath been of late observed by Dr. Kerkringius concerning Eggs to be found in all sorts of Females.\n\nAlthough we have already (No. 70.) taken notice in brief of what the Inquisitive Kerkringius hath discoursed of, concerning Ovaria and Ova in all sorts of Femals; yet, to excite the more vigorously our eminent Anatomists here to a further search into this matter, as those of that profession in many foreign parts, as France, Italy, Holland, &c. employ themselves to find what truth there is in it; we thought, it would not be unwelcome to the Curious of all sorts of this Country, to give them here in English a particular description of what the said Kerkringius hath from his own Observations delivered\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100917.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6364,
+    "total-output-tokens": 1120,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1940,
+        2
+      ],
+      [
+        1940,
+        3939,
+        3
+      ],
+      [
+        3939,
+        3939,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100917",
+    "title": "Extract of a Letter of Monsieur Hevelius from Dantzick Written to the Publisher in Latin, March 9. (st. Nov.) 1672; Giving Some Accompt of a New Comet, Lately Seen in That Country: Englished as Followeth",
+    "authors": "Monsieur Hevelius",
+    "year": 1672,
+    "volume": "7",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/100917"
+  }
+}

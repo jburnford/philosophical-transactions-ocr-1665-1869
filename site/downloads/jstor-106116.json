@@ -1,0 +1,249 @@
+{
+  "id": "737a3de13180e843ba6b4e4bf188552d4a6ce69c",
+  "text": "XLVI. Kepler's Method of computing the Moon's Parallaxes in Solar Eclipses, demonstrated and extended to all Degrees of the Moon's Latitude, as also to the assigning the Moon's correspondent apparent Diameter, together with a concise Application of this Form of Calculation to those Eclipses; by the late H. Pemberton, M.D. F.R.S. Communicated by Matthew Raper, Esq; F.R.S.\n\nReceived December 5, 1771.\n\nRead Dec. 5, 1771.\n\nTHE calculation of solar eclipses having been generally reputed a very operose process, from the repeated computations required of the moon's parallaxes by their continually varying during the progress of the eclipse, I was once induced to consider Kepler's compendium for performing this, delivered in his Rudolphine tables, of which he had given a demonstration in his treatise entitled Astronomiae pars optica. But this demonstration is perplexed, and the method itself wants correction, to render it perfect. Both these defects I endeavoured to supply by the following propositions, by\nby which may be determined with sufficient exactness\nthe moon's apparent latitude, not only in eclipses, but\nin all distances of the moon from the ecliptic.\n\nBut to these propositions I shall here premise the\nmethod I have generally used for computing the\nnonagesime degree, and its distance from the zenith;\nthis form of calculation not being encumbered with\nany diversity from the difference of cases.\n\nLEMMA.\n\nTo find the nonagesime, or 90th degree of the\necliptic from the horizon, and its distance from the\nzenith, the latitude of the place, and the point of the\nequinoctial on the meridian being given.\n\nIn Tab. XV. Fig. 1. 2. 3. 4. let A B be the equi-\nnoctial, A C the ecliptic, D the zenith, D E the meri-\ndian, and D F perpendicular to the ecliptic, whereby F\nis the nonagesime degree, and DF the distance of that\npoint from the zenith. Then from D E, the latitude\nof the place, and A E the distance of the meridian\nfrom Aries, the arch of the ecliptic AF, and the\nperpendicular DF may be thus found.\n\nLet I be the pole of the equinoctial, and H the\npole of the ecliptic. Then AE augmented by 90°\nis the measure of the angle DIH, or of its comple-\nment to four right angles: And the square of the ra-\ndius is to the rectangle under the sines DI, IH, as the\nsquare of the sine of half the angle DIH, or of half\nits complement to four right angles, to the rectangle\nunder the radius, and half the excess of the cosine of\nthe difference between DI and IH, above the cosine\nof DH, or the sine of DF.\nIn the next place, the arch AD being drawn, in the rectangular triangle AED, the radius is to the cosine of DE, as the cosine of AE to the cosine of AD; and in the rectangular triangle AFD, the cosine of DF is to the radius, as the cosine of AD to the cosine of AF; therefore, by equality, the cosine of DF is to the cosine of DE as the cosine of AE to the cosine of AF [a], the arch AF counted according to the order of the signs being to be taken similar in species to AE: For when AE is less than a quadrant (as in fig. 1.), AF will be less than a quadrant; and when AE shall be greater than 1, 2, or 3 quadrants, AF counted according to the order of the signs, shall exceed the same number of quadrants. For, since DE and DF are each less than quadrants, when AE in the triangle DEA is also less than a quadrant, the hypothenuse AD is less than a quadrant, when in the triangle DFA the legs DF and FA are similar, that is, FA will be less than a quadrant; (as in fig. 1.) but if AE is greater than a quadrant; (as in fig. 2.) that is, dissimilar to DE, the hypothenuse DA will be greater than a quadrant, and the arches DF, FA likewise dissimilar, and AF greater than a quadrant; also in fig. 3 and 4, the arches AE, AF counted from A, in consequence, will be the complements to a circle of the arches AE, AF in the triangles ADE, ADF.\n\nFor an example, let the case be taken in Dr. Halley's astronomical tables, where an occultation of the moon with a fixed star is proposed to be computed, the lati-\n\n[a] The same may be concluded from the f. HD being to f. TD as f. HID to f. IHD.\ntude of the place being $65^\\circ.50'$.50'', and the point of the equinoctial culminating $25^\\circ.36'$.24'', from the first point of Aries.\n\nThis case relates to fig. 1. and the computation will stand thus,\n\nFor the distance of the nonagesime degree from the zenith,\n\n| Distance of E in consequence from A, the equinoctial point | $25^\\circ.36'$.24'' |\n|----------------------------------------------------------|-------------------|\n| Add                                                      | $90^\\circ.0'$.0'' |\n| Gives the angle HID                                      | $115^\\circ.36'$.24'' |\n| Half HID                                                 | $57^\\circ.48'$.12'' |\n| HI, the obliquity of the ecliptic used by Dr. Halley     | $23^\\circ.29'$.0'' |\n| ID, the complement of the latitude                        | $24^\\circ.9'$.10'' |\n| Natural number corresponding                              | $0.11676$          |\n| Its double, to be deducted from the nat. cosine of ID    | $0.23352$          |\n| leaves the nat. cosine of HD (39°.58'.0'')               | $0.76641$          |\n\nTherefore DF is $50^\\circ.2'$.0''\n\nFor the arch AF\n\nCosine of DF, or sine of HD (co. arith.) $0.19223$\nCosine of the latitude, or sine of ID $9.61191$\nCosine of AE $9.95510$\nCosine of the long.of the 90th deg.(54°.56'$.24''.) $9.75924$\n\nThe arch HD might have been computed by the versed sine of the angle HID. But I choose the method above; very few logarithmic tables having the logarithmic versed sines. Sir J. Moore, and Sherwin have given indeed such tables, but they are imperfect, extending only to a quadrant.\n\nMoreover,\nMoreover, if a table of natural sines is not at hand, the arch AD may be found logarithmically thus [a].\n\nTake half the sum of the four first logarithms in the preceding computation of \\( \\frac{19}{2} = 9.53364 \\).\n\nDeduct the sine of half DI \\( \\approx \\) IH \\( \\frac{7.76675}{11.76689} \\)\n\nthe remainder\n\nThis remainder sought in the table of logarithmic tangents gives the correspondent sine\n\nThis sine deducted from the first number leaves the sine of half HD, that is, \\( 19^\\circ 59' 0'' \\).\n\n\\[\n\\begin{align*}\n\\text{PROPOSITION I.} \\\\\n\\text{In fig. 5, 6. Let BCA be the ecliptic, E the moon appearing in the ecliptic in C, from the place of the earth whose zenith is Z; B the nonagesime degree, the arch ZB being perpendicular to the ecliptic, ZEC the circle of altitude; ED the moon's latitude, the arch DE being perpendicular to the ecliptic CB; and DC the parallax in longitude; then DE is to the horizontal parallax, as the sine of ZB, the distance of the nonagesime degree from the zenith, or the altitude of the pole of the ecliptic, to the radius; also DC is to the moon's horizontal parallax as f. BC x cos. ZB to the square of the radius.} \\\\\n\\text{The arch CE is to the moon's horizontal parallax as f. ZC to radius, and DE is to CE as f. ZB to f. ZC; whence by equality DE is to the horizontal parallax as f. ZB to the radius.}\n\\end{align*}\n\\]\n\n[a] See Philosophical Transactions, Vol. LI. P. II. p. 927, 928.\n\nVol. LXI. LII Again\nAgain, f. ZB is to radius as the tangent of ZB to the secant of ZB; therefore DE is to the horizontal parallax, as t. of ZB to sec. ZB: but DC is to DE as f. BC to t. ZB; whence by equality DC is to the horizontal parallax as f. BC to the sec. ZB, or as f. BC × cos. ZB to the square of the radius.\n\nCOROLLARY.\n\nIf the point S be taken 90 degrees from the apparent place of the moon, and the arch SZ be drawn, in the spherical triangle SBZ, the cf. ZB × cf. BCS, that is, cf. ZB × f. BC is equal to rad. × cf. ZS: therefore DC is to the horizontal parallax as cf. ZS, or the sine of the distance of S from the horizon to the radius. And if the point S is taken in consequence of the moon, it will be above the horizon, when the nonagefime degree is also in consequence of the moon; otherwise below.\n\nPROPOSITION II.\n\nLet G be the apparent place of the moon out of the ecliptic in the circle of latitude CK, K being the pole of the ecliptic, and H her true place. Then EF, the distance of the moon from the circle of her apparent latitude, when she is seen in the ecliptic, is equal to HL, her distance from the circle of her apparent latitude, when her apparent place is G.\n\nIf a great circle EHT be drawn through E and H, till it meet the circle of the apparent latitude in T, the four great circles CZ, GZ, CT, ET, intersecting each other, the ratio of f. ZC to f. CE is compounded of\nof the ratio of \\( f. ZG \\) to \\( f. GH \\) and of the ratio of \\( f. SHT \\) to \\( f. ET \\) [a]. But CE and GH being the parallaxes in altitude at the respective distances from the zenith ZC, ZG, \\( f. ZC \\) is to \\( f. CE \\) as \\( f. ZG \\) to \\( f. GH \\): therefore the sine of HT will be equal to the sine of ET, and the arches HT, ET together make a semicircle: whence ET is equal to HL.\n\n**COROLLARY.**\n\nThe arch KH being drawn, the parallax in longitude, when the moon is in H, will be to HL as rad. to \\( f. KH \\), or the cosine of the latitude; and EF, or its equal HL, to CD as \\( f. KE \\) to the radius. Therefore the moon’s parallax in longitude, when in H, is to the parallax in longitude, when she appears in the ecliptic, as the sine of KE to the sine of KH, that is, as the cosine of the latitude, when the moon appears in the ecliptic, to the cosine of her latitude in H.\n\n**PROPOSITION III.**\n\nWhen the moon appears out of the ecliptic, if her latitude is small, the difference of the moon’s latitude, when the moon appears in the ecliptic under the same apparent longitude, if both latitudes are on the same side of the ecliptic, otherwise their sum, will be to the moon’s apparent latitude, nearly as the sine of the moon’s distance from the zenith, when appearing in\n\n[a] Ptolem. Almag. L. i. c. 12. Menel. Spheric. L. iii. pr. 1.\nthe ecliptic under the same apparent longitude, to the sine of the corresponding apparent distance.\n\nFig. 6. When the moon appears out of the ecliptic in G, the four great circles CZ, GZ, CT, ET, intersecting each other as before, the ratio of \\( f. CZ \\) to \\( f. ZE \\) will be compounded of the ratio of \\( f. CG \\) to \\( f. EH \\), or of \\( CG \\) to \\( EH \\) in these small arches, and of the ratio of \\( f. HT \\) to \\( f. GT \\), which last ratio, when the latitude is small, and \\( HT \\) near a quadrant, is nearly the ratio of equality. Now in the triangle EKH the arch EH exceeds the difference of KE and KH, that is, the difference of the latitudes, when both the latitudes are on the same side of the ecliptic, and their sum, when the latitudes are on the opposite sides. But here the excess will be inconsiderable. Therefore if an arch X be taken, whose sine shall be to the sine of the difference, or sum of the latitudes, as \\( f. ZC \\) to \\( f. ZE \\), X shall be nearly equal to CG, the apparent latitude in G.\n\nCOROLLARIES.\n\n1. If the arches DE, BZ be continued to K, the pole of the ecliptic, the four great circles CB, CZ, DK, BK, will intersect each other, and \\( f. BD \\) will be to the sine of BC in the ratio compounded of the ratio of \\( f. ZE \\) to \\( f. ZC \\), and of \\( f. DK \\) to \\( f. EK \\), the least of which ratios, the arch DE being small, and DK a quadrant, is nearly the ratio of equality; therefore \\( f. BD \\) is to \\( f. BC \\) nearly as \\( f. ZE \\) to \\( f. ZC \\); so that \\( f. BD \\) will be to \\( f. BC \\) nearly as the difference of the moon’s true latitude, when she appears in G from her latitude DE, wherewith she would appear\nin the ecliptic, if the points H and E are both on the same side of the ecliptic, or as the sum of those latitudes, when H and E are on different sides of the ecliptic, to the moon's visible latitude.\n\n2. The moon's apparent diameter, is to her horizontal diameter, as the sine of her apparent distance from the zenith to the sine of her true distance. Therefore, when the moon is in C, her apparent diameter is to her horizontal diameter as f. ZC to f. ZE, and f. ZC being to f. ZE nearly as f. BC to f. BD; the moon's apparent diameter in C will be to her horizontal diameter nearly as f. BC to f. BD.\n\nAgain, the ratio of f. CG to f. EH is compounded of the ratio of f. ZG to f. ZH, and of the ratio of f. CT to f. ET; and is also compounded of the ratio of f. ZC to f. ZE, and of the ratio of f. GT to f. TH; but the sine of ET is equal to the sine of TH, the arches ET and TH composing a semi-circle; also the sine of CT there differs little from the sine of GT; therefore f. ZG is to f. ZH, that is, the moon's apparent diameter, when in G, to her horizontal diameter, nearly as f. ZC to f. ZE, or nearly as f. BC to f. BD.\n\n3. In all latitudes of the moon, EH will not greatly exceed the difference, or sum of the moon's latitude in H, and the latitude wherewith she would appear in the ecliptic. Therefore the ratio of f. ZC to f. ZE being compounded of the ratio of f. CG to s. EH, and of the ratio of f. HT to f. GT, if X be taken, that its sine be to the sine of the difference or sum of the latitudes, as f. ZC to ZE, f. X will be nearly to f. CG as f. HT to f. GT. Hence the difference of f. X and f. GC will be to f. CG nearly as the differ-\nence of f. HT' and f. GT' to f. GT, HT not sensibly differing from TL. Now FT and TL together make a semi-circle, and the sum of FG and GL is twice the difference of TL from a quadrant, and the difference between FG and GL equal to twice the difference of TG from a quadrant, also the difference between the sines of TL and TG is equal to the difference of the versed sines of the differences of those arches from quadrants; and moreover the rectangle under the sines of two arches is equal to the rectangle under half the radius, and the difference of the versed sines of the sum and difference of those arches: therefore the difference of the sines of X and of CG will be to the sine of CG as the rectangle under the sine of half FG and the sine of half GL to the rectangle under half the radius and the sine of GT, and in these small arches the difference of X and CG will be to CG nearly as the rectangle under the sines of FG and GL to the rectangle under twice the radius and the sine of GT, or even twice the square of the radius, this difference being to be added to X, when the moon's apparent latitude, and that by which she would appear in the ecliptic, are on the same side of the ecliptic, otherwise deducted from X for the final correction of the apparent latitude. And in the last place this correction will be always so small in quantity, that in computing it CF may be safely substituted for GL.\n\n4. Moreover, the excess of the moon's apparent diameter, when seen in G, above her apparent diameter in C, bears a less proportion to her horizontal diameter than the rectangle under the sine of her horizontal\nhorizontal parallax, and twice the sine of half the apparent latitude CG to the square of the radius.\n\nThe sine of CE is to the sine of ZC as the sine of the horizontal parallax to the radius; and CE, the difference of ZC and ZE, being very small, the difference of the sines of those arches may be esteemed to bear to the sine of CE, the ratio of the cosine of ZC to the radius; and thus the difference of the sines of ZC and ZE, will be to the sine of ZC as the rectangle under the sine of the horizontal parallax and the cosine of ZC to the square of the radius. And in like manner the difference of the sines of ZG and ZH, will be to the sine of ZG, as the rectangle under the sine of the horizontal parallax and the cosine of ZG to the square of the radius. But f. ZE is to f. ZC as the moon's horizontal diameter to her apparent diameter in C, and f. ZH to f. ZG as the moon's horizontal diameter to her apparent diameter in G. Therefore the difference of the apparent diameter in G from the apparent diameter in C, is to the horizontal diameter, as the rectangle under the sine of the horizontal parallax, and the difference of the cosines of ZC and ZG, to the square of the radius. But in the triangle CZG, the difference of ZC and ZG is less than the third side CG: therefore the chord of the difference of those arches, and much more the difference of their cosines, will be less than the chord of CG, or twice the sine of half CG. Hence the ratio of the augmentation of the apparent diameter in G to the apparent diameter in C, will be less than the rectangle under the sine of the horizontal parallax and twice the sine of half CG, the apparent latitude, to the square of the radius.\nMore accurately, the chord of the difference of \\( ZC \\) and \\( ZG \\) being to the difference of their cosines, as the radius to the cosine of half their sum, the difference of the moon's apparent diameters in \\( C \\) and \\( G \\) may be considered as nearly bearing to the horizontal diameter, the ratio of the parallelopipedon, whose altitude is the sine of the horizontal parallax, and base the rectangle under the chord of \\( CG \\) and the cosine of \\( ZC \\), to the cube of the radius; the cosine of \\( ZC \\) being to the cosine of \\( ZB \\), the distance of the nonagesime degree from the zenith, as the cosine of \\( BC \\), the apparent distance of the moon from the nonagesime degree to the radius. But this difference can never be any sensible quantity.\n\n5. When the moon is in the longitude of the nonagesime degree, the parallax in longitude ceases, and the apparent latitude is the difference of the moon's apparent distance from the zenith, and the distance of the nonagesime degree from the same.\n\nBut now since \\( DC \\) is to the horizontal parallax as the rectangle under the sine of \\( BC \\), and the cosine of \\( ZB \\) to the square of the radius; if an arch be taken to the horizontal parallax as \\( f. BD \\times cf. ZB \\) to the square of the radius, this arch will differ but little from the parallax in longitude, and is used by Kepler as such; however, it ought to be corrected by adding it to \\( BD \\), and taking an arch to this in the proportion of the sine of \\( BD \\) thus augmented to the sine simply of \\( BD \\); and this last arch will be equal to the parallax in longitude without sensible error.\n\nAgain, \\( DE \\) taken to the horizontal parallax as the sine of \\( ZB \\) to the radius, is considered by Kepler as\nthe moon's parallax of latitude in eclipses; but this being deducted or added as the case requires gives EH, which being augmented in the proportion of the sine of BD + DC to the sine of BD, gives truly the apparent latitude without sensible error, when the latitude is small: But, when greater, requires to be corrected by adding together the logarithmic sine of the latitude now found, the sine of EH and the logarithm of DE, the sum of which is the double of the correction required.\n\nIn the last place the moon's horizontal diameter augmented in the proportion of the sine of BC to the sine of BD exhibits the moon's apparent diameter.\n\nAnd here the calculation will proceed thus:\n\nIn the example above chosen for computing the nonagesime degree,\n\nThe moon's longitude is given from \\( \\gamma^62^\\circ.2'.38'' \\)\nThe longitude of the nonagesime degree was found above to be \\( 54^\\circ.56'.24'' \\)\n\nTherefore BD = 7.6.14\n\n| Its sine | 9.09226 |\n|----------|---------|\n| BZ, as found above, 50°.2'.0''. its cosine | 9.80777 |\n| The horizontal parallax in seconds | 3.52387 |\n\nThis added to BD gives 7.10.39\n\n| Its sine | 9.09673 |\n\nDiff. from the first sine 447\n\nThis added to the log. of 4'.25'', gives the log. of 4'.28'', for the moon's parallax in longitude, such as is derived from the parallax in altitude by the parallactic angle,\n\nVol. LXI. M m m Again,\nAgain,\nThe sine of ZB. 50°. 2′. 0″. | 9.88447\nHorizontal parallax 55′. 41″. = 3341 seconds | 3.52387\nTheir sum, rejecting the radius, gives DE = 42′. 40″ | 3.40834 A\nThe moon’s latitude 4°. 50′. 18″\nTheir sum, (EH) the lat. being south, 5°. 32′. 58″ | Its sine 8.98546 B\nFrom the preceding calculation\nFor the apparent latitude, were the moon’s lat. small | 447\nBut the moon’s latitude being here great, the numbers markt A, B, C, being added together, give twice the correction. | 8.98993 C\nIts half 0°. 0′. 12″\nThis deducted from N°C, the moon’s latitude being south, gives for the apparent lat. | 5°. 36′. 13½″\nLastly,\nFrom the moon’s horizontal parallax her horizontal diameter is | 0°. 30′. 37½″ or 1837½″ | 3.26423\nThe number from the first calculation | 447\nThe moon’s apparent diameter 1856½″ or 30′. 56½″ | 3.26870\n\nNOW in solar eclipses the most regular method of treating them would be to consider the visible way of the moon from the sun, as a line of continued curvature, which it really is; and as it differs not greatly from a straight line, an arch of a circle may safely be used for it. But to form a computation in the sphere upon this principle would require a process somewhat intricate; but all the particulars usually inquired into in solar eclipses may readily be assigned graphically with scale and compass after this manner.\n\nFirst, find the time nearly of the conjunction of the luminaries, without being solicitous to investigate the time\ntime with exactness. To this point of time assign in some crude manner the moon's parallax in longitude, by which a time may easily be assumed, not very distant from the visible conjunction. This may very commodiously be performed instrumentally by the proposition, with which I shall conclude this paper. To this point of time compute the place of the sun and moon, also for an hour before and after, or rather for such an interval of time as may include the whole eclipse, and not too much exceed, of which an estimate may easily be made by the forementioned proposition here subjoined. But all these places of the luminaries may be deduced from the calculation for finding the true conjunction, by means of the horary motions. In the next place, to each of these points of time compute the distance from the zenith and the place in the ecliptic of the nonagesime degree. Then from each position of the nonagesime degree, compute by the method described, the moon's parallax in longitude, her apparent latitude, and apparent diameter.\n\nFig. 7. After this, assuming upon any straight line, as AB, the point C for the sun, from thence lay down for the three points of the ecliptic, for which the preceding computations were made, the three distances CD, CE, CF, which shall be the measures in seconds, taken from a scale of equal parts sufficiently large, of the distances of the moon from the sun in each, compounded with their respective parallaxes in longitude, so as to represent the respective apparent distances of the moon from the sun in longitude. Upon these points erect the perpendiculars DG, EH, FI, for the moon's correspondent apparent latitudes, and describe through these three points the arch of a circle, as representing the visible way of the moon from the sun during the eclipse.\nThen if from C the line CK be drawn from the centre of this circle, K will be the place of the moon at the greatest obscuration. The best method for assigning this point K is to describe the arch of a circle to the center C with any interval, whereby it may cut the arch GHI, as in N and O; for the point K bisects the intercepted arch NKO. Again, if CL, CM be applied from C to the arch IHG, each equal to the sum of the semidiameter of the sun, and apparent semidiameter of the moon, L will be the place of the moon’s center at the beginning, and M the same at the end of the eclipse.\n\nIn the last place, for finding the time, when the moon shall be in each of the points L, K, M, measure the chords of the arches HG, HL, HM, HI, as not sensibly differing from the arches themselves. Then A denoting HL or HM, and B the sum of GH and HI, the time sought for the greater chord may be considered equal to \\[ \\frac{A}{\\frac{1}{2}B} - \\frac{A}{\\frac{1}{2}B} \\times \\frac{GH + HI}{B} \\times \\text{the time of the moon's passing from G to H, or from H to I.} \\]\n\nThe time for the lesser chord will be \\[ \\frac{A}{\\frac{1}{2}B} \\times \\frac{A}{\\frac{1}{2}B} \\times \\frac{GH + HI}{B} \\times \\text{the time above named;} \\] and in the last place, the time of the moon’s passage between H and K equal to \\[ \\frac{HK}{\\frac{1}{2}B} + \\frac{HK}{\\frac{1}{2}B} \\times \\frac{GH + HI}{B} \\times \\text{the time specified.} \\]\n\nThis calculation I deduced from Sir Isaac Newton’s Differential Method; and in the last case—or \\(+\\frac{HK}{\\frac{1}{2}B}\\) \\(x\\), &c. is to be taken, as K shall fall within the greater or lesser of the arches GH, HI: but for the most part the term may be wholly omitted.\nIf this method be applied to the occultation of a star, the distances CD, CE, CF must be the parallaxes in longitude computed according to the first of the preceding propositions united with the respective distances of the moon from the star in longitude, contracted in the proportion of the cosines of the moon's latitudes, or at least of the star's latitude to the radius. Also the moon's apparent latitudes must, for the most part, be corrected by the third corollary of the third proposition, and the apparent diameters, if the correction could amount to any sensible quantity, by the 4th corollary.\n\nTHE proposition, I made mention of above for estimating the distance of the true conjunction from the visible, is this. Fig. 8. In any circle, whose diameter is AB, let the arch AC measure twice the complement of the declination of any point in the ecliptic CD; in like manner measure twice the complement of the latitude, and AD, BD being drawn, let DE be the versed sine of the distance in right ascension, of that point of the ecliptic from the meridian taken to a radius equal to the perpendicular let fall from C upon the chord AD; then BE will be the sine of the distance of the point assumed in the ecliptic from the horizon, to a radius equal to the diameter of the circle.\n\nTherefore, if the diameter of the circle be the measure, upon any scale of equal parts, of the moon's horizontal parallax, and the point taken in the ecliptic be 90° distant from the moon's apparent longitude; the right ascension and declination of this point being first taken from tables of right ascension and declination,\nnation, BE, found as above, will be the measure of the parallax in longitude, as assigned in the Coroll. to Prop. I. and if the point assumed in the ecliptic be 90° distant from the moon's true place, BE will approach near enough to that parallax for the purpose intended.\n\nAfter the same manner may the parallax in longitude be found for any other time assumed. Also if the arch AC be taken equal to twice the complement of the obliquity of the ecliptic, that is, BC equal to twice that obliquity, BE will be nearly equal to the parallax in latitude, provided DE be taken equal to the versed sine, to the like scale, as before, of the complement of the right ascension, of the point of the ecliptic on the meridian. And thus may be found the fittest interval of time for the three calculations of the parallaxes, &c. I have above proposed in general an hour; but in great eclipses it would be best to assume this interval something greater, and in small eclipses less.\n\nMoreover these constructions may be performed with very little trouble, any small sector being sufficient for the purpose.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106116.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 32698,
+    "total-output-tokens": 7873,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1013,
+        2
+      ],
+      [
+        1013,
+        2519,
+        3
+      ],
+      [
+        2519,
+        2519,
+        4
+      ],
+      [
+        2519,
+        2519,
+        5
+      ],
+      [
+        2519,
+        4106,
+        6
+      ],
+      [
+        4106,
+        5732,
+        7
+      ],
+      [
+        5732,
+        7181,
+        8
+      ],
+      [
+        7181,
+        8568,
+        9
+      ],
+      [
+        8568,
+        9917,
+        10
+      ],
+      [
+        9917,
+        11584,
+        11
+      ],
+      [
+        11584,
+        13240,
+        12
+      ],
+      [
+        13240,
+        14864,
+        13
+      ],
+      [
+        14864,
+        16560,
+        14
+      ],
+      [
+        16560,
+        18302,
+        15
+      ],
+      [
+        18302,
+        19667,
+        16
+      ],
+      [
+        19667,
+        21133,
+        17
+      ],
+      [
+        21133,
+        22933,
+        18
+      ],
+      [
+        22933,
+        24618,
+        19
+      ],
+      [
+        24618,
+        26232,
+        20
+      ],
+      [
+        26232,
+        27325,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106116",
+    "title": "Kepler's Method of Computing the Moon's Parallaxes in Solar Eclipses, Demonstrated and Extended to All Degrees of the Moon's Latitude, as Also to the Assigning the Moon's Correspondent Apparent Diameter, together with a Concise Application of This Form of Calculation to Those Eclipses; By the Late H. Pemberton, M. D. F. R. S. Communicated by Matthew Raper, Esq; F. R. S.",
+    "authors": "H. Pemberton, Matthew Raper",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/106116"
+  }
+}

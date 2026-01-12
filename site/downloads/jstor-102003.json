@@ -1,0 +1,59 @@
+{
+  "id": "a6250ab8a51780000a3256be44e5dceec1109f13",
+  "text": "At the end of the Treatise he shews the means of weighing up sunken Vessels, blowing up the Decks under Water, and taking out the Goods by means of the Diving Bell, &c.\n\nERRATA.\n\nNumb. 200. p. 748. l.14. r. at. p.749. l.12. r.atro. p.751. l.20. r. Plitetro-\nnites. l. 28. r. lapidis. l. 30. r. titulis. Numb. -201. in the engraved\nPlate of the Characters, No 2. l. 2. r. BACIAEON. p.784. l.12. r. considerable.\np.791. l.15. r. at Col. Coles.\n\nLONDON:\nPrinted for S. Smith and B. Walford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-yard, 1693.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102003.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 301,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        571,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102003",
+    "title": "Errata",
+    "authors": null,
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102003"
+  }
+}

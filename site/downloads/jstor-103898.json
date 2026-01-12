@@ -1,0 +1,69 @@
+{
+  "id": "2b592b6f2bb38207af41ee2426fe3200c43e2cf4",
+  "text": "The total Immersion of the Moon's Body into the Shadow\n\nThe Emerion\n\nThe End\n\nThis same Eclipse was observed Sept. 8, 1736, by Dr. Bevis at London, and he made the true Time of the total Immersion of the Moon's Body into the Shadow, 14 Hours, 2 Minutes, 25 Seconds; consequently the Difference of Longitude between London and North-Bear-Island in Hudson's-Bay, is 5 Hours, 19 Minutes, 25 Seconds, or 79 Degrees, 51 Minutes.\n\nIV. Eclipsis Solaris observata Londini, Sept. 23. 1736. à J. Bevis, M. D.\n\nTemp. App. P. M.\n\n4 12 35 Limbo Solis boreo filum parallelum PP decurrente, Limbus occidentalis attingit filum horarium HH.\n\n12 42 Maculaparvula prope Limbum boreum ad filum obliquam primum 1. pervenit.\n\n13 01 Macula ad filum horarium HH.\n\n13 20 Macula ad secundum filum obliquam 2.\n\n14 45\nTemp. App. P. M.\n\n14 45 Solis Limbus orientalis ad filum horarium. Deinde Nubes.\n\n45 41 Sole ex Nubibus emerso, Eclipse per Tubum incepta quidem, sed vix jam incepta cernitur.\n\n45 48 Inermi oculo trans vitrum coloratum adhuc imperceptibilis.\n\n46 00 Nunc autem sat sensibilis. Tunc Nubes.\n\n5 05 29 Limbo austrino, parallelum decurrentem, occidentalis Limbus ad horarium filum.\n\n05 41 Cuspis Solis Occidentalis ad horarium filum.\n\n07 05 Cuspis orientalis ad horarium.\n\n07 39 Limbus orientalis ad horarium. Tunc Sol usque ad occasum nubibus involutus est.\n\nInitium pono ad 4 Hor. 45 Min. 31 Sec. P. M.\n\nJ. Bevis.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103898.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 595,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        790,
+        2
+      ],
+      [
+        790,
+        1399,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103898",
+    "title": "Eclipsis Solaris Observata Londini, Sept. 23. 1736. á J. Bevis, M. D.",
+    "authors": "J. Bevis",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103898"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "8191725f1f3a79f17b8b4c56bf805caceab84d42",
+  "text": "The number of Plates in this volume is IX.\n\nERRATA\n\nVOL. LXVIII. PART II.\n\nPage Line\n1049. 12. for conducting, read non-conducting.\n\nVOL. LXIX. PART I.\n\n18. 19. for wetted with antimony, read heated with antimony.\n16. 15. for an ounce and a half, read a drachm and a half.\n24. 5. for 5 ounces 36 grains, read 5 drachms 36 grains.\n27. 4. for Zoolite, read Zeolite.\n30. 19. for tin, read fire.\n122. 10. for percurfio, read percussio.\n— 14. Idem.\n— 19. for percussionibus, read percussionibus.\n124. 15. for percursiones, read percussiones.\n126. 12. for percursione, read percussione.\n— 20. for percursionis, read percussionis.\n131. 14. for it may observed, read it may be observed.\n182. 2. for Stephens, read Stevens.\n243. last line of the English, for pea, read pen.\n\nVOL. LXIX. PART II.\n\n364. column the 4th, for Mr. de Luc's thermometer, read Mr. de Luc's rule.\n373. column the 6th, line the last, for 96, read 98.\nIbid. column the 7th, line the last, for o, read +0.2.\n380. 15. for open on both fides, read open at both ends.\n540. for working-needle, read sewing-needle, passim.\n\nINDEX.\n\n684. for Eric Prosperin, read Prosperin Eric.\n685. 22. for pistol to make it, read pistol with it.\n690. 16. for one for making, read one for firing.\n692. 30. for wetted, read melted.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106441.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 538,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1271,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106441",
+    "title": "Errata",
+    "authors": null,
+    "year": 1779,
+    "volume": "69",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106441"
+  }
+}

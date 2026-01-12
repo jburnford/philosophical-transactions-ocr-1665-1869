@@ -1,0 +1,59 @@
+{
+  "id": "be9c1bcbf28cf2bd635e0cac30ac34328d37e1c2",
+  "text": "Lecturer on Comparative Anatomy at St. Bartholomew's Hospital. Communicated by Richard Owen, Esq. F.R.S.\n\nXXIII. On the Ipoh or Upas Poison used by the Jacoons and other Aboriginal Tribes of the Malay Peninsula. By Lieut. T. J. Newbold, A.D.C. to Brigadier-General Wilson, C.B. Communicated by P. M. Roget, M.D. Sec. R.S.\n\nXXIV. Description of a new Barometer, recently fixed up in the Apartments of the Royal Society; with Remarks on the mode hitherto pursued at various periods, and an account of that which is now adopted, for correcting the observed height of the Mercury in the Society's Barometers. By Francis Baily, Esq., Vice-President and Treasurer R.S.\n\nIndex\n\nAPPENDIX.\n\nMeteorological Journal kept at the Apartments of the Royal Society, by order of the President and Council.\n\nERRATUM.\n\nIn announcing the Prize Questions for the Royal Medals to be given in the year 1838, as published in the Philosophical Transactions for 1835, Part II.; 1836, Parts I. and II.; and 1837, Part I.; for \"Physics\" read \"Mathematics.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108096.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 333,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1028,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108096",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1837,
+    "volume": "127",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108096"
+  }
+}

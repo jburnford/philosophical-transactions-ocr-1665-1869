@@ -1,0 +1,99 @@
+{
+  "id": "b02648ec9e55e4715a7e3b796a2f50f4e94a86a2",
+  "text": "It is call'd Infusion, when the Menstruum is either Water, Ale, or Wine; but a Tincture, when Brandy is employ'd;) and the best way to obtain the useful Particles of volatile, tenuious, or subtile Substances, is by Distillation. These may indeed be proper Ingredients for an Infusion or Tincture. But there are a great many fix'd Substances as improper for Distillation as the Volatile are improper for Extracts. Thus I have thought fit to shew the means of finding out the Virtues of Plants without dissolving their Texture: But if any has a mind rather to do it by the Chymical Analysis, this is not to dissuade them.\n\nX. An Account of a Book, Entituled, Geometria Organica, sive Descriptio Linearum Curvarum Universalis. Auctore Colino Mac Laurin, Matheseos in Collegio Novo Abredonensi Professore, & R. S. S.\n\nThe Design of this Treatise, is to examine the various Methods proposed by Mathematicians, for describing Geometric Curves; and at the same time to demonstrate a new one, infinitely more General than any hitherto published; built on those Theorems proposed by our Illustrious President, at the end of his Enumeration of the Lines of the Third Order.\n\nThe great Improvements that have been made by most of the other Modern Geometricians, have related chiefly to the Lines of the Infinite Order; they have been so fond of applying their new Methods to Mechanic and Exponential Curves, (which undoubtedly ought to give\ngive place to those that are more strictly Geometrical) that they have neglected to cultivate Geometry after the most regular manner. The Writers on these Subjects commonly rise at once, from considering the Lines of the Second Order, or Conic Sections, to those of the Infinite Order, overlooking all the intermediate Ranks. And hence it was, that all the Orders of Geometric Curves lay unregarded, without the known Limits of Geometry, besides the first two, and a few of the superior Curves that had been considered with some particular Views, till that great Author, by enumerating the Lines of the Third Order, enlarged the Bounds of Geometry, and enriched it with almost Seventy new Curves. Their Properties which he has given, and the manner of describing those of them that have a Punctum Duplex, have almost brought them on a Level with the Lines of the Second Order; which alone had long usurped the Place in Geometry.\n\nAfter this great Example, 'tis attempted in this Treatise, to give an universal Description of all Geometric Lines of the Third, or any Order whatsoever. But because the higher Kinds cannot be described but by means of the inferior Sorts, some of these must be postulated to describe those: And because straight Lines are the simplest and most easily described, and are always the same, that is, of one Sort, therefore it was thought proper to investigate of what use they alone might be, for describing Lines of all the higher Orders, in the First Part of this Treatise; an Abstract of which has been published in the Transactions for January and February last. I shall only add, that besides the Method of describing the Curves, the Manner of determining their Asymptotes and Species is also demonstrated; and the more simple Curves of every Order,\nare particularly considered as Examples of the Method. In the First Section the Lines of the Second Order are considered; in the Second, those of the Third Order, that have a *Punctum duplex*; in the 3d Section, the Lines of the Fourth Order, and those of the Third Order that have no *Punctum duplex*. In the last Section there are many various Methods of describing the Lines of any Order.\n\nIn the Second Part, the Curves of the inferior Orders are made use of for describing those of the higher kinds. In the First Section, the Theorems published by Sir Isaac Newton at the end of the Enumeration of the Lines of the Third Order are demonstrated. In the Second Section, Curves are substituted in the room of straight Lines, in all the Propositions of the First Part. From one of these Propositions, Lines of the 1024th Order may be described by making Angles move on seven Conick Sections; and by three Conick Sections more, Lines may be described above the 11,000th Order. Lastly, these Theorems are applied to shew how the more Complex of the Infinite Order, may be described from the more Simple.\n\nIn the Third Section, some other Methods of describing Curves are considered, that are not so general as the preceding, but give sometimes more simple Methods of describing some few Lines of the Superior Orders. Particularly the *Epicycloids* described by the Motion of any Curve, whether Geometric or not, upon another equal to it are easily constructed, and several Infinite Series of them rectified or measured by Arches of more simple Curves. In this Section, several other Descriptions of Curves are treated of, that have been proposed by others. In the last Section, to shew the use of Curves in Natural Philosophy, two of the most eminent Problems in Mathematical Philosophy are fol-\nved. In the first, the Centripetal Force, by which a Body describes any Curve, is investigated after an easy manner; and a simple Construction of all those Curves that a body would describe, if projected with the velocity it might acquire by falling from an infinite Height, in any Hypothesis of Gravity, is demonstrated. In the Second, 'tis found, that if any body describe a Curve in a resisting Medium, the Resistance is always as the Moment or Fluxion of a Quantity, that expresses the ratio of the Centripetal Force, to that Force by which it would describe the Curve in Vacuo, multiplied by the Fluxion of the Curve. 'Tis also demonstrated, that if a body describe any Curve in a resisting Medium, which in Vacuo could have been described by a Centripetal Force, proportional to any power of the Distance, the Density of that Medium will be reciprocally as the Part of the Tangent intercepted between the Point of Contact, and a Line perpendicular to the Radius at the Center of the Forces. This Theorem is applied to several Curves; and then the 10th Prop. of the Second Book of the Principles, and all its Examples, are demonstrated from it. These Propositions are treated of here, not only because they shew the use of Curves in Philosophy, but because more simple Ideas of the Descriptions of some Curves may be drawn from them, than from any other Method; and because this is the Method, by which Nature herself describes Curve Lines.\n\nThe whole is concluded by an attempt to draw a Line of any given Order, through any given Number of Points, that is sufficient to determine the Curve. Thus if a Curve of the Order $2m$ is to be described through as many Points, as determine a Line of the Order $m$, and three more Points, each of which are Nodes, formed by the concourse of as many Arches of the Curve, as there are Unites in $m$, then the Curve\nCurve is determined, and a Method how to describe it is demonstrated. This, and some other Theorems relating to the Number of Points that determine Curves, and the manner of describing them thro' these Points, conclude this Part.\n\nThis Book is Printed for William and John Innys, at the West End of St. Paul's Church Yard.\n\nERRATUM.\n\nP. 14. l. 5. For Calf read Cat.\n\nLONDON: Printed for W. and J. Innys, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church Yard. 1722.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103384.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9132,
+    "total-output-tokens": 1836,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1430,
+        2
+      ],
+      [
+        1430,
+        3211,
+        3
+      ],
+      [
+        3211,
+        5006,
+        4
+      ],
+      [
+        5006,
+        6866,
+        5
+      ],
+      [
+        6866,
+        7354,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103384",
+    "title": "An Account of a Book",
+    "authors": "Colino MacLaurin",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/103384"
+  }
+}

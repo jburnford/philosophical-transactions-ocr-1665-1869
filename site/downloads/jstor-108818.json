@@ -1,0 +1,59 @@
+{
+  "id": "d2e1e989ae03becf9a42e978c95c74900721a33a",
+  "text": "XIV. On the Calculus of Functions. By W. H. L. Russell, Esq., A.B. Communicated by Arthur Cayley, Esq., F.R.S. . . . . . . . . . . . . . . . . . . . 265\n\nXV. On the Difference in the Magnetic Properties of Hot-Rolled and Cold-Rolled Malleable Iron, as regards the power of receiving and retaining Induced Magnetism of Subpermanent Character. By George Biddell Airy, Astronomer Royal 273\n\nXVI. On the Relations of the Vomer, Ethmoid, and Intermaxillary Bones. By John Cleland, M.D., Demonstrator of Anatomy in the University of Edinburgh. Communicated by Professor Huxley, F.R.S. . . . . . . . . . . . . . . . . . . . 289\n\nXVII. On the Properties of Electro-deposited Antimony (concluded). By G. Gore, Esq. Communicated by Professor Stokes, Sec. R.S. . . . . . . . . . . . . . . . . . . . 323\n\nXVIII. The Bakerian Lecture.—On the Total Solar Eclipse of July 18th, 1860, observed at Rivabellosa, near Miranda de Ebro, in Spain. By Warren De La Rue, Esq., Ph.D., F.R.S., Hon. Sec. Royal Astron. Soc., Treas. Chem. Soc. &c. 333\n\nXIX. On a New Method of Approximation applicable to Elliptic and Ultra-elliptic Functions.—Second Memoir. By Charles W. Merrifield. Communicated by W. Spottiswoode, Esq., F.R.S. . . . . . . . . . . . . . . . . . . . 417\n\nXX. On Simultaneous Differential Equations of the First Order in which the Number of the Variables exceeds by more than one the Number of the Equations. By George Boole, F.R.S., Professor of Mathematics in Queen's College, Cork . . . . 437\n\nXXI. (I.) On the Dicynodont Reptilia, with a Description of some Fossil Remains brought by H.R.H. Prince Alfred from South Africa, November 1860. (II.) On the Pelvis of the Dicynodon. (III.) Notice of a Skull and parts of the Skeleton of Rhynchosaurus articeps. By Professor Owen, F.R.S. &c. . . . . . . . . . . . . . . . . . . . 455\n\nXXII. On the Differential Coefficients and Determinants of Lines, and their Application to Analytical Mechanics. By A. Cohen, Esq. Communicated by Professor Stokes, Sec. R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 469\n\nXXIII. A Supplement to Two Papers published in the Transactions of the Royal Society, “On the Science connected with Human Mortality;” the one published in 1820, and the other in 1825. By Benjamin Gompertz, F.R.S., F.R.A.S. &c. . . . . . . . . . . . . . . . . . . . 511\n\nXXIV. On Tschirnhausen’s Transformation. By Arthur Cayley, Esq., F.R.S. 561\n\nERRATA.\n\nPage 163, lines 2, 9, 13 (art. XLVII.), erase the word “non-polar.”\n\n— — line 7, for because read when.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108818.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 895,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2526,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108818",
+    "title": "Errata",
+    "authors": null,
+    "year": 1862,
+    "volume": "152",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108818"
+  }
+}

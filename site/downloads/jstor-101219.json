@@ -1,0 +1,69 @@
+{
+  "id": "2e69020bce0db19ef0ae03c635995bd7662f47ae",
+  "text": "The Contents.\n\nAn Advertisement concerning the Invention of the Transfusion of Blood.\nAn Account of some Experiments of Infusing Liquors into the Veins of Animals; As also of some new discoveries pretended to be made in the Brain and the Tongue. An Experiment upon Blood grown cold. Some Observations of Quicksilver found at the roots of Plants; and of Shells found upon in-land mountains; Other Observations made by a curious person in his Voyage from England to the Caribes, concerning the Rusting of Iron by the Sea-air; the Changes of Thames-water carried by sea; The Variety of the Colours of the Sea; The Burning of the same; the Night-winds in the Indies; The Relations of the Seasons of the year rectified; Observables about Tortoises; The condition of English bodies first coming to Jamaica; A way of preserving Ale as far as to the same Island. An Extract of a Letter concerning some Magnetical Experiments; and an Excellent Liquor made of Cyder-Apples and Mulberries. An Account of two or three Books; One, The HISTORY of the ROYAL SOCIETY: The other, DISQUISITIO DE FÆTU FORMATO, The third, MUSCULI DESCRIPTIO GEOMETRICA.\n\nAn Advertisement concerning the Invention of the Transfusion of Blood.\n\nTHE Author of these Papers returning now to his former Exercises, which by an extraordinary Accident he was necessitated to interrupt for some months last past, thought fit to comprise the Transactions of all the Months omitted in one Tract: In the very beginning of which he must inform the Reader, that if himself had published that Letter, which came abroad in July last Concerning a new way of curing sundry diseases by Transfusion of Blood, written to Monsieur de Montmor, &c. by J. Denis Prof. of Philosophy, &c., he should then have taken notice, as he doth now, of what\nis affirmed in that Letter about the time and place of the Conception of that Transfusing design; and intimated to the Curious, that how long soever that Experiment may have been conceived in other parts (which is needless to contest) it is notorious, that it had its birth first of all in England; some Ingenious persons of the Royal Society having first started it there, several years ago, (as appears by their Journal) and that dextrous Anatomist, Dr. Lower, reduced it into practice, both by contriving a method for the Operation, and by successfully executing the same: wherein he was soon overtaken by several happy Trials of the skilful hand of D. Edmund King, and others, encouraged thereunto by the said Society; which being notified to the world Numb. 19. and 20. of these Transactions, Print-Novem. 19. and Decemb. 17.1666; the Experiment was, soon after that time, heard of to have been tried in foreign parts, without hearing anything then of its having been conceived ten years ago.\n\nAn account of some Experiments of injecting Liquors into the Veins of Animals, lately made in Italy by Signior Fracassati Professor of Anatomy at Pisa.\n\n1. Having infused into the Jugular and Cervical Vein of a Dog some Aqua fortis diluted, the Animal died presently; and being opened, all the blood in the Vessels was fixed, but that in the guts not so well. It was also observed, that the great vessels were burst, perhaps by an effort of Nature; even as in the greatest part of those that die of an Apoplexy, the vessels of the Lungs are found broken. Upon which Experiment the Author maketh these Reflections: First, That an Apoplexy being often caused by a like Coagulation of the blood (as hath been observed by the opening, made of sundry persons, who died of that distemper) it might be cured by atimely infusing some Dissolvent into the veins. Secondly, That it is likely, that that useful secret, by which Monsieur de Billy dissected Animals without any effusion of blood, consists in some such Infusion.\n\n2. There was afterwards infused into another Dog some Spirit of Vitriol, which had not so present an effect; for the Animal complained a great while, and foam'd like Epilepticks, and had its respiration very thick; and observing the beating of his breast, one might easily judge, the Dog suffered much: who dying at last, his blood was found fixed in the veins, and grumous, resembling soot.\n\n3. Then there was injected into a Dog some Oyl of Sulphur: But he died not of it, though this Infusion was several times tried upon him, And the",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101219.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 1098,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1785,
+        2
+      ],
+      [
+        1785,
+        4337,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101219",
+    "title": "An Advertisement Concerning the Invention of the Transfusion of Bloud",
+    "authors": null,
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101219"
+  }
+}

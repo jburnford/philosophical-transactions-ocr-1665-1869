@@ -1,0 +1,69 @@
+{
+  "id": "30b81bf54190c27cf4394b4bc2cf5f1e0267050d",
+  "text": "XXVI. On the apparent magnetism of Metallic Titanium. By William Hyde Wollaston, M.D. V.P.R.S.\n\nRead June 19, 1823.\n\nIn an account that I lately gave of the properties of metallic Titanium, which is printed in the First Part of the Volume of the Philosophical Transactions for the present year, there is an oversight, which I am desirous of rectifying as soon as may be. I have there stated that the cubic crystals of Titanium, when first detached from the iron-slag where they are found, were all attracted by a magnet, but that when they had been freed from all particles of iron adherent to them, they appeared to be no longer acted upon by it.\n\nHaving since that time been led by the observations of M. Peschier of Geneva, to examine this question more accurately, I find that, although the crystals are not sufficiently attractile to be wholly supported by the magnet, yet when a crystal is supported by a fine thread, the force of attraction is sufficient to draw it about 20 degrees from the perpendicular, and consequently, that the force of attraction is equal to about one-third the weight of the metal.\n\nWhen a piece of soft iron of about the same size was made of a cubic form (weighing half a grain), the attractive force of the iron to the same magnet was found, in successive trials, to lift from eighty to ninety times its weight of a silver chain adapted to this inquiry.\nBy a similar mode of trial, I found that cobalt carried from fifty to sixty times its weight, and that a similar quantity of nickel supported from twenty to thirty times its own weight by the same magnet.\n\nFrom the above comparison of the magnetic forces, it is evident that the presence of about $\\frac{1}{25}$ part of iron as an alloy in the metallic Titanium, would be sufficient to account for this power, without regarding Titanium itself as a magnetic metal; and its origin in the midst of iron, gives every reason to suspect that it would be contaminated by some proportion of that metal.\n\nIt is, however, extremely difficult really to detect the presence of so small a proportion of iron, on account of the high colour of the precipitates of Titanium. For though it may be easy to produce an appearance of blue by using a prussiate, which already contains iron, and is consequently better adapted to prove the absence of iron where no blueness appears, than to ascertain its presence, it is by no means easy to obtain the more indisputable evidence of iron by infusion of galls. It is only by repeated evaporation of the muriatic solution, and continued exposure of the residuum to the temperature of boiling water, that I have succeeded in separating enough of the Titanium to allow the blackness of gallate of iron to appear, when the efflorescent edges of the dried salt are touched with infusion of galls.\n\nAlthough the quantity thus rendered sensible does not appear in proportion sufficient to account for the magnetic force observed, there seems more reason to ascribe it to this impurity, than to suppose Titanium possessed of that peculiar property in a degree so far inferior to the other known magnetic metals.\n\nMDCCCXXIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107657.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 753,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1389,
+        2
+      ],
+      [
+        1389,
+        3131,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107657",
+    "title": "On the Apparent Magnetism of Metallic Titanium",
+    "authors": "William Hyde Wollaston",
+    "year": 1823,
+    "volume": "113",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107657"
+  }
+}

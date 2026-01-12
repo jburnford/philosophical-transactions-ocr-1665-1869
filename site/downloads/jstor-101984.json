@@ -1,0 +1,59 @@
+{
+  "id": "1c70e6d2c747b75e56a74748fdfcc304edb5ecb4",
+  "text": "I. A Query put by Dr. N. Grew, concerning the Food of the Humming Bird; occasioned by the Description of it in the Transactions. Numb. 200.\n\nSIR,\n\nSince I shewed you the Description of the Humming Bird; with the Letter in which it came to me: I learn, that Mr. Hamersly of Coventry is the Author of it. You see it is believed he feeds on some Juice he sucks off, or out of Flowers. It was believed for a long while, that the Bird of Paradice had no Legs. Whether may not this Bird rather feed on small Insects, whereon many Birds feed, some whereof lie in the bottom of most Flowers, and for which, this Bird hath a Bill? Whereas a Bee that sucks hath a Siphon or hollow Probe. In short; the Bird should be open'd: And so it will appear, either that he hath Entrails fitted only for Liquids; or the same sort of Stomachs and Guts as other Birds, containing the same sort of solid Food.\n\nII. Some Observations made by Mr. Paschall, on the Motions of Diseases, and on the Births and Deaths of Men, and other Animals in different times of the Nuxthmeev.\n\nSome Months since I fell into a Suspicion, that the Causes of Tides at Sea do also continually exert their Power in other places, though the Effects thereof may",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101984.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 366,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1212,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101984",
+    "title": "A Query Put by Dr. N. Grew, concerning the Food of the Humming Bird; Occasioned by the Description of It in the Transactions. Numb. 200",
+    "authors": "N. Grew",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101984"
+  }
+}

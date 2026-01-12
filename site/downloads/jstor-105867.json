@@ -1,0 +1,59 @@
+{
+  "id": "657e702f00edec8951c1fe9c8282141854aad1d6",
+  "text": "ERRATA.\n\nP. 153, l. 23, for knew read know.\nP. 154, l. 10, for $9'' - 3'', 394$ read $9'' - 3'', 394$.\nP. 187, l. 24, for that the read that though the.\nl. 27, for with respect to obstructing read with respect to him in obstructing.\nP. 434, l. 21, for Eugubini read Iguvini.\n\nINDEX",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105867.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 189,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        281,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105867",
+    "title": "Errata",
+    "authors": null,
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105867"
+  }
+}

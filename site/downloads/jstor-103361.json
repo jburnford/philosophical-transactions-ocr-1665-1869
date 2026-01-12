@@ -1,0 +1,259 @@
+{
+  "id": "4d65ef15a83d7c51d6ceb01fa5d5d9c074f37a51",
+  "text": "tate facile perspecturus foret; jam vero, quoniam egregium illud Rei Medicæ Lumen amissimus, eadem aliis Eruditis perpendenda simul proponimus & dijudicanda. Tibi praesertim, Vir Doctissime, cujus auctoritatem & ille plurimi fecit, & nos praecipuam habemus, judici simul integerrimo & maxime idoneo, totam istam disputationem lubentissime subjicimus.\n\nIII. Methodus Differentialis Newtoniana Illustrata. Authore Jacobo Stirling, e Coll. Balliol. Oxon.\n\nArithmeticae pars praecipua consistit in inveniendâ in numeris quantitate quacunque determinatâ; cum vero quantitatum & numerorum natura non patiatur ut omnes quantitates exhibeantur in numeris accurate, necesse habemus ad Approximationes confugere. Hoc est, ubi quantitatum valores mathematice accurati nequeunt obtineri, quaerendi sunt ii qui ab accuratis distant minus datâ quavis differentiâ.\n\nQuicquid hâc de re à Veteribus ad nos pervenit, vel est particulare, ut Methodus eorum reducendi Æquationes Quadraticas; vel saltem usibus generalibus male destinatum, ut Methodus Exhaustionum. Vieta quidem primus erat qui aliquid generale in hâc arte asséquutus est: quippe invenit methodum reducendi Æquationes Rationales, quae solae tunc in usu erant. In hâc acquievêre omnes Geometræ ex ejus temporibus ulque ad ea Newtoni. Hic ex Interpolationibus primo pervenit ad Series: quas postea ad reductionem Æquationum omnium omnino generum universâliter applicuit. Hæc autem methodus procedit per quantitatum nascentium & evanescentium rationes primas & ultimas, seu si ita loqui liceat, per quantitatum coincidentium\ncidentium differentias infinite parvas. Sed & ulterius promovit Newtonus hanc methodum; docuitque qua ratione approximandum sit ad quantitates quae determinantur per regularem seriem terminorum, non per Aequationem ut vulgo sit. Atque sic posuit fundamenta calculi hujus Differentialis, qui procedit per quantitatum differentias cujuscunque magnitudinis: ideoque est methodo Serierum universalior. Per hase artes Newtonianas universa doctrina Approximationum reducitur ad solutionem Problematis, Invenire Lineam Geometricam qua per data quotcunque puncta transbit. Ex hujus inquam solutione inveniuntur radices Aequationum quarumcunque, & etiam quantitates quarum relationes ad alias datas per nullas Aequationes hactenus notas possunt exprimi. Existimo igitur Newtonum perduxisse methodum Approximandi ad summum perfectionis fastigium; dum ex unico simplicissimo principio totam hanc doctrinam longe lateque patentem deducit. Quapropter credendum est animum Newtoni non satis perspectum fuisse iis, qui ejus methodos appellant particulares, & alias tanquam suas & solas genuinas atque generales venditant, quae aliæ non erant quam Corollaria facillima à Newtonianis.\n\nAuthor noster, in Epistola ad Oldenburgum, Octob. 24. 1676. data, mentionem fecit de methodo expeditâ ducenti Lineam Parabolicam per data quotcunque puncta; qua dixit se usum fuisse ubi Series simplices non sunt satis tractabiles. Et hanc methodum primo publicavit in Lemmate quinto Libri tertii Principiorum. Atque in Lectionibus publicis, circa idem tempus quo dicta Epistola scripta est, Cantabrigiae habitis, exposuit modum generalem determinandi Curvas cujuscunque generis quae transibunt per totidem data puncta quae earum natura paritur. Hæ Lectiones sub titulo Arithmeticæ Universalis anno 1707. publicatæ sunt, ubi habetur\nbetter methodus exemplis illustrata in sectionibus Conicis. Anno vero 1711. tandem prodit, inter alios ejusdem Authoris tractatus, ipsa Methodus Differentialis plenius quam ante exposita, cum fundamento ejus demonstrato\n\nArchimedes in methodo Exhaustionum, Cavallerius in methodo Indivisibilium, & Wallisius noster in Arithmetica Infinitorum, posuerunt fundamenta doctrinæ de determinanda quantitate quaestâ per locum quem obtinet inter terminos in data Serie: at qua ratione approximandum est ad valores quantitatum sic determinatarum. horum nemo docuit; Hoc primus & solus perfecit Newtonus: atque exinde haud parum ampliata est universa Analysis. Nam sicut ante hoc inventum, ea Problemata Arithmetica sola pro solutis habebantur, ubi relatio quantitatis quaestæ ad alias datas definiebatur Æquatione, jam pro solutis habenda sunt non minus ea, in quibus quantitas quaesita locum datum fortitur inter terminos datæ Seriei; siquidem numeri desiderati non minus accurate obtinentur per Methodum Differentialem, quam per extractionem Radicum: hisce vero habitis, parum interest quomodo ad eos deventum est. Et experientia multiplex docuit, quod plurima Problemata ad Æquationes ægre deducuntur, dum ad methodum Differentialem facillime. Qualis est ex multis aliis toties decantata Circuli Quadratura; quam tam perfectam, mea opinione, Wallisius in Arithmetica Infinitorum exhibuit quam Archimedes illam Parabolæ.\n\nPropositio\nPropositio.\n\nInvenire Linæam Parabolicam que transibit per extrema Ordinatorum quotcunque æquidistantium.\n\nCasus Primus,\n\nDesignant A, A2, A3, A4, A5, A6, A7, A8, A9, &c. Ordinatas æquidistantes insistentes Abscisæ in dato angulo. Collige earum differentias B, B2, B3, B4, B5, B6, B7, B8, &c. harumque differentias C, C2, C3, C4, C5, C6, C7, &c. harumque differentias D, D2, D3, D4, D5, D6, &c. harumque differentias E, E2, E3, E4, E5, &c. harumque F, F2, F3, F4, &c. Et sic porro. Differentiæ autem colligi debent auferendo\nferendo priores semper de posterioribus. Hoc est ponendo $B = A_2 - A$, $B_2 = A_3 - A_2$, $B_3 = A_4 - A_3$, $B_4 = A_5 - A_4$, $B_5 = A_6 - A_5$, &c. Tum $C = B_2 - B$, $C_2 = B_3 - B_2$, $C_3 = B_4 - B_3$, $C_4 = B_5 - B_4$, &c. deinde $D = C_2 - C$, $D_2 = C_3 - C_2$, $D_3 = C_4 - C_3$, &c. Et similiter sunt omnes differentiae sequentes colligendae.\n\nVel sint $\\alpha, \\beta, \\gamma, \\delta, \\epsilon, \\zeta, \\eta$, &c. æquales $A, A_2, A_3, A_4, A_5, A_6, A_7$, &c. Eritque $A = \\alpha$, $B = \\beta - \\alpha$, $C = \\gamma - 2\\beta + \\alpha$, $D = \\delta - 3\\gamma + 3\\beta - \\alpha$, $E = \\epsilon - 4\\delta + 6\\gamma - 4\\beta + \\alpha$, $F = \\zeta - 5\\epsilon + 10\\delta - 10\\gamma + 5\\beta - \\alpha$, $G = \\eta - 6\\zeta + 15\\epsilon - 20\\delta + 15\\gamma - 6\\beta + \\alpha$, &c. In hisce valoribus numerales Coefficientes iplorum $\\alpha, \\beta, \\gamma, \\delta, \\epsilon$ &c. generantur ut in dignitatibus integris Binomii $x - z^0$, $1 - z^1$, $1 - z^2$, $1 - z^3$, $1 - z^4$, &c. Scribendo numeros $1, 2, 3, 4, 5$, &c. in Serie $1 \\times \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\frac{n-3}{4} \\times \\frac{n-4}{5}$ &c. successive pro $n$. Sit jam $PQ$ quælibet Ordinata reliquis intermedia, & $AP$ ejus distantia ab Ordinata prima $A$ appelletur $z$, tum erit\n\n$$PQ = A + B \\times \\frac{z}{1} + C \\times \\frac{z}{1} \\times \\frac{z-1}{2} + D \\times \\frac{z}{1} \\times \\frac{z-1}{2} \\times \\frac{z-2}{3} + E \\times \\frac{z}{1} \\times \\frac{z-1}{2} \\times \\frac{z-2}{3} \\times \\frac{z-3}{4} + F \\times \\frac{z}{1} \\times \\frac{z-1}{2} \\times \\frac{z-2}{3} \\times \\frac{z-3}{4} \\times \\frac{z-4}{5} + G \\times \\frac{z}{1} \\times \\frac{z-1}{2} \\times \\frac{z-2}{3} \\times \\frac{z-3}{4} \\times \\frac{z-4}{5} \\times \\frac{z-5}{6} + &c.$$\nAdeoque signum ipsius \\( z \\) mutandum est, quando \\( P \\) cadit ad alteras partes Ordinatæ primæ, ut \\( p q \\).\n\n**Casus Secundus.**\n\nSit jam \\( A_5 \\) Ordinata in medio omnium; pone \\( A = B_4 + B_5, B = D_3 + D_4, C = F_2 + F_3, D = H + H_2, \\&c. \\) &c. \\( a = C_4, b = E_3, c = G_2, d = I, \\&c. \\)\n\nid est, si sint \\( A_6 = \\alpha, A_7 = \\beta, A_8 = \\gamma, A_9 = \\delta, \\&c. \\)\n\n\\( A_4 = \\kappa, A_3 = \\lambda, A_2 = \\mu, A = \\nu, \\&c. \\) Pone \\( A = \\alpha - \\kappa, \\)\n\n\\( B = \\beta - 2\\alpha + 2\\kappa - \\lambda, C = \\gamma - 4\\beta + 5\\alpha - 5\\kappa + 4\\lambda - \\mu, \\)\n\n\\( D = \\delta - 6\\gamma + 14\\beta - 14\\alpha + 14\\kappa - 14\\lambda + 6\\mu - \\nu, \\&c. \\)\n\n\\( a = \\alpha - 2A_5 + x, b = \\beta - 4\\alpha + 6A_5 - 4x + \\lambda, \\)\n\n\\( c = \\gamma - 6\\beta + 15\\alpha - 20A_5 + 15x - 6\\lambda + \\mu, d = \\delta - 8\\gamma + 28\\beta - 56\\alpha + 70A_5 - 56x + 28\\lambda - 8\\mu + \\nu, \\&c. \\)\n\nEt dicatur \\( A_5P, z, \\) tum erit\n\n\\[ P = A_5 + \\frac{A_7 + az}{1 \\cdot 2} + \\]\n\n\\[ \\frac{2B_7 + bz}{1 \\cdot 2} \\times \\frac{z-1}{3 \\cdot 4} + \\]\n\n\\[ \\frac{3C_7 + cz}{1 \\cdot 2} \\times \\frac{z-1}{3 \\cdot 4} \\times \\frac{z-4}{5 \\cdot 6} + \\]\n\n\\[ \\frac{4D_7 + dz}{1 \\cdot 2} \\times \\frac{z-1}{3 \\cdot 4} \\times \\frac{z-4}{5 \\cdot 6} \\times \\frac{z-9}{7 \\cdot 8} + \\]\n\n\\[ \\frac{5E_7 + ez}{1 \\cdot 2} \\times \\frac{z-1}{3 \\cdot 4} \\times \\frac{z-4}{5 \\cdot 6} \\times \\frac{z-9}{7 \\cdot 8} \\times \\frac{z-16}{9 \\cdot 10} + \\]\n\n\\&c.\n\n**Casus Tertius.**\n\nSint jam \\( A_4, A_5, \\) Ordinatae duæ in medio omnium:\n\nPone \\( A = \\frac{A_4 + A_5}{2}, B = \\frac{c_3 + c_4}{2}, C = \\frac{E_2 + E_3}{2}, D = \\)\n\n\\[ 10A \\quad G + G_2 \\]\n\\[\n\\frac{G + G^2}{2}, \\text{ &c. } a = B_4, b = D_3, c = F_2, d = H, \\text{ &c.}\n\\]\n\nVel sint \\(A_5 = \\alpha, A_6 = \\beta, A_7 = \\gamma, A_8 = \\delta, \\text{ &c.}\\)\n\\(A_4 = \\kappa, A_3 = \\lambda, A_2 = \\mu, A = \\nu, \\text{ &c.}\\) Deinde crunt\n\\(2A = \\alpha + \\kappa, 2B = \\beta - \\alpha - \\kappa + \\lambda, 2C = \\gamma - 3\\beta + 2\\alpha + 2\\kappa - 3\\lambda + \\mu, 2D = \\delta - 5\\gamma + 9\\beta - 5\\alpha - 5\\kappa + 9\\lambda - 5\\mu + \\nu, \\text{ &c.}\\) Et \\(a = \\alpha - \\kappa, b = \\beta - 3\\alpha + 3\\kappa - \\lambda, c = \\gamma - 5\\beta + 10\\alpha - 10\\kappa + 5\\lambda - \\mu, d = \\delta - 7\\gamma + 21\\beta - 35\\alpha + 35\\kappa - 21\\lambda + 7\\mu - \\nu, \\text{ &c.}\\)\n\nEt fit \\(O\\) punctum medium inter \\(A_4, A_5\\), atque appelletur \\(OP, z\\); critque Ordinata\n\n\\[\nPQ = \\frac{A + a^2}{4} + \\\\\n\\frac{3B + b^2}{4} \\times \\frac{4z^2 - 1}{2 \\cdot 3} + \\\\\n\\frac{5C + c^2}{4} \\times \\frac{4z^2 - 1}{2 \\cdot 3} \\times \\frac{4z^2 - 9}{4 \\cdot 5} + \\\\\n\\frac{7D + d^2}{4} \\times \\frac{4z^2 - 1}{2 \\cdot 3} \\times \\frac{4z^2 - 9}{4 \\cdot 5} \\times \\frac{4z^2 - 25}{6 \\cdot 7} + \\\\\n\\frac{9E + e^2}{4} \\times \\frac{4z^2 - 1}{2 \\cdot 3} \\times \\frac{4z^2 - 9}{4 \\cdot 5} \\times \\frac{4z^2 - 25}{6 \\cdot 7} \\times \\frac{4z^2 - 49}{8 \\cdot 9} + \\text{ &c.}\n\\]\n\nIn hisce duobus etiam casibus \\(z\\) est negativa, quando Ordinata \\(PQ\\) cadit ad alteras partes initii Abscisae. Et in omnibus tribus casibus distantia communis Ordinarum ponitur unitas.\n\nOmnes tres casus demonstrantur facillime per calculum. In casu primo pro \\(PQ\\) scribo successive \\(\\alpha, \\beta, \\gamma, \\delta, \\varepsilon, \\text{ &c.}\\) & pro \\(z\\) interea \\(0, 1, 2, 3, 4, \\text{ &c.}\\) quae sunt longitudines Abscisae ordine sequentes; & provenient equationes\n\n\\[\nz = A, \\beta = A + B, \\gamma = A + 2B + C, \\delta = A + 3B + 3C + D, \\\\\n\\varepsilon = A + 4B + 6C + 4D + E, \\text{ &c.}\n\\]\n\\[\n\\begin{align*}\n\\beta - \\alpha &= B, \\\\\n\\gamma - \\beta &= B + C, \\\\\n\\delta - \\gamma &= B + 2C + D, \\\\\n\\varepsilon - \\delta &= B + 3C + 3D + E, &c.\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n\\gamma - 2\\beta + \\alpha &= C, \\\\\n\\delta - 2\\gamma + \\beta &= C + D, \\\\\n\\varepsilon - 2\\delta + \\gamma &= C + 2D + E, &c.\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n\\delta - 3\\gamma + 3\\beta - \\alpha &= D, \\\\\n\\varepsilon - 3\\delta + 3\\gamma - \\beta &= D + E, &c.\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n\\varepsilon - 4\\delta + 6\\gamma - 4\\beta + \\alpha &= E, &c.\n\\end{align*}\n\\]\n\nHæ æquationes, capiendo earum differentias, nullo labore resolvuntur, uti videre est. Et dant eosdem ipsorum \\(A, B, C, D, &c.\\) valores, qui antea positi sunt in solutione. Et ad eundem modum demonstrantur casus duo reliqui.\n\nHæcum trium serierum unaquæque converget ad valorem Ordinatæ \\(P Q\\), ubi Ordinarum datarum differentiæ sunt justæ magnitudinis. At ubi non convergent, aliæ artes adhibendæ sunt. Sed impræsentiarum de hujus Propositionis usu pauca adjiciamus.\n\nDesignent \\(a, b, y, \\delta, \\varepsilon, \\zeta, n, \\theta, x, \\lambda, &c.\\) terminos quoscunque æquidistantes, quorum differentiæ sunt perexiguæ; & relationes quas inter se obtinent definientur quamproxime per æquationes sequentes, quæ oriuntur capiendo differentias & differentias differentiarum continuò, & ponendo eas æquales nihilò.\n\n\\[\n\\begin{align*}\na - b &= 0 \\\\\na - 2b + y &= 0 \\\\\na - 3b + 3y - \\delta &= 0 \\\\\na - 4b + 6y - 4\\delta + \\varepsilon &= 0 \\\\\na - 5b + 10y - 10\\delta + 5\\varepsilon - \\zeta &= 0 \\\\\na - 6b + 15y - 20\\delta + 15\\varepsilon - 6\\zeta + n &= 0 \\\\\na - 7b + 21y - 35\\delta + 35\\varepsilon - 21\\zeta + 7n - \\theta &= 0 \\\\\na - 8b + 28y - 56\\delta + 70\\varepsilon - 56\\zeta + 28n - 8\\theta + x &= 0 \\\\\na - 9b + 36y - 84\\delta + 126\\varepsilon - 126\\zeta + 84n - 36\\theta + 9x - \\lambda &= 0 \\\\\n&c.\n\\end{align*}\n\\]\nHæc Tabula in usum reiervanda est, ut consultatur quoties opus sit. Qued autem hæ Æquationes vel ob-\ntinent accurate, vel ad verum approximant, ubi differ-\nentiæ terminorum sunt parvae, patet ex demonstratio-\nne casus primi Propositionis.\n\nAssumatur quælibet Series $\\frac{1}{101}$, $\\frac{1}{102}$, $\\frac{1}{103}$, $\\frac{1}{104}$, $\\frac{1}{105}$, $\\frac{1}{106}$, &c.\nEt quaeratur terminus qui stat proximus ante $\\frac{1}{101}$: patet\nquod ille est $\\frac{1}{100}$; videamus ergo quam hæc methodus\nexhibebit eundem. Representet æ terminum quaestum,\neritque\n\n\\[\n\\begin{align*}\n\\beta &= 0.099,0099,0099,0, \\\\\n\\gamma &= 0.098,0392,1568,7, \\\\\n\\delta &= 0.097,0873,7864,1, \\\\\n\\varepsilon &= 0.096,1538,4615,4, \\\\\n\\zeta &= 0.095,2380,9523,8, \\\\\n\\eta &= 0.094,3396,2264,2.\n\\end{align*}\n\\]\n\nPatet ergo quod hæc methodus continue approxi-\nmat. Si terminorum differentiæ fuissent minores, va-\nlores accessisset citius ad verum, & contra tardius\nquando differentiæ sunt majores. Hinc si in Tabulis\nnumericis desit terminus, potest is per hanc methodum\ninseri.\n\nHoc modo etiam prodeunt ipsissimæ Series Speciosæ, quæ\nper alias methodos prodire solent. Proponatur $1 + zz^{-1}$\nOrdinata Curvæ quadrandæ: Ea est prima in serie regu-\nlari $1 + zz^{-1}$, $1 + zz^0$, $1 + zz^1$, $1 + zz^2$, $1 + zz^3$, &c.\nOrdinarum, quæ omnes præter primam dant suas\nareas $z$, $z + \\frac{1}{3} z^3$, $z + \\frac{1}{3} z^3 + \\frac{1}{5} z^5$, $z + \\frac{1}{3} z^3 + \\frac{1}{5} z^5 + \\frac{1}{7} z^7$,\n&c., constituentes novam seriem cujus primus terminus\nerit Area quaestæ: quæ ideo invenietur ponendo pro\n$\\alpha$, &c. pro reliquis in suo Ordine $\\beta$, $\\gamma$, $\\delta$, $\\varepsilon$, &c. Pri-\nma Æquatio dat $\\alpha = z$, secunda $\\alpha = z - \\frac{1}{3} z^3$, tertia\n$\\alpha = z - \\frac{1}{3} z^3 + \\frac{1}{5} z^5$, quarta $\\alpha = z - \\frac{1}{3} z^3 + \\frac{1}{5} z^5 - \\frac{1}{7} z^7$,\n&c.\n&c. Est ergo universim area quæ sita \\( z - \\frac{1}{3} z^3 + \\frac{1}{5} z^5 - \\frac{1}{7} z^7 + \\frac{1}{9} z^9 - \\frac{1}{11} z^{11} &c. \\). Estque hæc Series arcus ad Tangentem \\( z \\), in circulo radius habente unitati æqualem. Eam invenit Jacobus Gregorius noster, & cum Collinio communicavit initio anni 1671. à quo, mediante Ol denburgho ad Leibnitium delata est.\n\nSit jam &c., e, d, c, b, a, P, α, β, γ, δ, ε, &c. Series utrinque excurrens in infinitum, ubi dantur omnes termini præter \\( P \\) in medio omnium. Sit \\( A = \\alpha + a \\), \\( B = \\beta + b \\), \\( C = \\gamma + c \\), \\( D = \\delta + d \\), \\( E = \\varepsilon + e \\), &c. atque erit\n\n\\[\nP = \\frac{A}{2} + \\frac{A-B}{6} + \\frac{5A-8B+3C}{60} + \\frac{7A-14B+9C-2D}{140} + \\frac{42A-96B+81C-32D+5E}{1260} + \\frac{66A-165B+165C-88D+25E-3F}{2772} + \\frac{429A-1144B+1287C-832D+325E-72F+7G}{24024} + &c.\n\\]\n\nInvestigatur hæc Series ex Æquationibus, excerptendo alternas in quibus numerus terminorum est impar. Nam earum differentiæ relinquent terminos in hac Serie; quæ itaque ad libitum produci potest.\n\nSit \\( 1 + |z|^{-1} \\) Ordinata Hyperbolæ, & quæratur Area ejus quæ jacet supra Abscissam \\( z \\), quando ca evadit unitas. Hæc Ordinata est media in Serie Ordinatarum\nrum, &c. \\( \\frac{1}{1+z}, \\frac{1}{(1+z)^2}, \\frac{1}{(1+z)^3}, \\frac{1}{(1+z)^4}, \\frac{1}{(1+z)^5} \\) &c. æquidistantium, hinc inde excurrente in infinitum. Adeoque Areae ab hisce Ordinatis genitae constituent seriem consimilem, cujus medius terminus est Area quaestula; quæ proinde obtinebitur per Seriem modo expolitam. Quando \\( z \\) est unitas, ut in casu praesente, areae curvarum evadunt &c., \\( \\frac{1}{19}, \\frac{1}{8}, \\frac{1}{3}, \\frac{1}{2}, \\frac{1}{4}, \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\&c. \\) Hinc est \\( A = \\frac{1}{1 + \\frac{1}{2}} \\), \\( B = \\frac{1}{\\frac{3}{2}} + \\frac{1}{\\frac{5}{4}} = \\frac{7}{8}, C = \\frac{1}{\\frac{7}{4}} + \\frac{1}{\\frac{7}{6}} = \\frac{11}{8}, D = \\frac{1}{\\frac{15}{16}} + \\frac{1}{\\frac{15}{16}} = \\frac{29}{16}, \\&c. \\) Hisce in Serie substitutis, prodit \\( P \\), id est, area Hyperbolæ, \\( \\frac{3}{4} - \\frac{3}{48} + \\frac{3}{48} - \\frac{3}{448} + \\&c. \\) id est, \\( \\frac{3}{4} - \\frac{A}{4} + \\frac{2B}{4} - \\frac{3C}{4} + \\frac{4D}{4} - \\frac{5E}{11} - \\&c. \\) Ubi jam \\( A, B, C, D, \\&c. \\) more Newtoniano, designant terminos in suo ordine ab initio. Calculum appono.\n\n**TERMINI.**\n\n| Affirmativi | Negativi |\n|-------------|----------|\n| 7500,0000,0000,0000,0 | 0625,0000,0000,0000,0 |\n| 62,5000,0000,0000,0 | 6,6964,2857,1428,5 |\n| 7440,4761,9047,6 | 845,5086,5800,8 |\n| 97,5586,9130,8 | 11,3818,4731,9 |\n| 1,3390,4086,1 | 1585,7062,3 |\n| 188,7745,5 | 22,5708,7 |\n| 2,7085,0 | 3260,2 |\n| 393,4 | 47,5 |\n| 5,7 | 7 |\n| +7563,2539,3930,7494,1 | -0631,7821,3370,8041,1 |\n\nSummam negativam subducens ab affirmativâ, habeo pro Area, id est, pro Logarithmo Hyperbolico Binarii, numerum 6931,4718,0559,9453.\nPro constructione Tabularum quarumvis numerica-\nrum percommoda est Series quae sequitur. Designent\n&c. e, d, c, b, a, α, ζ, γ, δ, ε, &c. terminos alternos in\nSerie utrinque serpente in infinitum; Pone A = α + a,\nB = ζ + b, C = γ + c, D = δ + d, E = ε + e, &c.\nEt terminus inter α & a erit\n\n\\[ \\frac{A}{2} + \\]\n\n\\[ \\frac{1}{1} \\times \\frac{A - B}{2^4} + \\]\n\n\\[ \\frac{1}{1 \\cdot 3} \\times \\frac{2A - 3B + C}{2^7} + \\]\n\n\\[ \\frac{1}{1 \\cdot 3 \\cdot 5} \\times \\frac{5A - 9B + 5C - D}{2^{10}} + \\]\n\n\\[ \\frac{1}{1 \\cdot 3 \\cdot 5 \\cdot 7} \\times \\frac{14A - 28B - 20C - 7D + E}{2^{13}} + \\]\n\n\\[ \\frac{1}{1 \\cdot 3 \\cdot 5 \\cdot 7 \\cdot 9} \\times \\frac{42A - 90B + 75C - 35D + 9E - F}{2^{16}} + \\]\n\n\\[ \\frac{1}{1 \\cdot 3 \\cdot 5 \\cdot 7 \\cdot 9 \\cdot 11} \\times \\frac{122A - 297B + 275C - 154D - 54E - 11F + G}{2^{19}} + \\]\n\n&c.\n\nHæc Series sequitur ex casu tertio Propositionis,\nponendo z = 0. Coefficientes numerales literarum sic\nproducuntur; exempli gratiâ, in quarto termino coe-\nfficiens literæ penultimæ C est 5; pone 5 + 1 = n, &\nnumeri qui proveniunt ex multiplicatione terminorum\n\n\\[ 1 \\times \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\frac{n-3}{4} \\times \\frac{n-4}{5} \\times &c. \\text{ crunt } 1, 6, 15, 20, \\]\n&c. Horum differentiæ 5, 9, 5, sunt numeri quæsiti.\nArque adeo Series ad libitum produci potest.\n\nDatis Logarithmis numerorum 46, 48, 50, 52, 54,\n56, 58 &c.; invenire Logarithmum numeri 53, qui\nconsistit in medio omnium. Pone l, 52 + l, 54 = A =\n3,4483,9710,34, l, 50 + l, 56 = B = 3,4471,5803,13.\nl, 48\n\\[ l_{48} + l_{58} = C = 3,4446.6923.08, \\quad l_{46} + l_{60} = D = 3,4409.0908.19. \\] Hisce valoribus in Serie scrip-\ntis, primi quattuor termini dabunt \\(1,7242,2586,96\\) pro Logarithmo numeri 53. Et eadem ratione invenire licet quemvis alium intermedium.\n\nIn Constructione ergo Tabularum sufficit primo qua-\ntere aliquos terminos in debitis distantiiis nam reli-\nqui possunt hoc modo interseri. Etenim continuo\nfunt intercalandi termini primo inventi. usque dum\nperventum fuerit ad ultimos qui desiderantur. Hoc\nmodo habebitur tota Tabula ex datis paucis terminis\nubi initio pro fundamento operationis. Sed non con-\nvenit ut termini quos primo quærimus, sint omnes per\ntotam Tabulam æquidistantes; nam si omittimus al-\nternos ubi eorum differentia est maxima, possimus ali-\nbi per saltum omittere duos, tres, viginti aut forte\nplures terminos. Numerus autem terminorum inter\nduos datos consistentium, qui omittuntur, debet sem-\nper esse aliquis sequentium \\(1, 3, 7, 15, 31, 63, \\&c.\\)\ndummodo volumus inferere eos per hanc Seriem; hoc\nvero neuriquam incommodabit opus.\n\nPossunt autem pro Praxi termini in unam summam\ncolligi, ut factum vides in hac Tabella. Prima expressio\nest primus terminus; secunda est summa primi & secun-\ndi; tertia est summa primi, secundi & tertii: & sic porro.\n\n\\[\n\\begin{array}{c|c}\n2 & A \\\\\n\\hline\n4 & 9A - B \\\\\n\\hline\n6 & 150A - 25B + 3C \\\\\n\\hline\n8 & 1225A - 245B + 49C - 5D \\\\\n\\hline\n10 & 39690A - 8820B + 2268C - 305D + 35E \\\\\n\\end{array}\n\\]\n\nSic\nSic datis aliquibus terminis alternis, intermedii confestim dabuntur per hæc expressiones, nullâ ratione habitâ naturæ Tabulae particularis. Nam hæ regulæ sunt eadem in omnibus. Areae curvarum sunt proxime æquales areae Parabolicæ figuræ quae transit per extrema Ordinatarum suarum. Sed quoniam laboriosum nimis esset semper recurrere ad Parabolam, computavi Tabulam sequentem, qua Areae directe exhibentur ex datis Ordinatis.\n\n\\[\n\\begin{align*}\n1 & \\quad \\frac{4}{1} R \\\\\n3 & \\quad \\frac{4 + 4B}{6} R \\\\\n5 & \\quad \\frac{7A + 32B + 12C}{90} R \\\\\n7 & \\quad \\frac{41A + 216B + 27C + 272D}{840} R \\\\\n9 & \\quad \\frac{989A + 5888B - 928C + 10496D - 4540E}{28350} R \\\\\n11 & \\quad \\frac{16067A + 106300B - 48525C + 272400D - 260550E + 427368F}{598752} R.\n\\end{align*}\n\\]\n\nHic numerus Ordinatarum est impar, \\( A \\) est summa primæ & ultimæ, \\( B \\) secundæ & penultimæ, \\( C \\) tertiaræ & antepenultimæ; & sic porro, usque dum deventum sit ad eam in medio omnium, quæ per ultimam literam in quâque expressione repræsentatur. \\( R \\) est basis seu pars Abscisæ inter primam & ultimam Ordinatam intercepse. Expressiones sunt Areae contentæ inter Curvam, basin & Ordinatas hinc inde extremas. Tabulam pro pare numero Ordinatarum non apposui, quoniam Areae cæteris paribus ex impare earum numero accuratius definitur.\n\nQuæratur area quæ generatur ab Ordinatâ \\( 1 + zz \\) & jacet supra Abscisam \\( z \\) quando ea evadit unitas. In\n\\[ r + zz^{-1} \\text{ pro } z \\text{ scribe } \\frac{1}{10}, \\frac{2}{10}, \\frac{3}{10}, \\frac{4}{10}, \\frac{5}{10}, \\frac{6}{10}, \\frac{7}{10}, \\frac{8}{10}, \\frac{9}{10}, \\frac{10}{10}; & \\]\nprodibunt undecim Ordinatæ \\( r, \\frac{100}{100}, \\frac{25}{100}, \\frac{100}{100}, \\frac{25}{100}, \\frac{4}{5}, \\frac{25}{5}, \\frac{100}{5}, \\frac{25}{149}, \\frac{100}{49}, \\frac{25}{183}, \\frac{1}{2}. \\)\nHinc est \\( A = 1 + \\frac{1}{2} = \\frac{3}{2}, B = \\frac{100}{101} + \\frac{100}{181} = \\frac{28101}{18281}, \\)\n\\( C = \\frac{25}{25} + \\frac{25}{41} = \\frac{1675}{1066}, D = \\frac{100}{109} + \\frac{100}{149} = \\frac{25800}{16241}, E = \\frac{25}{29} + \\frac{25}{34} = \\frac{1575}{986}, \\)\n\\( F = \\frac{4}{5}. \\)\nHisce valoribus substitutis in ultimâ expressione, & unitate pro \\( R, \\) invenies aream esse 785398187.\nJustus est hic numerus in septimâ figurâ, in octavâ verum superans Binario.\n\nSi undecim Ordinatæ non dent aream satis exactam, erige plures; & concipe aream divisam esse in plures partes, quarum quamque scorsum quaerens habebis pro lubitu justam.\n\nValor ipsius \\( r + Q^n \\) exprimi potest per quamcunque trium serierum sequentium.\n\n\\[\nr + Q^n = 1 + \nQ \\times \\frac{n}{1} + \nQ^2 \\times \\frac{n}{1} \\times \\frac{n-1}{2} + \nQ^3 \\times \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} + \nQ^4 \\times \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\frac{n-3}{4} + \nQ^5 \\times \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} \\times \\frac{n-3}{4} \\times \\frac{n-4}{5} + &c.\n\\]\n\nVel \\( r + Q^n = 1 + \nR \\times \\frac{n}{1} + \nR^2 \\times \\frac{n}{1} \\times \\frac{n+1}{2} + \nR^3 \\times \\frac{n}{1} \\times \\frac{n+1}{2} \\times \\frac{n+2}{3} + \nR^4 \\times \n\\]\n\\[ R^4 \\times \\frac{n}{1} \\times \\frac{n+1}{2} \\times \\frac{n+2}{3} \\times \\frac{n+3}{4} + \\]\n\\[ R^5 \\times \\frac{n}{1} \\times \\frac{n+1}{2} \\times \\frac{n+2}{3} \\times \\frac{n+3}{4} \\times \\frac{n+4}{5} + &c. \\]\n\nposito scilicet \\( R = \\frac{1+Q}{Q} \\). Vel\n\n\\[ 1 + Q^1 = 1 + \\]\n\\[ \\frac{2+n+1\\times Q}{1+Q^1} \\times Q \\times \\frac{n}{1.2} + \\]\n\\[ \\frac{4+n+2\\times Q}{1+Q^2} \\times Q^3 \\times \\frac{n}{1.2} \\times \\frac{nn-1}{3.4} + \\]\n\\[ \\frac{6+n+3\\times Q}{1+Q^3} \\times Q^5 \\times \\frac{n}{1.2} \\times \\frac{nn-1}{3.4} \\times \\frac{nn-4}{5.6} + \\]\n\\[ \\frac{8+n+4\\times Q}{1+Q^4} \\times Q^7 \\times \\frac{n}{1.2} \\times \\frac{nn-1}{3.4} \\times \\frac{nn-4}{5.6} \\times \\frac{nn-9}{7.8} + \\]\n\\[ \\frac{10+n+5\\times Q}{1+Q^5} \\times Q^9 \\times \\frac{n}{1.2} \\times \\frac{nn-1}{3.4} \\times \\frac{nn-4}{5.6} \\times \\frac{nn-9}{7.8} \\times \\frac{nn-16}{9.10} + &c. \\]\n\nPrimae duæ Series demonstrantur per Casum primum Propositionis Nam si \\( 1 + Q^0, 1 + Q^1, 1 + Q^2, 1 + Q^3, 1 + Q^4, &c. \\) designent Ordinatas totidem æquidistantes in Paraboliæ figurâ. erit \\( 1 + Q^n \\) ejusdem Ordinata, cujus distantia à \\( 1 + Q^0 \\) est \\( n \\). Et sic prodit Series prima. At si in alia Parabola \\( 1 + Q^0, 1 + Q^{-1}, 1 + Q^{-2}, 1 + Q^{-3}, 1 + Q^{-4}, &c. \\) sint æquidistantes Ordinatæ, erit \\( 1 + Q^n \\) Ordinata in eadem, cujus distantia à \\( 1 + Q^0 \\) est \\(-n\\); sic proveniet Series secunda Sit jam in tertia Parabola &c. \\( 1 + Q^{-4}, 1 + Q^{-3}, 1 + Q^{-2}, 1 + Q^{-1}, 1 + Q^0, 1 + Q^1, 1 + Q^2, 1 + Q^3, 1 + Q^4, &c. \\) Series Ordinarum\næquidistantium hinc inde progrediens in infinitum,\neritque in eadem \\(1 + \\frac{2}{n}\\) Ordinata, distantiâ \\(n\\) à ter-\nmino medio \\(1 + \\frac{2}{n}\\) remota. Et sic provenit Series\ntertia per Casum Secundum Propositionis. Prima ab-\nrumpit quando est \\(n\\) integer & affirmativus, secunda\nquando est \\(n\\) integer & negativus, & tertia in casu utro-\nque abrumpit. Per harum quamque radices numera-\nles commode evolvuntur in Series. Tertia reliquis mul-\nto citius convergit: ejus terminus secundus adhiberi\npotest pro correctione, ubi fit extractio per repetitio-\nnem calculi.\n\n_Halleius_ in sua methodo construendi Logarithmos,\nex prima harum serierum demonstrat Seriem _Mercato-\nris_ pro Quadratura Hyperbolæ. Sit ejus Ordinata\n\\(1 + z^{n-1}\\), vel \\(1 + z^{n-1}\\), existente \\(n\\) numero infinite parvo;\nunde per methodos Quadrandi, area quæ jacet supra\nAbscissam \\(z\\), id est, Logarithmus numeri \\(1 + z\\), erit\n\\(\\frac{1 - z^n}{n}\\). Est vero per primam Seriem \\(1 + z^n = 1 +\n\\frac{n}{1}z + \\frac{n}{2} \\times \\frac{n-1}{2}z^2 + \\frac{n}{3} \\times \\frac{n-1}{3} \\times \\frac{n-2}{3}z^3 + \\&c.\\) adeoque\nin casu praesente, ubi est \\(n\\) infinite parvus, est \\(\\frac{1 - z^n}{n}\\)\n\\(= 1 + \\frac{n}{1}z - \\frac{n}{2}z^2 + \\frac{n}{3}z^3 - \\frac{n}{4}z^4 + \\&c.\\) quo substitu-\nto in valore areæ, ea prodit \\(z - \\frac{1}{2}z^2 + \\frac{1}{3}z^3 - \\frac{1}{4}z^4 + \\frac{1}{5}z^5 - \\&c.\\) quæ est Series _Mercatoris_.\n\nSimiliter per Seriem secundam prodit hæ regula;\nSit datus numerus \\(1 + z\\), pone \\(R = \\frac{z}{1 + z}\\), eritque ejus\nLogarithmus \\(R + \\frac{1}{2}R^2 + \\frac{1}{3}R^3 + \\frac{1}{4}R^4 + \\&c.\\).\n\nPer Seriem tertiam provenit sequens regula. Sit\nquiliber numerus \\(R\\), pone \\(z = \\frac{R - 1}{2R}\\), eritque ejus Lo-\ngarithmus\ngarithmus $\\frac{RR-1}{2R} - \\frac{1}{3} Az - \\frac{2}{5} Bz - \\frac{3}{7} Cz - \\frac{4}{9} Dz - \\frac{5}{11} Ez$ &c. Ubi $A, B, C, D, E, &c.$ more Newtoniano designant terminos Seriei sicut ab initio. Hæc Series, ut ea ex qua deducitur, reliquis duabus multis vicibus celebrius approximat: estque eadem generalius expressa quam, ex fundamento haud absimili, pro inventione Logarithmi Binarii prius dedimus.\n\nMethodus inveniendi valores Serierum Arithmeticarum utcunque tarde convergentium.\n\nIn aliquibus Seriebus summa terminorum haberi nequit nisi ad paucissima figurarum loca, dummodo praeter simplicem eorum additionem aliæ artes non adhibentur. Proponatur jam Series quælibet cujus termini omnes iisdem signis afficiuntur, & quorum proximi continue tendunt esse inter se æquales; quales sunt sequentes $\\frac{1}{1 \\cdot 2} + \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 6} + \\frac{1}{7 \\cdot 8} + &c.$ $1 + \\frac{1}{4} + \\frac{1}{9} + \\frac{1}{16} + \\frac{1}{25} + &c.$ Collige summam aliquot terminorum subinitio, ii proxime addendi sint $\\alpha, \\beta, \\gamma, \\delta, \\varepsilon, \\zeta, &c.$ In numeris proximis sit $r = \\frac{\\alpha y - \\beta \\beta}{\\alpha \\beta - 2 \\alpha y + \\beta y}$, & quantitatum $\\alpha \\times \\frac{\\alpha + r \\beta}{\\alpha - \\beta}, \\alpha + \\beta \\times \\frac{\\beta + r \\gamma}{\\beta - \\gamma}, \\alpha + \\beta + \\gamma \\times \\frac{\\gamma + r \\delta}{\\gamma - \\delta}, \\alpha + \\beta + \\gamma + \\delta \\times \\frac{\\delta + r \\varepsilon}{\\delta - \\varepsilon}, \\alpha + \\beta + \\gamma + \\delta + \\varepsilon \\times \\frac{\\varepsilon + r \\zeta}{\\varepsilon - \\zeta}, &c.$ differentiæ sint $a, b, c, d, e, &c.$ Deinde in numeris proximis sit $s = \\frac{ac - bb}{ab - 2ac + bc}$, & ipsorum $a \\times \\frac{a + sb}{a - b}, a + b \\times \\frac{b + sc}{b - c}, a + b + c \\times \\frac{c + sd}{c - d}, a + b + c + d \\times \\frac{d + se}{d - e}, &c.$ differentiæ sint $A, B, C, D, &c.$ & sit $t = \\frac{AC - BB}{AB - 2AC + BC}$: atque sic procede.\ncede quoad libuerit. Tum crit \\( \\alpha + \\beta + \\gamma + \\delta + \\varepsilon + \\&c. = \\alpha \\times \\frac{a+r\\beta}{a-\\beta} + a \\times \\frac{a+s\\beta}{a-b} + A \\times \\frac{A+B}{A-B} + \\&c. \\) atque ultra duos primos terminos hujus novae Seriei ratio opus erit progredi.\n\nUt si desideretur valor Seriei \\( \\frac{1}{1.2} + \\frac{1}{3.4} + \\frac{1}{5.6} + \\frac{1}{7.8} + \\&c. \\) collige primos 21 terminos, quorum summam reperio fore 6813.8410,1885. Termini proxime addendi sunt \\( \\alpha = 0005,2854,1226, \\beta = 0004,8309,1787, \\gamma = 0004,4326,2411, \\delta = 0004,0816,3265, \\&c. \\). Hinc fit \\( r = 1 \\) proxime, & \\( \\alpha \\times \\frac{a+r\\beta}{a-\\beta} = 0117,6449,6282, \\)\n\n\\( a = -0000,0017,5096, b = -0000,0014,7410, \\)\n\n\\( c = -0000,0012,4986, \\&c. \\) Unde \\( s = \\frac{1}{2} \\) prope, &\n\n\\( a \\times \\frac{a+s\\beta}{a-b} = -0000,0141,8111, \\) quem propter signum negativum subduco ab \\( \\alpha \\times \\frac{a+r\\beta}{a-\\beta}, \\) & remanet, 0117,6307,\n\n8171: hic additus summa primo inventae 6813,8410,1885, dat pro summa totius Seriei numerum 6931,4718,0056, qui justus est in nonâ decimali; at ante duas halce correctiones summa erat justa in primâ figura solâ. Si animus sit proprius scopum attingere, pergendum erit ad approximationes sequentes. Si termini Seriei diversa habeant signa, conjungendi sunt, ut omnes eadem tandem habeant, ut in Serie \\( \\frac{1}{1} + \\frac{1}{2} + \\frac{1}{3} + \\frac{1}{4} + \\frac{1}{5} + \\&c. \\) conjunctis terminis ea evadit \\( \\frac{2}{1.3} + \\frac{2}{5.7} + \\frac{2}{9.11} + \\frac{2}{13.15} + \\&c. \\) Sed hic notandum est quod differentiae \\( a, b, c, d, e, \\&c. \\) ut & \\( A, B, C, D, \\&c. \\) colligi debent subducendo quantitates antecedentes de subsequentibus. Et in omnibus hujusmodi Seriebus si \\( p, q, r, \\) repræsentent tres terminos ordine sequentes, \\( p \\) primum,\nmum, q secundum, r tertium, & rectangulum \\( \\frac{p+r}{2} \\times q \\)\n\nnon sit majus pr, valor Seriei erit infinite magnus: at magnitudinis semper finitae ubi accidit contrarium.\n\nPoteat hæc regula nonunquam fallere, ubi termini p, q, r parum distant ab initio Seriei, at si consistant inter eos ab initio aliquantum remotos, evadet regula certissima.\n\nAd alia Serierum genera debent aliæ regulæ adhiberi. Sit Series regularium Polygonorum Circulo Incipiorum, existente Radio unitate.\n\n\\[\n\\begin{align*}\nH &= 2,000,000,000,000 \\\\\nG &= 2,8284,2712,4746,190 \\\\\nF &= 3,0614,6745,8920,718 \\\\\nE &= 3,1214,4515,2258,651 \\\\\nD &= 3,1365,4849,0545,938 \\\\\nC &= 3,1403,3115,6954,752 \\\\\nB &= 3,1412,7725,0932,772 \\\\\nA &= 3,1415,1380,1144,299\n\\end{align*}\n\\]\n\nDicatur jam ultimum Polygonum A, penultimum B, antepenultimum C, & reliqua in suo ordine retrosum D, E, F, &c. atque area Circuli quæsita erit \\( A + \\frac{A-B}{3} \\)\n\n\\[\n\\begin{align*}\n&+ \\frac{4A-5B+C}{3 \\cdot 15} + \\frac{64A-84B+21C-D}{3 \\cdot 15 \\cdot 63} \\\\\n&+ \\frac{4096A-5440B+1428C-85D+E}{3 \\cdot 15 \\cdot 63 \\cdot 255} + &c.\n\\end{align*}\n\\]\n\nUbi si pro A, B, C, D, E, &c. scribantur proprii valores, primi quatuor termini dabunt 3,1415,9265,3589,790 pro area Circuli.\n\nHæc autem Series est generalis, ex natura Circuli nequitiam dependens: applicabilis est quotiescumque numerorum approximantium differentiæ priores sunt posteriorum quasi quadruplae. Factoris in Denominatoribus sunt dignitates integrae numeri 4 unitatibus minuenda:\nnumæ: quibus datis, coefficientes literarum in diversis terminis formantur ex multiplicatione continua numerorum \\( \\frac{n}{3}, \\frac{n-3}{15}, \\frac{n-15}{63}, \\frac{n-63}{255}, \\&c. \\). Ubi pro \\( n \\) substituendus est ultimus Factorum in Denominatore.\n\nUltima quantitatum \\( x - 1, 2 \\frac{2}{x} - 2, 4 \\frac{3}{x} - 4, 8 \\frac{8}{x} - 8, 16 \\frac{16}{x} - 16, \\&c. \\) æqualis est Logarithmo numeri \\( x \\). Pro \\( x \\) scribe 2, \\& per repetitam extractionem radicis quadratæ exibunt numeri\n\n\\[\nM = 1,0000,0000,0000,0000 \\\\\nL = 8284,2712,4746,1901 \\\\\nI = 7568,2864,0010,8843 \\\\\nH = 7240,6186,1322,0613 \\\\\nG = 7083,8051,8838,6214 \\\\\nF = 7007,0875,6931,7337 \\\\\nE = 6969,1430,7308,8294 \\\\\nD = 6950,2734,2438,7611 \\\\\nC = 6940,8641,2851,8363 \\\\\nB = 6936,1658,4759,4014 \\\\\nA = 6933,8182,9699,9493\n\\]\n\nDicatur ultimus numerorum \\( A \\), penultimus \\( B \\), \\& sic retro, atque Logarithmus quaestus erit \\( A + \\frac{A-B}{1} + \\frac{2A-3B+C}{1 \\cdot 3} + \\frac{8A-14B+7C-D}{1 \\cdot 3 \\cdot 7} + \\frac{64A-120B+70C-15D+E}{1 \\cdot 3 \\cdot 7 \\cdot 15} + \\&c. \\). Primi quinque termini dant 6931,4718,0559,9457 pro Logarithmo Hyperbolico Binarii. Et quo modo hæc Series procedit in infinitum facile colligitur ex eo quod de priore diximus: estque etiam universalis, proprietates Hyperbolæ minime relpiciens.\n\nExtenditur quoque Methodus hæcce Differentialis ad Resolutionem Æquationum \\& alia quamplurima quorum hic non fit mentio. Continetque fundamenta Serierum generalissima; ut in Reductione Æquationum Irrationalium \\& Fluxionalium brevi forsan monstrabo.\n\nIV. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103361.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 22,
+    "total-input-tokens": 32748,
+    "total-output-tokens": 15157,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1568,
+        2
+      ],
+      [
+        1568,
+        3369,
+        3
+      ],
+      [
+        3369,
+        4794,
+        4
+      ],
+      [
+        4794,
+        5319,
+        5
+      ],
+      [
+        5319,
+        7081,
+        6
+      ],
+      [
+        7081,
+        8707,
+        7
+      ],
+      [
+        8707,
+        10560,
+        8
+      ],
+      [
+        10560,
+        12424,
+        9
+      ],
+      [
+        12424,
+        14303,
+        10
+      ],
+      [
+        14303,
+        15540,
+        11
+      ],
+      [
+        15540,
+        17207,
+        12
+      ],
+      [
+        17207,
+        18745,
+        13
+      ],
+      [
+        18745,
+        20229,
+        14
+      ],
+      [
+        20229,
+        21649,
+        15
+      ],
+      [
+        21649,
+        23333,
+        16
+      ],
+      [
+        23333,
+        24878,
+        17
+      ],
+      [
+        24878,
+        26627,
+        18
+      ],
+      [
+        26627,
+        28597,
+        19
+      ],
+      [
+        28597,
+        30432,
+        20
+      ],
+      [
+        30432,
+        31923,
+        21
+      ],
+      [
+        31923,
+        33484,
+        22
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103361",
+    "title": "Methodus Differentialis Newtoniana Illustrata. Authore Jacobo Stirling, e Coll. Balliol. Oxon",
+    "authors": "Jacobo Stirling",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 22,
+    "jstor_url": "https://www.jstor.org/stable/103361"
+  }
+}

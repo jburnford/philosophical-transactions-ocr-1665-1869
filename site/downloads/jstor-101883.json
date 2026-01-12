@@ -1,0 +1,69 @@
+{
+  "id": "3aa54dc9fc10a9d87f3ef741347c13755fef89f8",
+  "text": "An Extract of a Letter written by Mr. Veay Physician at Tholouse to Mr. de St. Ussans, concerning a very extraordinary Hermaphrodite in that City. Communicated by Dr. Aglionby. Reg. Soc. S.\n\nJe veux Monsieur, vous faire part d'une chose fort extraordinaire, qui m'est arrivée il y a quelques jours dans l'Hôpital S. Jacques, au quartier des femmes, où je suis de tour pendant ce semestre. On apporta une servante malade Hermaphrodite. Elle est du lieu de Pourdiac à sept lieues de Thoulouse. Elle a été baptisée en qualité de fille, sous le nom de Marguerite. Son Père est pauvre homme de Pourdiac, qu'on appelle Malaufe. Elle est âgée de 21 à 22 ans, ayant bien la mine extérieure d'une fille, mais les marques réelles d'un homme bien puissant. Son visage est féminin & assez agréable, la gorge bien jolie, & les mamelles aussi bien faites qu'on les puisse dessiner à une fille, les fesses & les cuisses grandes comme aux femmes, les parties honteuses tout comme celles d'une femme, mais elle n'est percée que de la profondeur de deux petits travers de doigts ; & au milieu de cette fente, il pend un membre viril d'une grosseur fort considérable, & qui dans l'érection luy sort au dehors d'environ huit pouces. Ce membre est bien formé, hormis qu'il n'a point de prépuce, & qu'il n'est pas accompagné de testicules apparents. L'urine & la semence en sortent comme aux hommes, & ce qu'il y a de particulier, c'est que le sang menstrual coule aussi par ce même conduit de la Vierge.\n\nJ'avois eu de la peine à le croire, si je ne l'avois veu moy-même, & examiné fort exactement dans le temps que ses menstrues couloient, lesquelles luy survenaient presque tous les mois assez régulièrement, ne passant guères deux mois de temps sans les avoir ; mais presque toujours avec de grandes douleurs & une tension au bas ventre qui marque une espèce d'inflammation dans ces parties.\nJ'ay fait voir cela à plusieurs de nos médecins, & après avoir consulté Messieurs les Vicaires Généraux, nous luy avons fait prendre un habit d'homme, sous le nom d'Arnaud Maluse; & on va présentement luy faire apprendre quelque métier. Il n'y avoit pas à hésiter là dessus, parce que notre Hermaphrodite peut fort bien faire la fonction d'homme, & point du tout celle de femme.\n\nJ'ay cru vous faire plaisir de vous ecrire ce fait, qui commence déjà d'etre public dans cette ville, mais qui est bien rare, & bien extraordinaire.\n\nTholose\nDecemb. 4. 1686.\n\nAccounts of BOOKS.\n\nI. Historia Plantarum, species hactenus editas aliasq; insuper multas noviter inventas & descriptas complectens &c. Autore Joanne Rajo e Societate Regia. Tomus primus. Londini, 1686 Fol. Apud Henricum Faithorne R.S. Typographum; ad insigne Rosæ in Cæmeterio D. Pauli.\n\nThe excellent Author of this great Work, is so well known for his incomparable Skill in the Botanick Science, and other Parts of useful Learning, that it will be needless to say any thing of him. The Forreign Journals having given Accounts of this Book have prevented the mentioning of many particulars, but they only speaking in general, and per saltum, neglecting the Divisions, Subdivisions, and the Method; I shall therefore only confine myself to those Particulars.\n\nThe First Tome contains 18 Books, to which are prefixed a Botanick Lexicon, or Interpretation of Terms of Art,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101883.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1001,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1874,
+        2
+      ],
+      [
+        1874,
+        3301,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101883",
+    "title": "An Extract of a Letter Written by Mr. Veay Physician at Tholouse to Mr. de St. Ussans, concerning a Very Extraordinary Hermaphrodite in That City. Communicated by Dr. Aglionby. Reg. Soc. S.",
+    "authors": "Mr. Veay, Dr. Aglionby",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101883"
+  }
+}

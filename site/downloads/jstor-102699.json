@@ -1,0 +1,209 @@
+{
+  "id": "aa857b40e8caab0c480a0cac6b5e4e8fed81858f",
+  "text": "II. Æquationum Cubicarum & Biquadraticarum, tum Analytica, tum Geometrica & Mechanica, Resolutio Universalis, a J. Colson.\n\n§. I. Æquationis Cubicæ Universalis\n\n\\[ x^3 = 3px^2 + 3qx + 2r, \\]\n\\[ -3p^2 + p^3 - 3pq \\]\n\nRadices Tres sunt,\n\n\\[ x = p + \\sqrt[3]{r + \\sqrt{r^2 - q^3}} + \\sqrt[3]{r - \\sqrt{r^2 - q^3}} \\]\n\n\\[ x = p - \\frac{1 - \\sqrt{-3}}{2} \\times \\sqrt[3]{r + \\sqrt{r^2 - q^3}} - \\frac{1 + \\sqrt{-3}}{2} \\times \\sqrt[3]{r - \\sqrt{r^2 - q^3}} \\]\n\n\\[ x = p - \\frac{1 + \\sqrt{-3}}{2} \\times \\sqrt[3]{r + \\sqrt{r^2 - q^3}} - \\frac{1 - \\sqrt{-3}}{2} \\times \\sqrt[3]{r - \\sqrt{r^2 - q^3}} \\]\n\nVel ut Calculus Arithmeticus facilitior ac paratiore evadat, si posueris Binomii irrationalis \\( r + \\sqrt{r^2 - q^3} \\) Radicem Cubicam esse \\( m + \\sqrt{n} \\), erunt ejusdem Æquationis Radices tres \\( x = p + 2m, \\& x = p - m \\pm \\sqrt{-3n} \\).\n\nIgitur data Æquatione quavis Cubica, inter ejus hujusque Æquationis Universalis terminos singulos instituenda est comparatio, quo pacto facillime inveniuntur ipsæ \\( p, q, r; \\& \\) hisce cognitis, innotescunt Æquationis datae Radices omnes. Hujus vero Solutionis Exempla sint sequentia in Numeris.\n\n1. Æquationis Cubicæ \\( x^3 = 2x^2 + 3x + 4 \\) sit Radix \\( x \\) indaganda. Erit primò juxta praescriptum \\( 3p = 2, \\)\n\n\\[ 14N \\]\nfive \\( p = \\frac{2}{3} \\). Secundò \\( 3q - (3p^2) \\frac{4}{3} = 3 \\), five \\( q = \\frac{13}{9} \\).\n\nTertiò \\( 2r + (p^2 - 3q \\times p) - \\frac{70}{27} = 4 \\), five \\( r = \\frac{89}{27} \\),\n\n\\& \\( r^2 - q^3 = \\frac{212}{27} \\). Et propterea \\( x = \\frac{2}{3} + \\sqrt[3]{\\frac{89}{27}} + \\sqrt{\\frac{212}{27}} \\)\n\n+ \\(\\sqrt[3]{\\frac{89}{27}} - \\sqrt{\\frac{212}{27}} \\). Reliquae duae Radices sunt impossibles.\n\n2. In Equatione \\( x^3 = 12x^2 - 41x + 42 \\), erit primò\n\n\\( 3p = 12 \\), five \\( p = 4 \\). Secundò \\( 3q - (3p^2) \\frac{48}{36} = -41 \\), five \\( q = \\frac{7}{3} \\).\n\nTertiò \\( 2r + (p^2 - 3q \\times p) \\frac{36}{42} = 42 \\),\n\nfive \\( r = 3 \\); Et inde \\( r^2 - q^3 = -\\frac{100}{27} \\). At Binomii surdi\n\n\\( 3 + \\sqrt{-\\frac{100}{27}} (= r + \\sqrt{r^2 - q^3}) \\) Radix Cubica, per Methodos ex Arithmetica petendas extracta, est \\( -1 + \\sqrt{-\\frac{4}{3}} \\) (\\( m + \\sqrt{n} \\)) \\& proinde Radix \\( x = (p + 2m = 4 - 2 = ) 2 \\), vel etiam \\( x = (p - m + \\sqrt{-3n = 4 + 1 + (\\sqrt{4})^2 = } 7 \\) vel 3. Vel rursus, ejusdem Binomii\n\n\\( 3 + \\sqrt{-\\frac{100}{27}} \\). Radix alia Cubica (tres enim agnoscit)\n\nest \\( \\frac{3}{2} + \\sqrt{-\\frac{1}{12}} \\) (\\( m + \\sqrt{n} \\)) \\& proinde Radix\n\n\\( x = (p + 2m = 4 + 3 = ) 7 \\), \\& etiam \\( x = (p - m + \\sqrt{-3n = 4 - \\frac{3}{2} + (\\sqrt{\\frac{1}{4}})^2 = } 3 \\) vel 2. Vel denuo,\n\nejusdem Binomii \\( 3 + \\sqrt{-\\frac{100}{27}} \\) Radix Cubica tertia est\n\n\\(-\\frac{1}{2} = \\sqrt{-\\frac{25}{12}} \\) (\\( m + \\sqrt{n} \\)) \\& proinde Radix\n\\[ x = (p + 2m = 4 - r = )_3, \\text{ atque etiam } x = (p - m \\\\\n+ v - 3n = 4 + \\frac{1}{2} + (\\sqrt{\\frac{25}{4}}) \\frac{5}{2} = )_7 \\text{ vel } 2. \\]\n\n3. In \\( \\mathcal{E} \\)quatione \\( x^3 = -15x^2 - 84x + 100 \\), erit\n\\( p = -5 \\), \\( q = -3 \\), \\( r = 135 \\); & Binomii \\( 135 + \\sqrt{18252} \\)\nRadix Cubica est \\( 3 + \\sqrt{12} \\). Igitur Radix\n\\( x = -5 + 6 = 1 \\), & \\( x = -5 - 3 \\pm \\sqrt{-36} =\n-8 + \\sqrt{-36} \\), impossibilis.\n\n4. In \\( \\mathcal{E} \\)quatione \\( x^3 = 34x^2 - 310x + 1012 \\), erit\n\\( p = \\frac{34}{3} \\), \\( q = \\frac{226}{9} \\), \\( r = \\frac{5536}{27} \\); & Binomii \\( \\frac{5536}{27} +\n\\sqrt{\\frac{707560}{27}} \\)\nRadix Cubica est \\( \\frac{16}{3} + \\sqrt{\\frac{10}{3}} \\). Igitur Radix\n\\( x = \\frac{34}{3} + \\frac{32}{3} = 22 \\), & \\( x = \\frac{34}{3} - \\frac{16}{3} + \\sqrt{-10} = 6\n\\pm \\sqrt{-10} \\), impossibilis.\n\n5. In \\( \\mathcal{E} \\)quatione \\( x^3 = 28x^2 + 61x - 4048 \\), erit\n\\( p = \\frac{28}{3} \\), \\( q = \\frac{967}{9} \\), \\( r = -\\frac{25010}{27} \\); & Binomii \\( -\\frac{25010}{27}\n+ \\sqrt{-382347} \\).\nRadix Cubica est \\( \\frac{41}{6} + \\sqrt{\\frac{243}{4}} \\).\nIgitur \\( x = \\frac{28}{3} + \\frac{41}{3} = 23 \\), & \\( x = \\frac{28}{3} - \\frac{41}{6} \\pm (\\sqrt{\\frac{729}{4}}\n\\frac{27}{2} = 16 \\text{ vel } -11.\n\n6. In \\( \\mathcal{E} \\)quatione \\( x^3 = -x^2 + 166x - 660 \\), erit\n\\( p = -\\frac{1}{3} \\), \\( q = \\frac{499}{9} \\), \\( r = -\\frac{9658}{27} \\); & Binomii\n\\( -\\frac{9658}{27} + \\sqrt{-1147205} \\)\nRadix Cubica est \\( -\\frac{22}{3} + \\sqrt{-\\frac{5}{3}} \\).\nIgitur \\( x = -\\frac{1}{3} - \\frac{44}{3} = -15 \\), & \\( x = -\\frac{1}{3}\n+ \\frac{22}{3} \\pm \\sqrt{5} = 7 \\pm \\sqrt{5} \\), irrationales.\n\n7. In\n7. In \\( \\text{Æquatione} \\ x^3 = 63x^2 + 99673x + 9951705 \\), erit \\( p = 21 \\), \\( q = \\frac{100996}{3} \\), \\( r = 6031680 \\); & Binomii \\( 6031680 + \\sqrt{-\\frac{47887175043136}{27}} \\) Radix Cubica est \\( 183 + \\sqrt{-\\frac{529}{3}} \\). Igitur \\( x = 21 + 366 = 387 \\), & \\( x = 21 - 183 \\pm (\\sqrt{529})_23 = -139 \\) vel \\( 185 \\).\n\nNec secus in cæteris procedendum: Investigatur autem Theorema ad modum sequentem. Pono \\( \\text{Æquationis} \\) cujisdam Cubicæ Radicem \\( z = a + b \\), & cubicè multiplicando proveniet \\( z^3 = (a^3 + 3a^2b + 3ab^2 + b^3 = ) \\) \\( a^3 + 3ab \\times a + b + b^3 \\). Jam loco ipsius \\( a + b \\) valorem ejus \\( z \\) substituendo, fiet \\( z^3 = 3abz + a^3 + b^3 \\), quæ est \\( \\text{Æquatio Cubica} \\) ex Radice \\( z = a + b \\) constructa, cui terminus secundus deest. Ut hæc verò ad formam magis commodam magisq; concinnam revocenter, sumo \\( \\text{Æquationem} \\) \\( z^3 = 3qz + 2r \\), quæ posthac ipsius \\( z^3 = 3abz + a^3 + b^3 \\) vices gerat. Igitur transmutatione hujus in illam, fiet primò \\( 3q = 3ab \\), five \\( q^3 = a^3b^3 \\); & secondò \\( 2r = a^3 + b^3 \\), five \\( 2ra^3 = (a^6 + a^3b^3 = )a^6 + q^3 \\). Et soluta hac \\( \\text{æquatione quadratica}, \\) erit \\( a^3 = r + \\sqrt{r^2 - q^3} \\), & hinc \\( b^3 = (2r - a^3 = )r - \\sqrt{r^2 - q^3} \\): Atque igitur tandem \\( a = \\sqrt[3]{r + \\sqrt{r^2 - q^3}} \\) & \\( b = \\sqrt[3]{r - \\sqrt{r^2 - q^3}} \\).\n\nEt propterea in \\( \\text{Æquatione Cubica} \\) \\( z^3 = 3qz + 2r \\) erit\n\nRadix \\( z = (a + b = )\\sqrt[3]{r^2 + \\sqrt{r^2 - q^3}} + \\sqrt[3]{r^2 - \\sqrt{r^2 - q^3}} \\)\n\nAt verò hæc Radix reverà triplex est, pro triplici valore quem induere potest & \\( \\sqrt[3]{r + \\sqrt{r^2 - q^3}} \\) & \\( \\sqrt[3]{r - \\sqrt{r^2 - q^3}} \\). Cujusvis enim quantitatis Radix Cubica triplex erit, & ipsius Unitatis Radix Cubica vel est\nest \\( z \\), vel \\( -\\frac{1}{2} + \\frac{1}{2}\\sqrt{-3} \\), vel \\( -\\frac{1}{2} - \\frac{1}{2}\\sqrt{-3} \\):\n\nAtque id adeo, propterea quòd harum alicujus Cubus sit Unitas. Igitur si \\( r + \\sqrt{r^2 - q^3} \\) aut \\( \\sqrt{r + \\sqrt{r^2 - q^3}} \\)\n\n\\( = \\sqrt{r + \\sqrt{r^2 - q^3}} = \\sqrt{r + \\sqrt{r^2 - q^3}} \\) Radicem aliquam [quam supra nominavimus \\( m + \\sqrt{n} \\), aut \\( r + \\sqrt{r^2 - q^3} \\) designet; ipsæ\n\n\\( = \\frac{-1 + \\sqrt{-3}}{2} \\times \\sqrt{r + \\sqrt{r^2 - q^3}} \\) & \\( = \\frac{-1 - \\sqrt{-3}}{2} \\times \\sqrt{r + \\sqrt{r^2 - q^3}} \\)\n\n\\[ i.e. \\frac{-1 + \\sqrt{-3}}{2} \\times m + \\sqrt{n} \\]\n\n\\[ i.e. \\frac{-1 - \\sqrt{-3}}{2} \\times m + \\sqrt{n} \\] alias duas ejusdem Cubi Radices designabunt. Similiter & \\( \\sqrt{r - \\sqrt{r^2 - q^3}} \\),\n\n\\[ \\frac{-1 + \\sqrt{-3}}{2} \\times \\sqrt{r - \\sqrt{r^2 - q^3}} \\) & \\( \\frac{-1 - \\sqrt{-3}}{2} \\times \\sqrt{r - \\sqrt{r^2 - q^3}} \\)\n\n\\[ i.e. m - \\sqrt{n}, \\frac{-1 + \\sqrt{-3}}{2} \\times m - \\sqrt{n}, \\]\n\ntres Cubicae Radices erunt Apotomes \\( r - \\sqrt{r^2 - q^3} \\). Atque has Radices debitè connexendo, fiet \\( z = \\sqrt{r + \\sqrt{r^2 - q^3}} \\)\n\n\\[ i.e. z = m + \\sqrt{n} + m - \\sqrt{n} = 2m, \\]\n\n\\[ z = \\frac{-1 + \\sqrt{-3}}{2} \\times \\sqrt{r + \\sqrt{r^2 - q^3}} + \\frac{-1 - \\sqrt{-3}}{2} \\times \\sqrt{r - \\sqrt{r^2 - q^3}} \\]\n\n\\[ i.e. z = \\frac{-1 + \\sqrt{-3}}{2} \\times m + \\sqrt{n} + \\frac{-1 - \\sqrt{-3}}{2} \\times m - \\sqrt{n} = -m + \\sqrt{-3}n, \\]\n\n& \\( z = \\frac{-1 - \\sqrt{-3}}{2} \\times \\sqrt{r + \\sqrt{r^2 - q^3}} + \\frac{-1 + \\sqrt{-3}}{2} \\times \\sqrt{r - \\sqrt{r^2 - q^3}} \\)\n\\[ i.e. z = \\frac{1 - \\sqrt{-3}}{2} \\cdot m + \\sqrt{n} + \\frac{1 + \\sqrt{-3}}{2} \\cdot m - \\sqrt{n} = -m - \\sqrt{-3}n, \\] quae tres erunt Radices Aequationis Cubicæ \\( z^3 = 3qz + 2r \\). Debite autem connectuntur Radices istæ ad modum praecedentem, quippe quae sic connexæ, & more vulgari in se invicem continuae duææ, Aequationem \\( z^3 = 3qz + 2r \\) restituunt. Denique fac \\( z = x - p \\), & Aequatio fit \\( x^3 - 3px^2 + 3p^2x - p^3 = 3q \\cdot 3pq + 2r \\), quae universalis est, & cujus Radices evadunt ut supra fuerunt exhibita.\n\nHic obiter notatu dignum est, quod Aequationis Cubicæ cujuscunque Radices omnes sint possibiles & reales, quoties Binomii membrum irrationale \\( \\sqrt{r^2 - q^3} \\) impossibilitatem in se complectitur, hoc est, quoties \\( q \\) est quantitas affirmativa, & simul cubus ejus major est quadrato ex latere \\( r \\).\n\nAt si membrum istud \\( \\sqrt{r^2 - q^3} \\) sit possibile, hoc est si \\( q \\) fit quantitas negativa, aut etiam si affirmativæ cubus sit minor quadrato ex latere \\( r \\), tunc unicum tantum agnoscit Aequatio Radicem possibilem & realem, reliquæque dua erunt impossibiles.\n\nIn hoc Theoremate si fiat \\( p = 0 \\), hoc est, si desit Aequationis terminus secundus, tunc deventum erit ad catum Regularum quæ dicuntur Cardani, cujus solutio continetur in praecedentibus.\n\n§. 2. Aequationis Biquadraticæ Universalis\n\n\\[\nx^4 = 4px^3 + 2qx^2 + 8rx + 4s,\n\\]\n\n\\[\n-4p^2 - 4pq - q^2\n\\]\n\nRadices quatuor sunt \\( x = p - a \\pm \\sqrt{p^2 + q - a^2} - \\frac{2r}{a} \\),\n\n\\[\n& x = p + a \\pm \\sqrt{p^2 + q - a^2} + \\frac{2r}{a}, \\text{ Ubi } a^2 \\text{ est Radix Aequationis Cubicæ } a^6 = p^2a^4 - 2pra^2 + r^2.\n\\]\n\nJam data Aequatione quavis Biquadratica, inter ejus hujusque Aequationis Universalis terminos singulos instituenda\nenda est comparatio, quo pacto citissime invenientur ipsae p, q, r, s; & hisce cognitis, non latebit valor ipsius a, ex Theoremate superiori inveniendus, & tum demum innotescent Æquationis datæ Radices omnes.\n\nHuic Solutioni illustrandæ Exemplum unum aut alterum sufficiat.\n\n1. Æquationis Biquadraticæ \\( x^4 = 8x^3 + 83x^2 - 162x - 936 \\) sint Radices extrahendæ. Erit primò juxta praescriptum \\( 4p = 8 \\), sive \\( p = 2 \\). Secundò \\( 2q - (4p^2) = 16 = 83 \\), sive \\( q = \\frac{99}{2} \\). Tertìo \\( 8r - (4pq) = 396 = -162 \\), sive \\( r = \\frac{117}{4} \\). Quartò \\( 4s - (q^2) = \\frac{9801}{4} = -936 \\), sive \\( s = \\frac{6057}{16} \\). Hinc \\( p^2 + q = \\frac{107}{2} \\), \\( 2pr + s = \\frac{7929}{16} \\), \\( r^2 = \\frac{13689}{19} \\), & proinde \\( a^6 = \\frac{107}{2}a^4 - \\frac{7929}{16}a^2 + \\frac{13689}{16} \\). Jam ut Æquatio hæc aliquatenus Cubica in Radices ejus resolvatur, ad Theorema praecedens recurrendum est, in quo erit \\( p = \\frac{107}{2} \\), \\( q = \\frac{22009}{144} \\), \\( r = \\frac{2903923}{1728} \\) & \\( r^2 - q^3 = -\\frac{11940075}{16} \\). Atqui Binomii \\( \\frac{2903923}{1728} \\) + \\( \\sqrt{\\frac{11940075}{16}} \\) Radix Cubica est \\( -\\frac{53}{12} + \\sqrt{-\\frac{400}{3}} \\) & propterea \\( a^2 = \\frac{107}{6} - \\frac{53}{6} = 9 \\), & etiam \\( a^2 = \\frac{107}{6} + \\frac{53}{12} \\pm (\\sqrt{400}) = \\frac{169}{4} \\) vel \\( \\frac{2}{4} \\); Vel quod perinde est, Æquationis præmissæ reverà Cubo-Cubicæ sex Radices sunt \\( a = \\pm 3 \\), \\( a = \\pm \\frac{13}{2} \\), & \\( a = \\pm \\frac{3}{2} \\), quarum quævis indiscriminatim propo-\nsitio nostro faciet satis. Puta si in praesenti casu fiat \\( a = 3 \\), erit juxta Theorema \\( x = (p - a + \\sqrt{p^2 + q - a^2} - \\frac{2r}{a}) = 2 - 3 + \\sqrt{4 + \\frac{99}{2}} - 9 - \\frac{39}{2} = -1 + (\\sqrt{25} \\cdot 5) = )_4 vel — 6, & \\( x = (p + a + \\sqrt{p^2 + q - a^2} + \\frac{2r}{a}) = 2 + 3 + \\sqrt{4 + \\frac{99}{2}} - 9 + \\frac{39}{2} = 5 + (\\sqrt{64} \\cdot 8 = )_13 vel — 3, quae sunt Aequationis datae Radices quatuor.\n\n2. In Aequatione \\( x^4 = 20x^3 + 252x^2 - 6592x + 21312 \\), erit \\( p = 5, q = 176, r = -384, & s = 13072 \\). Hinc \\( p^2 + q = 201, 2pr + s = 9232, & r^2 = 147456; \\) & inde \\( a^6 = 201 a^4 - 9232 a^2 + 147456 \\).\n\nJam in Theoremate pro Cubicis erit \\( p = 67, q = \\frac{4235}{3}, & r = 65219; \\) eritque Binomii \\( 65219 + \\sqrt{\\frac{38889307072}{27}} \\)\n\nRadix Cubica \\( \\frac{77}{2} + \\sqrt{\\frac{847}{12}} \\). Igitur \\( a^2 = 67 + 77 = 144, \\) five \\( a = 12; \\) & proinde \\( x = 5 - 12 + \\sqrt{25 + 176 - 144 + 64} = -7 + (\\sqrt{121} \\cdot 11 = 4 vel — 18, & \\( x = 5 + 12 + \\sqrt{25 + 176 - 144 - 64} = 17 + \\sqrt{-7}, \\) imposibilis.\n\nHujus autem Theorematis Inventio est hujusmodi, Ex duarum Aequationum Quadraticarum \\( z^2 + 2az - b = 0, \\) & \\( z^2 - 2az - c = 0 \\) in se invicem multiplicatione, Aequationem conficio Biquadraticam \\( z^4 = 4a^2 + b + c \\times z^2 + 2ac - 2ab \\times z - bc, \\) cui terminus secundus deest, quamque huc Aequationi \\( z^4 = ez^2 + fz + g \\) statuo æquipollere. Unde primo \\( 4a^2 + b + c = e \\) five \\( b = e - 4a^2 - c. \\) Secundo \\( 2ac - 2ab = f, \\) hoc est, \\( 2ac - 2ae + 8a^3 + 2ac = f, \\) five \\( c = \\frac{f}{4a} + \\frac{e}{2} - 2a^2, \\) &\ninde \\( b = (e - 4a^2 - c) - \\frac{f}{4a} + \\frac{c}{2} - 2a^2 \\). Tertio \\( bc = g \\), five \\( \\frac{f^2}{16a^2} + \\frac{e^2}{4} - 2ca^2 + 4a^4 = -g \\).\n\nhoc est, \\( a^4 = \\frac{1}{2} ca^2 - \\frac{1}{4} ga^2 - \\frac{1}{16} ca^2 + \\frac{f^2}{64} \\), que\n\nÆquatio quasi Cubica est, ex Radice \\( a^2 \\) & notis vel assumptis \\( e, r, g \\) confusa. Ea vero Radix per Theoremum superius exhiberi potest, & codem Calculo innoteat ipsæ \\( b \\) & \\( c \\). At Æquationum \\( z^2 + 2az - b = 0 \\) & \\( z^2 - 2az - c = 0 \\) Radices sunt \\( z = -a + \\sqrt{a^2 + b} \\)\n\n& \\( z = a + \\sqrt{a^2 + c} \\), five \\( z = -a + \\sqrt{\\frac{1}{2} e - a^2 + \\frac{f}{4a}} \\), quae proinde erunt Radices Æquationis \\( z^4 = ez^3 + fz + g \\); cognita videlicet a vel \\( a^2 \\) ex Æquatione \\( a^6 = \\frac{1}{2} ea^4 - \\frac{1}{4} ga^2 - \\frac{1}{16} ea^2 + \\frac{f^2}{64} \\). Jam ut Æquatio ista evadat universalis, & omnibus suis terminis inducta, fac \\( z = x - p \\), eritque \\( x^4 - 4px^3 + 6p^2x^2 - 4p^3x + p^4 = ex^2 - 2apex + p^2e + fx - fp + g \\),\n\nitem & \\( x = p - a + \\sqrt{\\frac{1}{2} e - a^2 + \\frac{f}{4a}} \\), & \\( x = p + a + \\sqrt{\\frac{1}{2} e - a^2 + \\frac{f}{4a}} \\). Tandem concinnitatis & compendi gratia, fac \\( e = 2q + 2p^2 \\) & \\( f = 8r \\); tum \\( x^4 - 4px^3 + 4p^2x^2 = 2qx^2 - 4pqx + 2pq + p^4 + 8rx - 8pr + g \\),\n\n\\( x = p - a + \\sqrt{p^2 + q - a^2 - \\frac{2i}{a}} \\), \\( x = p + a + \\sqrt{p^2 + q - a^2 + \\frac{2i}{a}} \\), & \\( a^6 = p^2 + q \\times a^4 - \\frac{1}{4} g + \\frac{1}{4} p^4 + \\frac{1}{2} p^2 q + \\frac{1}{4} q^2 \\times a^2 + r^2 \\). Denique fac \\( g = 4s - q^2 + 8pr - p^4 - 2pq^2 \\), & sunt Æquationes praecedentes \\( x^4 = 4px^3 + 2qx^2 + 8rx + 4s \\) & \\( a^6 = p^2a^4 - 2pra^2 + r^2 \\).\n\nScilicet omnia evadunt ut supra fuit positum.\n\n\\[ \\text{14 P} \\]\n\n\\[ \\text{§ 3. Hacte} \\]\n§ 3. Haec tenus de Æquationum Cubicarum & Biquadraticarum Resolutione Analytica. Quoniam autem earundem Effectio Geometrica per Parabolam vulgo tradi solet, & nonnullis in pretio est, ipsam ovovsfixæ, & quidem universalius, non pigebit hic exhibere.\n\nData Æquatione quavis vel Cubica vel Biquadratica, instituenda est comparatio inter terminos ejus, terminosque respondentes hujus Æquationis\n\n\\[ x^4 = \\frac{2p}{q} x^3 + \\frac{4pr}{q} x^2 + \\frac{2p^2}{q} x + p^3, \\text{ quo pacto facile satis} \\]\n\n\\[ -4r - 4r^3 - \\frac{2ps}{q} - q^3 \\]\n\n\\[ + 2s + 4r^3 - s^3 \\]\n\n\\[ -1 - 2q + t^2 \\]\n\neruentur ipse p, q, r, s, t; earum interim unà aliquà utcunque pro lubitu assumpta. Tum in Parabola quavis data AVB, cujus Vertex principalis V, Axis VS, & Axi\nperpendicularis VT, capiatur VS = p versus interiora Parabolae, & in angulo SVT inscribatur ST = q, quae producta Parabolam secet in punctis binis N & O. Bisectetur ON in M, & per M agatur MA Axi parallela & Parabolae occurrens in A. Ipsi ON parallela ducatur AL, ut sit AL Latus rectum Parabolae ad Diametrum AM, siquae hæc eadem Unitas. In AL (utrinque si opus est producta) capiatur AG = r, & à puncto G ducatur GR Axi parallela, quae Parabolam secet in B, à quo capiatur BR = s. Anovissime invento puncto R ducatur RE ipsi VT parallela & æqualis, quae sinistrum versus jiceat respectu ipsius R si q sit quantitas affirmativa, at versus dextram si q sit negativa. Atque idem de ipsis AG & BR intelligatur, quae ad contrarias itidem partes duci debent, si modo valores ipsorum r & s prodeant negativi. Denique Centro E & Radio EC = t describatur Circulus CK*c, qui Parabolam in totidem secabit punctis, quot sunt Æquationis datae Radices reales. Etenim à punctis istis C, K, &c. ducantur CP, KP, &c. ipsi ST parallelæ, & ad rectam GR (si opus est productam) terminatae, eritque harum quævis x, seu Æquationis datae Radix quaestà, ea scilicet ad dextram jacentes erunt Radices affirmativæ, quae vero ad sinistrum sunt positæ erunt Radices negativæ. Punctum contactûs, siquod fuerit, hic furnitur pro intersectionis punctis duobus ad invicem viciniissimis.\n\nInter Æquationes Cubicas & Biquadraticas ita constructas hoc tantum intercedit discriminis, quod in prioribus, ob terminum ultimum in praecedente Æquatione deficientem, semper sit $p^2 - q^2 - s^2 + t^2 = 0$, siue $t = \\sqrt{s^2 + q^2 - p^2}$. Igitur Centro E & Radio EB ($= \\sqrt{BRq + (ERq)STq - VSq}$) descripto Circulo CK*c, Radicum una CP in priori constructione in nihilum abit.\n\nHæc autem demonstrantur ad modum sequentem. Momentibus jam constructis, & producta C, si opus est, donec secat AM in H, erit CH Ordinata Parabolæ ad Diameterum\nmetrum AH, & proinde CHq = AL × AH = AH, ob\nAL = 1. At CH = CP + AG, & AH = GB + BP, &\npropterea CPq + 2 AG × CP + AGq = GB + BP; sed\nob naturam Parabolæ erit AGq = GB, unde CPq + 2 AG\n× CP = BP. Jam à puncto C ad ipsam BP demittatur\nnorma s CD, quæ occurrat etiam ipsi EI, ad BP æquæ pa-\nrallelæ, in puncto I. Propter similia Triangula CDP &\nTVS, erit DP = \\(\\frac{VS \\times CP}{ST}\\) & CD = \\(\\frac{VT \\times CP}{ST}\\), & pro-\ninde CPq + 2AG × CP = BP = DP + BD = \\(\\frac{VS \\times CP}{ST}\\)\n+ BR — IE, sive CPq + 2AG × CP — \\(\\frac{VS}{ST}\\) CP — BR\n= — IE. Ast IEq = CEq — CIq = CEq — CDq\n— VTq — 2CD × VT = CEq — \\(\\frac{VTq \\times CPq}{STq}\\) — VTq\n— \\(\\frac{2VTq \\times CP}{ST}\\) = (ob VTq = STq — SVq) CEq — CPq\n+ \\(\\frac{SVq}{STq}\\) CPq — STq + SVq — 2ST × CP + \\(\\frac{2SVq}{ST}\\) CP,\nquæ igitur æqualis erit Quadrato ex Latere CPq + 2AG\n× CP — \\(\\frac{VS}{ST}\\) CP — BR. Atque hæc Æquatio ad terminos p, q, r, s, t revocata ipsissima sit Æquatio proposta.\n\nHinc liquet, quòd eadem quævis Æquatio Biquadratica\ninnumeras per Parabolam constructiones fortiri posse, pro\nindefinito valore quantitatis istius, quam ad arbitrium afflu-\nmi posse jam diximus. Sed casus est simplicissimus faciendo\nVS = p = 0, & migrat construcio, si rem ipsam spectes,\nin vulgarem istam, in qua Radicum repræsentatrices\næquæ CP, &c. sunt ad Axem perpendicularares. Æquatio\nautem fit \\(x^4 = -4rx^3 - 4r^2x^2 + 4rsx - q^2\\), quæ facile\n+ 2s = 2q — s²\n— 1 = + 1²\n\nconstruitur ut supra.\n§ 4. Sed ne Parabolæ descriptio Organica difficilis nimium videatur, in promptu est Artificium quoddam Mechanicum, opere Fili penduli ponderis instructi peractum, cujus auxilio quam exactissime & facillime Æquatio novissima construi potest, & proinde Æquationum quarumcunque Cubicarum & Biquadraticarum Radices inveniri; idque sine ullo linearum ductu nisi Rectarum & Circuli. Constructio autem, quam appellare libet Mechanicam, est ad hunc modum.\n\nContra Parietem erectum, vel planum aliud quodvis Horizonti perpendicularis, ad punctum aliquod F suspendatur filum tenuissimum & flexile FP; ponderis quovis P ad extremitatem P appenso. In hoc filo notetur punctum aliquod N, à puncto suspensionis F satis remotum; vel filo parvulus, si id mavis, innestatur Nodus N. Et sumpta utcunque NO pro Unitate, ad punctum medium A ducatur (in plano praedicto) recta AQ, Horizonti parallela, & utrinque quantum satis producta. Hisce generaliter paratis, pro particulari jam applicatione fac AQ = r, ipsis q, r, s, t, ut sæpius inculcatum, vel Arithmetice vel Geometricè, pro datæ cujusvis Æquationis\nexigentia, in æquatione novilli-\nma prius deter-\nminatis. Tunc A-\ncu vel Stylo tenu-\nissimo, aut etiam\ncuspidé Circini\nadmodum gracili,\nflectatur filum à\nloco suo ad pun-\nctum quoddam\nB, ita ut punctum\nN cadat in no-\nvissime invento\npuncto Q. In BQ\nab illo B capiatur\nBR = s, & in R.\nad ipsam BR per-\npendicularis eri-\ngatur ER = q.\nVerum enimverò\nistæ AQ, BR, RE\nad contrarias par-\ntes ab earum ini-\ntiis cadere debent,\nsi fortè valores\nipsarum r, s, q\nprodeant negati-\nvi. Denique in\npuncto invento E\nfigatur Circini crus unum, &c., ad distantiam EZ = t exten-\ntum, agatur crus alterum in orbem, secumque circumducat\nfilum FZP. Hac fili circulatione pondus P nunc ascendet\nnunc descendet motu reciproco, ut & Nodus N nunc supra\nrectam AQ extabit, nunc verò infra eandem deprimetur.\nQuoties autem reperietur Nodus ille N in ipsa AQ, puta\nin punctis D, d, a, a, ab scindet is rectas DQ, dQ, aQ, aQ.\nquae erunt Aequationis datae Radices omnes reales; haempe ad dextram erunt Radices affirmativae, illae vero ad sinistram Radices negativae. Demonstratio est manifesta ex praecedentibus, habita tantum ratione Parabolae per puncta B, C, c, x, x transiens. Nam positio F foco Parabolae, (cujus distantia à Vertice est \\( \\frac{1}{4} ON \\)) notum est quod lineae omnes ut FB + BQ, FC + CD, &c, eadem ubique conficiant summam.\n\nAtque ex principiis hic positis proclive erit Instrumentum haud inconcinnum & quantumvis accuratum fabricari, cujus beneficio hujusmodi Aequationum quarumcunque Radices nullo fere negotio inveniri possint, & praeculis exhiberi. Hoc autem quilibet, si id Curae sit, variis modis pro ingenio suo efficere potest, & de his jam satis.\n\n---\n\nIII. Aequationum quarundam Potestatis tertiae, quintae, septimae, nonae, & superiorum, ad infinitum usque pergendo, in terminis finitis, ad instar Regularum pro Cubicis quae vocantur Cardani, Resolutio Analytica.\n\nPer Ab. De Moivre, R. S. S.\n\nSit n Numerus quicunque, y quantitas incognita, sive Aequationis Radix quaesita, sitque a quantitas quævis omnino cognita, sive ut vocant Homogeneum Comparationis: Atque horum inter se relatio exprimatur per Aequationem\n\n\\[\nny + \\frac{nn - 1}{2 \\times 3} ny^3 + \\frac{nn - 1}{2 \\times 3} \\times \\frac{nn - 9}{4 \\times 5} ny^5 + \\frac{nn - 1}{2 \\times 3} \\times \\frac{nn - 9}{4 \\times 5} \\times \\frac{nn - 25}{6 \\times 7} ny^7, \\text{ &c.} = a\n\\]\n\nEx",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102699.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 17,
+    "total-input-tokens": 25368,
+    "total-output-tokens": 10426,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1275,
+        2
+      ],
+      [
+        1275,
+        2771,
+        3
+      ],
+      [
+        2771,
+        4432,
+        4
+      ],
+      [
+        4432,
+        6248,
+        5
+      ],
+      [
+        6248,
+        7809,
+        6
+      ],
+      [
+        7809,
+        9567,
+        7
+      ],
+      [
+        9567,
+        11124,
+        8
+      ],
+      [
+        11124,
+        12753,
+        9
+      ],
+      [
+        12753,
+        14554,
+        10
+      ],
+      [
+        14554,
+        15300,
+        11
+      ],
+      [
+        15300,
+        15300,
+        12
+      ],
+      [
+        15300,
+        17204,
+        13
+      ],
+      [
+        17204,
+        18675,
+        14
+      ],
+      [
+        18675,
+        19764,
+        15
+      ],
+      [
+        19764,
+        20663,
+        16
+      ],
+      [
+        20663,
+        22115,
+        17
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "None",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102699",
+    "title": "Aequationum Cubicarum & Biquadraticarum, tum Analytica, tum Geometrica & Mechanica, Resolutio Universalis, a J. Colson",
+    "authors": "J. Colson",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 17,
+    "jstor_url": "https://www.jstor.org/stable/102699"
+  }
+}

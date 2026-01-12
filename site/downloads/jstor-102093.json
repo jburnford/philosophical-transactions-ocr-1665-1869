@@ -1,0 +1,69 @@
+{
+  "id": "ee6c21db012328d8e6d562f698ee8f1d7c890226",
+  "text": "Essays of natural Experiments made in the Academy del Cimento under the Protection of the most Serene Prince Leopold of Tuscany. English by the ingenious Richard Waller Esq; Fellow of the Royal Society.\n\nThis work was published in Italian in the year 1667, and contains several curious Experiments made in the Academy del Cimento, at Florence: the Italian Author thought fit to prefix a Preface elegantly discovering the design of the Academy, to advance real knowledge, their Ingenuity, and Candour in communicating their Experiments, and their obligations to the great Duke Ferdinand of Tuscany, Father to the present Duke Cosmo.\n\n1. The Experiments are couch'd under 10 heads, treating of several Subjects. It were improper in this place to give a large account of each Particular; but in short: Having described some of their Instruments, as Thermometers (of which they seem to bid fairest for the invention; the first having been brought from Florence, and shewn here, tho they were reduced to a Standard, and received their perfection hence) the Pendulum, and other instruments, they come then to their first head, the Airs pressure, where most of the known Mercurial Experiments are tried, and confirmed, Objections answered, &c. with several Experiments made in vacuo, upon as well animate, as inanimate Bodys. Amongst the rest is observable an Experiment of Sound; which may be worth repeating, viz. that an Organ Pipe founded in vacuo, speaks with little, or no difference, the thin Æther it feemes being capable of causing it. Another Experiment is related of a small Fish that survived the Wrack of the vacuum, but was thereby so far disabled; that he could never after raise himselfe in the water, but had the Serpents Curse of creeping on his Belly in the Mud.\n\n2. In their second Head of Freezing they are very curious in examining the Expansion, Force, and Procedure of\nof freezing, whereof they have let down several very accurate Tables containing the gradual increase of Bulk, and particular time of every change happening in divers Fluids, these Experiments were made by an Artificial application of Salt, and Snow to the outside of the vessels. There are likewise many Tryals of Freezing naturally by the simple cold of the air. To these are added some Experiments about the alteration of the capacity of vessels by Heat and Cold.\n\n3. Experiments to shew Water uncapable of Compression.\n4. Against Positive Levity.\n5. Magnetical Experiments.\n6. They treat of Electric Bodys; which are so, which not, where many Experiments are tried, chiefly with Amber.\n7. About the change of Colours of Fluids by the mixture of other fluids; where 'tis observable that water still'd in Lead inturbidates all Spring, River, and Bath waters.\n8. About the Motion of Sounds made with several Cannon, and Musket shot.\n9. Of Projected Bodys, their motion.\n\nThe 10th, contains a Miscellany of Experiments not reducible to any of the former heads; as the Comparative weight of air, and water, Difference of weight of Bodys hot, and cold. Force of heat in Rarefaction, which was indeed very great, breaking a stone Pavement &c. Of Glass whether penetrable: of Light, and its quick motion: of Burning-Glasses: of Bodys affording Light when broken to pieces. Experiments touching the Digestion of Animals, which seems to be by attrition; Grinding to Powder all bodys of what solidity forever.\n\nSo much shall suffice for a slight view of the work, which in most if not all the Experiments is very nice, curious, and faithful: but to satisfy those that desire a fuller information I recommend the Book itself as very well worth the Perusal, and by this Translation easy to be procured.\n\nOXFORD,\n\nPrinted at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102093.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 959,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1886,
+        2
+      ],
+      [
+        1886,
+        3838,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102093",
+    "title": "An Account of a Book",
+    "authors": "Richard Waller",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102093"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0844fa7e0d4a7e788f6dd007f2f14db1d0186668",
+  "text": "In the third and last Book, our Author gives some farther account of the Cochinole, proving it to be of animal production, and that it is not any of English Lady-cow, as some have affirm'd: The Glossopetra he believes to be the petrified Teeth of Sharks. Concerning the Serpentine stone, he takes notice of the difference in Authors about it, viz. whether it is a Natural or Artificial production, and whether it hath the Virtue to expel Poison in Venemous bites or not? He enumerates the several assertions of the Learned pro & con, quoting divers of their Experiments, and at last concludes, that both Natural and Artificial are to be met with, and that the different operations must arise from thence. Pedro del porco our Author affirms to be only an Hegagropila found in the Stomach of a Porcupine. To these he adds some Observations taken from F. Camilli his Papers, not only concerning this Stone, but likewise Bezoars. The whole Book abounds with many Curious Observations, for the farther dilucidation of the Materia Medica, which we recommend to the perusal of the Curious:\n\nLondon, Printed for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St Paul's Church-yard, 1706.\n\nERRATA.\n\nB. B. In Philos. Transact. N. 305, Page 2195. Line 31. read VIII as well as IX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102683.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 393,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1307,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102683",
+    "title": "Errata",
+    "authors": null,
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102683"
+  }
+}

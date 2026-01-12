@@ -1,0 +1,69 @@
+{
+  "id": "6a87dba2f66d7879bb29c11457cf187ba76bfbd8",
+  "text": "compare their Observations therewith, either to verify these Predictions, or to shew wherein they differ; which is (as was also hinted above) the design of this Philosophical Prophet in dispersing his Conceptions, who declareth himself ready, in case he be mistaken in his reckoning, to learn another Hypothesis, to explicate these admirable appearances by.\n\nAn Experimental History of Cold.\n\nThere is in the Press, a New Treatise, entitled, New Observations and Experiments in order to an Experimental History of Cold, begun by that Noble Philosopher, Mr. Robert Boyle, and in great part already Printed; He did lately very obligingly present several Copies of so much as was Printed, to the Royal Society, with a desire that some of the Members thereof might be engaged to peruse the Book, and select out of it for trial, the hints of such Experiments, as the Author there wisheth might be either yet made or prosecuted. The Heads thereof are,\n\n1. Experiments touching Bodies capable of Freezing others.\n2. Experiments and Observations touching Bodies Disposed to be Frozen.\n3. Experiments touching Bodies, Indisposed to be Frozen.\n4. Experiments and Observations touching the Degrees of Cold in several Bodies.\n5. Experiments touching the Tendency of Cold Upwards or Downwards.\n6. Experiments and Observations touching the Preservation and Destruction of (Eggs, Apples, and other) Bodies by Cold.\n7. Experiments touching the Expansion of Water and Aqueous Liquors by Freezing.\n8. Experiments touching the Contraction of Liquors by Cold.\n9. Experiments in Consort, touching the Bubbles, from which the Levity of Ice is supposed to proceed.\n10. Experiments about the Measure of the Expansion and the Contraction of Liquors by Cold.\n11. Experiments touching the Expansive Force of Freezing Water.\n12. Experiments touching a New way of estimating the Expansive\nfive force of Congelation, and of highly compressing Air without Engines.\n\n13. Experiments and Observations touching the Sphere of Activity of Cold.\n\n14. Experiments touching differing Mediums, through which Cold may be diffused.\n\n15. Experiments and Observations touching Ice.\n\n16. Experiments and Observations touching the duration of Ice and Snow, and the destroying of them by the Air, and several Liquors.\n\n17. Considerations and Experiments touching the Primum Frigidum.\n\n18. Experiments and Observations touching the Coldness and Temperature of the Air.\n\n19. Of the strange Effects of Cold.\n\n20. Experiments touching the weight of Bodies frozen and unfrozen.\n\n21. Promiscuous Experiments and Observations concerning Cold.\n\nThis Treatise will be dispatched within a very short time, and would have been so, ere this, if the extremity of the late Frost had not stopp'd the Press. It will be accompanied with some Discourses of the same Author, concerning New Thermometrical Experiments and Thoughts, as also, with an Exercitation about the Doctrine of the Antiperistasis: In the former whereof is first proposed this Paradox, That not only our Senses, but common Weather-glasses, may mis-inform us about Cold. Next, there are contained in this part, New Observations about the deficiencies of Weather-glasses, together with some considerations touching the New or Hermetrical Thermometers. Lastly, they deliver another Paradox, touching the cause of the Condensation of the Air, and Ascent of water by cold in common Weather-glasses. The latter piece of this part contains an Examen of Antiperistasis, as it is wont to be taught and proved; Of all which there will, perhaps, a fuller account be given by the Next.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101404.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 890,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1860,
+        2
+      ],
+      [
+        1860,
+        3578,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101404",
+    "title": "An Experimental History of Cold",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101404"
+  }
+}

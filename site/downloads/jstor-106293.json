@@ -1,0 +1,219 @@
+{
+  "id": "fdb0d8fbfc08632f1bf73292c5679e9f99bf9574",
+  "text": "XXVIII. A new and general Method of finding simple and quickly-converging Series; by which the Proportion of the Diameter of a Circle to its Circumference may easily be computed to a great Number of Places of Figures. By Charles Hutton, Esq. F. R. S.\n\nTO THE REV. DR. HORSLEY, SEC. R. S.\n\nSIR,\n\nRoyal Mil. Acad.\nJan. 25, 1776.\n\nR. May 1, 1776. In a late examination of the methods of Mr. Machin and others, for computing the proportion of the diameter of a circle to its circumference, I discovered the method which is explained in the paper accompanying this letter. This method you, sir, will perceive is very general, and discovers many series which are very fit for the abovementioned purpose. If you think it has sufficient merit to entitle it to the honour of being offered to the Royal Society, I have taken the liberty to inclose it to you, requesting the favour of you to present it accordingly, from, &c.\n\nP. S. In the course of the last year, I attended some very interesting experiments on the effects of the force\nforce of fired gun-powder; as they seem to lead to many important conclusions, I believe I shall, in a short time, have the honour of submitting to your inspection an account of some of them, for the like purpose as the following paper.\n\nTHE excellency of this method is primarily owing to the simplicity of the series by which an arc is found from its tangent. For if $t$ denote the tangent of an arc $a$, the radius being 1, then it is well known, that the arc $a$ will be equal to the infinite series,\n\n$$\\frac{t}{1} - \\frac{t^3}{3} + \\frac{t^5}{5} - \\frac{t^7}{7} + \\frac{t^9}{9} - \\frac{t^{11}}{11} + \\&c.$$  \n\nwhere the form is as simple as can be desired. And it is evident, that nothing farther is required than to contrive matters so, as that the value of the quantity $t$ in this series may be both a small and a very simple number. Small, that the series may be made to converge sufficiently fast; and simple, that the several powers of $t$ may be raised by easy multiplications, or easy divisions.\n\nSince the first discovery of the above series, many have used it, and that after different methods, for determining the length of the circumference to a great number of figures. Among these were Dr. HalleY, Mr. Abraham Sharp, Mr. Machin, and others, of our own country; and M. de Lagny, M. Euler, &c. abroad. Dr. HalleY used the arc of $30^\\circ$, or $\\frac{1}{12}$th of the circumference, the tangent of which being $=\\sqrt{\\frac{1}{3}}$, by substituting $\\sqrt{\\frac{1}{3}}$ in the above series, and multiplying by 6, the semi\ncircumference is \\(=6\\sqrt{\\frac{1}{3}} \\times : 1 - \\frac{1}{3 \\cdot 3} + \\frac{1}{5 \\cdot 3^2} - \\frac{1}{7 \\cdot 3^4} + \\frac{1}{9 \\cdot 3^6}, \\&c.\\) which series is, to be sure, very simple; but its rate of converging is not very great, on which account a great many terms must be used to compute the circumference to many places of figures. By this very series, however, the industrious Mr. Sharp computed the circumference to 72 places of figures; Mr. Machin extended it to 100; and M. de Lagney, still by the same series, continued it to 128 places of figures. But although this series, from the 12th part of the circumference, does not converge very quickly, it is, perhaps, the best aliquot part of the circumference which can be used for this purpose; for when smaller arcs, which are exact aliquot parts, are used, their tangents, although smaller, are so much more complex, as to render them, on the whole, more operose in the application; this will easily appear, by inspecting some instances, that have been given by Mr. Gardiner, in his editions of Sherwin's Tables. One of these methods is from the arc of \\(18^\\circ\\), the tangent of which is \\(\\sqrt{1 - 2\\sqrt{\\frac{1}{5}}}\\); another is from the arc of \\(22^\\circ\\), the tangent of which is \\(\\sqrt{2} - 1\\); and a third is from the arc of \\(15^\\circ\\), the tangent of which is \\(2 - \\sqrt{3}\\). All of which are evidently too complex to afford an easy application to the general series.\n\nIn order to a still farther improvement of the method by the above general series, Mr. Machin, by a very singular and excellent contrivance, has greatly reduced the labour\nlabour naturally attending it. His method is explained in Mr. MASERES's Appendix to his Dissertation on the Use of the Negative Sign in Algebra; and I have given an analysis of it, or a conjecture concerning the manner in which it is probable Mr. MACHIN discovered it, in my Treatise on Mensuration; which, I believe, are the only two books in which that method has been explained, as I never had seen it explained by any, till I met with Mr. MASERES's book abovementioned on the Use of the Negative Sign. For though the series discovered by that method were published by Mr. JONES, in his Synopsis Palmariorum Matheseos, which was printed in the year 1706, he has given them merely by themselves, without the least hint of the manner in which they were obtained. The result shews, that the proportion of the diameter to the circumference is equal to that of 1 to quadruple the sum of the two series,\n\n\\[\n\\begin{align*}\n\\frac{4}{5} \\times : & \\quad 1 - \\frac{1}{3^2} + \\frac{1}{5^2} - \\frac{1}{7^2} + \\frac{1}{9^2}, \\text{ &c.} \\\\\n\\frac{1}{239} \\times : & \\quad 1 - \\frac{1}{3^2} + \\frac{1}{5^2} - \\frac{1}{7^2} + \\frac{1}{9^2}, \\text{ &c.}\n\\end{align*}\n\\]\n\nThe slower of which converges almost thrice as fast as Dr. HALLEY's raised from the tangent of 30°. The latter of these two series converges still a great deal quicker; but then the large incomposite number 239, by the reciprocals of the powers of which the series converges, occasions such long, tedious divisions, as to counter-balance its quickness of convergency; so that the former series is summed, with rather more ease than the latter, to the same num-\nMr. Hutton on\n\nber of places of figures. Mr. Jones, in his Synopsis, mentions other series besides this, which he had received from Mr. Machin for the same purpose, and drawn from the same principle. But we may conclude this to be the best of them all, as he did not publish any other besides it.\n\nM. Euler too, in his Introductio in Analysis Infinitorum, by a contrivance something like Mr. Machin's, discovers, that $\\frac{1}{2}$ and $\\frac{1}{3}$ are the tangents of two arcs, the sum of which is just $45^\\circ$; and that, therefore, the diameter is to the circumference as 1 to quadruple the sum of the two series,\n\n$$\\begin{align*}\n\\frac{1}{2} \\times : & \\quad 1 - \\frac{1}{3 \\cdot 4} + \\frac{1}{5 \\cdot 4^2} - \\frac{1}{7 \\cdot 4^3} + \\frac{1}{9 \\cdot 4^4}, \\text{ &c.} \\\\\n\\frac{1}{3} \\times : & \\quad 1 - \\frac{1}{3 \\cdot 9} + \\frac{1}{5 \\cdot 9^2} - \\frac{1}{7 \\cdot 9^3} + \\frac{1}{9 \\cdot 9^4}, \\text{ &c.}\n\\end{align*}$$\n\nBoth which series converge much faster than Dr. Halley's, and are yet at the same time made to converge by the powers of numbers producing only short divisions; that is, divisions performed in one line, or without writing down any thing besides the quotients.\n\nI come now to explain my own method, which, indeed, bears some little resemblance to the methods of Machin and Euler; but then it is more general, and discovers, as particular cases of it, both the series of those gentlemen and many others, some of which are fitter for this purpose than theirs are.\n\nThis method then consists in finding out such small arcs, as have for tangents some small and simple vulgar fractions (the radius being denoted by 1), and such also that some\nsome multiple of those arcs shall differ from an arc of $45^\\circ$, the tangent of which is equal to the radius, by other small arcs, which also shall have tangents denoted by other such small and simple vulgar fractions. For it is evident, that if such a small arc can be found, some multiple of which has such a proposed difference from an arc of $45^\\circ$, then the lengths of these two small arcs will be easily computed from the general series, because of the smallness and simplicity of their tangents; after which, if the proper multiple of the first arc be increased or diminished by the other arc, the result will be the length of an arc of $45^\\circ$, or $\\frac{1}{8}$th of the circumference. And the manner in which I discover such arcs is thus:\n\nLet $t$, $t'$ denote any two tangents, of which $t$ is the greater, and $t'$ the less; then it is known, that the tangent of the difference of the corresponding arcs is equal to $\\frac{t-t'}{1+t+t'}$. Hence, if $t$, the tangent of the smaller arc, be successively denoted by each of the simple fractions $\\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\frac{1}{5}$ &c., the general expression for the tangent of the difference between the arcs will become respectively $\\frac{2t-1}{2+t}, \\frac{3t-1}{3+t}, \\frac{4t-1}{4+t}, \\frac{5t-1}{5+t}$, &c.; so that if $t$ be expounded by any given number, then these expressions will give the tangent of the difference of the arcs in known numbers, according to the values of $t$, severally assumed respectively. And if, in the first place, $t$ be equal to $1$, the tangent of $45^\\circ$, the foregoing expressions will give the tangent of an arc, which is equal to the difference between that of $45^\\circ$ and the first arc; or that, of which the tangent\ntangent is one of the numbers \\( \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\frac{1}{5}, \\) &c. Then if the tangent of this difference, just now found, be taken for \\( t \\), the same expressions will give the tangent of an arc, which is equal to the difference between the arc of 45° and the double of the first arc. Again, if for \\( t \\) we take the tangent of this last found difference, then the foregoing expressions will give the tangent of an arc, equal to the difference between that of 45° and the triple of the first arc. And again taking this last found tangent for \\( t \\), the same theorem will produce the tangent of an arc equal to the difference between that of 45° and the quadruple of the first arc; and so on, always taking for \\( t \\) the tangent last found, the same expressions will give the tangent of the difference between the arc of 45° and the next greater multiple of the first arc; or that, of which the tangent was at first assumed equal to one of the small numbers \\( \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\frac{1}{5}, \\) &c. This operation, being continued till some of the expressions give such a fit, small, and simple fraction as is required, is then at an end, for we have then found two such small tangents as were required, viz. the tangent last found, and the tangent first assumed.\n\nHere follow the several operations adapted to the several values of \\( t \\). The letters \\( a, b, c, d, \\) &c. denote the several successive tangents.\n\n1. Take \\( t = \\frac{1}{2} \\), then the theorem \\( \\frac{2t-1}{2+t} \\) gives\n\n\\[\na = \\frac{1}{3}\n\\]\n\n\\[\nb = \\frac{-1}{7}\n\\]\n\nTherefore the arc of 45°, or \\( \\frac{1}{8} \\)th of the circumference, is either\neither equal to the sum of the two arcs of which \\( \\frac{1}{2} \\) and \\( \\frac{1}{3} \\) are the tangents, or to the difference between the arc of which the tangent is \\( \\frac{1}{7} \\), and the double of the arc of which the tangent is \\( \\frac{1}{2} \\); that is, putting \\( A = \\) the arc of \\( 45^\\circ \\).\n\n\\[\nA = \\begin{cases}\n+ \\frac{1}{2} \\times : 1 - \\frac{1}{3^4} + \\frac{1}{5^4} - \\frac{1}{7^4} + \\frac{1}{9^4} - \\&c. \\\\\n+ \\frac{1}{3} \\times : 1 - \\frac{1}{3^9} + \\frac{1}{5^9} - \\frac{1}{7^9} + \\frac{1}{9^9} - \\&c.\n\\end{cases}\n\\]\n\nOr, \\( A = \\begin{cases}\n+ 1 - \\frac{1}{3^4} + \\frac{1}{5^4} - \\frac{1}{7^4} + \\frac{1}{9^4} - \\&c. \\\\\n- \\frac{1}{7} \\times : 1 - \\frac{1}{3^49} + \\frac{1}{5^49} - \\frac{1}{7^49} + \\frac{1}{9^49} - \\&c.\n\\end{cases}\n\\)\n\nAnd the former of these values of \\( A \\) is the same with that before mentioned as given by M. Euler; but the latter is much better, as the powers of \\( \\frac{1}{49} \\) converge much faster than those of \\( \\frac{1}{9} \\).\n\n**Corol.** From double the former of these values of \\( A \\) subtracting the latter, the remainder is,\n\n\\[\nA = \\begin{cases}\n+ \\frac{2}{3} \\times : 1 - \\frac{1}{3^9} + \\frac{1}{5^9} - \\frac{1}{7^9} + \\frac{1}{9^9} - \\&c. \\\\\n+ \\frac{1}{7} \\times : 1 - \\frac{1}{3^49} + \\frac{1}{5^49} - \\frac{1}{7^49} + \\frac{1}{9^49} - \\&c.\n\\end{cases}\n\\]\n\nwhich is a much better theorem than either of the former.\n\n2. If \\( t \\) be taken \\( = \\frac{1}{3} \\), then the expression \\( \\frac{3t - 1}{3 + t} \\) gives,\n\n\\[\na = \\frac{1}{2}\n\\]\n\\[\nb = \\frac{1}{7}\n\\]\n\nHere the value of \\( a = \\frac{1}{2} \\) gives the same expression for the value of \\( A \\) as the first in the foregoing case, and the value\nof \\( b = \\frac{1}{7} \\) gives the value of \\( A \\) the very same as in the corol-\nlary to the case above.\n\n3. Taking \\( t = \\frac{1}{4} \\), the expression \\( \\frac{4t - 1}{4 + t} \\) gives\n\n\\[\n\\begin{align*}\na &= \\frac{3}{5} \\\\\nb &= \\frac{7}{23} \\\\\nc &= \\frac{5}{99} \\\\\nd &= -\\frac{79}{401}\n\\end{align*}\n\\]\n\nHere it is evident, that the value of \\( c = \\frac{5}{99} \\) is the fittest number afforded by this case; and from it it appears, that the arc of \\( 45^\\circ \\) is equal to the sum of the arc of which the tangent is \\( \\frac{5}{99} \\), and the triple of the arc of which the tangent is \\( \\frac{1}{4} \\).\n\nOr that \\( A = \\left\\{ \\begin{array}{l}\n+ \\frac{3}{4} \\times : 1 - \\frac{1}{3.16} + \\frac{1}{5.16^2} - \\frac{1}{7.16^3} + \\frac{1}{9.16^4} - \\&c. \\\\\n+ \\frac{5}{99} \\times : 1 - \\frac{5^2}{3.99^2} + \\frac{5^4}{5.99^4} - \\frac{5^6}{7.99^6} + \\frac{5^8}{9.99^8} - \\&c.\n\\end{array} \\right. \\)\n\nWhich is the best theorem that we have yet found, because that the number 99 resolves into the two easy factors 9 and 11.\n\n4. Let now \\( t \\) be taken \\( = \\frac{1}{5} \\), and the expression \\( \\frac{5t - 1}{5 + t} \\) will give\n\n\\[\n\\begin{align*}\na &= \\frac{2}{3} \\\\\nb &= \\frac{7}{17} \\\\\nc &= \\frac{9}{46} \\\\\nd &= \\frac{-1}{239}\n\\end{align*}\n\\]\nWhere it is evident, that the last number, or the value of \\(d\\), is the fittest of those produced in this case, and from which it appears, that the arc of \\(45^\\circ\\) is equal to the difference between the arc of which the tangent is \\(\\frac{1}{239}\\), and quadruple the arc of which the tangent is \\(\\frac{1}{5}\\). Or that\n\n\\[\nA = \\begin{cases} \n+ \\frac{4}{5} x : 1 - \\frac{1}{3.5^2} + \\frac{1}{5.5^4} - \\frac{1}{7.5^6} + \\frac{1}{9.5^8} - &c. \\\\\n- \\frac{1}{239} x : 1 - \\frac{1}{3.239^2} + \\frac{1}{5.239^4} - \\frac{1}{7.239^6} + \\frac{1}{9.239^8} - &c.\n\\end{cases}\n\\]\n\nWhich is the very theorem that was invented by Mr. Machin, as we have before mentioned.\n\n5. Take now \\(t = \\frac{1}{6}\\), and the expression \\(\\frac{6t-1}{6+t}\\) will give\n\n\\[\n\\begin{align*}\na &= \\frac{5}{7} \\\\\nb &= \\frac{23}{47} \\\\\nc &= \\frac{91}{305} \\\\\nd &= \\frac{241}{1921} \\\\\ne &= \\frac{-475}{11767}\n\\end{align*}\n\\]\n\nOf which numbers none, it is evident, are fit for our purpose.\n\nSff 2\n\n6. Again,\n6. Again, take $t = \\frac{1}{7}$, and the expression $\\frac{7T-1}{7+T}$ will give\n\n\\[\n\\begin{align*}\na &= \\frac{3}{4} \\\\\nb &= \\frac{17}{31} \\\\\nc &= \\frac{11}{28} \\\\\nd &= \\frac{49}{205} \\\\\ne &= \\frac{69}{742} \\\\\nf &= \\frac{-259}{5263}\n\\end{align*}\n\\]\n\nNeither are any of these fit numbers for our purpose.\n\n7. In like manner take $t = \\frac{1}{8}$, so shall $\\frac{8T-1}{8+T}$ give\n\n\\[\n\\begin{align*}\na &= \\frac{7}{9} \\\\\nb &= \\frac{47}{79} \\\\\nc &= \\frac{297}{679} \\\\\nd &= \\frac{1697}{5729} \\\\\ne &= \\frac{7847}{47529} \\\\\nf &= \\frac{14047}{388079}\n\\end{align*}\n\\]\n\n8. And\nConverging Series for the Circle.\n\n8. And if \\( t \\) be taken = \\( \\frac{1}{9} \\), the expression \\( \\frac{9t-1}{9+t} \\) will give\n\n\\[\n\\begin{align*}\na &= \\frac{4}{5} \\\\\nb &= \\frac{31}{49} \\\\\nc &= \\frac{115}{236} \\\\\nd &= \\frac{799}{2239} \\\\\ne &= \\frac{2467}{10475} \\\\\nf &= \\frac{11809}{96751} \\\\\ng &= \\frac{4765}{441284}\n\\end{align*}\n\\]\n\n9. Also, if we take \\( t = \\frac{1}{10} \\), the expression \\( \\frac{10t-1}{10+t} \\) will give\n\n\\[\n\\begin{align*}\na &= \\frac{2}{11} \\\\\nb &= \\frac{79}{119} \\\\\nc &= \\frac{671}{1269} \\\\\nd &= \\frac{5441}{13361} \\\\\ne &= \\frac{41049}{139051} \\\\\nf &= \\frac{271439}{1431559} \\\\\ng &= \\frac{1282831}{14587029}\n\\end{align*}\n\\]\n\n10. Farther\n10. Farther, if we take \\( t = \\frac{1}{11} \\), the expression \\( \\frac{11T - 1}{11 + T} \\) will give\n\n\\[\n\\begin{align*}\na &= \\frac{5}{6} \\\\\nb &= \\frac{49}{71} \\\\\nc &= \\frac{234}{415} \\\\\nd &= \\frac{2159}{4799} \\\\\ne &= \\frac{9475}{27474} \\\\\nf &= \\frac{76751}{311689} \\\\\ng &= \\frac{266286}{1752665} \\\\\nh &= \\frac{1176481}{89545601}\n\\end{align*}\n\\]\n\n11. Lastly, if we take \\( t = \\frac{1}{12} \\), the expression \\( \\frac{12T - 1}{12 + T} \\) gives\n\n\\[\n\\begin{align*}\na &= \\frac{11}{13} \\\\\nb &= \\frac{113}{167} \\\\\nc &= \\frac{41}{73} \\\\\nd &= \\frac{419}{917} \\\\\ne &= \\frac{4111}{11423} \\\\\nf &= \\frac{37909}{141187} \\\\\ng &= \\frac{313721}{1732153} \\\\\nh &= \\frac{2032499}{21099557} \\\\\ni &= \\frac{3290431}{255227183}\n\\end{align*}\n\\]\nHere it is evident, that none of these latter cases afford any numbers that are fit for this purpose. And to try any other fractions less than $\\frac{1}{72}$ for the value of $t$, does not seem likely to answer any good purpose, especially, as the divisors, after 12, become too large to be managed in the easy way of short division in one line.\n\nBy the foregoing means it appears, that we have discovered five different forms of the value of $A$, or $\\frac{1}{4}$th of the semi-circumference, all of which are very proper for readily computing its length; viz. three forms in the first case and its corollary, one in the third case, and one in the fourth case. Of these, the first and last are the same as those invented by Euler and Machin respectively, and the other three are quite new, as far as I know.\n\nBut another remarkable excellency attending the first three of the before mentioned series is, that they are capable of being changed into others which not only converge still faster, but in which the converging quantity shall be $\\frac{1}{10}$, or some multiple or sub-multiple of it; and so the powers of it raised with the utmost ease. The series', or theorems, here meant are these three:\n\n1st, $A = \\left\\{ \\begin{array}{l} +\\frac{1}{2} \\times : 1 - \\frac{1}{3^4} + \\frac{1}{5^4} - \\frac{1}{7^4} + \\frac{1}{9^4}, \\ldots \\end{array} \\right.$\n\n2dly, $A = \\left\\{ \\begin{array}{l} +\\frac{1}{3} \\times : 1 - \\frac{1}{3^9} + \\frac{1}{5^9} - \\frac{1}{7^9} + \\frac{1}{9^9}, \\ldots \\end{array} \\right.$\n\n3dly, $A = \\left\\{ \\begin{array}{l} +1 - \\frac{1}{3^4} + \\frac{1}{5^4} - \\frac{1}{7^4} + \\frac{1}{9^4}, \\ldots \\end{array} \\right.$\n\n$-\\frac{1}{7} \\times : 1 - \\frac{1}{3^4} + \\frac{1}{5^4} - \\frac{1}{7^4} + \\frac{1}{9^4}, \\ldots$\n3dly, \\( A = \\begin{cases} +\\frac{2}{3} x : 1 - \\frac{1}{39} + \\frac{1}{5 \\cdot 9^2} - \\frac{1}{7 \\cdot 9^3} + \\frac{1}{9 \\cdot 9^4}, & \\text{&c.} \\\\ +\\frac{1}{7} x : 1 - \\frac{1}{3 \\cdot 49} + \\frac{1}{5 \\cdot 49^2} - \\frac{1}{7 \\cdot 49^3} + \\frac{1}{9 \\cdot 49^4}, & \\text{&c.} \\end{cases} \\)\n\nNow if each of these be transformed, by means of the differential series in cor. 3. p. 64. of the late Mr. Thomas Simpson's Mathematical Dissertations, they will become of these very commodious forms, viz.\n\n1st, \\( A = \\begin{cases} +\\frac{4}{10} x : 1 + \\frac{4}{3 \\cdot 10} + \\frac{8x}{5 \\cdot 10} + \\frac{126}{7 \\cdot 10} + \\frac{16y}{9 \\cdot 10}, & \\text{&c.} \\\\ +\\frac{3}{10} x : 1 + \\frac{2}{3 \\cdot 10} + \\frac{4x}{5 \\cdot 10} + \\frac{66}{7 \\cdot 10} + \\frac{8y}{9 \\cdot 10}, & \\text{&c.} \\end{cases} \\)\n\n2dly, \\( A = \\begin{cases} +\\frac{4}{5} x : 1 + \\frac{4}{3 \\cdot 10} + \\frac{8x}{5 \\cdot 10} + \\frac{126}{7 \\cdot 10} + \\frac{16y}{9 \\cdot 10}, & \\text{&c.} \\\\ -\\frac{7}{50} x : 1 + \\frac{4}{3 \\cdot 100} + \\frac{8x}{5 \\cdot 100} + \\frac{126}{7 \\cdot 100} + \\frac{16y}{9 \\cdot 100}, & \\text{&c.} \\end{cases} \\)\n\n3dly, \\( A = \\begin{cases} +\\frac{6}{10} x : 1 + \\frac{2}{3 \\cdot 10} + \\frac{4x}{5 \\cdot 10} + \\frac{66}{7 \\cdot 10} + \\frac{8y}{9 \\cdot 10}, & \\text{&c.} \\\\ +\\frac{7}{50} x : 1 + \\frac{2}{3 \\cdot 50} + \\frac{4x}{5 \\cdot 50} + \\frac{66}{7 \\cdot 50} + \\frac{8y}{9 \\cdot 50}, & \\text{&c.} \\end{cases} \\)\n\nWhere \\( a, b, y, &c. \\) denote always the preceding terms in each series.\n\nNow it is evident, that all these latter series, are much easier than the former ones, to which they respectively correspond; for, because of the powers of 10 here concerned, we have little more to do than to divide by the series of odd numbers 1, 3, 5, 7, 9, &c.\n\nOf all these three forms the second is the fittest for computing the required proportion; because that, of the two series' of which it consists, the several terms of the one are\nare found from the like terms of the other, by dividing these latter by 10 and its several successive powers 100, 1000, &c.; that is, the terms of the one consist of the same figures as the terms of the other, only removed a certain number of places farther towards the right, in the decuple scale of numbers; and the number of places, by which they must be removed, is the same as the distance of each term from the first term of the series, viz. in the second term the figures must be moved one place lower, in the third term two, in the fourth term three, &c. so that the latter series will consist of but about half the number of the terms of the former. Thus, then, this method may be said to effect the business by one series only, in which there is little more to do, than to divide by the several numbers 1, 3, 5, 7, &c.; for as to the multiplications by the numbers in the numerators of the terms, after they become large, they are easily performed by barely multiplying by the number two, and subtracting one number from another: for since every numerator is less by two than the double of its denominator, if $d$ denote any denominator (exclusive always of the powers of 10) then the co-efficient of that term is $\\frac{2d-2}{d}$, or $2 - \\frac{2}{d}$, by which the preceding term is to be multiplied; to do which, therefore, multiply it by two, that is double it, and divide that double by the divisor $d$, and subtract the quotient from the said double.\n\nVol. LXVI. T t t By\nBy a pretty exact estimate, which I have made, of the proportion of the trouble or time in computing the circumference by this middle form of the value of $A$, and by Mr. Machin's theorem, I have found, that the computation by his method requires about $\\frac{1}{8}$th or $\\frac{1}{16}$th more time than by mine. And its advantage over any of the series' invented by Euler or others, is still much more considerable.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106293.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 18,
+    "total-input-tokens": 27626,
+    "total-output-tokens": 8134,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1027,
+        2
+      ],
+      [
+        1027,
+        2567,
+        3
+      ],
+      [
+        2567,
+        4198,
+        4
+      ],
+      [
+        4198,
+        5817,
+        5
+      ],
+      [
+        5817,
+        7487,
+        6
+      ],
+      [
+        7487,
+        9236,
+        7
+      ],
+      [
+        9236,
+        10913,
+        8
+      ],
+      [
+        10913,
+        12584,
+        9
+      ],
+      [
+        12584,
+        13833,
+        10
+      ],
+      [
+        13833,
+        14810,
+        11
+      ],
+      [
+        14810,
+        15379,
+        12
+      ],
+      [
+        15379,
+        16045,
+        13
+      ],
+      [
+        16045,
+        16767,
+        14
+      ],
+      [
+        16767,
+        18509,
+        15
+      ],
+      [
+        18509,
+        20452,
+        16
+      ],
+      [
+        20452,
+        21940,
+        17
+      ],
+      [
+        21940,
+        22356,
+        18
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106293",
+    "title": "A New and General Method of Finding Simple and Quickly-Converging Series; By Which the Proportion of the Diameter of a Circle to Its Circumference May Easily be Computed to a Great Number of Places of Figures. By Charles Hutton, Esq. F. R. S.",
+    "authors": "Charles Hutton",
+    "year": 1776,
+    "volume": "66",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 18,
+    "jstor_url": "https://www.jstor.org/stable/106293"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "61adf103f70f475e9e8c7725cdd5afd622dfa327",
+  "text": "I. A Letter from James Badenach, M.D. to Mathew Maty, M.D. Sec. R.S. containing a technical Description of an uncommon Bird from Malacca.\n\nSIR,\n\nRead Jan. 9, 1771.\n\nHere present you a curious and uncommon species of bird, which I met with at Malacca in August 1770. The male, female, and two young ones, were purchased at that place from the natives, but died soon afterwards on board\nboard of ship, in the passage from that port to China. The character and history of this bird, as they then occurred to me, and were immediately noted down in my journal, in the manner of the great Linnæus, are as follows.\n\nT A B. I.\n\nMas. Magnitudo perdricis vulgaris, corpus supra virescens, subtus nigricans, remiges primores griseae, cauda brevis rotundata, apice nigro. Frons calva, crista coccinea ex occipite orta, è 15 circiter plumulis sesquipollicaribus, respectu capitis, subrecta, divaricata. Rostrum convexum breve; mandibula superior nigra, supra inferiorem, margine rubro cerato, imbricata; nares oblongae, orbitae rubrae, oculi purpurei; ad basin rostri mystaces aliquot albescentes. Femora seminuda, tibiae longae, rubrae, graciles. Pedes tetradactyli, fissi incarnati, subnodosi, digitus posticus reliquis crassior, brevior, truncatusque.\n\nFæmina. Mare paulo minor, crista nulla, remiges primores & tectrices alarum rufo ferrugineae.\n\nPulli. Pulli lanuginosi atri, aqua delectantes.\n\nVox. Mas & fæmina voce sonora frequenter sibilant.\n\nNidus inter gramina, arundinesque.\n\nViétus. Oryza, pane in aqua missa vescitur.\nThe Male from the Peninsula of Malacca.\nWhat genus this bird is properly to be referred to, I shall not pretend to determine; but if you think this, though but imperfect account, worth the communicating to your Society, you have my leave; and I am, with respect,\n\nSIR,\n\nYour most obedient,\n\nand most humble servant,\n\nLondon,\nOctober 13, 1771.\n\nJames Badenach, M.D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106032.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7978,
+    "total-output-tokens": 716,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        385,
+        2
+      ],
+      [
+        385,
+        1519,
+        3
+      ],
+      [
+        1519,
+        1559,
+        4
+      ],
+      [
+        1559,
+        1883,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106032",
+    "title": "A Letter from James Badenach, M. D. To Mathew Maty, M. D. Sec. R. S. Containing a Technical Description of an Uncommon Bird from Malacca",
+    "authors": "James Badenach",
+    "year": 1772,
+    "volume": "62",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106032"
+  }
+}

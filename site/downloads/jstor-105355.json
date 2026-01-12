@@ -1,0 +1,89 @@
+{
+  "id": "41b858e23973125635f4d98c6d29ecb5f8002ae4",
+  "text": "ship and the Society a specimen of the encaustic upon paper, being a bird drawn by Mr. George Edwards, a fellow of this Society, on paper prepared with a ground of whitening and fish-glew, painted with water colours, and then the wax, &c. burned in. This will roll up as easily as common paper, without cracking the varnish. There are also two landscapes, painted by a young lady, after the same manner, on wood. These will fully evince all I advanced in that paper.\n\nI am, my Lord, with the greatest respect,\n\nYour Lordship's most humble Servant,\n\nBudge-row,\nApril 5, 1759.\n\nJosiah Colebrooke.\n\nX. An Account of a particular Species of Cocoon, or Silk-pod, from America. By the Reverend Samuel Pullein, M. A.\n\nHAVING lately seen the aurelia of a particular species of caterpillar, I judged, from its texture and consistence, that there might be procured from it a silk not inferior to that of the common silk-worm in its quality, and in its quantity much superior. I have made some experiments on this new species of silk-pod, which strengthen this opinion.\n\nThis pod is about three inches and a quarter in length, and above one inch in diameter; its outward form not\nso regular an oval as that of the common silk-worm; its consistence somewhat like that of a dried bladder, when not fully blown; its colour of a reddish brown; its whole weight 21 grains.\n\nUpon cutting open this outer integument, there appeared in the inside a pod completely oval, as that of the silk-worm. It was covered with some floss-silk, by which it was connected to the outer coat, being of the same colour. Its length was two inches; its diameter nearly one inch; and its weight nine grains.\n\nThe pod could not be easily unwinded, because it was perforated by the moth: but, upon putting it in hot water, I reeled off so much as sufficed to form a judgment of the strength and staple of its silk.\n\nThe single thread winded off the pod in the same manner as that of the common silk-worm; seeming in all respects as fine, and as tough. I doubled this thread so often as to contain twenty in thickness; and the compound thread was as smooth, as elastic, and as glossy, as that of the common silk-worm. I tried what weight it would bear; and it bore fifteen ounces and a half, and broke with somewhat less than sixteen, upon several trials. I then tried a thread of the common silk-worm, which was also composed of twenty (in thickness it rather exceeded the other); and it broke always with fifteen ounces.\n\nI boiled a part of the cocoon in water, for the space of four hours, that I might know whether it was composed of a gum in any sort mucilaginous;\nand I found that it was as indissoluble as that of the common silk-worm.\n\nThe common silk-pod, with all its floss, weighs usually but three grains: and here is a pod which weighs seven times as much. If the outer coat, which weighed twelve grains, were all to be used only as floss-silk, there remain nine grains, capable of being reeled; which is above three times as much as can be reeled from the common cocoon. But I am of opinion, that when the pod is fresh, and not hardened by age, the whole outer coat may be reeled off: for the pod on which I made these trials was seven or eight years old.\n\nUpon enquiry, I have found that the moth of this pod is called the Isinglafs by Marian. It is a very large moth, being five inches from the tip of each wing extended. It differs from the silk-moth, in that it has a proboscis; which intimates that it feeds in its papilio state, whereas the silk-moth never eats.\n\nThe caterpillar which produces this pod is a native of America. It was found in Pennsylvania: the pod was fixed to the small branch of a tree, which seemed to be either of the crab or hawthorn species.\n\nThe leaf of the tree had also helped to support the pod; for the mark of its ribs was apparent on the surface of the pod.\n\nI do not conceive that it will be at all difficult to find out the caterpillar, or the tree it feeds on; or to reel such a quantity of the silk as shall, when woven into ribband, more fully demonstrate whether it be of that value which I judge it. For by comparing\ncomparing it with the cocoon of the wild Chinese silk-worm, from which an excellent species of silk is made, I have no doubt of its being the same species; and would be glad if, by this memorial, I could induce the people of America to make trial of it.\n\nSamuel Pullein.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105355.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1190,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1169,
+        2
+      ],
+      [
+        1169,
+        2629,
+        3
+      ],
+      [
+        2629,
+        4134,
+        4
+      ],
+      [
+        4134,
+        4404,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105355",
+    "title": "An Account of a Particular Species of Cocoon, or Silk-Pod, from America. By the Reverend Samuel Pullein, M. A.",
+    "authors": "Samuel Pullein",
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105355"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "769b1c0a354a8ed346f84214954f99041f73bdd9",
+  "text": "IX. On the means adopted in the British Colonial Magnetic Observatories for determining the absolute Values, Secular Change, and Annual Variation of the Magnetic Force. By Lieut.-Colonel Edward Sabine, R.A., For. Sec. R.S. page 201\n\nX. Observations on the Freezing of the Albumen of Eggs. By James Paget, Esq., Professor of Anatomy and Surgery to the Royal College of Surgeons of England. Communicated by Thomas Bell, Sec. R.S. .......................... 221\n\nXI. Researches on the Tides.—Fourteenth Series. On the Results of continued Tide Observations at several places on the British Coasts. By the Rev. W. Whewell, D.D., F.R.S. ........................................... 227\n\nXII. Experiments and Observations upon the Properties of Light. By Lord Brougham, F.R.S., Member of the National Institute, and of the Royal Academy of Naples .................................................. 235\n\nXIII. General Methods in Analysis for the resolution of Linear Equations in Finite Differences and Linear Differential Equations. By Charles James Hargreave, Esq., LL.B., F.R.S., Professor of Jurisprudence in University College, London .................................................. 261\n\nXIV. Electro-Physiological Researches.—Eighth Series. By Signor Carlo Matteucci. Communicated by W. R. Grove, Esq., F.R.S. ........................................... 287\n\nERRATA.\n\nThe plant mentioned by Professor Macaire in his paper, published in the Philosophical Transactions for 1848, p. 253, as Tamus communis, is not Smilax aspera, as suggested in the note at that page, but Bryonia dioica.\n\nPage 243, line 9, for E read F.\n——— 257, line 25, for light read night.\n——— 257, line 29, for polarity read polarization.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108424.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 494,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1708,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108424",
+    "title": "Errata",
+    "authors": null,
+    "year": 1850,
+    "volume": "140",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108424"
+  }
+}

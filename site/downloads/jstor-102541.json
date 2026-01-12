@@ -1,0 +1,59 @@
+{
+  "id": "37bc6204a2c26c340f9dd7c279d714018655f6f1",
+  "text": "XV. A Catalogue of some Books lately Printed, or now Printing beyond Sea.\n\nVaggio D'Italia in Inghelterra, descritione Geografico-historica sacro-profana, antico-moderna e naturale, del padre Maestro Vincenzo Coronelli Ven. 1697. 2 Vol. in 8vo.\n\nEphemerides Barometricæ Mutinenses anni 1694. una cum disquisitione causæ ascensus ac descensus Mercurii in Torricelliana fistula juxta diversum aeris statum Bernardini Rammazini, his accessere epistolæ Jo.Bapt. Bocca-badati & D. Francisci Torti. Mutin. 1695. in 8vo.\n\nDella natura de'fuimi Trattato fisico-matematico del Dottore Domenico Guglielmini in cui si manifestano le principale proprieta de fiumi se n'dicano molte sin hora non conosciute, e si dimostrano d'una maniera facile le cause delle medesime, P. 1697. 4to.\n\nHistoire nouvelle des anciens Ducs, & autres Souverains de l'achipel. avec la description des Isles, & des choses les plus remarquables qui sy voyent encore aujourd'hui. Paris, 1698. 12mo.\n\nThe following Book is printing at Helmstad, in Folio.\n\nHistoria Horti Helmstadiensis Plantarum maximam partem exoticarum & riorum sub coelo Academiæ Juliae hactenus propagatarum Nomina, Descriptiones, Culturam & Vires nec non insigniores nonnullarum Icones exhibens Opera Johannis Andreae Stisseri, Med. Prof. Ord.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102541.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 466,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1276,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102541",
+    "title": "A Catalogue of Some Books Lately Printed, or Now Printing beyond Sea",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102541"
+  }
+}

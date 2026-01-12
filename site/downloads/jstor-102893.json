@@ -1,0 +1,199 @@
+{
+  "id": "613b5e4dbb24897073b76b9b56fb1f2c5c35ce59",
+  "text": "III. Specimen Methodi Generalis determinandi Figurarum Quadraturas. Antore Jo. Craig.\n\nAd D. Georgium Cheynaem, M. D.\n\nFacile credas, Vir Eruditissime, mihi non parum arridere, quòd Methodus, quà usus fum in determinandis Figurarum Quadraturis, tantopere à D. Leibnitio & te probata fuerit; ut ille alteri cuidam à se inventae non-nihil similem agnosceret. Tu verò ut conjecturam feceris ei non multo absimilem esse illam quà utitur D. Newtonus; eundemque ipse tanto cùm successu sequaris, ut Methodus Calculi differentialis inversa incredibili incremento jam à te promota sit in Libro tuo, quem D. Archibaldo Pitcarnio Patriæ nostræ & sæculi, hujus Ornamento inscripsisti. Sed multa (ut nòsti) ad Methodum illam inversam perficiendam necessaria adhuc invenienda supersunt. Ego Tibi rerum harum judici peritissimo rationes aliquot breviter exponam, quæ faciunt ut reliqua per Methodus hactenus usurpatas non posse obtineri putem.\n\nEt primò quidem, cùm ex data relatione inter z & y, quæritur $f: z \\cdot dy$, omnes illæ Methodi postulant ut z per y & datas exprimatur; quòd tamen fieri non potest, quando æquatio relationem illam definiens ultra Cubicam vel Bi-quadraticam ascendit. Nam, non sine magno hujus scientiæ opprobrio, hæret híc adhuc Algebra Vulgaris. Secundo, quamvis regula innotesceret generalis\ngeneralis inveniendi Radices æquationum cujuscunque gradûs; huic tamen Methode inversâ prorsus foret inutilis: Radix enim z iurât tam complicans involvere tur, ut nullâ arte (haecenam cognita) à differentiali ad Integram regressus dari possit. Ob has rationes, Vir clarissime, aliar vias & (favente Deo) conatu non prorsus irrito rem tum aggressus. Et quia in his me quædam tibi non duplicitura invenire spero, ideò eorum Specimen Tibi publicè imperitri confirui. Precor interim ut Deus Otium tibi & vitam, ut Geometriam ac Medicinam ad talen perdacæ perfectionem, quam in utrâque editæ à Te Primitiae merito expectare faciunt.\n\nAmicum Tibi devinçissimum,\n\nGillingham,\n22 Apr. 1703.\n\nJo. Craig.\n\nS E C T I O I.\n\nSIT \\( z^n + ax^n = b z^e y^f \\) aquatio exprimens relationem inter Ordinatam \\( z \\) & absclifem \\( y \\), in qua Exponentes \\( m, n, c, r \\) denotant quolibet Numeros, Integros vel Fractos, Affirmativos vel Negativos. Ponatur \\( r - n = c \\) Erat\n\n\\[\n\\text{AREA} = \\frac{m}{n} z y + \\frac{mc + nc}{m \\times m + n \\times c + r + 1}\n\\]\n\n\\[\n+ \\frac{b}{z} \\frac{c + r}{c + r}\n\\]\nDe hác Seris hæc sunt notanda: (1.) Quòd literæ majusculæ B, C, D &c. designent coefficientes terminorum ipsis immediatè praecedentium: (2.) Quòd exhibeat Quadraturas omnium Figurarum Quadrabilium, quorum Curvae per aequationem trium terminorum definiuntur: (3.) Et quòd semper sint Quadabiles, quando \\( m \\times r \\) est numerus integer & affirmativus,\n\\[\n\\frac{m}{mn} = \\frac{r}{rn}\n\\]\nquem vocamus 1. (4.) Speciatim 1 + r dat numerum Terminorum (ab initio sumptorum) Series Arcam quam constiuentium: (5.) Quòd ponatur c = 0, mutabitur hæc Series in Celebre Theorema Newtonianum\nnum pro Binomio communi; & proinde hoc Theorema est hujus Seriei casus specialis & simplex: (6.) Cum fit Applicatio hujus Seriei ad Figuram particularem, haec regulae sunt observandae. \n\n1° Reducatur aequatio Curvam datam definiens ad formam generalem, &c. ex comparatione particularis cum generali inveniuntur coefficientes \\(a, b\\); ut &c. exponentes \\(m, n, e, r\\). Secunda, Si exponentes sic determinati non faciant numerum integrum & affirmativum, (juxta conditionem in Not. 3. assignatam,) tum alius terminus aequationis particularis à quantitate \\(z\\) liberetur; & si nunc exponentibus denuo determinatis non competat illa Quadrabilitatis conditio, tum reliquus terminus à quantitate \\(z\\) liberetur: Nam nullo labore quilibet ex tribus terminis aequationem datam constituentibus à quantitate \\(z\\) liberari potest. Tertia, Si aequationi per Regulam praecedentem tractatae non conveniat praedicta Quadrabilitatis conditio; tum per Seriem quaeratur Areae complementum \\(s: y d z\\): quo cognito statim habetur Area quaesita; nam, ut omnibus notam, \\(z y - s: y d z = f: z d y\\). Et ut sine confusione Complementum per Seriem obtineatur; in aequatione data Curvam particularem definiente pro \\(z\\) scribatur \\(Y\\), & pro \\(y\\) scribatur \\(Z\\): Facaque hæc mutatione Ordinatae in Abscisam, & Abscisae in Ordinatam, tradetur aequatio juxta præcepta regulæ secundæ; donec illi conveniat Quadrabilitatis conditio, vel eadem ipsa non posse convenire patet.\n\nExemplum 1. Sit \\(z^3 + y^3 = b z y\\). Quia hic \\(m = 3\\), \\(n = 3\\), \\(e = 1\\), \\(r = 1\\), \\(a = 1\\); ideo \\(l = 1\\), adeoque \\(p + 1 = 2\\). Et proinde (juxta Not. 4.) duo primi Seriei termini dant Aream \\(= \\frac{1}{4} z y - \\frac{1}{8} b z^2 y^{-1}\\).\n\n\\[z z z z z z z z\\] Exemplo.\nExemp. 2. Sit \\( z^3 + ay^3 = bzy^2 \\), ubi \\( m = 7 \\), \\( n = 3 \\), \\( e = 1 \\), \\( r = 2 \\); qui faciunt \\( l = 2 \\); ideo (juxta Not. 4.) tres primi Seriei termini dabunt quasdam\n\n\\[\n\\text{AREA} = \\frac{7}{10} z y - \\frac{b}{15a} z^2 - \\frac{2b^2}{15a^2} z^3 y^{1/2}.\n\\]\n\nExemp. 3. Sit \\( z^3 + ky^3 = hz^2 y^2 \\); ubi \\( m = r \\), \\( n = 5 \\), \\( e = 2 \\), \\( r = 11 \\); at quia hi non faciunt \\( l \\) numerum integrum & affirmativum; ideo (per Regulam secundam) liberò terminum \\( hz^2 y^2 \\) à quantitate \\( z^3 \\); & sic æquatio fit \\( z^3 - hy^2 = -kz^2 y^2 \\); ubi \\( a = -h \\), \\( b = -k \\); \\( x = m = 5 \\), \\( n = 11 \\), \\( e = 2 \\), \\( r = 6 \\); qui faciunt \\( l = 1 \\). Unde\n\n\\[\n\\text{AREA} = \\frac{5}{16} z y - \\frac{k}{16h} z^3 y^{1/2}.\n\\]\n\nExemp. 4. Sit \\( z^2 - hy^2 = -kz^2 y^2 \\); ubi \\( m = 2 \\), \\( n = 2 \\), \\( e = 2 \\), \\( r = 2 \\); qui non faciunt \\( l \\) numerum integrum & affirmativum; ideo liberò terminum \\( -kz^2 y^2 \\) à quantitate \\( z^2 \\); & tum \\( z^2 + ky^2 = hz^2 y^2 \\); ubi \\( a = k \\), \\( b = h \\); & \\( m = 0 \\), \\( n = 2 \\), \\( e = -2 \\), \\( r = 2 \\), qui faciunt \\( l = 1 \\), ideo\n\n\\[\n\\text{AREA} = \\frac{h}{k} z^2 y.\n\\]\n\nExemp. 5. Sit \\( z^2 - \\frac{4g^2}{h} y^6 = -\\frac{g}{h} z^2 y^4 \\); ubi \\( m = 2 \\), \\( n = 6 \\), \\( e = 2 \\), \\( r = 4 \\); qui non faciunt \\( l \\) numerum integrum & affirmativum; idemque contingit liberato (à quantitate \\( z \\)) utrolibet ex reliquis: Ideo juxta regulam Tertiam quæro Complementum; quare (ut jam præmonui) pono \\( z = Y \\); \\( y = Z \\); unde æquatio data erit\n\n\\[\nY^2 - \\frac{4g^2}{h} Z^6 = -\\frac{g}{h} Z^4 Y^2;\n\\]\n\nquæ (juxta Reg. 1.) reducta ad formam generalem erit hujus modi\nmodi \\( Z^6 - \\frac{h}{4g^2} Y^2 = \\frac{1}{4g} Z^4 Y^2 \\) ubi \\( m = 6 \\),\n\\( n = 2, c = 4, r = 2 \\); qui non faciant numerum integrum & affirmativum; ideo (juxta Reg. 2.) libero terminum ultimum a \\( Z \\);\nunde \\( Z^2 - \\frac{1}{4g} Y^2 = \\frac{h}{4g^2} Z^{-4} Y^2 \\); ubi \\( m = 2 \\),\n\\( n = 2, e = -4, r = 2 \\); unde \\( l = 1 \\), & \\( a = -\\frac{1}{4g} \\), \\( b = \\frac{h}{4g^2} \\);\nUnde Area quaesita complementum est\n\\( = \\frac{h}{2g} ZY - \\frac{h}{2g} Z^{-3} Y \\) seu \\( zy - \\frac{h}{2g} zy^{-3} \\);\nErgo etiam Area quaesita \\( f: zdy = \\frac{1}{2} zy + \\frac{h}{2g} zy^{-3} \\).\n\n---\n\n**SECTIO II.**\n\nSit \\( z^m + ay = bz^n + fz^c + nz^e \\) aequatio exprimens Relationem inter Ordinatam \\( z \\) & Abscissam \\( y \\).\nFrit\n\\[ \\text{AREA} = Azy + Bz^{c+1} + Cz^{2e+1} + Dz^{3e+1} + Ez^{4e+1} + Fz^{5e+1}, \\ldots \\]\nUbi\nUbi (positis \\(2c + n = r, c + n = s\\)) \\(A = \\frac{n}{m + n}\\),\n\n\\[B = \\frac{m - e + 5 \\times A + e - m}{m \\times c + i + n \\times c + i} \\times \\frac{f}{a}\\]\n\n\\[C = \\frac{m - 2e + r \\times bA + m - e \\times c + i + r \\times c + i \\times fB + 2eb - mb}{ma \\times 2c + i + na \\times 2e + i}\\]\n\n\\[D = \\frac{m - 2e \\times c + i + r \\times e + i \\times bB + m - ex2c + i + sx2e + i \\times fC}{ma \\times 3c + i + na \\times 3e + i}\\]\n\n\\[E = \\frac{m - 2e \\times 2c + i + r \\times 2e + i \\times bC + m - ex3c + i + sx3e + i \\times fD}{ma \\times 4c + i + na \\times 4e + i}\\]\n\n\\[F = \\frac{m - 2e \\times 3c + i + r \\times 3e + i \\times bD + m - ex4c + i + sx4e + i \\times fF}{ma \\times 5c + i + na \\times 5e + i}\\]\nDe hac Serie (cujus progressio primo serè intuitu est manifesta) hæc sunt notanda. (1.) Quod figuræ (quarum Curvæ prædictæ æquatione definiuntur) sunt Quadrabiles, quando Numeri exponentiales m, n, e, c; & coefficientes a, b, f habent relationes modo assignandas;\n\n\\[ \\frac{2c + m \\times n - 2e}{cm - en} \\]\n\nscil: quando est numerus integer & affirmativus, quem vocemus l. & (cum l est major quam 2) quando Coefficientium relatio est hæc.\n\n\\[ \\frac{m - 2e \\times lc - c + r \\times le - e + i}{bU} = \\frac{f}{e - m \\times lc + i - s \\times le + i} \\]\n\n\\[ \\frac{m - 2e \\times lc - 2c + i + r \\times le - 2e + i}{bP} = \\frac{a}{m \\times lc + i + n \\times le + i} \\]\n\n\\[ \\frac{m - e \\times lc - c + i + r \\times le - e + i}{fU} = \\frac{a}{m \\times lc + i + n \\times le + i} \\]\n\nUbi U & P denotant Coefficientes Terminorum duorum, qui immediate præcedunt ultimo Areae quæsitæ Termino; scil: U est coefficiens termini ad Ultimum proprioris, P coefficiens termini ab ultimo remotioris:\n\n\\[ 5e + i \\quad 5c + i \\]\n\nut si Fz y effet ultimus Areae quæsitæ terminus, tum U denotaret E, & P denotaret D. (2) Ultimus\ntimus ille Areæ quaestæ terminus ex valore numeri l cognoscitur; nam hic etiam l+1 dat numerum terminorum (ab initio sumptorum) Seriei, qui Aream quaestam constituunt. (3) Si fuerit l=1, tum coefficientium relatio debet esse hæc\n\n$$\\frac{2e-m\\times 1-A+rA}{f} = \\frac{e-m\\times 1-A+sA}{a}$$\n\nSi l=2; relatio debet esse hæc\n\n$$\\frac{m-2exc+i+r\\times e+1}{f} = \\frac{bB}{a}$$\n\n$$\\frac{e-m\\times 2c+i-s\\times 2e+1}{f} = \\frac{bB}{a}$$\n\n$$\\frac{2e-m\\times 1-A+rA}{f} = \\frac{e-m\\times 2c+i+s\\times e+1}{a}$$\n\n$$\\frac{m\\times 2c+i+n\\times 2e+1}{f} = \\frac{bB}{a}$$\n\nSECTIO\nSectio III.\n\nSit \\( z = ay + bz y + fz y + \\)\n\n\\( 3e 3c + n 4c 4c + n + \\&c. \\) aquatio exprimens relationem inter ordinatam \\( z \\) & abscissam \\( y \\); & constans terminis quotcunque. Erit.\n\n\\[\n\\text{Area} = Az y + Bz y + Cz y + \n\\]\n\n\\( 3e - i 3c - i 4c - i 4c - i + \\&c. \\)\n\nQuod in fallor, est Theorema non contemnendum. Calculo per facili inveniuntur A, B, C, D, E, &c. ut & Quadrabilitatis conditiones, & quot termini seriei Areae quam sitam constituent. Crescit quidem numerus huium conditionum pro multitudine terminorum, ex quibus constat aquatio relationem inter \\( z \\) & \\( y \\) definiens. Et specialiter si illa terminorum multitudine vocetur \\( N \\); tum \\( N - 2 \\) est numerus conditionum Quadrabilitatis; quarum una Exponentium \\( m, n, e, c \\) relationem respicit, estq; hoc; ut\n\n\\[\nNc - 2c + 2e - Ne + m + n \\\\\n- cm = en\n\\]\nest numerus (quem vocemus!) Integer & affirmativus. Reliquæ vero conditiones coefficientium \\(a, b, f, g, h,\\) &c. respiciunt. Ac deniq; \\(1 + r\\) dat numerum terminorum (ab initio sumptorum) seriei, qui Areae quaestam constituunt.\n\nCorol. Ex hac Serie generali deduci potest Series, quæ exhibeat Quadraturas Figurarum, quarum Curvae definiuntur per æquationem constantem terminis quibusvis, qui æquationem Sectionis tertiae generalem constituunt. Nam ad hanc obtinendam opus tantum est Seriem computare pro æquatione constante tot terminis (ab initio sumptis) æquationis generalis, quot includent Terminos æquatio Curvas definiens. Tum ex valoribus quantitatum A, B, C, D, &c. Eliminentur illæ coefficients \\(b, f, g, \\&c.\\) quæ ad æquationem propostam non spectant; reliquæ dabunt arcem quaestam Exemplo res datebit.\n\n---\n\n**S E C T I O IV.**\n\n\\[ SIT z = ay + bz y + gz y \\]\n\nEquationem exprimens relationem inter Z & Y. Jam quia\n\n\\[ z = ay + bz y + fz y + gz y \\]\n\nest illa pars pars æquationis quæ (sumptis terminis in ordine a principio) includit æquationem datam; quam deinceps (brevitatis causa) æquationem completam vocabo; ideo Figurarum (quarum Curvae definiuntur per æquationem completam.)\n\nAreae\n\\[\n\\text{Area} = Azy + Bz \\quad e+1 \\quad c+1 \\quad 2e+1 \\quad 2c+1 \\\\\nDz \\quad y \\quad + Ez \\quad y \\quad + Fz \\quad y \\quad + \\&c.\n\\]\n\n\\& a, b, f, g ingredientur valores quantitatum B, C, D, E, F \\&c. Si ergo in his valoribus ponatur ubiq; f=0 (quia fz y aquationem datam non ingreditur) habebis valores quantitatum A, B, C, D, E, \\&c. qui in Serie substituti dabunt Areas quæsitæ. Et Calculo inito in veni.\n\n\\[\nA = \\frac{m}{m+n}, \\quad B = \\frac{c-m-c-n\\times A+m-e}{m\\times c+1+n\\times e+1} \\times \\frac{b}{a}\n\\]\n\n\\[\nC = \\frac{c+n\\times e+1+m-e\\times c+1}{m\\times 2c+1+n\\times 2e+1} \\times bB\n\\]\n\n\\[\nD = \\frac{m-3e\\times A+3c+n\\times A\\times g}{m\\times 3c+1}\n\\]\n\n\\[\n+n\\times c\\times 2c+1+c+n\\times 2c+1\\times -bC\n\\]\n\n\\[\n+n\\times a\\times 3c+1\n\\]\n\n\\[\nB b b b b b b \\quad E =\n\\]\n\\[ E = \\frac{m - 3exc + 1 + 3c + nx + 1x}{max4c + 1} \\]\n\n\\[ F = \\frac{n - 3ox2c + 1 + 3c + nx2c + 1 + ma5c + 1}{gC + m - c \\times 4c + 1 + c + n \\times 4c + 1 \\times bE} \\]\n\n\\[ G = \\frac{m - 3ex3c + 13 + c + nx3c + 1x}{ma6c + 1} \\]\n\n\\[ -gD + m - c \\times 5c + 1 + c + n \\times 5c + 1 \\times bF \\]\n\n\\[ + na \\times 6c + 1 \\]\nEx his patet progressio reliquorum in infinitum. Et sic habetur Series exhibens Quadraturas omnium Figurarum, quarum Curvae desiniuntur per hanc æquationem quatuor terminorum\n\n\\[ z = ay + bz y + gz y \\]\n\nEt notandum quod conditiones Quadrabilitatis & numerus terminorum Seriei, Aream quamlibet qua sitam constituentium, eadem sunt cum conditionibus Quadrabilitatis, & numero Terminorum, quae conveniunt Figuris, quarum Curvae per æquationes completas desiniuntur.\n\nCorol. Præter has duas series in § 2 & 4 propter Figuras quatuor terminorum, possunt eodem modo infinitæ aliae series computari pro cæteris casibus Figurarum, quatuor terminorum. Quod etiam intelligendum est De omnibus aliis Figuris, quarum Curvae per æquationes quotlibet terminorum numero constantes desiniuntur.\n\nNon jam vacat ipsam Methodum minutiatim describere, per quam ad hujusmodi Series pervenio; brevem tamen ejus rationem exponere forte non ingratum erit. Assumio Seriem ex z pariter ac y compositam, sc:\n\n\\[ Azy + Bz y + Cz y + Dz y + \\ldots = f: zdy. \\]\n\nCujus singuli termini (præter primum) habeant Exponentes incognitos. Tum æquationem instituo inter duos valores quantitatis dz, quorum alter ex hac serie, alter ex æquatione relationem inter z & y definitente per Methodum Calculi Differentialis directam facile invenitur. Ex terminis hujus æquationis ritè reductæ primo deter-\nminos exponentes incognitos p, q, g, h, l, k &c. Et de\nin coefficientes A, B, C, &c. Et si plures sint compara-\ntiones, quam quae determinandis his coefficientibus suffi-\ncient, tum ex reliquis deduco Quadrabilitatis conditio-\nnes. Si recta incatur via, Calculus est longe facillimus;\nmultasq; habeo Regulas huc spectantes quas alias forsan\ntradam; ut & usum hujus Methodi in inveniendis Qua-\ndraturis irrationalibus finitis, quando rationales non dan-\ntur: res enim omnino in potestate est.\n\nIV. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102893.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 16,
+    "total-input-tokens": 24582,
+    "total-output-tokens": 6178,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1310,
+        2
+      ],
+      [
+        1310,
+        2398,
+        3
+      ],
+      [
+        2398,
+        2980,
+        4
+      ],
+      [
+        2980,
+        4722,
+        5
+      ],
+      [
+        4722,
+        6390,
+        6
+      ],
+      [
+        6390,
+        7214,
+        7
+      ],
+      [
+        7214,
+        7919,
+        8
+      ],
+      [
+        7919,
+        9024,
+        9
+      ],
+      [
+        9024,
+        9592,
+        10
+      ],
+      [
+        9592,
+        10435,
+        11
+      ],
+      [
+        10435,
+        11643,
+        12
+      ],
+      [
+        11643,
+        12423,
+        13
+      ],
+      [
+        12423,
+        12746,
+        14
+      ],
+      [
+        12746,
+        14107,
+        15
+      ],
+      [
+        14107,
+        14606,
+        16
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102893",
+    "title": "Specimen Methodi Generalis Determinandi Figurarum Quadraturas. Autore Jo. Craig",
+    "authors": "Jo. Craig",
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 16,
+    "jstor_url": "https://www.jstor.org/stable/102893"
+  }
+}

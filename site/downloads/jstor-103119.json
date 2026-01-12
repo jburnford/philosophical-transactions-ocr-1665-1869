@@ -1,0 +1,59 @@
+{
+  "id": "0842ddf87553fa8b3149b15a2f04c78e2c443e0b",
+  "text": "EXEMPLUM.\n\nContendat R fore ut aliquando A sit superatus ipsum B 2 ludis, & forte estiam ut aliquando B sit superatus ipsum A 3 ludis, & sit numerus ludorum transigendus 7.\n\nNumerus casuum quibus possit A superare ipsum B 2 ludis, est $a^7 + 7a^6b + 21a^5bb + 21a^4b^3 + 7a^3b^4 + aab^5$.\n\nNumerus casuum quibus possit B superare ipsum A 3 ludis, est $1a^4b^3 + 7a^3b^4 + 21a^2b^5 + 7ab^6 + b^7$.\n\nNumerus casuum quibus neuter alterum superare possit datis ludorum numeris, est $13a^4b^3 + 21a^3b^4$.\n\nSumma omnium istorum casuum erit\n\n$a^7 + 7a^6b + 21a^5bb + 35a^4b^3 + 35a^3b^4 + 22a^2b^5 + 7ab^6 + b^7$.\n\nSubtrahatur $a + b^7$ seu\n\n$a^7 + 7a^6b + 21a^5bb + 35a^4b^3 + 35a^3b^4 + 21a^2b^5 + 7ab^6 + b^7$.\n\nResiduum erit $1a^2b^5$.\n\nErgo expectatio ipsius R erit $\\frac{a^2b^5}{a + b^7}$.\n\nERRATA.\n\nPag. 216. lin. 12. dele omnium. Pag. 218. lin. 16. pro simul, lege prima vice. Pag. 219. lin. 7, lege ut eventus aliquis. Pag. 220. lin. 3. lege limites. Pag. 231. lin. 15. pro 450, lege 495.\n\nLin. 16 & 17. pro 115, lege 165. Pag. 239. lin. 8. pro $\\frac{p}{q}$, lege $\\frac{p}{2}$.\n\nPag. 258. lin. 10. pro = o, lege = 12aabb. Pag. 262. lin. 4. pro numerorum ludus, lege ludorum numerus.\n\nLONDON: Printed for H. Clements at the Half-Moon, and W. Innys at the Prince's Arms, in St. Paul's Churchyard; and D. Brown at the Black Swan without Temple-Bar.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103119.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 725,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1351,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103119",
+    "title": "Errata",
+    "authors": null,
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103119"
+  }
+}

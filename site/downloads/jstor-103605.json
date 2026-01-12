@@ -1,0 +1,79 @@
+{
+  "id": "de7f409b399067f6ae0fc332fc022959d2329fc8",
+  "text": "VII. De Sectione Anguli, Autore A. de Moivre, R. S. S.\n\nNeunte Anno 1707, incidi in Methodum quâ, Æquatione datâ hujus formæ.\n\n\\[ ny + \\frac{nn - 1}{2 \\times 3} A y^3 + \\frac{nn - 9}{4 \\times 5} B y^5 + \\frac{nn - 25}{6 \\times 7} C y^7 \\]\n\n&c. = a,\n\nVel iftius,\n\n\\[ ny + \\frac{1 - nn}{2 \\times 3} A y^3 + \\frac{9 - nn}{4 \\times 5} B y^5 + \\frac{25 - nn}{6 \\times 7} C y^7 \\]\n\n&c. = a; ubi quantitates A, B, C, &c. repræsentant Coefficientes Terminorum præcedentium, Radices determinavi ad hunc modum.\n\nPosito \\( a + \\sqrt{aa + 1} = v \\) in primo casu.\n\n\\[ a + \\sqrt{aa - 1} = v \\] in secundo.\n\n\\[ \\frac{1}{\\sqrt{v}} \\]\n\nErit \\( y = \\frac{1}{2} \\sqrt{v} - \\frac{2}{\\sqrt{v}} \\) in primo casu.\n\n\\[ y = \\frac{1}{2} \\sqrt{v} + \\frac{2}{\\sqrt{v}} \\] in secundo.\n\nSolutiones autem istæ insertæ fuerunt in Philosophicis Transactionibus, Num. 309, pro mensibus Jan. Feb. Mart. ejusdem anni.\n\nJam quibus perspectum erit quo artificio Formulæ istæ inventæ fuerint, his procul dubio patebit aditus ad demonstrationem sequentis Theorematis.\nSit \\( x \\) Sinus Versus Arcus cujuslibet.\n\\( t \\) Sinus Versus Arcus alterius.\n\\( r \\) Radius Circuli.\n\nSitque Arcus prior ad posteriorum ut \\( r \\) ad \\( n \\), Tunc, assumptis binis \\( \\mathcal{E} \\)quationibus quas cognatas appellare licet,\n\n\\[\n1 - 2z^n + zz = -2zx\n\\]\n\nExpunctoque \\( z \\), orietur \\( \\mathcal{E} \\)quatio qua Relatio inter \\( x \\) & \\( t \\) determinatur.\n\n**COROLLARIUM I.**\n\nSi Arcus posterior sit Semicircumferentia, \\( \\mathcal{E} \\)quationes erunt.\n\n\\[\n1 + z^n = 0\n\\]\n\\[\n1 - 2z + zz = -2zx\n\\]\n\ne quibus si expungatur \\( z \\), orietur \\( \\mathcal{E} \\)quatio qua determinantur Sinus Versi Arcuum qui sint ad Semicircumferentiam, semel, ter, quinquies, &c. sumptam, ut \\( r \\) ad \\( n \\).\n\n**COROLLARIUM II.**\n\nSi Arcus posterior sit Circumferentia, \\( \\mathcal{E} \\)quationes erunt\n\n\\[\n1 - z^n = 0\n\\]\n\\[\n1 - 2z + zz = -2zx\n\\]\n\ne quibus si expungatur \\( z \\), orietur \\( \\mathcal{E} \\)quatio qua determinantur Sinus Versi Arcuum qui sint ad Circumferentiam, semel, bis, ter, quater, &c. sumptam, ut \\( r \\) ad \\( n \\).\n\n**COROLLARIUM III.**\n\nSi Arcus posterior sit 60 Graduum, \\( \\mathcal{E} \\)quationes erunt\n\n\\[\n0\n\\]\n\\[1 - z^n + z^{2n} = 0\\]\n\\[1 - 2z + zz = -2zn.\\]\n\ne quibus si expungatur \\(z\\), oriétur Æquatio quà determinantur Sinus Versi Arcuum qui sint ad Arcum 60 Graduum.\n\nper \\(\\{1, 7, 13, 19, 25 &c.\\}\\) multiplicatum\nut 1 ad \\(n\\).\n\nSi Arcus posterior sit 120 Graduum, Æquationes crunt\n\n\\[1 + z^n + z^{2n} = 0\\]\n\\[1 - 2z + zz = -2zn.\\]\n\ne quibus si expungatur \\(z\\), oriétur Æquatio quà determinantur Sinus Versi Arcuum qui sint ad Arcum 120 Graduum.\n\nper \\(\\{1, 4, 7, 10, 13 &c.\\}\\) multiplicatum\nut 1 ad \\(n\\).\n\nNovemb. 15.\n1722.\n\nVIII. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103605.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1248,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1029,
+        2
+      ],
+      [
+        1029,
+        2171,
+        3
+      ],
+      [
+        2171,
+        2706,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103605",
+    "title": "De Sectione Anguli, Autore A. de Moivre, R. S. S.",
+    "authors": "A. de Moivre",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103605"
+  }
+}

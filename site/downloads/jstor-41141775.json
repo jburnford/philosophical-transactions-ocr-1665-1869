@@ -1,0 +1,59 @@
+{
+  "id": "10d807505427a8d9829b68b10dd3864c7a7d538f",
+  "text": "VIII. Account of the repetition of Mr. Christie's experiments on the magnetic properties imparted to an iron plate by rotation, at Port Bowen, in May and June, 1825. By Lieutenant Henry Foster, R. N. F. R. S.; together with Mr. Christie's remarks thereon.\n\nIX. Observations to determine the amount of Atmospheric Refraction at Port Bowen in the Years 1824-25. By Captain W. E. Parry, R. N. F. R. S. Lieutenant Henry Foster, R. N. F. R. S. and Lieutenant J. C. Ross, R. N. F. L. S.\n\nERRATA.—PART III.\n\nIn Mr. Herschel's Paper on the Parallax of the Fixed Stars.\n\nPage 272, line 21, for \"sin. l\" read \"sin. λ.\"\n\n— 274, line 15, for \"sin. l\" read \"sin. λ.\"\n\n— 274, line 17, instead of the equation there set down, read as follows:\n\n\\[ \\text{Sin. } \\lambda. \\tan. (\\Omega - l) = \\tan. (\\pi - \\sigma); \\quad (2) \\]\n\nIn consequence of these corrections, the dates in Col. 5 of the table page 277 and 278, which have been inadvertently computed from the erroneous formula, are for the most part incorrect.\n\nPage 347, line 16, for crest, read crust.\n\n— 348, line 10, supply a comma after \"upon it,\" and omit one after \"covers it.\"\n\n— 361, line 3, for \"those,\" read \"of those.\"\n\n— ib. line 7, for \"the length,\" read \"a length.\"\n\n— 365, line 12, for \"particular,\" read \"particularly.\"\n\n— 371, line 6, supply a comma after \"ligament,\" and omit one after \"cuticle.\"\n\nERRATA.—PART IV.\n\nPage 24, Col. Mean Chron. line 6 from bottom, for 2 15 52,44, read 2 16 52,44.\n\nAnd in Col. Mean Clock, last line, for 22 20 13,25, read 12 20 13,25.\n\n— 31, The second register of the State of the Barometer on the morning of the 18th of June, for Begs. read Ends.\n\n— 73, line 12, for encreasing, read increasing.\n\n— 106, opposite April 14th, insert A. M.\n\n— 126, line 11, for Appendix, read Appendices.\n\n— 127, wherever the word axis occurs, read axes.\n\n— 151, Col. reading of North End of needle, line 18 from bottom, erase the sign (+).\n\n— 189, line 10 from bottom, after figures 3, 4, and 5, insert Plate VI.\n\n— 209, lines 6 and 7 from bottom, for Tables VIII. to XI. read VII. to XII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/41141775.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3458,
+    "total-output-tokens": 775,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2061,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-41141775",
+    "title": "ERRATA.—PART III.",
+    "authors": null,
+    "year": 1826,
+    "volume": "116",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/41141775"
+  }
+}

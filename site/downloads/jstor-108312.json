@@ -1,0 +1,89 @@
+{
+  "id": "c011348f0873182972685831f00fb2cbfbe40930",
+  "text": "X. Investigation of an Extensive Class of Partial Differential Equations of the Second Order, in which the Equation of Laplace's Functions is included.\n\nBy G. W. Hearn, Esq., of the Royal Military College, Sandhurst. Communicated by Sir John F. W. Herschel, Bart., F.R.S., &c.\n\nReceived February 19,—Read April 2, 1846.\n\nTheorem. If \\( u \\) be a function of \\( x \\) and \\( y \\) satisfying the equation\n\n\\[\n\\frac{d^2u}{dxdy} + \\alpha_n e^\\phi u = 0,\n\\]\n\nwhere\n\n\\[\n\\frac{d^2\\phi}{dxdy} + ce^\\phi = 0,\n\\]\n\nthen the solution will be\n\n\\[\nu = D^{-n}v_n\n\\]\n\nwhere\n\n\\[\nD = e^{-\\phi} \\frac{d}{dy},\n\\]\n\nwhere\n\n\\[\nv_n = \\int e^{-\\beta_n \\phi} \\chi y dy + \\psi x,\n\\]\n\n\\( \\chi y \\) and \\( \\psi x \\) arbitrary functions of \\( y \\) and \\( x \\),\n\nand\n\n\\[\n\\beta_n = \\frac{\\Delta \\alpha_{n-1} \\cdot \\Delta \\alpha_{n-2} \\cdots}{(\\Delta \\alpha_{n-1} - c)(\\Delta \\alpha_{n-2} - c) \\cdots};\n\\]\n\nwhere\n\n\\[\n\\Delta \\alpha_r = \\alpha_{r+1} - \\alpha_r,\n\\]\n\nand \\( \\alpha_n \\) is a function of \\( n \\) vanishing for \\( n = 0 \\) and for \\( n = -1 \\).\n\nI will proceed to demonstrate this curious theorem as briefly as possible.\n\nAccording to the notation, we may write the given equation\n\n\\[\nD \\frac{du}{dx} + \\alpha_n u = 0.\n\\]\n\nThen if\n\n\\[\nv_n = D^n u\n\\]\n\nwe have\n\n\\[\nv_{n+1} = D^{n+1} u = D v_n.\n\\]\n\nSuppose that\n\n\\[\nD \\frac{dv_n}{dx} + \\beta_n z D v_n = D^n \\left\\{ D \\frac{du}{dx} + \\alpha_n u \\right\\}. \\quad \\ldots \\quad (\\alpha)\n\\]\n\nwhere \\( z \\) is a function of \\( x \\) and \\( y \\) to be determined, also \\( \\beta_n \\) a function of \\( u \\).\n\nWriting \\( n+1 \\) for \\( n \\) in equation (a), we ought to have\n\n\\[\nD \\frac{dv_{n+1}}{dx} + \\beta_{n+1} z D v_{n+1} = D^{n+1} \\left\\{ D \\frac{du}{dx} + \\alpha_{n+1} u \\right\\}. \\quad \\ldots \\quad (\\beta)\n\\]\nThis circumstance will serve to determine \\( z \\) and \\( \\beta_n \\) as follows: we have identically\n\n\\[\nD^{n+1} \\left\\{ D \\frac{du}{dx} + \\alpha_{n+1} u \\right\\} = D^{n+1} \\left\\{ D \\frac{du}{dx} + \\alpha_n u \\right\\} + \\Delta \\alpha_n D^{n+1} u\n\\]\n\n\\[\n= D^2 \\frac{dv_n}{dx} + \\beta_n D \\left\\{ z Dv_n \\right\\} + \\Delta \\alpha_n \\cdot Dv_n \\text{ by } (\\alpha)\n\\]\n\n\\[\n= D^2 \\frac{dv_n}{dx} + \\beta_n D \\left\\{ z v_{n+1} \\right\\} + \\Delta \\alpha_n \\cdot v_{n+1}.\n\\]\n\nBut\n\n\\[\n\\frac{dv_{n+1}}{dx} = \\frac{d}{dx} Dv_n = \\frac{d}{dx} \\left( e^{-\\varphi} \\frac{dv_n}{dy} \\right)\n\\]\n\n\\[\n= -\\frac{d\\varphi}{dx} e^{-\\varphi} \\frac{dv_n}{dy} + e^{-\\varphi} \\frac{d}{dy} \\cdot \\frac{dv_n}{dx}\n\\]\n\n\\[\n= -\\frac{d\\varphi}{dx} Dv_n + D \\frac{dv_n}{dx};\n\\]\n\n\\[\n\\therefore \\quad D^2 \\frac{dv_n}{dx} = D \\left\\{ \\frac{dv_{n+1}}{dx} + \\frac{d\\varphi}{dx} v_{n+1} \\right\\}.\n\\]\n\nHence\n\n\\[\nD \\frac{dv_{n+1}}{dx} + D \\left( \\frac{d\\varphi}{dx} v_{n+1} \\right) + \\beta_n D (z v_{n+1}) + \\Delta \\alpha_n v_{n+1}.\n\\]\n\nought to be identical with \\( D \\frac{dv_{n+1}}{dx} + \\beta_{n+1} z Dv_{n+1} \\), and hence the conditions\n\n\\[\n\\frac{d\\varphi}{dx} + \\beta_n z = \\beta_{n+1} z\n\\]\n\n\\[\nD \\left\\{ \\frac{d\\varphi}{dx} + \\beta_n z \\right\\} = -\\Delta \\alpha_n.\n\\]\n\nEliminating \\( z \\), we have\n\n\\[\nD \\frac{d\\varphi}{dx} = -\\frac{\\Delta \\alpha_n \\Delta \\beta_n}{\\beta_{n+1}} = -c,\n\\]\n\nor\n\n\\[\n\\frac{d^2\\varphi}{dxdy} + c e^\\varphi = 0,\n\\]\n\nand\n\n\\[\nc \\beta_{n+1} = \\Delta \\alpha_n \\{ \\beta_{n+1} - \\beta_n \\},\n\\]\n\nor\n\n\\[\n\\beta_{n+1} = \\frac{\\Delta \\alpha_n}{\\Delta \\alpha_n - c} \\cdot \\beta_n;\n\\]\n\n\\[\n\\therefore \\quad \\beta_n = \\frac{\\Delta \\alpha_{n-1} \\cdot \\Delta \\alpha_{n-2} \\cdots}{(\\Delta \\alpha_{n-1} - c)(\\Delta \\alpha_{n-2} - c) \\cdots};\n\\]\n\nby these determinations we establish the formula \\((\\beta)\\) as a consequence of \\((\\alpha)\\), and therefore if the formula \\((\\alpha)\\) be true for any value of \\( n \\), it will be (subject to the above conditions) true for the next superior value.\n\nNow, when \\( n = 0 \\), \\( v_0 = D^0 u = u \\), and provided \\( \\alpha_0 \\) and \\( \\alpha_{-1} \\) are each \\( = 0 \\), \\( \\alpha_0 \\) and \\( \\Delta \\alpha_{-1} \\) will be each 0, and \\( \\therefore \\alpha_0 \\) and \\( \\beta_0 \\) each \\( = 0 \\), and the equation \\((\\alpha)\\) reduces to \\( D \\frac{dv_0}{dx} \\).\n\\( = D \\frac{du}{dx} \\), and is therefore true for \\( u = 0 \\). Under these restrictions it will therefore be true for any positive integral value of \\( n \\). Now the symbol \\( D \\) represents \\( e^{-\\phi} \\frac{d}{dy} \\), and therefore if \\( U = 0 \\), \\( D^n U = 0 \\), so that we have\n\n\\[ D \\frac{dv_n}{dx} + \\beta_n z Dv_n = 0, \\]\n\nor\n\n\\[ e^{-\\phi} \\frac{d^2 v_n}{dxdy} + \\frac{\\beta_n}{\\Delta \\beta_n} \\cdot \\frac{d\\phi}{dx} \\cdot e^{-\\phi} \\frac{dv_n}{dy} = 0, \\]\n\nor\n\n\\[ \\frac{d}{dx} \\frac{dv_n}{dy} = -\\frac{\\beta_n}{\\Delta \\beta_n} \\cdot \\frac{d\\phi}{dx}; \\]\n\n∴ integrating with respect to \\( x \\),\n\n\\[ \\frac{dv_n}{dy} = e^{-\\frac{\\beta_n}{\\Delta \\beta_n} \\phi} \\chi y \\]\n\n\\[ v_n = \\int e^{-\\frac{\\beta_n}{\\Delta \\beta_n} \\phi} \\chi y dy + \\psi x, \\]\n\nand\n\n\\[ u = D^{-n} v_n = \\int e^\\phi \\int e^\\phi \\ldots \\ldots v_n dy dy \\ldots \\ldots \\]\n\nthe integral sign repeated \\( n \\) times. The theorem is therefore demonstrated.\n\nIt may be easily shown that the equation of Laplace's coefficients is included in the class here considered.\n\nThe equation of Laplace by a proper choice of independent variables assumes the form\n\n\\[ \\frac{d^2 u}{dxdy} + \\frac{n(n+1)}{4 \\cos^2 \\frac{y-x}{2}} \\cdot u = 0. \\]\n\nHence with reference to the preceding investigation,\n\n\\[ D = \\cos^2 \\frac{y-x}{2} \\cdot \\frac{d}{dy} \\text{ and } \\alpha_n = \\frac{n(n+1)}{4}. \\]\n\nHence\n\n\\[ e^{-\\phi} = \\cos^2 \\frac{y-x}{2}; \\]\n\n∴\n\n\\[ \\frac{d\\phi}{dx} = -\\tan \\frac{y-x}{2} \\]\n\n\\[ \\frac{d^2 \\phi}{dxdy} + \\frac{1}{2} e^\\phi = 0. \\]\n\nHence\n\n\\[ c = \\frac{1}{2}. \\text{ Also } \\Delta \\alpha_n = \\frac{n+1}{2}; \\quad \\Delta \\alpha_n - c = \\frac{n}{2}; \\]\n\n∴\n\n\\[ \\beta_n = n \\text{ and } \\Delta \\beta_n = 1. \\]\nInserting these values in the final formula, we have\n\n\\[ v_n = \\int \\cos^{2n} \\frac{y-x}{2} \\chi y dy + \\psi x, \\]\n\nand\n\n\\[ u = \\int \\cos^{-2} \\frac{y-x}{2} \\int \\cos^{-2} \\frac{y-x}{2} \\ldots v_n dy dy \\ldots n \\text{ times}, \\]\n\nwhich agrees with Mr. Hargreave's solution.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108312.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8392,
+    "total-output-tokens": 2553,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1730,
+        2
+      ],
+      [
+        1730,
+        4003,
+        3
+      ],
+      [
+        4003,
+        5682,
+        4
+      ],
+      [
+        5682,
+        5956,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108312",
+    "title": "Investigation of an Extensive Class of Partial Differential Equations of the Second Order, in Which the Equation of Laplace's Functions is Included",
+    "authors": "G. W. Hearn",
+    "year": 1846,
+    "volume": "136",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/108312"
+  }
+}

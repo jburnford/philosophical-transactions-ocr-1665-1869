@@ -1,0 +1,249 @@
+{
+  "id": "31b57e2cd9ad325a6d4c93b13582cf88d48635f4",
+  "text": "XIV. Observations on the Analogy which subsists between the Calculus of Functions and other branches of Analysis. By Charles Babbage, Esq. M. A. F. R. S.\n\nRead April 17, 1817.\n\nIt is my intention in the following Paper to offer to the Royal Society some remarks on the utility of analogical reasoning in mathematical subjects, and to illustrate them by some striking facts which have occurred to me, when comparing the calculus of functions with other modes of calculation with which mathematicians have been long acquainted. The employment of such an instrument may, perhaps, create surprise in those who have been accustomed to view this science as one which is founded on the most perfect demonstration, and it may be imagined that the vagueness and errors which analogy, when unskilfully employed, has sometimes introduced into other sciences, would be transferred to this.\n\nIt is, however, only as a guide to point out the road to discovery, that analogy should be used, and for this purpose it is admirably adapted.\n\nIt is usually more difficult to discover than to demonstrate any proposition; for the latter process we may have rules, but for the former we have none. The traces of those ideas which, in the mind of the discoverer of any new truth, connect the unknown with the known, are so faint, and his attention is so much more intensely directed to the object, than to\nthe means by which he attains it, that it not unfrequently happens, that while we admire the happiness of a discovery, we are totally at a loss to conceive the steps by which its author ascended to it.\n\nFrom these considerations, I think it will appear, that any successful attempt to embody into language those fleeting laws by which the genius of the inventor is insensibly guided in the exercise of the most splendid privilege of intellect, would contribute more to the future progress of mathematical science than anything which has hitherto been accomplished. Amidst the total absence of all attempts of this kind, the following illustrations of one of the most obvious assistants of the inventive faculty, will not, I hope, be considered useless, even though it should have no other effect than that of directing the attention of those who are engaged in mathematical enquiries, to this most interesting and important subject.\n\nAt our first entrance into algebra, one of the most remarkable circumstances which presents itself is, that some fractions which in certain cases apparently vanish, have in fact a finite value. Such is the fraction $\\frac{a^x - b^x}{x}$ which when $x = 0$ becomes $\\frac{1 - 1}{0} = \\frac{0}{0}$, and yet its real value is well known to be $\\log \\frac{a}{b}$.\n\nHere then by assigning a certain value to a variable quantity which is capable of all degrees of magnitude, the expression apparently becomes illusory: let us now examine a parallel case in the Calculus of Functions. Take the expres-\n\n$$\\psi x - \\frac{1}{\\psi x},$$\n\nand let us suppose $\\psi$ to be an arbitrary charac-\nteristic capable of assuming all varieties of form; then amongst these varieties we may have $\\psi x = o$, and the expression becomes $\\frac{o-o}{o}$.\n\nIn order to ascertain its real meaning, let us suppose\n\n$$\\psi x = v \\varphi x + v^2 \\varphi x + \\&c.$$  \n\nwhich if we suppose $v = o$ gives $\\psi x = o$\n\nthen $$\\psi \\frac{1}{x} = v \\varphi \\frac{1}{x} + v^2 \\varphi \\frac{1}{x} + \\&c.$$  \n\nand the expression becomes\n\n$$\\frac{\\psi x - \\psi \\frac{1}{x}}{\\psi x} = \\frac{(v \\varphi - v \\varphi \\frac{1}{x}) + (v^2 \\varphi - v^2 \\varphi \\frac{1}{x}) + \\&c.}{v \\varphi x + v^2 \\varphi x + \\&c.} = \\frac{\\varphi x - \\varphi \\frac{1}{x}}{\\varphi x} + \\&c.$$  \n\nwhich becomes when $v = o$ or $\\psi x = o$\n\n$$\\frac{\\psi x - \\psi \\frac{1}{x}}{\\psi x} = \\frac{\\varphi x - \\varphi \\frac{1}{x}}{\\varphi x}$$  \n\nwhere $\\varphi x$ is quite arbitrary.\n\nIf we suppose $\\psi x$ to become a symmetrical function of $x$ and $\\frac{1}{x}$, we have $\\psi x = \\psi \\frac{1}{x}$ and our expression becomes $\\frac{o}{\\psi x}$ which actually does vanish in all cases except at the same time $\\psi x = o$.\n\nAs a second example take the expression $\\frac{f_x - f_x \\cdot f_{ax}}{1 - f_x \\cdot f_{ax}}$ which becomes $\\frac{o}{o}$ if the two following equations hold true $f_x \\cdot f_{ax} = 1$ and $f_x - f_x \\cdot f_{ax} = o$, $\\alpha$ being any given function, such that $\\alpha^2 x = x$. In order to ascertain its real value in that case, let us suppose\n\n$$f_x \\text{ becomes } f_x + v \\varphi x$$  \n\nand $$f_x \\text{ becomes } f_x + v \\varphi x$$  \n\nMDCCCXVII. D d\nthen \\( f_{ax} \\) will be \\( f_{ax} + v \\varphi_{ax} \\)\n\nand \\( f_{ax} \\) will be \\( f_{ax} + v \\varphi_{ax} \\)\n\nand these being substituted we have\n\n\\[\n\\frac{(f_{x} - f_{x} \\cdot f_{ax}) - (\\varphi_{x} - f_{x} \\cdot \\varphi_{ax} - f_{ax} \\cdot \\varphi_{x})v - \\varphi_{x} \\cdot \\varphi_{ax} \\cdot v^2}{(1 - f_{x} \\cdot f_{ax}) - (f_{x} \\cdot \\varphi_{ax} + f_{ax} \\cdot \\varphi_{x})v - \\varphi_{x} \\cdot \\varphi_{ax} \\cdot v^2}\n\\]\n\nnow in consequence of the two equations given above, the first term in both numerator and denominator vanishes, and dividing the remainder by \\( v \\) and then making \\( v = 0 \\), we have for the value of the expression when \\( f_{x} - f_{x} \\cdot f_{ax} = 0 \\) and also \\( f_{x} \\cdot f_{ax} = 1 \\)\n\n\\[\n\\frac{f_{x} - f_{x} \\cdot f_{ax}}{1 - f_{x} \\cdot f_{ax}} = \\frac{\\varphi_{x} - f_{x} \\cdot \\varphi_{ax} - f_{ax} \\cdot \\varphi_{x}}{f_{x} \\cdot \\varphi_{ax} + f_{ax} \\cdot \\varphi_{x}}\n\\]\n\nwhere \\( \\varphi \\) and \\( \\varphi \\) are arbitrary.\n\nIf we take the expression\n\n\\[\n\\frac{f_{x} - f_{x} \\cdot f_{ax} + f_{x} \\cdot f_{ax} \\cdot f_{a^2x}}{1 + f_{x} \\cdot f_{ax} \\cdot f_{a^2x}}\n\\]\n\nand if \\( f_{x} \\) and \\( f_{ax} \\) are so assumed that the numerator and denominator both vanish, by a similar mode of treatment to that already pointed out, we shall find its real value to be\n\n\\[\n\\frac{\\varphi_{x} - f_{x} \\cdot \\varphi_{ax} - f_{ax} \\cdot \\varphi_{x} - f_{x} \\cdot f_{ax} \\cdot \\varphi_{ax} - f_{ax} \\cdot \\varphi_{x} - f_{x} \\cdot f_{ax} \\cdot \\varphi_{a^2x}}{f_{ax} \\cdot f_{a^2x} \\cdot \\varphi_{x} + f_{x} \\cdot f_{a^2x} \\cdot \\varphi_{ax} + f_{x} \\cdot f_{ax} \\cdot f_{a^2x}}\n\\]\n\nAnd similarly if we supposed both numerator and denominator of the fraction\n\n\\[\n\\frac{f_{x} - f_{x} \\cdot f_{ax} + \\&c. \\pm f_{x} \\cdot f_{ax} \\cdots f_{a^n-2x} \\cdot f_{a^n-1x}}{1 \\pm f_{x} \\cdot f_{ax} \\cdots f_{a^n-1x}}\n\\]\n\nto vanish, it would yet retain a value containing arbitrary functions.\n\nIt will be needless to multiply examples, as the mode of\ntreating them is sufficiently obvious from those already given. It appears then, that as in common algebra an expression may become illusory from the variable quantity assuming a particular value; so in the doctrine of functions an expression may become likewise illusory by the variable function assuming a particular form; in the one case the real value may be a constant quantity, in the other it may be an arbitrary function: nor ought this circumstance of the appearance of an arbitrary function to surprise us, when we consider that (as for instance in the second example) it is not one form only of the function $fx$ which will satisfy the equation $fx \\cdot fxx = 1$, but any of the infinite variety of forms comprehended in the expression $fx = \\{ x (\\bar{x}, \\bar{ax}) \\}^{x-\\alpha x}$ and similarly for the values of $fx$. The circumstance of this species of vanishing fractions having an arbitrary function contained in their true value, is of considerable importance in the calculus of functions, as I shall now shortly endeavour to prove.\n\nThe Royal Society did me the honour to insert, in the last volume of their Transactions, a paper of mine, in which I gave a new method of solving all functional equations of the first order, and of a certain class by means of elimination, and I there stated that all solutions so obtained were only particular cases of the general solutions, and that they did not contain any arbitrary function.\n\nNow it may be observed, that there are certain forms which may be assigned to the coefficients which render those solutions apparently infinite, yet that on farther consideration it appears, that the solution is in fact a vanishing fraction: in all such cases the process I have just pointed out will give the real solution which will contain an arbitrary function, so that it is in fact a general solution. Thus in the equation $\\psi x + \\frac{1}{f}x$.\n$\\psi ax = fx$ whose solution is $\\psi x = \\frac{fx - fx \\cdot fax}{1 - fx \\cdot fax}$ if $fx \\cdot fax = 1$ it apparently becomes infinite, but by subtracting the equation $fx \\cdot \\psi ax + fx \\cdot fax \\cdot \\psi ax^2 = fx \\cdot fax$ (which is deduced from the former by putting $ax$ for $x$ and multiplying by $fx$) we have since $ax^2 = x$ and also $fx \\cdot fax = 1$, $o = fx - fx \\cdot fax$, and the solution becomes a vanishing fraction whose value is\n\n$$\\psi x = \\frac{\\phi x - \\phi x \\cdot fax \\cdot \\phi x}{fx \\cdot fax + fax \\cdot \\phi x}$$\n\nlet $ax = -x$ and $fx = fx = 1$ then the general solution of the equation $\\psi x + \\psi (-x) = 1$\n\n$$\\psi x = \\frac{\\phi x - \\phi (-x) + \\phi x}{\\phi (-x) + \\phi x}$$\n\nIn a similar manner the solutions of the equations $\\psi x - \\psi (-x) = x$, and $\\psi x = fx \\cdot \\psi ax$ if $fx \\cdot fax = 1$ when $ax^2 = x$ are\n\n$$\\psi x = \\frac{x \\phi x - \\phi x + \\phi (-x)}{\\phi x + \\phi (-x)}$$\n\nand\n\n$$\\psi x = \\frac{\\phi x + fx \\cdot \\phi ax}{fx \\cdot \\phi ax + fax \\cdot \\phi x}$$\n\nLet $\\psi x + \\psi ax = fx$ if $ax^2 = x$ this is only possible when $fx = f(x, ax)$ then\n\n$$\\psi x = \\frac{\\phi x \\cdot f(x, ax)}{\\phi x + \\phi ax}$$\n\nLet $\\psi x - \\psi ax = fx$ and $ax^2 = x$ this is only possible when $fx = (x - ax) \\times f(x, ax)$, then\n\n$$\\psi x = \\frac{(x - ax) f(x, ax) \\cdot \\phi x + \\phi x + \\phi ax}{\\phi x + \\phi ax}$$\n\nThe above are sufficient as examples, but the same reasoning has led me to the following curious proposition. Whenever the method of elimination apparently fails, the real value of the vanishing fraction will give the general solution of the equation. This principle puts us in possession of the general solutions of several classes of equations, for besides the cases\nin which the solutions vanish from some particular values of the coefficients, all equations which are homogeneous relative to the different forms of the unknown function are comprehended in it, as are also all equations which are symmetrical relative to the same quantities.\n\nThere exists another class of equations nearly allied to those which are symmetrical relative to the different forms of the unknown functions, whose solution I shall now point out, chiefly with the view of giving another example of a method of reasoning which may frequently be employed with advantage in these inquiries, and also for the purpose of mentioning a remark respecting the elimination of variables in a certain class of algebraic equations which I do not recollect to have seen noticed. The class of functional equations to which I allude, are contained in the expression\n\n\\[ F\\{ \\psi x, \\psi ax, \\ldots \\psi a^{n-1}x, \\bar{x}, \\alpha x, \\ldots \\alpha^{n-1}x \\} = 0 \\]\n\nwhich for the sake of convenience may be written thus,\n\n\\[ F\\{ \\psi x, \\psi ax, \\ldots \\psi a^{n-1}x, fx, \\bar{fx}, \\bar{fx}, \\&c. \\} = 0 \\]\n\nwhere \\(a^n x = x\\) and \\(fx, \\bar{fx}, \\bar{fx}, \\&c.\\) are any symmetrical functions of \\(x, \\alpha x, \\ldots \\alpha^{n-1}x\\).\n\nIn this equation none of the known functions \\(fx, \\bar{fx}, \\&c.\\) are changed by the substitution of \\(ax, a^2x, \\ldots a^{n-1}x\\) for \\(x\\); and since the form of the unknown function depends on that of those which are known, it follows that the form of the unknown function will not be changed by the substitution of \\(ax, a^2x, \\ldots a^{n-1}x\\) for \\(x\\), or in other words we may suppose \\( \\psi x = \\psi ax = \\&c. = \\psi a^{n-1}x \\), and consequently \\( \\psi x \\) will be determined by the equation\n\n\\[ F\\{ \\psi x, \\psi x, \\ldots \\psi x, fx, \\bar{fx}, \\bar{fx}, \\&c. \\} = 0 \\]\nor from \\( F\\{ \\psi x, \\psi x, \\ldots \\psi x, \\bar{x}, \\bar{\\alpha}x, \\alpha^2x, \\ldots \\alpha^{n-1}x \\} = 0 \\)\n\nIf there should exist any doubt respecting the accuracy of this reasoning, it may be confirmed by arriving at the same conclusion in rather a different manner. If in the given equation we substitute successively \\( \\alpha x, \\alpha^2 x, \\ldots \\alpha^{n-1}x \\) for \\( x \\), we shall have the following equations.\n\n\\[\nF\\{ \\psi x, \\psi \\alpha x, \\ldots \\psi \\alpha^{n-1}x, \\bar{x}, \\bar{\\alpha}x, \\ldots \\alpha^{n-1}x \\} = 0\n\\]\n\n\\[\nF\\{ \\psi \\alpha x, \\psi \\alpha^2 x, \\ldots \\psi x, \\bar{x}, \\bar{\\alpha}x, \\ldots \\alpha^{n-1}x \\} = 0\n\\]\n\n\\&c. \\&c.\n\n\\[\nF\\{ \\psi \\alpha^{n-1}x, \\psi x, \\ldots \\psi \\alpha^{n-2}x, \\bar{x}, \\bar{\\alpha}x, \\ldots \\alpha^{n-1}x \\} = 0\n\\]\n\nTo eliminate \\( \\psi \\alpha x, \\psi \\alpha^2 x \\) &c. from these \\( n \\) equations would in most cases be excessively troublesome. It may however be observed, that \\( \\psi \\alpha x \\) occurs in the second exactly in the same manner that \\( \\psi x \\) occurs in the first; also \\( \\psi \\alpha^2 x \\) is contained in the third in the same manner as \\( \\psi x \\) is contained in the first, and similarly with the rest. From this it follows, that though no one of the equations is symmetrical relative to \\( \\psi x, \\psi \\alpha x \\ldots \\psi \\alpha^{n-1}x \\), yet when all the equations are considered together, they are symmetrical relative to \\( \\psi x, \\psi \\alpha x, \\ldots \\psi \\alpha^{n-1}x \\); from this it follows that whether we find by elimination \\( \\psi x, \\psi \\alpha x, \\ldots \\) or \\( \\psi \\alpha^{n-1}x \\) the result will be the same, therefore \\( \\psi x = \\psi \\alpha x = \\&c. = \\psi \\alpha^{n-1}x \\), and we may determine \\( \\psi x \\) from the equation\n\n\\[\nF\\{ \\psi x, \\psi x, \\ldots \\psi x, \\bar{x}, \\bar{\\alpha}x, \\ldots \\alpha^{n-1}x \\} = 0 \\quad (a)\n\\]\n\nIt does not follow from hence, that this equation contains all the values of \\( \\psi x \\): on the contrary, if the elimination between the \\( n \\) equations above written were actually performed, it would be found that the equation \\( (a) \\) would enter into the final result as one of its factors.\nIf we apply this reasoning to algebraic equations containing several variables, as for instance to the two equations\n\n\\[ F(x, y, a, b) = 0, \\quad F(y, x, a, b) = 0 \\]\n\nwe shall find that one set of the value of \\( x \\) is always contained in the equation \\( F(x, x, a, b) = 0 \\).\n\nAs an example, let us take the two equations\n\n\\[ y^2 + x = a \\text{ and } x^2 + y = a \\]\n\none set of the values of \\( x \\) are contained in the equation\n\n\\[ x^2 + x - a = 0 \\]\n\nand this enters as a factor in the result of elimination, which gives\n\n\\[ x^4 - 2ax^2 + x + a^2 - a = (x^2 + x - a)(x^2 - x - a - 1) = 0 \\]\n\nAnother curious analogy exists between the calculus of functions and common algebra in the similarity of the relations of the roots of unity to the solutions of the functional equation \\( \\psi^n x = x \\).\n\nIn the equation \\( r^n = 1 \\) it is known that if \\( r \\) be one of the roots then any power of \\( r \\) will also be a root, and if \\( n \\) is a prime number and \\( r \\) any root except unity, then \\( r, r^2, r^3, \\ldots, r^{n-1} \\) will be all the different roots. Similarly in the functional equation \\( \\psi^n x = x \\) if \\( ax \\) be one form which satisfies it, \\( a^m x \\) will also fulfill it, and if \\( n \\) is a prime number then \\( ax, a^2 x, \\ldots, a^{n-1} x \\) will all be different forms which satisfy the equation. This may be readily shown as follows, if \\( ax \\) is a solution, then\n\n\\[ ax \\ldots (n) x = a^n x = x \\]\n\nSuppose \\( m = 2 \\) then\n\n\\[ a^2 a^3 \\ldots (n) x = a^{2n} x = a^n (a^n x) = a^n x = x \\]\n\nconsequently \\( a^2 x \\) is also a solution of \\( \\psi^n x = x \\).\nagain \\( \\alpha^n \\alpha^n \\ldots (n) x = \\alpha^n \\times m = \\alpha^n \\alpha^n \\ldots (m) x = \\alpha^n \\alpha^n \\ldots (m-1) x = \\&c. = \\alpha^n \\alpha^n x = \\alpha^n x = x \\)\n\nconsequently whenever \\( m \\) is a whole number \\( \\alpha^n x \\) is a solution of \\( \\psi^n x = x \\).\n\nIf we take the particular case of \\( n = 3 \\) we have \\( \\psi^3 x = x \\) and \\( \\alpha x = \\frac{1}{1-x} \\) is one of its solutions, therefore other solutions will be \\( \\alpha x = \\frac{1}{1-x}, \\alpha^2 x = \\frac{x-1}{x}, \\alpha^3 x = x \\).\n\nThese expressions when generalised by the introduction of an arbitrary function, do not give solutions which are irreducible to each other, nor do they even then in my opinion contain all possible solutions; by introducing an arbitrary function they become\n\n\\[\n\\phi^{-1}\\left(\\frac{1}{1-\\varphi x}\\right) \\text{ and } \\phi^{-1}\\left(\\frac{\\varphi x - 1}{\\varphi x}\\right)\n\\]\n\nthe latter of which gives \\( \\frac{1}{1-x} \\) if we make \\( \\varphi x = \\frac{1}{x} \\).\n\nIf we consider the equation \\( \\psi^6 x = x \\) one of its values is \\( \\alpha x = \\frac{3x-3}{x} \\), this gives for the others.\n\n\\[\n\\alpha x = \\frac{3x-3}{x}, \\alpha^2 x = \\frac{2x-3}{x-1}, \\alpha^3 x = \\frac{3x-6}{2x-3}\n\\]\n\n\\[\n\\alpha^4 x = \\frac{x-3}{x-2}, \\alpha^5 x = \\frac{-3}{x-3}, \\alpha^6 x = x\n\\]\n\nAll these forms will satisfy the equation \\( \\psi^6 x = x \\) and they may all be generalised by the introduction of an arbitrary function similar to that employed for the equation \\( \\psi^3 x = x \\), but I do not suppose these solutions when thus generalised would contain all possible ones.\n\nPerhaps the following observations may throw some light on the generality of the solutions of such equations as those we are now considering.\n\nIn the first place, it is obvious that every solution of \\( \\psi^3 x = x \\)\nwill also be a solution of $\\psi^6 x = x$, such likewise will be all the solutions of $\\psi^8 x = x$. The complete solution of $\\psi^6 x = x$ should therefore contain all forms of $x$ which satisfy the equations $\\psi^3 x = x$ and $\\psi^5 x = x$. Again, if a function as $\\alpha x$ satisfies the equation $\\psi^3 x = -x$, it will also satisfy $\\psi^6 x = x$, for since $\\alpha^3 x = -x$ by putting $\\alpha^3 x$ for $x$ it becomes $\\alpha^3 \\alpha^3 x = -\\alpha^3 x = -(-x) = x$, so also any function which satisfies the equation $\\psi^5 x = \\frac{a}{x}$ will fulfil the equation $\\psi^6 x = x$ which may be proved in the same manner. I shall however take the more general case, and show that if any function satisfies the equation $\\psi^3 x = \\beta x$ where $\\beta$ is any function satisfying the equation $\\psi^9 x = x$, it will also satisfy the equation $\\psi^6 x = x$, for since $\\alpha^3 x = \\beta x$, putting $\\alpha^3 x$ for $x$, we have $\\alpha^3 \\alpha^3 x = \\alpha^6 x = \\beta \\alpha^3 x = \\beta \\beta x = \\beta^2 x = x$. In the same way it might be demonstrated, that the complete solution of $\\psi^{abc, \\&c.}(x) = x$ must contain all functions which can satisfy any of the following conditions\n\n$$\\psi^a x = \\alpha x \\quad \\psi^{ab} x = \\alpha x \\quad \\&c.$$  \n$$\\psi^b x = \\beta x \\quad \\psi^{bc} x = \\beta x \\quad \\&c.$$  \n$$\\&c. \\quad \\&c.$$  \n\nwhere $\\alpha$ is any function satisfying the equation $\\psi^{abc, \\&c.}(x) = x$\n\n$\\beta$ ditto ditto $\\psi^{ac, \\&c.}(x) = x$\n\n$\\&c. \\quad \\&c.$\n\n$\\alpha$ ditto ditto $\\psi^{cd, \\&c.}(x) = x$\n\n$\\beta$ ditto ditto $\\psi^{ad, \\&c.}(x) = x$\n\n$\\&c. \\quad \\&c. \\quad \\&c.$\n\nThe comparison of the integral calculus with that of functions will supply us with several very marked analogies, some of which promise when farther pursued to be of essen-\ntial service in the improvement of this latter branch of analytical science. One of the first which presents itself is the method of solving the differential equation\n\n\\[ o = ydx^n + A dx^{n-1}dy + B dx^{n-2}d^2y + \\&c. + Nd^n y + X dx^n \\]\n\ncompared with that of solving the functional equation\n\n\\[ o = \\psi x + A \\psi \\alpha x + B \\psi \\alpha^2 x + \\&c. + N \\psi \\alpha^{n-1} x + X \\]\n\nEuler and D'Alembert succeeded in integrating the differential equation when all the coefficients except \\( X \\) are constant quantities, and Lagrange, in the Memoirs of the Academy of Berlin, 1772, explained a method of treating the same when they are variable; both the processes alluded to depend in the first instance on reducing the equation to the solution of the same equation, wanting the last term; and this is effected by means of a particular integral of the given equation.\n\nThe solution of the functional equation is precisely similar, it is first reduced to the solution of\n\n\\[ o = \\psi x + A \\psi \\alpha x + B \\psi \\alpha^2 x + \\&c. + N \\psi \\alpha^{n-1} x \\]\n\nand this is effected by knowing a particular function which satisfies the original equation: this process I have already given in a former paper. The resemblance between the solutions of the two equations continues also in this respect, if \\( fx \\) is a particular case of the given equation, and \\( Kx, Kx, Kx, \\&c. \\) are particular cases of the same equation without its last term, then\n\n\\[ \\psi x = fx + Kx \\cdot \\chi (x, \\alpha x, \\ldots \\alpha^{n-1} x) + Kx \\cdot \\chi (x, \\alpha x, \\ldots \\alpha^{n-1} x) + \\&c. \\]\n\nis a general solution of the equation.\nIt may be observed that the functional equation under consideration comprehends a large class of others which may easily be reduced to it, such as\n\n\\[ F\\psi x + A F\\psi ax + B F\\psi a^2x + \\&c. + N F\\psi a^{n-1}x + X = 0 \\]\n\nor more generally\n\n\\[ F(x, \\psi x) + A F(ax, \\psi ax) + B F(a^2x, \\psi a^2x) + \\&c. + NF(a^{n-1}x, \\psi a^{n-1}x) + X = 0 \\]\n\nboth of which may be reduced to the same equations wanting the last term, these transformations apply with advantage to a great variety of other equations: the solution of the latter of these equations may be reduced to that of\n\n\\[ \\psi x + A \\psi ax + \\&c. + N \\psi a^{n-1}x = 0 \\]\n\nand if we find \\( \\psi x = Kx \\) we shall have\n\n\\[ \\psi x = F_{1,-1}(x, Kx) \\]\n\nfor the solution of the given equation.\n\nAs an instance of the utility of the former equation we may take\n\n\\[ \\{ \\psi(x) \\}^2 + \\{ \\psi \\left( \\frac{x}{2} - x \\right) \\}^2 = 1 \\]\n\nwhose solution will be found by that method to be\n\n\\[ \\psi x = \\sqrt{\\frac{1}{2} + \\left( 2x - \\frac{x}{2} \\right) \\chi \\left( x, \\frac{x}{2} - x \\right)} \\]\n\nthe same equation or the more general one\n\n\\[ \\{ \\psi x \\}^n + \\{ \\psi ax \\}^n = 1 \\]\n\nwhere \\( a^2x = x \\) may be solved by another process which requires the aid of vanishing fractions, and we shall have\n\n\\[ \\psi x = \\left[ \\frac{\\varphi x - \\varphi ax + \\varphi x}{\\varphi x + \\varphi ax} \\right]^{\\frac{1}{n}} \\]\nThe analogy between the various orders of functions which contain many variables, and that branch of the integral calculus which relates to partial differentials, is too apparent to require illustration. I shall therefore proceed to show that a functional equation admits of three species of solutions.\n\n1st. The complete solution, this contains as many arbitrary functions as the nature of the given equation will admit.\n\n2d. The particular case, this contains all solutions which are less general than the complete solution, and which are only particular cases of it. If they contain arbitrary functions, I have called them, for the sake of convenience, general solutions.\n\n3d. The particular solution, this is a solution which satisfies the equation, and may or may not contain arbitrary functions; its peculiar property is, that it is found from one part only of the equation and independent of the rest; thus if we have the equation\n\n\\[ \\{ \\psi^{2}(x,y) - y \\} \\cdot F \\{ x, y, \\psi(x,y), \\psi^{2}(x,y) &c. \\} = \\{ \\psi^{2}(x,y) - \\phi(o) \\} \\cdot F \\{ x, y, \\psi(x,y), &c. \\} \\]\n\n\\[ \\psi(x,y) = \\phi(\\varphi x - \\varphi y) \\] is a particular solution, for it satisfies the equation by making \\( \\psi^{2}(x,y) - y = 0 \\) and \\( \\psi^{2}(x,y) - \\phi(o) = 0 \\), and is totally independent of the rest of the equation contained in the given function \\( F \\) and \\( F_{i} \\), provided only that it does not make either of them infinite, whether it is contained in the complete solution, I have not yet ascertained; but I am rather of opinion, that it will be found not to be included in it. In both parts of my Essay towards the Calculus of Functions, I have used the expression, particular solution, instead of particular case, this arose from not having taken a sufficiently extensive view of the calculus; it would\nperhaps be desirable to confine the meaning of particular solution to the definition which has just been given. It is needless to add that the different species of solutions just enumerated, bear a strong resemblance to those of differential equations.\n\nAmongst differential equations containing more than two independent variables, a large proportion do not admit of any integrals, these can only be integrated by assigning some relation between the variables, an analogous case occurs with respect to functional equations, a large number of those which contain two or more variables admit of no solution, unless we assign some relation between the variable quantities; examples of such equations may be found in the second part of the Essay towards the Calculus of Functions. And here perhaps it may not be misplaced to state a difficulty of a peculiar nature with respect to functional equations which are impossible; for the sake of perspicuity I shall consider a very simple case\n\n\\[ \\psi x = c \\psi \\frac{1}{x} \\]\n\nfor \\( x \\) substitute \\( \\frac{1}{x} \\)\n\n\\[ \\psi \\frac{1}{x} = c \\psi x \\]\n\nand by multiplication \\( \\psi x \\times \\psi \\frac{1}{x} = c^2 \\psi \\frac{1}{x} \\times \\psi x \\) or \\( 1 = c^2 \\) from which it follows that \\( c = \\pm 1 \\) or in other words that the equation \\( \\psi x = c \\psi \\frac{1}{x} \\) is contradictory unless \\( c = \\pm 1 \\). Now the functional equation \\( F \\{ x, \\psi x, \\psi \\alpha x \\} = 0 \\) has been reduced by Laplace by means of a very elegant artifice to an equation of finite differences, nor am I aware that this profound analyst has pointed out any restriction or any\nimpossible case: if we treat the equation $\\psi x = c \\psi x^n$ by his method, we shall find for its solution\n\n$$\\psi x = c \\frac{\\log \\log x}{\\log n}$$\n\nand this solution satisfies the equation $\\psi x = c \\psi x^n$ independently of any particular value of $n$, and if we suppose $n = -1$ we have\n\n$$\\psi x = c \\frac{-\\log^2 x}{\\log n}$$\n\nfor the solution of the equation $\\psi x = c \\psi \\frac{1}{x}$ whatever may be the value of $c$, and we have before shown that it cannot have a solution unless $c = \\pm 1$. The only explanation I am at present able to offer concerning this contradiction, is one which I hinted at on a former occasion, viz. that if we suppose $\\psi$ to represent any inverse operation which admits of several values, then if throughout the whole equation we always take the same root or the same individual value of $\\psi$, it is impossible to satisfy the equation, but if we take one value of $\\psi$ in one part, and another of the values of $\\psi$ in other parts of the equation, it is possible to fulfil it by such means. This solution may perhaps appear unsatisfactory, it is however only proposed as one which deserves examination, and I shall be happy if its insufficiency shall induce any other person to explain more clearly a very difficult subject.\n\nOne of the most extensive methods of integrating differential equations, consists in multiplying by such a factor as will render the whole equation a complete differential, the determination of this factor is, however, generally a matter of at least equal difficulty with that of solving the original equation: analogy would lead us to suspect that some similar mode might be adopted for the solution of functional equa-\ntions, varying of course in a certain degree from the difference of the objects to be obtained: the theory which I am now to explain will show that this suspicion is not without foundation, and will at the same time unfold one of the most beautiful parallels between the integral and functional calculus which I have yet observed. It has been already shown, that when an equation is symmetrical relative to the different forms of the unknown function, as\n\n\\[ F \\{ x, \\psi x, \\psi \\alpha x, \\ldots \\psi \\alpha^{n-1} x \\} = 0 \\]\n\nthe method of solution by elimination apparently becomes illusory, but that the general solution of the equation may be deduced from the vanishing fraction to which this method then leads. If therefore we can make any functional equation symmetrical, relative to the different forms of the unknown functions, we can then obtain its general solution. Now this may be effected by multiplying the equation by some factor, and determining this factor, so that the result shall be symmetrical. The discovery of this factor (as in the case of a differential equation) requires the solution of a functional equation of several variables, but fortunately the class of equations to which they belong are not of very great difficulty.\n\nTo begin with a very simple case, let us consider the equation\n\n\\[ \\psi x + f x \\cdot \\psi \\alpha x = f x \\text{ where } \\alpha^x = x \\]\n\nmultiplying by \\( \\phi x \\) we have\n\n\\[ \\phi x \\cdot \\psi x + \\phi x \\cdot f x \\cdot \\psi \\alpha x = \\phi x \\cdot f x \\]\n\nnow the first side of this equation will be symmetrical relative to \\( \\psi x \\) and \\( \\psi \\alpha x \\), if we make\n\n\\[ \\phi x = f \\alpha x \\cdot \\phi \\alpha x \\]\nthis equation can only be possible when \\( fx \\cdot f_{\\alpha x} = 1 \\) or when\n\n\\[ fx = \\{ x (\\bar{x}, \\alpha x) \\}^{x-\\alpha x} \\]\n\nand supposing \\( fx \\cdot f_{\\alpha x} = 1 \\), we have \\( \\phi x = \\frac{1}{\\sqrt{fx}} \\) consequently the equation becomes\n\n\\[ \\frac{\\psi x}{\\sqrt{fx}} + \\sqrt{fx} \\cdot \\psi_{\\alpha x} = \\frac{\\psi x}{\\sqrt{fx}} + \\frac{\\psi_{\\alpha x}}{\\sqrt{f_{\\alpha x}}} = \\frac{fx}{\\sqrt{fx}} \\]\n\nand since the left side of this equation is symmetrical, the right side must also be so, consequently\n\n\\[ \\frac{fx}{\\sqrt{fx}} = f(\\bar{x}, \\alpha x) \\] or the given equation is impossible, unless\n\n\\[ fx = \\sqrt{fx} \\cdot f(\\bar{x}, \\alpha x) \\]\n\nand the solution of the equation will be found by taking the value of a vanishing fraction to be\n\n\\[ \\psi x = \\frac{\\sqrt{f_{\\alpha x}} \\cdot f(x, \\alpha x) \\cdot \\phi x - \\phi x + fx \\cdot \\phi_{\\alpha x}}{fx \\cdot \\phi_{\\alpha x} + f_{\\alpha x} \\cdot \\phi x} \\]\n\nThis method is applicable to all equations of the first degree, but I shall now point out a principle which extends to all equations of the first order, and which may probably be applied with some modification to those of higher orders.\n\nLet us consider the equation\n\n\\[ F \\{ x, \\alpha x, \\psi x, \\psi_{\\alpha x} \\} = 0, \\text{ where } \\alpha^2 x = x \\]\n\nmultiply this by \\( \\phi \\{ x, \\alpha x, \\psi x, \\psi_{\\alpha x} \\} = 0 \\)\n\nit becomes\n\n\\[ F \\{ x, \\alpha x, \\psi x, \\psi_{\\alpha x} \\} \\times \\phi \\{ x, \\alpha x, \\psi x, \\psi_{\\alpha x} \\} = 0 \\]\n\nin order that this equation may be symmetrical, we must have\n\n\\[ F \\{ x, \\alpha x, \\psi_{\\alpha x} \\} \\times \\phi \\{ x, \\alpha x, \\psi x, \\psi_{\\alpha x} \\} \\]\n\n\\[ = F \\{ \\alpha x, x, \\psi_{\\alpha x}, \\psi x \\} \\times \\phi \\{ \\alpha x, x, \\psi_{\\alpha x}, \\psi x \\} \\]\nfrom which the form of $\\phi$ must be determined, one value is\n\n$$\\phi(x, ax, \\psi x, \\psi ax) = F(ax, x, \\psi ax, \\psi x)$$\n\nhence the equation\n\n$$F(x, ax, \\psi x, \\psi ax) \\times F(ax, x, \\psi ax, \\psi x) = 0$$\n\nis symmetrical, and its general solution may therefore be found. It must however be observed, that all the solutions of this latter equation are not necessarily solutions of the former one, and it may be a matter of some difficulty to ascertain what solutions ought to be excluded. There is no part of this process which limits it to the particular case we have considered, and if the given equation were\n\n$$F(x, \\psi x, \\psi ax, \\ldots \\psi \\alpha^{n-1} x) = 0$$\n\nwe might take the equation\n\n$$\\phi(F(x, \\psi x, \\psi ax, \\ldots \\psi \\alpha^{n-1} x), F(ax, \\psi ax, \\ldots \\psi x), \\ldots \\ldots \\ldots \\ldots \\ldots F(\\alpha^{n-1} x, \\psi \\alpha^{n-1} x, \\ldots \\psi \\alpha^{n-2} x)) = 0$$\n\nwhich is symmetrical relative to $\\psi x, \\psi ax, \\&c. \\psi \\alpha^{n-1} x$.\n\nI shall not at present enter into any farther details respecting this mode of solving functional equations, as it forms the subject of some investigations on which I am now engaged, and which are as yet incomplete.\n\nIn the preceding pages I have endeavoured to point out some of the more prominent points in which the calculus of functions resembles common algebra or the integral calculus: it ought however to be observed, that several of the methods which I have applied to the solution of functional equations, directly resulted from pursuing this analogy: for when I had ascertained the remarkable similitude which exists between\nthe method of functions and the integral calculus, I referred to a treatise on that subject with the express purpose of endeavouring to transfer the methods and artifices employed in the latter calculus, to the cultivation and improvement of the former.\n\nCHARLES BABBAGE.\n\nMarch 5, 1817.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107581.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 32054,
+    "total-output-tokens": 10204,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1383,
+        2
+      ],
+      [
+        1383,
+        2998,
+        3
+      ],
+      [
+        2998,
+        4543,
+        4
+      ],
+      [
+        4543,
+        6525,
+        5
+      ],
+      [
+        6525,
+        8430,
+        6
+      ],
+      [
+        8430,
+        10185,
+        7
+      ],
+      [
+        10185,
+        12001,
+        8
+      ],
+      [
+        12001,
+        14150,
+        9
+      ],
+      [
+        14150,
+        15748,
+        10
+      ],
+      [
+        15748,
+        17556,
+        11
+      ],
+      [
+        17556,
+        19359,
+        12
+      ],
+      [
+        19359,
+        20985,
+        13
+      ],
+      [
+        20985,
+        22356,
+        14
+      ],
+      [
+        22356,
+        24175,
+        15
+      ],
+      [
+        24175,
+        25794,
+        16
+      ],
+      [
+        25794,
+        27498,
+        17
+      ],
+      [
+        27498,
+        29176,
+        18
+      ],
+      [
+        29176,
+        30932,
+        19
+      ],
+      [
+        30932,
+        32551,
+        20
+      ],
+      [
+        32551,
+        32838,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107581",
+    "title": "Observations on the Analogy Which Subsists between the Calculus of Functions and Other Branches of Analysis",
+    "authors": "Charles Babbage",
+    "year": 1817,
+    "volume": "107",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/107581"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "4d0e7a6475832bf64181992aa44741d4c0e8fb3e",
+  "text": "Digestion. The greatest part of what she eat or drank, came through the Ulcer for eight or ten Days, so that I had no hopes of ever curing it, yet contrary to my Expectation in about six Weeks she was perfectly cured, and is now living and in good Health.\n\nVIII. An Account of the quantity of Resin in the Cortex Eleutheriae. By Mr. John Brown, Chymist, F. R. S.\n\nDr. Douglas having lately deliver'd in a Paper to be read before this Society, giving an account (from the History of the Royal Academy at Paris) of the Cortex Eleutheria; and among other things having said of it, that Monsieur Boulduc had from one Ounce of the Bark, by means of Spirit of Wine, gotten 5 Drachms of Resinous Extract, there remaining 3 Drachms of Faeces; and that Gentleman's account of some of the Properties of this Bark being founded on the quantity of Resin suppos'd to be contain'd in it: I propos'd to Dr. Douglas and some other Gentlemen of the Society, (who agreed with me in believing, that scarcely any part of any Plant whatsoever would yield that quantity of Resinous Extract) to try the Experiment, which was perform'd after the following manner.\n\nI took two Ounces of pick'd Bark, and digested it in rectify'd Spirit of Wine, which was often decanted and fresh Spirit put on, until the Bark would yield no more Tincture. The impregnated Spirit being evaporated by a very gentle heat; there was left two Drachms of Resinous Extract; the remains of\nthe Bark dry'd, weigh'd one Ounce, two Drachms and a half; the loss this way is three Drachms and an half.\n\nI boil'd these remains in several Waters, until they would no longer tinge the Water, which being evaporated yielded one Drachm and an half of extract; the remains of this dry'd weigh'd one Ounce and half a Drachm; the loss by this Method is half a Drachm.\n\nI took two Ounces more of pick'd Bark, and boil'd it in several Waters, 'till the Bark gave no more Colour; and then upon an Evaporation of the Water, had two Drachms of Extract. The remains being dry'd weigh'd one Ounce six Drachms; here the loss was not any thing, except so much as might answer in weight to the quantity of the Menstruum left in the Extract, which Allowance must likewise be made in the other Extracts.\n\nI digested the remains in rectify'd Spirits of Wine, untill they no longer ting'd the Spirit, and by a very gentle Evaporation, I found remaining one Drachm of Resinous extract. What was left, when dry'd, weigh'd one Ounce, two Drachms, and an half; in this the loss was two Drachms and an half.\n\nThe Difference in the quantity of Extract obtain'd by these two different Methods, is but half a Drachm, and the Medium between them, upon putting together the several Extracts made with Spirit of Wine and Water, is in the whole but three Drachms and a quarter. But the Extract made with Spirit of Wine alone, is no more than two Drachms from two Ounces of the Cortex, instead of ten Drachms, which it ought to have yielded according to Monsieur Boulduc.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103580.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 824,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1441,
+        2
+      ],
+      [
+        1441,
+        2982,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103580",
+    "title": "An Account of the Quantity of Resin in the Cortex Eleutheriae, By Mr. John Brown, Chymist, F. R. S.",
+    "authors": "John Brown",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103580"
+  }
+}

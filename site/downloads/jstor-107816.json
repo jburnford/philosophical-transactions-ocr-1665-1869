@@ -1,0 +1,79 @@
+{
+  "id": "df4be75c87d2703048e366ca26c8af17975c360a",
+  "text": "XXI. Account of an experiment on the elasticity of ice. By Benjamin Bevan, Esq. In a Letter to Dr. Thomas Young, For. Sec. R.S.\n\nRead April 27, 1826.\n\nDear Sir,\n\nNorwich, January 13, 1826.\n\nI have been long desirous of repeating my experiment on the elasticity of ice, but until the present frost have not had an opportunity for two years, when I had but a single specimen, and rather too small, and which broke soon after the commencement of the experiment. From that experiment I had calculated a modulus of 6,000,000 feet; but finding the result of my experiments in the present season much less, and pretty uniform amongst themselves, I re-examined the calculations made in 1824, and have discovered an error, which had before escaped me, in the reduction, and which brings the result of that experiment to agree with those made in the present season, or about 2,100,000 feet. I will not answer for the absolute correctness of the second figure, because a variation of the $\\frac{1}{100}$ of an inch in the thickness of the specimen will change this figure.\n\nThe present severe frost has enabled me to try experiments on a much larger scale, and upon ice from $1\\frac{1}{4}$ to 4 inches in thickness: to explain the mode I adopted with ice of near 4 inches in thickness may be necessary, and was as follows:\n\nUpon a large pond within less than a mile of my residence at Leighton Bussard, the depth of which I found to be about\n4 feet, I had a channel sawed on three sides of a parallelogram, in the following form, \\(a \\quad b \\quad c\\), separating the specimen to be operated upon, except at the end lettered \\(a\\), where its union was left undisturbed. The dimensions of this prism was 100 inches long, 10 inches wide, and thickness at \\(a = 3.62\\), at \\(b = 4.00\\), and at \\(c = 3.75\\) inches. To save some trouble in the calculation, I considered the thickness uniformly 3.97 inches or the mean of the whole; although I am aware that it would not be strictly accurate; but as the experiment was upon a large scale, and with weights up to 25 lbs. and with deflections proportional to the weights applied, I considered the experiment a fair one. In this experiment the weights were placed at 98 inches from the line of union with the main body, and the deflection by 25 lbs. was 0.206 inches; from which I estimate the modulus to be 2,100,000 feet.\n\nAfter this, I repeated the experiment on ice of various dimensions and of different thickness, and in all, the result agreed quite as near as the admeasurement of the thickness could be ascertained, as well when the deflection was tried upon the water, as when the ice was taken out and tried in the manner used with wood and metal.\n\nNow the modulus of water as given in your valuable lectures, derived from Canton's experiment, is, if I recollect right, about 750,000 feet, calculated from a condensation of \\(\\frac{1}{2200}\\) by the pressure of one atmosphere. This condensation, I presume, was cubical or solid; whereas the condensation used in regard to the modulus of elasticity is linear. You are of course aware that a linear compression of \\(\\frac{1}{66000}\\) will\nproduce a cubical condensation of $\\frac{1}{22000}$, as found by Canton. Allowing, therefore, 33 feet for a column of water = the pressure of the atmosphere, and multiply this by 66000, we shall have 2.178,000 feet for the modulus of water, agreeing pretty nearly with the result of my experiments.\n\nI should not have troubled you with this letter, but as the frost may yet continue for a few days, an opportunity may be found of verifying, or correcting, the result of my experiments.\n\nI am, with the greatest respect,\n\nYour's truly,\n\nB. BEVAN.\n\nLeighton Bussard.\n\nNote by Dr. Young.\n\nIt does not appear quite clear from reasoning, that the modulus ought to come out different in experiments on solids and on fluids: for though the linear compression in a fluid may be only $\\frac{1}{3}$ as much as in a solid, yet the number of particles acting in any given section must be greater in the duplicate ratio of this compression, and ought apparently to make up the same resistance. And in a single experiment made hastily some years ago on the sound yielded by a piece of ice, the modulus did appear to be about 800,000 feet only: but the presumption of accuracy is the greater in this case the higher the modulus appears.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107816.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1206,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1431,
+        2
+      ],
+      [
+        1431,
+        3129,
+        3
+      ],
+      [
+        3129,
+        4350,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107816",
+    "title": "Account of an Experiment on the Elasticity of Ice",
+    "authors": "Benjamin Bevan",
+    "year": 1826,
+    "volume": "116",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107816"
+  }
+}

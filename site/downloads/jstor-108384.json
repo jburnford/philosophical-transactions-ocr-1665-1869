@@ -1,0 +1,89 @@
+{
+  "id": "2808d208af166f272a3c5788a788406a53104a85",
+  "text": "METEOROLOGICAL JOURNAL,\n\nKEPT BY THE ASSISTANT SECRETARY,\n\nAT THE APARTMENTS OF THE\n\nROYAL SOCIETY,\n\nBY ORDER OF\n\nTHE PRESIDENT AND COUNCIL.\n\nOBSERVANDA.\n\nHeight of the Cistern of the Barometer above the plinth at Waterloo Bridge...83 feet 2 inches.\n_________________ above the mean level of the sea .........................97 feet.\nHeight of the receiver of the Rain Gauge above the court of Somerset House ..79 feet.\nThe External Thermometer is 2 feet higher than the Barometer Cistern.\nThe Thermometers are graduated to Fahrenheit's scale.\nThe Barometer is divided into inches and tenths.\nThe Hours of Observation are of Mean Time, the day beginning at Midnight.\nThe daily observations of the Barometer are not corrected.\nThe monthly means are corrected for capillarity and temperature by the Table contained in Mr. Baily's paper in Phil. Trans. for 1837.\n## Meteorological Journal for January and February, 1843\n\n### Barometer Uncorrected\n\n| Time       | Barometer Uncorrected | Att. Ther. | Crown Glass | Att. Ther. | Crown Glass |\n|------------|-----------------------|------------|-------------|------------|-------------|\n| 9 o'clock A.M. |                     |            |             |            |             |\n| 3 o'clock P.M. |                     |            |             |            |             |\n\n### External Thermometers\n\n| Time       | Fahrenheit | Self-registering | Highest | Lowest | Rain at 9 A.M. |\n|------------|------------|------------------|---------|--------|---------------|\n| 9 A.M.     |            |                  |         |        |               |\n| 3 P.M.     |            |                  |         |        |               |\n\n### Remarks\n\n| Time       | Remarks |\n|------------|---------|\n| 9 A.M.     |         |\n| 3 P.M.     |         |\n\n---\n\n**Mean Barometer Corrected**\n\n| Time       | Barometer Corrected |\n|------------|---------------------|\n| 9 A.M.     |                     |\n| 3 P.M.     |                     |\n\n---\n\n**Mean Barometer Corrected**\n\n| Time       | Barometer Corrected |\n|------------|---------------------|\n| 9 A.M.     |                     |\n| 3 P.M.     |                     |\n## Meteorological Journal for March and April, 1843\n\n### Observations\n\n| Date | Time | Barometer (A.M.) | Barometer (P.M.) | Temperature (°F) | Wind | Remarks |\n|------|------|------------------|------------------|-----------------|------|---------|\n|      | 9 A.M. |                  |                  |                 |      |         |\n|      | 3 P.M. |                  |                  |                 |      |         |\n\n### Mean Values\n\n| Date | Time | Barometer | Temperature | Wind | Remarks |\n|------|------|-----------|-------------|------|---------|\n|      |      |           |             |      |         |\n\n### Additional Notes\n\n- **Mean Barometer corrected**: 29.853\n- **Mean Temperature**: 54.1°F\n- **Mean Wind**: None\n\n---\n\n**Note:** The table contains detailed meteorological data including barometric pressure, temperature, wind conditions, and remarks for each observation point throughout March and April 1843.\n## Meteorological Journal for May and June, 1843\n\n### Barometer Corrections\n\n| Time     | A.M. Barometer Uncorrected | P.M. Barometer Uncorrected |\n|----------|-----------------------------|----------------------------|\n| 9 o'clock | 29.800                      | 29.793                     |\n| 3 o'clock | 29.800                      | 29.793                     |\n\n### External Thermometers\n\n| Temperature | Fahrenheit | Self-registering |\n|-------------|------------|------------------|\n|             |           |                  |\n\n### REMARKS\n\n- **Cloudy**—light wind throughout the day—rain early.\n- **Ev. Overcast**—light rain throughout the day—very heavy thunder and lightning.\n- **Ev. Overcast**—light rain—brisk wind throughout the day—very heavy thunder and lightning.\n- **Ev. Overcast**—light rain with gentle showers throughout the day.\n- **Ev. Overcast**—light rain—brisk wind throughout the day—very heavy thunder and lightning.\n- **Ev. Overcast**—light rain with gentle showers throughout the day.\n- **Ev. Overcast**—light rain—brisk wind throughout the day—very heavy thunder and lightning.\n\n### Mean Barometer Corrections\n\n| Time     | Corrected Barometer |\n|----------|---------------------|\n| 9 A.M.   | 29.723              |\n| 3 P.M.   | 29.775              |\n\n### Direction of the Wind\n\n| Direction | Remarks            |\n|-----------|--------------------|\n| N         |                    |\n| NE        |                    |\n| E         |                    |\n| SE        |                    |\n| S         |                    |\n| SW        |                    |\n| W         |                    |\n| NW        |                    |\n| NNW       |                    |\n| NNE       |                    |\n| NE        |                    |\n| E         |                    |\n| SE        |                    |\n| S         |                    |\n| SW        |                    |\n| W         |                    |\n| NW        |                    |\n| NNW       |                    |\n| NNE       |                    |\n\n### Additional Observations\n\n- **Fine**—clouds and breeze throughout the day.\n- **Cloudy**—light wind throughout the day—rain early.\n- **Ev. Overcast**—light rain throughout the day—very heavy thunder and lightning.\n- **Ev. Overcast**—light rain with gentle showers throughout the day.\n- **Ev. Overcast**—light rain—brisk wind throughout the day—very heavy thunder and lightning.\n- **Ev. Overcast**—light rain with gentle showers throughout the day.\n- **Ev. Overcast**—light rain—brisk wind throughout the day—very heavy thunder and lightning.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108384.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8024,
+    "total-output-tokens": 1482,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        860,
+        2
+      ],
+      [
+        860,
+        2160,
+        3
+      ],
+      [
+        2160,
+        3099,
+        4
+      ],
+      [
+        3099,
+        5690,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108384",
+    "title": "Meteorological Journal, Kept by the Assistant Secretary, at the Apartments of the Royal Society, by Order of the President and Council",
+    "authors": null,
+    "year": 1843,
+    "volume": "133",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/108384"
+  }
+}

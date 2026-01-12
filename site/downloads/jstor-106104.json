@@ -1,0 +1,69 @@
+{
+  "id": "91fe335cc860dbbc27e8075617f43708ca2a8476",
+  "text": "XXXIV. Account of a Mole from North America: In a Letter to Dr. Maty, Sec. R. S. from the Hon. Daines Barrington, F. R. S.\n\nDear Sir,\n\nMay 15, 1771\n\nRead May 15, 1771.\n\nI send herewith a mole from North America, which Mr. Kuckahn (who hath before presented several birds and insects to the Society) desires they will do him the honour to place in their Museum.\n\nThis species of mole much resembles that of Europe in its general appearance, except in point of colour: to shew, however, that there is a very material and specific difference between the two animals, I have inclosed the head of the common English mole, which contains all the teeth belonging to each jaw.\n\nThe American specimen is not indeed so perfect in this respect; but a sufficient number of teeth remains, to shew the distinction between these two sorts of moles.\n\nIn the European, you will observe six cutting teeth in the upper jaw, which are followed by two canine ones.\nIn the American (on the other hand) there are two very long and large cutting teeth in the centre, calculated to fill the vacancy in the lower jaw, which contains only two short cutting teeth, followed immediately by two long canine ones.\n\nIn the lower jaw of the European mole, however, there are eight small cutting, without the intervention of any canine teeth. I am,\n\nDear Sir,\n\nYour most faithful\n\nhumble servant,\n\nDaines Barrington.\n\nXXXV. Letter",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106104.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 417,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        944,
+        2
+      ],
+      [
+        944,
+        1396,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106104",
+    "title": "Account of a Mole from North America: In a Letter to Dr. Maty, Sec. R. S. from the Hon. Daines Barrington, F. R. S.",
+    "authors": "Daines Barrington",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106104"
+  }
+}

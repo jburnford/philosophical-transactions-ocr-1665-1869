@@ -1,0 +1,59 @@
+{
+  "id": "b94316d16c59ee4d9e360bb4c3def50e821b2860",
+  "text": "An Account of a sort of Sugar made of the Juice of the Maple, in Canada.\n\nThe Savages of Canada, in the time that the Sap rises, in the Maple, make an Incision in the Tree, by which it runs out; and after they have evaporated 8 pounds of the liquor, there remains one pound as Sweet, and as much Sugar, as that which is got out of the Canes; Part of the same Sugar, is sent to be refined at Roven.\n\nThe Savages have practiced this Art, longer than any now living among them, can remember.\n\nThere is made with this Sugar, a very good Syrup of Maiden Hair, and other Capillary Plants, which is used in France.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102141.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 210,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        607,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102141",
+    "title": "An Account of a Sort of Sugar Made of the Juice of the Maple, in Canada",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102141"
+  }
+}

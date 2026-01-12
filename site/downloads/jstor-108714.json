@@ -1,0 +1,69 @@
+{
+  "id": "95622b7dc078a24ddcdd0ba08e0c7c7a92d43bec",
+  "text": "XXVIII. Supplement to Mr. Macquorn Rankine's Paper \"On the Thermodynamic Theory of Steam-engines with dry saturated Steam, and its application to practice*.\"\n\nReceived September 3,—Read December 8, 1859.\n\nThe following additional information respecting the steam-ships referred to in the examples may be interesting, although it does not strictly belong to the special subject of the paper.\n\nExample I.—Paddle-steamer 'Admiral,' built by Mr. James R. Napier; engines made by Messrs. Randolph, Elder and Co.; draught 7 feet 6 inches; length 210 feet; breadth 32 feet; displacement 820 tons; speed with 774 indicated horse-power 11·9 nautical miles an hour. Effective work in driving the ship, about 604 horse-power.\n\nAvailable heat expended per hour in foot-pounds per indicated horse-power,\n\n\\[\n\\frac{1,980,000}{\\text{efficiency of steam}} = \\frac{1,980,000}{0.123} = 16,100,000.\n\\]\n\nCoal burned per indicated horse-power per hour, 2·97 lbs.\n\nAvailable heat of combustion of one pound of coal,\n\n\\[\n\\frac{16,100,000}{2.97} = 5,420,000 \\text{ foot-lbs}.\n\\]\n\nThe total heat of combustion of one pound of the coal employed being roughly estimated at 10,000,000 foot-pounds, it appears that the efficiency of the furnace and boiler was about 0·542.\n\nThe boilers were improved marine boilers of ordinary proportions.\n\nExample II.—Screw-steamer 'Thetis,' built by Messrs. C. Scott and Co.; the engine made by Messrs. Rowan and Co.\n\nAvailable heat expended per hour in foot-lbs. per indicated horse-power,\n\n\\[\n\\frac{1,980,000}{\\text{efficiency of steam}} = \\frac{1,980,000}{0.192} = 10,312,500.\n\\]\n\nCoal burned per indicated horse-power per hour, during an experiment of one hour's duration, 1·02 lb.\n\nAvailable heat of combustion of one pound of the coal employed,\n\n\\[\n\\frac{10,312,500}{1.02} = 10,110,000 \\text{ foot-pounds}.\n\\]\n\nThe coal used was of very good quality; and its total heat of combustion per pound is\n\n* Philosophical Transactions, Part I. 1859, p. 177; Proceedings of the Royal Society, January 1859.\nestimated at 11,560,000 foot-pounds. Hence the efficiency of the furnace and boiler was\n\n\\[\n\\frac{10,110,000}{11,560,000} = 0.88.\n\\]\n\nIn this case the short duration of the experiment on the consumption of coal, which was interrupted by a fog, makes the result less satisfactory than it would have been if the experiment had been continued, as intended, for several hours. The engine and boiler were of a kind invented some years ago by Mr. Craddock; the boiler consisting chiefly of a sort of cage of vertical water-tubes enclosing each fire-grate. The heating surface was about nine times as great, relatively to the fuel burned, as it is in ordinary marine boilers.\n\n**Example III.**—Paddle-steamer 'Callao,' built by Messrs. John Reid and Co.; the engines by Messrs. Randolph, Elder and Co.; displacement 1100 tons; speed with 1176 indicated horse-power 12·05 nautical miles per hour.\n\nAvailable heat expended per hour in foot-pounds per indicated horse-power,\n\n\\[\n\\text{efficiency of steam} = \\frac{1,980,000}{0.14} = 14,143,000 \\text{ foot-lbs.}\n\\]\n\nCoal burned per indicated horse-power per hour, 2·67 lbs.\n\nAvailable heat of combustion of 1 lb. of coal,\n\n\\[\n\\frac{14,143,000}{2.67} = 5,300,000;\n\\]\n\nbeing nearly the same as in Example I.\n\nThe boilers in this case were, like those in Case I., improved marine boilers of ordinary proportions. In such boilers, 5,400,000 foot-lbs. may be considered a fair estimate of the available heat of combustion of good ordinary steam-coal.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108714.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 1146,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2011,
+        2
+      ],
+      [
+        2011,
+        3496,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108714",
+    "title": "Supplement to Mr. Macquorn Rankine's Paper \"On the Thermodynamic Theory of Steam-Engines with Dry Saturated Steam, and Its Application to Practice\"",
+    "authors": "Macquorn Rankine",
+    "year": 1859,
+    "volume": "149",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/108714"
+  }
+}

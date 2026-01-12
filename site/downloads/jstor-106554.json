@@ -1,0 +1,59 @@
+{
+  "id": "d40fe1adedf3ba350d5d4f7cb89f3838bc266d7e",
+  "text": "THE ROYAL SOCIETY.\n\nCHAPTER V.\n\nOf the Causes and Form of Ejection.\n\nI. If any Fellow of the Society shall contemptuously, or contumaciously, disobey the Statutes or Orders of the Society or Council; or shall, by speaking, writing, or printing, publicly defame the Society; or advisedly, maliciously, or dishonestly, do anything to the damage, detriment, or dishonour thereof, he shall be ejected out of the Society.\n\nII. Whencesoever there shall be cause for the Ejection of any Fellow out of the Society, the President shall, at some meeting thereof, propose the Ejection of such Fellow; which being put to the Ballot, and two thirds of the members voting for it, the President shall cancel his name in the Register, and at the same time pronounce him ejected in these words:\n\nI do, by the authority and in the name of the Royal Society of London, for improving natural knowledge, declare A. B. to be now ejected, and no longer a Fellow thereof.\n\nAnd the Ejection of every such person shall be then recorded in the Journal-book of the Society; and his name, as ejected, be also read at the next Anniversary Election.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106554.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 318,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1118,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106554",
+    "title": "Of the Causes and Form of Ejection",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106554"
+  }
+}

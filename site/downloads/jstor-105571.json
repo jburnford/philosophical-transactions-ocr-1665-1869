@@ -1,0 +1,79 @@
+{
+  "id": "66fed343b9fd0d89e820fe0535a084be90c3ac67",
+  "text": "By several transits over the meridian, observed at the Royal Observatory, at the latter end of the year 1762 and beginning of 1763, the first or the preceding star of the three Ψ's of Aquarius (with all which I compared the moon, December 4, 1761, at St. Helena) preceded the second or subsequent one $2'7''$, $11$ of time in right ascension, and the third or last $3'9''$, $70$ and the second preceded the third $1'2''$, $59$ all according to the time of a clock regulated to agree with the diurnal revolution of the stars.\n\nLVIII. An Account of an extraordinary Disease among the Indians, in the Islands of Nantucket and Marthu’s Vineyard, in New England. In a Letter from Andrew Oliver, Esq; Secretary of his Majesty’s Province of Massachusetts Bay, to Israel Mauduit, Esq; F. R. S.\n\nBoston, 26 Oct. 1764.\n\nSIR,\n\nRead Dec. 20, 1764. Considering your connexions, both as a member of the Royal Society, and of the Society for propagating the gospel among the Indians, I transmit you an account of an uncommon sickness, which prevailed the last year at the islands of Nantucket and Martha’s Vineyard, which lie about six or seven leagues from each other, and the latter about four or five leagues distant from the Indian plantation at Mashpee on the Continent, where it did not make its appearance at all. As I had my account from the English minister, and from the physician at Nantucket, and from the society’s mis-\nsionary at the Vineyard, of each of whom I made the most scrupulous inquiry, you may depend on the truth of it.\n\nAbout the beginning of August, 1763, when the sickness began at Nantucket, the whole number of Indians belonging to that island was 358: of these, 258 had the distemper betwixt that time and the 20th of February following, 36 only of whom recovered: of the 100, who escaped the distemper, 34 were conversant with the sick, eight dwelt separate, 18 were at sea, and 40 lived in English families. The physician informs me, that the blood and juices appeared to be highly putrid, and that the disease was attended with a violent inflammatory fever, which carried them off in about five days. The season was uncommonly moist and cold, and the distemper began originally among them; but having once made its appearance seems to have been propagated by contagion; although some escaped it, who were exposed to the infection.\n\nThe distemper made its appearance at Martha's Vineyard the beginning of December, 1763. It went through every family, into which it came, not one escaping it: fifty-two Indians had it, 39 of whom died; those, who recovered, were chiefly of the younger sort.\n\nThe appearance of the distemper was much the same in both these islands; it carried them off in each, in five or six days. What is still more remarkable than even the great mortality of the distemper is, that not one English person had it in either of the islands, although the English greatly exceed in numbers; and that some persons in one family\nfamily, who were of a mixt breed, half Dutch and half Indian, and one in another family, half Indian and half Negro, had the distemper, and all recovered; and that no person at all died of it, but such as were entirely of Indian blood. From hence it was called the Indian Sickness.\n\nThere had been a great scarcity of corn among the Indians the preceding winter: this, together with the cold moist season, have been assigned by some as the causes of the distemper among them. These circumstances, it is true, may have disposed them to a morbid habit, but do not account for its peculiarity to the Indians: the English breathed the same air, and suffered in some measure in the scarcity, with the Indians; they yet escaped the sickness. I do not see therefore, but that the Sudor Anglicus, which heretofore affected the English only, and this late Indian sickness, must be classed together among the Arcana of Providence.\n\nI am,\n\nSIR,\n\nYour most obedient\n\nHumble servant,\n\nAndrew Oliver.\n\nLIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105571.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1086,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1418,
+        2
+      ],
+      [
+        1418,
+        2959,
+        3
+      ],
+      [
+        2959,
+        3951,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105571",
+    "title": "An Account of an Extraordinary Disease among the Indians, in the Islands of Nantucket and Marthu's Vineyard, in New England. In a Letter from Andrew Oliver, Esq; Secretary of His Majesty's Province of Massachusett's Bay, to Israel Mauduit, Esq; F. R. S.",
+    "authors": "Andrew Oliver",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105571"
+  }
+}

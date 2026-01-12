@@ -1,0 +1,59 @@
+{
+  "id": "afb61fb1ba53a0c08049fb404bbe587405e427e7",
+  "text": "ious and Inventive men; that have indeed so far ground for what they advance, that they only improve and augment what has been certainly real in itself, and likely is still true in Nature.\n\nIII. An Account of the persons Married, Christened and Deceased in all the Dominions of the Elector of Brandenburg, in the year 1698.\n\n| In der Chur-und Mard-Brandenburg | Married | Christ. | Deceaf. |\n|----------------------------------|---------|---------|---------|\n| In der Neu-Ward und Lande Sternberg | 3702    | 13792   | 7149    |\n| Im Herkogthumb Preussen          | 1528    | 5746    | 3211    |\n| Im Herkogthumb Magdeburg         | 6161    | 21803   | 17091   |\n| Im Herkogthumb Cleve und Graffschafft Markt | 1357    | 5480    | 3042    |\n| Im Herkogthumb Pommern           | 1888    | 6178    | 4215    |\n| Im Furstenthumb Halberstadt      | 1714    | 7244    | 4827    |\n| Im Furstenthumb Minden           | 488     | 2297    | 1192    |\n| In der Graffschafft Hohenstein   | 525     | 1937    | 1326    |\n| In der Graffschafft Ravensberg   | 145     | 568     | 415     |\n| In der Herrschafft Lauenburg und Butow | 665     | 2223    | 1789    |\n\nMarried 18298\nChristened 67763\nDeceased 44678\n\nIV. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102743.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 529,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1205,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102743",
+    "title": "An Account of the Persons Married, Christened and Deceased in All the Dominions of the Elector of Brandenburg, in the Year 1698",
+    "authors": null,
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102743"
+  }
+}

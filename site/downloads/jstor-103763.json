@@ -1,0 +1,69 @@
+{
+  "id": "6d8e349da54117b2b7f7ae5a60a17d5fdec7565c",
+  "text": "VIII. Sectio Oculorum duorum Cataraetâ affectorum.\n\nEpistola Domini ad Samuelem Molyneux Armigerum, Serenissimo Principi Walliae a Secretis, R. S. S.\n\nJohannes Wright, senex milesque emeritus, suffusione seu Cataraetâ utriusque oculi laborans, visu tandem omnino privatus est. Curae se commisit Domini Caywood, Oculistæ Dubliniensis, qui acu punctoria oculum utrumque perforavit ad Crystallinum è sede suâ deprimendum. Operatione verò in oculo dextro minus feliciter succedente, sinistri usum solummodo recuperavit. Paucis mensibus post operationem peractam, in hospitium regale militum emeritorum prope Dublinium receptus est, ubi per annos octo vel novem mansit, &c., per totum istud tempus, visus aciem satis acutam habuit, adeo per urbem solus ambularet, &c. sodalium facies distinguere posset. Mortuus est tandem 5° die Aprilis 1722. suffocatus per caesi morsulum haerentem in gula, quam adeo arctam habuit, ut eundem mortis aditum paucis abhinc annis bis ægre evaserit. Oculi ejus, e crainio exempti, missi sunt per Nosocomii Chirurgum ad D. Thomam Molyneux Medicinæ Doctorem, Collegii Med. Regalis in Hibernia Socium, &c. in Academia Dublinensi Medicinæ Professorem. In ædibus ejus cultro Anatomico aperti sunt, per Oculistam supradiectum, meoque, ut intereßem operationi, accertere dignatus est. In oculo sinistro (cujus aciem recuperatam fuisse supra notavimus) sublatâ cornæ cum portione tunicæ scleroticae, ne vel minimum invenimus rudimentum pelliculae in aquo humore fluctuantis, aut limbo iridis adnatae, sic ut\nsicut se observasse scribit Wolhousius. Quod vero multe magis mirandum est, nullae prorsus reliquiae inventae sunt humoris Crystallini, cujus opacitati morbum adscribit Doctor Brisseeus. Humor Vitreus, quoad situm & consistentiam, nihil praeternaturale oculis nostris exhibuit; tunica choroidea & retina fusci coloris erant tam intus quam extra. In oculo dextro eadem omnia observavimus; nullum nempe pelliculae aut Crystallini rudimentum occurrebat. Tunica cornea rugosa erat & flaccida, quod aqueus humor per puncturam extravasatus, numquam renovatus sit: adeoque istius oculi usum amissit penitus. Crystallini vero defectum quod attinet, res est prorsus inaudita, neque ab ullo Anatomico, quantum scio, defuisse observatus est, vel leviter suspectus. Militem hunc Crystallinum habuisse in utroque oculo ante operationem, nullus dubito; cum vero acu a fede sua detrusus est, ligamentis ciliaribus vasisque, quibus nutrimentum haudit, penitus disruptis, eum sensim contabuisse credo, tandemque in auras dissipatum fuisse. Summopere vellem hanc rem experimento saepius iterato confirmatain esse: suspicor enim idem semper eveneri statu tempore post depressum Crystallinum.\n\nHoc certo constat ex hac historia, hominem nempe absque Crystallino videre posse, contra opinionem Wolhousii Oculistae Parisiensis, eaque amplius confirmatur sententia D. Doctoris Brissei de Cataracta, quem consulas quaeso super hac re.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103763.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 1034,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1526,
+        2
+      ],
+      [
+        1526,
+        2936,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103763",
+    "title": "Sectio Oculorum Duorum Cataracta Affectorum. Epistola Domini ad Samuelem Molyneux Armigerum, Serenissimo Principi Walliae a Secretis, R. S. S.",
+    "authors": "Samuelem Molyneux",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103763"
+  }
+}

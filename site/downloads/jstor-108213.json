@@ -1,0 +1,79 @@
+{
+  "id": "ea57e01352f454cf6152f388339805de1f2c03e5",
+  "text": "V. A Supplement to a Paper entitled \"Remarks on the Theory of the Dispersion of Light, as connected with Polarization.\" By the Rev. Baden Powell, M.A. F.R.S. F.G.S. F.R.Ast.S., Savilian Professor of Geometry in the University of Oxford.\n\nReceived February 6,—Read March 5, 1840.\n\nIn a paper inserted in the Philosophical Transactions* I endeavoured to elucidate what appeared to me an important point in the wave-theory, viz. the connexion (first pointed out by Mr. Tovey) between certain conditions with respect to the arrangement of the æthereal molecules, and the rectilinear or elliptic form of the vibrations; thus affording a criterion of their nature, in the respective cases, by the evanescence, or finite value, of certain terms in the equations.\n\nSince the publication of that paper I have been led to review the subject in connexion with the valuable illustrations given by Mr. Lubbock of the views of Fresnel†, according to which it appears that the criterion just mentioned requires a material modification. I think it necessary therefore to submit to the Royal Society this short Supplement, in order to point out in what way the conclusions in my paper will be affected by these considerations.\n\nIn the investigation last referred to it is established,\n\n1. That every system of molecules, constituted as here supposed, has at every point three axes of elasticity, at right angles to each other.\n\n2. That if these axes be taken as the axes of coordinates, then, in the fundamental equations of motion, deduced as in my paper, we shall have\n\n\\[\n\\sum \\{ \\psi r \\Delta y \\Delta z \\} \\Delta \\eta = 0, . . . . . . . . . . . . . . . (1)\n\\]\n\nand all terms of the same form in like manner \\(= 0\\); so that the equations (13.) of my paper are reduced to\n\n\\[\n\\frac{d^2 \\xi}{dt^2} = \\sum \\{ (\\varphi r + \\psi r \\Delta x^2) \\Delta \\xi \\}\n\\]\n\n\\[\n\\frac{d^2 \\eta}{dt^2} = \\sum \\{ (\\varphi r + \\psi r \\Delta y^2) \\Delta \\eta \\}\n\\]\n\n\\[\n\\frac{d^2 \\zeta}{dt^2} = \\sum \\{ (\\varphi r + \\psi r \\Delta z^2) \\Delta \\zeta \\}\n\\]  \n\n(2.)\n\n* 1838, Part II. † London and Edinburgh Journal of Science, November, 1839.\nWith the equations in this form we easily pursue the investigation of the dispersion formula; and this condition is, in fact, assumed by M. Cauchy, by Mr. Kelland and others, though without explicit reference to the axes of elasticity.\n\nIn the case of elliptically polarized light we are obliged to adopt a peculiar method. We have here to consider not, as in the common case, a rectilinear displacement $\\xi$, and its resolved parts $\\xi, \\eta, \\zeta$, but a curvilinear displacement, which is the result of two virtual rectilinear displacements acting at right angles to each other, and in a plane to which the ray is perpendicular; and one of which is always retarded behind the other by an interval $b$, which we consider as an arc less than $\\pi$. In this case, therefore, we must proceed (as in my paper) by making one of the coordinate axes, as $x$, coincide with the ray, (or, more correctly and generally, the normal to the wave surface,) whence $\\xi = 0$, $\\Delta \\xi = 0$, &c. The first of the three equations (2.) disappears, and $\\eta, \\zeta$ coincide with the components which give the elliptic motion and are of the forms\n\n$$\\eta = \\Sigma \\alpha \\sin (nt - kx)$$\n$$\\zeta = \\Sigma \\beta \\sin (nt - kx + b)$$\n\nIn pursuing the investigation on the principles now referred to, Mr. Lubbock shows that in this case we have always\n\n$$\\Sigma \\{a \\psi r \\Delta z \\Delta y \\sin (k \\Delta x)\\} = 0$$\n\nand\n\n$$\\Sigma \\{a \\psi r \\Delta z \\Delta y \\sin^2 \\left(\\frac{k \\Delta x}{2}\\right)\\} = 0$$\n\nThus upon the whole we have (in my notation)\n\n$$\\Sigma \\{a q \\sin 2 \\theta\\} = 0$$\n$$\\Sigma \\{a q 2 \\sin^2 \\theta\\} = 0$$\n\n$$\\Sigma \\{q \\Delta \\zeta\\} = 0$$\n$$\\Sigma \\{q \\Delta \\eta\\} = 0$$\n\n$$\\frac{d^2 \\eta}{dt^2} = \\Sigma \\{p \\Delta \\eta\\}$$\n$$\\frac{d^2 \\zeta}{dt^2} = \\Sigma \\{p' \\Delta \\zeta\\}$$\n\nFrom the equation to the ellipse obtained from equations (3.), and since, in elliptic polarization, all the ellipses included in the summation must be equal and similar with their axes parallel, the semiaxes being respectively $\\alpha \\sin b$, and $\\beta \\sin b$, where $\\alpha = A \\sin i$, and $\\beta = B \\sin i$, it follows that we have $\\alpha, \\beta$, and $b$, constant for all the ellipses. Hence, the factors involving those terms become common multipliers to the several sums.\nHence, following the same investigation as in my former paper*, we arrive at formulae corresponding to (25.) (26.) (27.) (28.), whence there results,\n\n\\[\n\\begin{align*}\n0 &= - \\Sigma \\{ \\alpha p \\sin 2 \\theta \\} \\\\\n0 &= \\Sigma \\{ p' \\sin 2 \\theta \\} \\\\\n-n^2 &= \\Sigma \\{ p' 2 \\sin^2 \\theta \\}\n\\end{align*}\n\\]  \n\nand the formula corresponding to (41.) gives\n\n\\[\n\\sin b = \\frac{o}{o}\n\\]\n\nHence, it follows that in the case where the ray coincides with an axis of elasticity, the criterion of elliptic polarization ceases to be applicable.\n\n* In the formula (17.) of my former paper, an oversight was discovered, too late to be corrected, in the sign of the last term, which should be + instead of −. This error runs through all the succeeding forms, and causes the introduction of the factor (cos 2 b) in (29.) (30.) and (31.); this factor should be unity. This error, however, does not in the least affect the ulterior results.\n\nAlso in p. 255, line 7 from bottom, for \\( \\beta = 0 \\), read \\( b = 0 \\).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108213.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6594,
+    "total-output-tokens": 1663,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2102,
+        2
+      ],
+      [
+        2102,
+        4385,
+        3
+      ],
+      [
+        4385,
+        5387,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108213",
+    "title": "A Supplement to a Paper Entitled \"Remarks on the Theory of the Dispersion of Light, as Connected with Polarization\"",
+    "authors": "Baden Powell",
+    "year": 1840,
+    "volume": "130",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/108213"
+  }
+}

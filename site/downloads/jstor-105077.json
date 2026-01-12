@@ -1,0 +1,79 @@
+{
+  "id": "787328ff48bc39d0fa2a8d74bbd35d3e559d7d3c",
+  "text": "LXIV. A Catalogue of the Fifty Plants from Chelsea Garden, presented to the Royal Society by the Worshipful Company of Apothecaries for the Year 1751, pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. nuper Praes; by John Wilmer, M.D. clarissim. Societat. Pharmaceut. Londinens. Soc. Hort. Chels. Praefet. & Praeect. Botan.\n\nRead March 15, 1451\n\n1451 A DONIS sylvestris flore luteo, foliis longioribus C.B. 178.\n\n1452 Althaea frutescens Lusitanica folio rotundiori undulato. Tourn.\n\n1453 Anonis viscosa spinis carens lutea major. C.B.P.\n\n1454 Aspalathus frutescens minor angustifolius cort. aureo. Amm.\n\n1455 Asteriscus frutescens leucoii foliis, viridibus et splendent. H.E.\n\n1456 Bulbocodium crocifolium, flore parvo violaceo. T.Corr. 50.\n\n1457 Carduus canescens, aculeis flavescentibus munitus. Boerh.\n\n1458 Catanance quorundam. Lugd. 1190.\n\n1459 Ceratocephalus Virgin. tripteris foliis laevibus, flore luteo radiato. Vaill.\n\n1460 Chondrilla viminea. J.B. 2. 1021.\n\n1461 Claytonia ———— Linnaei.\n\n1462 Corona solis altissima Vofacan dicta. Vaill.\n\n1463\n1463 Cruciata Alpina latifolia lævis. Tourn. 115.\n1464 Cyclamen hyeme et vere florens Perficum dictum. H. Reg. Par.\n1465 Cytisus Canariensis microphyllos angust. prorsus incanus. Pluk. Phyt.\n1466 Erigeron foliis inferioribus dentato-laciniat. superioribus integris. Lin.\n1467 Eryngium yuccae foliis spinis tenellis, hinc inde marginibus appositis.\n1468 Euonymus Novi Belgii, corni feminæ foliis. Hort. Amst. 86.\n1469 Gallium arvense flore cœruleo. Inst. R. H.\n1470 Globularia vulgaris. Tourn. 466.\n1471 Helianthemum saxatile, foliis et caulibus in-canis Apennini mont. Ment.\n1472 Jacea foliis cichoraceis villofis altissima, floribus alb. et purp. T. 444.\n1473 Jacobæa Afric. frutescens, foliis incisis et subtus cineraceis. Com. Raii.\n1474 Iris palust. lutea, seu acorus adulterinus. J. B. 2. 732. Off. 249.\n1475 Lavendula Canariensis, spica multiplice cœrulea. Pluk. Phyt.\n1476 Limonium Ægyptiacum lignosum, halimi folio. D. Jussieu.\n1477 Linaria purpurea major odorata, C. B. 213.\n1478 Malpighia latiore folio subrotundo, fructu majore. Plum.\n1479 Menyanthes palustre et triphyllum. T. 117. Off. 493.\n1480 Napæa Linnæi.\n1481 Nasturtium orient. fol. inferiorib. millefolium, superioribus perfoliatam referentibus. T. 214.\n1482 Ocymum Zeylanicum perenne frutescens, fol. Calaminth. Boerh.\n1483 Osteospermum spinis ramosis. Linn. Hort. Cliff.\n1484 Oxys bulbosa African. rotundifol. flor. purp. amplis. H. Amst. f. 21.\n1485 Polium maritimum supinum Venetum. C.B. 221.\n1486 Polygala Africana frutescens, buxi folio, maximo flore. Olden.\n1487 Punica, flore pleno majore. T. 636. Offic. 395.\n1488 Sambucus racemosa rubra. C. B. 456. Off. 424.\n1489 Scabiosa stellata, fol. non diffecto. Tourn.\n1490 Scabiosa stellata minima. C. B. P.\n1491 Scrophularia orient. chrysanthemi fol. fl. minimo variegat. T. Cor.\n1492 Sicyoides American. fructu echinato, fol. angulatis. T. 103.\n1493 Sida fol. crenatis, inferioribus cordatis obtusis superioribus acuminatis.\n1494 Solanum Bahamense papas floribus. Hort. Elt.\n1495 Tanacetum African. fruticans multiflorum, &c. Com. H. Amst.\n1496 Thymbra legitima. Cluf. Hist. 358.\n1497 Thymbra Sancti Juliani, sive satureia vera. Lobel. Ic. 425.\n1498 Verbena urticae foliis Canadensis. Cornut.\n1499 Virga aurea fol. latioribus in summis virgis albis spicatim dispositis.\n1500 Xeranthemum flore pleno purpureo majore. Hort. L.\n\nLXV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105077.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1541,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1079,
+        2
+      ],
+      [
+        1079,
+        2303,
+        3
+      ],
+      [
+        2303,
+        3432,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105077",
+    "title": "A Catalogue of the Fifty Plants from Chelsea Garden, Presented to the Royal Society by the Worshipful Company of Apothecaries for the Year 1751, Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. Nuper Praeses; By John Wilmer, M. D. Clarissim. Societat. Pharmaceut. Londinens. Soc. Hort. Chels. Praefect. & Praelect. Botan.",
+    "authors": "John Wilmer",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105077"
+  }
+}

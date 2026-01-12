@@ -1,0 +1,109 @@
+{
+  "id": "3936d422cac3e5b2e73ec4235b4825a68c23a4e5",
+  "text": "XII. A Letter from Mr. John Robertson, Lib. R. S. to James West, Esq; President of the Royal Society; containing the Demonstration of a Law of Motion, in the Case of a Body deflected by two Forces tending constantly to two fixed Points.\n\nSir,\n\nRead April 6, 1769.\n\nTHE late Mr. Machin (who was, for many years, secretary to the Royal Society, and Gresham professor of astronomy) gave to the editor of the English edition of Sir Isaac Newton's Principia, published in the year 1729, a tract entitled, \"The Laws of the Moon's Motion according to Gravity,\" which was annexed to that impression: Mr. Machin, in the Postscript to that tract, after apologizing for not mentioning the fundamental principles of the demonstration of the propositions relating to the Moon's motions, says, \"Some of which, I am apt to think, cannot easily be proved to be either true or false, by any methods which are now in common use.\"\n\nOne of these principles he gives in the following words:\n\n\"There is a law of motion which holds in the case where a body is deflected by two forces, tending constantly to two fixed points.\n\nWhich\nWhich is, That the body, in such a case, will describe, by lines drawn from the two fixed points, equal solids in equal times, about the line joining the said fixed points.\n\nAnd (after observing that Sir Isaac Newton has proved, that Kepler's law of bodies describing equal areas in equal times about the centers of their revolution, cannot hold, whenever the body has a gravity or force to any other than one and the same point) further says, \"there seems to be wanting some such law as I have here laid down, that may serve to explain the motions of the Moon and Satellites, which have a gravity towards two different centers.\"\n\nAbout the year 1742, discoursing with that eminent mathematician, the late William Jones, Esq; F. R. S. on the above-mentioned law, he shewed me its demonstration, and permitted me to take a copy thereof; and as I conceive it to be highly worth preserving, I now offer it to your consideration, about giving it a place in the Philosophical Transactions.\n\nI am,\n\nSir,\n\nYour most humble servant,\n\nFebruary 27,\n1769.\n\nJ. Robertson.\nIF a body (P), projected in a given direction, be constantly drawn towards two fixed points (S and T), which are not both in the same plane with the direction, the triangle (SPT), formed by right lines drawn from the body (P) to those fixed points (S and T), shall describe equal solids (STPP', ST'PP''), in equal times, about the right line (ST) joining the said points.\n\nFIG. 2. For, suppose a body projected in the direction PP', and acted upon by two centripetal forces towards the fixed points S and T; the angles P'PS, P'PT lying in different planes. Let the time be divided into equal moments.\n\nIn the first moment, suppose the body, by its given force, should move along the line PP'; and in the second moment, if no new force was added, it should continue to move in the same right line along P'p = PP'; but when the body has come to P', suppose it acted upon by the two centripetal forces, in the directions P'T, P'S; and let those forces be in proportion to that in the direction PP', as the lines P't, P's to the line P'p (= P'P).\n\nWith these three right lines P'p, P't, P's, complete the parallelopipid P'P''; and the body in P', being acted upon by these three forces, in the directions P'p,\nP', P\", P\", which forces being as these three lines, shall move along the diagonal of the parallelopipid made by these three lines; so that, in the second moment of time, the body, instead of moving from P' to p, shall move from P\" to P\".\n\nDraw the lines SP, SP\" and TP', TP\", as also Sp, Tp.\n\nNow, the solid STPP' = solid STP'p; for they stand upon equal bases TPP', TP'p, and have one common vertex S, or their common altitude is the perpendicular drawn from S to the plane PTp.\n\nAnd the solid STPP\" = solid STP'p; for they stand upon the same base STP', and lie between the same parallel planes pP\", st.\n\nTherefore the solid STPP' = solid STPP\".\n\nIn like manner, in the third moment of time, the body at P\" being acted upon by three forces, in the directions P'P\", P\"S, P\"T, shall move along the line P\"P\", so as to make the solid STP\"P\" = solid STPP\"; and so in all succeeding equal moments of time, the triangle formed by right lines drawn from the body to the two fixed points S, T, shall constantly describe little solids, each equal to the solid STPP'.\n\nTherefore, the moments of the solids being proportional to the moments of the time in which they are described; the solid itself is proportional to the time in which it is described. Q.E.D.\n\nSome difficulties may, perhaps, seem to arise upon a slight view of only particular cases of this proposition; but, it is conceived, all such must vanish, when the same is thoroughly considered.\n\nFor, as in two bodies T and S; if T is acted upon by S, so as to describe a right line, that is,\nif T falls directly upon S, no area can then be described by the right line connecting T and S; but yet, this is certainly one of the cases whereby S and T may possibly act upon each other.\n\nSo in three bodies, S, T, and P; if P moves in the same plane with S and T, no solid can then be described by the plane whose right lined sides are the lines connecting P to T and S; but yet, this must be one of the cases whereby S, T, and P, may possibly act upon each other.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105810.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10792,
+    "total-output-tokens": 1525,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1109,
+        2
+      ],
+      [
+        1109,
+        2169,
+        3
+      ],
+      [
+        2169,
+        3375,
+        4
+      ],
+      [
+        3375,
+        3375,
+        5
+      ],
+      [
+        3375,
+        4921,
+        6
+      ],
+      [
+        4921,
+        5388,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105810",
+    "title": "A Letter from Mr. John Robertson, Lib. R. S. to James West, Esq; President of the Royal Society; Containing the Demonstration of a Law of Motion, in the Case of a Body Deflected by Two Forces Tending Constantly to Two Fixed Points",
+    "authors": "John Robertson",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/105810"
+  }
+}

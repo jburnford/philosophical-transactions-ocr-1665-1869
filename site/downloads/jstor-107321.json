@@ -1,0 +1,89 @@
+{
+  "id": "beb7e956ff705b460823aa15b0e598f308247c2d",
+  "text": "XV. Of the Penetration of a Hemisphere by an indefinite Number of equal and similar Cylinders. By Thomas Knight, Esq. Communicated by Sir Humphry Davy, LL.D. Sec. R.S.\n\nRead March 19, 1812.\n\nThe well known theorems of Viviani and Bossut, respecting certain portions of the surface and solidity of a hemisphere, form, together, a single case of the following problem; which is one of the most remarkable, for generality and simplicity of result, in the whole compass of geometry.\n\nProblem.\n\nTo pierce a hemisphere, perpendicularly on the plane of its base, with any number of equal and similar cylinders; of such a kind, that, if we take away from the hemisphere those portions of the cylinders that are within it, the remaining part shall admit of an exact cubature: and if we take away, from the surface of the hemisphere, those portions cut out by the cylinders, the remaining surface shall admit of an exact quadrature.\n\nLet fig. 1 represent the nearest half of the hemisphere, where a is the pole, bdcf a quadrant of the great circle form-\ning its base. From every point d, on this side of b, draw the radius dC to the centre of the hemisphere, and (if the number of cylinders is to be $2n^*$) take the arc bs equal to $n$ times the arc bd, draw se perpendicular to Cb, and with the centre C and radius Ce describe the arc er cutting Cd in r. Through all the points (r) thus found, draw the curve line brC, terminated at b and C, and it shall be half the base of one of the required cylinders.\n\nIt is, in the first place, evident, from the construction, that the half cylinder, whose base is beCrb, is contained between two planes CabC, CacC, making with each other the angle $bCc = \\frac{90^\\circ}{n}$; consequently the whole base of the hemisphere may be pierced by $2n$ such cylinders as this is the half of.\n\nLet atmb be the intersection of the surfaces of the half cylinder and hemisphere; and a great circle passing through a and d, and meeting atmb at m. Call the radius of the sphere $r$, Cr is the cosine of the arc bs to the radius $r$, by construction; it is also the cosine of the arc md to the same radius; therefore $md = bs = n \\times bd$.\n\nPut $bd = \\phi$; $md = n \\times \\phi$; $dz = \\psi$. Moreover, put A for the spherical space atmbdcna contained by the arcs anc, cdb and the curve atmb; and let S be the solidity of the portion of the hemisphere contained between the quadrant ancC and the surface (brCatmb) of the half cylinder. It is easy to see that\n\n$$A = r^3 \\int \\int \\int \\phi \\cos. \\psi \\times \\dot{\\psi},$$\n\n$$S = \\frac{r^3}{2} \\int \\int \\int \\phi \\cos. \\psi \\times \\cos. \\psi \\times \\cos. \\psi \\dot{\\psi}$$\n\n$$- \\frac{r^3}{2} \\int \\int \\int \\phi \\cos. n\\phi \\times \\cos. n\\phi \\times \\cos. \\psi \\dot{\\psi}.$$  \n\n* I do not intend $2n$ to represent an even number only, $n$ may be $\\frac{1}{2}$, or $\\frac{3}{2}$, or $\\frac{5}{2}$, &c., and $2n$ express any number whatever.\nThe fluents to be taken, first from $\\psi = 0$ to $\\psi = n\\phi$, and then from $\\phi = 0$, to $\\phi = \\frac{90^\\circ}{n}$. The first operation gives\n\n$$A = r^3 \\int \\phi \\sin. n\\phi,$$\n\n$$S = \\frac{r^3}{2} \\int \\phi \\left\\{ \\frac{3}{4} \\sin. n\\phi + \\frac{1}{12} \\sin. 3n\\phi \\right\\} - \\frac{r^3}{2} \\int \\phi \\sin. n\\phi \\cos. n\\phi,$$\n\nand by the second we get\n\n$$A = C - \\frac{r^2}{n} \\cos. n\\phi$$\n\n$$S = \\frac{r^3}{2n} \\left\\{ \\frac{\\cos. 3n\\phi}{3} - \\frac{3}{4} \\cos. n\\phi - \\frac{1}{36} \\cos. 3n\\phi \\right\\} + C,$$\n\nwhich fluents being taken from $n\\phi = 0$, to $n\\phi = 90^\\circ$, are\n\n$$A = \\frac{r^2}{n}; \\quad S = \\frac{2}{9} \\times \\frac{r^3}{n};$$\n\nand if these are multiplied by $4n$, we have\n\n$$A = 4r^2; \\quad S = \\frac{8}{9} r^3;$$\n\nfor the whole that remains of the surface and solidity of the hemisphere after the subduction of the $2n$ cylinders. Thus $A$ and $S$ (for the whole hemisphere) do not depend on the number of the cylinders with which the penetration is made; a most remarkable circumstance, seeing that amongst the bases of those cylinders are curves of an infinity of different kinds and orders.\n\nLet fig. 2 represent half the base of one of the cylinders; $b$ $C$ $b$ the radius of the hemisphere, $C$ the centre. From $r$, any point in the curve, let fall the perpendicular $rp$ on the axis; call $Cp$, $x$; $rp$, $y$.\n\nBy construction, $Cr = \\sqrt{x^2 + y^2} = r \\cos. n \\cdot bCr$; now the cosine of the simple arc $bCr$ is $\\frac{x}{\\sqrt{x^2+y^2}}$, which being put in the trigonometrical expression for the cosine of the multiple arc\nin terms of the cosine of the simple one, we have, for the equation of the curve brC.\n\nWhen $n = 1$, $\\sqrt{x^2 + y^2} = \\frac{rx}{\\sqrt{x^2 + y^2}}$ or $x^2 + y^2 = rx$, the equation of a circle.\n\nWhen $n = 2$, $\\sqrt{x^2 + y^2} = \\frac{2rx^2}{x^2 + y^2} - r$ or $(x^2 + y^2)^3 = r^4 (x^2 - y^2)^2$; and in general the curve will be algebraic when $n$ is any whole number.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107321.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8024,
+    "total-output-tokens": 1683,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1044,
+        2
+      ],
+      [
+        1044,
+        2909,
+        3
+      ],
+      [
+        2909,
+        4490,
+        4
+      ],
+      [
+        4490,
+        4863,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107321",
+    "title": "Of the Penetration of a Hemisphere by an Indefinite Number of Equal and Similar Cylinders",
+    "authors": "Thomas Knight",
+    "year": 1812,
+    "volume": "102",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/107321"
+  }
+}

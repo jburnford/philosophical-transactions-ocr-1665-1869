@@ -1,0 +1,69 @@
+{
+  "id": "32e10356cc880ee1bdc3c0473221acebf4d2e4e5",
+  "text": "Transactions, that the Mercury is not affected with the weather, or very rarely, let it be Cloudy, Rainy, Windy, or Serene in St Helena, or the Barbadoes, and therefore probably not within the Tropicks, unless in a Violent storm or Hurricane. Now if the Mercury move little or nothing in the Baroscope, tis likely there is little or no Change in the Gravity of the Atmosphere within the Tropicks.\n\nI am,\n\nYour most Humble Servant,\n\nWILLIAM MOLYNEUX.\n\nPart of a Letter from Dr. Nath. Vincent. F. of the R. S. concerning Dr Papin's way of Raising Water.\n\nI have inquired into Dr Papin's Problematic Engine for raising Water, in the Transaction of July 1685, and do conclude it may be solved after this manner. Within his Rock G C (see Phil. Transf. Num. 173, Fig. 18th.) there may be a Vessel placed, which shall be made like the Body of a pair of Bellows, or those Puffs heretofore used by Barbers, which being filled with water, a piece of Clock-work put under it may produce the Jetto's; the water being received into the Shell HH, and running thence into the hollow of the Coral EE; may be thereby conveyed into the follicular cavity, in the same quantity it is ejected from the two Emerging\nEmerging Tubes; and it shall circulate a hundred or more than a thousand times, according to the going of the Clock-work. If some such account as this will unriddle the Engine, the contrivance of it is owing to a Theory communicated by myself, &c.\n\nA Letter of Mr. R. A. relating to the same subject.\n\nI have here given you a rude Draught of Monfr Papins curious Experiment, hoping thereby to have my conception of it more readily understood; if it carry not with it some appearance of reason, I desire you to suppress it, and you will much oblige, &c.\n\nI conceive, that the Air is forced into the outer glass at the bottom thereof.\n\nThat it then passes up between the two Glasses.\n\nThat the outer glass or case being closely fitted at the Head or Crown to which the inner Glass is hung by the Corall, the Air is forced into the mouth of the Inner Glass.\n\nThat the Air so forced pressing on the surface of the Water that covers the Rock, forces the Water to rise through those two extremities parts that are not at all clog'd, or cover'd with Water.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102190.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 642,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1194,
+        2
+      ],
+      [
+        1194,
+        2254,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102190",
+    "title": "Part of a Letter from Dr. Nath. Vincent. F. of the R. S. concerning Dr Papin's Way of Raising Water",
+    "authors": "Nath. Vincent",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102190"
+  }
+}

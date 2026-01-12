@@ -1,0 +1,69 @@
+{
+  "id": "44945400133fa5f2d5bd72b45d487f08f10f1065",
+  "text": "An account of a Stone grown to an iron Bodkin in the bladder of a Boy: communicated by Dr. Lister Fellow of the Royal Society.\n\nFIG. 3 represents a Stone which was cut out of the bladder of a Boy at Paris by Monsieur Colo: the iron bodkin, to which the Stone grew, and which passes through the middle of it, had been thrust up into the bladder by the boy himself, about two years before the incision. The Stone was presented by the above named Chirurgeon to his late Majestie of England, amongst whose rarities it is now preserved, and by whose favour and permission I caused this draught to be made of it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102125.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 233,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        606,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102125",
+    "title": "An Account of a Stone Grown to an Iron Bodkin in the Bladder of a Boy: Communicated by Dr. Lister Fellow of the Royal Society",
+    "authors": "Dr. Lister",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102125"
+  }
+}

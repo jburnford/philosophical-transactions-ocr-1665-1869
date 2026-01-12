@@ -1,0 +1,59 @@
+{
+  "id": "99422780e2ae81b71b139cb14ee1da97e36e3e02",
+  "text": "IV. A Recipe: Or the Ingredients of a Medicine for the spreading mortal Distemper amongst Cows: Lately sent over from Holland, where a like Distemper raged amongst the Black Cattle.\n\nRecipe Veronicae, Pulmonariae, Hyssopi, Scordii, ana. M. iv\nRad. Aristolochiae rotunde, Gentiana, Angelicae, Petasitis,\nTormentilla, Carline, ana unc. 12. Bac. Lauri & Juniperi\nana unc. 12. Misc. fiat Pulvis.\n\nBleed the Cow, and give her every Morning, for 3 or 4\nMornings, an Ounce of this Powder with a Horn in warm Beer.\nIf the Cow's Illness continues, after the omission of 2 or 3\nDays, repeat the Medicine for 3 or 4 Days again.\n\nFINIS.\n\nERRATA. Pag. 43. Lin. 2. for Cc, read 4CS.\n\nLONDON, Printed for WILLIAM INNYS, at the\nPrince's-Arms in St. Paul's Church-yard. 1714.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103032.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 309,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        758,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103032",
+    "title": "A Recipe: Or the Ingredients of a Medicine for the Spreading Mortal Distemper Amongst Cows: Lately Sent Over from Holland, where a Like Distemper Raged amongst the Black Cattle",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103032"
+  }
+}

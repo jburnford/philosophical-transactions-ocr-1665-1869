@@ -1,0 +1,89 @@
+{
+  "id": "7f24f7fdf7f7b7f457c6445767484eb18d2bf461",
+  "text": "IX. A Contrivance to make the Poles of the Diurnal Motion in a Celestial Globe pass round the Poles of the Ecliptic. Invented by John Senex, F.R.S. read at a Meeting of the Royal Society, May 4. 1738.\n\nThe Poles of the Diurnal Motion do not enter into the Globe, but are affix'd at one End, to two Shoulders or Arms of Brass, at the Distance of 23 Degrees and an half from the Poles of the Ecliptic. These Shoulders at the other End are strongly fastned on to an Iron Axis, which passeth through the Poles of the Ecliptic, and is made to move round, but with a very stiff Motion; so that when it is adjusted to any Point of the Ecliptic, which you desire the Equator may intersect, the Diurnal Motion of the Globe on its Axis will not be able to disturb it.\n\nWhen it is to be adjusted for any Time, past or to come, bring one of the brass Shoulders under the Meridian, and holding it fast to the Meridian with one Hand, turn the Globe so about with the other, that the Point of the Ecliptic, which you would have the Equator to intersect, may pass under no Degrees of the brass Meridian: Then holding a Pencil perpendicular to that Point, and turning the Globe about, it will describe the Equator as it was posited at that Time; and transferring the Pencil to 23 Degrees and an half, and 66 Degrees and an half on the brass Meridian, the Tropics and Polar Circles will be described for the same Time.\n\nBy\nBy this Contrivance, the Celestial Globe may be so adjusted as to exhibit not only the Risings and Settings of the Stars, in all Ages, and in all Latitudes, but the other Phenomena likewise, that depend upon the Motion of the Diurnal Axis round the Annual Axis.\n\nSee the Scheme, Tab. II. Fig. 3.\n\naaaa. A Section of the Celestial Globe.\nEE. A strong Iron Axis, passing through the Poles of the Ecliptic.\nbc. Two strong Arms of Brass, screw'd on to the Ends of the Iron Axis, at d.\nPP. The Axis or Poles of the Diurnal Motion, (by which the Globe is hung in the brass Meridian) rivetted on to the other Ends of the brass Arms, and which may be carried round the Poles of the Ecliptic, by the Iron Axis, but with so stiff a Motion, as not to disturb the Diurnal Rotation on the Poles PP.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103912.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8484,
+    "total-output-tokens": 722,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1405,
+        4
+      ],
+      [
+        1405,
+        2190,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103912",
+    "title": "A Contrivance to Make the Poles of the Diurnal Motion in a Celestial Globe Pass Round the Poles of the Ecliptic. Invented by John Senex, F. R. S. Read at a Meeting of the Royal Society, May 4. 1738",
+    "authors": "John Senex",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103912"
+  }
+}

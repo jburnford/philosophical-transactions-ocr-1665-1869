@@ -1,0 +1,69 @@
+{
+  "id": "0e970cff184defa4b06d80f97dc4bab22c8cbcc1",
+  "text": "XIX. An Account of some Productions of Nature in Scotland resembling the Giants-Causeway in Ireland: In a Letter to the Right Reverend Richard Lord Bishop of Offory, F. R. S. from Emanuel Mendez da Costa, F. R. S.\n\nTo the Right Reverend Richard (Pococke) Lord Bishop of Offory.\n\nMy Lord,\n\nMincing-Lane in Fenchurch-Street,\nMarch 5, 1761.\n\nRead March 5, 1761.\n\nYour Lordship having communicated to the Royal Society, at their last meeting, an account of some rocks at the entrance of the harbour of Dunbar in Scotland, which are formed into pillars, like the growth of the famous Giants-causeway, but which are solid, and not joined like them, I take the liberty to send your Lordship the following account of a like natural production in other parts of Scotland, which was communicated to me by my ingenious friend Mr. Murdoch Mackenzie, who, by order of the Lords of the Admiralty, surveyed the coasts of that kingdom, and which came too late to be inserted in its proper place in my work.\n\nIn Cana island, which is four English miles long, to the southward of Skye, and near the island of Rum, the rocks, about a quarter of a mile above the harbour, rise into polygon pillars southward. About two miles from the west end of Cana, is a low rock, or\nor small island, where is a very regular pavement of hexagon stones, each about a foot deep, and about nine inches over. They form a smooth uniform pavement; and the sides of all the stones lie extremely contiguous, or close. Immediately below this upper pavement, lies another exactly like it. The pillars are jointed exactly like those of the Giants-causeway, and are laid with their concavities downward, and their convexities upward; and their hollows are as much in proportion to these pillars, which are smaller, as they are in those of the Giants-causeway. These places are about 200 miles northward distant from the Giants-causeway.\n\nIf your Lordship chuses to communicate this account to the Royal Society, it is at your Lordship's pleasure.\n\nI am,\n\nWith great respect,\n\nMy Lord,\n\nYour Lordship's\n\nMost devoted and obliged humble servant,\n\nEmanuel Mendez da Costa.\n\nXX. Elements",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105596.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 595,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1250,
+        2
+      ],
+      [
+        1250,
+        2137,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105596",
+    "title": "An Account of Some Productions of Nature in Scotland Resembling the Giants-Causeway in Ireland: In a Letter to the Right Reverend Richard Lord Bishop of Ossory, F. R. S. from Emanuel Mendez da Costa, F. R. S.",
+    "authors": "Emanuel Mendez da Costa",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105596"
+  }
+}

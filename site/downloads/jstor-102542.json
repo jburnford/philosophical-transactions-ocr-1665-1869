@@ -1,0 +1,59 @@
+{
+  "id": "f5e87fb38de2c51dee484ad4f4bd9b9520a9459b",
+  "text": "ADVERTISEMENT.\n\nThe First Paper published Numb.242. p.246. was sent or brought out of Ireland by Mr. Keneda, an Apothecary in Edinburgh, and communicated by him to Sir Rob. Sibald, Dr. Balfour, and some others, about Seventeen Years ago.\n\nERRATA.\n\nNumb. 24. Page 180. in the last Line fave Three dele the, p. 181. l. 14, 15. read a burning Heat in, &c. l. 23 read Throbbing of the Heart. p. 182. l. 9. read in the same time. l. 22. for which read and. l. 26, 27. a parenthesis to begin at (either end at any other way.) Let that whole Paragraph end thus, do, in some measure, &c., the Probability of such a Passage. p. 184. l. 6. read measure. l. 6, 7. read an extraordinary Size was communicated, &c.\n\nNumb. 242. p. 259. l. 23. read but the whole generally cold. p. 261. l. 23. after it, place a Colon.\n\nLONDON: Printed for Sam Smith, and Benj.Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-Yard. 1698.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102542.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 394,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        938,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102542",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102542"
+  }
+}

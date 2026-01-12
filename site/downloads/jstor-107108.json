@@ -1,0 +1,59 @@
+{
+  "id": "26a3719fd3acb2bb8c587fafb028012b72a84453",
+  "text": "INDEX.\n\nT\n\nTeeth, on those of the wild boar, - - - - 319\n—— on those of the animal incognitum, - - - - 324\n—— on those of the human species, - - - - 323\nThomas, Mr. H. Leigh. An anatomical description of a male rhinoceros, - - - - 145\nTic douloureux, remarks on a case of, - - - - 20\nTrees, on the ascent of the sap in them, - - - - 333\n—— on the effects of artificial heat on them, - - - - 343\nTroughton, Mr. remarks on his circles, - - - - 369\n\nV\n\nVacuum, its effects on spontaneous light, - - - - 421\nVine, effects of artificial heat on it, - - - - 343\n—— experiments on its leaves, - - - - 346\nVirgil, remarks on his description of the wild boar, - - - - 329\nVolta, Mr. Account of some Galvanic combinations, analogous to his apparatus, - - - - 397\n—— experiments on his electric pile, - - - - 427\n\nW\n\nWalker, Mr. Richard. On the production of artificial cold by means of muriate of lime, - - - - 120\nWare, Mr. James. Case of a young gentleman, who recovered his sight when seven years of age, after having been deprived of it by cataracts, before he was a year old; with remarks, - - - - 382\nWheat, on the price of it at different periods, - - - - 313\nWollaston, William Hyde, M. D. Experiments on the chemical production and agency of electricity, - - - - 427\nWoodhouse, Robert, A. M. On the necessary truth of certain conclusions obtained by means of imaginary quantities, - - - - 89\n—— Demonstration of a theorem, by which such portions of the solidity of a sphere are assigned as admit of an algebraic expression, - - - - 153\n\nY\n\nYoung, Thomas, M. D. The Bakerian Lecture. On the mechanism of the eye, - - - - 23\n\nFrom the Press of\nW. Bulmer & Co.\nCleveland-Row, St. James's.\n\nERRATUM.\nPage 234, line 1, for Chevenix, read Chenevix.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107108.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 631,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1741,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107108",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1801,
+    "volume": "91",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107108"
+  }
+}

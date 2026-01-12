@@ -1,0 +1,129 @@
+{
+  "id": "04bd04f393262160a4d449565ab6dc660ea23595",
+  "text": "I. J. Castillioneus Dno. De Montagny V. C. Philosophiae Professori in Academia Lauzannensi, Regiae Societatis Londinensis Membro dignissimo, Sui Evangelii Ministro, &c. &c. S. P. D.\n\nNEMO ignorat Newtonianam formulam, qua Polynomium quodcumque, ope binomii assumpti, ad quanvis potestatem extolitur; sed nemo, quod sciam, eam demonstravit. Hoc ego facere conatus meditatiunculas meas tibi equissimo & optimo Judici mitto. Tu, corrige, sodes, hoc dic, hocque, parum claris lucem dare coge, arguito ambigue dictum, mutanda notato.\n\nContinet hoc Problema tria prorsus diversa, quae cum diversimode gignantur, & cum optima demonstratio e rei natura, vel genesis ducatur, diversa quoque probatione sunt confirmanda: Siquidem index est aut integer, aut fractus, uterque demum vel positivus, vel negativus.\n\n1. Index est integer, & positivus, tunc binomium ad potestatem cujus index est \\( m \\) elevare, nihil aliud est, quam toties binomium datum scribere, quoties unitas est in \\( m \\), & omnia haec binomia invicem ducent.\n\n2. Si index est fractus, & positivus, binomium elevare ad potestatem \\( \\frac{r}{n} \\) est; datum binomium elevare ad potestatem \\( r \\), & hac potestate data, quaerere quantitatem, quae data ad potestatem \\( n \\) aequat ipsam dat binomii potestatem \\( r \\).\n\n3. Cum\n3. Cum vero Index est negativus, sive is integer, sive fractus, ut binomium elevetur, facienda sunt, quae supra No. 1. vel 2, & deinde per inventam potestatem unitas est dividenda.\n\nSumo Binomium $p + q$, ut indicet mihi quodvis Polynomium.\n\nInter $p^m$, & $q^m$ tot sunt medii Geometrici, in ratione $p.q$ quot unitates in $m - 1$.\n\nHos terminos inventurus noto, quod $p^m$ est ad $q^m$ in ratione composita ipsius $p^m$. 1, & 1. $q^m$, ut &c p ad q habet rationem compositam ex $p.1$, &c ex 1. $q$; sed si sint dua series potestatum, in quarum altera indices ipsius $p$ decrescent eadem proportione arithmetica, cujus differentia est 1, qua crescunt in secunda serie indices ipsius $q$, habebitur series continue proportionalium in ratione $p.1$, &c 1. $q$.\n\nSic $p.1 :: p^m.p^{m-1}.p^{m-2}.p^{m-3}.p^{m-4} \\ldots .p^{m-m} = p^0 = 1$\n\n$1.q :: 1.q. q^2. q^3. q^4. \\ldots . q^m$.\n\nErgo terminis respondentibus invicem ductis\n\n$p.q :: p^m.p^{m-1}q. p^{m-2}q^2. p^{m-3}q^3. p^{m-4}q^4 \\ldots q^m$\n\nNunc dico $p + q$ componi ex terminis supra inventis, ut facile ex genesi probatur.\n\nErgo omnes termini, qui sunt in $p + q$ ordine dispositi sunt in proportione continua.\n\nEt quidem duo quivis se se immediate sequentes sunt, ut primus binomialis radicis terminus ad secundum.\n\nQuod patet ex genesi, nam $p$ aliquoties ductum est ad $q$ toties ductum in $p$, ut $p.q$.\n\nIgitur omnium numerus est $m + 1$; sed & in serie arithmetica decrescente $m.m - 1.m - 2. \\ldots . o$ termini sunt numero $m + 1$, aut crescente 0.1.2.3. $\\ldots . m$;\n... \\( m \\); ergo termini componentes \\( p + q \\)\" debent habere indices hos, aut esse \\( p^m \\cdot p^{m-1}q \\). ... \\( q^m \\).\n\nAtqui ex legibus multiplicationis numerus terminorum debet esse \\( 2^m > m + 1 \\), ergo in hoc facto aliqui termini repetiti debent inveniri.\n\nVulgaria facta (ea, nempe, quorum multiplicans & multiplicandum constat quantitatibus diversis) omnes continent diversos terminos, quia omnes formantur diversis factoribus. In potestatibus ergo dispi-ciendum quinam termini diversi essent, nisi factores semper essent iidem, & quot ex diversis restitutione literarum æquales fiant; sic enim reperiemus quoties quisque in potestate repeti debeat.\n\nJam patet, quod si factores semper essent diversi, diversi quoque essent omnes termini in producto.\n\nQuod cum primus in producto non fiat nisi ex primis multiplicantium, & ultimus illius ex horum ultimis, semper hæc facta erunt diversa, quamvis binomia facientia sint eadem, quia primus binomii terminus differt a secundo.\n\nQuod ex cæteris aliqui possunt fieri æquales, quia constantur ex primis facientium duæis in secundos, & diversimode junctis.\n\nIgitur quaerendum est, quot diversis modis jungi possint quantitates, quarum numerus datus est.\n\nIn caso nostro index rerum est \\( m \\), res diversæ duæ, quarum una repetitur vicibus \\( s \\), altera \\( t \\), ita ut \\( s + t = m \\); ergo numerus permutationum crit\n\n\\[\n\\frac{m \\cdot m - 1 \\cdot m - 2 \\cdot m - 3}{m - 1 \\cdot m - 2 \\cdot m - 3} = I\n\\]\n\nSic sit \\( t = 1 \\), \\( s = m - 1 \\), terminus crit \\( p^m - 1q \\), & ejus coefficiens\n\n\\[\n\\frac{m \\cdot m - 1 \\cdot m - 2 \\cdot m - 3}{m - 1 \\cdot m - 2 \\cdot m - 3} = m.\n\\]\nSit \\( t = 3, s = m - 3 \\); habebitur coefficiens ipsius\n\n\\[\np^{m-3}q^3 = \\frac{m.m-1.m-2.m-3.m-4...}{1.2.3.m-3.m-4.m-5...}\n\\]\n\n\\[\n\\frac{m.m-1.m-2}{1.2.3},\n\\]\n\n& sic de cæteris.\n\nSi quis forte dubitet, an superior demonstratio evincat omnes terminos necessario formari tot modis, quibus possunt, & contendat eam tantum ostendere id accidere posse, hoc responsi ferat.\n\nCerte \\( p + q \\)^m = \\( p + q \\times p + q \\)^{m-1}; sed inter hujus terminos sunt \\( p^{m-n-1}q^n \\), & \\( p^{m-n}q^{n-1} \\), quae necessario ducentur in \\( p \\) & \\( q \\), & \\( p^{m-n-1}q^n \\times p = p^{m-n}q^n = p^{m-n}q^{n-1} \\times q \\), ergo \\( p^{m-n}q^n \\) omnibus modis possibilibus factum erit in \\( p + q \\)^m, si \\( p^{m-n-1}q^n \\) & \\( p^{m-n}q^{n-1} \\) sint genita quot modis possunt in \\( p + q \\)^{m-1}; quod necessario crit, si \\( p^{m-n-2}q^n \\), & \\( p^{m-n}q^{n-2} \\) sint in inferiori potestate \\( p + q \\)^{m-2}, & sic semper usque ad quadratum in quo \\( pp, pq, qq \\) habentur, efficta tot quot possunt modis (4. II. Euclid.) ergo & in superioribus.\n\nHoc ratiocinium monet, ut idem etiam sic ostendam, ratione paulo diversa.\n\nJam primi coefficientem esse unitatem demonstravimus.\n\nSecundus terminus \\( p^{m-1}q \\) conficitur ex \\( p^{m-2}q \\times p \\), & \\( p^{m-1} \\times q \\), id est, ex primo radicis in secundum ipsius \\( p + q \\)^{m-1}, & ex secundo radicis in primum \\( p + q \\)^{m-1}, ergo in \\( p + q \\)^m adest \\( p^{m-1}q \\) semel, plus toties, quoties secundus est in \\( p + q \\)^{m-1}, qui ibi est semel, plus toties, quoties secundus in \\( p + q \\)^{m-2}, qui rursus ibi est semel plus\nplus toties, quoties secundus est in \\( \\frac{p+q}{m-2} \\), & sic semper donec deveniatur ad \\( \\frac{p+q}{m-m} \\), ubi semel est secundus; ergo quaerenda est summa tot unitatum, quot sunt in \\( m \\), quae est \\( m \\).\n\nItem tertius \\( p^{m-2}qq \\) conficitur ex \\( p^{m-3}qq \\times p \\), tertio \\( \\frac{p+q}{m-1} \\) in primum radicis, &c. ex \\( p^{m-2}q \\times q \\) secundo ipsius \\( \\frac{p+q}{m-1} \\) in secundum radicis; ergo \\( \\frac{p+q}{m} \\) continet \\( p^{m-2}qq \\) quoties secundus continetur in \\( \\frac{p+q}{m-1} \\), id est, \\( m-1 \\) vices, plus toties quoties ibidem astat tertius, id est, quoties secundus est in \\( \\frac{p+q}{m-2} (m-2) \\) plus quoties ibi est tertius, qui rursus est quoties secundus est in \\( \\frac{p+q}{m-3} (m-3) \\) plus quoties ibi est tertius, atque ita porro donec perveniamus ad \\( \\frac{p+q}{2} \\) ubi semel est tertius, aut ad \\( p+q \\), ubi tertius nullus est; nam semper quaerenda est summa progressionis arithmeticae \\( m-1.m-2.m-3 \\ldots \\ldots \\ldots 1 \\), aut \\( m-1.m-2 \\ldots \\ldots \\ldots 0 \\), in illa numerus terminorum est \\( m-1 \\), in hac \\( m \\), ut patet; quare hæc summa \\( = m-1 + \\frac{m-1}{2} = mx \\frac{m-1}{2} = m-1 + o \\times \\frac{m}{2} \\).\n\nEodem pacto coefficientes reliquorum terminorum probabuntur efficere seriem in qua secundæ differentiæ sunt in progressione arithmetica, &c.\n\nUnde semper, ubi \\( m \\) est integer, & positivus, formula erit \\( p^m + mp^{m-1}q + \\frac{m.m-1}{2}p^{m-2}qq + \\frac{m.m-1.m-2}{2.3}p^{m-3}q^3 + \\frac{m.m-1.m-2.m-3}{2.3.4}p^{m-4}q^4 + \\frac{m.m-1.m-2.m-3.m-4}{2.3.4.5}p^{m-5}q^5 \\), &c.\nSi fiat \\( p + q = p \\times \\frac{q}{p} \\), hinc orietur ipsissima Newtoni formula; nam \\( (p + q)^m = p^m \\times 1 + \\frac{q}{p} \\times m \\times \\frac{p}{q} + \\frac{m - m_1}{1 \\cdot 2} \\times \\frac{p^2}{q^2} + \\frac{m \\cdot m_1 \\cdot m_2}{1 \\cdot 2 \\cdot 3} \\times \\frac{p^3}{q^3}, \\&c. \\)\n\n(si \\( A, B, C, D, \\&c. \\) ponantur æquare primum, secundum, tertium, quartum, \\&c. cum suis quemque coefficientibus) \\( p^m \\times 1 + mA \\frac{q}{p} + \\frac{m - 1}{2} B \\frac{q}{p} + \\frac{m - 2}{3} C \\frac{q}{p} + \\frac{m - 3}{4} D \\frac{q}{p} + \\frac{m - 4}{5} E \\frac{q}{p} + \\frac{m - 5}{6} F \\frac{q}{p}, \\&c. \\)\n\nQuæramus nunc formulam elevandi ejusdem binomii ad potestatem \\( \\frac{r}{n} \\), ubi \\( r \\) & \\( n \\) sunt numeri integri, \\&c. ambo vel positivi, vel negativi.\n\nJam \\( p \\cdot q : : p^n \\cdot x = \\frac{r}{p^n} q = p^n \\cdot q, \\) quare termini crunt\n\n\\( p^n \\cdot p^n \\cdot q \\cdot p^n \\cdot q \\cdot p^n \\cdot q^3, \\&c. \\)\n\nCoefficientes inveniendi sint \\( A, B, C, D, E, \\) ita ut tota \\( p + q \\) radix \\( = Ap^n + Bp^{n-1}q + Cp^{n-2}qq + Dp^{n-3}q^3 + Ep^{n-4}q^4, \\&c. \\) ergo \\( p + q \\left( p^r + rp^{r-1}q + \\frac{r \\cdot r - 1}{2} p^{r-2}qq + \\frac{r \\cdot r - 1 \\cdot r - 2}{2 \\cdot 3} p^{r-3}q^3, \\&c. \\right) = Ap^n + Bp^{n-1}q + Cp^{n-2}qq, \\&c. \\)\n\n\\( = Anp^n + nAn^{-1}Bp^{n-1}q + nAn^{-1}Cp^{n-2}qq + nAn^{-1}Dp^{n-3}q^3 + nAn^{-1}Ep^{n-4}q^4, \\&c. + n.n. \\)\n\\[ \\frac{1}{2} n(n-1) A^{n-2} B^2 p^{r-2} q^q + n(n-1) A^{n-2} BC p^{r-3} q^3 + \\]\n\\[ n(n-1) A^{n-2} BD p^{r-4} q^4 &c. + \\frac{n(n-1)(n-2)}{2 \\cdot 3} A^{n-3} B^3 p^{r-3} q^3 \\]\n\\[ + \\frac{n(n-1)(n-2)}{2} A^{n-3} B^2 C p^{r-4} q^4 &c. + \\]\n\\[ \\frac{n(n-1)(n-2)(n-3)}{2 \\cdot 3 \\cdot 4} A^{n-4} B^4 p^{r-4} q^4. \\]\n\nAtque ideo collatis terminis \\( r = A^n = A^{n-1} = A^{n-2} &c.; c.nB = r, &c. B = \\frac{r}{n}, \\)\n\n\\[ nC + \\frac{n(n-2)}{2} \\times \\frac{rr}{nn} = \\frac{r.r - 1}{2}, &c. C = \\frac{r.r - n}{2.nn}, nD + \\]\n\\[ n(n-1) \\times \\frac{r}{n} \\times \\frac{r.r - n}{2.nn} + \\frac{n(n-1)(n-2)}{2 \\cdot 3} \\times \\frac{r^3}{n^3} = \\frac{r.r - 1.r - 2}{2 \\cdot 3}, &c. \\]\n\n\\[ D = \\frac{r.r - n.r - 2n}{2 \\cdot 3 \\cdot n^3} &c. \\]\n\nSi ergo faciamus \\( \\frac{r}{n} = m, &c. \\) primum terminum \\( A, &c. \\) revivet prior formula, \\( \\frac{p+q}{r} = \\frac{p+q}{m} = p^m \\times \\)\n\\[ 1 + mA^q + \\frac{m-1}{2} B^p + \\frac{m-2}{3} C^q &c. \\]\n\nExtollendum sit binomium \\( p+q \\) ad negativam po-\ntestatem, seu perfectam, seu imperfectam—s.\n\n\\[ \\text{Jam } \\frac{p+q}{r} = \\frac{1}{p+q} = \\frac{1}{p^i + sp^{i-1} q + s.s - 1 p^{i-2} qq &c.} \\]\n\\[ = (\\text{per divisionem}) \\frac{1}{p} - \\frac{s p^{i-1} q - s.s - 1}{p^{2s}} \\times \\frac{p^{s-2} qq}{p^{2s}} \\]\n\\[-\\frac{s.s-1.s-2}{2.3} \\times \\frac{p^{s-3}q^3}{p^{2s}} - \\frac{s.s-1.s-2.s-3}{2.3.4} \\times \\frac{p^{s-4}q^4}{p^{2s}} = p^{-s-s}p^{-s-1}q^{-s.s-1}p^{-s-2}qq.\\]\n\nEx hac formula facile, superiorum vestigiis insistendo, eruitur solemnis & generalissima \\(p^m \\times 1 + mAq^p + \\frac{m-1}{2}Bq^p\\) &c.\n\nNon injucundum puto, quod in hac formula, si \\(m = -2\\), coefficientes crunt numeri naturales, si \\(m = -3\\), trigonales, pyramidales, si \\(m = -4\\) &c.\n\nCæterum constat hanc formulam semper dare seriem infinitam; siquidem (si \\(m\\) exponit numerum positivum) ultimus terminus esse deberet \\(q^{-m}\\); sed \\(p.q : p^{-m}.p^{-m-1} : : p^{-m-1}q.p^{-m-2}qq, &c.\\) ergo ratio ipsius \\(p^{-m}.q^{-m}\\) componi deberet ex aliquibus rationibus \\(p.q\\), quod fieri nequit, quia \\(p^{-m}.q^{-m} : : \\frac{1}{p^m}. \\frac{1}{q^m} : : q^m.p^m\\) in ratione composita ex reciprocis ipsius \\(p.q\\).\n\nQuod & aliter demonstratur, indices ipsius \\(p\\) faciunt progressionem arithmeticam, cujus termini \\(-m, -m-1, -m-2, &c.\\) negativi quidem sunt, sed crescunt, aut ab 3 recedunt; atqui ultimus terminus debet esse \\(q^{-m} = p^0q^{-m}\\), ergo nunquam ad illud devenietur.\n\nViviaci,\npostridie Id. Septemb.\nciclo MCCCXXXI.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104150.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 13652,
+    "total-output-tokens": 5133,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1287,
+        2
+      ],
+      [
+        1287,
+        2821,
+        3
+      ],
+      [
+        2821,
+        4466,
+        4
+      ],
+      [
+        4466,
+        6059,
+        5
+      ],
+      [
+        6059,
+        7649,
+        6
+      ],
+      [
+        7649,
+        9039,
+        7
+      ],
+      [
+        9039,
+        10293,
+        8
+      ],
+      [
+        10293,
+        11500,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104150",
+    "title": "J. Castillioneus Dno. De Montagny V. C. Philosophiae Professori in Academia Lauzannensi, Regiae Societatis Londinensis Membro Dignissimo, Sli Evangelii Ministro, &c. &c. S. P. D.",
+    "authors": "J. Castillioneus",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/104150"
+  }
+}

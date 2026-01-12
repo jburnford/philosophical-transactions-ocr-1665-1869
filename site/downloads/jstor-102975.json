@@ -1,0 +1,69 @@
+{
+  "id": "66a5b2188327932e1d715af7f5136105d6966b17",
+  "text": "V. Part of a Letter from Mr Ralph Thoresby, F. R. S. to Dr Hans Sloane, S. R. S. concerning a Leaden Coffin, &c. taken out of a Roman Burying-place near York.\n\nLeeds, June 17. 1702.\n\nBeing lately at York, I went (as usually) to Mr Montague Gyles's, to enquire if his Servants had retrieved any thing curious in the Roman Burying-place; where, in digging Clay for Bricks, they frequently find Urns, &c. Some of which are accounted for in former Transactions. They very lately found there a remarkable Lead Coffin, which by the Circumstances seems to have been for a Person of Quality; 'twas 9 foot deep in the ground, whereof 6 were Clay, and 3 a black Earth; the Lead Coffin, which was about 7 foot long, was inclosed in a prodigious strong one, made of Oak Planks, about 2 inches and a half thick, which besides the Rivettings were tack'd together with Brags, or great Iron Nails, some of which I pull'd out of the Planks, and have by me; they are 4 inches long, the heads not Die-wise, as the large Nails now are, but perfectly flat, and an inch broad: I have one somewhat different, the Nail itself is half an inch broad, and thin, somewhat in the form of a Wedge, and the Head not round, as the others, but somewhat like the modern Draw-nails; but these old ones are generally square, the 4 sides of an equal breadth: Many of them are almost consum'd with the rust, and the outsides of the Planks, but the heart of the Oak is firm, and the Lead very fresh and pliable; whereas one found about a year ago (whereof I have also a sample) is brittle, and al-\nmost wholly consumed, having no Planks to guard it: But what I was most surprized at, was, that the Bones should be entire, tho probably interr'd 1500 years ago; for 'tis above so many Centuries since their Custom of Burning gave place to that more natural of Burying their Dead; which, according to Monsieur Muret, was re-introduced by the Antonines, who, being Philosophers and Virtuous Princes, could no longer endure that that kind of Cruelty should be exercised upon Humane Bodies. I have a Thigh-bone (which is wonderful light) and the lower Jaw, which was furnished with all the Teeth, but some of them are since stoln out; but tho the Bones are light, the double Coffins were so heavy, that they were forced to drag them out of their old Dormitory with a Team of Horses.\n\nVI. Experiments on the Production and Propagation of Light from the Phosphorus in Vacuo, made before the Royal Society, by Mr. Fra. Hauksbee.\n\nExperiment I.\n\nIn pursuance to the Commands of this Honourable Society, Having a dark Room provided, the first Experiment was by drawing some Lines on a piece of blue Paper with the Phosphorus, which became immediately Luminous in the open Air, having a continual undulating Motion. This being plac'd under a Receiver, after some few Excursions, the Undulation ceas'd, but the Luminous Quality appeared to be in a great measure increas'd; the Receiver being farther exhausted, it became manifestly brighter; and so continued, till on the Admission of Air (which was gradually done) the Light sensibly diminishing all the while. But upon the Repetition of the Experiment, it was the Opinion of those Gentlemen then present, that it did not appear altogether so brisk or so vivid as at first. To",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102975.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 907,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1559,
+        2
+      ],
+      [
+        1559,
+        3275,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102975",
+    "title": "Part of a Letter from Mr Ralph Thoresby, F. R. S. to Dr Hans Sloane, S. R. S. concerning a Leaden Coffin, etc. Taken out of a Roman Burying-Place Near York",
+    "authors": "Ralph Thoresby",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102975"
+  }
+}

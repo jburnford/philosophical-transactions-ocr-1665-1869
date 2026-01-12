@@ -1,0 +1,59 @@
+{
+  "id": "3235824979c3cc551245eb32014160cf42b8e837",
+  "text": "ERRATA fic Corrige.\n\nPage. 33. l. r. read recruiting. p. 351. l. 6.r. contained in it a. p. 38. l. 23. r. connivant value. p. 39 l. 14. r. it may be. l. ytr. r. is ill scented. p. 40 l. 17. r. involved. l. 20. r. Congeries. p. 45. l. 6. r. they arc. l. 8. r. whole p. 46. l. 14. r. as likewise. l. 15. r. did spoil. p. 47. l. 16. r. is l. 17. r. con. l. 18. r. nor. p. 50. l. 5. r. H. &c. &c. l. 6. dele Judicium difficile. p. 52. l. 30.l. at Scales. p. 55. l. 11. r. of the Oesophagus. p. 67 l. 4. r. specific. p. 119. l. 33. r. lib. l. p. 133. l. 33. r. cap. 15. p. 157. l. 23. r. 10000. p. 160. l. 18. r. v. e the Vagina Uteri. added. the two Cornua Uteri. p. 173. l. 29. r. help in. 175. l. 7. r. tension of the Fibre on the Thalam. p. 213. l. 32. r. it decreases to 17 degrees. l. 34. r. that to the Eastward. p. 216. l. 11. r. the other Northern pole. p. 218. l. 26. r. Alcanaba. l. 31. r. from the pole of the World. l. 33. r. and that under the Equator. p. 243. l. 27. r. as oil from water. p. 342. l. 6. for place. r. space. p. 361. l. 31. r. one inch and a quarter long. p. 368. l. 20. for in. r. forme. p. 383 l. 23. r. diffusion.\n\nOXFORD,\nPrinted at the THEATER, and are to be sold by Moses Pit at the Angel, and Samuel Smith at the Princes Arms in St. Pauls Church-yard London. 1683.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102266.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 732,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1296,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102266",
+    "title": "Errata",
+    "authors": null,
+    "year": 1683,
+    "volume": "13",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102266"
+  }
+}

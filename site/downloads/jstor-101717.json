@@ -1,0 +1,59 @@
+{
+  "id": "5bad10d8f1c95452ae6c98fb93de333d4481a406",
+  "text": "14 Poles, or $69\\frac{1}{2}$ English miles and 14 Poles; 8 Furlongs to a mile, and 40 Poles to a Furlong. Which being compared to that measure of a Degree, which is deliver'd in the above-mention'd French Discourse, will be found to come very near it, they finding 73 miles fere, at 5000 feet to an English mile, which make 365000 feet; whereas the $69\\frac{1}{2}$ English miles and 14 Poles, found by Mr. Norwood, amount to 367200 feet, reckoning 5280 feet to an English mile, as the true measure of it is; whence the difference between these two measures appears to be no more than 2200 feet, which is not half an English mile by 440 feet.\n\nIf any one desire to know further the whole Circumference, as also the Diameter and Semidiameter of the said Terraqueous Globe, according to this measure, he will easily find,\n\nThe Circumference to be $25056$ fere.\nThe Diameter, $7966$\nThe Semidiameter, $3983$\n\nObservations made of the late Solar Eclipse on the first of June, 1676. ft.v.\n\nOne, by Francis Smethwick Esquire, as followeth:\n\nNitium defectioonis Westmonasterii h.7. 5°. post med. noctem\nFinis, h 9. 54°. S Junii 1. 1676.\n\nTotius Eclipsis duratio, hora 2. 4°.\n\nTempus observatum fuit cum horologio oscillatorio, vibrante minuta secunda, & correeto per observationes. Tubus adhibitus fuit bone note, pedum 7½.\n\nThe other, by Mr. Colson at Wapping, near London, as followeth;\n\n| Temp. juxta horol. oscill. | Phases | Solis alt. | Tempus correct. |\n|---------------------------|--------|------------|----------------|\n| h.                        |        |            |                |\n| 7.34.5°                   |        | 22.46      | 7.36.          |\n| 7.37.14                   |        | 33.10      | 7.38.40        |\n| 7.39.10                   | dig.   | 33.30      | 7.40.48        |\n| 7.50.40                   |        | 7.51.51    | Tubo optico æstim. |\n| 8.8.34                    |        | 8.9.45     | Tubo optico mensür. |\n| 8.17.25                   |        | 8.18.36    |                |\n| 8.27.10                   |        | 8.28.21    |                |\n| 9.39.1                     |        | 9.40.      | Tubo æstim.    |\n| 9.43.1                     |        | 9.44.      |                |\n| 9.48.1                     |        | 9.49.      |                |\n| 9.54.25 non finita        |        | 9.55.36    |                |\n| 9.55.55 finita            |        | 9.57.6     |                |\n| 4.26.5 Solis alt.         |        | 4.26.56    |                |\n| 4.28.58                   |        | 4.29.52    |                |\n| 4.31.21                   |        | 4.32.16    |                |",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101717.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 958,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2637,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101717",
+    "title": "Observations Made of the Late Solar Eclipse on ihe First of June, 1676. St. V.",
+    "authors": null,
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101717"
+  }
+}

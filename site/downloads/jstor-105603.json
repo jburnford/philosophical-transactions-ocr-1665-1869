@@ -1,0 +1,69 @@
+{
+  "id": "75b70eb44a42cc8dfb8de9e6f0fc3f1ac995f3c4",
+  "text": "There remains alive,\n\n| From 70 to 75 | Males 5 | Females 16 |\n|---------------|--------|------------|\n| From 75 to 80 | Males 1 | Females 6 |\n\n| From 80 to 85 | Males 1 | Females 7 |\n|---------------|--------|------------|\n| From 85 to 90 | Males 1 | Females 6 |\n\nN° of houses, or families 235 | N° of persons in 1755 1049\nHouses paying window tax 77 | Ditto 1760 1048\nN° of acres there is on waste 1700 | Void houses 4\n\nApoplexy 2 | Convulsions 9 | Palsey 1\nCancer 2 | Dropsy 10 | Quinsy 1\nChildbed 4 | Fever 39 | Small-pox 33\nChincough 9 | Jaundice 3 | Stone 1\nCholic 1 | Impostume 2 | Teeth 1\nConsumption 47 | Meazles 4 |\n\nXXVI. An Account of the Earthquake at Lisbon, 31st March 1761: In a Letter from thence, dated the 2d April 1761, to Joseph Salvador, Esq; F. R. S.\n\nRead April 23, 1761.\n\nThe earthquake happened the 31st last month, precisely at twelve o'clock, and lasted full five minutes, with a smart and equal vibration. It exceeded all the others, except that of the first November 1755. Thank God, it was attended with no other consequences, but that of alarming the inhabitants, throwing down some ruins, and rending some houses. About an hour and a quarter afterwards, the sea began to flow and ebb, about eight feet perpendicular, every six minutes, and continued till night. Some small shocks were felt before and since, but of no moment; every\nevery body seems at ease, and things go on in their usual channel.\n\nMr. Salvador has received many other letters, which feverally confirm these particulars.\n\nXXVII. Another Account of the same Earthquake: In a Letter from Mr. Molloy, dated there April 3, 1761, to Keane Fitzgerald, Esq; F. R. S.\n\nRead April 23, 1761.\n\nON the 31st ult. at twelve o'clock, we had a most dreadful violent shock of an earthquake, that held constant for five minutes, as near as I can judge. I was up two pair of stairs, at a friend's house, when it began, and expected to have been buried in the ruins. The shock, as it appeared to me, seemed to spring from the bowels of the earth, and the motion to be directly up and down. It is the general opinion, that if it had run from west to east, or from any quarter of the globe to the other, as the great one the first of November 1755 did, there would not have been a house left standing in this unfortunate place, as all the gentlemen that reside here say, it was more severe and constant for the time than the former. Many buildings have tumbled down, but few people were killed; some have died through fear, and about 270 felons, in the confusion it occasioned, got out of gaol, who, it is feared, will commit great excesses, before they are taken again. Orders were issued by S. J. de Carvalho, that, on pain of death, no person",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105603.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 890,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1365,
+        2
+      ],
+      [
+        1365,
+        2724,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105603",
+    "title": "An Account of the Earthquake at Lisbon, 31st March 1761: In a Letter from Thence, Dated the 2d April 1761, to Joseph Salvador, Esq; F. R. S.",
+    "authors": null,
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105603"
+  }
+}

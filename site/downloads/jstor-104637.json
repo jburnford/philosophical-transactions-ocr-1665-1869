@@ -1,0 +1,59 @@
+{
+  "id": "817ee1b31bdac3173a657a99920243dcc3e491f1",
+  "text": "XII. An Eclipse of the Moon, observed at Mr. Graham's in Fleet-street, by John Bevis, M.D. and Mr. James Short, F.R.S.\n\n[Read Dec. 14, 1749.]\n\n| Year | By the Clock | App. Time |\n|------|--------------|-----------|\n| 1749 | Dec 11       | 23 56 15½ h |\n|      | 12           | 6 43 0    |\n|      |              | 6 47 20   |\n|      |              | 7 1 26    |\n|      |              | 7 3 12    |\n|      |              | 7 4 38    |\n|      |              | 8 33 37   |\n|      |              | 8 34 50   |\n|      |              | 8 36 9    |\n|      |              | 9 9 5     |\n|      |              | 9 13 30   |\n|      |              | 12 5 53½  |\n|      |              | 12 20 2   |\n|      |              | 13 23 56 46 |\n\nThe Sun pass'd the Meridian.\nA sensible Penumbra.\nEclipse begins.\nShadow touches Tycho.\nTycho half covered.\nTycho covered.\nTycho begins to be uncovered.\nTycho half uncovered.\nTycho quite uncovered.\nEclipse ends.\nPenumbra gone.\nMoon's Center pass'd the Meridian.\nSirius pass'd, his Mean Right Ascension being 98° 31' 38\".\nThe Sun pass'd the Meridian.\n\nThe Appulses of the Shadow to the Spot Tycho were observed with a Reflecting Telescope, which magnified about 40 times, and may be serviceable for geographical Purposes. The Beginning and End of the Eclipse were estimated by the bare Eye, and a Refracting Telescope of a small magnifying Power; larger Powers being apt to dilute the Shadow too much, and thereby render these Phases more uncertain.\n\nA Computation by Dr. Halley's Tables gave the Beginning\n\nApparent Time:\n\nEnd: 9 14 58\n\nXIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104637.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 568,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1566,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104637",
+    "title": "An Eclipse of the Moon, Observed at Mr. Graham's in Fleet-Street, by John Bevis, M. D. and Mr. James Short, F. R. S.",
+    "authors": "John Bevis, James Short",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104637"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "9aa6672774ce562a38bdfc68eaa2bd56e425b22d",
+  "text": "In this Table you see some Variation in the same Species of Vegetables, the which do not give always the same Quantity of Ashes and Salt, and that which is considerable, some Vegetables, insipid and cold, as Endive, Pompion, and Roses, have given much more Salt than others of a stronger Savour, apertive, and incisive, as the Onions, Hellebore, Lawrel, Maiden-Hair, and the Garlick which is so strong, gives none at all: But it may perchance be said, that in these there is a greater Quantity of Volatile Salt.\n\nVI. A Letter from Dr. Rob. Conny, to the late Dr. Rob. Plot, F. R. S. concerning a Shower of Fishes.\n\nSince my last to you I have received an Account of the prodigious Rain you long ago desired of me, and this Opportunity offering of conveying it safely to you I wou'd no longer delay it, and had I received the Account as you promised me of that of the Herrings, I might possibly have said somewhat more, but I shall now\nnow leave that to you. The Account I had from a Worthy Gentleman of this County, who had a Box full of these Fishes which he preserved, but that being mislaid, he could not perform his Promise of giving me some of them, which he says he will certainly do, whenever he finds it. The Account is thus:\n\nOn Wednesday before Easter, Anno 1666. a Pasture Field at Cranstead near Wrotham in Kent, about Two Acres, which is far from any part of the Sea or Branch of it, and a Place where are no Fish Ponds, but a Scarcity of Water, was all overspread with little Fishes, conceived to be rained down, there having been at that time a great Tempest of Thunder and Rain; the Fishes were about the Length of a Man's little Finger, and judged by all that saw them to be young Whitings, many of them were taken up and shewed to several Persons; the Field belonged to one Ware a Yeoman, who was at that Easter Sessions one of the Grand Inquest, and carried some of them to the Sessions at Maidstone in Kent, and he showed them, among others, to Mr. Lake, a Bencher of the Middle Temple, who had One of them and brought it to London, the Truth of it was averr'd by many that saw the Fishes lie scattered all over that Field, and none in other the Fields thereto adjoining: The Quantity of them was estimated to be about a Bushel, being all together. Mr. Lake gave the Charge at those Sessions.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102532.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 662,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        935,
+        2
+      ],
+      [
+        935,
+        2312,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102532",
+    "title": "A Letter from Dr. Rob. Conny, to the Late Dr. Rob. Plot, F. R. S. Concerning a Shower of Fishes",
+    "authors": "Rob. Conny",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102532"
+  }
+}

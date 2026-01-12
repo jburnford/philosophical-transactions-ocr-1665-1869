@@ -1,0 +1,69 @@
+{
+  "id": "79f70beb72349968cd4a42ec0d0b4ea99f805a95",
+  "text": "VII. Account of an Earthquake. By John Lloyd, Esq. in a Letter to Sir Joseph Banks, Bart. P. R. S.\n\nRead January 23, 1783.\n\nTO SIR JOSEPH BANKS, BART. P. R. S.\n\nDEAR SIR,\n\nWickwer near St. Asaph,\nNov. 16, 1782.\n\nUPON Saturday the 5th of October last, between eight and nine o'clock in the evening, a shock of an earthquake was felt in several parts of this principality, by many persons, though not generally. At Mold, in the county of Flint, it was distinctly perceived by a gentleman, at that time in a house quite out of the town, and seemed attended with a rumbling noise, like a carriage going over a pavement, so that if his situation had not rendered that sensation impossible, he should have ascribed it to that; and at the same time some China cups and saucers rattled very much, that were upon a table in the room with him.\n\nAt the palace, at Bangor, it was perceived by all the bishop's family at about thirty-nine minutes past eight o'clock, with the same kind of rumbling, and a double vibration. Many other persons in that neighbourhood were sensible of it.\n\nIn many places in the isle of Anglesey it was strongly felt; at Bodorgan, the seat of Owen P. Meyrick, esq. it was thought by the family that a carriage had driven up to the door. In answer to some enquiries made, I received the following\nfollowing account of an ingenious friend of mine, who is concerned in the great copper mine at Paris Mountain, and was at that time within a mile of the mine at his own house.\n\n\"I perceived the earthquake to begin at Amlwch at 40' past eight o'clock at night, on Saturday the 5th of October. The shock was great and alarming. The house in which I was was shaken terribly, and underwent several vibrations for the continuance of near a quarter of a minute. I thought it moved from N.E. to S.W. but was not certain. It was attended with a rumbling noise, as loud as thunder, and like it just before it ceases. I have made an enquiry at several distant parts in the island to the S.W. about it, to have found out, if possible, at what rate it moved, but in vain.\"\n\nAt the time it was felt in the places I have mentioned, I was at St. Asaph with some other gentlemen, looking over some parish accounts; but none of us perceived it, though it was perceived by a relation of mine, who was then alone, reading at the distance of a mile and a half from us, and in the line between Anglesey and Mold, so that I was probably further north than the shock reached. I judge every phenomenon of this kind to be interesting to the speculative observers of nature. You may probably be of the same opinion; and if you are, and should think this imperfect account of sufficient consequence, you will please to lay it before the Royal Society.\n\nI have the honour to be, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106482.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 759,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1312,
+        2
+      ],
+      [
+        1312,
+        2766,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106482",
+    "title": "Account of an Earthquake. By John Lloyd, Esq. in a Letter to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "John Lloyd",
+    "year": 1783,
+    "volume": "73",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106482"
+  }
+}

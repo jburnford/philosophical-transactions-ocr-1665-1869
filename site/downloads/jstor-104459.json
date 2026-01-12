@@ -1,0 +1,79 @@
+{
+  "id": "b2a935d0cc7f1919183f8dd8464d6c13fbe4d772",
+  "text": "V. An Account of a new Species of Fungus,\nby John Martyn, F. R. S. Prof. Bot. Cantab. communicated in a Letter to the President.\n\nRead Jan. 24. In the latter Part of the Summer of the Year 1744, Mr. Ehret the Painter brought me a Fungus of a very extraordinary Shape and Size, which had been found growing on a Piece of the Trunk of an Elm, in a damp Cellar in the Hay-Market.\n\nThe whole Plant was about two Feet in Height; and, at first Sight, seemed not very unlike the Horns of some Deer, being variously branched, and covered with a thick Down. It was of a spongeous Substance, and of a dusky-red Colour inclining to Black. The Tips of the smaller Branches were of a Cream-Colour. The larger Branches, or rather the Tops of the whole Plant, were expanded in Form of a Funnel, smooth on the concave, and full of Pores on the convex Side. The inner and lower Part of the Funnel was of the same Colour with the Stalk; the rest of it was of a Cream-Colour.\n\nI have not been able to find, that this Plant has been mentioned by any Author; and am persuaded, that it is a new Species; and, perhaps, the remarkable Branching of the Stalks may induce some to think it a new Genus. As the Funnel may be esteemed a Cap, and as this Cap is not lamellated, it will be a Boletus, according to the Method observed in the Third Edition of Ray's Synopsis. According to Micheli,\nMicheli, it seems to belong to the Genus of *Polyporus*. This Method, which I have long used in the Distribution of this Class, is expressed in the following synoptical Table, which, I think, comprehends all the Species hitherto known.\n\n**FUNGI sunt,**\n\nlamellati,\n\n\\{ cauliferi; AMANITA.  \n\\{ sessiles; AGARICOIDES.\n\nporosi,\n\n\\{ cauliferi; BOLETUS.  \n\\{ sessiles; BOLETOIDES.\n\ncancellati, aut scrobiculis excavati;\n\n\\{ sex pila erumpentes; PHALLUS.  \n\\{ sex pila non erumpentes; MERULIUS.\n\nechinati; ERINACEUS.\n\nin pulverem abeuntes; LYCOPERDON.\n\nsolidi,\n\n\\{ cauliferi; CHANTERELLA.  \n\\{ sessiles,\n\n\\{ calyciformes; PEZICA.  \n\\{ non calyciformes,\n\n\\{ in longitudinem produci; DIGITELLUS.  \n\\{ horizontaliter prodeuntes; AGARICUS.\n\nsubterranei; TUBER.\n\nAccording to this Method of mine, as well as that of the Editor of Ray's Synopsis, the Plant in Question will be a *Boletus*: And, as I do not think it necessary to constitute a new Genus, I have taken the Liberty to call it\n\n*BOLETUS caule ramoso; summitatibus concavis expansis; ramis minoribus in acutum mucronem desinentibus.* Vide Tab. II. Fig. 1.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104459.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6824,
+    "total-output-tokens": 830,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1365,
+        2
+      ],
+      [
+        1365,
+        2471,
+        3
+      ],
+      [
+        2471,
+        2471,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104459",
+    "title": "An Account of a New Species of Fungus, by John Martyn, F. R. S. Prof. Bot. Cantab. Communicated in a Letter to the President",
+    "authors": "John Martyn",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104459"
+  }
+}

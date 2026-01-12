@@ -1,0 +1,79 @@
+{
+  "id": "958ce707e47604436c10973a594375242ea85f9a",
+  "text": "X. Experiments concerning the Vibrations of Pendulums. By the late W. Derham, D.D. F.R.S. and Canon of Windsor.\n\nThe Account which Mr. Bradley hath given in Philosoph. Transact. No 432, of Observations made at Jamaica by Mr. Campbell, with a nice Pendulum-Clock of Mr. Graham's making, brought to my Mind some Experiments I made some Years ago, that may be of Use in Observations of this nature.\n\nThe first that I shall take notice of, shall be some Experiments I made in the Year 1704, with excellent Instruments, concerning the Vibrations of Pendulums in Vacuo; which were published in the Philosoph. Transact. No 294. The Sum of which is, That the Vibrations in Vacuo were larger than in the open Air, or Receiver unexhausted: Also that the Enlargement or Diminution of the Vibrations, was constantly in Proportion to the Quantity of Air, or Rarity, or Density thereof, which was left in the Receiver of the Air-Pump. And as the Vibrations were larger or shorter, so the Times were augmented, or diminished accordingly; viz.\ntwo Seconds in an Hour slower, when the Vibrations were largest, and less and less, as the Air was re-admitted, and the Vibrations shortened.\n\nBut notwithstanding the Times were slower, as the Vibrations were larger, yet I had Reason to conclude, that the Pendulum really moved quicker in Vacuo, than in the Air, because the same Difference, or Enlargement of the Vibrations (as two Tenths of an Inch on a Side) would cause the Movement, instead of two Seconds in an Hour, to go 6 or 7 Seconds slower in the same time; as I found by nice Experiments.\n\nThe next Experiments I shall mention, I made at several Times, in 1705, 1706, and 1712, by the Help of a good Month-Piece that swings Seconds. The Weight that then drove it, was about 12 or 13 Pounds, and it kept Time exactly by the Sun’s mean Motion: But by hanging on 6 Pounds more, the Vibrations were enlarged; but yet the Clock gained 13 or 14 Seconds in a Day.\n\nAnd as the Increase or Diminution of the Power that drives the Clock, doth accelerate or retard its Motion, so, no doubt, doth Cleanness or Foulness affect it, and so doth Heat and Cold; for all have the same Effect upon the Pallets and Pendulum.\n\nThe last Experiments I shall mention, I made in 1716 and 1718, to try what Effects Heat and Cold had upon Iron Rods of the same Length, or as near as I could to those that swing Seconds. I made my Experiments with round Rods of about a Quarter of an Inch Diameter, and with Square Rods, of about three Quarters of an Inch Square. The Effects on both which were the same.\nAt first I took the exact Length of the Rods, in their natural Temper. Then I heated them as well as I could in a Smith's Fire, from End to End, nearly to a Flaming Heat; by which means, they were lengthened two Tenths of an Inch. Then I quenched them in cold Water; which made them $\\frac{1}{100}$ of an Inch shorter than in their natural State.\n\nThen I warmed them to (as near as I could guess) the Temper of my Body; by which means they were about $\\frac{1}{100}$ of an Inch longer than in their natural Temper.\n\nAfterwards I cooled them in a strong frigorifick Mixture of common Salt and Snow, which shortened them $\\frac{3}{100}$ Parts of an Inch.\n\nAfterwards I measured these Rods, when heated in an hot Sun, which lengthened them $\\frac{2}{100}$ Parts of an Inch more than their natural Temper.\n\nAll these Experiments seem to concur in resolving the Phænomenon of Pendulum Clocks going slower under the Æquator than in the Latitudes from it: But yet I confess, that I have too good an Opinion of Sir Isaac Newton's Notion of the Sphæroidal Figure of the Earth, to part easily with it; and therefore I leave it to the Consideration of others, how far the Figure of the Earth, and how far Heat and Cold, and the Rarity and Density of the Air, are concerned in that Phænomenon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104004.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1108,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1028,
+        2
+      ],
+      [
+        1028,
+        2567,
+        3
+      ],
+      [
+        2567,
+        3848,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104004",
+    "title": "Experiments concerning the Vibrations of Pendulums. By the Late W. Derham, D. D. F. R. S. and Canon of Windsor",
+    "authors": "W. Derham",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104004"
+  }
+}

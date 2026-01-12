@@ -1,0 +1,59 @@
+{
+  "id": "dc5fedaaed8384d2a356bc148ff6c851668eb29c",
+  "text": "XI. To give Iron the Colour and Tincture of Copper. Communicated by Sir Rob. Southwell, F. R. S.\n\nTake of small thin Copper Pieces clean'd in the Fire 3j.of Aqua Fortis 3ijj.which being together in a Glass the Copper in Three or Four Hours will be dissolv'd, when 'tis cold you may use it, by washing with a Feather upon your Iron, that is presently made clean and smooth and it will presently take the Colour of Copper, when it cometh out with much rubbing you may renew it again, but if you do it twice together, the Iron will look black.\n\nXII. A way of Gilding Gold upon Silver. Communicated by the same.\n\nBeat a Ducket thin, and dissolve it in Two Ounces of Aqua Regia, then dip therein a clean Rag, and let the same dry, and do it again and again till all the said Liquor be soak'd up, then burn the laid Rag, and with the Tinder thereof let Silver be rub'd, using therewith a little Spittle; and if by chance the Silver will not take, then hold it to the Fire to take away all manner of Grease and it will not fail.\n\nMemorandum, This Method is known to very few Goldsmiths in Germany.\n\nXIII. To",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102537.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 340,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1100,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102537",
+    "title": "To Give Iron the Colour and Tincture of Copper. Communicated by Sir Rob. Southwell, F. R. S.",
+    "authors": "Rob. Southwell",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102537"
+  }
+}

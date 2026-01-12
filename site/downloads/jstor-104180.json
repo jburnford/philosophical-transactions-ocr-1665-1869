@@ -1,0 +1,59 @@
+{
+  "id": "5a13e881b7a5d24847b62fa2a9bcae417707d3fe",
+  "text": "Abstract of Part of a Letter from the Honourable William Bentinck, Esq; F. R. S. to Martin Folkes, Esq; Pr. R.S. communicating the following Paper from Mons. Trembley, of the Hague.\n\nSIR,\n\nHague, Jan. 15. N. S. 1743\n\nWHAT I here send you inclos’d will, I hope, answer the Queries of your last Letter. Mr. Trembley, the Gentleman who has made the Observations on the Insects, has drawn this Extract from his Journal: And I can answer for the Truth of the Facts therein contained, as there is not one of them but what I have seen repeated above Twenty times. I send you the Paper in French, not having had Time to translate it. I wish others may be encouraged to try the Experiments over-again, and satisfy themselves of the Truth, by their own Eyes. The Insects may certainly be found in England, if carefully lookt for, especially by such as are accustomed to such Enquiries. However, if that should be found difficult, it may be easy to send some over to you: And Mr. Trembley will give Directions how to keep and feed them; for he makes himself a Point d’honneur of being communicative, and concealing nothing of what he knows about them. If therefore you have any Doubt, or want any further Information, please only to write to me, or to him, and you shall be sure of an Answer, by the first Opportunity. I pray to be kindly remembred—&c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104180.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 398,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1341,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104180",
+    "title": "Abstract of Part of a Letter from the Honourable William Bentinck, Esq; F. R. S. to Martin Folkes, Esq; Pr. R. S. Communicating the Following Paper from Mons. Trembley, of the Hague",
+    "authors": "Mons. Trembley, William Bentinck",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104180"
+  }
+}

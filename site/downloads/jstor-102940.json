@@ -1,0 +1,59 @@
+{
+  "id": "f256fd146042eaa9401cbf445d1ff13c545ce127",
+  "text": "a strait Line, whose Squares are equal to the summs or differences of the Rectangles and Squares of a Line, and its Segments and other assumed Lines, in all the variety and combinations thereof.\n\nLiber III.\n\nIn quo Loci variarum dispositionum Limites assignantur.\n\nHere is the determination of the Loci plani and Solidi that arise from several ways different from the former. For example, if from two given points there be drawn several pairs of strait Lines, whose Squares together be equal to a given Square, the concourse of each pair is in the Locus planus of a Circle there determined. And (the other conditions remaining) if of each pair of Strait Lines one be drawn from a given point, and the other be perpendicular to a given strait Line, the concourse is in the Locus Solidus of an Ellipsis there determined. Afterwards there are several Problems concerning Arithmetical, Geometrical, and Harmonical mean proportionals betwixt two Extreams, and divers Methods for describing the Conick Sections by points. There are also subjoyned several ad-denda to all the preceding three Books.\n\nAt the end of the Book are Prints of the Orthography and Gate of a Stately House built by the Author Vincentio Viviani at Florence, with the Inscriptions on the front thereof in honour of the French King Lewis XIV, from whom he had an annual Pension for many years: and of the Family of the Great Duke of Tuscany; and of his Preceptor the Famous Galileo Galilei, with a Print of Galileo's Bust in Brass, which is set over the Gate.\n\nERRATA. P. 1581. l. 22. after refract r. vitioufly.\n\nPrinted for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St Paul's Church-yard. 1704.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102940.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 475,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1703,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102940",
+    "title": "Errata",
+    "authors": null,
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102940"
+  }
+}

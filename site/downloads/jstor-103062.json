@@ -1,0 +1,59 @@
+{
+  "id": "559f7e2fc36b7da4ba13b57a3831f641ed01826c",
+  "text": "ADVERTISEMENT.\n\nJust Publish'd.\n\nMethodus Incrementorum Directa, & Inversa, Auctore Brook Taylor, L. L. D. & R. S. Secr. In two Parts. In the first Part are explain'd the Principles of the New Incremental Method, and by the means of that the Method of Fluxions is more fully explain'd than has yet been done; it being shew'd how this Method is deduced from the former, by taking the first and last Ratio's of the nascent and evanescent Increments. In the second Part the Usefulness of these two Methods is set forth by several Examples, viz. 1. In the summing up of Arithmetical Serieses. 2. In finding all the figurate Numbers. 3. In the finding of Tangents, Rays of Concavity, and the Quadrature of all sorts of Curves. 4. The Catenaria. 5. The Velaria. 6. The Fornix. 7. The Vibration of a Musical String. 8. The Centers of Oscillation and Percussion. 9. The Density of the Atmosphere. 10. The Refraction of Light passing thro' the Atmosphere, 4to. Printed for W. Innys at the Prince's Arms in St. Paul's Church Yard.\n\nAn Account of this Book will be given in a following Transaction.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103062.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 357,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1087,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103062",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103062"
+  }
+}

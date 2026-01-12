@@ -1,0 +1,69 @@
+{
+  "id": "3e4d1bf12d59a568e19d5ae3a972d5d2d9a3468d",
+  "text": "Solaris defectus Observationes Grenovici habitae Anno 1684. Julii 2. p.m. ab J. F. &c.\n\nAd hujus Eclipse observationem, praeter tubum pedum 16. assuetum, scenam etiam sub obscurato conclavi cum praeparassem, quo diameter circuli solis speciem in alba tabella adæquantis, 5½ digitos pedis Anglicani lati, sedecim circulis concentricis æquidistantibus in 32 partes æquales distinguebatur, quot fere minutorum Solis nunc diameter: Coelum mane præcedente nubibus obductum extitit. Hisce tamen circa horam secundam p.m. dissipatis, Sol clarus & ab Eclipse immunis explenduit hor. 2h 0 4. Deinde ab ilidem rursus exceptus latuit usque 2h 12½, quando ab iis iterum prodeuntis plus quam media pars unius minuti supra scenam in limbo deficere videbatur. Exinde coelum ad finem usque satis habuimus propitiium: sed phasium crescentium parum incommode fuere supra scenam observationes, propter nimiam solis altitudinem, & per tubum. Quoniam ventus ab Africo flans vehementior, stabilem illum detineri non permisit; pauciores quamobrem, utrisque ante medium factæ adnotationes. Obscuratio maxima fuit min. 19½ supra scenam, cujus ope observatis etiam tubo & micrometro factæ animadversiones satis consentiunt. Dehis Eclipse hora 4h 27' 37\" accurate, cum mihi per tubum, tum ministro supra scenam observanti; vix plus uno temporis scrupulo horario serius quam edita à me antea ejusdem promiserat Constructio: Reliqua sic se habuere observata.\n\n| Temp. per | Temp. inde |\n|-----------|------------|\n| horolog. oscillator. | ab observat. correcta. |\n\n1684. Julii 2. p.m. ⊙ deficiente.\n\nSol integer. tunc nubes.\ndef. per exiguum ima ora.\nPartes obscuratae supra scenam\n\n| partes | partes |\n|--------|--------|\n| supra liberæ | micro-\n| scen. defic. | metro. |\n\n| b | b |\n|---|---|\n| 2 | 12 30 2 |\n| 21 | 02 |\n| 21 | 25 |\n| 32 | 20 |\n| 46 | 40 |\n\n| 03 45 |\n| 12 17 |\n| 12 40 |\n| 23 35 |\n| 37 55 |\n\n| 1 |\n| 0½ |\n| 4 |\n| 22 19 |\n| 51 37 |\n| 51 37 | 42 52 | Centrum |\n|-------|-------|---------|\n| 3 05 23 | 56 38 | |\n| 9 05 30 | 00 20 | |\n| 10 04 | 1 19 | |\n| 11 47 | 3 02 | |\n| 3 12 15 | 3 03 | |\n| 13 23 | 4 38 | Cornua horizontalia |\n| 17 43 | 8 58 | |\n| 21 48 | 13 03 | |\n| 23 00 | 14 15 | |\n| 25 40 | 16 55 | |\n| 29 51 | 20 06 | |\n| 33 54 | 25 09 | |\n| 40 08 | 31 23 | |\n| 43 16 | 34 31 | |\n| 45 35 | 36 50 | |\n| 49 15 | 40 30 | Cuspis inferior ad Nadir Cs |\n| 50 02 | 41 17 | |\n| 54 20 | 45 35 | Centrum |\n| 56 45 | 48 00 | |\n| 4 02 58 | 54 13 | |\n| 6 00 | 57 15 | fere |\n| 8 45 4 | 00 00 | |\n| 16 32 | 7 47 | |\n| 17 44 | 9 00 | Cuspides verticales dist. 84 gr. |\n| 24 08 | 15 23 | Inter Cuspides |\n| 24 20 | 15 35 | |\n| 27 14 | 18 29 | Inter Cuspides |\n| 29 36 | 20 51 | |\n| 30 32 | 21 47 | Inter Cuspides |\n| 33 06 | 24 21 | |\n| 36 22 | 27 37 | Finis accurate. |\n\nDeinde ad errorem horologii investigandum, distantiae observatae à vertice.\n\n| hor. inde supp. Error. hor. |\n|-----------------------------|\n| 60 11 00 4 34 56 --8 42 |\n| 60 31 20 4 37 07 --8 41 |\n| 60 41 50 4 38 15 --8 43 |\n| 61 01 40 4 40 22 --8 41 |",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102077.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1484,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1920,
+        2
+      ],
+      [
+        1920,
+        3005,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102077",
+    "title": "Solaris Defectus Observationes Grenovici Habitae Anno 1684. Julii 2. p. m. ab J. F. etc.",
+    "authors": "Johanne Flamsteedio",
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102077"
+  }
+}

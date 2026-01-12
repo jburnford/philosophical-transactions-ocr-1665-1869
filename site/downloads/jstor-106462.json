@@ -1,0 +1,59 @@
+{
+  "id": "821708807da118d327efe41b13436eb4a0c9444c",
+  "text": "ERRATA\n\nVOL. LXXI.\n\nPage. Line.\n9. 20. for 0.03 read 0.035\n11. 26. for 3,100 read 3106.\n18. 12. for $\\frac{3155}{0.290}$ read $\\frac{3155}{0.299}$\n\nVOL. LXXII.\n\n73. 12. for one fortieth read one twentieth\n75. 1. for five sevenths read five fourths\n78. 9. for sevenths of an inch read fourths of an inch\n81. 2. for now read more\n117. 11. for 38 read 39\n127. 8. for 108 read 107\n136. 24. for ξ Capricorni read FL. 64, Sagittarii\n147. 3. for the 1½ read the farthest 1½\n149. 28. for 40' read 40\"\n153. 7. for π FL. 10. read ε FL. 11.\n155. 4. for 5 read 4\n161. 21. for 6\" 27' read 6\" 27\"\"\n182. at the top of the 6th column, insert Physical specific gravity.\n— first series of the 6th column, for 1,846 read 1,8846\n183. at the top of the 6th column, insert Physical specific gravity.\n185. 12. for 1,4653 read 1,4650\n206. 14. after nitrous read test\n217. 23. and 26. for I PR. read 4 PR.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106462.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 509,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        880,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106462",
+    "title": "Errata",
+    "authors": null,
+    "year": 1782,
+    "volume": "72",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106462"
+  }
+}

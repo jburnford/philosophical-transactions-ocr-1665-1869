@@ -1,0 +1,59 @@
+{
+  "id": "3b021f1d2ba5c7fabf32ca8b85637e6123a23c64",
+  "text": "THE PRESIDENT and COUNCIL of the ROYAL SOCIETY adjudged, for the year 1791, two Medals on Sir GODFREY COPLEY's Donation; one to JAMES RENNEll, Esq. F.R.S. for his Paper on the Rate of Travelling as performed by Camels, printed in the last Volume of the Philosophical Transactions; the other to JOHN ANDREW DE LUC, Esq. F.R.S. for his Improvements in Hygrometry.\n\nERRATUM.\n\nP. 68, l. 23. for $2,1446 - 60,08711$ read $2,14466 - 0,08711$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106772.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 228,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        436,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106772",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1792,
+    "volume": "82",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106772"
+  }
+}

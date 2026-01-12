@@ -1,0 +1,59 @@
+{
+  "id": "9d04c941c37a912b6c5209ce04e8d039a4d53b4a",
+  "text": "ERRATA.\n\nVOL. LI. Part II. for the Year 1760.\n\nPage 688. line 21, &c. for Victoriam in aversâ parte Gradientem præ se ferentes, denarios tamen, in perpetuam rei memoriam, signari jussit.—insert—Denarios tamen, Victoriam in aversâ parte Gradientem præ se ferentes, in perpetuam rei memoriam, signari jussit.\n\nVOL. LIII.\n\nPag. 136 line 21 dele have.\n\n375 2 from the bottom, dele every.\n397 first line in the note, for $r^{p-1}$ read $r^{q-1}$.\n401 erase the asterisk in the 4th line from the top, and place it in the 10th line.\n405 6 and 10, for on read in.\n415 4 from the bottom, for $1-2E$ read $1+2E$\n416 1 for E read $\\Sigma$: and in the second line draw a stroke over $mz-m^3z^3$, &c.\n418 3d and 4th lines in the note, for comes almost as near read comes, in most cases, almost as near\n446 31 for supeet r. suspect\n448 22 for fig. 2. r. fig. 1.\n446 17 for fig. 1. r. fig. 3.\n30 for fig. 2. r. fig. 4.\n451 29 for fig. 3. r. fig. 5.\n458 12 for equally r. unequally\n465 9 for TAB. XXIII. r. TAB. XXII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105746.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 474,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1001,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105746",
+    "title": "Errata",
+    "authors": null,
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105746"
+  }
+}

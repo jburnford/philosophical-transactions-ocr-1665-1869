@@ -1,0 +1,59 @@
+{
+  "id": "e9524af547b6319a891af7a4bf9e030acb2b59a2",
+  "text": "CONTENTS.\n\nand also for its irregular Variation at the Time of an Aurora Borealis. By John Canton, M.A. and F.R.S. p. 398.\n\nXXXIX. A Letter to the Right Honourable Hugh Earl of Marchmont, F.R.S. concerning the Sections of a Solid, hitherto not considered by Geometers; from William Brakenridge, D.D. Rector of St. Michael Bassishaw London, and F.R.S. p. 446.\n\nERRATA.\n\nP. 96. in the Title to Art. XVII. for 1757, read 1758.\nP. 285. l. 4. from the bottom, after damaged, add, not.\nP. 394. l. 8. before late, insert the; after of, dele the.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105345.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 247,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        538,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105345",
+    "title": "Errata",
+    "authors": null,
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105345"
+  }
+}

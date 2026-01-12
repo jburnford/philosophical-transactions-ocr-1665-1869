@@ -1,0 +1,59 @@
+{
+  "id": "fff6cfe6efaf0cfa2ccea1f48526e2042f9aedea",
+  "text": "Mr. Henderson on the difference of meridians, &c.\n\nThe above rectification of the observations made to ascertain the difference of longitude between Paris and Greenwich, not only adds greatly to the merit of the distinguished observers employed in the work, but trebles the value of their results by narrowing the extreme range of the experiments from $0^\\circ.65$ to $0^\\circ.21$.\n\nTHOMAS HENDERSON.\n\nEdinburgh, 30th March, 1827.\n\nERRATA IN MR. HERSCHEL'S PAPER.\n\nPage 85, July 20, for \"9 49m 39s.6\" read \"9h 49m 29s.6.\"\n19, — \"9 44 50\" — \"9 54 50.\"\n90, 21, — \"10 26 28.3\" — \"10 26 38.3.\"\n22, Signals No. 6, erroneously set down. As they stand they are repetitions of No. 7.\n102, 21, for \"clock 1h 9m 50s.88\" read \"17h 9m 50s.88.\"\n104, 17, — \"17 32 44.40\" — \"17 32 42.40.\"\n— — \"18 22 52.48\" — \"18 22 54.48.\"\n109, line 10 from bottom, for \"or\" read \"on.\"\n111, — 7 from top, for \"—\" read \"x.\"\n— — 12, — for \"z\" read \"Z.\"\n119, July 19, for \"C' 9h 46m 36s.65\" read \"9h 46m 33s.65.\"\n120, — 22, line 2d from bottom, for \"— 3°03\" read \"0°03.\"",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107879.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 534,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1036,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107879",
+    "title": "Errata",
+    "authors": null,
+    "year": 1827,
+    "volume": "117",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107879"
+  }
+}

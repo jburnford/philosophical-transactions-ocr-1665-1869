@@ -1,0 +1,59 @@
+{
+  "id": "73c3f0c67024e3caac083e8b36bd2662c9a145c6",
+  "text": "The annexed Tract of Turnebus is both elegant, and considerable for the Observations therein alledged, to shew the noxious effects of Wine in those people, that drink much of that liquor; preferring good Water, Milk, Bier, and especially good Cider, far above it; and taking notice, that Wine-drinkers have generally more deform'd, lower and drier bodies, as also shaking limbs, and a more hasty decay of sight, than others.\n\nErrata.\n\nIn Numb. 68. p. 2081. l. 10. r. Chylous Urine. In the Index annexed to Numb. 68. add at the very end of the particulars, listed under the Letter M, after the word Restitution, these two numbers, 67. 2058.\n\nIn this Numb. 69. p. 2090. l. 15. r. or his Angels. p. 2092. l. 8. r. Experience. Doctor. p. 2093. l. 4. other as A.\n\nLondon,\n\nPrinted for John Martin, Printer to the Royal-Society. 1671.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101057.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 329,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        828,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101057",
+    "title": "Errata",
+    "authors": null,
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101057"
+  }
+}

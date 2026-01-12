@@ -1,0 +1,69 @@
+{
+  "id": "a522ac989bf795fa60c663dec307f49a3fde7c8b",
+  "text": "VII. De eodem Phænomeno Genevæ viso, Epistolæ Viri Clarissimi Domini Johannis Ludovici Calandrini, Math. Prof. Ordinar. Genevæ, ad Jac. Jurin, R. S. Secr.\n\nDabam Genevæ Kal. Nov. 1726.\n\nDie Saturni 1° Mensis Octobris, horâ sextâ & dimidiâ vespertinâ, Aurora Borealis fulgere coepit, Phænomenon vobis quidem satis familiare, nobis verò ex seniorum sententiâ plane novum, sed tam illustre, & circumstantiis à vulgaribus in Transactiobus fæpe descriptis tam diversum, ut de eo audiisse fortasse non pigebit.\n\nPrimò quidem, quâ horâ dixi, Arcus lucidus visus est, cujus medium stabat in Horizontis Septentrione, extremitates ad Arcturum in Occasu, & ad Pleiades in Ortu, 40° altus; lucidus satis, ut Solem è Septentrione jam jam ortum ire diceres; sed hic nihil est novi.\n\nPost horam septimam, quasi violenti incendii flammæ, vel continua fulgura totum albicantis arcus locum occupaverunt. Serpebant ex Horizonte ad cœli forniciem haud absimiles veri furni flammis, extremitates arcûs rubicundo atrove fulgore vulgum terrebant, ipsæ flammæ in atrum fumum desinere videbantur, ita ut diem Domini instare mulierculæ non dubitarent. Cœlestè hoc incendium plusquam horam duravit; Scenâque mutatâ, ex Horizonte exilire columnas, quæ ad Zenith pertingerent, visum est: Ex eadem supradictâ basi, coronâ in extremitate Phænomeni tum occidente & cornu Tauri inferiore ab alterâ parte surgente, columnæ plus minusve latæ, 60 aut 70° altæ, tria vel qua-\nquatuor minuta durantes, paulatim evanescentes, vel prius in igneum colorem versae; post aliquod tempus cessarunt columnae: tum Aurora Borealis ut primum fulsit, cui ante decimam successerunt flammæ vehemiores quam prius, quibus cessantibus columnae circa undecimam visae sunt, magis diutinae, &c. 120° plenumque altæ: Rursus Aurora, mox flammæ, postea columnae, atque ita ad tertiam usque, quà videbantur adhuc Phænomeni reliquiae.\n\nUltra luculam, quæ semper Septentrionalem, quam dixi, cœli partem illustrabat, majoris Urse stellæ parum fulgebant. E Vesontio, quod 90 milliaribus hinc distat, eodem modo visum suisse Phænomenon accepimus.\n\nArsit interea unum ex illis Meteoris, stellæ cadentes dictum, quod ultra Phænomenon arsisse visum est.\n\nEx reflexione Solaris luminis à partibus Atmosphæræ Borealibus congelatis Auroras Boreales formari dictum est: Sed flammae adeò notabiles quo pacto explicantur non video. Si ab exhalationum incendiis ortum hoc Phænomenon censeatur; Aurora Borealis Phænomeni comes, columnae, duratio Phænomeni, & ipsius in eodem loco statio, negotium facessent.\n\nJoh. Lud. Calandrini,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103463.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4658,
+    "total-output-tokens": 974,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1439,
+        2
+      ],
+      [
+        1439,
+        2552,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103463",
+    "title": "De Eodem Phaenomeno Genevae Viso, Epistola Viri Clarissimi Domini Johannis Ludovici Calandrini, Math. Prof. Ordinar. Genevae, ad Jac. Jurin, R. S. Secr.",
+    "authors": "Johannis Ludovici Calandrini",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103463"
+  }
+}

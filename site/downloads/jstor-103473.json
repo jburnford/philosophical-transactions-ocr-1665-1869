@@ -1,0 +1,79 @@
+{
+  "id": "5338a162937a8003f8f5ca791a06327b5fe7b327",
+  "text": "tubo palmorum undecim Rom. A B verò est partium 12. (Vide Fig. 5.)\n\nMenelaus 25 exit. (25 est numerus maculae assignatus in Lunae imagine, à Parisiensi Academia edita.)\n\nMacula clarius sita ante Plinium exit. 9 5 0\nHermes ab umbra prodit. 9 6 0\nPlinius emergit. 9 50 0\nIncipit emergere Posidonius 27. 9 16 0\nMaris Crisium limbus prior emergit. 9 18 0\nTotum Mare Crisium extra umbram. 9 25 0\nLangrenus 39 exit. 9 24 0\nUmbræ extremum in limbo Lunæ adhuc videtur. 9 24 30\nFinis umbræ veræ. 9 25 0\n\nV. Conspectus Maculae Platonis in Luna caelo clarissimo nocte sequente diem 16 Augusti 1725, hora prima post occasum Solis Romæ in monte Palatino, per tubum opticum Josephi Campani, palmorum 150 Romanorum, spectante eodem Viro Cl. Ex eadem Epistola.\n\nMargines elevati in ambitu maculae persundeabantur luce Solis, & candorem consuetum ostendebant: fundus maculae tenebrosus spectabatur, cum ad illum radii solares nondum pertingerent. Sed proiectio lucis minus candidæ, imò nonnihil rubescens, pervadebat mediam aream maculae (ut in Fig. 6.) non secus, ac si in latere marginis A Soli obverso foramen aliquod fuerit, per quod radius Solis admitteretur.\nClarissimus hic Vir in sua, quam ad me scripsit, epistola, ratiocinari super hoc maculae conspectu non-nihil voluit, suamque de ea re mentem exponere. Duplicem vero innuit causam, unde praedictus effectus procedere posset; vel scilicet foramen in latere marginis Soli obverso; vel refractionem alicujus radii solaris in summitate marginis faciam, unde interiores partes ipsius maculae pervaderet radius. Utrumque sane probabile, & utrumque pariter confirmat, dari circa Lunam Atmosphaeram nostrae non absimilem, ut & ipse Auctor insert; sive enim foramen admittamus, per quod Solis radius introducatur, & hic sane neutiquam videri posset in obscuro cavo maculae, nisi ab exhalationibus lucem reflectentibus fieret conspicuus; vel admittamus refractionem, & haec sine intermedio crassiori dari nequit. Haec addere volui, ut ratio innotesceret, quae laudatissimum Virum adduxit ad hujus maculae observationem accuratè describendam.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103473.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6134,
+    "total-output-tokens": 851,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1148,
+        3
+      ],
+      [
+        1148,
+        2077,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103473",
+    "title": "Conspectus Maculae Platonis in Luna Caelo Clarissimo Nocte Sequente Diem 16 Augusti 1725, Hora Prima Post Occasum Solis Romae in Monte Palatino, Per Tubum Opticum Josephi Campani, Palmorum 150 Romanorum, Spectante Eodem Viro Cl. Ex Eadem Epistola",
+    "authors": "Josephi Campani",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103473"
+  }
+}

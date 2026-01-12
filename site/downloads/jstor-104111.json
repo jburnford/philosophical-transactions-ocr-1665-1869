@@ -1,0 +1,79 @@
+{
+  "id": "2ecd5690f37ab58225a7a8f57b73f904faf468cb",
+  "text": "Friday, May 5.\n\nLatitude per Observation 16° 00' South.\nMeridian Dist. from Java Head 97° 43'\nDitto from Cape Bonne Esperance 20° 16' West.\nLongitude from Java Head 99° 53'\nBy an Ampl the Night before came in 8° 00 NW.\nAt Noon Barn Point bore W. by N. ¼ N. Distance four Miles\n\nVII. An Account of an extraordinary Eruption of Mount Vesuvius in the Month of March, in the Year 1730, extracted from the Meteorological Diary of that Year at Naples, communicated by Nichol. Cyrillus, M.D. R.S.S.\n\nThe Thermometer used in this Diary, was made by Mr. Hawksbee, in which the Freezing-Point is marked at 65 Degrees under the Point extreme Hot; but the Doctor observes, that at Naples Water will freeze when this Thermometer stands at 55 Degrees only: Which, he is of Opinion, seems to argue, that there is something else besides an intense Degree of Cold required for freezing Water; that the Air of Naples abounds in it, more than the Air of London; and that this may probably be of a saline Nature; because when we turn Water into Ice by the Help of Snow, it is necessary to mix Salt with it.\n\nMarch Ther. Winds.\n\n8. 40° 0. S. 3° Cloudy Weather; strong South Wind. Vesuvius sent forth a great Smoak and Stream of Fire, with hollow Rumbling.\n\nMarch\nMarch Ther. Winds.\n\n9. 38: o. W. 1 The Weather cloudy. The following Night Vesuvius thundered as it were twice. In the Day the Windows trembled a little.\n\n10, 11, 39: o. S. 1 Cloudy; Rain now and then: The Clouds hide the Smoak and Fire.\n\n13. 41: i. NW. 1 Weather rather clear. The Smoak is lessened.\n\n14. 47: o. N. 2 A little Rain in the Night, in the Morning Snow in the Mountains. In the Forenoon the Snow increased again. In the Evening after Eight o’Clock the Fire arose to a vast Height, and threw huge Stones to almost half the perpendicular Height of the Mountain. Pumice Stones red hot of two or more Ounces Weight, were driven several Miles like a Shower of Hail, and frightned away the Birds. In about an Hour’s time the Height of the Flame was somewhat lessened; and through the middle of the thick Smoak Flashes of Lightning were often seen.\n\nMarch Ther. Winds.\n\n15. 50: o NE. 1 Clear Weather. Thick Smoak scatter’d the Ashes many Miles over the Sea.\n\n16. 48: o. S. 1 Clear in the Morning; about Noon cloudy, small Rain and cold. By Change of the Winds the Smoak and Ashes were carried towards the N. Clouds hide the Mountain.\n\n17. 40: i. S. 1 A few thin Clouds. The Smoak turn’d with the Wind.\n\nMarch\nMarch Ther. Winds.\n\n18. 40. S. SW. Clear. The City was sprinkled over with small Ashes, like Kitchen Ashes, which were attracted by the Loadstone.\n\n19. 42. W. A few thin Clouds.\n\n20. 37. Almost clear. Vesuvius became entirely quiet.\n\nVIII. A short Account, by Mr. John Eames, F. R. S. of a Book intituled, Tuhhfat ilkibar, printed at Constantinople, Anno Dom. 1728.\n\nThe Advantage of Printing above Writing, has at last prevailed with the Grand Signor to permit a Printing-Press to be set up at Constantinople. It was obtained upon a Memorial presented to him by the Grand Vizier, with the Consent of the Mufti.\n\nThe Privilege is granted to Zaid the Son of Mehmet Effendi, late Ambassador in France, and Ibrahim Mutafarrica, the Author of a small Tract in this Book. The Licence extends to the printing all Sorts of Books written in the Oriental Languages, except such as treat of the Mahometan Religion.\n\nThe Book before me seems to be one of the first that ever was printed there. For though Giauhauri's Arabic Dictionary, translated into Turkish, was what the Turks designed, for particular Reasons, to begin withal; yet the Manuscript, from which they printed off the first Sheets, was found to be so incorrect, that the Grand Signor ordered the printing of it to be stopp'd, 'till a more correct Copy could be procured.\n\nDuring",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104111.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6226,
+    "total-output-tokens": 1162,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1242,
+        2
+      ],
+      [
+        1242,
+        2457,
+        3
+      ],
+      [
+        2457,
+        3789,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104111",
+    "title": "An Account of an Extraordinary Eruption of Mount Vesuvius in the Month of March, in the Year 1730, Extracted from the Meteorological Diary of That Year at Naples, Communicated by Nichol. Cyrillus, M. D. R. S. S.",
+    "authors": "Nichol Cyrillus",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104111"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "1047837013fe9513394e5323803ec47c5eb1e559",
+  "text": "III. An Observation of the Eclipse of the Moon, by Arthur Dobs', Esq; at Castle-Dobbs near Carrickfergus in Ireland, Feb. the 2d, 1728-9; communicated by Oliver St. John, Esq; F.R.S.\n\nCastle-Dobbs, Feb. the 8th, 1728-9.\n\nDear SIR,\n\nHaving had a fine Observation of the Eclipse of the Moon which happened last Sunday Evening, I have sent you it to communicate to the Royal Society, to ascertain our Longitude here, and in other Places where it was observed.\n\nThe Observation was made by a nine Foot Glass. Having adjusted a monthly Pendulum Clock by a Meridian Line on the 30th of Jan. and further corrected by the Meridian, Feb. the 6th 1728-9.\n\nHours apparent Time.\n\n| h | m | s |\n|---|---|---|\n| 6 | 27 | 0 - - Penumbra observed. |\n| 29 | 30 | 0 - - Moon's Limb immerged. |\n| 33 | 0 | 0 - - Eastern Limit of Palus Mareotis immerged. |\n| 35 | 50 | 0 - - Mons Climan. immerged. |\n| 42 | 40 | 0 - - Mons Porphyrites immerged. |\n| 50 | 0 | 0 - - Insula Melis immerged. |\n| 52 | 40 | 0 - - Mons Ætna immerged. |\n| 54 | 20 | 0 - - Inf. Sardinia immerged. |\n| 56 | 20 | 0 - - Inf. Rhodes immerged. |\n| 58 | 0 | 0 - - Inf. Corsica immerged. |\n\nh7 - o'\nHours apparent Time.\n\n| h   | \"   |\n|-----|-----|\n| p.m.|     |\n| 7   | 30  | Mons Sinai's, Eastern Limit immersed. |\n| 2   | 0   | Mons Sinai totally immersed. |\n| 6   | 50  | Inf. Besbicus, Eastern Limit immersed. |\n| 11  | 50  | Mons Herminius immersed. |\n| 13  | 50  | Promontory Archeroulia im. |\n| 22  | 0   | Mare Caspium, Eastern Limit immersed. |\n| 24  | 20  | Palus Maeotis, Eastern Limit immersed. |\n| 27  | 30  | Palus Maeotis, totally immersed. |\n| 30  | 15  | Moon totally immersed. |\n| 9   | 8   | Moon's Eastern Limb emerged near Mons Acabe. |\n| 13  | 0   | Palus Maeotis emerged. |\n| 15  | 0   | Mons Climan. emerged. |\n| 23  | 30  | Mons Porphyrites emerged. |\n| 29  | 10  | Mons Sinai emerged. |\n| 33  | 30  | Mons Ætna emerged. |\n| 49  | 0   | Inf. Besbicus emerged. |\n| 10  | 1   | Mare Caspium, Eastern Limit emerged. |\n| 5   | 0   | Palus Maeotis emerged. |\n| 10  | 0   | A Penumbra observed, the Moon's Limb emerging. |\n| 11  | 0   | The Limb evidently emerged. |\n\nFrom the Beginning to the End of the Eclipse 3\\(^h\\) 44'\\(^m\\) Totally Eclipsed —— 1\\(^h\\) 38'\\(^m\\) 15'\\(^s\\)\n\nIV. De",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103513.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 960,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1146,
+        2
+      ],
+      [
+        1146,
+        2253,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103513",
+    "title": "An Observation of the Eclipse of the Moon, by Arthur Dobs, Esq; At Castle-Dobbs Near Carrickfergus in Ireland, Feb. the 2d, 1728-9; Communicated by Oliver St. John, Esq; F.R.S.",
+    "authors": "Oliver St. John, Arthur Dobs",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103513"
+  }
+}

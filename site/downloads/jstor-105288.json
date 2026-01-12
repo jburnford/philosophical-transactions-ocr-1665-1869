@@ -1,0 +1,129 @@
+{
+  "id": "2328e01f5503a4124bebf5e392556d25eda7e58d",
+  "text": "of Laye (4) and Manna, were all cracked by them; and the works at the sugar-plantation (5) received considerable damage. The ground opened near the qualloe (6) at Bencoolen, and up the River in several places; and there issued therefrom sulphureous earth, and large quantities of water, sending forth a most intolerable stench. Poblo Point (7) was much cracked at the same time; and some doofoons (8) in-land at Manna were destroyed, and many people in them.\n\nThese are all the ill effects, that have come to our knowledge; but, it is reasonable to suppose, not all the damage, that has happened upon the island.\n\nLXIII. Concerning the Fall of Water under Bridges. By Mr. J. Robertson, F.R.S.\n\nRead Jan. 19, 1758.\n\nSome time before the year 1740, the problem about the fall of water, occasioned by the piers of bridges built across a river, was much talked of at London, on account of the fall that it was supposed would be at the new bridge to be built at Westminster. In Mr. Hawksmore's and Mr. Labelye's pamphlets, the former published in 1736,\n\n(4) Laye house or factory is about 30 miles to the northward of Marlborough, and Manna house or factory fifty miles to the southward.\n\n(5) The sugar-plantation is five or six miles from Marlborough.\n\n(6) The qualloe is the country word for a river's mouth.\n\n(7) Poblo Point lies about three leagues to the southward of Marlborough.\n\n(8) Doofoons are villages.\n1736, and the latter in 1739, the result of Mr. Labeleye's computations was given: but neither the investigation of the problem, nor any rules, were at that time exhibited to the public.\n\nIn the year 1742 was published Gardiner's edition of Vlacq's Tables; in which, among the examples there prefixed to shew some of the uses of those tables drawn up by the late William Jones, Esq.; there are two examples, one shewing how to compute the fall of water at London-bridge, and the other applied to Westminster-bridge: but that excellent mathematician's investigation of the rule, by which those examples were wrought, was not printed, altho' he communicated to several of his friends copies thereof. Since that time, it seems as if the problem had in general been forgot, as it has not made its appearance, to my knowledge, in any of the subsequent publications. As it is a problem somewhat curious, tho' not difficult, and its solution not generally known (having seen four different solutions, one of them very imperfect, extracted from the private books of an office in one of the departments of engineering in a neighbouring nation), I thought it might give some entertainment to the curious in these matters, if the whole process were published. In the following investigation, much the same with Mr. Jones's, as the demonstrations of the principles therein used appeared to be wanting, they are here attempted to be supplied.\n\n**PRINCIPLES.**\n\nI. A heavy body, that in the first second of time has fallen the height of a feet, has acquired such a velocity.\nlocity, that, moving uniformly therewith, will in\nthe next second of time move the length of 2.2 feet.\n\nII. The spaces run thro' by falling bodies are propor-\ntional to one another as the squares of their last or\nacquired velocities.\n\nThese two principles are demonstrated by the\nwriters on mechanics.\n\nIII. Water forced out of a larger chanel thro' one\nor more smaller passages, will have the streams thro'\nthese passages contracted in the ratio of 25 to 21.\nThis is shewn in the 36th prop. of the 2d book\nof Newton's Principia.\n\nIV. In any stream of water, the velocity is such, as\nwould be acquired by the fall of a body from a\nheight above the surface of that stream.\nThis is evident from the nature of motion.\n\nV. The velocities of water thro' different passages of\nthe same height, are reciprocally proportional to\ntheir breadths.\n\nFor, at some time, the water must be delivered\nas fast as it comes; otherwise the bounds would\nbe overflowed.\n\nAt that time, the same quantity, which in any\ntime flows thro' a section in the open chanel, is\ndelivered in equal time thro' the narrower pas-\nsages; or the momentum in the narrow passages\nmust be equal to the momentum in the open\nchanel; or the rectangle under the section of the\nnarrow passages, by their mean velocity, must be\nequal to the rectangle under the section of the\nopen chanel by its mean velocity.\n\nTherefore\nTherefore the velocity in the open chanel is to the velocity in the narrower passages, as the section of those passages is to the section of the open chanel.\n\nBut the heights in both sections being equal, the sections are directly as the breadths;\n\nConsequently the velocities are reciprocally as the breadths.\n\nVI. In a running stream, the water above any obstacles put therein will rise to such a height, that by its fall the stream may be discharged as fast as it comes.\n\nFor the same body of water, which flowed in the open chanel, must pass thro' the passages made by the obstacles:\n\nAnd the narrower the passages, the swifter will be the velocity of the water:\n\nBut the swifter the velocity of the water, the greater is the height, from whence it has descended:\n\nConsequently the obstacles, which contract the chanel, cause the water to rise against them.\n\nBut the rise will cease, when the water can run off as fast as it comes:\n\nAnd this must happen, when, by the fall between the obstacles, the water will acquire a velocity in a reciprocal proportion to that in the open chanel as the breadth of the open chanel is to the breadth of the narrow passages.\n\nVII. The quantity of the fall caused by an obstacle in a running stream is measured by the difference between\ntween the heights fallen from to acquire the velocities in the narrow passages and open chanel.\n\nFor just above the fall, the velocity of the stream is such, as would be acquired by a body falling from a height higher than the surface of the water:\n\nAnd at the fall, the velocity of the stream is such, as would be acquired by the fall of a body from a height more elevated than the top of the falling stream; and consequently the real fall is less than this height.\n\nNow as the stream comes to the fall with a velocity belonging to a fall above its surface;\n\nConsequently the height belonging to the velocity at the fall must be diminished by the height belonging to the velocity, with which the stream arrives at the fall.\n\n**Problem.**\n\nIn a chanel of running water, whose breadth is contracted by one or more obstacles; the breadth of the chanel, the mean velocity of the whole stream, and the breadth of the water-way between the obstacles being given; To find the quantity of the fall occasioned by those obstacles.\n\nLet $b =$ breadth of the chanel in feet.\n\n$v =$ mean velocity of the water in feet per sec.\n\n$c =$ breadth of the water-way between the obstacles.\n\nNow $\\frac{25}{21} : \\frac{21}{25} :: c : c$ the water-way contracted. . . . . . . . Principle III.\n\nAnd\nAnd \\( \\frac{21}{25} c : b :: v : \\frac{25b}{21c} v \\) the veloc. per sec. in the water-way between the obstacles... Princip. V.\n\nAlso \\( \\frac{2a^2}{v^2} : vv :: a : \\frac{vv}{4a} \\) the height fallen to acquire the vel. \\( v \\). . . . . . . I. &c II.\n\nAnd \\( \\frac{2a^2}{\\left(\\frac{25b}{21c}\\right)^2} \\times vv :: a : \\frac{25b}{21c} \\times \\frac{vv}{4a} \\) the height fallen to acquire the vel. \\( \\frac{25b}{21c} v \\). . . . . . I. &c II.\n\nThen \\( \\frac{25b}{21c} \\times \\frac{vv}{4a} - \\frac{vv}{4a} \\) is the measure of the fall required. . . . . . . . VII.\n\nOr \\( \\frac{25b}{21c} - 1 \\times \\frac{vv}{4a} \\) is a rule, by which the fall may be readily computed.\n\nHere \\( a = 16,0899 \\) feet and \\( 4a = 64,3596 \\).\n\n**Example I. For London-Bridge.**\n\nBy the observations made by Mr. Labelye in 1746, The breadth of the Thames at London-bridge is 926 feet;\n\nThe sum of the water-ways at the time of the greatest fall is 236 feet;\n\nThe mean velocity of the stream taken at its surface just above bridge is \\( 3\\frac{1}{6} \\) feet per second.\n\nUnder almost all the arches there are great numbers of drip-shot piles, or piles driven into the bed of the water-way, to prevent it from being washed away by the fall. These drip-shot piles considerably contract the water-ways, at least \\( \\frac{1}{6} \\) of their measured breadth, or about \\( 39\\frac{1}{3} \\) feet in the whole.\nSo that the water-way will be reduced to $196\\frac{2}{3}$ feet.\n\nNow $b = 926$; $c = 196\\frac{2}{3}$; $v = 35$; $4a = 64,3596$.\n\nThen $\\frac{25b}{21c} = \\frac{23150}{4130} = 5,60532$\n\nAnd $(5,60532)^2 = 31,4196$; and $31,4196 - 1 = 30,4196 = \\frac{25b}{21c}^2 - 1$.\n\nAlso $vv = \\frac{19}{6}^2 = \\frac{361}{36}$; And $\\frac{vv}{4a} = \\frac{361}{36 \\times 64,3596} = 0,15581$.\n\nThen $30,4196 \\times 0,15581 = 4,739$ feet, the fall sought after.\n\nBy the most exact observations made about the year 1736, the measure of the fall was 4 feet 9 inches.\n\n**Example II. For Westminster-Bridge.**\n\nAltho' the breadth of the river at Westminster-bridge is 1220 feet; yet, at the time of the greatest fall, there is water thro' only the thirteen large arches, which amount to 820 feet: to which adding the breadth of the twelve intermediate piers, equal to 174 feet, gives 994 for the breadth of the river at that time: and the velocity of the water just above bridge (from many experiments) is not greater than $2\\frac{1}{4}$ feet per second.\n\nHere $b = 994$; $c = 820$; $v = 2\\frac{1}{4}$; $4a = 64,3596$.\n\nNow $\\frac{25b}{21c} = \\frac{24850}{17220} = 1,443$.\nAnd \\( \\frac{1443}{256} = 2.082 \\); And \\( 2.082 - 1 = 1.082 \\)\n\nAlso \\( \\frac{9^2}{4} = \\frac{81}{16} \\); And \\( \\frac{vv}{48} = \\frac{81}{16 \\times 64.3596} = 0.0786 \\).\n\nThen \\( 1.082 \\times 0.0786 = 0.084 \\) feet, the fall sought.\n\nWhich is about 1 inch; and is about half an inch more than the greatest fall observed by Mr. Labelye.\n\n---\n\nLXIV. An Account of the Earthquake in the West Parts of Cornwall, July 15th 1757. By the Rev. William Borlase, M.A. F.R.S. Communicated by the Rev. Charles Lyttelton, LL.D. Dean of Exeter, F.R.S.\n\nRead Jan. 26. 1758.\n\nON Friday the 15th of July, 1757, a violent shock of an earthquake was felt in the western parts of Cornwall.\n\nThe thermometer had been higher than usual, and the weather hot, or calm, or both, for eight days before; wind east and north-east. On the 14th in the morning, the wind shifting to the southwest, the weather calm and hazy, there was a shower. The afternoon hazy and fair, wind northwest. The barometer moderately high, but the mercury remarkably variable.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105288.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 12824,
+    "total-output-tokens": 3247,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1409,
+        2
+      ],
+      [
+        1409,
+        2970,
+        3
+      ],
+      [
+        2970,
+        4343,
+        4
+      ],
+      [
+        4343,
+        5618,
+        5
+      ],
+      [
+        5618,
+        6894,
+        6
+      ],
+      [
+        6894,
+        8275,
+        7
+      ],
+      [
+        8275,
+        9425,
+        8
+      ],
+      [
+        9425,
+        10453,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105288",
+    "title": "Concerning the Fall of Water Under Bridges. By Mr. J. Robertson, F. R. S.",
+    "authors": "J. Robertson",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/105288"
+  }
+}

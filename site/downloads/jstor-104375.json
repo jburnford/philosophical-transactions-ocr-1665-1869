@@ -1,0 +1,79 @@
+{
+  "id": "5716024ef8b36025e1d0be20ddbbb07019f67a7b",
+  "text": "mihi subortum, jam expiravit. *Subtilissima* enim illæ in *lapidibus*, vel *corporibus* etiam *petrefactis*, delineatæ *arbusculæ* nihil jam videntur esse aliud, quam ipsa *foliorum* hujus vel illius plantæ, *post putrefactionem* illorum adhuc *residua*, *reticula*, quæ, *post reliquorum corruptionem*, figuram suam maßæ isti molliori, quæ in duriorem successu temporis lapidem abiit, impressam, delineatamque reliquerunt ita, ut *ipsa* non raro in *lapideam* substantiam commutata deprehendantur. Apud me saltem hæc, ob summam reticulorum istorum, cum subtilissimis illis arbusculis, affinitatem, dubitatione omni carent: forsan vero & aliis isthæc non omni probabilitate desitui videbuntur.\n\n---\n\nXII. An Account of an Earthquake at Scarborough, on Dec. 29. 1737. communicated in a Letter from Maurice Johnson, Esq; jun. Secr. of the Gentlemens Society at Spalding, to C. Mortimer, M.D. Secr. R.S.\n\n*SIR,*  \nSpalding, Jan. 7. 1737-8.\n\nSINCE I last did myself the Honour of writing to you, nothing, I think, worth communicating to you for the Royal Society, in the philosophical Way, has occurred to us here, until last Thursday, when the following Account of an Earthquake, which has very lately happened at Scarborough, as sent in a Letter from an Eye-witness, to a Gentleman here, was\nwas read, dated thence the 30th of December 1737.\n\nin these Words:\n\n\"The Ends of several Inclosures or Fields\nbehind the Clift, on the Back of the Spaw, sunk\ndown very low into the Ground, making a large\nValley of a vast Length, and considerable Breadth,\nwith Five Cows then grazing on it (which they\ngot out this Morning), the Weight of which shook\nand opened the Hill behind the House, after a\nfrightful Manner, and forced up the Sands an hun-\ndred Yards in Length on each Side the Space, and\nTwenty-seven broad, to the Height of Six Yards,\nand in some Places Ten Yards high.\n\nThe Pier, intire as it was, moved sideways out\nof its Place, and rose up about Five Yards in the\nAir; the House fell down, and at the same time\ntook Fire.\n\nThe Flag-house, and wooden Rails, which were\nabout the Mouth of the Well, were forced up in\nthe Air above Ten Yards high, so that it is thought\nthe Spaw-water is intirely lost for ever *.\n\nThe Tide was out when this happened, and I\nwas walking on the Spaw till after 12 o’Clock,\nwhen I saw the Sands beginning to rise about half\na Foot: There were but few People there then,\nbut in less than Two Hours the Sands were covered\nwith Men, Women and Children, to see the Sands\nand Pier rise gradually; which they began to do\nabout 12 o’Clock Yesterday Noon, and were at the\nHeight I mention before it was dark, and continues\nso now.\n\n* N.B. The Spaw was soon after recovered as good as before.\n\"Nobody came by any Hurt, the People of the House getting away in Time; but all Dickey's* Household-goods are lost, with a Cellar well stocked with Wine and Ale.\"\n\nNow, Sir, though this Representation be not altogether so accurate, in every Part of the Relation, as we could have wished; yet coming from an Eye-witness, and who happened to observe it from the first Motion, and is esteemed a Person of Fidelity, we thought it might not be unacceptable to the Royal Society, and to you, Sir, and which, if the most learned and worthy President judge proper, you may be pleased to communicate to that Learned and Illustrious Body, with our most humble Services. I am,\n\nYour most obedient,\nand obliged humble Servant,\n\nMaur. Johnson, jun.\n\nXIII. An Examination of Sea-water frozen and melted again, to try what Quantity of Salt is contained in such Ice, made in Hudson's Streights by Capt. Christopher Middleton, F. R. S. at the Request of C. Mortimer, R. S. Secr.\n\nDr. Hales, in his learned Paper lately read at the Royal Society, wherein he proposes a Method of rendering Sea-water fresh, and wholesome\n\n* Richard Dickinson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104375.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1166,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1290,
+        2
+      ],
+      [
+        1290,
+        2714,
+        3
+      ],
+      [
+        2714,
+        3837,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104375",
+    "title": "An Account of an Earthquake at Scarborough, on Dec. 29. 1737. Communicated in a Letter from Maurice Johnson, Esq; Jun. Secr. of the Gentlemens Society at Spalding, to C. Mortimer, M. D. Secr. R. S.",
+    "authors": "Maurice Johnson",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104375"
+  }
+}

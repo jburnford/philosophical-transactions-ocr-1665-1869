@@ -1,0 +1,59 @@
+{
+  "id": "a5783563c403d3d78652a32adf175ff5ba039fed",
+  "text": "ERRATA.\n\nPage. Line.\n144. 18. insert it after if\n276. 2. insert comma after lives, and dele after are\n311. 3. from bottom, between &c. and $-\\frac{1}{2}$ insert -1\n     1. and 2. from bottom, for $\\frac{8}{3}$ read $\\frac{5}{3}$\n312. 5. for $\\frac{8}{3}$ read $\\frac{5}{3}$",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106879.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 177,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        273,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106879",
+    "title": "Errata",
+    "authors": null,
+    "year": 1791,
+    "volume": "81",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106879"
+  }
+}

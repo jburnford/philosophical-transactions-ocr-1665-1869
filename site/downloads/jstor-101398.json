@@ -1,0 +1,89 @@
+{
+  "id": "b26441997d8e4432a4dfefac364402c37b7e33bc",
+  "text": "The only official reprint\nauthorized by\nThe Royal Society of London\nPHILOSOPHICAL\nTRANSACTIONS:\nGIVING SOME\nACCOMPT\nOF THE PRESENT\nUndertakings, Studies, and Labours\nOF THE\nINGENIOUS\nIN MANY\nCONSIDERABLE PARTS\nOF THE\nWORLD\n\nVol I.\nFor Anno 1665, and 1666.\n\nIn the SAVOY,\nPrinted by T. N. for John Martyn at the Bell, a little without Temple-Bar, and James Allestry in Duck-Lane; Printers to the Royal Society.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101398.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 289,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        68,
+        4
+      ],
+      [
+        68,
+        409,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101398",
+    "title": "Front Matter",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/101398"
+  }
+}

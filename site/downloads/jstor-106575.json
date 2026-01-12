@@ -1,0 +1,189 @@
+{
+  "id": "c513ac1208dc60bab021b2b3d7a780177954fb8b",
+  "text": "VI. Project for a new Division of the Quadrant. By Charles Hutton, LL.D. F. R. S. In a Letter to the Rev. Dr. Maskelyne, F. R. S. and Astronomer Royal.\n\nRead November 27, 1783.\n\nDear Sir,\n\nHaving long since thought it would be a meritorious and useful service, to adapt the tables of sines, tangents, and secants, to equal parts of the radius instead of to those of the quadrant; and having frequently mentioned this project to you, sir, as a proper judge and promoter of all useful improvements in science; I now beg leave to lay before you some observations I have thrown together on the subject, with a view to stimulate others, either to undertake and calculate some part of so large and painful a work, or to communicate farther hints for the improvement and easier performance of it.\n\nI have the honour to be, &c.\nA project for constructing sines, tangents, secants, &c. to equal parts of the radius.\n\n1. The arbitrary division of the quadrant of the circle into equal parts by 60ths, which has been delivered down to us from the ancients, and gradually extended by similar sub-divisions by the moderns, among various uses, serves for trigonometrical and other mathematical operations, by adapting to those divisions of the arc, certain lines expressed in equal parts of the radius, as chords, sines, tangents, &c. But among all the improvements in this useful branch of science, I have long wished to see a set of tables of sines, tangents, secants, &c. constructed to the arcs of the quadrant as divided into the like equal parts of the radius as those lines themselves. In this natural way, the arcs would not be expressed by divisions of 60ths, in degrees, minutes, &c., but by the common decimal scale of numbers; and the real lengths of the arcs, expressed in such common numbers, would then stand opposite their respective sines, tangents, &c. The uses of such an alteration would be many and great, and are too obvious and important to need pointing out or enforcing. I have therefore had for a long time a great desire to commence this arduous task; but continual interruptions have hitherto prevented me from making any considerable progress in so desirable an undertaking. But I am not without hopes that some future occasion may prove more propitious to my ardent wishes. It is not, however, to be expected, that this work can be accomplished by the labours of one person only; it will require rather the united endeavours of many. I shall therefore explain a few particulars relative to my project of this work, with a view to obtain from others, who\nwho may have leisure and abilities for it, their kind assistance, either by communicating hints of improvements, or by undertaking some part of the computations, to which they may be excited by their zeal for the accomplishment of so important a work, and by the extreme facility with which the calculations in this way are made.\n\n2. In the first place then I would observe, that I think it will be sufficient to print the sines, tangents, &c. to seven places of figures; and that therefore it will be necessary to compute them to ten places, in order effectually to secure the truth of the seventh place to the nearest unit.\n\n3. I would assume the radius equal to 100000, or suppose it to be divided into 100000 equal parts. Then it is well known, that the semi-circumference will be $314159\\cdot26536$ nearly, and consequently the quadrant nearly $157079\\cdot63268$ of the same equal parts, which is less than $157080$ by $36732$, or nearly $\\frac{1}{3}$ of an unit, or nearer $\\frac{3}{8} = \\cdot375$, or nearer $\\frac{4}{11} = \\cdot3636$, or still nearer $\\frac{7}{19} = \\cdot3684$, or still nearer $\\frac{1}{3} = \\cdot36666$ &c. And the half quadrant, or $\\frac{1}{8}$ of the circle, $78539\\cdot81634$ which is less than $78540$ by only $\\cdot18366$, or nearly $\\frac{1}{2}$ only of any of the above-mentioned fractions.\n\n4. The table may consist of five or more columns; the first column to contain the regular arithmetical series of arcs differing by unity, from the beginning, in this manner, 1, 2, 3, 4, 5, &c. up to half the quadrant, the next less whole number being $78539$; then for the higher numbers, or those in the latter half quadrant, besides adding 1 continually, there must be at the first added the decimal $\\cdot63268$, which will make all the numbers in this half become the exact complements of the first half, which consists of whole numbers only; and these will be the lengths of the arcs. Or, in order to include the\nDr. Hutton's Project for a quadrantal arc $78539^\\circ 81634'$, the first column may be continued up to $78540^\\circ$. The second column to contain the corresponding degrees, minutes and seconds to the nearest second, or to the true seconds and decimals of a second, for the convenience of easily changing the tables from the one measure to the other, or to make them answer to both methods; and the 3d, 4th, 5th, &c. columns to contain the corresponding sines, tangents, secants, &c.\n\n5. The tables may be disposed as at present, namely, continuing them downwards by the left-hand side of the pages, as far as to the middle of the quadrant, and then returning them again backwards and upwards by the right-hand side of the pages.\n\n6. In this disposition, the numbers on the same line, the one on the left and the other on the right, will be exact complements of each other to a quadrant, and the decimal $0.63268$, in every number in the latter half quadrant, in each page, namely, either at the bottom of the column, or length-ways on the sides of it.\n7. A specimen of the first page of the table will therefore be this:\n\n| Arcs | Sines | Tang. | Secants | Cofec. | Cotan. | Cofin. | Arcs |\n|------|-------|-------|---------|--------|--------|--------|------|\n| 0    | 0     | 0     | 0       | infin. | infin. | 100000.00 | 90   |\n| 1    | 2     | 1'00  |         |        |        |         | 79   |\n| 2    | 4     | 2'00  |         |        |        |         | 78   |\n| 3    | 6     | 3'00  |         |        |        |         | 77   |\n| 4    | 8     | 4'00  |         |        |        |         | 76   |\n| &c.  |       |       |         |        |        |         | 75   |\n|      |       |       |         |        |        |         | &c.  |\n\n8. To fill up the second column. Since the length of the quadrant is $157079.63267948966$, and the number of seconds in the quadrant is $90 \\times 60 \\times 60 = 324000$; therefore, as $157079.632 &c. : 324000 :: 1 : 2.062648062470964 =$ the number of seconds answering to each unit in our division of the quadrant, and which therefore being continually added will fill up the second column.\n\n9. The number of seconds to be continually added being $2$, and the decimal $0.062648062470964$, which is nearly equal to $\\frac{1}{16}$, for $\\frac{1}{16}$ is $0.0625$; therefore, besides adding $2$ every time,\nwe must also add \\(1''\\) more at every 16, which will make \\(3''\\) to be added at every 16th time, and \\(2''\\) at every other time besides; but the first time the \\(3''\\) must be added will be at the arc or number 8, to have them to the nearest second, the repetition of the fraction at the arc 8 amounting to above \\(\\frac{1}{2}\\) a second; and then the \\(3''\\) must be added at every 16 afterwards, viz. at 24, 40, 56, 72, 88, 104, &c.\n\n10. But besides the constant addition of \\(2''\\) every time, and of \\(1''\\) more every 16th time, there must be \\(1''\\) more added for every 6753\\(\\frac{1}{2}\\) time, on account of the excess of the fraction .062648062470964 over the fraction .0625 or \\(\\frac{1}{16}\\): for that excess is .000148062470964 which is = \\(\\frac{1}{6753\\frac{1}{2}}\\). And the easiest method of making this last addition of 1 at every 6753\\(\\frac{1}{2}\\), will be to make the increase of the 1 on account of the \\(\\frac{1}{16}\\) at an unit sooner for every 422\\(\\frac{3}{2}\\); because 16 is 422\\(\\frac{3}{2}\\) times contained in 6753\\(\\frac{1}{2}\\); by which means the incremental units for the \\(\\frac{1}{16}\\) will become 1 more at that number 6753\\(\\frac{1}{2}\\), which last unit may be considered as the increment of the former increment for the \\(\\frac{1}{16}\\), and so proceed up to the quadrant; which will complete the second column of arcs to the nearest second in each number. Or this second column may be exactly computed to as many decimals as we please, by adding continually the \\(2''\\) and decimals, viz. 2.062648062470964. But at the middle of the quadrant, where the numbers return again upwards by the right-hand, there will for once be to be added only the seconds and decimals answering to the arc .63268, viz. 1.30499618 seconds, that number being necessary to make the numbers on the right-hand to be the exact complements of those on the left. Or it will, perhaps, be proper to make them to the nearest unit in the 6th place of decimals. And to fill\nfill up the second column to this degree of accuracy, add continually $2.062648$ seconds, but at the 9th line add 1 more, or $2.062649$, because 9 times $062470964$ amounts to $56223867$, or more than half a unit at that place; and after that add 1 more than $2.062648$ at every 16th line, viz. at 25, 41, 57, 73, &c. because 16 times $062470964$ amounts to $0.99953542$, or nearly 1, it being only $0.00046458$ less than 1. And this number $0.00046458$, thus added too much, will, in 134 times adding it, amount to more than $06223867$, the excess of $56223867$ above 5, or half a unit, at that place; therefore at the line or number 2153 (or $9 + 16 \\times 134$) which would be to have the 1 more added, let the 1 be there omitted, and add it at the next line or 2154, the true decimals after the first six, for 2153 being 499985, and for 2154 they are 562456. Continue thus always adding 1 more at every 16th line, except at the following numbers, where the 1 must be omitted, and added at the next following number; viz.\n\n| 2153 | 10765 | 19377 | 27989 | 36601 | 45213 | 53825 | 62437 | 71033 |\n|------|-------|-------|-------|-------|-------|-------|-------|-------|\n| 4314 | 12926 | 21538 | 30150 | 38746 | 47358 | 55970 | 64582 | 73194 |\n| 6459 | 15071 | 23683 | 32295 | 40907 | 49519 | 58131 | 66743 | 75339 |\n| 8620 | 17232 | 25844 | 34456 | 43052 | 51664 | 60276 | 68888 | 77500 |\n\nAnd thus proceed to the middle of the quadrant; by which means all the numbers will be to the nearest unit in the sixth or last place. Also, to have a check upon these numbers at certain intervals, it may be proper to proceed in this manner: First find every 100th number, by adding its decimal $0.264806$ &c. verifying them at every 10th; then find every 16th number, by adding continually $0.002369$ &c. which will also be checked and verified at every 25th addition by one of the former set of 100, for 25 times 16 make 400, using a proper precaution.\ncaution to preserve each number true to the nearest unit in the 6th or last decimal.\n\nAs to the decimals of the numbers in the latter half of the quadrant, they will be the complements, to 1, of the corresponding numbers in the first half; and therefore they may be all easily found by taking each figure from 9, and the last from 10. But it will be safest to find only every 10th decimal in this way, and to fill up the intermediate nine by adding, as before, the constant decimal 062648; by which means they will be checked and verified at every 10th number.\n\n11. To fill up the third column, or that of sines, as well as those of tangents and secants, it may first be observed, that the old tables of those lines to every minute, or even to every ten seconds of the quadrant, cannot be of so much use as it might seem at first sight; as the very near coincidence of the numbers in the new and old divisions appear very seldom to happen. I find, indeed, that our arc 1309 answers nearly to 45 minutes, that arc exceeding 45' by only '00632363 or $\\frac{1}{7}$ part of a second nearly, and so in proportion for their equi-multiples. But although this degree of coincidence may be sufficient for checking the corresponding values of the arcs in the first and second columns, we are not thereby authorised to consider the sine, tangent, or secant of 1309 as accurately equal to that of 45' in all the seven places of figures, but differing from it by nearly the $\\frac{1}{7}$ part of the difference corresponding to 1'', which is about $\\frac{1}{7}$ of an unit in the sines and tangents, though next to nothing in the secants. This, therefore, although it makes no sensible difference in this particular case, will cause a difference that must not be neglected in the equi-multiples of 1309 and 45', the sines and tangents of which will differ by half a unit or more,\nmore, and therefore will not be expressed by the same number, but will have some small difference in the seventh or last figure. And the same will happen in almost all the other arcs; so that generally the sines, &c. which are exact for the arcs in the first column, will not be quite so for those in the second, when expressed in whole seconds only, since these will sometimes differ by the part corresponding to almost half a second. However, in this, or any other case, where the difference is exactly known, we may profitably make use of the numbers in the old tables for constructing or verifying those of the new, by taking in the proportional part of the difference. Let, therefore, all the sines, &c. of every $1309$ be computed from the old tables, and entered in the new, by adding to the sine, &c. of the corresponding multiple of $45'$ the like multiple of the $\\frac{1}{78}$ part of the proportional difference for $1''$. This will give about $120$ sines, &c. to serve as a verification of the computations by the more general methods. But if the second column be exactly constructed with all its decimal places by the continual addition of $2.06264807$, the old tables may be converted into the new, by allowing for the odd seconds and decimals. And for this purpose it will, perhaps, be best to use the large table of Rheticus, which contains the sines, tangents, and seconds, to ten places of figures for every $10''$, and also the differences. At least, such sines, &c. may be found in this way as have their seconds and decimals well adapted for the purpose; and for such as would be found too troublesome in this way, recourse may be had to some of the following methods.\n\n12. Let us now examine the expressions for the sines, &c. by infinite series.\nThe radius being 1, and arc \\(a\\), it is well known that the sine is \n\\[ \\sin a = a - \\frac{1}{6}a^3 + \\frac{1}{120}a^5 - \\frac{1}{5040}a^7 + \\frac{1}{362880}a^9 - \\frac{1}{39916800}a^{11} &c. \\]\n\ncosine is \n\\[ \\cos a = 1 - \\frac{1}{2}a^2 + \\frac{1}{24}a^4 - \\frac{1}{720}a^6 + \\frac{1}{40320}a^8 - \\frac{1}{3628800}a^{10} &c. \\]\n\ntangent is \n\\[ \\tan a = a + \\frac{1}{3}a^3 + \\frac{2}{15}a^5 + \\frac{17}{315}a^7 + \\frac{62}{2835}a^9 + \\frac{1382}{155923}a^{11} &c. \\]\n\ncotangent is \n\\[ \\cot a = a^{-1} - \\frac{1}{3}a - \\frac{1}{45}a^3 - \\frac{2}{945}a^5 - \\frac{1}{4725}a^7 - \\frac{2}{93555}a^9 &c. \\]\n\nsecant is \n\\[ \\sec a = 1 + \\frac{1}{2}a^2 + \\frac{5}{24}a^4 + \\frac{61}{720}a^6 + \\frac{277}{8064}a^8 + \\frac{50521}{3628800}a^{10} &c. \\]\n\ncosecant is \n\\[ \\csc a = a^{-1} + \\frac{1}{6}a + \\frac{7}{360}a^3 + \\frac{31}{15120}a^5 + \\frac{127}{604800}a^7 + \\frac{73}{3421440}a^9 &c. \\]\n\nOr the same series are thus otherwise expressed:\n\nsine is \n\\[ \\sin a = a - \\frac{1}{2 \\cdot 3}a^3 + \\frac{b}{4 \\cdot 5}a^5 - \\frac{c}{6 \\cdot 7}a^7 + \\frac{d}{8 \\cdot 9}a^9 - \\frac{e}{10 \\cdot 11}a^{11} &c. \\]\n\ncosine is \n\\[ \\cos a = 1 - \\frac{1}{2}a^2 + \\frac{b}{3 \\cdot 4}a^4 - \\frac{c}{5 \\cdot 6}a^6 + \\frac{d}{7 \\cdot 8}a^8 - \\frac{e}{9 \\cdot 10}a^{10} &c. \\]\n\ntangent is \n\\[ \\tan a = a + \\frac{1}{1 \\cdot 3}a^3 + \\frac{8b}{4 \\cdot 5}a^5 + \\frac{17c}{6 \\cdot 7}a^7 + \\frac{29d}{8 \\cdot 9}a^9 + \\frac{44e}{10 \\cdot 11}a^{11} &c. \\]\n\ncotangent is \n\\[ \\cot a = a^{-1} - \\frac{1}{3}a - \\frac{b}{15}a^3 - \\frac{2c}{21}a^5 - \\frac{d}{10}a^7 - \\frac{10e}{99}a^9 &c. \\]\n\nsecant is \n\\[ \\sec a = 1 + \\frac{1}{2}a^2 + \\frac{5b}{12}a^4 + \\frac{61c}{150}a^6 + \\frac{1385d}{3416}a^8 + \\frac{50521e}{124651}a^{10} &c. \\]\n\ncosecant is \n\\[ \\csc a = a^{-1} + \\frac{1}{6}a + \\frac{7}{60}a^3 + \\frac{31c}{294}a^5 + \\frac{127d}{1240}a^7 + \\frac{2555e}{25146}a^9 &c. \\]\n\nwhere \\(b, c, d, e, &c.\\) denote the preceding co-efficients. And hence, with the help of the table of the first ten powers of the first 100 numbers, in p. 101. of my tables of powers published by order of the Board of Longitude, may be easily found the sines, &c. of all arcs up to 100, by only dividing those powers by their respective co-efficients, as also of all multiples of these arcs by 10, 100, &c. by only varying the decimal points in the several terms, as the figures will be all the same:\nand thus a number of primary fines, &c. may be found, to check or verify the same when computed by other methods. By this method will be found the fines, &c. of the arcs\n\n1, 10, 100, 1000, 10000, 100000;\n2, 20, 200, 2000, 20000;\n3, 30, 300, 3000, 30000;\n4, 40, 400, 4000, 40000;\n&c. till\n99, 990, 9900, 99000, 990000.\n\n13. Again, it is evident, that, of the terms in the series for the fine, the first term \\(a\\) alone will give the fine true to the nearest unit in the ninth place in the first 144 fines, or the arc and fine will be the same for nine places as far as the arc 144; but they will agree to the nearest unit in the seventh place as far as the arc 669; after which the second term of the series must be included.\n\n14. When the second term is taken in, these two terms \\(a - \\frac{1}{6} a^3\\) will give the fines true to the nearest unit in the ninth place till the arc becomes 3500. Now the numbers in my table of cubes (just published by order of the Board of Longitude) extend to 10000, and therefore all the above cubes are found in it; consequently taking the sixth part of those cubes, and subtracting it from the corresponding arcs, the remainders will be the fines of those arcs, as far as till the arc be 3500: after which the third term of the series may be taken in, or other methods may be used.\n\n15. But since, for any arc \\(a\\), this is a general theorem, viz. as radius : 2 cos. \\(a\\) :: sin. \\(na\\) : sin. \\(n-1 \\times a + \\sin. n+1 \\times a\\); taking \\(a = 1\\), radius 10000, the fine of \\(a\\) will be \\(1 - '0000000000\\frac{1}{7}\\) and the cosine of \\(a\\) will be 100000 - '000005, and the above\nDr. Hutton's Project for a\n\nabove proportion will become $100000 : 200000 - 00001$, or\n$1 : 2 - 0000000001 :: \\sin n : \\sin n - 1 + \\sin n + 1$; consequently $\\sin n - 1 + \\sin n + 1$ is $= 2 \\sin n - 0000000001$\n$\\sin n$, and the sines are in arithmetical progression except only for the small difference of $0000000001 \\sin n$, hence\n$\\sin n + 1$ is $= 2 - 0000000001 \\times \\sin n - \\sin n - 1$; and therefore taking $n$ successively equal to $1, 2, 3, 4, \\&c.$ the series\nof sines will be as follows:\n\n$\\sin 1 = 1 - 0000000001$;\n$\\sin 2 = 2 - 0000000001 \\times \\sin 1$;\n$\\sin 3 = 2 - 0000000001 \\times \\sin 2 - \\sin 1$;\n$\\sin 4 = 2 - 0000000001 \\times \\sin 3 - \\sin 2$;\n$\\sin 5 = 2 - 0000000001 \\times \\sin 4 - \\sin 3$;\n\\&c.\n\nAnd by this theorem, viz. $\\sin n + 1 = 2 - 0000000001 \\times \\sin n - \\sin n - 1$, may be easily filled up the intervals between\nthose primary numbers mentioned in former articles.\n\n16. In like manner, as radius : $2 \\cos a :: \\cos na : \\cos n - 1 . a$\n$+ \\cos n + 1 . a$; and hence this theorem, $\\cos n + 1 =$\n$2 - 0000000001 \\times \\cos n - \\cos n - 1$, by which the cosines\nwill be all easily filled up. And these two theorems for the\nsines and cosines are so easy and accurate, that we need not\nhave recourse to any other, but only to check and verify these at\ncertain intervals, as at every 100th number, by a proportion from\nRheticus's canon, as mentioned at art. 11. or by any other way.\n\n17. The sines and cosines being compleated, the difference\nbetween the radius and cosine will be the versed sine; the dif-\nference between radius and sine will be the co-versed sine; and\nthe sum of the radius and cosine will be the sup.versed sine.\n\n18. From\nnew Division of the Quadrant.\n\n18. From the sines and cosines also, the tangents, cotangents, secants, and cosecants, may be made by these known proportions, viz. as\n\n1. cosine : radius :: sine : tangent,\n2. sine : radius :: cosine : cotangent,\n3. cosine : radius :: radius : secant,\n4. sine : radius :: radius : cosecant,\n5. radius : sine :: secant : tangent,\n6. radius : cosine :: cosecant : cotangent,\n7. tangent : radius :: radius : cotangent.\n\nWherefore, the reciprocal of the cosine will be the secant; the reciprocal of the sine, the cosecant; the quotient of the sine by the cosine, the tangent; and the quotient of the cosine by the sine, the cotangent; or the product of the sine and secant will be the tangent, and the product of the cosine and cosecant, the cotangent; or, lastly, the reciprocal of the tangent is the cotangent; proper regard being had to the number of decimals, on account of our radius being 100000 instead of 1 only.\n\nAnd these are to be used when the application happens to be easier than the general series, and easier than by proportion from Rheticus's canon.\n\nBut there are other particular theorems, which, by a little address, may be rendered more expeditious than any of the former: thus,\n\n19. In any two arcs this is a general proportion,\n\nAs the difference of their sines :\nto the sum of their sines ::\n\nso tangent of half the difference of the arcs :\nto tangent of half their sum.\n\nSo that by taking continually the arcs, having the common difference 2, the third term of this proportion will be 1, and the fourth term will be found by dividing the sum of the sines\nby their difference, which divisor or difference will never consist of more than four or five figures, viz. about half the number of figures that are in the divisors mentioned in the preceding article.\n\n20. Again, As the difference of the cosines:\n   to the sum of the cosines :: \n   so tangent of half their difference:\n   to tangent of half their sum.\n\nAnd thus the cotangents will be found by dividing the sum of the cosines of two arcs, differing by 2, by their small difference.\n\n21. Also the secant of an arc is equal to the sum of its tangent and the tangent of half its complement; and the cosecant of an arc is equal to the sum of its cotangent and the tangent of half the arc; or half the sum of the tangent and cotangent is equal to the cosecant of the double arc. From whence the secants and cosecants will be easily made.\n\n22. Thus I have pointed out methods by which the whole tables may be readily constructed. Should any other useful methods or improvements occur to any person, the communication of them to me will be thankfully received. I am now engaged in making some of the computations; and it is hoped, that the facility of them, with the desirableness of the tables, will induce some ingenious lovers of the mathematics to lend their aid in performing some part of the work. Should any such be so inclined, before he begins, I must request he will be pleased to signify his intention to me, that I may point out to him such parts of the work as have not before been performed or undertaken, to prevent the chance of losing his labour by re-computing any parts that may have been already executed by myself or others.\n\nRoyal Military Academy,\nWoolwich, Aug. 12, 1782.\n\nCharles Hutton.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106575.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 23750,
+    "total-output-tokens": 7971,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        820,
+        2
+      ],
+      [
+        820,
+        2570,
+        3
+      ],
+      [
+        2570,
+        4515,
+        4
+      ],
+      [
+        4515,
+        5569,
+        5
+      ],
+      [
+        5569,
+        6875,
+        6
+      ],
+      [
+        6875,
+        8866,
+        7
+      ],
+      [
+        8866,
+        10813,
+        8
+      ],
+      [
+        10813,
+        12680,
+        9
+      ],
+      [
+        12680,
+        14450,
+        10
+      ],
+      [
+        14450,
+        16792,
+        11
+      ],
+      [
+        16792,
+        18418,
+        12
+      ],
+      [
+        18418,
+        20105,
+        13
+      ],
+      [
+        20105,
+        21713,
+        14
+      ],
+      [
+        21713,
+        23420,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106575",
+    "title": "Project for a New Division of the Quadrant. By Charles Hutton, LL.D. F. R. S. In a Letter to the Rev. Dr. Maskelyne, F. R. S. and Astronomer Royal",
+    "authors": "Charles Hutton",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/106575"
+  }
+}

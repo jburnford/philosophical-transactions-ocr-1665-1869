@@ -1,0 +1,79 @@
+{
+  "id": "5d1f50682b2788eb50a0f8bf492a713b1bfc47cc",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nDecemb. 22, 1673.\n\nThe CONTENTS.\n\nA Relation of Mr. Kirkby touching an Humane Body open'd at Dantzick, and of 38 Stones found in the Bladder thereof. An Extract of a Letter of Monsieur Denis concerning an odd fetus lately born at Paris. An Account of some Natural things, presented by Signor Paulo Boccone to the R.Society. The Appulses of the Moon and of the other Planets to the Fixt Stars predicted for the year 1674. by Mr. Flamstead. An Account of some Books: I. Diatriba de Medicamentorum Operationibus in Humano corpore; Auth. Tho. Willis M.D., &c. II. Joh. Hevelii MACHINÆ CÆLESTIS Pars prior, ORGANOGRAPHIAM ASTRONOMICAM exhibens, &c. III. A Treatise of the Bulk and Selvage of the World, &c. By N. Fairfax M.D. IV. Apologema pro URINIS HUMANIS; Auth. Antonio Eygel M.D.\n\nAn Extract of a Letter written by Mr. Christ. Kirkby the 9th of Nov. 1673, from Dantzick, giving an account of an Humane body open'd, and of 38 stones found in the bladder thereof, &c.\n\nSIR,\n\nShould not have interrupted your studies, if the considerableness of the Relation herein inclosed did not oblige me to send it to you. And although I find in Numb. 26. of your Philosophical Transactions p.482. an account of 96 stones taken out of one bladder; yet, I hope, this of 38 stones will not be unacceptable, since several of them were pretty large, Y y y y y y and\nand of the lesser sort divers were triangular and quadrangular; their flats worn to a great smoothness, and their corners blunted. The greatest stone weighed 206 grains; the least 3 grains; all the 38 weighed 4½ ounces. The matter of the stones is exceeding compact, and like white clay; and, though the several coats may be discern'd in one of them which I broke, yet they are not easily separable. But what I wonder at most, is, that in the dissection of the Kidneys and Ureters not any sign of stone or gravel was to be found. I leave it to better Judgments to discuss, How then and Where these stones were generated; and if it be granted, in the bladder, I see no reason but that (as Mr. Boyle somewhere intimates) there might be some liquors, that might pass the several parts of the body without exerting their force, until they meet with adapted matter to work upon. And why might not then the Stone in the bladder be curable, especially if the Patients kidneys be so qualified as this Man's seem to have been, void of any petrifying matter?\n\nFollows the Relation it self, made by Casparus Wendland, Chirurgeon of the City of Danzick; Englished out of High-Dutch.\n\nMr. John Braun, a Gentleman of 71 years of age, being dead, I was desired to open his body, to see whether we could find the cause of the excessive pains he had endured for two years and an half in the penis, with a continual cutting, burning and pressing of his urine, coming from him drop-wise; until at last it came to a constant endeavor of going to stool and of making water, which, a few weeks before his death, ended in a continual running of Urine with very sharp pain; after which about four days before his death, to my knowledge, the water was totally stopp'd. He being dead, I did, in the presence of his Physician, and other friends, upon the opening of the body, observe the following particulars; viz. The internal parts being all carefully examined, we found no defect in them, until we came to the Bladder, which being by us taken out, we found it quite full of stones, of which the biggest was of the bigness of a Pigeons egg, and somewhat larger. Of the bigger sort there were\nwere 16, yet differing in size. The rest were very small, to the number of 22. The bladder being display'd, we found not a drop of Urin in it, but it had already made, on the side of the orifice of the bladder, an opening of a considerable bigness; upon which, death necessarily ensued. In the Kidneys and Ureters there could not be found the least grain or mark of sand.\n\nAn Extract of a Letter, written by Monsieur Denys Novemb. 17. last from Paris concerning an odd fetus lately born there; English't out of French.\n\nSIR,\n\nA few days since, I was called to a sick woman, brought to bed that very day I went to see her. After I had prescribed the physick I judged necessary for the mother, I asked for the child, which died, I heard, as soon as 'twas born. The Body of it appeared outwardly very well form'd and very fat; but the head was so deform'd, that it frighted all that were present. It had no front; the two eyes were on the top of the face, very big, and almost without an orbit to lodge them in. The upper and hind-part of the Head was red like coagulated blood, and resembled the bottom of a Calves-head when cut and sever'd from the Vertebra's of the neck. I had the curiosity to examine this red flesh, and I found under it a Bone, that was not a hollow skull, but a solid bone in the form of a small oyster. I had it opened every way; but I found no hollowness nor brains in it. This bone was only fasten'd before to the bones of the face, and not behind to the vertebra's of the neck; so that the marrow of the back-bone had no communication with the head. I pursued the Optic nerves, and lost them in this bone, which was in lieu of the cranium, and was not at all spungy, but very hard. It seems to me somewhat extraordinary, that a child should be able to live nine months without brains; for I was inform'd, that it was very lively and brisk in the mothers belly, but died as soon as it came into the Air.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101386.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1513,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1376,
+        2
+      ],
+      [
+        1376,
+        3544,
+        3
+      ],
+      [
+        3544,
+        5471,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101386",
+    "title": "An Extract of a Letter Written by Mr. Christ. Kirkby the 4th of Nov. 1673 from Dantzick, Giving an Account of an Humane Body Open'd, and of 38 Stones Found in the Bladder Thereof, & c.",
+    "authors": "Casparus Wendland, Christ Kirkby",
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101386"
+  }
+}

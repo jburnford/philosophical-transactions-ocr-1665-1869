@@ -1,0 +1,69 @@
+{
+  "id": "c97ac138fa49e1b4fbddff622620ad21b7c17507",
+  "text": "CHAPTER XI.\n\nOf the ordinary Meetings of the Society.\n\nI. The ordinary Meetings of the Society shall be weekly, upon Thursday, beginning at six of the clock in the afternoon, and continue about an hour as usual, at the discretion of the President.\n\nII. When the President takes the chair, the rest of the Fellows shall place themselves orderly and conveniently for the business of the Meeting; and no stranger shall be permitted to be present during the Meeting, unless by order of the President, or by leave obtained of the Society upon the motion of some Member before the President takes the chair; and the name of every person so permitted to be present, and of the Fellow who moved for him, shall be entered in the Journal-Book.\n\nIII. When any Fellow speaketh, he shall address his speech to the President; and the rest shall be silent.\n\nIV. When two or more offer to speak together, the President shall determine which of them shall speak first.\n\nV. The\nV. The business of the Society in their ordinary Meetings shall be, to order, and take account of, philosophical experiments and observations; to read and hear letters, reports, and other papers, concerning philosophical matters; as also to view the Productions of nature and art: and thereupon to consider what may be deduced from them, or any of them; and how far they, or any of them, may be improved for use or discovery.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106560.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 381,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        960,
+        2
+      ],
+      [
+        960,
+        1385,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106560",
+    "title": "Of the Ordinary Meetings of the Society",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106560"
+  }
+}

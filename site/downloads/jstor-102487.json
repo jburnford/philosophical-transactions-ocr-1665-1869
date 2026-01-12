@@ -1,0 +1,59 @@
+{
+  "id": "6e5495c47b5462c04c7865770c4c43f7670467b8",
+  "text": "ERRATA for Philosophical Transact. Numb. 233.\n\nPage 730. l. 27. read tamen rectificandi l. 30. selegi.\n\nIn Numb. 236.\n\nPage 6. l. 1. dele dry p. 8. l. 8. dry scorched p. 10. l. 16. is often l. 21.\nClothes and Flesh p. 17. line 15. for MCK read NMCK ibid.l.21. for CR r.\nCK. ibid. l.30. for Luna r. Lunæ ibid. l. 31. for qui r. quaæ ibid. deletur l.ult.\np. 18. l. 1. for Posito r. Et posito ibid. l. 45. add o. 42 ibid. let these Figures, viz. 2. 24. 2. 54. &c. 2. 24. be comprehended within one Brace ibid. l. 28.\nfor transitus r. Tranitus ibid. l. penult. after borealisfimi add vel australifimi p. 19. l. 16. for ipsâ r. ipfa p. 20. l. 7. & 8. for sumpta, ut AT r.\nsumptam in diagonali ut AT & ducta per T rectâ ET F parallela ipsi AC;\nac ibid. l. 25. for 6h. 29'. 36''. r. 6h. 20'. 36''. p. 21. l. 3. for 6h. 30' 34'' r.\n6h. 32'. 34''. ibid. l. 6. after jam add videtur Eclipsata p. 22. l. 4. for O—K.\nr. NK ibid. l. 30. for o. 32. r. o 35. ibid.l. 32. for o. o. r. o. 3. p. 23.\nl. 2. for 7h. 6'. 46''. r. 7h. 6'. 40''. ibid.l. 15. for 7h. 29'. 30''. r. 7h. 19'. 30''.\nibid. l. 24. for 7h. 29'. 4''. r. 7h. 26'. 4''. p. 25. l. 30. &c. 31. dele Idem complementum p. 27. under l. 4. add situs Cornuum ibid. under l. 24. add situs,\nCornuum p. 28. l.5. for o' 24''. r.2' 24'' ibid.l.30. for 9h. 3' 37''. r. 9h. 3':38''.\nibid. l. penult. for Cleomedes r. Finis Maris Cifii.\n\nLondon: Printed for Sam.Smith, and Benj.Walford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1698.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102487.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 841,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1505,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102487",
+    "title": "Errata",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102487"
+  }
+}

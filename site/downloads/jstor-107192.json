@@ -1,0 +1,59 @@
+{
+  "id": "6035e994ef4d9ed0473a6c6951b6eddab1a13889",
+  "text": "ture has been alluded to in the same Paper.* The insulation ascribed to the sun relates merely to a supposed binary combination with some neighbouring star; and it has now been proved by an example of Arcturus, that the solar motion cannot be occasioned or accounted for by a periodical revolution of the sun and this or any other star about their common centre of gravity.\n\n* Phil. Trans. for 1802, page 479.\n\nERRATA\n\nIn Table VII. of the first part of this Paper, star Aldebaran, the two last columns,\n\nfor $13^\\circ 18' 58''$, read $13^\\circ 41' 48''$.\n\nfor 0.02842, read 0.02922.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107192.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 233,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        583,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107192",
+    "title": "Errata",
+    "authors": null,
+    "year": 1806,
+    "volume": "96",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107192"
+  }
+}

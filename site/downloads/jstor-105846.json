@@ -1,0 +1,89 @@
+{
+  "id": "e5726dc8f424bc6d1dd18a37c99f879448265d12",
+  "text": "XLVIII. An Account of an Observation of an Eclipse of the Moon, made at Hawkhill, near Edinburgh. In a Letter to the Astronomer Royal, from James Lind, M.D.\n\nEdinburgh, December 14, 1769.\n\nDear Sir,\n\nRead Dec. 21, I here send you our observations on the eclipse of the Moon, the 12th current; I wish it had rather been an account of an occultation, but the seeing of them seems to be denied to us: the night of the last was the only cloudy night that has been here for these four weeks past; the weather having been more like summer weather than that of winter.\n\nThe morning of the eclipse was very clear, and inclining to frost. Before we got to the observatory, near one third of the Moon's disc, where the first contact began, was covered with a smoaky appearance, which made us apprehend the eclipse was begun; but, on getting to the observatory, we saw, by our telescopes, the Moon's limb was still untouched;\nabout five minutes after, at $16^h\\ 30'\\ 51''$ mean time, a thick darkness came on the Moon's upper limb, which was still distinctly to be seen through it. At $16^h\\ 39'\\ 21''$ the limb was broke. The middle of the eclipse was reckoned to be the middle time betwixt the disappearing of this limb, and the reappearing of the other. I likewise send you the sidereal times, by which the observations were taken, each observation being corrected to less than half a second; the mean times are not so near, being taken from the other by means of a table; but are still correct enough for observations which, of themselves, cannot be observed with great precision.\n\n**Eclipse of the Moon,**\n\nDecember 12, 1769, at Hawkhill.\n\n| Sid. time | Mean time |\n|-----------|-----------|\n|           |           |\n| 1st contact of darkness | $9\\ 59\\ 19 = 16\\ 30\\ 51$ |\n| Moon's limb broke | $10\\ 7\\ 50 = 16\\ 39\\ 21$ |\n| Clear spot in or about Terra Pruinæ touched | $10\\ 15\\ 22 = 16\\ 46\\ 51$ |\n| Ditto disappeared | $10\\ 16\\ 02 = 16\\ 47\\ 31$ |\n| Copernicus touched | $10\\ 28\\ 58 = 17\\ 0\\ 25$ |\n| central | $10\\ 30\\ 32 = 17\\ 1\\ 59$ |\n| disappeared | $10\\ 31\\ 32 = 17\\ 2\\ 59$ |\n| Mare Crisium touched | $10\\ 59\\ 53 = 17\\ 31\\ 15$ |\n| Ditto disappeared | $11\\ 9\\ 23 = 17\\ 40\\ 44$ |\n| Middle of eclipse | $11\\ 32\\ 37 = 18\\ 3\\ 54$ |\n\n1st\nSid. time. Mean time.\n\n1st clear spot re-appeared, but indistinctly, being a little cloudy\n\nMare Crisium totally emerged\n\nMoon's limb compleated\n\n2d contact of darkness\n\nEnd of smoaky appearance\n\n\\[ \\begin{align*}\n12 &\\quad 14 &\\quad 24 &=& 18 &\\quad 45 &\\quad 34 \\\\\n12 &\\quad 47 &\\quad 10 &=& 19 &\\quad 18 &\\quad 29 \\\\\n12 &\\quad 57 &\\quad 24 &=& 19 &\\quad 28 &\\quad 27 \\\\\n12 &\\quad 59 &\\quad 24 &=& 19 &\\quad 30 &\\quad 27 \\\\\n13 &\\quad 5 &\\quad 25 &=& 19 &\\quad 38 &\\quad 27\n\\end{align*} \\]\n\nTowards the end it was very clear, and I make no doubt but we should have seen the smoaky appearance, had it not been for the day-light coming on.\n\nSince I wrote to you last, we have taken another meridian observation for the latitude, and made it $55^\\circ 57' 30''$ N.\n\nIn looking into the Abridgment of the Philosophical Transactions, Vol. VII. p. 140, I found an account of an annular eclipse of the Sun, observed at Edinburgh, by Mr. MacLaurin, in the year 1737; which may help to determine our longitude for the present, till it is done more correctly by occultations of the stars by the Moon, or eclipses of Jupiter's satellites. I am, with respect,\n\nSir,\n\nYour most devoted, humble servant,\n\nJames Lind.\n\nRemarks\nRemarks by the Astronomer Royal.\n\nThe beginning of the eclipse was observed at the Royal Observatory at $10^h\\ 20'\\ 29''$, and the bisection of Copernicus at $10^h\\ 43'\\ 23''$ sidereal time; which, compared with the correspondent observations above, give $12'\\ 39''$ and $12'\\ 51''$ of time, for the difference of meridians of Hawkhill and Greenwich.\n\nNevil Maskelyne.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105846.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1414,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        915,
+        2
+      ],
+      [
+        915,
+        2230,
+        3
+      ],
+      [
+        2230,
+        3443,
+        4
+      ],
+      [
+        3443,
+        3811,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105846",
+    "title": "An Account of an Observation of an Eclipse of the Moon, Made at Hawkhill, Near Edinburgh. In a Letter to the Astronomer Royal, from James Lind, M. D.",
+    "authors": "Nevil Maskelyne, James Lind",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105846"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "e67d26b11bb9b618551b766eb8d6b1632e85ec00",
+  "text": "XLVI. An Eclipse of the Sun June 24, 1778, observed at Leicester. By the Rev. Mr. Ludlam, Vicar of Norton, near Leicester; communicated by the Astronomer Royal.\n\nRead July 9, 1778. The beginning was observed at $111^h\\ 35'\\ 27''$. The end at $5^h\\ 19'\\ 30''$ or $34''$, according to the time shown by the clock, the Sun being a little hazy at the end of the eclipse.\n\nZenith distances of the Sun's upper limb, taken with an eighteen inch quadrant made by Bird, for determining the error of the clock.\n\n| Time by the Clock | Z. Diff. UL |\n|-------------------|------------|\n| H M S             | D M        |\n| IV 16 22          | 55 3°      |\n| IV 29 35          | 57 3°      |\n| IV 49 24½         | 60 3°      |\n\n6 L 2\nThe barometer stood at 29.9; the thermometer at 71°. The error of the line of collimation was, in the summer of 1774, 13.8 seconds to be subtracted (see Phil. Trans. vol. LXV. part 2.). As the quadrant has not been altered, and indeed seldom used since, I suppose the error of the line of collimation to remain the same. From the first observation I make the clock to be 1' 21\" faster than solar time. From the second, 1' 22\". From the third, 1' 23\". Taking the mean of these, viz. 1' 22\", the beginning of the eclipse at Leicester was at 11h 34' 5\"; the end at v.h 18' 8\" or 12\" by solar time.\n\nThe difference between the meridians of Greenwich and Leicester, from observations in the Philosophical Transactions, computed by Mr. Wales, master of the royal mathematical school in Christ's Hospital.\n\n| Event                  | Beginning | End     |\n|------------------------|-----------|---------|\n| From solar eclipse June 3, 1769 | 4 24.5    | 4 38.5  |\n| ξ Tauri, April 28, 1770 | 4 27.8    |         |\n| Aldebaran, Nov. 18, 1774 | 4 50.5    |         |\n| Solar eclipse, June 24, 1778 | 4 23.2    | 4 41.3  |\n\nM. du Sejours, in the Memoirs of the Academy of Sciences for 1771, makes the difference of the meridians of Paris and Leicester, from the end of the solar eclipse of 1769, to be 13' 59\"; and the difference of the meri-\ndians of Paris and Greenwich, both from the beginning and end of that eclipse, $9' 20''$. Whence the difference of the meridians of Greenwich and Leicester $4' 39''$.\n\nIf we take the mean of all these computations, we shall have the difference between the meridian of the Observatory at Greenwich and St. Martin's Church in Leicester $4' 35''$ of time very nearly.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106357.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 894,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        720,
+        2
+      ],
+      [
+        720,
+        2052,
+        3
+      ],
+      [
+        2052,
+        2416,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106357",
+    "title": "An Eclipse of the Sun June 24, 1778, Observed at Leicester. By the Rev. Mr. Ludlam, Vicar of Norton, Near Leicester; Communicated by the Astronomer Royal",
+    "authors": "Mr. Ludlam, Astronomer Royal",
+    "year": 1778,
+    "volume": "68",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106357"
+  }
+}

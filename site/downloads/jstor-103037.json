@@ -1,0 +1,79 @@
+{
+  "id": "91065f6d94a8f62e0b59395f9112f1ad490259d5",
+  "text": "To these Observations of Mr. Leeuwenhoek I shall join,\n\nIII. An Extract from the Journal Literaire, Publish'd at the Hague, for the Months of January and February, 1714. Pag. 238. Being,\n\nAn Account of several Observations concerning the Frame and Texture of the Muscles; By Mr. Muys of Franeker:\n\nThe Celebrated Mr. Muys, who always acts for the Honour of the Academy of Franeker, and Advantage of Students in Physick and Anatomy, has made several Discoveries, as to the Mechanism and Texture of the Muscles of Animals; of which these are some.\n\nHe has observed, that the fleshy Fibres of the Muscles are composed of other smaller Fibres, which he calls Fibrilla: that these Fibrilla are of the size of a slender Hair, and that 500 or 600 of them, may be counted in one Fleshy-fibre, whose Diameter is no more than a 24th part of an Inch.\n\nThat each of these Fibrilla also is made up of more than 300 little transparent Tubuli, but so slender, that if a Blood Globule (which, according to Mr. Leeuwenhoek, is but the 1,000,000th part of a grain of Sand) were divided into 24 parts, one of these could hardly pass thro' these small Pipes.\n\nHe has shewn, that tho' the fleshy-Fibres of the Muscles, are joined to the Tendons and tendinous Membrane of a Muscle; yet these tendinous Fibres are not a continuation of the fleshy ones, as most Anatomists suppose: which he proves thus; If by means of a wooden Knife, or only by pulling it, you separate the fleshy Fibres from the Tendon, the end of the Tendon to which they were joined, will remain smooth and even, and not rugged.\n\nHaving\nHaving made several Injections of warm Water into the crural Artery of a Lamb of a Year old, all the fleshy Fibres lost all their redness, and became entirely white. The Fibres being whitened by this Injection, he injected a coloured Liquor by the same Artery; and then not only the small Arteries appeared filled with this tinged Liquor, but he found also that the Liquor past thro' each Fibre, either in a Serpentine manner, or undulating, or frameing several Angles, or joined by a great number of Anastomoses.\n\nHe observed also, that many small Branches of the Arteries which before could not be seen, appeared visibly, spread all round the little Fibrillæ, and tinged with the same Colour.\n\nHaving remarked, that the Parts of the fleshy Fibres, which were near the Extremities of the Arteries, appeared tinged with the Liquor, he examined them with a Microscope, and found the little Fibrillæ filled and tinged with the same Liquor; and yet there was not least appearance of the Liquor in the Interstices between the Fibrillæ.\n\nHaving made Injections by the crural Artery, of another coloured Liquor, in the Muscles, whiten'd, as before, with Water, he saw not only the Fibres in some of the Muscles, and the most part of them in the others filled with this matter; but having examined them with a good Microscope, he found the Fibrillæ, and even the least Tubuli which compose them, filled and tinged with the same Matter; and nevertheless the small Ramifications of the Nerves appeared perfectly white.\n\nIt results from all these Observations,\n\n1st. That the little Tubes, which make a Fibrilla, are really hollow, and that the Extremities of the Capillary Arteries open into them, and empty there a part of their Liquor, which is re-conveyed by the Veins to the Heart.\n\n2d. That the Blood Globules must be divided into an almost infinite degree of smallness, before they can enter and pass these Tubuli. That the Blood-Globules may be so divided, and when so divided pass thro' the Small Tubuli, is evident from\nfrom the redness of the Fibres and Fibrilla of Animals, which have a red Flesh; which will be no surprize to them who have read Mr. Leeuwenhoek's Letter 42, where he says, that these Globules do divide themselves after this manner, to pass thro' the last Extremities of the Capillary Arteries of the Brain; nor to those who know, that the Globules are extreme soft and easily separable, as Monsieur Muys has evinced by Arguments grounded on very curious Observations.\n\nMonsieur Muys has added to his Observations very exact Figures, which contribute very much to the forming a clear and distinct Idea of the Structure of these Fibres of the Muscles, and of the manner of the Arteries passing through them; but I dare not so far depend on my Skill in designing to venture to Copy them.\n\nThis knowing Person has also made several Discoveries of the Course and Ramifications of the Nerves in the Muscles: But I wait for an Opportunity of informing myself better of several Particularities, before I communicate them to you.\n\nIn my last I wrote to you concerning the Salts which Mr. Muys had discover'd in Human Blood; but I had forgot to inform you, that he had found out a way to separate them from the Blood, without any Chymical Analysis, and without making them undergo any change, and to form them into Cristais, visible without a Microscope; as he has shewn to his Students in Physick.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103037.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 1353,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1584,
+        2
+      ],
+      [
+        1584,
+        3604,
+        3
+      ],
+      [
+        3604,
+        4992,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103037",
+    "title": "An Extract from the Journal Literaire, Publish'd at the Hague, for the Months of January and February, 1714. Pag. 238. Being, An Account of Several Observations concerning the Frame and Texture of the Muscles; By Mr Muys of Franequer",
+    "authors": "Mr. Muys",
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103037"
+  }
+}

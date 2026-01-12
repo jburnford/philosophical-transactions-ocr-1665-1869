@@ -1,0 +1,89 @@
+{
+  "id": "9b92d809183f7c76a2c20c520c98336c57733f60",
+  "text": "II. Researches towards establishing a Theory of the Dispersion of Light. No. II.\nBy the Rev. Baden Powell, M.A. F.R.S. Savilian Professor of Geometry in the University of Oxford.\n\nReceived Nov. 5,—Read December 17, 1835.\n\nIn my paper inserted in the last part of the Philosophical Transactions, I have commenced a comparison between the results of M. Cauchy's system of undulations, expressing the theoretical refractive index for each of the standard rays of the spectrum, and the corresponding index found from observation in different media. This comparison is there carried on for all the results obtained by M. Fraunhofer. But these include only a limited range of transparent bodies; and close as is the accordance in these instances, the theory cannot be considered as fully verified, until we shall have extended a similar examination to a greater number of media, and especially to those of higher dispersive power. In this research I am now engaged: but as it will necessarily occupy a considerable period to carry it on, from time to time, as data are furnished, I venture for the present to submit to the Royal Society the following portion of my calculations in continuation of the preceding.\n\nIn my former communication I had referred to M. Fraunhofer's results as affording the only precise data which observation had as yet furnished. But through the kindness of Prof. Miller, of Cambridge, I have since become acquainted with the series of results obtained by M. Rudberg. They are given in Poggendorff's Annalen, band xiv. and xvii., and comprise the indices observed by him for the standard rays, or the ratios of the velocities in air to the velocities within the crystal, in a direction perpendicular to the axis of the rhombohedron, in a prism of calcareous spar, having its edge parallel to that axis; and in a prism of quartz similarly cut; in either case, both for the ordinary and extraordinary ray: also the ratios of the velocities in the direction of the three axes of elasticity respectively, in aragonite and topaz.\n\nThis valuable series of data I have now examined: and the comparison of them with theory constitutes the present communication. The calculations are made by precisely the same method as those described in my former paper; and the results are here stated in exactly the same tabular form, which will consequently need no explanation. The coincidences of observation and theory will be found at least as close as those already obtained from M. Fraunhofer's results, and I think will be allowed to afford a satisfactory extension of the theory to the cases here discussed.\n\nMDCCCXXXVI.\nThus the hypothesis of undulations assigns the law and cause of dispersion in ten new cases, in addition to the ten considered in my former paper.\n\nOxford, November 1, 1835.\n\nPostscript.\n\nIt may be right here to mention, that since my former paper was printed, I have learned from M. Cauchy that he has also investigated the relation between the length of a wave and the refractive index. And in a memoir on his new method of interpolation he has applied that method to this case, and has also given an example of the comparison of numerical values. This, however, is only made for one single case, viz. the Flint Glass, No. 23. of Fraunhofer.\n\nAlso, while this paper has been passing through the press, some other important observations closely connected with the subject have been made, for which the reader must refer to the London and Edinburgh Philosophical Magazine and Journal of Science, Nos. 44 and 45.\n\nComparison of Refractive Indices from Cauchy's Theory and from observation,\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\delta}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------|-----------------|-----------------|----------------------------------|\n| B   | 1·6531          | 13 16 0         | 1·009            | 1·6531                            |\n| C   | 1·6545          | 13 55 2         | 1·010            | 1·6547                            |\n| D   | 1·6585          | 15 29 59        | 1·0123           | 1·6584                            |\n| E   | 1·6636          | 17 19 45        | 1·0156           | 1·6638                            |\n| F   | 1·6680          | 18 47 30        | 1·0181           | 1·6680                            |\n| G   | 1·6762          | 21 14 30        | 1·0233           | 1·6765                            |\n| H   | 1·6833          | 23 1 30         | 1·0277           | 1·6834                            |\n\nExtraordinary Ray.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\delta}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------|-----------------|-----------------|----------------------------------|\n| B   | 1·4839          | 9 30 0          | 1·0045           | 1·4838                            |\n| C   | 1·4845          | 9 57 59         | 1·0051           | 1·4847                            |\n| D   | 1·4863          | 11 5 58         | 1·0063           | 1·4864                            |\n| E   | 1·4887          | 12 24 38        | 1·0080           | 1·4889                            |\n| F   | 1·4907          | 13 17 20        | 1·0092           | 1·4908                            |\n| G   | 1·4945          | 15 12 30        | 1·0119           | 1·4948                            |\n| H   | 1·4978          | 16 29 15        | 1·0140           | 1·4978                            |\n### Quartz. Rudberg.\n\nThe edge of the prism parallel to the axis of the Rhombohedron. Extraordinary Ray.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\lambda}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const. \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------|-----------------|----------------------------------|\n| B   | 1·5499                     | 10 33 0         | 1·0056          | 1·5497                           |\n| C   | 1·5508                     | 11 4 0          | 1·00635         | 1·5508                           |\n| D   | 1·5533                     | 12 19 30        | 1·008           | 1·5533                           |\n| E   | 1·5563                     | 13 46 50        | 1·0097          | 1·5560                           |\n| F   | 1·5589                     | 14 56 50        | 1·0114          | 1·5585                           |\n| G   | 1·5636                     | 16 53 15        | 1·0147          | 1·5636                           |\n| H   | 1·5677                     | 18 18 30        | 1·0173          | 1·5677                           |\n\n**Ordinary Ray.**\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\lambda}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const. \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------|-----------------|----------------------------------|\n| B   | 1·5409                     | 10 20 0         | 1·0054          | 1·5409                           |\n| C   | 1·5418                     | 10 50 30        | 1·006           | 1·5418                           |\n| D   | 1·5442                     | 12 4 20         | 1·0075          | 1·5442                           |\n| E   | 1·5471                     | 13 30 0         | 1·0093          | 1·5469                           |\n| F   | 1·5496                     | 14 38 15        | 1·0109          | 1·5493                           |\n| G   | 1·5542                     | 16 32 45        | 1·0141          | 1·5541                           |\n| H   | 1·5582                     | 17 56 0         | 1·0166          | 1·5582                           |\n\n### Aragonite. Rudberg.\n\nRay in the direction of the axes of elasticity. First Axis.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\lambda}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const. \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------|-----------------|----------------------------------|\n| B   | 1·5275                     | 9 40 0          | 1·0047          | 1·5275                           |\n| C   | 1·5282                     | 10 8 27         | 1·0051          | 1·5282                           |\n| D   | 1·5301                     | 11 17 34        | 1·0065          | 1·5303                           |\n| E   | 1·5326                     | 12 37 40        | 1·0081          | 1·5328                           |\n| F   | 1·5348                     | 13 41 25        | 1·0095          | 1·5348                           |\n| G   | 1·5388                     | 15 28 33        | 1·0123          | 1·5390                           |\n| H   | 1·5423                     | 16 46 36        | 1·0144          | 1·5424                           |\n\n**Second Axis.**\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\lambda}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const. \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------|-----------------|----------------------------------|\n| B   | 1·6763                     | 12 50 0         | 1·0084          | 1·6763                           |\n| C   | 1·6778                     | 13 27 53        | 1·0092          | 1·6776                           |\n| D   | 1·6816                     | 14 59 35        | 1·0115          | 1·6815                           |\n| E   | 1·6863                     | 16 45 56        | 1·0144          | 1·6863                           |\n| F   | 1·6905                     | 18 10 42        | 1·0168          | 1·6903                           |\n| G   | 1·6984                     | 20 32 55        | 1·0217          | 1·6984                           |\n| H   | 1·7051                     | 22 16 27        | 1·0257          | 1·7050                           |\n\n**Third Axis.**\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\lambda}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu \\) = const. \\( \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------|-----------------|----------------------------------|\n| B   | 1·6806                     | 13 0 0          | 1·0086          | 1·6805                           |\n| C   | 1·6820                     | 13 38 20        | 1·0095          | 1·6820                           |\n| D   | 1·6859                     | 15 11 17        | 1·0118          | 1·6858                           |\n| E   | 1·6908                     | 16 59 0         | 1·0148          | 1·6908                           |\n| F   | 1·6951                     | 18 24 45        | 1·0175          | 1·6952                           |\n| G   | 1·7032                     | 20 48 52        | 1·0223          | 1·7033                           |\n| H   | 1·7101                     | 22 33 50        | 1·0263          | 1·7101                           |\n### Topaz. Rudberg.\n\n#### First Axis of elasticity.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\theta}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu = \\text{const.} \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------------------|---------------------------------|--------------------------------------------------|\n| B   | 1·6084                      | 10° 5' 0\"                  | 1·0051                          | 1·6085                                           |\n| C   | 1·6093                      | 10° 34' 42\"                | 1·0056                          | 1·6092                                           |\n| D   | 1·6116                      | 11° 46' 48\"                | 1·0070                          | 1·6114                                           |\n| E   | 1·6145                      | 13° 10' 22\"                | 1·0089                          | 1·6145                                           |\n| F   | 1·6170                      | 14° 16' 53\"                | 1·0104                          | 1·6172                                           |\n| G   | 1·6215                      | 16° 8' 40\"                 | 1·0133                          | 1·6216                                           |\n| H   | 1·6254                      | 17° 30' 2\"                 | 1·0157                          | 1·6254                                           |\n\n\\( \\text{const.} = 1·6003 \\)\n\n#### Second Axis.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\theta}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu = \\text{const.} \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------------------|---------------------------------|--------------------------------------------------|\n| B   | 1·6105                      | 10° 7' 0\"                  | 1·00515                         | 1·6105                                           |\n| C   | 1·6114                      | 10° 36' 47\"                | 1·0058                          | 1·6115                                           |\n| D   | 1·6137                      | 11° 49' 10\"                | 1·0071                          | 1·6136                                           |\n| E   | 1·6167                      | 13° 12' 58\"                | 1·0090                          | 1·6165                                           |\n| F   | 1·6191                      | 14° 19' 45\"                | 1·0104                          | 1·6189                                           |\n| G   | 1·6236                      | 16° 11' 53\"                | 1·0133                          | 1·6236                                           |\n| H   | 1·6274                      | 17° 33' 29\"                | 1·0158                          | 1·6275                                           |\n\n\\( \\text{const.} = 1·6022 \\)\n\n#### Third Axis.\n\n| Ray | Observed value of \\( \\mu \\) | \\( \\frac{\\theta}{\\lambda} \\) | Ratio \\( \\frac{\\text{arc sine}}{\\text{sine}} \\) | Calculated value of \\( \\mu = \\text{const.} \\times \\left( \\frac{\\text{arc sine}}{\\text{sine}} \\right) \\) |\n|-----|-----------------------------|-----------------------------|---------------------------------|--------------------------------------------------|\n| B   | 1·6180                      | 10° 7' 0\"                  | 1·00515                         | 1·6180                                           |\n| C   | 1·6188                      | 10° 36' 47\"                | 1·0058                          | 1·6189                                           |\n| D   | 1·6211                      | 11° 49' 10\"                | 1·0071                          | 1·6209                                           |\n| E   | 1·6241                      | 13° 12' 58\"                | 1·0090                          | 1·6240                                           |\n| F   | 1·6265                      | 14° 19' 45\"                | 1·0104                          | 1·6264                                           |\n| G   | 1·6312                      | 16° 11' 53\"                | 1·0133                          | 1·6310                                           |\n| H   | 1·6351                      | 17° 33' 29\"                | 1·0158                          | 1·6351                                           |\n\n\\( \\text{const.} = 1·60955 \\)",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108019.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7978,
+    "total-output-tokens": 4989,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2630,
+        2
+      ],
+      [
+        2630,
+        5667,
+        3
+      ],
+      [
+        5667,
+        11367,
+        4
+      ],
+      [
+        11367,
+        15875,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108019",
+    "title": "Researches towards Establishing a Theory of the Dispersion of Light. No. II",
+    "authors": "Baden Powell",
+    "year": 1836,
+    "volume": "126",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/108019"
+  }
+}

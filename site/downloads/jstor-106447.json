@@ -1,0 +1,79 @@
+{
+  "id": "acecaa847574338fa7786a8dd6dfa0fe60b97d10",
+  "text": "IV. Account of a monstrous Birth. In a Letter from John Torlese, Esq. Chief of Anjingo, to the Hon. William Hornbey, Governor of Bombay; communicated by Dr. Lind, F. R. S.\n\nRead January 7, 1782.\n\nHON. SIR,\n\nAs I know you are curious with respect to the productions of nature, I have taken the liberty to inclose you a drawing of a child which a Nair woman was delivered of the 28th of March at midnight, and which lived till the 1st of April in the morning. In the afternoon I went to see it in company with Mr. Hutchenson and Dr. Crozier. You will see by the sketch that it had but one body, at the extremity whereof were two heads, one larger than the other. It had four hands and arms perfect, two legs on one side its body, and one on the other, which began on the middle of its back, and appeared by nature intended for two by its size and from the appearance of the foot, which looked as if two had been squeezed or rather mashed together. It had but one navel and one anus, but two genitals of the female. It was fed during its\nits short existence by hand with goat's milk. It is remarkable, that one head would sleep whilst the other was awake; or one would cry, and the other not. They both died at the same instant. Almost all this town went to see it, the like having never been heard of before. The mother is a stout woman; and I saw four of her children at her house, the youngest of which was six years old, all healthy and perfect.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106447.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 7100,
+    "total-output-tokens": 485,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1035,
+        2
+      ],
+      [
+        1035,
+        1035,
+        3
+      ],
+      [
+        1035,
+        1457,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106447",
+    "title": "Account of a Monstrous Birth. In a Letter from John Torlese, Esq. Chief of Anjingo, to the Hon. William Hornbey, Governor of Bombay; Communicated by Dr. Lind, F. R. S.",
+    "authors": "John Torlese, Dr. Lind",
+    "year": 1782,
+    "volume": "72",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106447"
+  }
+}

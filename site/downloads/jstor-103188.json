@@ -1,0 +1,69 @@
+{
+  "id": "c4b04407f5aeef38820ffbe31025ac8ed93581ac",
+  "text": "XIV. A farther Account of the ascending of Drops of Spirit of Wine between two Glass Planes twenty Inches and an half long; with a Table of the Distances from the touching Ends, and the Angles of Elevation. By the late Mr Fr. Hauksbee, F.R.S.\n\nThe Spirit of Wine did not move between the Planes, with that nimbleness as Oil of Oranges, which gave me the Liberty to observe the Angles with more Deliberation. The Limb on which the Planes were laid, mov'd in the Centre of a Quadrant of a four Foot Radius; the largeness of which gave me conveniency of measuring the Angles with greater accuracy: But the distance between the Drop on the Planes and the Graduations on the Quadrant, made it a little difficult to observe them both at once. Yet I believe the following Tables may be depended on to be as true as the Nature of such an Experiment (for any thing that I see at present) is capable of. I have formerly given a particular Account of the manner of making this Experiment (printed in Philosoph. Transact. No. 334.) to which I refer. These Tables are calculated from the touching Ends of the Planes; and it is to be observed, that in the Table where the Planes were open'd but to an Angle of 10' that I could not come nearer than 4 Inches of the touching Ends in my Observations: But so far as I could go, seems to be much in the same Proportion (as I have oftentimes observed in the course of these Experiments) with the Table where the Planes were opened to an Angle of 18'.\n| Distances in Inches from the touching Ends | Angle of Elevation | Distances in Inches from the touching Ends | Angle of Elevation |\n|-------------------------------------------|-------------------|-------------------------------------------|-------------------|\n| 18½                                      | 0—45              | 18½                                      | 1—30              |\n| 16½                                      | 0—55              | 16½                                      | 1—50              |\n| 14½                                      | 1—05              | 14½                                      | 2—10              |\n| 12½                                      | 1—20              | 12½                                      | 2—40              |\n| 10½                                      | 1—30              | 10½                                      | 3—10              |\n| 9½                                       | 1—40              | 9½                                       | 3—30              |\n| 8½                                       | 2—00              | 8½                                       | 4—00              |\n| 7½                                       | 2—30              | 7½                                       | 5—05              |\n| 6½                                       | 3—20              | 6½                                       | 7—40              |\n| 5½                                       | 4—25              | 5½                                       | 10—50             |\n| 4½                                       | 6—00              | 4½                                       | 14—00             |\n| 4                                        | 7—23              | 4                                         | 18—00             |\n| 3¾                                        | 8—40              |                                           |                   |\n| 3½                                        | 9—25              | The Planes open'd to an Angle of 10°       |                   |\n| 3¼                                        | 10—30             |                                           |                   |\n| 3                                         | 12—40             |                                           |                   |\n| 2¾                                        | 15—00             |                                           |                   |\n| 2½                                        | 18—50             |                                           |                   |\n| 2¼                                        | 23—25             |                                           |                   |\n| 2                                         | 30—00             |                                           |                   |\n\nThe Planes open'd to an Angle of 18°\n\nXV. Inscription",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103188.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 972,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1481,
+        2
+      ],
+      [
+        1481,
+        4377,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103188",
+    "title": "A Farther Account of the Ascending of Drops of Spirit of Wine between Two Glass Planes Twenty Inches and an Half Long; With a Table of the Distances from the Touching Ends, and the Angles of Elevation. By the Late Mr Fr. Hauksbee, F. R. S.",
+    "authors": "Fr. Hauksbee",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103188"
+  }
+}

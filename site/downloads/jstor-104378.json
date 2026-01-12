@@ -1,0 +1,59 @@
+{
+  "id": "baec8b777de9b9e450d5af5b5485cd0698220d01",
+  "text": "mined by a circular Ark; but it is not necessary to describe this Case at present.\n\nExample: If $m:m:1::1000:22$, then the greatest Difference of the meridional Parts in the Sphere and Spheroid is 76.0929 Minutes: In other Cases it is found by multiplying the Remainder above-mentioned by 1174.078.\n\nXV. The parabolic Orbit for the Comet of 1739. observed by Signor Eustachio Zanotti at Bologna.\n\nThe Motion in its own proper Orbit was retrograde.\n\nThe Perihelion was in . . . §. 5. 11.\nThe descending Node in . v. 25. 18.\nThe Perihelion from the Node 69. 53.\n\nThe Comet was in the Perihelion June 9. 9. 59.\nin the desc. Node July 18. 4. 57.\n\nThe Perihelion of the Comet’s Orbit was within the Sphere of the Orbit of Venus, and without that of the Orbit of Mercury; being distant from the Sun 0.69614 Parts of the Earth’s mean Distance from the Sun.\n\nThe Plane of the Orbit stood inclined to the Plane of the Ecliptic in an Angle of 53°. 25'.\n\nThe Diurnal mean Motion, according as it is interpreted by Dr. Halley in his Elements of cometical Astronomy, was 1°.5707.\n\nXVI. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104378.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 401,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1074,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104378",
+    "title": "The Parabolic Orbit for the Comet of 1739. Observed by Signor Eustachio Zanotti at Bologna",
+    "authors": "Eustachio Zanotti",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104378"
+  }
+}

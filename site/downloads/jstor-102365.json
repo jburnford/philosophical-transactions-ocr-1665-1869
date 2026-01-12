@@ -1,0 +1,69 @@
+{
+  "id": "dc45efe89d1613f53d9d5bd4228252648d9c31f2",
+  "text": "I. An Extract of all Persons, that did, in 1695, in Franckfort on the Maine, consummate Matrimony, receive Baptism, and were Buried. Communicated by Dr. Fred. Slare, Fellow of the Colledge of Physicians, and R. S.\n\n| Month     | Couples Married | Number of the Christned | Number of the Deceased |\n|-----------|-----------------|-------------------------|------------------------|\n| January   | 23              | 79                      | 72                     |\n| February  | 17              | 67                      | 76                     |\n| March     | 00              | 65                      | 62                     |\n| April     | 35              | 78                      | 58                     |\n| May       | 25              | 89                      | 77                     |\n| June      | 20              | 75                      | 74                     |\n| July      | 21              | 69                      | 56                     |\n| August    | 28              | 78                      | 63                     |\n| September | 15              | 73                      | 63                     |\n| October   | 31              | 86                      | 45                     |\n| November  | 25              | 69                      | 45                     |\n| December  | 08              | 88                      | 57                     |\n| Sum       | 240             | 916                     | 743                    |\n\n248 Couples were Married, and amongst them Two Couples, that liv'd before 50 Years in Matrimony.\nNumber of them that were Christ'ned in Franckfort.\n\n| Citizens Children | 534 |\n|-------------------|-----|\n| Forreigners       | 234 |\n| Males             | 420 |\n| Females           | 348 |\n\nAnd amongst them were,\n\n| Twins | 11 |\n|-------|----|\n| Posthumous | 11 |\n| Jews   | 02 |\n| Bastards | 13 |\n\nSum 768\n\nNumber of them that were Christ'ned at Sachsenhousen.\n\n| Citizens Children | 94 |\n|-------------------|---|\n| Forreigners       | 54 |\n| Males             | 84 |\n| Females           | 64 |\n\nAnd amongst them were,\n\n| Twins | 04 |\n|-------|----|\n| Posthumous | 01 |\n| Bastards | 02 |\n\nSum of all Christ'ned 916\n\nThe Number of the Deceased in Franckfort.\n\n| Citizens | 63 |\n|----------|----|\n| Women    | 39 |\n| Widows   | 24 |\n| Sons     | 153|\n| Daughters| 123|\n\nNot Christ'ned 07\nForreigners 194\nOut of the Hospital 30\nOut of the Alms, Orphans,and Work-house 9\n\nSum 240\n\nAt Sachsenhousen.\n\n| Citizens | 08 |\n|----------|----|\n| Women    | 03 |\n| Widows   | 03 |\n| Sons     | 20 |\n\nDaughters 14\nNot Christ'ned 03\nForreigners 55\n\nThe Sum of all Deceas'd 748",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102365.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 855,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1558,
+        2
+      ],
+      [
+        1558,
+        2624,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102365",
+    "title": "An Extract of All Persons, That Did, in 1695, in Franckfort On the Maine, Consummate Matrimony, Receive Baptism, and Were Buried. Communicated by Dr. Fred. Slare, Fellow of the Colledge of Physicians, and R. S.",
+    "authors": "Fred. Slare",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102365"
+  }
+}

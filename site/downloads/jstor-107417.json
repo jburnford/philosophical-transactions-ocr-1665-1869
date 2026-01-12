@@ -1,0 +1,59 @@
+{
+  "id": "802f3f8ca16a865c451d1cea068c63e93fa39d42",
+  "text": "INDEX.\n\nUlmin, English, experiments on it, - 68\nVesuvius, Mount, on a saline substance from it, - 256\nVision, an appendix to Mr. Ware's paper on that subject, - 110\nVitreous humour, its absorption probably the cause of amended vision in old persons, - 42\n\nW\n\nWare, James, Esq. His observations relative to the near and distant sight of different persons, - 31\nWires, on a method of drawing them extremely fine, - 114\nWollaston, William Hyde, M.D. Bakerian lecture, on the elementary particles of certain crystals, - 51\nOn a method of freezing at a distance, - 71\nMethod of drawing extremely fine wires, - 114\nHis description of a single lens micrometer, - 119\n\nCORRIGENDA.\n\nPage 175, line 13, for one-fourth—read one-third\n177, — 17, for preponderates over that of either the olive oil or phosphorus—read be exceeded by that of the alcohol of sulphur.\n246, — 10, after attraction of—add the azote of\n23, for produced—read produced,—and dele the comma after portion.\n249, — 11, for 261.—read 268.\n264, — 18, for the other—read the other of which\n268, — 15, for bases,—read basis\n273, — 11, for metal, positively electrified—read metal positively electrified.\n\nFrom the Press of\nW. Bulmer & Co.\nCleveland-row, St. James's,\nLondon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107417.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 451,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1228,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107417",
+    "title": "Corrigenda",
+    "authors": null,
+    "year": 1813,
+    "volume": "103",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107417"
+  }
+}

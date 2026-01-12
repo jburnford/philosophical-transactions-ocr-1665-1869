@@ -1,0 +1,59 @@
+{
+  "id": "c704c0707b5d401b00a7abec218f09bd888e1456",
+  "text": "I. Extract of a Letter from Mr. Christopher Mason, concerning a Fire-ball seen in the Air, and a great Explosion heard, Dec. 11. 1741.\n\nRead at a Meeting of the Royal Society, on January 7. 1741-2.\n\nOn the 11th Instant, at Bucksteep in Warbleton Parish, in the County of Sussex, about a Quarter before One o’Clock in the Afternoon, I observed a very dark uncommon Appearance in the North, and at the same time the Sun shone bright at my Back; when, on a sudden, there was an Explosion, as violent as the Report of a Mortar-piece, attended with a rumbling Echo, which run Eastward; and as near as I could conjecture, it came from about 40 Degrees of Elevation. Several People saw a Ball of Fire, which ran nearly Eastward, leaving a Train of Light, which continued some time. The Ball of Fire was seen, and the Report heard very loud, at Sompting, beyond Shoreham. Although I had been gazing upon the black Cloud for some Minutes, yet I saw no Fire nor Lightning. I am, &c.\n\nDec. 28. 1741.\n\nChr. Mason.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104128.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 332,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1001,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104128",
+    "title": "Extract of a Letter from Mr. Christopher Mason, concerning a Fire-Ball Seen in the Air, and a Great Explosion Heard, Dec. 11. 1741",
+    "authors": "Christopher Mason",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104128"
+  }
+}

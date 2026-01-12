@@ -1,0 +1,230 @@
+---
+layout: default
+title: "On a New Method of Approximation Applicable to Elliptic and Ultra-Elliptic Functions"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/150/">Volume 150</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>On a New Method of Approximation Applicable to Elliptic and Ultra-Elliptic Functions</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">Charles W. Merrifield</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1860</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">150</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">6 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-108769.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-108769.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/108769" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">XIII. On a new Method of Approximation applicable to Elliptic and Ultra-elliptic Functions.
+
+By Charles W. Merrifield. Communicated by the Rev. H. Moseley, F.R.S.
+
+Received March 26,—Read May 24, 1860.
+
+The difficulty of finding approximate values of elliptic functions of the third kind has led me to consider a general method of approximation, which I believe to be new, at least in its application to the evaluation of integrals of irrational functions.
+
+It depends on the known principle that the geometric mean between two quantities is also a geometric mean between their arithmetic and harmonic means. If we take any two positive quantities, we may approximate to their geometric means as follows:—Take the arithmetic and harmonic means of the two quantities, then again take the arithmetic and harmonic means of those means, and so on: the successive means will approximate with great rapidity to the geometric mean.
+
+To judge of the convergence of the method, I give, in the first two columns of the following little Table, the arithmetic and harmonic means thus derived from the numbers 1 and 2 (which is the most unfavourable case that need present itself). The third column contains the difference of the first two, within which lies the error of either.
+
+|   |   |   |
+|---|---|---|
+| 3/2 | 4/3 | 1/6 |
+| 17/12 | 24/17 | 1/204 |
+| 577/408 | 816/577 | 1/235416 |
+| 665857/470832 | 941664/665857 | 1/313506783024 |
+
+Either of the fourth pair would thus give the square root of 2, correct to eleven places of decimals.
+
+This method finds its application in evaluating the integral $\int f(x)\sqrt{\varphi(x)}\,dx$, where $f(x)$ and $\varphi(x)$ are rational functions of $x$ which both increase or decrease regularly, and have no singular values, within the limits of integration. If we find successive means, as above described, say $A_x$ and $H_x$, between $f(x)$ and $f(x)\varphi(x)$, then it is clear that, since $f(x)\sqrt{\varphi(x)}$ always lies between $A_x$ and $H_x$, so $\int f(x)\sqrt{\varphi(x)}\,dx$ must lie between $\int A_x\,dx$ and $\int H_x\,dx$. Now $A_x$ and $H_x$ are each the product of $f(x)$ and a rational function of $\varphi(x)$, and are therefore themselves rational functions of $x$. They are therefore always integrable.
+
+It is not to be denied that the application of this method to the functions which call
+for its use is cumbrous; but there is no other way of treating them which is not open to the same complaint, for, in reality, they are exceedingly complex of themselves.
+
+The following are the first three terms of the arithmetic means, with the corresponding harmonic means written under them, derived from \( x \) and \( y \):
+
+\[
+\frac{x+y}{2}, \quad \frac{x^2 + 6xy + y^2}{4(x+y)}, \quad \frac{x^4 + 28x^3y + 70x^2y^2 + 28xy^3 + y^4}{8(x^3 + 7x^2y + 7xy^2 + y^3)}
+\]
+
+\[
+\frac{2xy}{x+y}, \quad \frac{4xy(x+y)}{x^2 + 6xy + y^2}, \quad \frac{8xy(x^3 + 7x^2y + 7xy^2 + y^3)}{x^4 + 28x^3y + 70x^2y^2 + 28xy^3 + y^4}
+\]
+
+It is convenient to use the arithmetic in preference to the harmonic series for integration, as the divisor contains one binomial factor less. The third arithmetic mean may be resolved into the following form:
+
+\[
+\frac{x+y}{8} + \frac{1}{2} \frac{xy}{x+y} + \frac{1}{2} \frac{(2+\sqrt{2})xy}{x+(3+2\sqrt{2})y} + \frac{1}{2} \frac{(2-\sqrt{2})xy}{x+(3-2\sqrt{2})y}
+\]
+
+Note that
+
+\[
+(2+\sqrt{2})^2 = 2(3+2\sqrt{2}) = \frac{2}{3-2\sqrt{2}} = \frac{4}{(2-\sqrt{2})^2}
+\]
+
+and that
+
+\[
+\log(3+2\sqrt{2}) = 0.76555 \quad 13706 \quad 75726.
+\]
+
+If a further approximation be thought necessary, it is possible to resolve into partial fractions the fourth arithmetic mean; but if we go beyond this we shall have to solve a reciprocal equation of the eighth degree with all its roots real. The fourth arithmetic mean will have for its divisor
+
+\[
+16(x+y)(x^2 + 6xy + y^2)(x^4 + 28x^3y + 70x^2y^2 + 28xy^3 + y^4):
+\]
+
+the roots of the biquadratic factor, with their signs changed, are
+
+\[
+7 \pm 4\sqrt{2} + \sqrt{(80 \pm 56\sqrt{2})} \quad \text{and} \quad 7 \pm 4\sqrt{2} - \sqrt{(80 \pm 56\sqrt{2})};
+\]
+
+their approximate values are
+
+\[
+25.27414 \quad 23690 \quad 882 \\
+2.23982 \quad 88088 \quad 434 \\
+0.44646 \quad 26921 \quad 718 \\
+0.03956 \quad 61298 \quad 966
+\]
+
+The difference between any (say the \( n \)th) pair of means of the series has always \( (x-y) \) to the power of \( 2^n \) for its numerator, and the product of the denominators for its denominator. The logarithm of the error is therefore always much less than
+
+\[
+2^n \log(x-y) - (2^n - 1) \log(x+y) - n \log 2.
+\]
+
+I shall now indicate the mode of applying this method to the general form of an elliptic function,
+
+\[
+\int \frac{1+N \sin^2 \phi}{1+n \sin^2 \phi} \frac{d\phi}{\sqrt{1-e^2 \sin^2 \phi}} = \int u d\phi.
+\]
+
+It is obvious that the nearer the ratio \( x : y \) is to unity, the less number of terms shall we require to obtain a given degree of accuracy. In elliptic functions which involve a
+radical of the form $\sqrt{1-c^2 \sin^2 \phi}$, this ratio may always be brought within the limits of $\frac{1}{2}$ and $\frac{2}{1}$; for, if $c \sin \phi$ should exceed $\frac{1}{\sqrt{2}}$, we may put the radical under one of the forms
+
+$$\cos \phi \sqrt{1+(1-c^2) \tan^2 \phi} \quad \text{or} \quad \sqrt{1-c^2} \sqrt{1+\frac{c^2}{1-c^2} \tan^2 \phi},$$
+
+and one or other of these new radicals will always be less than $\sqrt{2}$. I should have remarked that $c$ never exceeds unity.
+
+We may take $u$ as a geometrical mean between $v$ and $v(1-c^2 \sin^2 \phi)$, where
+
+$$v = \frac{1+N \sin^2 \phi}{(1+n \sin^2 \phi)(1-c^2 \sin^2 \phi)} = \frac{c^2+N}{c^2+n} \frac{1}{1-c^2 \sin^2 \phi} + \frac{n-N}{c^2+n} \frac{1}{1+n \sin^2 \phi}. $$
+
+We can put $x=1$ and $y=1-c^2 \sin^2 \phi$, or vice versa, as may be convenient. Making either substitution, and reducing to partial fractions the mean which we select for integration, we have to multiply each fraction by the second value of $v$, which doubles the number of fractions, and the index of their denominators; but on again decomposing the fractions, and grouping them by their denominators, we reduce them to two more than those into which we had previously decomposed the mean. The two extra fractions will, of course, have $1+n \sin^2 \phi$ and $1-c^2 \sin^2 \phi$ for their denominators. If we stop at the third arithmetic mean we shall thus have five partial fractions to integrate, and for the third harmonic mean, six. I do not actually exhibit the work or its results, because my doing so would not save labour to any one. Not only would the resulting formula be complicated with constants more easily managed in an arithmetical form, but it will seldom happen in practice that it will be worth while to reduce the elliptic function to the normal form given above. I have, however, done enough to show that my method is capable of approximately reducing any form, containing a function under the radical of the square root, to a small series of terms involving, at highest, logarithms or inverse tangents in their integrals. Moreover the approximation is so rapid, that, in the case of an elliptic integral of the third kind and of logarithmic form, nothing would be gained by having recourse to the interpolation of the only possible table, that of the double integral
+
+$$\int_0^\theta \frac{1}{\sqrt{1-c^2 \sin^2 \theta}} \int_0^\phi \sqrt{1-c^2 \sin^2 \theta} d\theta. $$
+
+The third pair of means will give six or more places of figures correct, and the fourth arithmetic mean is capable of giving twelve places.
+
+With respect to the actual integration of the partial fractions ultimately obtained, there is no difficulty. It will easily be seen that each partial fraction will be of the form
+
+$$\frac{a}{1+p \sin^2 \phi}. $$
+
+The integral of this with regard to $\phi$ is
+
+$$\frac{1}{\sqrt{1+p}} \tan^{-1}\{\sqrt{1+p} \cdot \tan \phi\}. $$
+
+If $1+p$ is negative ($=-q^2$, suppose), this integral takes the form
+
+$$\frac{1}{2q} \log \left\{ \frac{1+q \tan \phi}{1-q \tan \phi} \right\}. $$
+It is obvious that we may approximate in the same way to the values of ultra-elliptic integrals; but the process will be more lengthy, on account of the greater complexity of these functions.
+
+In the case of higher radicals than the square root, so far as concerns a first approximation only, it is clear that, if we insert several means between two integrable functions, any given geometric mean will be intermediate in value to the corresponding arithmetic and harmonic means; but, inasmuch as the process affords no indication of what the second step is to be, it does not seem to have any useful application to such functions. But it brings all elliptic and ultra-elliptic functions within practical reach of the numerical computer.
+
+ADDENDUM.
+
+Received March 29,—Read May 24, 1860.
+
+I have thought it advisable, upon reconsideration, to give the approximate formula for \( \int_0^\phi \frac{1+N\sin^2\phi}{1+n\sin^2\phi} \frac{d\phi}{\sqrt{1-c^2\sin^2\phi}} \) derived from the third mean of the arithmetic series:
+
+\[
+\frac{1}{8} \left[ \frac{N}{n+c^2} + \frac{1}{8} \left( \frac{1}{n+c^2} + \frac{1}{n+\frac{1}{2}c^2} + \frac{1}{n+2+\frac{\sqrt{2}}{4}c^2} + \frac{1}{n+2-\frac{\sqrt{2}}{4}c^2} \right) \right] \tan^{-1}\{(1+n)^{\frac{1}{2}} \cdot \tan \phi\}
+\]
+
+\[
++ \frac{1}{8} \left( \frac{N+c^2}{n+c^2} \right) \tan^{-1}\{(1-c^2)^{\frac{1}{2}} \cdot \tan \phi\} + \frac{1}{4} \left( \frac{N+\frac{1}{2}c^2}{n+\frac{1}{2}c^2} \right) \left( 1-\frac{1}{2}c^2 \right)^{-\frac{1}{2}} \tan^{-1}\left\{ \left( 1-\frac{1}{2}c^2 \right)^{\frac{1}{2}} \tan \phi \right\}
+\]
+
+\[
++ \frac{1}{4} \left( \frac{N+2+\frac{\sqrt{2}}{4}c^2}{n+2+\frac{\sqrt{2}}{4}c^2} \right) \left( 1-\frac{2+\frac{\sqrt{2}}{4}c^2}{4} \right)^{-\frac{1}{2}} \tan^{-1}\left\{ \left( 1-\frac{2+\frac{\sqrt{2}}{4}c^2}{4} \right)^{\frac{1}{2}} \tan \phi \right\}
+\]
+
+\[
++ \frac{1}{4} \left( \frac{N+2-\frac{\sqrt{2}}{4}c^2}{n+2-\frac{\sqrt{2}}{4}c^2} \right) \left( 1-\frac{2-\frac{\sqrt{2}}{4}c^2}{4} \right)^{-\frac{1}{2}} \tan^{-1}\left\{ \left( 1-\frac{2-\frac{\sqrt{2}}{4}c^2}{4} \right)^{\frac{1}{2}} \tan \phi \right\}.
+\]
+
+I also observe that com. log \( \frac{2+\sqrt{2}}{4} = 9.93123 \ 06918 \ 42 \)
+
+log \( \frac{2-\sqrt{2}}{4} = 9.16567 \ 93211 \ 66. \)
+
+The application of this formula, in the shape given above, requires that \( 1+n \) be positive, and that \( c \sin \phi \) shall not exceed \( \sin 45^\circ \).
+If we equate \( n \) to \( N \), we obtain for the approximate value of 
+\[
+\int_0^\varphi (1 - c^2 \sin^2 \varphi)^{-\frac{1}{2}} d\varphi,
+\]
+or \( F(c\varphi) \),
+
+\[
+\frac{1}{8} \varphi + \frac{1}{8} (1 - c^2)^{-\frac{1}{2}} \tan^{-1}\left\{(1 - c^2)^{\frac{1}{2}} \tan \varphi\right\} + \frac{1}{4} \left(1 - \frac{1}{2} c^2\right)^{-\frac{1}{2}} \tan^{-1}\left\{\left(1 - \frac{1}{2} c^2\right)^{\frac{1}{2}} \tan \varphi\right\}
+\]
+
+\[
++ \frac{1}{4} \left\{1 - \frac{2 + \sqrt{2}}{4} c^2\right\}^{-\frac{1}{2}} \tan^{-1}\left\{\left(1 - \frac{2 + \sqrt{2}}{4} c^2\right)^{\frac{1}{2}} \tan \varphi\right\}
+\]
+
+\[
++ \frac{1}{4} \left\{1 - \frac{2 - \sqrt{2}}{4} c^2\right\}^{-\frac{1}{2}} \tan^{-1}\left\{\left(1 - \frac{2 - \sqrt{2}}{4} c^2\right)^{\frac{1}{2}} \tan \varphi\right\}
+\]
+
+I now apply the numerical values \( \varphi = \frac{1}{2} \pi \), \( c = \sin 45^\circ \), which, as has already appeared, lead to the most unfavourable case for approximation. For \( \varphi = \frac{1}{2} \pi \) all the inverse tangents become \( \frac{1}{2} \pi \), and, by reducing the last two terms to a single radical, we easily obtain
+
+\[
+F\left(\sin 45^\circ, \frac{1}{2} \pi\right) = \frac{1}{2} \pi \left\{\frac{1}{8} + \frac{1}{4} \sin 45^\circ + \frac{1}{3} \sin 60^\circ + \sqrt{\frac{6 + \sqrt{34}}{34}}\right\}
+\]
+
+\[
+= \frac{1}{2} \pi \times 1.18034 \ 09494 \ 53 = 1.85407 \ 52150.
+\]
+
+This exceeds the exact value given by Legendre, 1.85407 46773, by 0.00000 05377.
+
+The logarithm of the factor of \( \frac{1}{2} \pi \) is 0.07200 74743, of which the error is 0.00000 01290, in excess.
+
+It follows from this that the necessary error of the process, where the third mean of the arithmetic series is used, will never be more than a unit in the seventh place, and it is evident that this error will always be in excess. By an arbitrary correction, of which the amount may be easily guessed in any given case, the seventh place may always be made accurate.</div>

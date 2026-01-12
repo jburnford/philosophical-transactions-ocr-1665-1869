@@ -1,0 +1,69 @@
+{
+  "id": "a1f2b29ce31fc05e6e7db387c9c5d98dcae3953e",
+  "text": "he affirms to be an *Excrementitious Succus*, by Nature secreted in its proper *Follicule* near the *Anus* of an *Animal* of the *Dog-kind*, and not the *Sperm*, as some have asserted. *Castor* he proves to be the *Scent-bags* adjoining to the *Intestinum Rectum*, and not the *Testicles* of the *Beaver*, as some assert.\n\nIn the Fourth and last Book our Author takes notice, that the *Sal Armomiac* of the Shops is a factious *Salt* made of *Human Urine*, *Soot*, and *common Salt*, and is not that of the *Ancients*, which *Pliny* and others affirm to be found among the Sands of *Lybia*. And lastly, Observes that *Mumia* is of four sorts; all which he doth demonstrate. And here I shall finish my Account, recommending to those which desire further Satisfaction in the *Materia Medica* the Book itself, which is of excellent Use to all *Physicians*, *Philosophers*, *Apothecaries*, *Chirurgions*, and *Drugsters*.\n\n---\n\n**Advertisements.**\n\nThe Reader is desired to Correct a Mistake in *Philosophical Transactions*, Numb. 202. p. 824. The Truffles there mentioned being discovered at Rushton in Northamptonshire, by the Learned Physician Dr. Harston of Harborough in Leicester-shire.\n\n*Libri quidam novi qui prostant apud S. Smith, & B. Walsford, ad insignia Principis in Cæmiterio D. Pauli, Acta Eruditorum ab Anno 1682. ad 1692. inclusivè cum tredecem Supplimentis.*\n\n*Indices Generales Actorum & Rerum primi Actorum Eruditorum quæ Lipsiæ publicantur Decennii rec non Supplimentorum Tomi primi.*\n\nGenesis\nGenesis sive Mosis Prophetæ Liber primus, Translatione Joannis Clerici, cum ejusdem Paraphrafi perpetua, Commentario Philologico Dissertationibus Criticis quinque, & Tabulis Chronologicis. Amst. 1693. Fol.\n\nReliqui Mosis Libri quatuor sub praelo sudant, totum opus in omnes veteris & Novi Testamenti Libros cum Paraphrafi & Commentario ejusdem Authoris in sex Tomis prodibit.\n\nWilhelmi Ernesti Tentzelii Exercitationes selectae in Duas Partes distributae: Quarum Priori præter Symbolum Apostolicum, Clementis Romani, Ignatii, Polycarpi, Justini Martyris, Athenagoræ, Theophili, Antiocheni, Tatiani, Hermiæ, Jacobi Nisibensis, & Ephremi Syri, Scripta expenduntur, plerorumque vita præmissa; Tum Constantini Magni Baptismus, Natalitia Episcoporum, Hymnusque, Te Deum Laudamus, illustrantur: Posteriori, Disciplina Arcani in Apricum producitur, aliaque Antiquitatis Ecclesiasticae Capita explicant: cum Indicibus. Quarto. 1693.\n\nLONDON:\nPrinted for S. Smith and B. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-yard, 1693.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102010.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4658,
+    "total-output-tokens": 875,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1512,
+        2
+      ],
+      [
+        1512,
+        2567,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102010",
+    "title": "Advertisements",
+    "authors": null,
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102010"
+  }
+}

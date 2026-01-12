@@ -1,0 +1,79 @@
+{
+  "id": "5db63a13537a165afc5953bec15d7bbcf4b6f1ce",
+  "text": "XXVI. Remarks upon a petrified Echinus of a singular kind, shewn to the Royal Society, April 24, 1755, by the Reverend Richard Pococke, LL.D. Archdeacon of Dublin, and F.R.S. found on Bunnan's-Land in the Parish of Bovingdon in Hertfordshire, which is a Clay, and supposed to have been brought with the Chalk, dug out of a Pit in the Field. By James Parsons, M.D. and F.R.S.\n\nJuly 9, 1755.\n\nRead April 17, 1755.\n\nTHE round echinites are for the most part found in chalk-pits, and they are in general, when recent, the most tender in their shells; so that the chalk is the most favourable bed for them to be preserved in long enough to be petrified; whereas in other kinds of matter these would be mouldered and destroyed before the petrification could commence; and it is very singular, that almost all those in the chalk are filled with flint, or partly chalk and partly flint, and sometimes with crystal. Now, as all flints and agates are nothing less than crystal debased by earth, and as it is in beds of chalk that these, as well as multitudes of large stones, are found, one would be almost induced to believe, that chalk degenerated into\ninto flint; or, in other words, that flint was produced by chalk originally. And indeed I have many specimens myself, that seem to prove it; in some of which they seem to shew the gradual change from the one to the other, not at all like a sudden apposition of chalk to flint.\n\nOther kinds of echinites, such as the *Echini cordati*, or heart-shaped echinite, the pileati or conic, the galeati or helmet-shaped, with several other kinds, are often formed of other species of stony particles.\n\nThe fossil before you, being one of the oval kind, with large papillæ, is the *Echinometra digitata secunda rotunda vel cidaris Mauri* of Rumphius, which, with the other oval echinites, are very rarely found but in chalk: and it is remarkable, that whether they are filled with chalk, flint, or crystal, their shells break with a felenitical appearance, just as the lapides Judaici, and all other species of echinites found in chalk-pits, do.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104919.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 659,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1145,
+        3
+      ],
+      [
+        1145,
+        2080,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104919",
+    "title": "Remarks upon a Petrified Echinus of a Singular Kind, Shewn to the Royal Society, April 24, 1755, by the Reverend Richard Pococke, LL. D. Archdeacon of Dublin, and F. R. S. Found on Bunnan's-Land in the Parish of Bovingdon in Hertfordshire, Which is a Clay, and Supposed to Have Been Brought with the Chalk, Dug out of a Pit in the Field. By James Parsons, M. D. and F. R. S.",
+    "authors": "James Parsons",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104919"
+  }
+}

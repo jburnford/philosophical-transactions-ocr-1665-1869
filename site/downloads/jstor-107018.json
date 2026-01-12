@@ -1,0 +1,59 @@
+{
+  "id": "f950fc657456b9c9b1477c00264f16179b73e1a7",
+  "text": "ERRATA.\n\nPART I.\n\nP. 143, l. 3, for affraïant, read effraïant.\n\nNote from Henry Brougham, Jun. Esq. author of the paper on the inflection, reflection, and colours of light. See page 227, &c.\n\n\"Owing to an error which crept into the integral calculus by which the problems on \"the trajectory of light were resolved, two of these solutions are erroneous, and must be \"corrected thus: 1. When the bending force is inversely as the distance, the curves to be \"squared are, a conic hyperbola, and a logarithmic, \\( y^2 = \\frac{x}{l-a} \\). The trajectory, there- \"fore, cannot be found in finite terms; its equation is \\( j^a l \\frac{a}{x} = x^2 \\); and the sub- \"tangent is to the subnormal as 1 to \\( l-a \\). 2. When the bending force is inversely as \"the square of the distance, the curves to be squared are a cubic hyperbola, \\( y = \\frac{1}{x^2} \\), \"and a cubic conchoid, \\( y^2 = \\frac{x}{a-x} \\); therefore the equation to the trajectory is \"(\\( a-x \\)) \\( j^a = x \\cdot x^2 \\), which belongs to a cycloid, the radius of whose generating circle i \"a. In general, if the force be inversely as the mth power of the distance, the equation \"of the trajectory will be \\( (a^{m-1} - x^{m-1}) j^a = x^{m-1} \\cdot x^2 \\), which agrees also with the \"first case, where m being = 1, \\( a^{m-1} \\), may be esteemed the hyperbolic logarithm \"of a.\"\n\nEdinburgh,\nJuly 2, 1796.\n\nH. BROUGHAM.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107018.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 502,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1378,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107018",
+    "title": "Errata",
+    "authors": null,
+    "year": 1796,
+    "volume": "86",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107018"
+  }
+}

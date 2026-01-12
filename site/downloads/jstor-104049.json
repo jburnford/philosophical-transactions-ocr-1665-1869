@@ -1,0 +1,59 @@
+{
+  "id": "aef5d0d090666382fcee8329edfd1fad11d518a8",
+  "text": "ERRATA, which escaped Notice in the particular Numbers of this Thirty-ninth Volume of Philosophical Transactions.\n\nNUMB. 440. p. 194. l. ult. after the Word Plant insert (as p. 195. l. i. for that r. from which.\nibid. l. 3. after Muslin insert a) to close the Parenthesis.\nNo. 441. p. 211. l. 6. for P.R. r. Pr.\np. 234. l. 8. r. dilatabatur.\nNo. 444. p. 385. l. 25. before a b. 11 Inches, insert Fig. 3.\np. 390. l. 26. after the Word Eye, insert Fig. 4.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104049.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 251,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        453,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104049",
+    "title": "Errata",
+    "authors": null,
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104049"
+  }
+}

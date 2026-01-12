@@ -1,0 +1,69 @@
+{
+  "id": "608c7b986bbfa0902bea5bce9f490cbdb2047b77",
+  "text": "IX. On the Conversion of the Substance of a Bird into a hard fatty Matter. In a Letter from Thomas Sneyd, Esq. to Sir Joseph Banks, Bart. P. R. S.\n\nRead March 29, 1792.\n\nSIR,\n\nI take the liberty of sending you two or three pieces of a bird whose substance has been converted into a hard fatty matter, which I found at the head of a fish pool, where a small brook runs into it, lying under water upon the mud. When first taken out, it was almost entire, and had several feathers sticking in different parts of the skin, which have since fallen out; a little down, however, still adheres to the smaller specimen. From the size, and general appearance of the bird, I conjectured it to be a duck, or young goose; but before I had time to give it a particular examination, it was unfortunately broken in pieces, and the greatest part destroyed. The skin in the piece which was saved is of different thicknesses, in some parts a full quarter of an inch; it has retained its original\nstructure exactly, but is in great part separated from the flesh, though both of them are now composed of the same fat matter. This substance resembles spermaceti in its consistence between the teeth, but has neither taste nor smell; it melts in a small heat, and when congealed again, becomes more solid, and looks like wax; in a greater heat it burns, and emits a strong animal smell. As I never heard or perceived that the water in which this bird lay has any particular property, I am inclined to think that it has undergone this singular change while buried in the mud, and that the brook had afterwards washed it up, and carried it into this pool.\n\nI am sorry that the specimen and my account of this singular metamorphosis are so imperfect. The analogy which the case bears to the change of human bodies, observed by M. Fourcroy * in the Cemetery des Innocents, is my chief reason for offering them to you; and if they should be deemed worthy of the notice of the illustrious Society over which you preside, you are at liberty to present them.\n\nI am very respectfully, &c.\n\nTHO. SNEYD.\n\nBelmont, near Leek, Staffordshire,\nMarch 16th, 1792.\n\n* Annales de Chimie, Tom. V. p. 154.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106784.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 602,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        977,
+        2
+      ],
+      [
+        977,
+        2161,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106784",
+    "title": "On the Conversion of the Substance of a Bird into a Hard Fatty Matter. In a Letter from Thomas Sneyd, Esq. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Thomas Sneyd",
+    "year": 1792,
+    "volume": "82",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106784"
+  }
+}

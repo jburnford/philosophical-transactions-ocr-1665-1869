@@ -1,0 +1,59 @@
+{
+  "id": "5b2e879327f489d9821be72843306769487fbc7d",
+  "text": "ERRATA.\n\nNo. 459. Art. XV. Mercurius à Venere sublatus Maii 17, 1737. p. 630, l. 2. this entire Article is to be expunged; being inserted more accurately in No. 450. p. 394.\n\nNo. 474, p. 167, l. 13. for Manteufet, read Manteuffel.\n\nERRATA in Vol. XLIV.\n\nNo. 479, p. 101, l. 2. for soun- read so un-\n\nNo. 481, p. 299, l. 9, read Grains 37 4 above 2 Oz.\n\nNo. 482, Sheet (Zz) the Pages are double and confus'd by a Mistake of the Printer; and therefore after the Numbers of the Pages in this Sheet I have in the Index set (Zz).\n\nIb. p. 408, l. 24, for Mr. Juan Antonio de Loa, read Don Antonio de Ulloa.\n\nIb. p. 433, l. ult. for the other Side Chalk, read the other Side of a Substance like Chalk, but much harder.\n\nNo. 483 in the Title read for the Months of March, April, May, June, and July, 1747. Ib. p. 456, l. 20, read Tab. II. Fig. 8.\n\nNo. 484, p. 630, l. 30. read Tab. I. Fig. 1.\n\nIb. p. 680. to the Mark + add, Sir Isaac Newton's Thermometer was made of Line-seed Oil. See his Scale of Heat, Phil. Trans. n. 270. p. 824.\n\nIb. p. 700, in the Note dele (p. 111.)\n\nTo the Binder.\n\nNext after this follow the Croomean Lectures for the Year 1747. and after them place the Index to Vol. XLIV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104890.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 552,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1192,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104890",
+    "title": "Errata",
+    "authors": null,
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104890"
+  }
+}

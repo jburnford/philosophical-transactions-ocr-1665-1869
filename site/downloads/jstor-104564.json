@@ -1,0 +1,59 @@
+{
+  "id": "719df638c75ce5c37cb8790b84d38d85951a0948",
+  "text": "VI. A Roman Inscription found at Bath, communicated to the Royal Society by the Rev. William Stukely M.D. Fellow of the Coll. of Phys. F.R.S. and Rector of St. George the Martyr, London.\n\nRead June 30.\n1748.\n\nLVITELLIUS MAXIMI\nNIAI F T ANCINVS\nCLIVES HISP CAVRIESIS\nEQ ALAE VETTONVM CR\nANN XXXXVI STIP XXVI\n\nThus to be read. Lucius Vitellius Maximiniani filius Titus Ancinus, * civis Hispanus Cauriensis & equitum ala Vettonum curator, annos XLVI stipendii XXVI. hic sepultus est.\n\nVII. Extract of a Letter from the Rev. Dr. Stephen Hales F.R.S. to the Rev. Mr. Westly Hall, concerning some Electrical Experiments.\n\nDear Sir,\n\nTeddington, Feb. 23, 1746-7.\n\nThe favour of yours of Jan. 27. I should have answer'd sooner, but have been prevented by Variety of Business, especially\n\n* Like nubes, labes, sepes. § Of the City of Coria in Spain.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104564.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 332,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        840,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104564",
+    "title": "A Roman Inscription Found at Bath, Communicated to the Royal Society by the Rev. William Stukely M. D. Fellow of the Coll. of Phys. F. R. S. and Rector of St. George the Martyr, London",
+    "authors": "William Stukely",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104564"
+  }
+}

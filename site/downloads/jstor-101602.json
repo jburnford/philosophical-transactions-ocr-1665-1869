@@ -1,0 +1,69 @@
+{
+  "id": "ee796f21fdb060b3369d9faf18582f9c24b3c199",
+  "text": "Some Communications, confirming the present Appearance of the Ring about Saturn, by M. Hugens de Zulechem and Mr. Hook.\n\nThe former writeth in a Letter of his, dated at the Hague Octob. 31. 1670. st. n. That he observ'd Saturn with his Telescope of 22 feet, a little before he came out of France, which was the last Summer of this 1670. and saw his Figure to be very conform to what it should be according to his Hypothesis; viz. the Anæ or Arms to be very narrow, insomuch that their opening appear'd not but very obscurely.\n\nThe Latter hath observed the same in London, Septemb. 16. st. v. as is represented in Tab. I. fig. 3.\n\nAn Extract out of a lately Printed Epistolary Address, made to the G. Duke of Toscany touching some Anatomical Engagements, of Laur. Bellini, Ord. Anat. Prof. at Pisa.\n\nI Promise (faith that learned Anatomist) to give the whole Doctrine of Respiration, and to comprehend it in that order, that if I am not deceived in my own affair, the matter of the principal part of the breast, and the whole Fabrick of the Lungs shall be made certain and evident, forasmuch as all things do so aptly answer to one another, and are grounded upon Geometrical Principles. The sum of it is this in the Authors own words.\n\nFuit in Asperam Arteriam aer, momento composito cx gravi- tati & vi laterali, eaque Acri, extrinsecus superficiem pectoris circumprimenti, equponderat. Hinc musculis Inspiratorii se contrahendi potentas permittitur, unde Costarum elevatio ac dilatatio, & anta Pectoris amplitude: Tum penitior Acris irruptio, & expansio ductuum pulmonarium; quod totum in Inspiratione contingit.\n\nMox proprio pondere concidentibus supra tumidum Pulmo- nem costis, spatium Pectoris fit Angustius, & ipsarum ac dia- phragmatis vi Pulmo comprimitur; Aerque partim per os extru-\nStella in Cygno observata a Joh. Hevelio Anno 1670. die 25 July st n\n\nFig. I.\n\nSaturnus Observatus GEDANI Anno 1670. die 26 August. Joh. Hevelio.\n\nSat. obs. Lond. a R. Hook. Septembr 25 1670.\n\nFig. II.\n\nFig III.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101602.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 678,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1793,
+        2
+      ],
+      [
+        1793,
+        2004,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101602",
+    "title": "Some Communications, Confirming the Present Appearance of the Ring about Saturn, by M. Hugens de Zulechem and Mr. Hook",
+    "authors": "M. Hugens de Zulechem, Mr. Hook",
+    "year": 1670,
+    "volume": "5",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101602"
+  }
+}

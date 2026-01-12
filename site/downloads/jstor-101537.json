@@ -1,0 +1,59 @@
+{
+  "id": "aff82cce073265bebf1cafe8ed4e8530d0d43116",
+  "text": "The Figure of the Stars in the Constellation of Cygnus; together with the New Star in it, discover'd some years since, and very lately seen by M. Hevelius again.\n\nThe Relation concerning this New Star in the Breast of Cygnus, very lately discover'd again at Dantzick, by M. Hevelius, was publish't Numb. 19. p. 349. The Figure of that Constellation, with the New Star in it, was thus, hastily drawn, sent over by that Observer.\n\nCauda\n\nIn ancone Alex Bor.\n\nIn Petto\n\n* Nova ante petto.\n\n* in Collo.\n\n* In Pectro.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101537.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 208,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        512,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101537",
+    "title": "The Figure of the Stars in the Constellation of Cygnus; Together with the New Star in It, Discover'd Some Years Since, and Very Lately Seen by, M. Hevelius Again",
+    "authors": "M. Hevelius",
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101537"
+  }
+}

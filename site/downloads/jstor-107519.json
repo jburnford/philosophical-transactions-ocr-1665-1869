@@ -1,0 +1,159 @@
+{
+  "id": "fe90bfa7fb5f2f5b34cb7bbfcd14b41cd5a6322c",
+  "text": "VII. Direct and expeditious methods of calculating the excentric from the mean anomaly of a planet. By the Reverend Abram Robertson, D. D. F. R. S. Savilian Professor of Astronomy in the University of Oxford, and Radcliffian Observer. Communicated by the Right Hon. Sir Joseph Banks, Bart. G. C. B. P. R. S.\n\nRead February 15, 1816.\n\nSince the publication of Kepler's discoveries in astronomy, the attention of men of science has frequently been directed to the problem distinguished by his name, and their exertions have frequently been employed to overcome the acknowledged difficulty of its solution. A statement of the various degrees of success, with which these endeavours have been made, is foreign to the present design. An account of this kind is now also needless, as Dr. Brinkley's examination of such attempts, published in the ninth volume of the Transactions of the Royal Irish Academy, affords a satisfactory review of most of the proceedings on this subject, previous to the year 1802.\n\nAfter the following methods had occurred to my consideration, and I had fully proved their utility by actual application to examples, I was anxious to ascertain whether any author had anticipated me in the manner in which the investigations are conducted. With this view I examined such solutions as are referred to in Dr. Brinkley's very able Memoir, all those mentioned by Montucla,* of which I could procure a sight,\n\n* Histoire des Mathematiques, Tom. II. p. 343, &c. I have searched, without success, for Lorgna's and Trembley's publications.\nand some others which had occurred to me in the course of my reading. The result of this search is a belief that no one before has aimed at a direct solution through the same small angle, and, by means of an equation in which this angle and its powers are the only unknown quantities, obtained a quickly converging series for its value in known terms. The small angle being found, with due precision, the eccentric anomaly readily becomes known.\n\nM. Delambre, in his Astronomy, published at Paris in 1814, in three quarto volumes, calculates the eccentric anomaly by a method founded on those of Cassini,* La Caille,† Simpson,‡ and Cagnoli.§ This eminent astronomer says of it, \"Ce procédé, le plus directe que je connaisse, est aussi le plus précis; il n’est qu’approximatif, mais il est toujours exact au-delà des dixièmes de seconde pour toutes les planètes de notre système.\" That the reader may readily judge how far the third method, which I now propose, deserves attention, I have annexed to my investigation the calculation by it of M. Delambre’s two examples, and also one relating to the comet of 1682 and 1759.\n\nEach of the following methods of solution is to be considered as direct, although it proceeds through the medium of what is commonly called Cassini’s approximation. This approximation, as here used, can only be considered as the first certain step in the computation. No hypothesis is introduced\n\n* Mémoires de l’Academie de l’année 1719.\n† Leçons Elémentaires d’Astronomie, Paris, 1761.\n‡ Essays on several curious and useful subjects, London, 1740.\n§ Trigonometrie, Paris, 1786.\ninto the proceeding, and therefore no correction by trial and error is requisite.\n\nLet ALP be the orbit of a planet, C the centre of the ellipse, S that focus in which the sun is placed, and AMP a circle described on the greater axis AP as a diameter. Let L be the true place of the planet, and AM the corresponding mean anomaly. Through L let the straight line ER be drawn, perpendicular to AP, and let it meet AP in R and the circle in E. Let EC, CM, SM be drawn, and let ST be perpendicular to EC, SG to CM and MN to ST. Then MN is parallel to ET, and NT is equal to the sine of the arc EM. It is easily proved, as in almost every writer on the subject, that ST is equal to the arc EM.\n\nIn this Problem it is supposed that AC, CS, AM are given, and it is required to find AE the excentric anomaly, for AE being found, the true anomaly ASL is easily obtained.\n\nIn each of the three following methods the angles CMS, CSM are used, and their difference is found by this proportion.\n\nMDCCCXVI.\nDr. Robertson's expeditious methods of calculating\n\n\\[ CM + CS : CM - CS :: \\tan. \\frac{1}{2} ACM : \\tan. \\frac{1}{2} (CSM - CMS). \\]\n\nHence the angles become known by their sum and difference.\n\nAs the angle SMN is very small, and consequently the angle MSC nearly equal to ECA in the orbits of almost all the planets, this way of finding the angle CSM is usually called Cassini's approximation to the excentric anomaly ACE.\n\nFirst Method.\n\nHaving found the angle CSM, sin. CSM : CM :: sin. SCM : SM, which therefore becomes known. Let \\( z \\) equal the angle SMN, \\( s \\) equal the series expressing its sine, and \\( c \\) equal the series expressing its cosine. Put \\( a \\) equal the sine of CMS, and \\( b \\) equal its cosine. Then, radius being 1, \\( ac - bs = \\sin. CMN = \\sin. ECM = \\sin. (CMS - z) \\). Also, \\( 1 : SM :: s : SN = SM \\times s \\), and \\( ac - bs + SM \\times s = TN + SN = EM = CMS - z \\), and therefore \\( CMS = z + ac - bs + SM \\times s = z + ac + SM - b \\times s \\).\n\nLet \\( d = SM - b \\), and then \\( CMS = z + ac + ds = z + a \\left( 1 - \\frac{z^2}{2} \\right) + \\frac{z^4}{2 \\cdot 3 \\cdot 4} - \\frac{z^6}{2 \\cdot 3 \\cdot 4 \\cdot 5 \\cdot 6 \\cdot 7 \\cdot 8} + \\&c. \\) \\( + d \\left( z - \\frac{z^3}{2 \\cdot 3} + \\frac{z^5}{2 \\cdot 3 \\cdot 4 \\cdot 5} - \\&c. \\right) \\)\n\n\\[ = a + z + dz - \\frac{az^2}{2} + \\frac{dz^3}{2 \\cdot 3} + \\frac{az^4}{2 \\cdot 3 \\cdot 4} + \\frac{dz^5}{2 \\cdot 3 \\cdot 4 \\cdot 5} - \\&c. \\]\n\nLet \\( e = CMS - a \\), and putting A, B, C, &c. for the coefficients \\( e = Az - Bz^2 - Cz^3 + Dz^4 + Ez^5 - Fz^6 - Gz^7 + \\&c. \\)\n\nBy reversing this series we find \\( z = \\frac{1}{1 + d} e + \\frac{a}{2(1 + d)^3} e^2 + \\frac{d}{6(1 + d)^4} e^3 + \\frac{a^2}{2(1 + d)^5} e^3 - \\frac{a}{24(1 + d)^5} e^4 + \\frac{5ad}{12(1 + d)^6} e^4 + \\frac{5a^3}{8(1 + d)^7} e^4 + \\&c. \\)\n\nThis equation is in parts of the radius, and in order to have it in degrees we use this proportion, \\( 1 : 57^\\circ. 2957795 :: z : 57^\\circ. 2957795 \\) \\( z = R^\\circ z \\), putting \\( R^\\circ \\) for \\( 57^\\circ. 2957795 \\).\nHence $R^o z = \\frac{R^o}{1+d} e + \\frac{R^o a}{2(1+d)^3} e^2 + \\frac{R^o d}{6(1+d)^4} e^3 + \\frac{R^o a^2}{2(1+d)^5} e^3 + &c.$\n\n**Second Method.**\n\nThe substitutions for the sines and cosines of the angles CMS, SMN being as in the preceding method, let SG be perpendicular to MC, and then radius being 1, 1 : CS :: sin. ACM : CS × sin. ACM = SG. But sin. CMS : SG :: sin. SMN : SN, that is, $a : CS \\times \\sin. ACM :: s : \\frac{CS \\times \\sin. ACM}{a} s = SN$, and therefore $ac - bs + \\frac{CS \\times \\sin. ACM}{a} s = TN + SN = ST = CMS - z$. Let $d = \\frac{CS \\times \\sin. ACM}{a} - b$, and then $ac + ds = CMS - z$, and CMS = $z + ac + ds$, as in the preceding method.\n\n**Third Method.**\n\nLet $z =$ the angle SMN, $s =$ the series expressing its sine, and $c =$ the series expressing its cosine, as before; but let $a$ now denote the sine of CSM, and $b$ its cosine, and let MN meet CS in H. Then $ac + bs$ is equal to the sine of the sum of the angles SMH, MSC, that is, $ac + bs = \\sin. MHA =$ sin. ACE, the excentric anomaly. We have therefore $CE : ac + bs :: CS : \\frac{CS(ac + bs)}{CE} = ST = CMS - z$.\n\nLet $d = \\frac{CS \\times a}{CE}$, and $e = \\frac{CS \\times b}{CE}$, and then $dc + es = CMS - z$, and CMS = $z + dc + es = z + d - \\frac{dz^2}{2} + \\frac{dz^4}{2.3.4} - \\frac{dz^6}{2.3.4.5.6} + &c. + ez - \\frac{ez^3}{2.3} + \\frac{ez^5}{2.3.4.5} - &c. = d + z + ez - \\frac{dz^2}{2} - \\frac{ez^3}{2.3} + \\frac{dz^4}{2.3.4} + \\frac{ez^5}{2.3.4.5} - &c.$\n\nLet $f = CMS - d$, and then $f = Az - Bz^2 - Cz^3 + Dz^4 + Ez^5 - &c.$ putting A, B, C, &c. for the coefficients. By reversing this series, or by putting $d$ for $a$,\nDr. Robertson's expeditious methods of calculating\n\n\\( e \\) for \\( d \\), and \\( f \\) for \\( e \\), in the series in the first method, we find\n\n\\[\nR^o = \\frac{R^o}{1+e}f + \\frac{R^o}{2(1+e)^3}f^2 + \\frac{R^o}{6(1+e)^4}f^3 + \\frac{R^o}{2(1+e)^5}f^4 - \\frac{R^o}{24(1+e)^6}f^6 \\\\\n+ \\frac{5R^o}{12(1+e)^6}f^4 + \\frac{5R^o}{8(1+e)^7}f^4 + &c.\n\\]\n\nI prefer this method to the first or second, and therefore I proceed to calculate by it.\n\n**Example I.**\n\nLet us suppose with M. Delambre* that the mean anomaly is \\( 135^\\circ \\), and the eccentricity of the orbit \\( 0.25 \\), the mean distance from the sun being 1.\n\nHere \\( CM + CS = 1.25 \\), \\( CM - CS = .75 \\), and \\( \\frac{CM - CS}{CM + CS} = \\frac{.75}{1.25} \\),\n\nthe log. of which is to be used for any given mean anomaly in the orbit.\n\n\\[\n\\begin{array}{l}\n\\text{Log. tan. } 67^\\circ 30' = 10.3827757 \\\\\n\\text{Log. tan. } 55^\\circ 22' 49.84'' = 10.1609270 \\\\\nCSM = 122^\\circ 52' 49.84''\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{l}\nCMS = 12^\\circ 7' 10.16'' = 43630'' 16'' \\\\\n\\text{Log. } 4.6297867 \\\\\n\\text{Log. } 5.3144251 \\\\\nCMS = .2115249 \\\\\n\\text{Log. } 9.3253616\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{l}\nCS = 0.25 \\\\\n\\text{Log. } 9.3979400 \\\\\na \\\\\n\\text{Log. } 9.9241783 \\\\\nd = .2099511 \\\\\n\\text{Log. } 9.3221183 \\\\\n.2115249 = CMS \\\\\n\\text{Log. } 7.1969495\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{l}\nCS = - \\\\\n\\text{Log. } 9.3979400 \\\\\nb \\\\\n\\text{Log. } 9.7347108 \\\\\ne = .1357222 \\\\\n\\text{Log. } 9.1326508 \\\\\n\\text{As CSM is obtuse, } e \\text{ is negative.} \\\\\n.0015738 = f, \\text{Log. } 7.1969495 \\\\\n1 + e = .8642778 \\text{ Log. } 9.9366534\n\\end{array}\n\\]\n\n* Vol. II. page 28.\nThe angle SMN is therefore calculated from the series in the following manner:\n\nFirst term.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 1.7581226 \\\\\nf & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 7.1969495 \\\\\n& \\quad 8.9550721 \\\\\n1 + e & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 9.9366534 \\\\\n\\text{Numb.} & \\quad .1043322 \\quad \\text{Log.} \\quad 9.0184187 \\\\\n\\text{For 2d term} & \\quad .0000231 \\\\\n\\text{Sum} & \\quad 0^\\circ.1043553 = 6'..15.\"67 \\\\\n\\text{SMH. CSM} & \\quad = 122^\\circ..52 ..49. 84 \\\\\n\\text{ACE} & \\quad = 122 ..59..5.51\n\\end{align*}\n\\]\n\nSecond term.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 1.7581226 \\\\\nd & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 9.3221183 \\\\\nf^2 & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 4.3938990 \\\\\n2, \\text{Log.} & \\quad - \\quad - \\quad - \\quad 0.3010300 \\\\\n(1+e)^3 & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 15.1731099 \\\\\n\\text{Numb.} & \\quad .0000231 \\quad \\text{Log.} \\quad 5.3631497\n\\end{align*}\n\\]\n\nThis differs from M. Delambre's conclusion only in the second place of the decimals.\n\n**Example II.**\n\nSupposing, with M. Delambre, that the mean anomaly in the same orbit is 96°, required the excentric anomaly.\n\nWe have as before\n\n\\[\n\\begin{align*}\n\\frac{.75}{1.25} & \\quad - \\quad - \\quad - \\quad \\text{Log.} \\quad 9.7781513 \\\\\n\\text{Log. tan.} & \\quad 48^\\circ.. \\quad - \\quad - \\quad - \\quad - \\quad 10.0455626 \\\\\n\\text{Log. tan.} & \\quad 33 ..40'..41\" ..51 \\quad - \\quad - \\quad - \\quad 9.8237139 \\\\\n\\text{CSM} & \\quad = 81 ..40 ..41\" ..51 \\\\\n\\text{CMS} & \\quad = 14 ..19 ..18. 49 = 51558.49 \\quad \\text{Log.} \\quad 4.7123003 \\\\\n& \\quad 206264.8 \\quad \\text{Log.} \\quad 5.3144251 \\\\\n\\text{CMS} & \\quad = .2499627 \\quad \\text{Log.} \\quad 9.3978752\n\\end{align*}\n\\]\nDr. Robertson's expeditious methods of calculating\n\n\\[ CS = 0.25 \\quad \\text{Log.} \\quad 9.3979400 \\]\n\\[ a \\quad \\text{Log.} \\quad 9.9954030 \\]\n\\[ d = .2473677 \\quad \\text{Log.} \\quad 9.3933430 \\]\n\\[ .2499627 = CMS \\]\n\\[ .0025950 = f \\quad \\text{Log.} \\quad 7.4141374 \\]\n\nFirst term of the series.\n\n\\[ R^\\circ \\quad \\text{Log.} \\quad 1.7581226 \\]\n\\[ f \\quad \\text{Log.} \\quad 7.4141374 \\]\n\\[ 9.1722600 \\]\n\\[ (1 + e) \\quad \\text{Log.} \\quad .0154366 \\]\n\\[ \\text{Num.} \\quad .1434906 \\quad \\text{Log.} \\quad 9.1568234 \\]\n\\[ 2d \\text{term} \\quad .0000429 \\]\n\\[ \\text{Sum} \\quad 0^\\circ.1435335 \\quad = \\quad 8'.36''.72 \\]\n\\[ = \\text{SMN. CSM} \\quad = \\quad 81^\\circ.40'.41''.51 \\]\n\\[ ACE \\quad = \\quad 81'.49''.18''.23 \\]\n\nSecond term of the series.\n\n\\[ R^\\circ \\quad \\text{Log.} \\quad 1.7581226 \\]\n\\[ d \\quad \\text{Log.} \\quad 9.3933430 \\]\n\\[ f^2 \\quad \\text{Log.} \\quad 4.8282748 \\]\n\\[ 15.9797404 \\]\n\\[ 2 \\quad \\text{Log.} \\quad .3010300 \\]\n\\[ 15.6787104 \\]\n\\[ (1 + e)^3 \\quad \\text{Log.} \\quad .0463098 \\]\n\\[ \\text{Num.} \\quad .0000429 \\quad \\text{Log.} \\quad 5.6324006 \\]\n\nThis also differs from M. Delambre's conclusion only in the second place of decimals.\n\n**Example III.**\n\nLet us suppose ALP to be the orbit of the comet which appeared in 1682, and reappeared in 1759, according to the prediction of Dr. Halley; that CE is equal to 18.07575, that that CS is equal to 17.49225, and that the mean anomaly is 179°.47'.32''.17, it is required to find the excentric anomaly.\n\nHere \\( \\frac{CM - CS}{CM + CS} = \\frac{.5835}{35.568} \\quad \\text{Log.} \\quad 8.2149815 \\)\n\\[ \\log. \\tan. \\quad 89^\\circ.53'.46''.08 \\quad \\text{Log.} \\quad 12.7415531 \\]\n\\[ \\log. \\tan. \\quad 83'.41'.34''.5 \\quad \\text{Log.} \\quad 10.9565346 \\]\n\\[ \\text{CSM} = 173'.35'.20''.58 \\]\n\\[ \\text{CMS} = 6'.12'.11''.58 = 22331.58 \\quad \\text{Log.} \\quad 4.3489194 \\]\n\\[ 206264.8 \\quad \\text{Log.} \\quad 5.3144251 \\]\n\\[ \\text{CMS} = .1082666 \\quad \\text{Log.} \\quad 9.0344943 \\]\nthe excentric from the mean anomaly of a planet.\n\n| CS = 17.49225 | Log. 1.2428457 |\n| --- | --- |\n| \\(a\\) | Log. 9.0478932 |\n\n\\[\n\\begin{align*}\nCE &= 18.07575 \\\\\nLog. & \\quad 1.2570963 \\\\\nd &= .1080544 \\\\\nLog. & \\quad 9.0336426 \\\\\n.1082666 &= CMS \\\\\n.0002122 &= f, Log. 6.3267454\n\\end{align*}\n\\]\n\nFirst term of the series.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad Log. 1.7581226 \\\\\nf & \\quad - \\quad Log. 6.3267454 \\\\\n(1+e) & \\quad - \\quad Log. 8.5835638 \\\\\nNum. & \\quad .3171788 \\quad Log. 9.5013042\n\\end{align*}\n\\]\n\nSecond term of the series.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad Log. 1.7581226 \\\\\nf^2 & \\quad - \\quad Log. 2.6534908 \\\\\nd & \\quad - \\quad Log. 9.0336426 \\\\\n2 & \\quad - \\quad Log. .3010300 \\\\\n(1+e)^3 & \\quad - \\quad Log. 5.7506914 \\\\\nNum. & \\quad .0024748 \\quad Log. 7.3935346 \\\\\n& \\quad .3171788 \\\\\n& \\quad .0000386 \\\\\n& \\quad .3196922 \\text{ sum of the positive} \\\\\n& \\quad - \\quad .0000406\n\\end{align*}\n\\]\n\nSMN = \\(0^\\circ.3196516 = 19'..10''..75\\)\n\nCSM = \\(173..35..20..58\\)\n\n\\[\n\\begin{align*}\nCS &= 17.49225 \\\\\nLog. & \\quad 1.2428457 \\\\\nb & \\quad - \\quad Log. 9.9972757 \\\\\n10.2907389 & \\quad 11.2401214 \\\\\nCE &= 18.07575 \\\\\nLog. & \\quad 1.2570963 \\\\\ne &= .9616678 \\\\\nLog. & \\quad 9.9830251 \\\\\nAs CSM is obtuse, e is negative. \\\\\n1+e &= .0383322 \\\\\nLog. & \\quad 8.5835638\n\\end{align*}\n\\]\n\nThird term of the series.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad Log. 1.7581226 \\\\\ne & \\quad - \\quad Log. 9.9830251 \\\\\nf^3 & \\quad - \\quad Log. 8.9802362 \\\\\n6 & \\quad - \\quad Log. .7781513 \\\\\n(1+e)^4 & \\quad - \\quad Log. 4.3342552 \\\\\nNum. & \\quad - \\quad .0000406 \\quad Log. 5.6089774\n\\end{align*}\n\\]\n\nFourth term of the series.\n\n\\[\n\\begin{align*}\nR^\\circ & \\quad - \\quad Log. 1.7581226 \\\\\nd^2 & \\quad - \\quad Log. 8.0672852 \\\\\nf^3 & \\quad - \\quad Log. 8.9802362 \\\\\n2 & \\quad - \\quad Log. .3010300 \\\\\n(1+e)^5 & \\quad - \\quad Log. 2.9178190 \\\\\nNum. & \\quad .0000386 \\quad Log. 5.5867950\n\\end{align*}\n\\]\n\n\\(173..54..31..33 = ACE.\\) With the design already\nexpressed, I adopted in this example the same data with Mr. Ivory: see Transactions of the Royal Society of Edinburgh, Vol. V. page 236.\n\nThe preceding method bears a nearer resemblance to that given by Keill, in his Astronomy, than to any other of which I know. Adapting his manner of proceeding to the figure here used, he puts $y = EM$, $e = \\sin AM$, $f \\cos AM$, and $g = CS$. The series expressing the sine of AE, is therefore equal to\n\n$$e - fy - \\frac{ey^2}{2} + \\frac{fy^3}{2.3} + \\frac{ey^4}{2.3.4} &c.$$ \n\nBut the radius, which is 1, is to the sine of AE as CS or $g$ is to ST or EM, that is to $y$. Consequently $y = ge - gfy - \\frac{gey^3}{2} + \\frac{gy^3}{2.3} + \\frac{gey^4}{2.3.4} &c.$ and therefore $ge = y + gfy + \\frac{gey^2}{2} - \\frac{gy^3}{2.3} - \\frac{gey^4}{2.3.4} &c.$\n\nBy reversing this he obtains a series, which, omitting the numbers in the coefficients, converges as the powers of $\\frac{ge}{1 + gf}$ or $\\frac{CS \\times \\sin AM}{1 + CS \\times \\cos AM}$. This degree of convergency to the value of $y$ in the foregoing examples is as follows.\n\nIn the first example as the powers of .2147372,\nIn the second example as the powers of .2553020,\nIn the third example as the powers of .1086700.\n\nIn the third method which has been here investigated, the series converges to the value of SMH as the powers of $\\frac{f}{1+e}$ or $\\frac{CMS - CS \\times \\sin CSM}{1 + CS \\times \\cos CSM}$. This degree of convergency in the foregoing examples is as follows.\n\nIn the first example as the powers of .0018209,\nIn the second example as the powers of .0250438,\nIn the third example as the powers of .0055358.\n\nThe third method, by which the three foregoing examples\nare calculated, appears to me the most simple and precise in theory, and the most expeditious in practice of any which I have seen. This I say with the greater degree of freedom, as I am so well aware of the similarity between its series and that of Keill's, and so perfectly convinced of the advantages which it derives from Cassini's approximation, that I consider it, with the exception of some deviations, as a combination of their methods.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107519.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 12,
+    "total-input-tokens": 19000,
+    "total-output-tokens": 7251,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1551,
+        2
+      ],
+      [
+        1551,
+        3155,
+        3
+      ],
+      [
+        3155,
+        4148,
+        4
+      ],
+      [
+        4148,
+        6176,
+        5
+      ],
+      [
+        6176,
+        7812,
+        6
+      ],
+      [
+        7812,
+        9424,
+        7
+      ],
+      [
+        9424,
+        11239,
+        8
+      ],
+      [
+        11239,
+        13188,
+        9
+      ],
+      [
+        13188,
+        15165,
+        10
+      ],
+      [
+        15165,
+        16845,
+        11
+      ],
+      [
+        16845,
+        17289,
+        12
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107519",
+    "title": "Direct and Expeditious Methods of Calculating the Excentric from the Mean Anomaly of a Planet",
+    "authors": "Abram Robertson",
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 12,
+    "jstor_url": "https://www.jstor.org/stable/107519"
+  }
+}

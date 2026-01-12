@@ -1,0 +1,89 @@
+{
+  "id": "434882935f0c414b2949cd99a41f2fdf6cd12c09",
+  "text": "A Letter from Mr. Nich. Waite Merchant of London, to Dr. Rob. Plot; concerning some Incombustible Cloth, lately exposed to the Fire before the Royal Society.\n\nSir,\n\nThe great respect and honour I bear to the learned and ingenious Gentlemen of the Royal Society, prevailed with me, within few days after my arrival in this City, to expose to their sight & examination a piece of LinnenCloth, which by their experiment consumed not in the fire: and you being then desirous I would give a short narrative of what Substance, and in what parts it is said to be made; I here send you the same account I received of it, from one Conco, a natural Chinese, resident in the City of Batavia in the North-East parts of India. Who, by means of Keay-arear Sukradana (likewise a Chinese, and formerly chief Customer to the old Sultan of Bantam) did after several years diligence, procure, from a great Mandarin in Lanquin (a province of China,) near 2 of a yard of the said cloth; and declared that he was credibly informed, that the Princes of Tartary, and others adjoining to them, did use it in burning their dead; and that it was laid and believed by them, to be made of the under part of the root of a tree growing in the Province of Sutan; and was supposed, in like manner, to be made of the Todda trees in India: and that, of the upper part of the said root, near the surface of the ground, was made a finer fort, which in three or four times burning I have seen diminish almost half: They report also, that out of the said tree there distills a liquor, which not consuming, is used with a Wiek made of the same\nfame material with the cloth, to burn in their Temples to posterity. This, Sr, is the true relation I received of the nature and substance of it from the Chinese above mention'd; if as a vegetable it agree not with your Experiments or Judgment, your own commands obligeing me to render you this account, I hope there will not any ill construction be made there of, which is all the Favour is desired by\n\nLondon,\n\nYour most assured Humble\n\nSept. 10th 1684.\n\nServant NICH. WAITE.\n\nThe Handkerchief or pattern of this Incombustible Linen, which was shewn the Royal Society, (part whereof is engraven Fig. 3.) being measured, was found in length 9 Inches, between the fringe or tassells; the fringe at each end being 3 Inches more; so that the whole was just a foot in length; and the breadth was just ½ a foot.\n\nThere were two proofs of its resisting fire given at London: one before some of the Members of the R. Society, privately, Aug. 20. 1684; when Oyl was permitted to be poured upon it whilst red hot, to enforce the violence of the fire: before it was put into the fire this first trial; it weighed one ounce, six drams, sixteen grains, and lost in the burning two drams, five grains.\n\nThe second Experiment of it was publick before the Society, Nov. 12 following, when it weighed (as appears by the Journal of the Society) before it was put into the fire, one ounce, three drams, 18 grains. Being put into a clear Charcoal fire, it was permitted to continue red hot in it, for several minutes: when taken out (though red hot) it did not consume a piece of white paper, on which it was layd: it was presently cool, and upon weigh-\ning it again, was found to have lost one dram, 6 grains.\n\nDec. 3, Mr. Arthur Bayly, one of the Fellows of the R. Society, presented them with a piece of this Linnen in the name of Mr. Waite. At the same time, the same Mr. Bayly presented Dr. Plot with another piece of it, which being brought to Oxford the Experiment was again repeated on it (Dec. 16,) it being put into a strong Charcoal fire in the Natural History School, in a full meeting of the Philosophical Society of that University; where after it had continued red hot for some considerable time, it was taken forth again little altered when cold, saving that it seemed a little whiter and cleaner than before it was put in; as appears upon the Journal of that Society. Concerning which, Dr. Plot, being desired to offer his thoughts, drew up the following Discours, which was read before the said Society, June the 23rd An. 1685.\n\nA Discourse concerning the Incombustible Cloth above mentioned; Address't in a Letter to Mr. Arthur Bayly Merchant, and Fellow of the R. Society; and to Mr. Nicholas Waite, Merchant of London; by Rob. Plot. LL. D.\n\nWorthy Gentlemen.\n\nThe Historical account of the incombustible Linnen Cloth above mention'd, being sent me by the one of You; and a noble present made me of part of it by the other; with a desire from both, that I would search the old Authors and see how agreeable their relations are to this; give you Both a just right to the following Discourse: which I desire you would believe I address to you, not so much out of Complement, as true gratitude for so valuable",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102156.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7978,
+    "total-output-tokens": 1316,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1604,
+        3
+      ],
+      [
+        1604,
+        3240,
+        4
+      ],
+      [
+        3240,
+        4812,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102156",
+    "title": "A Letter from Mr. Nich. Waite Merchant of London, to Dr. Rob. Plot; Concerning Some Incombustible Cloth, Lately Exposed to the Fire before the Royal Society",
+    "authors": "Nich. Waite",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102156"
+  }
+}

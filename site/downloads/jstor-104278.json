@@ -1,0 +1,69 @@
+{
+  "id": "60e252ac9441ee772dddaed8d5a4658c15027901",
+  "text": "the Progress which he has made in the Chinese Learning, those expressive Verses of Virgil in his Sixth Book of the Æneid:\n\n\\[ \\text{Pauci, quos æquus amavit} \\]\n\\[ \\text{Jupiter, aut ardens evexit ad æthera virtus,} \\]\n\\[ \\text{Diis geniti, potuere.} \\]\n\nV. A Query proposed to such curious Persons as use the Greenland Trade, occasioned by the annexed Letter from Mr. David Nicolson, Surgeon, to Dr. Mortimer, Sec. R.S.\n\n\"Whether the Scurvy-grass of Greenland be the same Species, as to its external Appearance, with the common Scurvy-grass of England? And, having no acrid Taste while growing in Greenland, doth it, being brought growing in Earth from Greenland, gradually acquire an acrid Taste, as it is brought into a warmer Climate?\"\n\nSIR,\n\nLondon, Dec. 16. 1730.\n\nI Communicate this as Matter of Truth, and not Hypothetic, viz. That the Scurvy-grass in Greenland, equally the same with ours in England, as to the Figure of the Plant, and all its Appearance to the Eye, changes its Nature much, as it approaches the Sun; for in that Climate, its principal Quality, the volatile Salt, is neither pungent nor perceiveable; but to the Taste, the whole Plant is intirely as insipid as the Colwort or Beet. So by my Endeavour,\nI preserved some Plants with their natural Earth, and brought them to London alive; and I observed the remarkable Change produced by the Sun's Heat on them; for the saline Matter in Greenland, which certainly was analogous to a fix'd Salt, became, in a Month's time, almost to the same Volatility as that which naturally grows in England.\n\nThis I make mention of, in case other Gentlemen, who have had the same Opportunity, have been remiss in their Curiosity.\n\nDavid Nicolson.\n\nVI. A Letter from Edmund Stone, F. R. S. to —— concerning two Species of Lines of the Third Order, not mentioned by Sir Isaac Newton, nor Mr. Sterling.\n\nSIR,\n\nHAVING for some time past been reading and considering the little Treatise of Sir Isaac Newton, intituled, Enumeratio Linearum tertii Ordinis, as also the ingenious Piece of Mr. Sterling, called, Illustratio Tractatus Domini Newtoni Linearum tertii Ordinis; I have observed, that they have neither of them taken Notice of the two following Species of Lines of the Third Order; and venture to affirm, that the Seventy-two Species mentioned by Sir Isaac, together with the Four more of Mr. Sterling, and these Two, making in all Seventy-eight, is the exact Number of the different Species of",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104278.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 697,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1228,
+        2
+      ],
+      [
+        1228,
+        2455,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104278",
+    "title": "A Query Proposed to Such Curious Persons as Use the Greenland Trade, Occasioned by the Annexed Letter from Mr. David Nicolson, Surgeon, to Dr. Mortimer, Sec. R. S.",
+    "authors": "David Nicolson",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104278"
+  }
+}

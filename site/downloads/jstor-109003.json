@@ -1,0 +1,59 @@
+{
+  "id": "4c96c038bdf5cd10f664a5d68f1da1f2c9c78cab",
+  "text": "XXIII. Researches into the Chemical Constitution of Narcotine, and of its Products of Decomposition.—Part III. By Augustus Matthiessen, F.R.S., Lecturer on Chemistry in St. Bartholomew's Hospital . . . . . . . . . . . . . . . . . . 661\n\nXXIV. Researches into the Chemical Constitution of Narcotine, and of its Products of Decomposition.—Part IV. By Augustus Matthiessen, F.R.S., Lecturer on Chemistry in St. Bartholomew's Hospital, and C. R. A. Wright, B.Sc.Lond. 667\n\nXXV. Researches on Vanadium.—Part II. By Henry E. Roscoe, B.A., Ph.D., F.R.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 679\n\nXXVI. On Palaeocoryne, a Genus of Tubularine Hydrozoa from the Carboniferous Formation. By P. Martin Duncan, F.R.S., Sec. Geol. Soc., and H. M. Jenkins, F.G.S., Sec. Royal Agric. Soc. . . . . . . . . . . . . . . . . . . . . . . . . 693\n\nXXVII. On Holtenia, a Genus of Vitreous Sponges. By Wyville Thomson, LL.D., F.R.S., Professor of Natural Science in Queen's College, Belfast . . . . . . . . . . 701\n\nXXVIII. Description of Parkeria and Loftusia, two gigantic types of Arenaceous Foraminifera. By William B. Carpenter, M.D., V.P.R.S., and Henry B. Brady, F.L.S. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 721\n\nXXIX. On the Structure and Development of the Skull of the Common Fowl (Gallus domesticus). By William Kitchen Parker, F.R.S. . . . . . . . . . . . . . . . . . . . . . . 755\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 809\n\nAPPENDIX.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [ 1 ]\n\nERRATUM.\nPage 575, line 9, for 1826 read 1845.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/109003.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 721,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1744,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-109003",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1869,
+    "volume": "159",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/109003"
+  }
+}

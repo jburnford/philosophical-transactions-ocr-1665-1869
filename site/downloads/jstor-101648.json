@@ -1,0 +1,59 @@
+{
+  "id": "d03f4d2681e75f75dfc5e2f2d01fc00c6552317d",
+  "text": "Sir,\n\nI do herewith send you an account I lately received from New Providence, one of the Bahama Islands, concerning Fish there, which is as followeth;\n\nI have not met with any rarities here worth that acceptance, though I have been diligent in inquiring after them: Of those which I have heard of, this seems most remarkable to me. The Fish, that are here, are many of them poisonous, bringing a great pain on their joints who eat them, which continues so for some short time, and at last with two or three days itching the pain is rubbed off. Those of the same species, size, shapes, colour and taste, are one of them poison, the other not in the least hurtful: And those that are, are so only to some of the company. The distemper to Men never, that we hear of, proves mortal. Doggs and Cats sometimes eat their last. In men that have once had that disease, upon the first eating of fish, though it be those that are wholesome, the poisonous ferment in their body is revived thereby, and their pain increased.\n\nThus far the ingenious person from whom I had this relation, who having been but a very little while upon the Island when he writ this, could not send so perfect an account of this odd Observation, as one could wish, or as I expect to hear from him in answer to some Queries I lately sent him by a Ship bound thither. When his Answer comes to my hand, if there be any thing in it, which may gratify your curiosity, I shall be glad of that or any other occasion to assure you, that I am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101648.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 402,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1504,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101648",
+    "title": "An Extract of a Letter, Written to the Publisher by Mr. J. L. about Poisonous Fish in One of the Bahama Islands",
+    "authors": "Mr. J. L.",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101648"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "0223e52894c9bf1cf11b32bfc0ebfa0ca8da38af",
+  "text": "sters; and designing his discourse only as an Inaugural Oration to his Anatomical lectures, chooses rather to promise a just tract of the subject some other time, than now to pretend to any accuracy; which the decent brevity of a Speech made both improper and unfeasible.\n\nAdvertisement.\n\nThe Reader is desired to take notice that whereas in this translation the matter falls out short something of five Sheets, so there was in the last also more by half a Sheet: which happens by reason of the difficulty of adjusting matter before hand. However the Buyer may be assured that whenever it thus falls out that the book at any time less than usual in any translation, he shall be repaired again in some other following, if not in the preceding ones, as in the present case.\n\nERRATA.\n\nPag. 216. l. 11. the other. P. 220. l. 12. magnetical.\n\nOXFORD,\n\nPrinted by Leonard Lichfield, Printer to the University, and are to be sold by Hen. Rogers at the Sign of the Bible in Westminster Hall, and Sam. Smith at the Princes Arms in St. Pauls Church-yard.\n\n1683.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102241.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 313,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1051,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102241",
+    "title": "Errata",
+    "authors": null,
+    "year": 1683,
+    "volume": "13",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102241"
+  }
+}

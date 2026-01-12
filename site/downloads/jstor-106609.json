@@ -1,0 +1,309 @@
+{
+  "id": "c5fdf47cbb5944071a41befe3b37fabc08093a90",
+  "text": "XL. Methodus inveniendi Lineas Curvas ex proprietatibus Variationis Curvaturae. Auëtore Nicolao Landerbeck, Mathef. Profess. in Acad. Upsaliensi Adjuncto. Communicated by Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal.\n\nRead July 1, 1784.\n\nPARS SECUNDA*.\n\nCURVAS, ex proprietate variationis curvaturae invenire, indice per functionem coordinatarum cujusdam expressio, problema et si indeterminatum est; juvat tamen ad curvas cognoscendas, quum facile et sponte se offerunt conditiones determinantes qui rei conveniunt et quae in casu quovis examini subjecto locum habent. Quo consilio et qua arte calculum inire oporteat, ut et haec et his affinia peragenda sint, quae ad curvas ex curvaturae variatione cognoscendas pertineant, per theoremata quae sequuntur, exponere conabor.\n\nTHEOREMA I. (Vide tab. XXI. fig. 2.)\n\nSi curvae cujusdam LC index variationis curvaturae sit $T$, radius curvedinis $R$, sinus anguli BCD $\\rho$, positio sinu toto $r$, arcus curvae LC $z$ coordinatæ perpendiculares $x$ et $y$ earumque fluxiones $dp$, $dz$, $dx$, et $dy$ dicantur, erit\n\n$$\\frac{dz}{\\sqrt{T dz}} = - \\frac{dp}{\\sqrt{1 - \\rho^2}}.$$  \n\nQuoniam $dx = - R dp$ et $dz = - \\frac{dx}{\\sqrt{1 - \\rho^2}}$ habetur $\\frac{dz}{R} = - \\frac{dp}{\\sqrt{1 - \\rho^2}}$\n\n* See Vol. LXXIII. p. 456.\net quum \\( dR = T \\, dz \\) erit \\( R = \\int T \\, dz \\) et substitutione \\( \\frac{dz}{\\int T \\, dz} = - \\)\n\n\\[\n\\frac{dp}{\\sqrt{1-p^2}}.\n\\]\n\nCor. 1. Hinc obtinetur \\( \\frac{dx}{R} = - dp \\), \\( \\frac{dy}{R} = - \\frac{p \\, db}{\\sqrt{1-p^2}} \\) et \\( \\frac{dz}{R} = - \\)\n\n\\[\n\\frac{dp}{\\sqrt{1-p^2}}.\n\\]\n\nCor. 2. Si Tangens anguli BCD per \\( r \\), Secans per \\( s \\) designen-\ntur habetur \\( \\frac{dz}{\\int T \\, dz} = - \\frac{dr}{1+r^2} \\) et \\( \\frac{dz}{\\int T \\, dz} = - \\frac{ds}{s \\sqrt{s^2-1}} \\).\n\nSchol. 1. Ex hoc theoremate facilis deducitur methodus gene-\nraliter calculandi variationem curvaturæ curvæ cujuscumque.\nNam \\( \\int T \\, dz = - \\frac{dz \\sqrt{1-p^2}}{dp} \\), quantitas vero \\( \\frac{dz \\sqrt{1-p^2}}{dp} \\) datur, data\ninter \\( x \\) et \\( y \\) relatione. Sit valor quantitatis \\( \\frac{dz \\sqrt{1-p^2}}{dp} = Z \\) func-\ntioni curvæ \\( z \\), \\( \\int T \\, dz = Z \\) et sumtis fluxionibus \\( T \\, dz = \\dot{Z} \\, dz \\) qua\n\\( T = \\dot{Z} \\) functioni ipsius \\( z \\). Si valor quantitatis \\( \\frac{dz \\sqrt{1-p^2}}{dp} = P \\) per\n\\( p \\) expressus, erit \\( \\int T \\, dz = P \\) sumtisque fluxionibus \\( T \\, dz = \\dot{P} \\, dp \\) et\n\\( T = \\frac{\\dot{P} \\, dp}{dz} \\), quæ functio est quantitatis \\( p \\), in potestate semper est\n\\( \\frac{dp}{dz} \\) per \\( p \\) exprimere.\n\nSchol. 2. Hujus etiam theorematis subsidio inveniri possunt\ncurvæ ex data relatione inter \\( T \\) et \\( z \\), \\( R \\) et \\( z \\), \\( R \\) et \\( y \\), et \\( R \\) et \\( p \\).\nSi enim fit \\( T = Z \\) functioni quantitatis \\( z \\), erit \\( \\int T \\, dz = \\int Z \\, dz + A \\),\nvi theorematis \\( \\frac{dz}{\\int Z \\, dz + A} \\left( = \\frac{dz}{\\int T \\, dz} \\right) = - \\frac{dp}{\\sqrt{1-p^2}} \\) et integratione\n\\( \\int \\frac{dz}{\\int Z \\, dz + A} + C = - \\frac{dp}{\\sqrt{1-p^2}} \\). Posita \\( \\int \\frac{dz}{\\int Z \\, dz + A} + C = b \\) et \\( N \\) nu-\nmerus\nmerus cujus logarithmus hyperbolicus \\( i \\) habetur \\( \\sqrt{1 - p^2} = \\frac{N^{b\\sqrt{-1}} - N^{-b\\sqrt{-1}}}{2\\sqrt{-1}} \\) et \\( p = \\frac{N^{b\\sqrt{-1}} + N^{-b\\sqrt{-1}}}{2} \\), quae functiones sunt quantitatis \\( z \\), quibus positis \\( Z \\) et \\( \\sqrt{1 - Z^2} \\) respective proveniunt \\( x ( = \\int dz \\sqrt{1 - p^2}) = \\int Z dz \\) et \\( y ( = \\int pdz) = \\int dz \\sqrt{1 - Z^2} \\) quarum alterutra curvarum indoles innotescit.\n\nSi \\( R = X \\) functioni abscissæ \\( x \\) provenit \\( \\frac{dx}{X} (= \\frac{dx}{R}) = -dp \\) et integratione \\( \\dot{X} (= C - \\int \\frac{dx}{R}) = p \\) unde \\( \\sqrt{1 - p^2} = \\sqrt{1 - X^2} \\) et \\( y ( = \\int \\frac{pdz}{\\sqrt{1 - p^2}}) = \\int \\frac{\\dot{x}dz}{\\sqrt{1 - X^2}} \\) æquatio curvæ indolem exprimens.\n\nEt si \\( R = Y \\) functioni ordinatæ \\( y \\), habetur \\( \\frac{dy}{Y} (= \\frac{dy}{R}) = -\\frac{pdp}{\\sqrt{1 - p^2}} \\) et integratione \\( \\dot{Y} (= \\int \\frac{dy}{Y} + C) = \\sqrt{1 - p^2} \\), unde \\( p = \\sqrt{1 - Y^2} \\) et \\( x ( = \\int \\frac{dy \\sqrt{1 - p^2}}{p}) = \\int \\frac{\\dot{y}dy}{\\sqrt{1 - Y^2}} \\) quae exprimit natu- ram curvæ.\n\nHinc colligitur quod quoties \\( Tdz \\) perfecte integretur et \\( \\int \\frac{dz}{\\int Zdz + A} \\) obtineatur per arcus circulares dum aut \\( \\int \\dot{Z}dz \\) aut \\( \\int dz \\sqrt{1 - Z^2} \\) absolutam admittat integrationem, curvæ erunt rectificabiles, et algebraicæ, si relatio inter \\( x \\) et \\( z \\) vel inter \\( y \\) et \\( z \\) in relationem algebraicam inter \\( x \\) et \\( y \\) permutari possit.\n\nEvidens etiam est quod si \\( X \\) functio est algebraica quantitatis \\( x \\) vel \\( Y \\) quantitatis \\( y \\), et non solum \\( \\frac{dx}{x} \\) vel \\( \\frac{dy}{Y} \\) sed etiam \\( \\frac{\\dot{x}dz}{\\sqrt{1 - X^2}} \\) vel \\( \\frac{\\dot{y}dy}{\\sqrt{1 - Y^2}} \\) quantitates perfecte integrabiles, curvæ eva- dunt algebraicæ, alias transcendentes.\n\nExempl.\nExempl. 1. Invenienda sit curva ubi variatio curvaturae \\( T = \\frac{3 \\cdot 8a + 27z^3 - za^3}{a^3 \\sqrt{8a + 27z^3 - 4a^3}} \\). Ut simplicior reddatur calculus ponatur\n\n\\[\n\\frac{du}{u \\sqrt{u - 4b}} = u \\text{ et } a^3 = b \\text{ erit } z = \\frac{u^2 - 86}{27}, \\quad dz = \\frac{du}{18}, \\quad T = \\frac{3u - 2b}{\\sqrt{b} \\sqrt{u - 4b}}\n\\]\n\net \\( \\int T \\, dz = \\frac{u \\sqrt{u - 4b}}{18 \\sqrt{b}} + A \\); fit constans hæc \\( A = a \\), quod accidit evanescente \\( \\int T \\, dz \\, u = b \\), habetur per theorema\n\n\\[\n\\frac{du}{u \\sqrt{u - 4b}} (\\int dz) = - \\frac{dp}{\\sqrt{1 - p^2}} \\text{ et integratione } \\int \\frac{du}{u \\sqrt{u - 4b}} + C = -\n\\]\n\n\\[\n\\int \\frac{dp}{\\sqrt{1 - p^2}}, \\text{ cujus æquationis termini quum sint arcus circulares quorum sinus } \\sqrt{1 - p^2} = \\frac{\\sqrt{u - 4b}}{\\sqrt{u}} \\text{ et cosinus } p = \\frac{2 \\sqrt{b}}{\\sqrt{u}}, \\text{ posito arci constanti } C = 0, \\text{ obtinetur } y (= \\int pdz) = \\int \\frac{du}{9} + B) =\n\\]\n\n\\[\n\\frac{\\sqrt{u - 4b} \\sqrt{b}}{9} \\text{ nam } B = \\frac{4b \\sqrt{b}}{9}, \\text{ posita } y = 0 \\text{ et } u = 4b, \\text{ atque } x (= \\int dz \\sqrt{1 - p^2}) = \\int \\frac{du}{18} = \\frac{u - 4b}{27} \\text{ quibus æquationibus exterminata } u \\text{ et substituta } a \\text{ habetur } y^3 = ax^2 \\text{ æquatio pro parabola cubica.}\n\nExempl. 2. Si fit variatio curvaturae \\( T = \\frac{2z}{a} \\) erit \\( \\int T \\, dz \\) (= \\( \\int \\frac{2zdz}{a} \\)) \\( = \\frac{z^2}{a} + A \\) et si \\( Z = 0 \\) \\( \\int T \\, dz = a \\) erit constans \\( A = a \\), atque vi theorematis\n\n\\[\n\\frac{adz}{a^2 + z^2} (\\int dz) = - \\frac{dp}{\\sqrt{1 - p^2}} \\text{ et integratione }\n\\]\n\n\\[\n\\int \\frac{adz}{a^2 + z^2} + C = - \\int \\frac{dp}{\\sqrt{1 - p^2}}; \\text{ posito arci constanti } C = 0 \\text{ cæteri sunt æquales eorumque sinus et cosinus, unde } \\sqrt{1 - p^2} =\n\\]\n\n\\[\n\\frac{z}{\\sqrt{a^2 + z^2}}, \\quad p = \\frac{a}{\\sqrt{a^2 + z^2}} \\text{ et } dx (= dz \\sqrt{1 - p^2}) = \\frac{zdz}{\\sqrt{a^2 + z^2}} \\text{ et } dy (= \\int pdz)\n\\]\n\\( p dz = \\frac{adz}{\\sqrt{a^2 + z^2}} \\), quibus constat curvam esse catenariam.\n\n**Exempl. 3.** Sit variatio curvaturae \\( T = \\frac{a - z}{\\sqrt{2az - z^2}} \\), evadit \\( \\int T dz = \\sqrt{2az - z^2} \\), per theorema \\( \\frac{dz}{\\sqrt{2az - z^2}} = \\frac{dz}{\\int T dz} = -\\frac{dp}{\\sqrt{1 - p^2}} \\) et per integrationem \\( \\int \\frac{dz}{\\sqrt{2az - z^2}} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}} \\), si arcus ille constans \\( C = 0 \\), caeteri sunt aequales eorumque sinus et cosinus, quo \\( \\sqrt{1 - p^2} = \\frac{\\sqrt{2az - z^2}}{a} \\), \\( p = \\frac{a - z}{a} \\) et \\( y (\\int pdz) = \\int \\frac{a - zdz}{a} = \\frac{2az - z^2}{a} \\) aequatio pro cycloide ordinaria.\n\n**THEOREMA II.**\n\nManentibus antea adhibitis denominationibus erit \\( \\frac{dx}{y + \\int T dx} = -\\frac{dp}{\\sqrt{1 - p^2}} \\).\n\nQuoniam \\( \\frac{dx}{R} = -dp \\), erit dividendo per \\( \\sqrt{1 - p^2} \\), \\( \\frac{dx}{R\\sqrt{1 - p^2}} = -\\frac{dp}{\\sqrt{1 - p^2}} \\). Propter \\( 1 : \\sqrt{1 - p^2} :: CD(R) : CF = R\\sqrt{1 - p^2} \\), sed \\( dz : dx :: T dz : T dx \\), quae fluxio est ipsius DE, quare \\( DE = \\int T dx \\), unde \\( CF = y + \\int T dx \\) qua pro \\( R\\sqrt{1 - p^2} \\) substituta, prodit \\( \\frac{dx}{y + \\int T dx} = -\\frac{dp}{\\sqrt{1 - p^2}} \\).\n\n**Cor. 1.** Quantitas \\( dy + T dx \\) semper est perfecte integrabilis. Nam \\( T dx = -\\frac{ddx\\sqrt{1 - p^2}}{dp} \\) et \\( dy = \\frac{pdz}{\\sqrt{1 - p^2}} \\) unde \\( dy + T dx = \\frac{pdz}{\\sqrt{1 - p^2}} \\).\n\n\\[ \\frac{ddx\\sqrt{1 - p^2}}{dp} \\] et integratione \\( y + \\int T dx = -\\frac{dx\\sqrt{1 - p^2}}{dp} \\).\n\n**Cor.**\nCor. 2. Dicatur semichorda curvaturæ CF F, obtinetur\n\n\\[ \\frac{dx}{F} = -\\frac{dp}{\\sqrt{1-p^2}}, \\quad \\frac{dy}{F} = -\\frac{pdp}{x-p^2} \\text{ et } \\frac{dz}{F} = -\\frac{dp}{1-p^2}. \\]\n\nCor. 3. Si Tangens anguli BCD per r, Secans per s designen-\ntur habetur \\( \\frac{dv}{y + \\int T dx} = -\\frac{dr}{1+r^2} \\text{ et } \\frac{dx}{y + \\int T dx} = -\\frac{ds}{s\\sqrt{s^2-1}}. \\)\n\nSchol. 1. Per hoc theorema via etiam patet calculandi gene-\nraliter variationem curvaturæ. Est enim \\( y + \\int T dx = -\\frac{dx\\sqrt{1-p^2}}{dp}, \\) quantitas vero \\( \\frac{dx\\sqrt{1-p^2}}{dp} \\) datur data inter x et p rela-\ntione. Sit valor quantitatis \\( \\frac{dx\\sqrt{1-p^2}}{dp} = X \\) functioni abscissæ x\næquatione ad curvam inventus, erit \\( \\int T dx = X - y \\) et sumtis\nfluxionibus \\( T dx = \\dot{X} dx - dy, \\) qua \\( T = \\dot{X} - \\frac{dy}{dx} \\) ubi tam \\( \\dot{X} \\) quam\n\\( \\frac{dy}{dx} \\) sunt functiones abscissæ x. Si valor quantitatis \\( \\frac{dx\\sqrt{1-p^2}}{dp} \\)\n= P per p expressus, erit \\( \\int T dx = P - y \\) sumtisque fluxionibus\n\\( T dx = \\dot{P} dp - dy, \\) qua \\( T = \\frac{\\dot{P} dp}{dx} - \\frac{p}{\\sqrt{1-p^2}} \\) ubi \\( \\frac{\\dot{P} dp}{dx} \\) functio est quan-\ntitatis p, nam \\( \\frac{dp}{dx} \\) per p exprimi potest.\n\nSchol. 2. Hoc adhibito theoremate inveniri etiam possunt\ncurvæ, ex data relatione inter T et x, F et x, F et y, F et z,\net F et p. Posita enim T functione quantitatis x, patet per\ncurvarum quadraturas, aut perfectam aut imperfectam quanti-\ntatis T dx obtineri integrationem. Sit \\( \\int T dx = \\dot{X} + \\int \\dot{X} dx \\)\nfunctioni vel algebraicæ vel ex parte transcendentì ipsius x,\ncujus terminis homogeneus valor ipsius y = \\( \\int \\dot{X} dx \\) capiatur,\nisque ejus indolis ut \\( \\int \\dot{X} + \\dot{X} dx \\), vel quod idem est \\( y + \\int T dx = \\)\nex proprietatibus Variationis Curvaturæ.\n\n\\[ X + \\int \\frac{dx}{x + \\sqrt{x^2 - X^2}} \\text{ integratione absoluta habeatur, permanente } T dx = T dx \\sqrt{1 - X^2} \\text{ perfecte integrabili. Per theorema deinde habetur } \\frac{dx}{x + \\sqrt{x^2 - X^2}} \\left( = \\frac{dx}{y + \\int T dx} \\right) = -\\frac{dp}{\\sqrt{1 - p^2}}, \\text{ et per integrationem } \\int \\frac{dx}{x + \\sqrt{x^2 - X^2}} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}}, \\text{ si ponatur } \\int \\frac{dx}{x + \\sqrt{x^2 - X^2}} + C = k \\text{ et } N \\text{ basi logarithmorum hyperbolicorum, erit } \\sqrt{1 - p^2} = \\frac{N^{k/2} - 1 - N^{-k/2} - 1}{2\\sqrt{-1}} \\text{ et } p = \\frac{N^{k/2} + 1 + N^{-k/2} + 1}{2}, \\sqrt{1 - p^2} \\text{ et } p \\text{ igitur sunt functiones ipsius } x, \\text{ quae si ponantur } \\sqrt{1 - X^2} \\text{ et } X, \\text{ habetur } y \\left( = \\int \\frac{pdx}{\\sqrt{1 - p^2}} \\right) = \\int \\frac{X dx}{\\sqrt{1 - X^2}}, \\text{ æquatio qua curvae internoscuntur. }\n\nSi fit \\( F = Y \\) functioni quantitatis \\( y \\) erit per Cor. 2.\n\n\\[ \\frac{dy}{Y} \\left( = \\frac{dy}{F} \\right) = -\\frac{dp}{1 - p^2} \\text{ et integratione } \\int \\frac{dy}{Y} + \\log.C = \\log.\\sqrt{1 - p^2}, \\text{ ponatur } \\int \\frac{dy}{Y} = k \\text{ et } N \\text{ logarithmorum basi, erit facto ad quantitates absolutas transitu } CN^k = \\sqrt{1 - p^2}, p = \\sqrt{1 - C^2 N^{2k}} \\text{ et } x \\left( = \\int \\frac{dy \\sqrt{1 - p^2}}{p} \\right) = \\int \\frac{CN^k dy}{\\sqrt{1 - C^2 N^{2k}}}, \\text{ æquatio quæ indolem curvæ indicat. }\n\nSi \\( F = Z \\) functioni ipsius \\( z \\) erit \\( \\frac{dz}{Z} \\left( = \\frac{dz}{F} \\right) = -\\frac{dp}{1 - p^2} \\text{ et integratione } \\int \\frac{dz}{Z} + \\log.C = \\log.\\sqrt{\\frac{1 - p}{1 + p}}, \\text{ et si } \\int \\frac{dz}{Z} = k \\text{ et } N \\text{ basi logarithmica habetur } p = \\frac{1 - C^2 N^{2k}}{1 + C^2 N^{2k}} \\text{ et } y = \\int pdz = \\int \\frac{1 - C^2 N^{2k}}{1 + C^2 N^{2k}} \\text{ qua curvae cognoscuntur. }\n\nVol. LXXIV.\nConstat hinc quod quoties $X + \\int X dx$ perfecta integratione habeatur $\\int \\frac{dx}{x + \\int x dx}$ per arcus circulares dum $\\frac{\\int x dx}{\\sqrt{1 - x^2}}$ absolutam admittat integrationem curva fit algebraica, si vero aliter evenerit transcendens.\n\nQuoties $\\frac{dy}{Y}$ fit integrale logarithmicum et $\\frac{CN^k dy}{\\sqrt{1 - C^2 N^{2k}}}$ absolutam admittat integrationem curva est algebraica, in aliis casibus transcendens.\n\nEt quoties $\\int \\frac{dz}{Z}$ per logarithmos inveniatur, $\\frac{1 - C^2 N^{2k} dz}{1 + C^2 N^{2k}}$ absolute fit integrabilis pariter ac $\\frac{2CN^k dz}{1 + C^2 N^{2k}}$ curva est algebraica, alias transcendens.\n\nExempl. 1. Si fit variatio curvaturae $T = \\frac{3 \\cdot b^2 - a^2 x \\sqrt{a^2 - x^2}}{a^3 b}$ erit $\\int T dx = \\left( \\frac{a^2 - b^2 \\cdot a^2 - x^2 \\sqrt{a^2 - x^2}}{a^3 b} \\right) = a \\sqrt{a^2 - x^2} - \\frac{x^2 \\sqrt{a^2 - x^2}}{ab} - \\frac{b \\sqrt{a^2 - x^2}}{a} + bx \\sqrt{a^2 - x^2} \\frac{a^2}{a^3}$, si ponatur $y = \\frac{b \\sqrt{a^2 - x^2}}{a}$ habetur $y + \\int T dx = \\frac{a^2 + b^2 - a^2 x^2 \\sqrt{a^2 - x^2}}{a^3 b}$, adhibendo theorema $\\frac{a^3 b dx}{a^4 + b^2 - a^2 x^2 \\sqrt{a^2 - x^2}}$ ($= \\frac{dx}{y + \\int T dx}$) $= - \\frac{dp}{\\sqrt{1 - p^2}}$ et integrando $\\int \\frac{a^3 b dx}{a^4 + b^2 - a^2 x^2 \\sqrt{a^2 - x^2}} + C = - \\int \\frac{dp}{\\sqrt{1 - p^2}}$, cujus termini sunt arcus circulares quorum sinus $\\sqrt{1 - p^2} = \\frac{a \\sqrt{a^2 - x^2}}{\\sqrt{a^4 + b^2 - a^2 x^2}}$ et cosinus $p = \\frac{bx}{\\sqrt{a^4 + b^2 - a^2 x^2}}$ evanescente arcu constanti $C$, quare $y (\\int \\frac{pdx}{\\sqrt{1 - p^2}}) = \\int \\frac{bdx}{a \\sqrt{a^2 - x^2}} = \\frac{b \\sqrt{a^2 - x^2}}{a}$ et in hoc casu curva est ellipsis.\n\nExempl.\nExempl. 2. Sit jam variatio curvaturae \\( T = \\frac{2\\sqrt{2ax + x^2}}{a} \\) erit\n\n\\[ \\int T \\, dx = \\frac{x\\sqrt{2ax + x^2}}{a} + \\int \\frac{adx}{\\sqrt{2ax + x^2}} \\] et posita \\( y = \\int \\frac{adx}{\\sqrt{2ax + x^2}} \\) perfecta integratione habetur \\( y + \\int T \\, dx = \\frac{a + x\\sqrt{2ax + x^2}}{a} \\). Theorematis itaque auxilio erit \\( \\frac{adx}{a + x\\sqrt{2ax + x^2}} \\) (\\( = \\frac{dx}{y + \\int T \\, dx} = -\\frac{dp}{\\sqrt{1 - p^2}} \\), et integratione \\( \\int \\frac{adx}{a + x\\sqrt{2ax + x^2}} = C = -\\int \\frac{dp}{\\sqrt{1 - p^2}} \\), si vero arcus ille constans \\( C = 0 \\) caeteri sunt aequales eorumque sinus et cosinus, unde \\( \\sqrt{1 - p^2} = \\frac{\\sqrt{2ax + x^2}}{a + x} \\), \\( p = \\frac{a}{a + x} \\) et \\( y = \\int \\frac{pdx}{\\sqrt{1 - p^2}} = \\int \\frac{adx}{\\sqrt{2ax + x^2}} \\), aequatio indicans curvam esse catenariam.\n\n**THEOREMA III.**\n\nDicatur cosinus anguli BCD \\( q \\), positio radio \\( r \\), caeterisque manentibus denominationibus erit \\( \\frac{dy}{\\int T \\, dy - x} = \\frac{dq}{\\sqrt{1 - q^2}} \\).\n\nEst enim \\( \\frac{av}{R} = aq \\), qua per \\( \\sqrt{1 - q^2} \\) divisa, dat \\( \\frac{dy}{R\\sqrt{1 - q^2}} = \\frac{dq}{\\sqrt{1 - q^2}} \\); et ob \\( 1 : \\sqrt{1 - q^2} :: CD (R) : CG = R\\sqrt{1 - q^2} \\), fed \\( dz : dy :: T \\, dz : T \\, dy \\) cujus integrale est \\( AE = \\int T \\, dy \\), unde \\( CG (= AE - AB) = \\int T \\, dy - x \\), qua pro \\( R\\sqrt{1 - q^2} \\) substituta, prodit \\( \\frac{dy}{\\int T \\, dy - x} = \\frac{dq}{\\sqrt{1 - q^2}} \\).\n\nCor. 1. Semper \\( T \\, dy - dx \\) admittit perfectam integrationem.\n\nEtenim \\( T \\, dy = \\frac{ddy\\sqrt{1 - q^2}}{dq} \\) et \\( dx = \\frac{qdy}{\\sqrt{1 - q^2}} \\), quibus \\( T \\, dy - dx = \\frac{ddy\\sqrt{1 - q^2}}{dq} - \\frac{qdy}{\\sqrt{1 - q^2}} \\) et integratione \\( \\int T \\, dy - x = \\frac{dy\\sqrt{1 - q^2}}{aq} \\).\n\nCor.\nCor. 2. Dicatur semichorda curvaturae CG G, habetur\n\n\\[ \\frac{dy}{G} = \\frac{dq}{\\sqrt{1-q^2}}, \\quad \\frac{dx}{G} = \\frac{dq}{1-q^2}, \\quad \\text{et} \\quad \\frac{dz}{G} = \\frac{dq}{1-q^2}. \\]\n\nCor. 3. Dicatur cotangens anguli BCD t, et cofecans v erit\n\n\\[ \\int Tdy - x = \\frac{dt}{1+t^2} \\quad \\text{et} \\quad \\int Tdy - x = \\frac{dv}{v \\sqrt{v^2-1}}. \\]\n\nSchol. 1. Quoniam \\( \\int Tdy - x = \\frac{dy \\sqrt{1-q^2}}{dq} \\) daturex data relatione inter y et q, fit \\( \\frac{dy \\sqrt{1-q^2}}{dq} = Y \\) functioni ordinatæ y erit \\( \\int Tdy = Y - x \\) sumtisque fluxionibus \\( Tdy = \\dot{Y}dy - dx \\) qua \\( T = \\dot{Y} - \\frac{dx}{dy} \\) functioni ipsius y. Si autem \\( \\frac{dy \\sqrt{1-q^2}}{dq} = Q \\) functioni ipsius q erit \\( \\int Tdy = Q - x \\) et sumtis fluxionibus \\( Tdy = \\dot{Q}dq - dx \\), qua habetur \\( T = \\frac{\\dot{Q}dq}{dy} - \\frac{q}{\\sqrt{1-q^2}} \\) per q.\n\nSchol. 2. Hujus theorematis auxilio elicere licet curvas data relatione inter T et y, G et y, G et x, G et z, et G et q. Si enim fit T functio ipsius y generaliter \\( \\int Tdy = Y + \\int \\dot{Y}dy + A \\), quae functio est algebraica ipsius y quoties \\( \\int \\dot{Y}dy \\) absolute sumi possit. Assumatur \\( x = \\int \\dot{Y}dy \\), tali ipsius y functioni ut non solum \\( \\int Tdy - x = Y + \\int \\dot{Y}dy \\) sed etiam \\( \\int Tdz = \\int Tdy \\) \\( \\sqrt{1-\\dot{Y}^2} \\) absoluta integratione habeantur, provenit vi theorematis\n\n\\[ \\frac{dy}{Y + \\int \\dot{Y}dy + A} = \\frac{dq}{\\sqrt{1-q^2}} \\quad \\text{(=} \\frac{dy}{\\int Tdy - x}) = \\frac{dq}{\\sqrt{1-q^2}} \\quad \\text{et integratione} \\]\n\n\\[ \\int \\frac{dy}{Y + \\int \\dot{Y}dy + A} + C = \\int \\frac{dq}{\\sqrt{1-q^2}}. \\]\n\nPosita \\( \\frac{dy}{Y + \\int \\dot{Y}dy + A} + C = \\int \\frac{dq}{\\sqrt{1-q^2}} \\)\n\n\\[ + C = l \\text{et N basi logarithmica erit } q = \\frac{N^{1/\\sqrt{-1}} - N^{-1/\\sqrt{-1}}}{2 \\sqrt{-1}} \\text{ et } \\sqrt{1-q^2}. \\]\nex proprietatibus Variationis Curvaturæ.\n\n\\[\n\\frac{N^{1/2} - N^{-1/2}}{2} \\text{ quae functiones sunt quantitatis } y, \\text{ quibus positis } Y \\text{ et } \\sqrt{1 - Y^2} \\text{ prodit } x \\left( = \\int \\frac{qdy}{\\sqrt{1 - q^2}} \\right) = \\int \\frac{Ydy}{\\sqrt{1 - Y^2}} \\text{ aequatio quae indolem curvarum indicat.}\n\\]\n\nSi \\( G = X \\) functioni ipsius \\( x \\) erit per Cor. 2. \\( \\frac{dx}{x} \\left( = \\frac{dx}{G} \\right) = \\frac{dq}{1 - q^2}, \\)\n\net integratione log. \\( CN^l \\left( = \\int \\frac{dx}{x} + \\log. C \\right) = \\log. \\frac{1}{\\sqrt{1 - q^2}} \\text{ fi } \\int \\frac{dx}{x} = l, \\text{ exinde } \\sqrt{1 - q^2} = \\frac{1}{CN^l}, \\)\n\n\\( q = \\frac{\\sqrt{C^2N^{2l} - 1}}{CN^l} \\text{ et } y \\left( = \\int \\frac{dx\\sqrt{1 - q^2}}{q} \\right) = \\int \\frac{dx}{\\sqrt{C^2N^{2l} - 1}}, \\text{ quae curvae naturam indigitat.}\n\\]\n\nSi \\( G = Z \\) functioni ipsius \\( z \\) erit \\( \\frac{dz}{Z} \\left( = \\frac{dz}{G} \\right) = \\frac{dq}{1 - q^2}, \\)\n\net integratione log. \\( CN^l \\left( = \\frac{dz}{Z} + C \\right) = \\log. \\frac{1 + q}{\\sqrt{1 - q^2}} \\text{ fi } \\int \\frac{dz}{Z} = l, \\text{ unde } q = \\frac{C^2N^{2l}\\sqrt{1 - q^2}}{1 + C^2N^{2l}} \\text{ et } x \\left( = \\int qdz \\right) = \\int \\frac{C^2N^{2l} - 1}{1 + C^2N^{2l}} \\text{ et } y \\left( = \\int dz\\sqrt{1 - q^2} \\right) = \\int \\frac{2CN^l dz}{1 + C^2N^{2l}} \\text{ quibus curvae cognoscuntur.}\n\nPatet hinc quod quando \\( Y + \\int Ydy \\) algebraice habeatur\n\n\\[\n\\int \\frac{dy}{Y + \\int Y + Ydy + A} \\text{ per quadraturam circuli, et } \\int \\frac{Ydy}{\\sqrt{1 - Y^2}} \\text{ etiam obtineatur algebraice, curvae evadunt algebraicæ, secus vero transcendentæ.}\n\\]\n\nQuando \\( \\int \\frac{dx}{x} \\) vel \\( \\int \\frac{dz}{Z} \\) obtineatur per logarithmos, et\n\n\\[\n\\int \\frac{dx}{\\sqrt{C^2N^{2l} - 1}}, \\text{ vel tam } \\int \\frac{C^2N^{2l} - 1}{1 + C^2N^{2l}} \\text{ quam } \\int \\frac{2CN^l dz}{1 + C^2N^{2l}} \\text{ absoluta integratione, curvae erunt algebraicæ.}\n\\]\n\nExempli...\nExempl. 1. Sit index variationis curvaturae \\( T = \\frac{6y}{a} \\) erit \\( \\int T \\, dy = \\frac{3y^2}{a} + A \\), si quantitas illa constans \\( A = \\frac{a}{2} \\) quod evenit quum \\( \\int T \\, dy = \\frac{a}{2} \\) et \\( y = 0 \\); sumatur \\( x = \\frac{y^2}{a} \\) erit vi theorematis \\( \\frac{2ady}{a^2 + 4y^2} \\)\n\n\\[\n\\left( = \\frac{dy}{\\int T \\, dy - x} \\right) = \\frac{dq}{\\sqrt{1-q^2}} \\text{ et integratione } \\int \\frac{2ady}{a^2 + 4y^2} + C = \\int \\frac{dq}{\\sqrt{1-q^2}},\n\\]\n\ncujus æquationis termini quoniam sint arcus circulares quorum sinus \\( q = \\frac{2y}{\\sqrt{a^2 + 4y^2}} \\) et cosinus \\( \\sqrt{1-q^2} = \\frac{a}{\\sqrt{a^2 + 4y^2}} \\), arcu constanti \\( C = 0 \\), obtinetur \\( x = \\int \\frac{qdy}{\\sqrt{1-q^2}} = \\frac{y^2}{a} \\) æquatio pro parabola Apolloniana.\n\nExempl. 2. Si sit \\( T = \\frac{a^2}{y \\sqrt{a^2-y^2}} \\) habetur \\( \\int T \\, dy = \\int \\frac{dy \\sqrt{a^2-y^2}}{y} \\);\n\n\\( \\sqrt{a^2-y^2} + A \\), si quantitas illa constans \\( A = 0 \\) quod evenit quum \\( \\int T \\, dy = 0 \\) et \\( y = a \\), et assumatur \\( x = \\int \\frac{dy \\sqrt{a^2-y^2}}{y} \\), evadit per theorema \\( -\\frac{dy}{\\sqrt{a^2-y^2}} \\left( = \\frac{dy}{\\int T \\, dy - x} \\right) = \\frac{dq}{\\sqrt{1-q^2}} \\), et per integrationem\n\n\\(- \\int \\frac{dy}{\\sqrt{a^2-y^2}} + C = \\int \\frac{dq}{\\sqrt{1-q^2}}, \\text{ quorum arcuum sinus } q = \\frac{\\sqrt{a^2-y^2}}{a} \\text{ et cosinus } \\sqrt{1-q^2} = \\frac{y}{a} \\text{ si constans ille } C = 0, \\text{ atque inde } dx \\left( \\frac{qdy}{\\sqrt{1-q^2}} \\right) = \\frac{dy \\sqrt{1-q^2}}{y} \\text{ qua patet curvam esse tractoriam.}\n\nTHEOREMA IV.\n\nDicatur summa tangentium angulorum HCD et BCD H, et differentia tangentium angulorum HCD et CKB K, retentis reliquis denominationibus erit \\( \\int \\frac{dx}{Hdx} = -\\frac{\\phi p}{\\sqrt{1-p^2}} \\) et \\( \\int \\frac{dy}{Kdy} = \\frac{dq}{\\sqrt{1-q^2}} \\).\n\nQuoniam\nQuoniam \\( dy = \\frac{pdx}{\\sqrt{1-p^2}} \\) erit \\( dy + Tdx = T + \\frac{p}{\\sqrt{1-p^2}} dx \\) et quum \\( H = T + \\frac{p}{\\sqrt{1-p^2}} \\) habetur \\( dy + Tdx = Hdx \\). Eodem modo quum \\( dx = \\frac{qdy}{\\sqrt{1-q^2}} \\) erit \\( \\int Tdy - dx = T - \\frac{q}{\\sqrt{1-q^2}} dy \\), sed \\( K = T - \\frac{q}{\\sqrt{1-q^2}} \\), unde \\( \\int Tdy - x = Kdy \\). Per theorema igitur 2 et 3 provenit\n\n\\[\n\\int \\frac{dx}{Hdx} = -\\frac{dp}{\\sqrt{1-p^2}} \\quad \\text{et} \\quad \\int \\frac{dy}{Kdy} = \\frac{dq}{\\sqrt{1-q^2}}.\n\\]\n\nCor. Si fit ut antea tangens anguli BCD \\( r \\), cotangens \\( t \\), secans \\( s \\), et cosecans \\( v \\), erit\n\n\\[\n\\int \\frac{dx}{Hdx} = -\\frac{dr}{r+r^2} \\quad \\text{et} \\quad \\int \\frac{dx}{Hdx} = -\\frac{ds}{s\\sqrt{s^2-1}},\n\\]\n\n\\[\n\\int \\frac{dy}{Kdy} = \\frac{dt}{1+t^2} \\quad \\text{et} \\quad \\int \\frac{dy}{Kdy} = \\frac{dv}{v\\sqrt{v^2-1}}.\n\\]\n\nSchol. Ope hujus theorematis invenire licet curvas, data relatione inter \\( H \\) et \\( x \\) atque \\( K \\) et \\( y \\). Itaque fit \\( H = X \\) functioni ipsius \\( x \\) erit \\( \\int Hdx = \\int Xdx + A \\), vi theorematis\n\n\\[\n\\int \\frac{dx}{Xdx+A} = -\\frac{dp}{\\sqrt{1-p^2}}, \\quad \\text{et integratione} \\quad \\int \\frac{dx}{Xdx+A} + C = -\\int \\frac{dp}{\\sqrt{1-p^2}}.\n\\]\n\nPosita \\( \\int \\frac{dx}{Xdx+A} + C = m \\), et \\( N \\) logarithmorum basi prodit\n\n\\[\n\\sqrt{1-p^2} = \\frac{N^{m\\sqrt{-1}} - N^{-m\\sqrt{-1}}}{2\\sqrt{-1}} \\quad \\text{et} \\quad p = \\frac{N^{m\\sqrt{-1}} + N^{-m\\sqrt{-1}}}{2}, \\quad \\text{quibus functionibus quantitatis } x \\text{ positis } \\sqrt{1-X^2} \\text{ et } X \\text{ provenit æquatio }\n\\]\n\n\\( y (\\int \\frac{pdx}{\\sqrt{1-p^2}}) = \\frac{Xdx}{\\sqrt{1-X^2}} \\) naturam curvarum exprimens.\n\nSi \\( K = Y \\) functioni quantitatis \\( y \\), eadem calculandi ratione habetur \\( x (\\int \\frac{qdy}{\\sqrt{1-q^2}}) = \\frac{Ydy}{\\sqrt{1-Y^2}} \\) æquatio qua curvae cognoscuntur.\n\nQuando\nQuando \\( \\int X dx \\) vel \\( \\int Y dy \\) absoluta integratione, \\( \\int \\frac{dx}{X dx + A} \\) vel \\( \\int \\frac{dy}{Y dy + A} \\) per rectificationem circuli, et \\( \\int \\frac{X dx}{\\sqrt{1 - X^2}} \\) vel \\( \\int \\frac{Y dy}{\\sqrt{1 - Y^2}} \\) integratione perfecta obtineantur, curva est algebraica.\n\nExempl. 1. Si sit \\( H = \\frac{a + 4x}{2\\sqrt{a}\\sqrt{x}} \\) erit \\( \\int H dx = \\frac{a + 4x}{\\sqrt{a}} + A \\), et posita \\( A = 0 \\) habetur per theorema \\( \\frac{dx\\sqrt{a}}{a + 4x\\sqrt{x}} \\left( = \\frac{dx}{\\int H dx} \\right) = -\\frac{dp}{\\sqrt{1 - p^2}} \\)\n\net per integrationem \\( \\int \\frac{dx\\sqrt{a}}{a + 4x\\sqrt{x}} + C = \\int \\frac{dp}{\\sqrt{1 - p^2}} \\), cujus termini quum sint arcus circulares quorum sinus \\( \\sqrt{1 - p^2} = \\frac{2\\sqrt{x}}{\\sqrt{a + 4x}} \\) et cosinus \\( p = \\frac{\\sqrt{a}}{\\sqrt{a + 4x}} \\), posita \\( C = 0 \\), obtinetur \\( y \\left( = \\int \\frac{p dx}{\\sqrt{1 - p^2}} \\right) = \\sqrt{ax} \\), quae parabolam Apolloniam exprimit.\n\nExempl. 2. Sit \\( H = \\frac{2a^2 - x^2}{ax^2\\sqrt{a^2 - x^2}} \\) erit \\( \\int H dx = \\frac{x^2 - 2a^2\\sqrt{a^2 - x^2}}{ax} + A \\),\n\net si \\( A = 0 \\), per theorema \\( \\frac{adx}{x^2 + 2a^2\\sqrt{a^2 - x^2}} \\left( = \\frac{dx}{\\int H dx} \\right) = -\\frac{dp}{\\sqrt{1 - p^2}} \\) et per integrationem \\( \\int \\frac{adx}{x^2 - 2a^2\\sqrt{a^2 - x^2}} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}} \\), et si \\( C = 0 \\),\n\n\\( \\sqrt{1 - p^2} = \\frac{\\sqrt{a^2 - x^2}}{\\sqrt{2a^2 - x^2}} \\) \\( p = \\frac{a}{\\sqrt{2a^2 - x^2}} \\) et \\( y \\left( = \\int \\frac{p dx}{\\sqrt{1 - p^2}} \\right) = \\int \\frac{adx}{\\sqrt{a^2 - x^2}} \\) æquatio pro curva sinuum.\n\nExempl. 3. Si sit \\( K = \\frac{5a^2 + 6y^2}{a\\sqrt{a^2 + y^2}} \\) erit \\( \\int K dy = \\frac{a^2 + 4y^2}{a^2 + y^2} + A \\),\n\nsi \\( A = 0 \\) habetur per theorema \\( \\frac{a^2 dy}{a^2 + 2y^2\\sqrt{a^2 + y^2}} \\left( = \\frac{dy}{\\int K dy} \\right) = \\frac{dq}{\\sqrt{1 - q^2}} \\) et integratione \\( \\int \\frac{a^2 dy}{a^2 + 2y^2\\sqrt{a^2 + y^2}} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}} \\), qua \\( q = \\frac{y}{\\sqrt{a^2 + 2y^2}} \\),\n\n\\( \\sqrt{1 - q^2} = \\frac{\\sqrt{a^2 + y^2}}{\\sqrt{a^2 + 2y^2}} \\), si \\( C = 0 \\), unde \\( x \\left( = \\int \\frac{q dy}{\\sqrt{1 - q^2}} \\right) = \\sqrt{a^2 + y^2} \\) æquatio pro hyperbola æquilatera.\n\nExempl.\nExempl. 4. Sit $K = \\frac{y}{\\sqrt{a^2 - y^2}}$ erit $\\int Kdy = A - \\sqrt{a^2 - y^2}$ et si $A = 0$, per theorema $-\\frac{dy}{\\sqrt{a^2 - y^2}} (= \\frac{dy}{\\int Kdy}) = \\frac{dq}{\\sqrt{1 - q^2}}$ et per integrationem $-\\int \\frac{dy}{\\sqrt{a^2 - y^2}} + C = \\int \\frac{dq}{\\sqrt{1 - q^2}}$ qua $q = \\frac{\\sqrt{a^2 - y^2}}{a}, \\sqrt{1 - q^2} = \\frac{y}{a}$ et $dm (= \\frac{qdy}{\\sqrt{1 - q^2}}) = \\frac{dy \\sqrt{a^2 - y^2}}{y}$ quae Tractoriam exprimit.\n\nTHEOREMA V.\n\nDesignetur productum tangentium angulorum HCD et BCD per U, et angulorum HCD et CKB per V cæteris manentibus erit $\\frac{dx}{\\int Udx - x} = -\\frac{dp}{p}$ et $\\frac{dy}{Y + \\int Vdy} = \\frac{dq}{q}$.\n\nQuoniam $dy = \\frac{pdx}{\\sqrt{1 - p^2}}$ et $U = \\frac{Tb}{\\sqrt{1 - p^2}}$ erit $Tdy (= \\frac{Tpdx}{\\sqrt{1 - p^2}}) = Udx$, et integratione $\\int Tdy = \\int Udx$ qua $\\int Tdy - x = \\int Udx - x$.\n\nEt quoniam $dx = \\frac{qdy}{\\sqrt{1 - q^2}}$ et $V = \\frac{Tq}{\\sqrt{1 - q^2}}$ erit $Tdx (= \\frac{Tqdy}{\\sqrt{1 - q^2}}) = Vdy, \\int Tdx = \\int Vdy$ et $y + \\int Tdx = y + \\int Vdy$. Theoremate 2. et 3. prodit $\\frac{dx}{\\int Udx - x} = -\\frac{dp}{p}$ et $\\frac{dy}{y + \\int Vdy} = \\frac{dq}{q}$.\n\nCor. Si anguli BCD tangens, cotangens, &c. designentur ut antea, habetur $\\frac{dx}{\\int Udx - x} = -\\frac{dr}{r \\cdot 1 + r^2}, \\frac{dy}{y + \\int Vdy} = -\\frac{dt}{t \\cdot 1 + t^2}, &c.$\n\nSchol. Per hoc theorema curvæ inveniuntur ex data relatione inter U et x, atque inter V et y. Si enim sit $U = X$ functioni ipsius x erit $\\int Udx = \\int Xdx + A$, per theorema $\\frac{dx}{\\int Xdx - x + A} (= \\frac{dx}{\\int Udx - x}) = -\\frac{dp}{p}$, et per integrationem $\\int \\frac{dx}{\\int Xdx - x + A} + \\log. C =$\nlog. \\( \\frac{1}{p} \\). Ponatur \\( \\int \\frac{dx}{Xdx - x + A} = n \\) et \\( N \\) basi logarithmica, erit\n\n\\( \\frac{1}{p} = CN^n \\), \\( p = \\frac{1}{CN^n} \\), \\( \\sqrt{1 - p^2} = \\frac{\\sqrt{C^2N^{2n} - 1}}{CN^n} \\) et \\( y \\left( = \\frac{pdx}{\\sqrt{1 - p^2}} \\right) = \\)\n\n\\( \\int \\frac{dx}{\\sqrt{C^2N^{2n} - 1}} \\) qua æquatione curvarum indoles innotescit.\n\nSi \\( V = Y \\) functioni ipsius \\( y \\), eadem calculandi ratione provenit \\( x \\left( = \\int \\frac{qdy}{\\sqrt{1 - q^2}} \\right) = \\int \\frac{CN^n dy}{\\sqrt{1 - C^2N^{2n}}} \\) qua curvae cognoscuntur.\n\nEvidens hinc est quod quoties \\( \\int Xdx \\) vel \\( \\int Ydy \\) algebraice \\( \\int \\frac{dx}{Xdx - x + A} \\) vel \\( \\int \\frac{dy}{y + \\int Ydy + A} \\) per logarithmos, atque \\( \\int \\frac{dx}{\\sqrt{C^2N^{2n} - 1}} \\)\n\nvel \\( \\int \\frac{CN^n dy}{\\sqrt{1 - C^2N^{2n}}} \\) integratione absoluta, obtineantur, curva est algebraica.\n\nExempl. 1. Si fit \\( U = 3 \\) erit \\( \\int Udxdx = 3x + A \\), si vero \\( \\int Udxdx = \\frac{a}{2} \\) quando \\( x = 0 \\) erit \\( A = \\frac{a}{2} \\) et \\( \\int Udxdx - x = \\frac{a + 4x}{2} \\). Per theorema\n\nigitur \\( \\frac{2dx}{a + 4x} \\left( = \\int \\frac{dx}{Udx - x} \\right) = - \\frac{dp}{p} \\) et per integrationem log.\n\n\\( \\sqrt{a + 4x} + \\log. C = \\log. \\frac{1}{p} \\), posita \\( p = 1 \\) dum \\( x = 0 \\) log. \\( C = - \\log. \\sqrt{a} \\), unde facto a logarithmis transitu \\( \\frac{\\sqrt{a + 4x}}{\\sqrt{a}} = \\frac{1}{p} \\), qua \\( p = \\)\n\n\\( \\frac{\\sqrt{a}}{\\sqrt{a + 4x}} \\), \\( \\sqrt{1 - p^2} = \\frac{2\\sqrt{x}}{\\sqrt{a + 4x}} \\) et \\( y \\left( = \\int \\frac{pdx}{\\sqrt{1 - p^2}} \\right) = \\int \\frac{dx}{2\\sqrt{x}} \\) \\( = \\sqrt{ax} \\)\n\næquatio pro Parabola Apolloniana.\n\nExempl. 2. Sit \\( U = \\frac{x^3 - 4a^3}{x\\sqrt{x}} \\) erit \\( \\int Udxdx = \\frac{x^3 - 2a^3}{3x^2} + A \\), si autem \\( \\int Udxdx = 0 \\) et \\( x = a\\sqrt{2} \\), erit \\( A = 0 \\) et \\( \\int Udxdx - x = \\frac{2a^3 - x^3}{3x^2} \\). Vi\n\nigitur theorematis erit \\( \\frac{3x^2 dx}{2a^3 - x^3} \\left( = \\int \\frac{dx}{Udx - x} \\right) = - \\frac{dp}{p} \\), et integratione\nex proprietatibus Variationis Curvaturae.\n\n\\[\n\\log \\frac{a}{\\sqrt{a^3 - x^3}} + \\log C = \\log \\frac{1}{p} \\text{ qua } p = \\frac{\\sqrt{a^3 - x^3}}{a \\sqrt{x}}; \\quad \\sqrt{1 - p^2} = \\frac{x \\sqrt{x}}{a \\sqrt{a}}\n\\]\n\net \\( y = \\int \\frac{pdx}{\\sqrt{1 - p^2}} = \\frac{dx \\sqrt{a^3 - x^3}}{x \\sqrt{x}} \\) æquatio ad curvam quæsitam.\n\nExempl. 3. Si \\( V = -\\frac{1}{2} \\) erit \\( \\int Vdy = A - \\frac{y}{2} \\), posita \\( \\int Vdy = 0 \\)\n\net \\( y = 0 \\) erit \\( A = 0 \\) et \\( y + \\int Vdy = \\frac{y}{2} \\). Per theorema obtinetur\n\n\\[\n\\frac{2dy}{y} \\left( = \\frac{dy}{y + \\int Vdy} \\right) = \\frac{dq}{q} \\text{ et per integrationem log. } y^2 + \\log C =\n\\]\n\nlog. \\( q \\), si \\( q = 1 \\) et \\( y = a \\) erit log. \\( C = -\\log a^2 \\), unde \\( q = \\frac{y^2}{a^2} \\),\n\n\\[\n\\sqrt{1 - q^2} = \\frac{\\sqrt{a^4 - y^4}}{a^2} \\text{ atque } dx \\left( = \\frac{qdy}{\\sqrt{1 - q^2}} \\right) = \\frac{y^2 dy}{\\sqrt{a^4 - y^4}}, \\text{ curva ergo est Elastica},\n\\]\n\nExempl. 4. Sit \\( V = \\frac{a^2 - 2y^2}{y^2} \\) erit \\( \\int Vdy = A - \\frac{a^2 + 2y^2}{y} \\), si \\( \\int Vdy = -3a \\) et \\( y = a \\) erit \\( A = 0 \\), indeque \\( y + \\int Vdy = -\\frac{a^2 + y^2}{y} \\).\n\nTheorematis ope habetur \\( -\\frac{ydy}{a^2 + y^2} \\left( = \\frac{dy}{y + \\int Vdy} \\right) = \\frac{dq}{q} \\) et integratione\n\n\\[\n\\log \\frac{1}{\\sqrt{a^2 + y^2}} + \\log C = \\log q, \\text{ si } q = 1 \\text{ et } y = 0 \\text{ erit log. } C = \\log a\n\\]\n\net exinde \\( q = \\frac{a}{\\sqrt{a^2 + y^2}}, \\sqrt{1 - q^2} = \\frac{y}{\\sqrt{a^2 + y^2}} \\text{ et } dx \\left( = \\frac{qdy}{\\sqrt{1 - q^2}} \\right) = \\frac{ady}{y} \\) æquatio pro Logarithmica.\n\nTHEOREMA VI.\n\nDicatur ED L, et AE M, retentis præterea adhibitis denominationibus erit \\( \\frac{dL}{T} = dx \\) et \\( \\frac{dM}{T} = dy \\).\n\nQuoniam \\( dz : dx :: Tdz (dR) : Tdx \\) habetur \\( dL = Tdx \\) et \\( Sffz \\) \\( dL \\)\n\\[\n\\frac{dL}{T} = dx. \\quad \\text{Et quoniam } dz : dy :: Tdz (dR) : Tdy \\text{ obtinetur } dM \\\\\n= Tdy \\text{ et } \\frac{dM}{T} = dy.\n\\]\n\nCor. Quum \\( Tdy = Udx \\) et \\( Tdx = Vdy \\), erit substitutione\n\n\\[\n\\frac{dM}{U} = dx \\text{ et } \\frac{dL}{V} = dy.\n\\]\n\nSchol. Hoc adhibito theoremate inveniri possunt curvae data relatione inter \\( T \\) et \\( L \\), \\( T \\) et \\( M \\), atque inter \\( U \\) et \\( M \\) et \\( V \\) et \\( L \\).\n\nPonatur \\( L = T \\) functioni quantitatis \\( T \\) habetur per theorema\n\n\\[\n\\frac{dT}{T} (= \\frac{dL}{T}) = dx \\text{ et integratione } \\int \\frac{dT}{T} + C = x \\text{ qua } T \\text{ per } x \\text{ datur.}\n\\]\n\nCurvae deinde per theorema 2. elici possunt.\n\nSi \\( M = T \\) ipsius \\( T \\) functioni, habetur eodem modo \\( T \\) per \\( y \\).\n\nSi \\( M = U \\) functioni ipsius \\( U \\), obtinetur \\( U \\) per \\( x \\), et si \\( L = V \\) functioni quantitatis \\( V \\), datur \\( V \\) per \\( y \\). Per theorema deinde 3. et 5. curvae inveniuntur.\n\nEvidens quidem est quod curvae esse non possunt algebraicae nisi \\( \\int \\frac{dL}{T}, \\int \\frac{dM}{T}, \\int \\frac{dM}{U} \\) vel \\( \\int \\frac{dL}{V} \\), obtineantur integratione absoluta.\n\nExempl. 1. Si fit \\( L = \\frac{aT^3}{54} \\) erit \\( dL = \\frac{aT^2dT}{18} \\), et per hoc theorema\n\n\\[\n\\frac{aTdT}{18} (= \\frac{dL}{T}) = dx \\text{ et integratione } \\frac{aT^2}{36} + C = x \\text{ qua } T = \\frac{6\\sqrt{x}}{\\sqrt{a}}, \\text{ si } C = 0. \\text{ Per theorema 2. reperitur } \\sqrt{ax}, \\text{ æquatio pro Parabola Apolloniana.}\n\nExempl. 2. Si fit \\( M = -\\int \\frac{aT^2dT}{2(1+T^2)^2} \\) erit \\( dM = -\\frac{aT^2dT}{2(1+T^2)^2} \\) et ope theorematis\n\n\\[\n-\\frac{aTdT}{2(1+T^2)^2} (= \\frac{dM}{T}) = dy, \\text{ et integratione } \\frac{a}{4(1+T^2)} + C = y, \\text{ qua si } C = 0, \\text{ } T = \\frac{\\sqrt{a-4y}}{2\\sqrt{y}}. \\text{ Per theorema 3. habetur }\n\\]\nex proprietatibus Variationis Curvaturae.\n\n\\[ dx = \\frac{2dy\\sqrt{y}}{\\sqrt{a - 4y}}, \\text{ æquatio pro Cycloide ordinaria.} \\]\n\nExempl. 3. Sit \\( L = -a\\sqrt{V} \\) Verit \\( dL = -\\frac{adV}{2\\sqrt{V}} \\) et per theorema\n\n\\[ -\\frac{adV}{2V\\sqrt{V}} \\left( = \\frac{dL}{V} \\right) = dy \\] et integratione \\( \\frac{a}{\\sqrt{V}} + C = y \\), et si \\( C = 0 \\), habetur \\( V = \\frac{a^2}{y^2} \\) et deinde per theorema 5. \\( dx = \\frac{dy\\sqrt{a^2 - y^2}}{y} \\), qua constat curvam esse Tractoriam.\n\nTHEOREMA VII.\n\nDicatur ut antea CF F et CG G, et summa tangentium angulorum HCD et BCD, H, et differentia tangentium angulorum HCD et CKB, K, erit \\( \\frac{dF}{H} = dx \\) et \\( \\frac{dG}{K} = dy \\).\n\nQuoniam \\( dF (= dy + Tdx) = Hdxdx \\) et \\( dG (= \\int Tdy - x) = Kdy \\) provenit \\( \\frac{dF}{H} = dx \\) et \\( \\frac{dG}{K} = dy \\).\n\nCor. Quum \\( F = -\\frac{dx\\sqrt{1-p^2}}{dp} \\) et \\( G = \\frac{dy\\sqrt{1-q^2}}{dp} \\) provenit divisione \\( \\frac{dF}{FH} = -\\frac{dp}{\\sqrt{1-p^2}} \\) atque \\( \\frac{dG}{GK} = \\frac{dq}{\\sqrt{1-q^2}} \\).\n\nSchol. Auxilio hujus theorematis inveniuntur curvae ex data relatione inter F et H, G et K, H et p atque K et q. Nam fit \\( F = H \\) functioni ipsius H, vel \\( G = K \\) functioni ipsius K, habetur per theorema \\( \\frac{dH}{H} \\left( = \\frac{dF}{H} \\right) = dx \\) et integratione \\( \\int \\frac{dH}{H} + C = x \\) qua H per x datur. Eodem modo \\( \\frac{dK}{K} \\left( = \\frac{dG}{K} \\right) = dy \\) et integratione \\( \\int \\frac{dK}{K} + C = y \\) qua K per y obtinetur. Theorema 4. ulterius progredienti viam monstrat ad curvas inveniendas.\n\nPatet\nPatet quod curva non sit algebraica nisi \\( \\int \\frac{dH}{H} \\) vel \\( \\int \\frac{dK}{K} \\) obtineantur perfecta integratione.\n\n**Exempl. 1.** Si fit \\( F = \\frac{a}{\\sqrt{1 + H^2}} \\) habetur per theorema \\( \\frac{adH}{1 - H^2} \\left( = \\frac{dF}{H} \\right) = dx \\), et integratione \\( \\frac{aH}{\\sqrt{1 - H^2}} + C = -x \\) qua \\( H = -\\frac{x}{\\sqrt{a^2 - x^2}} \\), posita \\( C = 0 \\). Per theorema deinde 4. provenit \\( y = \\sqrt{a^2 - x^2} \\) æquatio pro circulo.\n\n**Exempl. 2.** Sit \\( F = \\frac{a \\cdot H^3 + H^2 + 6\\sqrt{H^2 - 12}}{108} \\), erit per theorema \\( \\frac{a \\cdot H^2 - 6 + H\\sqrt{H^2 - 12}}{36\\sqrt{H^2 - 12}} \\cdot dH \\left( = \\frac{dF}{H} \\right) = dx \\) et integratione facta \\( \\frac{a \\cdot H^2 - 6 + H\\sqrt{H^2 - 12}}{72} + C = x \\), et posita \\( C = 0 \\) habetur \\( H = \\frac{a + 12x}{2\\sqrt{a}\\sqrt{x}} \\), unde per theorema 4. prodit \\( y = \\sqrt{ax} \\) æquatio pro Parabola Apolloniana.\n\n**Exempl. 3.** Sit \\( G = -\\frac{a \\cdot 4 + K^2}{4} \\) erit per theorema \\( \\frac{adK}{2} \\left( = \\frac{dG}{K} \\right) = dy \\), et integratione \\( \\frac{aK}{2} + C = y \\), et si \\( C = 0 \\) \\( K = \\frac{2y}{a} \\) unde per theorema 4. \\( dx = \\frac{ady}{y} \\), qua constat curvam esse Logarithmicam.\n\n**THEOREMA VIII.**\n\nDicatur ut antea productum tangentium angulorum HCD et BCD U, et productum tangentium angulorum HCD et CKB V manentibus reliquis denominationibus erit \\( \\frac{dG}{U - I} = dx \\) et \\( \\frac{dF}{1 + V} = dy \\).\n\nQuoniam\nQuoniam $G = \\int T \\, dy - x$ erit $dG = T \\, dy - dx$, sed $T \\, dy = U \\, dx$, unde $dG = \\frac{U}{U-1} \\, dx$ et $\\frac{dG}{U-1} = dx$. Eodem modo quum $F = y + \\int T \\, dx$ erit $dF = dy + T \\, dx$, sed $T \\, dx = V \\, dy$ quare $dF = \\frac{1}{1+V} \\, dy$ et $\\frac{dF}{1+V} = dy$.\n\nCor. Quoniam $G = \\frac{dy \\sqrt{1-q^2}}{dq}$ et $F = -\\frac{dx \\sqrt{1-p^2}}{dp}$, habetur substitutione debita $\\frac{dG}{G \\cdot U-1} = -\\frac{dp}{p}$ et $\\frac{dF}{F^2 \\cdot 1+V} = \\frac{dq}{q}$.\n\nSchol. Ope hujus theorematis indagantur curvae data relatione inter $G$ et $U$ vel inter $F$ et $V$. Nam si fit $G = U$ functioni quantitatis $U$ vel $F = V$ functioni quantitatis $V$ obtinetur per theorema in casu priori $\\frac{dU}{U-1} (= \\frac{dG}{U-1}) = dx$ et integratione $\\int \\frac{dU}{U-1} + C = x$, qua $U$ per $x$ habetur; in posteriori $\\frac{dV}{1+V} (= \\frac{dF}{1+V}) = dy$ et integratione $\\int \\frac{dV}{1+V} + C = y$, qua $V$ habetur per $y$. Per theorema deinde 5. curvae cognoscuntur.\n\nDatur etiam per Cor. $U$ in $p$, et $V$ in $q$, et consequenter $T$ in $p$ vel $q$, nam $U = \\frac{T_p}{\\sqrt{1-p^2}}$ et $V = \\frac{T_q}{\\sqrt{1-q^2}}$.\n\nConstat hinc quod curvae non sint algebraicæ nisi $\\int \\frac{dU}{U-1}$ vel $\\int \\frac{dV}{1+V}$ obtineantur integratione absoluta.\n\nExempl. 1. Si fit $G = \\frac{a \\cdot U-3}{2}$ erit per theorema $\\frac{adU}{2 \\cdot U-1} (= \\frac{dG}{U-1}) = dx$ et integratione log. $1 - U + \\log. C = \\frac{2x}{a}$ et si $C = \\frac{a^2}{2}$ log.\nMethodus inveniendi Lineas Curvas\n\n\\[\n\\log \\frac{a^2 \\cdot 1 - U}{2} = \\frac{2x}{a} \\text{ et } \\frac{a \\cdot 1 - U}{2} = N^{ax} \\text{ qua } U = \\frac{a^2 - 2N^2}{a^2}.\n\\]\n\nPer theorema deinde 5. habetur \\(dy = \\frac{dxN^a}{a}\\) qua constat curvam est Logarithmicam.\n\n**Exempl. 2.** Si sit \\(T = \\frac{a \\cdot V - 1 \\sqrt{V + 2}}{3 \\sqrt{3}}\\) erit per theorema\n\n\\[\n\\frac{adV}{2 \\sqrt{3} \\sqrt{V + 2}} \\left(= \\frac{dF}{1 + V}\\right) = dy \\text{ et per integrationem } \\frac{a \\sqrt{V + 2}}{\\sqrt{3}} = y \\text{ qua }\n\\]\n\n\\(V = \\frac{3y^2 - 2a^2}{a^2}; \\text{ et per theorema } 5. dx = \\frac{dy \\sqrt{y^2 - a^2}}{a}, \\text{ æquatio ad curvam cujus constructio a quadratura hyperbolæ dependet. }\\)\n\n**THEOREMA IX.**\n\nSint LC et \\(l c\\) duæ curvæ eandem habentes Evolutam QD, dicatur radiorum oculi CD cD constans differentia cC b, curvæ \\(l c\\) variatio curvaturæ S, ceterisque ut antea manentibus erit\n\n\\[\n\\frac{dR}{R - bS} = - \\frac{dp}{\\sqrt{1 - p^2}}.\n\\]\n\nQuoniam radius curvaturæ DH evolutæ fit RT=R-bS, erit \\(\\frac{1}{R - bS} = \\frac{1}{RT}\\), quæ per \\(dR (= Tdx) = - \\frac{RTdp}{\\sqrt{1 - p^2}}\\) multiplicata, mostrat esse \\(\\frac{dR}{R - bS} = - \\frac{dp}{\\sqrt{1 - p^2}}.\\)\n\n**Cor.** Si sint ut antea tangens anguli BCD r et secans s, habetur \\(\\frac{dR}{R - bS} = - \\frac{dr}{1 + r^2}\\) et \\(\\frac{dR}{R - bS} = - \\frac{ds}{s \\sqrt{s^2 - 1}}.\\)\n\n**Schol.** Subsidio hujus theorematis invenire licet curvas, data relatione inter S et R vel inter S et T nam \\(\\frac{S}{T} = \\frac{R}{R - b}\\). Itaque si ponatur\nex proprietatibus Variationis Curvaturæ.\n\nponatur $S = R$ functioni radii curvedinis $R$, erit $\\frac{dR}{R - bR} = \\frac{dR}{R - bS}$\n\n$= -\\frac{dp}{\\sqrt{1 - p^2}}$, et integratione $\\int \\frac{dR}{R - bR} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}}$. Sit\n\n$\\int \\frac{dR}{R - bR} + C = f$ et $N$ logarithmorum basi habetur $\\sqrt{1 - p^2} =$\n\n$\\frac{Nf^{1/2} - N^{-f/2}}{2\\sqrt{-1}}$ et $p = \\frac{Nf^{1/2} + N^{-f/2}}{2}$ functionibus quantitatis\n\n$R$, quibus $R$ per $p$ exprimi potest. Per theorema igitur 1. curvas internofcere valemus.\n\nSi $R = S$ functioni quantitatis $S$ habetur $\\frac{dS}{S - bS} = \\frac{dR}{R - bS}$\n\n$= -\\frac{dp}{\\sqrt{1 - p^2}}$, et integratione $\\int \\frac{dS}{S - bS} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}}$, posita\n\n$\\int \\frac{dS}{S - bS} + C = g$, erit $\\sqrt{1 - p^2} = \\frac{Ng^{1/2} - Ng^{-1/2}}{2\\sqrt{-1}}$ et $p = \\frac{Ng^{1/2} + Ng^{-1/2}}{2}$\n\nquibus $S$ per $p$ datur. Per theoremata Partis I. invenire licet curvas omnes eandem evolutam habentes.\n\nHinc videtur, quod curvae non sint algebraicae nisi $\\int \\frac{dR}{R - bR}$\n\nvel $\\int \\frac{dS}{S - bS}$ per circuli rectificationem obtineatur.\n\nExempl. 1. Si sit $S = \\frac{2R}{\\sqrt{a} \\cdot \\sqrt{R-a}}$ supposita $b = a$, erit per\n\ntheorema $\\frac{dR}{2R\\sqrt{R-a}} = \\frac{dR}{R - bS}$ $= -\\frac{dp}{\\sqrt{1 - p^2}}$ et integratione\n\n$\\int \\frac{dR}{2R\\sqrt{R-a}} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}}$, si vero arcus ille constans $C = 0$\n\nerit $\\sqrt{1 - p^2} = \\frac{\\sqrt{R-a}}{\\sqrt{R}}$ qua $R = ap^2$, et per Cor. 1. Theor. 1. habetur $dy = \\frac{adx}{\\sqrt{x^2 - a^2}}$, æquatio pro Catenaria.\n\nVol. LXXIV. Ttt Exempl.\nExempl. 2. Sit $S = \\frac{5a^2 + R^2}{a \\cdot a - 5R}$, posita $b = \\frac{a}{5}$ erit per theorema\n\n$$-\\frac{adR}{a^2 + R^2} \\left(=\\frac{dR}{R - bS}\\right) = -\\frac{dp}{\\sqrt{1 - p^2}}$$ et facta integratione\n\n$$-\\int \\frac{adR}{a^2 + R^2} + C = -\\int \\frac{dp}{\\sqrt{1 - p^2}},$$ qua si $C = 0$, habetur $\\sqrt{1 - p^2} = \\frac{R}{\\sqrt{a^2 + R^2}}$ et $R =$\n\n$$\\frac{a \\sqrt{1 - p^2}}{p}.$$ Per theorema 1. $dx = \\frac{dy \\sqrt{a^2 - y^2}}{y}$ qua constat curvam esse Tractoriam.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106609.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 27,
+    "total-input-tokens": 43394,
+    "total-output-tokens": 19128,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1284,
+        2
+      ],
+      [
+        1284,
+        3123,
+        3
+      ],
+      [
+        3123,
+        4981,
+        4
+      ],
+      [
+        4981,
+        6965,
+        5
+      ],
+      [
+        6965,
+        8527,
+        6
+      ],
+      [
+        8527,
+        10321,
+        7
+      ],
+      [
+        10321,
+        12262,
+        8
+      ],
+      [
+        12262,
+        13972,
+        9
+      ],
+      [
+        13972,
+        15778,
+        10
+      ],
+      [
+        15778,
+        17642,
+        11
+      ],
+      [
+        17642,
+        19582,
+        12
+      ],
+      [
+        19582,
+        21422,
+        13
+      ],
+      [
+        21422,
+        23277,
+        14
+      ],
+      [
+        23277,
+        25517,
+        15
+      ],
+      [
+        25517,
+        27200,
+        16
+      ],
+      [
+        27200,
+        29234,
+        17
+      ],
+      [
+        29234,
+        31055,
+        18
+      ],
+      [
+        31055,
+        32888,
+        19
+      ],
+      [
+        32888,
+        34469,
+        20
+      ],
+      [
+        34469,
+        35930,
+        21
+      ],
+      [
+        35930,
+        37415,
+        22
+      ],
+      [
+        37415,
+        38937,
+        23
+      ],
+      [
+        38937,
+        40561,
+        24
+      ],
+      [
+        40561,
+        41044,
+        25
+      ],
+      [
+        41044,
+        41044,
+        26
+      ],
+      [
+        41044,
+        41044,
+        27
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106609",
+    "title": "Methodus Inveniendi Lineas Curvas ex Proprietatibus Variationis Curvaturae. Auctore Nicolao Landerbeck, Mathes. Profess. in Acad. Upsaliensi Adjuncto. Communicated By Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal",
+    "authors": "Nicolao Landerbeck, Nevil Maskelyne",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 27,
+    "jstor_url": "https://www.jstor.org/stable/106609"
+  }
+}

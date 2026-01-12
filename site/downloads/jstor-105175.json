@@ -1,0 +1,59 @@
+{
+  "id": "686ca5c3aeb6aa218e9367d423f61f7402f4a241",
+  "text": "LXI. Extract of a Letter of the Reverend Mr. Joseph Spence, Professor of Modern History in the University of Oxford, to Dr. Mead, F. R. S.\n\nByfleet near Weybridge, Surrey,\nDecember 7, 1753.\n\nRead Jan. 10, 1754.\n\nI have lately received a letter from Signor Paderni at Portici; in which, speaking of the publication of the antiquities found at Herculaneum, he says, *Spero che il primo tomo non tarderà molto tempo ad uscire*; and then mentions some particular things, that had been lately discovered among the ruins; a little brass bust of some unknown philosopher, of an excellent manner, and perfectly well preserved: A statue of an orator, in marble; and another brass bust, on a term, of a youth, with particularly beautiful hair, and the whole excellent. The artist has put his name to the latter, ΑΠΟΛΛΩΝΙΟΣ ΑΡΧΙΟΥ ΑΘΗΝΑΙΟΣ ΕΠΙΟΙΗΣΕ. He says, that the workmen were then just entering on some nobleman’s house, as appeared by the rich mosaic pavements, &c. and that they were in hopes it would prove a very good new mine.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105175.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1025,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105175",
+    "title": "Extract of a Letter of the Reverend Mr. Joseph Spence, Professor of Modern History in the University of Oxford, to Dr. Mead, F. R. S.",
+    "authors": "Joseph Spence",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105175"
+  }
+}

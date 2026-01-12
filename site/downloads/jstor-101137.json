@@ -1,0 +1,59 @@
+{
+  "id": "8bad2b73d0af6f3c5110334a8976ed6f93335876",
+  "text": "stopp'd, and improvements in such places. n. 37. Salt, who made in the coasts of France by the Sun, n. 51. The Salt-works at Nantwich described, n. 53. and 54. Tidings of a Salt-rock in Cheshire, n. 66. Materials for Ships offer'd from Virginia, to preserve the Timber of England against a time of need, n. 93. And such extraordinary Artifices, as Ingenious Travellers have communicated to us. Our aim being for the general benefit of Mankind, it is fit, we should begin at our own doors, and offer an Example, or, at least, follow the best.\n\nErrata in Numb. 100.\n\nPag. 6194. l. 26. r. reasons of Sounds. p. 6197. l. 2. r. proportion half of the double.\n\nLONDON:\n\nPrinted by T. R. for John Martyn, Printer to the Royal Society. 1674.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101137.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 295,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        733,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101137",
+    "title": "Errata",
+    "authors": null,
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101137"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "eb095fa0eb33028cd3037a8c30c262c6a31bca76",
+  "text": "VI. Excerpta ex literis D. Cassini ad P. Fontenay Mathematicum Regium apud Sinas.\n\nQuae circa tuam observationem Mercurii in Sole Cantone habitam meditatus eram, videre potuisti in Academiae Regiae Commentariis, 15 Maii, 1693. editis: Ejus non nisi imperfectum nactus fueram exemplar quod R. P. Gouye aliunde fuerat communicatum, quale ab ipso inter alias observationes anno 1692. editum est, in quo perperam annotatus fuerat ingressus Mercurii in Sole, qui minimè observatus fuerat; ut deinde ex correcto exemplari quod post triennium a P. le Comte qui recum huic observationi operam dederat allatum est, certior fatus sum.\n\nEo tamen ingressu minimè usus fueram in re Geographica quando differentiam longitudinum Cantonem inter & Parifios horarum 7 23' deduxi, ex exitu Mercurii ex Solis disco Cantoni & Norimbergae observato, & ex Eclipsibus Lunae observatis Norimbergae & Parisis. Itaque stat adhuc quam inde deduxi meridianorum differentia. Reformandi autem fuere calculi Astronomici deducti ex hypothesi ingressus Mercurii quod praestiti comparatione diversarum phasium quarum observationes, in priori exemplari fuerant omissae. Inter quas selectis iis quae magis invicem salvis Astronomicis hypothesibus ab omnibus receptis congruere videbantur, ex iis invicem comparatis Mercurium medium viæ ipsius in sole tenuisse reperi hora 1 26 minutis post meridiem, totamque ipsius moram in Sole suisse horarum 3 43' circiter. Quin etiam nodum Mercurii ascendentem ex his phasibus invicem comparatis inveni in gr. 14 32' Tauri, qui ex falsa ingressus annotatione hora ferme integra verum postponente in gr. 13 8' ejusdem signi proveniebat.\n\nIii 2 Eva-\nEvanescit igitur suspicio retrogradationis nodorum Mercurii oborta ex comparatione calculi falsæ huic annotationi superstructi cum eo quem circa observationes D. Hallei, & D. Gallet anni 1677. habueram, unde nodus hic in gr. 14° 9' Tauri mihi provenerat. Quin potius motus nodi Mercurii in signorum consequentiâ ex hâc comparatione deducitur, quamvis ob ingentem difficulatem loca nodorum ad minutum determinandi ex hac differentia tam brevi temporis intervallo, motus nodorum annuus haud tutò possit determinari.\n\nInclinationem orbitæ Mercurii ad eclipticam ex his observationibus deduxi gr. 6° 40' propius accedentem ad tabulas Rudolphinas.\n\nNobis feliciter obtigit Mercurium in Sole conspicere in observatorio Regio Parisiensi die 3 Novembris N. S. exeuntis anni 1697. fermè per tres horæ quadrantes. Observatarum à nobis Phasium selectissimæ in compendium redactæ ejusmodi sunt.\n\nHora 7° 23' cum Sol è nubibus quæ horizontem obfederant emersisset, directo ad ipsum Telescopio H. 7° 25' differentia ascensionis rectæ centri Mercurii Occidentalis & centri Solis observata per horologium fuit horarum\n\nDifferentia declinationis Mercurii Meridionalis fuit gr.\n\nHorà 8° 3' differentia ascensionis rectæ centrorum Mercurii occidentalis & Solis fuit horarum\n\nDifferentia declinationis graduum\n\nHorà 8° 8' 38\" margo praecedens Mercurii pervenit ad Solis marginem praecedentem\n\nHorà 8° 10' 24\". Mercurius totus emersit è solis disco Telescopio pedum 18 observatus.\nEx his observationibus invicem comparatis quantum ex hoc brevi intervalllo inferri potuit adventum Mercurii ad medium ipsius semitae in solis disco Trigonometricè deduxi hora 6. 11' 18''. post meridiem.\n\nNodum vero ascendentem Mercurii in 8 14 42'. adhuc promotorem quam per observationes anni 1677.\n\nInclinationem autem orbitae Mercurii ad Eclipticam ex postremarum observationum comparatione inveni gr. 6. 23. quam nihilominus ob breve harum observationum intervallum praefere non ausim ei quam ex vestris Sinensibus observationibus longè majori intervalllo distantibus deduxi.\n\nVII. Quadratura Logarithmica. Autore Jo.Craig.\n\nESTO ONF Curva Logarithmica, cujus Asymptotos AR, in qua tale sumatur punctum A, ut ejus prima ordinata AO sit subtangenti seu unitati æqualis: Quæritur spatium curvilineum AONM a duabus ordinatis AO, MN; abscissâ AM, & Curvâ Logarithmicâ ON comprehensum.\n\nEx O ducatur OE ad AM parallela & secans MN in E; Dico quod rectangulum ex segmentis ME, EN sit æquale spatio quaesito.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102554.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6134,
+    "total-output-tokens": 1445,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1649,
+        2
+      ],
+      [
+        1649,
+        3109,
+        3
+      ],
+      [
+        3109,
+        4114,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102554",
+    "title": "Excerpta ex Literis D. Cassini ad P. Fontenay Mathematicum Regium Apud Sinas",
+    "authors": "D. Cassini",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102554"
+  }
+}

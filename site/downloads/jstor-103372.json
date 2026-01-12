@@ -1,0 +1,59 @@
+{
+  "id": "024462d0841a03a7b67dc318e0d75dfc424b338a",
+  "text": "INDEX.\n\nSpouts, The strange Effects of one in Lancashire, n. 363, p. 1097\nStars, On the Change of Latitude of some of them, n. 355, p. 736\nStrata in a Coal Mine describ'd, n. 360, p. 968\nSunk Island in Humber, n. 361, p. 1014\n\nT.\nTaylor, (Dr.) his Defence against Mr. J. Bernoulli, n. 360, p. 955\nTelescopes, A way for Myopes to use them without Eye Glasses, n. 361, p. 1017\nTelecopick Sights, Who first invented the Application of them to Mathematical Instruments, n. 352, p. 603\nTubes Capillary, Of the Ascent and Suspension of Water in them, n. 355, p. 739\nTurneps, Their great and speedy Vegetation, n. 360, p. 974.\n\nV.\nVenereal Disease, Of its Antiquity, n. 357, p. 839\nVesuvius, An Eruption of it, n. 354, p. 708\n\nW.\nWater, An Enquiry into the Cause of its Ascent and Suspension in Capillary Tubes, n. 355, p. 739. Of the Motion of running Waters, ib. p. 748\nWilliamson (Mr.) asserts his Invention of making Clocks to agree with apparent Time, n. 363, p. 1079\nWine, The Danger of drinking cold Liquors after a large Quantity of it, n. 351, p. 581.\n\nFINIS.\n\nERRATUM. P. 1110. l. ii. pro mx l. m.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103372.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 503,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1100,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103372",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103372"
+  }
+}

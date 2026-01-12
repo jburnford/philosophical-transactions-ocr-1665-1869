@@ -1,0 +1,59 @@
+{
+  "id": "15c2dbdb3e68695c560ec2a5556cb4452ab9090e",
+  "text": "CONTENTS.\n\nLIV. Extract of a Letter from Professor Bose, of Wittemberg, to the Right Hon. George Earl of Macclesfield, Pr. R. S. with Observations thereupon, by Mr. Wm. Watson, F. R. S. p. 358.\n\nLV. An Account of a Memoir, read at the Royal Academy of Sciences at Paris, by M. de Barros, a Portuguese Gentleman, concerning certain Phænomena observed by him at Paris, in the last Transit of Mercury over the Sun; by J. Short, A. M. F. R. S. p. 361.\n\nLVI. An Explication of an obscure Passage in Albert Girard's Commentary on Simon Stevin's Works; by Mr. Simpson, Professor of Mathematics at the University of Glasgow: Communicated by the Right Hon. Philip Earl Stanhope. p. 368.\n\nLVII. Observations upon the Electricity of the Air, made at the Chateau de Maintenon, during the Months of June, July, and October, 1753; being Part of a Letter from the Abbé Mazeas, F. R. S. to the Reverend Stephen Hales, D. D. F. R. S. Translated from the French by James Parsons, M. D. F. R. S. p. 377.\n\nERRATA:\n\nPage 201, for Art. XXXII. read XXXI. P. 34, Note (1) for Tab. I. read Tab. II. In Sheet (Y) for 173, read 169. For 176, read 172. For 177, read 173. And for 180, read 176.\n\nPage 333, Note (2) for Tab. III. read Tab. II.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105114.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 473,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1214,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105114",
+    "title": "Errata",
+    "authors": null,
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105114"
+  }
+}

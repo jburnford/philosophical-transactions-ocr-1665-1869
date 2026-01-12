@@ -1,0 +1,99 @@
+{
+  "id": "cfe9edfa8c58521d4683a64c8569daf516325c34",
+  "text": "XVIII. On the difference in the appearance of the teeth and the shape of the skull in different species of Seals. By Sir Everard Home, Bart. V. P. R. S.\n\nRead February 28, 1822.\n\nAt a time when geology is pursued with so much ardour, I am induced to lay before the Society the following facts respecting the skull and teeth of the seal, as their being known will be an advantage when incrusted or fossil remains of that animal are met with.\n\nThe accompanying drawings were made 30 years ago, at the time Mr. Hunter was preparing to lay before the Society some observations on the skulls of wolves and bears found in the caves of the principality of Bayreuth, in Germany. Among these, so great was the difference in the form of the skull of the young bear and the old, that where the jaws had been destroyed, it required the eye of an anatomist to determine that the skull really belonged to the bear.\n\nWhile engaged upon that subject, I was surprised to find in the seal tribe, not only that the skull in the large species from the South Seas, differed exceedingly in its appearance from that of the smaller ones in the Northern Ocean, but that the teeth were equally unlike. At that time the facts had less importance; the study of geology being little attended to, the subject escaped my memory, till the recent strides made by Cuvier, Buckland, and others, have induced me to resume it.\nEXPLANATION OF THE PLATES.\n\nPLATE XXVII.\nRepresents the skull of the large seal so many years deposited in the British Museum, from the South Seas.\n\nPLATE XXVIII.\nShows the skull of a seal shot near the Orkney Isles, by a gentleman who went two years in succession for that purpose, and afterwards gave the skeleton to Mr. Hunter. This animal had been known for 30 summers to come to the same rock, and lie basking in the sun; it had a grey beard.\n\nPLATE XXIX.\nIs taken from the skull of a seal in the Museum of the Royal College of Surgeons in Lincoln's Inn Fields, presented by Mr. Chevalier: this proves to have been brought by Mr. Kearn, in a Whaler, from New Georgia, near the ice towards the South Pole. The circumstance of most importance in this communication is, that in all the three skulls the teeth differ in form: this may arise from the different kinds of food on which the animals lived.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107682.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9730,
+    "total-output-tokens": 708,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1390,
+        2
+      ],
+      [
+        1390,
+        2293,
+        3
+      ],
+      [
+        2293,
+        2293,
+        4
+      ],
+      [
+        2293,
+        2293,
+        5
+      ],
+      [
+        2293,
+        2293,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107682",
+    "title": "On the Difference in the Appearance of the Teeth and the Shape of the Skull in Different Species of Seals",
+    "authors": "Everard Home",
+    "year": 1822,
+    "volume": "112",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/107682"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "4ce12a34bcf1a0fa7a77268312f7aefc084d1b23",
+  "text": "VI. Extract of a Letter of the Reverend Mr. William Rice, Rector of Caerleon upon Usk, to Charles Williams Esq., giving an account of an ancient Roman Inscription lately found there. With some Conjectures thereon, by the Reverend Dr. John Harris, S.T.P. and R.S.S.\n\nSir,\n\nA Person last Week being at Plow in a Clofe near the Bank of the River Usk, which the Ancients called Isea, (which glides by us about a quarter of a Mile off and in sight of this Town) came thwart a Stone, and finding Letters thereon, took it up whole; 'tis about a Yard in length, and about three Quarters broad. I went to the place, and took a true Copy thereof, which I here make bold to send you. There was underneath it some seeming Oblong Square Sepulcher of Stones, rude in order. A little further in that Clofe, where that River wears out the Land, there was, some time before, a large Earthen Pot taken out of the Bank by the River-side, which had therein the Scull and Bones of some Person, by some thought to be a Child Murther'd; But I rather conjecture it a Roman Urn.\n\nCaerleon, March 21. 1717.\n\nYour humble Servant,\nWilliam Rice.\nSir,\n\nThis ancient and fair Inscription confirms what others have found hereabouts; and what Cambden and other Historians shew us, viz. That the second Roman Legion called Augusta, brought into Britain by Claudius Caesar under the Conduct of Vespasian, was placed here at Isca or Caer Legion, by Julius Frontinus, in order to awe the Silures: And that General obtained several Victories over them and their Neighbours in several places hereabouts.\n\nThere seems to be nothing of Moment or of difficulty in this Inscription; but Victor Lugduni: Which as I think we have no ground from History to refer to Lyons in France, so I guess that Expression may be thus accounted for. The River Lugg is famous in the Neighbouring Parts; and as Dynas or Lyn hath been said to signifie a Town in the Ancient British Language; and that Dun doth also serve to express a Hill or Down as we still call it; (which I think is derived from the British also) probably Lugduni here may express some Town or Hill near the River Lugg; and since there is a Place called to this Day Luckton, on the side of the River Lugg in Herefordshire, perhaps that may bid fair to be the very place where Valerius obtained the Victory perpetuated by this Inscription.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103345.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 661,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1117,
+        2
+      ],
+      [
+        1117,
+        2354,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103345",
+    "title": "Extract of a Letter of the Reverend Mr. William Rice, Rector of Caerleon upon Usk, to Charles Williams Esq, Giving an Account of an Ancient Roman Inscription Lately Found There. With Some Conjectures Thereon, by the Reverend Dr. John Harris, S. T. P. and R. S. S.",
+    "authors": "John Harris, William Rice",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103345"
+  }
+}

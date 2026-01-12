@@ -1,0 +1,69 @@
+{
+  "id": "3613e163fabfe1214a41a688958b584bcc78ce82",
+  "text": "Law of Gravity is better adapted for holding the Parts of each Body in a proper Union, while it perpetuates the Motions in the great System about the Sun, and preserves the Revolutions in the lesser Systems nearly regular; and the Author concludes with observing, that a remarkable geometrical Simplicity is often found in the Conclusions that are derived from it.\n\nAn Account of Book II. will be given in the next Transaction.\n\nVII. De Calculo prægrandi a Muliere cum Urina excreto Observatio Dni Antonii Leprotti, R. S. S. Pont. Max. Archiat. per Abbatem Didacum de Revillas, R. S. S. ad D. Smart Lethieullier R. S. S. transmissa.\n\nRoma, pridie Cal. Januarii An. 1743.\n\nQuae quindecim abhinc annis Vidua est Mulier pauper quinquagesimum agens annum tumma urinae difficultate per quadraginta Menses laborabat; quum nocte ei supervenit mictus, imo sinceri cruoris profluvium ad tres circiter libras; simulque Lapis, ejus, quae in adjecta Figura descriptur, formae & molis, extrusus est, cujus pondus jam exsiccati uncias duas & grana novem ac viginti exæquat*. Mulier autem ingenti per eos menscs gravitatis sensu, assiduoque dolore, ad Vesicæ cervicem afficiebatur sive cubans sive crecta; nunc autem solido exacto mense, ea invita, prodere pergunt cum sanie urinae. Vide Fig. II. in Tab. I.\n\n* i.e. 1 : 17 : 4. TR.\n\nA a a VIII. De-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104190.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5072,
+    "total-output-tokens": 509,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1333,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104190",
+    "title": "De Calculo Praegrandi a Muliere Cum Urina Excreto Observatio Dni Antonii Leprotti, R. S. S. Pont. Max. Archiat. per Abbatem Didacum de Revillas, R. S. S. ad D. Smart Lethieullier R. S. S. Transmissa",
+    "authors": "Didacum de Revillas, Antonii Leprotti",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104190"
+  }
+}

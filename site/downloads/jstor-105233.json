@@ -1,0 +1,69 @@
+{
+  "id": "75783f32b476bd8084f7fc5feeaf66ea86b13110",
+  "text": "VIII. An Account of the late Discoveries of Antiquities at Herculaneum; in an Extract of a Letter from Camillo Paderni, Keeper of the Herculanean Museum, and F. R. S. to Thomas Hollis, Esq.; dated Naples, Dec. 16, 1756.\n\nRead Feb. 10, 1757.\n\nIT is probable, that the first volume of antique paintings will be published at Easter; in which there will be fifty copper-plates, with observations by the academy lately established here for illustrating the antiquities.\n\nTwo volumes of the ancient papyrus have been unrolled. One treats of rhetoric, and the other is upon music; and both are written by the same author, Philodemus. Il Signor Canonico Mazzocchi, a very learned gentleman of this city, is now translating them from the Greek. There are two persons constantly employed in unrolling other volumes.\n\nIn the month of April were found two fine busts of women, the subjects unknown. Also a young stag, of excellent workmanship, upon a base. The height of it, from the feet to the top of the head, is three palms and a half. Likewise its companion; but broken in many pieces; which however I hope to restore.\n\nIn May, a small young hog.\n\nIn October, a female statue, of middling workmanship. Also a Silenus, a palm and three inches high, standing upon a square base raised upon three rows\nrows of steps, which are supported at the angles by lions claws. He has a bald head, a long curled beard, a hairy body, and naked feet. The drapery about him is loose and flowing: the fore-finger of each hand is extended, and all the rest are closed. From his back arises a branch above the head, where it divides into two, which, twisting their foliage round it, fall and spread themselves below the shoulders, on each of which a stand is placed to fix a lamp. In the middle, betwixt the extremities of these two small branches, is a bird resembling a parroquet. The whole of this figure is in a very good taste. All these things above-mentioned are of bronze.\n\nIn November was discovered a beautiful marble Terminus, of Greek workmanship, as big as the life. It is drest in a chlamys; has a young countenance; and the head is covered with a Grecian helmet.\n\nMany other things have also been found, as lamps, vases, and such-like, in bronze. And we have often met with paintings. If any farther discoveries are made, which are remarkable, you may depend on being informed of them.\n\nAt present my time is much taken up, in a work extremely difficult and tedious; which is this: When the theatre was first discovered, there were found in it, among other things, several horses in bronze, larger than the life; but all of them bruised, and broken into many pieces. From this sad condition they are not yet restored. But his majesty having expressed a particular desire to see that effected, if possible, with regard to one of them, I resolved to attempt it; and accordingly have set about it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105233.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 766,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1292,
+        2
+      ],
+      [
+        1292,
+        2882,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105233",
+    "title": "An Account of the Late Discoveries of Antiquities at Herculaneum; In an Extract of a Letter from Camillo Paderni, Keeper of the Herculanean Museum, and F. R. S. to Thomas Hollis, Esq; Dated Naples, Dec. 16, 1756",
+    "authors": "Camillo Paderni",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105233"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "bacb5b0d771460682583f347d5c8d54ca7014a30",
+  "text": "IX. Occultatio Jovis à Luna, obs. Londini.\n\nRead June 7.\n1744.\n\nNotante Horologio.\n\n1744. June 6. 11 13 40 Immersio centri Jovialis, fat certe.\n35 14 Serpentaria culminat.\n43 15 Emercio centri, raptim inter nubes.\nTubo 12 Ped.\n\nJ. Bevis.\n\nX. A letter from Mr. Abraham De Moivre, F. R. S. to William Jones, Esquire, F. R. S. concerning the easiest method for calculating the value of annuities upon lives, from tables of observations.\n\nSIR,\n\nPresented June 7. YOU may remember, that some time after the printing of the second edition of my book of annuities on lives, you told me, that it seem'd strange to you, that, considering I had demonstrated the chief propositions in the book, I had neglected to demonstrate the theorem, which is found in page 86. line 12. which, you said, of all the rest, appear'd to you the most curious; I answer'd, that, as the demonstration depended upon a principle which was not commonly known",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104428.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 333,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        925,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104428",
+    "title": "Occultatio Jovis a Luna, Obs. Londini",
+    "authors": "J. Bevis",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104428"
+  }
+}

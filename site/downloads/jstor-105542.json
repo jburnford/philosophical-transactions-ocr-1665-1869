@@ -1,0 +1,59 @@
+{
+  "id": "ee58c7e9fcc34de0486decf6d49a683c730a9e11",
+  "text": "XXVI. Observations on the Eclipse of the Sun, April 1, 1764: By Matthew Raper, Esq; F. R. S.\n\nRead May 17, Horley Hall. Lat. $51^\\circ 50' 45''$ N.\nLong. $38^\\circ$ east of Greenwich.\n\n1764. Mar. 17. Dimmerged into the true shadow at\n\n| h | m | s |\n|---|---|---|\n| 10 | 41 | — |\n\napparent time.\n\nemerged out of the same at\n\n| h | m | s |\n|---|---|---|\n| 13 | 25 | — |\n\napparent time.\n\nMar. 31. O eclipse was begun above a minute at\n\n| h | m | s |\n|---|---|---|\n| 21 | 8 | 0 |\n\napparent time.\n\nEnded April 1 at\n\n| h | m | s |\n|---|---|---|\n| 0 | 1 | 45 or 48 |\n\nObserved with an 8 foot refractor.\n\nXXVII. Table",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105542.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 318,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        609,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105542",
+    "title": "Observations on the Eclipse of the Sun, April 1, 1764: By Matthew Raper, Esq; F. R. S.",
+    "authors": "Matthew Raper",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105542"
+  }
+}

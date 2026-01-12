@@ -1,0 +1,69 @@
+{
+  "id": "3c285bd283fc96c593c1876893a3cd1c92df5447",
+  "text": "VIII. A Catalogue of North Polar Distances of some of the principal fixed Stars. By John Pond, Esq. Astronomer Royal, F. R. S.\n\nRead December 17, 1812.\n\nThe catalogue which I have the honour of transmitting to the Society, is the result of a great number of observations made with the new Mural Circle, from the month of June last to the present time.\n\nI hope at no very distant period to add considerably to its precision; but I trust that in its present state, it will not be thought unacceptable to astronomers, as from the experience I have now obtained of the instrument, I may safely pronounce that it far exceeds in accuracy anything yet known in the history of practical astronomy.\n\nIn the fourth column I have annexed the degree of uncertainty, or maximum of error, to which I conceive the results are liable. These numbers not being derived from any strict mathematical process, must only be considered as indicating the opinion I have formed on the subject. When the observations themselves are laid before the Society, I shall have an opportunity of stating at length on what grounds this opinion was formed.\n| Names of Stars | N. P. Distances begin. 1813. | No. of Observations | Maximum of Error to which this Catalogue may probably be liable |\n|---------------|-----------------------------|--------------------|---------------------------------------------------------------|\n| Polaris (Summer) | 1 41 22,07 | 120 | 0,50 |\n| (Winter) | 1 41 21,47 | | |\n| β Ursæ Min. | 15 4 48,95 | 50 | 0,50 |\n| β Cephei | 20 5 30,30 | 20 | 0,50 |\n| α Ursæ Maj. | 27 14 31,50 | 36 | 0,50 |\n| α Cephei | 28 12 12,35 | 20 | 0,50 |\n| α Cassiop. | 34 29 22,83 | 38 | 0,50 |\n| γ Ursæ Maj. | 35 15 55,10 | 10 | 0,75 |\n| γ Draconis | 38 29 31,73 | 68 | 0,25 |\n| η Ursæ Maj. | 39 44 57,80 | 50 | 0,25 |\n| α Persei | 40 48 52,37 | 26 | 0,50 |\n| Capella | 44 12 20,96 | 37 | 0,50 |\n| α Cygni | 45 22 57,19 | 40 | 0,50 |\n| α Lyrae | 51 23 07,72 | 70 | 0,25 |\n| Castor | 57 42 46,57 | 30 | 0,50 |\n| Pollux | 61 31 56,57 | 31 | 0,50 |\n| β Tauri | 61 33 43,51 | 23 | 0,50 |\n| α Andromedæ | 61 56 29,61 | 35 | 0,50 |\n| α Cor. Bor. | 62 38 55,70 | 53 | 0,50 |\n| α Arietis | 67 25 36,76 | 44 | |\n| Arcturus | 69 50 19,04 | 50 | 0,25 |\n| Aldebaran | 73 52 35,18 | 30 | 0,50 |\n| β Leonis | 74 22 57,24 | 24 | 0,50 |\n| α Herculis | 75 23 13,97 | 23 | 0,50 |\n| Pegasi | 75 47 51,77 | 20 | 0,50 |\n| γ Pegasi | 75 51 21,00 | 25 | 0,50 |\n| Regulus | 77 7 22,94 | 30 | 0,50 |\n| α Ophiuchi | 77 17 39,66 | 37 | |\n| Aquilæ | 79 50 06,2 | 38 | 0,75 |\n| α Aquilæ | 81 36 58,88 | 45 | |\n| β Aquilæ | 84 3 40,9 | 12 | 1,0† |\n| Orionis | 82 38 16,11 | 21 | 0,50 |\n| Serpentis | 82 58 39,50 | 33 | 0,50 |\n| Procyon | 84 18 15,03 | 20 | 0,50 |\n| Ceti | 86 39 07,5 | 18 | 1,0† |\n| Aquarii | 91 13 21,64 | 20 | 0,50 |\n| Hydræ | 97 51 11,30 | 10 | 0,75 |\n| Rigel | 98 25 33,85 | 30 | 1,0† |\n| Spica Virginis | 100 10 51,30 | 20 | 1,0 |\n| Capricor. | 103 4 35,45 | 35 | |\n| α Capricor. | 103 6 52,32 | 28 | |\n| Librae | 105 12 39,26 | 10 | |\n| Sirius | 106 28 07,0 | 34 | |\n| Antares | 116 0 16,63 | 36 | |\n\nTotal No. of Observations 1452.\n\n* α Aquilæ, α Arietis, and α Ophiuchi are probably determined within a second of the truth, but I have met with some discordances in these stars which I do not comprehend; future observations will shew, whether these are accidental or arise from some periodical cause.\n\n† Those stars marked † were determined by the quadrant, its error having been determined by comparison with the circle, by other stars having nearly the same declination.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107390.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 1680,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1121,
+        2
+      ],
+      [
+        1121,
+        3543,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107390",
+    "title": "A Catalogue of North Polar Distances of Some of the Principal Fixed Stars",
+    "authors": "John Pond",
+    "year": 1813,
+    "volume": "103",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107390"
+  }
+}

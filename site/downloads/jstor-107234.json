@@ -1,0 +1,239 @@
+{
+  "id": "a1daf9115c0996744b42714460d7418a1ff177da",
+  "text": "VI. An Investigation of the general Term of an important Series in the inverse Method of finite Differences. By the Rev. John Brinkley, D. D. F. R. S. and Andrews Professor of Astronomy in the University of Dublin. Communicated by the Astronomer Royal.\n\nRead February 26, 1807.\n\nThe theorems relative to finite differences, given by M. Lagrange in the Berlin Memoirs for 1772, have much engaged the attention of mathematicians. M. Laplace has been particularly successful in his investigations respecting them; yet an important difficulty remained, to endeavour to surmount which is the principal object of this Paper. The theorems alluded to may be thus stated.\n\nLet \\( u \\) represent any function of \\( x \\). Let \\( x + h, x + 2h, x + 3h, \\&c. \\) be successive values of \\( x \\), and \\( u_1, u_2, u_3 \\&c. \\) corresponding successive values of \\( u \\). Let \\( \\Delta^n u \\) represent the first term of the \\( n \\)th order of differences of the quantities \\( u, u_1, u_2 \\&c. \\) And let also \\( S^n u \\) represent the first term of a series of quantities, of which the first term of the \\( n \\)th order of differences is \\( u \\). Then ( \\( e \\) representing the series \\( 1 + 1 + \\frac{1}{1.2} + \\frac{1}{1.2.3} + \\&c. \\))\n\n\\[\n1. \\Delta^n u = (e^{\\frac{u}{x}} - 1)^n \\quad 2. S^n u = (e^{\\frac{u}{x}} - 1)^{-n}\n\\]\n\nprovided that in the expansion of \\( (e^{\\frac{u}{x}} - 1)^n, \\frac{u}{x}, \\frac{u}{x^2}, \\frac{u}{x^3} \\&c. \\) be substituted for\nDr. Brinkley's Investigation of the general Term, &c.\n\n\\[\n\\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^2, \\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^3, \\text{ &c.}; \\text{ and provided that in the expansion of}\n\\]\n\n\\[\n(e^{\\dot{x}b} - 1)^{-n}, \\text{ fl. } u\\dot{x}^n, \\text{ fl. } n^{-1} u\\dot{x}^{n-1}, \\text{ &c. be substituted for } \\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^{-n},\n\\]\n\n\\[\n\\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^{-n+1} \\text{ &c. and } \\frac{2}{x^2}, \\frac{3}{x^3}, \\text{ &c. be substituted for } \\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^2, \\left(\\frac{\\dot{u}}{\\dot{x}}\\right)^3, \\text{ &c.}\n\\]\n\nThese theorems, which M. Lagrange had not demonstrated except by induction, have since been accurately investigated in different ways by M. Laplace,* and also by M. Arbo gast†.\n\nThe expanded formula for \\( S^n u \\), or, more accurately speaking, the natural series for \\( S^n u \\) is of the form\n\n\\[\n\\frac{\\alpha}{b^n} \\text{ fl. } u\\dot{x}^n + \\frac{\\beta}{b^{n-1}} \\text{ fl. } u\\dot{x}^{n-1} \\ldots \\frac{u}{b} \\text{ fl. } u\\dot{x} + nu + \\pi \\frac{\\dot{u}}{\\dot{x}} h + \\rho \\frac{h}{x^2} h^2 + \\text{ &c.}\n\\]\n\nThe coefficients \\( \\alpha, \\beta, \\gamma, \\text{ &c.} \\) are readily obtained by equations of relation, which were first given by Lagrange. But to complete the solution it is obviously necessary to obtain the law of progression, and be able to ascertain any coefficient independent of the preceding ones. This has not hitherto been done, as far as I know, except in the case of \\( n = 1 \\). M. Laplace has given a very ingenious investigation for that case.‡ This has been copied with just encomiums by M. Lacroix§ who does not mention that any one had accomplished it for any other value of \\( n \\). In this Paper the general term is given for any value of \\( n \\), the law of which is remarkably simple. A particular formula, remarkably simple as to its law, is also given for the case of \\( n = 1 \\), from which that of Laplace may be deduced.\n\n* Mém. Acad. Scien. 1777 and 1779.\n† Arbo gast du Calcul des Derivations, Art. 355, &c.\n‡ Mém. Acad. Scien. 1777.\n§ Lacroix Traité des Differences et des Series, Art. 918.\nIn the case of \\( n = 1 \\) and \\( h = 1 \\) the formula for \\( Su \\) is of the form \\( \\alpha \\cdot fl. u \\dot{x} + \\beta u + \\gamma \\frac{u}{x} + \\delta \\frac{u}{x^2} + \\&c. \\) and exhibits the sum of a series of which \\( u \\) any function of \\( x \\) is the general term. For which purpose it was first given by Euler in the VIth Vol. Com. Petropol. and afterwards demonstrated in the VIIIth Vol. of the same work. It has been differently investigated since by several authors.* But Laplace appears to have been the first who gave a general term for the coefficients. Euler seems to have sought it in vain, for he says \"Ipsa series coefficientum \\( \\alpha, \\beta, \\gamma \\&c. \\) ita est comparata ut vix credam \"pro ea terminum generalem posse exhiberi.\"\n\nAs preparatory to the main object of this enquiry it has been thought proper to give investigations of the above two theorems, which will probably be found as simple as any that have appeared. It has also been found necessary, for avoiding very complex formula, to adopt a peculiar notation, which requires some explanation.\n\n**Notation.**\n\nThe first term of the \\( n \\)th order of differences of the series \\( o^n, 1^n, 2^n, \\&c. \\) is denoted by \\( \\Delta^n o^n \\)\n\n\\( \\frac{x^n}{1.2.3..n} \\) is denoted by \\( \\frac{x^n}{n} \\)\n\n\\( \\frac{\\dot{x}}{1.2.3..n} \\) is denoted by \\( \\frac{\\dot{x}}{n} \\)\n\n\\( \\frac{\\Delta^n o^n}{1.2.3..n.1.2.3..m} \\) is denoted by \\( \\Delta^n o^n \\)\n\nwhich omission of the denominators cannot produce any inconvenience, because the indices sufficiently point them out whether those indices refer to powers, fluxions, or differences.\n\n* Maclaurin's Fluxions, Vol. II. p. 672, &c. Waring's Med. Analyt. p. 581, &c.\nof a Series in the inverse Method of finite Differences.\n\n\\[\n\\frac{1}{1.2.3..n} \\text{ is denoted by } - - - - - - \\frac{1^n}{1}\n\\]\n\n\\[\n\\frac{1}{(1.2.3..n)^m 1.2.3..m} \\text{ is denoted by } - - - - - - \\frac{(1^n)^m}{1}\n\\]\n\nAccording to which notation,\n\n\\[e = 1 + 1 + \\frac{1}{1.2} + \\frac{1}{1.2.3} + &c. = 1 + 1 + 1^2 + 1^3 + &c.\\]\n\n\\[e^x = 1 + x + \\frac{x^2}{1.2} + \\frac{x^3}{1.2.3} + &c. = 1 + x + x^2 + x^3 + &c.\\]\n\nIf the quantity \\(\\left(\\frac{1^p}{1}\\right)^t \\left(\\frac{1^q}{1}\\right)^v &c.\\) or \\(\\frac{1}{(1.2..p)^t (1.2..q)^v 1.2..t.1.2..v &c.}\\)\n\nhas various values arising from different values of \\(p, q, t, v, &c.\\) then the sum of them all is denoted by \\(\\int \\left(\\frac{1^p}{1}\\right)^t \\left(\\frac{1^q}{1}\\right)^v &c.\\)\n\n**Theorem I.** Let \\(u\\) be a function of \\(x\\) and \\(x+h, x+2h, \\ldots, x+nh\\) successive values of \\(x\\). Then \\(\\Delta^n u = (e^{\\frac{u}{x}} - 1)^n\\) if after the expansion of this latter quantity \\(\\frac{u}{x}, \\frac{u}{x^2}, \\frac{u}{x^3}, &c.\\) be substituted for \\(\\left(\\frac{u}{x}\\right)^2, \\left(\\frac{u}{x}\\right)^3, &c.\\) respectively.\n\n**Demonstration.** Let the successive values of \\(u\\) be represented by \\(u_1, u_2, u_3, \\ldots, (n-1)u_n, u_n\\). Then by Taylor's theorem,\n\n\\[u_n = u + \\frac{u}{x} nh + \\frac{u}{x^2} n^2 h^2 + \\frac{u}{x^3} n^3 h^3 + &c. = u + e^{\\frac{u}{x} nb} - 1,\\] substituting as above-mentioned. In like manner,\n\n\\[(n-1)u = u + e^{\\frac{u}{x} (n-1)b} - 1,\\] substituting &c.\n\n\\[(n-2)u = u + e^{\\frac{u}{x} (n-2)b} - 1 &c. &c.\\]\n\n\\[1u = u + e^{\\frac{u}{x} b} - 1 &c. &c.\\]\n\n\\[u = u + 1 - 1.\\]\n\nHence \\(u - 1\\) being common to each term, we have by the differential theorem,\nDr. Brinkley's Investigation of the general Term\n\n\\[ \\Delta^n u = e^{\\frac{u}{x} b} - ne^{\\frac{u}{x} (n-1)b} + n \\left( \\frac{n-1}{2} \\right) e^{\\frac{u}{x} (n-2)b} - \\pm 1 = \\left( e^{\\frac{u}{x} b} - 1 \\right)^n \\]\n\nsubstituting as above-mentioned.\n\n**Theorem II.** \\( \\Delta^n u = \\frac{n}{x^n} h^n + a \\frac{n+1}{x^{n+1}} h^{n+1} + b \\frac{n+2}{x^{n+2}} h^{n+2} \\)\n\n\\[ M \\frac{n+m}{x^{n+m}} h^{n+m} + \\&c. \\] where \\( M \\) is the coeff. of \\( h^{n+m} \\) in the expansion of \\( (e^b - 1)^n \\) or of \\( h^m \\) in the expansion of \\( \\left( \\frac{e^b - 1}{b} \\right)^n \\) or of \\( (1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\&c.)^n \\)\n\n**Dem.** By **Theor. I.** \\( \\Delta^n u = \\left( e^{\\frac{u}{x} b} - 1 \\right)^n \\) making the necessary change after expansion. This change does not affect the numerical coefficients, which are evidently the same as those of \\( (e^b - 1)^n \\), and because \\( (e^b - 1)^n = h^n \\left( 1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\&c. \\right)^n \\) the theorem is manifest.\n\n**Theorem III.** The coefficient of \\( \\frac{n+m}{x^{n+m}} h^{n+m} = \\Delta^n o^{n+m} \\).\n\n**Dem.** The successive values of \\( u \\) are\n\n\\[ u, u + \\frac{u}{x} h + \\frac{u}{x^2} h^2 + \\&c., u + \\frac{u}{x} 2h + \\frac{u}{x^2} 2^2 h^2 + \\&c., u + \\frac{u}{x} 3h + \\frac{u}{x^2} 3^2 h^2 + \\&c. \\] and therefore (the whole \\( n \\)th differences being made up of the \\( n \\)th difference of the parts) we have\n\n\\[ \\Delta^n u = \\frac{u}{x} h \\Delta^n o + \\frac{u}{x^2} h^2 \\Delta^n o^2 + \\cdots \\frac{n+m}{x^{n+m}} h^{n+m} \\Delta^n o^{n+m} + \\&c. \\]\n\nwhere it is to be observed that whilst \\( n+m \\) is less than \\( n \\) \\( \\Delta^n o^{n+m} = 0 \\), and \\( \\Delta^n o^n = 1 \\), as is well known, and easily appears from **Theorem II.**\nTheorems relative to the inverse Method of finite Differences.\n\nTheorem IV. Let \\( u \\) be a function of \\( x \\) and \\( x + h, x + 2h, \\ldots \\), successive values of \\( x \\), as before, then\n\n\\[\nS^n u = (e^{\\frac{u}{x} b} - 1)^{-n}\n\\]\n\nif after expansion \\( \\left( \\frac{u}{x} \\right)^{-n}, \\left( \\frac{u}{x} \\right)^{-n+1}, \\ldots \\) are changed into \\( fl.^n u x^n, fl.^{n-1} u x^{n-1}, \\ldots \\) and \\( \\left( \\frac{u}{x} \\right)^2, \\left( \\frac{u}{x} \\right)^3, \\ldots \\) into \\( \\frac{u}{x^2}, \\frac{u}{x^3}, \\ldots \\).\n\nDemonstration. By Theorem II.\n\n\\[\n(1) --- u = A \\left( \\frac{S^n u}{x^n} \\right) h^n + B \\left( \\frac{S^n u}{x^{n+1}} \\right) h^{n+1} + C \\left( \\frac{S^n u}{x^{n+2}} \\right) h^{n+2} + \\ldots\n\\]\n\nwhere \\( A, B, C, \\ldots \\) are the coefficients of \\( 1, h, h^2, \\ldots \\) in the expansion of \\( \\left( \\frac{e^{\\frac{u}{b}} - 1}{b} \\right)^n = \\left( 1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\ldots \\right)^n \\). So that if \\( v = (1 + h + h^2 + \\ldots)^n \\), making \\( h = 0, v = A, \\dot{v} = Bh, \\ddot{v} = Ch^2 + \\ldots \\).\n\n\\[\n(2) --- \\text{Let } * \\left( \\frac{S^n u}{x^n} \\right) h^n = \\alpha u + \\beta \\frac{u}{x} h + \\gamma \\frac{u}{x^2} h^2 + \\delta \\frac{u}{x^3} h^3 + \\ldots\n\\]\n\nIt is evident that this assumption may be made to satisfy the equation (1).\n\nThen, by taking the successive fluxions of equation (2) and substituting in equation (1), we have\n\n* Euler uses a similar assumption in his investigation of the sum of a series from its general term, p. 15, Tom. VIII. Com. Petropol.\n\\[ u = \\begin{cases} \nA\\alpha + A\\beta \\frac{\\dot{u}}{\\dot{x}} h + A\\gamma \\frac{\\ddot{u}}{\\dot{x}^2} h^2 + A\\delta \\frac{\\dddot{u}}{\\dot{x}^3} h^3 + &c. \\\\\nB\\alpha \\frac{\\dot{u}}{\\dot{x}} h + B\\beta \\frac{\\ddot{u}}{\\dot{x}^2} h^2 + B\\gamma \\frac{\\dddot{u}}{\\dot{x}^3} h^3 + &c. \\\\\n+C\\alpha \\frac{\\dot{u}}{\\dot{x}} h^2 + C\\beta \\frac{\\ddot{u}}{\\dot{x}^2} h^3 + &c. \\\\\nD\\alpha \\frac{\\dddot{u}}{\\dot{x}^3} h^3 + &c. \\\\\n&c. &c.\n\\end{cases} \\]\n\nHence\n\n\\[ A\\alpha = 1 \\]\n\\[ A\\beta + B\\alpha = 0 \\]\n\\[ A\\gamma + B\\beta + C\\alpha = 0 \\quad (3) \\]\n\\[ A\\delta + B\\gamma + C\\beta + D\\alpha = 0 \\]\n\\[ &c. &c. &c. \\]\n\nIn order to obtain the values of \\( \\alpha, \\beta, \\gamma, \\delta, &c. \\) let \\( z \\) represent a function of \\( h \\) which expanded gives\n\n\\[ a + \\beta h + \\gamma h^2 + \\delta h^3 + &c. \\text{ or } z = a + \\beta h + \\gamma h^2 + \\delta h^3 + &c. \\]\n\nThen by equations (3) we have, when \\( h = 0 \\)\n\n\\[ (4) \\quad v\\ddot{z} + v\\dddot{z} + v\\ddddot{z} + \\cdots - v\\dot{z} + v\\ddot{z} = 0, \\] \\( m \\) denoting any number. For taking \\( m \\) successively 1, 2, 3, &c. and dividing by \\( h, h^2, h^3, &c. \\) we obtain the equations (3). Now the equation (4) is the \\( m \\)th fluxion of\n\n\\[ (5) \\quad vz = \\text{constant, divided by } 1.2.3 \\ldots m. \\text{ When } h = 0 \\]\n\\[ vz = A\\alpha = 1, \\text{ hence const. } = 1, \\text{ therefore } vz = 1, \\text{ or } z = \\frac{1}{v} = \\left( \\frac{b}{e^{h-1}} \\right)^{-n} = \\left( 1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + &c. \\right)^{-n} * \\]\n\n* It is hoped, that this investigation of the value of \\( z \\) is stated with sufficient clearness. It is a very simple example of a method of very extensive application with respect to analytical functions. The theorems for finding fluxions per saltum, communicated by me to the Royal Irish Academy, in November, 1798, and published\nLet the equation (2) be multiplied by \\( \\frac{x^n}{b^n} \\), and the \\( n \\)th fluent taken, and we have\n\n\\[\nS^n u = \\frac{\\alpha}{b^n} \\text{fl.}^n u \\dot{x}^n + \\frac{\\beta}{b^{n-1}} \\text{fl.}^{n-1} u \\dot{x}^{n-1} + \\ldots \\frac{\\mu}{b} \\text{fl.} u \\dot{x} + \\nu u + \\pi \\frac{\\dot{u}}{\\dot{x}} b + \\rho \\frac{\\ddot{u}}{\\dot{x}} h^2 &c.\n\\]\n\nAlso from the above value of \\( z \\), it is easy to see that the expansion of\n\n\\[\n\\left( e^{\\frac{\\dot{u}}{\\dot{x}} h} - 1 \\right)^{-n} = \\frac{1}{h^n} \\left( \\frac{h}{e^{\\frac{\\dot{u}}{\\dot{x}} h} - 1} \\right)^n\n\\]\n\nin the seventh volume of their Transactions, furnish a general method of reducing any function of \\( x \\) to a series ascending by the powers of \\( x \\), and that either by assigning at once the coefficient of \\( x^n \\), or by equations of relation between the coefficients.\n\nBy the converse of that method we are enabled, either from the general coefficient, or from the equations of relation, to arrive at the primitive function. The converse, therefore, applies to the summation of series, to the investigation of the general term of a recurring series, and to several other important purposes. It is evident, that it applies to finding the general term of a recurring series, because from the given scale of relation, the primitive function can be deduced, and from the primitive function, the general coefficient may be determined. The same method extends to the reduction of any function of \\( x, y, z, &c. \\) and therefore the converse to finding the general term of double, triple, &c. recurring series.\n\nI had not considered the converse of the method of reduction of analytical functions afforded by my theorems for finding fluxions per saltum, till I had seen M. Arbogast's ingenious work, entitled \"Du Calcul des Derivations.\" As those theorems furnish every thing that is given in the former part of his treatise, and likewise admit of more extensive application; so also the converse of them serve for deducing, with greater facility, every thing respecting recurring series, &c. contained in the same Treatise.\n\nThe important uses to be derived from finding fluxions per saltum in the reduction of analytical functions, and from the converse, induced me to draw up a particular work on that subject. Its publication has hitherto been delayed by my unwillingness to offer a fluxional notation different from either that of Newton or Leibnitz, each of which is very inconvenient as far as regards the application of the theorems for finding fluxions per saltum.\n\nMDCCCVII.\nDr. Brinkley's Investigation of the general Term\n\n$$\\frac{\\alpha}{b^n} \\left( \\frac{u}{x} \\right)^{-n} + \\frac{\\beta}{b^{n-1}} \\left( \\frac{u}{x} \\right)^{-n+1} + \\cdots \\frac{\\mu}{b} \\left( \\frac{u}{x} \\right)^{-1} + nu + \\pi \\left( \\frac{u}{x} \\right) h + \\rho \\left( \\frac{u}{x} \\right)^2 h^2 + \\&c.$$  \n\nWhence the truth of the theorem is manifest.\n\n**Theorem V.** $S^n u = \\left( \\frac{\\alpha}{b^n} \\right) fl. n u \\dot{x}^n + \\frac{\\beta}{b^{n-1}} fl. n-1 u \\dot{x}^{n-1} + \\&c.$\n\nwhere the numerical coefficient of the $m + 1$ term is the coefficient of $h^m$ in the expansion of $\\left( 1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\&c. \\right)^{-n}$.\n\nThe demonstration of this is contained in that of the last theorem.\n\nPreviously to the investigation of the numerical coefficient of the general $m + 1$ term, it will be convenient to premise the following lemmas.\n\n**Lemma I.** Let $n$ represent any affirmative integral number, and $m$ any other affirmative integral number not greater than $n$. Then\n\n$$\\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v \\&c. = \\Delta_m o_n$$\n\nwhere $p, q, r, \\&c.; t, v, w, \\&c.$ represent any affirmative integral numbers satisfying the equations\n\n$t + v + w + \\&c. = m$\n\n$tp + vq + rw + \\&c. = n.$\n\n**Demonstration.**\n\nLet $a^{(1)} = 1^n$\n\n$a^{(2)} = 1.2 \\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v$ where $t + v = 2$ & $tp + vq = n.$\n\n$a^{(3)} = 1.2.3 \\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v \\left( \\frac{1}{1^w} \\right)^w$ where $t + v + w = 3$ and $tp + vq + rw = n.$\n\n$\\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots \\cdots$\n\n$a^{(m)} = 1.2.3..m \\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v \\left( \\frac{1}{1^w} \\right)^w \\&c.$ where $t + v + w + \\&c. = m$ and $tp + vq + rw + \\&c. = n.$\nThen we shall find that\n\n\\[ m^n = m a^{(1)} + \\frac{m(m-1)}{1 \\cdot 2} a^{(2)} + \\frac{m(m-1)(m-2)}{1 \\cdot 2 \\cdot 3} a^{(3)} + \\ldots + ma^{(m-1)} + a^{(m)} \\]\n\nFor taking \\( m \\) quantities \\( \\alpha, \\beta, \\gamma, \\&c. \\) we easily deduce by help of the multinomial theorem,\n\n\\[ (\\alpha + \\beta + \\gamma + \\&c.)^n = \\alpha^n + \\beta^n + \\&c. + \\int \\alpha^p \\beta^q + \\&c. + \\&c. + \\int \\alpha^p \\beta^q \\gamma^r + \\&c. + \\&c. \\]\n\nwhere \\( p + q = n, p + q + r = n, \\&c. \\&c. \\)\n\nNow if we consider a term \\( \\int \\alpha^p \\beta^q \\gamma^r + \\&c. \\) where \\( k \\) quantities \\( \\alpha, \\beta, \\gamma, \\&c. \\) are concerned, and if \\( p', p' \\ldots (t' \\text{ numbers}), q', q' \\ldots (v' \\text{ numbers}), r', r' \\ldots (w' \\text{ numbers}) \\), denote values of \\( p, q, r, \\&c. \\) satisfying the equation \\( p + q + r + \\&c. (k \\text{ terms}) = n \\), we shall see, that the number of the terms, in which these values \\( p', p', \\ldots q', q', \\ldots r', r', \\&c. \\) are found, is the number of combination of \\( m \\) things, taking \\( k \\) together into the number of permutations of \\( k \\) things, of which \\( t', v', \\&c. \\) are the same. This is evident, because in any product \\( \\alpha \\beta \\gamma \\) (\\( k \\text{ factors} \\)), the indices \\( p', p', \\ldots q', q', \\&c. \\) are to be annexed in every possible order.\n\nAnd when the quantities \\( \\alpha, \\beta, \\gamma, \\&c. \\) are each units, each of the quantities is expressed by the same quantity, \\( 1^{t'} \\cdot 1^{v'} \\ldots 1^{w'} \\cdot 1^{r'} \\cdot 1^{q'} \\cdot 1^{p'} \\&c. \\) therefore the sum of all of them is\n\n\\[ \\frac{m(m-1) \\ldots (m-k+1)}{1 \\cdot 2 \\ldots k} \\times \\frac{1 \\cdot 2 \\ldots k}{1 \\cdot 2 \\ldots t' \\cdot 1 \\cdot 2 \\ldots v' \\&c.} \\int (1^{p'})^{t'} (1^{q'})^{v'} \\&c. \\&c. \\]\n\nHence, when \\( \\alpha, \\beta, \\gamma, \\&c. \\) are each unity,\n\n\\[ \\int \\alpha^p \\beta^q \\gamma^r + \\&c. + \\&c. (k \\text{ quantities}) = \\frac{m(m-1) \\ldots (m-k+1)}{1 \\cdot 2 \\ldots k} a^{(k)} \\]\n\nHence by substituting for \\( k \\) the numbers \\( 1, 2, 3, \\&c. \\) we easily obtain the equation (1). From which, substituting for \\( m \\) successively \\( 1, 2, 3, \\&c. \\) we obtain\n\\[\n\\begin{align*}\n1^n &= a^{(1)} \\\\\n2^n &= 2a^{(1)} + a^{(2)} \\\\\n3^n &= 3a^{(1)} + 3a^{(2)} + a^{(3)} \\\\\n&\\vdots \\\\\nm^n &= ma^{(1)} + \\frac{m(m-1)}{1.2}a^{(2)} + \\ldots + ma^{(m-1)} + a^{(m)}\n\\end{align*}\n\\]\n\nThese equations correspond to the equations between the terms of a series of quantities, and the first terms of their respective orders of differences, i.e., \\(o^n\\), \\(1^n\\), \\(2^n\\), &c. correspond to the series, and \\(a^{(1)}\\), \\(a^{(2)}\\), &c. to the respective orders of differences.\n\nHence we conclude, that \\(a^{(m)} = \\Delta^m o^n\\), and therefore that\n\n\\[\n\\int \\left(\\frac{1}{1}\\right)^t \\left(\\frac{1}{1}\\right)^v \\&c. = \\Delta^m o^n.\n\\]\n\n**Lemma II.** Everything being, as in the preceding lemma, except that unity is excluded from the values of \\(p, q, r, &c.\\)\n\n\\[\n\\int \\left(\\frac{1}{1}\\right)^t \\left(\\frac{1}{1}\\right)^v \\left(\\frac{1}{1}\\right)^w \\&c. = \\Delta^m o^n - \\Delta^{m-1} o^{n-1} + \\frac{1}{1.2} \\Delta^{m-2} o^{n-2} - \\frac{1}{1.2.3} \\Delta^{m-3} o^{n-3} + \\ldots (\\text{to } m \\text{ terms.})\n\\]\n\n**Demonstration.** Let \\(b^{(m)}\\), \\(b^{(m-1)}\\), \\(b^{(m-2)}\\), &c., represent \\(1.2 \\ldots m \\int \\left(\\frac{1}{1}\\right)^t \\left(\\frac{1}{1}\\right)^v \\&c.; 1.2 \\ldots (m-1) \\int \\left(\\frac{1}{1}\\right)^t \\left(\\frac{1}{1}\\right)^v \\&c.; &c. &c. respectively: these latter quantities being defined, as in the preceding lemma, except that unity is excluded among the values of \\(p, q, &c.\\).\n\nThen it is easy to see, if \\(a^{(m)}\\), \\(a^{(m-1)}\\), &c. denote as in the preceding lemma,\n\nthat \\(a^{(m)} = b^{(m)} + mb^{(m-1)} + \\frac{m(m-1)}{1.2} b^{(m-2)} + &c.\\).\nthat \\(a^{(m-1)} = b^{(m-1)} + (m-1) b^{(m-2)} + \\frac{(m-1)(m-2)}{1.2} b^{(m-3)} + \\&c.\\)\n\n\\[\\&c. \\quad \\&c.\\]\n\nThese equations are the same as the equations between the terms of a series of quantities, and the first terms of their respective orders of differences;\n\n\\[\\ldots a^{(m-1)}, a^{(m)}, \\text{ corresponding to the terms of the series,}\\]\nand \\[\\ldots b^{(m-1)}, b^{(m)}, \\text{ to the first terms of the respective orders of differences.}\\]\n\nWhence we conclude, that \\(b^{(m)} = a^{(m)} - ma^{(m-1)} + \\frac{m(m-1)}{1.2} a^{(m-2)} - \\&c. = (\\text{by the preceding lemma})\\)\n\\[= \\Delta^m o^n - m \\Delta^{m-1} o^{n-1} + \\frac{m(m-1)}{1.2} \\Delta^{m-2} o^{n-2} - \\&c.\\] and therefore, excluding unity from the values of \\(p, q, \\&c.\\)\n\n\\[\\int \\left(\\frac{1}{t}\\right)^t \\left(\\frac{1}{v}\\right)^v \\left(\\frac{1}{r}\\right)^w \\&c. = \\Delta^m o^n - \\Delta^{m-1} o^{n-1} + \\frac{1}{1.2} \\Delta^{m-2} o^{n-2}\\]\n\n(m terms).\n\n**Theorem VI.** Let \\(S^n u = \\frac{1}{b^n} \\text{fl. } n u \\dot{x}^n + \\frac{c^{(1)}}{p^{n-1}} \\text{fl. } n^{-1} u \\dot{x}^{n-1}\\)\n\\[\\&c. (\\text{vid. Theor. V.}), \\text{then } c^{(m)} \\text{ or the coefficient of the } m+1\\]\nterm \\(= -n \\left(\\begin{array}{c} n+2 \\\\ 1 \\end{array}\\right) \\left(\\begin{array}{c} n+3 \\\\ 2 \\end{array}\\right) \\ldots \\left(\\begin{array}{c} n+m \\\\ m-1 \\end{array}\\right) \\Delta^1 o^{m+1} + n(n-1) \\left(\\begin{array}{c} n+3 \\\\ 1 \\end{array}\\right)\\)\n\\[\\left(\\begin{array}{c} n+4 \\\\ 2 \\end{array}\\right) \\ldots \\left(\\begin{array}{c} n+m \\\\ m-2 \\end{array}\\right) \\Delta^2 o^{m+2} - n(n-1)(n-2) \\left(\\begin{array}{c} n+4 \\\\ 1 \\end{array}\\right) \\left(\\begin{array}{c} n+5 \\\\ 2 \\end{array}\\right) \\ldots\\]\n\\[\\left(\\begin{array}{c} n+m \\\\ m-3 \\end{array}\\right) \\Delta^3 o^{m+3} - \\&c. (\\text{to } m \\text{ terms and } m \\text{ factors in each term}).\\]\n\n**Demonstration.** (By **Theorem V.**) The coefficient of the\nDr. Brinkley's Investigation of the general Term\n\n$m + 1$ term is the coefficient of $h^m$ in the expansion of\n$$\\left(1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\&c.\\right)^{-n} = \\left(1 + \\frac{1}{1} h + \\frac{1}{1} h^2 + \\&c.\\right)^{-n}.$$  \n\nLet $d^{(1)} = \\frac{1}{m+1}$\n\n$$d^{(2)} = \\int \\left(\\frac{1}{p}\\right)^t \\left(\\frac{1}{q}\\right)^v,$$ where $t + v = 2$, $pt + qv = m + 2$,\nunity being excluded from the values of $p, q, \\&c.$\n\n$$d^{(3)} = \\int \\left(\\frac{1}{p}\\right)^t \\left(\\frac{1}{q}\\right)^v \\left(\\frac{1}{r}\\right)^w,$$ where $t + v + w = 3$, $pt + qv + rw = m + 3$, unity $\\&c.$\n\nThen the coefficient of $h^m = -nd^{(1)} + n(n+1)d^{(2)} - n(n+1)(n+2)d^{(3)} + n(n+1)\\cdots(n+m-1)d^{(m)}$.\n\nThis may easily be deduced from the multinomial Theorem, or more readily from the theorems for finding fluxions per sal-tum in the seventh volume of the Transactions of the Royal Irish Academy.\n\nBy Lemma II.\n\n$$d^{(1)} = \\Delta^1 o^{m+1}$$\n\n$$d^{(2)} = \\Delta^2 o^{m+2} - \\Delta^1 o^{m+1}$$\n\n$$d^{(3)} = \\Delta^3 o^{m+3} - \\Delta^2 o^{m+2} + \\frac{1}{1.2} \\Delta^1 o^{m+1}$$\n\n$$d^{(m)} = \\Delta^m o^{2m} - \\Delta^{m-1} o^{2m-1} + \\frac{1}{1.2} \\Delta^{m-2} o^{2m-2} - \\&c.$$  \n\nWhence the coefficient of $h^m =$\n\n$$\\begin{array}{ccc}\nn & -\\Delta^1 o^{m+1} + n(n+1) & \\Delta^2 o^{m+2} + n(n+1)(n+2) \\\\\nn(n+1) & n(n+1)(n+2) & n(n+1)\\cdots(n+3) \\\\\nn(n+1)(n+2) & n(n+1)\\cdots(n+3) & n(n+1)\\cdots(n+4)\n\\end{array}$$\n\n(m terms) (m-1 terms) (m-2 terms)\nof a Series in the inverse Method of finite Differences.\n\n\\[ = \\text{(by theorems for figurate numbers)} \\]\n\n\\[-n \\left( \\frac{n+2}{1} \\right) \\left( \\frac{n+3}{2} \\right) \\cdots \\left( \\frac{n+m}{m-1} \\right) \\Delta^1 o^{m+1} + n(n+1) \\left( \\frac{n+3}{1} \\right) \\left( \\frac{n+4}{2} \\right) \\cdots \\left( \\frac{n+m}{m-2} \\right) \\Delta^2 o^{m+2} - \\]\n\n\\[ n(n+1)(n+2) \\left( \\frac{n+4}{1} \\right) \\left( \\frac{n+5}{2} \\right) \\cdots \\left( \\frac{n+m}{m-3} \\right) \\Delta^3 o^{m+3} + \\&c. \\text{ (to } m \\text{ terms and } m \\text{ factors in each term).} \\]\n\nCor. 1. When \\( n=1 \\) the coefficient of \\( h^m \\)\n\n\\[ = -\\frac{m(m+1)}{1.2} \\Delta^1 o^{m+1} + \\frac{(m-1)m(m+1)}{1.2.3} \\Delta^2 o^{m+2} + \\frac{(m-2)(m-1)m(m+1)}{1.2.3.4} \\Delta^3 o^{m+3} + \\&c. \\text{ (to } m \\text{ terms).} \\]\n\nCor. 2. The same investigation holds for the coefficient of \\( h^m \\) in the expansion of \\( \\left( 1 + \\frac{b}{1.2} + \\frac{b^2}{1.2.3} + \\&c. \\right)^n \\). So that substituting \\(-n\\) for \\( n \\) in the above expression we obtain by Theorem III.\n\n\\[ \\Delta^n o^{n+m} = \\pm n \\left( \\frac{n-2}{1} \\right) \\left( \\frac{n-3}{2} \\right) \\cdots \\left( \\frac{n-m}{m-1} \\right) \\Delta^1 o^{m+1} + n(n-1) \\left( \\frac{n-3}{1} \\right) \\left( \\frac{n-4}{2} \\right) \\cdots \\left( \\frac{n-m}{m-2} \\right) \\Delta^2 o^{m+2} \\pm \\&c. \\]\n\n(to \\( m \\) terms and \\( m \\) factors in each term) the upper signs taking place when \\( m \\) is odd, and the under when even.\n\nThis corollary furnishes an important theorem, greatly facilitating the computation of differences. It often affords a much more convenient general term for the numerical coefficients in the expression for \\( \\Delta^n u \\) than that given in Theor. III. viz. when \\( m \\) is small compared with \\( n \\) in which case the common method for the computation of \\( \\Delta^n o^{n+m} \\) would be of little use. As in the following example:\nExample. To find the first term of the \\( n-2 \\) order of differences of the series \\( x^n, (x+h)^n, (x+2h)^n, \\) &c.\n\nBy Theorem III.\n\n\\[\n\\Delta^{n-2} x^n = n(n-1)\\ldots 3x^2 h^{n-2} \\Delta^{n-2} o^{n-2} + n(n-1)\\ldots 2xh^{n-1}\n\\]\n\n\\[\n\\Delta^{n-2} o^{n-1} + n(n-1)\\ldots 1h^n \\Delta^{n-2} o^n\n\\]\n\n\\[\n\\Delta^{n-2} o^{n-2} = 1\n\\]\n\nand, By this Corollary\n\n\\[\n\\Delta^{n-2} o^{n-1} = (n-2)\\Delta^1 o^2 = \\frac{n-2}{2}\n\\]\n\n\\[\n\\Delta^{n-2} o^n = -(n-2)(n-4)\\Delta^1 o^3 + (n-2)(n-3)\\Delta^2 o^4 =\n\\]\n\nHence\n\n\\[\n\\Delta^{n-2} x^n = 1.2\\ldots n \\left( \\frac{x^2}{1.2} h^{n-2} + \\frac{n-2}{2} xh^{n-1} + \\frac{(n-2)(3n-5)}{1.2.3.4} h^n \\right)\n\\]\n\nScholium.\n\nThe case of the above theorem, when \\( n=1 \\), has, on account of its importance, been a particular object of investigation among mathematicians. Although the formula in the first corollary is, as to its formation and law of progression, very simple, yet one more simple may be readily obtained by the joint application of a transformation given by M. Laplace in his method, and of the first lemma above given; which formula and its investigation are here subjoined. This and the above general formule (\\( n \\) being any number), as well as the formula of Laplace (\\( n \\) being 1), do not enable us to compute the successive coefficients so readily as from the equations of relation. But this circumstance, it is imagined, will not render what has been here done less worthy of the notice of mathematicians. Their researches for a general term in the case of\nof a Series in the inverse Method of finite Differences.\n\n\\( n = 1 \\), sufficiently shew of what importance the enquiry has been considered.\n\n**Theorem.** \\( S u = \\frac{1}{b} \\text{fl. } u \\dot{x} - \\frac{u}{2} + a \\frac{\\ddot{u}}{\\dot{x}} h + b \\frac{\\ddot{u}}{\\dot{x}^2} h^2 + \\ldots P \\frac{\\ddot{u}}{\\dot{x}^m} h^m + \\&c. \\)\n\nin which the even powers of \\( h \\) are not found, and \\( P \\) the coeff.\n\nof \\( \\frac{\\ddot{u}}{\\dot{x}^m} h^m = \\frac{1}{1, 2, 3, \\ldots m [2^{m+1} - 1]_2^m} (2^{m-1} \\Delta^1 o^m - 2^{m-2} \\Delta^2 o^m + 2^{m-3} \\Delta^3 o^m \\ldots + \\Delta^m o^m) \\).\n\n**Demonstration.** The coefficient of \\( \\frac{\\ddot{u}}{\\dot{x}^m} h^m \\), or \\( c^{(m+1)} \\) (\\( \\text{Vid. Theorem V.} \\)) is the coefficient of \\( h^{m+1} \\) in the expansion of \\( \\left( 1 + \\frac{b}{1, 2} + \\frac{b^2}{1, 2, 3} + \\&c. \\right)^{-1} \\), or of \\( \\left( \\frac{b}{e^b - 1} \\right) \\)\n\n1. Now \\( \\frac{b}{e^b - 1} + \\frac{b}{e^{-b} - 1} = -h \\ldots \\ldots \\ldots (1) \\)\n\nLet\n\n\\( 1 + Ah + Bh^2 + \\ldots + Nh^m + Ph^{m+1} + \\&c. \\) represent the expansion of \\( \\frac{b}{e^b - 1} \\), \\( m \\) being any odd number.\n\nThen\n\n\\( -1 + Ah - Bh^2 + \\ldots + Nh^m - Ph^{m+1} + \\&c. \\) will represent the expansion of \\( \\frac{b}{e^{-b} - 1} \\)\n\nHence by equation (1) we obtain\n\n\\( A + Ch^2 + \\ldots + Nh^{m-1} + \\&c. = -\\frac{1}{2} \\ldots \\ldots (2) \\)\n\nFrom whence it follows that\n\n\\( A = \\frac{1}{2}, C = 0, \\ldots N = 0 \\ldots \\ldots \\). Hence when \\( m \\) is any odd number the coefficient of \\( h^m = 0 \\), and therefore the coefficient of \\( \\frac{\\ddot{u}}{\\dot{x}^{m-1}} h^{m-1} \\).\n\nMDCCCVII.\nLet \\( p, q, r, \\) and \\( s \\) represent the coefficients of \\( h^{m+1} \\) in the expansion of \\( \\frac{b}{e^{\\frac{b}{2}} - 1}, \\frac{\\frac{b}{2}}{e^{\\frac{b}{2}} - 1}, \\frac{b}{e^{\\frac{b}{2}} + 1}, \\) and \\( \\frac{\\frac{b}{2}}{e^{\\frac{b}{2}} + 1} \\) respectively:\n\nthen it is easy to see that \\( \\frac{p}{2^{m+1}} = q, \\frac{r}{2^{m+1}} = s \\) and therefore by equation (3) \\( p = q - s = \\frac{p - r}{2^{m+1}}, \\) or \\( p = \\frac{r}{1 - 2^{m+1}}. \\)\n\nTo obtain \\( r \\) the coefficient of \\( h^{m+1} \\) in the expansion of \\( h \\left( 2 + h + \\frac{h^2}{1.2} + &c. \\right)^{-1} \\)\n\nLet \\( d^{(1)} = \\frac{1}{1^m} \\)\n\n\\( d^{(2)} = \\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v \\) where \\( t + v = 2 \\) and \\( pt + qv = m \\)\n\n\\( d^{(3)} = \\int \\left( \\frac{1}{1^t} \\right)^t \\left( \\frac{1}{1^v} \\right)^v \\left( \\frac{1}{1^w} \\right)^w \\) where \\( t + v + w = 3 \\) and \\( pt + qv + rw = m \\)\n\n&c. &c. &c.\n\nThen the coefficient of \\( h^m \\) in the expansion of \\( \\left( 2 + h + \\frac{h^2}{1.2} + &c. \\right)^{-1} = \\)\n\n\\(-\\frac{1}{2^2} d^{(1)} + \\frac{1.2}{2^3} d^{(2)} - \\frac{1.2.3}{2^4} d^{(3)} + &c. \\)\n\nBut by Lemma I.\n\n\\( d^{(1)} = \\Delta_0^m \\)\n\n\\( 1.2 d^{(2)} = \\Delta_2^m \\)\n\n\\( 1.2.3 d^{(3)} = \\Delta_3^m \\)\n\n&c. &c.\n\nHence the coefficient of \\( h^{m+1} \\) in the expansion of \\( \\frac{b}{e^{\\frac{b}{2}} - 1} \\) or co-\nefficient of \\( \\frac{m}{x^m} h^m \\) in the expression for \\( S_u = \\)\n\n\\[\n\\frac{1}{1 \\cdot 2 \\cdot 3 \\cdot m (2^{m+1} - 1)} \\left( 2^{m-1} \\Delta_1 o^m - 2^{m-2} \\Delta_2 o^m + \\ldots + \\Delta_m o^m \\right)\n\\]\n\nThe same conclusion may be derived somewhat more easily by the assistance of a diverging series, as follows. This investigation, however, is not given as affording the same satisfaction to the mind as the above demonstration,\n\n\\[\n\\frac{1}{e^b + 1} = 1 - e^b + e^{2b} - \\&c.\n\\]\n\nHence it is easy to see that the coefficient of \\( h^m \\)\n\n\\[\n= -1^m + 2^m - 3^m + \\&c. \\text{ in infinitum.}\n\\]\n\nAlso\n\n\\[\n\\frac{1}{e^b + 1} = \\frac{e^{-b}}{1 + e^{-b}} = e^{-b} - e^{-2b} + e^{-3b} - \\&c.\n\\]\n\nfrom which it likewise appears that the coefficient of \\( h^m \\)\n\n\\[\n= \\pm 1^m \\mp 2^m \\pm 3^m \\mp \\&c., \\text{ the upper signs taking place when } m \\text{ is even, and the lower when odd. Hence when } m \\text{ is even}\n\\]\n\n\\[\n-1^m + 2^m - 3^m + \\&c. = 1^m - 2^m + 3^m - \\&c. \\text{ and therefore necessarily }\n\\]\n\n\\[\n-1^m + 2^m - 3^m + \\&c. = 0. \\text{ Consequently, when } m \\text{ is even the coefficient of } h^m \\text{ in the expansion of } \\frac{1}{e^b + 1} = 0. \\text{ And generally by the application of a well-known theorem,}\n\\]\n\n\\[\n-1^m + 2^m - 3^m + \\&c. = -\\frac{1}{2} \\Delta_1 o^m + \\frac{1}{2} \\Delta_2 o^m - \\&c.\n\\]\n\nWhence, &c. &c.\n\nIt may be remarked, that in the above theorem the coefficient of \\( h^m \\) can be computed, without using a higher quantity in the series \\( o^m, 1^m, 2^m, \\&c. \\) than \\( \\left( \\frac{m-1}{2} \\right)^m \\). For the first terms of the \\( \\frac{m-1}{2} + 1, \\frac{m-1}{2} + 2, \\&c. \\) orders of differences of the series\n\n\\[\n\\left( \\frac{m-1}{2} \\right)^m, \\left( 1 - \\left( \\frac{m-1}{2} \\right) \\right)^m, \\left( 2 - \\left( \\frac{m-1}{2} \\right) \\right)^m, \\&c. \\text{ are obtained}\n\\]\nwithout using a higher power than \\((\\frac{m-1}{2})^m\\), and thence \\(\\Delta^{m+1} o^m \\ldots \\Delta^{m-1} o^m\\), and it is known, that \\(\\Delta^m o^m = 1 \\ldots m\\).\n\nThus the computation of the latter half of the terms in \\(\\left(2^{m-1} \\Delta^1 o^m - 2^{m-2} \\Delta^2 o^m + \\&c.\\right)\\) will be much facilitated.\n\nThe computation of \\(\\Delta^{m-1} o^m, \\Delta^{m-2} o^m, \\&c.\\) is also much facilitated by Cor. II. Theorem V.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107234.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 20,
+    "total-input-tokens": 30670,
+    "total-output-tokens": 13265,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1447,
+        2
+      ],
+      [
+        1447,
+        3575,
+        3
+      ],
+      [
+        3575,
+        5272,
+        4
+      ],
+      [
+        5272,
+        6932,
+        5
+      ],
+      [
+        6932,
+        8666,
+        6
+      ],
+      [
+        8666,
+        10193,
+        7
+      ],
+      [
+        10193,
+        12016,
+        8
+      ],
+      [
+        12016,
+        14565,
+        9
+      ],
+      [
+        14565,
+        16425,
+        10
+      ],
+      [
+        16425,
+        18571,
+        11
+      ],
+      [
+        18571,
+        20176,
+        12
+      ],
+      [
+        20176,
+        22048,
+        13
+      ],
+      [
+        22048,
+        23508,
+        14
+      ],
+      [
+        23508,
+        25391,
+        15
+      ],
+      [
+        25391,
+        26901,
+        16
+      ],
+      [
+        26901,
+        28496,
+        17
+      ],
+      [
+        28496,
+        29850,
+        18
+      ],
+      [
+        29850,
+        31685,
+        19
+      ],
+      [
+        31685,
+        32115,
+        20
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107234",
+    "title": "An Investigation of the General Term of an Important Series in the Inverse Method of Finite Differences",
+    "authors": "Andrews, John Brinkley",
+    "year": 1807,
+    "volume": "97",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 20,
+    "jstor_url": "https://www.jstor.org/stable/107234"
+  }
+}

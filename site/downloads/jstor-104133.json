@@ -1,0 +1,59 @@
+{
+  "id": "17d5fed955c580082a90a8d2b38050260a47b851",
+  "text": "VI. An Observation of extraordinary Warmth of the Air in January 1741-2, communicated in a Letter from the Rev'd Mr. H. Miles to Mr. John Eames, F. R. S.\n\nTooting, Surry, Jan. 20. 1741-2.\n\nMy Mercurial Thermometer abroad, was last Night, at 10 o’Clock, 20 Degrees above the freezing Point; which is higher than it was sixteen Mornings of the one-and-thirty in May last, and higher than in any Morning in April, one excepted.\n\nVII. The Description and Uses of the Steel-yard Balance Swing, invented and made by Mr. Timothy Sheldrake.\n\nAs a beautiful and regular Form of Body renders a Person agreeable; so, on the contrary, Deformity of Body not only produces Weakness, but sometimes is the Cause of Ridicule amongst such unthinking People as will not remember, That it is He that made us, and not we ourselves.\n\nFor the foregoing Reasons, and to prevent such bad Consequences as the above-mentioned, it would be much to the Advantage of crooked Persons, if any Method could be found for giving them any Help, by endeavouring to regain the original Symmetry of Parts, which, by its Commonness, is not sufficiently esteem’d,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104133.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 346,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1122,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104133",
+    "title": "An Observation of Extraordinary Warmth of the Air in January 1741-2. Communicated in a Letter from the Revd Mr. H. Miles to Mr. John Eames, F. R. S.",
+    "authors": "H. Miles",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104133"
+  }
+}

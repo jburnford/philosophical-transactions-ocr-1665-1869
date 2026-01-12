@@ -1,0 +1,69 @@
+{
+  "id": "5ed69ada466ac6c0ffb4436b1a1a736ab417a726",
+  "text": "moderante natura, conamina sua molitur; Sed praeter huc, tempus ad operationem atque anni tempestas magis idonea pro transplantatione ad libitum eligi, ut & corpus infitioni subjiciendum congruis adminiculis ad recipien dam illam ex arte preparari disponique poterit; Quod re vera maximi ad salutarem faustumque morbi successum momenti censeri debeat.\n\nDe hac re vide etiam Philos. Trans. No. 339.\n\nIII. Problematis Mathematicis Anglis nuper propo-\nsiti Solutio Generalis.\n\nIN Actis Eruditorum pro mense Octobri Anni 1698.\npag. 471. D. Johannes Bernoullius hæc scripsit.\n\nMethodum quam opraveram generalem secandi\n\n\"[Curvas] ordinatim positione datas sive algebraicas sive\ntranscendentales, in angulo recto sive obliquo, inveria-\nbili sive data lege variabili, tandem ex voto erui: cui,\nLeibnitz approbatore, ne ypl addi posset ad ulterio-\nrem perfectionem, & vel ideo tantum quod perpetuo\nad æquationem deducat: in qua si interdum indetermi-\nnatæ sunt inseparabiles, methodus non ideo imperfecti-\nor est, non enim hujus sed altus est methodi indetermi-\nnatas separare. Rogamus igitur fratrem ut velit suas\nquoque vires exercere in re tanti momenti. Suscepti\nlaboris non pœnitebit, si felix successus fructu jucundo\ncompensaverit. Scio relicturum suum quem nunc fovent\nmodum, qui in paucissimis tantum exemplis adhiberi\npotest.\n\nHi tres Viri celeberrimi sece, jam ab annis quatuor vel\nquinque circiter in solvendis hujusmodi Problematisbus ex-\nercuerant. Absque spiritu divinandi canæm solutionem\ncum Bernoulliana tradere difficile fuerit. Sufficit quod So-\nlutio sequens sit generalis, & ad æquationem semper\ndeducat.\"\nPROBLEMA.\n\nQuæritur Methodus generalis inveniendi Seriem Curvarum, quæ Curvas in serie alia quacumque data constitutas, ad angulum vel datum vel data lege variabilem secabunt.\n\nSolutio.\n\nNatura Curvarum secundarum dat Tangentes earundem ad intersectionum puncta quæcumque; & anguli intersectionum dant perpendicula Curvarum secantium; & perpendicula duo coeuntia, per concursum suum ultimum, dant centrum Curvaminis Curvae secantis ad punctum intersectionis cujuscumque. Ducatur Abscissa in situ quo cumque commodi, & sit ejus Fluxio Unitas; & positio perpendiculi dabit Fluxionem primam Ordinatæ ad Curvam quæsitam pertinentis; & Curvamen hujus Curvae dabit Fluxionem secundam ejusdem Ordinatæ. Et sic Problema semper deducetur ad æquationes. Quod erat faciendum.\n\nScholium.\n\nNon hujus sed altius est methodi æquationes reducere, & indeterminatas separare, absolutè si fieri possit, sin minus per Series infinitas. Problema hocce, cum nullius fere sit usus, in Actis Eruditorum annos plures neglectum & insolutum mansit. Et eadem de causa solutionem ejus non ulterius prosequor.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103077.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 955,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1620,
+        2
+      ],
+      [
+        1620,
+        2699,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103077",
+    "title": "Problematis Mathematicis Anglis Nuper Propositi Solutio Generalis",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103077"
+  }
+}

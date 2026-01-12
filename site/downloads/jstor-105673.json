@@ -1,0 +1,59 @@
+{
+  "id": "44e434847ee03a48d6a3a97ca49d599bb38ccb3c",
+  "text": "XCV. An Account of the Comet seen at Paris, in June 1762: In an Extract of a Letter, dated at Paris, July 30, 1762, from Mons. De la Lande, of the Royal Academy of Sciences at Paris, to Charles Morton, M.D. Secretary to the Royal Society.\n\nRead Nov. 4, 1762.\n\nLongitude of the ascending node - - - - - 11° 19' 23\"\nLongitude of the perihelion - - - - - 3° 15' 14\"\nInclination - - - - - - - - - - - 84° 45'\nPassage through the perihelion 28th of May, at 15h 27', middle time.\n\nPerihelion distance 1.0124, supposing the distance of the Sun from the Earth to be 1.\n\nWe were not able to observe this comet later than the 5th of July. It was even at too great a distance on that day; and was but ill observed from the 30th of June. This comet resembles none of the forty-nine comets, whose elements are already known.\n\nXCVI. Minutes",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105673.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 333,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        826,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105673",
+    "title": "An Account of the Comet Seen at Paris, in June 1762: In an Extract of a Letter, Dated at Paris, July 30, 1762, from Mons. De la Lande, of the Royal Academy of Sciences at Paris, to Charles Morton, M. D. Secretary to the Royal Society",
+    "authors": "Mons. De la Lande",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105673"
+  }
+}

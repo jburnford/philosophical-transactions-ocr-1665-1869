@@ -1,0 +1,69 @@
+{
+  "id": "9d0804aa16d98f3e38d7091b00a819cca6c91e74",
+  "text": "VI. An Account of some Experiments tried with Mons. Villette's Burning Concave, in June 1718. By the Rev. Dr. J. Harris and Dr. J. T. Desaguliers, Reg. Soc. SS.\n\nThis Miroir is a Concave 47 Inches wide, and ground to a Sphere of 76 Inches Radius; so that its Focus is about 38 Inches distant from the Vertex of the Glass. The Metal of which it is made is a Mixture of Copper, Tin and Tin-Glass, whose Reflexion has something of a yellow Cast. The Concave-Surface has scarce any Flaws, and those very small; but the Convex side, which is also polish'd, has some Holes in it.\n\nHaving held several Bodies in the Focus of this Miroir, we observ'd what happen'd to them whilst expos'd to this great Heat; and with an half second Pendulum took notice of the Time in which any material Change happen'd to them.\n\nThe Experiments were as follow, and made from Nine till Twelve in the Morning.\n\nNo. 1. A red piece of a Roman Patera, which began to melt in 3 Seconds, was ready to drop in 100.\n2. Another black Piece melted at 4, and was ready to drop at 64 Seconds.\n3. Chalk taken out of an Echinus Spatagus fill'd with Chalk only, fled away in 23 Seconds.\n4. A Fossil-Shell calcin'd in 7 Seconds, and did no more in 64.\n5. A piece of Pompey's Pillar at Alexandria, was vitrified in the Black Part in 50 Seconds, and in the White part in 54.\n6. Copper-Oar, that had no Metal in it visible, vitrified in 8 Seconds.\n7. Slag, or Cinder of the ancient Iron-work said to have been wrought by the Saxons, ready to run in 29 Seconds and an half.\n\nHere the Glass growing hot, burn'd with much less Force.\n\n8. Iron-Oar red at first, but melted in 24 Seconds.\n9. Talk began to calcine at 40 Seconds, and held in the Focus 64.\n10. Calculus humanus in 2 Seconds was calcin'd, and only dropp'd off in 60.\n11. An anonymous Fish's Tooth melted in 32 Seconds and an half.\n12. The Asbestos seem'd condens'd a little in 28 Seconds; but it was now something cloudy: Mons. Villette says that the Glass usually calcines it.\n13. A Golden Marchasite broke to pieces, and began to melt in about 30 Seconds.\n14. A Silver Sixpence melted in 7 Seconds and an half.\n15. A King William's Copper Halfpenny melted in 20 Seconds, and ran with an Hole in it in 31.\n16. A King George's Halfpenny melted in 16 Seconds, and ran in 34.\n17. Tin melted in 3 Seconds.\n18. Cast Iron in 16 Seconds.\n19. Slate melted in 3 Seconds, had an Hole in 6.\n20. Thin Tile melted in 4 Seconds, had a Hole and was vitrify'd thro' in 80.\n21. Bone calcin'd in 4 Seconds, and vitrify'd in 33.\nAn Emerald was melted into a Substance like a Turquois Stone.\nA Diamond weighing 4 Grains lost \\( \\frac{1}{3} \\) of its Weight.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103351.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 878,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1332,
+        2
+      ],
+      [
+        1332,
+        2653,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103351",
+    "title": "An Account of Some Experiments Tried with Mons. Villette's Burning Concave, in June 1718. By the Rev. Dr. J. Harris and Dr. J. T. Desaguliers, Reg. Soc. SS.",
+    "authors": "J. Harris, J. T. Desaguliers",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103351"
+  }
+}

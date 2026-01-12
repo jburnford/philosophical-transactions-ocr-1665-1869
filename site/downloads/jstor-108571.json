@@ -1,0 +1,149 @@
+{
+  "id": "bb5870afbf4ecd60d25a3268ffe785302262bc5b",
+  "text": "XVII. On the Secular Variation of the Moon's Mean Motion.\n\nBy J. C. Adams, Esq., M.A., F.R.S. &c.\n\nReceived and Read June 16, 1853.\n\n1. In treating a great problem of approximation, such as that presented to us by the investigation of the moon's motion, experience shows that nothing is more easy than to neglect, as insignificant, considerations which ultimately prove to be of the greatest importance. One instance of this occurs with reference to the secular acceleration of the moon's mean motion. Although this acceleration, and the diminution of the eccentricity of the earth's orbit, on which it depends, had been made known by observation as separate facts, yet many of the first geometers altogether failed to trace any connexion between them, and it was only after making repeated attempts to explain the phenomenon by other means, that Laplace himself succeeded in referring it to its true cause.\n\n2. The accurate determination of the amount of the acceleration is a matter of very great importance. The effect of an error in any of the periodic inequalities upon the moon's place, is always confined within certain limits, and takes place alternately in opposite directions within very moderate intervals of time, whereas the effect of an error in the acceleration goes on increasing for an almost indefinite period, so that the calculation of the moon's place for a very distant epoch, such as that of the eclipse of Thales, may be seriously vitiated by it.\n\nIn the Mécanique Céleste, the approximation to the value of the acceleration is confined to the principal term, but in the theories of Damoiseau and Planá the developments are carried to an immense extent, particularly in the latter, where the multiplier of the change in the square of the eccentricity of the earth's orbit, which occurs in the expression of the secular acceleration, is developed to terms of the seventh order.\n\nAs these theories agree in principle, and only differ slightly in the numerical value which they assign to the acceleration, and as they passed under the examination of Laplace, with especial reference to this subject, it might be supposed that at most only some small numerical corrections would be required in order to obtain a very exact determination of the amount of this acceleration.\n\nIt has therefore not been without some surprise, that I have lately found that Laplace's explanation of the phenomenon in question is essentially incomplete, and that the numerical results of Damoiseau's and Planá's theories, with reference to it, consequently require to be very sensibly altered.\n3. Laplace's explanation may be briefly stated as follows. He shows that the mean central disturbing force of the sun, by which the moon's gravity towards the earth is diminished, depends not only on the sun's mean distance, but also on the eccentricity of the earth's orbit. Now this eccentricity is at present, and for many ages has been, diminishing, while the mean distance remains unaltered. In consequence of this the mean disturbing force is also diminishing, and therefore the moon's gravity towards the earth at a given distance is, on the whole, increasing. Also, the area described in a given time by the moon about the earth is not affected by this alteration of the central force; whence it readily follows that the moon's mean distance from the earth will be diminished in the same ratio as the force at a given distance is increased, and that the mean angular motion will be increased in double the same ratio.\n\n4. This is the main principle of Laplace's analytical method, in which he is followed by Damoiseau and Planck; but it will be observed, that this reasoning supposes that the area described by the moon in a given time is not permanently altered, or in other words, that the tangential disturbing force produces no permanent effect. On examination, however, it will be found that this is not strictly true, and I will endeavour briefly to point out the manner in which the inequalities of the moon's motion are modified by a gradual change of the central disturbing force, so as to give rise to such an alteration of the areal velocity.\n\nAs an example, I will take the Variation, the most direct effect of the disturbing force.\n\nIn the ordinary theory, the orbit of the moon as affected by this inequality only, would be symmetrical with respect to the line of conjunction with the sun, and the areal velocity generated while the moon was moving from quadrature to syzygy, would be exactly destroyed while it was moving from syzygy to quadrature, so that no permanent alteration of areal velocity would be produced.\n\nIn reality, however, the magnitude of the disturbing force by which this inequality is caused, depends in some degree on the eccentricity of the earth's orbit, and as this is continually diminishing, the central disturbing forces at equal angular distances on opposite sides of conjunction will not be exactly equal. Hence the orbit will no longer be symmetrically situated with respect to the line of conjunction. Now the change of areal velocity produced by the tangential force at any point, depends partly on the value of the radius vector at that point, and consequently the effects of the tangential force before and after conjunction will no longer exactly balance each other.\n\nThe other inequalities of the moon's motion will be similarly modified, especially those which depend, more directly, on the eccentricity of the earth's orbit, so that each of them gives rise to an uncompensated change of the areal velocity.\n\nSince the distortion in the form of the orbit just pointed out is due to the alteration of the disturbing force consequent upon a change in the eccentricity of the earth's orbit, and it is by virtue of this distortion that the tangential force produces a permanent change in the rate of description of areas, it follows that this alteration\nof the areal velocity will be of the order of the square of the disturbing force multiplied by the rate of change of the earth's eccentricity.\n\nIt is evident that the amount of the acceleration of the moon's mean motion will be directly affected by this alteration of areal velocity.\n\n5. Having thus briefly indicated the way in which the effect now treated of originates, I will proceed with the analytical investigation of its amount.\n\nIn the present communication, however, I shall confine my attention to the principal term of the change thus produced in the acceleration of the moon's motion, deferring to another, though I hope not a distant, opportunity, the fuller development of this subject, as well as the consideration of the secular variations of the other elements of the moon's orbit arising from the same cause.\n\nIn what follows, the notation, except when otherwise explained, is the same as that of Damoiseau's \"Théorie de la Lune.\"\n\n6. If we suppose the moon to move in the plane of the ecliptic, and also neglect the terms depending on the sun's parallax, the differential equations of the moon's motion become\n\n\\[ 0 = \\frac{d^2u}{dy^2} + u - \\frac{1}{h^2} + \\frac{m' u^3}{2 h^2 u^3} + \\frac{3}{2} \\frac{m' u^3}{h^2 u^3} \\cos (2\\nu - 2\\nu') \\]\n\n\\[ - \\frac{3}{2} \\frac{m' u^3}{h^2 u^4} \\frac{du}{dy} \\sin (2\\nu - 2\\nu') - \\frac{3 m'}{h^2} \\left( u + \\frac{d^2u}{dy^2} \\right) \\int \\frac{u^3 dy}{u^4} \\sin (2\\nu - 2\\nu') \\]\n\n\\[ \\frac{dt}{dy} = \\frac{1}{h u^3} + \\frac{3}{2} \\frac{m' l^3}{h^2 u^3} \\int \\frac{u^3 dy}{u^4} \\sin (2\\nu - 2\\nu') + \\frac{27}{8} \\frac{m' l^2}{h^2 u^2} \\left[ \\int \\frac{u^3 dy}{u^4} \\sin (2\\nu - 2\\nu') \\right]^2. \\]\n\nIn the solution usually given of these equations, \\( u \\) is expressed by means of a constant part and a series involving cosines of angles composed of multiples of \\( 2\\nu - 2mv, cv - \\sigma, \\) and \\( c'mv - \\sigma' \\); also \\( t \\) is expressed by means of a part proportional to \\( \\nu \\) and a series involving sines of the same angles; the coefficients of the periodic terms being functions of \\( m, e \\) and \\( e' \\). Now if \\( e' \\) be a constant quantity, this is the true form of the solution, but if \\( e' \\) be variable, it is impossible to satisfy the differential equations without adding to the expression for \\( u \\) a series of small supplementary terms depending on the sines of the angles whose cosines are already involved in it, and to that for \\( t \\), similar terms depending on the cosines of the same angles, the coefficients of these new terms involving \\( \\frac{de'}{dt} \\) as a factor.\n\nThe quantity \\( \\int \\frac{u^3 dy}{u^4} \\sin (2\\nu - 2\\nu') \\), which occurs in the above equations, is proportional to the variable part of the square of the areal velocity, and consists, in the ordinary theory, of a series of periodic terms involving cosines of the angles above mentioned. In consequence, however, of the existence of the new terms just described, there will be added to it a series of small terms involving sines of the same angles, together with a non-periodic part of the form \\( \\int He'de' \\) or \\( \\frac{1}{2} He'^2 \\). The introduction of this term\nwill evidently change the relation between the non-periodic part of \\( \\frac{dt}{dv} \\) and \\( e^2 \\), upon which the secular acceleration depends.\n\n7. We must commence by finding the new terms to be added to the ordinary expression for \\( u \\).\n\nFor the sake of simplification we will neglect the eccentricity of the moon's orbit.\n\nLet \\( \\frac{1}{a} \\) denote the non-periodic part of \\( u \\), and \\( \\frac{1}{a} + \\delta u \\) the complete value.\n\nThen by substitution in the equation for \\( u \\), making use of Damoiseau's developments of the undisturbed values of the several functions of \\( u, u', \\) and \\( v-v' \\) which occur in it, putting \\( h^2 = a_p \\) and writing, for convenience, \\( mv \\) instead of \\( \\int m dv + \\lambda \\), and \\( c'mv \\) instead of \\( c' \\int m dv + \\lambda - \\sigma' \\) (as in Planck, vol. i. p. 322), we obtain\n\n\\[\n0 = \\frac{d^2}{dv^2} \\left( \\frac{1}{a} \\right) + \\frac{1}{a} - \\frac{1}{a} + \\frac{d^2}{dv^2} \\delta u + \\delta u\n\\]\n\n\\[\n+ \\frac{1}{2} \\frac{\\bar{m}}{a} \\left( 1 + \\frac{3}{2} e^2 \\right) + \\frac{3}{2} \\frac{\\bar{m}}{a} a' \\delta u' + \\frac{3}{2} \\frac{\\bar{m}}{a} e' \\cos c'mv - \\frac{3}{2} \\frac{\\bar{m}}{a} \\left( 1 + 3e' \\cos c'mv \\right) \\delta u\n\\]\n\n\\[\n- \\frac{3}{2} \\frac{\\bar{m}}{a} \\frac{a}{a} \\frac{d}{dv} \\sin (2v - 2mv) + \\frac{3}{2} \\frac{\\bar{m}}{a} \\left( 1 - \\frac{5}{2} e^2 \\right) \\cos (2v - 2mv)\n\\]\n\n\\[\n+ \\frac{21}{4} \\frac{\\bar{m}}{a} e' \\cos (2v - 2mv - c'mv) - \\frac{3}{4} \\frac{\\bar{m}}{a} e' \\cos (2v - 2mv + c'mv)\n\\]\n\n\\[\n- \\frac{3}{2} \\frac{\\bar{m}}{a} \\left\\{ \\left( 1 - \\frac{5}{2} e^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\\\\n- \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\}\n\\]\n\n\\[\n- \\frac{9}{2} \\frac{\\bar{m}}{a} \\left[ \\left( 1 - \\frac{5}{2} e^2 \\right) \\cos (2v - 2mv) + \\frac{7}{2} e' \\cos (2v - 2mv - c'mv) \\right. \\\\\n- \\frac{1}{2} e' \\cos (2v - 2mv + c'mv) \\}\n\\]\n\n\\[\n- \\frac{3}{2} \\frac{\\bar{m}}{a} \\left\\{ \\left( 1 - \\frac{5}{2} e^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\\\\n- \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\}\n\\]\n\n\\[\n+ 12 \\frac{\\bar{m}}{a} \\left\\{ \\left( 1 - \\frac{5}{2} e^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\\\\n- \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\}\n\\]\n\n\\[\n- \\frac{3}{2} \\frac{\\bar{m}}{a} \\left\\{ \\frac{d^2}{dv^2} (\\delta u) + a \\delta u \\right\\} \\left\\{ \\left( 1 - \\frac{5}{2} e^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\\\\n- \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\}. \\]\n8. Also, assume\n\n\\[ \\ddot{a}u = m^2 \\left( 1 - \\frac{5}{2} e'^2 \\right) \\cos (2\\nu - 2m\\nu) + a_{30} \\frac{e'd'}{ndt} \\sin (2\\nu - 2m\\nu) \\]\n\n\\[ - \\frac{3}{2} m^2 e' \\cos c'm\\nu + a_{16} \\frac{de'}{ndt} \\sin c'm\\nu \\]\n\n\\[ + \\frac{7}{2} m^2 e' \\cos (2\\nu - 2m\\nu - c'm\\nu) + a_{33} \\frac{de'}{ndt} \\sin (2\\nu - 2m\\nu - c'm\\nu) \\]\n\n\\[ - \\frac{1}{2} m^2 e' \\cos (2\\nu - 2m\\nu + c'm\\nu) + a_{34} \\frac{de'}{ndt} \\sin (2\\nu - 2m\\nu + c'm\\nu), \\]\n\nwhere the coefficients of the terms involving cosines are those given by the ordinary theory, and \\( a_{30}, a_{16}, a_{33}, \\) and \\( a_{34} \\) are numerical quantities to be determined.\n\n9. In developing the terms of the above equation, by the substitution of this value of \\( \\ddot{a}u \\), the quantity \\( \\frac{de'}{dt} \\) may be considered constant, and \\( \\frac{de'}{dv} \\) must be expressed in terms of it.\n\nThus\n\n\\[ \\frac{de'}{dv} = \\frac{ndt}{dv} \\frac{de'}{ndt} \\]\n\n\\[ = \\frac{de'}{ndt} \\left\\{ 1 - \\frac{11}{4} m^2 \\cos (2\\nu - 2m\\nu) - \\frac{77}{8} m^2 e' \\cos (2\\nu - 2m\\nu - c'm\\nu) \\right. \\]\n\n\\[ + \\frac{11}{8} m^2 e' \\cos (2\\nu - 2m\\nu + c'm\\nu) \\right\\}. \\]\n\nAlso, integrating by parts, and putting 2 instead of \\( 2 - 2m, 2 - 3m, \\) and \\( 2 - m \\) in the divisors introduced by integration, since we only want to find the terms of the lowest order which are multiplied by \\( \\frac{de'}{dt} \\), we obtain\n\n\\[ - \\frac{3m^2}{a_1} \\int dv \\left\\{ \\left( 1 - \\frac{5}{2} e'^2 \\right) \\sin (2\\nu - 2m\\nu) + \\frac{7}{2} e' \\sin (2\\nu - 2m\\nu - c'm\\nu) \\right. \\]\n\n\\[ - \\frac{1}{2} e' \\sin (2\\nu - 2m\\nu + c'm\\nu) \\right\\} \\]\n\n\\[ = \\frac{3}{2} \\frac{\\bar{m}^2}{a_1} \\left( 1 - \\frac{5}{2} e'^2 \\right) \\cos (2\\nu - 2m\\nu) + \\frac{21}{4} \\frac{\\bar{m}^2}{a_1} e' \\cos (2\\nu - 2m\\nu - c'm\\nu) \\]\n\n\\[ - \\frac{3}{4} \\frac{\\bar{m}^2}{a_1} e' \\cos (2\\nu - 2m\\nu + c'm\\nu) \\]\n\n\\[ + \\frac{15}{2} \\frac{\\bar{m}^2}{a_1} \\int dv \\frac{e'de'}{ndt} \\frac{ndt}{dv} \\cos (2\\nu - 2m\\nu) - \\frac{21}{4} \\frac{\\bar{m}^2}{a_1} \\int dv \\frac{de'}{ndt} \\frac{ndt}{dv} \\cos (2\\nu - 2m\\nu - c'm\\nu) \\]\n\n\\[ + \\frac{3}{4} \\frac{\\bar{m}^2}{a_1} \\int dv \\frac{de'}{ndt} \\frac{ndt}{dv} \\cos (2\\nu - 2m\\nu + c'm\\nu). \\]\n\nAnd\n\n\\[ a'\\ddot{a}u' = 3m^2 e' \\sin c'm\\nu [- e' \\sin c'm\\nu] \\]\n\n\\[ = - \\frac{3}{2} m^2 e', \\]\n\nretaining only the term which will be required.\n10. When the proper substitutions are made, the terms involving cosines destroy each other, as in the usual theory, and by equating to zero the terms involving the sines, we obtain\n\n\\[20m^3 - 3a_{30} + \\frac{15}{4}m^2 = 0,\\]\n\nor\n\n\\[3a_{30} = \\frac{95}{4}m^2 \\quad \\therefore \\quad a_{30} = \\frac{95}{12}m^2\\]\n\n\\[3m^3 + a_{16} = 0 \\quad \\therefore \\quad a_{16} = -3m^3\\]\n\n\\[-14m^2 - 3a_{33} - \\frac{21}{8}m^2 = 0,\\]\n\nor\n\n\\[3a_{33} = -\\frac{133}{8}m^2 \\quad \\therefore \\quad a_{33} = -\\frac{133}{24}m^2\\]\n\n\\[2m^3 - 3a_{34} + \\frac{3}{8}m^2 = 0,\\]\n\nor\n\n\\[3a_{34} = \\frac{19}{8}m^2 \\quad \\therefore \\quad a_{34} = \\frac{19}{24}m^2.\\]\n\n11. In order to obtain the relation between \\(a\\) and \\(a_1\\), we must substitute the value just found for \\(a_3u\\), in the same equation, and equate to zero the non-periodic part, observing that the terms\n\n\\[12\\frac{\\bar{m}^2}{a_1} \\int d\\nu \\left\\{ (1 - \\frac{5}{2}e^{2\\nu}) \\sin (2\\nu - 2mv) + \\frac{7}{2}e' \\sin (2\\nu - 2mv - c'mv) - \\frac{1}{2}e' \\sin (2\\nu - 2mv + c'mv) \\right\\} a_3u\\]\n\ngive\n\n\\[-\\frac{285}{8} \\frac{m^4}{a_1} e'^2 \\text{ as their non-periodic part.}\\]\n\nAlso the terms\n\n\\[\\frac{15}{2} \\frac{\\bar{m}^2}{a_1} \\int d\\nu \\frac{d}{dt} \\frac{de'}{dt} \\cos (2\\nu - 2mv) - \\frac{21}{4} \\frac{\\bar{m}^2}{a_1} \\int d\\nu \\frac{de'}{dt} \\frac{ndt}{dv} \\cos (2\\nu - 2mv - c'mv)\\]\n\n\\[+ \\frac{3}{4} \\frac{\\bar{m}^2}{a_1} \\int d\\nu \\frac{de'}{dt} \\frac{ndt}{dv} \\cos (2\\nu - 2mv + c'mv)\\]\n\nof art. 9. similarly give\n\n\\[-\\frac{165}{32} \\frac{m^4}{a_1} e'^2 + \\frac{1617}{128} \\frac{m^4}{a_1} e'^2 + \\frac{33}{128} \\frac{m^4}{a_1} e'^2 \\text{ nearly}\\]\n\n\\[\\frac{495}{64} \\frac{m^4}{a_1} e'^2 \\text{ as their non-periodic part.}\\]\n12. Hence we obtain\n\n\\[ 0 = \\frac{1}{a} - \\frac{1}{a_i} + \\frac{1}{2} \\frac{m^2}{a_i} \\left( 1 + \\frac{3}{2} e'^2 \\right) - \\frac{9}{4} \\frac{m^4}{a_i} e'^2 + \\frac{495}{64} \\frac{m^4}{a_i} e'^2 + \\frac{27}{8} \\frac{m^4}{a_i} e'^2 \\]\n\n\\[ - \\frac{9}{4} \\frac{m^4}{a_i} (1 - 5e'^2) - \\frac{441}{16} \\frac{m^4}{a_i} e'^2 - \\frac{9}{16} \\frac{m^4}{a_i} e'^2 \\]\n\n\\[ + \\frac{3}{2} \\frac{m^4}{a_i} (1 - 5e'^2) + \\frac{147}{8} \\frac{m^4}{a_i} e'^2 + \\frac{3}{8} \\frac{m^4}{a_i} e'^2 - \\frac{285}{8} \\frac{m^4}{a_i} e'^2 \\]\n\n\\[ - \\frac{9}{4} \\frac{m^4}{a_i} (1 - 5e'^2) - \\frac{441}{16} \\frac{m^4}{a_i} e'^2 - \\frac{9}{16} \\frac{m^4}{a_i} e'^2; \\]\n\nor\n\n\\[ 0 = \\frac{1}{a} - \\frac{1}{a_i} \\left\\{ 1 - \\frac{1}{2} m^2 - \\frac{3}{4} m^2 e'^2 + 3m^4 + \\frac{3153}{64} m^4 e'^2 \\right\\}. \\]\n\nNow \\( \\bar{m}^2 = \\frac{m^2}{(1+p)^3} \\) in Planck's notation, or (substituting the value of \\( p \\) given in Planck, vol. ii. p. 855).\n\n\\[ \\bar{m}^2 = m^2 \\left( 1 - \\frac{1}{2} m^2 - \\frac{3}{4} m^2 e'^2 \\right) \\text{ nearly}, \\]\n\n\\[ \\therefore \\frac{1}{a} = \\frac{1}{a_i} \\left\\{ 1 - \\frac{1}{2} m^2 + \\frac{13}{4} m^4 - \\frac{3}{4} m^2 e'^2 + \\frac{3201}{64} m^4 e'^2 \\right\\} \\]\n\nand\n\n\\[ a^2 = a_i^2 \\left\\{ 1 + m^2 - \\frac{23}{4} m^4 + \\frac{3}{2} m^2 e'^2 - \\frac{3129}{32} m^4 e'^2 \\right\\}. \\]\n\n13. Again, by substitution in the equation for \\( \\frac{dt}{dv} \\), we obtain\n\n\\[ \\frac{dt}{dv} = \\frac{a^2}{\\sqrt{a_i}} \\left\\{ 1 - 2a \\delta u + \\frac{3}{2} m^4 (1 - 5e'^2) + \\frac{27}{8} m^4 e'^2 + \\frac{147}{8} m^4 e'^2 + \\frac{3}{8} m^4 e'^2 \\right. \\]\n\n\\[ + \\frac{3}{2} \\frac{m^2}{a_i} \\int dv \\left[ \\left( 1 - \\frac{5}{2} e'^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\]\n\n\\[ - \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\]\n\n\\[ - 3 \\frac{m^2}{a_i} \\int dv \\left[ \\left( 1 - \\frac{5}{2} e'^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\]\n\n\\[ - \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\]\n\n\\[ - 6 \\frac{m^2}{a_i} \\int dv \\left[ \\left( 1 - \\frac{5}{2} e'^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\]\n\n\\[ - \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\]\n\n\\[ + \\frac{27}{8} \\frac{m^4}{a_i} \\left\\{ \\int dv \\left[ \\left( 1 - \\frac{5}{2} e'^2 \\right) \\sin (2v - 2mv) + \\frac{7}{2} e' \\sin (2v - 2mv - c'mv) \\right. \\]\n\n\\[ - \\frac{1}{2} e' \\sin (2v - 2mv + c'mv) \\right] \\right\\}^2 \\right\\}. \\]\n\n14. Develop this equation as before, retaining \\( m^4 \\) only when it occurs in the non-periodic part, and we have\n\\[\n\\frac{dt}{dv} = \\frac{a^2}{\\sqrt{a_1}} \\left[ 1 - 2a_0u + \\frac{3}{2}m^4 + \\frac{3}{4}m^4(1-5e'^2) + \\frac{27}{64}m^4(1-5e'^2) - \\frac{495}{128}m^4e'^2 \\right. \\\\\n+ \\frac{117}{8}m^4e'^2 + \\frac{147}{16}m^4e'^2 + \\frac{3}{16}m^4e'^2 + \\frac{285}{16}m^4e'^2 + \\frac{1323}{256}m^4e'^2 + \\frac{27}{256}m^4e'^2 \\\\\n- \\frac{3}{4}m^2 \\left( 1 - \\frac{5}{2}e'^2 \\right) \\cos (2v - 2mv) - \\frac{21}{8}m^2e' \\cos (2v - 2mv - c'mv) \\\\\n+ \\frac{3}{8}m^2e' \\cos (2v - 2mv + c'mv) \\\\\n- \\frac{15}{8}m^2e'de'/ndt \\sin (2v - 2mv) + \\frac{21}{16}m^2de'/ndt \\sin (2v - 2mv - c'mv) \\\\\n- \\frac{3}{16}m^2de'/ndt \\sin (2v - 2mv + c'mv) \\right],\n\\]\n\nor\n\n\\[\n\\frac{dt}{dv} = \\frac{a^2}{\\sqrt{a_1}} \\left[ 1 + \\frac{171}{64}m^4 + \\frac{2391}{64}m^4e'^2 \\\\\n- \\frac{11}{4}m^2 \\left( 1 - \\frac{5}{2}e'^2 \\right) \\cos (2v - 2mv) - \\frac{425}{24}m^2e'de'/ndt \\sin (2v - 2mv) \\\\\n+ 3m^2e' \\cos c'mv + 6m^2de'/ndt \\sin c'mv \\\\\n- \\frac{77}{8}m^2e' \\cos (2v - 2mv - c'mv) + \\frac{595}{48}m^2de'/ndt \\sin (2v - 2mv - c'mv) \\\\\n+ \\frac{11}{8}m^2e' \\cos (2v - 2mv + c'mv) - \\frac{85}{48}m^2de'/ndt \\sin (2v - 2mv + c'mv) \\right].\n\\]\n\n15. Substitute the value before found for \\(a^2\\) in terms of \\(a_1^2\\);\n\n\\[\n\\frac{dt}{dv} = a_1^2 \\left[ 1 + m^2 - \\frac{197}{64}m^4 + \\frac{3}{2}m^2e'^2 - \\frac{3867}{64}m^4e'^2 \\\\\n- \\frac{11}{4}m^2 \\left( 1 - \\frac{5}{2}e'^2 \\right) \\cos (2v - 2mv) - \\frac{425}{24}m^2e'de'/ndt \\sin (2v - 2mv) \\\\\n+ 3m^2e' \\cos c'mv + 6m^2de'/ndt \\sin c'mv \\\\\n- \\frac{77}{8}m^2e' \\cos (2v - 2mv - c'mv) + \\frac{595}{48}m^2de'/ndt \\sin (2v - 2mv - c'mv) \\\\\n+ \\frac{11}{8}m^2e' \\cos (2v - 2mv + c'mv) - \\frac{85}{48}m^2de'/ndt \\sin (2v - 2mv + c'mv) \\right].\n\\]\n\n16. Now, put\n\n\\[\n\\frac{1}{n} = a_1^2 \\left[ 1 + m^2 - \\frac{197}{64}m^4 + \\frac{3}{2}m^2e'^2 - \\frac{3867}{64}m^4e'^2 \\right],\n\\]\n\nmultiply by \\(n\\), and integrate;\n\n\\[\n\\int ndt = v - \\frac{11}{8}m^2 \\left( 1 - \\frac{5}{2}e'^2 \\right) \\sin (2v - 2mv) + \\frac{295}{24}m^2e'de'/ndt \\cos (2v - 2mv) \\\\\n+ 3m^2e' \\sin c'mv + 3de'/ndt \\cos c'mv \\\\\n- \\frac{77}{16}m^2e' \\sin (2v - 2mv - c'mv) - \\frac{413}{48}m^2de'/ndt \\cos (2v - 2mv - c'mv) \\\\\n+ \\frac{11}{16}m^2e' \\sin (2v - 2mv + c'mv) + \\frac{59}{48}m^2de'/ndt \\cos (2v - 2mv + c'mv).\n\\]\n17. In the expression for \\( \\frac{1}{n} \\) just found, \\( a_i \\) is absolutely constant, but \\( e' \\) is variable, consequently \\( n \\) will vary, and therefore \\( m \\) likewise, which is connected with it by the equation \\( m = \\frac{n'}{n} \\).\n\nTaking the variation of the equation for \\( n \\), and observing that \\( \\frac{\\delta m}{m} = -\\frac{\\delta n}{n} \\), we have\n\n\\[ 0 = \\frac{\\delta n}{n}(1 - m^2) + \\left( \\frac{3}{2} m^2 - \\frac{3867}{64} m^4 \\right) \\delta(e'^2), \\]\n\n\\[ \\therefore \\quad \\frac{\\delta n}{n} = -\\left( \\frac{3}{2} m^2 - \\frac{3771}{64} m^4 \\right) \\delta(e'^2). \\]\n\nTherefore, if \\( N \\) be the initial value of \\( n \\), and \\( E' \\) the corresponding value of \\( e' \\),\n\n\\[ n = N - \\left( \\frac{3}{2} m^2 - \\frac{3771}{64} m^4 \\right) n(e'^2 - E'^2), \\]\n\nand\n\n\\[ \\int ndt = Nt + \\epsilon - \\left( \\frac{3}{2} m^2 - \\frac{3771}{64} m^4 \\right) \\int (e'^2 - E'^2) ndt. \\]\n\nHence the expression for the true longitude in terms of the mean, contains the secular equation\n\n\\[ -\\left( \\frac{3}{2} m^2 - \\frac{3771}{64} m^4 \\right) \\int (e'^2 - E'^2) ndt. \\]\n\n18. According to Planck, the corresponding terms in the expression for the secular equation are\n\n\\[ -\\left( \\frac{3}{2} m^2 - \\frac{2187}{125} m^4 \\right) \\int (e'^2 - E'^2) ndt. \\]\n\nHence we see that the terms now taken into consideration have the effect of making the second term of the secular equation more than three times as great as it would otherwise be. Of course, the succeeding terms will also be materially changed.\n\nThe principal term of the correction to be applied to Planck's value of the secular acceleration is therefore\n\n\\[ \\frac{5355}{128} m^4 \\int (e'^2 - E'^2) ndt. \\]\n\nNow\n\n\\[ \\int (e'^2 - E'^2) ndt = -1270'' \\left( \\frac{t}{100} \\right)^2 \\text{ nearly}, \\]\n\nwhere \\( t \\) is expressed in years; therefore the numerical value of this term is\n\n\\[ -1''66 \\left( \\frac{t}{100} \\right)^2. \\]\n\nThis result will serve to give an idea of the numerical importance of the new terms to be added to the received value of the secular acceleration, and probably will not differ widely from the complete correction; though in order to obtain a value sufficiently accurate to be definitively used in the calculation of ancient eclipses, the approximation must be carried considerably further.\n\nThe new periodic terms added to the moon's longitude are perfectly insignificant, the coefficient of that involving \\( \\cos c'mv \\), which is by far the largest of them, only amounting to \\( 0''003 \\).\n19. Transforming the expressions found above, so as to obtain the moon's longitude and radius vector in terms of the time, and writing for convenience $nt$ instead of $\\int ndt + \\varepsilon$, $mnt$ instead of $mnt + \\varepsilon'$, and $c'mnt$ instead of $c'mnt + \\varepsilon' - \\omega'$, we have\n\n$$v = nt + \\frac{11}{8} m^2 \\left(1 - \\frac{5}{2} e'^2\\right) \\sin (2 - 2m)nt - \\frac{74}{3} m^2 \\frac{d\\varepsilon'}{ndt} \\cos (2 - 2m)nt$$\n\n$$- 3me' \\sin c'mnt - 3 \\frac{d\\varepsilon'}{ndt} \\cos c'mnt$$\n\n$$+ \\frac{77}{16} m^2 e' \\sin (2 - 2m - c'm)nt + \\frac{215}{48} m^2 \\frac{d\\varepsilon'}{ndt} \\cos (2 - 2m - c'm)nt$$\n\n$$- \\frac{11}{16} m^2 e' \\sin (2 - 2m + c'm)nt - \\frac{257}{48} m^2 \\frac{d\\varepsilon'}{ndt} \\cos (2 - 2m + c'm)nt$$\n\n$$\\frac{a}{r} = au = 1 - \\frac{11}{8} m^4 - \\frac{201}{16} m^4 e'^2$$\n\n$$+ m^2 \\left(1 - \\frac{5}{2} e'^2\\right) \\cos (2 - 2m)nt + \\frac{203}{12} m^2 \\frac{d\\varepsilon'}{ndt} \\sin (2 - 2m)nt$$\n\n$$- \\frac{3}{2} m^2 e' \\cos c'mnt - 3m^2 \\frac{d\\varepsilon'}{ndt} \\sin c'mnt$$\n\n$$+ \\frac{7}{2} m^2 e' \\cos (2 - 2m - c'm)nt - \\frac{61}{24} m^2 \\frac{d\\varepsilon'}{ndt} \\sin (2 - 2m - c'm)nt$$\n\n$$- \\frac{1}{2} m^2 e' \\cos (2 - 2m + c'm)nt + \\frac{91}{24} m^2 \\frac{d\\varepsilon'}{ndt} \\sin (2 - 2m + c'm)nt.$$\n\n20. The existence of the new terms in the expressions for the moon's coordinates occurred to me some time since, when I was engaged in thinking over a new method of treating the lunar theory, though I did not then perceive their important bearing on the value of the secular equation.\n\nMy attention was first directed to this latter subject while endeavouring to supply an omission in the theory of the moon given by Pontécoulant in his \"Théorie Analytique.\" In this valuable work, the author, following the example originally set by Sir J. Lubbock in his Tracts on the Lunar Theory, obtains directly the expressions for the moon's coordinates in terms of the time, which are found in Plana's theory by means of the reversion of series. With respect to the secular acceleration of the mean motion, however, Pontécoulant unfortunately adopts Plana's result without examination. On performing the calculation requisite to complete this part of the theory, I was surprised to find that the second term of the expression for the secular acceleration thus obtained, not only differed totally in magnitude from the corresponding term given by Plana, but was even of a contrary sign. My previous researches, however, immediately led me to suspect what was the origin of this discordance, and when both processes were corrected by taking into account the new terms whose existence I had already recognized, I had the satisfaction of finding a perfect agreement between the results.\n\nJune 16th, 1853.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108571.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 17432,
+    "total-output-tokens": 9993,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2592,
+        2
+      ],
+      [
+        2592,
+        5903,
+        3
+      ],
+      [
+        5903,
+        9055,
+        4
+      ],
+      [
+        9055,
+        11559,
+        5
+      ],
+      [
+        11559,
+        13850,
+        6
+      ],
+      [
+        13850,
+        15516,
+        7
+      ],
+      [
+        15516,
+        17988,
+        8
+      ],
+      [
+        17988,
+        20165,
+        9
+      ],
+      [
+        20165,
+        22654,
+        10
+      ],
+      [
+        22654,
+        25396,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108571",
+    "title": "On the Secular Variation of the Moon's Mean Motion",
+    "authors": "J. C. Adams",
+    "year": 1853,
+    "volume": "143",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/108571"
+  }
+}

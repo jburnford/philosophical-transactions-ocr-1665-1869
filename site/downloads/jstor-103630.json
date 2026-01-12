@@ -1,0 +1,69 @@
+{
+  "id": "9799b30d998e164d9b8373e821fea747fb4cab32",
+  "text": "V. An Account of the Depth of Rain fallen from April 1, 1722, to April 1, 1723. Observed at Widdrington in Northumberland, and communicated to the Publisher by the Reverend Mr. Horsley.\n\nI have kept an exact Account of what Rain has fallen the last Year in this Place, which I have here sent you. The weighing the Water and reducing it from Weight to Depth seem'd pretty troublesome, even when done in the easiest Method: To remedy this Inconvenience (besides a Funnel and proper Receptacle for the Rain) I use a cylindrical Measure and Gage. The Funnel is 30 Inches diameter, and the cylindrical Measure exactly 3; the Depth of the Measure is 10 Inches, and the Gage of the same Length, with each Inch divided into 10 equal Parts; or, instead of a Gage, the Inches and Divisions may be mark'd on the Side of the cylindrical Measure. The Apparatus is simple and plain, and it is easy to apprehend the Design and Reason of the Contrivance; for the Diameter of the cylindrical Measure being just $\\frac{1}{10}$ of that of the Funnel, and the Measure exactly 10 Inches deep, 'tis plain that 10 Measures of Rain make an Inch in Depth; one Measure, $\\frac{1}{10}$; one Inch on the Gage, $\\frac{1}{100}$; and $\\frac{1}{10}$ of an Inch on the Gage, $\\frac{1}{1000}$, &c. By this Means the Depth of any particular Quantity which falls, may be set down with Ease and Exactness, and the\nthe whole at the End of each Month, or every Year, may be summ'd up without any Trouble.\n\nBy the following Account you'll see, that some of the Summer Months, particularly May and July, were very wet, and some of the Winter ones very dry; so that, one with another, this Year's Rain, as far as can well be conjectur'd, may be look'd upon as a Medium. And if so, it differs not above two or three Inches, from the mean Quantity of Rain which falls at Upminster, Paris, and Lisle, being less than at Lisle, and more than at the other two Places.\n\nAn Account of the Depth of Rain fallen from April 1, 1722, to April 1, 1723.\n\n| Month       | Depth (Inch) |\n|-------------|--------------|\n| In April    | 1.015        |\n| In May      | 3.532        |\n| In June     | 2.570        |\n| In July     | 4.350        |\n| In August   | 2.132        |\n| In September| 1.155        |\n| In October  | 0.600        |\n| In November | 2.205        |\n| In December | 1.780        |\n| In January  | 1.225        |\n| In February | 0.485        |\n| In March    | 0.195        |\n\nIn the whole Year - 21.244\n\nVI. Pappi",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103630.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 813,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1377,
+        2
+      ],
+      [
+        1377,
+        2472,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103630",
+    "title": "An Account of the Depth of Rain Fallen from April 1, 1722, to April 1, 1723. Observed at Widdrington in Northumberland, and Communicated to the Publisher by the Reverend Mr. Horsley",
+    "authors": "Mr. Horsley",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103630"
+  }
+}

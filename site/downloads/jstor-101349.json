@@ -1,0 +1,59 @@
+{
+  "id": "3b88a13253fc767c7b245c8677fca256f4c750a1",
+  "text": "Extract of a Letter, written to the Publisher by M. Denys from Paris, May 1, 1673; giving notice of an admirable Liquor, instantly stopping the Blood of Arteries pricked or cut, without any suppuration, or without leaving any scar or cicatrice.\n\nSIR,\n\nWe are now busy, by the King's order, in making Experiments, whence the world is like to receive great benefit. 'Tis needless to prepare you for it by putting you in mind of the difficulty there is in stopping the Blood of Arteries, pricked or cut. Meantime here hath been found out an admirable Essence, which being applied to any Artery whatsoever, stops the blood instantly without any need of binding up the wound. We have first experimented it upon Dogs, of whom we cut the Crural and Carotid arteries and the Thigh itself; and the blood stopp'd in less time than needs to read this Letter. 'Tis a remedy which is not corrosive; the wound healing without any scar, suppuration, or cicatrice.\n\nWe have also made Tryals upon Men, of whom the Temporal arteries were open'd; and upon others, whose hands and face had been cut: And it succeeded with them as well as it did upon dogs.\n\nYou may judge, how useful this Essence is like to prove in Armies, where most men dye for want of a good remedy to stop the blood. This Liquor works not only outwardly, but also being taken inwardly; for it stops the Loss of blood in feminis, Inveterate fluxes of blood, open Hemorrhoides, and other Hemorrhagies.\n\nNow that this Remedy hath been well tryed in the presence of all the Court, and of many of our best Physicians and Chirurgions, that have admired it; the King hath given a privilege to sell it in his Armies and throughout the whole Kingdome.\n\nSo far this Letter; which being confirmed by those of two others, persons of good credit, of the same place, hath induced the Publisher to desire one of them to send him some of this Essence for tryal.\n\nG g g g g g",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101349.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 516,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1909,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101349",
+    "title": "Extract of a Letter, Written to the Publisher by M. Denys from Paris, May 1. 1673; Giving Notice of an Admirable Liquor, Instantly Stopping the Blood of Arteries Prickt or Cut, without Any Suppuration, or without Leaving Any Scar or Cicatrice",
+    "authors": "M. Denys",
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101349"
+  }
+}

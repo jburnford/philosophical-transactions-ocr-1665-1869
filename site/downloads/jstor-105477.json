@@ -1,0 +1,69 @@
+{
+  "id": "0dc3173b465532e2d39ad51e7c00e0dfe69db32e",
+  "text": "Received December 5, 1765.\n\nV. Observation of the Eclipse of the Sun, of August 16, 1765, made at Leyden, by Professor Lulofs, F. R. S. to Charles Morton, M. D. Sec. R. S.\n\nCarolo Morton, M. D. Soc. Reg. Lond. Secretario, & Academiar. Imperial. Leopoldin. & St. Petropolitan. Socio. Joannes Lulofs, Academ. Leidenf. Mathefeos Professor. Societ. Reg. Lond. Socius, &c. S. P. D.\n\nRead Feb. 13, 1765.\n\nAbbas de la Caille (Ephemerides des Mouvements Celestes pour l'année 1765) initium deliquii pro urbe Amstelædamensi determinaverat $5^h\\ 4'$ post merid. finem $5^h\\ 24'$, quantitatem o dig. $5'$. Cum de la Caille conspirabat peritisimus de la Lande, maximamque eclipsos phasin locum habituram praedixerat in eadem urbe $5^h\\ 15'$.\n\nHisce determinationibus plus fidens, quam rudioribus, quas ipse tantum feceram, ut typum deliquii in usum observatorii nostri parare mihi liceret, (secundum quas initium esset Leydæ $4^h\\ 10'$, finis $5^h\\ 10'$, quantitas $1^d\\ 22'$) aliisque insuper negotiis distractus, observatorium conscendi hora 4, sed, disposito telescopio Newtoniano septem pedum, eidemque adplicato micrometro Bradleyano, admirabundus percepi, hora $4^h\\ 29'\\ 1''$ eo-usque jam proveniam fuisse Lunam,\nLunam, ut distantia cornuum deliquii $19'36''$ adaquaret; unde quantitas obscurationis jam erat 2 dig. & $38'$; ab eo tempore non admodum increvit eclipsis, ita ut non ultra 2 dig. & $40'$ vel $42'$ adscenderit. Hora autem $4^h44'48''$ distantiam cornuum denuo deprehendi $19'36''$, adeoque medium deliquii non longe absuit ab hora $4^h36'55''$.\n\nReliquæ observationes circa distantiam cornuum, & magnitudinum obscurationis exinde erutarum determinationes, sunt sequentes.\n\n| Temp. ver. | distantia cornuum | Magnitudo |\n|------------|-------------------|-----------|\n| $4^h51'45$ | $18'51''$         | 2 24      |\n| $55'55$    | $18'6''$          | 2 11½     |\n| $59'19$    | $17'21''$         | 2 1       |\n| $5'351$    | $15'50''$         | 1 38      |\n| $7'9$      | $14'20''$         | 1 20      |\n| $12'42$    | $11'18''$         | 0 48      |\n| $17'21$    | $6'2''$           | 0 13½     |\n\n$18'58$ Finis\n\nDatum Lugd. Batav. d. 5 Novemb. 1765.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105477.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 950,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1208,
+        2
+      ],
+      [
+        1208,
+        2158,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105477",
+    "title": "Observation of the Eclipse of the Sun, of August 16, 1765, Made at Leyden, by Professor Lulofs, F. R. S. to Charles Morton, M. D. Sec. R. S.",
+    "authors": "Professor Lulofs",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105477"
+  }
+}

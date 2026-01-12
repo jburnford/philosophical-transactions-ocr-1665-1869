@@ -1,0 +1,69 @@
+{
+  "id": "6f6dd013afc84ccba7d7c0bf349e5de73f2190ee",
+  "text": "Ex his observationibus invicem comparatis quantum ex hoc brevi intervalllo inferri potuit adventum Mercurii ad medium ipsius semitae in solis disco Trigonometricè deduxi hora 6. 11' 18''. post meridiem.\n\nNodum verò ascendentem Mercurii in 8 14 42'. adhuc promotorem quam per observationes anni 1677.\n\nInclinationem autem orbitae Mercurii ad Eclipticam ex postremarum observationum comparatione inveni gr. 6. 23. quam nihilominus ob breve harum observationum intervallum praefere non ausim ei quam ex vestris Sinensibus observationibus longè majori intervalllo distantibus deduxi.\n\nVII. Quadratura Logarithmica. Autore Jo.Craig.\n\nESTO ONF Curva Logarithmica, cujus Asymptotos AR, in qua tale sumatur punctum A, ut ejus prima ordinata AO sit subtangenti seu unitati æqualis: Quæritur spatium curvilineum AONM a duabus ordinatis AO, MN; abscissâ AM, & Curvâ Logarithmicâ ON comprehensum.\n\nEx O ducatur OE ad AM parallela & secans MN in E; Dico quod rectangulum ex segmentis ME, EN sit æquale spatio quaæsito.\nDemonstratio. Vocetur Ordinata MN, Z; subtangens AO seu ME, s: &c ad axem AR construatur alia Curva HGE, cujus æquatio $2sz = x^2$, ubi ejus ordinata GM = x; dico quod sit quadratrix Logarithmicæ juxta methodi meæ fundamentum; scil. ejus tubnormalis est respectivæ hujus Ordinaræ æqualis: ut ex calculo illius methodi patebit: Ergo (juxta ali- bi à me exposita) si ad G ducatur GC perpendicularis & æqualis lineæ GM, nec non HD parallela ad GC, & lineis GM, CM occurrens in B & D; erit trapezium GBDC = AONM. Sed GBDC = GMC - BMD = $\\frac{1}{2}x^2 - \\frac{1}{2}BMq = SZ - \\frac{1}{2}HAq$; sed HA = $\\sqrt{2}AOq$ ex natura Curvae HGQ; ergo GBDC = SZ - AOq = AO x MN - AOq = AO x MN - AO = ME x MN - ME = ME x EN; Ergo etiam AONM = ME x EN. Q. E. D.\n\nCum Methodum meam meam ad hujusmodi Figuras appli- carem; inveni Errorem aliquemodo in Calculum Bernoulia- num irrepsisse, dum figuræ cujus æquatio $a^y = y^y$ Quadratu- ram assignat $\\frac{2yyly - yy}{4la}$ in pereximio suo Tractatu — De principiis Calculi Exponentialis; est enim illius figuræ, Area = $\\frac{2yyly - yy}{4la}$; ubi y abscissam & z ordinatam designat.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102555.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 848,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1006,
+        2
+      ],
+      [
+        1006,
+        2124,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102555",
+    "title": "Quadratura Logarithmicae. Autore Jo. Craig",
+    "authors": "Jo. Craig",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102555"
+  }
+}

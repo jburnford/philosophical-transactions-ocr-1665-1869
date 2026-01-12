@@ -1,0 +1,79 @@
+{
+  "id": "e10ba7bed42fe53ff59fe8dc6dc65ffc36cdbb8b",
+  "text": "IV. A Letter from Mr. Francis Drake, Surgeon, F. R. S. to Martin Folkes Esq; President of the Royal Society, &c. concerning the Bones of a Fœtus being discharged thro' an Ulcer near the Navel.\n\nWorthy Sir,\n\nYork, June 22. 1747.\n\nHAVING a Call from hence into Lincolnshire lately, to see a Patient, the Apothecary who attended on him informed me, amongst other things, of an extraordinary Case, which had happened in that Neighbourhood, a very few Years ago. I have since been informed, on Inquiry, that it has not as yet been represented to the Royal Society; and therefore I hope you will do me the Honour to lay this Account of the Case before them.\n\nJane, the Wife of James Burman, Labourer, at Scawby near Brigg in Lincolnshire, was about 29 Years of Age when she married. About two Years after, when she had had a Child at full Time, she conceived again, and went regularly on for four Months. She then got a Fall, and about three Weeks after felt a Load in her Belly, which continued, on the right Side of the same, for between two and three Years. The Woman then grew very big with another Child, which pressed so much upon the Lump as to give her great Uneasiness. However, she went on to her Time with her double Burden; and, three Years and a Quarter after the accidental Fall, she\nwas deliver'd of a live Child at full Growth: From which Time she grew worse and worse, with violent Pain about the Navel, and an inflamed Tumour appeared near that Part. Upon Application to a neighbouring Surgeon, Fomentations were used, which produced a Suppuration at a small Breach near the Navel. The Surgeon did not know what to make of this Swelling, and therefore did not venture to enlarge the Orifice; but it continued discharging a fetid purulent Matter for three or four Months longer.\n\nAbout a Year, or more, after her last Delivery, the Woman was suddenly seized in the Night-time, and a hardish Mass of Flesh, seemingly about eight Inches long, was discharged thro' the old Opening in her Belly. The Lump was rather thicker than an ordinary Man's Wrist, and which being opened, contained all the Bones of a Fetus, of about four Months Growth.\n\nAt this time the Woman was much emaciated, occasioned by the large Discharge of Pus from the Wound; and, what was much more extraordinary, whatever she eat or drank came half-digested thro' the Opening. White Bread, or better Diet, came thro' in that Manner; but coarse Rye-Bread, or such-like, was not digested at all. For which Reason, the poor Woman must have inevitably perished, had she not been supported by a charitable Gentleman's Family in the Village, with Diet fit for her miserable Circumstances.\n\nShe continued to discharge her Excrement in this Manner for six Months, and then that Symptom left her; after which the Ulcer was kept open other six Months,\nMonths, when it dried up of itself naturally, with a very firm but small Cicatrix.\n\nI had the Curiosity to see this Woman, and Mr. Charlesworth, Surgeon and Apothecary at Brigg, sent for her. She appeared hale, strong, and in full Health. I had the above Account of her Case from her own Mouth, attested by the Surgeon who attended her. I saw the Bones of the Fœtus in Mr. Charleworth's Possession, perfectly white, and, I believe, not one wanting. The Woman further told me, that, nine Months after the Wound was healed, she was deliver'd of another live Child, at full Time, but with great Difficulty. The whole Time that the Bones of the Fœtus may be supposed to have lain in the Woman's Belly was about four Years and a half.\n\nThus, Sir, I have drawn up the Account as well as I can, but very inaccurately. I have purposely omitted Terms of Art, in order to make myself better understood by those who are not Surgeons or Anatomists. There are several Particulars in the Account, which I cannot reconcile to any natural Laws that I am acquainted with: However, as the Truth of the Whole is incontestable, it shews most evidently what wonderful Things Nature can do, with proper Assistance.\n\nI am, Sir, with my best Respects to the Gentlemen of the Society,\n\nYour most obliged, and most obedient humble Servant,\n\nFrancis Drake.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104519.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1109,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1292,
+        2
+      ],
+      [
+        1292,
+        2819,
+        3
+      ],
+      [
+        2819,
+        4148,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104519",
+    "title": "A Letter from Mr. Francis Drake, Surgeon, F. R. S. to Martin Folkes Esq; President of the Royal Society, & c. concerning the Bones of a Foetus Being Discharged Thro an Ulcer Near the Navel",
+    "authors": "Francis Drake",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104519"
+  }
+}

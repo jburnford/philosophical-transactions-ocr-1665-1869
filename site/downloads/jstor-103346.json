@@ -1,0 +1,79 @@
+{
+  "id": "f65cc993fe268c0602e30b7121c8b0dcc01c2ecb",
+  "text": "I. De Maximis & Minimis quae in motibus Corporum Coelestium occurrunt.\n\nANTE Keplerum Astronomi universi, per tot retro secula, Planetarum motum circuiarem non ausi sunt in dubium vocare, ex praecognitâ, ut videtur, in figura Circuli nescio qua perfectionis Idea. Kepler autem Inventori debetur ea qua nunc utimus Theoria, nempe quod Corpora coelestia Solem ambiunt in communi orbium Ellipticorum Foco situm, ea lege ut Areæ Temporibus proportionales radiis ad Solem ductis describantur. Sublimiorum vero postulat Geometriam, ad ostendendum quam ob causam hoc ita se habeat, quodque aliter esse non possit. Hoc in sempiternam celeberrimi D. Newtoni Praesidis nostri gloriam reservatum est.\n\nHujus vestigiis insistens, Corollaria quaedam exhibuit eximius Mathematicus D. Abr. de Moivre R. S. S. in Philos. Transact. N° 352 edita; Theoremata scil. parata, quibus determinantur Velocitates five Momenta Motûs tam veri quam apparentis circa Solem, sicut etiam accessûs vel recessûs à Sole, in dato quovis datorum Orbium puncto. Deinde ut Theoriam systematis Planetici penitus excoleret, ope eorundem Theorematum, dictorum Momentorum Momenta perscrutatus est, ostenditurque quibus in orbium punctis fiant Maxima harum Velocitatum mutationes, idque Solutionibus facilitate & concinnitate praestantibus.\n\nSit A B P Orbis Planetæ Ellipticus, A P Axis Transversus, C B Semiaxis conjugatus, S Sol, Q Focus alter Ellipseos. Per S ducatur S M ipsi C B parallela: & crit punctum M in quo Maxima cum velocitate crecit\nscit vel decrecet distantia à Sole, & \\( SM = AC - \\frac{SC^2}{AC} \\).\n\nSi vero capiatur \\( SL \\) media proportionalis inter Semiaxes \\( AC, CB \\), erit punctum \\( L \\) in quo \\( Maxim \\) fit aquatio Centri, ut vocant; sive ubi motus angularis sit æqualis medio Motui: Quod si Eccentricitas non major sit quam in plerisque Planetis, \\( BL = BM \\) quanta proximè: Est vero \\( SL = \\sqrt{AC^2 - AC^2 SC} \\).\n\nSi quaeratur punctum \\( N \\), in quo sit Maxima mutatio Velocitatis motûs realis in Curvâ, Problema Solidum est. Est enim \\( 2NS = 4AC - 2NQ \\) ad \\( 3NQ - AC \\) ut \\( AC^2 - CS^2 = CB^2 \\) ad \\( NQ^2 \\); adeoque si ponatur \\( AC = a, CB = c \\) & \\( NQ = y \\), habebitur aquatio \\( y^3 - 2ayy + \\frac{3}{2} ccy - \\frac{1}{2} acc = 0 \\). Quà resolutâ erit \\( y \\) sive \\( NQ \\) distantia puncti quæsitì \\( N \\) ab altero Ellipsois foco. In Orbibus autem parum Eccentricis, quale sunt Planetarum, si fiat \\( CD = SQ \\), & junctæ \\( AD \\) æqualis ponatur \\( AK \\), erit reliqua pars Axis \\( KP = NS \\) distantie puncti \\( N \\) à Sole quamproxime. Si vero Orbis fuerit Parabólica erit \\( SN \\) ad \\( SP \\) ut \\( 5 \\) ad \\( 4 \\), angulique \\( NSP \\) erit \\( 53^\\circ.8' \\) fere, cujus sinus est \\( \\frac{1}{2} \\) Radii.\n\nAt Punctum \\( O \\), in quo motûs apparentis sive angularis acceleratio Planetæ descendentis, vel retardatio ascenden-\nascendentis Maxima fit, hoc modo obtinebitur. In AC capiatur GG = AC, ac fiat angulus CSF 30 gr. du-\nctaque SF æqualis ponatur CE, ipsique GE sit GH æqualis. Dico, si distantia SO fiat æqualis ipsi PH,\nquod in puncto O proveniet Maxima mutatio motus an-\ngularis Planetæ in Orbe Elliptico ABOP gyrantis;\neo seilicet in Orbis loco secundæ differentiæ æquatio-\nnum centri Planetæ reperientur Maxima. Est autem\nSO = AC - \\sqrt{\\frac{1}{2}AC^2 + \\frac{1}{2}SQ^2}. Quod si Orbis Parabo-\nlica fuerit, ut in Cometes, fiat SO ad SP ut 8 ad 7,\nanguluseque OSP fiat 41° 24' \\frac{1}{2}, sive cujus Sinus fiat\nad Radium ut \\frac{1}{4} \\sqrt{7} ad 1.\n\nDenique Minimâ cum Velocitate mutatur directio\nTangentis Orbitæ in puncto R, si fiat SR æqualis dua-\nbus tertiis Axis majoris AB. Quod si Eccentricitas SC\nminor fuerit quam \\frac{1}{2}PC, Minimum hoc non locum ha-\nbet, sed decrecit semper hæc Velocitas quacum revol-\nvitur Tangens, usque in ipsum Aphelion; quemadmo-\ndum se res habet in omnium Planetarum motibus. Ne-\nque etiam in orbe Parabolico obtinet, ob Axem ejus\nin infinitum protensum.\n\nHæc omnia demonstrantur, juxta præcepta Doctri-\nnae de Maximis & Minimis, ex Theorematis prædictis\nin N° 352 exhibitis, quæ quidem hac occasione revi-\nsere Lectorem curiosum non pigebit.\n\nII. Apologia",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103346.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1562,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1504,
+        2
+      ],
+      [
+        1504,
+        2845,
+        3
+      ],
+      [
+        2845,
+        4128,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103346",
+    "title": "De. Maximis & Minimis Quae in Motibus Corporum Coelestium Occurrunt",
+    "authors": null,
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103346"
+  }
+}

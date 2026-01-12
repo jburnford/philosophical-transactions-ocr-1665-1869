@@ -1,0 +1,59 @@
+{
+  "id": "997159b2a2ad4906f831e15761e5967880bebac5",
+  "text": "V. A Catalogue of Books lately printed, not mentioned in these Transactions.\n\nInscriptiones Graecae Palmyrenorum cum Scholis & Annotationibus Edwardi Bernardi, &c Thomae Smithi, Traject. ad Rhen, 1698. 8vo.\n\nJoh. Petri Erici 'Ανδροπολιτοποια, sive humanæ linguae genesis partis I. tomus I. Venet. 1697. in 4to.\n\nL'Anatomie du corps humain, & institution de medecine contenant ce qu'il faut faire pour conserver ou pour recouvrer la sante Par.2.Vol. in 12mo. par le prieur de Saint Hilaire.\n\nPortrait historique de l'Empereur de la Chine, presente au roy par le P. Jean Bouvet de la Compagnie de Jesus Missionnaire de la Chine. ib. 1697. in 12mo.\n\nLettre de M. Barthelemy Linand. M. D. ecrite le 15 Oct. 1696. ou il repond a quelques objections qu'on a faites contre son livre des eaux minerales de Forges. ib. 1698. in 8vo.\n\nJournal du voyage des grandes Indes, contenant tout ce qui s'y est fait & passe par l'escadre de sa Majeste envoyée sous le commandement de M.de la Haye. Orleans, 1697. in 12mo.\n\nVI. Extracts out of some late Accounts and Letters.\n\nMonsieur Lemery has printed at Paris a Book called, Histoire universelle des drogues.\n\nMoret's Dictionary is reprinting at Paris in Four Volumes in Fol. and will be finished in Five or Six Months.\n\nLondon: Printed for Sam. Smith, and Benj.Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-Yard. 1698.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102519.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 514,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1389,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102519",
+    "title": "Extracts out of Some Late Accounts and Letters",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102519"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "80accf7c02538017ddbd3158ffe506154b8612d0",
+  "text": "PHILOSOPHICAL\n\nTRANSACTIONS.\n\nI. An Account of a new Comet. In a Letter from Miss Caroline Herschel to Charles Blagden, M. D. Sec. R. S.\n\nRead Nov. 9, 1786.\n\nSIR,\n\nIn consequence of the friendship which I know to exist between you and my Brother, I venture to trouble you in his absence with the following imperfect account of a comet.\n\nThe employment of writing down the observations, when my Brother uses the 20-feet reflector, does not often allow me time to look at the heavens; but as he is now on a visit to Germany,\nMiss Herschel's Account of\n\nGermany, I have taken the opportunity of his absence to sweep in the neighbourhood of the sun, in search of comets; and last night, the 1st of August, about 10 o'clock, I found an object very much resembling in colour and brightness the 27th nebula of the Connoissance des Temps, with the difference however of being round. I suspected it to be a comet; but a haze coming on, it was not possible entirely to satisfy myself as to its motion till this evening. I made several drawings of the stars in the field of view with it, and have inclosed a copy of them, with my observations annexed, that you may compare them together.\n\nAugust 1, 1786, 9 h. 50', the object in the center is like a star out of focus, while the rest are perfectly distinct, and I suspect it to be a comet. Tab. I. fig. 1.\n\n10 h. 33', fig. 2. the suspected comet makes now a perfect isosceles triangle with the two stars \\(a\\) and \\(b\\).\n\n11 h. 8', I think the situation of the comet is now as in fig. 3.; but it is so hazy that I cannot sufficiently see the small star \\(b\\) to be assured of the motion.\n\nBy the naked eye the comet is between the 54th and 53d Ursae majoris, and the 14th, 15th, and 16th Comæ Berenices, and makes an obtuse triangle with them, the vertex of which is turned towards the south.\n\nAugust 2. 10 h. 9', the comet is now, with respect to the stars \\(a\\) and \\(b*\\), situated as in fig. 4. therefore the motion since last night is evident.\n\n* A doubt having arisen about the identity of the stars marked \\(a\\) and \\(b\\) in the figures, I have examined that part of the heavens in which the comet was the 1st of August, in order to settle this point, but find so many small stars in that neighbourhood that I have not been able to fix on any of them that will exactly answer.\n10 h. 30', another considerable star c may be taken into the field with it, by placing a in the center; when the comet and the other star will both appear in the circumference, as in fig. 5.\n\nThese observations were made with a Newtonian sweeper of 27 inches focal length, and a power of about 20, the field of view is 2° 12'. I cannot find the stars a and c in any catalogue; but suppose they may easily be traced in the heavens; whence the situation of the comet, as it was last night at 10 h. 33', may be pretty nearly ascertained.\n\nYou will do me the favour of communicating these observations to my brother's astronomical friends.\n\nI have the honour to be, &c.\n\nCAROLINE HERSCHEL.\n\nSlough, near Windsor,\nAug. 2, 1786.\n\nanswer these figures; and as they were drawn from observations made by moonlight, twilight, hazy weather, and very near the horizon, it would not be at all surprising if a mistake had been made: however, as these figures were only given with a view to shew the motion of the comet, the conclusion of the change of place, which was drawn from them, was equally good whether these stars were the same or different.\n\nDec, 14, 1786.\n\nWILLIAM HERSCHEL.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106702.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1041,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        523,
+        2
+      ],
+      [
+        523,
+        2323,
+        3
+      ],
+      [
+        2323,
+        3494,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106702",
+    "title": "An Account of a New Comet. In a Letter from Miss Caroline Herschel to Charles Blagden, M. D. Sec. R. S.",
+    "authors": "Caroline Herschel",
+    "year": 1787,
+    "volume": "77",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106702"
+  }
+}

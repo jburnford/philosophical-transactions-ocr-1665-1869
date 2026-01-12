@@ -1,0 +1,69 @@
+{
+  "id": "602755f3b4de5841016cbd6733e1459087bc7127",
+  "text": "An Extract\nOf a Letter, written by D. B. to the Publisher, concerning the present Declination of the Magnetick Needle, and the Tydes, May 23, 1668.\n\nSir, I here present you with a Scheme of the Magnetical Variations, as it was sent me by Capt. Samuel Sturmy, an experienced Seaman, and a Commander of a Merchant Ship for many years; who (as he assures me) took the Observations himself in the presence of Mr. Staynred, an antient Mathematician, & others, in Rownham-Meadowes by the water-side, in some such approach, I think, to Bristol, as Lime-house or the Fields adjoining are to London. This (as the Table shews) was taken June 13, 1666. They observed again in the same day of the next year, viz. June 13, 1667; and then they found the Variation increaf’d about 6 minutes Westerly.\n\nNow he promifeth to take the Observations in the same Company and Place, on the 13th. June next following, with a Quadrant of 6 foot radius, accurately divided into minutes, and with a very good Needle about 8. inches long; and he doubts not, but the Observations shall be as exactly made, as can be done by any Men in any place of the World.\n\nHe adds, that he has found in several places or Meridians, upon his own Observations, from 2. min. to 7. minutes some difference. In this Table he notes the greatest distance or difference to be 14. minutes; and so taking the mean for the true Variation, he concludes it then and there to be just 1. deg. 27. min. viz. June 13, 1666.\n\nThe same person promifeth an exact accompt concerning Tydes\n\n| Observed June 13. 1668. |\n|------------------------|\n| Sun's Observ'd Altitude | Magnetical Azimuth | Suns true Azimuth | Variat. Westerly |\n| Gr. M. Gr. M. Gr. M. G. M. |\n| 44 20 72 00 70 38 1 22 |\n| 39 30 80 00 78 24 1 36 |\n| 31 50 90 00 88 26 1 34 |\n| 27 42 95 00 93 36 1 24 |\n| 23 20 103 00 101 23 1 23 |\n\nJune 13, 1666. They observed again in the same day of the next year, viz. June 13, 1667; and then they found the Variation increaf’d about 6 minutes Westerly.\n\nNow he promifeth to take the Observations in the same Company and Place, on the 13th. June next following, with a Quadrant of 6 foot radius, accurately divided into minutes, and with a very good Needle about 8. inches long; and he doubts not, but the Observations shall be as exactly made, as can be done by any Men in any place of the World.\n\nHe adds, that he has found in several places or Meridians, upon his own Observations, from 2. min. to 7. minutes some difference. In this Table he notes the greatest distance or difference to be 14. minutes; and so taking the mean for the true Variation, he concludes it then and there to be just 1. deg. 27. min. viz. June 13, 1666.\n\nThe same person promifeth an exact accompt concerning Tydes\nTydes there, according to the directions formerly given in the Transactions. At present he assureth from many former Observations, that the biggest Spring-Tydes, and Annual Tydes there, are about the Equinoxes, according as the Moon is near the Full, or Change, before or after that time. Of this you may expect a more perfect account hereafter.\n\nAn Extract.\nOf a Letter concerning an Optical Experiment, conducive to a decayed Sight, communicated by a Worthy person, who found the benefit of it himself.\n\nI am to acquaint you of an Experiment, if it may deserve that name, and not rather that of a Trifle; the matter of which is known to many, but un-applied (for ought I know) to such use as it affords. And the use is to myself of greater value, than you'll easily imagine, and I think, it may be equally profitable to many. Thus it is: you know, I have mourn'd for the loss of my eyes. I confess my unmanliness, that I have shed many tears in my study for want of them, but that was quite out of the way of recovering them. I know not, whether by standing much before a blazing Fire, or by writing often right before a bright Window, or what else might be the cause of this decay of my sight, who am not above 60 years of age. But I seem'd always to have a kind of thick smoak or mist about me, and some little black balls to dance in the air about my eyes, and to be in the case, as If I came into a room suddenly from a long walk in a great Snow. But so it was, I could not distinguish the Faces of my acquaintance, nor Men from Women in rooms that wanted no light. I could not read the great and black English Print in the Church-Bibles, nor keep the plain and trodden paths in Fields or Pastures, except I was led or guided. I received no benefit by any Glasses, but was in the case of those, whose decay by Age is greater than can be helped by Spectacles. The fairest Prints seemed through Spectacles like blind Prints, little black remaining.\n\nBeing in this sad plight, what trifle can you think hath brought me help, which I value more than a great Sum of Gold? Truly,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101283.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1425,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2738,
+        2
+      ],
+      [
+        2738,
+        4817,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101283",
+    "title": "An Extract of a Letter, Written by D. B. to the Publisher, Concerning the Present Declination of the Magnetick Needle, and the Tydes, May 23. 1668",
+    "authors": "D. B.",
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101283"
+  }
+}

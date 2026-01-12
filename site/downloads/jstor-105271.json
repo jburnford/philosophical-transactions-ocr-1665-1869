@@ -1,0 +1,69 @@
+{
+  "id": "dabb797bc4bdf0f97a7de78b14f727dfddf9a7f4",
+  "text": "of; whether air be mixed with, or necessary to, its formation; as also how far its power of resistance may reach; are probably not yet known, to a proper degree of exactness. Niewentit fixes the expansion of a cubical inch of water, converted into steam, at 13365, Dr. Desaguliers at 14000, and Mr. Payne at 4000 times. The great scope in this subject from a plenum to a vacuum, if I may be allowed the expression, as also the very useful purposes, to which it has already been, and possibly may be still further applied, will, I hope, be an inducement to those, who are much better qualified, to proceed in so useful an inquiry.\n\nXLVI. Observatio Eclipsei Lunae Die 27 Martii, Ann. 1755. habita Ulissipone in Domo Patrum Congregationis Oratorii à Joanne Chevalier ejusdem Congregationis Presbytero, Regiae Londinensis Societatis Socio, Regiaeque Parisiensis Scientiarum Academiae correspondente.\n\nTubo optico 8 pedum peracta est observatio cælo sereno, claroque.\n\nIMMERSIONES.\n\n| Read Dec. 8, 1757. | Initium penumbrae dubium | Initium eclipsei dubium | Certe jam incæperat | Umbra ad mare humorum |\n|------------------|--------------------------|------------------------|---------------------|----------------------|\n|                  | Nitium penumbrae dubium | Initium eclipsei dubium | Certe jam incæperat | Umbra ad mare humorum |\n|                  | 10 29 50                | 10 33 35               | 10 34 05            | 10 44 00             |\n\nHora postmeridiana temporis veri.\n| Umbra ad Grimaldum | 10 44 53 |\n|---------------------|---------|\n| Grimaldus totus in umbra | 10 47 58 |\n| Mare humorum totum in umbra | 10 51 14 |\n| Thico incipit mergi | 10 53 29 |\n| Thico totus mergitur | 10 55 14 |\n| Umbra ad Reinholdum | 11 08 04 |\n| Umbram ingreditur Copernicus | 11 19 22 |\n| Umbra ad mare nectaris | 11 24 52 |\n| Totum in umbra | 11 33 50 |\n| Umbra ad mare tranquillitatis | 11 35 24 |\n| Promontorium acutum in umbra | 11 45 46 |\n\n**Emersiones**\n\n| Incipit emergere ab umbra Copernicus | 12 04 38 |\n|------------------------------------|-----------|\n| Totus Copernicus extra umbram | 12 07 40 |\n| Incipit egredi Grimaldus | 12 09 38 |\n| Totus Grimaldus extra umbram | 12 12 38 |\n| Incipit emergere mare fœcunditatis | 12 31 37 |\n| Emergit mare humorum | 12 36 11 |\n| Incipit emergere Capuanus | 12 39 40 |\n| Egreditur Schicardus | 12 48 30 |\n| Emergit Thico | 12 51 40 |\n| Totum mare nectaris egreditur | 12 58 09 |\n| Finis eclipsis | 13 13 02 |\n| Finis penumbrae dubius | 13 16 50 |\n\nXLVII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105271.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 994,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1490,
+        2
+      ],
+      [
+        1490,
+        2509,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105271",
+    "title": "Observatio Eclipsis Lunae Die 27 Martii, Ann. 1755. Habita Ulissipone in Domo Patrum Congregationis Oratorii à Joanne Chevalier Ejusdem Congregationis Presbytero, Regiae Londinensis Societatis Socio, Regiaeque Parisiensis Scientiarum Academiae Correspondente",
+    "authors": "Joanne Chevalier",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105271"
+  }
+}

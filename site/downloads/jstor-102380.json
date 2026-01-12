@@ -1,0 +1,59 @@
+{
+  "id": "7c1f1a79843837531e21a265b87d15e8504da977",
+  "text": "V. Extract of a Letter from Mr. de Vallemont, &c., concerning a small Egg being found within an ordinary one, taken from the Journal des Savans of the 7th of Jan. 1696.\n\nIn the Journal des Savans of the 7th of Jan. 1696, there is an account of a small Egg of about 7 Lines from end to end, and 4½ of bigness, which was included in a Hens Egg, which appeared to have nothing extraordinary on its outside, and which they were breaking to make an Omelette of. The small Egg-shell was fastened to the shell of the greater by one of its Extremities.\n\nSeveral Instances of the like nature are extant in Natural Historians.\n\nLondon: Printed for Sam. Smith, and Benj. Wallford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1697.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102380.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 267,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        753,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102380",
+    "title": "Extract of a Letter from Mr. de Vallemont, etc. Concerning a Small Egg Being Found within an Ordinary One, Taken from the Journal des Savans of the 7th of Jan. 1696",
+    "authors": "De Vallemont",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102380"
+  }
+}

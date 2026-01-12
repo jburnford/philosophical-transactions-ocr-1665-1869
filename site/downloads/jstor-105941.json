@@ -1,0 +1,289 @@
+{
+  "id": "129302fb6187d314853931612a6f3612990f0480",
+  "text": "Received January 14, 1767.\n\nXVI. Cogitata de COMETIS. Communicated by Benjamin Franklin, LL.D. F. R. S.\n\nIllustrissimae Societati Regiae,\n\nOb summum in se collatum honorem,\nCooptationem scil. in eorum Sodalitium,\nHanc qualemunque Dissertationem,\nEa qua par est observantia,\n\nD. D. C. Q.\n\nJohannes Winthrop,\nApud Cantab. Nov. Ang. Math. & Phil. Prof.\nHollisianus,\n\n7° Maii 1766.\n\nLEMMA\n\nRead March 19, 1767.\n\nCUM ex illustrissimi Newtoni inventis constet, \"gravitatem in universa corpora fieri, eamque proportionalem esse quantitati materiæ in singulis, et reciproce proportionalem quadrato distantiæ inter corporum centra,\" exinde sequitur, quòd inter bina quævis systematis mundani corpora existere potest limes attractionis, in quo\nquo utique situm corpusculum æqualibus viribus utrumque versus urgetur.\n\nInvenire hunc limitem inter solem et cometas, et quædam inde pendentia, est scopus problematum sequentium.\n\nPROB. I.\n\nDatis, materiæ quantitatibus in duobus corporibus, et distantiâ inter eorum centra; invenire limitem attractionis.\n\nTAB. VII.\n\nIn Fig. 1. sint S et C centra corporum, quorum majus, S; et quantitates materiæ in ipsis vocentur s et c respectivè. Secetur recta SC, ultra minus corpus C in infinitum producta, in A et O, ita ut sint SA ad AC, et SO ad OC, in subduplicata ratione ipsius s ad c; superque diametro OA describatur semicirculus OLA: Et limes attractionis erit sphærica superficies circumactu semicirculi OLA circum axem OA genita.\n\nNam ex iis quæ præmissa sunt in lemmate patet, puncta A et O esse in limite. Et, si a puncto quovis L in semiciculo OLA ducantur rectæ LS, LC ad centra corporum S et C, erit, ex natura circuli, SL ad LC ut SA ad AC, et ut SO ad OC; unde punctum L est in limite. Pari ratione, omnia puncta in semiciculo OLA, adeoque in sphærica superficie circumactu illius semicirculi genita, sunt in limite quæfito. Limes igitur attractionis est hæc superficies sphærica, corpori minori C eccentrica. Q. E. I.\n\nSCHOL.\nSCHOL. I.\n\nIntra hanc superficiem, quam voco *limitantem*, corporis minoris vis plus pollet: Extra, majoris.\n\nCorol. I. Sphæræ limitantis diameter AO, ejusque segmenta AC, CO, sunt ut distantia inter corporum centra.\n\nCorol. 2. Dato quovis puncto in superficie limitante, ut et corporum distantia, datur tota superficies.\n\nCorol. 3. In hac superficie, gravitatio dirigitur ad punctum A, tanquam ad centrum. Ob æqualitatem virium, quibus corpusculum in L trahitur versus corpora S et C, directio vis ex ipsis compositæ bifariam fecat angulum SLC; ideoque transit per punctum A; per iii. 3. elem.\n\nCorol. 4. Et ducto perpendiculo CB ad CL, occurrente ipsi LA (productæ, si opus fit) in B, vis ipsa composita erit reciproce ut rectangulum CLB. Nam CD demissio perpendiculo super LA, vis simplex versus C erit ad vim compositam versus A, ut CL ad 2LD, id est, ut BL ad 2CL. Unde, cum vis simplex sit ut $\\frac{1}{CL_q}$, vis composita erit ut $\\frac{2CL}{CL_q + LB}$, sive ut $\\frac{1}{CL \\times LB}$.\n\nSCHOL. II.\n\nSi duo corpora fuerint æqualia, limes attractionis effet planum infinitum, distantiam corporum bifariam et ad rectos angulos secans. In hoc casu, CA æquaretur ipsi AS, et punctum O abiret in infinitum.\n\nSCHOL.\nSCHOL. III.\n\nPositis, distantiâ \\( SC = d \\); semidiametro corporis majoris \\( S = b \\), et minoris \\( C = k \\): si ea fuerit corporum distantia, ut sit \\( d : k : : \\sqrt{s} + \\sqrt{c} : \\sqrt{c} \\), punctum A continget superficiem corporis C. Idem eveniet puncto O, si, imminutâ paululum distantiâ, sit \\( d : k : : \\sqrt{s} - \\sqrt{c} : \\sqrt{c} \\). Sin distantia \\( d \\) adhuc minor fuerit, Problema evadet impossibile.\n\nPROB. II.\n\nIisdem positis, invenire locum in quo vires corporum sint ad invicem in ratione data.\n\nSit ratio data \\( b \\) ad \\( c \\), in qua oportet esse vim corporis majoris ad vim minoris. Secetur producta \\( SC \\) (Fig. 2.) in E et P, ita ut sint \\( SE \\) ad \\( EC \\), et \\( SP \\) ad \\( PC \\) in subduplicata ratione ipsius \\( s \\) ad \\( b \\); et locus quæsitus erit superficies sphæræ \\( PFE \\), diametro \\( PE \\) descriptæ. Q.E.I.\n\nDemonstratur ut Prob. I.\n\nCOROL. I. Si secetur \\( CS \\) in \\( G \\), ita ut sit \\( CG \\) ad \\( GS \\), ut \\( \\frac{b \\times CE}{c} \\) ad \\( ES \\), punctum \\( G \\) erit centrum ad quod dirigetur composita gravitatio in superficie \\( PFE \\). Jungantur \\( FS \\), \\( FG \\), \\( FC \\); et agatur recta \\( GK \\) ipsi \\( SF \\) parallela. Cum ratio \\( CG \\) ad \\( GS \\), sive \\( CK \\) ad \\( KF \\), componatur ex rationibus \\( CK \\) ad \\( KG \\), (id est, \\( CF \\) ad \\( FS \\), sive \\( CE \\) ad \\( ES \\)) et \\( KG \\) ad \\( KF \\); et, per constructionem, ratio \\( CG \\) ad \\( GS \\) componitur ex rationibus \\( CE \\) ad \\( ES \\), et \\( b \\) ad \\( c \\); consequens est, quod \\( KG \\)\nKG est ad KF ut \\( b \\) ad \\( c \\); id est, ut vis corporis \\( S \\) agens secundum rectam ipsi KG parallelam, ad vim corporis \\( C \\) agentem secundum rectam FK.\n\nCorol. 2. Et, si in diagonalii FG sumatur FH = FC, et agatur HM ipsi SF parallela, vis composita in puncto F erit reciproce ut rectangulum CFM.\n\nDemonstratur ut Corol. 4. Prob. I.\n\nEadem intelligenda sunt de superficie interiori \\( pfe \\), et punctis \\( g, k, h, m \\), in Fig. 3.\n\nCorol. 3. Ubi \\( b \\) minor est quam \\( c \\), centrum \\( g \\) versatur intra superficiem \\( pfe \\), ut in Fig. 3. Ubi major, centrum \\( G \\) versatur extra superficiem \\( PFE \\); eoque longius distabit a corpore \\( C \\), caeteris manentibus, quo major fuerit ratio data.\n\nCaeterum (ut id obiter moneam), vires conjunctae gravitatis non in diversis ejusdem superficiei partibus tantum, sed et in diversis superficiebus, sunt inter se in ratione supradieta. V. gr. Gravitas in puncto \\( F \\) est ad gravitatem in puncto \\( f \\), ut rectangulum \\( Cf m \\) ad rectangulum \\( CFM \\); in Figg. 2. et -3.\n\nSCHOL.\n\nSi ratio data eadem sit ac \\( s \\) ad \\( c \\), sphærica superficies \\( PFE \\) in planam mutabitur; haud fecus ac in Schol. 2. Prob. I. puncto \\( P \\) in infinitum abeunte. Si ratio fuerit major, punctum \\( P \\) cadet in contrariam partem centri \\( S \\); et superficies iterum erit sphærica, at corpori majori eccentrica; ejusque diameter invenitur\nnitur ut supra. Sin ratio data fuerit major quam \\( b + d^2 \\times s \\) ad \\( b^2c \\); vel minor quam \\( k's \\) ad \\( k + d^2 \\times c \\); Problema erit impossibile.\n\n**PROB. III.**\n\nCorpusculorum, conjunctis corporum S et C viribus attractorum, motus generatim describere.\n\nSi corpora S et C medio fluido circumdentur, in quo mergantur corpuscula specifice leviora aut graviora quam istud medium, corpuscula illa perinde ascendent vel descendent, per utriusque corporis attractionem, ac si ad corpus unicum traherentur; ideoque movebuntur vel in rectis lineis vel curvis, prout eorum motus directi sint vel obliqui, respectu centri compositae gravitationis. Nam centrum hoc idem valet * ac corporis unici centrum in eodem puncto locatum.\n\n**Cas. I.** Corpuscula inter corpora C et S in recta CS sita, quae specifice leviora sunt medio ambiente, tendunt ad punctum A, Fig. 1. Nam quae inter corpus C et punctum A sita sunt, ascendunt a corpore C; et quae inter corpus S et idem punctum, a corpore S ascendunt, (per Schol. I. Prob. I.) Corpusculum autem in ipsissimo puncto A situm, in æquilibrio detentum, requiescit. Quae in recta CO sita sunt, ex altera parte corporis C, ascendunt ultra limitem O ad altitudinem indefinitam. Hæc enim, in toto itinere, quantumvis longo, ascendunt simul ab utroque corpore C et S. Contra fieret, in corpusculis specifice gravioribus: quod et de casu sequente dicendum.\n\n* Hæc mathematice dicta sunt, non physice. Nam centra minime trahunt.\n\n**Vol. LVII.**\n\n**T Cas. II.**\nCas. II. Omnia corpuscula leviora, e corpore C oriunda, iis quae in recta lyzygiarum PS sita sunt exceptis, ascendunt in curvilineis semitis, non multum dissimilibus, quantum auguror, eis quae punctis signantur, in Fig. 4. quarum convexitas obvertitur corpori majori S, et quae magis magisque tendunt versus plagam ei oppositam. Leviora enim, quae in superficie limitante OLA sita sunt, ascendunt a puncto A; et quae in superficie PFE, vel pfe, (Figg. 2. et 3.) a puncto G, vel g; quoniam haec puncta sunt centra gravitationis compositae, ad corpora C et S; per Corol. 3. Prob. I. et Corol. 1. Prob. II. Ejusmodi corpuscula, cum primum expedita sunt a corpore C, ascendunt quaquaversum ab ipsius centro, saltem quam proxime; peragrande autem superficies pfe, PFE, &c. ascendunt quasi depulsa a centro g, vel G, &c. quod semper jacet inter puncta C et S; et, dum augmentur ratio b ad c, manente distantia CS, perpetuo recedit a corpore C; per Corol. 3. Prob. II. et citius, auctâ quoque distantiâ CS. Quamdiu intra sphæram limitantem comprehenduntur, ascendunt fere a corpore C. In transitu enim per superficiem interiorum pfe, fugantur a centro g, quod inter C et e locatur; at, ob compositionem motûs antea acquisiti cum nisi ascensûs a centro g, directiones in quibus assurgunt, seu tangentes semitae suae, secant rectam Cg in punctis quae adhuc propiora sunt corpori C quam est punctum g. Egressis extra sphæram limitantem, et superficies exteriores PFE permeantibus, ascensus eorum magis magisque fit a corpore S. Fugantur nunc a centro G, quod locatur inter E et S; eoque magis appropinquat, caeteris paribus, corpori S, quo altius alcenderunt corpuscula a corpore C.\n\nCorol.\nCorol. 1. Corpuscula, quae a corpore C prope rectam syzygiarum CS assurgunt, ubi regiones ipsi A vicinas attigerunt, se se ad latera diffundent, cursu quoque in partes contrarias flecent; velut aqua fontis arte fabricati, simul ac summam consecuta est altitudinem, quaquaversum diffliuit, retrorsus jamjam itura. Et omnium quidem semitis corpusculorum ex toto corporis C hemisphaerio ipsi S proximo suscitatorum competit vertex V, Fig. 4. seu punctum ex quo curva in contrarium producitur. Cis hunc verticem, corpuscula ad corpus S accedunt; trans, ab ipso recedunt. Quae ab hemisphaerio opposito ortum ducunt, ab ipso S nunquam non recedunt.\n\nCorol. 2. Recendentibus corpusculis a corpore S, id est, trans verticem V, angulus RTC, (Fig. 4.) sub semitae tangente RT et syzygiarum recta CS contentus perpetim minuitur; ad modum parabolæ.\n\nCorol. 3. Vis, qua corpuscula leviora in his superficiebus sphæricis sita ascendunt, eo major est quo propiora sunt illa plagæ oppositionis, POP. Manentibus enim medii ambientis et corporis immersi densitatibus, si augeatur vis acceleratrix gravitatis in quacunque ratione, augebitur in eadem ratione differentia gravitatum specificarum, id est, vis qua corpus immersum sursum vel deorsum fertur in isto medio. Augetur autem vis acceleratrix in unaquaque harum superficiern, pergendo a conjunctione CE per F ad oppositionem CP; † per Corol. 4. Prob. I. et Corol. 2. Prob. II.\n\n† Vis acceleratrix augetur in superficie quacunque EFP, ab E ad F et P, quamdiu ratio data in Prob. II. minor fuerit quam \\( \\sqrt{\\frac{5}{4}} \\) ad 1, posita \\( c = 1 \\). Si vero hae rationes æquentur, vires in E et P erunt, non accurate quidem sed quàm proxime, æquales. Id quod ex Corol. 2. Prob. II. facile colligitur.\n\nT 2 PROB.\nPROB. IV.\n\nEx supradiictis, praecipua caudarum cometicarum phænomena derivare, in theoriâ Newtoni.\n\nSecundum hunc Philosophum celeberrimum, caudæ cometicae ad hunc modum formantur: \"* Caudas a capitibus oriri et in regiones a sole aversas ascendere, confirmatur ex legibus quas observant. † Suspicior ascensum illum ex rarefactione materiae caudarum oriri. Ascendit fumus in camino impulso aeris cui innatat. Aer ille per calorem rarescens ascendit, ob diminutam suam gravitatem specificam, et fumum implicatum rapit secum. Quidni cauda cometæ ad eundem modum ascendit a sole? Nam radii solares non agitant mediae, quae permeant, nisi in reflexione et refractione. Particulae reflectentes ea actione calefactæ calefacient auram ætheream cui implicantur. Illa calore sibi communicato rarefiet, et ob diminutam ea raritate gravitatem suam specificam, qua prius tendebat in solem, ascendet et secum rapiet particulas reflectentes, ex quibus cauda componitur.\" Hæc est summa theoriæ Newtonianæ: Adjicit autem Auctor, \"Ad ascensum vaporum conducit etiam, quod hi gyrantur circa solem et ea actione conantur a sole recedere, at solis atmosphæra et materia coelorum vel plane quiescit, vel motu solo quem a solis rotatione acceperit, tardius gyratur. Hæ sunt causæ ascensus caudarum in vicinia solis, ubi orbes curviores sunt, et cometæ intra densiorem et ea ratione graviorem solis atmosphæram consistunt, et caudas quam longissimas mox emittunt.\"\n\n* Newt. Princip. p. 511. Edit tertiar. † Id. p. 514.\nEx theoria jam exposita, sequentia corollaria levi negotio deducuntur.\n\nCorol. 1. Caudae cometicae ad soli oppositum dirigì debent. Cum sol major est quam cometa quivis, quae in Problematibus superioribus de conjunctis corporum inaequalium viribus earumque effectibus demonstrata sunt, hic locum obtinent. Corpuscula igitur, ex quavis parte capitis cometae C excitata, eas, easque solum, attingere debent altitudines, ad quas a viribus ibi agentibus impelli possunt. Quae versus conjunctionem solis S excitata sunt, attingere possunt sphæram limitantem juxta A, non autem transgredi; per Cas. I. Prob. III. Aliis ex partibus excitata, altius a capite ascendere possunt, sed eorum semitae semper detorquentur versus soli oppositum; per Cas. 2. Prob. III. Et in ipso opposito, recta ascendunt a capite ad altitudinem indefinitam supra O; per Cas. 1. Prob. III. Præterea, corpuscula ad maximas altitudines assurgent in ea plaga ubi vis sursum impellens est maxima. Haec vis autem est maxima in plaga soli opposita; per Corol. 3. Prob. III. Proinde, minima caudarum altitudo (si ita loqui fas sit) spectabit ad solem; et maxima, ad soli oppositum.\n\nCorol. 2. Caudae, ab extremitate inferiore ad superiorem, dilatari debent. Nam directiones vaporum ascendentium intra quamvis superficiem, PFE, divergent a punctis inter cometam, C, et centrum compositae gravitationis, G, jacentibus; quae puncta eo propius accedunt ad solem, S, quo altius ascenderunt. Vapores a capite cometae; ut in Cas. 2. Prob. III. expositum est. Postquam igitur corpusculum transit ultra semitae verticem, V, (Fig. 4.) dum a centro fugitivo, G, ascendere conatur, directiones ascensus semper\nsemper vergent ad parallelismum cum recta syzygiarum, SC, per Corol. 2. Prob. III. nunquam vero attingent.\n\nCorol. 3. Et caudae longissimae esse debent in vicinia solis; idque ob sequentes causas. 1. Ob majorem vaporum e cometa deinceps extractorum copiam, majori calori solis quodammodo proportionatam, sive congruentem. Est autem hic calor reciproce in duplicata ratione distantiae a sole. 2. Ob majorem vaporum raritatem, ex eodem caloris gradu pendente. 3. Ob majorem medii ambientis densitatem. Nam materiam coelorum, cujuscunque demum ea fit raritatis, densiores esse prope solem, seu commune centrum gravitatis systematis mundani (nisi quatenus rarescat ingenti calore juxta solis superficiem) rationi consentaneum videtur. Densiores enim particulae inferiora petunt loca; et inferiores superioribus comprimuntur. Sed in qua ratione distantiae a sole densitas illius medii varietur, id nondum est compertum. Ex hisce duabus causis (2. scil. et 3.) junctim sumpsis, oritur major differentia gravitatum specificarum, et inde major vis ascensus; quae insuper augetur. 4. Per auctam vim acceleratricem ad solem; ut in Corol. 3. Prob. III. notatum est. Haec vis est reciproce in duplicata ratione distantiae a sole. 5. Ob diminutam sphæram limitantem; quo pacto fit, ut complures vapores, qui in majoribus a sole distantias intra ampliorem sphæram continebantur, et tunc ascendeant fere a cometa, in minoribus extra contrac-tam seclusi, ascendant potissimum a solem; per Cas. 2. Prob. III. caudamque angustiorem efficiunt, at productiorem. Haec autem diminutio fit fere * in tri-\n\n* Non accurate; propter magnitudinem inclusi nuclei.\nplicata ratione diminutæ distantiæ a sole; per Corol. I. Prob. I.\n\nNotandum nihilominus, non in ipso perihelio, sed paulo post, caudas fore longissimas. Nam, ob continuationem virium impressarum, effectus solent esse maximi, postquam eorum causæ aliquantum sunt diminutæ. Quemadmodum enim \"maxima altitudo aestus marini non incidit in appulsus luminarium ad meridianum, ubi vis eorum ad mare elevandum maxima est, sed in secundam tertiamve horam po- stea; pariterque aestas et hiems maxime vigent, non in ipsis solstitiis, sed quasi triginta diebus postea:\" Sic caudæ cometicæ prolixiores esse debent, postquam cometæ perihelion sunt transgressi, et a sole recedere inceperunt.\n\nCorol. 4. Ex iisdem rationibus concludi quoque potest, quod cometæ caudatissimi erunt ii, caeteris paribus, qui proxime ad solem appropinquant.\n\nHæc omnia cum phænomenis congruere, notissimum est.\n\nS C H O L. I.\n\nSi lex vis centrifugæ, ex causis in Corol. 3. enumeratis (aliisque, si quæ sint) oriundæ innotesceret, daretur natura curvarum in Cas. 2. Prob. III. descriptarum, et inde figura caudæ cometicæ a priori (ut loquuntur) geometricè determinari posset. Impræsentiarum hoc tantum dicere ausim, quod cauda induet figuram conoëidi cuidam (forsan parabolico) non dissimilem, cujus vertex solem respiciet, et axis protendetur in partes a sole aversas. Illius speciem, se-\n\n* Newt. Princip. p. 424. & 466.\ncundùm sensa mea, quodammodo adumbrare in Fig. 5. periclitatus fui *.\n\nHic vero consideravimus solum motum relativum, quo corpuscula vaporis a capite quiescente in altum assurgerent, et quo calefactae partes auræ æthereæ, quæ nulium alium habent motum, revera assurgunt. Corpusculis autem vaporis omnem retinentibus motum quem derivare possunt a capitis motu, sive progressivo circa solem, sive circulari circa axem proprium, motus iste cum motu ascensûs componitur; et ex illa compositione orientur incurvatio axis caudæ, et deviatio ab oppositione solis, quæ majores vel minores erunt pro velocitate et directione motûs ab hoc fonte derivati. Et hic obiter animadvertendum occurrat, quòd cum nulla alia cernitur unquam incurvatio aut deviatio, quàm quæ oriri potest a motu progressivo capitis circa solem, verisimile est cometas circa axes non rotari.\n\nSCHOL. II.\n\nCaudæ a sphæris planetaram abeuntis pars quædam ad planetas attrahi potest, modò ad aliquem eorum, intra debitam distantiam, accedat. Sed pars major, quantum ego quidem video, caput comitata in regiones a planetis aliisque cometis quàm longissime dissitas, refrigescet; et condensata, in corpus unde originem traxit, per gravitatem suam paulatim recidet, et illud, trætu temporis, more atmosphæræ undique circumfluet; ita ut, quum exacta periodo ad con-\n\n* Similem cometæ cujusdam observati imaginem ab Hookio depictam postea deprehendi.\n† Vide Addend. I. p. 30.\nspectum nostrum redierit, instar coronæ caput æquabiliter cingentis videatur, in caudam denuo producenda. Si cometa quivis materiâ caudæ suæ spoliatus fuerit, nonne expectandum foret, ut cauda regenerata singulis revolutionibus contraheretur? Utrum verò res ita se habeat, id utique demonstrandi nulla fæse hucusque obtulit occasio.\n\nP R O B. V.\n\nInvenire limitem attractionis inter solem et datum cometam, ex observatione.\n\nObservetur latitudo capillitii, CA. in Fig. 5. a centro cometæ æstimata, in ea parte quæ caudæ opponitur; et hinc, unà cum distantiâ cometæ tam a sole quàm a terra, quæ dantur ex theoria gravitatis Newtoniana, habebitur punctum A, Figg. 1. 4. et 5. vel accurate, vel saltem quam proxime (præsertim si angulus sub rectis a cometa ad solem et terram ductis contentus, sit fere rectus). Inde verò, per Corol. 2. Prob. I. dabitur totus limes. Q. E. I.\n\nNam punctum A, sive eam partem superficiei capillitii quæ caudæ opponitur, esse in limite, patet ex iis quæ dicta sunt in Corol. 1. Prob. IV.\n\nS C H O L.\n\nIn hunc finem, necesse est cometam a solem intra certos limites distare. In descensu ab aphelio, tam prope ad solem accedere oportet, ut vaporis incalescentis columna assurgere incipiat, et atmosphæræ forma rotunda mutari in oblongam. Hoc prius fieri nequit, quam CA (Fig. 1.) minor fit semidiametro\natmosphærae. In majoribus distantiis, cometa capillitio ornatur, caudâ verò destituitur; ut in Schol. 2. Prob. IV. Sin plus æquo appropinquet, coma a fronte capitis retro versa et quasi abrata *, tota in caudam abibit. Sed hoc perpaucis cometis, iisque non nisi per breve tempus, evenire potest. In utroque casu, nullus observationibus hîc postulatis relinquitur locus. Eadem dicenda sunt de ascensu cometæ a periherio. Limites autem ex hac parte axis transversi orbitæ majori intervallo ab invicem distabant quàm ex altera. Ubi cometa prope solis oppositionem versatur, hujusmodi observationes peragi nequeunt.\n\nCorol. 1. Latitudo capillitii, in ea parte quæ respicit solem, quamdiu cometa intra limites in Scholio præcedente memoratos versatur, est ut distantia cometæ a sole; per Corol. 1. Prob. I.\n\nEt hoc cum phænomenis consentire, auctorem habemus Newtonum, observationibus Hevelii fretum. \"Atmosphærae cometarum, ait ille †, in descensu eorum in solem excurrendo in caudas, diminuuntur, et (ea certe in parte quæ solem respicit) ampliores redduntur; et vicissim, in recessu eorum a sole, ubi jam minus excurrunt in caudas, ampliantur: Si modo phænomena eorum Hevelius recte notavit.\"\n\nCorol. 2. Hinc innotescit quantitas materiae in cometa. Nam cum dentur SC et CA, datur earum differentia SA; et inde datur ratio SA ad AC; ut et ratio hujus duplicata, quæ (per solutionem Prob. I.)\n\n* Vide Schol. 3. Prob. I. et confer observata Hevelii de cometa anni 1665, die 20 Aprilis; infra citata in p. 148.\n† Newt. Princip. p. 516.\neadem est ac ratio materiæ in sole ad materiam in cometa.\n\nCorol. 3. Hinc, et ex observata diametro, innotequit etiam densitas cometæ. Nam densitas sphæræ est ut ejus materia directe, et cubus diametri inverse.\n\nNewtonus ex fœcundo gravitatis principio elicuit methodos determinandi densitates solis, lunæ et planetarum satellitio stipatorum. Ex eodem fonte derivari posse cometarum quoque densitates, ostendere jam conatus sum. En! specimen calculi, haec tenus, quod sciam, intacti *; quod curiosis naturæ scrutatoribus haud ingratum fore spero.\n\nIn exemplum esto cometa anni 1665, de quo Hevelius in Cometogr. p. 898. hæc scribit. \"Die 8 Aprilis, St. N. mane, magnitudinem capitis ex maculis lunaribus inveni; nucleum interiorem cum tota materia adhaerente, sive crinibus circumfusis, æqualem esse toti insulae Siciliae, hoc est, summum 6'; nucleum vero solum haud majorem esse insula Corsica lunari, hoc est, \\( \\frac{5}{6} \\) part. unius digiti luna- ris, sive 12'' vel 13'.\" Cometa tunc erat in 23° 29' \\( \\lambda \\), cum 25° 49' Lat. Bor. Invenio jam, per tabulas Halleianas, distantiam cometæ a sole (SC) 62735; et a terra, 58441; talium partium qualium\n\n* Ex ingenti caloris gradu quem terra arida apud cometam anni 1680 in perihelio versantem ex radiis solaribus concipere posset, qui, Newtoni computo, quasi 2000 vicibus major erat quam calor ferri candentis, concludit Auctor celeberrimus, quod corpora cometarum sunt solida, compaæta, fixa ac durabilia ad instar corporum planetarum. Nam si nihil aliud effert quam vapores vel exhalationes terræ, solis et planetarum, cometa hicce in transitu suo per viciniam solis tanto calore statim dissipari debuisset.\" Princip. p. 508. Praeter hoc, nihil de cometarum densitatibus vulgatum invenio.\n\nU 2 media\nmedia telluris a sole distantia sit 100,000: et ponendo CA, latitudinem capillitii versus solem, aqualem dimidio capitis, five 3', ea erat 51; et AS, 62684; et semidiameter nuclei 1,7 earundem partium. Proinde, materia in sole est ad materiam in cometa, ut $62684 \\times 62684$ ad $51 \\times 51$, five ut 1 ad $\\frac{1}{\\frac{1}{51} \\times \\frac{1}{51}}$. Porro, positae solis parallaxi media 8'', 68 (ut ex nupero veneris sub sole transitu collegit vir rerum astronomicorum peritissimus Jacobus Short, S. R. S.) semidiameter terrae est 4,2; ejusque materia pars materiae solis; ut meus profert calculus. Quocirca, densitas terrae est ad densitatem cometae, ut\n\n$$\\frac{1}{4,2 \\text{ cub.} \\times 342686} \\text{ ad } \\frac{1}{1,7 \\text{ cub.} \\times 1510724}; \\text{id est, ut } 1 \\text{ ad } 3,44.$$ Hic igitur cometa, qui in perihelio suo quasi decuplo propius quam terra ad solem accedebat, 3 fere vicibus densitate terram superabat.\n\nVeruntamen, hos nolim venditare numeros tanquam perfectos, et cometae hujus densitatem absolute exhibentes. Instituto meo sufficit, si, dum calculi methodum illustrant, non longe a vero aberrent; summam enim accurationem ab ipsa Hevelii observatione haud esse petendam, palam est. Probabile omnino videtur, quod observator illustris magnitudinem capitis aestimarat secundum rectam axi caudae normalem,, quippe in ea sola directione dimetiri potuit caput absque cauda; et capillitii latitudo, de qua hic agitur, nempe versus solem, paulo minor fuerit quam dimidium istius magnitudinis. Haec suppositio non male quadrat cum ultima observatione hujus cometae, quam Hevelius habuit die 20° Aprilis. Eo tempore distantia cometae a sole, meo computo, erat 24237; et a terra, 89602. Jam, apparens latitudo capil-\ncapillitii versus solem est ut distantia cometæ a sole directe, per Corol. 1. Prob. V. et ut distantia a terra inverse; id est, ut \\( \\frac{6^2}{7^2} \\cdot \\frac{5}{4} \\) ad \\( \\frac{2^2}{3^2} \\cdot \\frac{3}{7} \\), sive ut 4 ad 1. Quare, si in priore observatione fuissest 3', in posteriore esset 4.5\"; et capillitium emineret super nucleum 40\" circiter; quod quidem non adeo ægre, adhibito perspicillo, perceptu foret. At testatur Hevelius, quòd \"die 20° Aprilis, cum a nobis ultimum obser-\n\"varetur cometa, in frontispicio capitis materia illa\n\"dilutior jam adeo erat contracta, attenuata et diffi-\n\"pata, ut parum admodum amplius superefflet; ad\n\"utrumque latus vero satis dilatata extitit.\" Cre-\n\"dibile igitur est, latitudinem anteriorem capillitii, etiam\n\"in prima observatione, minorem extitisse quam latera-\n\"lem; i.e. minorem quam 3'. Quod si hæc latitudo\n\"minor fuerit quam 3', minuenda erit materia cometæ,\n\"ejusque densitas, in duplicata ratione, quam proxime;\nper Corol. 2. et 3. Prob. V. Hujus ergo cometæ\n\"densitas non major est quam quæ supra definita est;\nsed potest esse aliquanto minor.\n\nQuærebam itidem densitatem cometæ anni 1682.\n\"Aug. 20. St. V. diameter capillitii axi caudæ per\n\"nucleum normalis, mensurante Flamstedio, erat\n\"2' o\"; cujus distantiae ipse nucleus vix \\( \\frac{1}{10} \\) æquabat;\n\"ideoque latus erat circa 12''. Hic iterum necesse\nhabemus sumere dimidium diametri capillitii pro la-\ntitudine ejus versus solem; quanquam vix dubium\nest quin hæc aliquantulo minor fuerit illo. Et in hac\nsuppositione, iisdem calculi vestigiis insistendo, inveni\ndensitatem terræ esse ad densitatem cometæ ut 1 ad\n0, 4562; seu ut 11 ad 5 circiter.\n\nNotatu non indignam arbitror aliam hujus cometæ\nobservationem a Flamstedio factam die 4 Septemb.\nquo tempore erat \"nucleus limbo capillitii vicinior quam antea [20 Aug.] duplo fere.\" Supra monstratum est, quod capillitii latitudo apparens versus solem est ut distantia a sole directe, et a terra inverse; ex quo, computum ineundo, invenio capillitii latitudinem die 4 Septemb. esse ad ipsius latitudinem 20 Aug. ut 1 ad 2, 1542. Quod cum observatis probe congruit; ut conferenti liquebit. Fatendum tamen, maximam hujus differentiae partem secundae illarum rationum deberi.\n\nVellem sane plura adducere exempla, caeterosque cometas, ratione densitatis, inter se conferre; sed observationum penuria impedimento fuit quo minus aliorum densitates ad calculum revocaverim; nullae enim extant, quas mihi quidem videre contigit, adeo subtiles ut huic disquisitioni apte inservire queant. Nec mirum; quum admodum difficile est, arcus tam exiguos ad amussim mentiri. Quantum ex allatis conjectura assaequi possum, eadem hic valet regula quam obtinere demonstravit Newtonus in planetis, \"eos nempe densiores esse, caeteris paribus, qui sunt soli propiores *.\" Insuper colligere videor, quod sicut cometae ut plurimum ejusdem fere sunt magnitudinis cum planetis, ita non multo plus discrepant cometae a planetis quoad densitatem quam planetae disident inter se. Nam terra, per Newtoni demonstrata, sextuplo densior est quam saturnus. Quintetiam, quod cum distantiae periheliae sunt aequales, cometae planetis rariores sunt;—in hunc fortasse fi-\n\n* Secundum superiorem calculum, cometa anni 1665 erat quasi 7½ vicibus densior quam cometa anni 1682. Eorum autem distantiae periheliae, Hallsio computante, erant 16649, et 58328.\nnem, ut in transitu prope planetas, minus turbent eorum motus; et ut, eidem gradui caloris objecti, facilius vapores emittant, ad formandas caudas.\n\nSed manum de tabula; neque enim conjectandi licentiæ indulgendum. Si in posterum astronomi observationes hujusmodi instituerint, ea sedulitate qua phænomenis stellarum tam fixarum quam errantium invigilare solent, certiorem tandem penitioaremque siderum caudatorum cognitionem sperare licebit.\n\nP. S.\n\nEST et infra superficiem cometæ limes attractionis, intra quem vis solis fortior est quam cometæ. Hujus investigatio pendet a diversa gravitatis lege, crescentis scil. in simplici ratione distantiae a centro; per Prop. 73. Lib. I. Newt. Princip. ejusque natura est, quod si a quovis ipsius puncto \\( l \\) (Fig. 6.) ducantur rectæ ad centrum solis \\( S \\) et cometæ \\( C \\), quadratum prioris in posteriorem ductum, \\( S l q x l C \\), efficiet solidum datum; quod eandem quidem habebit rationem ad cubum semidiametri cometæ, \\( CN \\), quam habet materia in sole ad materiam in cometa. Verum, cum hujus limitis diameter perexigua est respectu distantiae a sole, et propterea omnes rectae \\( S l \\), ideoque et \\( l C \\), sunt quam proxime æquales, hæc superficies \\( l l l l \\) parum differet a sphærica; ejusque diameter erit reciproce ut quadratum distantiae cometæ a sole. Sed hæc, aliaque ad hunc casum spectantia, Prob. II. consimilia, mathematicæ duntaxat sunt contemplationis; eoque consulto in superioribus prætermisimus, utpote ab argumento nostro aliena.\n\nADDENDA.\nADDENDA.\n\nI.\n\nAscensum caudae cometicae, quem ope cujusdam medii celestis perspicacissimus Newtonus explicatum dedit, aliquantulum illustrare aggressi sumus. Quænam verò sit istius medii natura, quisve terminus, magna quaestio est, et tenebris involuta. Diversis nominibus illud Newtonus insignivit, scilicet auræ æthereæ, materiæ cælorum, et atmosphæræ*. Aliis in locis summus philosophus asseruit, et variis iisque gravissimis rationibus assertum stabilivit, \"cœlos re-sistentia destitui\"; quo posito, hæc aura ætheræ non potest esse non rarissima; et materia cælorum nihil aliud quam vapores longe tenuissimi. Corpus solis ingenti atmosphæræ pondere premi, non defunt argumenta quæ nobis fidem faciant; et ex macularum solarium phænomenis certum est, eam, unà cum corpore solis, circa axem spatio $25\\frac{1}{3}$ dierum rotari. Quòd si hæ maculæ triduo diutius pone solem latent quam se se nobis conspicendi præbent, ut a quibusdam observatum est, necesse est altæ sint supra solis superficiem parte $\\frac{1}{7}\\frac{1}{7}$ diametri solaris; et ad hanc minimum altitudinem porrigi solis atmos-\n\n* Vide perioden citatam sub Prob. IV. in qua Auctor has voces promiscue usurpâsse videtur; faltem non præcise inter eas distinxit.\n\n† Wolfius in Astron. macularum solarium altitudinem multo majorem justo aestimavit, scil. $\\frac{3}{4}$ diametri solis: manifesto errore; ponendo sinum versum 10 graduum æqualem 15 centefinis partibus radii, cum revera sit æqualis tantum 15 millesimis.\nphæram, par est credere. Cometa anni 1680 in periheilio minus distabat a sole quàm parte sexta diametri solis; et in vicinia illa, ex auctoris clarissimi sententia *, resistentiam nonnullam sentire debuit. Sed quæ sit illius atmosphærae altitudo, hucusque incomptum est. Verisimile videtur, eam intra modicos terminos contineri. Etenim, si ad orbes planetarum pertingeret, caudæ cometicae per eos transeuntes, impulsu illius gyranitis tanquam vento validissimo raptae, ab occasu in ortum detorquerentur. Atqui medium, de quo quaestio est, eousque extendi oportet, quo cauda cometæ cujuvis pullulare incepit. Hic locus orbibus mercurii et veneris, immo et ipsius terræ †, superior est. Tam immanis autem amplitudo atmosphærae solis concedi nequit.\n\nQuid de re tam obscura statuendum sit, incertus hæreo; hæc tantum rata habens, medium hocce tenuissimum esse, et quam facililime rarescere; paulo autem densius esse prope solem quam ulterius, terminumque ejus extra sphæram orbis magni esse locandum; item, non modo non rotatum vertigine quali corpus solis, sed et summe quietum esse ac tranquillum. Denique, non absimile videtur, caudarum materiam longe magis volatilem esse quàm exhalationes e corporibus quibuslibet terrenis aut planetaribus elicitas.\n\nII.\n\nQuibus usibus inserviant cometarum caudæ, id est alia quaestio, explicatu difficillima. Censuit Newto-\n\n* Princip. p. 525.\n† Constat ex phænomenis cometæ anni 1680. Alii cometæ hunc terminum ad orbem usque martis, aut supra, forsan amoveant. Sed hoc non exploravi.\n\nVol. LVII.\nus \"eas * ad conservationem marium et humorum\n\"in planetis requiri, ex quibus in planetas attractis\n\"et cum eorum atmosphæris mixtis, quicquid li-\n\"quoris per vegetationem et putrefactionem consu-\n\"mitur, et in terram aridam convertitur, continuo\n\"suppleri et refici possit.\" Verùm cùm, ipso judi-\nce †, \"perexigua quantitas aëris et vaporum ad om-\n\"nia caudarum, etiam si spatia immensa occupantium,\n\"phænomena sufficiat\"; et cùm hujus quantitatis\nperexiguæ perexigua tantum pars in unumquem-\nque planetam incidere queat (ni mea fallat opinio in\nSchol. 2. Prob. IV. prolata), ambigi potest an hic sit\ne præcipuis cometarum finibus. Sed nihil statuo.\nAliorum esto judicium.\n\n* Princip. p. 515.\n† Id. p. 513.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105941.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 25,
+    "total-input-tokens": 36808,
+    "total-output-tokens": 11933,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        734,
+        2
+      ],
+      [
+        734,
+        734,
+        3
+      ],
+      [
+        734,
+        1969,
+        4
+      ],
+      [
+        1969,
+        3190,
+        5
+      ],
+      [
+        3190,
+        4719,
+        6
+      ],
+      [
+        4719,
+        6118,
+        7
+      ],
+      [
+        6118,
+        7625,
+        8
+      ],
+      [
+        7625,
+        9306,
+        9
+      ],
+      [
+        9306,
+        11056,
+        10
+      ],
+      [
+        11056,
+        12552,
+        11
+      ],
+      [
+        12552,
+        14212,
+        12
+      ],
+      [
+        14212,
+        15848,
+        13
+      ],
+      [
+        15848,
+        17235,
+        14
+      ],
+      [
+        17235,
+        18665,
+        15
+      ],
+      [
+        18665,
+        19994,
+        16
+      ],
+      [
+        19994,
+        21525,
+        17
+      ],
+      [
+        21525,
+        23286,
+        18
+      ],
+      [
+        23286,
+        25030,
+        19
+      ],
+      [
+        25030,
+        26796,
+        20
+      ],
+      [
+        26796,
+        28413,
+        21
+      ],
+      [
+        28413,
+        29937,
+        22
+      ],
+      [
+        29937,
+        31421,
+        23
+      ],
+      [
+        31421,
+        32956,
+        24
+      ],
+      [
+        32956,
+        33663,
+        25
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "None",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105941",
+    "title": "Cogitata de Cometis. Communicated by Benjamin Franklin, LL.D. F. R. S.",
+    "authors": "Benjamin Franklin",
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 25,
+    "jstor_url": "https://www.jstor.org/stable/105941"
+  }
+}

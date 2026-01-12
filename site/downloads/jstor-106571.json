@@ -1,0 +1,59 @@
+{
+  "id": "fcd6e84482d035d30bfdc6fb9a8bd4c97fe4db51",
+  "text": "II. Observations on the Obscuration of the Star Algol, by Palitch, a Farmer. Communicated in a Letter from the Count de Bruhl, F. R. S. to Sir Joseph Banks, Bart. P. R. S.\n\nRead November 13, 1783.\n\nSIR,\n\nI AVAIL myself of the permission you gave me, when I had the honour to meet you yesterday in the Drawing-room, by sending you the following short account, which was transmitted to me by Mr. Canzler, one of the Elector's Librarians, dated Dresden the 10th of October. Palitch, a farmer of Prolitz, a village in the neighbourhood of that Residence, saw the greatest obscuration of Algol on the 12th of September, at eight o'clock, P. M. On the 2d and 5th of October he observed the same phenomenon again. On the 5th the greatest diminution of that star's light happened some minutes before seven, when he judged it nearly of the size of a star of the fourth magnitude: it continued increasing in brightness till a quarter past ten in the evening, at which time it had entirely recovered its usual brilliancy and size. From his own observations he estimates the period of that remarkable phenomenon at 2 days 20 hours 53 minutes.\n\nI have the honour to be, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106571.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 358,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1160,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106571",
+    "title": "Observations on the Obscuration of the Star Algol, by Palitch, a Farmer. Communicated in a Letter from the Count de Bruhl, F. R. S. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Palitch, Count De Bruhl",
+    "year": 1784,
+    "volume": "74",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106571"
+  }
+}

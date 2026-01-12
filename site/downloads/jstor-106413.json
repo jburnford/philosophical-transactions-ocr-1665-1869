@@ -1,0 +1,139 @@
+{
+  "id": "17d0a848e61f5efb4cdcc5d99f2ff9ab9234ad34",
+  "text": "XIII. Account of an Iconantidiptic Telescope, invented by Mr. Jeaurat, of the Academy of Sciences of Paris. Communicated by John Hyacinth de Magellans, F. R. S.\n\nRead January 19, 1778:\n\nMr. Jeaurat, of the Royal Academy of Sciences of Paris, having discovered a construction of the Iconantidiptic Telescope, thought proper to communicate to the Royal Society of London a short description of this new invention.\n\nThis Telescope is called the Iconantidiptic Heliometer, because it produces two images of the objects, the one in a direct position, and the other reversed. These two images,\n\nConstruction d'une lunette Iconantidyptique inventée par Mr. Jeaurat, de l'Academie Royale des Sciences de Paris.\n\nM. Jeaurat, de l'Academie Royale de Paris, ayant imaginé une construction de lunette Iconantidyptique, croit devoir communiquer à la Société Royale de Londres l'exposition succincte de cette nouvelle invention.\n\nLa lunette est appelée Heliometre Iconantidyptique parce qu'elle représente deux images des objets, l'une dans une situation droite et l'autre dans une situa-\nimages, of opposite situation to each other, are exactly of the same size, and produce the effect of shewing the stars as entering at once both on the right and left sides of the Telescope. The first coincidence of the two images on the side of each other gives the passage of the first limb; the exact coincidence of the two images upon one another gives the passage of the center of the star; and the last coincidence of the two images at the side of each other gives the passage of the second edge: from whence it follows, that we not only observe as usual the passage of the two sides of the disk of a star, but also the direct passage of the center of the star: an observation which could not before be made in a direct manner. Besides, it may observed, that this invention obviates the difficulty of illuminating the threads of the Telescope in observing very\n\nCes deux images de situation opposée l'une à l'autre sont exactement de la même grandeur et produisent l'effet de voir tout à la fois entrer les astres par la droite et par la gauche de la lunette. La première coincidence des deux images à côté l'une de l'autre donne le passage du premier bord, la coincidence exacte des deux images l'une sur l'autre donne le passage du centre de l'astre, et la dernière coincidence des deux images l'une à côté de l'autre donne le passage du second bord, d'où il suit que non seulement on observe comme à l'ordinaire le passage des deux bord du disque d'un astre, mais aussi le passage direct du centre de l'astre: observation qui n'a jusqu'à présent pu se faire d'une manière directe. D'ailleurs on remarquera que cette invention supplée à la difficulté d'éclairer les fils de la lunette lorsqu'il est question d'observer de très petites étoiles, car avec cette construction\nvery small stars, for in this construction there is no occasion to see the threads.\n\nThe following is the construction of this Iconantidiptic Telescope, which I have already made use of, and which appears to be proper for observations made in the plane of the Meridian.\n\nThat the solution may be applicable to Telescopes, it is proper that \\( AD = AZ \\), \\( AB = az \\).\n\nThen put \\( AD = F \\) the focal distance of the lens \\( A \\),\n\\( ab = f \\) the focal distance of the lens \\( a \\),\n\\( AA = F - f \\),\n\\( AB = AA - AB = F - 2f \\),\n\nconstruction on n’a pas besoin de voir les fils.\n\nVoici la construction de cette lunette Iconantidyptique dont je me suis déjà servie et qui me paraît commode pour les observation faites dans le plan du Meridien.\n\nPour que la solution soit aussi appliquable aux oculaires il convient que \\( AD = AZ \\), \\( AB = az \\).\n\nAlors on fera \\( AD = F \\) foyer de la lentille \\( A \\),\n\\( ab = f \\) foyer de la lentille \\( a \\),\n\\( AA = F - f \\),\n\\( AB = AA - AB = F - 2f \\).\nan Iconantidiptic Telescope.\n\n\\[ BC = x, \\]\n\\[ CD = y, \\]\n\\[ \\phi \\text{ the focal distance of the lens } c. \\]\n\nHence\n\n\\[\n\\begin{align*}\nBD &= AD + AB = 2 \\times F - f, \\\\\nBD &= BC + CD = x + y.\n\\end{align*}\n\\]\n\nThe two values of \\( BD \\) evidently give, 1st, \\( x + y = 2 \\times F - f \\).\n\nThat the image \\( B \\), given by the lens \\( a \\), be seen at the distance \\( BC \\); and that the direction of the ray \\( BHD \\) may form a relative focus in \\( D \\), whose distance may be equivalent to \\( AD \\), it is necessary that \\( aB \\times CD = AD \\times BC \\), namely,\n\n2dly, \\( fy = fx \\).\n\nThat the object \\( B \\), seen in the direction \\( BH \\), may form a focus in \\( D \\), it is necessary that the focal distance of the lens:\n\n\\[ BC = x; \\]\n\\[ CD = y; \\]\n\\[ \\phi \\text{ foyer de la lentille } c. \\]\n\n\\[\n\\begin{align*}\nBD &= AD + AB = 2(F - f), \\\\\nBD &= BC + CD = x + y.\n\\end{align*}\n\\]\n\nLes deux valeurs de \\( BD \\) donnent évidemment, 1°, \\( x + y = 2(F - f) \\).\n\nPour que l'image \\( B \\), donnée par la lentille \\( a \\), soit vue à la distance \\( BC \\); et pour que la direction du raion \\( BHD \\) forme un foyer relatif en \\( D \\), dont le foyer équivalent soit \\( AD \\); il faut (voyez l'optique de Smith de la Traduction de l'Abbé Rochon, p. 278. art. 245.) dis-je que \\( aB \\times CD = AD \\times BC \\) savoir, 2°, \\( fy = fx \\).\n\nPour que l'objet \\( B \\) vu selon la direction \\( BH \\), forme un foyer en \\( D \\), il faut que\nlens c (namely, the distance $\\phi$) have this condition,\n\n$$\\phi \\times BD = BC \\times CD,$$\n\nviz. 3dly, $2\\phi \\times F - f = xy.$\n\nFrom these three conditions, viz.\n\n$$\\begin{align*}\n1^\\circ & \\quad x + y = 2 \\times F - f, \\\\\n2^\\circ & \\quad fy = fx, \\\\\n3^\\circ & \\quad 2\\phi \\times F - f = xy,\n\\end{align*}$$\n\nwe easily and incontrovertibly find what follows:\n\n$$BC = x = \\frac{2f(F - f)}{F + f},$$\n\nthe dist. from the focus B to the lens CH,\n\n$$CD = y = \\frac{2f(F - f)}{F + f},$$\n\nthe dist. of the relative focus D, with respect to the two lenses a and c,\n\n$$\\phi = \\frac{2ff \\times F - f}{(F + f)^2},$$\n\nthe focal distance of the lens c.\n\nThis solution just found is general; but to adapt it to a particular case, which may be proper for practice, I shall investigate what relation ought to take place between the distances $F$ and $f$ when $\\phi$ is $= f$. This supposition\n\n---\n\nle foyer de la lentille c (savoir le foyer $\\phi$) ait cette condition ci $\\phi \\times BD = BC \\times CD$\n\nsavoir, $3^\\circ$, $2\\phi(F - f) = xy.$\n\nAvec ces trois conditions, savoir,\n\n$$\\begin{align*}\n1^\\circ & \\quad x + y = 2(F - f), \\\\\n2^\\circ & \\quad fy = fx, \\\\\n3^\\circ & \\quad 2\\phi(F - f) = xy,\n\\end{align*}$$\n\non trouve facile et incontestablement ce qui suit.\n\n$$BC = x = \\frac{2f(F - f)}{F + f},$$\n\ndistance du foyer B à la lentille CH,\n\n$$CD = y = \\frac{2f(F - f)}{F + f},$$\n\nle foyer relatif D, à l’égard des deux lentilles a et c,\n\n$$\\phi = \\frac{2ff(F - f)}{(F + f)^2},$$\n\nfoyer de la lentille c.\n\nCette solution qu’on vient de trouver est générale. Mais afin d’adopter un cas particulier, qui soit commode à pratiquer, je vais chercher les rapports, que doivent\nfition gives $\\phi = \\frac{2ff \\times f - f}{f - f} = f$; from which we easily and incontestably extract the relation sought, *videlicet*, $F = \\sqrt{5 + 2} \\times f$; or this, which comes to the same thing, $f = (\\sqrt{5 - 2}) \\times F$.\n\nBut $\\begin{cases} \\sqrt{5 + 2} = 4.2361 \\\\ \\sqrt{5 - 2} = 0.2361 \\end{cases}$ Therefore for the case in which $\\phi = f$, we have $F = 4.2361 f$ The relation of the focal dist.\n\nThe\n\ndoivent avoir entre eux les foyers $F$ et $f$ dans le cas où l'on auroit $\\phi = f$. Cette supposition donne $\\phi = \\frac{2ff (f - f)}{(f + f)^2} = f$; d'où l'on tire facilement et incontestablement le rapport cherché que voici $F = (\\sqrt{5 + 2}) f$; ou bien celui ci qui revient au même que le precedent $f = (\\sqrt{5 - 2}) F$.\n\nMais $\\begin{cases} \\sqrt{5 + 2} = 4.2361 \\\\ \\sqrt{5 - 2} = 0.2361 \\end{cases}$ donc pour les cas où $\\phi = f$, on a $F = 4.2361 f$ rapport des foyers.\n\nApplication\nMr. JEaurat's Account of\n\nThe Application of the general Formula to the particular case of the equal lenses a and c.\n\nLet \\( AD = F \\), the focal distance of the lens A,\n\\( AB = f = 0.2361 F \\), the focal dist. of the lenses a and c,\n\\( aA = F - f = 0.7639 F \\), the dist. between these lenses,\n\\( AB = F - 2f = 0.5278 F \\), distance,\n\\( BD = 2 \\times \\frac{F - f}{F + f} = 1.5278 F \\), distance,\n\\( BC = \\frac{2f(F - f)}{F + f} = 0.2918 F \\), distance,\n\\( CD = \\frac{2F(F - f)}{F + f} = 1.2360 F \\), distance.\n\nApplication de la formule generale au cas particulier des lentilles egales a and c.\n\nSoit \\( AD = F \\), foyer de la lentille A,\n\\( AB = f = 0.2361 F \\), foyer des lentilles a and c.\n\\( aA = F - f = 0.7639 F \\), distance entre ces lentilles,\n\\( AB = F - 2f = 0.5278 F \\), distance,\n\\( BD = 2(F - f) = 1.5728 F \\), distance,\n\\( BC = \\frac{2f(F - f)}{F + f} = 0.2918 F \\), distance,\n\\( CD = \\frac{2F(F - f)}{F + f} = 1.2360 F \\), distance.\nThe numerical application of the particular case of the equal lenses \\(a\\) and \\(c\\).\n\nLet \\(AD = F = 1728\\) lines, \\[ab = 0.2361 F = 408 \\text{ lines},\\] \\[AB = 0.5278 F = 912 \\text{ lines},\\] \\[AA = 0.7639 F = 1320 \\text{ lines},\\] \\[AD = ab + BD = 1.7639 F = 3048 \\text{ lines},\\]\n\nThen we shall have\n\n| Ft. | In. |\n|-----|-----|\n| 12  | 0   |\n| 2   | 10  |\n| 6   | 4   |\n| 9   | 2   |\n| 21  | 2   |\n\nIt is from this particular case, in which \\(\\phi = f\\), and \\(f = F \\times \\sqrt{5 - 2} = 0.23607 F\\), that the following table is constructed.\n\n---\n\nApplication numérique du cas particulier des lentilles égales \\(a\\) et \\(c\\).\n\nSoit \\(AD = F = 1728\\) lignes, \\[ab = 0.2361 F = 408 \\text{ lignes},\\] \\[AB = 0.5278 F = 912 \\text{ lignes},\\] \\[AA = 0.7639 F = 1320 \\text{ lignes},\\] \\[AD = ab + BD = 1.7639 F = 3048 \\text{ lignes},\\]\n\nAlors on aura\n\n| P. | P. |\n|----|----|\n| 12 | 0  |\n| 2  | 10 |\n| 6  | 4  |\n| 9  | 2  |\n| 21 | 2  |\n\nC'est d'après ce cas particulier, où l'on suppose \\(\\phi = f\\), et que \\(f = F (\\sqrt{5 - 2}) = 0.23607 F\\), qu'est construite la table qui suit.\n| Focal distance of the lens A and the equivalent AD | Focal distances of the lenses A and C, and distance CA from the 2d lens C to the third A | Distance AC from the first lens A to the second A | Whole distance AD | Distance from the 2d lens C to the focus B |\n|---------------------------------------------------|-------------------------------------------------|---------------------------------|------------------|------------------------------------------|\n| Fr. ft. In. | Fr. ft. In. Lin. | Fr. ft. In. Lin. | Fr. ft. In. Lin. | Fr. ft. In. Lin. |\n| 0 1         | 0 3             | 0 6           | 0 9             | 0 1 9            |\n| 0 2         | 0 6             | 0 1 1         | 0 1 6           | 0 3 6            |\n| 0 3         | 0 8             | 0 1 7         | 0 2 3           | 0 5 3            |\n| 0 4         | 0 1 1           | 0 2 1         | 0 3 1           | 0 7 1            |\n| 0 5         | 0 1 2           | 0 2 8         | 0 3 10          | 0 8 10           |\n| 0 6         | 0 1 5           | 0 3 2         | 0 4 7           | 0 10 7           |\n| 0 7         | 0 1 8           | 0 3 8         | 0 5 4           | 0 1 0 4          |\n| 0 8         | 0 1 11          | 0 4 3         | 0 6 1           | 0 2 1            |\n| 0 9         | 0 2 1/2         | 0 4 9         | 0 6 10 1/2      | 0 3 10 1/2       |\n| 0 10        | 0 2 4 1/2       | 0 5 3         | 0 7 8           | 0 5 8            |\n| 0 11        | 0 2 7           | 0 5 10        | 0 8 5           | 0 7 5            |\n| 1 0         | 0 2 10          | 0 6 4         | 0 9 2           | 0 9 2            |\n| 2 0         | 0 5 8           | 1 0 8         | 1 6 4           | 3 6 4            |\n| 3 0         | 0 8 6           | 1 7 0         | 2 3 6           | 5 3 6            |\n| 4 0         | 0 11 4          | 2 1 4         | 3 0 8           | 7 0 8            |\n| 5 0         | 1 2 2           | 2 7 8         | 3 9 10          | 8 9 10           |\n| 6 0         | 1 5 0           | 3 2 0         | 4 7 0           | 10 7 0           |\n| 7 0         | 1 7 10          | 3 8 4         | 5 4 2           | 12 4 2           |\n| 8 0         | 1 10 8          | 4 2 8         | 6 1 4           | 14 1 4           |\n| 9 0         | 2 1 6           | 4 9 0         | 6 10 6          | 15 10 6          |\n| 10 0        | 2 4 4           | 5 3 4         | 7 7 8           | 17 7 8           |\n| 11 0        | 2 7 2           | 5 9 8         | 8 4 10          | 19 4 10          |\n| 12 0        | 2 10 0          | 6 4 0         | 9 2 0           | 21 2 0           |\n\n---\n\n**Mr. Jeaurat's Account of, &c.**",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106413.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 15956,
+    "total-output-tokens": 4641,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1075,
+        2
+      ],
+      [
+        1075,
+        2854,
+        3
+      ],
+      [
+        2854,
+        3854,
+        4
+      ],
+      [
+        3854,
+        5291,
+        5
+      ],
+      [
+        5291,
+        6955,
+        6
+      ],
+      [
+        6955,
+        7877,
+        7
+      ],
+      [
+        7877,
+        8826,
+        8
+      ],
+      [
+        8826,
+        9909,
+        9
+      ],
+      [
+        9909,
+        12504,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106413",
+    "title": "Account of an Iconantidiptic Telescope, Invented by Mr. Jeaurat, of the Academy of Sciences of Paris. Communicated by John Hyacinth de Magellans, F. R. S.",
+    "authors": "Mr. Jeaurat, John Hyacinth De Magellans",
+    "year": 1779,
+    "volume": "69",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/106413"
+  }
+}

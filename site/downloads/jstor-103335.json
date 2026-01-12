@@ -1,0 +1,89 @@
+{
+  "id": "78f52f7e49379d1db4b0d6370daa7ebf6d152e4c",
+  "text": "I. Inventio Curve quam Corpus descendens brevissimo tempore describeret; urgente Vi Centripetâ ad datum punctum tendente, quae crescat vel decrecat juxta quamvis Potentiam distantiae à Centro; dato nempe imo Curve puncto & altitudine in principio Casus. Per Joh. Machin, Astron. Profess. Gresh. & Reg. Soc. Secret.\n\nSit centrum Virium C, (Fig. 1.2), quo centro ad distantiam CB æqualem altitudini unde Corpus cadurum est, descriptur Circulus B E G, & fiat angulus B C G rectus. Ponatur A punctum Curve infimum, ubi axi C B occurrat ad datam distantiam C A. Oportet invenire punctum Q, ubi Curva celerrimi descensus E Q A occurrit circulo Q F, ad datam aliam distantiam C F. Problema hoc duos habet Casus, quorum alter pendet ab Hyperbola & Circulo, alter ab Ellipsi & Circulo.\n\nCas. 1. Si fuerit Vis centripeta reciproce ut distantia à Centro. Sit KLM (Fig. 1.) Hyperbola quævis rectangula centro C & Asymptota C B descripta, quæ accurat normalibus B K, A M super ipsam B C ad puncta B, A erectis, in K & M; ordinatæ vero cuilibet intermediae F L ad punctum F erectæ, in L. Fiat C D ad C G ut √A F L M ad √A B K M, & sit D H normalis super CG: dein capiatur Sector RCB ad Arcam HDCB ut data Area Hyperbolica A B K M ad datum Rectangulum C A × A M. Tum recta R C occurret circulo F Q in puncto Q, quod quidem est ad Curve celerrimi descensus E Q A.\nHabebitur autem punctum E, à quo inciperet Corporis casus, capiendo Sectorem BGE ad Aream Quadrantis BCG, in eadem ratione Areae Hyperbolicae ABKM ad rectangulum sub CA & AM contentum.\n\nCoroll. Hinc si recta RC, circa centrum C revoluta, faciat Sectores RCB proportionales Arcis HDCB, in quibus quadrata Basium CD sumuntur in progressionem Arithmetica: tum rectae CR intersecabunt Curvam EQA ad distantias à centro CQ, quae decrescant in progressionem Geometrica.\n\nCas. 2. Si vero Vis centripeta fuerit reciproce ut alia quaevis Potestas distantiae à centro; sit \\( n + 1 \\) Index istius Potestatis (ubi \\( n \\) potest esse Numerus quilibet integer vel fractus, affirmativus vel negativus) sitque \\( H = CB \\) altitudo maxima Curvae quaesitae EQA, \\( h = CA \\) altitudo minima ejusdem, & \\( A = CF \\) altitudo alia quaevis intermedia. Fig. 2.\n\nIn recta CG capiatur CD ad CB ut \\( \\sqrt{h^n} \\) ad \\( \\sqrt{H^n} \\), atque etiam CH ad CD ut \\( \\sqrt{A^n - h^n} \\) ad \\( \\sqrt{H^n - h^n} \\). Centro C, semiaxibus CD, CB, describatur Ellipsis BLD, cui occurrat ordinatim applicata HL in puncto L; & ducatur recta LK, quae Ellipsin tangat in L, & Axi minori CD producto conveniat in K: dein Tangenti KL parallela ducatur NM, circulum BEMG tangens in M & ipsi CD occurrens in N. Denique capiatur Sector RCB, qui sit ad Aream NMBLKN, inter Circulum & Ellipsin & utriusque Tangentes rectamque NK comprehensam, in ratione Numeri binarii ad Numerum \\( n \\). Tum recta RC intersecabit Circulum FQ in puncto Q, quod erit ad Curvam celeerrimi Descensus EQA.\n\nQuod si fiat Sector BCE ad aream BDG, inter Ellipsoes & Circuli Quadrantes interceptam, in ratione dicta Binarii ad Numerum \\( n \\), coeuntibus scilicet punctis LD & M, G; (ob \\( A^n = H^n \\)) erit punctum E unde inchoa-\nchoaretur Casus Corporis brevissimo tempore descendentis ad A, descensuque suo Curvam EQA describentis, quam tangit recta CE in E, quamque ad angulos rectos secat CB in A.\n\nHarum Constructionum Demonstrationes è Celebrimi D. Newtoni Quadraturis, ejusdemque Philos. Nat. Principiis (Prop. XXXIX. & sequentibus aliquibus) petitae, alià datà occasione ostendentur. Problema autem est alterius generis, Describere Curvas per quas Corpora, de puncto summo E, seu principio casus, demissa, celelrimo descensu ad inferiora data puncta Q, urgente qualibet Vi centripeta, ferrentur; cujus quidem solutio in potestate est. In praesentia sufficiat generalem hujusmodi Curvarum tradidisse Ideam, earumque ad Circuli & Hyperbolæ Quadraturas relationes indicasse, absque quibus easdem Geometricae construire haud adeo proclive est.\n\nII. De",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103335.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8300,
+    "total-output-tokens": 1447,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1348,
+        3
+      ],
+      [
+        1348,
+        3115,
+        4
+      ],
+      [
+        3115,
+        3940,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103335",
+    "title": "Inventio Curvae Quam Corpus Descendens Brevissimo Tempore Describeret; Urgente Vi Centripeta ad Datum Punctum Tendente, Quae Crescat Vel Decrescat Juxta Quamvis Potentiam Distantiae a Centro; dato Nempe Imo Curvae Puncto & Altitudine in Principio Casus. Per Joh. Machin, Aftron. Profess. Gresh. & Reg. Soc. Secret.",
+    "authors": "Joh Machin",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103335"
+  }
+}

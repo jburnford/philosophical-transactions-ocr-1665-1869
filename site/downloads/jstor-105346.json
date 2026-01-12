@@ -1,0 +1,109 @@
+{
+  "id": "8f71827257f4ac78c7145c1452ea8958189878d7",
+  "text": "I. The greatest Effect of Engines with uniformly accelerated Motions considered. By Francis Blake, Esq; F.R.S.*\n\nRead June 24, 1756.\n\nTHE writers, I have met with, upon the maximum of Engines, or the greatest effect possible in any given time, have supposed the working parts of the machine to retain their direction, and be uniformly moved by the force of a current. They have therefore considered only the case of an uniform Rotation, as in the action of grinding; where the impediments and impulses being brought to a balance, the impulses are but sufficient to prevent a decay in the generated motion. And, upon that view of the Problem, the load of an Engine, when\n\n* The distance of time betwixt the reading of this paper, and its now appearing in the Transactions, was owing to the absence of the author, and his desire to reconsider it before it went to the press.\nthe effect is a maximum, and the force a current, is determined by computation to be four ninths of the weight which would cause the Engine to rest. This, then, being suited only to an uniform velocity both in the lever and obstacle, I would consider the case of an uniformly accelerated one in repeated vibrations. The maximum which corresponds to it is adapted to the steam-engine, and of no less importance to be determined than the other. And, no doubt, these speculative inquiries into mechanical subjects, were they even barely considered as our guides in experiment, may appear to deserve the attention of the Society. But indeed, and I ingenuously confess it, an opportunity to make some remarks upon what I formerly laid before you, concerning the proportion of the cylinders, was a further inducement to the present research.\n\nA general expression for the time of a stroke in such vibratory Engines, will lead us without trouble to a computation of their effects.\n\nLet AD be a lever, whose Brachia are \\(a\\) and \\(b\\), and supposed without weight. Let \\(m\\) be a Power, and \\(n\\) a weight. Then \\(a : b :: n : \\frac{bn}{a}\\), the balance for \\(n\\) at A, and \\(m - \\frac{bn}{a}\\) is the effective force at A, which multiplied by the lever \\(a\\) gives \\(ma - nb\\) for the efficaciousness of that force in the angular velocity of the Power and weight. Now, by the principles of Mechanics, the Inertia of any bodies revolving\nvolving about a Center is as the quantities of matter into the squares of the Brachia; and in the present case, therefore, the whole Inertia of \\( m \\) and \\( n \\) is as \\( ma^2 + nb^2 \\). Hence then, and because the velocity generated in a given particle of time is as the Force directly and Inertia inversely, we have \\( \\frac{ma - nb}{ma^2 + nb^2} \\) as the accelerating force, or the measure of the angular velocity of the Power and weight at the end of the said given particle of time. And I use the angular velocity, because the arbitrary proportions in the lengths of the Brachia which may form an Equilibrium will not alter the expression. But again, the times of descent by means of uniform forces, thro' a given space, are inversely as the square roots of the accelerating forces, or measures of the velocities generated in a given particle of time; and therefore\n\n\\[\n\\sqrt{\\frac{ma^2 + nb^2}{ma - nb}}\n\\]\n\nis a general expression for the time of a stroke. This being had, the solution is easy; for, supposing \\( n \\) only to be variable, say as\n\n\\[\n\\frac{n}{\\sqrt{\\frac{ma^2 + nb^2}{ma - nb}}} = \\frac{1}{a}, \\text{ a constant or given time: } n \\sqrt{\\frac{ma - nb}{ma^2 + nb^2}} = \\frac{am}{b} \\sqrt{\\frac{a}{b} + \\frac{3a - b}{4b}}\n\\]\n\nthe effect in time \\( t \\), ex hypoth. the greatest effect which can possibly be produced in the said given time. Taking, then, as usual, the Fluxion equal 0, we have, after a proper reduction, \\( 2a^3m^2 - 3a^2mnb + amnb^2 - 2n^2b^3 = 0 \\), and \\( n = \\frac{am}{b} \\sqrt{\\frac{a}{b} + \\frac{3a - b}{4b}} \\)\n\nTherefore, in these sorts of Engines, when the Brachia are given, the weight:\nPower :: \\[ \\frac{a}{b} \\sqrt{\\frac{a}{b} + \\frac{(3a-b)^2}{4b^2}} - \\frac{a \\times 3a-b}{4b^2} : 1; \\] and if the Brachia are equal, i.e. if \\( a = b \\), the weight : power :: \\( \\sqrt{\\frac{5}{4}} - \\frac{1}{2} : 1 \\), viz. 0.618 : 1 nearly when the effect is a maximum. And so, in like manner, when \\( b, m \\) and \\( n \\) are given, and \\( a \\) is made variable, it is easy to see that, instead of the load, the best distance of the power from the fulcrum of the lever will be the result of the process; viz. \\( a : b :: n + \\sqrt{n^2 + mn} : m \\). But, this by the way.\n\nIn the proportion here determined, the power \\( m \\) is a weight, and therefore \\( ma - nb \\), which is the generating force, being partly employed to overcome the Inertia of the quantity of matter \\( m \\), it is not wholly taken up in giving motion to the weight \\( n \\); and the relative velocity is continually decreasing. But, on the other hand, if \\( m \\) be the force of a spring, as is that of our atmosphere, or if \\( n \\) can be uniformly accelerated any how, in repeated vibrations, that there may be no sensible diminution of the relative velocity, the whole will be exerted on the weight to be raised; i.e. the tension of the rope or chain, by which the power is confined to act on the weight, will always be the same as tho' the Beam were at rest; and then, by expunging \\( ma^2 \\) out of the expression for the greatest effect, \\( n \\sqrt{\\frac{ma - nb}{ma^2 + nb^2}} \\) becomes evidently enlarged to \\( n \\sqrt{\\frac{ma - nb}{nb^2}} \\). The consequences are these. 1st, The greatest effect of this engine when \\( m \\) is a spring, will always exceed the cotemporary effect where \\( m \\) is a weight. 2dly, The proportion of the Power and weight will then be\nbe \\( n : m :: a : 2b \\), as appears by taking the fluxion of \\( n \\sqrt{\\frac{ma - nb}{nb^2}} = 0 \\), and reducing the equation in the manner above. Whence the load to be raised for the greatest effect of a steam-engine, if the Inertia of the materials composing its working parts be put out of the question, will be just half of what is sufficient to balance the atmosphere, whether the Brachia of the lever be equal or not.\n\nPermit me now to trouble you with two or three remarks on what I formerly laid before you concerning the proportion of the cylinders. And, 1st, in all values of the Brachia, with regard to their lengths, and all values of \\( n \\), the expression \\( \\sqrt{\\frac{ma^2 + nb^2}{ma - nb}} \\) for the time of a stroke, when \\( m \\) is a weight, is the general expression to be used for the time. 2dly, \\( m \\) being considered as a spring, the time of a stroke is as \\( \\sqrt{\\frac{nb^2}{ma - nb}} \\); and then if, according to what I have there directed, \\( a \\) be taken variable, and \\( m \\) the reciprocal of \\( a \\), the advantages to be gained by the breadth of the cylinder can only arise from a diminution of friction, and from the matter in the Beam; for, the expression \\( \\sqrt{\\frac{nb^2}{ma - nb}} \\) becomes constant, and thence the strokes are isochronal. I might, furthermore, proceed to examine into these advantages, more explicitly than is there done, upon the principles laid down, when \\( m \\) is a weight. But many particulars (such as the form of the Brachia and various appendages, with their quantities of matter and centers of gyration)\ngyration) being wanting to perfect the Theory of the construction, I shall drop the inquiry when I have made only one remark more. It is this. The shortness of the Brachia diminishes the resistance of the Engine to motion; and, therefore, the inequality which I proposed in them was in part to avail myself of that obvious advantage, without incurring the inconvenience of enlarging the pump-bores. I say it is an obvious advantage; for, the matter in the Brachia, that the Equilibrium may be preserved, being inversely as their lengths, and the resistance to motion in the direct ratio of the squares of those lengths, the resistance of the longer arm is to that of the shorter as the lengths of them directly.\n\nQueen-square, Westminster,\nJune 22, 1756.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105346.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 10608,
+    "total-output-tokens": 2310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        873,
+        2
+      ],
+      [
+        873,
+        2305,
+        3
+      ],
+      [
+        2305,
+        3942,
+        4
+      ],
+      [
+        3942,
+        5690,
+        5
+      ],
+      [
+        5690,
+        7275,
+        6
+      ],
+      [
+        7275,
+        8029,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105346",
+    "title": "The Greatest Effect of Engines with Uniformly Accelerated Motions Considered. By Francis Blake, Esq; F. R. S.",
+    "authors": "Francis Blake",
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/105346"
+  }
+}

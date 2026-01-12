@@ -1,0 +1,59 @@
+{
+  "id": "109ba06b37678a0725cb1cef3d33e3d022f61e2d",
+  "text": "An Extract of a Letter Written from Rome, dated the 16th. of November last, to Signior Sarotti, concerning a Discovery made upon the Inundation of the Tevere. Translated out of the Italian.\n\nI believe you have already heard how the Inundation of our River has done several considerable Mischiefs all about this City, spoiling several fine Houses, and very large Aqueducts, by breaking down their conduits, &c. It has in several Places, (especially without this City) by breaking the Ground, discovered Vaults unknown before, great part of them full of earthen Urns, and Sepulchers, but of no great consideration, by the Inscriptions they had upon them: Only in a Place within two Miles of this City, where there was some great antient Ruines, the Water having pierced a strong thick Wall which joyned to a great Country Palace, and passing under the same, broke out at a corner of an Aqueduct by the said House, where there was found a small Vault of an Oval Figure, in which there was a Stone Sepulcher pretty large, with the following Inscription P. M. R. C. cum Uxore, and more, which could not be discerned; By this same there was a great earthen Urn shut up very close, which being opened, there came out such a strong Smoake, that it made the Man that was by it almost giddy: the Smell was like Bitumen, but being quickly dispersed they found in the bottom of the said Urn an earthen Pot made up as a Lamp, full of a Materia Oleosa, which by degrees, as the cold Air got into it, grew hard.\n\nSeveral persons suppose this to be one of those perpetual Lamps that the Antients mention: For my part, I cannot give yet my Judgment; but after that the business shall be better examined, I shall give you a further Account of it; intending to go myself to see it, because the Gentleman in whose Palace it was found is my good Friend.\n\nA Re-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101869.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 496,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1839,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101869",
+    "title": "An Extract of a Letter Written from Rome, Dated the 16th. of November Last, to Signior Sarotti, concerning a Discovery Made upon the Inundation of the Tevere. Translated out of the Italian",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101869"
+  }
+}

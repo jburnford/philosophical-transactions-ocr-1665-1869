@@ -1,0 +1,59 @@
+{
+  "id": "284b168bfb253f8371534ea6c6df9797424b623e",
+  "text": "and also directed that a letter be written to the Count, acquainting him of this acceptance; returning him thanks for the liberal donation, and assuring him that the conditions annexed to it will be strictly adhered to.\n\nERRATA.\n\nPage 158, 3d line from the bottom, for fig. 8. read fig. 10.\nPage 205, l. 14, for \"there was no appearance of conception in the uterus; no placenta;\" read \"there was no other appearance of conception in the uterus; no other placenta;\" &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106926.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 186,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        468,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106926",
+    "title": "Errata",
+    "authors": null,
+    "year": 1797,
+    "volume": "87",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106926"
+  }
+}

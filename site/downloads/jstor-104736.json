@@ -1,0 +1,59 @@
+{
+  "id": "9b04f22e246470dc8d162006d87d9e185491d6a3",
+  "text": "at Sea is so disproportionate to what it must encounter under so many more Fathoms of Earth, that a more violent Return will rather open and discharge itself there, than do us any considerable Mischief at Land.\n\nXXIX.\n\nExtract of a Letter from Mr. Benj. Cooke F. R. S. to Mr. Peter Collinson, F. R. S. of a Shock of an Earthquake felt in the Isle of Wight, March 19. 1749-50.\n\nIsle of Wight, March 26, 1750.\n\nRead March 29. 1750.\n\nBesides the Shock, which happen'd here about 6 in the Evening on the 18th Instant, as has been mention'd in the public Prints from many neighbouring Places, there was another, which was felt by some betwixt 3 and 4 o'Clock next Morning: But whether this latter was as extensive as the former, I cannot yet learn.\n\nIn the Evening Shock, a Gentleman of my Acquaintance was sitting alone in his Parlour by the Fire with the Doors shut; the Spaniel-Dog, which lay as it were asleep before him, was so terrified at the unusual Motion, that he ran round the Room in the greatest Fright and Confusion, as endeavouring to find a Way of Escape.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104736.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1066,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104736",
+    "title": "Extract of a Letter from Mr. Benj. Cooke F. R. S. to Mr. Peter Collinson, F. R. S. of a Shock of an Earthquake Felt in the Isle of Wight, March 19. 1749-50",
+    "authors": "Benj. Cooke",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104736"
+  }
+}

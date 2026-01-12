@@ -1,0 +1,59 @@
+{
+  "id": "e43b51b9332ae0ba8874cb8d38131d9f75e5cb10",
+  "text": "H.\n\n9 8 3 Umbra ad initium Copernici.\n9 20 Per medium Copernici.\n10 32 Totus Copernicus tegitur.\n14 47 Umbra ad initium Tychonis.\n23 11 Ad initium Manili.\n26 Ad initium Platonis.\n55 Umbra per medium Platonis, & Manili.\n24 40 Totus Plato tegitur.\n39 35 Umbra ad initium Procli.\n40 18 Umbra ad Hermetem.\n41 0 Totus Proclus tegitur.\n31 Ad initium Maris Crisium.\n44 20 Per medium Maris Crisium.\n46 15 Fotum Mare Crisium obumbratur.\n49 3 Totalis Lunæ immersio in Umbrâ.\n\nVII. An Eclipse of the Moon observed in Fleet-\nstreet, London, Nov. 20, 1732, at Night,\nby Mr. Geo. Graham, F.R.S.\n\nThe Beginning at 8 1 30 apparent Time.\nImmersion 8 59 30\nEmerion 10 38 00\nEnd 11 37 00\n\nObserved with a small Telescope about 18 Inches\nlong, which magnifies about 13 times.\n\nN.B. Mr. Hodgson at Christ's-Hospital, with a\n4 Foot Telescope, observed the Beginning at\n& H. 1 ½, and the End 11 H. 36' ½.\n\nVIII. The",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103823.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 416,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        892,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103823",
+    "title": "An Eclipse of the Moon Observed in Fleet-Street, London, Nov. 20, 1732, at Night, by Mr. Geo. Graham, F. R. S.",
+    "authors": "Geo. Graham",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103823"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "5585c0a75331580cb971b94909dae759200e4d8e",
+  "text": "XXV. Extract of a Letter from Mr. Lexel to Dr. Morton.\nDated Petersburg, June 14, 1774.\n\nRedde, Mar. 16, 1775.\n\nAs I propose to make some researches concerning the difference of the meridians of the principal Observatories of Europe, which I am persuaded can best be ascertained by the occultations of the fixed stars by the Moon; it would be of great service to me to be furnished with the observations that have been made, or that will be made, this year, of the occultations of $\\alpha$ or of $\\gamma$ Tauri by the Moon. I beg, therefore, sir, you will please to desire Mr. Maskelyne to communicate them to me, towards the beginning of the next year, directed to Mr. Euler, secretary of our Academy. It would also be of great use to me to have the observation of the occultation of the Pleiades by the Moon the 15th of March, 1766, in case it has been taken at Greenwich.\n\nHere are some observations of Mr. Wargentin, of the occultations of $\\alpha$ and $\\gamma$ Tauri.\nThe following are my observations.\n\n1773, Nov. 11 56 12 Emerision of α, uncertain to some seconds.\n1774, Jan. 22 6 0 26½ Immersion of the eye of γ, both very certain.\n7 15 51 Emerision,\nFeb. 18 6 39 51 Immersion of γ, very certain.\n7 19 33 Emerision, within two seconds.\n\nI have lately discovered two curious theorems, which I shall here communicate to the Royal Society.\n\n**THEOREM.**\n\nLet A, B, C, D, E, F, be a polygon whose sides are named a, b, c, d, e, f; and the exterior angles α, β, γ, δ, ε, ξ, so that the side a be placed between the angles α and β, b between β, γ, &c.\n\n\\[ a \\times \\sin(\\alpha) + b \\times \\sin(\\alpha + \\beta) + c \\times \\sin(\\alpha + \\beta + \\gamma) + d \\times \\sin(\\alpha + \\beta + \\gamma + \\delta) + e \\times \\sin(\\alpha + \\beta + \\gamma + \\delta + \\epsilon) + f \\times \\sin(\\alpha + \\beta + \\gamma + \\delta + \\epsilon + \\xi) = 0. \\]\n\\[a \\times \\text{cofin. } a + b \\times \\text{cof. } (a + \\beta) + c \\times \\text{cof. } (a + \\beta + \\gamma) + d \\times \\text{cof. } (a + \\beta + \\gamma + \\delta) + e \\times \\text{cof. } (a + \\beta + \\gamma + \\delta + \\epsilon) + f \\times \\text{cof. } (a + \\beta + \\gamma + \\delta + \\epsilon + \\zeta) = 0.\\]\n\nIn fact it is \\(\\sin. (a + \\beta + \\gamma + \\delta + \\epsilon + \\zeta) = \\sin. 360^\\circ = 0\\), and \\(\\cos. (a + \\beta + \\gamma + \\delta + \\epsilon + \\zeta) = +1\\); but in order to give the same form to the two expressions, I rather chose to represent them as I have done. By means of these two theorems the solution of polygons will be as easy as that of triangles by common trigonometry.\n\nXXVI. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106196.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 950,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        973,
+        2
+      ],
+      [
+        973,
+        1839,
+        3
+      ],
+      [
+        1839,
+        2547,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106196",
+    "title": "Extract of a Letter from Mr. Lexel to Dr. Morton. Dated Petersburg, June 14, 1774",
+    "authors": "Mr. Lexel",
+    "year": 1775,
+    "volume": "65",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106196"
+  }
+}

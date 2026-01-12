@@ -1,0 +1,59 @@
+{
+  "id": "4aa236ee7432d555657673dc8bc316469c85f9b8",
+  "text": "An endeavour to throw light upon that principle, has not been the object of the present lecture; I have only attempted to state some circumstances respecting the mechanism employed in producing muscular motion, leaving to others the prosecution of this most intricate and difficult inquiry.\n\nERRATA.\n\nPage 42, line last, for C, read c.\nPage 115, line last but one, instead of B. ad H. perhaps it should have been B. ad C.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106950.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 156,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        421,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106950",
+    "title": "Errata",
+    "authors": null,
+    "year": 1795,
+    "volume": "85",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106950"
+  }
+}

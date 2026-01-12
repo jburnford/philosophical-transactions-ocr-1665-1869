@@ -1,0 +1,69 @@
+{
+  "id": "8dddff4db8f9d7aaac109bb818b60c21b3400237",
+  "text": "XXIV. A Letter from Mr. James Yonge, F. R. S. to Dr. Hans Sloane, R. S. Secr. containing the Case of a Woman who had her Menses regularly to 70 Years of Age.\n\nPlymouth, July 17. 1713.\n\nSIR,\n\nAt Lamerton, fifteen Miles from this Town, dy'd lately a Woman of Eighty six Years old; who to the Age of seventy had her Menses plentiful and regular. At that time they ceased, and soon after followed the like Flux from the Hemorrhoids, which continued till she got on the wrong side of Fourscore.\n\nShe was till then healthful and strong, of a vigorous Aspect, smooth, plump, and florid in Countenance, like one not half so Old: Her Appetite was very good; her Intellects clear and sound; and her sight so perfect, that she could to the last thread a Needle, and read small Print without Glasses.\n\nWhen that Flux ceased, she became Gouty; and about one Year before she dy'd, there arose an Apostumation on one of her Wrists, which open'd, and discharged much chalky Matter and some Stones. The Day she dy'd, she arose out of her Bed; and after performing some Christian Devotions, expired.\n\nShe was never sick before the Hemorrhoidal Flux stopp'd, except once at Exeter, where she was born, and then lived, she became infected with what they called the Plague: It ended in a critical Abscess in one of the Emunctories; and which is very strange, during all the time of\nof that Sickness, she nursed a Male Child, who is yet alive, and one of our Faculty; from whom I have this Relation.\n\nThis History will afford occasion to divers Speculations; which I will not attempt to anticipate, but refer them to the Royal Society. I am, &c.\n\nJames Yonge.\n\nXXV. The Description of a Tartarian Plant, call'd Gin-seng; with an Account of its Virtues. In a Letter from Father Jartoux, to the Procurator General of the Missions of India and China. Taken from the Tenth Volume of Letters of the Missionary Jesuits, Printed at Paris in Octavo, 1713\n\nPeking, April 12. 1713.\n\nReverend Father,\n\nThe Map of Tartary, which we made by Order of the Emperor of China, gave us an Opportunity of seeing the famous Plant Gin-seng, so much esteem'd in China, and so little known in Europe. Towards the end of July 1709, we arrived at a Village not above four small Leagues distant from the Kingdom of Corea, which is inhabited by those Tartars called Calcatatze. One of these Tartars went and found upon the Neighbouring Mountains four Plants of the Gin-seng, which he brought us entire in a Basket: I took one of them, and designed it, in its exact Dimensions as well as I could",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103198.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 738,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1361,
+        2
+      ],
+      [
+        1361,
+        2544,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103198",
+    "title": "A Letter from Mr. James Younge, F. R. S. to Dr. Hans Sloane, R. S. Secr. Containing the Case of a Woman Who Had Her Menses Regularly to 70 Years of Age",
+    "authors": "James Yonge",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103198"
+  }
+}

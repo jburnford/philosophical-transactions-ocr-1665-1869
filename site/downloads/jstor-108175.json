@@ -1,0 +1,69 @@
+{
+  "id": "e9db4b55afb2c3375c81a20bc3d43103ca59d632",
+  "text": "Note of Mr. Ivory relating to the correcting of an error in a Paper printed in the Philosophical Transactions for 1838, pp. 57, &c.\n\nIn the paper referred to* it is said, \"Let V stand for the integral in the equation (7.), and supposing that \\( p \\) and \\( r^2 \\) vary so as always to satisfy that equation, we shall have\n\n\\[\n\\frac{dV}{dp} dp + \\frac{d^2V}{dr^2} = 0.\n\\]\n\nNow the error alluded to consists in having given a wrong sign to the differential \\( \\frac{dV}{dr^2} \\), the value of which, as has been said, is modified, in the question under consideration, by the equation (7.). This mistake vitiates the concluding part of the paper in pp. 63, 64, 65, as far as relates to the limits of the quantities \\( p \\) and \\( r^2 \\). M. Liouville has done the author of the paper the honour of noticing and correcting the mistake in his Journal de Mathématiques for April 1839. When the sign of the differential is rightly ascertained, the analysis pursued in the paper leads to a simple determination of the limits sought, as this Note will prove, the propriety of printing which in the Philosophical Transactions is submitted to the Council.\n\nFor the sake of abridging expressions, put\n\n\\[\n\\Delta^2 = (1 + px^2)^2 + r^2 x^2, \\quad P^2 = (1 + p)^2 + r^2;\n\\]\n\nthen\n\n\\[\n(1 - x^2)(1 - p^2 x^2) = \\Delta^2 - P^2 x^2.\n\\]\n\nBy substituting this value in equation (7.),\n\n\\[\nV = \\int_0^1 \\frac{x^2 dx}{\\Delta} - P^2 \\int_0^1 \\frac{x^4 dx}{\\Delta^3},\n\\]\n\n\\[\n\\frac{dV}{dr^2} = -3 \\int_0^1 \\frac{x^4 dx}{\\Delta^3} + 3 P^2 \\int_0^1 \\frac{x^6 dx}{\\Delta^5};\n\\]\n\nand hence\n\n\\[\nV + \\frac{P^2}{3} \\cdot \\frac{dV}{dr^2} = \\int_0^1 \\frac{x^2 dx}{\\Delta} \\left(1 - \\frac{P^2 x^2}{\\Delta^2}\\right)^2;\n\\]\n\nwhich proves that the same values of \\( p \\) and \\( r^2 \\) that make \\( V = 0 \\), will necessarily make \\( \\frac{dV}{dr^2} \\) positive.\n\nFurther, we have\n\n\\[\n\\frac{dV}{dp} = -\\int_0^1 \\frac{x^4 (1 - x^2) dx}{\\Delta^5} \\left\\{ (3 + 2p - p^2 x^2)(1 + px^2) + 2pr^2 x^2 \\right\\};\n\\]\n\nfrom which it follows that, whatever positive number \\( r^2 \\) stands for, \\( \\frac{dV}{dp} \\) is negative for\n\n* Philosophical Transactions, 1838, p. 63.\nall values of \\( p \\) that make \\( 3 + 2p - p^2 \\) positive, that is, for all values of \\( p \\) less than 3.\n\nThe function \\( V \\) is positive when \\( p = 1 \\); it is zero when \\( p = l^2 \\) and \\( r^2 = 0 \\). And, if we suppose that \\( p \\) decreases from \\( l^2 \\) to 1, while \\( r^2 \\) increases from 0 to \\( \\infty \\), the differential equation (A.) will in no instance be verified; because, according to what has been shown, both the terms of the equation will be positive between the limits mentioned. Thus there is no value of \\( p \\) less than \\( l^2 \\) that will verify the equation (7.).\n\nIt is proved in the paper (p. 62) that for every assumed value of \\( r^2 \\), there is a positive value of \\( p \\), that will verify the equation (7.); and, as it has now been shown that the values of \\( p \\) which verify that equation cannot be less than \\( l^2 \\), they must be all greater than \\( l^2 \\).\n\nFurther, in the differential equation (A.), \\( \\frac{dV}{dp} \\) cannot be zero; because, \\( r^2 \\) increasing without limit, \\( \\frac{V}{r^2} \\cdot r \\cdot dr \\) is essentially positive. Now, for all values of \\( p \\) between \\( l^2 \\) and 3, \\( \\frac{dV}{dp} \\) is negative; wherefore the same function will continue to be negative in the equation (A.) for all values of \\( p \\) and \\( r^2 \\): and as \\( \\frac{dV}{dp} \\cdot dp \\) is also negative, \\( dp \\) must be positive, so that \\( p \\) will increase above \\( l^2 \\) without limit.\n\nIf the sign of \\( \\frac{dV}{dp} \\) be changed, the result will be positive; and hence, observing that \\( x \\) is contained between 0 and 1, we obtain a condition between any two values of \\( p \\) and \\( r^2 \\) that satisfy the equation (7.), namely, the expression\n\n\\[\n(3 + p - p^2)(1 + p) + 2pr^2\n\\]\n\nmust be a positive quantity, or, which is the same thing,\n\n\\[\nr^2 > (p^2 - p + 3) \\cdot \\frac{1 + p}{2p}.\n\\]\n\nJ. Ivory.\n\nJuly 25, 1839.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108175.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 1441,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2122,
+        2
+      ],
+      [
+        2122,
+        4004,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108175",
+    "title": "Note of Mr. Ivory Relating to the Correcting of an Error in a Paper Printed in the Philosophical Transactions for 1838, PP. 57, etc.",
+    "authors": "J. Ivory",
+    "year": 1839,
+    "volume": "129",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/108175"
+  }
+}

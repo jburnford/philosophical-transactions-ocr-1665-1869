@@ -1,0 +1,119 @@
+{
+  "id": "335e152de5e3095564fa3c1a6805a81c7826ffc8",
+  "text": "XVII. Note respecting the demonstration of the binomial theorem inserted in the last volume of the Philosophical Transactions.\n\nBy Thomas Knight, Esq. Communicated by Taylor Combe, Esq. Sec. R. S.\n\nRead April 17, 1817.\n\nIn looking into Mr. Spence's ingenious \"Essay on Logarithmic Transcendents,\" a work published in 1809, but which I have been so unfortunate as never to have seen till within the last fortnight, I was not a little surprised to find that a demonstration of the binomial theorem, similar to the one I had the honour to present to the Royal Society, had been already given by that writer. The same may be said of the first proposition of the preceding Paper on the construction of Logarithms.\n\nHaving made this acknowledgment, I shall perhaps be pardoned for observing, that Mr. Spence is not particularly happy in the manner of developing the kind of functions he treats of in his preface. I shall endeavour to give the solution of a class of equations of which he (Pref. p. vii.) has considered a particular case: with this we will begin.\n\nIt is proposed to develope the function which has this property, viz.\n\n\\[ \\varphi(1+x) + \\varphi(1+y) + \\varphi(1+z) = \\varphi(1+x.1+y) + \\varphi(1+x.1+z) + \\varphi(1+y.1+z) - \\varphi(1+x.1+y.1+z). \\]\n\nAssume \\( \\varphi(1+x) = A + A'x + A''x^2 + A'''x^3 + \\ldots + A''''x^n + \\), and after making the requisite substitutions in the given\nequation, we see immediately that $A = 0$, and that $A'$ and $A''$ are arbitrary. Then, to find the law of the coefficients, in this and other similar cases, where there are any number of independent quantities, $x, x', x'', \\ldots, x'^{n}$, transpose all the equation to one side, and find the coefficient of the first power of $x'^{n-1}$ in the former coefficient, then again, in this last, the coefficient of the first power of $x'^{n-2}$: and having arrived in this manner at the coefficient of $x'$, it will have the form $a + bx + cx^2 + \\ldots + rx^n$, and the equation $r = 0$ will give the law sought for.\n\nIn the present case, putting $\\rho = x + (1 + x)z$, $\\sigma = 1 + x + (1 + x)z$, we find, by equalling to $0$ the coefficient of the first power of $y$,\n\n$$0 = A' + 2A''(x + z) + 3A'''(x^2 + z^2) + \\ldots + (n + 1)A''^{(n+1)}(x^n + z^n) + \\ldots + nA'^{n}$$\n\n$$- A'\\sigma - 2A''\\sigma\\rho - 3A'''\\sigma\\rho^2 - \\ldots - (n + 1)(A''^{(n+1)}\\sigma\\rho^n)$$\n\nIf in this we equal to $0$ the coefficient of the first power of $z$, there arises $0 = 2A'' - A'x - 2A''(1 + 3x + 2x^2)$\n\n$$- 3A'''(2x + 5x^2 + 3x^3)$$\n\n$$- 4A''''(3x^2 + 7x^3 + 4x^4)$$\n\n$$\\ldots \\ldots \\ldots \\ldots \\ldots$$\n\n$$- nA'^{n}(n - 1 \\cdot x^{n-2} + 2n - 1 \\cdot x^{n-1} + nx^n)$$\n\n$$\\ldots \\ldots \\ldots \\ldots \\ldots$$\n\nwhence we find for the general law of the coefficients ($n > 2$),\n\n$$n(n - 1)A''^{n} + 2n - 3 \\cdot n - 1 \\cdot A''^{(n-1)} + (n - 2)^2A''^{(n-2)} = 0 \\ldots \\ldots (1)$$\n\nFrom which let us suppose that we have calculated a few of the coefficients, and arrived at the result of Mr. Spence, viz.\nof the binomial theorem.\n\n\\[ \\phi(1+x) = A'(x - \\frac{x^3}{2\\cdot3} + \\frac{5x^4}{2\\cdot3\\cdot4} - \\ldots) + A''L^2(1+x) \\ldots (2) \\]\n\nnothing can be easier than to find the value of the remaining series; for it is quite obvious, from the equation expressing the property of the function, that \\( L(1+x) \\) is a particular value of \\( \\phi(1+x) \\). The same also appears from equation (1), in which, if we put \\( A''...(n-2) = \\frac{1}{n-2}, A''...(n-1) = \\frac{-1}{n-1}, A'...n = \\frac{1}{n} \\), the left hand member vanishes.\n\nMake then, in equation (2), \\( A' = 1, A'' = \\frac{-1}{2} \\), and it becomes\n\n\\[ L(1+x) = x - \\frac{x^3}{2\\cdot3} + \\frac{5x^4}{2\\cdot3\\cdot4} - \\&c. - \\frac{1}{2}L^2(1+x), \\text{ whence} \\]\n\n\\[ x - \\frac{x^3}{2\\cdot3} + \\frac{5x^4}{2\\cdot3\\cdot4} - \\&c. = L(1+x) + \\frac{1}{2}L^2(1+x), \\text{ and finally} \\]\n\n\\[ \\phi(1+x) = A'\\left\\{ L(1+x) + \\frac{1}{2}L^2(1+x) \\right\\} + A''L^2(1+x) \\]\n\nLet us now endeavour to develope the function next in order of the same class, viz. \\( \\phi(1+x) \\), having the following property,\n\n\\[ \\phi(1+w) + \\phi(1+x) + \\phi(1+y) + \\phi(1+z) = \\phi(1+x\\cdot1+y) \\]\n\n\\[ + \\phi(1+x\\cdot1+z) + \\phi(1+y\\cdot1+z) + \\phi(1+w\\cdot1+x) + \\phi(1+w\\cdot1+y) + \\phi(1+w\\cdot1+z) - \\ldots \\ldots (3) \\]\n\n\\[ \\phi(1+x\\cdot1+y\\cdot1+z) = \\phi(1+w\\cdot1+y\\cdot1+z) - \\phi(1+w\\cdot1+x\\cdot1+y\\cdot1+z) \\]\n\nAssume \\( \\phi(1+x) = A + A'x + A''x^2 + \\ldots \\ldots + A''...n x^n + \\) and make the requisite substitutions; we shall find \\( A = 0, A', A'' \\) arbitrary. Then to have the law of the coefficients, find, according to the rule, the coefficient of \\( x \\) in the coefficient of \\( z \\) in the coefficient of \\( y \\), and, comparing in this the coefficients of the powers of \\( w \\), we find\n\nMDCCCXVII. K k\n\\[ n(n-1)(n-2)A'' \\ldots + 3(n-1)(n-2)^2 A'' \\ldots (n-1) + (3 \\cdot n-2^2 \\cdot n-3 \\\\\n+ n-2)A'' \\ldots (n-2) + (n-2 \\cdot n-3 \\cdot n-4 + n-3)A'' \\ldots (n-3) = 0 \\]\n\nIf we take successively 4, 5, 6, &c. for \\( n \\) we find\n\n\\[\n\\varphi(1+x) = A' \\left\\{ x - \\frac{1}{24} x^4 + \\frac{9}{120} x^5 - \\right\\} \\\\\n+ A'' \\left\\{ x^2 - \\frac{7}{12} x^4 + \\frac{11}{12} x^5 - \\right\\} \\\\\n+ A''' \\left\\{ x^3 - \\frac{3}{2} x^4 + \\frac{7}{4} x^5 - \\right\\}\n\\]\n\nThe series at bottom is \\( L^3(1+x) \\); the series next above it is \\( L^2(1+x) + L^3(1+x) \\). To find the upper series we have the same means as in the last Problem, \\( L(1+x) \\) being a particular value of \\( \\varphi(1+x) \\); make then \\( A' = 1, A'' = -\\frac{1}{2}, A''' = \\frac{1}{3} \\); our equation becomes \\( L(1+x) = x - \\frac{1}{24} x^4 + \\frac{9}{120} x^5 - \\)\n\n\\[- \\frac{1}{2} \\left\\{ L^2(1+x) + L^3(1+x) \\right\\} \\\\\n+ \\frac{1}{3} L^2(1+x) \\]\n\nwhence \\( x - \\frac{1}{24} x^4 + \\frac{9}{120} x^5 - \\ldots \\text{&c.} = L(1+x) + \\frac{1}{2} L^2(1+x) \\\\\n+ \\frac{1}{6} L^3(1+x) \\), and\n\n\\[\n\\varphi(1+x) = A' \\left\\{ L(1+x) + \\frac{1}{2} L^2(1+x) + \\frac{1}{6} L^3(1+x) \\right\\} \\\\\n+ A'' \\left\\{ L^2(1+x) + L^3(1+x) \\right\\} \\\\\n+ A''' L^3(1+x)\n\\]\n\nwhich is the complete solution of the proposed equation.\n\nAs, however, this result has been obtained by the inspection of only a few terms of two series, a doubt may be entertained with respect to its truth: make therefore \\( w = x = y = z \\), in equation (3), it will become \\( 4\\varphi(1+x) = 6\\varphi(1+x)^2 \\\\\n- 4\\varphi(1+x)^3 + \\varphi(1+x)^4 \\), which by the substitution of the\nvalue found above for $\\phi(1+x)$ is found to be identical, and the truth of the solution is proved.\n\nWe may now attempt the solution of the general problem, viz. Let $x, x', x'', x''', \\ldots, x'''\\cdots$ be independent quantities; it is required to find $\\phi(1+x)$ from the following equation,\n\n$$\\sum \\phi(1+x'''\\cdots) = \\sum \\phi(1+x'''\\cdots \\cdot 1+x'''\\cdots n) - \\sum \\phi(1+x'''\\cdots \\cdot 1+x'''\\cdots r) +$$\n\n$$\\sum \\phi(1+x'''\\cdots \\cdot 1+x'''\\cdots n \\cdot 1+x'''\\cdots r \\cdot 1+x'''\\cdots s) - \\sum \\phi(1+x'''\\cdots \\cdot 1+x'''\\cdots n \\cdot 1+x'''\\cdots r \\cdot 1+x'''\\cdots s) + \\&c.$$\n\nAssume as usual $\\phi(1+x) = A + A'x + A''x^2 + A'''x^3 + \\&c.$; but instead of attempting to find the law of the coefficients, we may easily convince ourselves that $\\phi(1+x)$ will have the following form, viz.\n\n$$\\phi(1+x) = A' \\left\\{ L(1+x) + \\alpha''L^2(1+x) + \\alpha'''L^3(1+x) + \\right.$$ $$\\alpha''''L^4(1+x) + \\ldots + \\alpha'''\\cdots p L^p(1+x) \\right\\}$$\n\n$$+ A'' \\left\\{ L^2(1+x) + \\beta''''L^3(1+x) + \\beta'''L^4(1+x) + \\ldots + \\beta'''\\cdots p L^p(1+x) \\right\\}$$\n\n$$+ A''' \\left\\{ L^3(1+x) + \\gamma''''L^4(1+x) + \\ldots + \\gamma'''\\cdots p L^p(1+x) \\right\\}$$\n\n$$+ A'''\\cdots p L^p(1+x)$$\n\nThis form evidently includes, as particular solutions,\n\n$L(1+x), L^2(1+x), L^3(1+x), \\ldots, L^p(1+x):$\n\nand, by means of these particular solutions, we are enabled to find the coefficients $\\alpha'', \\alpha''', \\alpha''''$, &c., $\\beta'', \\beta''', \\beta''''$, &c., $\\gamma'', \\gamma''', \\gamma''''$, &c.\n\nFor let\n\n$$L(1+x) = x + b''x^2 + b'''x^3 + b''''x^4 +$$\n\n$$L^2(1+x) = x^2 + c''x^3 + c'''x^4 +$$\n\n$$L^3(1+x) = x^3 + d''x^4 +$$\n\n$$\\&c. \\quad \\&c.$$\nBy changing $A'$, $A''$, $A'''$, &c. into the coefficients of each of these expressions, successively, we have $p$ particular values of equation (4); viz.\n\n$$L(1+x) = L(1+x) + \\alpha''L^2(1+x) + \\alpha'''L^3(1+x) + \\alpha''''L^4(1+x) + \\ldots + \\alpha'''\\cdots p L^p(1+x)$$\n\n$$+ b'' \\{ L^2(1+x) + \\beta'''L^3(1+x) + \\beta''''L^4(1+x) + \\ldots + \\beta'''\\cdots p L^p(1+x) \\}$$\n\n$$+ b''' \\{ L^3(1+x) + \\gamma'''L^4(1+x) + \\ldots + \\gamma'''\\cdots p L^p(1+x) \\}$$\n\n$$+ b'''' \\{ L^4(1+x) + \\ldots + \\delta'''\\cdots p L^p(1+x) \\}$$\n\n$$+ b'''\\cdots p \\times L^p(1+x)$$\n\nfrom which we derive the equations $b'' + \\alpha'' = 0$, $b''' + b''\\beta''' + \\alpha''' = 0$, $b'''' + b'''y''' + b''\\beta'''' + \\alpha'''' = 0$, &c.; next we have\n\n$$L^2(1+x) = L^2(1+x) + \\beta'''L^3(1+x) + \\beta''''L^4(1+x) + \\ldots + \\beta'''\\cdots p L^p(1+x)$$\n\n$$= c''' \\{ L^3(1+x) + \\gamma'''L^4(1+x) + \\ldots + \\gamma'''\\cdots p L^p(1+x) \\}$$\n\n$$+ c'''' \\{ L^4(1+x) + \\ldots + \\delta'''\\cdots p L^p(1+x) \\}$$\n\n$$+ c'''\\cdots p \\times L^p(1+x)$$\n\nwhence we get the equations $c''' + \\beta''' = 0$, $c'''' + c'''y''' + \\beta'''' = 0$, &c.\n\nThe next particular solution is\n\n$$L^3(1+x) = L^3(1+x) + \\gamma'''L^4(1+x) + \\ldots + \\gamma'''\\cdots p L^p(1+x)$$\n\n$$+ d'''' \\{ L^4(1+x) + \\ldots + \\delta'''\\cdots p L^p(1+x) \\}$$\n\n$$+ d'''\\cdots p \\times L^p(1+x)$$\n\nwhence $d'''' + \\gamma'''' = 0$, &c. and by proceeding in the same way we have as many equations as the coefficients which are to be determined.\nSo much for the expansion of these functions.\n\nWhat Mr. Spence means by the note in page ix. of his Preface, where he speaks of the integral $\\int \\frac{dx}{x} = \\phi(x)$ an equation which is evidently impossible, I am unable to form the smallest conjecture.\n\nPapcastle, March 3, 1817.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107584.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12590,
+    "total-output-tokens": 4203,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1396,
+        2
+      ],
+      [
+        1396,
+        2997,
+        3
+      ],
+      [
+        2997,
+        4756,
+        4
+      ],
+      [
+        4756,
+        6347,
+        5
+      ],
+      [
+        6347,
+        8021,
+        6
+      ],
+      [
+        8021,
+        9494,
+        7
+      ],
+      [
+        9494,
+        9779,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107584",
+    "title": "Note Respecting the Demonstration of the Binomial Theorem Inserted in the Last Volume of the Philosophical Transactions",
+    "authors": "Thomas Knight",
+    "year": 1817,
+    "volume": "107",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/107584"
+  }
+}

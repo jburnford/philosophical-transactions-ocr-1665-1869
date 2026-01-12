@@ -1,0 +1,59 @@
+{
+  "id": "bef2921f66bbdfd08760eee7d56d4ca79bb500fa",
+  "text": "XLIV. An Account of the said Comet; by Mr. Mark Day.\n\nSIR, Lowick, near Thrapston, Northamptonshire.\n\nRead Jan. 17, 1760. I had the pleasure last night, about five o'clock, to observe a comet in the southern hemisphere, near the northmost extremity of the river Eridanus, tending its course towards Pegasus, and, near as I can guess, it will cross the ecliptic about $20^\\circ$ in Aries. It moves one degree in less than one hour and half; but seems too hasty to give the astronomers leave to make many observations upon it, unless the weather prove favourable. If there has been any accurate observation thereupon, I would gladly know; but if it has not been taken notice of, then I hope the above will be acceptable from,\n\nSIR,\n\nYour very humble servant,\n\nJan. 10, 1760. Mark Day.\n\nIt passed the meridian about 9.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105390.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 276,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        815,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105390",
+    "title": "An Account of the Said Comet; By Mr. Mark Day",
+    "authors": "Mark Day",
+    "year": 1759,
+    "volume": "51",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105390"
+  }
+}

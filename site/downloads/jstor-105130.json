@@ -1,0 +1,69 @@
+{
+  "id": "d07509f018ece852bb71cc0d0fd5a70af7ba0c70",
+  "text": "XVI. A Comparison of different thermometrical Observations in Siberia; by Mr. Wm. Watson, F. R. S.\n\nRead March 15, 1753.\n\nAccording to the thermometrical observations made by Monf. Demidoff, at Soliskamsky, on the borders of Siberia, latit. 59, in the year 1751, the greatest degree of cold was upon Nov. 9, at 7 in the morning, when the thermometer, according to Fahrenheit's scale stood at 34 degrees below 0; which is 66 under the freezing point. This degree of cold, tho' much greater than what is ever observed in these parts, is little, when compared with the accounts given us by Professor Gmelin, in the introduction to the Flora Sibirica. This gentleman, who was professor of chemistry and natural history at Petersburg, was sent with several other learned men, to inquire into the natural history of Siberia, and was attended by some students, a painter or two, a miner, and other proper attendants. He continued nine whole years upon this expedition, and the observations he made, extraordinary as some of them are, with relation to their truth, are scarce to be doubted. The mercury in his thermometer, graduated according to De L'Isle's scale, often sunk in winter, in very southern parts of this country, as near Selinga, in lat. 48, to near 226, which is equal to 55 and a half below 0 in Fahrenheit's thermometer, and is 87 and a half below his freezing point. But the cold is often more intense than this, as appears by the experiments made at Kirenginshi,\nKenginshi, where its sharpness was so great, that Professor Gmelin with difficulty stood at the door of his house, between three and four minutes.\n\nFeb. 10, 1738, at 8 in the morning, the mercury stood at 240 degrees in De L'Isle; which is 72 below 0 in Fahrenheit. At the same place in 1736, Dec. 11, at 3 p.m. 254 in De L'Isle, almost 90 below 0 in Fahrenheit. Dec. 20, at 4 o'clock, p.m. 263 in De L'Isle = 90 \\(\\frac{44}{100}\\) below 0 in Fahrenheit.\n\nJan. 9, 1735, 12 at noon, 275 = 113 \\(\\frac{65}{100}\\).\n\nJan. 6, 6 in the morning, 280 = 120 below 0 in Fahrenheit, and 152 below his freezing point.\n\nSuch an excess of cold could scarcely have been supposed to exist, had not these experiments demonstrated the reality of it; and Professor Gmelin affirms us, they were made with all possible exactness, and agree with many others made in different parts of Siberia by his direction.\n\nIt was not apprehended, that a greater degree of cold existed anywhere, than that artificial one produced by Boerhaave, by means of ice and concentrated spirit of nitre, which sunk the mercury 40 degrees below 0 in Fahrenheit's thermometer; and this was supposed to be the point, beyond which no animal could bear it: and Mr. Gmelin's relation is the more extraordinary, as the French academicians under the polar circle mention the greatest degree of cold, observed by them, to be by Reaumur's thermometer 37 degrees, which nearly corresponds with 70 degrees below the 0 in Fahrenheit's.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105130.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 900,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1474,
+        2
+      ],
+      [
+        1474,
+        2952,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105130",
+    "title": "A Comparison of Different Thermometrical Observations in Sibiria; By Mr. Wm. Watson, F. R. S.",
+    "authors": "Wm. Watson",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105130"
+  }
+}

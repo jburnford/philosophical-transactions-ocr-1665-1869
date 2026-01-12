@@ -1,0 +1,79 @@
+{
+  "id": "3cecb765bb888e47ac5ff236c3c7cc73037e4ca4",
+  "text": "Haec habui, quae, Invitationis tuae finem respiciens ad Te, Vir Ornatisissime, scriberem. Una etiam cum Epistolâ hâc, integrae Ephemerides, (quibus singulorum Dierum Observationes inae, qua ratione Invitatio tua fert, consignantur) Tibi tradentur, tamquam specimen; ex quo, si Deus dederit, ut post aliquot annos quaedam alia in formam hanc colligam, intelligere facile queas, me tuae Methodo in scribendis observationibus adhaesisse. Si quid frugis in Observationibus hisce aliquando reperietur, Tibi, tuisque de optimis Artibus meritis tribuendum erit. Vale.\n\nPatavij, Kal. Jun.\ncio iocc xxxi.\n\nV. An Account of a Book entituled, J. P. Breynij M. D. &c. Historia Naturalis Cocci Radicum Tinctorij, quod Polonicum vulgo audit. 4to Gedani, 1731. Cum Figuris coloribus nativis pictis. By Richard-Middleton Massey, M.D. F.R.S. and Honorary Fellow of the College of Physicians.\n\nThe Author (after having briefly accounted for the two Kinds of the Cocci Tinctorij now in Use, viz. that of Pliny collected from the Ilex, and the American Coccus, or Cochinil) proceeds to give us the Natural History of the Coccus Polonicus, which\nwhich he calls *Radicum*, because it is chiefly found adhering to the *Roots* of the *Polygonum Cocciferum*, *Kosmaczeb Polonis C B.* This he takes to be the *Polygonum Germanicum, incaenum, flore majore perenni Raij*. Of which he has given a Print with the *Cocci*, as they stick to the Roots.\n\nThe *Coccus* he says, is found sometimes single, sometimes more, even forty adhering to one Plant, of different Sizes, from a Poppy-seed to that of a white Pepper-corn. It is roundish, smooth, and of a Purple Violet Colour, and in a thin Cuticle inclofes a Blood-red *Succus*: One Half or more of it is covered with a rough, dark, brown Crust, by which it adheres to the Roots.\n\nThe Countrymen gather it about *Midsummer*, and dry it with a slow Fire in Earthen Platters.\n\nSeveral of these *Cocci* he exposed to the Sun in open Glasses, and found that by the 24th of July every one, according to its Size, had excluded a small Worm with six Feet. That Part which seemed to be the Head, had two short carnose *Antennae*; for he could not perceive with Glasses any thing like either Mouth or Eyes. On the Back Length-ways, were two *Sulci*, which were more or less visible, according to the different Motions of the *Animalculum*. Its Feet seemed armed with Claws, and the first Pair stronger and darker than the rest. The whole Worm was of an obsolete Purple Colour, and had several Britles of a brown Grey.\n\n* Kośmaczek Pilosella. Herbario Polon.\nThese, after ten or fourteen Days, lay in a State of Rest, and soon became covered with an exceeding white fine lanuginose Substance; in which Condition they continued five or eight Days longer, and then laid their Eggs, fifty, one hundred or more a-piece; which to the naked Eye appeared but like so many red oblongish Points, but with Glasses looked like Ants Eggs, almost transparent, with a diluted Blood-red Content.\n\nThese Eggs being again exposed in the Sun about Bartholomew-Tide, were hatch'd a Month after, when some Vermiculi were excluded, which in the Microscope appear'd to be Hexapods of a purplish Hue; with two Antennæ at their Head, and two greyish Bristles at their Tails, scarce visible except upon black Paper.\n\nHe supposes these last excluded Vermiculi, after some Wanderings, at last fix themselves to the Roots, and some of the lowest contiguous Branches of the Polygonum, where being deprived of local Motion and Sense, by some Way or other they imbibe that Succus from the Plant, and at last become the Coccii so called, or Vesicles full of that Blood-red Succus so useful in Dying.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104087.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1110,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1125,
+        2
+      ],
+      [
+        1125,
+        2568,
+        3
+      ],
+      [
+        2568,
+        3676,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104087",
+    "title": "An Account of a Book",
+    "authors": "Richard-Middleton Massey, J. P. Breynij",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104087"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "a60dea161c74778929ed0c111e8bc7692129fd76",
+  "text": "The Larinx, and all the parts of the Throat were as the rest of the Body, in a good and natural Condition as can be.\n\nI leave to others to explain how this Child could live, and move so long, without Brain.\n\nI keep the Bones of that Skull in my House, where any Body may have a view of it, to satisfy their Curiosity, when they please.\n\nVIII. Part of a Letter from Mons. Geoffroy, F.R.S.\nDated Paris, March 7. 1699. N.S. to Dr. Sloane,\ngiving an Account of the New Regulations of\nthe Royal Academy of Sciences, at Paris.\n\nI shall here give you an Account of the great Splendour that the Academie des Sciences has Received by the Regulations, Incouragement, and Orders, Mons. L'abbe Bignon has obtained to it from the King. That Academy is now composed of Ten honorary Academicians, which are chosen Learned and Eminent Gentlemen; of Eight Strangers associates, which are distinguished by their Learning; Twenty Pensioners Fellows, Twenty Eleves, and Twelve French Associates; out of the honorary Academicians, two are Elected every Year, one for President, the other for Vice-President; only Twenty Pensioners have every Year 1500 French Livres; and after the Death of one Pensioner, the Academy will propose to the King Three Persons Associates, or Eleves, or sometimes others; and his Majesty will call one of the Three for Pensioner.\n\nHere is the Catalogue of the Academicians, the Names of honorary and Strangers Associates, who are disposed by order of Reception; but the others are distributed into Classes, into which the Academy is divided.\n\nAcademiciens\nAcademicians 70.\n\nHonoriaires 10.\n\nPresident, M. L'abbé Bignon\n2 Prefid. M. Le Marquis de L'hôpital\nM. Le Chevalier Regnaut\nM. De Malesteux\nLe R.P. Sébastien, Carme\nLe R.P. Malbranche de L'oratoire\nLe R.P. Gouye Jésuite\nM. L'abbé de Louvois\nM. Fagon 1er Medicin du Roy\nM. De Vauban.\n\nAffocies Etrangers 8.\n\nM. Leibnitz\nM. Tschirnhaus\nM. Guillelminy\nM. Bernouilly à Basle\nM. Bernouilli à Groningue\nM. Hartsoeker\nM. Romer\nM. Newton.\n\nClasses 6.\n\nPensionnaires 20.\n\nGeometres — M. L'abbé Galois\nM. De la hire\nM. Roole\n\nAstronomes — M. Cassini\nM. Le feure\nM. Varignon\nM. Desbillettes\n\nMecaniciens — M. Geaugeon\nM. Daleme\nM. Du hamel\nM. Du Verney\nM. Merrie\n\nAnatomistes — M. Bourdelin\nM. Honberg\nM. Boulduc\nM. Dodart\nM. Marchand\nM. Tournefort\n\nSecretaire — M. De Fontenelle\nTresorier — M. Couplet\n\nElevès 20.\n\nM. Chevalier\nM. Lieutaud\nM. —\n\nM. —\n\nM. Amontons\nM. Carre\nM. Parent\nM. De Seine\nM. —\n\nM. De Litro\nM. Du Verney son frère\nM. Poupart\nM. Thuillier\nM. Geoffroy\nM. Boulduc le fils\nM. Burlette\nM. Reneaume\nM. Berger\n\nM. Simon\nM. Couplet le fils\n\nAffocies Francois 12.\n\nM. Maraldi\nM. Regis\nM. Cassini le fils\nM. De la hire le fils.\nM. De Chazelles\nM. De Lagny.\nM. Tauvory\nM. Bourdelin le fils.\n\nM. L'anglade\nM. L'Emery.\nM. Morin de Toulon.\nM. Morin de St. Vidor.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102612.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1012,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1563,
+        2
+      ],
+      [
+        1563,
+        2823,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "fr"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102612",
+    "title": "Part of a Letter from Mons. Geoffroy, F. R. S. Dated Paris, March 7. 1699. N. S. to Dr. Sloane, Giving an Account of the New Regulations of the Royal Academy of Sciences, at Paris",
+    "authors": "Mons. Geoffroy",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102612"
+  }
+}

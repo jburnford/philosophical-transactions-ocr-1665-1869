@@ -1,0 +1,69 @@
+{
+  "id": "8be5c158fedfcaf955b5299bcba4cefb77801d49",
+  "text": "3. He gives us an Enumeration of such Plants as may be comprehended under the general Name of Arum, the Characterstick whereof he makes to be a Bacciferous Plant, having a monopetalous cucullate Flower; whereof there are Four sorts called by the Names of Arum, Arisarum, Dracontium and Colocasia. Arisarum differs from Arum in being less and slenderer in all its parts. Colocasia from both, in having smooth, umbilicate Leaves, without any Spots; the Foot-stalk inserted not in the end, but in the middle of the Leaf, after the manner of the Cotolycdonei; Flowers sometimes single, sometimes more than one proceeding out of the same folliculate Foot-stalk; a Style thicker and shorter than Arum, and terminating in a slender Point. Dracontium differs from Arum and the rest, in having a Leaf deeply laciniate or divided into many Jaggs.\n\nX. Books lately Printed beyond Sea.\n\nTraite des embaumemens selon les anciens & les modernes, avec un description de quelques compositions balsamiques & odorantes. Par Louis Penicher Ancien Garde des Marchands Apotiquaires de Paris. In 12mo. 1693.\n\nLa Galleria Di Minerva Overo Notizie Universali, Di quanto e stato scritto da Letterati d'Europa non solo nel presente Secolo, ma ancora ne' già trascorsi, in qualunque materia Sacra, e Profana, Retorica, Poetica, Politica, Istorica, Geografica, Cronologica, Teologica, Filosofica, Matematica, Medica, e Legale, e finalmente in ogni Scienza, e in ogni Arte si Mecanica come Liberale. Tratte da Libri non solo Stampati, ma da stamparsi, ove oltre à quanto insegnano gli Atti di Lipsia, e d'Inghilterra, l'Efemeride di Germania, la Biblioteca Universale di Francia, ed i Giornali\nrati de' Letterati d'Italia, saranno inserite nuove curiosità, ed insegnamenti, a profitto della Republica delle Lettere, con intagli de' Rami opportuni à suoi luochi. In Venetia, 1696.\n\nEusevologia Romano, ovvero della Opere pie di Roma, accresciuto ed ampliato secondo lo stato presente; con duo trattati della Accademia Librarie celebri di Roma dell' Abbate Carlo Bartol. Piazza. 2da impressione, Roma 1698. qto.\n\nHistoria della Guerra di Brasilia fra i Portuguesi ed Hollanedi, &c. con molte charte, Roma. fol. 1698.\n\nNumismata Pontificum Romanorum quae a tempore Martini V. usque ad annum 1699. Vel authoritate publica, vel privato genio in lucem prodiere, Explicata, ac multiplici eruditione sacra, & prophana illustrata a P. Philippo Bonanni Societatis Jesu Romæ, Anno 1699. Typis Dom. Ant. Herculis in via Parionis.\n\nThe Natural History of Sicily, wrote by P. Cupani, will be soon finished; the Author is now at Messina taking care of the Graving.\n\nThe Publication of P. Roccone's Two curious Books lately mentioned in these Transactions, as well as that of Dr. Herman, having been encouraged from England, some few Copies of each of them are come over, and to be sold by Mr. Smith and Mr. Walford at the Prince's Arms in St. Paul's Church Yard, and Mr. Bateman in Paternoster-Row, Booksellers.\n\nLondon: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Church-Yard. 1699.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102595.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 982,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1665,
+        2
+      ],
+      [
+        1665,
+        3104,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102595",
+    "title": "Books Lately Printed beyond Sea",
+    "authors": null,
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102595"
+  }
+}

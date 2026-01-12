@@ -1,0 +1,59 @@
+{
+  "id": "5fbe8a175cfb26230b7f4df3e6bbf5ee646275ea",
+  "text": "Liquor, to conduct into the Ovarium, by ways unknown to me, choosing rather to publish my Weakness, than the least Error in the World.\n\nIV. Of a Venomous Scratch with the Tooth of a Porpos, its Symptoms and Cure. By Dr. Martin Lister, Fellow of the College of Physicians and R. S.\n\nFORTE ex Dissectione Delphini, ante dies Tres minimam mortui, ad modum leviter digitum vulneravi ab interna parte, at citra Sanguinem, scilicet simplici dentis rasurâ. Nihil autem mali inde sensi ad quantum usq; diem: quo tempore cum quodam livore digitus paululum intumuit ad Articulum: malum indies serpebat, adeo ut intra alios quatuor Dies digitos duos infecisset; tertiusq; tandem digitus male se habait. Plurima ex consilio Chirurgorum adhibui, at parum profuerunt; jam manus correpta est, dolorque carpum invasit, ex hoc autem fomento primum stetit. [Rx aq. spermatis ranarum 3vi, Boli Armen. 3is. f. Vitrioli albi 3iii. m.] calide bis quotidie admotum est. Item interdum alio modo [Rx Vitrioli albi combusti, Boli Armeniac an. 3iii. Camph. 3i. aq. communis tb viii. m. f. Collyrium.] Deinde Nutrito imposito, & superinjetto Emplastro ex bolo & Diapalma, convulsi ex hoc injustato ac improviso malo. Praeter livorem autem, qui satis venenum indicabat, molestus ac odiosus quidam pruritus, an igniculus dicam, me dies noctesq; vehementer angebat: cuticulam partium correptarum ex toto perdidit: digitis autem ad vires suas non nisi post aliquot Menses restituti sunt.\n\nV. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102401.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 532,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1464,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102401",
+    "title": "Of a Venomous Scratch with the Tooth of a Porpos, Its Symptoms and Cure. By Dr. Martin Lister, Fellow of the College of Physicians and R. S.",
+    "authors": "Martin Lister",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102401"
+  }
+}

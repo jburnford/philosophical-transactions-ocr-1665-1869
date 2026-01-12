@@ -1,0 +1,129 @@
+{
+  "id": "321ac4f8e6334ec7a2fbe7bd025949b772dfd392",
+  "text": "VIII.—Researches in Physical Astronomy. By J. W. Lubbock, Esq. V.P. and Treas. R.S.\n\nRead February 9, 1832.\n\nIn general, two methods present themselves of solving any mechanical problem: the one furnished by the variation of parameters or constants, which complete the integral obtained by the first approximation; the other furnished by the integration of the differential equations by means of indeterminate coefficients, or some equivalent method. Each of these methods may be applied to the theory of the perturbations of the heavenly bodies; and they lead to expressions which are, of course, substantially identical, but which do not appear in the same shape except after certain transformations.\n\nMy object in the following pages is to effect these transformations, by which their identity is established, making use of the developments of $R$ and $r \\frac{dR}{dr}$ given in the Philosophical Transactions for 1831, p. 295. The identity of the results obtained by either method serves to confirm the exactness of those expressions.\n\nIntegrating the equation\n\n$$\\frac{d^2 r^2}{2 dt^2} - \\frac{\\mu}{r} + \\frac{\\mu}{a} + 2 \\int dR + r \\left( \\frac{dR}{dr} \\right) = 0$$\n\nomitting the terms which are independent of the quantities $b$, and which result from the part of $R$ which is equal to $\\frac{rr_i \\cos (\\lambda - \\lambda_i)}{r_i^3}$, and the factor $\\frac{m_j}{\\mu}$.\n\n$$\\frac{a}{r} = \\frac{n^2}{\\{i(n-n_i)+n\\}\\{i(n-n_i)-n\\}} \\left\\{ \\frac{na}{(n-n_i)a_i} b_{1,i} + \\frac{a}{2a_i} \\frac{db_{1,i}}{da} \\right\\} \\cos i(nt-n_i t)$$\n\n$$+ \\frac{2(i+1)n^3}{(i(n-n_i)+n)(i(n-n_i)+2n)i(n-n_i)} \\left\\{ \\frac{a^2}{4a_i^2} b_{3,i-1} + \\frac{a^3}{2a_i^3} b_{3,i} \\right. - \\frac{3a^2}{4a_i^2} b_{3,i+1} \\left\\} e \\cos (i(nt-n_i t)+nt-\\varphi) \\right.$$\n\\[\n\\begin{align*}\n&+ \\frac{n^2}{(i(n-n_i) + 2n)(i(n-n_i))} \\left\\{ \\frac{i a^2}{4 a_i^3} b_{3,i-1} - \\frac{(1 + 2i)}{2} \\frac{a^3}{a_i^3} b_{3,i} \\right. \\\\\n&\\quad + \\frac{3 i a^2}{4 a_i^3} b_{3,i+1} \\bigg\\} e \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&+ \\frac{3 \\{i(n-n_i) + n\\}^2 n}{2(i(n-n_i) + 2n)(i(n-n_i))(i(n-n_i) - n)} \\left\\{ \\frac{n}{(n-n_i)} \\frac{a}{a_i} b_{1,i} \\right. \\\\\n&\\quad + \\frac{a}{2 a_i} \\frac{d b_{1,i}}{da} \\bigg\\} e \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&+ \\frac{2 i n^3}{(i(n-n_i) + n_i)(i(n-n_i) + n + n_i)(i(n-n_i) - n + n_i)} \\left\\{ -\\frac{3 a^2}{4 a_i^3} b_{3,i-1} + \\frac{a}{2 a_i} b_{3,i} \\right. \\\\\n&\\quad + \\frac{a^3}{4 a_i^3} b_{3,i+1} \\bigg\\} e_i \\cos \\left( i(n t - n_i t) + n_i t - \\varpi_i \\right) \\\\\n&+ \\frac{n^2}{(i(n-n_i) + n_i)(i(n-n_i) - n + n_i)} \\left\\{ \\frac{3 (1+i)}{4} \\frac{a^3}{a_i^3} b_{3,i-1} - \\frac{i a}{a_i} b_{3,i} \\right. \\\\\n&\\quad - \\frac{(1-i)}{4} \\frac{a^2}{a_i^2} b_{3,i+1} \\bigg\\} e_i \\cos \\left( i(n t - n_i t) + n_i t - \\varpi_i \\right)\n\\end{align*}\n\\]\n\n\\(i\\) being any whole number positive or negative, but excepting the arguments, \\(0, n t - \\varpi, n_i t - \\varpi_i\\).\n\n\\[\n\\begin{align*}\n\\frac{n^3}{(n-n_i)(i(n-n_i) + n)(i(n-n_i) - n)} &= \\frac{n}{n-n_i} \\left\\{ \\frac{n}{2(i(n-n_i) - n)} - \\frac{n}{2(i(n-n_i) + n)} \\right\\} \\\\\n&= \\frac{n i}{2(i(n-n_i) - n)} - \\frac{n}{n-n_i} + \\frac{n i}{2(i(n-n_i) + n)}\n\\end{align*}\n\\]\n\nResolving the other fractions in the same manner,\n\n\\[\n\\begin{align*}\n\\frac{a}{r} &= -\\frac{n a}{(n-n_i)^2 a_i} b_{1,i} \\cos i(n t - n_i t) \\\\\n&\\quad - \\frac{n}{2(i(n-n_i) + n)} \\left\\{ -\\frac{2 i a}{a_i} b_{1,i} - \\frac{a^3}{a_i^3} b_{3,i} + \\frac{a^2}{2 a_i^2} b_{3,i-1} + \\frac{a^2}{2 a_i^2} b_{3,i+1} \\right\\} \\cos i(n t - n_i t) \\\\\n&\\quad + \\frac{2 (i+1) n}{i(n-n_i) + n} \\left\\{ -\\frac{a^2}{4 a_i^3} b_{3,i-1} - \\frac{a^3}{2 a_i^3} b_{3,i} + \\frac{3 a^2}{4 a_i^2} b_{3,i+1} \\right\\} e \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&\\quad + \\frac{n e}{2\\{i(n-n_i) + 2n\\}} \\left\\{ (2i+2) \\left\\{ \\frac{a^2}{4 a_i^3} b_{3,i-1} + \\frac{a^3}{2 a_i^3} b_{3,i} - \\frac{3 a^2}{4 a_i^2} b_{3,i+1} \\right\\} - \\frac{i a^2}{4 a_i^2} b_{3,i-1} \\right. \\\\\n&\\quad + \\frac{(1+2i)}{2} \\frac{a^3}{a_i^3} b_{3,i} - \\frac{3 i a^2}{4 a_i^2} b_{3,i+1} \\bigg\\} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right)\n\\end{align*}\n\\]\n\\[\n\\frac{n}{2i(n-n_i)} \\left\\{ (2i+2) \\left[ \\frac{a^2}{4a_i^3} b_{3,i-1} + \\frac{a^2}{2a_i^3} b_{3,i} - \\frac{3a^2}{4a_i^3} b_{3,i+1} \\right] + \\frac{i a^2}{4a_i^3} b_{3,i} \\right\\} \\\\\n- \\frac{(1+2i)}{2} \\frac{a^3}{a_i^3} b_{3,i} + \\frac{3ia^2}{4a_i^3} b_{3,i+1} \\right\\} \\cos \\left( i(nt-n_i t) + nt - \\varpi \\right) \\\\\n+ \\left\\{ -\\frac{3n^2a}{2i(n-n_i)^2a_i} b_{1,i} + \\frac{n}{(i(n-n_i)-n)} \\left[ \\frac{2a}{a_i} b_{1,i} + \\frac{a}{a_i} \\frac{db_{1,i}}{da} \\right] \\right\\} \\\\\n- \\frac{3n}{4i(n-n_i)} \\left[ \\frac{3ib_{1,i}}{a_i} + \\frac{a}{a_i} \\frac{db_{1,i}}{da} \\right] \\\\\n+ \\frac{n}{4(i(n-n_i)+2n)} \\left[ \\frac{iab_{1,i}}{a_i} - \\frac{a}{a_i} \\frac{db_{1,i}}{da} \\right] e \\cos \\left( i(nt-n_i t) + nt - \\varpi \\right) \\\\\n+ \\frac{2in}{(i(n-n_i)+n)} \\left[ \\frac{3a^2}{4a_i^3} b_{3,i-1} - \\frac{a}{2a_i} b_{3,i} - \\frac{a^2}{4a_i^3} b_{3,i+1} \\right] e_i \\cos \\left( i(nt-n_i t) + n_i t - \\varpi_i \\right) \\\\\n+ \\frac{n}{2(i(n-n_i)-n+n_i)} \\left[ 2i \\left\\{ -\\frac{3a^2}{4a_i^3} b_{3,i-1} + \\frac{a}{2a_i} b_{3,i} + \\frac{a^2}{2a_i^3} b_{3,i+1} \\right\\} \\right. \\\\\n- \\frac{3(1+i)}{4} \\frac{a^2}{a_i^3} b_{3,i-1} + \\frac{ia}{a_i} b_{3,i} + \\frac{(1-i)}{4} \\frac{a^2}{a_i^3} b_{3,i+1} \\right\\} e_i \\cos \\left( i(nt-n_i t) + n_i t - \\varpi_i \\right) \\\\\n+ \\frac{n}{2(i(n-n_i)-n+n_i)} \\left[ 2i \\left\\{ -\\frac{3a^2}{4a_i^3} b_{3,i-1} + \\frac{a}{2a_i} b_{3,i} + \\frac{a^2}{4a_i^3} b_{3,i+1} \\right\\} \\right. \\\\\n+ \\frac{3(1+i)}{4} \\frac{a^2}{a_i^3} b_{3,i-1} - \\frac{ia}{a_i} b_{3,i} - \\frac{(1-i)}{4} \\frac{a^2}{a_i^3} b_{3,i+1} \\right\\} e_i \\cos \\left( i(nt-n_i t) + n_i t - \\varpi_i \\right)\n\\]\n\nObserving that\n\n\\[ ib_{1,i} = \\frac{a}{2a_i} \\left\\{ b_{3,i-1} - b_{3,i+1} \\right\\} \\]\n\\[ \\frac{adb_{1,i}}{da} = -\\frac{a}{a_i} \\left\\{ \\frac{a}{a_i} b_{3,i} - \\frac{1}{2} b_{3,i-1} - \\frac{1}{2} b_{3,i+1} \\right\\} \\]\n\nthe preceding expression may be put in the form\n\n\\[ \\frac{a}{r} = -\\frac{n}{(n-n_i)} b_{1,i} \\cos i(nt-n_i t) \\]\n\\[ - \\frac{n}{2(i(n-n_i)+n)} \\left\\{ -\\frac{a^2}{2a_i^3} b_{3,i-1} - \\frac{a^3}{a_i^3} b_{3,i} + \\frac{3a^2}{2a_i^3} b_{3,i+1} \\right\\} \\cos i(nt-n_i t) \\]\n\\[ + \\frac{(i+1)n}{(i(n-n_i)+n)} \\left\\{ -\\frac{a^2}{4a_i^3} b_{3,i-1} - \\frac{a^3}{2a_i^3} b_{3,i} + \\frac{3a^2}{4a_i^3} b_{3,i+1} \\right\\} e \\cos \\left( i(nt-n_i t) + nt - \\varpi \\right) \\]\n\\[\n\\frac{ne}{2(i(n-n_i)+2n)} \\left\\{ \\frac{(i+2)a^3}{4a_i^3} b_{3,i-1} + \\frac{(3+4i)a^3}{2a_i^3} b_{3,i} - \\frac{(9i+6)a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(nt-n_i t) + nt - \\varphi \\right)\n\\]\n\n\\[\n+ \\frac{ne}{2i(n-n_i)} \\left\\{ \\frac{(3i+2)a^2}{4a_i^2} b_{3,i-1} + \\frac{a^3}{2a_i^3} b_{3,i} - \\frac{(3i+6)a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(nt-n_i t) + nt - \\varphi \\right)\n\\]\n\n\\[\n+ \\left\\{ -\\frac{3n^2a}{2i(n-n_i)^2a_i} b_{1,i} + \\frac{n}{(i(n-n_i)-n)} \\left( \\frac{3a^2}{2a_i^2} b_{3,i-1} - \\frac{a^3}{a_i^3} b_{3,i} - \\frac{a^3}{2a_i^3} b_{3,i+1} \\right) \\right.\n\\]\n\n\\[\n- \\frac{3}{4i(n-n_i)} \\left\\{ \\frac{2a^2}{a_i^2} b_{3,i-1} - \\frac{a^3}{a_i^3} b_{3,i} - \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\}\n\\]\n\n\\[\n+ \\frac{n}{4(i(n-n_i)+2n)} \\left\\{ \\frac{a^2}{a_i^2} b_{3,i} - \\frac{a^3}{a_i^3} b_{3,i+1} \\right\\} e \\cos \\left( i(nt-n_i t) + nt - \\varphi \\right)\n\\]\n\n\\[\n- \\frac{ne_i}{2(i(n-n_i)+n+n_i)} \\left\\{ \\frac{(3+9i)a^2}{4a_i^2} b_{3,i-1} - \\frac{2ia}{a_i} b_{3,i} - \\frac{(1+i)a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(nt-n_i t) + n_i t - \\varphi_i \\right)\n\\]\n\n\\[\n- \\frac{ne_i}{2(i(n-n_i)-n+n_i)} \\left\\{ \\frac{(3i-3)a^2}{4a_i^2} b_{3,i-1} - \\frac{(3i-1)a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(nt-n_i t) + n_i t - \\varphi_i \\right)\n\\]\n\nand by further reductions\n\n\\[\n\\frac{\\alpha}{r} = \\left\\{ -\\frac{nab_{1,i}}{(n-n_i)a_i} - \\frac{n}{(i(n-n_i)+n)} \\left\\{ -\\frac{a^2}{4a_i^2} b_{3,i-1} - \\frac{a^3}{2a_i^3} b_{3,i} \\right. \\right.\n\\]\n\n\\[\n+ \\frac{3a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos i(nt-n_i t)\n\\]\n\n\\[\n+ \\left\\{ \\frac{(i+1)n}{(i(n-n_i)+n)} \\left\\{ -\\frac{a^2}{4a_i^2} b_{3,i-1} - \\frac{a^3}{2a_i^3} b_{3,i} + \\frac{3a^2}{4a_i^2} b_{3,i+1} \\right\\} \\right.\n\\]\n\n\\[\n+ \\frac{n}{(i(n-n_i)+2n)} \\left\\{ \\frac{(2+i)a^2}{8a_i^2} b_{3,i-1} + (1+i)\\frac{a^3}{a_i^3} b_{3,i} - \\frac{(8+9i)a^2}{4a_i^2} b_{3,i+1} \\right\\}\n\\]\n\\[ \\frac{n}{i(n-n_i)} \\left\\{ \\frac{3i-10}{8} \\frac{a^2}{a_i^3} b_{3,i-1} + \\frac{a^3}{a_i^3} b_{3,i} - \\frac{3i}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\]\n\n\\[ + \\frac{n}{(i(n-n_i)-n)} \\left\\{ \\frac{3}{2} \\frac{a^2}{a_i^3} b_{3,i-1} - \\frac{a^3}{a_i^3} b_{3,i} - \\frac{a^2}{2} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\]\n\n\\[ - \\frac{3n^2a}{2i(n-n_i)^2} \\frac{b_{1,i}}{a} e \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\]\n\n\\[ + \\left\\{ \\frac{n}{(i(n-n_i)+n_i)} \\left\\{ \\frac{3}{4} \\frac{a^2}{a_i^3} b_{3,i-1} - \\frac{a}{2a_i} b_{3,i} - \\frac{a^2}{4} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\right. \\]\n\n\\[ - \\frac{n}{(i(n-n_i)+n+n_i)} \\left\\{ \\frac{3+9i}{8} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{i}{a_i} b_{3,i} - \\frac{(1+i)}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\]\n\n\\[ - \\frac{n}{(i(n-n_i)-n+n_i)} \\left\\{ \\frac{3i-3}{8} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{(3i-1)}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\]\n\n\\[ e_i \\cos \\left( i(n t - n_i t) + n_i t - \\varpi_i \\right) \\]\n\n\\( i \\) being, as before explained, any whole number positive or negative, excluding only certain arguments, \\( 0, n t + \\varepsilon - \\varpi, \\) and \\( n t + \\varepsilon - \\varpi_i. \\)\n\nConsidering the terms which have hitherto been neglected, if we suppose\n\n\\[ \\frac{a}{r} = 1 + r_0 + e \\cos \\left( n (1+k) t + \\varepsilon - \\varpi \\right) + e f_i \\cos \\left( n (1+k_i) t + \\varepsilon - \\varpi_i \\right), \\]\n\nwe have\n\n\\[ r_0 = \\frac{a^3}{2a_i^3} b_{3,0} - \\frac{a^3}{2a_i^2} b_{3,1}, \\quad k = \\frac{a^3}{2a_i^3} b_{3,0} - \\frac{5a^2}{4a_i^2} b_{3,1}, \\quad k_i = \\frac{a^2}{4a_i^2} f_i b_{3,2}. \\]\n\nSee Phil. Trans. 1831, p. 53.\n\nIf \\( n (1 + 2 r_0) = n \\) and \\( n^2 = \\frac{\\mu}{a^3} \\) if \\( e \\) is the coefficient of \\( \\sin (n t + \\varepsilon - \\varpi) \\) in the expression for the longitude, and \\( f_i \\) is determined so that the coefficient of \\( \\sin (n t + \\varepsilon - \\varpi_i) \\) in that expression equals zero,\n\n\\[ \\frac{a}{r} = 1 - \\frac{a^3}{6a_i^3} b_{3,0} + \\frac{a^3}{12a_i^2} b_{3,1} + e \\left\\{ 1 + \\frac{a^3}{6a_i^3} b_{3,0} - \\frac{a^2}{12a_i^2} b_{3,1} \\right\\} \\cos \\left( n \\left( 1 - \\frac{a^2}{4a_i^2} b_{3,1} \\right) t + \\varepsilon - \\varpi \\right) \\]\n\n\\[ + e_i \\left\\{ \\frac{3a^2}{8a_i^2} b_{3,0} - \\frac{a}{4a_i} b_{3,1} + \\frac{a^2}{8a_i^2} b_{3,2} \\right\\} e_i \\cos \\left( n (1+k_i) t + \\varepsilon - \\varpi_i \\right) \\]\n\nIn the theory of the moon replacing \\( \\frac{m_i}{\\mu}, \\)\n\n\\[ \\frac{a}{r} = 1 - \\frac{m_i a^3}{12\\mu a^3} + e \\left\\{ 1 + \\frac{m_i a^3}{12\\mu a_i^3} \\right\\} \\cos \\left( n \\left( 1 - \\frac{3m_i a^3}{4\\mu a_i^3} \\right) t + \\varepsilon - \\varpi \\right) \\]\n\n\\[ + \\frac{3m_i a^4}{4\\mu a_i^4} e_i \\cos \\left( n (1+k_i) t + \\varepsilon - \\varpi_i \\right). \\]\nThe preceding results are obtained by the direct integration of the differential equations: I shall now show that they coincide with the results obtained by the variation of the elliptic constants.\n\nThe equations for determining the variations of the elliptic constants are,\n\n\\[ da = -2a^2n \\frac{dR}{de} dt \\]\n\n\\[ de = \\frac{an\\sqrt{1-e^2}}{e} (1-\\sqrt{1-e^2}) \\frac{dR}{de} dt + 2a^2n \\frac{dR}{da} dt \\]\n\n\\[ dw = -\\frac{an\\sqrt{1-e^2}}{e} dR dt \\]\n\n\\[ dv = -\\frac{an}{\\sin i \\sqrt{1-e^2}} dR dt \\]\n\n\\[ di = \\frac{an}{\\sin i \\sqrt{1-e^2}} dR dt \\]\n\nSee the Théor. Anal. vol. 1. p. 330, or The Mechanism of the Heavens, p. 231.\n\nIn these works \\( R \\) is used with a contrary sign to its acceptation in the Mécanique Céleste, which I have followed.\n\nWhen the square of the eccentricity is neglected in the value of the radius vector, the equations may be employed in the following shape:\n\n\\[ da = -2a^2n \\frac{dR}{de} dt \\quad de = \\frac{an}{e} \\frac{dR}{de} dt + 2a^2n \\frac{dR}{da} dt \\quad dw = \\frac{an}{e} \\frac{dR}{de} dt + \\frac{an}{e} \\frac{dR}{dw} dt \\]\n\nIf\n\n\\[ \\zeta = \\int ndt \\quad d\\zeta = 3\\int\\int anRdt \\]\n\n\\[ \\frac{a}{r} = -\\frac{\\delta a}{a} \\left\\{ 1 + e \\cos (nt + \\varepsilon - \\varpi) \\right\\} + \\cos (nt + \\varepsilon - \\varpi) \\delta e - e \\sin (nt + \\varepsilon - \\varpi) (\\delta \\varepsilon - \\delta \\varpi) \\]\n\n\\[ + 2e \\cos (2nt + 2\\varepsilon - 2\\varpi) \\delta e - 2e^2 \\sin (2nt + 2\\varepsilon - 2\\varpi) (\\delta \\varepsilon - \\delta \\varpi) - e \\sin (nt + \\varepsilon - \\varpi) \\delta \\varpi \\]\n\n\\[ \\frac{a}{r} = -\\frac{na}{(n-n_i)a_i} b_{1,i} \\cos i (nt - n_i t) \\]\n\n\\[ -\\frac{n}{i(n-n_i)+n} \\left\\{ -\\frac{a^2}{4a_i^2} b_{3,i-1} - \\frac{a^3}{2a_i^3} b_{3,i} + \\frac{3a^2}{4a_i^2} b_{3,i+1} \\right\\} \\]\n\n\\[ \\left\\{ \\cos (nt - \\varpi) \\cos \\left( i(nt - n_i t) + nt - \\varpi \\right) \\right. \\]\n\n\\[ + \\sin (nt - \\varpi) \\sin \\left( i(nt - n_i t) + nt - \\varpi \\right) \\} \\]\n\\[\n\\begin{align*}\n&+ \\frac{(i + 1)n}{i(n - n_i) + n} \\left\\{ \\frac{a^2}{4a_i^2} b_{3,i-1} + \\frac{a^3}{2a_i^3} b_{3,i} - \\frac{3a^2}{4a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&- \\frac{2n e}{i(n - n_i) + 2n} \\left\\{ - \\frac{(2+i)}{16} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{(1+i)}{2} \\frac{a^3}{a_i^3} b_{3,i} + \\frac{(8+9i)}{16} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\\\\n&\\quad \\left\\{ \\cos (n t - \\varpi) \\cos \\left( i(n t - n_i t) + 2n t - 2\\varpi \\right) \\right. \\\\\n&\\quad + \\sin (n t - \\varpi) \\sin \\left( i(n t - n_i t) + 2n t - 2\\varpi \\right) \\bigg\\} \\\\\n&+ \\frac{n e}{i(n - n_i)} \\left\\{ \\frac{(3i-1)}{8} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{(3i+1)}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&- \\frac{n e}{i(n - n_i) - n} \\left\\{ \\frac{3a^2}{4a_i^2} b_{3,i-1} - \\frac{a^3}{2a_i^3} b_{3,i} - \\frac{a^3}{4a_i^2} b_{3,i+1} \\right\\} \\\\\n&\\quad \\left\\{ \\cos (2n t - 2\\varpi) \\cos \\left( i(n t - n_i t) - n t + \\varpi \\right) \\right. \\\\\n&\\quad - \\sin (2n t - 2\\varpi) \\sin \\left( i(n t - n_i t) - n t + \\varpi \\right) \\bigg\\} \\\\\n&- \\frac{n a e}{4(n - n_i)} \\frac{b_{1,i}}{a_i} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) - \\frac{n a e}{(n - n_i)} \\frac{b_{1,i}}{a_i} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&- \\frac{a^2 n e}{(n - n_i)} \\frac{d b_{1,i}}{d a} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) - \\frac{3a^2 n e}{2i(n - n_i)^2} \\frac{b_{1,i}}{a_i} \\cos \\left( i(n t - n_i t) + n t - \\varpi \\right) \\\\\n&- \\frac{n e_i}{i(n - n_i) + n + n_i} \\left\\{ \\frac{(3+9i)}{8} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{i a}{a_i} b_{3,i} - \\frac{(1+i)}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\\\\n&\\quad \\left\\{ \\cos (n t - \\varpi) \\cos \\left( i(n t - n_i t) + n t - \\varpi + n_i t - \\varpi_i \\right) \\right. \\\\\n&\\quad - \\sin (n t - \\varpi) \\sin \\left( i(n t - n_i t) + n t - \\varpi + n_i t - \\varpi_i \\right) \\bigg\\} \\\\\n&- \\frac{n e_i}{i(n - n_i) - n + n_i} \\left\\{ \\frac{(3-3i)}{8} \\frac{a^2}{a_i^2} b_{3,i-1} - \\frac{(1-3i)}{8} \\frac{a^2}{a_i^2} b_{3,i+1} \\right\\} \\\\\n&\\quad \\left\\{ \\cos (n t - \\varpi) \\cos \\left( i(n t - n_i t) - n t - \\varpi + n_i t - \\varpi_i \\right) \\right. \\\\\n&\\quad - \\sin (n t - \\varpi) \\sin \\left( i(n t - n_i t) - n t - \\varpi + n_i t - \\varpi_i \\right) \\bigg\\}\n\\end{align*}\n\\]\n\nIt is easily seen that this expression is identical with that of p. 232, obtained by the direct integration of the differential equation of the second order.\n\nConsidering the arguments \\(0, n t + \\varepsilon - \\varpi, n t + \\varepsilon - \\varpi_i\\), still, however, neglecting for an instant the term \\(\\frac{a}{4a_i^2} b_{3,2} e e_i \\cos (\\varpi - \\varpi_i)\\) which requires particular attention,\n\n\\[2 n 2\\]\n\\[ \\frac{a}{r} = \\frac{a^3}{2a_i^3} b_{3,0} - \\frac{a^2}{2a_i^3} b_{3,1} + \\left\\{ \\frac{a^3}{a_i^3} b_{3,0} - \\frac{3a^2}{4a_i^3} b_{3,1} \\right\\} e \\cos (nt + \\varepsilon - \\varpi) \\]\n\\[ + \\left\\{ \\frac{a^3}{a_i^3} b_{3,0} - \\frac{5}{4} \\frac{a^2}{a_i^3} b_{3,1} \\right\\} e \\sin (nt + \\varepsilon - \\varpi) \\]\n\\[ + \\left\\{ \\frac{3}{2} \\frac{a^3}{a_i^3} b_{3,0} - \\frac{3}{2} \\frac{a^3}{a_i^3} b_{3,1} - \\frac{a^2}{8a_i^3} b_{3,2} \\right\\} e_i \\cos (nt + \\varepsilon - \\varpi_i) \\]\n\n\\[ \\frac{a}{r} = \\frac{a^3}{2a_i^3} b_{3,0} - \\frac{a^2}{2a_i^3} b_{3,1} + \\left\\{ 1 + \\frac{a^3}{a_i^3} b_{3,0} - \\frac{3}{4} \\frac{a^2}{a_i^3} b_{3,1} \\right\\} e \\cos \\left( n \\left( 1 + \\frac{a^3}{a_i^3} b_{3,0} \\right) \\right. \\]\n\\[ - \\frac{5}{4} \\frac{a^2}{a_i^3} b_{3,1} \\right) t + \\varepsilon - \\varpi \\)\n\\[ + \\left\\{ \\frac{3}{2} \\frac{a^2}{a_i^3} b_{3,0} - \\frac{3}{2} \\frac{a^3}{a_i^3} b_{3,1} - \\frac{a^2}{8a_i^3} b_{3,2} \\right\\} e_i \\cos (nt + \\varepsilon - \\varpi_i) \\]\n\nThe term \\( \\frac{a}{4a_i^2} b_{3,2} e e_i \\cos (\\varpi - \\varpi_i) \\) in the development of \\( R \\) gives\n\n\\[ d\\varpi = - \\frac{a^2n}{4a_i^2} b_{3,2} e_i \\cos (\\varpi - \\varpi_i) \\]\n\\[ de = - \\frac{a^2n}{4a_i^2} b_{3,2} e_i \\sin (\\varpi - \\varpi_i) \\]\n\nIf \\( h = e \\sin \\varpi \\) \\( l = e \\cos \\varpi \\)\n\n\\[ h_i = e_i \\sin \\varpi_i \\] \\( l_i = e_i \\cos \\varpi_i \\)\n\n\\[ dh = e \\cos \\varpi \\, d\\varpi + \\sin \\varpi \\, de \\]\n\\[ = - \\frac{a^2n}{4a_i^2} b_{3,2} e_i \\cos \\varpi_i = - \\frac{a^2n}{4a_i^2} b_{3,2} l_i \\]\n\n\\[ dl = - e \\sin \\varpi \\, d\\varpi + \\cos \\varpi \\, de \\]\n\\[ = - \\frac{a^2n}{4a_i^2} b_{3,2} e_i \\sin \\varpi_i = - \\frac{a^2n}{4a_i^2} b_{3,2} h_i \\]\n\nThe integrals of which equations are\n\n\\[ h = N \\sin (gt + C) \\] \\( l = N \\cos (gt + C) \\]\n\\[ h_i = N_i \\sin (gt + C) \\] \\( l_i = N_i \\cos (gt + C) \\]\n\n\\[ Ng = - \\frac{a^2n}{4a_i^2} b_{3,2} N_i \\]\n\\[ N_i g = - \\frac{an_i}{4a_i^2} b_{3,2} N \\]\n\n\\[ e \\cos (nt + \\varepsilon - \\varpi) = N \\cos (n - g) t + \\varepsilon - C \\]\n\nwhich will agree with the previous solution, p. 233, if\n\n\\[ N = e_i f_i, \\quad \\varepsilon - C = \\varepsilon - \\varpi_i, \\quad n k_i = -g. \\]\n\nThis theory of the secular inequalities appears to require to be extended to the terms depending on higher powers of the eccentricities; but I may remark that the coefficient of the term \\( e^2 e_i^2 \\cos (2\\varpi - 2\\varpi_i) \\) in the development of \\( R \\) vanishes in the theory of the moon, or at least such part of it as is multiplied by \\( \\frac{a^2}{a_i^3}. \\)",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107959.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 15400,
+    "total-output-tokens": 9160,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1752,
+        2
+      ],
+      [
+        1752,
+        4090,
+        3
+      ],
+      [
+        4090,
+        6368,
+        4
+      ],
+      [
+        6368,
+        8212,
+        5
+      ],
+      [
+        8212,
+        10905,
+        6
+      ],
+      [
+        10905,
+        12809,
+        7
+      ],
+      [
+        12809,
+        15521,
+        8
+      ],
+      [
+        15521,
+        17990,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107959",
+    "title": "Researches in Physical Astronomy [Continued]",
+    "authors": "J. W. Lubbock",
+    "year": 1832,
+    "volume": "122",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/107959"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d2e4f412d4f252e7ee52af46cebbf1f434ba1c1b",
+  "text": "XLV.\n\nAn Account of Part of a Roof of a Pot-house at Lambeth being flung down by the Earthquake, March 8. 1749-50. communicated by Mr. Wm. Jackson, Potter, to C. Mortimer, M.D. Secr. R. S.\n\nRead June 21. 1750.\n\nAt a Pot-house belonging to Mr. Oad in Gravel-Lane, a large Part of the Roof, containing near two Square, was entirely thrown down by the last Earthquake, March 8. 1750. and several Fishermen, then at Work, imagined a Porpoise, or some other large Fish, had risen under their Boat.\n\nXLVI.\n\nExtract of Letter a from Dr. Mackenzie to Dr. Mead F. R. S. concerning Earthquakes at Smyrna.\n\nConstantinople, May 23 1750.\n\nRead July 5. 1750.\n\nI observe, Sir, in Mr. Touchit's Journal, that a certain ingenious Gentleman would not allow the last Shock of an Earthquake in London to be an Earthquake, because it was not central; but rather calls it an Airquake, because it was lateral. I have felt many Shocks, since I have been in this Country; particularly in Smyrna 1739. when,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104752.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 354,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        981,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104752",
+    "title": "An Account of Part of a Roof of a Pothouse at Lambeth Being Flung down by the Earthquake, March 8. 1749-50. Communicated by Mr. Wm. Jackson, Potter, to C. Mortimer, M.D. Secr. R. S.",
+    "authors": "Wm. Jackson",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104752"
+  }
+}

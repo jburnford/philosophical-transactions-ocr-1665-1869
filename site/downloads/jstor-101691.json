@@ -1,0 +1,69 @@
+{
+  "id": "5a7e42b38e6f9b2686c385c762af023d844a92b5",
+  "text": "A List of some Philosophical and other Curious Books, desired by the Printer of these Tracts (by whom they are vendible) to be mentioned here.\n\nJoh. Christopheri Sturmii Collegium Experimentale, sive Curiosum, in quo Primaria hujus seculi Inventa & Experimenta Physico-Mathematica, explicantur, in quarto.\n\nConringii dissertatio de Studiis Liberalibus Urbis Romae & Constantinopolis.\n\nWedelii Experimentum Chymicum Novum, duodecimo.\n\nJoannis Baptista Sitori Miscellanea Medico-Curiosa, quarto.\n\nG. Hieronymi Velschii Hecatostae II. Observationum Physico-Medicarum, ad Illustrem Societatem Naturae Curiosorum in Germania, cum Figuris, quarto.\n\nLucæ Schrockii pharmacopoeiae Augustanae restitutæ suscepta Defensio, sesto nomine vocati Philonis Nasturtii postscriptum, & hanc respiciens Schnuziana Antithesis excutitur, quarto.\n\nChristiani Menzelii lapis Pononiensis in obscurum lucens colatus cum Phosphoro Hermetico. Eislefeld, duodecimo.\n\nHermannii Conringii de Nummis Ebræorum Paradoxa. Acceserunt ejusdem de Republica Ebræorum exercitatio Academica, ac de Initio Anni Sabbatici, & tempore Messis Ebræorum commentario us. 40.\n\nGeorg. Wolfsg. Wedelii Experimentum Chymicum novum de Sale volatili Plantarum. 120.\n\nJohannis Bohnens Epistola ad Joelem Langelottum, de Alcali & Acidi insufficientia pro Principiorum seu Elementorum corporum naturalium munere gerendo. 120.\n\nJacobi Barneri de Spiritu Vini sine Acido, octavo.\n\nEjusdem, Duumviratus Acidi & Alcali exauctoratus, hoc est, Demonstratio fundamentalis Acidum & Alcali non esse corporum naturalium principia, Acidum non esse principium Archeale, nec sufficere duo haecce ad unionem mixtionsis, octavo.\n\nFriderici Zobelii Tartarologia Spagyrica, seu medicamentorum ex Tartaro, in laborato-\ntorio Gottorffensi paratorum, fidelis descriptio; duabus Sectionibus comprehensa, ex Bibliotheca Georg. Wolff Wedelii, cum ejusdem Praefatione. duodecimo.\n\nMarcelli Malpighii Anatomie Plantarum; cui subjungitur Appendix Iteratas & Auctas ejusdem Authoris de Ovo Incubato observationes continens. fol.\n\nFrancisci Willughbeii Ornithologiae Libri Tres, in quibus Aves omnes Haec tenus cognitae in Methodum Naturis Suis convenientem redactae accuratè describuntur: Descriptiones Iconibus elegantissimis, & vivarum Avium simillimis Aeri incisis Illustrantur: Totum opus Recognovit, Digestit, Supplevit Joh. Rayus. in fol.\n\nArmeni Historia Orientalis qua eadem & de Tartaris inscribitur. quarto.\n\nSchefferi Lectionum Academiarum. octavo.\n\nAdr. Minsicht Armamentarium Medico-Chymicum, & Testamentum Hadrianeum de Aureo Philosophorum Lapide. octavo.\n\nTho. Mermannii Consultationes ac Responsiones Medicæ. in fol.\n\nIrici Obrechtii de Nummo Domitiani Isiaco. in quarto.\n\nJoh. Costeri Affectionum totius Corporis Humani praecipuorum Theoria & Praxis. Tab. exhibita. in quarto.\n\nDisputatio Medica Inauguralis de Colica. in quarto.\n\nFranc. Ignatii Thiermairii Scholiorum & Consiliorum Medicorum Libri duo. fol.\n\nJoach. Becheri Supplementum secundum in Physicam Subterraneam, seu Theses Chymicæ, in octavo.\n\nPauli Ammanni Supellex Botanica Lipsiensis; cui accessit brevis ad materiam Medicam in usum Philatrorum Manuductio, in octavo.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101691.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1074,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1744,
+        2
+      ],
+      [
+        1744,
+        3164,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101691",
+    "title": "A List of Some Philosophical and Other Curious Books, Desired by the Printer of These Tracts (by Whom They are Vendible) to be Mentioned Here",
+    "authors": null,
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101691"
+  }
+}

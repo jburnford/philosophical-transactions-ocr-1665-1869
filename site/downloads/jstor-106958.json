@@ -1,0 +1,69 @@
+{
+  "id": "a261da04906bdde2b4c8099991e0868be415569f",
+  "text": "XV. On Welding Cast Steel. By Sir Thomas Frankland, Bart.\n\nF. R. S.\n\nRead May 21, 1795.\n\nThe uniting of steel to iron by welding is a well known practice; in some cases for the purpose of saving steel, in others to render work less liable to break, by giving the steel a back, or support, of a tougher material.\n\nEver since the invention of cast steel (or bar steel refined by fusion), it has generally been supposed impossible to weld it either to common steel, or iron; and naturally, for the description in Watson's Chemical Essays (Vol. IV. page 148) is just, that in a welding heat it \"runs away under the hammer like sand.\" How far the Sheffield artists, who stamp much low-priced work with the title of cast steel, practise the welding it, I am ignorant; but though I have inquired of many smiths and cutlers in different parts of the kingdom, I have not yet found the workman who professed himself able to accomplish it. If, therefore, I should describe a simple process for the purpose, I may be of use to the very many who are incredulous on the subject.\n\nIf any one has made the discovery on principle, he has reasoned thus: cast steel in a welding heat is too soft to bear being hammered; but is there no lower degree of heat in which it may be soft enough to unite with iron, yet without\nhazard of running under the hammer? A few experiments decided the question; for the fact is, that cast steel in a white heat, and iron in a welding heat, unite completely.\n\nIt must not be denied that considerable nicety is required in giving a proper heat to the steel; for on applying it to the iron it receives an increase of heat, and will sometimes run on that increase, though it would have borne the hammer in that state in which it was taken from the fire.\n\nI need scarcely observe, that when this process is intended, the steel and iron must be heated separately, and the union of the parts proposed to be joined effected at a single heat. In case of a considerable length of work being required, a suitable thickness must be united, and afterwards drawn out, as is practised in forging reap-hooks, &c.\n\nThe steel on which my experiments have been made are Walker's of Rotherham, and Huntsman's, between which I discover no difference; and though there may be some trifling variation in the flux used for melting, they are probably the same in essentials.\n\nDecember, 1794.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106958.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 629,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1301,
+        2
+      ],
+      [
+        1301,
+        2381,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106958",
+    "title": "On Welding Cast Steel. By Sir Thomas Frankland, Bart. F. R. S.",
+    "authors": "Thomas Frankland",
+    "year": 1795,
+    "volume": "85",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106958"
+  }
+}

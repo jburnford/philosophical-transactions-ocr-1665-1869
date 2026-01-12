@@ -1,0 +1,59 @@
+{
+  "id": "3bfe452cbd612974b092e7bda2c9714b07314c45",
+  "text": "CONTENTS.\n\nXIX. On a Periscopic Camera Obscura and Microscope. By William Hyde Wollaston, M.D. Sec. R.S. p. 370\n\nXX. Further Experiments and Observations on the influence of the Brain on the generation of Animal Heat. By B.C. Brodie, Esq. F.R.S. Communicated to the Society for promoting the knowledge of Animal Chemistry, and by them to the Royal Society. p. 378\n\nXXI. On the different Structures and Situations of the Solvent Glands in the digestive Organs of Birds, according to the nature of their Food and particular Modes of Life. By Everard Home, Esq. F.R.S. p. 394\n\nXXII. On some Combinations of Phosphorus and Sulphur, and on some other Subjects of Chemical Inquiry. By Sir Humphry Davy, Knt. Sec. R.S. p. 405\n\nPresents received by the Royal Society, from November 1811 to June 1812. p. 417\n\nIndex. p. 421\n\nERRATA.\n\nOf the figures intended to illustrate Mr. Playfair's paper in the last volume of the Transactions, Fig. 3 is named by mistake Fig. 1. Fig. 1 was omitted by accident, and is to be found at the end of this Part of the Transactions.\n\nPhilosophical Transactions, 1811, page 230, line 13, for $8^h\\ 35'\\ 45''$ read $8^h\\ 2'\\ 5''$.\n\nPage 151 of this volume of the Transactions, line 20, for half read double.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107317.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 440,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1227,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107317",
+    "title": "Errata",
+    "authors": null,
+    "year": 1812,
+    "volume": "102",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107317"
+  }
+}

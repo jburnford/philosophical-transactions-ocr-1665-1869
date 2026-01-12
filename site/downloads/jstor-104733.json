@@ -1,0 +1,59 @@
+{
+  "id": "f96b8f06dcd9828500350771b90d77e565d7f817",
+  "text": "XXVI.\n\nExtract of a Letter from Portsmouth; communicated by Daniel Wray Esq; F. R. S. concerning the same.\n\nMarch 19, 1749.\n\nRead March 22. YESTERDAY, about a Quarter before Six in the Evening, a slight Shock of an Earthquake was felt here. I don’t find it was general, as many People felt nothing of it. It was felt sensibly at Mr. Carter’s and Mr. Taylor’s; so that it is something more than Fancy.\n\nP. S. Since writing the above, I am told the Shock was very violently felt in the Isle of Wight Yesterday.\n\nXXVII.\n\nThe Rev. Wm. Cooper D.D. Dean of Durham, to the President, of the Earthquake on March 8. and of the luminous Arch, February 16. 1749.\n\nSIR,\n\nGrosvenor’s Street, March 22, 1749.\n\nRead March 29. Whilst I was in the Country, I made as much Inquiry into the Progress and Extent of the Earthquake Northward as I was able; but could collect very little worth your Notice.\n\nIt was felt very sensibly at Northaw, and at Gubbins, the Seat of Sir Jeremy Sambrooke in that Neighbourhood, whose House was shaken very much.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104733.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1028,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104733",
+    "title": "Extract of a Letter from Portsmouth; Communicated by Daniel Wray Esq; F. R. S. concerning the Same",
+    "authors": "Daniel Wray",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104733"
+  }
+}

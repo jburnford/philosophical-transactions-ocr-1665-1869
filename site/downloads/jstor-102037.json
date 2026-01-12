@@ -1,0 +1,69 @@
+{
+  "id": "8bf59e2b14fa480b54ee55b9e10c3777788d751c",
+  "text": "A Relation of the Effect of a Thunder Clap on the Compass of a Ship on the Coast of New England.\n\nOn July 24th, Anno 1681. The Ship called the Albemarle, whereof Mr. Edward Lad was then Master, being a hundred Leagues from Cape Cod, in Latitude 48° about 3h. p.m. met with a Thunder Storm; the lightning burnt the Main-top-Sail, split the Main Cap in pieces, rent the mast all along; There was in Special one dreadful clap of Thunder, in report bigger than of a Great Gun, at which all the Ships company were amazed; then did there fall something from the Clouds, upon the Stern of the Boat, which broak into many small parts, split one of the Pumps: the other Pump much hurt also; It was a Bituminous matter, smelling much like fired Gun-powder: It continued burning in the Stern of the Boat; they did with sticks dissipate it, and powred much water on it, and yet they were not able by all that they could doe, to extinguish it, until such time as all the matter was consum'd. But the strangest thing of all is yet to be mentioned.\n\nWhen night came observing the Stars, they perceived that their compasses were changed; as for the Compasses in the Bittakle, the North Point was turn'd clear South. There were two other Compasses unhung in the Locker in the Cabin, in one of which the North Point stood South, like that in the Bittakle, as for the other, the North Point stood West; So that they failed by a needle whose Polarity was quite changed: The Seamen were at first puzzled to work their Vessel Right, considering that the South Point of their Compass was now become North\nNorth; but after a little use, it was easie to them: thus did they Sail a thousand Leagues. As for the Compass wherein the lightning had made the needle to point Westward, since it was brought to New England, the Glass being broken, it has by means of the Airs comming to it, wholly lost its virtue. One of those Compasses which had quite changed the Polarity from North to South, is still extant in the Country, in the hands of Mr. Increase Mather.\n\nThe North Point of the Needle doth remain fixed to this day, as it did immediately after the lightning caused an Alteration.\n\nA Letter of Sir R. S. concerning the former Relation. Lond. March 8th. 1683.\n\nHaving already given you the Narrative of the Thunder Storm, I add to it this further account, that Mr. Edward Randolph (who has been four times employed to New England in his Majesties Service; and coming from thence in May last 1683) told Mr. Flamstead in August how much that accident was there discoursed of. And being by him enjoyned to make further enquiry into the matter at his return to Boston, he did in December at his Arrival there, speake with Mr. Lad himself, who was in the Storm, and affirmed the same thing, and dictated to him an account suitable to what you have. But that which you have was in the hands of Mr. Mather a Minister, to whom Mr. Lad had also",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102037.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 791,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1582,
+        2
+      ],
+      [
+        1582,
+        2911,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102037",
+    "title": "A Relation of the Effect of a Thunder Clap on the Compass of a Ship on the Coast of New England",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102037"
+  }
+}

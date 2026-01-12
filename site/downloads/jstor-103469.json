@@ -1,0 +1,189 @@
+{
+  "id": "0dde497fbed9c70f1fef743b51e321278d7e8b1f",
+  "text": "I. A short Account of Negative-affirmative Arithmetick, by Mr. John Colson, F. R. S.\n\nThe Usefulness of this Arithmetick consists in this, that it performs all the Operations with more Ease and Expedition than the common Affirmative Arithmetick, especially in large Numbers: And it differs from the common Arithmetick chiefly in this, that it admits of Negative Figures promiscuously with the affirmative. These negative Figures are distinguish'd from the Affirmative, by the Sign - placed over them.\n\nThus $3709286573961472$ is one of these Numbers, which may be converted into its Equivalent common Number $2308726432039468$, in this manner:\n\n\\[\n\\begin{array}{cccccccc}\n3 & 0 & 0 & 9 & 0 & 0 & 6 & 5 \\\\\n0 & 7 & 0 & 0 & 2 & 8 & 0 & 0 \\\\\n\\hline\n2 & 3 & 0 & 8 & 7 & 2 & 6 & 4 \\\\\n\\end{array}\n\\]\n\n(1.) Write down all the affirmative Figures by themselves, putting a Cypher in the place of every negative Figure. (2.) Write down all the negative Figures by themselves, putting a Cypher in the place of every affirmative Figure. (3.) Subtract the last Number from the first, and the Remainder will be a common Number, equivalent to the given negativo-affirmative Number. See the Operation above.\n\nBut the readiest practical Way of performing this Reduction in any given Number, will be in this manner: Begin at the left hand; and going over all the Figures in order, observe these Rules. (1.) An affirmative\nfirmative Figure before a Negative must be diminish'd by an Unit. (2.) A negative Figure before an Affirmative, must be changed into its Complement to 10. (3.) A negative Figure before a Negative, must be changed into its Complement to 9. All other Figures must remain unchanged, and a Cypher is always to be understood where there is no significant Figure. The sign of the Cypher is neglected; but where there is occasion to consider it, it is always suppos'd the same as the Sign of the following Figure. Thus the negativo-affirmative Number $729586455982001730$ is immediately reduc'd to $710585545977998330$; and so of all others.\n\nBut on the contrary, common Numbers may be reduced to negativo-affirmative Numbers a great variety of Ways, by substituting instead of the Figures 1, 2, 3, 4, 5, 6, 7, 8, 9, their respective Values $19, 18, 17, 16, 15, 14, 13, 12, 11$, in any places at pleasure. But the most useful Reduction of this kind is what I call A Reduction to Small Figures, which consists in throwing out all the large Figures, 9, 8, 7, 6, out of any given Number, and introducing in their room the equivalent Small Figures $11, 12, 13, 14$, respectively. Thus $182937462$ may be reduc'd to $223143542$, consisting only of Small Figures. But this Reduction may be perform'd more readily by these Rules following.\n\n(1.) A small Figure before a large Figure must be increased by an Unit. (2.) A large Figure before a large Figure must be changed into its negative Complement to 9. (3.) A large Figure before a Small Figure must be changed into its negative Complement to 10. Other Figures are not to be changed; and 5 will be ambiguous, being to be esteemed either large or\nor small, according as the Figure following is either large or small. Some Examples of this Reduction shall here follow, both in whole Numbers and Decimal Fractions.\n\n\\[\n37068259764 = \\frac{43132340244}{1}\n\\]\n\\[\n729528960739957 = \\frac{1331531041340043}{1}\n\\]\n\\[\n926087239587294 = \\frac{1134113240413314}{1}\n\\]\n\nOr (9)926087239587294 = (10)1134113240413314\n\n(m)387916407953, &c. = (m)412124412153, &c.\n\nIt is to be observed, that in this last Example the Numbers are what I call interminate, or Approximations only; that is, the first and most valuable Figures are express'd, and all the rest (whether finite or infinite in Number, whether known or unknown) are omitted as inconsiderable, and insinuated by the Mark &c. Also the Index \\( m \\) before the Number stands for some Integer, expressing the Distance of the first Figure 3 or 4 from the Place of Units; which Integer is either affirmative or negative, according as the said first Figure stands in integral or fractional Places. The Example immediately before is a particular Instance of this.\n\nAnd thus much by way of Notation: To proceed therefore to the Operations to be performed with these Numbers, whether reduced to small Figures or not; and first of Addition.\n\nPlace the Numbers to be added just under one another, observing the Homogeneity of Places, as in common Numbers. Then beginning at the Right Hand, collect the Figures in the first Row or Column, according to their Signs, and place the Result underneath:\nneath: And so successively of all the other Columns, as in Example 1.\n\nBut if at any time this result cannot be express'd by a single Figure, it may be writ down with two or more Figures, observing the Homogeneity of Places, and then the Sum may be collected over again. But to save this trouble, it will be sufficient to reserve the Figure in mind which belongs to the next Column, and collect it with the Figures of that Column; as in Examples 2, 3.\n\nIf the Numbers to be added are reduced to small Figures, as in Example 3, their Addition will be very simple, and the Sum may also be exhibited in small Figures, by an easy Substitution of Equivalents, where there is occasion.\n\n(1.)\n\n\\[\n\\begin{array}{cccccc}\n257 & 384 & 263 \\\\\n709 & 821 & 370 \\\\\n580 & 730 & 5 \\\\\n\\hline\n953 & 364 & 212\n\\end{array}\n\\]\n\n(2.)\n\n\\[\n\\begin{array}{cccccc}\n647 & 039 & 682 \\\\\n498 & 273 & 651 \\\\\n819 & 403 & 765 \\\\\n\\hline\n1864 & 643 & 894\n\\end{array}\n\\]\n\n(3.)\n\n\\[\n\\begin{array}{cccccc}\n(m) & 215 & 314 & 043 & 121 & 3, \\text{&c.} \\\\\n(m) & 504 & 203 & 142 & 551 & 2, \\text{&c.} \\\\\n(m-1) & 431 & 023 & 102 & 413, \\text{&c.} \\\\\n(m-2) & 513 & 421 & 103 & 21, \\text{&c.} \\\\\n(m-3) & 213 & 042 & 103 & 2, \\text{&c.} \\\\\n(m-4) & 132 & 021 & 224, \\text{&c.} \\\\\n(m-5) & 132 & 243 & 15, \\text{&c.} \\\\\n(m+1) & 133 & 332 & 141 & 343 & 12, \\text{&c.}\n\\end{array}\n\\]\nSubtraction in this Arithmetick is reduced to Addition, by changing all the Signs of the Number to be subtracted.\n\nThus, if from \\((n) \\overline{72938429637}, \\&c.\\) we are to subtract \\((n-2) \\overline{810735926}, \\&c.\\) the Remainder will be found as in Example 4.\n\n\\[\n\\begin{array}{c}\n(n) \\quad \\overline{72938429637}, \\&c. \\\\\n(n-2) \\quad \\overline{810735926}, \\&c. \\\\\n\\hline\n(n) \\quad \\overline{73747154343}, \\&c.\n\\end{array}\n\\]\n\nThus in all Cases will Addition and Subtraction be easily performed: But the chief use of this Method will be, to ease the trouble of prolix Multiplications. And here, as well as in Division, the first and most valuable Figures may be first found, and consequently the Product may be continued to as many Places as shall be required, without finding any unnecessary Figures; which is a convenience not to be had in the ordinary way of Multiplication.\n\nLet it be proposed to Multiply together the Numbers \\(8605729398715\\) and \\(389175836438\\), which reduced to small Figures will be \\(11414331401315\\) and \\(411224244442\\). Write down these two Numbers one under the other upon a slip of Paper, with the Figures at equal distances, and then cut them asunder. Take either of the Numbers for a Multiplier, and place it over the other in an inverted position, so as its first Figure\nFigure may be just over the first Figure of the Multi-\nplicand.\n\n**Moveable Multiplier**\n\n```\n1414331401315\n```\n\n**Multiplicand**\n\n```\n4561791825498645062606080\n```\n\n```\n11113 1124 2632 1 2311\n```\n\n**Product = 4650861937096017072623170**\n\nThen Multiply these two first Figures together,\nand their Product \\((4 \\times 1 = 4)\\) place underneath. Then\nmove your Multiplier a place forwarder, so that two of\nits first Figures may be over two of the first Figures of\nthe Multiplicand; and collecting their two Products\n\\((4 \\times 1 + 1 \\times 1 = 5)\\) put their Result underneath in the\nnext place. Move the Multiplier a place forwarder;\nand collecting the three Products \\((4 \\times 4 + 1 \\times 1 + 1 \\times 1 =\n16)\\) put the Result underneath, as in the Example.\nMove the Multiplier, and collect the four Products\n\\((4 \\times 1 + 1 \\times 4 + 1 \\times 1 + 2 \\times 1 = 11)\\) which write under-\nneath as before. And so proceed by one stop at a\ntime, as long as any Figures of the Multiplier can be\nover any Figures of the Multiplicand. Lastly col-\nlect the Product into one Line, which being reduced\nto a common Number will be \\(33491419369039969\\)\n\\(27377170\\).\n\nFrom this Process it may be observed, that at e-\nvery new Situation of the moveable Multiplier those\nFigures only are to be Multiply’d together, each by\neach, as are found over one another. And this Mul-\ntipli-\ntiplication is to be perform'd, and the several Products collected, according to the Rules of Specious Multiplication, wherein like Signs will make $+$, and unlike Signs will make $-$ in the Product. This will always make the Products destroy one another, or at least will depress and keep them low, and the Figures themselves being always small, the Result will be always small, and often but a single Figure, which is the great Compendium of this Method.\n\nWhen an Approximation only is desir'd, or when the Product is to be produced to a given Number of places, the Operation may be continued one place farther, in order to obtain so many Places true as are required. For seldom any Correction extends beyond the place immediately aforegoing, and that is generally corrected but by an unite, and very often needs no Correction at all; which will be of no small convenience in the Multiplication of Decimal Fractions.\n\nIn this Method we may (if we please) begin the Process of Multiplication from the lowest places, or from the right hand, as is usual in common Arithmetick, and then the Correction may be carry'd on continually to the next place, and so the Product may be always comprehended in one Line, without the use of any Superfluous Figures. Of this I shall give an instance in the foregoing Example.\nPlace the moveable Multiplier inverted in such a manner, as that its last Figure may be just over 5 the last Figure of the Multiplicand. Multiply these together \\((2 \\times 5 = 10)\\) and set down the last Figure of the Product just under, reserving the first Figure for the next place. Then move the Multiplier a place forwarder, so that two of its last Figures may be over two of the last Figures of the Multiplicand, and then Multiplying and collecting you will have \\(1 + 2 \\times 1 + 4 \\times 5 = 17\\). Set down 7 in the next place of the Product, and reserve 1. At the next remove you will have \\(1 + 2 \\times 3 + 4 \\times 1 + 4 \\times 5 = 31\\). Set down 1 and carry 3. Then \\(3 + 2 \\times 1 + 4 \\times 3 + 4 \\times 1 + 4 \\times 5 = 23 = 37\\). Set down 7 and carry 3. Then \\(3 + 2 \\times 0 + 4 \\times 1 + 4 \\times 3 + 4 \\times 1 + 4 \\times 5 = 3 = 17\\). Set down 7 and carry 1. And so proceed as long as there can be any Figures over one another, and the Product will be found as before.\n\nThis way of Multiplication is so easy, and may be made so familiar by a little Practice; that it will be but little short of Multiplication by Inspection, and will doubtless seem very surprizing to thole who are only acquainted with the common tedious way of Multiplication: especially if we content our selves with a mental preparation of the Numbers given, or only mark thole Figures that are to be changed, which by some Practice is easily attained.\nThe first of these two ways of Multiplication will be most convenient for interminate Numbers. As if we were to multiply \\((m) \\ 307149741748\\), &c. by \\((n) \\ 183609712649\\), &c. the Product will be found \\((m + n) \\ 563956758222\\), &c. as may appear from the Process following.\n\n\\[\n\\begin{array}{cccccccc}\n(m) & 313150342352, & \\text{&c.} \\\\\n(n) & 224410315451, & \\text{&c.} \\\\\n(m + n) & 644057258378, & \\text{&c.}\n\\end{array}\n\\]\n\nHere the Index of the first Figure of the Product will be \\(m + n\\), or the Sum of the Indexes of the given Numbers; but it would have been \\(m + n + 1\\) if there had been any increase from the Product of the two first Figures, or if there had been any correction to have been made to the Cypher, which is understood before the first Figure of the Product.\n\nWhen both the Numbers to be multiply'd are interminate, as in the last Example, they ought to consist of the same number of Places, or otherwise the greater number must be reduced to the lesser, by cutting off the superfluous Places: And the Product is not to be continued beyond the same number of Places. If but one of the number is interminate, the other must be reduc'd to the form of an interminate Number, either by cutting of the excess of places if it has more, or by supplying or supposing Cyphers, if it has fewer places than the interminate Number. Then the same restrictions will take place as before.\n\nThe Method of Division in this Arithmetick will not be so simple or expeditious as Multiplication. After a tryal of several ways, I think this following will be the most commodious. Reduce the Dividend and Divisor\nto small Figures, and form a Tariffa or Table of all the Multiples of the Divisor as far as 5. Compare these Multiples with the Dividend, and with the several Remainders after the Multiples have been Subtracted, by which means you will discover the several small Figures and their Signs, to be put successively in the Quotient.\n\nTo form the Table of Multiples, set down the Divisor above, drawing a line, under which set down the Divisor over again, putting 1 over against it. Add these two together according to the Rule for Addition in small Figures, and put 2 over against their Sum. Add this last and the Divisor together, and put 3 over against their Sum. Then add this last and the Divisor together, and put 4 over against their Sum. Lastly, add this and the Divisor together, putting 5 over against their Sum. Thus will you have a Table of all the Multiples of the Divisor, as far as will be necessary.\n\nThus for Example, if \\((m + n) 5639567581222, \\&c.\\)\n\n\\(= (m + n + 1) 1444043242222, \\&c.\\) is to be divided by \\((n) 183609712649, \\&c.\\) \\(= (n) 2244\\)\n\n\\(10313451, \\&c.\\) the Process will be as here follows, by which the Quotient will be found \\((m) 313150342354, \\&c.\\) \\(= (m) 307149741746, \\&c.\\)\n\n**TABLE of Multiples.**\n\n|   | (n) 224410313451, &c. |\n|---|----------------------|\n| 1 | (n) 224410313451, &c. |\n| 2 | (n) 433221425302, &c. |\n| 3 | (n) 551231142153, &c. |\n| 4 | (n+1) 1334441251404, &c. |\n| 5 | (n+1) 1122051443245, &c. |\n\nQuo-\nQuotient = (m) 313150342354, &c.\n\nDividend = (m + n + 1) 1444043242222, &c.\n551231142153, &c.\n\n13132420335, &c.\n22441031345, &c.\n\n15233451010, &c.\n5512311421, &c.\n\n335140411, &c.\n224410313, &c.\n\n111331324, &c.\n112205144, &c.\n\n1534220, &c.\n551231, &c.\n\n124451, &c.\n133444, &c.\n\n3205, &c.\n3332, &c.\n\n1533, &c.\n551, &c.\n\n124, &c.\n112, &c.\n\n12, &c.\nThe Index of the Quotient is found by subtracting the Index of the Divisor from the Index of the Dividend, when the first Figure or Figures of the Divisor are not greater than the like Figures of the Dividend. Thus\n\n\\[\n\\frac{(m + n) 56}{(n) 18} = (m) 30, \\text{&c.}\n\\]\n\nWhen they are greater, then an Unit must be farther Subtracted from the Index of the Dividend. Thus\n\n\\[\n\\frac{(m + n + 1) 144}{(n) 224} = (m) 313, \\text{&c.}\n\\]\n\nNow a little to illustrate this Process, it may be observed, that the Dividend 144, &c. or 56, &c. being compared with the several Multiples of the Divisor in the Table, it is easily perceived that 55, &c. makes the nearest approach to it, and therefore its corresponding Figure 3 must be made the first Figure of the Quotient, which I place just over. Under this I place its respective Multiple, changing the Signs and collecting, because it ought to be subtracted. Then the remainder 131, &c. being compared with the Table, I find the nearest to it (whether in excess or defect) to be 22, &c. or 18, &c. belonging to 1. This therefore is made the second Figure of the Quotient, and its Multiple with the Signs changed is placed under, and collected with the last Remainder. The Result, or new Remainder 152, &c. that is — 152, &c. or — 52, &c. being compared with the Table, the nearest Multiple is 55, &c. belonging to 3, which 3 therefore is made the next Figure of the Quotient, but with the Sign — over it, because this Remainder is Negative. And for this reason the Multiple 55, &c. is put down in its place without changing its Signs. The rest of the Process will be obvious enough, and if any scruple arises about placing the Numbers, it may easily be removed.\nmoved by a little attention to their respective Indexes.\n\nIn the Division of interminate Numbers, the same restrictions are to obtain, as are already mention'd in Multiplication.\n\nAnd this may suffice for a short Summary of Negative-affirmative Arithmetick, as to the ordinary Operations of Addition, Subtraction, Multiplication, and Division. What improvements may be had from hence in the Extraction of Roots, whether of pure or affected Equations, I shall leave to future inquiry.\n\nBut all these Operations, whether in the common Decimal Arithmetick, or in this here compendiously described; and not only in Decimal Arithmetick, but in the several other Species, as Duodecimal, Sexagesimal, Centesimal, &c. all these Operations (I say) may be much more easily and readily perform'd, and with equal accuracy, by an Instrument I have contrived call'd Abacus, or the Counting-Table, which I hope shortly to communicate to the inquisitive in these matters, and by which all long Calculations may be very much facilitated. In the mean time this short account of Negative-affirmative Arithmetick, in Denary or Decimal Numbers, may be premis'd, by way of Introduction to the knowledge and use of the said Instrument.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103469.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 22324,
+    "total-output-tokens": 6020,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1403,
+        3
+      ],
+      [
+        1403,
+        3088,
+        4
+      ],
+      [
+        3088,
+        4569,
+        5
+      ],
+      [
+        4569,
+        5899,
+        6
+      ],
+      [
+        5899,
+        7213,
+        7
+      ],
+      [
+        7213,
+        8586,
+        8
+      ],
+      [
+        8586,
+        9897,
+        9
+      ],
+      [
+        9897,
+        11344,
+        10
+      ],
+      [
+        11344,
+        12964,
+        11
+      ],
+      [
+        12964,
+        14425,
+        12
+      ],
+      [
+        14425,
+        14770,
+        13
+      ],
+      [
+        14770,
+        16472,
+        14
+      ],
+      [
+        16472,
+        17684,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103469",
+    "title": "A Short Account of Negativo-Affirmative Arithmetick, by Mr. John Colson, F. R. S.",
+    "authors": "John Colson",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/103469"
+  }
+}

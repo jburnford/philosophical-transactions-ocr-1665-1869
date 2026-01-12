@@ -1,0 +1,109 @@
+{
+  "id": "56433b7d81e41792a06002f43fb39f74ee9975ae",
+  "text": "be put in Practice to all Intents and Purposes, as if this Impediment were absolutely Removed.\n\nAn Account of an Experiment shewn before the Royal Society, of Shooting by the Rarefaction of the Air:\nBy Dr. D. Papin, R.S.S.\n\nWhereas ordinary Wind-Guns do their Effect by the Compression of the Air. Ottho Ghericke hath found a new Sort that shoots by Rarefaction; and he hath Publish'd that device at large in his Book about Pneumatick Experiments, but he doth not express how strong was the Effect. I have therefore had the Curiosity to try it myself by another Contrivance, which I take to be better than his: First, because I can make a Rarefaction much more perfect than he could do. Secondly, because his Device could not be used but for Guns of a small bore; but my way may be apply'd to the biggest bore that can be made by Workmen: So that one might by this means throw up vast Weights to a great distance.\n\nA A is a Pipe very equal from one end to the other.\nB B a small Pipe solder'd to a Hole near the end of the Pipe A A, and apply'd to the Plate of the Pneumatick Engine.\nC C C C some kind of Stool to bear up the hinder part of the Pipe A A.\nD. a piece of Lead fitted to the bore of the pipe A A.\n\nThe pipe A A is to be shut at both ends by Valves outwardly apply'd, and so the said pipe A A, though never so big, may be exhausted of Air by means of the Pneumatick Engine: Which done, the Valve towards D must be suddenly open'd, so that the whole pressure of the Atmosphere acting upon the Lead D may drive it along the pipe A A with such\nsuch a swiftness, that it will be able to carry it to a great distance: And because such a Valve shutting a great hole would prove very difficult to be opened, when the pipe A A is of a great Bore, the aperture towards D may be left much smaller than the pipe; the swiftness of the Air being so great, that even through a pretty small aperture, it presses the lead D as freely almost as if the whole Bore was quite open.\n\nHaving prepared a Barrel carrying a lead of 2 ounces, the Experiment was shewn before the Royal Society, and the Effect was found very considerable, the force being little less than that of the Wind-Gun by compression; the same experiment being afterwards repeated with a longer Barrel, 'twas found that the length in this way of shooting was very little, if any advantage.\n\n---\n\nPart of a LETTER from Dr. Salomon Reisel,\nChief Physician to the Duke of Wirtemburg, about an extraordinary Tincture given to a Stone: Stutgardiae,\nFebr. 120. 1686.\n\nAurifaber Stutgardianus, qui & gemmis & Metallicis ty-\npis nummorum cudendorum insculpendis artificiosus est, nomine Christophorus Muller, Anno 1685, aurum aqua re-\ngis solutum, oleo Tartari praecipitatum atque edulcoratum,\nquod aurum fulminans dicunt, dum in scutella, quam Ma-\nturellam vocant, ex lapide Chalcedonico coloris unici pellu-\ncidi onychini seu Corneli, vitro pro fusione praeparato rubro\nmixtum, & aqua fontana imbutum tereret, ad facienda En-\ncausta seu smalta; de quibus Anton. Nerius vertente Andrea\nFrisio, egit lib. 6. Artis Vitrariae; invenit iterato tertium eo-\ndem labore: quod color pulveris istius puniceus, qui per\ndies aliquot siccatus in vasculo manserat, quoique inter te-\nrendum",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101834.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11068,
+    "total-output-tokens": 1072,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        1553,
+        6
+      ],
+      [
+        1553,
+        3228,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101834",
+    "title": "An Account of an Experiment Shewn before the Royal Society, of Shooting by the Rarefaction of the Air: By Dr. D. Papin, R. S S.",
+    "authors": "D. Papin",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/101834"
+  }
+}

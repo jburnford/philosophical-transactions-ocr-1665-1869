@@ -1,0 +1,59 @@
+{
+  "id": "a15a5c2db4f620ab740de5409e8295933a6788b1",
+  "text": "THE PRESIDENT and COUNCIL of the ROYAL SOCIETY adjudged, for the year 1801, the Medal on Sir Godfrey Copley's Donation, to Mr. Astley Cooper, for his Papers On the Effects which take place from the Destruction of the Membrana Tympani of the Ear; with an Account of an Operation for the removal of a particular species of Deafness.\n\nERRATA.\n\nPage 133, line 2 and 3, for 38,3, read 383.\n—— 134, — penult. for hyperoxygenized, read oxygenized.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107111.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 201,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        440,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107111",
+    "title": "Errata",
+    "authors": null,
+    "year": 1802,
+    "volume": "92",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107111"
+  }
+}

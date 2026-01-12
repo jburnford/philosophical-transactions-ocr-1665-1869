@@ -1,0 +1,59 @@
+{
+  "id": "3ba37ac24ac5b9db1eae14f9fa60845faf11921e",
+  "text": "V. An Account of a luminous Arch. In a Letter from the Rev. Mr. B. Hutchinson to Sir Joseph Banks, Bart. P. R. S.\n\nRead December 14, 1786.\n\nSIR,\n\nKimbolton, Feb. 24, 1784.\n\nLAST night (Monday 23.) at nine o'clock, a very uncommon aurora borealis appeared here. When I was called down to see it, it had formed a perfect, uniform semi-circle, of the apparent breadth of half a yard, reaching like the rainbow (which it entirely resembled, only that its colour was simple), from the W.S.W. horizon to that of the E.N.E. Some of the brightest stars of the Bull only just could be seen through it. The whole hemisphere was without a cloud; calm; the wind had gone down at west; a slight frost, after a warm thaw, was taking place; and, what was most extraordinary, there was no other aurora borealis in the heavens till this began to fade away, which then, however, arose a little, due N., but without any streamers; the ring had no vibratory motion. If this phenomenon should have luckily been observed at London or Greenwich, data may be had to determine its height from the earth.\n\nWith this view I ran for my quadrant, and found its zenith distance on the meridian south 11 degrees. Kimbolton is 63 miles N.N.W. of London, latitude $52^\\circ 20'$.\n\nI have the honour to be, &c.\n\nB. HUTCHINSON.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106827.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 403,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1292,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106827",
+    "title": "An Account of a Luminous Arch. In a Letter from the Rev. Mr. B. Hutchinson to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "B. Hutchinson",
+    "year": 1790,
+    "volume": "80",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106827"
+  }
+}

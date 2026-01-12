@@ -1,0 +1,19 @@
+title: "Philosophical Transactions Archive"
+description: "Complete OCR archive of Philosophical Transactions of the Royal Society (1665-1869)"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Collections
+collections:
+  volumes:
+    output: true
+    permalink: /volumes/:path/
+
+# Exclude from build
+exclude:
+  - README.md
+  - generate_site.py

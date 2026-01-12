@@ -1,0 +1,79 @@
+{
+  "id": "ab252b2a30525d64072437cabc025886ae5b5370",
+  "text": "XVIII. A Letter from the Widow of the late Mr. John Senex, F.R.S. to Martin Folkes, Esq; President of the Royal Society, concerning the large Globes prepared by her late Husband, and now sold by herself, at her House over-against St. Dunstan's Church in Fleet-street.\n\nSIR,\n\nRead Jan. 19. 1748-9.\n\nTHE Royal Society being lately acquainted with some Improvements that were said to have been made upon the Globes at Nuremberg, and desired to encourage and recommend the same, I am obliged to return you my most grateful Acknowledgments for your kind Interposition in behalf of mine. It is sufficiently known, that Works of Art, made in our own Country, have, for the most part, a Degree of Exactness much superior to those of foreign Countries: And I hope I may be allowed to say in particular, and without Disparagement to the Performances of others, that my Globes will be found, upon Examination, as truly made, as accurate, and as well adapted for the Purposes of Geography and Astronomy, as any now extant. For (not to mention that the Terrestrial is formed from the best Maps that could be made or procured, and contains no material Error in the Situation of any Places where Observations have been really and truly made;) the Celestial, upon the nicest Examination, will be found to have this Advantage above all others, that the Figures of the Constellations there given, were originally delineated by a Gentleman, whose Skill in Performances of this Nature was very well known and allowed; under the Direction of the great Dr. Halley, to whose Kindness my late Husband was upon all Occasions particularly indebted.\ndebted. And besides this, to each Star are added Bayer's Letters of Reference; a Circumstance extremely useful, either for the tracing out the Path of a Comet, or for describing any new Phaenomenon in the Heavens.\n\nIt may be further observed, that Celestial Globes, as they are commonly fitted up, are adjusted only to one particular Year; though indeed they may serve without any sensible Error, during the Life of any single Person; whereas mine, particularly the two greatest, viz. of 17 and 28 Inches in Diameter, have this further Advantage, that they serve indifferently for any Age past or to come. For by means of a Nut and Screw, which will be hereafter described, the Globe is made to turn round an Iron Axle; whereby the Pole of the Equator (though fixed in common Globes) is made here to revolve about the Pole of the Ecliptic, and represents the slow Motion forwards observed among the fixed Stars, but really owing to the slow Motion backwards of the Equinoctial Points.\n\nUpon this Account it is, that the Constellation of Aries is got into the Sign of Taurus, and the Constellation of Taurus into that of Gemini, and so of the rest. Hence likewise it is, that Stars which rose or set at particular Seasons of the Year in the times of Hesiod, Eudoxus, Virgil, Pliny, &c. by no Means answer at this Time to their Descriptions; but by the Improvement I am here speaking of, my Globes (allowing for the Precession of the Equinox, as it is called, i.e. one Degree in seventy-two Years) may, without any Trouble, be adjusted to the Accounts given by any of those Writers.\n\nBy this means likewise, every one may judge of the Truth of ancient Observations without the Labour of a tedious Calculus, which some are not able, and others are not willing, or at Leisure, to go through. By this means likewise, some Passages in those ancient Writers may be corrected, when Manuscripts afford no Assistance. For these frequently suffer by the Hands they go through, whilst the Heavens remain invariably the same.\nAs by this apparent Motion in the Heavens, not only the Longitudes, Declinations, and Right Ascensions of the fixed Stars are affected, but the Position of the Cohres is of Course altered, yet by the Help of this Contrivance all may be restored, and the Age of an Author, in some sort, be ascertain'd.\n\nThe famous Astronomical Argument likewise of Sir Isaac Newton, in his Chronology, p.86,87, &c. may hereby be more particularly enquired into, and considered; all which Uses will be speedily shewn and demonstrated by a regular Series of Propositions, in a Treatise, as I am well assured, that is preparing for the Press, by the Reverend and Learned Mr. George Costard, Fellow of Wadham-College, in Oxford.\n\nThese, Sir, are some of the great Advantages of my Globes over others; and I therefore hope they will merit the Encouragement of a Society founded for promoting real and useful Learning; and that the Importation of any Globes from abroad may be rendered less necessary, if not entirely useless. I am,\n\nWith all Gratitude and Respect,\n\nSIR,\n\nLondon, Jan. 17.\n1748-9.\n\nYour most obliged,\n\nHumble Servant,\n\nMARY SENEX.\n\nERRATA.\n\nNo. 492. In the Contents Art. XIV. and p. 162. Art. XVII., for Mr. Richard Mason read Charles Mason, D.D.\n\nNo. 493. p. 213. l. 1. for ou read on.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104643.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1297,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1623,
+        2
+      ],
+      [
+        1623,
+        3636,
+        3
+      ],
+      [
+        3636,
+        4916,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104643",
+    "title": "A Letter from the Widow of the Late Mr. John Senex, F. R. S. to Martin Folkes, Esq; President of the Royal Society, concerning the Large Globes Prepared by Her Late Husband, and Now Sold by Herself, at Her House Over-Against St. Dunstan's Church in Fleet-Street",
+    "authors": "Mary Senex",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104643"
+  }
+}

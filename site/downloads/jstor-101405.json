@@ -1,0 +1,59 @@
+{
+  "id": "d96d1cc2d954a5a8d4c09d7ea87f02f2bc796fa0",
+  "text": "An Account of a very odd Monstrous Calf.\n\nBy the same Noble person was lately communicated to the Royal Society an Account of a very Odd Monstrous Birth, produced at Limmington in Hampshire, where a Butcher, having caused a Cow (which cast her Calf the year before) to be covered, that she might the sooner be fatted, killed her when fat, and opening the Womb, which he found heavy to admiration, saw in it a Calf, which had begun to have hair, whose hinder Leggs had no Joynts, and whose Tongue was, Cerberus-like, triple, to each side of his Mouth one, and one in the midst: Between the Fore-leggs and the Hinder-leggs was a great Stone, on which the Calf rid: The Sternum, or that part of the Breast, where the Ribs lye, was also perfect Stone; and the Stone, on which it rid, weighed twenty pounds and a half; the outside of the Stone was of Grenish colour, but some small parts being broken off, it appeared a perfect Free-stone. The Stone, according to the Letter of Mr. David Thomas, who sent this Account to Mr. Boyle, is with Doctor Haughteyn of Salisbury, to whom he also referreth for further Information.\n\nOf a peculiar Lead-Ore of Germany, and the Use thereof.\n\nThere was, not long since, sent hither out of Germany from an inquisitive Physician, a List of several Minerals and Earths of that Country, and of Hungary, together with a Specimen of each of them: among which there was a kind of Lead-Ore which is more considerable than all the rest, because of its singular use for Essays upon the Coppell, seeing that there is not any other Mettal mixed with it. 'Tis found in the Upper Palatinate, at a place called Freyung, and there are two sorts of it, whereof one is a kind of Crystalline Stone, and almost all good Leads the other not so rich, and more farinaceous. By the information, coming along with it, they are fetcht, not from under the ground, but, the Mines of that place having lain long neglected, by reason of the Wars of Germany and the increase of Waters, the people, living there-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101405.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 549,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2012,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101405",
+    "title": "An Account of a Very Odd Monstrous Calf",
+    "authors": "Robert Boyle",
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101405"
+  }
+}

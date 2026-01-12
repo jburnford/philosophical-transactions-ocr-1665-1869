@@ -1,0 +1,79 @@
+{
+  "id": "b61dda915eb7f3372f8976409d24f21407925650",
+  "text": "IV. The Description of an Aurora Borealis mention'd in the foregoing Letter.\n\nMy LORD,\n\nAbout Seven 'o Clock at Night I was told that the Meteor call'd by our Sailors, Merry Dancers, was visible, and very bright. Having seen several before, but had no opportunity of being particular in my Observation, I went out into the open Air, clear of Houses, that I might have a better view all round the Horizon; from whose Northern part arose several Streams of Light, as if from behind a black Cloud. They were very many, and I believe, there was no possibility of numbering them, their Motion being so quick, shooting upwards to the Zenith with a Motion not be follow'd by the Eye. They had also another Motion which seemed to be side-ways, their higher Ends terminating sometimes in a sharp Point, sometimes in two or three Points; they appeared from the North-West to North-East; but were brightest in the North. Their Colour was pale like that of Jupiter through a Telescope, but not near so bright. Most of 'em reach'd the Zenith, where mixing with one another, they whisk'd round and form'd an Appearance like the curling Flame of a Glass-House-Fire; they had a very irregular Motion, sometimes turning inwards, sometimes outwards, like the Pendulum-Spring of a Watch. This circular Light was the brightest, and seem'd to occupy near ten Degrees of the highest part of the Hemisphere: Several Strokes of Light seem'd to dart from it to the South; but\nbut died before they got any considerable distance. In\nthe West, I saw two small long Clouds, which interposed\nbetwixt me and the light Streams; which I saw a-\nbove the Clouds, and betwixt them, which convinc'd\nme that this Light (whatever it be) is far above them.\nI have drawn a Scheme of the whole Horizon, as it\nappear'd to me. (See the Figure.) That bright Star is\nJupiter, whose Place then was 17° in Aries, and was\nabout South-West, I guess about 20° high. Some\nof the brightest Stars in Taurus, Orion, and Aries ap-\npear'd South and South East; but I have not placed\nthose but by guess. In this state I left it: But was\ntold by one that saw it after Ten o' Clock, that the\nwhirling Light in the Zenith appeared of several Co-\nlours, as, blue, green, yellow, and reddish. But that\nI did not see.\n\nI am, &c.\n\nV. A Letter from the Reverend Mr. Edmund\nBarrel, Rector of Sutton near Dartford in\nKent, to Sir Hans Sloane, Baronet, concern-\ning a Shock of an Earthquake felt in that\nNeighbourhood, &c.\n\nSIR,\n\nSutton, Aug. 11th, 1727.\n\nI had an Information brought to me Yesterday, on\npurpose to be communicated to your Society;\n'twas, that the Earthquake was felt very sensibly at a\nFarm on a Hill called Skeat-Hill, which is at the West\nEnd of Lullingstone-Park, belonging to Percival Hart,\nEsq;",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103664.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6502,
+    "total-output-tokens": 814,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1451,
+        3
+      ],
+      [
+        1451,
+        2748,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103664",
+    "title": "The Description of an Aurora Borealis Mention'd in the Foregoing Letter",
+    "authors": null,
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103664"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "9b2d3e0308356d46c3d13ca044a08853b8f2d894",
+  "text": "English Channel, with Remarks upon the Laws by which those Streams appear to be governed. By Captain F. W. Beechey, R.N., F.R.S. Communicated to Sir Francis Beaufort, K.C.B., Hydrographer, and presented to the Royal Society by G. B. Airy, Esq., F.R.S., and Astronomer Royal, &c. . page 703\n\nXXXI. On the Megatherium (Megatherium Americanum, Blumenbach). By Professor Owen, F.R.S. &c.—Part I. Preliminary Observations on the Exogenous Processes of Vertebrae. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 719\n\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 765\n\nAppendix.\n\nPresents . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [ 1 ]\n\nERRATA.\n\nPage 297, line 9 from the bottom, for garnet-octohedrons read garnet-dodecahedrons.\n— 398, line 13 from the bottom, for \\((H_4 N)_2\\) read \\((H_4 N)\\).\n— 500, line 16, for \\(J\\) read \\(\\frac{dJ}{dr}\\).\n\nIn Art. 6, page 519, change \\(\\beta\\) to \\(\\beta_1\\) wherever it is a factor of quantities containing \\(Y_2\\) or other terms in the development of \\(y\\).\n\nPage 522, line 13 from bottom, for \\(c_1\\) read \\(C_1\\).\n— 531, line 14 from bottom, for (23.) read (33.)\n— 539, line 2 from bottom, for \\(j_2\\) read \\(j\\).\n— 703, for Hewitt read Hewett; for Beauteins Beaupres read Beauteins Beaupré; for Engineers read Ingenieurs; for Française read Français.\n— 709 and 712, for Lemon read Leman.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108401.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 652,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1531,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108401",
+    "title": "Errata",
+    "authors": null,
+    "year": 1851,
+    "volume": "141",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108401"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "54a435ec465394050acf31c263112484d7be8cc9",
+  "text": "Severall Observations of the Respect of the Needle to a piece of Iron held Perpendicular; made by a Master of a Ship Crossing the Æquinoctial Line, Anno 1684. and communicated by Mr. Arthur Bayly. F. of the R. S.\n\nAll the way from England to 10° North Latitude, the North point of the needle respected the upper end of the Iron, and the S° point the lower end very strongly.\n\nLatitude. 9° 42' N°. and Meridian distance from the Lizard 9° 32' West. The S° point of the needle did strongly respect the lower end of the Iron, but the N° point did not so strongly respect the upper end as before.\n\nLatd. 4° 33' N°. and Meridian dist. 5° 18'. West from the Lizard. In this Latd. the North point of the needle began to decline from the upper end of the Iron, and the S° point to incline more strongly to the lower end.\n\nLatd. 0° 52' S°. and Meridian dist. 11° 52' West from the Lizard. Here the North point of the needle would not respect the upper end of the Iron, nor the lower end neither, but the South point did still incline to the lower end, though not so strongly.\n\nLatd. 5° 17' S°. and Meridian dist. 15° 09'. West from the Lizard. Here the South point of the needle would turn to the lower end of the Iron, about 2 points, but remove the Iron any further, and it would fly away from it, and respect the Poles again; but it would not respect the upper end at all; neither would the North point respect either; but lay the Iron Horizontally, and let the ends of the Iron respect the Poles of the World.\nWorld, and the North point of the needle would turn to the South end of the Iron, and contrarily the South point of the needle would turn to the North end of the Iron, and alter its respect to the Poles 5 or 6 points, and no farther; but hold the Iron perpendicular, and put the middle thereof to the needle, it would still respect the Poles.\n\nLat°. 8°. 17' South, and Meridian dist. from the Lizard 17°. 35' West.\n\nHere the N°. point of the needle would not respect the upper end of the Iron, but rather forsake it, but the S°. point would still something respect the lower end, and alter its true position about 2 points; but take the Iron and lay it aslope over the Compass, so that the upper end be towards the S°. Pole, and the lower end to the N°. and then the N°. point would respect the lower end, and follow it; but if you point the upper end to the N°. and the lower end to the S°. the N°. point will forsake it. But if you lay it Horizontall, it would do as in the foregoing Observations.\n\nLat°. 15°. 00' S°. and 20°. 00' West from the Lizard.\n\nHere the S°. point of the needle began to respect the upper end of the Iron, and the N°. point the lower end, and followed it about one point; but lay the Iron Horizontall, and the N°. point respected the S°. end of the Iron, and contrarywise, &c.\n\nLat°. 20°. 20' S°. and 19°. 20' West from the Lizard.\n\nNote that the S°. point of the needle respected the upper end of the Iron, and the N°. point the lower end pretty strongly, and follow'd it, 3 or 4 points; but lay it Horizontall and it would do as before.\n\nLat°. 29°. 25', and 13°. 10' West from the Merid. of the Lizard.\n\nHere the S°. point of the needle respected the upper end of the Iron, and the N°. point the lower end strongly.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102185.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1022,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1505,
+        2
+      ],
+      [
+        1505,
+        3249,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102185",
+    "title": "Severall Observations of the Respect of the Needle to a Piece of Iron Held Perpendicular; Made by a Master of a Ship Crossing the Aequinoctial Line, Anno 1684. and Communicated by Mr. Arthur Bayly. F. of the R. S.",
+    "authors": "Arthur Bayly",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102185"
+  }
+}

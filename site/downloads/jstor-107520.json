@@ -1,0 +1,169 @@
+{
+  "id": "cdfdb0bc9279bae84bb089483ff06f5eb95b5ae3",
+  "text": "VIII. Demonstrations of the late Dr. Maskelyne's formulæ for finding the longitude and latitude of a celestial object from its right ascension and declination; and for finding its right ascension and declination from its longitude and latitude, the obliquity of the ecliptic being given in both cases. By the Rev. Abram Robertson, D.D. F.R.S. Savilian Professor of Astronomy in the University of Oxford, and Radcliffian Observer. Communicated by the Right Honourable Sir Joseph Banks, Bart. G.C.B. P.R.S.\n\nRead February 15, 1816.\n\nThe methods given by our late Astronomer Royal, for solving the two problems alluded to, were printed in his introduction to Taylor's Logarithmic Tables. Since their appearance before the public, they have met with the warmest approbation from those most capable of judging of their merit; but no one, so far as I know, has fully demonstrated them; nor has any one, so far as my knowledge extends, observed two mistakes with which they are accompanied, and which in certain cases would affect the accuracy of their application.\n\nThese circumstances, and a consideration of the high character of the author of the formulæ, induced me to reduce the following demonstrations and remarks into the form of a short memoir. I trust I shall not be charged with any improper motive for thus noticing the mistakes. Candour, I\nhope, will view them only as accidental oversights, and the most sincere regard for his memory will allow the propriety of correcting them.\n\n**Problem I.**\n\n\"The right ascension and declination of a celestial object, together with the obliquity of the ecliptic, being given, to find its longitude and latitude.\"\n\nLet QAR, Fig. 1, 2, 3, 4, 5, 6, (Pl. VI.) be the equator, P its north, and p its south pole. Let CAL be the ecliptic, E its north and e its south pole. In the first three figures, let PpR be the first and PpQ the fourth quadrant of right ascension; EeL the first and EeC the fourth quadrant of longitude, A in these figures being the first point of aries. In the last three figures, let PpR be the second and PpQ the third quadrant of right ascension; EeL the second and EeC the third quadrant of longitude, A in these figures being the first point of libra.\n\nLet S be a celestial object, and let PSH or pSH be a circle of declination, and ESF or eSF a circle of latitude passing through it, the angle LAR or QAC being the obliquity of the ecliptic. Then, reckoning from the first point of aries and according to the order of the signs, AH is the right ascension, SH the declination, AF the longitude, and SF the latitude of S.\n\nIn each of the figures, let it be supposed that the arc of a great circle passes from A to S, and then SAH, SAF will be two right angled triangles.\n\nBy trigonometry, \\(\\sin. AH : R :: \\tan. HS : \\tan. HAS = \\frac{R \\tan. HS}{\\sin. AH} = \\frac{R \\tan. \\text{declination}}{\\sin. AR}\\), north or south as the declination is.\n\nLet this first auxiliary angle be called A, and let O denote the\nDr. Robertson's demonstrations of the late obliquity of the ecliptic. Then in the first and second quadrants of right ascension, for a star whose declination is north, \\( A \\sim O = SAF = B \\), the second auxiliary angle, but in these quadrants for a star whose declination is south \\( A + O = SAF = B \\).\n\nIn the third and fourth quadrants of right ascension, for a star whose declination is north, \\( A + O = SAF = B \\), but in these quadrants for a star whose declination is south, \\( A \\sim O = SAF = B \\).\n\nIf \\( S \\) be on \\( Pp \\), as represented in Fig. 3 and 6, then \\( 90^\\circ - O = SAF = B \\).\n\nTo find the longitude,\n\nWe have the following proportions \\( \\cos. SAH : R :: \\tan. AH : \\tan. SA \\), and \\( R : \\cos. SAF :: \\tan. SA : \\tan. AF \\).\n\nHence \\( \\cos. SAH : \\cos. SAF :: \\tan. AH : \\tan. AF = \\frac{\\cos. SAF \\tan. AH}{\\cos. SAH} \\).\n\nThat is \\( \\tan. longitude = \\frac{\\cos. B \\tan. R}{\\cos. A} \\).\n\nOr, as \\( \\tan. A : R :: \\sin. A : \\cos. A = \\frac{R \\sin. A}{\\tan. A} \\), this being put for \\( \\cos. A \\) in the preceding expression, we have also \\( \\tan. longitude = \\frac{\\tan. A \\cos. B \\tan. R}{R \\sin. A} \\).\n\nIf \\( S \\) be on \\( Pp \\), then \\( R : \\cos. SAF :: \\tan. SA : \\tan. AF = \\frac{\\cos. SAF \\tan. SA}{R} \\). That is \\( \\tan. longitude = \\frac{\\cos. (90^\\circ - O) \\tan. declin.}{R} \\).\n\nTo find the latitude.\n\nBy trigonometry, \\( \\sin. AF : R :: \\tan. SF : \\tan. SAF \\), and therefore \\( \\tan. SF = \\frac{\\sin. AF \\tan. SAF}{R} \\), that is \\( \\tan. latitude = \\frac{\\sin. longitude \\tan. B}{R} \\).\n\nBut \\( \\tan. AF : R :: \\sin. AF : \\cos. AF \\), and \\( \\sin. AF = \\frac{\\tan. AF \\cos. AF}{R} \\), and this being put in the preceding expression for \\( \\sin. AF \\), we have also \\( \\tan. latitude = \\frac{\\tan. AF \\cos. AF \\tan. B}{R^2} = \\frac{\\tan. long. \\cos. long. \\tan. B}{R^2} \\).\nRules for ascertaining the longitude from the preceding formulae.\n\n1. The longitude falls in the first, second, third, or fourth quadrant, according as the right ascension is in the first, second, third; or fourth quadrant, unless the auxiliary angle B be equal to or greater than $90^\\circ$.\n\n2. If B be equal to $90^\\circ$ the longitude $= 0$, if the right ascension is in the first or fourth quadrant; but if the right ascension is in the second or third, the longitude $= 180^\\circ$.\n\n3. If B be greater than $90^\\circ$ the following are the consequences. If the right ascension is in the first quadrant, the longitude falls in the fourth, and on the contrary, if the right ascension is in the fourth, the longitude falls in the first. If the right ascension is in the second, the longitude falls in the third, and on the contrary, if the right ascension is in the third, the longitude falls in the second.\n\n4. If S be on the equinoctial colure, as represented in Fig. 3 and 6, (Pl. VI.) the following are the consequences. If S be between the first point of aries and P the longitude falls in the first quadrant, but if S be between the first point of libra and P the longitude falls in the second. If S be between the first point of aries and p the longitude falls in the fourth quadrant, but if S be between the first point of libra and p the longitude falls in the third quadrant.*\n\nThe first of these rules will be evident after the second and third are demonstrated.\n\n* No provision is made in Dr. Maskelyne's formulae for ascertaining the longitude of a celestial object on Pp in either of the two hemispheres.\nDemonstration of the second rule.\n\nIt is evident that the circle of latitude for any star in EAe coincides with EAe, and therefore in Fig. 1, 2, 3, (Pl. VI.) in which A represents the equinoctial point of aries, the longitude of such a star is 0°. Now in Fig. 3, let S be a star at the intersection of the arcs Ae, pH, and in this case, SAL in the first quadrant is equal to B = 90°. Again in Fig. 3, let S be a star at the intersection of the arcs EA, PH, and in this case SAC in the fourth quadrant is equal to B = 90°. In Fig. 6. (Pl. VI.) let S be a star at the intersection of the arcs eA, pH, and according to the rule, SAL in the second quadrant is equal to B = 90°. Lastly, in Fig. 6, let S be a star at the intersection of the arcs EA, PH, and according to the rule, SAC in the third quadrant is equal to B = 90°. It follows from these circumstances, that if B be equal to 90°, the star must be in EAe, and therefore that its longitude must be either 0 or 180°.\n\nDemonstration of the third Rule.\n\nLet S be a star in Fig. 2, between the arcs Ap, Ae, and then it is evident that its right ascension H is in the first, but its longitude F is in the fourth quadrant, and that SAL = B is greater than e AL or 90°. Again let S be a star in Fig. 2, between the arcs EA, PA, and then it is evident that its right ascension H is in the fourth quadrant, but its longitude F is in the first, and SAC, which is equal to B, is greater than EAC or 90°. In Fig. 5. (Pl. VI.) let S be a star between the arcs A e, Ap. Then H the right ascension is in the second quadrant, but F the longitude is in the third, and SAL, equal to B, is greater than e AL or 90°. Again in Fig. 5, let S be a star between the arcs EA, PA, and then it is evident that H\nits right ascension is in the third quadrant, but F its longitude is in the second, and SAC, which is equal to B, is greater than EAC or $90^\\circ$.\n\nHence it follows, that if B be greater than $90^\\circ$, the star must be situated between e A and p A, or between EA and PA, and that the consequences with respect to its longitude, must be as stated in the third Rule.\n\nDr. Maskelyne says, p. 59, Problem XIII. \"Longitude will be of the same kind, or in the same quadrant of the circle as AR is, unless B exceeds $90^\\circ$, which can only happen when AR is in second semicircle.* Then if AR be in third quadrant or from $6^\\circ$ to $9^\\circ$, longitude will be in second quadrant or from $3^\\circ$ to $6^\\circ$, and the operation will give L. cot. excess of long. above $3^\\circ$. Or if AR be in fourth quadrant, or from $9^\\circ$ to $12^\\circ$, longitude will be in first quadrant; and the operation will give, L.t, long. under $3^\\circ$, or in first quadrant.\"\n\n**Problem II.**\n\n\"The longitude and latitude of a celestial object, with the obliquity of the ecliptic, being given, to find its right ascension and declination.\"\n\nUsing the same figures as in the last article, by trigonometry, $\\sin. AF : R :: \\tan. SF : \\tan. SAF = \\frac{R \\tan. SF}{\\sin. AF} = \\frac{R \\tan. latitude}{\\sin. longitude}$, north or south as the latitude is.\n\nLet this first auxiliary angle be called A. Then when the longitude is in the first or second quadrant $A + O = SAH = B$, the second auxiliary angle, if the latitude is north, but $A - O = SAH = B$, if the latitude is south.\n\n* The words printed in italics contain a mistake, which would affect the longitude of any celestial object situated between Ap, Ae, and pe, both in Fig. 2 and 5.\nWhen the longitude is in the third or fourth quadrant, then \\( A \\sim O = SAH = B \\), if the latitude is north, but \\( A + O = SAH = B \\), if the latitude is south.\n\nIf \\( S \\) be on \\( Ee \\), as represented in Fig. 3, and 6, then \\( 90^\\circ - O = SAH = B \\).\n\nTo find the right ascension,\n\nWe have the following proportions, \\( \\cos. SAF : R :: \\tan. AF : \\tan. SA \\)\n\nand \\( R : \\cos. SAH :: \\tan. SA : \\tan. AH \\)\n\nHence, \\( \\cos. SAF : \\cos. SAH :: \\tan. AF : \\tan. AH = \\frac{\\cos. SAH \\tan. AF}{\\cos. SAF} \\).\n\nThat is \\( \\tan. AR = \\frac{\\cos. B \\tan. longitude}{\\cos. A} \\).\n\nBut \\( \\tan. A : R :: \\sin. A : \\cos. A = \\frac{R \\sin. A}{\\tan. A} \\), and this being put for the \\( \\cos. A \\) in the preceding expression, we have also\n\n\\( \\tan. AR = \\frac{\\tan. A \\cos. B \\tan. longitude}{R \\sin. A} \\).\n\nIf \\( S \\) be on \\( Ee \\), then \\( R : \\cos. SAH :: \\tan. SA : \\tan. AH = \\frac{\\cos. SAH \\tan. SA}{R} \\). That is \\( \\tan. AR = \\frac{\\cos. (90^\\circ - O) \\tan. latitude}{R} \\).\n\nTo find the declination.\n\nBy trigonometry \\( \\sin. AH : R :: \\tan. SH : \\tan. SAH \\), and \\( \\tan. SH = \\frac{\\sin. AH \\tan. SAH}{R} \\); that is \\( \\tan. declination = \\frac{\\sin. AR \\tan. B}{R} \\). But \\( \\tan. AH : R :: \\sin. AH : \\cos. AH \\), and \\( \\sin. AH = \\frac{\\tan. AH \\cos. AH}{R} \\), and this being put for \\( \\sin. AH \\) in the preceding expression, we have also \\( \\tan. declination = \\frac{\\tan. AR \\cos. AR \\tan. B}{R^2} \\).\n\nRules for ascertaining the right ascension from the preceding formulae.\n\n1. The right ascension falls in the first, second, third or fourth quadrant, according as the longitude is in the first, second, third or fourth quadrant, unless the auxiliary angle \\( B \\) be equal to, or greater than \\( 90^\\circ \\).\nDr. Maskelyne's formulae for finding the longitude, &c.\n\n2. If B be equal to $90^\\circ$, the right ascension is $= 0$, if the longitude is in the first or fourth quadrant; but if the longitude is in the second or third, the right ascension is $180^\\circ$.\n\n3. If B be greater than $90^\\circ$, the following are the consequences. If the longitude is in the first quadrant, the right ascension falls in the fourth, and on the contrary, if the longitude is in the fourth, the right ascension falls in the first. If the longitude is in the second, the right ascension falls in the third, and on the contrary, if the longitude is in the third, the right ascension falls in the second.\n\n4. If S be on Ee, as represented in Fig. 3 and 6, the following are the consequences. If S be between E and the first point of aries the right ascension falls in the fourth quadrant, but if S be between E and the first point of libra the right ascension falls in the third. If S be between e and the first point of aries the right ascension falls in the first quadrant, but if S be between e and the first point of libra the right ascension falls in the second quadrant.*\n\nThe first of these rules will be evident after the second and third are demonstrated.\n\nDemonstration of the second Rule.\n\nIt is evident that the circle of declination for any star in PAp, coincides with PAp, and therefore in Fig. 1, 2, 3, (Pl. VI.) in which A represents the equinoctial point of aries, the right ascension of such a star is $0$. But in Fig. 4, 5, 6, (Pl. VI.) in which A represents the equinoctial point of libra, the right ascension of a star on PAp is $180^\\circ$.\n\nNow in Fig. 3, let S be a star at the intersection of the arcs\n\n* No provision is made in Dr. Maskelyne's Formulae for ascertaining the right ascension of a celestial object on Ee in either of the two hemispheres.\nPA, EF, and in this case SAR, in the first quadrant, is equal to \\( B = 90^\\circ \\). Again in Fig. 3, let S be a star at the intersection of the arcs \\( pA, eF \\), and in this case SAQ, in the fourth quadrant \\( = 90^\\circ = B \\). In Fig. 6, let S be a star at the intersection of the arcs PA, EF, and in this case SAR, in the second quadrant, \\( = 90^\\circ = B \\). Lastly, in Fig. 6, let S be a star at the intersection of the arcs \\( pA, eF \\), and in this case SAQ, in the third quadrant, \\( = 90^\\circ = B \\). Hence it follows that if \\( B = 90^\\circ \\), the star must be in \\( PAp \\), and its right ascension as stated in the rule.\n\n**Demonstration of the third Rule.**\n\nIn Fig. 2, let S be a star between the arcs EA, PA, whose longitude F is in the first quadrant, but its right ascension H in the fourth, and then according to the rule SAR, which is greater than PAR or \\( 90^\\circ \\) is equal to B. Again in Fig. 2, let S be a star between the arcs \\( pA, eA \\), whose longitude F is in the fourth quadrant, but its right ascension H in the first, and then according to the rule, SAQ in the fourth, which is greater than \\( pAQ \\) or \\( 90^\\circ \\), is equal to B. In Fig. 5, let S be a star between the arcs PA, EA, whose longitude F is in the second quadrant, but its right ascension H in the third, and then according to the rule, SAR which is greater than PAR or \\( 90^\\circ \\) is equal to B. Lastly, in Fig. 5, let S be a star between the arcs \\( pA, eA \\), whose longitude F is in the third quadrant, but its right ascension H in the second, and then, according to the rule, SAQ, which is greater than \\( pAQ \\), or \\( 90^\\circ \\), is equal to B.\n\nIt therefore follows, that if B be greater than \\( 90^\\circ \\) the celestial object must be situated between EA and PA, or between \\( eA \\) and \\( pA \\): for if it be not so situated, B will not be greater\nDr. Maskelyne's formulae for finding the longitude, &c. 147\n\nthan $90^\\circ$. The consequences therefore with respect to its right ascension, must be as stated in the third rule.\n\nIn Dr. Maskelyne's XIVth Problem, it is said, \"right ascension will be of the same kind, or in the same quadrant of the circle as the longitude is, unless B exceeds $90^\\circ$, which can only happen when long. is in 1st semicircle.\" Then if long. be in 1st. quadrant; $AR$ will be in 4th quadrant; and the operation will give log. cot. excess of $AR$ above $9^\\circ$. Or if long. be in 2d. quadrant, $AR$ will be in 3d. quadrant, and the operation will give L. t. excess of $AR$ above $6^\\circ$.\n\nIn each of the two Problems the quantity which comes out by calculation, either for the longitude or right ascension, is the distance from the nearest equinoctial point. In the first quadrant this quantity itself is the longitude or right ascension. In the second quadrant this quantity must be subtracted from $180^\\circ$, but in the third quadrant it must be added to $180^\\circ$, and the difference or sum will be the longitude or right ascension sought. In the fourth quadrant this quantity must be subtracted from $360^\\circ$, and the remainder will be the longitude or right ascension required.\n\nM. Delambre has duly appreciated the value of Dr. Maskelyne's method, while comparing it with that of M. Lalande. Lalande uses the four following proportions for finding the longitude and latitude.\n\n\\[\nR : \\cos. AH :: \\cos. SH : \\cos. SA.\n\\]\n\\[\nR : \\sin. AH :: \\cot. SH : \\cot. SAH.\n\\]\n\\[\nR : \\cos. SAF :: \\tan. SA : \\tan. AF.\n\\]\n\\[\nR : \\sin. SA :: \\sin. SAF : \\sin. SF.\n\\]\n\n* These words printed in italics also contain a mistake, similar to that pointed out in the preceding Problem. In consequence of these mistakes, in each of the two instances, the remarks after the words in italics in the quotations are incomplete.\n\n† Page 304, Vol. I.\nHe afterwards observes that the right ascension and declination may be found from the longitude and latitude by means of the same analogies, by putting the longitude instead of right ascension, and latitude instead of declination.\n\nOf these and Dr. Maskelyne's formulæ, Mr. Delambre proceeds to say,* \"Maskelyne a réduit à trois les quatre analogies de Lalande. Par ce changement Maskelyne a remédié fort heureusement à un défaut assez considérable de la méthode de Lalande. Quand l'astre est voisin des points équinoxiaux, la première analogie de Lalande qui fait trouver l'inconnue par son cosinus, ne peut donner aucune précision. Maskelyne, au contraire, en évitant cette inconnue, qui n'est qu'un arc subsidiaire, n'emploie que la tangente, qui n'est jamais sujette à cet inconvénient.\"\n\n* Page 494, Vol. I.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107520.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 13,
+    "total-input-tokens": 20568,
+    "total-output-tokens": 5543,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1347,
+        2
+      ],
+      [
+        1347,
+        2977,
+        3
+      ],
+      [
+        2977,
+        4800,
+        4
+      ],
+      [
+        4800,
+        6422,
+        5
+      ],
+      [
+        6422,
+        8162,
+        6
+      ],
+      [
+        8162,
+        9893,
+        7
+      ],
+      [
+        9893,
+        11633,
+        8
+      ],
+      [
+        11633,
+        13486,
+        9
+      ],
+      [
+        13486,
+        15355,
+        10
+      ],
+      [
+        15355,
+        17278,
+        11
+      ],
+      [
+        17278,
+        18091,
+        12
+      ],
+      [
+        18091,
+        18091,
+        13
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107520",
+    "title": "Demonstrations of the Late Dr. Maskelyne's Formulae for Finding the Longitude and Latitude of a Celestial Object from Its Right Ascension and Declination; And for Finding Its Right Ascension and Declination from Its Longitude and Latitude, the Obliquity of the Ecliptic Being Given in Both Cases",
+    "authors": "Abram Robertson",
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 13,
+    "jstor_url": "https://www.jstor.org/stable/107520"
+  }
+}

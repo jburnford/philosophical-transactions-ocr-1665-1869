@@ -1,0 +1,79 @@
+{
+  "id": "6006ce24580f5c6dc9ecf147a5e9d9599199633a",
+  "text": "VI. Barometri novi descriptio, a D. G. Fahrenheit, R. S. S.\n\nIn recensione experimentorum nonnullorum circa ebullitionem quorundam liquorum a me factorum mentionem feci, gradum caloris aquae ebullientis termino tunc memorato, 212 nempe gradu um coerceri; postea variis observationibus atque experimentis edoctus sum terminum hunc, manente eadem atmosphaeræ gravitate, satis fixum esse, sed variante gravitate atmosphaeræ hunc terminum quoque diversimode variari posse. Experimenta in hunc scopum jam facta nunc quidem traderem, sed quoniam adhuc de certis circumstantiis edoctus esse velim, hinc recensionem illorum usque in aliud tempus reponam, & interea sollemmodo thermometri aliquius mentionem faciam, quod forsitan si non magis, tamen aquæ idoneum erit ad explorandam atmosphaeræ gravitatem, quam barometrum. Hujus delineatio in Figura VIII. est apposita.\n\nCylindro A B annectitur tubus B C, cui additur globulus oblongus CD, & huic tubulus gracillimo foramine praeditus D E. Cylindrus liquore quodam, qui calorem aquæ ebullientis perferre potest, replebitur. In tubulo BC, gradus caloris in aere obvii mensurabuntur ope scalæ affixa b c. Si autem thermometrum hocce aquæ bullienti imponatur, liquor thermometri non solum globulum CD implebit, sed etiam usque ad terminos varios tubuli DE affurget, secundum gradum caloris, quem aqua tempore experimenti a gravitate atmosphaeræ acquisitura est. Ita, si, exempli gratia, tempore experimenti altitudo mercurii in barometro sit 28 pollicum Londinensium, liquor in hocce thermometro attinget infi-\ninfimum locum in tubulo D E; Si vero gravitas atmosphærae æquipolleat altitudini mercurii triginta & unius pollicum, liquor a calore aquæ ebullientis usque ad locum supremum tubuli D E attolletur, termini vari autem caloris aquæ ebullientis non gradibus, sed illorum loco numeris digitorum, quibus altitudo mercurii in barometris vulgo mensuratur, ope nempe scalæ additæ de denotabuntur.\n\nVII. Observatio Lunaris Eclipse habita Ulyssipone in Palatio Regio Die 1. Novembris 1724. A PP. Joanne Baptista Carbone, & Dominico Capasso, Soc. Jesu. Communicante Excellentissimo Domino, Dno de Galvaon, Commendatore Villæ Meam & Francæ, Equ. Ord. Christ. Legato Sereniss. Reg. Portugall. ad Sereniss. Regem Magn. Britan. S. R. S.\n\nObservavimus hanc Eclipse Telescopiis, altero quidem Pedum Parisinorum 8. sed clarissimo, altero 10. sed minus claro: utroque tamen lunares maculae perfectissimè discernebantur. Ad temporis dimensionem usi sumus Horologio oscillatorio, vulgo Pendula, satis exacto, pluribus ante diebus in ipso observationis loco firmato, & quotidiano examine per meridianam lineam, ibidem a nobis jamdiu inventam, & pluries examinatam, ad medium Solis motum quam proxime reducto. Nocte vero ipsius Eclipse ter illud ad trutinam revocavimus, ut ejus a vero tempore discordiam deprehenderemus. Primo in transitu Fomalhantis per Meridianum, Hor. 8. M. 17. Sec. 18. Secundo in transitu Rigel seu Pedis Lucidi Orionis, Hor. 2. M. 35. Sec. 21. Tertio",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103770.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6502,
+    "total-output-tokens": 1094,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1550,
+        3
+      ],
+      [
+        1550,
+        3000,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103770",
+    "title": "Barometri Novi Descriptio, a D. G. Fahrenheit, R. S. S.",
+    "authors": "D. G. Fahrenheit",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103770"
+  }
+}

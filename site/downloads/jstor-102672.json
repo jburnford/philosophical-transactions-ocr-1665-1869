@@ -1,0 +1,79 @@
+{
+  "id": "1947437532ecb650740f1376bf13398a5edbcd6b",
+  "text": "VIII. An Experiment made at Gresham-College, shewing that the seemingly Spontaneous Ascention of Water in Small Tubes open at both ends is the same in Vacuo as in the open Air. By Mr Fr. Hauksbee, F. R. S.\n\nI took three pieces of small Tubes of Different bores, and fixt them in a piece of Cork directly Perpendicular, with their Lower Orifices as nicely even as I could. The same Cork I likewise fasten'd to a Wire, which pass'd through some Collars of Leather, included in a Box on the Upper Plate of the Receiver; by which means, I could at pleasure elevate or depress the Tubes without any danger of the Air's Insinuation. (See Fig. 4.) Thus prepar'd, and ting'd Water set on the Plate, the small Tubes (which never had been wetted) were drawn to the upper part of the Receiver by the premention'd Moveable Wire. Then the Air being withdrawn, the Tubes were caus'd to descend (by the same Wire as drew them up) till their lower ends were plung'd just under the surface of the ting'd Liquid; where they no sooner were, but the Water rose in each of them a considerable height above its surface in the Glass, and higher in the smaller Tubes than the larger; and would retain such a quantity as voluntarily arose in them, (if I may call it so,) notwithstanding their lower Orifices were drawn out of the Water. Upon letting in the Air again they continu'd just the same as in Vacuo. I found by plunging Tubes of several sizes in the ting'd Li-\nLiquid, that so much of the Liquid would remain suspended in them, when taken out of it, as it would in such Tubes when plung'd be Elevated above the surface of the Stagnant fluid: I have likewise since observ'd, upon bending some small Tubes by the flame of a Candle, in manner of Syphons, that it would require the Orifice of the longer Leg to be at least so far below the surface of the Stagnant Water, as that Water in the same Tube would spontaneously ascend in it, before it would run.\n\nLondon, Printed for Sam. Smith and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St Paul's Church-yard, 1706.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102672.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 620,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1445,
+        3
+      ],
+      [
+        1445,
+        2071,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102672",
+    "title": "An Experiment Made at Gresham-College, Shewing That the Seemingly Spontaneous Ascention of Water in Small Tubes Open at Both Ends is the Same in Vacuo as in the Open Air. By Mr Fr. Hauksbee, F. R. S.",
+    "authors": "Fr. Hauksbee",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102672"
+  }
+}

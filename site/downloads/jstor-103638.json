@@ -1,0 +1,79 @@
+{
+  "id": "b42920551adb686338eff96c4d4bc3fe22c93fb2",
+  "text": "III. A Letter from the Rev. Mr. James Pound, Rector of Wanstead, F. R. S. to Dr. Jurin, Secr. R. S. concerning Observations made with Mr. Hadley's Reflecting Telescope.\n\nIt were to be wish'd, that with the particular Description given in a late Transaction (Numb. 376.) of the curious Mechanism of that Catadioptrick Telescope, which was made by Mr. Hadley, and by him presented to the Royal Society; that most ingenious Gentleman would have communicated also a full Account of what Observations he had made with it, whereby the Publick might at length have been apprized of the Usefulness of an Invention, (worthy of its great Author, Sir Isaac Newton) which, perhaps from the vain Attempts made by some of putting it in Practice, hath lain neglected these 50 Years; for it is so long, since it was first published in the Philosophical Transactions, Numb. 81.\n\nMr. Hadley hath sufficiently convinced us, that this noble Invention doth not consist in bare Theory; and it is to be hoped, that he, or some other such curious and worthy Persons, (who scruple not at a little Pains and Cost) will in a short Time find out a Method, either of preserving the concave Metal from tarnishing, or of clearing it easily when tarnished, or else of making a good concave Speculum of Glass quicksilver'd on the Back-part. When a Method for either of these shall\nshall be discovered, 'tis not to be doubted, but that\nthe old Dioptrick Telescope will be for the most Part\nlaid by, and this Catoptrick one will be chiefly in use\namong the practical Astronomers; inasmuch as several\nInconveniencies and Difficulties, which are unavoida-\nble in the Management of the former, especially when\nlong, are in this latter wholly avoided.\n\nIt is no small Convenience, that by means of one\nof these reflecting Telescopes, whose Length exceeds\nnot five Feet, (and which may be managed at a Win-\ndow within the House) Coelestial Objects appear as\nmuch magnified, and as distinct, as they do through\nthe common Telescope, of more than 100 Feet in\nLength.\n\nMr. Bradley, the Savilian Professor of Astronomy,\nand myself, have compared Mr. Hadley's Telescope (in\nwhich the focal Length of the Object Metal is not\nquite 5 Feet and \\(\\frac{1}{4}\\)) with the Hugenian Telescope, the\nfocal Length of whose Object Glass is 123 Feet: And\nwe find, that the former will bear such a Charge, as\nto make it magnify the Object as many Times as the\nlatter with its due Charge; and that it represents Objects\nas distinct, though not altogether so clear and bright;\nwhich may be occasioned partly from the Difference\nof their Apertures (that of the Hugenian being some-\nwhat the larger) and partly from several little Spots in\nthe concave Surface of the Object Metal, which did\nnot admit of a good Polish.\n\nNotwithstanding this Difference in the Brightness\nof the Objects, we were able, with this reflecting Te-\nlescope, to see whatever we have hitherto discovered by\nthe Hugenian; particularly the Transits of Jupiter's\nSatellites, and their Shades, over the Dik of Jupiter;\nthe black Lift in Saturn's Ring; and the Edge of the\nShade\nShade of Saturn cast on his Ring, as represented by Fig. 4. Plate 2. of the foremention'd Transact. Numb. 376.\n\nWe have also seen with it several Times the 5 Satellites of Saturn; in viewing of which this Telescope had the Advantage of the Hugenian, at that Time when we compared them; for it being in Summer, and the Hugenian Telescope being managed without a Tube, the Twilight prevented us from seeing in this some of those small Objects, which at the same Time we could discern with the reflecting Telescope.\n\nI am, &c.\n\nJa. Pound.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103638.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1013,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1348,
+        2
+      ],
+      [
+        1348,
+        3086,
+        3
+      ],
+      [
+        3086,
+        3621,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103638",
+    "title": "A Letter from the Rev. Mr. James Pound, Rector of Wanstead, F. R. S. to Dr. Jurin, Secr. R. S. concerning Observations Made with Mr. Hadley's Reflecting Telescope",
+    "authors": "James Pound",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103638"
+  }
+}

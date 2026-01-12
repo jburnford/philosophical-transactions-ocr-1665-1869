@@ -1,0 +1,59 @@
+{
+  "id": "207f032cfcb1ee5fda500b0b21e057f5be2464dc",
+  "text": "N. B. In Tab. XI. the triangles connecting the three principal objects in the Scilly Isles, and the stations from whence they were intersected, are laid down in that detached position to shorten the plan.\n\nErrata in the Account of the Survey, Philos. Trans. 1795.\n\nPage 469, line 4, for 124 read 125.\n507, line 18, for 258 read 285.\n527, in the table, for $51^\\circ$ and $60^\\circ$ read $50^\\circ$ and $66^\\circ$.\nib. ib. col. 4, for 30 read 33.\n554, against Southwick Church, for 57710 read 5771.\n558 et alibi, for Mitford read Milford.\n559 et alibi, for Funtingdon read Fordington.\n580, line 10 from bottom, for 39\" read 47\".\n584, lines 2 and 3, for $\\frac{1}{15}$ read $\\frac{1}{13}$.\n\nThe triangles numbered 84, 100, 105, are doubtful, and consequently the results depending on them are uncertain.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106938.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 355,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        801,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106938",
+    "title": "Errata",
+    "authors": null,
+    "year": 1797,
+    "volume": "87",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106938"
+  }
+}

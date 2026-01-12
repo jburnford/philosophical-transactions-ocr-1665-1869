@@ -1,0 +1,69 @@
+{
+  "id": "fbedbc17f18332e72a73b7e6ebea455cf1fe3292",
+  "text": "V. A Letter on a Canal in the Medulla Spinalis of some Quadrupeds. In a Letter from Mr. William Sewell, to Everard Home, Esq. F. R. S.\n\nRead December 8, 1808.\n\nSir,\n\nAccording to your request, I send you an account of the facts I have ascertained, respecting a canal I discovered in the year 1803, in the medulla spinalis of the horse, bullock, sheep, hog, and dog; and should it appear to you deserving of being laid before the Royal Society, I shall feel myself particularly obliged, by having so great an honour conferred upon me.\n\nUpon tracing the sixth ventricle of the brain, which corresponds to the fourth in the human subject, to its apparent termination, the calamus scriptorius, I perceived the appearance of a canal, continuing by a direct course into the centre of the spinal marrow. To ascertain with accuracy whether such structure existed throughout its whole length, I made sections of the spinal marrow at different distances from the brain, and found that each divided portion exhibited an orifice with a diameter sufficient to admit a large sized pin; from which a small quantity of transparent colourless fluid issued, like that contained in the ventricles of the brain. The canal is lined by a membrane resembling the tunica arachnoidea, and is situated above the fissure of the medulla, being separated by a medullary layer: it is most easily distinguished where the large\nnerves are given off in the bend of the neck and sacrum, imperceptibly terminating in the cauda equina. Having satisfactorily ascertained its existence through the whole length of the spinal marrow, my next object was to discover whether it was a continued tube from one extremity to the other: this was most decidedly proved, by dividing the spinal marrow through the middle, and pouring mercury into the orifice where the canal was cut across, it passed in a small stream with equal facility towards the brain (into which it entered), or in a contrary direction to where the spinal marrow terminates.\n\nBy many similar experiments, I have since proved that a free communication of the limpid fluid, which the canal contains, is kept up between the brain and whole extent of spinal marrow. I have consulted the most celebrated authors on comparative anatomy, but do not find any such structure of those parts described, and as it is not known to you, I may presume that it has not been before taken notice of.\n\nI have the honour to be,\n\nSir, your obedient faithful servant,\n\nWM. SEWELL.\n\nVeterinary College,\nNov. 26, 1808.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107253.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 647,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1396,
+        2
+      ],
+      [
+        1396,
+        2518,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107253",
+    "title": "A Letter on a Canal in the Medulla spinalis of Some Quadrupeds",
+    "authors": "William Sewell",
+    "year": 1809,
+    "volume": "99",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107253"
+  }
+}

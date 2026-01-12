@@ -1,0 +1,69 @@
+{
+  "id": "dd36418e7ce9c83c27fb19657bf618541d83ddf2",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nFebruary 22. 1673.\n\nThe CONTENTS.\n\nAn Accomp of some Observations of the late Eclipse of the Moon, made in London, Paris, &c. An Answer of D. Paulus Bioronius given to some Philosophical Quere's concerning Iceland. Divers Rural and Oeconomical Inquiries recommended to Observation and Tryal. An Extract of a Letter of Dr. Wallis to M. Hevelius concerning Divisions by Diagonals. An Accomp of some Books: I. Some Physico-Theological Considerations about the Possibility of the RESURRECTION, by R. Boyle, Esq; II. Waare Oeffening der Planten, door Abraham Munting, M.D. III. The Prevention of Poverty; by Rich. Haynes.\n\nAn Account of what hath been observed here in London and Derby, by Mr. Hook, Mr. Flamstead, and others, concerning the late Eclipse of the Moon, of Jan. 1. 1673.\n\n| Tabb. Flamsted. Exhibit. |\n|--------------------------|\n| Initium ver.e Umbr.e | 5h. 22'. 58''. |\n| Immersion | 6. 19. 6. 32. 10. |\n| Emergence | 7. 58. 8. 7. 50. |\n| Finis ver.e umbr.e | 8. 58. 9. 7. 2. |\n\nAt Derby (which differs from London in Longitude five Minutes) Mr. Flamstead observ'd the Beginning of the Entrance of the true Shadow, H. 5' and 19'.\n\nThe Penumbra was seen in London to continue near half an Hour before it wholly quitted the Body of the Moon.\n\nThere was also observ'd here, about the middle of the total Obscuration of the Moon, an Eclipse of a notable fixt Star, so as that the precise Time of its Immersion and Emergence was seen.\n\nNot doubting but that Mr. Hook himself will shortly make publick in a more ample manner these Observations, and divers considerable Particulars by him then taken notice of; we shall forbear to say any more of it in this Place.\nAn Account of the Observations of the same Eclipse as they were made at Paris; communicated by the Learned Bullialdus, in his Letter to the Publisher, dated Febr. 6. 1675. f. n.\n\n| In Observator. | Tabb. Philolaiæ exhibent. |\n|----------------|--------------------------|\n| Reg. observarunt. | h.                       |\n| Par l'horologue à Pendule, | h.                       |\n| g. | h. |\n| 52. 26. | 5. 32. |\n| 5. 32. 20. | 5. 32. 50. |\n| 62. 8. | 6. 33. 3. |\n| 6. 33. 46. | 6. 35. 46. |\n| 43. 46. | 8. 9. 30. |\n| 8. 9. 30. | 8. 8. 0. |\n| 20. 47. | 9. 10. 0. |\n| 9. 9. 40. | 9. 26. 21. |\n\nCælum anticipat Tabulas; in aliis locis Tabulae anticipant Cælum.\n\n[This we may publish more particularly by our next, when we shall have received the Parisian Accompt in Print.]\n\nAn Accompt of D. Paulus Biornonius, residing in Iceland, given to some Philosophical Inquiries concerning that Country, formerly recommended to him from hence: The Narrative being in Latine, 'tis thus English'd by the Publisher.\n\nThe Captain of the English Ship being ready to set Sail, I cannot now answer your Queries so fully as I intended; but purpose to do it hereafter, when I shall write the Natural History of this Island. Mean time be pleased to accept of the short Notes following.\n\nOur Air is very healthy all the Year long. The Diseases, which the Inhabitants are most subject to, are the Cholick and Leprosy. We have no Physicians; only two or three Chirurgeons, that furnish us with some Plaisters for the dressing of Wounds. In our Air, Iron rusts very soon.\n\nThe Changes of the Weather are uncertain, nor do they fall out according to the four Seasons of the Year. Sometimes it snows as well as hails in the midst of Summer; and the Winds blow now and then most furiously at the same Season.\n\nAs to the Frost, it penetrates at most four Foot into the Earth. Spirit of Wine and Oyl is free from being frozen, much more Quick-silver. We preserve our Fish from Putrefaction by burying them in the Snow. Bodies frozen do swell, and are changed in Taste and Colour. The Figure of the Snow is various, and so is its Size. Hail is roundish; the greatest is only of the Bigness of Hail-shot that we kill Fowl with.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101182.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1248,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1698,
+        2
+      ],
+      [
+        1698,
+        3892,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101182",
+    "title": "An Account of What Bath Been Observed Here in London and Derby, by Mr. Hook, Mr. Flamstead, and Others, Concerning the Late Eclipse of the Moon, of Jan. 1. 164/5",
+    "authors": "Mr. Flamstead, Mr. Hook, Bullialdus",
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101182"
+  }
+}

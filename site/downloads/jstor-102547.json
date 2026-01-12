@@ -1,0 +1,59 @@
+{
+  "id": "7895a60a137d14ff0b6fa614db3b18c175c6e785",
+  "text": "IV. An Objection to the new Hypothesis of the Generation of Animals from Animalcula in Semine Masculino. By Dr. Martin Lister, Fellow of the College of Physicians and Royal Society.\n\nExercit. Anat. terr. p. 114.\n\nAmongst the many Arguments which I have used to confute the Opinion of Mr. Leeuwenhoeck about the Generation of Animals from innumerable little Animals in Semine Masculino, one I omitted, which is as follows:\n\nRursus quæro, si humanum corpus nascatur ab animalculo è semine masculino unde sint ista animalcula genita? & quidem generantur ad plurimos annos; scilicet ab adulto viro ad extremam usq; senectutem; certe à coitu peracto longè maxima eorum pars ejicitur; unde nova soboles indies succrescat, necesse est. An vero hæc animalculorum proles ferè diurna à sui similibus animalculis generentur, vel sponte nascantur? Posterius te, Leeuwenhoecke, existimare haud facile credo, quia tu, si quis alius, automata mirificè confutasti: si prius verò puies ipsa etiam illa animalcula, dum in semine masculino sunt, adulta esse sequetur, quòd generare potes sunt. At quam absurdum hoc sit, tute cogita; scilicet eadem animalia bis adolescere, nempe femel in semine masculino, atq; iterum in humano statu atq; conditione.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102547.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 431,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1231,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102547",
+    "title": "An Objection to the New Hypothesis of the Generation of Animals from Animalcula in Semine Masculino. By Dr. Martin Lister, Fellow of the Colledge of Physicians and Royal Society",
+    "authors": "Martin Lister",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102547"
+  }
+}

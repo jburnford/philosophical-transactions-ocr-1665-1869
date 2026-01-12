@@ -1,0 +1,59 @@
+{
+  "id": "b93f65b52523ae2eef35fe6aa03ae67ceaaae7d6",
+  "text": "An Account of an Aqueduct designed for carrying the River Eure to Versaille.\n\nThe Aqueduct which is to be made near Maintenon, for the carrying the River Eure to Versaille, will have in length 7000 Fathom; 462 whereof will be 35 Fathom and 4 foot high, the rest will be lower according to the difference of the ground, but not less than 5 foot and 6 Inches high. There will be to the said Aqueduct 861 Arches, which, where they are highest, will have 12 Fathom in breadth and 8 Fathom in thickness, diminishing to 14 foot at the top. The other Arches will be lesser in breadth, as well as thickness, according to the Nature of the ground. The said Aqueduct will have 15 Inches fall to every 1000 Fathom in length, so that for the 7000 Fathom, there will be 8 foot 8 Inches fall. The River is to pass by Maintenon, le Parc Espernon, Gajeran, Rambouillet, les Essars, le Perrey, Cognieres, and from thence to Versailles. There are 14000 Soldiers that work thereat, under the Command of the Marques d'Uxello, with three Commissaries of War for their Conduct, together with Treasurers, Pay-Masters, and Victuallers.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102146.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 378,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1111,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102146",
+    "title": "An Account of an Aqueduct Designd for Carrying the River Eure to Versaille",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102146"
+  }
+}

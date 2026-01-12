@@ -1,0 +1,89 @@
+{
+  "id": "ab740975e0ce6bbbf68a3775c29e4c0430bd73d1",
+  "text": "I. A Description of a Roman Sudatory, or Hypocaustum, found at Wroxeter in Shropshire, Anno 1701. By Mr John Lyster. Communicated to the Royal Society by John Harwood, LL.D. and F.R.S.\n\nAbout 40 Perches distant North from a ruinous Wall, call'd the Old-Work of Wroxeter, once Uriconium, a famous City in Shropshire, in a piece of Arable Land, in the Tenure of Mr Bennet, he observed, that altho these Fields had formerly been fertilized and made very rich by the Flames and Destruction of the City, yet a small Square Parcel thereof to be fruitless, and not to be improved by the best Manure. He then guessing the Cause of Sterility to be underneath, sent his Men to dig and search into it; but the Soil being then unsown, caus'd them to mistake, and search in a wrong place; where they happen'd upon Bottoms of old Walls, buried in their own Rubbish, (being such as are often found in those Fields;) and the Inhabitants digging one of them up, for the benefit of the Building-Stone, were thereby guided to the Western Corner of the said unprofitable Spot of Land: Where they found (near the Foundation) a little Door-place, which, when cleansed, gave Entrance into the Vacancy of a square Room, walled about, and floor'd under and over, with some Ashes and Earth therein.\n\nThis was built in times past (as some suppose) for a Sudatory, or Sweating-house for Roman Soldiers; being set with 4 Ranks of small Brick Pillars, 8 inches square, and laid in a strong sort of very fine Red Clay; each Pillar being\nbeing founded upon a foot square Quarry of Brick; and upon the head of every Pillar was fixed a large Quarry of 2 foot square, hard almost as Flint, as most of those Roman Bricks are, and within as Red as Scarlet, and fine as Chaik. These Pillars were to support a double Floor, made of very strong Mortar, mixed with coarse Gravel, and bruised or broken Bricks: The first of these Floors was laid upon the large Quarries, and, when dry, the second Floor was laid upon it.\n\nBut first there was a Range or Rank of Tunnel-Bricks, fixt with Iron cramps up to the Wall within, with their lower ends level with the under sides of the broad Quarries, and their upper ends with the surface of the upper Floor; and every Tunnel had alike 2 opposite Mortice-holes, one on either side, cut through for a cross passage to disperse the Heat amongst them all. The Form of the whole will be better understood by inspecting the Figures.\n\nExplanation of the Figures.\n\nFig. 1. A. B. C. D. is the Ground Plat, on which the Pillars of Brick stand.\n\nFig. 2. E. F. is one of the said Bricks; which are in Numb. 24.\n\nFig. 3. G. H. I. K. is the Ceiling of Square Tiles, which lie upon the Heads of the square Pillars.\n\nFig. 4. L. M. N. O. P. Q. is the Sweating-House, in Perspective, shewing in part the Manner of the Floors and Pillars as they were placed.\n\nFig. 5. R. S. T. U. is the double Floor, whose upper surface lies even with the tops of the Flews in the Perspective Draught.\n\nFig. 6. W. X. Is one of the Flews, or Tunnel-Bricks.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102673.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 940,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1506,
+        4
+      ],
+      [
+        1506,
+        3021,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102673",
+    "title": "A Description of a Roman Sudatory, or Hypocaustum, Found at Wroxeter in Shropshire, Anno 1701. By Mr John Lyster. Communicated to the Royal Society by John Harwood, LL. D. and F. R. S.",
+    "authors": "John Harwood, John Lyster",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102673"
+  }
+}

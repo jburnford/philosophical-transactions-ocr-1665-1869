@@ -1,0 +1,79 @@
+{
+  "id": "9fdd4e63b465a64c0d450c744037d37458d1bad0",
+  "text": "the red Matter had been then consumed, put an End to the Phænomenon before Eight.\n\nDuring the rest of the Evening, a pale Light covered the South Part of the Heavens, as if the Moon had shone.\n\nV. A Letter from Mr. Christopher Maire to the President, containing Observations made at Rome of the Eclipse of the Moon, Dec. 23. 1749; and of that of the Sun, Jan. 8. 1750.\n\nHonour'd Sir,\n\nRead Febr. 1. I Herewith send you my Observation of the two late Eclipses, to be communicated, if you please, to the Royal Society. The 23d of December, on which happened that of the Moon, was so boisterous a Day, that I despair'd of being able to see it, and for that Reason neglected to put my Micrometer in Order. My Clock had likewise been altered without my Knowledge, on which Account I betook myself too late to the Observation, as will appear by the following Detail. The Place of both Observations is in the Latitude of 41° 54' 0\". four Seconds of Time Eastward of St. Peter's. For I take it\nit for granted that the Thermae Dioclesianae are, according to Bianchini's Determination, in the Latitude of $41^\\circ 54' 27''$.\n\nEclipse of the Moon, Dec. 23. 1749.\n\nChord of the Part eclipsed 13 Min. as was deduc'd from the Map of the Moon - $7^h 47' 18''$\nHence Beginning of the Eclipse - $7^h 40' 53''$\nThe Shade to Tycho and Capuanus - $7^h 54' 3''$\nTycho intirely covered - $7^h 55' 56''$\nShade to Fracastorius - $8^h 28' 43''$\nFracastorius quite hid - $8^h 30' 24''$\nTycho intirely disengaged - $9^h 30' 24''$\nEnd of the Eclipse, as far as could be perceiv'd thro' a thin Cloud - $10^h 0' 16''$\n\nI judg'd the Eclipse to be somewhat less than five Digits.\n\nSolar Eclipse, Jan. 8. 1750.\n\nBeginning by a Reflector of Mr. Short,\nJan. 7. - $20^h 34' 35''$\nThe first Spot covered - $20^h 49' 50''$\nThe rest could not be observed for the Clouds\nQuantity of the Eclipse 7 Dig. 48. Min. $21^h 49' 4''$\nAgain more exactly - $7^h 43' - 21^h 51' 28''$\nThe Sun appears for a Moment; Horns nearly horizontal - $21^h 56' 15''$\nTwo Digits remain eclipsed $22^h\\ 55'\\ 37''$\nOne Digit exactly $23\\ 3\\ 42$\nEnd of the Eclipse $23\\ 11\\ 32'$\n\nThe Observation was made with a 7 Foot Tube,\n2610 Parts of the Micrometer just clasping the Sun's Diameter.\n\nI am, with all possible Respect,\n\nHonoured Sir,\n\nRome, Jan. 14. 1750.\n\nYour most Obedient\nHumble Servant\nChristopher Maire.\n\nVI. Some Observations on the Dragon-Fly or Libella of Pennsylvania, collected from Mr. John Bartram's Letters, communicated by Peter Collinson, F. R. S.\n\nRead Feb. 1. About the Beginning of May I observed many deformed Water-Insects, by Naturalists called Hexipodes, creep up out of the Water, and fix themselves on the Shrubs and Rushes; in this Situation they continue but a few Hours before their Back splits open; and from this deformed Case creeps out a beautiful Fly, with shining transparent Wings:",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104649.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1053,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        986,
+        2
+      ],
+      [
+        986,
+        2006,
+        3
+      ],
+      [
+        2006,
+        2854,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104649",
+    "title": "A Letter from Mr Christopher Maire to the President, Containing Observations Made at Rome of the Eclipse of the Moon, Dec. 23. 1749; And of That of the Sun, Jan. 8. 1750",
+    "authors": "Christopher Maire",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104649"
+  }
+}

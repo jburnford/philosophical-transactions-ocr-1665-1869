@@ -1,0 +1,89 @@
+{
+  "id": "6856d0fd94d3af5d1ec09651cf5e26d13b029781",
+  "text": "Finis umbræ veræ, quaë exit è limbo Lunæ circa punctum definitum per Diame-\ntrum à centro ductam per Cleomedem.\n\nIII. Observationes aliquot Circum-Jovialium habi-\nte eodem anno 1724. per eundem Cl. Blan-\nchinum. Ex eadem Epistola.\n\nDiss. Mens. T.V. post Med.Nost.\n8 Jun. H. M. S.\n\nIN Castro Viscardi supra Vul-\nsiniun in eodem serè Meridi-\nano cum Vulsiniis (vulgò Bolsena)\nSatelles fecundus B (Vide Fig. 2.)\nex umbra Jovis emerserat, & ita\nconfiguratus visebatur cum cae-\nteris.\n\nSatelles tertius C subit limbum\nJovis è directo fasciae mediae.\nSatellitis intimi A incipit lumen\nimminui.\n\nTotalis ejusdem immersio, re-\nliquis Satellitibus B, D, & fasciis\nperspicuè apparentibus.\n\n24 Jun. Romæ observata est tum im-\nmersio secundi Satellitis, tum pri-\nmi, ita configuratis Jovialibus.\n(Vide Fig. 3)\n\nSatellitis secundi B incipit lu-\nmen debilitari.\n\nOmnimoda ejusdem immersio.\nEtiam Satellitis primi A lumen imminui jam incipit.\n\nLux ejusdem omnino disparat, caeterorum lumine, & fasciarum adspectu nitidissime perseverante.\n\nKal. Jul. Illucescente Aurora, Romae immersio totalis intimi Satellitis Jovis clarissime spectata est; cum ante minuta secunda horaria 55' circiter, lumen ejusdem coeperit debilitari, caeteris Satellitibus & fasciis perspicue apparentibus, caelo clarissimo.\n\n18. Aug. Romae intimus Jovis Satelles ex umbra coepit emergere, & plenissime lucebat in A, inter limbum Jovis, & secundum Satellitem B, (Vide Fig. 4.) qui a limbo Jovis distabat semidiametro circiter Jovialis disci. Satelles A emersit ab umbra inter duas fascias corporis Jovialis inferiores, situ everso in Telescopio.\n\nObservatio fuit clarissima & diligentissima, caelo clarissimo.\n\n25. Sept. Romae, intimi Jovis Satellitis initium Emersionis.\n\nTotalis recuperatio luminis.\nII. Octob. Albani, ejusdem intimi Satellititis initium Emersionis.\n\nEx pluribus observationibus Romæ habitis, &c Ulyssipone, eruitur Meridianorum differentia 1 h. 28' 0'', seu Grad. 22, quae tanè differentia aut omnino vera, aut quam proximè veritati accedere videtur.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103471.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 846,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        876,
+        3
+      ],
+      [
+        876,
+        1760,
+        4
+      ],
+      [
+        1760,
+        2028,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103471",
+    "title": "Observationes Aliquot Circum-Jovialium Habitae Eodem Anno 1724. Per Eundem Cl. Blanchinum. Ex Eadem Epistola",
+    "authors": "Cl. Blanchinum",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103471"
+  }
+}

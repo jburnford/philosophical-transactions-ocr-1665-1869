@@ -1,0 +1,663 @@
+---
+layout: default
+title: "A Supplementary Memoir on the Theory of Matrices"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/156/">Volume 156</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>A Supplementary Memoir on the Theory of Matrices</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">A. Cayley</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1866</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">156</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">12 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-108937.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-108937.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/108937" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">II. A Supplementary Memoir on the Theory of Matrices.
+
+By A. Cayley, Esq., F.R.S.
+
+Received October 24,—Read December 7, 1865.
+
+M. Hermite, in a paper &quot;Sur la théorie de la transformation des fonctions Abéliennes,&quot; Comptes Rendus, t. xl. (1855), pp. 249, &amp;c., establishes incidentally the properties of the matrix for the automorphic linear transformation of the bipartite quadric function $xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27;$, or transformation of this function into one of the like form, $XW&#x27; + YZ&#x27; - ZY&#x27; - WX&#x27;$. These properties are (as will be shown) deducible from a general formula in my &quot;Memoir on the Automorphic Linear Transformation of a Bipartite Quadric Function,&quot; Phil. Trans. vol. cxlviii. (1858), pp. 39–46; but the particular case in question is an extremely interesting one, the theory whereof is worthy of an independent investigation. For convenience the number of variables is taken to be four; but it will be at once seen that as well the demonstrations as the results are in fact applicable to any even number whatever of variables.
+
+Article Nos. 1 &amp; 2.—Notation and Remarks.
+
+1. I use throughout the notation and formulæ contained in my &quot;Memoir on the Theory of Matrices,&quot; Phil. Trans. vol. cxlviii. (1858), pp. 17–37, and in the above-mentioned memoir on the Automorphic Transformation. With respect to the composition of matrices, the rule of composition is as follows, viz., any line of the compound matrix is obtained by combining the corresponding line of the first or further component matrix with the several columns of the second or nearer component matrix; it is very convenient to indicate this by the algorithm,
+
+$$\begin{pmatrix}
+(a, b, c) &amp; (\alpha, \beta, \gamma) \\
+(a&#x27;, b&#x27;, c&#x27;) &amp; (\alpha&#x27;, \beta&#x27;, \gamma&#x27;) \\
+(a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;) &amp; (\alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27;)
+\end{pmatrix} = \begin{pmatrix}
+(a, b, c) &amp; (\alpha, \beta, \gamma) \\
+(a&#x27;, b&#x27;, c&#x27;) &amp; (\alpha&#x27;, \beta&#x27;, \gamma&#x27;) \\
+(a&#x27;&#x27;, b&#x27;&#x27;, c&#x27;&#x27;) &amp; (\alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27;)
+\end{pmatrix}$$
+
+which exhibits very clearly the terms which are to be combined together; thus in the upper left-hand corner we have $(a, b, c)(\alpha, \beta, \gamma)$, and so for the other places in the compound matrix.
+
+2. It is not in the Memoir on Matrices explicitly remarked, but it is easy to see that sums of matrices, all the matrices being of the same order, may be multiplied together by the ordinary rule; thus
+
+$$(A+B)(C+D)=AC+AD+BC+BD:$$
+
+this remark will be useful in the sequel.
+
+MDCCCLXVI.
+Article Nos. 3 to 13.—First Investigation.
+
+3. We have to consider the formulæ for the automorphic linear transformation of the function \(xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27;\), that is, of the function
+
+\[
+\begin{vmatrix}
+\cdot &amp; \cdot &amp; \cdot &amp; -1 \\
+\cdot &amp; \cdot &amp; -1 &amp; \cdot \\
+\cdot &amp; 1 &amp; \cdot &amp; \cdot \\
+1 &amp; \cdot &amp; \cdot &amp; \cdot
+\end{vmatrix}
+(x, y, z, w; x&#x27;, y&#x27;, z&#x27;, w&#x27;)
+\]
+
+\(= (\Omega (x, y, z, w; x&#x27;, y&#x27;, z&#x27;, w&#x27;),\)
+
+viz., if the variables are transformed by the formulæ
+
+\[
+(x, y, z, w) = (\Pi (X, Y, Z, W),
+(x&#x27;, y&#x27;, z&#x27;, w&#x27;) = (\Pi (X&#x27;, Y&#x27;, Z&#x27;, W&#x27;),
+\]
+
+then the matrix \((\Pi)\) is such that we have identically
+
+\[
+(\Omega (x, y, z, w; x&#x27;, y&#x27;, z&#x27;, w&#x27;) = (\Omega (X, Y, Z, W; X&#x27;, Y&#x27;, Z&#x27;, W&#x27;);
+\]
+
+the expression for \((\Pi)\) is given in my memoir above referred to; viz., observing that the matrix \((\Omega)\) is skew symmetrical, then (No. 13) we have
+
+\[
+\Pi = \Omega^{-1}(\Omega - \Upsilon)(\Omega + \Upsilon)^{-1}\Omega,
+\]
+
+where \(\Upsilon\) is an arbitrary symmetrical matrix.
+
+4. I propose to compare with the matrix \(\Pi\) the inverse matrix \(\Pi^{-1}\). Recollecting that in the theory of matrices \((ABCD)^{-1} = D^{-1}C^{-1}B^{-1}A^{-1}\), we have
+
+\[
+\Pi^{-1} = \Omega^{-1}(\Omega + \Upsilon)(\Omega - \Upsilon)^{-1}\Omega;
+\]
+
+and it is to be shown that \(\Pi\) and \(\Pi^{-1}\) are composed of terms which (except as to their signs) are the same in each, so that either of these matrices is derivable from the other by a peculiar form of transposition. It is to be borne in mind throughout that \(\Upsilon\) is symmetrical, \(\Omega\) skew symmetrical.
+
+5. I write for greater convenience
+
+\[
+-\Pi = \Omega^{-1}(\Upsilon - \Omega)(\Upsilon + \Omega)^{-1}\Omega,
+\]
+
+\[
+-\Pi^{-1} = \Omega^{-1}(\Upsilon + \Omega)(\Upsilon - \Omega)^{-1}\Omega,
+\]
+
+and I compare in the first instance the matrices \((\Upsilon - \Omega)(\Upsilon + \Omega)^{-1}\) and \((\Upsilon + \Omega)(\Upsilon - \Omega)^{-1}\).
+
+6. Any matrix whatever, and therefore the matrix \((\Upsilon + \Omega)^{-1}\), may be exhibited as the sum of a symmetrical matrix and a skew symmetrical matrix; that is, we may write
+
+\[
+(\Upsilon + \Omega)^{-1} = \Upsilon&#x27; + \Omega&#x27;,
+\]
+
+where \(\Upsilon&#x27;\) is symmetrical, \(\Omega&#x27;\) is skew symmetrical. We have then
+
+\[
+(\Upsilon + \Omega)(\Upsilon + \Omega)^{-1} = (\Upsilon + \Omega)(\Upsilon&#x27; + \Omega&#x27;) = 1,
+\]
+where, here and in what follows, 1 denotes the matrix unity. Moreover
+
+\[ \Upsilon - \Omega = \text{tr.}(\Upsilon + \Omega), \]
+
+and thence
+
+\[ (\Upsilon - \Omega)^{-1} = (\text{tr.}(\Upsilon + \Omega))^{-1} = \text{tr.}(\Upsilon&#x27; + \Omega&#x27;) = \Upsilon&#x27; - \Omega&#x27;; \]
+
+that is,
+
+\[ (\Upsilon - \Omega)^{-1} = \Upsilon&#x27; - \Omega&#x27;; \]
+
+and thence also
+
+\[ (\Upsilon - \Omega)(\Upsilon - \Omega)^{-1} = (\Upsilon - \Omega)(\Upsilon&#x27; - \Omega&#x27;) = 1. \]
+
+We have therefore
+
+\[ (\Upsilon - \Omega)(\Upsilon + \Omega)^{-1} = (\Upsilon + \Omega - 2\Omega)(\Upsilon&#x27; + \Omega&#x27;) = 1 - 2\Omega(\Upsilon&#x27; + \Omega&#x27;), \]
+
+\[ (\Upsilon + \Omega)(\Upsilon - \Omega)^{-1} = (\Upsilon - \Omega + 2\Omega)(\Upsilon&#x27; - \Omega&#x27;) = 1 + 2\Omega(\Upsilon&#x27; - \Omega&#x27;). \]
+
+7. Suppose for a moment that
+
+\[ \Upsilon&#x27; + \Omega&#x27; = \begin{pmatrix} a, b, c, d \\ e, f, g, h \\ i, j, k, l \\ m, n, o, p \end{pmatrix} \]
+
+and therefore
+
+\[ \Upsilon&#x27; - \Omega&#x27; = \begin{pmatrix} a, e, i, m \\ b, f, j, n \\ c, g, k, o \\ d, h, l, p \end{pmatrix} \]
+
+8. We have
+
+\[ -\Omega(\Upsilon&#x27; + \Omega&#x27;) = \begin{pmatrix} . &amp; . &amp; . &amp; 1 \\ . &amp; . &amp; 1 &amp; . \\ . &amp; -1 &amp; . &amp; . \\ -1 &amp; . &amp; . &amp; . \end{pmatrix} \begin{pmatrix} a, b, c, d \\ e, f, g, h \\ i, j, k, l \\ m, n, o, p \end{pmatrix} \]
+
+\[ = \begin{pmatrix} . &amp; . &amp; . &amp; 1 \\ . &amp; . &amp; 1 &amp; . \\ . &amp; -1 &amp; . &amp; . \\ -1 &amp; . &amp; . &amp; . \end{pmatrix} \begin{pmatrix} a, e, i, m \\ b, f, j, n \\ c, g, k, o \\ d, h, l, p \end{pmatrix} \]
+
+\[ = \begin{pmatrix} m, n, o, p \\ i, j, k, l \\ -e, -f, -g, -h \\ -a, -b, -c, -d \end{pmatrix}. \]
+9. And similarly,
+
+\[ \Omega(\Upsilon&#x27; - \Omega&#x27;) = \begin{pmatrix} \cdot &amp; \cdot &amp; \cdot &amp; -1 \\ \cdot &amp; \cdot &amp; -1 &amp; \cdot \\ \cdot &amp; 1 &amp; \cdot &amp; \cdot \\ 1 &amp; \cdot &amp; \cdot &amp; \cdot \end{pmatrix} \begin{pmatrix} a, e, i, m \\ b, f, j, n \\ c, g, k, o \\ d, h, l, p \end{pmatrix} \]
+
+\[ = \begin{pmatrix} \cdot &amp; \cdot &amp; \cdot &amp; -1 \\ \cdot &amp; \cdot &amp; -1 &amp; \cdot \\ \cdot &amp; 1 &amp; \cdot &amp; \cdot \\ 1 &amp; \cdot &amp; \cdot &amp; \cdot \end{pmatrix} \begin{pmatrix} (a, b, c, d), (e, f, g, h), (i, j, k, l), (m, n, o, p) \end{pmatrix} \]
+
+\[ = (-d, -h, -l, -p), \begin{pmatrix} -c, -g, -k, -o \\ b, f, j, n \\ a, e, i, m \end{pmatrix} \]
+
+10. Hence also
+
+\[ (\Upsilon - \Omega)(\Upsilon + \Omega)^{-1} = \begin{pmatrix} 1+2m, 2n, 2o, 2p \\ 2i, 1+2j, 2k, 2l \\ -2e, -2f, 1-2g, -2h \\ -2a, -2b, -2c, 1-2d \end{pmatrix}, \]
+
+and
+
+\[ (\Upsilon + \Omega)(\Upsilon - \Omega)^{-1} = \begin{pmatrix} 1-2d, -2h, -2l, -2p \\ -2c, 1-2g, -2k, -2o \\ 2b, 2f, 1+2j, 2n \\ 2a, 2e, 2i, 1+2m \end{pmatrix}, \]
+
+so that these matrices are composed of terms which, except as to the signs, are the same in each.
+
+11. Now in general if
+
+\[ \Theta = \begin{pmatrix} \alpha, \beta, \gamma, \delta \\ \alpha&#x27;, \beta&#x27;, \gamma&#x27;, \delta&#x27; \\ \alpha&#x27;&#x27;, \beta&#x27;&#x27;, \gamma&#x27;&#x27;, \delta&#x27;&#x27; \\ \alpha&#x27;&#x27;&#x27;, \beta&#x27;&#x27;&#x27;, \gamma&#x27;&#x27;&#x27;, \delta&#x27;&#x27;&#x27; \end{pmatrix}, \]
+
+then it is easy to see that
+
+\[ \Omega^{-1}\Theta\Omega = \begin{pmatrix} \delta&#x27;&#x27;, \gamma&#x27;&#x27;, -\beta&#x27;&#x27;, -\alpha&#x27;&#x27; \\ \delta&#x27;&#x27;, \gamma&#x27;&#x27;, -\beta&#x27;&#x27;, -\alpha&#x27;&#x27; \\ -\delta&#x27;, -\gamma&#x27;, \beta&#x27;, \alpha&#x27; \\ -\delta, -\gamma, \beta, \alpha \end{pmatrix}. \]
+and hence, from the foregoing values of \((\Upsilon - \Omega)(\Upsilon + \Omega)^{-1}\) and \((\Upsilon + \Omega)(\Omega - \Upsilon)^{-1}\), we find
+
+\[
+\Pi = -\Omega^{-1}(\Upsilon - \Omega)(\Upsilon + \Omega)^{-1}\Omega = \begin{pmatrix}
+-1+2d &amp; 2c &amp; -2b &amp; -2a \\
+2h &amp; -1+2g &amp; -2f &amp; -2e \\
+2l &amp; 2k &amp; -1-2j &amp; -2i \\
+2p &amp; 2o &amp; -2n &amp; -1-2m
+\end{pmatrix}
+\]
+
+and
+
+\[
+\Pi^{-1} = -\Omega^{-1}(\Upsilon + \Omega)(\Upsilon - \Omega)^{-1}\Omega = \begin{pmatrix}
+-1-2m &amp; -2i &amp; 2e &amp; 2a \\
+-2n &amp; -1-2j &amp; 2f &amp; 2b \\
+-2o &amp; -2k &amp; -1+2g &amp; 2c \\
+-2p &amp; -2l &amp; +2h &amp; -1+2d
+\end{pmatrix}
+\]
+
+which shows that the matrix \(\Pi\) for the automorphic transformation of the function \(xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27;\) is such that writing
+
+\[
+\Pi = (A, B, C, D) \quad \text{we have} \quad \Pi^{-1} = (P, L, -H, -D)
+\]
+
+\[
+E, F, G, H \quad O, K, -G, -C
+\]
+
+\[
+I, J, K, L \quad -N, -J, F, B
+\]
+
+\[
+M, N, O, P \quad -M, -I, E, A
+\]
+
+which is the theorem in question.
+
+12. I remark in reference to the foregoing proof that writing
+
+\[
+\Upsilon = \begin{pmatrix}
+a, h, g, l \\
+h, b, f, m \\
+g, f, c, n \\
+l, m, n, p
+\end{pmatrix}
+\]
+
+then the actual value of
+
+\[
+(\Upsilon + \Omega)^{-1} = \begin{pmatrix}
+a, h, g, l-1 \\
+h, b, f-1, m \\
+g, f+1, c, n \\
+l+1, m, n, d
+\end{pmatrix}^{-1}
+\]
+
+is
+
+\[
+= \frac{1}{\Delta} \begin{pmatrix}
+A+d, H+n+v, G-m-\mu, L-l+\varepsilon \\
+H+n-v, B+c, F-f+\lambda, M-g+\sigma \\
+G-m+\mu, F-f-\lambda, C+b, N+h+\tau \\
+L-l-\varepsilon, M-g-\sigma, N+h-\tau, D+a
+\end{pmatrix}
+\]
+where
+
+\[
+\begin{pmatrix}
+A &amp; H &amp; G &amp; L \\
+H &amp; B &amp; F &amp; M \\
+G &amp; F &amp; C &amp; N \\
+L &amp; M &amp; N &amp; D
+\end{pmatrix}
+\]
+
+is the matrix formed with the first minors of
+
+\[
+\begin{pmatrix}
+a &amp; h &amp; g &amp; l \\
+h &amp; b &amp; f &amp; m \\
+g &amp; f &amp; c &amp; n \\
+l &amp; m &amp; n &amp; d
+\end{pmatrix};
+\]
+
+moreover
+
+\[
+\lambda = ad - l^2 + nh - mg + 1, \quad \varepsilon = bc - f^2 + nh - mg + 1,
+\]
+\[
+\mu = bn - mf + dh - ml, \quad \sigma = fg - ch + gl - na,
+\]
+\[
+\nu = dg - nl + nf - cm, \quad \tau = hf - bg + ma - lh,
+\]
+
+and \( \Delta \) is the determinant
+
+\[
+\begin{pmatrix}
+a &amp; h &amp; g &amp; l+1 \\
+h &amp; b &amp; f+1 &amp; m \\
+g &amp; f-1 &amp; c &amp; n \\
+l-1 &amp; m &amp; n &amp; d
+\end{pmatrix}
+\]
+
+viz., this is
+
+\[
+= \begin{vmatrix}
+a &amp; h &amp; g &amp; l \\
+h &amp; b &amp; f &amp; m \\
+g &amp; f &amp; c &amp; n \\
+l &amp; m &amp; n &amp; d
+\end{vmatrix} + ad - l^2 + bc - f^2 + 2(nh - mg) + 1.
+\]
+
+13. The expression for \((Y - \Omega)^{-1}\) is obtained from that of \((Y + \Omega)^{-1}\) by merely transposing the terms of the matrix, or, what is the same thing, by changing the signs of \( \lambda, \mu, \nu, \varepsilon, \sigma, \tau \). And it would be easy by means of these developed values to verify the foregoing comparison of \((Y - \Omega)(Y + \Omega)^{-1}\) and \((Y + \Omega)(Y - \Omega)^{-1}\).
+
+Article Nos. 14 to 22.—Second Investigation.
+
+14. I consider from a different point of view the theory of a matrix
+
+\[
+\Pi = \begin{pmatrix}
+a &amp; b &amp; c &amp; d \\
+e &amp; f &amp; g &amp; h \\
+i &amp; j &amp; k &amp; l \\
+m &amp; n &amp; o &amp; p
+\end{pmatrix}
+\]
+
+such that \( \Pi^{-1} = \begin{pmatrix}
+p &amp; l &amp; -h &amp; -d \\
+o &amp; k &amp; -g &amp; -c \\
+-n &amp; -j &amp; f &amp; b \\
+-m &amp; -i &amp; e &amp; a
+\end{pmatrix},
+\]
+
+or, as we may call it, a Hermitian matrix.
+15. **Lemma.** The determinant
+
+\[ \nabla = \begin{vmatrix} a, &amp; b, &amp; c, &amp; d \\ e, &amp; f, &amp; g, &amp; h \\ i, &amp; j, &amp; k, &amp; l \\ m, &amp; n, &amp; o, &amp; p \end{vmatrix} \]
+
+may be expressed, and that in two different ways, as a Pfaffian.
+
+16. In fact multiplying the determinant into itself thus,
+
+\[ \nabla^2 = \begin{vmatrix} a, &amp; b, &amp; c, &amp; d \\ e, &amp; f, &amp; g, &amp; h \\ i, &amp; j, &amp; k, &amp; l \\ m, &amp; n, &amp; o, &amp; p \end{vmatrix} \text{ tr. } \begin{vmatrix} d, &amp; c, &amp; -b, &amp; -a \\ h, &amp; g, &amp; -f, &amp; -e \\ l, &amp; k, &amp; -j, &amp; -i \\ p, &amp; o, &amp; -n, &amp; -m \end{vmatrix} \]
+
+we find
+
+\[ \nabla^2 = (a, b, c, d) \begin{vmatrix} s_{11}, &amp; s_{12}, &amp; s_{13}, &amp; s_{14} \\ s_{21}, &amp; s_{22}, &amp; s_{23}, &amp; s_{24} \\ s_{31}, &amp; s_{32}, &amp; s_{33}, &amp; s_{34} \\ s_{41}, &amp; s_{42}, &amp; s_{43}, &amp; s_{44} \end{vmatrix} \]
+
+viz. we have \( s_{11} = (a, b, c, d)(d, c, -b, -a), s_{12} = (a, b, c, d)(h, g, -f, -e), \&amp;c. \): we see at once that \( s_{11} = 0, s_{12} + s_{21} = 0, \&amp;c., \) viz. the determinant in \( s \) is a skew determinant, that is, the square of a Pfaffian. We have therefore
+
+\[ \nabla^2 = (s_{12}s_{24} + s_{13}s_{42} + s_{14}s_{23})^2, \]
+
+or extracting the square root of each side, and determining the sign by a comparison of any single term, we have
+
+\[ \nabla = s_{12}s_{34} + s_{13}s_{42} + s_{14}s_{23}, \]
+
+which is one of the required forms of \( \nabla \).
+
+17. And in the same manner
+
+\[ \nabla^2 = \text{ tr. } \begin{vmatrix} a, &amp; b, &amp; c, &amp; d \\ e, &amp; f, &amp; g, &amp; h \\ i, &amp; j, &amp; k, &amp; l \\ m, &amp; n, &amp; o, &amp; p \end{vmatrix} \cdot \begin{vmatrix} m, &amp; n, &amp; o, &amp; p \\ i, &amp; j, &amp; k, &amp; l \\ -e, &amp; -f, &amp; -g, &amp; -h \\ -a, &amp; -b, &amp; -c, &amp; -d \end{vmatrix} \]
+
+which is equal to the determinant
+
+\[ \begin{vmatrix} t_{11}, &amp; t_{12}, &amp; t_{13}, &amp; t_{14} \\ t_{21}, &amp; t_{22}, &amp; t_{23}, &amp; t_{24} \\ t_{31}, &amp; t_{32}, &amp; t_{33}, &amp; t_{34} \\ t_{41}, &amp; t_{42}, &amp; t_{43}, &amp; t_{44} \end{vmatrix} = (a, e, i, m) \begin{vmatrix} s_{11}, &amp; s_{12}, &amp; s_{13}, &amp; s_{14} \\ s_{21}, &amp; s_{22}, &amp; s_{23}, &amp; s_{24} \\ s_{31}, &amp; s_{32}, &amp; s_{33}, &amp; s_{34} \\ s_{41}, &amp; s_{42}, &amp; s_{43}, &amp; s_{44} \end{vmatrix} \]
+viz. \( t_{11} = (a, e, i, m) \times (m, i, -e, -a), \) &amp;c.; this is likewise a skew determinant, and we have
+
+\[
+\nabla^2 = (t_{12} t_{34} + t_{13} t_{24} + t_{14} t_{23})^2,
+\]
+
+or extracting the square root of each side, and determining the sign by the comparison of any single term, we have
+
+\[
+\nabla = t_{12} t_{34} + t_{13} t_{24} + t_{14} t_{23},
+\]
+
+which is the other of the required forms of \( \nabla \).
+
+18. Consider now the matrix
+
+\[
+\begin{pmatrix}
+a, b, c, d \\
+e, f, g, h \\
+i, j, k, l \\
+m, n, o, p
+\end{pmatrix}
+\]
+
+which is such that
+
+\[
+\begin{pmatrix}
+a, b, c, d \\
+e, f, g, h \\
+i, j, k, l \\
+m, n, o, p
+\end{pmatrix}^{-1} =
+\begin{pmatrix}
+p, l, -h, -d \\
+o, k, -g, -c \\
+-n, -j, f, b \\
+-m, -i, e, a
+\end{pmatrix}
+\]
+
+this gives
+
+\[
+\begin{pmatrix}
+1, 0, 0, 0 \\
+0, 1, 0, 0 \\
+0, 0, 1, 0 \\
+0, 0, 0, 1
+\end{pmatrix} =
+\begin{pmatrix}
+a, b, c, d \\
+e, f, g, h \\
+i, j, k, l \\
+m, n, o, p
+\end{pmatrix}
+\begin{pmatrix}
+p, l, -h, -d \\
+o, k, -g, -c \\
+-n, -j, f, b \\
+-m, -i, e, a
+\end{pmatrix}
+\]
+
+\[
+= (a, b, c, d)
+\begin{pmatrix}
+p, o, -n, -m \\
+l, k, -j, -i \\
+-h, -g, f, e \\
+-d, -c, b, a
+\end{pmatrix}
+\]
+
+which is in fact
+
+\[
+\begin{pmatrix}
+1, 0, 0, 0 \\
+0, 1, 0, 0 \\
+0, 0, 1, 0 \\
+0, 0, 0, 1
+\end{pmatrix} =
+\begin{pmatrix}
+s_{14}, s_{13}, -s_{12}, -s_{11} \\
+s_{24}, s_{23}, -s_{22}, -s_{21} \\
+s_{34}, s_{33}, -s_{32}, -s_{31} \\
+s_{44}, s_{43}, -s_{42}, -s_{41}
+\end{pmatrix},
+\]
+
+and the two matrices will be equal, term by term, if only
+
+\[
+1 = s_{14} = s_{23},
+\]
+
+\[
+0 = s_{13} = s_{12} = s_{24} = s_{34},
+\]
+
+that is, if six conditions are satisfied.
+19. But we have also (a matrix and its reciprocal being convertible)
+
+\[
+\begin{pmatrix}
+1 &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; 1 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 1 &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; 1
+\end{pmatrix}
+=
+\begin{pmatrix}
+p &amp; l &amp; -h &amp; -d \\
+o &amp; k &amp; -g &amp; -c \\
+-n &amp; -j &amp; f &amp; b \\
+-m &amp; -i &amp; e &amp; a
+\end{pmatrix}
+\]
+
+which is in fact
+
+\[
+\begin{pmatrix}
+1 &amp; 0 &amp; 0 &amp; 0 \\
+0 &amp; 1 &amp; 0 &amp; 0 \\
+0 &amp; 0 &amp; 1 &amp; 0 \\
+0 &amp; 0 &amp; 0 &amp; 1
+\end{pmatrix}
+=
+\begin{pmatrix}
+t_{14} &amp; t_{24} &amp; t_{34} &amp; t_{44} \\
+t_{13} &amp; t_{23} &amp; t_{33} &amp; t_{43} \\
+-t_{12} &amp; -t_{22} &amp; -t_{32} &amp; -t_{42} \\
+-t_{11} &amp; -t_{21} &amp; -t_{31} &amp; -t_{41}
+\end{pmatrix}
+\]
+
+and we obtain for the equality of the two matrices the six conditions
+
+\[1 = t_{14} = t_{23}, \quad 0 = t_{13} = t_{12} = t_{24} = t_{34},\]
+
+equivalent to the former set of six conditions.
+
+20. We obtain from either set of conditions, for the determinant the value
+
+\[
+\nabla = \begin{vmatrix}
+a &amp; b &amp; c &amp; d \\
+e &amp; f &amp; g &amp; h \\
+i &amp; j &amp; k &amp; l \\
+m &amp; n &amp; o &amp; p
+\end{vmatrix} = x^2.
+\]
+
+21. Write
+
+\[
+(x, y, z, w) = \begin{pmatrix}
+a &amp; b &amp; c &amp; d \\
+e &amp; f &amp; g &amp; h \\
+i &amp; j &amp; k &amp; l \\
+m &amp; n &amp; o &amp; p
+\end{pmatrix} (X, Y, Z, W); \quad (x&#x27;, y&#x27;, z&#x27;, w&#x27;) = \begin{pmatrix}
+a &amp; b &amp; c &amp; d \\
+e &amp; f &amp; g &amp; h \\
+i &amp; j &amp; k &amp; l \\
+m &amp; n &amp; o &amp; p
+\end{pmatrix} (X&#x27;, Y&#x27;, Z&#x27;, W&#x27;),
+\]
+
+then substituting for \((x, y, z, w)(x&#x27;, y&#x27;, z&#x27;, w&#x27;)\) their values, we find
+
+\[xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27; = -\begin{vmatrix}
+t_{11} &amp; t_{12} &amp; t_{13} &amp; t_{14} \\
+t_{21} &amp; t_{22} &amp; t_{23} &amp; t_{24} \\
+t_{31} &amp; t_{32} &amp; t_{33} &amp; t_{34} \\
+t_{41} &amp; t_{42} &amp; t_{43} &amp; t_{44}
+\end{vmatrix} (X, Y, Z, W)(X&#x27;, Y&#x27;, Z&#x27;, W&#x27;)\]
+\[
+= \begin{pmatrix}
+\cdot &amp; \cdot &amp; \cdot &amp; -1 \\
+\cdot &amp; \cdot &amp; -1 &amp; \cdot \\
+\cdot &amp; 1 &amp; \cdot &amp; \cdot \\
+1 &amp; \cdot &amp; \cdot &amp; \cdot
+\end{pmatrix} (X, Y, Z, W)(X&#x27;, Y&#x27;, Z&#x27;, W&#x27;)
+\]
+
+\[= XW&#x27; + YZ&#x27; - ZY&#x27; - WX&#x27;;\]
+
+and similarly writing
+
+\[(X, Y, Z, W) = \begin{pmatrix}
+p &amp; l &amp; -h &amp; -d \\
+o &amp; k &amp; -g &amp; -c \\
+-n &amp; -j &amp; f &amp; b \\
+-m &amp; -i &amp; e &amp; a
+\end{pmatrix} (x, y, z, w),\]
+\[(X&#x27;, Y&#x27;, Z&#x27;, W&#x27;) = \begin{pmatrix}
+p &amp; l &amp; -h &amp; -d \\
+o &amp; k &amp; -g &amp; -c \\
+-n &amp; -j &amp; f &amp; b \\
+-m &amp; -i &amp; e &amp; a
+\end{pmatrix} (x&#x27;, y&#x27;, z&#x27;, w&#x27;),\]
+
+we obtain with the \(s\) coefficients the equivalent result,
+
+\[XW&#x27; + YZ&#x27; - ZY&#x27; - WX&#x27; = xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27;.\]
+
+We thus see conversely that the Hermitian matrix is in fact the matrix for the automorphic transformation of the function \(xw&#x27; + yz&#x27; - zy&#x27; - wx&#x27;\).
+
+22. Considering any two or more matrices for the automorphic transformation of such a function, the matrix compounded of these is a matrix for the automorphic transformation of the function—or, theorem, the matrix compounded of two or more Hermitian matrices is itself Hermitian.
+
+Article No. 23.—Theorem on a Form of Matrices.
+
+23. I take the opportunity of mentioning a theorem relating to the matrices which present themselves in the arithmetical theory of the composition of quadratic forms.
+
+Writing
+
+\[(X) = \begin{pmatrix}
+\cdot &amp; \alpha &amp; a &amp; b + \beta \\
+-\alpha &amp; \cdot &amp; b - \beta &amp; c \\
+-\alpha &amp; -(b - \beta) &amp; \cdot &amp; \gamma \\
+-(b + \beta) &amp; -c &amp; -\gamma &amp; \cdot
+\end{pmatrix}\]
+
+and \((X)^{-1} = \frac{1}{D - \Delta} \begin{pmatrix}
+\cdot &amp; \gamma &amp; -c &amp; b - \beta \\
+-\gamma &amp; \cdot &amp; b + \beta &amp; -a \\
+c &amp; -(b + \beta) &amp; \cdot &amp; \alpha \\
+-(b - \beta) &amp; a &amp; -\alpha &amp; \cdot
+\end{pmatrix},\)
+
+where \(D = ac - b^2, \Delta = a\gamma - b^2\); and similarly,
+
+\[(X&#x27;) = \begin{pmatrix}
+\cdot &amp; \alpha&#x27; &amp; a&#x27; &amp; b&#x27; + \beta&#x27; \\
+-\alpha&#x27; &amp; \cdot &amp; b&#x27; - \beta&#x27; &amp; c&#x27; \\
+-\alpha&#x27; &amp; -(b&#x27; - \beta&#x27;) &amp; \cdot &amp; \gamma&#x27; \\
+-(b&#x27; + \beta&#x27;) &amp; -c&#x27; &amp; -\gamma&#x27; &amp; \cdot
+\end{pmatrix}\]
+
+and \((X&#x27;)^{-1} = \frac{1}{D&#x27; - \Delta&#x27;} \begin{pmatrix}
+\cdot &amp; \gamma&#x27; &amp; -c&#x27; &amp; b&#x27; - \beta&#x27; \\
+-\gamma&#x27; &amp; \cdot &amp; b&#x27; + \beta&#x27; &amp; -a&#x27; \\
+c&#x27; &amp; -(b&#x27; + \beta&#x27;) &amp; \cdot &amp; \alpha&#x27; \\
+-(b&#x27; - \beta&#x27;) &amp; a&#x27; &amp; -\alpha&#x27; &amp; \cdot
+\end{pmatrix},\)
+
+where \(D&#x27; = a&#x27;c&#x27; - b&#x27;^2, \Delta&#x27; = a&#x27;\gamma&#x27; - b&#x27;^2\); then
+
+\[(X)(X&#x27;) + (D - \Delta)(D&#x27; - \Delta&#x27;)(X&#x27;^{-1})(X^{-1}),\]
+or, what is the same thing,
+
+$$(X \chi X&#x27;) + (D - \Delta)(D&#x27; - \Delta&#x27;)((X \chi X&#x27;)^{-1}$$
+
+is to a factor près equal to the matrix unity; viz. writing
+
+$$\Lambda = aa + 2b\beta + c\gamma + a&#x27;\alpha&#x27; + 2b&#x27;\beta&#x27; + c&#x27;\gamma&#x27;,$$
+
+the foregoing expression is
+
+$$= \Lambda \begin{pmatrix} 1 &amp; . &amp; . &amp; . \\ . &amp; 1 &amp; . &amp; . \\ . &amp; . &amp; 1 &amp; . \\ . &amp; . &amp; . &amp; 1 \end{pmatrix}.$$  
+
+The theorem is verified without difficulty by merely forming the expressions of the compound matrices $(X \chi X&#x27;)$ and $(X&#x27;^{-1} \chi X^{-1})$.</div>

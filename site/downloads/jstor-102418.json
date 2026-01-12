@@ -1,0 +1,59 @@
+{
+  "id": "2386bc8599bda5ffc16fc4e32afbc1a15d9bff3c",
+  "text": "An INDEX.\n\ndiverses Pieces touchant quelques Machines. par. D. Papin. N. 226. p. 481. Archibaldi Pitcarnii. M.D. Dissertatio de Febribus. N. 217. p. 123. Musæi Pettiveriani Centuria prima, &c. N. 224. p. 393. Almagestum Botanicum, Sc. Phytographiæ Pluonetianæ Onomasticon. N. 225. p. 434. De Fontium Mutinensium admiranda Scaturigine. Auth. Ramazzini. N. 233. p. 734. Anatomy of the Brain. By Dr. Ridley. N. 215. p. 32.\n\nLettera Rispostiva circa i corpi Marini, &c. di Agost. Scilla. N. 219. p. 181. Antiquities of Palmyra. By Ab. Seller. N. 223. p. 358. A Book of Roman and Etruscan Sepulchres. N. 228. p. 538. Catalogus Plantarum in Insula Jamaica. Auth. Hans Sloan, M.D. N. 221. p. 293. Opera Mathematica Johannis Wallis, S.T.D. N. 216. p. 73. Essay towards a Natural History of the Earth. By Dr. Woodward. N. 217. p. 115.\n\nERRATA. Numb. 232.\n\nPag. 708. immediately after $\\sqrt{zay-y^2}$ for $\\frac{ra}{n+1} y^n$, read $\\frac{ra}{n+1} y^n$. p. 710. l. 3. for — & latus Rectum (B A) read — & latus Rectum (8 A).\n\nLondon: Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1697.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102418.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 559,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1150,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102418",
+    "title": "Errata",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102418"
+  }
+}

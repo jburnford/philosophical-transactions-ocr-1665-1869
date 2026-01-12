@@ -1,0 +1,69 @@
+{
+  "id": "978c73eea46bd3b6be8a2f6ec23c7e0a704faa08",
+  "text": "I. The Method, Manner and Order of the Transmutation of Copper into Brass, &c. By Thomas Povey, Esq; brought into the Royal Society, of which he is a Fellow.\n\nWe have in the North parts of England much Copper, which places, though as they now lie, are barren and poor, might be rendered rich and useful, if a sufficient Encouragement were given to the Digging and Raising thereof, and the Poor thereabout might be put in a good way of Livelyhood, as well as several other Advantages to be brought thereby to the Publick.\n\nThe Calamine is digged out of certain Mines, of which there are several in the West of England, (as about Mendip, &c.) which lie about 20 Foot deep, as Coals do, thence brought up by Sea. It is burnt or calcin'd in a Kiln or Oven made red hot, then ground to Powder, and sifted into the fineness of Flower, and mixt with ground Charcoal, because the Calamine is apt to be clammy, to clod, and not so apt or capable of incorporating: Then they put about 7 l. of Calamine into a Melting Pot of about a Gallon Content, and about 5 l. of the Copper uppermost, the Calamine must be mixt with as many Coles as will fill the Pot. This is let down with Tongs into a Wind-Furnace 8 foot deep, and remains 11 hours therein. They cast off not above twice in Twenty Four Hours, one Furnace holds Eight Pots. After melting it is cast into Plates or Lumps. Forty Five Pound of raw Calamine produces Thirty Pound burnt or calcin'd.\n\nBrass\nBrass Shrupf serves instead of so much Copper; but this cannot always be procured in quantities, because it is a Collection of pieces of Old Brass, which is usually to be got but in small Parcels.\n\nThe best Guns are not made of malleable Metal, and cannot be made of pure Copper or Brass; but it is necessary to put in courser Metals to make it run closer and founder, as Lead and Pot-metal. Bell-metal being Copper and Tin, Pot-metal Copper and Lead. About 20 l. of Lead is usually put into 100 l. of Pot-metal; but about 6 l. is sufficient to put into 100 l. of Gun-metal.\n\nThe Calamine Stones were heretofore fetch'd from Poland, but since fetcht from hence by the Dutch.\n\nThe Manufacture of Brass was privately kept in Germany for many hundred years, wherein thousands were employed and well maintained, some having thereby raised themselves to great Estates.\n\nThe Dutch may not import (an Act of Parliament expressly forbidding them) the Copper nor the Calamine Stone; but contrary to the Ends, and perhaps the meaning of the said Act, and more to the Publick Disadvantage, they mingle and manufacture those two Ingredients (which are of Foreign Growth to them) and by that Evasion import them hither: And the great Manufactures of Wire, and several other Commodities arising of those important Materials.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101971.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 758,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1446,
+        2
+      ],
+      [
+        1446,
+        2756,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101971",
+    "title": "The Method, Manner and Order of the Transmutation of Copper into Brass, etc. by Thomas Povey, Esq; Brought into the Royal Society, of Which He is a Fellow",
+    "authors": "Thomas Povey",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101971"
+  }
+}

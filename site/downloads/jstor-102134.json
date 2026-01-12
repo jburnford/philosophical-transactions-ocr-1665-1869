@@ -1,0 +1,59 @@
+{
+  "id": "b80e92cbf177922d49387768dc8337af12823262",
+  "text": "An Abstract of a Letter from Dr Peirce of Bath, to one of the S. of the R. S. giving an instance of the effects of the Bath in curing the Palsy, and Barrenness.\n\nAmong the many Diseases these waters have been famous for the cure of, Palsys and Barrenness are two; an instance of both, in one person, I shall now give you. A Gentlewoman of about 30 or 32 years of age, having been married about 10 or 12 years, and never with Child, was suddenly seised with a Palsy on the left side; for which after 8 or 10 months tryal of other means, to little purpose,) she was brought to the Bath, where (after usual preparations, and some internal means,) she continued that season, about 6 weeks; the winter coming on shee was forced to desist; but (by the advantage shee received,) was encouraged to come very early the next year, and did continue with us the whole summer, and recovered, in great measure, the use of her arm, and hand, leg, and tongue; and not only so, but (in a few weeks, after shee returned to her husband,) conceived with Child, and had (at about a year and half distance between them,) 5 Children, following.\n\nSince I received your Letter, being at Wells (where shee now lives,) I went to see her; she shewed me 4 of the Children, lusty and strong and well grown for their age; the fifth dyed. Shee her selfe hath no return of a Palsy but is infirm, I think consumptive; she is now about 51 years old.\n\nCaroli Dre-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102134.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 429,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1427,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102134",
+    "title": "An Abstract of a Letter from Dr Peirce of Bath, to One of the S. of the R. S. Giving an Instance of the Effects of the Bath in Curing the Palsy, and Barrennss",
+    "authors": "Dr Peirce",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102134"
+  }
+}

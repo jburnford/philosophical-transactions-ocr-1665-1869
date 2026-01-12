@@ -1,0 +1,59 @@
+{
+  "id": "a183e99a94966901e33efdd3f7c49aca50d94202",
+  "text": "V. A Letter from Dr William Oliver, Physician and Fellow of the Royal Society, to Mr James Petiver, F. R. S. concerning the Jesuits Bark.\n\nSIR,\n\nPeru Bark, comes from a Tree about the bigness of a Plumb Tree, with Leaves like Ivy, but not quite so big, and are always green. The Indians call it Querango. 'Tis gathered in Autumn, and the Rind taken off all round, as well from the Trunk as Boughs, which grows again in four Months, as Cork does: The Trunk is about the Bigness of a Mans Thigh: It bears a Fruit not unlike a Chestnut (except its outer Rind or Shell) which is properly call'd China China, and is esteem'd by the Natives beyond the Bark taken from the Trunk or Boughs. This Account I received from an Ingenious Apothecary at Cadiz in Spain, A.D. 1694. who had lived in Peru, and seen it growing, and gathered it several times: From this History I made this Observation, that probably China China, or the Rind of the Fruit, was first only in Use, and the more powerful Medicine, used in smaller quantities, and that the Bark of the Tree came not into play till some time after; when the Vertues of it, known in Europe, occasioned a greater demand for it, whether this be a just Observation or no, I submit to your better Judgment.\n\nVI. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102930.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3412,
+    "total-output-tokens": 379,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1253,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102930",
+    "title": "A Letter from Dr William Oliver, Physician and Fellow of the Royal Society, to Mr James Petiver, F. R. S. concerning the Jesuits Bark",
+    "authors": "William Oliver",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102930"
+  }
+}

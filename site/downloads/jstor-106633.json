@@ -1,0 +1,59 @@
+{
+  "id": "361db08e76711345667c37c059c0f058aa3e2dd6",
+  "text": "XXI. Observation of the late Transit of Mercury over the Sun, observed by Edward Pigott, Esq. at Louvain in the Netherlands; communicated by him in a Letter to Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal.\n\nRead June 15, 1786.\n\nSIR,\n\nWE have been fortunate here in seeing Mercury's egress. I observed it thus:\n\nApparent time, May 3.\nH. M. S.\n\n20 45 25 Mercury's limb in contact with the sun's limb; uncertain.\n\n20 45 37 ditto ditto; certain.\n\n20 47 17 Mercury bisected by the sun's limb.\n\n20 49 22 Mercury quite out; clouds for a short interval, which renders the observation rather doubtful.\n\nThough the air was not perfectly free from thin clouds, nevertheless the limbs were well defined. At 20 h. 45' 25\", when I first judged Mercury's limb in contact with the sun's, his form, I think, became rather oval. These observations were made with Ramsden's two-feet achromatic, magnifying about 70 times. The above times disagreeing so considerably with the tables will, I imagine, not a little surprise M. de La Lande.\n\nI remain, Sir, with great regard, &c.\n\nEDW. PIGOTT.\n\nEee 2",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106633.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 373,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1085,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106633",
+    "title": "Observation of the Late Transit of Mercury Over the Sun, Observed by Edward Pigott, Esq. at Louvain in the Netherlands; Communicated by Him in a Letter to Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal",
+    "authors": "Edward Pigott",
+    "year": 1786,
+    "volume": "76",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106633"
+  }
+}

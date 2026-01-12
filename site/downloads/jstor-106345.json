@@ -1,0 +1,99 @@
+{
+  "id": "743a73ae8b5d44c3cdabfd829e8ff77d23c416f4",
+  "text": "XXXIV. An Account of the Blue Shark, together with a Drawing of the same. By W. Watson, jun. M. D. F. R. S.\n\nRead June 4, 1778.\n\nTHE fish from which the drawing was made was taken on the Coast of Devonshire. It had got into shallow water, by which accident Mr. Martin, a very great lover of natural history, and who happened to be on the shore, was enabled to drag it out by the tail, and to kill it on the spot.\n\nLinnaeus places this animal in the class of amphibia, under the name of *squalus glaucus*, and makes use of Artebe's description, viz. *squalus fossula triangulari in extremo dorso, foraminibus nullis ad oculos*. As this fish is well described by Rondeletius and others, I shall only subjoin the following remarks. There are two triangular dents at the origin of the tail, both above and below; that which is on the back is biggest and deepest. No orifices are to be seen behind the eyes, as is usual with fishes of this genus. Two white membranes, one to each eye, perform the office of eye-lids. They are placed beneath under the external integuments, and move\nmove upwards when they cover the eyes. It is furnished with five rows of teeth; these are triangular, and finely serrated\\(^{(a)}\\). The body is of a fine blue colour, dark on the back, lighter on the sides; the belly and all the under part of the fish white; the fins and tail were of a dirty blue; the colour of the blue part is exactly represented by different shades of indigo blue. When the head was placed downwards, a pretty large white pouch came out of its mouth. Aelian supposes this to have served as an asylum to its young brood in time of danger. The length of the fish from the tip of the nose to the end of the tail was six feet eight inches; the length of the pectoral fin one foot four inches: the scale annexed to the drawing will give the measurement of the other parts. It was a female, and weighed fifty-five pounds. An outline of the under side of the head is added, in order to shew the situation of the mouth.\n\nAs I have never been able to see an accurate drawing of this fish, and as Mr. Pennant, in his British Zoology, wishes a farther account may be given of it, I thought it not unworthy of the Society's notice. The fish itself was stuffed, and is now at the British Museum.\n\n\\(^{(a)}\\) I cannot ascertain how many rows of teeth belonged to each jaw, they being separated by boiling before they were properly examined.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106345.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9914,
+    "total-output-tokens": 769,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1077,
+        2
+      ],
+      [
+        1077,
+        2426,
+        3
+      ],
+      [
+        2426,
+        2426,
+        4
+      ],
+      [
+        2426,
+        2426,
+        5
+      ],
+      [
+        2426,
+        2426,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "None",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106345",
+    "title": "An Account of the Blue Shark, Together with a Drawing of the Same. By W. Watson, Jun. M. D. F. R. S.",
+    "authors": "W. Watson",
+    "year": 1778,
+    "volume": "68",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/106345"
+  }
+}

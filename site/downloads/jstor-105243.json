@@ -1,0 +1,59 @@
+{
+  "id": "82309f2051e2ba665f9cd198460a7c9b7d82193e",
+  "text": "XVIII. An Account of the State of the Thermometer at the Hague on the 9th of January 1757. Extracted from a Letter of Mr. Abraham Trembley, F.R.S. to Tho. Birch, D.D. Secret. R.S.\n\nHague, Febr. 15. 1757.\n\nRead Mar. 3, 1757. I Carefully observed the thermometer during the cold days, which we have had this winter. I made use of the same thermometer, with which I made my observations in 1740, and for that purpose fixed it in the same place, where it was that year, viz. in a window directly exposed to the north, and open to a large square. In 1740 I saw Fahrenheit's thermometer at two degrees below 0. This year, on the 9th day of January in the morning, it was at three degrees above 0; that is, only five degrees higher than in 1740.\n\nXIX. Experimental Examination of Platina.\n\nBy William Lewis, M.B. F.R.S.\n\nPAPER V.\n\nRead Mar. 17, 1757. The account of this extraordinary mineral, formerly read to this illustrious Society, and honoured with their approbation, being since published in the Philosophical Transactions,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105243.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 350,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1023,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105243",
+    "title": "An Account of the State of the Thermometer at the Hague on the 9th of January 1757. Extracted from a Letter of Mr. Abraham Trembley, F.R.S. to Tho. Birch, D.D. Secret. R.S.",
+    "authors": "Abraham Trembley",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105243"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "fe70f2e5e62d08aa63af5ffe69786e4ecc8c7164",
+  "text": "XV. Extract of a Letter from Sir Charles Blagden, Knt. Sec. R. S. to Sir Joseph Banks, Bart. P. R. S. giving some Account of the Tides at Naples.\n\nRead May 2, 1793.\n\nRome, March 30, 1793.\n\nI took some pains at Naples to get information about the state of the tides, but could learn nothing satisfactory. The quantity of rise and fall is so little, that unless the sea be very calm, it is impossible to make a good observation. One of the best places for ascertaining the phenomena would be at what they call the river Styx, which is a narrow communication between the Porto di Miseno and the Mare Morto. Here I learned very distinctly that the water sometimes ran in, and sometimes out, but could not get the times; when I was there it was running out. The best observation I had was on the 2d of March, when it appeared to be high water at Naples about eleven in the forenoon, and low water between five and six in the afternoon; with a difference of pretty exactly one foot in the height. The wind blew the same way all the time, and the sea was very little agitated. On the preceding day the water had sunk an inch or two lower. From this observation, as well as some others less accurate, I concluded the time of high water at full and change to be between nine and ten o'clock, in the Bay of Naples.\n\nI am, &c.\n\nC. BLAGDEN.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106815.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 390,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1328,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106815",
+    "title": "Extract of a Letter from Sir Charles Blagden, Knt. Sec. R. S. to Sir Joseph Banks, Bart. P. R. S. Giving Some Account of the Tides at Naples",
+    "authors": "Charles Blagden",
+    "year": 1793,
+    "volume": "83",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106815"
+  }
+}

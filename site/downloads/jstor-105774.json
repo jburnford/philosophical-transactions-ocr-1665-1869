@@ -1,0 +1,119 @@
+{
+  "id": "8f400daea80cd05f7feb1cd12120cf07fb3fc8f8",
+  "text": "XXVI. A Specimen of a new Method of comparing Curvilinear Areas; by which many such Areas may be compared as have not yet appeared to be comparable by any other Method. By John Landen, F.R.S.\n\nRead June 9, 1768.\n\nWHEN a body in motion is continually acted upon by a variable force, the space it has passed over at the end of any given time, it is well known, will be expressed by the area of the curve, whose ordinate expresses the velocity of the body, whilst the time it has been in motion is expressed by the corresponding abscissa. Therefore the facilitating the computation of curvilinear areas will manifestly contribute to the improvement of the doctrine of motion. Which doctrine being a branch of philosophy of no small importance, such improvement will not, I am persuaded, be looked upon as a trifling speculation, by the Royal Society: to whom, therefore, I do myself the honour of communicating this specimen of a new and ready method of computing such areas, by means of a given area; presuming that what is here written will not be deemed undeserving of a place in the Philosophical Transactions.\n\nI.\n\nGeometricians have found, that, if $A$ be put to denote the whole area of the curve, whose abscissa is $x$, and ordinate $\\frac{1}{1-x^2} \\times x^2 - 1$,\nthe whole area of the curve, whose abscissa is \\( x \\), and ordinate \n\\[\n\\frac{1}{1-x^p} \\times x^{2r-1}\n\\]\nwill be \n\\[\n\\frac{r.r+1.r+2(n)}{p+r.p+r+1.p+r+2(n)} \\times A; \\quad n \\text{ being any positive integer, and } p \\text{ and } r \\text{ any positive numbers, whole or fractional.}\n\\]\n\nII.\n\nBy the preceding article, the whole area, when the ordinate is \n\\[\n\\frac{z.z+1(r)}{p+z.p+z+1(r)} \\times \\frac{1.2(z-1)}{p.p+1(z)} \\times \\frac{1}{2};\n\\]\nthe whole area, when the ordinate is \n\\[\n\\frac{1}{1-x^p} \\times x^{2z-1},\n\\]\nbeing \n\\[\n\\frac{1.2(z-1)}{p.p+1(z)} \\times \\frac{1}{2}.\n\\]\n\nLikewise, by the same article, the same whole area is \n\\[\n\\frac{r.r+1.r+2(z)}{p+r.p+r+1.p+r+2(z)} \\times A. \\quad \\text{Therefore this last expression is}\n\\]\n\\[\n\\frac{z.z+1(r)}{p+z.p+z+1(r)} \\times \\frac{1.2(z-1)}{p.p+1(z)} \\times \\frac{1}{2}. \\quad \\text{From which equation, } p \\text{ and } r \\text{ being positive, as before observed, } A, \\text{ the whole area of the curve, whose ordinate is }\n\\]\n\\[\n\\frac{1}{1-x^p} \\times x^{2r-1}, \\text{ is found equal to}\n\\]\n\\[\n\\frac{1.2.3(r+z-1) \\times p+r.p+r+1(z)}{p.p+1.p+2(r+z) \\times r.r+1(z)} \\times \\frac{1}{2z}, \\text{ being any number whatever.}\n\\]\n\nConsequently, supposing \\( z \\) infinite, we find \\( A = \\) the ultimate value, or limit of \n\\[\n\\frac{1.2.3(z) \\times p+r.p+r+1(z)}{p.p+1.p+2(z) \\times r.r+1(z)} \\times \\frac{1}{2z}.\n\\]\n\nHaving thus obtained a general expression for the whole area of any curve, whose ordinate is expressed by \n\\[\n\\frac{1}{1-x^p} \\times x^{2r-1},\n\\]\nand that expression\nexpression for such area consisting of an infinite number of factors multiplied together; to render the same useful in practice, some theorems are requisite for ascertaining the limits of such products. The theorems which I have hitherto been able to investigate suitable to that purpose, I shall give in the next two articles.\n\nIII.\n\nThe limit of \\( \\frac{1}{m^2} \\times \\frac{2}{z^2 - m^2} \\times \\frac{3}{z^2 - m^2} (z) \\times \\frac{N^{2z}}{z^2 + 1} \\) is \\( \\frac{2}{m} \\times \\text{fine of } mS \\); \\( N \\) being the number whose hyp. log. is 1, and \\( S \\) the semi-periphery of the circle, whose radius is 1.\n\nWhence, by taking \\( m \\) equal 0, we find the limit of \\( 1^2 \\cdot 2^2 \\cdot 3^2 (z) \\times \\frac{N^{2z}}{z^2 + 1} = 2S \\),\n\nIV.\n\nThe limit of \\( dz + a \\times dz + a + d \\times dz + a + 2d \\times \\frac{N^z}{2^z d^z z^z} \\)\n\nis \\( 2^{\\frac{a}{d}} - \\frac{1}{z} \\).\n\nHence, \\( z + 1 \\cdot z + 2 \\cdot z + 3 (z) \\) being \\( = 1 \\cdot 3 \\cdot 5 (z) \\times 2^z \\), it appears, that the limit of \\( 1 \\cdot 3 \\cdot 5 (z) \\times \\frac{N^z}{2^z z^z} \\) is \\( 2^{\\frac{1}{z}} \\).\n\nI shall now give some examples, to shew the use of the above articles.\n\nWriting\nV.\n\nWriting A, B, C, D, and E, for the whole areas of the curves, whose ordinates are \\( \\frac{x^3}{1-x^2} \\), \\( \\frac{x^5}{1-x^2} \\), \\( \\frac{1}{1-x^2} \\), \\( \\frac{x^{1/2}}{1-x^2} \\), and \\( \\frac{x^{-3/2}}{1-x^2} \\), respectively; we have, by Art. II.\n\n\\[ A = \\text{the limit of } \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 4 \\cdot 7 \\cdot 10 (z)}{1 \\cdot 3 \\cdot 5 (z) \\times 5 \\cdot 11 \\cdot 17 (z)} \\times \\frac{2z - 1}{z}; \\]\n\n\\[ B = \\text{the limit of } \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 7 \\cdot 13 \\cdot 19 (z)}{1 \\cdot 3 \\cdot 5 (z) \\times 2 \\cdot 5 \\cdot 8 (z)} \\times \\frac{1}{2z}; \\]\n\n\\[ C = \\text{the limit of } \\frac{1^2 \\cdot 2^2 \\cdot 3^2 (z)}{1^2 \\cdot 3^2 \\cdot 5^2 (z)} \\times \\frac{2z - 1}{z} = \\left\\{ \\begin{array}{l}\n\\text{the area of the semi-circle,} \\\\\n\\text{whose radius is } 1;\n\\end{array} \\right. \\]\n\n\\[ D = \\text{the limit of } \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 5 \\cdot 11 \\cdot 17 (z)}{1 \\cdot 3 \\cdot 5 (z) \\times 1 \\cdot 4 \\cdot 7 (z)} \\times \\frac{1}{2z}; \\]\n\n\\[ E = \\text{the limit of } \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 2 \\cdot 5 \\cdot 8 (z)}{1 \\cdot 3 \\cdot 5 (z) \\times 1 \\cdot 7 \\cdot 13 (z)} \\times \\frac{2z - 1}{z}. \\]\n\nNow it appears by the above equations, that \\( \\frac{A}{B} \\) is \\( = \\) the limit of\n\n\\[ \\frac{2 \\cdot 4 \\cdot 5 \\cdot 7 \\cdot 8 \\cdot 10 (2z)}{5 \\cdot 7 \\cdot 11 \\cdot 13 \\cdot 17 \\cdot 19 (2z)} \\times 2^{2z}; \\]\n\nwhich by Art. III. is \\( = \\frac{6 \\times \\sin 60^\\circ}{12 \\times \\sin 30^\\circ} = \\frac{3^{1/2}}{2}. \\)\n\nTherefore A is \\( = \\frac{3^{1/2} B}{2}. \\)\nIt appears also, that \\( \\frac{B \\times D}{C} \\) is = the limit of \\( \\frac{5 \\cdot 7 \\cdot 11 \\cdot 13 \\cdot 17 \\cdot 19}{2 \\cdot 4 \\cdot 5 \\cdot 7 \\cdot 8 \\cdot 10} (2z) \\times \\frac{3}{2^2 z + 1} \\);\n\nwhich by Art. III. is = \\( 3^{\\frac{1}{2}} \\).\n\nTherefore \\( D = \\frac{3^{\\frac{1}{2}} C}{B} \\).\n\nIt likewise appears, that\n\n\\( B \\times E \\) is = the limit of \\( \\frac{1^2 \\cdot 2^2 \\cdot 3^2 (z)}{1^2 \\cdot 3^2 \\cdot 5^2 (z)} \\times \\frac{3 \\cdot 2^{2z - 1}}{z} = 3 C \\).\n\nTherefore \\( E = \\frac{3 C}{B} \\).\n\nVI.\n\nWriting \\( F, G, H, I, \\) and \\( K \\), for the whole areas of the curves, whose ordinates are \\( \\frac{x^2}{1 - x^3}, \\frac{x^3}{1 - x^3}, \\frac{1}{1 - x^3}, \\frac{x - \\frac{1}{3}}{1 - x^3}, \\) and \\( \\frac{x - \\frac{2}{3}}{1 - x^3} \\), respectively, we have, by Art. II.\n\n\\( F = \\) the limit of \\( \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 9 \\cdot 15 \\cdot 21 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 5 \\cdot 11 \\cdot 17 (z)} \\times \\frac{3^z}{2^z} \\);\n\n\\( G = \\) the limit of \\( \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 8 \\cdot 14 \\cdot 20 (z)}{2^2 \\cdot 5^2 \\cdot 8^2 (z)} \\times \\frac{3^z}{2^z + 1} \\);\n\n\\( H = \\) the limit of \\( \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 7 \\cdot 13 \\cdot 19 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 1 \\cdot 3 \\cdot 5 (z)} \\times \\frac{1}{2^z} = B; \\)\n\n\\( I = \\) the\n\\[ I = \\text{the limit of } \\frac{1^2 \\cdot 2^2 \\cdot 3^2 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 1 \\cdot 4 \\cdot 7 (z)} \\times \\frac{3^{2z}}{2z}; \\]\n\n\\[ K = \\text{the limit of } \\frac{1 \\cdot 2 \\cdot 3 (z) \\times 5 \\cdot 11 \\cdot 17 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 1 \\cdot 7 \\cdot 13 (z)} \\times \\frac{3^z}{2z}. \\]\n\nBy which equations it appears, that \\( \\frac{F}{H} = \\frac{F}{B} \\) is = the limit of \\( \\frac{1 \\cdot 3 \\cdot 5 \\cdot 7 (2z)}{5 \\cdot 7 \\cdot 11 \\cdot 13 \\cdot 17 \\cdot 19 (2z)} \\times 3^{2z} \\); which by Art. III. is \\( \\frac{4 \\times \\text{sine of } 90^\\circ}{12 \\times \\text{sine of } 30^\\circ} = \\frac{2}{3}. \\)\n\nTherefore \\( F \\) is \\( = \\frac{2B}{3}. \\)\n\nIt appears likewise, that\n\n\\[ \\frac{G}{B} \\text{ is } = \\text{the limit of } \\frac{1 \\cdot 3 \\cdot 5 (z) \\times 8 \\cdot 14 \\cdot 20 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 7 \\cdot 13 \\cdot 19 (z)} \\times \\frac{3^z}{2z} \\]\n\n\\[ = \\text{the limit of } \\frac{1 \\cdot 3 \\cdot 5 (z) \\times 4 \\cdot 7 \\cdot 10 (z)}{4 \\cdot 7 \\cdot 10 (2z)} \\times 6^z \\]\n\n\\[ = \\text{the limit of } \\frac{1 \\cdot 3 \\cdot 5 (z)}{3^z + 4 \\cdot 3^z + 7 \\cdot 3^z + 10 (z)} \\times 6^z; \\]\n\nwhich, by Art. IV. is \\( = 2^{-\\frac{1}{3}}. \\)\n\nTherefore \\( G \\) is \\( = \\frac{B}{\\frac{1}{3}}. \\)\n\nIt also appears, that\n\n\\[ I \\text{ is } = \\text{the limit of } \\frac{1^2 \\cdot 2^2 \\cdot 3^2 (z)}{2 \\cdot 3 \\cdot 5 \\cdot 7 \\cdot 8 \\cdot 10 (2z)} \\times \\frac{3^{2z + i}}{2}; \\text{ which, by Art. III. } = \\frac{2S}{4 \\times \\text{sine of } 60^\\circ} = \\frac{S}{3^{\\frac{i}{2}}} = \\frac{2C}{3^{\\frac{i}{2}}}. \\]\n\nMoreover\nMoreover it appears, that\n\n\\[ \\frac{B \\times K}{1} = \\text{the limit of } \\frac{1 \\cdot 4 \\cdot 7 (z) \\times 5 \\cdot 11 \\cdot 17 (z)}{2 \\cdot 5 \\cdot 8 (z) \\times 1 \\cdot 3 \\cdot 5 (z)} \\times \\frac{1}{3^z - 1} \\]\n\n\\[ = \\text{the limit of } \\frac{3z + 2 \\cdot 3z + 5 \\cdot 3z + 8 (z)}{1 \\cdot 3 \\cdot 5 (z)} \\times \\frac{1}{2^z \\cdot 3^z - 1}; \\text{ which, by Art. IV. is } = \\frac{3}{2^{\\frac{1}{3}}} \\]\n\nTherefore \\( K \\) is \\( = \\frac{3}{2^{\\frac{1}{3}}} \\frac{1}{B} = \\frac{2^{\\frac{2}{3}} \\cdot 3^{\\frac{1}{3}} C}{B} \\).\n\nAnd, in like manner, may a great number of other areas be compared.\n\nNote. All the whole areas above-mentioned are supposed to begin where \\( x \\) begins, and to stand upon a base \\( = 1 \\).",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105774.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 14936,
+    "total-output-tokens": 3987,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1272,
+        2
+      ],
+      [
+        1272,
+        2814,
+        3
+      ],
+      [
+        2814,
+        3986,
+        4
+      ],
+      [
+        3986,
+        5512,
+        5
+      ],
+      [
+        5512,
+        6801,
+        6
+      ],
+      [
+        6801,
+        8356,
+        7
+      ],
+      [
+        8356,
+        9074,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105774",
+    "title": "A Specimen of a New Method of Comparing Curvilineal Areas; By Which Many Such Areas May Be Compared as Have not Yet Appeared to be Comparable by Any Other Method. By John Landen, F. R. S.",
+    "authors": "John Landen",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/105774"
+  }
+}

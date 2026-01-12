@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Philosophical Transactions Archive</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="{{ '/' | relative_url }}" class="site-title">Philosophical Transactions Archive</a>
+            <span class="site-subtitle">1665-1869</span>
+        </nav>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>OCR processed with <a href="https://github.com/allenai/olmocr">OLMoCR</a>.
+        Metadata from <a href="https://www.jstor.org/">JSTOR</a>.</p>
+        <p>8,121 articles | 106,829 pages | 197 MB of text</p>
+    </footer>
+</body>
+</html>

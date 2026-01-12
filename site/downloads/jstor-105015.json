@@ -1,0 +1,89 @@
+{
+  "id": "d3f2af01c38d89c6b7c915e2ebbed3a7296eac27",
+  "text": "II. An Account of the same Meteor, by Mr. Henry Baker F. R. S. in a Letter to M. Folkes Esq; Pr. R. S.\n\nSIR,\n\nRead Jan. 10. 1750.\n\nAs I know of no account, that has been yet communicated to the Royal Society, of a fiery meteor, seen in many distant parts of this kingdom in July last, I hope you will excuse the liberty I take of laying before you what I have receiv'd concerning that appearance.\n\nOn the 28 of the said month of July, Mr. William Arderon F. R. S. wrote me word, that a meteor was seen at Norwich by thousands of people, on Sunday the 22 of the said month, at 9 o' clock in the evening (true time). He sent me also a drawing thereof, which is exactly copied at the end of this paper. (Plate I. Fig. 1.)\n\nIts direction, he says, was, as near as he could guess, from north to south, moving with great velocity. When due east of him, its altitude was about 30 degrees; at which time the great distinctness of its figure made him imagine it was not above two or three miles from him. The splendor and beauty of its nucleus, particularly the fore part thereof, surpassed, he says, all the fires he ever saw, being of a bright silver colour: its tail was of the colour of a burning coal, tho' something fainter. Its head, or nucleus, appeared to him, under an angle of somewhat more than two degrees, and its tail of about 21 degrees.\nHe lost sight of it in a cloud, not above 20 degrees above the southern part of the horizon, into the middle of which it enter'd: but a friend of his, being about 4 miles more southward, saw it again, after it came out of this cloud, till it enter'd into another.\n\nThe excessive hot weather in the preceding part of the month of July, especially on Wednesday the 11th day thereof, which is supposed to have been the hottest day we have had for many years in England, may perhaps account, in some measure, for the generation of this fiery meteor.\n\nI intirely submit to you, whether it deserves to be taken notice of by the Royal Society, among the extraordinary phenomena of the year 1750; and am, with the greatest respect,\n\nSIR,\n\nYour most obedient humble servant,\nCatharine-street, Dec. 12.\n1750.\n\nH. Baker.\n\nIII. Thermometrical Tables and Observations, in a Letter to John Pringle M.D. & F.R.S. by John Stedman M.D.\n\nSIR,\n\nRead Jan. 10. I ACQUAINTED you some time since 1750. of having kept a journal of the weather in the camp, whilst I attended the army in the Netherlands; and that, having given particular at-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105015.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8484,
+    "total-output-tokens": 787,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1345,
+        4
+      ],
+      [
+        1345,
+        2461,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105015",
+    "title": "An Account of the Same Meteor, by Mr. Henry Baker F. R. S. in a Letter to M. Folkes Esq; Pr. R. S.",
+    "authors": "Henry Baker",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105015"
+  }
+}

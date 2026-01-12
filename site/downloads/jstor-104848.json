@@ -1,0 +1,79 @@
+{
+  "id": "ae7ee57c08127e495a5017f2d8c095cf01323296",
+  "text": "III. The Figure of the Mustela fossilis; communicated from Dr. Gronovius at Leyden to Mr. Peter Collinson, F. R. S.\n\nRead March 12. MUSTELA fossilis, sive Cobites caeruleus, lineis quinque nigris longitudinalibus. Artcd. Ichthyol. gen. xi. 3.* Vide Tab. II. Fig. 1.\n\nThis Fish was kept alive in a Jar of Water a Year wanting 9 Days, without changing the Water, and without any other Food than what the Water afforded. They dig them out of the Sands near Wessel in Holland.\n\nIV. Some Observations on the Belluga-Stone, by Mr. Peter Collinson, F. R. S.\n\nRead March 12. THESE Stones of the Belluga were collected by Dr. Cook at Astracan, and sent to Dr. Sanches at Petersburgh, by whose Favour they came to me. I have applied to those Gentlemen to satisfy my Inquiries about them, and the Accounts they have communicated, with my own Observations, are as follows:\n\nThe Calculus of the Belluga is found of various Shapes and Sizes; it is mostly of a flatted oval Figure,\n\n* Willoughby, Hist. Pisc., p. 124. Tab. G. 3, 4. Raii Syn. Pisc., p. 69.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104848.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 7192,
+    "total-output-tokens": 424,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1040,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104848",
+    "title": "The Figure of the Mustela Fossilis; Communicated from Dr. Gronovius at Leyden to Mr. Peter Collinson, F. R. S.",
+    "authors": "Dr. Gronovius",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104848"
+  }
+}

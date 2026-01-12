@@ -1,0 +1,79 @@
+{
+  "id": "4c6a6db57ec1f6f98d23354169c9504e94d9bbf3",
+  "text": "VI. Account of a BOOK.\n\nThe Antiquities of Palmyra alias Tadmor; Built by King Solomon in the Desert of Arabia: Containing the History of that City and its Emperors, From its Foundation to this present time. By Ab. Seller. 8°.\n\nTHE Royal Society, having Publish'd Two Journals of the English Merchants to Tadmur, in the Desert, the Author of the Palmyrene Antiquities undertook to give the History of that City, from its Foundation to this present Age.\n\nThe Preface Accounts for the Rites and Customs of the East, which are still continued by the Arabs, who are very tenacious of Antient Usages, of which the Author gives several Instances; particularly of the Mourn-ing for Thammur or Adonis.\n\nThe History proves, that the City was Founded (or as others, Rebuilt) by Solomon a Frontier to his large Territories; that it was probably taken by the Kings of Syria from the Jews, when their Kingdom was divided and impaired, till the Kings of Babylon seized it; (the Historian of Antioch averring, that the victorious Monarch Nebuchadnezzar Conquered it, before he formed the Siege of Jerusalem) that upon the Ruine of the Persian Empire, it submitted to the irresistible Alexander; that it was (probably) Repaired and Beautified by Seleucus, one of his Successors, in gratitude to whom, they used the common Computation of most of the Eastern Cities, the Æra Seleucidarum that Pompey, when he made Syria a Province, reduc'd Tadmur, Constituting it an\nan Appendage to that Province (tho' Malela says expressly, that Aurelian first made it a Roman Province) that M. Antony designed to Pillage the City, to gratify his discontented Army, after his ill Success in Persia, but was disappointed; from which time, to the Reign of Trajan, History is Silent concerning the City, and so are all the Inscriptions found there, none of which is older than that Emperor (Two of the Sepulchral Inscriptions being Erected in his time) Adrian Visited, Rebuilt, and Called it by his own Name. Antoninus Caracallus made it a Colony Juris Italici, and it continued firm to the Roman Interests under the Succeeding Emperors, assailing Alexander Severus, and the youngest Gordian, in their Expedition against the Persians, with their Forces; and when the Emperor Valerian was Conquered and made a Prisoner, Odenathus the Governor of Palmyra asserted the Rights of injured Majesty, baffled the Persians, and was declared by Gallienus his Co-partner in the Empire, which Authority continued in his Family for ten years or more, under Aurelian the City was Ruined, after which it made a poor Figure in Story, till Justinian Repaired and Fortified it, in which Condition it continued, till the Mahometans made themselves Masters of that Country (Al Iham, the last King of Gessan, being at that time Lord of Tadmur) and suffered the Fortifications to moulder into Dust, since which time it hath been a Nest of Arabian Banditti.\n\nThat the City was well Situated for Trade, the Caravans of the Eastern Merchants passing through it, the neerness of the Euphrates, on which Navigable River the Palmyrenians were in Possession of Three Cities, giving it great Advantages of Riches, besides their own Native Commodities.\n\nThat it was probably Converted soon after Christianity was Planted, that it was Erected into a Bishops See before\nbefore the Council of Nice, and continued so in the time of the Chalcedon Council, under the Arch-Bishop of Damascus; but soon after, when Libanestia was made a distinct Province, and Emesa constituted the Metropolis of it, it became a Suffragan to that Metropolitan (not the Arch-Bishop of Edessa, as the Notitia set out by Goar wrongly calls the City) as was also Damascus.\n\nIn the Appendix the Author proves, that the Names of the Inhabitants were purely Syrian, with a Prenomen often prefixed, for the most part Roman; that their Officers were such, as the other Cities of the East lived under, and that the oldest Superstition was that of the Worship of the Host of Heaven; to which is subjoined the Life of Nabul-Lachus, the Grandson of Odenathus, and of the Excellent Critick Longinus, together with a Commentary on the Inscriptions, wherein some parts of the Roman History, before unknown, are Discovered, and some Rites of the Oriental Idolatry accounted for, particularly that of consulting the Fountain of Aphaca in great Repute, in those early times, for its Oracles.\n\nERRATA.\n\nTransact. Numb. 222. Page 308. Line 2. after the word Current, insert these words, [going there constantly East, and] which words, by mistake, were put into the Fourth Line, after the word Bahama, where they ought to be left out. p. 304, & 305. for Pollipus r. Polypus.\n\nLONDON:\n\nPrinted for Sam. Smith, and Benj. Wallford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1697.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102328.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1286,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1449,
+        2
+      ],
+      [
+        1449,
+        3301,
+        3
+      ],
+      [
+        3301,
+        4798,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102328",
+    "title": "Account of a Book",
+    "authors": "Ab. Seller",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102328"
+  }
+}

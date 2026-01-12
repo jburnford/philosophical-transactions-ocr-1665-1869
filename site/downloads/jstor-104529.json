@@ -1,0 +1,59 @@
+{
+  "id": "626bd9c389da39fa075d1513fc2b2176202a9e10",
+  "text": "Thus ends the most magnificent Work I know of, since the Art of Printing has been discover'd: The Descriptions are all given in both English and French; and the Figures being drawn by the ingenious Author after Life, were afterwards etched by himself, and all the illuminated Sets were colour'd under his Directions, and all touch'd up and finish'd by his own Hand.\n\nVII. The Inscription upon a Roman Altar found near Stanhope in the Bishoprick of Durham; communicated to the Royal Society by the Reverend Mr. Thomas Birch, F. R. S.\n\nRead Feb. 18. 1747-8.\n\nSILVANOINVICTOSACRVM\nCTETIVSVETVRIVSMICIA\nNVSPREFAIÆSEBOSIANÆ:\nNAEOBAPRAMEXIMIAE\nFORMÆCAPTVMQVEM\nMVLTIANTECESSO\nRESEIVSPRAEDARI\nNONPOTVERVNTVSLP\n\nSilvano invicto sacrum\nC. Tetius Veturius Micianus, Præf. Alæ Sebosianæ, ob Aprum eximiae formæ captum quem\nmulti Antecessores ejus prædari\nnon potuerunt Votum solvens lubens posuit.\n\nZ 2 VIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104529.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 345,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        896,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104529",
+    "title": "The Inscription upon a Roman Altar Found Near Stanhope in the Bishoprick of Durham; Communicated to the Royal Society by the Reverend Mr. Thomas Birch, F. R. S.",
+    "authors": "Thomas Birch",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104529"
+  }
+}

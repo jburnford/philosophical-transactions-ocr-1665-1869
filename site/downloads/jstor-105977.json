@@ -1,0 +1,59 @@
+{
+  "id": "640cd38991bb4982d9bf2f94630262cc50958fc3",
+  "text": "ERRATA.\n\nVol. LVI.\n\nP. 6. l. 8. for MVRMVVIS SONI, read MVRMVVIS, SONI.\nP. 301. note (9) l. 1. for Abulfed, read Abu'lfed.\nP. 301. note (9) l. 2. for Firûz, read Firûz.\n\nVol. LVII.\n\nP. 113. l. 4. for Wadham College read Wadham College.\nP. 108. l. 13. for 1766. read 1765.\nP. 275. l. 10. for Mount read mount\nP. 458. l. 24. after the word determined insert a colon",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105977.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 242,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        363,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105977",
+    "title": "Errata",
+    "authors": null,
+    "year": 1767,
+    "volume": "57",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105977"
+  }
+}

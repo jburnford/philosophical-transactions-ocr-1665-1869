@@ -1,0 +1,59 @@
+{
+  "id": "f814847df6842cca2050cecf4c5adde5100e9a7b",
+  "text": "To the Right Honourable\n\nWilliam Lord Viscount Brouncker,\nChancellor to Her Majesty,\nand\nPresident to the Royal Society, &c.\n\nMy Lord,\n\nAfter I had dedicated the First Volume of these Philosophical Occurrences to the R. Society, to whose service I have dedicated myself, I thought it my next duty to present the Second to your Lordship, who have for so many years with so high and universal an Applause presided in that Illustrious Assembly, and there given full proof both of the vast extent of your knowledge, and the incomparable solidity of your judgment in all the various Arguments and Matters there produced, observed, experimented and discoursed of. This, my Lord, though it deserves a far better Pen to be proclaim'd to the world, than mine; yet did I think, I might be suffer'd in this crowd to cast in my voice, and to deliver the truth and my persuasion thereof in these plain expressions. To which I shall add no more but my humble acknowledgments for your Lordships particular favour and goodness, in condescending on all occasions, to encourage these (though rude and undigested) Communications, and thereby to fortifie (against the obloquies of some singular men) the endeavours of the Authour for the improving and enlarging his Philosophical Commerce; which, being done, may perhaps be a means to render these Papers less inconsiderable for the future. I am,\n\nMy Lord,\n\nYour Lordships\n\nLondon, March 2. 1667\n\nVery humble, and very much obliged Servant,\n\nHenry Oldenburg.\n\nSoc. Reg. Secr.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101189.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 402,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1505,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101189",
+    "title": "To the Right Honourable William Lord Viscount Brouncker, Chancellor to Her Majesty, and President to the Royal Society, &c.",
+    "authors": "Henry Oldenburg",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101189"
+  }
+}

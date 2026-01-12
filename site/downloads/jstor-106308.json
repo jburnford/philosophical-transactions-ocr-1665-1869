@@ -1,0 +1,59 @@
+{
+  "id": "024ca8f6c57de85b5ae471e101924f7b4056f4d2",
+  "text": "ERRATA.\n\nPage | Line\n---|---\n15. | 1. *n.* for branche read branches.\n120. | 12. for part this read part of this.\n231. | 14. for expement read experiment.\n32. | 14. for suphureous read sulphureous.\n242. | 3. from the bottom, for common read common.\n| 2. from the bottom, for cne read one.\n262. | last word of the page, for Both read These.\n416. | last word of the page, for Nor read Now.\n445. | 12. for unhealty read unhealthy.\n498. | in the note, for they do not admit a dark hair read they do not by choice admit a dark hair.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106308.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 245,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        527,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106308",
+    "title": "Errata",
+    "authors": null,
+    "year": 1776,
+    "volume": "66",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106308"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d7b4c86cc092d170d719bb082f9606ff6ebdd390",
+  "text": "ADVERTISEMENT.\n\nThe Practice of inoculating the Small Pox being now extended into many Parts of the Kingdom, and it being highly requisite that the Publick should be faithfully inform'd of the Success of that Method, whether Good or Bad; It is desir'd, that all Physicians, Surgeons, Apothecaries, and others therein concern'd, will be pleas'd to transmit to Dr. Jurin, Secretary to the Royal Society, a particular Account, specifying the Name and Age of every Person by them inoculated, the Place where it was done, the Manner of the Operation, whether it took Effect or no, what Sort of Temper it produced, on what Day from Inoculation the Eruption appear'd; and, lastly, whether the Patient died or recover'd. They are desired to comprehend in their Accounts all Persons inoculated by them, from the Beginning of this Practice among us to the End of the present Year, and to send them some Time in January or February next.\n\nIn case this be comply'd with, the Advertiser promises to give the Publick an exact Account of the whole Number of Persons inoculated in Great Britain, distinguishing them into Classes according to their several Ages; as likewise of those that it has had no Effect upon, and of those that have died of it.\n\nAnd he farther promises to preserve the Original Accounts, that shall be sent him, and to give a Sight of them to any Gentleman who shall desire it, that in case any of those, who have been inoculated, shall afterwards have the Small Pox in the natural Way, it may be known, whether such Person had before received the Small Pox by Inoculation, or not.\n\nN.B. The Names of the Persons inoculated shall not be printed without Leave of the Parties concern'd.\n\nDec. 11th. 1723.\n\nJames Jurin.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103642.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 447,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1722,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103642",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103642"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "2b6da51b70c51d0cf7603688422374c292a79840",
+  "text": "IV. Observations on the Satellites of Jupiter and Saturn, made with the same Telescope. By John Hadley, Esq; F. R. S. Extracted from the Minutes of the Royal Society, Apr. 6. 1721.\n\nMr. Hadley gave the Society a Relation of some of the most remarkable Observations, which he had made with his Reflecting Telescope, before he presented it to the Society.\n\nIn observing Jupiter's Satellites he has seen distinctly the Shadows of the first and third Satellites cast upon the Body of the Planet; Mr. Folkes and Dr. Jurin, being present, affirmed, that Mr. Hadley had likewise shewn them the Shadow of the third Satellite through the same Telescope.\n\nIn observing Saturn the last Spring, at a Time when that Planet was about 15 Days past the Opposition, he saw the Shade of the Planet cast upon the Ring, and plainly discerned the Ring to be distinguished into two Parts, by a dark Line, concentric to the Circumference of the Ring. The outer or upper Part of the Ring seemed to be narrower than the lower or inner Part, next the Body, and the dark Line, which separated them, was stronger next the Body, and fainter on the outer Part towards the upper Edge of the Ring. Within the Ring he discerned two Belts, one of which cross'd Saturn close to its inner Edge, and seemed like the Shade of the Ring upon the Body of Saturn; but when he considered the Situation of the Sun, in respect\nto the Ring and Saturn, he found that Belt could not arise from such a Cause.\n\nHe says, that at Times he has seen with this Telescope three different Satellites of Saturn, but could never have the Fortune to see all five.\n\nAug. 1723. Mr. Hadley adds, that he has several Times seen the Shadow of the first, second, and third Satellites of Jupiter pass over the Body of that Planet, and that he has seen the first and second appear, as a bright Spot upon the Body of Jupiter, and has been able to keep Sight of them there for about a Quarter of an Hour, from the Time of their entering on his Limb.\n\nJupiter's Satellites have of late Years been so situated, with regard to the Earth and Jupiter, that he has not had sufficient Opportunity of observing the Transit of the fourth Satellite, or of its Shadow.\n\nThe dark Line on the Ring of Saturn, parallel to its Circumference, is chiefly visible on the Ansa, or Extremities of the Elliptick Figure, in which the Ring appears; but he has several Times been able to trace it very near, if not quite round; particularly in May, 1722, he could discern it without the Northern Limb of Saturn, in that Part of the Ring, that appeared beyond the Globe of the Planet. The Globe of Saturn (at least towards its Limb) reflects less Light than the inner Part of the Ring, and he has sometimes distinguished it from the Ring by the Difference of Colour.\n\nThe dusky Line, which in 1720 he observed to accompany the inner Edge of the Ring crosses the Disk, continues close to the same, though the Breadth of the Ellipse is considerably increased since that Time.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103639.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 775,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1382,
+        2
+      ],
+      [
+        1382,
+        2978,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103639",
+    "title": "Observations on the Satellites of Jupiter and Saturn, Made with the Same Telescope. By John Hadley, Esq; F. R. S. Extracted from the Minutes of the Royal Society, Apr. 6. 1721",
+    "authors": "John Hadley",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103639"
+  }
+}

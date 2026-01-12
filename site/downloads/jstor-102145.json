@@ -1,0 +1,69 @@
+{
+  "id": "eb015adb496d604db4977dc5307a4802b0180b66",
+  "text": "The Description of a Stone of the Bladder, seen by the Royal Society, Feb. 25th, 1684.\n\nThis Stone is represented Fig. 1. and is said to be taken out of the Bladder of one Francis Du-good of Auchenhove in Aberdeen. The man, who bred it, lived till he was 50 years old: the length of it is $5\\frac{1}{2}$ Inches; the Diameter $3\\frac{1}{2}$; the weight two Pound, three Ounces, and six Drams.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102145.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 215,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        391,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102145",
+    "title": "The Description of a Stone of the Bladder, Seen by the Royal Society, Feb. 25th, 1684/5",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102145"
+  }
+}

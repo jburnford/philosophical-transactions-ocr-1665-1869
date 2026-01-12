@@ -1,0 +1,99 @@
+{
+  "id": "1b5efd2c25fab2fdf181c67bf4decd26e2d627c9",
+  "text": "XXII. Observations of the Immersions and Emerisions of the Satellites of Jupiter, taken in the Year 1768, by Ensign George Sproule, of his Majesty's 59th Regiment, on the South Point of the Entrance of Gaspee Bason, which bears from Cape Ferrilong, or the Cape forming the Bay to the Northward, N. 68½ W. by the true Meridian, distant 12½ Marine Miles. Communicated by the Astronomer Royal.\n\nRedde, Jan. 20, 1774. The observations were made with Mr. Short's reflecting telescope, and the times shewn by a pendulum time-piece, made by Messieurs Mudge and Button, first adjusted to equal or mean time, by observing the passage of Sirius through a gun barrel fixed in the plane of the meridian, with a contraction made in the bore of the barrel; and then proved, in its going, by corresponding and single altitudes, taken with Hadley's quadrant, as often as the weather would permit, by reflection from clear oil, placed in a room with two windows; one to the S.E. and\nthe other nearly S.W. adjacent to where the clock stood. The windows being high, and the Sun having no great altitude, during the time the observations were made, the oil was therefore placed at such a distance, from the windows, that no wind could get at it to disturb it. There was also every precaution used to render it as still as possible, by fixing a shed to windward without the windows.\n\nThe method I used, in taking all my corresponding altitudes, was first to screw the index to a certain altitude; then, for the morning observations, I first noted, when the upper limb, by reflection, touched the lower limb in the oil; secondly, when the centers coincided, by observing an equal coincidence in both images; and lastly, when the Sun's lower limb, by reflection, touched the upper in the oil. In the afternoon, I observed the Sun's falling, noting each contact corresponding to that in the forenoon. I always made it a rule to take a large number, that I might reject those, where the oil suffered the least agitation.\n\nThe clock was fixed to an upright steady post, in a warm room, kept as temperate as possible, by increasing or diminishing a large wood fire opposite the clock.\n\nNotwithstanding every precaution, the intenseness of the cold was so great, that it frequently stopped the clock, by which I lost many observations during the months of January and February.\n\nThe following observations were made, when it was proved to go, at an equal rate, some days before and after.\nThe telescope and quadrant were the same Mr. Wright used on the island of Anticosti.\n\nThe ephemeris used was that of Mr. de la Caille, calculated for ten years to the meridian of Paris.\n\nThe telescope I had fixed on a steady stand without doors, near the room where the clock stood, and the time counted by a very careful person, with another to overlook him: great care was also taken of the quadrant, that it should not alter its adjustment between the morning and evening altitudes.\n\nThe latitude of the place of observation, at Gaspee, I determined, as accurately as possible, by several meridian altitudes of the Sun, taken in an artificial horizon, with the aforementioned quadrant; the error of adjustment being most accurately obtained by different methods. The mean result of the whole (15 of which agreed one with the other to 6 or 7 seconds) I found to be $48^\\circ 47' 32''$. The variation of the needle, by repeated trials different ways, I found $16^\\circ 30'$ West; one of the meridian altitudes I insert, to show the method I used.\n\nA a 2\n\n15th May,\n15th May, 1768, double angle of meridian altitude of the Sun's upper limb.\n\nError of adjustment of quadrant to the left,\n\n\\[ \\begin{array}{ccc}\n\\text{Apparent altitude of Sun's upper limb,} & 60^\\circ 34' 42\\frac{1}{2}' \\\\\n\\text{Semi-diameter subt.} & 15' 51'' \\\\\n\\text{App. alt. of center,} & 60^\\circ 18' 51\\frac{1}{2}' \\\\\n\\text{Refraction,} & 31'' \\\\\n\\end{array} \\]\n\n\\[ 60^\\circ 18' 20'' \\]\n\n—90 = Sun's zenith distance = Sun's decl. reduced to the meridian of observation*.\n\nLat. of the S. Point of Gaspee Basin, 48° 47' 30\"\n\nGEORGE SPROULE.\n\n* i.e., The O's declination, at the time of his passing the observer's meridian, computed from tables adapted to another meridian, according to the known or supposed longitude of one meridian from the other. S. HORSLEY.\nMr. Sproule, in reducing the time of his clock, having neglected the equation of equal altitudes, it was necessary to re-compute the corrections; and here follow the immersions and emersions of Jupiter's satellites, reduced to apparent time, from the original observations, due allowance being made for the equation of equal altitudes, by the Astronomer Royal.\n\n| Date       | Apparent Time |\n|------------|---------------|\n| Jan. 29    | 13 57 47      |\n| Mar. 15    | 14 21 14      |\n| Mar. 16    | 11 59 7       |\n| Mar. 18    | 13 30 10      |\n| April 9    | 11 18 26      |\n| April 10   | 11 38 8       |\n| April 25   | 9 39 40       |\n| May 9      | 13 30 54      |\n| May 12     | 11 15 43      |\n\nN.B. In these two emersions, the satellites seemed to emerge slowly out of the shadow. This is the best observation, the satellite starting out instantaneously.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106001.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9086,
+    "total-output-tokens": 1553,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        966,
+        2
+      ],
+      [
+        966,
+        2461,
+        3
+      ],
+      [
+        2461,
+        3527,
+        4
+      ],
+      [
+        3527,
+        4294,
+        5
+      ],
+      [
+        4294,
+        5158,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106001",
+    "title": "Observations of the Immersions and Emersions of the Satellites of Jupiter, Taken in the Year 1768, by Ensign George Sproule, of His Majesty's 59th Regiment, on the South Point of the Entrance of Gaspee Bason, Which Bears from Cape Ferrilong, or the Cape Forming the Bay to the Northward, N. 681/4 W. by the True Meridian, Distant 121/4 Marine Miles. Communicated by the Astronomer Royal",
+    "authors": "Astronomer Royal, George Sproule",
+    "year": 1774,
+    "volume": "64",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/106001"
+  }
+}

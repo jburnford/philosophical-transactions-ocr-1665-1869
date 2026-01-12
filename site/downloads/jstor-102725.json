@@ -1,0 +1,69 @@
+{
+  "id": "19d92fcc7c88b0b7d5736f80d454d0e3c858b2a1",
+  "text": "V. Part of a Letter from Richard Waller, Esq; S R. S. to Dr. Hans Sloane, R. S. Secr. Concerning two Deaf Persons, who can speak and understand what is said to them by the Motion of the Lips.\n\nThere live now, and have from their Birth in our Town, a Man and his Sister, each about 50 Years Old, neither of which have the least sense of Hearing; they both live by their daily Labour, yet both these Persons know by the motion of the Lips only, whatever is said to them, and will answer pertinently to the Question proposed to them of any thing within their Capacity, and are both very intelligent, as far as can be expected from their Education. I remember several Years since, Mr. Colson the Mathematical Master, coming to see me, this Man was then working in the Garden; and Mr. Colson and I standing close together, I took an opportunity when the Fellow look'd on me, to ask him some Question or other, which he readily understood, and answer'd according to it; tho' Mr. Colson that stood by me heard me say nothing, the Fellow understanding it only by the motion of the Mouth, so that you need only Whisper, provided the Lips and Mouth be but moved as they ought, and you do not speak too fast. I many Years since inquired of his Mother, who has been long since dead, as to their Deafness; and she told me, they could Hear very well and Speak when they were Children, but both lost that Sense afterwards, which makes them retain their Speech: Tho' that, to Persons not used to\nto them, is a little uncouth and odd, but intelligible enough, especially the Mans. They were not Twins; and I knew three Brothers of the same Parents, that had their Hearing as well as any Persons whatever.\n\nVI. A Relation of a Deaf and Dumb Person, who recover'd his Speech and Hearing after a Violent Fever: With some other Medicinal and Chirurgical Observations. By Mr. Martin Martin.\n\nDaniel Fraser, a Native of Straharig, some six Miles from Inverness, continued Deaf and Dumb from his Birth, till the seventeenth Year of his Age. The Countess of Crawford kept him in her Family for the space of eight or nine Years: After seventeen Years he was taken ill of a violent Fever, but being let Blood his Fever abated, and had not its Natural Course: About five or six Months after, he contracted a Fever again, and had no Blood drawn from him, and this went on with its Natural Course. Some Weeks after his recovery he perceived a motion in his Brain, which was very uneasy to him, and afterwards he began to Hear, and in process of time to understand Speech; this naturally dispos'd him to imitate others, and attempt to Speak: The Servants were much amaz'd to hear him, and some run away; he was not understood distinctly for the space of some Weeks; he is understood now tolerably well, tho' he yet retains the Highland Accent, as Highlanders do who are advanc'd to his Years before they learn the English Tongue: he can speak no Irish, for it was in the Low Lands of Scotland that he first heard and spoke. He continues",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102725.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 785,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1480,
+        2
+      ],
+      [
+        1480,
+        3005,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102725",
+    "title": "Part of a Letter from Richard Waller, Esq; S R. S. to Dr. Hans Sloane, R. S. Secr. concerning Two Deaf Persons, Who can Speak and Understand What is Said to Them by the Motion of the Lips",
+    "authors": "Richard Waller",
+    "year": 1706,
+    "volume": "25",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102725"
+  }
+}

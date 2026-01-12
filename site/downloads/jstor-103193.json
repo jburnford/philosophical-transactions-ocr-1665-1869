@@ -1,0 +1,99 @@
+{
+  "id": "1f3150ce19b6a5513bcebf1fe75b1d9e730b5100",
+  "text": "XIX. Epistola Nicolai Facij, Reg. Soc. Lond. Sod. ad Fratrem Joh. Christoph. Facium dictae Societatis Sodalem, qua vindicat Solutionem suam Problematis de Inveniendo Solido Rotundo seu Tereti in quod Minima fiat Resistentia.\n\nNicolaus Facius Johanni Christophoro Facio Duillierio, R. S. S. Fratri suo charissimo S. P. D.\n\nVidisti, Frater amantissime, quae de mea Solutione Londini impressa Problematis de Inveniendo Solido Rotundo seu Tereti in quod Minima fiat Resistentia, scribere non reveritus est V. Cl. Joh: Bernoullius tuus, vellem & meus. Negat ille me, hominem licet ipsi prorsus ignotum, ex tali Solutione, secundis Fluxionibus implicata, ad Solutionem illam Newtonianam regredi posse, cui similem invenit & ipse Bernoullius. Concludas forsan talibus dictis innui, Quo tempora ista scriberet Bernoullius, Regressum hujusmodi utique facilem ipsi tuisse. Sed obtant plusculum Jacobi Bernoullij Viri Cl. nec unquam pro Meritis laudandi Literae, quibus plane intelligas nec ipsum, quo tempore scriberet, nec ejus Fratrem Transformationem illam nostram Aequationum Fluxionibus involutarum cognovisse, qua multiplicantur in Productum, verbi gratia, $x^n y^a$ rite determinandum, vel etiam in Quantitatem aliam complexam. Sub Multiplicatione autem, ut bene nosti, continetur & Divisio. Hanc autem Transformationem, a me Anno 1687 & 1688 inventam, Hugenium Moyvræumque edocui\nedocui, à quibus ejusdem Scientia ad alios forsan defluxerit. Tentamine autem olim facto, comperi Newtonum Præsidem nostrum Dignissimum illam vel eo jam tempore non ignorasse; aut potius omnium primum invenisse.\n\nSed respondere cum potuisse pluribus modis ad Cl. Joh. Bernoullij velitationes, volui Investigationem illam omnium longe simplicissimam Actis Lipsiensibus inserere, quam Joh. Bernoullius non posset respicere; & ex qua praeterea intelligeret ipsum immerito falsi arguisse quae scripseram de Invenienda pariter Linea Brevissimi Descensus, adhibita rite consideratione motus quasi Radij Lucis continue refracti, juxta Fermatij Doctrinam Refractionum.\n\nJam vero, ut me ipsum praeteream tales Criminatones non merentem; & tibi, Frater amantissime, quo docente prima suscepi olim Mathematicarum Scientiarum Semina, & Genevensi nostræ Academiae, istud animi grati testimonium debere videor, ut ex Æquatione illa quam in Pagina 16. exhibui, rite deductam Æquationem primis tantum Fluxionibus involutam scriptis consignem: Quam scilicet requirebat Johannes Bernoullius, & me prorsus negabat invenire posse. Nec enim ita scriptis mandari poterunt, quin Via sternatur ad augendam inter Mathematicos Geometriæ secretioris Scientiam. Eatenus vero si demonstrem viam, Deo sic volente, mihi apertam fuisset, Modestiam tamen in me minus forsan requiras, quam arguas supinam in publice prædicandis ejus generis Beneficijs, a Deo Optimo in me collocatis, Negligentiam.\n\nVideantur in Tractatulo nostro quæ ad Figuram ejusdem II pertinent.\n\nIn adjuncta Figura sit C Centrum Circuli Osculantis AEF, qui cum Sectione Solidi quaestii cujus Axis sit SY quam intime coincidat in A. Etique hujus Circuli\ncui Radius C A vel u = \\frac{3psx}{tt} - \\frac{px}{s} : quae erat Solu-\ntio nostra.\n\nFiat, ut prius, AS\nad Solidi Axem Y S\nperpendicularis = x ;\ncujus fiat Flexio in-\nvaria\\textit{t}\\textae Magnitudinis\nA B = \\dot{x} : Sitque\nB E ad Axem paral-\nlela = \\dot{y} ; Rursusque\nerigatur E G = x ;\nEt erit G F ad Ax-\nem parallela = \\dot{y}\n+ \\dot{y} .\n\nErit autem p ad t ut u seu \\frac{3psx}{tt} - \\frac{px}{s} ad \\frac{3sx}{t}\n- \\frac{tx}{s} sive \\frac{3\\dot{y}x}{x} - \\frac{\\dot{x}x}{y} ; quod æquabitur ipsi n seu AD\nad Axem parallelæ, posita scilicet C D ad eundem\nAxem perpendiculari : quae CD vocetur m.\n\nRursus erit p ad s ut u seu \\frac{3psx}{tt} - \\frac{px}{s} ad \\frac{3ssx}{tt} - x,\nsive \\frac{3\\dot{y}\\dot{y}x}{xx} - x ; quod æquabitur ipsim seu CD. Cu-\njus Valorem dedisse otiosum quidem hic est, sed usum\nhabebit in sequentibus.\n\nJam vero ex Osculantis Circuli A E F Proprietate\nhabebitur, productis ipsis B A, B E ad alteram usque\nCircumferentiae partem, \\dot{x} \\times 2m + \\dot{x} = \\dot{y} \\times 2n - \\dot{y}.\n\nRursusque ex ejusdem Circuli Proprietate habebitur,\nproductis ipsis G E, G F ad alteram usque Circumferen-\ntiae Partem, \\dot{x} \\times 2m + 3\\dot{x} = \\dot{y} + \\dot{y} \\times 2n - 3\\dot{y} - \\dot{y}.\n\nErgo\nErgo, subducta priori hac Æquatione a posteriori,\nerit \\(2 \\dot{x} \\ddot{x} = -2 \\dot{y} \\ddot{y} - \\dot{y} \\ddot{y} + 2 n \\dot{y} - 3 \\dot{y} \\ddot{y} - \\dot{y} \\ddot{y}\\).\n\nDeletisque Terminis infinite minoribus quam sint reliqui, erit \\(2 \\dot{x} \\ddot{x} = -2 \\dot{y} \\ddot{y} + 2 n \\dot{y}\\).\n\nSubstitutoque ipsius n Valore, erit \\(x \\dot{x} = -\\dot{y} \\ddot{y} + \\frac{3 x \\dot{y} \\ddot{y}}{x} - \\frac{x \\dot{x} \\ddot{y}}{y}\\): Id est \\(x^3 \\dot{y} + x \\dot{y}^3 - 3 x \\dot{y} \\ddot{y} \\dot{y} + x \\dot{x} \\dot{y} = 0\\).\n\nComponitur hæc Æquatio ex solis Indeterminatis \\(x, y\\), earumque Fluxionibus \\(x, y\\), invariabilique Quantitate \\(x\\), Quantitatibusve Coefficientibus datis. Bina autem sunt Paria Terminorum in quibus occurrunt eadem utrinque literæ, literarumque Potestates, nisi quatenus Quantitas Fluens per Literam unam expressa in Fluxionem convertitur, vel Fluxio in Fluentem. Quæ Paria Terminorum sunt \\(x^3 \\dot{y} - x \\dot{x} \\dot{y}, \\text{et } x \\dot{y}^3 - 3 x \\dot{y} \\ddot{y} \\dot{y}\\); ex Terminis utique Generatoribus duobus duntaxat orta.\n\nIn tota enim Æquatione nihil obstat quominus ipsa transformetur scilicet Multiplicatione facta in \\(x^2 \\dot{y}\\), determinatis rite ipsis Indicibus \\(x\\) et \\(y\\), ut ea ratione nova Æquatio proveniens tractabilis evadat.\n\nErgo juxta nostram istarum Transformationum Theoriam, in Generatore ex quo exoritur Terminorum Par primum unico Asterisco notatum, erit Numerus Dimensionum Indeterminatæ \\(x\\) ad Numerum Dimensionum Indeterminatæ \\(y\\), id est, Erit \\(1 + x\\) ad \\(1 + y\\), ut Coefficiens \\(1\\) in Termino \\(x^3 \\dot{y}\\) ad Coefficientem \\(1\\) in Termino \\(x \\dot{x} \\dot{y}\\). Rursus in Generatore, ex quo exoritur Terminorum Par alterum Asterisco duplici notatum, Erit Numerus Dimensionum Indeterminatæ \\(x\\) ad Numerum Dimensionum Indeterminatæ \\(y\\), id est, Erit \\(1 + x\\) ad \\(1 + y\\), ut Coefficiens \\(1\\) in Termino \\(x \\dot{y}^3\\) ad Coefficientem \\(-3\\) in Termino \\(-3 x \\dot{y} \\ddot{y} \\dot{y}\\); unde fit \\(x = -\\frac{3}{2}\\), &c.\n& λ = −\\(\\frac{3}{2}\\); ac proinde Multiplicator \\(xx \\dot{y}^λ = x^{-\\frac{1}{2}} \\times \\dot{y}^{-\\frac{1}{2}}\\).\n\nErit igitur \\(-x^{-\\frac{1}{2}} \\dot{x}^2 \\dot{y}^{-\\frac{1}{2}} - x^{-\\frac{1}{2}} \\dot{y}^{\\frac{1}{2}} = \\pm q\\) Aequatio superioris Aequationis per \\(x^{-\\frac{1}{2}} \\dot{y}^{-\\frac{1}{2}}\\) multiplicatae Generatrix: Est autem \\(q\\) Quantitas determinata. Quam Aequationem Generatricem, (Fluentem autem vocant alij) si quadraveris, ut tollantur Radices, proveniet \\(x^{-1} \\dot{x}^4 \\dot{y}^{-1} + 2 x^{-1} \\dot{x}^2 \\dot{y} + x^{-1} \\dot{y}^3 = qq\\) id est \\(\\frac{\\dot{x}^4 + 2 \\dot{x}^2 \\dot{y}^2 + \\dot{y}^4}{x \\dot{y}} = qq\\). Quae ipsa est Aequatio Newtoniana, quam & Joh. Bernoullius invenit, & ipse ego antehac erui, facillima omnium quae sperari possint ejusdem Aequationis Investigatione. Determinatur autem Quantitas \\(qq\\), vel datis Positione Axe indefinito Y S, Puncto A, & Solidi Tangente in A; vel datis Positione Puncto A, Centro Osculantis circuli C, & AD ad Axem Solidi parallela.\n\nPlura equidem jam aliquot retro ab hinc Annis scribere constitueram, sed aliud Tempus expectandum. Vale.\n\nDabam Londini die Maij 17. 1712.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103193.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9132,
+    "total-output-tokens": 2943,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1378,
+        2
+      ],
+      [
+        1378,
+        3069,
+        3
+      ],
+      [
+        3069,
+        4299,
+        4
+      ],
+      [
+        4299,
+        6322,
+        5
+      ],
+      [
+        6322,
+        7483,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103193",
+    "title": "Epistola Nicolai Facij, Reg. Soc. Lond. Sod. ad Fratrem Joh. Christoph. Facium Dictoe Societatis Sodalem, qua Vendicat Solutionem Suam Problematis de Inveniendo Solido Rotundo seu Tereti in Quod Minima Fiat Resistentia",
+    "authors": "Nicolai Facij",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/103193"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "3d5121c816f56bcc9adbd176f084c723a1de6168",
+  "text": "XIV. A Rule for finding the meridional Parts to any Spheroid, with the same Exactness as in a Sphere, by Colin Mac Laurin, F. R. S. Communicated by Andrew Mitchel, Esq; F. R. S.\n\nIt was demonstrated long ago, that in a Sphere the Nautical Meridian Line is a Scale of logarithmic Tangents of the half Complements of the Latitudes. The same may be computed with no less Exactness to any Spheroid by the following Rule.\n\nLet the Semidiameter of the Equator be to the Distance of the Focus of the generating Ellipse from the Centre as $m$ to 1. Let $A$ represent the Latitude for which the meridional Parts are required, $s$ the Sine of this Latitude, the Radius being Unit; find the Ark $B$, whose Sine is $\\frac{s}{m}$; take the logarithmic Tangent of half the Complement of $B$ from the common Tables; subtract this logarithmic Tangent from 10.000000, or the logarithmic Tangent of $45^\\circ$; multiply the Remainder by $\\frac{7915.7044678978}{m}$ &c. and the Product subtracted from the meridional Parts in the Sphere, computed in the usual manner for the Latitude $A$, will give the meridional Parts expressed in Minutes for the same Latitude in the Spheroid, provided it is oblate. When the Spheroid is oblong, the Difference of the meridional Parts in the Sphere and Spheroid for the same Latitude, is then deter-\nmined by a circular Ark; but it is not necessary to describe this Case at present.\n\nExample: If $m:m = 1:1000:22$, then the greatest Difference of the meridional Parts in the Sphere and Spheroid is 76.0929 Minutes: In other Cases it is found by multiplying the Remainder above-mentioned by 1174.078.\n\nXV. The parabolic Orbit for the Comet of 1739. observed by Signor Eustachio Zanotti at Bologna.\n\nThe Motion in its own proper Orbit was retrograde.\n\nThe Perihelion was in . . . §. 5. 11.\nThe descending Node in . v. 25. 18.\nThe Perihelion from the Node 69. 53.\n\nThe Comet was in the Perihelion June 9. 9. 59.\nin the desc. Node July 18. 4. 57.\n\nThe Perihelion of the Comet’s Orbit was within the Sphere of the Orbit of Venus, and without that of the Orbit of Mercury; being distant from the Sun 0.69614 Parts of the Earth’s mean Distance from the Sun.\n\nThe Plane of the Orbit stood inclined to the Plane of the Ecliptic in an Angle of 53°. 25'.\n\nThe Diurnal mean Motion, according as it is interpreted by Dr. Halley in his Elements of cometical Astronomy, was 1°.5707.\n\nXVI. A",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104377.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 790,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1317,
+        2
+      ],
+      [
+        1317,
+        2392,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104377",
+    "title": "A Rule for Finding the Meridional Parts to Any Spheroid, with the Same Exactness as in a Sphere, by Colin Mac Laurin, F. R. S. Communicated by Andrew Mitchel, Esq; F. R. S.",
+    "authors": "Andrew Mitchel, Colin Mac Laurin",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104377"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "524f76f44e83d758fa64a0c2015db4360493635e",
+  "text": "II. Description of an improved Hygrometer. By Mr. Thomas Jones. Communicated by Captain Henry Kater, F.R.S.\n\nRead June 16, 1825.\n\nThe attention of the scientific world has been lately so much occupied in experiments on atmospheric phenomena, that it is hoped any simplification or improvement in the instruments employed for that purpose, may not be unacceptable.\n\nThe principle of the hygrometer which I am about to describe, is that of enabling the observer, readily and accurately, to ascertain by direct and simple means, the degree of temperature at which the moisture of the atmosphere is condensed, and the instant at which that operation commences.\n\nThe hygrometer is composed of a mercurial thermometer, the graduated scale of which is about four inches and a half long; at the lower part of the scale the glass tube is bent to form a right angle, at the end of which the bulb of the thermometer rises parallel to the scale, and about one inch from it; the bulb is about one inch long, and of a cylindrical form, with a black convex top, the diameter of which is a little more than that of the cylindrical part, which is covered with silk. The scale is attached to a piece of cylindrical wire, three inches long, and turns upon a joint screw passing into its edge, the other end of which wire being placed in a tubular foot fixed to the inside of one end of the case, forms\nMr. Jones's description of an improved hygrometer.\n\na stand for the instrument. The case contains a small bottle for ether.\n\nThe thermometer thus constructed, will give both the temperature of the air and that of the dew point; which last is effected by placing the mouth of the bottle containing the ether, in contact with the upper part of the covered surface of the bulb, when by gently inclining the bottle, the ether will flow downwards without wetting the top of the bulb, which will almost immediately become dull by the deposition of moisture on its surface; when the observed temperature may be taken and the difference ascertained.\n\nShould it be objected against the principle of the instrument here proposed, that the indications do not exhibit the true temperature of the upper surface of the bulb on which the deposition of dew takes place, but that of the lower part to which the ether is applied; it may be answered, that by inclining the whole instrument so as to render the axis of the bulb horizontal, and establish thereby a free circulation of the mercury in every part, this objection may be obviated; but on repeated trials I have not found this to produce any difference in the results.\n\nI ought also perhaps to mention that an instrument somewhat similar in principle has been used in Vienna, and was mentioned by Professor Baumgarten of that capital to a friend, who communicated the fact to myself.\n\nThe instrument is represented in Plate I. Fig. 1.\n\nTHOMAS JONES.\n\n20th February, 1825.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107797.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6410,
+    "total-output-tokens": 731,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1383,
+        2
+      ],
+      [
+        1383,
+        2896,
+        3
+      ],
+      [
+        2896,
+        2896,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107797",
+    "title": "Description of an Improved Hygrometer",
+    "authors": "Thomas Jones",
+    "year": 1826,
+    "volume": "116",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107797"
+  }
+}

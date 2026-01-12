@@ -1,0 +1,79 @@
+{
+  "id": "237b77723dff73b1e66d6be06102506da630c018",
+  "text": "XVII. Observation of the Winter Solstice of 1812, with the Mural Circle at Greenwich. By John Pond, Esq. Astronomer Royal, F.R.S.\n\nRead February 25, 1813.\n\nThe weather this year at the period of the solstice was peculiarly unfavourable for astronomical observation; however, in the course of the month, I obtained nine observations of the sun; one of these proved defective, the result of the other eight, accompanies this communication. In my observation of the summer solstice, it will be seen that I assumed the arc ZP equal $38^\\circ 31' 21'' 15$; by subsequent observation I conceive that I have somewhat improved this quantity, which I now assume $38^\\circ 31' 21'', 5$, as resulting from 120 observations of Polaris.\n\nThe observation of the summer solstice thus corrected will give the mean obliquity of the ecliptic for January 1, 1813, $23^\\circ 27' 51'', 50$, and the winter solstice $23^\\circ 27' 47'', 35$.\n\nThere can be no doubt but this small discordance might easily be reconciled by a slight modification of Bradley's refractions, and perhaps ultimately it may be necessary to have recourse to this theory for its explanation; but I am unwilling to do this hastily, being now occupied in making an extensive series of observations of circumpolar stars, with a view of determining, if possible, whether Bradley's mean refraction does, or does not, require alteration.—As I propose making the discordance of the solstices the subject of a sepa-\nrate paper, I shall not add any thing farther on the subject, excepting a recommendation to astronomers, to deduce their refractions from circumpolar stars altogether, and then examine the solstices with those refractions, and by no means to make the coincidence of the solstices a required proof of their accuracy.\n\nNote. In the annexed computation the reduction to the solstice is computed from the observed right ascension of the sun, by this means the errors of the tables being avoided, observations at a considerable distance (even some weeks from the solstice) may be employed, particularly in the winter season, when the uncertainty from refraction is greater than the error which may be probably introduced into this part of the calculation.\n| Year | Barometer | In. | Out. | Refraction | Observations as given by the Instrument | Position of the Zero point, or Equation to be applied to obtain the N. P. D. | Equation to reduce the observed N. P. D. to Zenith Distance or Position of the Circle | Semidiameter of the Sun greater than in the Nautical Almanack | Reduction to the Solstice | Solstitial Zenith Distance | N. P. D. |\n|------|-----------|-----|------|------------|----------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|--------------------------|-------------------------|---------|\n| 1812 |           |     |      |            |                                        |                                                  |                                                  |                                                  |                          |                         |         |\n| Dec. | 6 30°19' | 41  | 38   | 3 21,1    | ○ UL 112 12 34,3                       | + 6°6,5                                         | 38°31'15\"                                       | + 16°17,3 55°31,3                               | 74°56'29,0                 | ○ 113°27'50,5             | 113°27'50,5 |\n|      | 7 30°42' | 34  | 29   | 3 35,2    | LL 112 51 44,4                        | 6°5                                             | 15°0                                           | - 16°17,3 48°37,4                              | 24°7                     | 46°2                   |         |\n|      | 9 29°81' | 29  | 24   | 3 36,5    | LL 113 4 14,8                         | 6°5                                             | 15°0                                           | - 16°17,5 36°10,0                              | 28°8                     | 50°3                   |         |\n|      | 10 29°73'| 33   | 30   | 3 27,6    | UL 112 37 19,5                        | 6°5                                             | 15°0                                           | + 16°17,6 30°36,8                              | 26°5                     | 48°0                   |         |\n|      | 11 29°84'| 35   | 34   | 3 36,0    | LL 113 14 49,1                        | 6°5                                             | 15°0                                           | - 16°17,7 25°30,3                              | 22°7                     | 44°2                   |         |\n|      | 13 29°61'| 32   | 30   | 3 30,6    | UL 112 51 13,0                        | 6°5                                             | 15°0                                           | + 16°18,0 16°41,8                              | 28°4                     | 49°9                   |         |\n|      | 15 29°44'| 32   | 31   | 3 39,3    | LL 113 30 39,6                        | 6°5                                             | 15°0                                           | - 16°18,1 9°43,4                               | 29°2                     | 50°7                   |         |\n|      | 30 30°10'| 45   | 47   | 3 26,8    | UL 112 50 38,8                        | 6°5                                             | 15°0                                           | + 16°18,8 17°18,0                              | 27°4                     | 48°9                   |         |\n\nMean of 8 Observations = 74°56'27,09 ○ Lat. = 113°27'48,59\n\nNutation + 7°62' Parallax - 8°50' ○ Lat. = 6°36' = 1°24'\n\n74°56'25,85 ○ 113°27'47,35",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107399.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6456,
+    "total-output-tokens": 1700,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1459,
+        2
+      ],
+      [
+        1459,
+        2210,
+        3
+      ],
+      [
+        2210,
+        5725,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107399",
+    "title": "Observation of the Winter Solstice of 1812, with the Mural Circle at Greenwich",
+    "authors": "John Pond",
+    "year": 1813,
+    "volume": "103",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/107399"
+  }
+}

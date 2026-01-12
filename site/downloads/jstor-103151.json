@@ -1,0 +1,89 @@
+{
+  "id": "7afa3173b847c247bb84d4919464cdae0cd8f7c2",
+  "text": "VII. Concerning the Proportion of Mathematical Points to each other. By the Honourable Francis Robartes Esq; Vice-President of the Royal Society.\n\nIt has heretofore pass'd for a current Maxime, That all Infinites are equal.\nDivines and Metaphysicians have not scrupled to ground many of their Arguments on that Foundation.\nThe Position nevertheless is certainly erroneous, as Dr. Halley abundantly has shown in the Philosophical Transaction for October 1696. He there gives divers Instances of infinite quantities which are in a determinate finite proportion one to another, and some infinitely greater one than another.\nThe like may be observ'd of infinitely small quantities (viz.) Mathematical Points,) as the following Propositions will make appear.\n\nPROP. I. Fig. 1.\n\nThe Points of contact between Circles and their Tangents are in Subduplicate proportion to the Diameters of the Circles.\n\nLet two Circles $a d c b$, $e f b g$, touch one another from within at the point $a$. Draw the Tangent $p a q$, and parallel to it the line $m n$. From the point $a$ draw the Diameter $a c$.\nLet \\( ac \\) the Diameter of the greater Circle be equal to \\( R \\), and \\( ab \\) the Diameter of the lesser Circle be equal to \\( S \\).\n\nLet \\( dh \\) the Chord of the Arch \\( da \\) be equal to \\( z \\), and \\( fg \\) the Chord of the Arch \\( fa \\) be equal to \\( y \\), and let the Absciss \\( ak \\) be equal to \\( x \\).\n\nIf he Line \\( mn \\) be supposed to move till it becomes coincident with the Tangent \\( paq \\), the nature of a Circle will always give the following Equations.\n\n\\[\nzz = 4Rx - 4xx.\n\\]\n\n\\[\nyy = 4Sx - 4xx.\n\\]\n\nWhen the Line is arrived at the Tangent, \\( z \\) and \\( y \\) will become the two Points of Contact, and then \\( zz = 4Rx \\) and \\( yy = 4Sx \\). (4xx being laid aside as Heterogeneous to the rest of the Equation, by reason of \\( x \\) being become infinitely little.) Therefore\n\n\\[\nzz \\cdot yy :: 4 Rx \\cdot 4 Sx :: R \\cdot S.\n\\]\n\nTherefore \\( z \\cdot y :: \\sqrt{R} \\cdot \\sqrt{S}. \\quad Q.E.D.\n\nPROP. II. Fig. 2.\n\nThe Point of Contact between a Sphere and a Plane is infinitely greater than that between a Circle and a Tangent.\n\nLet \\( a \\) be the Point of Contact between the Sphere \\( adqf \\) and the Plane \\( bc \\). About the Sphere describe the Cylinder \\( npgm \\).\n\nDraw \\( kb \\) to represent a Circle parallel to the Plane. Let the Circle be suppos'd to move, till it becomes coincident with the Plane. The Cylindrical Surface \\( kbgm \\) will always be equal (according to Archimedes) to the Spherical Surface \\( daf \\).\n\nNow\nNow when these Surfaces become infinitely small, one terminates in the Point of Contact, and the other in the Periphery of the Base of the Cylinder. Therefore the Point of Contact is equal to the Periphery of the Base of the Cylinder (equal to a Periphery which has the same Diameter as the Sphere) and by consequence is infinitely greater than any point of Contact between a Circle and a Tangent.\n\nQ. E. D.\n\nPROP. III:\n\nThe Points of Contact by Spheres of different Magnitude are to one another as the Diameters of the Spheres.\n\nFor by the second Proposition the Points of Contact are equal to the Peripheries of such Diameters, whose proportion is the same as the Diameters.\n\nQ. E. D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103151.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8116,
+    "total-output-tokens": 990,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1086,
+        3
+      ],
+      [
+        1086,
+        2543,
+        4
+      ],
+      [
+        2543,
+        3229,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103151",
+    "title": "Concerning the Proportion of Mathematical Points to Each Other. By the Honourable Francis Robartes Esq; Vice-President of the Royal Society",
+    "authors": "Francis Robartes",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103151"
+  }
+}

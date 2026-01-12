@@ -1,0 +1,79 @@
+{
+  "id": "d5c412795bc61b5e6a6103df0646965e3ac5a1e8",
+  "text": "XII. A Catalogue of the Fifty Plants from Chelsea-Garden, presented to the Royal Society by the Company of Apothecaries, for the Year 1742. pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. nuper Praef. By Joseph Miller, Apothecary, Hort. Chelf. Praef. ac Praelector Botan.\n\n1001 A Brotanum Lini folio acriori & odorato. Tourn. Draco herba. Park.\n1002 Abutilon Americanum Ribesii folio, flore carneo, fructu pentagono aspero. Houft.\n1003 Aconitum caeruleum, sive Napellus. C. B. 183.\n1004 Aconitum Lycoctonum luteum. Ibid.\n1005 Ammi majus Off. C. B. 159.\n1006 Anchusa purpurea. Park.\n1007 Anonis non spinosa viscosa hirsuta, odore Theriacæ. Hort. Cathol.\n1008 Arum Africanum, flore albo. Parad. Bat.\n1009 Balsamita major. Dod. Costus Hortorum. Off.\n1010 Bidens folio tripartito, diviso. Tourn.\n1011 Buglossum latifolium sempervirens. C. B.\n1012 Buglossum orientale, flore luteo. Tourn.\n1013 Campanula hortensis, folio & flore oblongo. C. B. 94.\n1014 Campanula Persicæ folio, flore albo pleno. Lob.\n1015 Carduus acaulis minor, flore purpureo. C. B. 380.\n1016 Carduus aculeatus, Ptarmicæ Austriacæ folio Triumfetti.\n1017 Cnicus, Atractylis lutea, dictus, Off. Hort. Lugd. Bat.\n1018 Carum Off.\n1019 Doronicum Americanum. Park.\n1020 Elichrysum, seu Stœchas citrina angustifolia. C. B.\n1021 Elichrysum latifolium Americanum. Tourn.\n1022 Erysimum polyceratium vel corniculatum. C. B. 101.\n1023 Fabago Belgarum, sive Peplus Parisiensium, Lugdunens.\n1324 Filix mas aculeata, pinnulis auriculatis angustioribus. Raii.\n1025 Genista juncea. J. B. Hispanica. Ger.\n1026 Gentiana Alpina, magno flore. J. B.\n1027 Glaucium flore luteo. Tourn.\n1028 Gramen Daëtylon esculentum. C. B. Manna vulg. H. L. Bat.\n1029 Helleborus niger fetidus. C. B. 186.\n1030 Hermannia, folio Lavendulæ obtuso, flore parvo aureo. Boerhaave.\n1031 Hieracium montanum tomentosum. Morison Hort. Reg. Blæs.\n1032 Horminum pratense, flore minimo. Schol. Botan.\n1033 Horminum sylvestre, Lavendulæ flore. C. B. 239.\n1034 Ilex, oblongo serrato folio. Ib. 234.\n1035 Ketmia Syrorum, flore albo. Boerhaave.\n1036 Lentiscus vulgaris. C. B. 399.\n1037 Lingua cervina multifida. Ibid. 354.\n1031 Lotus hæmorrhoidalis major. Park.\n1039 Lupinus sativus, flore albo. C. B. 347.\n1040 Lupinus sylvestris, flore luteo. Ibid.\n1041 Lupinus peregrinus major villosus caeruleus. Ibid.\n1042 Lychnis Chalcedonica, flore miniato. Park.\n1043 Melilotus major candida Tragi.\n1044 Melilotus odorata violacea. Hist. Oxon. Lotus urbana. Off.\n1045 Moldavica Americana trifolia, odore gravi. Tourn.\n1046 Origanum. Off. Origanum Anglicum. Ger.\n1047 Ochrus folio integro capreolas emittente. C. B. 243.\n1048 Orobus vulgaris herbariorum. Ger. Park.\n1049 Panicum Indicum spica longissima. C. B. 343.\n1050 Punica malus. Off. Malus Granata. Ger.\n\nXIII. A Letter from the Rev. Mr. Roger Pickering, F.R.S. to the President; concerning the Manuring of Land with fossil Shells.\n\nSIR,\n\nCharles-Square, Hoxton, Nov. 22. 1744.\n\nI take the liberty of offering, by your hands, to the Society, a specimen of fossil Shells, lately sent me, which are pretty perfect; and, on account of the place from whence they were taken, remarkable. At Woodbridge in Suffolk, in a Farmer's Ground, there are some pits, in depth equal to the usual height of houses, con-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104445.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1417,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1022,
+        2
+      ],
+      [
+        1022,
+        2078,
+        3
+      ],
+      [
+        2078,
+        3282,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104445",
+    "title": "A Catalogue of the Fifty Plants from Chelsea-Garden, Presented to the Royal Society by the Company of Apothecaries, for the Year 1742. Pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. Nuper Praes. By Joseph Miller, Apothecary, Hort. Chels. Praes. ac Praelector Botan",
+    "authors": "Joseph Miller",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104445"
+  }
+}

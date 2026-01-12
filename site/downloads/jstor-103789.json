@@ -1,0 +1,59 @@
+{
+  "id": "6bfa319c717d33b525bd96edb071c385f21d9367",
+  "text": "VI. Some Experiments concerning the Cohesion of Lead, by the same.\n\nVII. Extract of several Letters and Certificates sent to his Majesty the King of Great Britain, concerning a very particular Nævus Maternus, or Mole, Communicated by Dr. Steigertahl, Physician to his Majesty, F.R.S.\n\nVIII. An Account of a Book, entitled, Historia Coelestis Britannica, tribus Voluminibus contenta, Authore Joanne Flamsteedio Astronomo Regio.\n\nERRATA.\n\nNo. 387. Page 263, line 20. for June, read February. p. 268. l. 3. for Shelves, r. Shells. p. 269. l. 3. for Tail, r. Tackle.\n\nNo. 389. p. 318. l. 7. r. Degrees. p. 324. l. 30. r. in satis magna.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103789.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 287,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        632,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103789",
+    "title": "Errata",
+    "authors": null,
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103789"
+  }
+}

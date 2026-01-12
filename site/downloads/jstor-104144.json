@@ -1,0 +1,69 @@
+{
+  "id": "b7cc90429c78fc119dbb1cc95403ed2853404584",
+  "text": "I. A Method of preparing Specimens of Fish, by drying their Skins, as practised by John Frid. Gronovius, M.D. at Leyden.\n\nThere are requisite for this Purpose,\n\nA Pair of Scissars, with very fine Blades, and sharp Points.\nSmall wooden Plates (of the Lime-tree, or wooden Trenchers).\nA very fine Needle.\nSlips of Parchment as large as the Fishes.\nMinnikin Pins, or small Pins.\n\nTake hold of the Fish with your Left Hand, so as that the Belly may be towards the Hollow of your Hand, and its Head pointed to your Breast. Then with the Needle make a Wound behind its Head, into which introduce one of the Points of your Scissars, cutting gently from thence along to the Tail. If you would preserve the Right Side, the Scissars are to be conducted on the Left Side of the Fin. This being done from the Head to the Tail, the Scissars are to be pointed deeper, and the Flesh divided quite to the Back-bone. Then turn the Fish with its Back downward, and its Belly upward, and proceed in the same manner, cutting with the Scissars through both Head and Jaws. Take away the Brain and Gills. The Fish then easily parts, the Intestines appear, which may be easily taken away. The Back-bones are then to be cut asunder, the Fish is to be washed, rubbed till it is dry with a Linen Cloth, and placed upon a Board, in such a manner as that the Skin,\ncovered with its Scales, may lie uppermost, and all the Fins and Tail are to be expanded with Pins. Let it then be exposed to the Sun, if in Summer, or, if in Winter, to the Fire, till the Skin grows quite dry and hard, when it must be turned, and the Flesh exposed to the Sun or Fire, till it is also dry; and then the Skin may be separated from the Flesh with very little Trouble, and, being put betwixt Papers, must be pressed flat. But as a sort of glutinous Matter, in pressing, is always forced out from betwixt the Scales and the Skin, a Piece of Parchment is to be laid under the Fish, which is easily separated from the Scales, but Paper always sticks: For this Reason it is necessary, that after an Hour or two, a fresh Piece of Parchment should be applied: And thus, in the Space of 24 Hours, the Fish is prepared.\n\nII. A Letter from Capt. William Gordon to Capt. Samuel Mead, F. R. S. inclosing an Account of the Fire-ball seen Dec. 11. 1741.\n\nSIR,\n\nRead March 4. 1741-2.\n\nAt your Desire I have sent you a Description, as exact as possibly I can remember, of the Meteor which I saw on Friday the 11th of December, coming by Water from the City to Whitehall.\n\nI really at first took it for some artificial Fire-work, but was soon undeceived by the different Forms it appeared in, and the Routs it took through the Regions of the Air. I find it was seen by several People here,",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104144.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 780,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1336,
+        2
+      ],
+      [
+        1336,
+        2723,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104144",
+    "title": "A Method of Preparing Specimens of Fish, by Drying Their Skins, as Practised by John Frid. Gronovius, M. D. at Leyden",
+    "authors": "John Frid. Gronovius",
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104144"
+  }
+}

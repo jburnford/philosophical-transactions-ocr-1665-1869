@@ -1,0 +1,69 @@
+{
+  "id": "12fd89a1781d123c96c3b2274b63d6989d6cb2bd",
+  "text": "III. The Case of Henry Axford, who recover'd the Use of his Tongue, after having been four Years dumb, by means of a frightful Dream; communicated by the Rev. Mr. Archdeacon Squire, F.R.S.\n\nRead Feb. 4. HENRY Axford, Son of Henry Axford, 1747-8. of the Devizes in Wiltshire, an Attorney, when a Child was subject to Convulsion Fits, which followed him pretty frequently till he was about 25 Years of Age. After this, his Health became extremely good. At about 28 Years old, going with some Ladies to see Longleat in Wiltshire, the Seat of Lord Viscount Weymouth, he perceived a Hoarseness coming upon him, which was soon after attended with all the Symptoms of a common Cold, till, in about six Days after his first Seizure, he became quite speechless, not only losing the articulate Use of his Tongue, but being scarcely able to make the least Noise with it. His Cold quickly went off in the usual manner, and he grew perfectly well, as well in Health as ever he had been in his Life; but he still continued absolutely speechless. He had Advice from all the neighbouring Physicians, but to no purpose; for nothing they did for him could restore him to the former Use of his Tongue.\n\nHe continued in this dumb Way about four Years; till one Day in the Month of July, in the Year 1741, being at Stoke in the above-mention'd County, he got very much in Liquor, so much, that, upon his\nhis Return home at Night to the Devizes, he fell from his Horse 3 or 4 times, and was at last taken up by a Neighbour, and put to Bed in a House upon the Road. He soon fell asleep; when, as he tells the Story himself, dreaming that he was fallen into a Furnace of boiling Wort, it put him into so great an Agony of Fright, that, struggling with all his Might to call out for Help, he actually did call out aloud, and recovered the Use of his Tongue from that Moment as effectually as ever he had it in his Life, without the least Hoarseness remaining, or Alteration in the old Sound of his Voice, as near as can be discerned. He was not used to drink hard; he is still alive, continues in good Health, and has the Use of his Tongue as perfectly as ever he had in the former Part of his Life.\n\nIV. Extract of a Letter from Mr. William Arderon, F.R.S. to Mr. Henry Baker, F.R.S. concerning the Hearing of Fish.\n\nSIR,\n\nRead Feb. 11. 1747-8.\n\nAs it was at your Desire that I set myself to make Experiments and Observations on the Nature and Properties of Fish, and to discover, if possible, whether they are sensible of Noises, and of the Motions of Bodies, by Hearing, in the Manner of Land Animals; or whether, being destitute of that Sense, the Want of it is supplied by the Quickness of their Sight and Feeling; I am going to lay before you the Method I made",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104525.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 781,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1383,
+        2
+      ],
+      [
+        1383,
+        2741,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104525",
+    "title": "The Case of Henry Axford, Who Recover'd the Use of His Tongue, after Having Been Four Years Dumb, by means of a Frightful Dream; Communicated by the Rev. Mr. Archdeacon Squire, F. R. S.",
+    "authors": "Mr. Archdeacon",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104525"
+  }
+}

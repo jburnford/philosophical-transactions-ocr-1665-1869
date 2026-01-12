@@ -1,0 +1,59 @@
+{
+  "id": "47f81d375da8f6c6c8975e4bb337ee445106d8ee",
+  "text": "Next to Grammar, in old Account, and for strongest Influence; and for the highest Advantages in all human Societies, both in Peace and War, Eloquence was esteemed more than fundamental, more than a Key, to unlock, regulate and set in order the Cabinets of Mens Hearts and Minds, to asswage bad Passions, and to excite noblest Affections.\n\nAnd Poesie, in several kinds, being the highest Efflorescence of Eloquence, is with a sublime and accurate felicity guided and promoted in a late English Tract, entitul'd, Reflexions on Aristotle's Treatise of Poetrie, containing the necessary, rational, and universal Rules for Epick, Dramatick, and the other sorts of Poetry; with Reflexions on the Works of the ancient and modern Poets, and their faults, noted by R. Rapin. Printed in London, in 8°.\n\nI take leave, on this occasion, to mention here, for Oratory, the two Tracts, that came abroad A. 1672. in 8°. viz. I. Reflexions upon the Eloquence of these Times, 1. in general: 2. Of the Barr, and 3. of the Pulpit: Pretending to be a Translation out of French; but by the Addresses, Conclusion, and often in the Body of the Tract, it appears to be a Free Application to our English Eloquence. II. By the same hand, A Comparison between the Eloquence of DEMOSTHENES and CICERO; which (doubtless) was, as is acknowledged, really translated out of French. Those Reflexions upon Eloquence, by a few Emendations at a second Review, may give much Light to Oratory.\n\nErrata in Numb. 109.\nPag. 193. lin. 28. r. Littleball.\n\nLONDON\nPrinted for J. Martyn, Printer to the Royal Society, 1674.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101181.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 486,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1577,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101181",
+    "title": "Errata",
+    "authors": null,
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101181"
+  }
+}

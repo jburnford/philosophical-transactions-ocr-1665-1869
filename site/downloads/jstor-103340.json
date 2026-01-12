@@ -1,0 +1,79 @@
+{
+  "id": "50ac4c09e0f7059de59364de092cc677842ac96d",
+  "text": "I. Curious Observations of the Transit of the Body and Shade of Jupiter's Fourth Satellite over the Disque of the Planet. Communicated by the Reverend Mr. James Pound, R.S.S.\n\nFinding by the Tables of Jupiter's Satellites that the Fourth Satellite was to pass over the Disque of Jupiter the 16th of this present February, at Night; we were very desirous to observe the same with the Hugenian Telescope, having never before, since I have had the Use of it, been able, by reason of the foulness and inconstancy of the Weather, to make any tolerable Observation of this kind.\n\nAt $6^h \\frac{1}{4}$ thro' a short Tube, we saw all the 4 Satellites, the 3 outermost on the East side of Jupiter, and the innermost near the Western Limb approaching to an Eclipse. The Fourth at that time was about half a Semidiameter of Jupiter from the Eastern Limb. Then it proved Cloudy till about $8^h$, at which time (thro' the long Glass) we could see only the second and third Satellites, the first being behind Jupiter in the Shadow, and the fourth entered upon the Disque. We saw at this time a dark Spot, a little Northward of the great Northern Zone, and near the Eastern Limb, where the Satellite was to enter on the Disque; which Spot we took for the Shade of the Satellite. The Clouds then again intercepted our View, till $8^h, 53'$. Eq.T. at which time the first Satellite was lately emerged out of the Shadow, and the Spot advanced so far, that we perceived it would arrive at the middle of Jupiter, near two Hours sooner than the\nthe Shade ought to have done by our Computation; but not imagining that this dark Spot could be anything else but the Shade, we concluded there had been some error in the Calculation, which we thought to re-examine afterwards. On this presumption we left off observing till $9^h\\ 35'$ at which time we were surprized to see a Notch in the Limb of Jupiter, near the place where the former Spot entred. This last appearance agreeing well with the time that the Shade of the Satellite ought to have entred the Disque, soon made us alter our former Opinion, and conjecture that this and not the other Spot was the said Shade. At $9^h\\ 39'\\frac{1}{2} Aeq T.$ the Notch vanishing, a round black Spot appeared within the Limb, but in contact with it. At $9^h\\ 45'.$ we judged the first Spot; and at $11^h\\ 45'.$ the second, to be in the middle of Jupiter.\n\nAt $11^h\\ 50'.$ the first Spot touched the Limb, being within the Disque; soon after which the Limb in that place seem'd a little protuberant. At $12^h\\ 5'.$ appeared the fourth Satellite just come out of the Disque, and touching the Limb in the place where the Protuberancy was. At $12^h\\ 7'.$ we could perceive the Satellite separated from the Limb. At $13^h\\ 56'.$ the second black Spot, still within the Disque, just touched the Western Limb; soon after which there appeared a Notch in this part of the Limb, as it did on the other at the coming on of this Spot. At $14^h\\ 6'.$ the Spot was all gone off, and the Limb appeared clear and entire. The first Spot, when in the middle of Jupiter, was almost as black as the second, when near the Limb, but somewhat less and a little more Northerly.\n\nAt the time that the first Spot was in the middle of the Disque, the three innermost Satellites appeared\nto the East of Jupiter; the first (as aforesaid) having lately emerged out of the Shadow; the second being almost at its greatest distance; and the third having passed the Axis of the Shade about twelve Hours before, and appearing at this time about three Diameters of Jupiter from his Limb. The times that these Spots arrived at the middle of the Disque are agreeable to the times found by Calculation, in which the fourth Satellite and its Shade ought to have appeared there. From all which 'tis very plain, that the first of these Spots was the fourth Satellite itself, and the second its Shadow.\n\nWe have seen the first and second Satellites appearing not as dark Spots, but as bright ones (somewhat different from the light of Jupiter) for some little time after they entered his Disque, but as they approached nearer the Middle we lost sight of them. And we have frequently observed that the same Satellites appear brighter at some times than at others; and that when one of them hath shined with its utmost Splendour, the Light of another hath been considerably diminished. From whence 'tis very probable at least, not only that the Satellites revolve upon their proper Axes, but also that some parts of their Surfaces do very faintly (if at all) reflect the Solar Rays to us.\n\nAll which hath for some time since been observed and taken notice of by Messrs Cassini and Miraldi, as may be seen in the Memoirs of the Academie Royale, for the Years 1707 and 1714.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103340.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1282,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1524,
+        2
+      ],
+      [
+        1524,
+        3278,
+        3
+      ],
+      [
+        3278,
+        4745,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103340",
+    "title": "Curious Observations of the Transit of the Body and Shade of Jupiters Fourth Satellite Over the Disque of the Planet. Communicated by the Reverend Mr. James Pound, R.S.S.",
+    "authors": "James Pound",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103340"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "3c6103291e1002a4ce6b9ce0add9641d5135a7f9",
+  "text": "IV. Some Philosophical Experiments, communicated by the Right Honourable Sir Robert Southwell, V. P. R. S.\n\n1. To make the Globe Looking-glass.\n\nTake Quicksilver, Marchasite of Silver, each Three Ounces, Tin and Lead, each half an Ounce; these Two first throw on the Marchasite, and last of all the Quicksilver, stir them well together, but they must be taken from the Fire, and be towards cooling before the Quicksilver be added; let your Glass be well warmed, then pour out the Mixture, and roll it from side to side.\n\nNote, This will do also when cold, but 'tis best when the Glass is heated and very dry.\n\nNote also, That if at the Glass House, your Ball be of Yellow Glass, then all will shine like Gold.\n2. To Paint a Globe-Glass, or any other, in Marble Colour.\n\nFirst grind well upon a Stone some Minium for Red.\n2. Radix Curcumæ, or rather Cerussa Citrina for Yellow.\n3. Smalt for Blew.\n4. Verdegrease for Green.\n5. Cerussa, or Chalk, for White.\n\nWhich being all separately wrought in Oyl, take a Bruin of Hogs Hair, mix in any of the said Colours, and it will, being rowled in your Hand, scatter the same upon the Glass; then with your Pencil work them together as you think fit; and lastly, fling a little Meade amongst them, which covers all.\n\n3. The Magick Lanthorn.\n\nThere are every where made of these Lanthorns to represent and magnifie Figures upon a Wall, but then 'tis only in the Dark, wherefore to give Variety of Colours,\n\nTake Oyl of Spike, and therein mix the several Colours, wherewith you will have your Glass to be stain'd, paint them finely on, they dry presently, and penetrate any Glass.\n\n4. Phosphorus\n4. Phosphorus Metallorum.\n\nTake Lapis Smaragdi Mineralis (such as is found in the Mines of Saxony) and beat it into a very fine Powder.\n\nIf you strew this very fine on any Metal, and in any Figure, and set the Plate on any hot Coals, in a short time you will perceive in the Dark, a Light to shine, which will (faith my Author) last as long as you continue the hot Coals, and if you beat out the Fire, it may do again for once or twice, but then the Vertue will fade.\n\nV. Part of Two Letters from Dr. Cay, to Dr. Martin Lister, Fellow of the Colledge of Physicians and Royal Society; concerning some Mineral Waters.\n\nI Had a Mineral Water sent me, not long since, by Mr. Duncan (a Surgeon in Alnseick, pretty well known for his Skill in his own Profession) which he desired me to examine, and give him an account of. Accordingly I first try'd it after the usual manner, with Galls, and found it turn'd almost quite Black, though it had been brought at least Thirty Miles by Land-carriage from Eglingham in Northumberland: But if this deep Colour was somewhat of a Surprize to me (for it was deeper than that of any atramentous Water, I had ever met with before) yet you'll easily imagine, that I was much more surpriz'd to find, after I had slowly, in a Glass, evaporated more than one half of this Water, that",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102552.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 873,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        710,
+        2
+      ],
+      [
+        710,
+        1633,
+        3
+      ],
+      [
+        1633,
+        2943,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102552",
+    "title": "Some Philosophical Experiments, Communicated by the Right Honourable Sir Robert Southwell, V. P. R. S.",
+    "authors": "Robert Southwell",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102552"
+  }
+}

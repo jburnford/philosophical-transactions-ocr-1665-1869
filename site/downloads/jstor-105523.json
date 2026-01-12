@@ -1,0 +1,109 @@
+{
+  "id": "410db8ed6efd5f3239e8ce637dbb8f9f6e375aab",
+  "text": "VII. An Account of an American Armadilla: By William Watson, M. D. F. R. S.\n\nTo the Royal Society.\n\nGentlemen,\n\nRead Feb. 9, 1764. I Herewith lay before you, for your inspection, the drawing, by the ingenious Mr. Paillou, of an animal very seldom, if ever, seen alive in England [Tab. VII.]. It is now alive in excellent health, and in the possession of the right honourable the Lord Southwell. It is called by Linnæus, in his Systema Naturæ, Dasypus cingulis novem, palmis tetradactylis, plantis pentadactylis.\n\nMarcgrave and Ray have both described it under the appellation of Tatue Brafiensicus. Albert Seba has likewise described it in the first volume of his elegant and elaborate Museum. He calls it Tatou, five Armadillus Americanus. The figure attending his description is taken from a dead animal. The drawing therefore is hard and stiff, and the colouring does by no means come up to the living animal.\n\nThis creature, which is called by naturalists the American Armadilla, was brought hither a few months since to Lord Southwell, from the country near what is usually called the Mosquito shore, upon the American continent. Its weight is seven pounds Vol. LIV. I avoirdupois,\navoirdupois, and its size that of a common cat. It is a male, and has improved greatly both in appearance and colour, since it has been in his Lordship's possession. It is fed with raw beef and milk, and refuses our grain and fruits. In its own country, according to the accounts of those who treat of it, it burrows in the ground.\n\nAs there is no good figure of this animal existing in any of the authors, who have treated of it; and as Lord Southwell has been so obliging as to permit me to have one taken of it by the before-mentioned able artist; I had reason to believe, that the inspection of it would not be disagreeable to the Society. I am, with all imaginable regard,\n\nGentlemen,\n\nFeb. 9, 1764. Your most obedient,\n\nhumble Servant.\n\nW. Watson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105523.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 7,
+    "total-input-tokens": 11620,
+    "total-output-tokens": 704,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        1187,
+        6
+      ],
+      [
+        1187,
+        1940,
+        7
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105523",
+    "title": "An Account of an American Armadilla: By William Watson, M. D. F. R. S.",
+    "authors": "William Watson",
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 7,
+    "jstor_url": "https://www.jstor.org/stable/105523"
+  }
+}

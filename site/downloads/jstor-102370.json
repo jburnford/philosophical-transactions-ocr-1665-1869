@@ -1,0 +1,69 @@
+{
+  "id": "60b519941f74d8e4571147f3c6332dd298c636bc",
+  "text": "VI. Part of a Letter from Mr. Robert Tailor, Apothecary at Hitchin in Hartfordshire, to Hans Sloan, giving Account of a great Hailstorm there, May 4th, 1697.\n\nSIR,\n\nOn Tuesday the 4th of May, 1697, about Nine of the Clock in the Morning, it began to Lighten and Thunder extremely, some great Showers intervening; it continued till about two of the Clock in the Afternoon, when on a sudden a Black Cloud arose S.W. of us, the Wind being E. and blew hard; then fell a sharp Shower, with some Hailstones: I sent my Man out, and he took up some, which I measured Seven and Eight Inches about; but the extremity of the Storm fell about Offley, where there was unhappily a young Fellow keeping Sheep, who was killed, and one of his Eyes stuck out of his Head, his Body was all over black with the Bruises; another Person nearer to Offley escaped his Life, but much Bruised; there was in the House of Sir John Spencer, 7000 Quarries of Glass broke, and there was great damage done to all the Neighbouring Houses thereabouts; the Hail fell in such vast quantities, and so great, that it tore up the Ground, split great Oaks and other Trees, in great Numbers; it cut down great Fields of Rye, as with a Scyth, and has destroyed several Hundred Acres of Wheat, Barley, &c. in so much, that they Plough it up, and sow it with Oats: The Tempest was such when it fell, that in four Poles of Land, from the Hills near us, it carried away all the Staple of the Land, leaving nothing but Chalk;\n\nR r r r\nthe Hail broke vast Numbers of Pidgeons Wings, Crows, Rooks and other Birds; the Flood came down, spreading Four or Five Acres of Land, rowling like the Bay of Biscay; and which is very strange, all this fell in the compass of one English Mile. I was walking in my Garden which is very small, perhaps about Thirty Yards square, and before I could get out, it took me to my Knees, and was through my House before I could get in, which I can modestly speak was in the space of a Minute, and went through all like a Sea, carrying all wooden things like Boats on the Water, the greatest part of the Town being under this Misfortune; the surprize was so great, that we had scarce time enough to save our Children and Wives. The bigness of the Hail stones is almost incredible; And truly, were not I a Witness to the vastness of the Numbers and Greatness, I should not have believed, for Number it is impossible, to relate some Hundred thousand Cart-Loads, and I see them four Days after; and if the Beds of Hail had not been broke by Peoples coming, and trampling of Horses, it might have lain till Michaelmas. They have been measured from One, to Thirteen and Fourteen Inches certain; some People talk largely of it, Seventeen and Eighteen Inches, but the other is certain Truth: The Figures of them are various, some Oval, others round, others picked, some flat, we were not so curious to weigh them. The Damage about us and in our Town, is near 4000 l sterl. This is the most exact Account that I can give of this most prodigious Storm, the like I believe was never read nor heard of.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102370.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 853,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1488,
+        2
+      ],
+      [
+        1488,
+        3070,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102370",
+    "title": "Part of a Letter from Mr. Robert Tailor, Apothecary at Hitchin in Hartfordshire, to Hans Sloan, Giving Account of a Great Hail Storm There, May 4th, 1697",
+    "authors": "Robert Tailor",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102370"
+  }
+}

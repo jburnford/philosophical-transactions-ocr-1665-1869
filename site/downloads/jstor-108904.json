@@ -1,0 +1,59 @@
+{
+  "id": "b49c887747c34b0f6f33c42223ec68449d82de5b",
+  "text": "XXII. New Researches upon the Dispersion of the Optic Axes in Harmotome and Wöhlerite, proving these Minerals to belong to the Clinorhombic [Oblique] System. By A. L. O. Des Cloizeaux. Communicated by Professor W. H. Miller, For. Sec. R.S. .................................................. page 565\n\nXXIII. On the Conditions for the existence of Three Equal Roots, or of Two Pairs of Equal Roots, of a Binary Quartic or Quintic. By Professor A. Cayley, F.R.S. ........................................................................................................... 577\n\nXXIV. Researches on the Blood.—On the Action of Nitrites on Blood. By Arthur Gamgee, M.D., F.R.S.E., Assistant to the Professor of Medical Jurisprudence in the University of Edinburgh. Communicated by Professor Frankland, F.R.S. ........................................................................................................... 589\n\nXXV. On the Mysteries of Numbers alluded to by Fermat.—Second Communication. By the Right Hon. Sir Frederick Pollock, Bart., M.A., F.R.S., F.S.A., F.G.S., &c. ........................................................................................................... 627\n\nXXVI. On a Method of making a Direct Comparison of Electrostatic with Electromagnetic Force; with a Note on the Electromagnetic Theory of Light. By J. Clerk Maxwell, F.R.S.S. L. & E. ........................................................................................................... 643\n\nXXVII. On Supersaturated Saline Solutions. By Charles Tomlinson, F.R.S. ........................................................................................................... 659\n\nXXVIII. The Caudal Heart of the Eel a Lymphatic Heart.—Effect of the force with which the lymph-stream is propelled therefrom on the flow of the blood in the Vein into which the heart opens.—Explanation of the appearance of blood propelled in successive drops, as if from the heart, along the Caudal Vein.—Influence which the force of the lymph-stream from the heart exerts in accelerating and promoting the flow of blood in the Caudal Vein. By Thomas Wharton Jones, F.R.S., Professor of Ophthalmic Medicine and Surgery in University College, London, Ophthalmic Surgeon to the University College Hospital, &c. ........................................................................................................... 675\n\nXXIX. On the Tides of Bombay and Kurrachee. By William Parkes, M.Inst. C.E. Communicated by G. B. Airy, Astronomer Royal, F.R.S. ........................................................................................................... 685\n\nIndex ........................................................................................................... 697\n\nAPPENDIX.\n\nPresents ........................................................................................................... [1]\n\nERRATUM.\n\nThe — prefix has been accidentally omitted in the Values of the Magnetic Intensities in pages 407 and 408.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108904.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 667,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3002,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108904",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1868,
+    "volume": "158",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108904"
+  }
+}

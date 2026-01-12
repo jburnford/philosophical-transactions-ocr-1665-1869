@@ -1,0 +1,69 @@
+{
+  "id": "b0bd11b5e8e0175d9ceaf31560a9e40b20ef5345",
+  "text": "VIII. An Account of a new sort of Molasses made of Apples; and of the degenerating of Smelts. By the Honourable Paul Dudley, Esq; F. R. S.\n\nThe Apple, that produces the Molasses, is a Summer-Sweeting, of a middling Size, pleasant to the Taste, and full of Juice, so that seven Bushels will make a Barrel of Cyder. The manner of making it is thus; you grind and press the Apples, and then take the Juice and boil it in a Copper till three Quarters of it is wasted, which will be done in about six Hours gentle boiling; and by that Time it comes to be of the Sweetness and Consistency of Molasses.\n\nSome of our People scum the Cyder as it boils, others do not, and yet there seems to be no great difference in the Goodness.\n\nThis new Molasses answers all the Ends of that made of the sweet Cane imported from beyond Sea. It serves not only for Food and brewing, but is of great Use also in preserving of Cyder; two Quarts of it put into a Barrel of rack'd Cyder, will both preserve and give it a very agreeable Colour.\n\nThe Apple Molasses was discovered a few Years since, by a * Gentleman of my Acquaintance, at Woodstock, in this Province, a Town remote from the Sea, and where the West India Molasses is dear and scarce; he ingenuously confesses the Discovery was purely accidental; but ever since he has supplied his Family with Molasses out of his Orchard, and his Neighbours also now do the like to their great Advantage.\n\n* J. Chandler, Esq;\nOur Country Farmers run much upon planting Orchards of these Sweetings, for fatting their Swine, and assure me it makes the best sort of Pork. And I know the Cyder made of them to be better than that of other Fruit for Taste, Colour, and keeping.\n\nTwo short Miles from my House we have a fine Pond, of half a Mile over, little or no Communication with the Sea. An ingenious man, some three-score Years ago, for an Experiment, took a Pail of large Smelts from the River and put them into this Pond, where they have increased abundantly, but are degenerated to a very small sort; for our River-Smelts I suppose are full as large as those of the Thames, some of them I know, will weigh two Ounces and an half, whereas these small ones will not weigh five Penny-Weight. We reckon the Pond-Smelt eats much better than the other, and then they are very transparent, and of a beautiful shining Pearl-Colour.\n\nRoxbury, New England,\nOctober 25, 1722.\n\nPaul Dudley.\n\nFINIS.\n\nLONDON: Printed for W. and J. Innys, Printers to the Royal Society, at the Prince's Arms the West End of St. Paul's Churchyard.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103606.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 714,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1447,
+        2
+      ],
+      [
+        1447,
+        2539,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103606",
+    "title": "An Account of a New Sort of Molosses Made of Apples; And of the Degenerating of Smelts. By the Honourable Paul Dudley, Esq; F. R. S.",
+    "authors": "Paul Dudley",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103606"
+  }
+}

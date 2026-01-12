@@ -1,0 +1,2549 @@
+---
+layout: default
+title: "An Essay towards the Calculus of Functions. Part II"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/106/">Volume 106</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>An Essay towards the Calculus of Functions. Part II</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">C. Babbage</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1816</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">106</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">80 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-107524.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-107524.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/107524" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">XI. An essay towards the calculus of functions. Part II. By C. Babbage, Esq. Communicated by W. H. Wollaston, M.D. Sec. R.S.
+
+Read March 14, 1816.
+
+In a former Paper which the Royal Society honoured with a place in the last Volume of their Transactions, I endeavoured to explain the nature of the calculus of functions, and I proposed means of solving a variety of functional equations containing only one variable quantity. My subsequent enquiries have produced several new methods of solving these, and much more complicated functional equations, and have convinced me of the importance of the calculus, particularly as an instrument of discovery in the more difficult branches of analysis; nor is it only in the recesses of this abstract science, that its advantages will be felt: it is peculiarly adapted to the discovery of those laws of action by which one particle of matter attracts or repels another of the same or of a different species; consequently, it may be applied to every branch of natural philosophy, where the object is to discover by calculation from the results of experiment, the laws which
+regulate the action of the ultimate particles of bodies. To the accomplishment of these desirable purposes, it must be confessed that it is in its present state unequal; but should the labours of future enquirers give to it that perfection, which other methods of investigation have attained, it is not too much to hope, that its maturer age shall unveil the hidden laws which govern the phenomena of magnetic, electric, or even of chemical action.
+
+When functional equations containing two or more variables occur, their solution presents still greater difficulties than those we have already considered; the new relations which arise, necessarily require a new notation to distinguish them. I shall endeavour, as far as I am able, to apply or extend that already in use; but, as it is almost impossible in the infancy of a calculus to foresee the extent to which it may be carried, or the new views which it may be necessary to take of it, the notation I have used should only be considered as of a temporary nature; it may be employed until some more convenient one be devised: perhaps, however, it might be more advantageous that it should not be altered until our acquaintance with this subject becomes more intimate, and until the infinitely varied and comprehensive relations displayed in the doctrine of functions, have been more minutely examined.
+
+If $\psi$ be the characteristic of any function of two quantities $x$ and $y$, that function is thus denoted $\psi(x, y)$. Now, if instead of $x$ in this quantity the original function be substituted, I shall call the result the second function relative to $x$, and I shall denote it thus
+
+$$\psi^{2,1}(x, y) = \psi(\psi(x, y), y)$$
+The first index \( z \) refers to \( x \), and the second index \( i \) refers to \( y \). Similarly if instead of \( y \) in the original function, the function itself had been substituted, the result would have been the second function relative to \( y \); it would be thus denoted
+
+\[
+\psi^{i,2}(x,y) = \psi(x,\psi(x,y))
+\]
+
+If there are more than two variables in the original function, they may be arranged in the order in which they are to be operated on, and the indices will denote the number of operations to be performed.
+
+Thus \( \psi^{2,3,1,4}(x,y,z,v,) \) signifies that in the function \( \psi(x,y,z,v,) \) we must instead of \( x \) substitute the function itself, and in the result instead of \( y \) put the same function, this latter operation must be repeated, and finally, instead of \( v \) in the last result, put the original function; this last operation must again be repeated twice.
+
+There are many cases which this notation does not comprehend. If, for example, in the function just proposed, we wished again to take the function relative to \( x \) or \( y \), it would not be easy to express this. The method I propose is to have two ranks of indices, the lower one to distinguish the quantities operated on; the upper one to mark the number of operations performed. According to this method the example just chosen would be written thus:
+
+\[
+\psi^{2,3,1,4}_{1,2,3,4}(x,y,z,v)
+\]
+
+If only such functions as these occur, we encumber our symbol without any advantage; if, however, we now wish to perform any farther operations, such, for instance, as to take the second function relative to \( z \), and then the third relative to \( y \),
+we have a very convenient mode of doing it; these operations would be thus expressed;
+
+$$\psi(x, y, z, v)$$
+
+This notation may not appear sufficiently concise to those who do not consider the very complicated relation expressed by the above written symbol: it need, however, only be used in very few cases, and when the lower series of indices is omitted, it must always be understood, that the quantities themselves are arranged in the order in which they are to be operated on.
+
+If in a function of two variable $\psi(x, y)$ we take the second function relative to $x$, and then the second function relative to $y$, we have
+
+$$\psi^{2,2}_{1,3}(x, y) = \psi\{\psi(x, \psi(x, y)) \psi(x, y)\}$$
+
+If we take the second function first relative to $y$, and then the second relative to $x$ we shall find
+
+$$\psi^{2,2}_{2,1}(x, y) = \psi\{\psi(x, y), \psi(\psi(x, y), y)\}$$
+
+It appears from this, that the order in which these operations are performed is not immaterial, as the order in which we differentiate a function of two variables, is in the differential calculus.
+
+The two expressions just given are the two second functions of $\psi(x, y)$, the first taken relative to $x$ and $y$, and the second taken relative to $y$ and $x$. But there may be another second function of $\psi(x, y)$, which will arise from substituting at the same time $\psi(x, y)$ for $x$, and $\psi(x, y)$ for $y$, it will be
+
+$$\psi(\psi(x, y), \psi(x, y))$$
+and may for the sake of distinction be called the second simultaneous function relative to \( x \) and \( y \); it differs from the two preceding ones, and in order to denote it with brevity, I shall put a line over the two indices thus,
+
+\[
+\psi^{2,2}(x,y) = \psi(\psi(x,y), \psi(x,y))
+\]
+
+This method of distinguishing it is equally applicable when there are more variables.
+
+There is only one other modification of the symbol denoting function to which I shall at present allude. Suppose (after any number of operations have been performed on a function of two variables for example) \( y \) becomes equal to \( x \), and the result only is given: this will naturally be represented in a manner analogous to that in which Euler denoted the limits between which the integral of a quantity is to be taken.
+
+Thus the equation \( \psi^{1,2}(x,y) = fx \quad [y=x] \) arises from the following question: What is the form of a function of \( x \) and \( y \), such that taking the second function relative to \( x \), and then the second relative to \( y \), the result on making \( y \) equal to \( x \) shall be a given function of \( x \)?
+
+It might be proposed, that after putting \( y \) equal to \( x \), the whole should be considered merely as a function of \( x \), and that its \( n^{th} \) function should be taken on this hypothesis, and the result only should be given.
+
+Such operations I would denote thus:
+
+\[
+\psi^{2,2}[n](x,y) = f(x) \quad [y=x] \quad \text{or perhaps} \quad \left\{ \psi^{1,2} \right\}^n(x,y) = f(x)[y=x]
+\]
+
+and in a similar manner all other relations of the same kind may be expressed.
+I shall give one example which will illustrate these various modifications of the original functions,
+
+\[ \psi(x, y, z, v) = f(x) \left[ \begin{array}{l} y = ax \\ v = \beta z \\ z = \gamma x \end{array} \right] \]
+
+This equation contains the analytical enunciation of the following Problem.
+
+What must be the form of a function of four quantities \( \psi(x, y, z, v) \) such that taking the second function relative to \( z \), the third relative to \( x \), and the second simultaneous one relative to \( y \) and \( v \): if in the result \( ax \) be put for \( y \) and \( \beta z \) for \( v \), and the whole be then considered as a function of \( x \) and \( z \), and if on this hypothesis the third function be taken relative to \( z \), and the second relative to \( x \); and if \( \gamma x \) be now put for \( z \) and the third function of the expression considered merely as a function of \( x \) be taken, then it is required that the final result shall be equal to \( fx \) a given function of \( x \)?
+
+Symmetrical functions I shall denote as in my former Paper, by putting a line over the quantities relative to which they are symmetrical, thus \( \psi(\bar{x}, \bar{y}, \bar{z}, \bar{v}) \) is symmetrical relative to \( x \) and \( y \) in one sense, and relative to \( z \) and \( v \) in another.
+
+**Problem I.**
+
+Required the solution of the functional equation
+
+\[ \psi(x, y) = \psi(ax, \beta y) \]
+
+To avoid repetition \( \alpha, \beta, \gamma, \&amp;c. \) unless otherwise mentioned, always express known functions, and \( \phi, \psi, \chi \) are unknown or arbitrary ones.
+
+Put \( \psi(x, y) = \phi(fx, fy,) \)
+then the given equation becomes
+
+\[ \phi (fx, fy) = \phi (f\alpha x, f\beta y) \]
+
+Determine \( f \) and \( f \) from the two equations
+
+\[ fx = f\alpha x \text{ and } fy = f\beta y \]
+
+this may be effected by Prob. I. or II. of my former Paper, take any particular solution and \( \phi \) may remain perfectly arbitrary; then the general solution of the problem is
+
+\[ \psi (x, y) = \phi (fx, fy) \]
+
+**Ex. 1.** Given the equation \( \psi (x, y) = \psi (-x, \frac{1}{y}) \)
+
+here we have \( f(x) = f(-x) \), and a particular solution is \( fx = x^2 \);
+
+also \( f(y) = f(\frac{1}{y}) \) and a particular case is \( f(y) = \frac{y^2 + 1}{y} \)
+
+hence the general solution of the equation is
+
+\[ \psi (x, y) = \phi (x^2, \frac{y^2 + 1}{y}) \]
+
+\( \phi \) being perfectly arbitrary.
+
+If we employ the general solutions of the equations \( f(x) = f(-x) \) and \( f(y) = f(\frac{1}{y}) \), we shall still only have one arbitrary function. In fact, the most general solution of the equation \( \psi (x, y) = \psi (-x, \frac{1}{y}) \) with which I am at present acquainted is
+
+\[ \psi (x, y) = \phi \left\{ -x, x, y, \frac{1}{y} \right\} \]
+
+and this only involves one arbitrary function.
+Problem II.
+
+Given the same equation
+
+\[ \psi(x, y) = \psi(ax, \beta y) \]
+
+Suppose one particular solution of this equation is known, let it be \( f(x, y) \),
+
+then take \( \psi(x, y) = \phi f(x, y) \), \( \phi \) being perfectly arbitrary
+
+and the given equation becomes
+
+\[ \phi f(x, y) = \phi f(ax, \beta y) \]
+
+which is evidently satisfied since \( f(x, y) = f(ax, \beta y) \) by the hypothesis.
+
+Ex. 1. Let \( \psi(x, y) = \psi(x^n, y^{\frac{1}{n}}) \)
+
+one particular solution of this equation is \( f(x, y) = x^{\log_y} \)
+
+hence the general solution is
+
+\[ \psi(x, y) = \phi(x^{\log_y}) \]
+
+Ex. 2. Given the equation \( \psi(x, y) = \psi(x^n, y^n) \) a particular case is \( f(x, y) = \frac{\log_x}{\log_y} \), hence the general solution is
+
+\[ \psi(x, y) = \phi\left(\frac{\log_x}{\log_y}\right) \]
+
+Ex. 3. Given the equation \( \psi(x, y) = \psi(x^n, y^m) \)
+
+In order to get a particular case let us put
+
+\[ f(x, y) = \log_x + a \log_y \]
+
+by substituting this value we shall find that it is a particular solution of the equation, if \( a = -\frac{\log_n}{\log_m} \),
+
+hence the general solution of the equation is
+
+\[ \psi(x, y) = \phi\left(\log_x - \frac{\log_n}{\log_m} \log_y\right) = \phi\left(\log_x \frac{\log_y}{\log_m}\right) \]
+
+or changing the value of \( \phi \) it becomes
+
+\[ \psi(x, y) = \phi\left(\frac{\log_x}{\log_y} \log_m\right) \]
+If \( n = m \) we have \( \psi(x, y) = \varphi\left(\frac{\log x}{\log y}\right) \) as in the last example, and if \( m = \frac{1}{n} \), we have the same solution as in the first.
+
+In these equations the functions have contained the variables separated; but it may frequently happen, that they occur mixed as in the following Problems.
+
+**Problem III.**
+
+Given the equation
+
+\[ \psi(x, y) = \psi(\alpha(x, y), \beta(x, y)) \]
+
+Assume \( \psi(x, y) = \varphi(f(x, y), f_x(x, y)) \), and by making this substitution the equation becomes
+
+\[ \varphi\{f(x, y), f_x(x, y)\} = \varphi\{f(\alpha(x, y), \beta(x, y)), f_x(\alpha(x, y), \beta(x, y))\} \]
+
+In order to render this equation identical, I determine \( f \) and \( f_x \) from the two following equations:
+
+\[ f(x, y) = f(\alpha(x, y), \beta(x, y)) \quad \text{and} \quad f_x(x, y) = f_x(\alpha(x, y), \beta(x, y)) \]
+
+From these it appears, that \( f \) and \( f_x \) are merely two particular solutions of the original equation. If, therefore, we are acquainted with any, the general solution is
+
+\[ \psi(x, y) = \varphi(f(x, y), f_x(x, y)) \]
+
+If only one particular solution is known, the general one is
+
+\[ \psi(x, y) = \varphi f(x, y) \]
+
+**Ex. 1.** Let us examine in what cases we can find the general solution of the equation
+
+\[ \psi(x, y) = \psi(x^n y^m, x^k y^r) \]
+
+In order to obtain a particular solution, put \( \psi(x, y) = x^v y^w \) and making this substitution, we shall find the following equation of condition among the exponents.
+
+\[ (1 - n)(1 - r) = km \]
+hence either of the following equations may be solved generally,
+
+\[ \psi(x,y) = \psi\left\{ \frac{x^n}{y^{r-1}}, \frac{y^n}{x^{n-1}} \right\} \quad (a) \]
+
+\[ \psi(x,y) = \psi\left\{ y\left(\frac{x}{y}\right)^n, x\left(\frac{y}{x}\right)^r \right\} \quad (b) \]
+
+the solution of the former is \( \psi(x,y) = \phi(xy) \), and that of the latter is \( \psi(x,y) = \phi(x^{r-1}y^{n-1}) \)
+
+In (a) put \( n = r = \frac{1}{2} \), then the solution of \( \psi(x,y) = (\sqrt{xy}, \sqrt{xy}) \) is \( \psi(x,y) = \phi(xy) \)
+
+In a similar manner it may be found that the solution of
+
+\[ \psi(x,y) = \psi\left( \frac{x-y}{y}, \frac{x-y}{x} \right) \]
+
+is
+
+\[ \psi(x,y) = \phi\left( \frac{y}{x} \right) \]
+
+As another example take the equation
+
+\[ \psi(x,y) = \psi\left( \frac{y}{2} \sqrt{\frac{y}{2x}}, \sqrt{2xy} \right) \]
+
+a particular solution is \( \psi(x,y) = 2xy + y^2 \), hence the general solution is \( \psi(x,y) = \phi(2xy + y^2) \), but we may find another particular solution of this equation which is totally different from the former, and by combining the two we shall obtain a much more general solution. The equation (b) will coincide with the one under consideration, if we make \( n = -\frac{1}{2} \) and \( r = \frac{1}{2} \), then we shall have for another particular solution
+
+\[ f(x,y) = \frac{1}{y\sqrt{2xy}}, \text{ hence a very general solution of the equation } \]
+
+\[ \psi(x,y) = \psi\left( \frac{y}{2} \sqrt{\frac{y}{2x}}, \sqrt{2xy} \right) \text{ is } \]
+
+\[ \psi(x,y) = \phi\left\{ 2xy + y^2, \frac{1}{y\sqrt{2xy}} \right\} \]
+
+\( \phi \) remaining perfectly arbitrary.
+
+In the equation of this Problem it may happen that
+α(x,y) does not contain x nor β(x,y) contain y, it then becomes
+
+\[ \psi(x,y) = \psi(\alpha y, \beta x) \]
+
+This is the case when \( \psi(x,y) \) is required to be a symmetrical function of x and y, the equation would then become
+
+\[ \psi(x,y) = \psi(y,x) \]
+
+two particular solutions are \( f(x,y) = xy \) and \( f(x,y) = x + y \),
+
+hence the general solution of the equation is
+
+\[ \psi(x,y) = \phi(xy, x+y) \]
+
+Though these solutions may with propriety be termed general because they contain an arbitrary function, yet I am by no means inclined to think them the most general of which the questions admit, possibly we ought to except the two last equations, though I shall afterwards show that the solution of an equation of the form \( \psi(x,y) = \psi(ax, by) \) may contain any number of known functions within the arbitrary one.
+
+**Problem IV.**
+
+Given the equation
+
+\[ \psi(x,y) = \psi(\alpha(x,y), \beta(x,y)) \]
+
+Assume as before \( \psi(x,y) = \phi(f(x,y), f(x,y)) \), then the equation will become
+
+\[ \phi(f(x,y), f(x,y)) = \phi\{f(\alpha(x,y), \beta(x,y)), f(\alpha(x,y), \beta(x,y))\} \]
+
+In order to render this equation identical, determine \( f \) and \( f \)
+
+from the two equations
+
+\[ f(x,y) = f(\alpha(x,y), \beta(x,y)) \text{ and } f(x,y) = f(\alpha(x,y), \beta(x,y)) \]
+
+putting in the first of these \( \alpha(x,y) \) for \( x \) and \( \beta(x,y) \) for \( y \)
+
+we find
+
+\[ f(\alpha(x,y), \beta(x,y)) = f\{\alpha(\alpha(x,y), \beta(x,y)), \beta(\alpha(x,y), \beta(x,y))\} \]
+
+\[ = f(x,y) \quad (1) \]
+and we should find a precisely similar equation for determining $f$. If we are acquainted with two particular solutions of this equation, we may from them derive the general solution of the given equation. If, however, the functions $\alpha$ and $\beta$ are of such a nature that the two following equations are fulfilled eq. (1) becomes identical without assigning any particular value to $f$ or $f$. (The two conditions are $\alpha(x, y), \beta(x, y)) = x$ and $\beta(\alpha(x, y), \beta(x, y)) = y$.
+
+It may be curious to enquire whether we can discover any forms which will satisfy these equations, for this purpose let us assume $\alpha(x, y) = a + bx + cy$, and also $\beta(x, y) = a + bx + cy$, this will only lead us to a particular solution, but I shall presently show that it may be rendered general. If the two conditions already specified are fulfilled, the arbitrary constants will be determined, and we shall have the following equations
+
+$$\alpha(x, y) = a + bx + \frac{b^2 - 1}{b} y$$
+
+$$\beta(x, y) = \frac{ab}{1-b} - bx - by$$
+
+which may be thus generalised. Let $\phi$ be any function, and let $\phi^{-1}$ be the inverse of that function, so that $\phi \phi^{-1} x = x$ then the conditions will be fulfilled, if
+
+$$\alpha(x, y) = \phi^{-1} \left\{ a + b \phi x + \frac{b^2 - 1}{b} \phi y \right\}$$
+
+and $$\beta(x, y) = \phi^{-1} \left\{ \frac{ab}{1-b} - b \phi x - b \phi y \right\}$$
+
+Some remarks, however, are necessary on the inverse function $\phi^{-1}$. If we combine $x$ and constant quantities by any of the direct operations, addition, multiplication, elevation of powers, &amp;c. the result which is called a function of $x$ admits
+only of one value, let \( z \) equal the function, then we have the equation \( z = \phi x \). If from this we endeavour to discover the value of \( x \) in terms of \( z \), the operation is an inverse one and \( x \) admits of one or more values according to the nature of the operations denoted by \( \phi \). This number may even be infinite; if \( \phi \) denotes an equation of the \( n^{th} \) degree, there are \( n \) values of \( x \) in terms of \( z \). It may then be enquired whether in using the substitution employed in the latter part of this Problem, any of these (perhaps infinite number) may be taken, or whether only certain particular values should be used? without attending to this circumstance, our conclusions may become erroneous: all these different values will satisfy the equation \( \phi^{-1} x = x \), but only those must be used which also satisfy the equation \( \phi^{-1} x = x \): thus if \( z = \phi x = a - x^2 \) we shall have
+
+\[
+x = \phi^{-1} z = + \sqrt{a - z}
+\]
+
+if we employ the upper sign we have
+
+\[
+\phi^{-1} x = + \sqrt{a - (a - x^2)} = + \sqrt{x^2} = + x
+\]
+
+If we use the lower one
+
+\[
+\phi^{-1} \phi x = - \sqrt{a - (a - x^2)} = - \sqrt{x^2} = - x
+\]
+
+the upper sign must therefore be taken, because in the latter part of the Problem we suppose \( \phi^{-1} \phi x = x \) and \( \phi^{-1} \phi y = y \).
+
+This remark, which is of some importance, extends to the conclusions in my former Paper and to the whole of the subsequent enquiries.
+
+The equation (1) might be considered as similar to the original one, and the same transformation might be performed on this, and thus we might continue to deduce new conditions. In the first part we found that the equation \( \psi x = \psi ax \) always admitted of an easy solution when \( a^n x = x \) and by continuing the substitutions already pointed out, we should arrive at
+some conclusions very analogous for functional equations of the form of those treated of in this Problem, but the length to which these enquiries would lead, render it sufficient merely to indicate them.
+
+In the equations solved in Problem I. and II. it is obviously immaterial whether we first put $\alpha x$ instead of $x$, and then in the result put $\beta y$ for $y$ or conversely; but in the equation of Problems III. and IV. the case is different. If in the function $\psi(x,y)$ we put simultaneously $\alpha (x,y)$ for $x$, and $\beta (x,y)$ for $y$ the result will be different from that which would arise from first putting $\alpha (x,y)$ for $x$ and then in the result putting $\beta (x,y)$ for $y$, or from inverting this operation; the three results stand thus:
+
+$$\psi (\alpha (x,y), \beta (x,y)) \quad (a)$$
+
+$$\psi (\alpha (x,\beta (x,y)), \beta (x,y)) \quad (b)$$
+
+$$\psi (\alpha (x,y), \beta (\alpha (x,y),y)) \quad (c)$$
+
+These three functions are evidently different, and in the solutions of the Problems, regard was only had to the first of them which may be called the simultaneous function. Those, however, of the second and third class might occur, and it becomes necessary to point out the means of solution which are applicable to them.
+
+According to the notation laid down, these functions may be thus expressed
+
+$$\psi^{1,1}(\alpha (x,y), \beta (x,y)) \quad (a)$$
+
+$$\psi^{1,2}(\alpha (x,y), \beta (x,y)) \quad (b)$$
+
+$$\psi^{2,1}(\alpha (x,y), \beta (x,y)) \quad (c)$$
+
+But to avoid the trouble of indices I shall show how those of
+the second and third class may be reduced to those of the first, I shall therefore always consider functions of the first order as simultaneous ones, and omit the indices, which if supplied, would be \( \frac{1}{1}, \frac{1}{2}, \frac{1}{3} \), &amp;c.
+
+To transform \( \psi^{1,2}(x,y), \beta(x,y) \) into a function whose index is \( \frac{1}{1}, \frac{1}{2} \) put \( \alpha(x,\beta(x,y)) = \gamma(x,y) \) then
+
+\[ \psi^{1,2}(x,y), \beta(x,y) = \psi^{1,2}(x,y), \beta(x,y) \]
+
+and similarly if \( \beta(\alpha(x,y), \beta(x,y)) = \gamma(x,y) \) we should have
+
+\[ \psi^{2,1}(x,y), \beta(x,y) = \psi^{1,2}(\alpha(x,y), \gamma(x,y)) \]
+
+and generally whatever be the number of variables a similar transformation might be effected.
+
+**Problem V.**
+
+Required the solution of the equation.
+
+\[ \psi(x,y) = A(x,y)\psi(\alpha(x,y), \beta(x,y)) \]
+
+Assume \( \psi(x,y) = f(x,y)\phi\{f(x,y), f(x,y)\} \) and substituting this in the given equation, we find
+
+\[ f(x,y)\phi\{f(x,y), f(x,y)\} = A(x,y)f(\alpha(x,y), \beta(x,y)) \times \phi\{f(\alpha(x,y), \beta(x,y)), f(\alpha(x,y), \beta(x,y))\} \]
+
+This equation will be satisfied if we are acquainted with particular solutions of the three following equations
+
+\[ f(x,y) = A(x,y)f(\alpha(x,y), \beta(x,y)) \]
+\[ f(x,y) = f(\alpha(x,y), \beta(x,y)) \text{ and } f(x,y) = f(\alpha(x,y), \beta(x,y)) \]
+
+the first of these is nothing more than the original equation.
+If therefore we know one particular solution of the original equation, and also one or two particular solutions of the other equation, we may deduce the general solution of the Problem.
+
+Ex. Let \( \psi(x,y) = \left(\frac{x}{y}\right)^3 \psi(y,x) \)
+
+in this case \( f(x,y) = f(y,x) \) and two particular solutions are \( f(x,y) = xy \) and \( f(x,y) = x + y \) also a particular solution of the given equation is \( f(x,y) = \frac{x}{y^2} \), hence its general solution is
+
+\[
+\psi(x,y) = \frac{x}{y^2} \varphi(x+y,xy)
+\]
+
+**Problem VI.**
+
+Given the equation
+
+\[
+\psi(x,y) = A(x,y) \psi(\alpha(x,y), \beta(x,y)) + B(x,y)
+\]
+
+Suppose we are acquainted with one particular solution which satisfies the equation and let it be \( f(x,y) \), then assume
+
+\[
+\psi(x,y) = f(x,y) + \varphi(x,y)
+\]
+
+and making this substitution the equation becomes
+
+\[
+f(x,y) + \varphi(x,y) = A(x,y)f(\alpha(x,y), \beta(x,y)) + A(x,y) \times \varphi(\alpha(x,y), \beta(x,y)) + B(x,y)
+\]
+
+Subtracting from this the particular solution
+
+\[
+f(x,y) = A(x,y)f(\alpha(x,y), \beta(x,y)) + B(x,y)
+\]
+
+there remains
+
+\[
+\varphi(x,y) = A(x,y) \varphi(\alpha(x,y), \beta(x,y))
+\]
+
+an equation which may be solved by the preceding Problem.
+
+The same substitution is applicable to the more general equation
+
+\[
+o = \psi(x,y) + A(x,y)\psi(\alpha(x,y), \beta(x,y)) + B(x,y)\psi(\alpha(x,y), \beta(x,y)) + \ldots + K(x,y)
+\]
+Problem VII.
+
+Given the functions
+
+\[ \alpha(x, y), \alpha_1(x, y), \alpha_2(x, y) \quad \&amp;c. \]
+
+\[ \beta(x, y), \beta_1(x, y), \beta_2(x, y) \quad \&amp;c. \]
+
+Required the nature of the function \( \psi(x, y) \) such that it shall not alter its form by the simultaneous substitution of \( \alpha(x, y), \beta(x, y) \) for \( x \) and \( y \), and generally that it shall remain the same when for \( x \) and \( y \) are respectively substituted any of the functions denoted by \( \alpha(x, y) \) and \( \beta(x, y) \). The conditions which determine \( \psi \) may be thus expressed
+
+\[ \psi(x, y) = \psi(\alpha(x, y), \beta(x, y)) = \psi(\alpha_1(x, y), \beta_1(x, y)) = \&amp;c. \]
+
+Assume \( \psi(x, y) = \phi\{f(x, y), f(x, y)\} \quad (1) \)
+
+then from the first condition we have
+
+\[ \phi\{f(x, y), f(x, y)\} = \phi\{f(\alpha(x, y), \beta(x, y)), f(\alpha(x, y), \beta(x, y))\} \]
+
+this will be satisfied by making
+
+\[ f(x, y) = f(\alpha(x, y), \beta(x, y)) \text{ and } f(x, y) = f(\alpha(x, y), \beta(x, y)) \]
+
+these are two particular solutions of the first equation.
+
+The second condition is \( \psi(x, y) = \psi(\alpha(x, y), \beta(x, y)) \)
+
+which becomes
+
+\[ \phi(f(x, y), f(x, y)) = \phi(f(\alpha(x, y), \beta(x, y)), f(\alpha(x, y), \beta(x, y))) \quad (2) \]
+
+where \( f \) and \( f \) are known functions; make
+
+\[ f(\alpha(x, y), \beta(x, y)) = K(x, y) \text{ and } f(\alpha(x, y), \beta(x, y)) = &#x27;K(x, y) \]
+
+\( K \) and \( &#x27;K \) are therefore also known functions.
+
+MDCCCXVI.
+Assume $\phi(x,y) = \phi(f(x,y), f(x,y))$, then equation (2) becomes
+
+$$\phi \left\{ f_1(f(x,y), f(x,y)), f_3(f(x,y), f(x,y)) \right\} = \phi \left\{ f(K(x,y), K(x,y)), f(K(x,y), K(x,y)) \right\}$$
+
+This equation must be solved in the same manner as the former by means of two particular solutions, and by continuing the same method, we shall find that the form of the function $\psi$ may be determined by means of $2n$ particular solutions of certain functional equations, when there are $n$ pair of conditions assigned. A less general solution may, however, be found when we are only acquainted with $n$ particular solutions.
+
+A similar method would lead us to the form of $\psi$, whatever might be the number of variables. If, however, we are acquainted with any number of particular solutions which remain the same, in all the cases assigned by the conditions of the Problem, we may have the general solution by making
+
+$$\psi = \phi \left\{ f_1, f_2, \ldots, f_i \right\}$$
+
+$f_1, f_2, \ldots, f_i$ being it $i$ particular solutions.
+
+**Ex.** Let it be required to find a symmetrical function of $x_1, x_2, \ldots, x_n$, the equations to be satisfied are
+
+$$\psi(x_1, x_2, \ldots, x_n) = \psi(x_2, x_3, \ldots, x_n, x_1) = \psi(x_3, x_4, \ldots, x_n, x_1, x_2) = \&amp;c.$$ 
+
+or the whole of the conditions may be more concisely denoted by the expression
+
+$$\psi \left\{ \bar{x}_1, \bar{x}_2, \bar{x}_3, \ldots, \bar{x}_n \right\}$$
+
+We may easily find $n$ particular solutions which fulfill these equations: for in the first place it is evident that the sum of
+any number of quantities is symmetrical with respect to them, therefore
+
+\[ f(x_1, x_2, \ldots, x_n) = x_1 + x_2 + \&amp;c. + x_n = S(x) \]
+
+Again the sum of their products two by two is also symmetrical, therefore
+
+\[ f(x_1, x_2, \ldots, x_n) = xx_1 + xx_2 + xx_3 + \&amp;c. = S(xx) \]
+
+and similarly the sums of their products three by three, four by four, &amp;c. are symmetrical. We may, therefore, find \( n \) different particular solutions, and the general solution will be any arbitrary function of all these particular solutions, or
+
+\[ \psi(x_1, x_2, \ldots, x_n) = \phi \{ S(x), S(xx), \ldots, S(xx\ldots x) \} \]
+
+Instead of taking for particular solutions the sum of all the quantities, the sum of all the products by two&#x27;s, the sum of all the products by three&#x27;s, &amp;c. &amp;c. we might have employed the sum of all the quantities, the sum of their squares, the sum of their cubes, &amp;c. but the solution thus deduced would not be essentially different from the former.
+
+**On functional equations of the second and higher orders involving two or more variables.**
+
+The notation to be employed in these enquiries has already been sufficiently explained, and the different species of second functions have been noticed. Preserving the same symbols, let it be required to solve the following Problem.
+
+**Problem VIII.**
+
+Given the equation
+
+\[ \psi^2(x, y) = x \]
+
+This equation though apparently involving two variables
+may in fact be solved by the methods of the first part; for \( y \) may be considered as a constant quantity, and if in the solution of \( \phi^2 x = x \) (Probs. 9, 10, and 14, Part I.) we put arbitrary functions of \( y \) instead of the constant quantities which occur, we shall have a solution of the given equation, thus a particular solution of \( \phi^2 x = x \) is \( f(x) = \frac{b-x}{1-cx} \) instead of \( c \) put \( x(y) \) then a solution of the given equation is
+
+\[
+\psi(x,y) = \frac{b-x}{1-xy}
+\]
+
+for
+
+\[
+\psi^{2,1}(x,y) = \psi(\psi x, y), y) \frac{b-x}{1-xy} = \frac{x-bxy}{1-bxy} = x
+\]
+
+We might also instead of \( b \) put any other arbitrary function of \( y \), and the result will be the same. The equations
+
+\[
+\psi^{2,1}(x,y) = \alpha(x,y) \quad \text{and} \quad \psi^{1,2}(x,y) = \alpha(x,y)
+\]
+
+may be treated in a similar manner, in the first \( y \) must be considered as constant, and \( x \) must be so treated in the latter.
+
+In general, when functions are taken only relative to one of the variables, the rules delivered in my former Paper are sufficient for their solution, such is the equation
+
+\[
+F\{x,y, \psi(x,y), \psi^{2,1}(x,y), \ldots \psi^{n,1}(x,y)\} = 0
+\]
+
+It might however occur, that though the order of the function does not vary relative to the other variable, yet that that variable may occur in different forms in each function. An example will render this more evident \( \alpha, \beta, \&amp;c. \) being known functions, let
+
+\[
+F\{x,y, \psi(x,y), \psi^{2,1}(x,\alpha y), \psi^{3,1}(x,\beta y), \ldots \psi^{n,1}(x,\nu y)\} = 0
+\]
+
+here though the functions do not vary in order relative to \( y \),
+yet they do vary in a certain sense, because \( y \) is differently contained under each functional characteristic; the method of treating these kind of equations will be explained hereafter.
+
+**Problem IX.**
+
+Given the functional equation
+
+\[
+\psi^{2,2}(x,y) = 0
+\]
+
+This signifies that the second simultaneous function is equal to zero. It is evident that \( x - y \) or \( y - x \) will be a particular solution, for if \( \psi(x,y) = x - y \) we have
+
+\[
+\psi^{2,2}(x,y) = \psi(\psi(x,y), \psi(x,y)) = (x - y) - (x - y) = 0
+\]
+
+By observing the process just gone through, it appears that it would equally succeed if for \( x \) we put \( f(x) \) and for \( y \) we put \( f(y) \) for if \( \psi(x,y) = f(x) - fy \), we have
+
+\[
+\psi^{2,2}(x,y) = (fx - fy) - (fx - fy) = 0
+\]
+
+This solution is considerably more general than the former, yet is by no means the complete solution, a more general one may be obtained thus: we found one particular solution to be \( \psi(x,y) = x - y \), now if we multiply the right side of this equation by an arbitrary function of \( x \) and \( y \) the condition will still be fulfilled; for if \( \psi(x,y) = (x-y)\phi(x,y) \) we shall find
+
+\[
+\psi^{2,2}(x,y) = \left\{ \frac{x-y}{\phi(x,y)} - \frac{x-y}{\phi(x,y)} \right\} \times \phi \left\{ \frac{x-y}{\phi(x,y)}, \frac{x-y}{\phi(x,y)} \right\} = 0
+\]
+
+provided \( \phi \left\{ \frac{x-y}{\phi(x,y)}, \frac{x-y}{\phi(x,y)} \right\} \) does not contain in its denominator any factor which vanishes.
+Problem X.
+
+Given the equation $\psi^{2,2}(x,y) = a$
+
+In this case the second simultaneous function of $x$ and $y$ is constant. The first solution which presents itself is $\psi(x,y) = x - y + A$, then we shall find
+
+$$\psi^{2,2}(x,y) = ((x - y + A) - (x - y + A)) + A = A = a$$
+
+therefore $A = a$ and one particular solution is
+
+$$\psi(x,y) = x - y + a$$
+
+This may be rendered more general, nearly in the same manner as the last Problem; thus let $\psi(x,y) = (x - y)\phi(x,y) + a$ then
+
+$$\psi^{2,2}(x,y) = [(x - y)\phi(x,y) + a] - (x - y)\phi(x,y) + a] \times \phi\{x - y\phi(x,y) + a, x - y\phi(x,y) + a\} + a = a$$
+
+Another particular solution which readily occurs is
+
+$$\psi(x,y) = A\frac{x}{y}$$
+
+this gives $\psi^{2,2}(x,y) = A\frac{A}{x}\frac{y}{x} = A = a$
+
+therefore $A = a$ and a particular solution is
+
+$$\psi(x,y) = \frac{ax}{y} \text{ or } \psi(x,y) = \frac{ay}{x}$$
+
+this readily points out another general solution, let
+
+$$\psi(x,y) = A\phi\left(\frac{x}{y}\right)$$
+
+hence $\psi^{2,2}(x,y) = A\phi\left(\frac{A\phi\frac{x}{y}}{A\phi\frac{x}{y}}\right) = A\phi(1) = a$
+
+make $A = \frac{a}{\phi(1)}$ and the general solution is
+
+$$\psi(x,y) = \frac{a}{\phi(1)}\phi\left(\frac{x}{y}\right)$$
+
+From the combination of the two preceding solutions we
+may obtain another value of $\psi$ which will also satisfy the given equation; it will be
+
+$$\psi(x, y) = \frac{a \chi \{x - y \phi(x, y), \phi \frac{x}{y}\}}{\chi \{0, \phi(1)\}}$$
+
+This on trial will be found to agree with the condition, and $\chi$, $\phi$ and $\psi$ are arbitrary functions.
+
+The equation we are considering will also be satisfied by making $\psi(x, y) = a \frac{\phi(x)}{\phi(y)}$ or more generally by the constant quantity $a$ multiplied by any fraction whose numerator and denominator become equal when $x$ is put for $y$: such are the following:
+
+$$a \frac{x + xy + y^2}{y + 2x^2}, a \frac{x(y^2 + x^2)}{2y^3}, a \frac{\sqrt{x^2 + 8x^2y - 5y^3}}{2x \sqrt{x}}, \text{etc.}$$
+
+**Problem XI.**
+
+Given the equation
+
+$$\psi^n(x, y) = ax + by$$
+
+Assume $\psi(x, y) = px + qy$ then we have
+
+$$\psi^{n-2}(x, y) = p(px + qy) + q(px + qy) = (p + q)(px + qy)$$
+
+and
+
+$$\psi^{n-3}(x, y) = (p + q)^2(px + qy)$$
+
+and generally
+
+$$\psi^{n-n}(x, y) = (p + q)^{m-1}(px + qy)$$
+
+hence $p \cdot (p + q)^{n-1} = a$ and $q \cdot (p + q)^{n-1} = b$, which gives for the values of $p$ and $q$
+
+$$p = \frac{a}{(a + b)^{\frac{n-1}{n}}} \quad \text{and} \quad q = \frac{b}{(a + b)^{\frac{n-1}{n}}}$$
+
+This is a very limited solution not containing even an arbitrary constant, it might easily be rendered more general, but
+the problem itself would scarcely have been worth noticing had it not been for the very curious results to which it led me.
+
+The relation between $\psi(x, y) = px + qy$ and $\psi^{n,n}(x, y)$ $=(p + q)^{n-1}(px + qy)$ is very remarkable, it appears from this, that in the present case in going from the $n^{th}$ to the $n+1^{th}$ simultaneous function, we have only to multiply by the sum of the co-efficients of the original function. On enquiring a little more minutely into the cause of this circumstance, it will be found that it depends on the original function containing $x$ and $y$ of the same dimensions in all its terms, or more generally that the expression of $\psi(x, y)$ is homogeneous.
+
+Let us now assume some homogeneous function, and examine its second and higher simultaneous functions, let
+
+$$\psi(x, y) = ax^n + by^p x^{n-p} + cy^q x^{n-q} + \&amp;c.$$  
+
+the second simultaneous function is
+
+$$\psi^{2,2}(x, y) = a\{\psi(x, y)\}^n + b\{\psi(x, y)\}^n + c\{\psi(x, y)\}^n + \&amp;c.$$  
+
+or $$\psi^{2,2}(x, y) = \{\psi(x, y)\}^n\{a + b + c + \&amp;c.\} = \psi(1,1)\{\psi(x, y)\}^n (a)$$  
+
+If we now take the simultaneous third functions we have
+
+$$\psi^{3,3}(x, y) = \psi(1,1)\{\psi^{2,2}(x, y)\}^n = \psi(1,1)\{\psi(1,1)(\psi(x, y))\}^n$$  
+
+hence $$\psi^{3,3}(x, y) = \{\psi(1,1)\}^{1+n}\{\psi(x, y)\}^{n^2}$$  
+
+Repeating the same operation we should have
+
+$$\psi^{4,4}(x, y) = \{\psi(1,1)\}^{1+n+n^2}\{\psi(x, y)\}^{n^3}$$  
+
+and generally
+
+$$\psi^{k,k}(x, y) = \{\psi(x, y)\}^{k-1}\times\{\psi(1,1)\}^{i+n+\&amp;c.+n^{k-2}}$$  
+
+$$= \{\psi(x, y)\}^{k-1}\times\{\psi(1,1)\}^{i-n^{k-1}} (b)$$
+This elegant property of homogeneous functions will assist us in solving a variety of equations.
+
+**Problem XII.**
+
+Given the equation
+
+$$\psi^{n,n}(x,y) = a \left\{ \psi(x,y) \right\}^b$$
+
+Determine $n$ from the equation $b = n^{k-1}$ and also determine
+
+$$\psi(1,1)$$
+
+from the equation
+
+$$\left\{ \psi(1,1) \right\}^{1-n} = a$$
+
+Or the given equation will be satisfied by any homogeneous function of the degree indicated by $b^{k-1}$ provided the sum of all its coefficients is equal to the quantity $a$.
+
+Ex. Let $\psi^{3,3}(x,y) = 8 (\psi(x,y))^*$
+
+here $b = 4$, $k = 3$, therefore $n^{k-1} = n^2 = b = 4$ and $n = \pm 2$
+
+also $a = 8$ and $\psi(1,1) = 8^{\frac{1}{3}} = 2$
+
+therefore any of the following quantities will satisfy the equation
+
+$$2xy, \quad x^3 + y^3, \quad xy + y^3, \quad x^3 - xy + 2y^3$$
+
+The properties of homogeneous functions are so nearly connected with the solution of equations containing simultaneous functions, that it will be convenient to examine into them a little farther, and to adopt some means of denoting them with brevity. In order to signify that a function of several variables has in each of its terms the sum of the indices of any two of them always the same, I shall make use of a line placed beneath those two variables: thus $\psi(x,y)$ signifies an homogeneous function of $x$ and $y$; and
+
+MDCCCXVI.
+as it may be convenient also to denote the sum of the two indices, I shall place it underneath on the outside of the parenthesis; thus then the expression $\psi(x,y)_q$ denotes any homogeneous function of $x$ and $y$ of the $q^{th}$ degree. A function of three variables $x$, $y$, and $z$, may be homogeneous, with respect to two of them ($x$ and $y$) in one sense, and also relative to $y$ and $z$ in another; but it does not from thence follow that it will be homogeneous relative to all three, such a function would be denoted thus
+
+$$\psi(x,y,z)_p,q$$
+
+a particular case of this expression is $x^2z^2 + xyz = \psi(x,y,z)_2,z$
+
+This notation being premised, we have the following theorems relative to homogeneous functions.
+
+$$\psi^{2,2}(x,y)_n = \psi(1,1)[\psi(x,y)_n]^n \quad (1)$$
+
+$$\psi^{k,k}(x,y)_n = \{\psi(x,y)_n\}^{nk-1} \times \{\psi(1,1)\}^{1-nk-1} \quad (2)$$
+
+And generally if we have any homogeneous function of the $n^{th}$ degree, and instead of $x$ and $y$ we substitute any other function whatever as $\psi(x,y)$, then we shall have the following equation
+
+$$\psi\{\psi(x,y),\psi(x,y)\}_n = \psi(1,1) \times [\psi(x,y)]^k \quad (3)$$
+
+Assume $\psi(x,y) = \phi\left[\frac{\alpha(x,y)}{\beta(x,y)}\right]_n$
+
+call the latter member, for the sake of brevity, $K$, and take the second simultaneous function on both sides; in this case $\alpha(x,y)_n$ will become $\alpha(1,1)K^n$ by eq. (3), and for the same reason $\beta(x,y)_m$ will become $\beta(1,1)K^m$, and consequently we shall have
+\[ \psi^{2,2}(x,y) = \phi \left\{ \frac{\alpha(1,1)}{\beta(1,1)} K^{n-m} \right\} = \phi \left\{ \frac{\alpha(1,1)}{\beta(1,1)} \left( \frac{\alpha(x,y)^n}{\beta(x,y)^m} \right)^{n-m} \right\} \quad (4) \]
+
+let \( \alpha(1,1) = \beta(1,1) \) and also let \( m = n \), then this equation becomes
+
+\[ \psi^{2,2}(x,y) = \phi(1) \]
+
+this affords another and a more direct solution of Prob. 10.
+
+for if \( \psi^{2,2}(x,y) = a \), a general solution is
+
+\[ \psi(x,y) = \frac{a}{\phi(1)} \phi \left\{ \frac{\alpha(x,y)^n}{\beta(x,y)^n} \right\} \]
+
+\( \alpha(1,1) \) being equal to \( \beta(1,1) \), this latter condition, however, is not absolutely necessary, and if we wish to avoid it, the general solution will be
+
+\[ \psi(x,y) = \frac{a}{\phi(\alpha(1,1)/\beta(1,1))} \phi \left\{ \frac{\alpha(x,y)^n}{\beta(x,y)^n} \right\} \]
+
+the following is another solution of the same question
+
+Assume
+
+\[ \psi(x,y) = \phi \left\{ \begin{array}{c}
+a + bx + cx^2 + \&amp;c. \\
+by + cxy \\
+cy^2 \\
+\end{array} \right\} = K \]
+
+taking the second function on both sides we have
+
+\[ \psi^{2,2}(x,y) = \phi \left\{ \begin{array}{c}
+a + b \\
+b \\
+c \\
+\end{array} \right\} K + \left\{ \begin{array}{c}
+c \\
+c \\
+\end{array} \right\} K^2 + \&amp;c. \]
+
+let \( a = &#x27;a \), \( b + b = &#x27;b + &#x27;b \), \( c + c + c = &#x27;c + &#x27;c + &#x27;c \&amp;c. \)
+
+\[ Ee_2 \]
+then the equation is reduced to
+
+\[ \psi^{2,2}(x, y) = \phi(1) \]
+
+If therefore we assume
+
+\[
+\psi(x, y) = \frac{a}{\phi(1)} \left\{ \begin{array}{c}
+a + bx + cx^2 + \&amp;c. \\
+by \\
+cy^2 \\
+\end{array} \right\}
+\]
+
+the original equation will be satisfied.
+
+I am inclined to think, that this solution is not the most general of which the Problem admits, even though the series were continued back, as it might, to negative powers of \( x \) and \( y \). The two solutions which follow are possibly more general, although on this point I am not certain. It would indeed be a very important step, if we could assign the number and nature of the arbitrary functions which enter into the complete solution of functional equations.
+
+Another solution of the equation \( \psi^{2,2}(x, y) = a \) may be thus deduced, let
+
+\[
+\psi(x, y) = \phi \left\{ \frac{a(x, y)_m}{a(x, y)_m}, \frac{\beta(x, y)_n}{\beta(x, y)_n}, \&amp;c. \right\} = K
+\]
+
+then taking the second simultaneous function on both sides, it will be perceived by the construction of the second side of the equation, that
+
+\[
+\psi^{2,2}(x, y) = \phi \left\{ \frac{a(1, 1)}{a(1, 1)}, \frac{\beta(1, 1)}{\beta(1, 1)}, \&amp;c. \right\}
+\]
+
+call the right side of the equation A, then a very general
+solution of our equation is
+
+\[ \psi(x, y) = \frac{a}{A} \phi \left\{ \frac{\alpha(x, y)_m}{\beta(x, y)_m}, \frac{\beta(x, y)_n}{\beta(x, y)_n}, \text{&amp;c.} \right\} \]
+
+where the numbers \( m, n, p, \text{&amp;c.} \) are not confined to integers.
+
+Another solution may be found in the following manner:
+
+let
+
+\[ \psi(x, y) = \phi \left( \frac{\chi(x, y)}{\chi(x, y)} \right) = K \]
+
+and determine \( \chi \) so that \( \chi(x, y) = \chi(x, y) \) when \( y \) is made equal to \( x \), then taking the second simultaneous functions on both sides, we have
+
+\[ \psi^2(x, y) = \phi \left( \frac{\chi(K, K)}{\chi(K, K)} \right) = \phi(1) \]
+
+a general solution of the equation in question is therefore
+
+\[ \psi(x, y) = \frac{a}{\phi(1)} \phi \left( \frac{\chi(x, y)}{\chi(x, y)} \right) \]
+
+this solution depends on that of the equation
+
+\[ \chi(x, y) = \chi(x, y) \quad [y = x] \]
+
+which belongs to a class of equations we shall speak of hereafter.
+
+Let us now return to the consideration of equation (4) it is
+
+\[ \psi^{2,2}(x, y) = \phi \left\{ \frac{\alpha(1, 1)}{\beta(1, 1)} \left[ \phi \left( \frac{\alpha(x, y)_n}{\beta(x, y)_m} \right) \right]^{n-m} \right\} \]
+
+for \( n \) put \( n+1 \) and for \( m \) put \( n \), then it becomes
+
+\[ \psi^{2,2}(x, y) = \phi \left\{ \frac{\alpha(1, 1)}{\beta(1, 1)} \phi \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) \right\} \]
+
+take the third simultaneous function then
+
+\[ \psi^{3,3}(x, y) = \phi \left\{ \frac{\alpha(1, 1)}{\beta(1, 1)} \phi \left( \frac{\alpha(1, 1)}{\beta(1, 1)} \phi \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) \right) \right\} \quad (5) \]
+if we suppose \( \alpha(1,1) = \beta(1,1) \) these equations become
+
+\[
+\psi^{2,2}(x,y) = \phi^2 \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^{n+1}
+\]
+
+\[
+\psi^{3,3}(x,y) = \phi^3 \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^{n+1}
+\]
+
+and generally we should find
+
+\[
+\psi^{p,p}(x,y) = \phi^p \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^{n+1}
+\]  
+
+(6)
+
+where \( \psi(x,y) = \phi \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^{n+1} \) and also \( \alpha(1,1) = \beta(1,1) \)
+
+A more general expression, and one which contains (b) as a particular case may be deduced in the following manner.
+
+Let
+
+\[
+\psi(x,y) = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^n \right\}^{n-m} = K
+\]
+
+taking the second simultaneous functions on both sides we find
+
+\[
+\psi^{2,2}(x,y) = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi \left( \frac{\alpha(1,1)}{\beta(1,1)} \right)^n K^n \right\}^{n-m} = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi \left( \frac{\alpha(1,1)}{\beta(1,1)} \right)^n K^n \right\}^{n-m}
+\]
+
+\[
+= \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi \left( \frac{\alpha(1,1)}{\beta(1,1)} \right)^n \phi \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^m \right\}^{n-m} = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi^2 \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^n \right\}^{n-m}
+\]
+
+and if we continue to take the succeeding simultaneous functions we shall find generally, that when
+
+\[
+\psi(x,y) = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^n \right\}^{n-m}
+\]
+
+\[
+\psi^{p,p}(x,y) = \left\{ \frac{\beta(1,1)}{\alpha(1,1)} \phi^p \left( \frac{\alpha(x,y)}{\beta(x,y)} \right)^n \right\}^{n-m}
+\]  
+
+(7)
+
+this expression is much more general than the preceding
+with which it coincides when \( \alpha (1, 1) = \beta (1, 1) \) and \( n = m + 1 \) by their assistance we may solve a variety of problems relating to simultaneous functions.
+
+From (b) we have
+
+\[
+\psi^{2,2}(x, y) = \phi^3 \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right) = \phi \phi \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right)
+\]
+
+putting in this for \( \phi \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right) \) its value \( \psi(x, y) \) we have
+
+\[
+\psi^{2,2}(x, y) = \phi \psi(x, y)
+\]
+
+from this we may deduce the solution of the following Problem.
+
+**Problem XIII.**
+
+Given the equation
+
+\[
+\psi^{2,2}(x, y) = F \psi(x, y)
+\]
+
+make \( \phi = F \) and take \( \alpha(x, y)^{n+1} \) any homogeneous function of the \( n + 1 \)th degree, and \( \beta(x, y)^n \) a similar function of the \( n \)th, also let \( \alpha(1, 1) = \beta(1, 1) \) then the equation is satisfied by making
+
+\[
+\psi(x, y) = F \left\{ \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right\}
+\]
+
+**Ex.** Let \( \psi^{2,2}(x, y) = \sqrt{\psi(x, y)} \)
+
+Suppose \( \alpha(x, y)^{n+1} = x^2 + y^2 \) and \( \beta(x, y)^n = 2x \), then one solution is
+
+\[
+\psi(x, y) = \sqrt{\frac{x^2 + y^2}{2x}}
+\]
+
+or let \( \alpha(x, y)^{n+1} = (x^2 + y^2) \phi(1) \) and \( \beta(x, y)^n = 2y \phi \left( \frac{x}{y} \right) \)
+
+then a more general solution is \( \psi(x, y) = \sqrt{\frac{x^2 + y^2}{2y \phi \left( \frac{x}{y} \right) \phi(1)}} \)
+Problem XIV.
+
+Given the equation
+
+\[ \psi^{n,n}(x,y) = F \psi(x,y) \]
+
+In equation (6) we have
+
+\[ \psi^{n,n}(x,y) = \phi^n \left( \frac{a(x,y)}{\beta(x,y)} \right)^{n+1} = \phi^{n-1} \phi \left( \frac{a(x,y)}{\beta(x,y)} \right)^{n+1} \]
+
+put for \( \phi \left( \frac{a(x,y)}{\beta(x,y)} \right)^{n+1} \) its value \( \psi(x,y) \) then we have
+
+\[ \psi^{n,n}(x,y) = \phi^{n-1} \psi(x,y) = F \psi(x,y) \]
+
+determine \( \phi \) from the equation \( \phi^{n-1}v = Fu \) by Prob. 13.
+
+Part 1. and the general solution of the equation is
+
+\[ \psi(x,y) = \phi \left( \frac{a(x,y)}{\beta(x,y)} \right)^{n+1} \]
+
+Ex. 1. Let \( \psi^{3,3}(x,y) = \psi(x,y) \)
+
+in this case \( \phi^{n-1}v = Fu \) becomes \( \phi^2 v = v \) solutions of which are
+
+\[ \phi v = \frac{a}{v}, \quad \phi v = a - v, \quad \phi v = (a - v^m)^{\frac{1}{m}} \]
+
+let \( a(x,y)_{n+1} = x^2 + y^2 \) and \( \beta(x,y)_n = x + y \) then solutions of the equation \( \psi^{3,3}(x,y) = \psi(x,y) \) are
+
+\[ \psi(x,y) = \frac{a(x+y)}{x^2+y^2}, \quad \psi(x,y) = a - \frac{x^2+y^2}{x+y} \]
+
+and \( \psi(x,y) = \left\{ a - \left( \frac{x^2+y^2}{x+y} \right)^m \right\}^{\frac{1}{m}} \)
+
+Ex. 2. Let \( \psi^{n,n}(x,y) = \left\{ \psi(x,y) \right\}^m \)
+
+in this example \( \phi^{n-1}v = Fu \) becomes \( \phi^{n-1}v = v^m \) and \( \phi v = v^{m-1} \)
+
+its particular solutions are therefore
+
+\[ \left( \frac{x^2+y^2}{x+y} \right)^{\frac{1}{m-1}}, \quad \left( \frac{x^2+2xy-y^2}{y^2} \right)^{\frac{1}{m-1}} \]
+other more general ones are
+
+\[ \psi(x, y) = \left\{ \frac{(x^2 + y^2) \phi(1)}{2x \phi \left( \frac{x}{y} \right)} \right\}^{m/n-1} \quad \text{and} \quad \psi(x, y) = \left\{ \frac{2xy \phi(1)}{(x+y) \phi \left( \frac{y}{x} \right)} \right\}^{m/n-1} \]
+
+**Problem XV.**
+
+Required the solution of the equation
+
+\[ \psi^n_n(x, y) = F \psi^{n-p,n-p}(x, y) \]
+
+In (6) we have
+
+\[ \psi^n_n(x, y) = \phi^n \left( \frac{\alpha(x, y)_{n-1}}{\beta(x, y)_n} \right) = \phi^p \phi^{n-p} \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) \]
+
+but \( \psi(x, y) = \phi \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) \) consequently \( \phi^{n-p} \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) = \psi^{n-p,n-p}(x, y) \) and substituting this value, we shall find
+
+\[ \psi^n_n(x, y) = \phi^p \psi^{n-p,n-p}(x, y) \]
+
+make \( \phi^p v = Fu \) and find the value \( \phi \), then the general solution of the equation is \( \psi(x, y) = \phi \left( \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right) \) if \( \alpha(1, 1) = \beta(1, 1) \).
+
+**Ex. 1.** Let \( \psi^4_4(x, y) = \left\{ \psi^2_2(x, y) \right\}^2 \)
+
+here \( \phi^2 v = Fu = v^2 \) and \( \phi v = v^2 \)
+
+therefore \( \psi(x, y) = \left\{ \frac{\alpha(x, y)_{n+1}}{\beta(x, y)_n} \right\}^{v^2} \) if \( \alpha(1, 1) = \beta(1, 1) \)
+
+more particular solutions are
+
+\[ \psi(x, y) = \left( \frac{x+y}{2 \phi \left( \frac{y}{x} \right)} \right)^{v^2} \quad \text{and} \quad \psi(x, y) = \left( \frac{x^2 + ixy + y^2}{3y} \right)^{v^2} \]
+Problem XVI.
+
+Given the equation
+
+\[ F \left\{ \psi(x, y), \psi^{2, z}(x, y), \ldots &amp;c. \psi^p, p(x, y) \right\} = 0 \]
+
+The same substitution as that employed in the last Problem will reduce this equation of two variables to a similar one which contains only one
+
+putting \( \psi(x, y) = \phi \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right) \) we have \( \psi^{2, z}(x, y) = \phi^2 \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right) \)
+
+and \( \psi^p, p(x, y) = \phi^p \left( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} \right) \) also making \( \frac{\alpha(x, y)^{n+1}}{\beta(x, y)^n} = v \)
+
+the given equation becomes
+
+\[ F \left\{ \phi v, \phi^2 v, \ldots \phi^p v \right\} = 0 \]
+
+an equation which contains only one variable, and may therefore be solved by the methods described in the first part.
+
+Problem XVII.
+
+Required the solution of the equation
+
+\[ F \left\{ \psi(x, y), \psi^{2, z}(x, y), \ldots \psi^p, p(x, y) \right\} = 0 \]
+
+The following considerations lead to another mode of solution applicable to this Problem. If in the function \( \psi(x, y) \) we put \( y \) equal to \( x \) it becomes \( \psi(x, x) \) call this \( \phi x \): then if in the second simultaneous function of \( \psi(x, y) \) we put \( y \) equal \( x \), the result will be the same as if we had taken the second function of \( \psi(x, x) \) or \( \phi x \) relative to \( x \), or symbolically expressed, it is
+
+\[ \psi^{2, z}(x, y) = \psi(\psi(x, x), \psi(x, x)) = \phi^3 x \quad [y=x] \]
+
+this may be rendered evident by substituting for the right side of the equation its value \( \psi(\psi(x, y), \psi(x, y)) \).
+In the same manner it may be shown, that if we take the $p^{th}$ simultaneous function, and then put $x$ for $y$, the result will be the same as the $p^{th}$ function of $\phi x$, or expressed in symbols it is
+
+$$\psi^{p,p}(x,y) = \phi^p(x) \quad [y=x]$$
+
+Now since this equation is identical when $y$ is equal to $x$, it will remain so when any other quantity as $v$ is put for $x$, if the same quantity is also put for $y$, therefore
+
+$$\psi^{p,p}(v,v) = \phi^p(v)$$
+
+now let $v=\psi(x,y)$ this equation becomes
+
+$$\psi^{p,p}(\psi(x,y), \psi(x,y)) = \phi^p \psi(x,y)$$
+
+but the right side of this equation is nothing more than the $p+1^{th}$ simultaneous function of $\psi(x,y)$, consequently
+
+$$\psi^{p+1,p+1}(x,y) = \psi^p \psi(x,y)$$
+
+If now in the equation of the Problem we substitute the several values thus formed of the simultaneous functions, we shall have
+
+$$F\{\psi(x,y), \phi \psi(x,y), \phi^2 \psi(x,y), \ldots \phi^{p-1} \psi(x,y)\} = 0$$
+
+and putting $z$ for $\psi(x,y)$ we have
+
+$$F\{z, \phi z, \phi^2 z, \ldots \phi^{p-1} z\} = 0$$
+
+which is a functional equation of one variable, and may be solved by the methods of the first Part. The form of $\phi$ being thus ascertained, we have for determining $\psi(x,y)$ the equation
+
+$$\psi(x,y) = \phi x \quad [y=x]$$
+
+or expressed in words $\psi(x,y)$ may be any function of $x$ and $y$ which becomes equal to $\phi x$ when $y$ is equal to $x$.
+Problem XVIII.
+
+Given the equation \( \psi^p \cdot p(x, y) = F(x, y) \)
+\( F(x, y) \) being such a function of \( x \) and \( y \) that it may be reducible to the form \( F \gamma(x, y) \).
+
+Assume \( \psi(x, y) = \left\{ \frac{\beta(1, 1)}{\alpha(1, 1)} \phi \left( \frac{\alpha(x, y)_n}{\beta(x, y)_m} \right) \right\}^{1/(n-m)} \)
+
+then from eq. (7) we have
+
+\[ \psi^p \cdot p(x, y) = \left\{ \frac{\beta(1, 1)}{\alpha(1, 1)} \phi^p \left( \frac{\alpha(x, y)_n}{\beta(x, y)_m} \right) \right\}^{1/(n-m)} \]
+
+make \( \frac{\alpha(x, y)_n}{\beta(x, y)_m} = \gamma(x, y) = v \), and since \( \gamma(x, y) \) is given and \( \alpha \) and \( \beta \) are indeterminate, this equation may be easily satisfied in an infinite number of ways; put \( v \) for \( \gamma(x, y) \) our equation becomes
+
+\[ \left\{ \frac{\beta(1, 1)}{\alpha(1, 1)} \phi^p v \right\}^{1/(n-m)} = Fv \]
+
+which contains only one variable and may be solved by the methods of the former part.
+
+Ex. 1. Let \( \psi^p \cdot p(x, y) = \frac{x+y}{2f(1)} f \left( \frac{x}{y} \right) \)
+
+Assume \( \alpha(x, y) = (x+y)f \left( \frac{x}{y} \right) \) and \( \beta(x, y) = 2f(1) \)
+
+then it becomes
+
+\[ \phi^p v = v \]
+
+and calling \( f \) any particular solution of this equation we have for the general one
+
+\[ \psi(x, y) = \phi^{-1} f \left( \frac{x+y}{2f(1)} f \left( \frac{x}{y} \right) \right) \]
+Ex. 2. Let $\psi^3(x, y) = \frac{x^2}{y}$
+
+put $\alpha(x, y) = x^2$ and $\beta(x, y) = y$
+
+then the equation to be solved is $\phi^3 v = v$ a particular solution of which is $\phi v = \frac{1+v}{1-3v}$ putting for $v$ its value and using the general solution we have
+
+$$\psi(x, y) = \phi^{-1} \left( \frac{1+\phi \frac{x^2}{y}}{1-3\phi \frac{x^2}{y}} \right)$$
+
+as a particular case, take
+
+$$\psi(x, y) = \left( \frac{y^n + x^{2n}}{y^n - 3x^{2n}} \right)^{\frac{1}{n}}$$
+
+which will be found on trial to satisfy the condition.
+
+**Problem XIX.**
+
+Given the equation
+
+$$F \left\{ \gamma(x, y), \psi(x, y), \psi^2(x, y), \ldots \psi^p(x, y) \right\} = 0$$
+
+This equation is evidently capable of solution by the same means as the last; putting
+
+$$\psi(x, y) = \left( \frac{\beta(1, 1)}{\alpha(1, 1)} \phi \left( \frac{\alpha(x, y)^n}{\beta(x, y)^m} \right) \right)^{\frac{1}{n-m}}$$
+
+we have as before
+
+$$\psi^p(x, y) = \left( \frac{\beta(1, 1)}{\alpha(1, 1)} \phi^p \left( \frac{\alpha(x, y)^n}{\beta(x, y)^m} \right) \right)^{\frac{1}{n-m}}$$
+
+and assuming $\alpha$ and $\beta$ such that $\frac{\alpha(x, y)^n}{\beta(x, y)^m} = \gamma(x, y) = v$ and
+making $\frac{\beta(1,1)}{x(1,1)} = a$ our equation becomes
+
+$$F \left\{ v, \left(a \phi^v\right), \left(a \phi^2 v\right), \ldots \left(a \phi^p\right) \right\} = 0$$
+
+which may be solved by Prob. XIX. Part I.
+
+**Problem XX.**
+
+Given the equation
+
+$$\psi^{2,1}(x,y) = \psi^{1,2}(x,y)$$
+
+This equation, containing no simultaneous function, is different from any we have yet solved, and requires the application of a peculiar artifice.
+
+In my former Paper, in order to reduce the equation $\psi x = ax$
+
+to one of the first order, I made use of the substitution $\bar{\phi} f \phi x$
+
+for $\psi x$: an analogous one must be employed on the present occasion; let us suppose
+
+$$\psi(x,y) = \bar{\phi} f(\phi x, \phi y)$$
+
+the effect of this will be very similar to that of the one just alluded to, and its great utility will be evident by considering its result in the various orders of the same function, thus
+
+$$\psi^{2,1}(x,y) = \bar{\phi} f(\phi \bar{\phi} f(\phi x, \phi y), \phi y) = \bar{\phi} f(f(\phi x, \phi y), \phi y)$$
+
+$$= \bar{\phi} f^{2,1}(\phi x, \phi y)$$
+
+$$\psi^{1,2}(x,y) = \bar{\phi} f(\phi x, \phi \bar{\phi} f(\phi x, \phi y)) = \bar{\phi} f(\phi x, f(\phi x, \phi y))$$
+
+$$= \bar{\phi} f^{1,2}(\phi x, \phi y)$$
+
+$$\psi^{2,2}(x,y) = \bar{\phi} f(\phi \bar{\phi} f(\phi x, \phi y), \phi \bar{\phi} f(\phi x, \phi y)) = \bar{\phi} f(f(\phi x, \phi y), f(\phi x, \phi y))$$
+
+$$= \bar{\phi} f^{2,2}(\phi x, \phi y)$$
+
+and continuing the same substitutions we shall find
+
+$$\psi^{3,1}(x,y) = \bar{\phi} f^{3,1}(\phi x, \phi y)$$
+
+and
+
+$$\psi^{1,3}(x,y) = \bar{\phi} f^{1,3}(\phi x, \phi y)$$
+and generally
+
+\[ \psi^n, m(x, y) = \phi^i f^n, m(\phi x, \phi y) \]
+
+If there are more variables than two, the proper substitution to be made is
+
+\[ \psi(x_1, x_2, \ldots x_i) = \phi^i f^1, i, \&amp;c.(\phi x_1, \phi x_2, \ldots \phi x_i) \]
+
+and there would result generally
+
+\[ \psi^n, m, p, \&amp;c.(x_1, x_2, \ldots x_i) = \phi^i f^n, m, p, \&amp;c.(\phi x_1, \phi x_2, \ldots \phi x_i) \]
+
+By such substitutions all simple functional equations of every order and of any number of variables, may be reduced to those of the first order: but the difficulty is not then overcome, the resulting equations are by no means easy to solve, and in a variety of cases it appears, that they are contradictory or impossible.
+
+Let us apply this substitution to the equation of this Problem, then since \( \psi(x, y) = \phi^i f(\phi x, \phi y) \) we have
+
+\[ \phi^i f^2, 1(\phi x, \phi y) = \phi^i f^1, 2(\phi x, \phi y) \]
+
+Performing the operation denoted by \( \phi^i \) on both sides it becomes
+
+\[ f^2, 1(\phi x, \phi y) = f^2, 1(\phi x, \phi y) \]
+
+Put \( \phi x \) for \( x \) and \( \phi y \) for \( y \) then it becomes
+
+\[ f^2, 1(x, y) = f^1, 2(x, y) \]
+
+which is nothing more than the original equation; from it, however we learn, that if we can find one particular solution, we can always deduce from it the general one, which supposing \( f \) a particular case, will be
+
+\[ \psi(x, y) = \phi^i f(\phi x, \phi y) \]
+
+After repeated endeavours I have been unable to find any particular case which will satisfy the equation
+
+\[ \psi^2, 1(x, y) = \psi^1, 2(x, y) \]
+I have also made some attempts at discovering particular solutions of the two following equations, and have met with no success.
+
+\[ \psi^{2,2}(x,y) = \psi^{1,2}(x,y) \text{ and } \psi^{2,1}(x,y) = \psi^{1,1}(x,y) \]
+
+Should, however, any particular case be found, their general solutions flow immediately from the method just explained.
+
+With regard to the equation of the Problem \( \psi^{2,1}(x,y) = \psi^{1,2}(x,y) \), I have little expectation of finding any particular case, as I think the following reasoning, though perhaps not quite so satisfactory as might be wished, will show the impossibility of it. First, let us suppose, that \( \psi(x,y) \) is a symmetrical function of \( x \) and \( y \), let it be \( \chi(\bar{x},\bar{y}) \) then our equation becomes
+
+\[ \chi\{\chi(\bar{x},\bar{y}),\bar{y}\} = \chi\{\bar{x},\chi(\bar{x},\bar{y})\} = \chi\{\chi(\bar{x},\bar{y}),\bar{x}\} \]
+
+Comparing the first of these expressions with the third, we may observe that in the first, wherever \( \chi(\bar{x},\bar{y}) \) occurs, the same quantity \( \chi(\bar{x},\bar{y}) \) also occurs in the third, consequently in this respect, the first and third are identical: but wherever \( y \) occurs in the first, \( x \) occurs similarly in the third, therefore in this respect they cannot be identical, unless \( y \) is equal to \( x \).
+
+From this it appears, that the equation in question cannot be solved by any symmetrical function. Again, the given equation \( \psi^{2,1}(x,y) = \psi^{1,2}(x,y) \) contains \( x \) and \( y \) in the same manner, and no reason can be assigned why in the solution \( x \) should be contained differently from \( y \): this may, perhaps, be made more clear, thus. Let \( f(x,y) \) be the quantity to which each side of the given equation is equal, then
+
+\[ \psi^{2,1}(x,y) = f(x,y) = \psi^{1,2}(x,y) \]
+
+Now since \( \psi(\psi(x,y),y) = f(x,y) \) and also \( \psi(x,\psi(x,y)) = \)
+$f(x,y)$; and since taking the second functions is a direct operation, it is evident that the original function $\psi(x,y)$ will produce the same result, whether we take the second function relative to $x$ or relative to $y$; therefore it must be similarly composed of $x$ and $y$; that is to say, it must be symmetrical relative to $x$ and $y$: but we have before shown that no symmetrical function can satisfy the equation, consequently the equation is contradictory.
+
+This train of reasoning I offer with considerable hesitation, well aware of the extreme difficulty of reasoning correctly on a subject so very general, and which, from its novelty, the mind has not been sufficiently habituated to consider, so as to rely with confidence on any lengthened process of reasoning. I thought it, however, right to mention this proof, that those who may seek for particular cases, might first enquire whether the equation be possible.
+
+**Problem XXI.**
+
+Given the equation
+
+$$x \psi_1^2(x,y) = y \psi_2^1(x,y)$$
+
+Substituting $\phi f(\phi x, \phi y)$ for $\psi(x,y)$ in this equation we have
+
+$$x \phi_1^2(\phi x, \phi y) = y \phi_2^1(\phi x, \phi y)$$
+
+putting $\phi_1 x$ for $x$ and $\phi_1 y$ for $y$ it becomes
+
+$$\phi_1 x \cdot \phi_1^2(x,y) = \phi_1 y \cdot \phi_1^2(x,y)$$
+
+This equation will be satisfied if we could find such a form for $f$, that the two following equations might be fulfilled.
+
+$$f_1^2(x,y) = y \text{ and } f_2^1(x,y) = x$$
+
+for in that case it would become
+
+$$\phi_1 x \cdot \phi_1 y = \phi_1 y \cdot \phi_1 x$$
+
+which is identical.
+
+MDCCCXVI. G g
+Our enquiries must therefore be directed to this point, and it will be found that \( f(x, y) = a - x - y \) has the required properties, and is a particular solution of the given equation; hence the general solution is
+
+\[
+\psi(x, y) = \phi^{-1}(a - \phi x - \phi y)
+\]
+
+There are many other particular cases which fulfil the same condition, such as
+
+\[
+f(x, y) = \frac{a}{xy} \quad \text{and} \quad f(x, y) = \frac{1-x-y}{1-bxy}
+\]
+
+these give the general solutions
+
+\[
+\psi(x, y) = \phi^{-1}\left(\frac{a}{\phi x \phi y}\right) \quad \text{and} \quad \psi(x, y) = \phi^{-1}\left(\frac{1-\phi x-\phi y}{1-b\phi x \phi y}\right)
+\]
+
+**Problem XXII.**
+
+Given the equation
+
+\[
+\psi^{2,1}(x, y) \cdot \psi^{1,2}(x, y) = xy
+\]
+
+Using the same substitution employed in the last Problem, this equation becomes
+
+\[
+\phi^{-1}f^{2,1}(\phi x, \phi y) \cdot \phi^{-1}f^{1,2}(\phi x, \phi y) = xy
+\]
+
+and putting \( \phi^{-1}x \) for \( x \), and \( \phi^{-1}y \) for \( y \) we have
+
+\[
+\phi^{-1}f^{2,1}(x, y) \cdot \phi^{-1}f^{1,2}(x, y) = \phi^{-1}x \cdot \phi^{-1}y
+\]
+
+which becomes identical, if \( f^{2,1}(x, y) = x \) and \( f^{1,2}(x, y) = y \)
+
+consequently all the solutions of the last Problem also solve this.
+
+**Problem XXIII.**
+
+Given the equation
+
+\[
+F\{x, \psi^{1,2}(x, y)\} = F\{\psi^{2,1}(x, y), y\}
+\]
+
+this equation may be solved by the same artifice as the two last, assuming \( \psi(x, y) = \phi^{-1}f(\phi x, \phi y) \) we have
+
+\[
+F\{x, \phi^{-1}f^{1,2}(\phi x, \phi y)\} = F\{\phi^{-1}f^{2,1}(\phi x, \phi y), y\}
+\]
+and putting $\phi^{-1} x$ for $x$, and $\phi^{-1} y$ for $y$, it becomes
+
+$$F \left\{ \phi^{-1} x, \phi^{-1} f^{2,1}(x,y) \right\} = F \left\{ \phi^{-1} f^{2,1}(x,y), \phi^{-1} y \right\}$$
+
+this is identical if we assume $f$ so that the two conditions $f^{1,2}(x,y) = y$ and $f^{2,1}(x,y) = x$ may be fulfilled.
+
+The same method is applicable to the equation
+
+$$\left\{ \psi^{2,1}(x,y) - x \right\} F(x,y,\psi(x,y) &amp;c.) = \left\{ \psi^{1,2}(x,y) - y \right\} F(x,y,\psi(x,y), &amp;c.)$$
+
+for the two factors which multiply $F$ and $F$ vanish on account of the value of $f$.
+
+**Problem XXIV.**
+
+Given the equation
+
+$$x \psi^{2,2}(x,y) = a \psi^{2,1}(x,y)$$
+
+this equation, by means of the substitution already so frequently employed, becomes
+
+$$x \phi^{-1} f^{2,2}(\phi x, \phi y) = a \phi^{-1} f^{2,1}(\phi x, \phi y)$$
+
+and putting $\phi^{-1} x$ for $x$, and $\phi^{-1} y$ for $y$ we have
+
+$$\phi^{-1} x \cdot \phi^{-1} f^{2,2}(x,y) = a \phi^{-1} f^{2,1}(x,y)$$
+
+An artifice somewhat similar to the one already employed, will afford the solution of this equation: if we can find such a value of $f(x,y)$ that $f^{2,2}(x,y) = c$ and also $f^{2,1}(x,y) = x$ the equation will become identical by making $c = \phi a$. Such a value of $f$ is $f(x,y) = c \frac{y}{x}$ for
+
+$$f^{2,2}(x,y) = c \frac{c y}{x} = c \text{ and } f^{2,1}(x,y) = c \frac{y}{x} = x$$
+
+hence the general solution of the given equation is
+
+$$\psi(x,y) = \phi^{-1} \left( \frac{\phi a \phi y}{\phi x} \right)$$
+Problem XXV.
+
+Given the equation
+
+\[ F \{ \psi^{2,2}(x,y), x \} = F \{ a, \psi^{2,1}(x,y) \} \]
+
+making the substitution \( \bar{\phi}^i f(\phi x, \phi y) \) for \( \psi(x,y) \) and in the result putting \( \bar{\phi}^i x \) for \( x \), and \( \bar{\phi}^i y \) for \( y \), we shall find
+
+\[ F \{ \bar{\phi}^i f^{2,2}(x,y), \bar{\phi}^i x \} = F \{ a, \bar{\phi}^i f^{2,1}(x,y) \} \]
+
+which will become identical if we select such a value for \( f(x,y) \) that \( \bar{\phi}^i f^{2,2}(x,y) = a \), and also \( f^{2,1}(x,y) = x \) such a value is \( f(x,y) = \phi a + y - x \); hence the general solution of the Problem is
+
+\[ \psi(x,y) = \bar{\phi}^i (\phi a + \phi y - \phi x) \]
+
+the more general equation
+
+\[ \{ \psi^{2,1}(x,y) - x \} F \{ x, y, \psi(x,y), \&amp;c. \} = \psi^{2,2}(x,y). \]
+
+\[ F \{ x, y, \psi(x,y), \&amp;c. \} \]
+
+may be solved nearly in the same manner, its solution will be
+
+\[ \psi(x,y) = \bar{\phi}^i (\phi y - \phi x) \]
+
+Problem XXVI.
+
+Given the equation
+
+\[ F \{ x, y, \psi(x,y), \psi^{1,2}(x,y), \psi^{2,1}(x,y), \&amp;c. \} = 0 \]
+
+Assume \( \psi(x,y) = \bar{\phi}^i f(\phi x, \phi y) \) then we have \( \psi^{2,1}(x,y) = \bar{\phi}^i f^{2,1}(\phi x, \phi y) \), and \( \psi^{1,2}(x,y) = \bar{\phi}^i f^{1,2}(x,y) \) and generally \( \psi^{n,m}(x,y) = \bar{\phi}^i f^{n,m}(\phi x, \phi y) \)
+
+Substituting these values the equation becomes
+
+\[ F \{ x, y, \bar{\phi}^i f(\phi x, \phi y), \bar{\phi}^i f^{1,2}(\phi x, \phi y), \bar{\phi}^i f^{2,1}(\phi x, \phi y), \&amp;c. \} = 0 \]
+and putting $\bar{\phi}^1 x$ for $x$ and $\bar{\phi}^1 y$ for $y$ we have
+
+$$F \left\{ \bar{\phi}^1 x, \bar{\phi}^1 y, \bar{\phi}^1 f(x, y), \bar{\phi}^1 f_1, 2(x, y), \bar{\phi}^1 f_2, 1(x, y), \&amp;c. \right\} = 0$$
+
+Some particular value of $f$ must now be assumed, and the equation treated as one of the first order relative to $\bar{\phi}^1$.
+
+The form to be assigned to $f$ is of some consequence; it ought to be a particular solution of the original equation: for if we assign to it any other form, this adds a limitation to the original equation which may or may not agree with it, a particular solution should therefore always be employed. This remark is applicable to several Problems in my former Paper, and with this restriction, their solutions will remain correct.
+
+**Problem XXVII.**
+
+To transform the equation
+
+$$F \left\{ x, y, \psi(x, y), \psi_1, 2(ax, \beta y), \psi_1, 2(ax, \beta y), \&amp;c. \right\} = 0$$
+
+into the form of the equation of the preceding Problem.
+
+Assume $\psi(x, y) = \bar{\phi}^1 f(\phi x, \phi y)$, then the equation becomes
+
+$$F \left\{ x, y, \bar{\phi}^1 f(\phi x, \phi y), \bar{\phi}^1 f_1, 2(\phi ax, \phi \beta y), \bar{\phi}^1 f_2, 1(\phi ax, \phi \beta y), \&amp;c. \right\} = 0$$
+
+find for $\phi$ by Prob. VII. Part I. such a value that it shall not change when any of the following quantities are substituted for $x$.
+
+| $\alpha x$ | $\beta x$ |
+|-----------|----------|
+| $\alpha x$ | $\beta x$ |
+| $\alpha x$ | $\beta x$ |
+
+$\&amp;c.$ $\&amp;c.$
+
+let this value be $A$, then the equation becomes
+
+$$F \left\{ x, y, \bar{\phi}^1 f(Ax, Ay), \bar{\phi}^1 f_1, 2(Ax, Ay), \&amp;c. \right\} = 0$$
+or putting $\bar{A}^1 x$ for $x$, and $\bar{A}^1 y$ for $y$ we have
+
+$$F\{\bar{A}^1 x, \bar{A}^1 y, \bar{A}^1 f(x,y), \bar{A}^1 f_2, 1(x,y), \bar{A}^1 f_1, 2(x,y), \&amp;c.\} = 0$$
+
+an equation of the required form.
+
+One important use of this transformation is the solution of equations of the form
+
+$$F\{x, y, \psi(x, y), \psi_1, 2(x, y), \psi_1, 3(x, y), \&amp;c.\} = 0$$
+
+in which the functions are taken only relative to $y$, and yet $x$ is not altogether constant. It may be transformed into
+
+$$F\{x, y, \psi(x, y), \psi_1, 2(x, y), \psi_1, 3(x, y), \&amp;c.\} = 0$$
+
+which may be treated as an equation of one variable, $x$ being constant. This is the species of equation alluded to at page (198)
+
+After considering the various equations amongst the higher orders of functions, another question presents itself, which may be thus stated. What must be the form of a function of $(n)$ variables, such that taking the functions relative to any or to all of them any number of times, and combining these quantities in any manner, the result shall (when all these variables are made equal to $x$) be equal to a given function of $x$? This question might thus be expressed when there are only two variables
+
+$$F\{x, y, \psi(x, y), \psi_1, 2(x, y), \psi_2, 1(x, y), \&amp;c.\} = f(a) \quad y=x$$
+
+this condition obviously enlarges the signification of the function $\psi$, and the solutions ought to be more general. We shall accordingly find that some equations, of which without this condition we cannot find even a particular solution, are capable, when it is added, of very extensive ones. When there are more than two variables, the condition may be, that making
+them equal by pairs, the result shall be given: a particular case would be the equation
+
+\[ F \{ x, y, z, v, w, r, \psi(x, y, z, v, w, r, \&amp;c.) \} = F_i \{ x, v, r \} \begin{bmatrix} y = x \\ z = v \\ w = r \end{bmatrix} \]
+
+Instead of making \( y \) equal to \( x \), and \( z \) to \( v \) and so on, \( y \) might become a given function of \( x \), and \( z \) a given function of \( v \), &amp;c. thus:
+
+\[ F \{ x, y, z, v, w, r, \psi(x, y, z, v, w, r), \&amp;c. \} = F_i \{ x, v, r \} \begin{bmatrix} y = ax \\ z = \beta v \\ w = \gamma r \end{bmatrix} \]
+
+a few examples will sufficiently explain the method to be pursued in treating these equations.
+
+**Problem XXVIII.**
+
+Given the equation
+
+\[ \psi^{2,1}(x, y) = \psi^{1,2}(x, y) \quad [y = x] \]
+
+This Problem, of which without the condition of \( y \) being made equal to \( x \) we could not find even a particular case, readily admits of solution in its present state. Since \( \psi^{2,1}(x, y) \) is only equal to \( \psi^{1,2}(x, y) \), when \( y = x \) we may put for the given equation
+
+\[ \psi^{2,1}(x, y) = \phi \{ (x, y), \psi^{1,2}(x, y) \} \quad (1) \]
+
+provided that when \( y \) is equal to \( x \), the latter side of the equation shall become \( \psi^{1,2}(x, y) \), and this fully satisfies the condition of the Problem. If, therefore, we can find such a value of \( \phi \), the equation (1) may be treated as a common functional equation of two variables, and may be solved by the rules already given.
+
+Nor is it at all difficult to find such a value of \( \phi \); if we make \( \psi^{1,2}(x, y) = z \), \( \phi \) must be such a function that
+
+\[ \phi(x, y, z) = z \quad [y = x] \]
+It is evident that particular values of $\phi$ are
+
+$$x - y + z \quad \text{and} \quad \frac{x}{y} z$$
+
+many others might be mentioned, but it is desirable to determine $\phi$ more generally
+
+Since $$\phi(x, y, z) = z \quad [y = x]$$
+
+it is evident that $$\phi(x, x, z) = z$$
+
+and since this is independent on any particular value of $x$ we have
+
+$$\phi(v, v, z) = z$$
+
+that is to say, that whatever quantity is substituted for $x$, if the same quantity is also substituted for $y$, the result will be equal to $z$. Now let $v = \phi(x, y, z)$, it becomes
+
+$$\phi\{\phi(x, y, z), \phi(x, y, z), z\} = z$$
+
+but this expression is nothing more than the second simultaneous function relative to $x$ and $y$, and may be therefore more concisely expressed thus
+
+$$\phi^{2, 1}(x, y, z) = z$$
+
+in which equation, since it does not vary relative to $z$, that quantity may be considered as a constant; and the equation
+
+$$\phi^{2, 2}(x, y) = z = \text{constant}$$
+
+being solved, we have only to substitute instead of the various constant quantities arbitrary functions of $z$: thus then the solution of the equation
+
+$$\phi(x, y, z) = x \quad [y = x]$$
+
+is reduced to that of
+
+$$\psi^{2, 2}(x, y) = \text{constant}$$
+
+and we have only to refer to Problem (10) for its general solution.
+
+Let us apply this to the solution of the equation of this Problem
+
+$$\psi^{2, 1}(x, y) = \psi^{1, 2}(x, y) \quad [y = x]$$
+take as a particular case of the equation $\phi^{2,2,1}(x,y,z) = z$
+$\phi(x,y,z) = \frac{x}{y}z$, then the equation of the Problem becomes
+$\psi^{2,1}(x,y) = \frac{x}{y}\psi^{1,2}(x,y)$ or $y\psi^{2,1}(x,y) = x\psi^{1,2}(x,y)$
+this is the equation solved in Prob. XXI. therefore all its solutions are also solutions of this equation. This however is, comparatively speaking, but a very limited answer: every different solution of the equation $\phi^{2,2,1}(x,y,z) = z$ furnishes a new solution of our Problem, containing one or more arbitrary functions; each of these may very justly be called a general solution; but to investigate the number and nature of the arbitrary constants which enter into the complete solution, is an enquiry of considerable difficulty.
+
+**Problem XXIX.**
+
+Given the equation
+
+$$\psi^{2,2,1}(x,y) = F(x) \quad [y=ax]$$
+
+This signifies, that after taking the second function relative to $x$, and then the second relative to $y$; the result is considered merely as a function of $x$, and its $n^{th}$ function taken relative to that variable: lastly, the quantity to which this becomes equal, after performing these operations, is given. The manner of treating these equations is very simple; put
+
+$$\psi^{2,2}(x,x) = \chi(x),$$ then our equation becomes
+
+$$\psi^{2,2,1}(x,y) = \chi^n(x) = F(x) \quad [y=ax]$$
+
+determine $\chi$ from the equation $\chi^n x = F(x)$ by Prob. XIII. Part I. and let its solution be $F_1(x)$, then we have
+
+$$\psi^{2,2}(x,y) = F_1(x) \quad [y=ax]$$
+
+MDCCCLXVI. H h
+This equation may be solved by nearly the same method as that employed in the last Problem.
+
+If the function occurs in different shapes or of various orders, this method is inapplicable, as in the following Problem.
+
+**Problem XXX.**
+
+Given the equation
+
+\[ F \left\{ \psi^{2,1}(x,y), \psi^{1,2}(x,y), x, y \right\} = 0 \quad [y = x] \]
+
+The difficulties in this case appear to be much increased from this circumstance, that the second function of \( \psi^{2,1}(x,x) \) relative to \( x \) is quite different from the second function of \( \psi^{1,2}(x,x) \) relative to the same quantity. The method of solution which I shall explain is equally applicable to all of this species, and consists in reducing them to a class which has been already solved.
+
+It may be observed, that whether we take the second function of \( \psi^{2,1}(x,x) \) relative to \( x \), or whether we take the simultaneous function of \( \psi^{2,1}(x,y) \) considered as a simple function, and in the result put \( x \) for \( y \), the two expressions will be the same; the first gives
+
+\[ \psi^{2,1}(\psi^{2,1}(x,x), \psi^{2,1}(x,x)) \]
+
+and the second is
+
+\[ \psi^{2,1}(\psi^{2,1}(x,y), \psi^{2,1}(x,y)) \]
+
+which when \( y \) becomes equal to \( x \) is identical with the former; but
+
+\[ \psi^{2,1}(\psi^{2,1}(x,y), \psi^{2,1}(x,y)) = \psi^{2,1}\{\psi(\psi(x,y),y), \psi(\psi(x,y),y)\} \]
+
+the lower line of indices denoting the quantities relative to which the operations are performed. In a similar manner it may be shown, that
+
+\[ \psi^{1,2}(x,y) = \psi^{1,2}(x,y) \]
+Substituting these values in the original equation, we have
+
+\[ F \{ \psi(x, y), \psi(x, y), x, y \} = 0 \quad [y = x] \]
+
+This is an equation similar to that of Problem XXVIII., and may be solved by the same means.
+
+New methods of solving functional equations of the first order, and also differential functional equations.
+
+The new methods which I now propose to explain are only applicable to equations of the form
+
+\[ F \{ x, \psi x, \psi \alpha x, \psi \alpha^2 x, \ldots \psi \alpha^n x \} = 0 \]
+
+where \( \alpha \) must be such a function that \( \alpha^{n+1}x = x \). By the method of Prob. VII. Part I. all functional equations of the first order may be reduced to this form; and although in many cases this reduction is very difficult, or even in the present state of analysis out of our power, yet it is theoretically possible, and we shall therefore consider all equations as so reduced. There is this remarkable difference between the former methods and the present one:
+
+Those which I have already given always led to the general solution, and perhaps, in some cases, to the complete one; these, on the contrary, which I shall now propose, always conduct us directly to a particular solution, which does not contain even an arbitrary constant. It has, however, several advantages; it is the most direct method with which we are yet acquainted; and if by any means we could introduce into these solutions an arbitrary constant, it would afford us general ones: this is a step which is wanting to connect it with the former methods. In the case of differential functional
+equations, this step is supplied by the integrations which are necessary, and we thus arrive at their general solutions.
+
+**Problem XXXI.**
+
+Given the equation
+
+\[ F \{ x, \psi x, \psi \alpha x \} = 0 \]
+
+and also \( \alpha^3 x = x \)
+
+Find \( \psi x \) in terms of \( x \) and \( \psi \alpha x \); let it be
+
+\[ \psi x = F \{ x, \psi \alpha x \} \]
+
+put \( \alpha x \) for \( x \); then it becomes
+
+\[ \psi \alpha x = F \{ \alpha x, \psi \alpha^2 x \} = F \{ \alpha x, \psi x \} \]
+
+put this value of \( \psi \alpha x \) in the former equation, and we have
+
+\[ \psi x = F \{ x, F \{ \alpha x, \psi x \} \} \]
+
+from which equation \( \psi x \) may be found in terms of \( x \).
+
+If \( \alpha^3 x = x \) instead of \( \alpha^2 x = x \), we should find
+
+\[ \psi x = F \{ x, F \{ \alpha x, F \{ \alpha^2 x, \psi x \} \} \} \]
+
+**Ex. 1.** Take the equation \( (\psi x)^p \cdot \psi (a-x) = x^n \) where \( \alpha x = a - x \)
+
+then
+
+\[ \psi x = \left( \frac{x^n}{\psi (a-x)} \right)^{\frac{1}{p}} \]
+
+and
+
+\[ \psi (a-x) = \left( \frac{(a-x)^n}{\psi x} \right)^{\frac{1}{p}} \]
+
+this substituted in the former gives
+
+\[ \psi x = \left( \frac{x^n}{(\psi x)^{\frac{n}{p}}} \right)^{\frac{1}{p}} \]
+
+from which we find
+
+\[ \psi x = \left( \frac{x}{(a-x)^{\frac{1}{p}}} \right)^{\frac{np}{p^2-1}} \]
+
+which will be found on trial to satisfy the equation.
+Ex. 2. Given the equation \( x^n \psi x - a \psi \frac{1}{x} = bx^p \)
+
+here \( ax = \frac{1}{x} \) and \( a^2 x = x \), and we have
+
+\[
+\psi x = \frac{bx^p - a \psi \frac{1}{x}}{x^n}
+\]
+
+and putting \( \frac{1}{x} \) for \( x \) it becomes
+
+\[
+\psi \frac{1}{x} = \frac{bx^p - a \psi x}{x^n}
+\]
+
+Substituting this in the former equation we find for the value of \( \psi x \)
+
+\[
+\psi x = \frac{b}{1-a^2} \left\{ x^{p-n} + ax^{-p} \right\}
+\]
+
+Ex. 3. Given the equation \( x^n \psi x - x^m \psi \left( \frac{a-x}{1-cx} \right) = x^p \)
+
+by employing the same method its solution will be
+
+\[
+\psi (x) = \frac{x^m \left( \frac{a-x}{1-cx} \right)^p + x^p \left( \frac{a-x}{1-cx} \right)^n}{\left( \frac{a-x}{1-cx} \right)^n - \left( \frac{a-x}{1-cx} \right)^m}
+\]
+
+**Problem XXXII.**
+
+Given the equation
+
+\[
+F \left\{ x, \psi x, \psi \alpha x, \ldots \psi \alpha^n x \right\} = 0
+\]
+
+and also \( \alpha^{n+1} = x \)
+
+putting successively \( x, \alpha x, \alpha^2 x, \&amp;c. \alpha^n x \) for \( x \), we have the following equations:
+
+\[
+F \left\{ x, \psi x, \psi \alpha x, \ldots \psi \alpha^n x \right\} = 0 \quad (1)
+\]
+
+\[
+F \left\{ \alpha x, \psi \alpha x, \psi \alpha^2 x, \ldots \psi \alpha^n x, \psi x \right\} = 0 \quad (2)
+\]
+
+\[
+\&amp;c. \quad \&amp;c.
+\]
+
+\[
+F \left\{ \alpha^n x, \psi \alpha^n x, \psi x, \psi \alpha x, \ldots \psi \alpha^{n-1} x \right\} = 0 \quad (n+1)
+\]
+From these $n+1$ equations we may eliminate the $n$ quantities $\psi x$, $\psi \alpha^2 x$, and $\psi \alpha^n x$, and there will remain an equation of the form
+
+$$F \{x, \alpha x, \alpha^2 x, \ldots \alpha^n x, \psi x\} = 0$$
+
+from which $\psi x$ may readily be found.
+
+**Ex. 1.** Let $\psi x + \psi \alpha x = fx$ and $\alpha^3 x = x$
+
+then $\psi \alpha x + \psi \alpha^2 x = f \alpha x$
+
+also $\psi \alpha^2 x + \psi x = f \alpha^2 x$
+
+hence we find $\psi x = \frac{1}{2} (fx - f \alpha x + f \alpha^2 x)$
+
+**Ex. 2.** take the equation
+
+$$\psi x + fx \psi \alpha x = fx$$
+
+where $f$ and $f_i$ are perfectly arbitrary and $\alpha^2 x = x$; then making use of process above described we find
+
+$$\psi x = \frac{fx - f \alpha x}{1 - f \alpha x}$$
+
+if $\alpha^3 x = x$ we should have
+
+$$\psi x = \frac{fx - f \alpha x + f \alpha^2 x}{1 - f \alpha x + f \alpha^2 x}$$
+
+and generally when $\alpha^n x = x$ we shall have
+
+$$\psi x = \frac{fx - f \alpha x + f \alpha^2 x - \ldots + f \alpha^{n-2} x + f \alpha^{n-1} x}{1 - f \alpha x + f \alpha^2 x - \ldots + f \alpha^{n-1} x}$$
+
+**Ex. 3.** Take the equation
+
+$$\psi x \psi \alpha x + fx \psi x = fx$$
+
+if $\alpha^2 x = x$, $\psi x$ must be deduced from the equation
+
+$$\psi x = \frac{fx}{f \alpha x + \psi x}$$
+and generally when \( \alpha^n x = x \) the form of \( \psi x \) is determined by the equation.
+
+\[
+\psi x = \frac{f_x}{f_{ax}} + \frac{f_{a^2x}}{f_{ax} + f_{a^2x}} + \cdots + \frac{f_{a^{n-1}x}}{f_{a^{n-1}x} + \psi x}
+\]
+
+It may be observed, that this method of discovering particular solutions by elimination, will not apply when the given equation contains only the different forms of the function without the variable quantity itself: thus it is not applicable to the equation
+
+\[
+F \{ \psi x, \psi ax, \ldots \psi a^n x \} = 0
+\]
+
+the reason of this is obvious; for if we eliminate from this equation (by means of the \( n \) equations which arise by changing the order in which the functions are placed), all the functions but \( \psi x \), we shall have a result containing nothing but \( \psi x \) and constant quantities, and therefore, \( \psi x \) is equal to a constant quantity: it is true such a value of \( \psi x \) will satisfy the equation, but it scarcely deserves the name of a solution.
+
+Another exception is, when the equation
+
+\[
+F \{ x, \psi x, \psi ax, \&amp;c., \psi a^n x \} = 0
+\]
+
+is homogeneous relative to the different forms of the unknown function; for in this case when we attempt to eliminate them, they all disappear together, leaving an equation of condition; thus given
+
+\[
+\psi x = (a - x) \psi ax \text{ and } a^2 x = x
+\]
+
+we have
+
+\[
+\psi ax = (a - ax) \psi a^2 x = (a - ax) \psi x
+\]
+
+and
+
+\[
+\psi x = (a - x)(a - ax) \psi x \text{ or } 1 = (a - ax)(a - ax)
+\]
+
+which equation is not necessarily true.
+Another exception is, when the given equation can be made to assume the form
+
+\[ F \{ \psi x, \psi ax, \ldots \psi a^n x \} = fx \]
+
+In this case the equation cannot be fulfilled unless \( fx \) is a symmetrical function of \( x, ax, \&amp;c. a^n x \), because the first side is such a symmetrical function: this reason, however, should be received with caution, for if the operation denoted by \( \psi \) be an inverse one, it may admit of several values, and it seems possible, that in such a case the condition relative to the form of \( f \) need not be fulfilled. In my former paper I explained the means of finding solutions of the equation \( \psi^n x = x \). I then contented myself with explaining the theory without mentioning particular cases; as these latter may be required in our present enquiry, I shall subjoin the following particular solutions of \( \psi^3 x = x \)
+
+\[
+\begin{align*}
+\psi x &amp;= a - x \\
+\psi x &amp;= \log (a - e^x) \\
+\psi x &amp;= (a^n - x^n)^{\frac{1}{n}} \\
+\psi x &amp;= \sqrt{1 - x^2} \\
+\psi x &amp;= \frac{x^2}{x - 1} \\
+\psi x &amp;= x - \log(e^x - 1) \\
+\psi x &amp;= \frac{x}{(ax^n - 1)^{\frac{1}{n}}} \\
+\psi x &amp;= \frac{a}{x} \\
+\psi x &amp;= \frac{1 - x}{1 + x} \\
+\psi x &amp;= \tan^{-1}(a - \tan x) \\
+\psi x &amp;= \frac{x}{x - 1} \\
+\psi x &amp;= \frac{a - bx}{b + cx} \\
+\psi x &amp;= \tan^{-1}\left(\frac{\sin(a - x)}{\cos a \cos x}\right) \\
+\psi x &amp;= \frac{x}{\sqrt{x^2 - 1}}
+\end{align*}
+\]
+
+Particular cases of \( \psi^3 x = x \)
+
+\[
+\begin{align*}
+\psi x &amp;= \frac{a^2}{a - x} \\
+\psi x &amp;= \frac{\sqrt{ax^2 - a^2}}{x} \\
+\psi x &amp;= \frac{a + bx}{c - b^2 + bc + c^2} \\
+\psi x &amp;= \frac{a^2}{ac - c^2 x} \\
+\psi x &amp;= \frac{(ax^n - a^2)^{\frac{1}{n}}}{x} \\
+\psi x &amp;= \log (ae^x - a^2) - x \\
+\psi x &amp;= \frac{ax - a^2}{x} \\
+\psi x &amp;= \left(\frac{a^2}{a - x^n}\right)^{\frac{1}{n}} \\
+\psi x &amp;= \log (e^x - e^c) - x + c \\
+\psi x &amp;= \frac{1 + x}{1 - 3x} \\
+\psi x &amp;= \frac{1}{1 - x} \\
+\psi x &amp;= -\log (1 - e^x)
+\end{align*}
+\]
+Particular cases of $\psi^4 x = x$
+
+$$\psi x = \frac{1}{2} \cdot \frac{1}{1-x}$$
+
+$$\psi x = \frac{1+x}{1-x}$$
+
+$$\psi x = \left( \frac{2}{z-x^n} \right)^{\frac{1}{n}}$$
+
+$$\psi x = \frac{2}{2-x}$$
+
+$$\psi x = \frac{za^2}{zac-c^2x}$$
+
+$$\psi x = \frac{(2x^n-2)}{x}$$
+
+$$\psi x = 2 \cdot \frac{x-1}{x}$$
+
+$$\psi x = \frac{a+bx}{c-b^2+c^2x}$$
+
+$$\psi x = \log_2 x + \log(\varepsilon^x - 1)$$
+
+Particular cases of $\psi^6 x = x$
+
+$$\psi x = \frac{1}{3(1-x)}$$
+
+$$\psi x = \frac{3x-1}{3x}$$
+
+$$\psi x = \frac{a+bx}{c-b^2-bc+c^2x}$$
+
+$$\psi x = \frac{3}{3-x}$$
+
+$$\psi x = \frac{3a^2}{3ac-c^2x}$$
+
+$$\psi x = \frac{1}{x} \left( x^n - \frac{1}{3} \right)^{\frac{1}{n}}$$
+
+$$\psi x = 3 \cdot \frac{x-1}{x}$$
+
+$$\psi x = \frac{3+3x}{3-x}$$
+
+$$\psi x = \log_3 x + \log(\varepsilon^x - 1)$$
+
+**Problem XXXIII.**
+
+Given the equation
+
+$$\psi_a x = \frac{d \psi x}{dx}$$
+
+$\alpha$ being such a function that $\alpha^x x = x$
+
+For $x$ put $\alpha x$, then
+
+$$\psi_a^x x = \psi x = \frac{d \psi_a x}{d \alpha x}$$
+
+by differentiating this we have
+
+$$\frac{d \psi x}{dx} = \frac{d}{dx} \cdot \frac{d \psi_a x}{d \alpha x}$$
+
+(a)
+
+but the left side of this equation is by the Problem equal to $\psi_a x$; therefore
+
+$$\psi_a x = \frac{d}{dx} \cdot \frac{d \psi_a x}{d \alpha x}$$
+
+but we also have
+
+$$\frac{d \psi_a x}{d \alpha x} = \frac{d \psi_a x}{d \alpha x} \cdot \frac{d \alpha x}{dx}$$
+
+consequently
+
+$$\frac{d \psi_a x}{d \alpha x} = \frac{d \psi_a x}{dx} \cdot \left( \frac{d \alpha x}{dx} \right)^{-1}$$
+
+MDCCCLXVI.
+this being substituted in (a) gives
+
+\[ \psi(ax) = \frac{d}{dx} \left\{ \frac{d\psi(ax)}{dx} \left( \frac{d\psi(ax)}{dx} \right)^{-1} \right\} \]
+
+put \( \psi(ax) = z \) then
+
+\[ z = \frac{d}{dx} \left( \frac{dz}{dx} \left( \frac{da}{dx} \right)^{-1} \right) \]
+
+which is a differential equation, from whose solution \( z \) or \( \psi(ax) \) may be found.
+
+**Ex. 1.** Given the equation
+
+\[ \psi(a-x) = \frac{d\psi(x)}{dx} \]
+
+in this case \( \frac{da}{dx} = -1 \), and the differential equation is
+
+\[ zd^2x + d^2z = 0 \]
+
+its integral is \( z = \psi(a-x) = b \cos x + c \sin x \).
+
+The two constant quantities which have entered by integration must be determined so as to satisfy the original equation. This condition gives
+
+\[ c = \frac{b \cos a}{1 - \sin a} \]
+
+the quantity \( b \) still remaining arbitrary; the solution of the equation \( \psi(a-x) = \frac{d\psi(x)}{dx} \) is therefore
+
+\[ \psi(x) = b \cos (a-x) - \frac{b \cos a}{1 - \sin a} \sin (a-x) \]
+
+**Ex. 2.** Take the equation
+
+\[ \psi \frac{1}{x} = \frac{d\psi(x)}{dx} \]
+
+in this case \( ax = \frac{1}{x} \) and \( \frac{da}{dx} = -\frac{1}{x^2} \)
+
+and the differential equation becomes
+
+\[ zd^2x + 2xdxdz + x^2d^2z = 0 \]
+
+whose solution is
+
+\[ z = \psi \frac{1}{x} = -\frac{b}{2p+1} x^{-p-1} + bx^p \quad p = \frac{-1 \pm \sqrt{-3}}{2} \]
+
+and \( \psi(x) = -\frac{b}{2p+1} x^{p+1} + bx^{-p} \)
+in order to determine the constants $b$ and $b$, substitute this expression in the given equation and it will be found that
+
+$$-\frac{b}{z^p + 1} = -bp \text{ therefore}$$
+
+$$\psi x = -b p x^{p+1} + b x^{-p}$$
+
+in which there still remains one arbitrary constant.
+
+It is observable that both these solutions contain one constant. Let us suppose this to be changed into an arbitrary function of $x$, and let us determine what conditions it must be subject to, that it may satisfy the Problem: taking the second example we have
+
+$$\psi x = (x^{-p} - p x^{p+1}) \phi x$$
+
+and the equation becomes
+
+$$(x^{-p} - p x^{p+1}) \phi x = (x^{-p} - p x^{p+1}) \frac{d \phi x}{dx} + \frac{d(x^{-p} - p x^{p+1})}{dx} \phi x$$
+
+from this equation $\phi x$ must be determined (the method of doing which will appear in a subsequent Problem). If this solution contains an arbitrary constant, the same process may be again repeated. We may thus continue deducing one solution from another as long as we can solve the differential equations to which they give rise, but still these will only be particular solutions.
+
+**Problem XXXIV.**
+
+Given the equation
+
+$$\psi ax = \frac{d^n \psi x}{dx^n}$$
+
+and $a^p x = x$, put for $x$ successively $ax$, $a^2 x$, ... $a^{p-1} x$ then we have
+
+$$\psi ax = \frac{d^n \psi x}{dx^n}$$
+\[ \psi x^2 = \frac{d^n \psi x}{(dx)^n} \]
+
+&amp;c. &amp;c.
+
+\[ \psi x^{p-1} = \frac{d^n \psi x^{p-2}}{(dx^{p-2})^n} \]
+
+\[ \psi x^p = \frac{d^n \psi x^{p-1}}{(dx^{p-1})^n} \]
+
+but \( \psi x^p = \psi x \) and combining all these equations we have
+
+\[ \psi x^p = \psi x = \frac{d^n}{(dx^{p-1})^n} \cdot \frac{d^n}{(dx^{p-2})^n} \cdots \frac{d^n \psi x}{(dx)^n} \]
+
+which is a differential equation of the \( pn \)th order and putting \( \psi x = z \) we have
+
+\[ z = \frac{d^n p z}{(dx^{p-1} dx^{p-2} \cdots dx)^n} \]
+
+this being integrated gives the value of \( z \) or \( \psi x \).
+
+**Problem XXXV.**
+
+Given the equation
+
+\[ F\{x, \psi x, \psi ax, \frac{d\psi x}{dx}\} = 0 \quad \text{also } ax = x \]
+
+Find the value of \( \psi ax \) from this equation and substitute in it \( ax, x^2, \&amp;c. \) \( ax^{p-1} x \) for \( x \), then we have
+
+\[ \psi ax = F_i \{x, \psi x, \frac{d\psi x}{dx}\} \]
+
+\[ \psi ax^2 = F_i \{ax, \psi ax, \frac{d\psi ax}{dx}\} \]
+
+&amp;c. &amp;c.
+
+\[ \psi ax^p = F_i \{ax^{p-1}, \psi ax^{p-1}, \frac{d\psi ax^{p-1}}{dx^{p-1}}\} \]
+
+In each of these equations for \( \frac{d\psi ax}{dx}, \frac{d\psi ax^2}{dx^2}, \&amp;c. \frac{d\psi ax^{p-1}}{dx^{p-1}} \)
+
+put their values \( \frac{d\psi ax}{dx} \left(\frac{dx}{dx}\right)^{-1}, \frac{d\psi ax^2}{dx} \left(\frac{dx^2}{dx}\right)^{-1}, \&amp;c. \frac{d\psi ax^{p-1}}{dx} \left(\frac{dx^{p-1}}{dx}\right)^{-1} \)
+and also differentiate the results. Then we shall have the two following sets of equations
+
+\[ \psi x = F \left\{ x, \psi x, \frac{d\psi x}{dx} \right\} \]  
+
+(1)
+
+\[ \psi x^2 = F \left\{ ax, \psi ax, \frac{d\psi ax}{dx} \left( \frac{da}{dx} \right)^{-1} \right\} \]
+
+(2)
+
+&amp;c. &amp;c.
+
+\[ \psi x^{p-1} = F \left\{ a^{p-2}x, \psi a^{p-2}x, \frac{d\psi a^{p-2}x}{dx} \left( \frac{da^{p-2}x}{dx} \right)^{-1} \right\} \]  
+
+(p - 1)
+
+\[ \psi x^p = F \left\{ a^{p-1}x, \psi a^{p-1}x, \frac{d\psi a^{p-1}x}{dx} \left( \frac{da^{p-1}x}{dx} \right)^{-1} \right\} \]  
+
+(p)
+
+and also
+
+\[ \frac{d\psi ax}{dx} = \frac{d}{dx} F \left\{ x, \psi x, \frac{d\psi x}{dx} \right\} \]  
+
+(a, 1)
+
+\[ \frac{d\psi ax^2}{dx} = \frac{d}{dx} F \left\{ ax, \psi ax, \frac{d\psi ax}{dx} \left( \frac{da}{dx} \right)^{-1} \right\} \]  
+
+(a, 2)
+
+&amp;c. &amp;c.
+
+\[ \frac{d\psi a^{p-1}x}{dx} = \frac{d}{dx} F \left\{ a^{p-1}x, \psi a^{p-2}x, \frac{d\psi a^{p-2}x}{dx} \left( \frac{da^{p-2}x}{dx} \right)^{-1} \right\} \]  
+
+(a, p - 1)
+
+\[ \frac{d\psi a^px}{dx} = \frac{d}{dx} F \left\{ a^{p-1}x, \psi a^{p-1}x, \frac{d\psi a^{p-1}x}{dx} \left( \frac{da^{p-1}x}{dx} \right)^{-1} \right\} \]  
+
+(a, p)
+
+Since \( a^p x = x \) equation (p) becomes
+
+\[ \psi x = F \left\{ a^{p-1}x, \psi a^{p-1}x, \frac{d\psi a^{p-1}x}{dx} \left( \frac{da^{p-1}x}{dx} \right)^{-1} \right\} \]
+
+from this by means of equations (p - 1) and (a, p - 1) we may eliminate \( \psi a^{p-1}x \), and \( \frac{d\psi a^{p-1}x}{dx} \) the resulting equation will contain only \( x, \psi x, \psi ax, \&amp;c. \psi a^{p-2}x \) and their differentials. From this by means of (p - 2) and (a, p - 2) we may eliminate \( \psi a^{p-2}x \), and its differential, leaving an equation containing only \( x, \psi x, \psi ax, \&amp;c. \psi a^{p-3}x \) and their differentials. In the same manner \( \psi a^{p-3}x \) may be eliminated, and the process may be continued
+until the last equation will only contain \( x \), \( \psi x \) and their differentials; this equation must be integrated, and it will determine the value of \( \psi x \) in terms of \( x \).
+
+The same method may be employed for the solution of the much more general equation
+
+\[
+F\{ x, \psi x, \psi ax, \ldots \psi^{p-1}x, \frac{d^n \psi ax}{dx^n}, \frac{d^m \psi ax^2}{dx^m}, \text{&amp;c.} \} = 0
+\]
+
+provided also, that \( ax^p x = x \).
+
+By substituting successively for \( x \) the quantities \( ax \), \( a^2x \), &amp;c. \( a^{p-1}x \), we shall have \( p \) equations containing the functions \( \psi x \), \( \psi ax \), and \( \psi a^{p-1}x \) and their differentials.
+
+Let each of these be differentiated as often as may be required, and we shall have two sets of equations by means of which all the quantities except \( x \) and \( \psi x \), and their differentials may be eliminated, the result is a common differential equation whose integral will afford the value of \( \psi x \) in terms of \( x \). If after satisfying the conditions of the Problem, there remain any arbitrary constants, we may suppose them functions of \( x \), and new equations will thence arise by which they may be determined.
+
+It might occur (when there are several arbitrary quantities) that, by assigning particular values to some of them, the others might remain in a certain degree arbitrary, should this be the case, we should obtain general solutions.
+
+**Problem XXXVI.**
+
+Given the equation
+
+\[
+\psi^2 x = \frac{d\psi x}{dx}
+\]
+
+Assume \( \psi x = \phi^{-1} f \phi x \), then the equation becomes
+
+\[
+\phi^{-1} f^2 \phi x = \frac{d\phi^{-1} f \phi x}{dx}
+\]
+putting $\phi^{-1}$ for $x$ we have
+
+$$\phi^{-1} f^2 x = \frac{d\phi^{-1} f x}{d\phi^{-1} x} = \frac{d\phi^{-1} f x}{dx} \left( \frac{d\phi^{-1} x}{dx} \right)^{-1}$$
+
+or
+
+$$\phi^{-1} f^2 x \cdot \frac{d\phi^{-1} x}{dx} = \frac{d\phi^{-1} f x}{dx}$$
+
+Some particular solution of the original equation must now be assumed as the value of $f$, and the resulting differential functional equation must be solved. The only particular case of the equation $\psi^2 x = \frac{d\psi x}{dx}$ with which I am at present acquainted, is
+
+$$\psi x = \left( \frac{1 \pm \sqrt{-3}}{2} \right) \times \frac{1 \pm \sqrt{-3}}{2} x$$
+
+Other more complicated equations containing the various orders of functions, and their differentials may be reduced to those of the first order by the same means, but great difficulties still remain; it is by no means easy to discover particular solutions of the original equations, and even when these are found, the functional equations of the first order which remain to be solved, are of considerable difficulty. I shall therefore refrain from giving any more examples, and proceed to show how functional equations involving definite integrals may be reduced to those we have already treated. Such equations might occur in a variety of curious and interesting enquiries, few of which have yet been noticed. D&#x27;Alembert, in one of the volumes of his Opuscules, has examined a question which may be referred to this class; it is the following. Suppose a sphere composed of particles of matter, what must be the law of attraction amongst these particles, so that the force of the whole sphere acting on a particle at a distance, may follow the same law? the question might be varied by supposing the law to be given, and the form of the solid to be required;
+but the general solution of such questions is by no means easy.
+
+**Problem XXXVII.**
+
+Required the nature of the function $\psi$ such that
+
+$$\int dx \psi^x x = \psi a$$
+
+the integral being taken between the limits $x=0$ and $x=a$.
+
+Assume $\phi(x, v)$ such that
+
+$$\phi(x, v) - \phi(0, v) = v$$
+
+the form of $\phi$ may be ascertained from this equation by means already described. Then if we make
+
+$$\int dx \psi^x x = \phi(x, \psi a)$$  \hspace{1cm} (1)
+
+it is evident that between the two limits $x=0$ and $x=a$, the integral will be reduced to $\psi a$, and we have therefore a differential functional equation whose mode of solution has already been pointed out. Other more complicated equations may be solved in the same way; these I shall omit. I shall, however, make some observations on this method of solution, with a view to point out some questions of considerable importance.
+
+In equation (1) the function indicated by $\phi$ is so assumed that we may have
+
+$$\phi(a, \psi a) - \phi(0, \psi a) = \psi a$$
+
+from which, perhaps, it might be imagined, that $\phi(x, \psi a)$ must contain only $x, \psi a$ and constant quantities, but the condition would still be fulfilled if it contained $\psi^2 a, \psi^3 a$, or $\psi^n a$, which though not actually variable cannot strictly be regarded as constant. To fix our ideas, let us consider the example in this Problem; one value of $\phi(x, \psi a)$ is evidently $\phi(x, \psi a) = \frac{x^n}{a^n} \psi a$, we have therefore
+
+$$\int dx \psi^x x = \frac{x}{a^n} \psi a$$
+and by differentiating
+
+$$\psi^2 x = \frac{n^{n-1}}{a^n} \psi a$$
+
+from which $\psi x$ may be found.
+
+This is a solution derived from a certain form attributed to $\phi$, but we might also give to $\phi$ the form
+
+$$\phi(x, \psi a) = \frac{x^n}{a^n} \psi a + x^b (x-a)^f f(a, \psi a, \psi^2 a, \ldots \psi^n a)$$
+
+and, in that case, the equation to be solved would be
+
+$$\psi^2 x = \frac{n^{n-1}}{a^n} \psi a + \frac{d}{dx} \left( x (x-a)^f f(a, \psi a, \psi^2 a, \ldots \psi^n a) \right)$$
+
+this contains only the second function of the unknown quantity and must be solved as a second functional equation, considering $a, \psi a, \&amp;c.$ $\psi^n a$ as constant quantities; let its solution be
+
+$$\psi x = F \{ x, a, \psi a, \ldots \psi^n a \} \quad (a)$$
+
+then we must put $x=a$ and determine $\psi a$ from the equation
+
+$$\psi a = F \{ a, a, \psi a, \ldots \psi^n a \}$$
+
+the value of $\psi a$ thus deduced, will furnish the values of $\psi^2 a$, &amp;c. $\psi^n a$, and these being substituted in $a$, will give the value of $\psi x$; this solution is evidently of a different nature from the former, and forms another species.
+
+Again, the following form of $\phi$ will also agree with the conditions
+
+$$\phi(x, \psi a) = \frac{x^n}{a^n} \psi a + x^b (x-a)^f \{ a, \psi a, \psi^2 a, \ldots \psi^n a, x, \psi x, \psi^2 x, \ldots \psi^n x \}$$
+
+which being substituted in the Problem $\psi x$ must be found from a functional equation of the $k^{th}$ order; $x$ must then be put equal to $a$, and the new functional equation of the $n^{th}$ order relative to $a$ must be solved; this is a third species of solution different from either of the former. Respecting these three species of solutions, a very important question
+may be proposed. What degree of generality does each possess, and how many and what sort of arbitrary functions does each solution involve? To discuss this question, and to point out the nature of other solutions yet more general, which may be found for these and other similar Problems, would far exceed the limits of a mere outline of the calculus. I shall conclude my remarks on this Problem by stating the plan to be pursued in one particular case, which may serve as a model for all similar operations. Take as the form of $\phi(x, \psi a)$
+
+$$\phi(x, \psi a) = x(x-a) \frac{\psi x \psi^2 x}{\psi^2 o \psi^2 a} - \frac{a-x}{a} \frac{\psi x}{\psi o} \psi a$$
+
+then we have
+
+$$\psi^2 x = \frac{d}{dx} \left\{ x(x-a) \frac{\psi x \psi^2 x}{\psi^2 o \psi^2 a} - \frac{a-x}{a} \frac{\psi x}{\psi o} \psi a \right\}$$
+
+this is a differential functional equation which must be solved on the hypothesis of $a$, $\psi a$, $\psi^2 a$, $\psi o$ and $\psi^3 o$, being constant quantities. Let its solution be
+
+$$\psi x = F \left\{ x, a, \psi a, \psi^2 a, \psi o, \psi^3 o \right\} \quad (1)$$
+
+we must now put $x=a$ and treat the resulting equation as one of the second order, considering $\psi o$ and $\psi^3 o$ as constants. Let its solution be
+
+$$\psi a = F \left\{ a, \psi o, \psi^3 o \right\} \quad (2)$$
+
+Now substitute $o$ for $a$ retaining $o$ as a letter instead of making it actually zero, there will result a new functional equation of the second order, whose solution is
+
+$$\psi o = F \left\{ o \right\}$$
+
+and lastly, substituting this value of $\psi o$, and also that of $\psi^3 o$ which may be deduced from it in (2) we have the value of $\psi a$, from this $\psi^2 a$ may be found, and these being substituted in (1) give the value of $\psi x$.
+Problem XXXVIII.
+
+Given the equation
+
+\[ \psi(x, y) = \frac{d\psi(x, ay)}{dx} \]
+
+where \( x^2 y = y \).
+
+For \( y \) put \( ay \) and the equation becomes
+
+\[ \psi(x, ay) = \frac{d\psi(x, ax)}{dx} = \frac{d\psi(x, y)}{dx} \]
+
+differentiate this relative to \( x \), then we have
+
+\[ \frac{d\psi(x, ay)}{dx} = \frac{d^2\psi(x, y)}{dx^2} \]
+
+this substituted in the original equation, gives
+
+\[ \psi(x, y) = \frac{d^2\psi(x, y)}{dx^2} \]
+
+which is a partial differential equation, whose solution is
+
+\[ \psi(x, y) = \varepsilon^\phi y + \varepsilon^\phi y \]
+
+\( \phi y \) and \( \phi y \) being two arbitrary functions of \( y \), so constituted as to fulfil the original equation. These may thus be determined, since
+
+\[ \psi(x, y) = \varepsilon^\phi y + \varepsilon^\phi y \]
+
+we have
+
+\[ \frac{d\psi(x, ay)}{dx} = \varepsilon^\phi ay - \varepsilon^\phi ay \]
+
+and, since these two quantities must be equal, we have the following equations
+
+\[ \phi y = \phi ay \text{ and } \phi y = -\phi ay \]
+
+the former of these is easily satisfied by putting for \( \phi y \) any symmetrical function of \( y \) and \( ay \); and a particular solution of the latter is
+
+\[ \phi y = (-y + ay)c \]
+
+and since this solution contains an arbitrary constant, it may
+be changed by Prob. VIII. Part I. into any arbitrary function which does not vary when \( y \) becomes \( ay \); its general solution is therefore
+
+\[
+\phi_y = (-y + ay) \phi(y, ay)
+\]
+
+and consequently the general solution of the equation of this Problem is
+
+\[
+\psi(x, y) = e^x \phi(y, ay) + e^{-x} (ay - y) \phi(y, ay)
+\]
+
+**Ex. 1.** Take the equation
+
+\[
+\psi(x, y) = \frac{d\psi(x, ay)}{dx}
+\]
+
+in this case \( ay = a - y \), and the general solution is
+
+\[
+\psi(x, y) = e^x \phi(y, a - y) + e^{-x} (a - 2y) \phi(y, a - y)
+\]
+
+**Ex. 2.** Let the given equation be
+
+\[
+\psi(x, y) = \frac{d\psi(x, \frac{1}{y})}{dx}
+\]
+
+here \( ay = \frac{1}{y} \) and the general solution is
+
+\[
+\psi(x, y) = e^x \phi(y, \frac{1}{y}) + e^{-x} \frac{1-y^2}{y} \phi(y, \frac{1}{y})
+\]
+
+**Problem XXXIX.**
+
+Given the equation
+
+\[
+\psi(x, y) = \frac{d\psi(x, ay)}{dx}
+\]
+
+supposing \( ay = y \).
+
+By substituting successively \( ay, a^2y, \&amp;c. \) \( a^{p-1}y \) for \( y \), we have the following equations
+
+\[
+\psi(x, y) = \frac{d\psi(x, ay)}{dx}
+\]
+
+\[
+\psi(x, ay) = \frac{d\psi(x, a^2y)}{dx}
+\]
+
+\[
+\&amp;c. \quad \&amp;c.
+\]
+
+\[
+\psi(x, a^{p-1}y) = \frac{d\psi(x, a^py)}{dx}
+\]
+From the first of these we may eliminate \( \frac{d\Psi(x, ay)}{dx} \) by means of the differential of the second, and from the result \( \frac{d\Psi(x, a^2y)}{dx} \) may be eliminated by means of the differential of the third. And by continuing this process, observing that \( \Psi(x, a^p y) = \Psi(x, y) \) we shall find
+
+\[
+\Psi(x, y) = \frac{d\Psi(x, y)}{dx}
+\]
+
+this partial differential equation must be solved, and the arbitrary functions which enter into its integral, must be made to satisfy the conditions of the Problem.
+
+**Ex.** Let \( p = 4 \), then \( \Psi(x, y) = \frac{d\Psi(x, ay)}{dx} \) and the solution of the resulting partial differential equation will be
+
+\[
+\Psi(x, y) = \varepsilon_x \phi_y - \varepsilon_{x_1} \phi_y + \sin x \cdot \phi_y + \cos x \cdot \phi_y
+\]
+
+hence
+
+\[
+\frac{d\Psi(x, ay)}{dx} = \varepsilon_x \phi_{ay} + \varepsilon_{x_1} \phi_{ay} + \cos x \cdot \phi_{ay} - \sin x \cdot \phi_{ay}
+\]
+
+the first condition to be satisfied is
+
+\[
+\phi_y = \phi_{ay}
+\]
+
+which is readily fulfilled by making \( \phi_y = \phi(y, ay, a^2y, a^3y) \),
+
+the next condition is
+
+\[
+\phi_y = -\phi_{ay}
+\]
+
+This must be solved by Prob. VIII. Part I., and we shall have
+
+\[
+\phi_y = (-y + ay - a^2y + a^3y) \phi(y, ay, a^2y, a^3y)
+\]
+
+the third and fourth conditions are
+
+\[
+\phi_y = -\phi_{ay} \quad \text{and} \quad \phi_y = \phi_{ay}
+\]
+
+In the second of these put \( ay \) for \( y \), and it becomes \( \phi_{ay} = \phi a^2y \),
+this substituted in the former, gives
+
+\[ \varphi y = -\varphi \alpha^2 y \]
+
+whose general solution being found by the method in the first part gives
+
+\[ \varphi y = (-y + \alpha^2 y) \varphi (y, \alpha y, \alpha^2 y, \alpha^3 y) \]
+
+and consequently
+
+\[ \varphi y = (-\alpha y + \alpha^3 y) \varphi (\alpha y, \alpha^2 y, \alpha^3 y, y) \]
+
+these values being respectively substituted, we have for the general solution of the Problem in this example,
+
+\[ \psi(x, y) = \varepsilon^\alpha \varphi(y, \alpha y, \alpha^2 y, \alpha^3 y) + \varepsilon^\beta (-y + \alpha y - \alpha^2 y + \alpha^3 y) \varphi(y, \alpha y, \alpha^2 y, \alpha^3 y) + \]
+\[ + (-y + \alpha^2 y) \varphi(y, \alpha y, \alpha^2 y, \alpha^3 y) \sin x + (-\alpha y + \alpha^3 y) \varphi(\alpha y, \alpha^2 y, \alpha^3 y, y) \cos x \]
+
+If the original equation had been
+
+\[ \psi(x, y) = \frac{d^n \psi(x, y)}{dx^n} \]
+
+the partial differential equation to be solved would have been
+
+\[ \psi(x, y) = \frac{d^{np} \psi(x, y)}{dx^{np}}. \]
+
+This form is rather remarkable, the equation can always be integrated when \( np \) is a whole number; let us suppose \( n \) to be a fraction and \( p \) a whole number, some multiple of the denominator of \( n \).
+
+**Ex.** Let \( n = \frac{1}{2}, p = 2 \), then \( np = 1 \), and \( \alpha^2 y = y \), and the equation to be solved is
+
+\[ \psi(x, y) = \frac{d^{\frac{1}{2}} \psi(x, y)}{dx^{\frac{1}{2}}} \]
+
+whose solution is \( \psi(x, y) = \varepsilon^\alpha \varphi y \), or by assigning a proper form to \( \varphi y \) it becomes
+
+\[ \psi(x, y) = \varepsilon^\alpha \varphi(y, \alpha y) \]
+
+Not only may the index of differentiation become fractional,
+but the index of the order of a function may be a fraction* or even a variable quantity, and such equations as the following might occur
+
+\[
+\frac{d^2 \psi^{\frac{1}{x}}}{dx} = \frac{d^3 \psi^{\frac{1}{x}}}{dn}
+\]
+
+To notice the extreme difficulty of the enquiries to which such equations would lead, might seem superfluous, though it may not be deemed equally so to support my own opinion of their utility by the authority of one well acquainted with these subjects. Lacroix, in the third volume of his Traité du Calcul, Diff. et Int. speaking of fractional indices of differentiation, observes, &quot;L&#x27;Analyse offre une foule d&#x27;expressions de ce genre, qui tiennent presque toutes aux théories les plus importantes et les plus délicates, et les réflexions que j&#x27;ai exposées dans le No. 965, me portent à croire que leur considération peut contribuer beaucoup aux progrès de la science du calcul.&quot;
+
+**Problem XL.**
+
+Given the equation
+
+\[
+\frac{d \psi(x, \beta y)}{dx} = \frac{d \psi(ax, y)}{dy}
+\]
+
+also \(a^2 x = x\) and \(\beta^2 y = y\).
+
+Put \(ax\) for \(x\), and \(\beta y\) for \(y\), then the equation becomes
+
+\[
+\frac{d \psi(ax, y)}{dax} = \frac{d \psi(x, \beta y)}{d \beta y}
+\]
+
+hence
+
+\[
+\frac{d \psi(ax, y)}{dx} \left( \frac{dax}{dx} \right)^{-1} = \frac{d \psi(x, \beta y)}{dy} \left( \frac{d \beta y}{dy} \right)^{-1}
+\]
+
+differentiate this equation relative to \(y\), and the original one relative to \(x\): then the two results are
+
+\[
+\frac{d^2 \psi(ax, y)}{dxdy} = \frac{dax}{dx} \frac{d}{dy} \left\{ \frac{d \psi(x, \beta y)}{dy} \left( \frac{d \beta y}{dy} \right)^{-1} \right\}
+\]
+
+* The difficulties which occur in treating functions with negative indices are similar to those in which they are positive; it may however be observed, that from the notation we have established, the following consequences follow:
+
+\[
+\psi^{o,1}(x, y) = x \text{ and } \psi^{n,o}(x, y) = y
+\]
+
+and generally
+
+\[
+\psi^{o,n}(x, y) = x \text{ and } \psi^{n,o}(x, y) = y
+\]
+
+also \(\psi^{o,o}(x, x) = x\) and if \(\psi^{1,1}(x, y) = v\), then we have
+
+\[
+x = \psi^{1,1}(v, y) \text{ and also } y = \psi^{1,1}(x, v)
+\]
+and
+
+\[ \frac{d^2 \psi(ax, y)}{dxdy} = \frac{d^2 \psi(x, \beta y)}{dx^2} \]
+
+hence
+
+\[ \frac{d^2 \psi(x, \beta y)}{dx^2} = \frac{dax}{dx} \cdot \frac{dy}{dy} \left\{ \frac{d\psi(x, \beta y)}{dy} \left( \frac{d\beta y}{dy} \right)^{-1} \right\} \]
+
+put \( \beta y \) for \( y \), observing that \( \left( \frac{dy}{d\beta y} \right)^{-1} = \left\{ \frac{dy}{dy} \left( \frac{d\beta y}{dy} \right)^{-1} \right\}^{-1} = \frac{d\beta y}{dy} \)
+
+and also \( \frac{d\psi(x, y)}{d\beta y} = \frac{d\psi(x, y)}{dy} \left( \frac{d\beta y}{dy} \right)^{-1} \), then there will result the equation
+
+\[ \frac{d\beta y}{dy} \frac{d^2 \psi(x, y)}{dx^2} = \frac{dax}{dx} \frac{d^2 \psi(x, y)}{dy^2} \]
+
+This is a partial differential equation from whose solution \( \psi(x, y) \) may be found.
+
+Ex. 1. Given the equation \( \frac{d\psi(a-x, y)}{dy} = \frac{d\psi(x, b-y)}{dx} \) in this case \( ax = a - x \) and \( \beta y = b - y \), and the differential equation to be solved is
+
+\[ \frac{d^2 \psi(x, y)}{dx^2} = \frac{d^2 \psi(x, y)}{dy^2} \]
+
+and its solution is
+
+\[ \psi(x, y) = \phi(x + y) + \phi(x - y) \]
+
+the two arbitrary functions \( \phi \) and \( \phi \) must be determined so as to fulfil the given equation, for which purpose we have
+
+\[ \frac{d\psi(a-x, y)}{dy} = \phi&#x27;(a - x + y) - \phi&#x27;(a - x - y) \]
+
+and \( \frac{d\psi(x, b-y)}{dx} = \phi&#x27;(b + x - y) + \phi&#x27;(-b + x + y) \)
+
+\( \phi&#x27; \) and \( \phi&#x27; \) being respectively the differential coefficients of \( \phi \) and \( \phi \), since these two expressions must be equal, we have
+
+\[ \phi&#x27;(a - x - y) = \phi&#x27;(b + x - y) \]
+
+and
+
+\[ -\phi&#x27;(a - x + y) = \phi&#x27;(-b + x + y) \]
+whose solutions are
+
+\[ \phi&#x27;(x-y) = x \{ x-y, a+b-x+y \} \]
+
+and \( \phi&#x27;(x+y) = (a-b-2x-2y) x \{ x+y, a-b-x-y \} \)
+
+hence the general solution of the equation
+
+\[ \frac{d\psi(a-x, y)}{dy} = \frac{d\psi(x, b-y)}{dx} \]
+
+is \( \psi(x, y) = \int (dx + dy) x \{ x+y, a+b-x-y \} + \int (dx - dy) (a-b-2x+2y) x \{ x-y, a-b-x+y \} \)
+
+Ex. 2. Given the equation
+
+\[ \frac{d\psi x}{dx} \frac{1}{y} = \frac{d\psi(1/x, y)}{dy} \]
+
+the partial differential equation to be solved is in this case
+
+\[ \frac{d\psi(x, y)}{dy^2} = \frac{x^2}{y^2} \frac{d\psi(x, y)}{dx^2} \]
+
+and its solution is
+
+\[ \psi(x, y) = \left( \frac{x}{y} \right) + \phi(xy) \]
+
+determining \( \phi \) and \( \phi&#x27; \) so as to fulfil the conditions of the equation, we have
+
+\[ \psi(x, y) = c(x+y) + \int d(xy) \left( \frac{1}{xy} \right)^{\frac{1}{2}} x \{ xy, \frac{1}{xy} \} \]
+
+**Problem XLI.**
+
+Given the equation
+
+\[ F \{ x, y, \psi(x, y), \psi(ax, y), \&amp;c. \} = 0 \]
+
+and let \( \alpha x = x \) and \( \beta y = y \),
+
+then there may be \( pq \) different forms of the function \( \psi \) contained in the general expression \( \psi(\alpha x, \beta y) \), \( r \) varying from 0 to \( p-1 \), and \( s \) varying from 0 to \( q-1 \).
+
+In the first place it may be observed, that if we substitute \( \alpha x \) for \( x \) in such a quantity as
+
+\[ \frac{d^n\psi(\alpha^2 x, \beta y)}{dx^n} \]
+we shall have
+
+$$\frac{d^n \psi(\alpha^x x, \beta y)}{(dax)^n}$$
+
+which may always be reduced to the form
+
+$$f(x) \frac{d^n \psi(\alpha^x x, \beta y)}{dx^n}$$
+
+If now in the original equation we substitute successively $\alpha x$, $\alpha^2 x$, ... $\alpha^{p-1} x$ for $x$, and $\beta y$, $\beta^2 y$, &amp;c. $\beta^{q-1} y$ for $y$, we shall have $pq$ equations containing $pq$ forms of the unknown function and their differentials. By means of these $pq$ equations and the differentials of them, we may eliminate all the different forms of the function $\psi$, except one: let the one which remains be $\psi(x, y)$, then we have an equation of partial differentials containing only $x$, $y$, $\psi(x, y)$ and their differentials: and from the solution of this equation $\psi(x, y)$ may be found; a certain number of arbitrary functions will be contained in this integral; these must all be determined so as to satisfy the original equation.
+
+Amongst the numerous questions to which the calculus of functions is applicable, I shall select a problem proposed by Euler in one of the volumes of the Acta Acad. Petrop. as it will offer an example of a mode of treating of functional equations of a nature yet more general than those contained in this paper.
+Problem XLII.
+
+Required the nature of a curve such that taking any ordinate
+
+DB, and drawing a normal at the point D, the next ordinate CE raised at the foot of the normal shall be equal to that normal.
+
+Let \( AB = x \), \( BD = y \) and \( y = \psi x \) be the equation of the curve, then \( BC = \frac{dy}{dx} \),
+
+and \( DC = \sqrt{y^2 + \left(\frac{dy}{dx}\right)^2} \) and by the condition of the Problem we have
+
+\[
+\sqrt{y^2 + \left(\frac{dy}{dx}\right)^2} = \psi \left( x + \frac{dy}{dx} \right)
+\]
+
+hence
+
+\[
+[\psi x]^2 + \left[ \frac{\psi x d\psi x}{dx} \right]^2 = \left[ \psi \left( x + \frac{\psi x d\psi x}{dx} \right) \right]^2 \quad (a)
+\]
+
+This is apparently a very difficult functional equation, and I am not acquainted with any direct method of solving other similar ones. It is in fact only from a peculiar condition which this equation involves that any solutions have been obtained, the condition to which I allude is, that the quantity \( \frac{\psi x d\psi x}{dx} \) does not change, when for \( x \) we substitute \( x + \frac{\psi x d\psi x}{dx} \) or expressed in symbols, that
+which may be thus proved differentiate (a) which gives
+
+\[ \psi \left( x + \frac{\psi_x d\psi}{dx} \right) d \cdot \psi \left( x + \frac{\psi_x d\psi}{dx} \right) = \psi_x d\psi_x + \frac{\psi_x d\psi}{dx} d \cdot \frac{\psi_x d\psi}{dx} \]
+
+and by dividing both sides of this equation by
+
+\[ d \left( x + \frac{\psi_x d\psi}{dx} \right) = dx + d \cdot \left( \frac{\psi_x d\psi}{dx} \right) \]
+
+we have
+
+\[ \frac{\psi \left( x + \frac{\psi_x d\psi}{dx} \right) d\psi \left( x + \frac{\psi_x d\psi}{dx} \right)}{d \left( x + \frac{\psi_x d\psi}{dx} \right)} = \frac{\psi_x d\psi}{dx} \left( dx + d \cdot \frac{\psi_x d\psi}{dx} \right) = \frac{\psi_x d\psi}{dx} \]
+
+From this it appears, that the subnormal is constant in the same series of ordinates, but it does not follow that it must be constant in different series; this property, viz. that \( \frac{\psi_x d\psi}{dx} \) does not change when \( x \) becomes \( x + \frac{\psi_x d\psi}{dx} \) will furnish us with a solution of the equation in question; for (a) becomes by putting \( t \) for \( \frac{\psi_x d\psi}{dx} \).
+
+\[ [\psi (x + t)]^2 - [\psi x]^2 = t^2 \]
+
+where \( t \) may be considered as a constant quantity, the general solution of this equation is
+
+\[ \psi x = \sqrt{xt + \phi t} \]
+
+\( \phi t \) being an arbitrary function of \( t \), therefore the general solution of eq. (a) is
+
+\[ \psi x = \sqrt{x \frac{\psi_x d\psi}{dx} + \phi \left( \frac{\psi_x d\psi}{dx} \right)} \]
+
+or
+
+\[ y^s = \frac{xy dy}{dx} + \phi \left( \frac{ydy}{dx} \right) \]
+
+from which differential equation the curves which satisfy the Problem may be found. It ought, however, to be observed,
+that the constant quantity introduced by integration, is not perfectly arbitrary, it must be determined so as to make the equation between $x$ and $y$ fulfil the equation (a). If for instance, we assume $\varphi \left( \frac{dy}{dx} \right)$ to be equal to $a \frac{dy}{dx}$, we should find the equation of the curve to be
+
+$$y = (a + x)c$$
+
+$c$ being the constant introduced by integration, and on substituting this value of $y$ in (a) we shall find $c = 0$, so that
+
+$$y = (a + x)o$$
+
+Let us suppose $a$ to be infinite and equal to $\frac{b}{c}$, then we have
+
+$$y = \left( \frac{b}{c} + x \right)c = b + cx = b,$$ since $c = 0$
+
+which is the equation of a straight line parallel to the axis of the $x$&#x27;s, which in fact agrees with the conditions of the Problem. If we suppose $\varphi \left( \frac{dy}{dx} \right) = a^2 = a$ constant quantity, we should find
+
+$$x = c\sqrt{y^2 - a^2}$$
+
+this value being substituted in (a) gives for determining $c$ the equation
+
+$$c^2(c^2 + 1) = 0$$
+
+whence $c = 0$ and $c = \pm \sqrt{-1}$, using this latter value we have
+
+$$x = \sqrt{-1} \times \sqrt{y^2 - a^2} = \sqrt{a^2 - y^2}$$
+
+which is the equation of the circle, and it is obvious, that this curve satisfies the conditions.
+
+It is very necessary to attend to this mode of determining the constants, as we should otherwise meet in the solution with many curves which do not satisfy the conditions; thus in the last example, the curve is apparently an hyperbola, but owing to the constant becoming imaginary, it is in fact a circle.
+To complete the outline of this new method of calculation, it would be necessary to treat of equations involving two or more functional characteristics, and to explain methods of eliminating all but one of them: these lead to a variety of interesting and difficult enquiries, and will probably be of considerable use in completing the solutions of partial differential equations: it would also be proper to consider the maxima and minima of functions, and to apply to this subject the method of variations; these are points of considerable difficulty, and although I have made some little progress in each of them, I shall forbear for the present any farther discussion on this subject. In the mean time, the sketch which I have offered, and the few applications I have given, are sufficient to point out the great importance of this method. It should however be observed, that its applications have only been noticed incidentally; my object has been to direct the attention of the analyst to a new branch of the science, and to point out the manner of treating it: the doctrine of functions is of so general a nature, that it is applicable to every part of mathematical enquiry, and seems eminently qualified to reduce into one regular and uniform system the diversified methods and scattered artifices of the modern analysis; from its comprehensive nature, it is fitted for the systematic arrangement of the science, and from the new and singular relations which it expresses, it is admirably adapted for farther improvements and discoveries.
+same variable, then \( dy, dz, dw, \ldots \) are expressions proportional to the derived functions of \( y, z, w, \ldots \) whatever may be the variable of which they are common functions. Hence \( \frac{dy}{dx} = \frac{Dy}{Dz} \); and if \( y \) be a function of \( x \), or \( = \phi (x) \), then \( \frac{dy}{dx} = \frac{D\phi (x)}{Dx} = D\phi (x) \) and \( \therefore dy = dx \cdot D\phi (x) \).
+
+Moreover, since the derived functions are in the limiting ratio of the increments, so also are the fluxions. From this consideration we can in the applications of analysis, practically determine the ratio of the fluxions, when the derived functions are unknown.
+
+ERRATA.
+
+Page 72, line 20, for parts, read part.
+—— 73, line 3, for between, read below.
+—— 98, line 4 from bottom, dele the comma after A.
+—— 101, line 6 from bottom, dele BH.
+—— 102, line 4, for axes, read axis.
+—— 164, line 11, dele the comma between \( m \) and \( n \).
+—— 174, line 7, for consisted of, read consisted in.
+—— , line last, for \( m, n \), read \( m, m \).
+—— 191, line 13, for \( \phi \phi x \), read \( \phi \phi x \).
+—— 213, line 14, for \( \psi \psi (x, y) \), read \( \phi \phi (x, y) \).
+—— 214, line 10, dele &quot;in an infinite number of ways&quot;.
+—— 224, line 22, for \( f(a) \), read \( f(x) \).
+—— 226, line 24, for \( = x \), read \( = z \).
+—— 232, line 16, in the denominator, for \( 1- \), read \( 1+ \).
+—— , line 18, ditto, ditto, for \( 1- \), read \( 1± \).
+—— 251, line 9, for \( \frac{d\psi x, \frac{1}{y}}{dx} \) read \( \frac{d\psi (x, \frac{1}{y})}{dx} \)
+—— ——, line 11, for \( d \) in both numerator, read \( d^2 \).
+—— ——, line 13, for \( \left( \frac{x}{y} \right) \) read \( x \phi \left( \frac{x}{y} \right) \).</div>

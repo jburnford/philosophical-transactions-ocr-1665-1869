@@ -1,0 +1,89 @@
+{
+  "id": "f4cfc93ef844199225080c433084399b86642a2b",
+  "text": "II. An Observation of a Spina bifida, commonly so termed; by Mr. George Aylett, Surgeon at Windsor.\n\nSeptember 30. 1740.\n\nRead Feb. 2.\n\nThere appeared, covering the lower part of the loins of a lusty infant just born, a large incysted tumour, that seemed capable of containing a pint of water, whose contents had escaped in the birth from a small perforation in the middle of the cyst; from whence, on pressure, issued out a bloody serum.\n\nFlannels, wrung out of an hot, discutient, and restringent fomentation with spirits, were twice a day applied, to prevent its mortifying; to which the upper part seemed greatly tending.\n\nThe first four days there appeared no visible alteration in the child's health: she sucked well; was as hearty and strong as most at that age are; no paralysis in the extremities, but a daily discharge from the perforation of nigh two ounces of the same bloody serum which at first issued out. The nurse had observed, that, during all this time, it had not made one drop of water.\n\nThe fifth day the child was convulsed; which increasing, she died in the night following.\n\nOn the division of the cyst, next day, there appeared a thin membranous substance, lining it internally; and might be an expansion of the membrane which envelopes the Medulla spinalis. A number of small blood-vessels appeared about the perforation.\nof the Bone; and, underneath a small Portion of the Medulla of a very thin Consistence. There was no Opportunity of making a further Examination, thro' the Mother's Importunities: But the lumbar Vertebrae and Os sacrum were taken out, as appears in the Figure annexed.\n\nTab. I. Fig. 1. by C. M.\n\nA B, The Vertebrae of the Loins.\nB C, The Os sacrum.\nC D, The Ossa Coccygis.\nE F, The spinal Processes of the Vertebrae of the Loins; which Spines are here discontinued, and an Opening formed,\nF G H I, quite into the Canal of the Vertebrae; so that the Medulla spinalis was intirely laid bare without any bony Covering. This Opening has been mistaken for a Parting of the spinal Processes into Two Rows; or as if at F they had divided into Two Branches; the Two Edges F and G feeling thro' the Integuments like a Bifurcation of the Spine, and so have given Rise to the Notion of a Spina bifida; which Case I doubt whether it ever exists: For a perfect Spina bifida must suppose the very Canal and Medulla spinalis to divide into Two Branches, the Bodies of the Vertebrae to become near twice as wide as usual, and the spinal Processes to divaricate into Two Rows or Ridges of Spines. C. M.\n\nDr. Rutty, late Secr. R. S. has communicated a Case like this. See these Transact. n. 366. p. 98.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104403.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8576,
+    "total-output-tokens": 820,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1349,
+        2
+      ],
+      [
+        1349,
+        2634,
+        3
+      ],
+      [
+        2634,
+        2634,
+        4
+      ],
+      [
+        2634,
+        2634,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104403",
+    "title": "An Observation of a Spina Bifida, Commonly So Termed; By Mr. George Aylett, Surgeon at Windsor",
+    "authors": "George Aylett",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104403"
+  }
+}

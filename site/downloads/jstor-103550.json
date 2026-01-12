@@ -1,0 +1,59 @@
+{
+  "id": "6d110f0bdd7c1d4ee9b7ea2324f2f01df6125434",
+  "text": "trigesimae sextae partis diametri Lunaris prope par videbatur.\n\nIII. Praeterea juxta Lunaris disci marginem coloratum perpetua Luminis solaris commotio notata est.\n\nIV. Observatio ejusdem Defectûs Solis habita Patavii, ab J. Poleno.\n\nORIENTE Sole, Nubes tenues Finitorem quasi cingebant: quibus deinde evanescentibus, aer tantillum nebulosus fuit, ut maculae solares haud satis distincte apparerent.\n\n| Digit | Temp. | Ver. |\n|-------|-------|------|\n| Obscur. |       |      |\n| H.    | 1     | 12   |\n| 4     | 16    | 46   |\n| 3½    | 16    | 48   |\n| 3     | 16    | 50   |\n| 2     | 16    | 57   |\n| 1     | 17    | 1    |\n| ½     | 17    | 3    |\n| Finis totius Obscur. | 17 | 6 |\n\nJuly 14, 1730. S. N.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103550.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 348,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        708,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103550",
+    "title": "Observatio Ejusdem Defectûs Solis Habita Patavii, ab J. Poleno",
+    "authors": "J. Poleno",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103550"
+  }
+}

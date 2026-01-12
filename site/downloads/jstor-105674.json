@@ -1,0 +1,69 @@
+{
+  "id": "e22c638f0294661640d3d85c71507b4a6a5ce8ff",
+  "text": "XCVI. Minutes of the Observation of the Transit of Venus over the Sun, the 6th of June 1761, taken at Calcutta in Bengal, Latitude $22^\\circ 30'$, Longitude East from London nearly $92^\\circ$: communicated from the Court of Directors of the East India Company, by Charles Morton, M.D. F.R.S.\n\nRead Nov. 4, 1762.\n\n| Event                                      | Time   |\n|--------------------------------------------|--------|\n| The appulse uncertain, but very apparent at | $8 \\text{ h } 11 \\text{ m } 35 \\text{ s}$ |\n| The center of Venus on the Sun's limb      | $8 \\text{ h } 16 \\text{ m } 35 \\text{ s}$ |\n| The interior contact at the ingress         | $8 \\text{ h } 24 \\text{ m } 40 \\text{ s}$ |\n| Interior contact at the egress              | $2 \\text{ h } 15 \\text{ m } 55 \\text{ s}$ |\n| Center of Venus on the Sun's limb at the egress | $2 \\text{ h } 24 \\text{ m } 0 \\text{ s}$ |\n| Total egress                               | $2 \\text{ h } 32 \\text{ m } 0 \\text{ s}$ |\n\nThe above observations were minuted from a stopwatch of Mr. Ellicott's, having no pendulum-clock or time-piece.\n\nThe weather being cloudy for several days before that of observation, there was no opportunity of ascertaining the error of the watch; but, on the day of observation, I found, upon comparing the watch with a meridian line in the town-hall, that when the center of the Sun's image was on the meridian line, the time pointed by the watch was $4' 10''$ past twelve.\n\nComparing the watch the 7th, 8th, and 9th June with the meridian line, I found it had gained nearly two minutes each day, the time pointed by the watch on the 9th June being $10' 5''$, when the Sun was on the meridian.\nIt took about 5'' to wind the watch up every day, which I carefully observed; from the aforegoing remarks I have made the following corrections.\n\nCentre of Venus on the Sun's limb at \\[8^h\\ 12' 54''\\]\ningress \\[8^h\\ 20' 58''\\]\nInterior contact at the ingress \\[2^h\\ 11' 34''\\]\nCentre of Venus on the Sun's limb at \\[2^h\\ 19' 38''\\]\nthe egress \\[2^h\\ 27' 38''\\]\nTotal egress \\[6^h\\ 22' 48''\\]\n\nAnd if the same time be allowed for the first semidiameter of the planet coming on as the other three, it must have commenced at \\(8^h\\ 4' 50''\\), so that the total duration was\n\nWilliam Magee.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105674.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 791,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1674,
+        2
+      ],
+      [
+        1674,
+        2260,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105674",
+    "title": "Minutes of the Observation of the Transit of Venus over the Sun, the 6th of June 1761, Taken at Calcutta in Bengal, Latitude 22 degrees 30<sup>′</sup>, Longitude East from London Nearly 92 degrees: Communicated from the Court of Directors of the East India Company, by Charles Morton, M. D. F. R. S.",
+    "authors": "Charles Morton, William Magee",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105674"
+  }
+}

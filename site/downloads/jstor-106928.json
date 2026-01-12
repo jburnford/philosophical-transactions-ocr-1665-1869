@@ -1,0 +1,79 @@
+{
+  "id": "cae8afc7e0944beeffb70f16496312308b7b7080",
+  "text": "XI. On the Action of Nitre upon Gold and Platina. By Smithson Tennant, Esq. F. R. S.\n\nRead March 23, 1797.\n\nGold, which cannot be calcined by exposure to heat and air, has been also considered as incapable of being affected by nitre. But in the course of some experiments on the diamond, an account of which has been communicated to this Society, I observed, that when nitre was heated in a tube of gold, and the diamond was not in sufficient quantity to supply the alkali of the nitre with fixed air, a part of the gold was dissolved. From this observation I was induced to examine more particularly the action of nitre upon gold, as well as to inquire whether it would produce any effect upon silver and platina.\n\nWith this intention I put some thin pieces of gold into the tube together with nitre, and exposed them to a strong red heat for two or three hours. After the tube was taken from the fire the part of the nitre which remained, consisting of caustic alkali, and of nitre partially decomposed, weighed\n140 grains; and 60 grains of the gold were found to have been dissolved. Upon the addition of water about 50 grains of the gold were precipitated, in the form of a black powder. The gold which was thus precipitated was principally in its metallic state, the greater portion of it being insoluble in marine acid. The remaining gold, about 10 grains in weight, communicated to the alkaline solution, in which it was retained, a light yellow colour. By dropping into this solution diluted vitriolic or nitrous acid, it became at first of a deeper yellow, but if viewed by the transmitted light, it soon appeared green, and afterwards blue. This alteration of the colour from yellow to blue arises from the gradual precipitation of the gold in its metallic form, which by the transmitted light is of a blue colour. Though the gold is precipitated from this solution in its metallic form, yet there seems to be no doubt that while it remains dissolved it is entirely in the state of calx. Its precipitation in the metallic state is occasioned by the nitre contained in the solution, which having lost part of its oxygen by heat, appears to be capable of attracting it from the calx of gold; for I found that if the calx of gold is dissolved by being boiled in caustic alkali, and a sufficient quantity of nitre which has lost some of its air by heat is mixed with it, the gold is precipitated by an acid in its metallic state.*\n\n* As the precipitation of gold in its metallic form, by nitre which has lost some of its oxygen has not, I believe, been noticed, it may not be improper to mention some of those facts relating to it which seem most entitled to attention. Nitre which has been heated some time precipitates gold in its metallic state from a solution in aqua regia, if it is diluted with water. If a solution of gold in nitrous acid is dropped into pure water, the calx of gold is separated, which is of a yellow colour; but if the water contains a very small proportion of nitre which has lost some of its air by heat (as one grain in six ounces), the gold is deprived of its oxygen, and becomes blue. The\nHaving found that nitre would dissolve gold, I tried whether it would produce any effect upon platina.\n\nIt has been formerly observed that the grains of platina, in the impure state in which it is originally found, might, by being long heated in a crucible with nitre, be reduced to powder. Lewis, from his own experiments and those of Margraaf, thought that the iron only which is contained in the grains of platina was corroded by the nitre. But by heating nitre with some thin pieces of pure platina in a cup of the same metal, I found that the platina was easily dissolved, the cup being much corroded, and the thin pieces entirely destroyed. By dissolving the saline matter in water, the greater part of the platina was precipitated in the form of a brown powder. This powder, which was entirely soluble in marine acid, consisted of the calx of platina, combined with a portion of alkali, which could not be separated by being boiled in water. The platina which was retained by the alkaline solution communicated to it a brown-yellow colour. By adding an acid to it a precipitate was formed, which consisted of the calx of platina, of alkali, and of the acid which was employed.\n\nSilver, I found to be a little corroded by nitre. But as its action upon that metal was very inconsiderable, it did not appear to be deserving of a more particular examination.\n\nalkali of the nitre does not assist in producing this effect. Nitrous acid alone, which does not contain its full proportion of oxygen, occasions the same precipitation, unless it is very strong; and if a mixture of such strong nitrous acid, and of a solution of gold in nitrous acid, is dropped into water, the gold is deprived of its oxygen, and is precipitated of a blue colour. Two causes contribute to produce this effect upon the addition of water. The adhesion of the calx of gold to nitrous acid is by that means weakened, and the oxygen is attracted more strongly to the imperfect nitrous acid, in consequence of their attraction for water when they are united.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106928.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1266,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1014,
+        2
+      ],
+      [
+        1014,
+        3126,
+        3
+      ],
+      [
+        3126,
+        5159,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106928",
+    "title": "On the Action of Nitre upon Gold and Platina. By Smithson Tennant, Esq. F. R. S.",
+    "authors": "Smithson Tennant",
+    "year": 1797,
+    "volume": "87",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106928"
+  }
+}

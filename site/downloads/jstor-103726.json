@@ -1,0 +1,59 @@
+{
+  "id": "e8c632b1dd36cc970bd178c45fbdc48bcfd5591d",
+  "text": "POSTSCRIPT.\n\nAs to the Observations of Dr. Hook, I must own to you, that before Mr. Molyneux's Instrument was erected, I had no small Opinion of their Correctness; the Length of his Telescope and the Care he pretends to have taken in making them exact, having been strong Inducements with me to think them so. And since I have been convinced both from Mr. Molyneux's Observations and my own, that the Doctor's are really very far from being either exact or agreeable to the Phænomena; I am greatly at a Loss how to account for it. I cannot well conceive that an Instrument of the Length of 36 Feet, constructed in the Manner he describes his, could have been liable to an Error of near 30\" (which was doubtless the Case) if rectified with so much Care as he represents.\n\nThe Observations of Mr. Flamsteed of the different Distances of the Pole Star from the Pole at different Times of the Year, which were through Mistake looked upon by some as a Proof of the annual Parallax of it, seem to have been made with much greater Care than those of Dr. Hook. For though they do not all exactly correspond with each other, yet from the whole Mr. Flamsteed concluded that the Star was 35\" 45\" or 45\" nearer the Pole in December than in May or July: and according to my Hypothesis it ought to appear 40\" nearer in December than in June. The Agreement therefore of the Observations with the Hypothesis is greater than could reasonably be expected, considering the Radius of the Instrument, and the Manner in which it was constructed.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103726.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 422,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1523,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103726",
+    "title": "Errata",
+    "authors": null,
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103726"
+  }
+}

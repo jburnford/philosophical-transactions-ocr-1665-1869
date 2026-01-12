@@ -1,0 +1,69 @@
+{
+  "id": "bc586ab827aedefd155831a29d50b3eb5e7b9baa",
+  "text": "experimental Dust is raised; and yet neither Party can ever be brought to yield; for they are both in the right, only they have been unlucky in giving the same Name to different mathematical Conceptions. Had they distinguished these Measures of centripetal Force as Newton has done, calling the one *Vis centripete Quantitatis acceleratrix*, the other *Quantitas motrix*; all Appearance of Contradiction had ceased, and their Propositions, which seem so contrary, had exactly tallied.\n\nVI. A Letter from Rich. Hassel Esq; F.R.S. to Peter Daval Esq; Secr. R. S. concerning a large Piece of a Lath being thrust into a Man's Eye, who recover'd of it.\n\nSIR,\n\nRead Nov. 10. I thought the following Case so extraordinary as to be worth the Notice of the Royal Society. If you think so too, I beg you to communicate it.\n\nOn Sunday the 17th of Jan. 1747. Henry Halsey, of South Mims, Labourer, thrust a long Lath with great Violence into the great *Cantus* of the left Eye of Edward Roberts of the same Place Labourer, which broke off quite short; so that a Piece two Inches and near a half long, half an Inch wide, and above a quarter of an Inch thick, (see Tab I.) remained in his Head, and was so deeply buried there, that it could scarce be\nbe seen, or laid hold of. He rode with the Piece of Lath in him from Kick's End, where the thing was done, to Barnet, which is above a Mile, to the House of Mr. Justinian Morse, a Surgeon there, who extracted it with Difficulty; it sticking so hard, that others had been baffled in attempting to extract it. Roberts continued dangerously ill a long time; but at last, by the Blessing of God, and the Care of Mr. Morse, recover'd intirely, and has the Sight of the Eye, and the Use of the Muscles. But some time after he seemed well, he told me, that, upon leaning down forward, he felt great Pains in his Head. The Piece is supposed to have passed behind the right Eye. I am,\n\nSIR,\n\nLincoln's-Inn, Nov. 10.\n\nYour humble Servant,\n\nRichard Hassel.\n\nVII. The Sun's Eclipse of July 14, 1748. observed at Marlborough House, with the twelve Foot refracting Telescope, fix'd as a Finder to the Tube of the great twelve Foot Reflector; by John Bevis M.D.\n\nRead Nov. 10. 1748. Apparent Time.\n\nJuly 13. 9. 3. 50 The Beginning, which perhaps might be 2\" or 3\" sooner.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104574.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 697,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1237,
+        2
+      ],
+      [
+        1237,
+        2293,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104574",
+    "title": "A Letter from Rich. Hassel Esq; F.R.S. to Peter Daval Esq; Secr. R. S. concerning a Large Piece of a Lath Being Thrust into a Man's Eye, Who Recover'd of It",
+    "authors": "Richard Hassel",
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104574"
+  }
+}

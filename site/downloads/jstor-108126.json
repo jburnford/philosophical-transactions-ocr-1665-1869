@@ -1,0 +1,59 @@
+{
+  "id": "70c91710639bd99b14b5746d88976d068ba8aa50",
+  "text": "XXI. On the Double Metamorphosis in the Decapodous Crustacea, exemplified in Cancer Mænas, Linn. By J. V. Thompson, F.L.S. Deputy Inspector-General of Hospitals. Communicated by Sir James Macgrigor, Bart. M.D. F.R.S. 359\n\nIndex .................................................................................................................. 365\n\nAPPENDIX.\n\nMeteorological Journal kept at the Apartments of the Royal Society, by order of the President and Council.\n\nERRATA.\n\nPage 37, line 12. For allied to N. clausa, read allied to N. clausa, Zool. Journal.\nPage 37, line 19. For Murex Rumphius, Mont., read Murex Bamfius, Donov.\nPage 37, line 21. For Fusus corneus read Fusus antiquus, Linn.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108126.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 259,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        694,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108126",
+    "title": "Errata",
+    "authors": null,
+    "year": 1835,
+    "volume": "125",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108126"
+  }
+}

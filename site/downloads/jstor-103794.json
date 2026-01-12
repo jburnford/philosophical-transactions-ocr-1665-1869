@@ -1,0 +1,69 @@
+{
+  "id": "2a3443cba528127ed09f77dca9da03a40aef56b6",
+  "text": "V. An Experiment to illustrate what has been said in the Philosophical Transactions, No. 386, 387, 388, concerning the Figure of the Earth, by the Rev. J. T. Delaguliers, L.L.D. F.R.S.\n\nUPON an Axis of Iron, that cou'd be made to turn swiftly (by means of a Wheel, whose String went round a Pulley fix'd to the said Axis) I slipp'd on two Iron Hoops, whose Planes intersected at right Angles, representing two Colures, which, being of a spring Temper, sprung in such Manner as to be Part longer in that Diameter that coincided with the Axis, than in their Æquatorial Diameter; this Proportion being the same that Mr. Cassini supposes to be between the Axis and Æquatorial Diameter of the Earth. Two circular Plates, to which the said Hoops were riveted, had square Holes, thro' which the Axis pass'd, so that the two Poles of the oblong Spheroid, which the Hoops describe in their Revolution, might approach together in such Manner, as to let them put on the Form of a true Sphere, when, by the Whirling, the Æquatorial Diameter of the Machine swell'd and over-power'd the Elasticity of the Hoops. A greater Degree of Swiftness turn'd the Sphere into an oblate Spheroid of Sir Isaac Newton's Figure. A Velocity still greater makes the Disproportion of the Diameters, such as those of Jupiter; and still the Æquatorial Diameter encreases with the centrifugal Force.\n\nAnother Hoop with a Catch, representing the Æquator, shews (in the Experiment) the Increase of the Æquatorial Circumference, and an Index applied to the Frame, shews the Increase of the Diameter.\nAs soon as the Revolution of the Machine ceases, the Colures, Meridians or Hoops return to their Elliptical Figure, whose longest Diameter is the Axis of Revolution.\n\nIf the Force, by which the Hoops endeavour to keep their Figure, be consider'd, as the Gravity that keeps together the Parts of the Earth; from this Experiment compar'd with what has been said in the Translations above-mention'd, it will appear that the Earth cannot preserve its Figure, unless it be an oblate Spheroid.\n\nVI. Some Experiments concerning the Cohesion of Lead, by the same.\n\nHAVING, on Thursday the 29th of April last, made mention of some Experiments, concerning the Cohesion of two Balls of Lead, applied together in a small Part of their Surface (so as to require a Weight far greater than what will overcome the Pressure of the Atmosphere, to separate them) made by Mr. Trevall, at Newcastle, and at Edinburgh; I made the following Experiment to the same Purpose, before the Royal Society.\n\nI took the Leaden Balls A and B (Fig. 1.) the first weighing one Pound, and the other two Pounds; and having from each of them cut off a Segment of about ¼ Inch in Diameter, I press'd them together with my Hand, with a little Twist, to bring the flat Parts to touch as well as I cou'd. The Balls stuck so fast, that when the Hand H, by means of a String, sustain'd the upper Ball A, the lower one B (by reason of its Contact at C) was sustain'd, tho' loaded with the Scale",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103794.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 834,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1562,
+        2
+      ],
+      [
+        1562,
+        3011,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103794",
+    "title": "An Experiment to Illustrate What Has Been Said in the Philosophical Transactions, No. 386, 387, 388, concerning the Figure of the Earth, by the Rev. J. T. Desaguliers, L. L. D. F. R. S.",
+    "authors": "J. T. Desaguliers",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103794"
+  }
+}

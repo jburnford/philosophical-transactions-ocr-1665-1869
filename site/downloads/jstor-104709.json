@@ -1,0 +1,69 @@
+{
+  "id": "944c600563618b5e260bebc7602913a0efe4bb0c",
+  "text": "learn its Course, by comparing the Accounts of People in different Situations: It seems to have lain East and West, and to have passed from the West Eastward. I felt nothing of it myself as I walked the Street, nor do I find that many who were walking did.\n\nI hope you will please to excuse this hasty Account, and permit me to assure you that I am, with all possible Respect,\n\nSIR,\n\nCatherine-street, Feb. 8.\n4th p.m. 1749-50.\n\nYour most obedient\nhumble Servant,\n\nH. Baker.\n\nII.\n\nAn Account of the Shock of an Earthquake, felt Feb. 8. 1749-50: By Gowin Knight M. B. & F. R. S.\n\nRead Feb. 8. TODAY, betwixt 12 and 1 o’Clock, 1749-50. the House in which I live in Lincoln’s-Inn Fields was shook violently for a Moment. The Room where I was shook very much, but nothing was thrown down. In another Room the Grate was seen to move, and the Fire-shovel was thrown down. A Maid-Servant that was above-stairs was much frighten’d with the Shock and Noise: She said, she heard a Sound like Thunder, which\nseem'd to come from below: That the Window-curtains and Bed shook very sensibly, and the latter was moved from its Place nearer to the Wall. Three other Persons in the House both heard the Noise and felt the Shock; but I did not take notice of the Noise myself, being intent upon something else at that time.\n\nSoon after this happen'd, a Servant came from his Grace the Duke of Newcastle, to inquire if we had perceiv'd what had happen'd; and said, that his Grace's House had shook all over.\n\nI sent to two or three Houses in the Neighbourhood, and was informed, that they were equally sensible both of the Shaking and the Noise; and at one of the Houses it had thrown down a Firkin of Butter from a Shelf. I was further informed, that several of the neighbouring Inhabitants ran out of their Houses; and some Gentlemen that were playing at Tennis ran out of the Tennis-Court.\n\nA Woman reports, that she felt a like Shock the Night before last about 7 o'Clock, which made the Candle jump off the Table at which she then sat.\n\nWhilst I was writing, a Man came in from Greenwich, who said, he was at Dockhead when the Shock was felt there, and the Noise seem'd to him like that of a Cannon at a Distance: That all the Way he came, as far as London-Bridge, the People were alarmed at it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104709.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 674,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        997,
+        2
+      ],
+      [
+        997,
+        2281,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104709",
+    "title": "An Account of the Shock of an Earthquake, Felt Feb. 8. 1749-50: By Gowin Knight M. B. & F. R. S.",
+    "authors": "Gowin Knight",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104709"
+  }
+}

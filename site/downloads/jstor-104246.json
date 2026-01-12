@@ -1,0 +1,69 @@
+{
+  "id": "26b7c612fb1a9da9d74608fa86cbe6fd79ca1ba1",
+  "text": "This Account might be confirmed by many more Experiments I have made relating to this Subject; but as I hope these already mentioned will be thought sufficient to confirm the Truth of what I have advanced, I shall forbear to trespass any longer on your Time, and subscribe myself\n\nYour most obedient humble Servant,\n\nJohn Ellicott.\n\nVII. The Case of a Wound in the Cornea of the Eye being successfully cured by Mr. Tho. Baker, Surgeon to St. Thomas's Hospital, and by him communicated to the Royal Society, in a Letter to Dr. Mortimer, R. S. Secr.\n\nA Young Woman, about the Age of 15 Years, on the 6th Day of November 1733, received a Wound just in the Pupil of her right Eye, by the Spear of a common Fork. An Inflammation followed, with great Pain. The whole Eye appeared dark and turbid; and the Humours seemed confused, and blended together. I opened a Vein in the Arm, and drew away 10 Ounces of Blood: I then washed the Eye with a Collyrium of Trochisci Albi Rhasis, and common Water, made Blood-warm; and dressed it with a Cataplasm of white Bread and Milk, with a little Saffron in it. The next Day there appeared\non the wounded Part of the Cornea, a large thick Slough: I dressed her in the same Manner, and so continued till the 18th Day of the same Month, when the Slough cast off. I purged her during this Time with Decoct. Sennae 3ij, Mann. Solut. 3ss, Aq. Paeon. comp. 3ij; m.f. Pot. at the Distance of about three Days, just as I found her Strength would permit. The Inflammation and Pain abated daily. During the whole Time, the Eye was quite blind, till the Slough cast off, when she complained she saw double. In a very little time her Sight returned, but not so perfect as before; her Eye having somewhat of a Cloud before it.\n\nI made her six Visits at the Distance of two or three Days after the 18th: When I left her, she saw perfectly well, that Cloud which she before complained of, being removed; her Eye appeared fair and clear; and, as she told me, was equally strong and useful to her as her other. A little Speck (which was the Cicatrix of the Wound) remaining on the Cornea, I made her a Fontanel in the Arm, and ordered her to keep it open, and not to touch the Speck on her Eye. It is now more than two Years since, the Speck has gradually decreased, and is now so small, that it is scarce visible; and her Sight is as perfect and strong as before this Accident.\n\nThomas Baker, Surgeon.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104246.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 711,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1122,
+        2
+      ],
+      [
+        1122,
+        2417,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104246",
+    "title": "The Case of a Wound in the Cornea of the Eye Being Successfully Cured by Mr. Tho. Baker, Surgeon to St. Thomas's Hospital, and by Him Communicated to the Royal Society, in a Letter to Dr. Mortimer, R. S. Secr.",
+    "authors": "Thomas Baker",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104246"
+  }
+}

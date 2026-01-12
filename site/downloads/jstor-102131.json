@@ -1,0 +1,59 @@
+{
+  "id": "1b32b52e132b8ba87f311d3fc81a0ecf615fba5b",
+  "text": "Of the weight of a cubic foot of divers grains, &c. try'd in a Vessel of well season'd Oak, whose concave was an exact cubic foot. By the direction of the Philosophicall Society of Oxford.\n\nThe following bodies were poured gently into the vessel, and those in the first 12 first Experiments were weighed in scales turning with 2 ounces, but the last 7 were weighed in scales turning with one ounce. The pounds, and ounces here mention'd are Avoirdupois.\n\n1. A foot of Wheat (worth 6½ a Bushell) weighed of Avoirdupois weight. 47. 8\n\n2. Wheat of the best sort (worth 6½ a bushell.) 48. 4\n\n3. The same sort of Wheat measured a 2d time. 48. 2\n\nBoth sorts were red lammas Wheat of the last year.\n\n4. White Oats of the last year. 29. 8\n\nThe best sort of Oats were 2½ in a bushell better than these.\n\n5. Blew Pease (of the last year,) & much worm-eaten. 49. 12\n\n6. White Pease of the last year but one. 50. 8\n\n7. Barley of the last year: (the best sort sells for 1½ in a quarter more than this:) 41. 2\n\n8. Malt of the last years Barley, made 2 months before. 30. 4\n\n9. Field Beans of the last year but one. 50. 8\n\n10. Wheaten Meal, (unsifted.) 31. 0\n\n11. Rye Meal unsifted. 28. 4\n\n12. Pump Water 62. 8\n\n13. Bay Salt. 54. 1\n\n14. White Sea Salt. 43. 12\n\n15. Sand. 85. 4\n\n16. New-Castle Coal. 67. 12\n\n17. Pit-Coal from Wednesbury 63, but this is very uncertain in the filling the interstices betwixt the greater pieces. 63. 0\n\n18. Gravell 109. 5\n\n19. Wood-Ashes. 58. 5",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102131.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 583,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1459,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102131",
+    "title": "Of the Weight of a Cubic Foot of Diuers Grains, etc. Try'din a Vessel of Wel Season'd Oak, Whose Concaue was an Exact Cubic Foot. By the Direction of the Philosophicall Society of Oxford",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102131"
+  }
+}

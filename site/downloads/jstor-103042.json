@@ -1,0 +1,269 @@
+{
+  "id": "8afacc0c84604b96de981dc77323062660770315",
+  "text": "II. Joannis Keill M.D. & in Academia Oxoniensi Astronomia Professoris Savilianii, Observationes in ea qua editit Celeberrimus Geometra Johannes Bernoulli in Commentariis Physico Mathematicis Parisiensiibus Anno 1710. de inverso Problemate Virium Centripetarum. Et ejusdem Problematis solutio nova.\n\nObilissimum est problema Datâ lege Vis centripetæ invenire Curvam quam describit Mobile, de loco dato, secundum datam rectam, & cum data velocitate egrediens Concessis figurarum curvilinarum quadraturis, ejus solutionem perfectam olim dedit Dominus Newtonus in Principiis Philosophiae Mathematicis. Hoc ipsum Problema denuo aggressus est vir clarissimus & Geometra celeberrimus Dominus Johannes Bernoulli in Academia Basiliensi Matheaeos Professor*, qui non pauca eaque egregia ingenii sui specimina jam pridem edidit, quibus Geometriam reconditiorem non parum ditavit. Unde a tanti viri acumine novam pulchramque Problematis solvendi methodum expectabam. Gestiebam itaque solutionem Bernoullianam perlegere, & cum Newtoniana comparare; quibus tandem diligentius perfectis & examinatis, hæc quæ sequuntur annotavi.\n\nDominus Bernoulli eandem praemittit propositionem quam Newtonus problemati demonstrando prius adhibuit: estque ea in Principiis XL, non minus pulchra quam demonstratu facilis. Scil.\n\nSi corpus cogente vi quacunque centripeta moveatur utcunque, & corpus aliud recta ascendant vel descendat, sintque eorum velocitates, in aliquo æqualium altitudinum casu, æquales; velocitates eorum in omnibus æqualibus altitudinibus erunt æquales.\n\n* Vide Commentarios Physico-mathematicos Parisienses Anno 1710.\nHujus propositionis Demonstrationem Newtonianam ait Bernoullius esse nimis implicatam, & suam, quam simpliciorem vocat, ejus loco substituit. At pace tanti viri licet mihi dicere, si quid discriminis sit inter demonstrationem Bernoullianam & Newtonianam, id in eo situm est, quod hæc multo facilius esse videtur minusque perplexa quam illa. Fig. I. Nam si centro C describantur circuli DI, EK, quorum intervallum DE est quam minimum, sintque corporum in D & I velocitates æquales, & ab N ad IK demittatur perpendiculum NT, fusé ostendit Newtonus vim acceleratricem secundum DE, esse ad vim acceleratricem secundum IK ut IN ad IT. Nimium si vis secundum DE vel IN exponatur per rectas DE vel IN, vis illa secundum IN resolvitur in duas TI, TN, quarum illa solum quæ est ut TI motum secundum directionem IK accelerat: accelerationes autem seu velocitatum incrementa sunt ut vires & tempora quibus generantur conjunctim. At tempora ob æquales velocitates in D & I, sunt ut viæ descriptæ DE, IK; quare accelerationes in decursu corporum per lineas DE & IK, sunt ut DE ad IT & DE ad IK conjunctim; i.e. ut DE quad. quod est IN quad. ad rectang. IT × IK adeoque ob IN quad. = IT × IK, incrementa velocitatum sunt æqualia: æquales igitur sunt velocitates in E & K, & eodem argumento semper reperientur æquales in æqualibus distantiis. Hæc est summa demonstrationis Newtoni quam dilucide ab eo exponitur, ut inter propositiones elementares paucas faciliores invenies. At non sic procedit Dominus Bernoullius, sed illi sufficit dicere, Mechanicam ostendere vim secundum DE esse ad vim secundum IK, ut IK ad DE. Mechanicam etiam ostendere incrementa velocitatum esse in ratione virium & temporum conjunctim; & initio motus positis velocitatibus æqualibus tempora sunt ut viæ descriptæ DE, IK; &-hinc, (argumento propterea simili ei quo utitur Newtonus) concludit incrementum velocitatis, quod acquirit corpus dum describit IK, esse ad incrementum velocitatis dum describitur DE, ut DE × IK ad IK × DE, & proinde velocitatum incrementa ubique in distantiis æqualibus esse æqualia.\n\nAt.\nAt si Tyronibus facilem voluisse tradere demonstrationem, debuisse Propositionem Mechanicam citare, eamque ad praesentem casum accommodare. Et quidem pluribus verbis opus est, ut hoc fiat per theorema quod innuere videtur, in quo agitur de descentu Gravium in planis inclinatis: nullum enim est hic Planum datum, quod recto corporum descensui obstat; immo tantum abest ut corpus à plano cohibeatur, ut è contra à Plano seu Tangente per vim quandam continuo rethahitur. Proculdubio igitur manifesta magis foret ejus ratiocinii vis, si demissis Mechanicæ propositionibus, rem omnem ex propriis principiis demonstrasset, uti fecit Newtonus. Nam resolvendo triang. rectang. \\( KNI \\) in duo triangula æquiangula, est \\( KI \\) ad \\( IN \\) ut \\( IN \\) ad \\( IT \\), adeoque loco rationis \\( IN \\) ad \\( IT \\) ponere potuisse rationem \\( KI \\) ad \\( IN \\) vel ad \\( DE \\).\n\nSi de loco quovis \\( A \\) in recta \\( AC \\) cadat corpus, deque loco ejus \\( E \\) erigatur semper perpendicularis \\( EG \\) vi centripetæ proportionalis, sitque \\( BFG \\) linea curva quam punctum \\( G \\) perpetuo tangit; demonstrat Newtonus velocitatem corporis in loco quovis \\( E \\) esse ut Area curvilineæ \\( ABGE \\) latus quadratum. Adeoque si velocitas dicitur \\( v \\), erit \\( v^2 \\) ut Area \\( ABGE \\); & si \\( P \\) sit altitudo maxima, ad quam corpus in Trajectoria revolvens, deque quovis ejus puncto eà quam ibi habet velocitate sursum projectum ascendere possit: sitque quantitas \\( A \\) distantia corporis à centro, in alio quovis orbitæ puncto; & vis centripeta sit semper ut ipsius \\( A \\) dignitas quælibet, scil. ut \\( A^{n-1} \\), Velocitas corporis in omni altitudine \\( A \\) erit ut \\( \\sqrt{nP^n - nA^n} \\).\n\nSimiliter Dominus Bernoullius ostendit, si distantia à centro dicatur \\( x \\), velocitas \\( v \\) & vis centripeta \\( \\varphi \\), essè \\( v = \\sqrt{ab - \\varphi x} \\) ubi ex Quadraturis constat esse Area \\( ABGE = ab - \\varphi x \\). Perinde itaque est sive exprimatur quadratum velocitatis per Area \\( ABGE \\), sive per quantitatem huic æqualem \\( ab - \\varphi x \\). Et si vis centripeta \\( \\varphi \\) sit ut \\( nA^{n-1} \\) seu \\( n x^{n-1} \\), fit \\( ab = P^n \\) &\n\n---\n\n2 Vide prop. 39. & 40. Principiorum.\n\\( \\varphi x = A^n \\), adeoque \\( ab - \\varphi \\dot{x} \\) est ut quantitas \\( P^n - A^n \\).\n\nDescribat corpus Curvam \\( VK \\), vi centripeta tendente ad \\( C \\), deturque circulus \\( VXT \\), centro \\( C \\) intervallo quovis \\( CV \\) descriptus. \\( Q \\) sit quantitas constans, atque \\( \\frac{Q}{A} = z \\). Sitque \\( KI \\) elementum Curvae; \\( IN \\) vel \\( DE \\) elementum altitudinis, \\( XT \\) elementum arcus: demonstrat Newtonus Elementum arcus seu \\( XY \\) exprimi posse per hanc formulam\n\n\\[\n\\frac{Q \\times IN \\times CX}{AA \\sqrt{ABGE} - z^2}\n\\]\n\nSimiliter ex praemissis Dominus Bernoullius, positio Arcu \\( UX = z \\), & altitudine seu distantia \\( = x \\), elementum arcus ad hanc reducit formulam scil. \\( z = \\frac{a^2 c \\dot{x}}{\\sqrt{abx^4 - x^4 \\varphi \\dot{x} - a^2 c^2 x^2}} \\)\n\nEt primo quidem aspectu videbatur formula Newtoniana quodammodo simplicior Bernoullianâ, eo quod paucioribus constat terminis; at re diligentius explorata, vidi Bernoullianam formulam omnino cum Newtoniana coincidere; nec nisi in notatione quantitatum ab ea differre. Nam si pro \\( ab - \\varphi \\dot{x} \\) ponatur \\( ABGE \\), pro \\( ac \\) ponatur \\( Q \\), & \\( x \\) pro \\( A \\), \\( a \\) pro \\( CX \\), & \\( \\dot{x} \\) pro \\( IN \\), fit\n\n\\[\n\\frac{a^2 c \\dot{x}}{\\sqrt{abx^4 - x^4 \\varphi \\dot{x} - a^2 c^2 x^2}} = \\frac{Q \\times CX \\times IN}{\\sqrt{A^4 \\times ABGE - Q^2 A^4}}\n\\]\n\n\\[\n\\frac{Q \\times CX \\times IN}{AA \\sqrt{ABGE} - Q^2} \\text{ seu ponendo } z^2 \\text{ loco } \\frac{Q^2}{A^2}, \\text{(quod facit Newtonus commodioris notationis gratia,) Formula Bernoulliana evadit }\n\\]\n\n\\[\n\\frac{Q \\times CX \\times IN}{A^2 \\sqrt{ABGE} - z^2}\n\\]\n\nunde constat formulam illam non magis à Newtoniana discrepare, quam verba Latinis literis expressa differunt ab iisdem verbis scriptis in Graecis characteribus.\n\nPost traditam generalem formulam; descendit Dominus Bernoullius ad casum particularem, ubi vis centripeta est reciprocè.\nprocè ut quadratum distantiae; & per varias reductiones & operationes satis molestas, constructionem ostendit Curvarum quae urgente eâ vi centripeta describi possunt, easque ad æquationes reducendo probat esse Sectiones Conicas. Deinde queritur Dominum Newtonum supponere sine demonstratione Curvas à tali vi descriptas esse Sectiones Conicas.\n\nImpossibile est ut credat nullam Newtono notam fuisse hujus rei demonstrationem; Noverit enim eum primum & locum fuisse qui hanc omnem de vi centripeta doctrinam geometricè tractavit, quique eam ad tantam perfectionem perduxit, ut post plures quam viginti annos, parum admodum à praestantissimis Geometris ei additum sit. Noverit etiam Bernoullius Newtonum, praeter generalem problematis inversi solutionem, ostendisse modum quo formari possunt Curvae, quae vi centripeta decrescente in triplicata distantiae ratione describuntur, adeoque alterum illum casum ignorare non potuisse. Nec profecto intelligo qua ratione Bernoullius Newtono objiciat, eum hujus caus demonstrationem prætermisisse; cum ipse non pauca sèpius proposuit Theoremata, quorum demonstrationes nusquam dedit; & quidni liceat Newtono ad alia festinantì hoc idem facere. Interim in nova Principiorum Editione, facilitior multò & magis clara, licet tribus verbis, extat hujus rei demonstratio, quam est Bernoulliana.\n\nTandem Bernoullius ut necessitatem suae demonstrationis inversi Problematis in hoc particulari casu ostendat, hæc addit. Considerandum est, inquit, quod vis quæ facit ut corpus in Spirali Logarithmica moveatur, debet esse reciproce ut cubus distantiae à centro; at non inde sequitur talibus viribus semper describi debere tales Curvas, cum similes etiam vires facere possunt ut corpus in Spirali Hyperbolica moveatur.\n\nMiror sane quod Vir Cl. fulpicetur Newtonum talem unquam duxisse consequentiam. Nam praeter Spiralém logarithmicam, ostendit Newtonus qua ratione aliæ Curvae, numero infinitae & diversæ, formari possunt, quae omnes describantur eadem vi centripeta qua Spiralis Logarithmica; interque eas reponi debet hæc ipsa Spiralis Hyperbolica, ut in sequentibus ostendemus.\n\nExinde\nExinde autem concludit Newtonus Sectiones tantum Conicarum necessario describi debere per vim centripetam quadrato distantiæ reciprocè proportionali: Nempe quod Curvatura orbitæ cujuscunque ex datis velocitate, vi centripeta & positio Tangentis datur; datis autem umbelico, puncto contactus & positio tangentis, semper describi possit Sectio Conica quae curvaturam illam datam habeat. Hoc ame ostensum est in Actis Philosophicis Londinensis Anno 1708. In hac igitur Sectione, urgente illa vi corpus movebitur, & in nulla alia; cum corpus de eodem loco, secundum eandem directionem, eadem cum velocitate, urgente eadem vi centripeta exiens, non possit diversas semitas describere.\n\nLicet jam mihi Dominum Bernoullium imitari, & inversum de vi centripeta problema longe diversa methodo resolvere, & ad casum particularem applicare; ubi scil. vis est reciprocè ut cubus distantiæ, simulque ostendere demonstrationem Cor. 3. prop. 41. Principiorum Newtoni.\n\nQuod ut fiat, quædam ex iis quæ in Actis Philosophicis No. 317. exposui hic præmittenda sunt. Fig. II.\n\nSit VIL Curva quævis, quam corpus urgente vi centripeta ad centrum C tendente describit: hanc Curvam in duobus punctis infinitè vicinis I & K tangant rectæ IP, KP, ad quas e centro demittantur perpendiculares CP, CF; centro item C describantur KE, ID, & ducatur CI.\n\nErit vis centripeta ut Quantitas $\\frac{PP}{PC^3 \\times IN}$ Quod Theorema licet in prædicto loco demonstravimus, ecce aliam ejus demonstrationem. Ex K ducantur Km ad CP & Kn ad CI parallelæ. Et ob æquiangula triangula IC P, IK N, n K m, Item que ob IK m & IpP æquiangula. Erit,\n\n$$\\frac{IP}{PC} : \\frac{IK}{IN} :: \\frac{PP}{Km} : \\frac{PP}{mn}$$\n\n$$\\frac{IN}{IK} :: \\frac{mn}{nK}$$\n\nunde ex æquo fiet $$\\frac{PC \\times IN}{IK^2} :: \\frac{PP}{nK}$$ & erit $$nK = \\frac{PP \\times IK^2}{PC \\times IN}.$$ Præterea tempus quo describitur arcus IK est ut Area\nArea seu triangulum $IK$, vel ejus duplum $PC \\times IK$; adeoque si tempus detur erit $PC \\times IK$ quantitas constans. Dato autem tempore, vis centripeta est ut lineola $Kn$ quae sub urgente vi illa describitur, adeoque vis centripeta est ut lineola illa $Kn$ ducta in quantitatem constantem $\\frac{1}{PC^2 \\times IK^2}$, hoc est,\n\nerit vis centripeta ut $\\frac{PP}{PC^2 \\times IK^2} \\times \\frac{IK^2}{PC \\times IN}$ seu ut quantitas\n\n$\\frac{PP}{PC^i \\times IN}$. Quod erat demonstrandum.\n\nVelocitas corporis in quovis loco est ut via in minimo quovis tempore percursa directe & ut tempus illud inversè; adeoque & ut $IK \\times \\frac{1}{PC \\times IK}$, hoc est, velocitas erit reciproce ut Perpendicularis è centro in Tangentem.\n\nSi distantia corporis à centro dicatur $x$, & Perpendicularis in tangentem $p$, erit $IN = \\dot{x}$ & $PP = \\dot{p}$ & vis centripeta exponi potest per quantitatem $\\frac{f^4}{p^3 x}$, assumendo quantitatem quamlibet prof.\n\nAdeoque si cum Domino Bernoullio vim centripetam nominemus $\\varphi$, erit $\\frac{f^4 \\dot{p}}{p^3 x} = \\varphi$ & $\\frac{f^4 \\dot{p}}{p^3} = \\dot{x} \\varphi$; & capiendo harum quantitatum fluentes erit $\\frac{f^4}{2p^2} = \\text{Fluenti quantitatis } \\dot{x} \\varphi$\n\nAt cum velocitas corporis sit reciproce ut perpendicularis $p$, ejus quadratum exponi potest per $\\frac{f^4}{2p^2}$. Si itaque velocitas dicatur $v$, erit $v^2 = \\frac{f^4}{2p^2} = \\text{Fluenti quantitatis } \\dot{x} \\varphi$. Quod si $A$ sit locus de quo cadere debet corpus ut acquirat in $D$ vel $I$ veloci-\nvelocitatem \\( v \\), deque loco corporis \\( D \\) erigatur perpendicularis \\( DF = \\phi \\) erit rectangulum \\( DE \\times DF = x \\phi \\). Sit jam \\( BFG \\) linea curva cujus ordinatæ exponant vires centripetas, seu quantitates \\( \\phi \\). Fluens quantitatis \\( x \\phi \\) erit Area curvilinea \\( ABFD = v^2 = \\frac{f^4}{2p^2} \\), adeoque erit \\( v \\) ut Areæ \\( ABFD \\) latus quadratum. Quod si velocitas ea sit quæ ab infinita distantia cadendo acquiritur, erit \\( v^2 \\) seu fluens ipsius \\( x \\phi \\) æquale areæ \\( ODFO \\) indefinitè protensa.\n\nHinc semper dabitur quantitas \\( p \\) in terminis finitis, quando Area illa curvilinea terminis finitis exponi potest. Sit, verbi gratia, vis centripeta reciproce ut distantiae dignitas \\( m \\), hoc est, sit \\( x \\phi = \\frac{\\varepsilon}{x^m} \\). Si velocitas corporis sit ea quæ acquiritur cadendo ab infinita distantia, erit \\( v^2 = \\frac{\\varepsilon}{m-1 \\times x^{m-1}} = \\frac{f^4}{2p^2} \\) & in hisce omnibus casibus Area indefinitè protensa est quantitas finita. Potest autem corpus in trajectionia revolvi velocitate cujus quadratum vel majus fieri potest, vel minus quantitate \\( \\frac{\\varepsilon}{m-1 \\times x^{m-1}} \\), vel huic æquale. Adeoque erit \\( v^2 = \\frac{f^4}{2p^2} = \\frac{\\varepsilon}{m-1 \\times x^{m-1}} + e^2 \\).\n\nHinc urgentibus his viribus, tria Curvarum genera describi possunt; prout \\( e^2 \\) est quantitas positiva vel negativa vel nulla.\n\nV.G. Si Velocitas major sit ea quæ acquiritur ab infinita distantia cadendo, fit \\( \\frac{f^4}{2p^2} = \\frac{\\varepsilon}{m-1 \\times x^{m-1}} + e^2 \\); si velocitas sit minor erit \\( \\frac{f^4}{2p^2} = \\frac{\\varepsilon}{m-1 \\times x^{m-1}} - e^2 \\); si æqualis, erit \\( \\frac{f^4}{2p^2} = \\frac{\\varepsilon}{m-1 \\times x^{m-1}} \\)\n\nSit\nSit \\( \\frac{1}{2} f^4 = a^2 e^2 \\) & \\( \\frac{1}{m-1} \\times g = b^2 e^2 \\). Et si velocitas corporis sit ea qua ab infinito cadendo acquiritur, crit \\( p^2 = \\frac{a^2 x^{m-1}}{b^2} \\)\n\nsive \\( p = \\frac{a x^{m-1}}{b} \\).\n\nAt si velocitas major sit aut minor hac velocitate, fieri uti ostensum est \\( \\frac{f^4}{2p^2} = \\frac{g}{m-1 x^{m-1}} + e^2 = \\frac{1}{m-1} \\cdot \\frac{e^2 x^{m-1}}{x^{m-1}} \\). Unde pro \\( \\frac{1}{2} f^4 \\) & \\( \\frac{g}{m-1} \\) ponendo earum valores \\( a^2 e^2 \\) & \\( b^2 e^2 \\), crit\n\n\\( \\frac{a^2 e^2}{p^2} = \\frac{b^2 e^2 + c^2 x^{m-1}}{x^{m-1}} \\) sive \\( \\frac{a^2}{p^2} = \\frac{b^2 + c^2 x^{m-1}}{x^{m-1}} \\), & fieri \\( p^2 = \\frac{a^2 x^{m-1}}{b^2 + c^2 x^{m-1}} \\).\n\nAdeoque si Vis centripeta sit reciprocè ut cubus distantiae, hoc est, si sit \\( m = 3 \\) & \\( m - 1 = 2 \\). Erit \\( p^2 = \\frac{a^2 x^2}{b^2} \\), vel \\( p^2 = \\frac{a^2 x^2}{b^2 + x^2} \\), vel denique \\( p^2 = \\frac{a^2 x^2}{b^2 - x^2} \\).\n\nIn primo casu constat Curvam esse Spiralem Logarithmicam: nam fit \\( p = \\frac{a x}{b} \\), & \\( b : a :: x : p \\). adeoque ob constantem rationem \\( b \\) ad \\( a \\), erit angulus \\( CIP \\) ubique constans.\n\nFonamus jam esse \\( p^2 = \\frac{a^2 x^2}{b^2 + x^2} \\) & ex hac suppositione tris oriuntur diversae Curvarum species, prout \\( a \\) major est quam \\( b \\), aut ei æqualis, aut minor. Fig. III.\n\nEt primo sit \\( a \\) major quam \\( b \\). Centro \\( C \\) & ad distantiam quamvis datam describatur circulus \\( HTX \\), cui rectæ \\( CK, CI \\) productæ occurrant in \\( T \\) & \\( X \\). Et est \\( IN^2 : KN^2 :: IP^2 : PC^2 \\) & ita\n& ita \\( CI^2 - PC^2 : PC^2 :: x^2 - p^2 : p^2 :: x^2 - \\frac{a^2}{b^2 + x^2} \\)\n\n\\[\n\\frac{a^2}{b^2 + x^2} :: 1 - \\frac{a^2}{b^2 + x^2} : \\frac{a^2}{b^2 + x^2} :: b^2 + x^2 - a^2 : a^2.\n\\]\n\nQuare erit \\( \\sqrt{x^2 + b^2 - a^2} : a :: IN : KN : \\dot{x} : \\frac{a \\dot{x}}{\\sqrt{x^2 + b^2 - a^2}} = KN \\). Et quoniam est \\( a \\) major quam \\( b \\), erit \\( b^2 - a^2 \\) quantitas negativa. Sit illa \\( -c^2 \\), unde fit \\( KN = \\frac{a \\dot{x}}{\\sqrt{x^2 - c^2}} \\). Dicatur radius circuli \\( HT h \\), & est \\( CK : KN :: CY : YX \\) hoc est \\( x : \\frac{a \\dot{x}}{\\sqrt{x^2 - c^2}} :: b : \\frac{ba \\dot{x}}{x \\sqrt{x^2 - c^2}} = YX = y \\), si arcus \\( HT \\) vocetur \\( y \\).\n\nSit \\( x = \\frac{c^2}{z} \\) unde \\( \\dot{x} = -\\frac{c^2 \\dot{z}}{z^2} \\) & \\( \\ddot{x} = -\\frac{\\dot{z}}{z} \\). Item erit \\( x^2 - c^2 = \\frac{c^4}{z^2} - c^2 = \\frac{c^4 - c^2 z^2}{z^2} = \\frac{c^2}{z^2} \\times c^2 - z^2 \\): unde \\( \\sqrt{x^2 - c^2} = \\frac{c}{z} \\times \\sqrt{c^2 - z^2} \\): quibus valoribus substitutis, erit \\( \\frac{ba \\dot{x}}{x \\sqrt{x^2 - c^2}} = -\\frac{ba \\dot{z}}{c \\sqrt{c^2 - z^2}} \\).\n\nSit \\( a : c :: n : 1 \\). hoc est, sit \\( a = nc \\), & fiet \\( XY \\) seu \\( y = -\\frac{n b \\dot{z}}{\\sqrt{c^2 - z^2}} \\). Est vero \\( \\frac{n b \\dot{z}}{\\sqrt{c^2 - z^2}} \\) ad \\( \\frac{c \\dot{z}}{\\sqrt{c^2 - z^2}} \\) ut \\( n b \\) ad \\( c \\); hoc est in ratione data: adeoque eorum fluentes, si simul incepiunt, erunt in eadem ratione, hoc est erit \\( HT \\) seu \\( y \\) ad fluxentem quantitatis \\( \\frac{c \\dot{z}}{\\sqrt{c^2 - z^2}} \\) ut \\( n b \\) ad \\( c \\).\n\nQuod si centro \\( C \\) radio \\( CV = c \\) describatur circulus \\( VL \\), & \\( CG \\) sit \\( = z \\), & \\( n o = \\dot{z} \\), fiet arcus \\( mn = \\frac{c z}{\\sqrt{c^2 - z^2}} = \\text{fluxioni arcus } Qm \\), quando fluxio est quantitas positiva: sed quando est negativa\ntiva, ejus fluens est arcus \\( Vm \\) prioris complementum. Arcus enim ejusque complementum eandem habent quantitatem fluxionem denotantem, diversis tantum signis affectam; quia crescente uno decrecet alter.\n\nHinc est \\( HT \\) ad \\( Vm \\) ut \\( n \\) ad \\( c \\); sed est \\( CV \\) ad \\( CH \\) ut \\( Ve \\) : \\( HT \\), hoc est \\( c : b :: Ve : \\frac{b \\times Ve}{c} = HT \\), quare erit \\( \\frac{b \\times Ve}{c} : Vm :: nb : c \\), unde \\( Ve : Vm :: n : 1 \\).\n\nPræterea ex natura circuli erit \\( CG : CV :: CV : CT \\), quando \\( mT \\) circulum tangit: hoc est erit \\( z : c :: c : \\frac{c^2}{z} = CT = x \\). Hinc si capiatur angulus \\( VCe \\) ad angulum \\( VCe \\) ut \\( n \\) ad \\( r \\), & producatur \\( Ce \\) ad \\( K \\) ut sit \\( CK = secanti CT \\), erit \\( K \\) punctum in Curva quaestà.\n\nHic obiter notandum est, si \\( n \\) sit numerus, hoc est, si sit \\( a \\) ad \\( c \\) vel \\( a \\) ad \\( \\sqrt{a^2 - b^2} \\) ut numerus ad numerum, Curva \\( VI \\) fiet Algebraica: nam in hoc casu relatio \\( mG \\) ad sinum anguli \\( VCe \\) æquatione definitur, & inde habebitur relatio sinus anguli \\( VCe \\) ad \\( CT \\) vel \\( CK \\) per æquationem determinatam, & inde demum dabitur æquatio quæ exprimet relationem inter ordinatam & interceptam à puncto \\( C \\) incipientem. Harum Curvarum ordines & gradus in Scala æquationum Algebraica diversi erunt pro magnitudine numeri \\( n \\). In his omnibus Curvis sic descriptis Asymptoti positio hac ratione determinatur: Fiat angulus \\( VCL \\) ad rectum angulum ut \\( n \\) ad \\( r \\). In eo angulo distantia corporis à centro evadit infinita. Jam quad. perpendicularis in Tangentem \\( PC = \\frac{a^2 x^2}{b^2 + x^2} \\), ubi \\( x \\) est infinita, fit \\( PC = \\frac{a^2 x^2}{x^2} \\), seu \\( PC = a \\). Ducatur itaque \\( CR \\) ad \\( CL \\) perpendicularis & æqualis rectæ \\( a \\), & si per \\( R \\) ducatur \\( RS \\) rectæ \\( CL \\) parallela, hæc Curvam tanget ad infinitam distantiam, seu erit Curvae Asymptotos.\n\nSi corpus in quavis harum Curvarum descendendo, ad Apsidem imam pervenerit; Hinc rursus ascendet in infinitum,\n& aliam Curvam priori similem, seu potius ejusdem Curvae similem portionem, ascendendo describet.\n\nCurvae haec possunt pluribus revolutionibus circa centrum torqueri, priusquam ad Asymptoton convergere incipient, & motus angularis rectae CK erit æqualis totidem rectis quot numerus n constat Unitatibus. v.g. si n sit 100, perficientur viginti quinque integræ revolutiones priusquam distantia à centro evadat infinita.\n\nAucto numero n, eadem manente a, minuitur c: est enim\n\n\\[ \\frac{a}{n} = c^2 = a^2 - b^2, \\]\n\nunde fiet \\( n^2 - 1 \\times a^2 = n^2 b^2 \\). Et proinde fiet \\( a^2 : b^2 :: n^2 : n^2 - 1 \\); adeoque si \\( b^2 \\) ad æqualitatem accedat ipsius \\( a^2 \\), perveniet quoque \\( n^2 - 1 \\) ad rationem æqualitatis cum \\( n^2 \\), & proinde augebitur \\( n \\) & in eadem ratione minuetur \\( c \\). Ponatur itaque esse \\( b^2 \\) fere æquale ipsi \\( a^2 \\); adeo ut cum differentia sit infinite parva, fiat \\( n \\) numerus infinite magnus, & radius circuli \\( c \\) sit infinite parvus, seu circulus in suum centrum contrahetur. At sic evanescente \\( c \\), non pariter evanescit \\( CT \\), si angulus \\( VC M \\) sit propemodum rectus: nam in omni circulo, etiam minimo, secans anguli recti est quantitas infinita. Curva itaque hæc, ob \\( n \\) numerum infinitum, infinitis numero revolutionibus centrum ambibit, priusquam ad Asymptoton convergere incipiat.\n\nEvanescente autem \\( c \\) fit \\( b = a \\) & \\( p = \\frac{a \\cdot x}{\\sqrt{x^2 + a^2}} \\). Et quoni- am in omni casu est \\( y = \\frac{b \\cdot a \\cdot x}{x \\sqrt{x^2 + a^2}} \\), evanescente \\( c \\) fit \\( y = \\frac{b \\cdot a \\cdot x}{x^2} \\), unde capiendo Fluentes fit \\( y = \\frac{b \\cdot a}{x} \\) seu \\( xy = b \\cdot a = datae quantitati. Fig. IV.\n\nHæc Curva est Spiralis Hyperbolica, quæ plures habet notabiles proprietates. Si ducatur radius quilibet \\( C IT \\) Curvae occurrens in \\( I \\), & peripheriæ circuli in \\( T \\), & ex \\( C \\) ad \\( CI \\) excitetur perpen-\nperpendicularis \\(CT\\), atque \\(IT\\) tangat Curvam in \\(I\\), & rectae \\(CT\\) occurrat in \\(T\\): erit \\(CT\\) constans recta, æqualis scil. arcui \\(VE\\); qua proprietate Logarithmicam æmulatur, cum \\(CT\\) Curvae Subtangens dici possit. Sit enim Radius circuli \\(CE = b\\), arcus \\(VE = a\\), dicatur \\(CIx\\) & \\(VT\\) sit \\(y\\). Quia est \\(\\frac{ha}{x} = x \\times y\\) erit \\(\\frac{ha}{x^2} = y\\). Porro est \\(CT : CI :: LX : NK\\)\n\nhoc est \\(b : x :: \\frac{ha}{x^2} : NK\\): quæ proinde est \\(\\frac{ax}{x}\\). Et quoniam est \\(IN : NK :: CI : CT\\). hoc est \\(\\frac{ax}{x} :: x : CT\\), erit \\(CT = a\\).\n\nSi centro \\(C\\), intervalllo quovis \\(CG\\), describatur circuli arcus \\(GF\\), hic arcus inter rectam \\(CV\\) & curvam interceptus erit semper æqualis constanti rectae \\(CT\\) vel \\(a\\). Nam quoniam est \\(VL \\times CF = CV \\times VE\\), erit \\(VL : VE :: CV : CF :: VL : GF\\) unde æquantur \\(VE\\) & \\(GF\\). Si ad \\(CG\\) ex \\(C\\) excitetur normalis \\(CR = VE\\) vel \\(FG\\) vel \\(a\\), & per \\(R\\) agatur \\(RS\\) rectæ \\(CV\\) parallela, erit \\(RS\\) Curvae Asymptotos. Nam est recta \\(MS\\) æqualis arcui \\(GF\\), & proinde \\(FS\\) distantia Curvae ab \\(RS\\) est semper æqualis excessui quo arcus superat suum sinum: at cum distantia crescat in infinitum, excessus ille minuetur in infinitum, & fiet tandem data quavis recta minor, & proinde \\(RS\\) erit Curvae Asymptotos.\n\nSit jam \\(b\\) major quam \\(a\\); & similiter, ut in priore casu; invenietur \\(KN = \\frac{ax}{\\sqrt{x^2 + b^2 - a^2}}\\): at quoniam \\(b\\) superat \\(a\\), erit \\(c^2 = b^2 - a^2\\) quantitas positiva, & \\(KN\\) fiet \\(= \\frac{ax}{\\sqrt{x^2 + c^2}}\\) & ponendo radius circuli \\(HT = h\\), invenietur \\(XT = \\frac{ha}{x \\sqrt{x^2 + c^2}}\\). Ponatur \\(x = \\frac{c^2}{z}\\), & erit \\(x = \\frac{c^2}{z^2}\\) & \\(x = \\frac{z}{z}\\). Erit quoque \\(x^2 = \\frac{c^4}{z^2}\\) & \\(x^2 + c^2 = \\frac{c^4}{z^2} + c^2 = \\frac{c^4 + c^2 z^2}{z^2} = \\frac{c^2}{z^2} \\times c^2 + z^2\\): unde\n\\[ \\sqrt{x^2 + c^2} = \\frac{c}{z} \\times \\sqrt{c^2 + z^2}. \\] His itaque valoribus substitutis fit\n\n\\[ \\frac{h \\cdot \\dot{x}}{x \\sqrt{x^2 + c^2}} = -\\frac{h \\cdot \\dot{z}}{c \\sqrt{c^2 + z^2}} = -j. \\] Nam tale sumi potest initium arcus \\( HT \\), ut simul cum Fluente quantitatis \\( \\frac{h \\cdot \\dot{z}}{c \\sqrt{c^2 + z^2}} \\) crescat & decrecat. Fiat \\( nc = a \\) & erit \\( \\frac{n \\cdot h \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} = j, \\) &\n\n\\[ \\frac{\\frac{1}{2} n \\cdot h^2 \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} = \\frac{1}{2} hj = \\text{sectori } CXT. \\]\n\nEst autem \\( \\frac{\\frac{1}{2} n \\cdot h^2 \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} : \\frac{\\frac{1}{2} c^2 \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} :: nh^2 : c^2, \\) hoc est in data ratione. Adeoque erit sector \\( CXT \\) ad \\( \\frac{\\frac{1}{2} c^2 \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} \\) semper in data ratione. Harum itaque quantitatum fluentes erunt in eadem ratione, cum simul incipere ponantur. Fluens autem sectoris \\( CXT \\) est sector \\( CVT, \\) & fluens quantitatis \\( \\frac{\\frac{1}{2} c^2 \\cdot \\dot{z}}{\\sqrt{c^2 + z^2}} \\) est sector Hyperbolæ, quod sic ostenditur. Fig. V.\n\nCentro \\( C \\) semiaxe transverso \\( CV = c \\) describatur Hyperbola æquilateralis, & ex duobus punctis vicinis \\( D \\) & \\( F \\) ordinentur ad axem conjugatum rectæ \\( DB, EF; \\) ducantur item \\( CD, CF. \\) Et incrementum seu fluxio trianguli \\( BCD \\) æquale exit \\( BE \\times BD — \\text{sectore } DEF; \\) unde sector \\( DCF \\) (qui est Fluxio sectoris \\( CVD \\)) æqualis erit \\( BE \\times BD — \\text{incremento trianguli } BC D. \\)\n\nEt si \\( BC \\) dicatur \\( z, \\) ob Hyperbolam, est \\( BD^2 = BC^2 + CV^2 = z^2 + c^2; \\) unde \\( BD = \\sqrt{c^2 + z^2}, \\) & \\( BE \\times BD = z \\times \\sqrt{c^2 + z^2}. \\)\n\nTriangulum autem \\( BCD \\) est \\( \\frac{1}{2} z \\times \\sqrt{c^2 + z^2}, \\) cujus fluxio est\n\n\\[ \\frac{\\frac{1}{2} z \\times \\sqrt{c^2 + z^2}}{\\sqrt{c^2 + z^2}}. \\] Subtrahatur hæc quantitas ab \\( z \\times \\sqrt{c^2 + z^2}, \\) & restabit sector Hyperbolæ minimus \\( CD. \\)\n\\[ \\frac{1}{2} \\dot{z} \\times \\sqrt{c^2 + z^2} - \\frac{\\frac{1}{2} \\dot{z} \\times z^2}{\\sqrt{c^2 + z^2}} = \\frac{\\frac{1}{2} \\dot{z} \\times c^2 + z^2 - \\frac{1}{2} \\dot{z} \\times z^2}{\\sqrt{c^2 + z^2}} = \\frac{\\frac{1}{2} c^2 \\dot{z}}{\\sqrt{c^2 + z^2}}. \\]\n\nAdeoque fluens sectoris \\( CDF \\) est æqualis fluenti quantitatis \\( \\frac{\\frac{1}{2} c^2 \\dot{z}}{\\sqrt{c^2 + z^2}} \\). Proinde erit sector \\( CVD \\) fluens quantitatis \\( \\frac{\\frac{1}{2} c^2 \\dot{z}}{\\sqrt{c^2 + z^2}} \\). Præterea \\( DT \\) recta tangat Hyperbolam & occurrat Axi conjugato in \\( T \\). Est ex natura Hyperbolæ \\( BC : CV :: CV : CT \\), hoc est \\( z : c :: c : \\frac{c^2}{z} = CT = x \\). Atque hinc oritur constructio quæ sequitur. Fig. VI.\n\nCentro \\( C \\) semiaaxe transverso \\( CV \\), describatur Hyperbola æquilateralis \\( Vm \\), item circulus \\( Ve \\). Capiatur sector circularis \\( CVe \\) ad sectorem Hyperbolicam \\( CVm \\) ut \\( n \\) ad \\( 1 \\); tangat Hyperbolam in \\( m \\) recta \\( Tm \\), occurrens Axi conjugato in \\( T \\): producatur \\( Ce \\) ad \\( k \\) ut sit \\( Ck = CT \\), & punctum \\( k \\) erit in Curva quæsitâ. Nempe talis est ea Curva, ut si \\( Ck \\) dicatur \\( x \\), Perpendicularis à \\( C \\) in tangentem ejus demissa erit semper æqualis \\( \\frac{ax}{\\sqrt{b^2 + x^2}} \\).\n\nQuando \\( x \\) est infinita evanescit \\( b^2 - a^2 \\) infinite parva, tunc evanescet \\( c^2 \\), & quantitas \\( \\frac{ba}{x \\sqrt{x^2 + c^2}} \\) fit \\( \\frac{ba}{x^2} = j \\). Unde si capiantur harum quantitatum fluentes, habebimus \\( x = y \\), & \\( ba = xy \\), hoc est rectangulum sub arcu circulari & distantia Curvae à centro erit semper data quantitas; atque hac ratione migrabit curva in spiralem Hyperbolicam. Est itaque spiralis Hyperbolica Curva media seu quasi limes, inter eas Curvas quæ construuntur per sectores circularis & eas quæ construuntur per sectores Hyperbolicos. Itaque spiralis illa Hyperbolica conci-\nipi potest formari vel per sectorem Circuli aut Ellipsis, vel per sectorem Hyperbolae, cujus Axis transversus minuitur in infinitum, & in eadem ratione augetur numerus \\( n \\).\n\nAd eum jam devenimus casum ubi velocitas corporis minor est ea quae acquiritur cadendo ab infinita distantia, & ubi \\( p^2 = \\frac{a^2 x^2}{b^2 - x^2} \\). Et hic simili ratiocinio ac in priori casu, invenitur \\( KN = \\frac{a \\dot{x}}{\\sqrt{b^2 - a^2 - x^2}} \\), ubi necesse est ut sit \\( b^2 \\) majus quam \\( a^2 \\). Hinc si \\( b^2 - a^2 \\) dicatur \\( c^2 \\), sit \\( KN = \\frac{a \\dot{x}}{\\sqrt{c^2 - x^2}} \\); & proinde \\( XT \\) seu \\( y = \\frac{h a \\dot{x}}{x \\sqrt{c^2 - x^2}} \\);\n\nSit jam \\( x = \\frac{c^2}{z} \\), & fiet \\( \\dot{x} = - \\frac{\\dot{z}}{z} \\) seu \\( \\frac{h a \\dot{x}}{x} = - \\frac{h a z}{z} \\) & \\( c^2 - x^2 \\) erit \\( = \\frac{c^2}{z^2} \\times z^2 - c^2 \\), quibus valoribus substitutis fit \\( - \\frac{h a \\dot{x}}{c \\sqrt{z^2 - c^2}} = \\frac{b a \\dot{x}}{x \\sqrt{z^2 - c^2}} = - \\dot{y} \\). Nam tale ponendum est initium arcus \\( V X \\), ut simul cum fluente quantitatis \\( \\frac{h a \\dot{z}}{c \\sqrt{z^2 - c^2}} \\) incipiat: unde erit \\( \\frac{\\frac{1}{2} h^2 a \\dot{z}}{c \\sqrt{z^2 - c^2}} = \\frac{1}{2} h \\dot{y} = \\text{sectori} \\)\n\n\\( cXT = \\frac{\\frac{1}{2} n h^2 \\dot{z}}{\\sqrt{z^2 - c^2}} \\), ponendo \\( nc = a \\). Est vero \\( \\frac{\\frac{1}{2} n h^2 \\dot{z}}{\\sqrt{z^2 - c^2}} \\) ad \\( \\frac{\\frac{1}{2} c^2 \\dot{z}}{\\sqrt{z^2 - c^2}} \\) ut \\( n h^2 \\) ad \\( c^2 \\), hoc est in ratione constanti. Quare harum quantitatum Fluentes sunt in eadem ratione, hoc est Fluens quantitatis \\( \\frac{1}{2} h \\dot{y} \\) seu \\( \\frac{\\frac{1}{2} n h^2 \\dot{z}}{\\sqrt{c^2 - z^2}} \\) erit ad fluentem quantitatis \\( \\frac{\\frac{1}{2} c^2 \\dot{z}}{\\sqrt{z^2 - c^2}} \\) ut \\( n h^2 \\) ad \\( c^2 \\). Est autem fluens quantitatis\n\\[ \\frac{1}{2} h j = \\text{sectori } CVX, \\& \\text{Fluens quantitatis } \\frac{\\frac{1}{2} c^2 z}{\\sqrt{z^2 - c^2}} \\text{ est sector Hyperbolæ, quod sic ostenditur. Fig. VII.} \\]\n\nCentro \\( C \\) semiaxe transverso \\( CV = c \\) describatur Hyperbola æquilatera, \\& ex duobus punctis infinite vicinis \\( B \\& D \\) ad axem ordinentur duæ rectæ \\( BE, DF \\); ducantur item \\( CB, CD \\). Et erit Fluxio seu incrementum trianguli \\( CBE = \\text{triangulo } CBD + BE \\times EF \\); unde triangulum \\( CBD \\), seu sector minimus \\( CBD \\), erit = incremento trianguli \\( CBE - BE \\times EF \\). Dicatur \\( CE = z \\), \\& erit \\( BE = \\sqrt{z^2 - c^2} \\), \\& \\( BE \\times EF = z \\cdot \\sqrt{z^2 - c^2} \\). Est quoque triangulum \\( CBE = \\frac{1}{2} z \\cdot \\sqrt{z^2 - c^2} \\), cujus Fluxio est \\( \\frac{1}{2} z \\times \\sqrt{z^2 - c^2} + \\frac{1}{2} z \\times \\frac{z^2}{\\sqrt{z^2 - c^2}} \\); à quo si subtrahatur quantitas \\( \\frac{1}{2} z \\times \\sqrt{z^2 - c^2} \\), fit sector minimus \\( CBD = \\frac{1}{2} z \\times \\frac{z^2}{\\sqrt{z^2 - c^2}} - \\frac{1}{2} z \\times \\sqrt{z^2 - c^2} = \\frac{1}{2} z \\times \\frac{z^2}{\\sqrt{z^2 - c^2}} \\).\n\n\\[ \\frac{1}{2} c^2 z \\sqrt{z^2 - c^2} : \\text{unde constat sectorem } CBE \\text{ esse fluentem quantitatis } \\frac{\\frac{1}{2} c^2 z}{\\sqrt{z^2 - c^2}}. \\text{ Præterea si } BT \\text{ tangens Hyperbolam Axi transverso occurrat in } T, \\text{ ex natura Hyperbolæ fit } CE : CV :: CV : CT, \\text{ hoc est } z : c :: e : \\frac{c^2}{z} = CT = x. \\text{ Fig. VIII.} \\]\n\nHinc deducimus sequentem constructionem. Centro \\( C \\), semiaxe transverso \\( CV = c \\), describatur Hyperbola æquilatera \\( VB \\), \\& circulus \\( C \\& G \\) ex centro \\( C \\). Ad hyperbolam ducatur recta \\( CB \\), \\& hyperbolæ Tangens \\( BT \\) axi transverso occurrat in \\( T \\). Capiatur circuli sector \\( CVe \\), qui sit ad sectorem Hyperbolicum \\( CVB \\) ut \\( n \\) ad \\( r \\). In \\( C \\& e \\) capiatur \\( CK = CT \\), \\& erit \\( K \\) punctum in Curva quaesita, cujus perpendiculum è centro \\( C \\) ad Tangentem in \\( K \\) demissum, si \\( CK \\) dicatur \\( x \\), est æquale\n\n\\[ \\frac{ax}{\\sqrt{b^2 - x^2}}. \\]\nEt in hac Curva, urgente vi centripeta quae sit reciproce ut cubus distantiae, movebitur corpus, si secundum directionem Tangentis cum justa velocitate exeat. Qualis autem debeat esse velocitas quae faciat ut corpus harum Curvarum quamvis describat, sic invenietur.\n\nCum velocitas qua corpus in trajectionia quacunque movetur sit reciproce ut quantitas \\( p \\), assumendo constantem quamvis \\( a \\), ea semper exponi potest per \\( \\frac{a}{p} \\). Et si ad Axem \\( C V \\) ordinentur rectae quae sint reciproce ut cubi distantiarum à centro, seu ut vires centripetae, & hac ratione formetur Figura curvilinea, ejus Area indefinite extensa semper exponi potest per \\( \\frac{b^2}{x} \\), ut ex Quadraturis constat. At Area illa est ut quadratum velocitatis quae acquiritur ab infinita distantia cadendo, adeoque velocitas hoc casu acquisita erit ut \\( \\frac{b}{x} \\). Hinc si velocitas illa dicatur \\( y \\), & velocitas qua corpus in Trajectoria movetur dicatur \\( v \\), talesque assumantur quantitates \\( a \\) & \\( b \\), ut in una aliqua à centro distantia sit \\( y : v :: \\frac{b}{x} : \\frac{a}{p} \\), erit ubique in omnibus distantias \\( y : v :: \\frac{b}{x} \\cdot \\frac{a}{p} :: p : \\frac{a \\cdot x}{b} \\). Unde si \\( y = v \\), erit \\( p = \\frac{a \\cdot x}{b} \\), & Curva hac velocitate descripta erit Spiralis Nautica; vel Circulus existente \\( p = x \\) & \\( a = b \\).\n\nSi \\( y \\) sit major quam \\( v \\), tunc \\( p \\) major erit quam \\( \\frac{a \\cdot x}{b} \\); eritque illa, ut ex praecedentibus constat, \\( = \\frac{a \\cdot x}{\\sqrt{b^2 - x^2}} \\). Curva autem constructur per sectorem Hyperbolicum, ut in ultimo casu ostensum fuit, ubi distantia corporis à centro per concursum Tangentis Hyperbolae cum Axe transverso determinatur. Si\ny sit minor quam v, at in tantilla ratione ut maneat b major quam a, Curva formabitur per eundem sectorem hyperbolicum. At distantia corporis à centro delimitur ex concurso Tangentis cum Axe conjugato:\n\nSi sit \\( y : v :: p : x \\), erit in eo caso \\( a = b \\), & Curva evadit Spiralis Hyperbolica, ubi est \\( p = \\frac{a x}{\\sqrt{a^2 + x^2}} \\). Hinc si de loco quovis projiciatur corpus secundum datam rectam, cum ea velocitate quae sit ad velocitatem ab infinito cadendo acquisitam, ut distantia corporis à centro ad perpendicularem è centro ad lineam directionis demissam, movebitur illud corpus in Spirali Hyperbolica. Si denique sit v tantò major quam y, ut sit etiam a major quam b, Curva constuetur per Sectores Circulares. Atque hac ratione datâ velocitate semper determinari possit relatio quantitatum a & b, ac proinde Curva describetur in qua corpus cum illa velocitate movebitur: & vicissim data Curva, seu datis quantitatibus a & b, invenietur velocietas qua Curva illa describitur.\n\nOmnium Curvarum Areae (si circulum excipias) quae urgente hac vi centripetâ describi possunt, sunt perfecte quadrabiles.\n\nNam primo, in spirali Logarithmica, quia est \\( p = \\frac{a x}{b} \\), erit\n\n\\[ KN = \\frac{a x}{\\sqrt{b^2 - a^2}} = \\frac{a x}{c}, \\]\n\nponendo \\( b^2 - a^2 = c^2 \\); vid. Fig. II.\n\nadeoque erit triangulum \\( C K I = \\frac{\\frac{1}{2} a x}{c} \\); cujus Fluens est\n\n\\[ \\frac{a x^2}{4 c} = \\text{Areae Curvae}. \\]\n\nSi \\( p \\) sit \\( \\frac{a x}{\\sqrt{b^2 + x^2}} \\), & a major quam b, ostensum est esse \\( KN \\)\n\n\\[ = \\frac{a x}{\\sqrt{x^2 - c^2}}, \\]\n\nunde \\( KN \\times \\frac{1}{2} CI = \\frac{\\frac{1}{2} a x}{\\sqrt{x^2 - c^2}}, \\)\n\ncujus Fluens est\n\n\\[ \\frac{1}{2} a \\times \\sqrt{x^2 - c^2} = \\text{Areae Curvae}. \\]\n\nAt si a minor sit quam b, fit \\( KN = \\)\n\\[\n\\frac{ax}{\\sqrt{x^2 + c^2}}, \\text{ & } KN \\times \\frac{1}{2} CI = \\frac{\\frac{1}{2} ax}{\\sqrt{x^2 + c^2}}, \\text{ cujus Fluens est } \\frac{1}{2} a \\\\\n\\sqrt{x^2 + c^2} - Q = Areæ Curvæ. Ponatur \\(x = 0\\), & fier \\frac{1}{2} ac - Q = 0, \\text{ unde } Q = \\frac{1}{2} ac, \\text{ & Area Curvæ fit } = \\frac{1}{2} a \\sqrt{x^2 + c^2} - \\frac{1}{2} ac.\n\\]\n\nIn Spirali Hyperbolica evanescit quantitas \\(c\\), & Area Curvæ fit \\(\\frac{1}{2} ax\\).\n\nSi \\(p\\) sit \\(= \\frac{ax}{\\sqrt{b^2 - x^2}}\\), ostensum est esse \\(KN = \\frac{ax}{\\sqrt{b^2 - x^2}}\\), unde \\(\\frac{1}{2} CI \\times KN = \\frac{\\frac{1}{2} ax}{\\sqrt{c^2 - x^2}}\\), cujus fluens est \\(Q = \\frac{1}{2} ac\\sqrt{c^2 - x^2}\\) = Areæ. Fiat \\(x = 0\\), & crit \\(Q - \\frac{1}{2} ac = 0\\), seu \\(Q = \\frac{1}{2} ac\\); unde erit Area Curvæ semper æqualis \\(\\frac{1}{2} ac - \\frac{1}{2} ac\\sqrt{c^2 - x^2}\\). Fiat \\(c^2 - x^2 = 0\\) seu \\(c = x\\), & Area curvæ fit \\(\\frac{1}{2} ac\\). Unde si initium Areæ non capiatur ab initio ipsius \\(x\\), seu ubi \\(x\\) est \\(= 0\\), sed ubi \\(x = c\\) est maxima, hoc est si Area ab \\(V\\) incipiat; (vid. Fig. VII.) erit Area semper æqualis \\(\\frac{1}{2} ac\\sqrt{c^2 - x^2}\\).\n\nDe Areis quas describunt corpora radiis ad centrum ductis, urgente vi centripeta quæ sit reciproce ut distantiarum cubi, frequentia adnotavit Collega meus peritissimus Geometriæ Professor Halleius. Nempe si corpora diversos circulos vel diversas Spirales Hyperbolicas hac lege describunt; erunt areæ feæorum, tam in Circulis quam in Spiralibus illis omnibus, æqualibus temporibus descriptæ, semper æquales: Nam velocitates corporum in circulis motorum secundum hanc legem, debent esse radiis seu distantias reciproce proportionales, adeoque arcus simul percursi erunt quoque in eadem radiorum reciprocâ ratione, unde statim patebit sectores simul descriptos esse æquales.\n\nIn reliquis omnibus Curvis cum sit velocitas ad velocitaten. corporis in eadem distantia in circulo moti ut \\(\\frac{a}{b} \\times x\\) ad \\(p\\), (vide Fig. III.) seu ut \\(\\frac{a}{x} \\times IK\\) ad \\(KN\\); interea dum corpus in Trajecto-\nria percurrit lineolam $IK$, corpus aliud in circulo in eadem distantia motum percurret arcum $\\frac{b}{a} \\times KN$; & Area sectoris\n\nCirculi & Trajectoriae simul descriptae erunt $\\frac{b}{a} \\times KN \\times \\frac{1}{2} CN$\n\n& $KN \\times \\frac{1}{2} CN$, quae duæ Areæ sunt in ratione data, scil. ut $b$ ad $a$. Adeoque ubi est $a = b$, uti fit in Spirali Hyperbolica, Area sic descripta erit semper æqualis Areae sectoris circularis in æquali tempore descriptæ.\n\nNovember 24. 1713\n\nIII. Rules for correcting the usual Methods of computing Amounts and present Values, by Compound as well as Simple Interest; and of stating Interest Accounts. Offer'd to Consideration, by Thomas Watkins, Gent. F. R. S.\n\nI. Of Compound Interest.\n\nThe Supposition whereon the Method of computing by Compound Interest is founded; viz. That all Interest Money, Rents, &c. are or may be constantly receiv'd, and put out again at Interest, the Moment they become due, without any Charge, or Trouble, being impracticable; therefore all Computations by this Method (except of Fee-Simples or other Perpetuities) must needs be erroneous. Thus for Instance, the Amount of a Sum of Money, or Annuity, for want of Deductions out of the Profits, for the unavoidable Trouble, Charge, and Delay in the Management, will be too great: and for the same reason, the present value of a Sum of Money payable in any time to come, will be too little; also the present value of an Annuity (being only the Amount of the difference between the Annuity, and Interest of the said present value) will be too much. But in long terms of Years, as that difference becomes less so does the Error, as the term is greater.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103042.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 23,
+    "total-input-tokens": 35788,
+    "total-output-tokens": 15151,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1611,
+        3
+      ],
+      [
+        1611,
+        3686,
+        4
+      ],
+      [
+        3686,
+        5887,
+        5
+      ],
+      [
+        5887,
+        7801,
+        6
+      ],
+      [
+        7801,
+        9920,
+        7
+      ],
+      [
+        9920,
+        11800,
+        8
+      ],
+      [
+        11800,
+        13338,
+        9
+      ],
+      [
+        13338,
+        15095,
+        10
+      ],
+      [
+        15095,
+        16671,
+        11
+      ],
+      [
+        16671,
+        18488,
+        12
+      ],
+      [
+        18488,
+        20533,
+        13
+      ],
+      [
+        20533,
+        22464,
+        14
+      ],
+      [
+        22464,
+        24384,
+        15
+      ],
+      [
+        24384,
+        26381,
+        16
+      ],
+      [
+        26381,
+        28274,
+        17
+      ],
+      [
+        28274,
+        30093,
+        18
+      ],
+      [
+        30093,
+        32201,
+        19
+      ],
+      [
+        32201,
+        33937,
+        20
+      ],
+      [
+        33937,
+        35711,
+        21
+      ],
+      [
+        35711,
+        37779,
+        22
+      ],
+      [
+        37779,
+        39452,
+        23
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103042",
+    "title": "Joannis Keill M. D. & in Academia Oxoniensi Astronomiae Professoris Saviliani, Observationes in ea quae Edidit Celeberrimus Geometra Johannes Bernoulli in Commentariis Physico Mathematicis Parisiensibus Anno 1710. de inverso Problemate Virium Centripetarum. Et ejusdem Problematis Solutio Nova",
+    "authors": "Joannis Keill, Saviliani, Johannes Bernoulli",
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 23,
+    "jstor_url": "https://www.jstor.org/stable/103042"
+  }
+}

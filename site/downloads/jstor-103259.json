@@ -1,0 +1,59 @@
+{
+  "id": "b0ffdfedecda6df495e27f1501721725460d3667",
+  "text": "Advertisement.\n\nWhereas in the many various Papers which compose these Philosophical Transactions, there have happen'd Expressions, which some have thought Reflecting; the Readers are desired to look upon all such Expressions as proceeding only from the Writers of the Papers, without receiving any Authority from the Royal Society, who leave the publishing of these Transactions to their Secretary, and without being observed by the Publisher before they came abroad. And for preventing the like Reflections for the future, all Persons that are desirous of having their Papers inserted into these Transactions, are requested to transmit them free from such Expressions, as may give offence, or cause their Papers to be laid aside. Vid. p.157.158.\n\nLondon:\nPrinted for H. Clements, at the Half-Moon in St. Paul's Church-yard. MDCCIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103259.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 236,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        833,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103259",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1708,
+    "volume": "26",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103259"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "9921b4ee4a76134e631b42d00a5982f990237417",
+  "text": "ERRATA in Vol. XLV. of Philos. Transact.\n\nNo. 486, page 161, line 12, for Mur. read Margravius. p. 257,\nl. ult. for Schenzer read Scheuchzer.\nNo. 487, p. 320, Tit. VII. for Archdeacon read Dean.\nNo. 488, for p. 485, read 484, and for 484 read 485.\nNo. 489, p. 524, and in the Contents, Art. VIII. for Greschow,\nread Grischow.\nNo. 490, from p. 615 to 655, the Reader is desired to insert the\nNumbers of the Pages with a Pen. p. 615, to the Title prefix VI.\n\nN.B. To the Book-binder.\n\nThe Signatures go on regularly from A to Llll, an\nHalf-sheet ending with p. 614. and then follow\n9 Sheets mark'd with * to 9*, to the End.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104589.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 318,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        621,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104589",
+    "title": "Errata",
+    "authors": null,
+    "year": 1748,
+    "volume": "45",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104589"
+  }
+}

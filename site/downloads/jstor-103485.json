@@ -1,0 +1,59 @@
+{
+  "id": "9ef846ced253becd0246338ca69635d43aeef5a0",
+  "text": "Hic ipse autem fortior & crassior est, quam in homine, & exteriuss atque inferius humeri latus occupat.\n\nInter flexores cubiti biceps ejusdem est structuræ uti in homine.\n\nBrachialis vero interni origo sepe protendit ad capitulum usque humeri, & in suo progressu hic musculus totam humeri externam partem veluti fasciatim ambit, & eodem loco uti in homine inseritur.\n\nFlexores carpi adfunt tres; Extensores carpi tales sunt, quales in homine.\n\nExtensores digitorum sunt primò communis, qui in tres digitos priores inseritur ab humero ortus. Secundus cubito descendens, in ultimum & penultimum interritur.\n\nAdest & indicator f. extensor indicis.\n\nPronatores se habent uti in homine.\n\nEx supinatoribus longus brevior est brevi, cæterum ejusdem situs uti in homine.\n\nAliorum musculorum descriptiones reservamus in aliud tempus.\n\n---\n\n**Figurarum Explicatio.**\n\nFig. 5. A B. Gula, C D. Duodenum, E. Ventriculus.\nFig. 6. E H. Ilei portio, G. H. Coli portio, H F I. Coecum omnia magnitudine naturali.\nFig. 7. a Coli valvula, prorsus fere uti depingitur in homine, nisi quod fermè sit rhomboidalis; b Apertura Ilei in Colon.\nFig. 8. K. Portio Coeci, cujus ima pars est aperta versus Colon, ut Valvulae conniventes ramoae o o o in conspectum veniant.\n\n---\n\n**ERRATA.**\n\nPage 223, line 23, r. Fig. 2. ibid. lin. 31, r. Fig. 3.\n\nFINIS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103485.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 512,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1325,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103485",
+    "title": "Errata",
+    "authors": null,
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103485"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "565f2063513d876363bf7e772003c146b4fd8b83",
+  "text": "An Extract of a Letter of Dr. J. Wallis, to M. Hevelius, from Oxford, Decemb. 31. 1673. gratulatory for his Organographia; and particularly concerning Divisions by Diagonals, lately inserted in Mr. Hook's Animadversions on the first part of the Machina Coelestis of the Honourable Job. Hevelius; but so faultily there printed, that it was thought fit, at the Author's desire, in his Letter to the Publisher, of Januar. 4. 1674, to be here done more correctly.\n\nDuplii saltem nomine, (Clarissime Celeberrimèq; Vir,) gratias Tibi referendas habeo; meo scilicet, & totius Academiae; propior duo dono data Organographiae tuae nuper editae Exemplaria, Clarissimi Oldenburgii cura tradita. Quorum alterum, mibi destinatum, exosculatus; alterum Insignissimo Vice-Cancellario tradidi, in Bodleianà Bibliothecà (cum reliquis studiorum tuorum monumentis) reponendum. Qui suo propterea atq; Academia nomine grates rependi voluit: Mibiq; vices suas bac in re permisit.\n\nSed & est cur, communi omnium Litteratorum nomine, rebus praesertim Coeli- cìs addictòrum, reddam gratias; tum ob immensos in tanto apparatu sumptus erogatos, tam pretiosam conquirendo Supellestìlem Astronomicam, graphicè hic descriptam; tum ob indefessos labores, insomnes noctes dièsq; occupatisìsimos, Coelestibus acquirendis Observationibus impensos, quarum vim ingentem, Theatrum supra Aurum & Margaritas pretiosìum, Erudito Orbi jam ante dederis, plura daturus indies. Verum non est ut sperem, me verbis aquare posse tua merita; qui ex privato penù sumptus planè Regios erogàti; omnisq; suscepìti non infeliciter, Herculeis humeris (ne Atlanteis dicam) formidandum.\n\nOperis partem maximam jam evoluti; miratus inibi tantæ moles Instrumentorum ingeniosum regimen; & subtilissimam Divisionum administrationem; cum pari diligentia conjunctam in Regulis & Dioptris solicite curandis: Et quidem si hoc deefisset, reliquis in caffum cederet labor; quippe, exiguis & vix evitabilis in Regulis aut Dioptris error, totum Instrumentum vitiaret, omnìsq; inficeret Observationes.\n\nSed singulis immorari non licet. Unum tamen est quod attingam breviter; Nempe, Divisiones per lineas Diagonales, circulos in Limbo concentricos intersecantes. Hanc Dividendi methodum, jamdiu receptam, ipse retines; & quidem meritò; Circulòsq; hos concentricos, æqualibus intervallis disjunctos habes. Quod quamvis in exiguorum, aut etiam mediocrium, Instrumentorum Limbis latioribus, aliquid erroris posset inducere; in Tuis tamen tantæ amplitudinis, Instrumentis, cum limbis exiguae latitudinis, (quod & tu rectè mones,) nihil quicquam evit discriminis quod in senfus incurrevere posset.\n\nHac tamen occasionis liber hic subjicere quod eà de re jam olim (circa Annum 1650, aut 1651,) meditatus sum; atq; apud Adversaria mea jam reperio. Nempe; si quis velit minoris Instrumenti Limbum latiorcm lineis Diagonalibus sic dividere; quibus intervallis oporteat concentricos illos Circulos disponere, ut Angulos invicem æuales designarent illae circulorum cum transversali intersectione; calculo Trigonometrico determinare.\n\nDivisio\nDivisio Archis in Limbo Quadrantis (aliusve ejusmodi Instrumenti) per Circulos Concentricos, & Reclam Diagonalem.\n\nSit Latitudo Limbi (RL=) L. Radius circuli intimi (AK=) R; extimi (AZ=AL=) L+R=L; continentes Angulum (RAZ=) A; dividendum in partes quotlibet aequales (quarum numerus n,) Rectis a, b, c, &c. (quarum longitudo quaritur,) facientibus, ad RZ diagonalem, Angulos α, β, γ, &c. Adeoque RAa=n A, RAb=n A, RAc=n A, &c. Sitque ARZ=O, & AZR=V.\n\nDatis ergo Cruribus R, Z, cum Angulo contento A, (adeoque reliquorum summā O+V, inveniuntur reliqui, (O obtusus, V acutus:) Nam.\n\n\\[ Z + R \\cdot Z - R :: \\tan \\frac{o+v}{2} \\cdot \\tan \\frac{o-v}{2}. \\]\n\nEt \\( \\frac{o+v}{2} + \\frac{o-v}{2} = O. \\)\n\nDeinde; Cognitis Angulis O, & \\( \\frac{1}{n} A, \\) (adeoque reliquo α, (cum interjecto Latere R; habetur Latus a.\n\nNempe,\n\n\\[ \\sin \\alpha : R :: \\sin O : a. \\]\n\nEt, pari modo, ex cognitis\n\n\\[ \\begin{align*}\n\\sin \\beta : O_{\\frac{1}{n} A}, & \\text{b.} \\\\\n\\sin \\gamma : O_{\\frac{1}{n} A}, & \\text{c.} \\\\\n& \\text{&c.}\n\\end{align*} \\]\n\nPraxis.\n\nSit R=1. L=0, 2. Z=1, 2. A=10'. Ergo O+V=179°, 50'\n\nEt \\( \\frac{o+v}{2}=89°, 55'. \\) Tum\n\nUt Z+R=2, 2. ad Z-R=0, 2 :\n\nSit tang; \\( \\frac{o+v}{2}=68°7', 48°8'69''. \\) ad 62°5°44427=tang; \\( \\frac{o-v}{2} \\) cui respondet Angulus 89°, 5', 0', 17'', proximè. Ergo \\( \\frac{o+v}{2} + \\frac{o-v}{2} = O=179°, 0', 0'', 17''. \\)\n\nFere, Cujus Sinus O, 0174511: nempe idem cum sinu 0°, 59', 59'', 43''.\n\nDeinde; secundus sit Angulus A, in 10 partes, quorum quaelibet i. Quae rurunt igitur, a, b, c, d, e, f, g, h, i.\n\nNempe,\n\n\\[ \\begin{align*}\n\\sin \\alpha (0,58,59,43), & 0,0171603. R=1 : \\sin O=0,0174511.1,01694=a. 1694 \\\\\n\\sin \\beta (0,57,59,43), & 0,0168694. R=1 : \\sin O=0,0174511.1,03448=b. 1816 \\\\\n\\sin \\gamma (0,56,59,43), & 0,0165780. R=1 : \\sin O=0,0174511.1,05264=c. 1880 \\\\\n\\sin \\delta (0,55,59,43), & 0,0162875. & 1,07144=d. 1947 \\\\\n\\sin \\epsilon (0,54,59,43), & 0,0159969. & 1,09091=e. 2019 \\\\\n\\sin \\zeta (0,53,59,43), & 0,0157060. & 1,11110=f. 2096 \\\\\n\\sin \\eta (0,52,59,43), & 0,0154152. & 1,13206=g. 2177 \\\\\n\\sin \\theta (0,51,59,43), & 0,0151243. & 1,15383=h. 2264 \\\\\n\\sin \\iota (0,50,59,43), & 0,0148335. & 1,17647=i. 2353 \\\\\n\\end{align*} \\]\n\nPraxis\nPraxis altera.\n\nSit \\( R = 1 \\), \\( L = 0 \\), \\( Z = 1 \\), \\( A = 10^\\circ \\). Ergo \\( O + V = 179^\\circ 50' \\frac{4}{5} = 89^\\circ 55' \\).\n\ncujus Tangens 687, 5488693. Et, ut 2, 1 ad 0, 1 : sic 687, 5488693 ad 32, 7404223 = tang; gr. 88, 15', 1\", 57\" = tang; \\( \\frac{1}{2} \\). Ergo \\( \\frac{1}{2} + \\frac{1}{2} = 0 = \\text{gr}; 178, 10', 1\", 57\" \\). Cujus Complementum ad Semicirculum, gr. 1, 49', 58\", 2\" = 1. Cujus Sinus 0, 0319827. Ergo.\n\n\\[\n\\begin{align*}\n\\sin x &= 10^\\circ 48' 58\" \\frac{4}{5} = 316920 \\cdot 319827 (1,00918 = a) \\\\\n\\sin y &= 1^\\circ 47' 58\" \\frac{4}{5} = 314013 \\cdot 319827 (1,01852 = b) \\\\\n\\sin z &= 1^\\circ 46' 58\" \\frac{4}{5} = 311103 \\cdot 319827 (1,02803 = c) \\\\\n\\sin d &= 1^\\circ 45' 58\" \\frac{4}{5} = 308108 \\cdot 319827 (1,03773 = d) \\\\\n\\sin e &= 1^\\circ 44' 58\" \\frac{4}{5} = 305209 \\cdot 319827 (1,04762 = e) \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n302343 & (1,05769 = f) \\\\\n299475 & (1,06797 = g) \\\\\n296567 & (1,07843 = h) \\\\\n293660 & (1,08911 = i) \\\\\n290752 & (1,09996 = k) \\\\\n\\end{align*}\n\\]\n\nHaec enim Adversaria nostra. Ubi duos casus expendimus: Nempe, cum Latitudo Limbi ponitur pars Quinta, & pars Decima, brevioris Radii; & Angulus dividendus, 10 minuta prima: Tantà fere sine quantum feret vulgaris Canon Trigonometricus. Et quidem ultima Unitas in ambiguo est; nunc justo major, nunc justo minor. Radium autem (ut ego solem) facio 1; non, ut plurimum sit, 1000000; quò omnes Multiplicationes & Divisiones per Radius faciendae precedentur. Adeoque Sinus habeo pro partibus Decimalibus; quibus itaque, cum opus est, Ciphras praemitto, quo de Unius Integri loco confest.\n\nSimili processu utendum erit, mutatis mutandis, si Latitudo Limbi sumatur in alia quavis proportione ad Radii longitudinem.\n\nSed commodius erit (ad vitandam molestiam toties quaerendi partem proportionalis) ut sumatur angulus O commodae magnitudinis (justis minutis primis determinande, ab \\( q \\); annexis secundis tertiiisve;) atq; ita queratur Radii maximi Z longitudine, eodem modo quo reliquorum a, b, c, &c. Putà, si, in Praxi posteriore, sumpto ut prius \\( R = 1 \\), Angulo, \\( A = 10^\\circ \\), sumatur Angulus O, (non qui illìc prodit 178° 10', 1\", 57\" sed potius) 178° 10'; cujus complementum 1° 50'; huìque sinus in ipso Canone habetur 0, 0319922; & reliquorum item, \\( \\alpha, \\beta, \\gamma, \\delta, \\ldots \\) &c. Sinus similiter ibidem habebuntur; ut unà tantum Divisione opus sit pro singulis exhibendis; ipsaque Radii Z longitudine, non quidem precisè ut prius 1, 1; sed huic proxima (qua itaque sumenda erit) 1,09996. Nempe,\n\n\\[\n\\begin{align*}\n\\sin a &= 1^\\circ 49' = 317015 \\cdot 319922 (1,00917 = a) \\\\\n\\sin b &= 1^\\circ 48' = 314013 \\cdot 319922 (1,01851 = b) \\\\\n\\sin c &= 1^\\circ 47' = 311103 \\cdot 319922 (1,02803 = c) \\\\\n\\sin d &= 308293 \\cdot 319922 (1,03772 = d) \\\\\n\\sin e &= 305385 (1,04760 = e) \\\\\n\\sin f &= 302478 (1,05769 = f) \\\\\n\\sin g &= 299570 (1,06797 = g) \\\\\n\\sin h &= 296662 (1,07843 = h) \\\\\n\\sin i &= 293745 (1,08911 = i) \\\\\n\\sin k &= 290847 (1,09996 = k) \\\\\n\\end{align*}\n\\]\n\nK k Similiter\nSimiliter omnino res succedet, si, sumptis Radiis R, L, cum Angulo A, queramus V, & Radios intermedios; aut, sumpto Radio L, cum Angulis A, V, querantur R, & Radii intermedii.\n\nVerum, si Limbi Latitudo sit Radii non nisi pars Trigesima, Quadragesima, aut adhuc minor; atque Angulus dividendus, non quidem 10 minuta prima, sed totidem secunda, seu minor adhuc: subtilior res est quam ut vulgaris Canon Trigonometricus hic adhibeatur, & que omnem sensum fugit; ipsique Circuli concentrici distantiis aequalibus, quantum sensu possimus distinguere, invicem disjuncti: quippe unius Pollicis pars millesima, nedom decies aut centes millesima, minor est discrepantia quam ut sensu percipi possit.\n\nSed nimius sum in re levi. Felicem itaque jam ineunte Annum compreca-\ntus, longa sequentium serie continuandum, Valere jubeo.\n\nAn Account of some Books.\n\nI. Some Physico-Theological Considerations about the Possibility of the Resurrection; by the Honourable Robert Boyle, Esq; Fellow of the R. Society. London, 1674. in 8vo.\n\nThe Noble Author's design in this Discourse being to shew, that the Philosophical Difficulties, urged against the Possibility of the RESURRECTION, are nothing so insuperable, as they are by some pretended, and by others granted, to be; and having handled this Subject in such a manner, as to make it appear, that sound Philosophy may furnish us with good Weapons for the defence of our Faith, and that Corpusculi Principles may not only be admitted without Epicurean Errors, but be employed against them: For these reasons, it was thought it would not be altogether besides the purpose of these Tracts, to give some ac-\ncount of this valuable Essay: Wherein 'tis made out by good Philosophical Observations and Experiments, 1. That a Humane Body is not so confin'd to a determinate bulk, but that the same Soul, being united to a portion of duly organiz'd Matter, is acknowledg'd to constitute the same Man, notwithstanding the vast Differences of bigness, which are at sev-\neral times between the portions of Matter whereto the Human Soul is united. 2. That a considerable part of the Humane Body consists of Bones, which are bodies of a very determinate nature, and not apt to be destroy'd by the operation of Earth or Fire. 3. That of the less stable, and especially the fluid, parts of a Humane Body, there is a far greater expense made by insensible Transpiration, than even Philosophers would imagine. 4. That the small particles of a resolv'd Body may retain their own nature under various alterations and disguises; of which 'tis possible they may be stript afterwards. 5. That without making a Humane Body cease to be the same, it may be repaired and augmented by the adapta-\ntion of congruously disposed Matter to that which pre-existed in it. Which things being so, considering Men do not see, why it should be impossible",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101185.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 4536,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        3060,
+        2
+      ],
+      [
+        3060,
+        5259,
+        3
+      ],
+      [
+        5259,
+        8297,
+        4
+      ],
+      [
+        8297,
+        11147,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101185",
+    "title": "An Extract of a Letter of Dr. J. Wallis, to M. Hevelius, from Oxford, Decemb. 31. 1673. Gratulatory for His Organographia; And Particularly Concerning Divisions by Diagonals, Lately Inserted in Mr. Hook's Animadversions on the First Part of the Machina Coelestis of the Honourable Joh. Hevelius; But so Faultly Printed, That It Was Thought Fit, at the Author's Desire, in His Letter to the Publisher, of Januar. 4. 1674/5 to be here Done More Correctedly",
+    "authors": "J. Wallis",
+    "year": 1674,
+    "volume": "9",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/101185"
+  }
+}

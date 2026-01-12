@@ -1,0 +1,79 @@
+{
+  "id": "94fc76541b1bfc6ffd808326834200c034812825",
+  "text": "These are the particulars of the Discovery, whereby the admirable Analogy and Uniformity of the parts of the Universe are most evident, and the Infinite Wisdome and Power of the Creator is demonstrated to the Contemplative. In the Conclusion, the Discoverer considers that the Ancient Astronomers, having translated the Names of their Heroes among the Starrs, those Names have continued down to us unchanged, notwithstanding the endeavour of following Ages to alter them; and that Galileo, after their Example, had honoured the House of the Medici with the discovery of the Satellites of Jupiter, made by him under the Protection of Cosmus II; which Starrs will be always known by the Name of Sidera Medicea. Wherefore he concludes that the Satellites of Saturn, being much more exalted and more difficult to discover, are not unworthy to bear the Name of Louis le Grand, under whose Reign and in whose Observatory the same have been detected, which therefore he calls Sidera Lodoicea, not doubting but to have perpetuated the Name of that King, by a Monument much more lasting than those of Brains and Marble, which shall be erected to his Memory.\n\nIn our Figure we have omitted the Orbe of the outer Satellite, that so the rest might not be crowded, but its distance to that of Hugenius's, is as Cube Root of 25 or 2,925 to 1.\n\nTwo Astronomical Observations of the Eclipses of the Planet Jupiter, by the Moon in March and April last, made at London.\n\nThe Lipstick Ephemerides of Mr. Godfrid Kirck, giving notice of these Occultations, they were thought of too great consequence to be neglected, if the weather proved fair. The first hapned March 31st. at night, and was attended with a most Serene Sky, no Clouds anywhere appearing, wherefore Mr. Hook and E. Halley undertook the Observation in Gresham.\nGresham College, which succeeded as follows. Having taken some good Notes for the rectifying the Pendulum Clock, they expected the rising of the Moon, so much the rather, for that it was doubtful, whether the Planet would be eclipsed at the Rising or no, for tho' Kirk's Ephemerides made the Immersion at 9 h. 46 m. at Lipsick, that is at London 8 h. 54 m. yet his Jupiter's place being 13 m. too slow, it was plain that the Occultation would be very near the Horizon of London. Accordingly at 9 h. 26 m. the under Limb of the Moon, was just risen over Shooters Hill, and soon after Jupiter appeared near the Eastern Limb of the Moon, within a few Minutes of being eclipsed.\n\n9 h. 33 m. As near as could be guessed, was the Time of the central Immersion, which was very difficult to be observed, by reason of the Asperity of the Moons Limb, which undulated and sparkled very much, as it appeared through the Vapours near the Horizon, so that the contact of the Limbs could with no certainty be determined: the Ingress happened much about the length of the Spot, called by Hevelius palus Mareotis, to the North of the said Spot, or about the 124th. Degree of the outer Limb of his Selenography, nearly in the same Latitude with the Moons Center.\n\n10 h. 30 m. The Western Edg of Jupiter began to emerge out of the dark Limb of the Moon.\n\n10 h. 31 m. 20 s. The whole disk of Jupiter was entire, so that he was about a minute and a third in coming out from behind the Moon, whereby the Diameter of this Planet may be determined.\n\nThe Emersion was exactly in a right Line with the Moons Center, and the Northern Part of Palus Maeotis, or about the 324th degree of the inner Limb of the Selenographic Table of Hevelius.\n\nThe other Occultation hapned May the 28th. Mine, or Astronomically, the 27th after mid-night; the preceding Night was cloudy dark Weather; so that there was no encouragement to set up for it; however by good hap, both Im-\nImmersion and Emerion were observed.\n\nThe Immersion was seen at Totteridge (which place is about 9 Miles from London, and nearly 25 seconds of time to the Westward thereof) by Mr. Edward Haines, a Member of the R. Society, well versed in this sort of Observation: who between a gap of the Clouds observed the Contact of the Moons limb and Jupiters, at 15 h. 3½ min. the Clouds closing again permitted him to observe no more, however from this we may conclude the Central Immersion at London to have been 15 h. 4½ min.\n\nThe Emerion was observed at London by E. Halley, to fall out at 15 h. 49 min.; for at 15 h. 50 min. Jupiter was all out, and the limbs so little separated, that he judged, that a minute before, the center of Jupiter had been upon the Moons edg: The point of the Emerion was over against the Southern part of the spot, called by Hevelius Insula Macra, or at the 342d division of the inner limb of his Map of the Moon.\n\nWhat has been observed of these two Occultations elsewhere, would be very acceptable to the R. Society; such sort of Observations, if accurate, being of singular use to determine the Longitudes of Places, especially those that are far remote; for which purpose all Curious Persons furnished with Instruments and Skill in Astronomical matters, are desired to let slip none of these opportunities, which may be of so great benefit to Geography.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101845.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1389,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1806,
+        2
+      ],
+      [
+        1806,
+        3743,
+        3
+      ],
+      [
+        3743,
+        5122,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101845",
+    "title": "Two Astronomical Observations of the Eclipses of the Planet Jupiter, by the Moon in March and April Last, Made at London",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101845"
+  }
+}

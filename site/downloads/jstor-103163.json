@@ -1,0 +1,99 @@
+{
+  "id": "f97c4553d020dd56f31cbf2808d2040d8b532629",
+  "text": "This is what I have thought proper to communicate of my abovesaid Observations; and with great Respect I remain,\n\nYour most humble Servant,\n\nAnthony van Leeuwenhoek.\n\nII. Observations of the Eclipse of the Moon, on Jan. 12. 1711-12. By the Revd. Mr. Wm. Derham, F.R.S. In a Letter to Rich. Waller Esq; R.S. Secr.\n\nUpminster, Jan. 14. 1712.\n\nSIR,\n\nSaturday Evening being clear, gave me a good opportunity of observing the Lunar Eclipse. The Times are very nice, and the Observations made with an excellent Six-foot Telescope, as followeth:\n\nh. 6. 15 A duskishness upon the N. East side of the Moon.\n6. 36 A thick Penumbra on the Moon.\n6. 37 The Penumbra so dense, that it may be taken for the Beginning of the Eclipse.\n6. 39 The Eclipse undoubtedly is begun.\n6. 41 The Shadow so dark; that it nearly hid the Moons N. Easternly Limb.\n7. 21 Moons Diameter by the Micrometer: 1612 equal parts, equal to 34' 25\".\n\nThe\n7. 25' The distance of the Shadow from the opposite luminous Limb of the Moon, represented by the Line l. n. was 1025 Parts of the Micrometer, equal to 20 Minutes.\n\n8. 31 End of the Eclipse is very near.\n8. 32 End of the Eclipse.\n8. 32 45\" Eclipse is undoubtedly ended.\n8. 36 A Penumbra is left.\n\nIt unluckily fell out, that I disordered my Micrometer at the Beginning of the Eclipse; so that I could not take with any exactness the Inclination of the Cusps, and some other Matters. I had a mind to have observed; to supply which defect in some measure, I have sent you a Type of the Eclipse as well as I could by guess. And from the same defect I cannot warrant the Micrometrical Measures of the Moon's Diameter, and her eclipsed Parts to be otherwise, than somewhat near the truth; perhaps not exactly true.\n\nFig. 4. A Type of the Lunar Eclipse Jan. 12. 1711-12.\n\nm. i. c. r. represents the two Claspers of the Micrometer, parallel to the Equator.\n\nN. The Northern, S. the Southern part of the Moon's Disk, running between the Claspers of the Micrometer.\n\nl. n. The enlightened part of the Moon, being 1025 Micrometrical Parts, or 20'.\n\nI am sorry I had not Hevelius's Map of the Moon, to have noted the Spots the Shadow passed over; but I hope to mend that defect, if I live to observe another Lunar Eclipse. With great Respect I am\n\nYour most humble Servant,\n\nW. DERHAM.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103163.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9500,
+    "total-output-tokens": 849,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        913,
+        5
+      ],
+      [
+        913,
+        2287,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103163",
+    "title": "Observations of the Eclipse of the Moon, on Jan. 12. 1711-12. By the Revd. Mr Wm. Derham, F. R. S. In a Letter to Rich. Waller Esq; R. S. Secr.",
+    "authors": "Wm. Derham",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/103163"
+  }
+}

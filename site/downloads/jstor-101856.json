@@ -1,0 +1,59 @@
+{
+  "id": "22fcc64e9d9f0fbfe5604848eb6c1b1205407be5",
+  "text": "An Extract of two Essays in Political Arithmetick concerning the comparative Magnitudes, &c. of London and Paris by Sr. William Petty Knight. R.S.S.\n\nThe excellent Author of these two Essays, has in several former of the same Nature made it appear that Mathematical Reasoning, is not only applicable to Lines and Numbers, but affords the best means of Judging in all the concerns of humane Life. In the present he endeavours to prove London, as it now is, the most considerable City now in being, by shewing it much to exceed Paris, (which not only the French but foreigners have asserted to be the chief City of Europe.) both in People, Housing, and Wealth: The first by comparing the Bills of Mortality, whereby he finds that the People of London are as many as those of Paris and Rouen put together. The second by comparing the number of Houses, which by the Chimney-Books are found above 80000 in London, whereas a great Author among the French, (who seldom fail to magnify their own things,) reckons but 50000 Houses in Paris. As to the third, to wit the Wealth, he conceives that there is yet a much greater disproportion, there being no comparison between them for Trade, and besides a good argument drawn from the Law-Suites of both places, he concludes from the Paris bills of Mortality, that two 5ths of the People of Paris are so poor that they choose rather to die in Hospitals, than lie sick at their own Charges; and that a third of the whole People of that City, die out of the most wretched Hospital of L’Hostel Dieu; whereas at London there dies scarce one in five in our Hospitals. Hereupon in the second Essay, our Author extends his Charity to those poor wretches, shewing how by a reasonable expense, 3000 persons might be there saved per Annum, who die for want of good accommodation. The whole is so close writt, that it will not bare Epitomizing, wherefore I rather recommend it to the Curious who cannot but be satisfied therewith.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101856.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 511,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1956,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101856",
+    "title": "An Extract of Two Essays in Political Arithmetick concerning the Comparative Magnitudes, etc. of London and Paris by Sr. William Petty Knight. R. S. S.",
+    "authors": "William Petty Knight",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101856"
+  }
+}

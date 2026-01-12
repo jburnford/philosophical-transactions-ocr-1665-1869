@@ -1,0 +1,59 @@
+{
+  "id": "cc7a6e287e3a7f706fe9c5577153b414591197da",
+  "text": "Follows the Extract itself out of a Dutch Journal, belonging to the Dutch East-Indian Company.\n\nAmber-Greece is not the Scum or Excrement of the Whale, &c., but issues out of the Root of a Tree, which Tree how far soever it stands on the Land, always shoots forth its roots towards the Sea, seeking the warmth of it, thereby to deliver the fattest Gum that comes out of it: Which tree otherwise by its copious fatness might be burnt and destroyed. Wherever that fat Gum is shot into the Sea, it is so tough, that it is not easily broken from the root, unless its own weight and the working of the warm Sea doth it, and so it floats on the Sea.\n\nThere was found by a Soldier 7s. of a pound, and by the chief, two pieces weighing five pounds. If you plant the Trees where the stream sets to the shore, then the stream will cast it up to great advantage. March 1, 1672, in Batavia, Journal Advice from—\n\nA Letter to the Publisher written by one of the principal Chirurgions of his Majesties Fleet, concerning the further success of the Blood-stanching liquor, formerly taken notice of.\n\nSIR,\n\nDoubt not but you have heard, with what admirable success the Royal Styptique liquor was used in the last engagement against the Dutch by the Chirurgions of the Earl of Offory, Sir Edward Spragg, and Sir John Berry, and others. A very good Physitian in Tarmouth, several credible persons also in London and other places (some of whom have taken it inwardly themselves) do give the like commendation of it for stopping bleeding upon Eruption or Apertion of a vessel in the Lungs or other Internal parts, being administered according to the printed direction.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101375.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 446,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1647,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101375",
+    "title": "A Letter to the Publisher Written by One of the Principal Chirurgions of His Majesties Fleet, Concerning the Further Success of the Blood-Stanching Liquor, Formerly Taken Notice of",
+    "authors": null,
+    "year": 1673,
+    "volume": "8",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101375"
+  }
+}

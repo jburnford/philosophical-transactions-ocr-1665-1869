@@ -1,0 +1,89 @@
+{
+  "id": "8ea2391ff690f2ea55efac56d4ae794013860dda",
+  "text": "IV. Observatio Lunaris Eclipseos Albani habita post Occasum Solis diei Dominice 21 Octobris. S. N. 1725. Ab eodem. Ex eadem Epistola.\n\nH. M. S.\n\nOrologiis pendulo instructis, & per dies plures ad meridiem verum exactis utebamur.\n\nOccasum solis spectare hodie non licuit, nubibus occupantibus occidentalem Horizonis plagam.\n\nNubibus pariter orientalem tractum obscurantibus in Lunæ ingressu in umbram, tam pertinaciter australis ventus novas cogebat, ut per totum tempus immersionis integri globi Lunaris in umbram, vix ter, aut quater, idque raptim, tubum opticum in eum dirigere datum sit.\n\nCirca hoc tempus umbra videbatur ad centrum Lunæ pertingere. Sed cum maculae distinctè definiri non potuerint brevissimo illo spatio temporis, quo per nubium intervalla discus Lunaris detegebatur, praecisè noscere non valemus hanc ipsam phasin digitorum sex Lunaris diametri obtectorum, licet paulò abludat à minuto 15, post horam sextam à Meridie.\n\nTotalis Immersio ad hoc circiter minutum temporis referenda est, quantum spectare licuit ex duobus, aut tribus minutis horariis, quibus Lunam vidimus satis di-\nVerum secunda temporis definire, quibus umbra vera totum discum obtinuit, permissum nobis non fuit à nubibus succedentibus.\n\nPost immersionem totalem discus Lunæ apparebat ab Atmosphæræ terrestris radiis refractis rubescens, dilutiori tamen colore in ea parte limbi, quam postremam Sol desruerat.\n\nInducta postmodum serenitate, licuit observationes emersionis perficere.\n\nSubalbicat discus Lunæ in limbo proximè illuminando. Nondum tamen lux directa Solis discum attingit.\n\nClarior adhuc fit limbus Lunæ; sed nondum excedit ab umbra vera.\n\nNunc primùm limbus Lunæ incipit lumen recuperare in parte circumferentiae sita inter maculas Grimaldi & Galilæi: quæ maculae adhuc latent.\n\nLimes illuminationis attingit primum limbum Grimaldi.\n\nTotus Grimaldus extra umbram.\n\nGalilæus emergit ex umbra.\n\nAristarchus incipit emergere.\n\nTotus Aristarchus emersit.\n\nPrior Copernici limbus incipit illuminari.\n\nTotus Copernicus extra umbram.\n\nTotus Plato emersit.\n\nPrior limbus Tychonis incipit emergere.\n\nTotus Tycho extra umbram.\n\nSubtena arcus C A D, & C F D per Micrometrum explorata est partium Micrometri 22, qualium Lunæ diameter est 24 in tubo\ntubo palmorum undecim Rom. A B verò est partium 12. (Vide Fig. 5.)\n\nMenelaus 25 exit. (25 est numerus maculae assignatus in Lunae imagine, à Parisiensi Academia edita.)\n\nMacula clarius sita ante Plinium exit. 9 5 0\nHermes ab umbra prodit. 9 6 0\nPlinius emergit. 9 50 0\nIncipit emergere Posidonius 27. 9 16 0\nMaris Crisium limbus prior emergit. 9 18 0\nTotum Mare Crisium extra umbram. 9 25 0\nLangrenus 39 exit. 9 24 0\nUmbræ extremum in limbo Lunæ adhuc videtur. 9 24 30\nFinis umbræ veræ. 9 25 0\n\nV. Conspectus Maculae Platonis in Luna caelo clarissimo nocte sequente diem 16 Augusti 1725, hora prima post occasum Solis Romæ in monte Palatino, per tubum opticum Josephi Campani, palmorum 150 Romanorum, spectante eodem Viro Cl. Ex eadem Epistola.\n\nMargines elevati in ambitu maculae persundeabantur luce Solis, & candorem consuetum ostendebant: fundus maculae tenebrosus spectabatur, cum ad illum radii solares nondum pertingerent. Sed proiectio lucis minus candidæ, imò nonnihil rubescens, pervadebat mediam aream maculae (ut in Fig. 6.) non secus, ac si in latere marginis A Soli obverso foramen aliquod fuerit, per quod radius Solis admitteretur.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103472.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7610,
+    "total-output-tokens": 1306,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1102,
+        3
+      ],
+      [
+        1102,
+        2240,
+        4
+      ],
+      [
+        2240,
+        3387,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103472",
+    "title": "Observatio Lunaris Eclipseos Albani Habita Post Occasum Solis Diei Dominicae 21 Octobris. S. N. 1725. Ab Eodem. Ex Eadem Epistola",
+    "authors": null,
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103472"
+  }
+}

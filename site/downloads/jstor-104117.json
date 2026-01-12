@@ -1,0 +1,79 @@
+{
+  "id": "98db5bc4d05fb9ad34de4a731a6299214fc92b53",
+  "text": "40° long, and 1° or 1° ½ broad; the Brightness of the Moon outshined the Comet as it came near it.\n\nPlease to excuse the Trouble of this by the Way of Holland; but knowing your Curiosity in Astronomy, and viewing your Synopsis of the Astronomy of Comets, I thought it might be in some measure acceptable, though we had not Conveniency to take a very exact Observation of it. I am,\n\nSIR,\n\nYour most humble Servant,\n\nJOHN DOVE.\n\nP.S. Variation per Azimuth, a. M. about four or five Leagues West from this Bay, by two Compasses, 16° 23' West; and by eight Observations in this Bay, Azimuths and Amplitudes, the Medium 15° 56' West.\n\nV. An Account of two Experiments of the Friction of Pullies. By the Reverend J. T. Desaguliers, LL.D. F.R.S.\n\nAs the Experiment which I made on Thursday, January 14, 173°, before the Royal Society (See Philos. Trans. No 423.) did perfectly agree with\nwith my Theory of Friction, I was willing to try how the said Theory would agree with such a Tackle of Pullies as is commonly used in Building.\n\nThe first Experiment was made with a Tackle of five Brass Sheevers in Iron Frames or Blocks; that is, three Sheevers in the upper Block, and two in the lower.\n\nHaving made an Æquilibrium, by hanging one Hundred and a quarter at the lower Block, and a quarter of an Hundred at the running Rope; I added 17 Pounds and a half before the Power could go down and raise the Weight.\n\nExperiment 2. Two Hundred and an half being balanced by half an Hundred, the Addition of 28 Pounds made the Power raise the Weight.\n\nN. B. The Sheevers were five Inches Diameter, the Pins half an Inch, and the Rope three quarters.\n\nIn the first Experiment 17 Pounds and an half exceeds by 4 Pounds and a half the Sum of the Frictions deduced from the Theory. But in the second Experiment 28 Pounds exceeds the Sum of the Friction but one Pound.\n\nThe Reason of this appeared to be, that the Rope at first was too big for the Cheeks that held the Sheevers; but in the second Experiment, where the Rope was more stretched, it was somewhat diminished in Diameter, and so brought off from rubbing so hard against those Cheeks.\n\nFrom knowing the Quantity of Friction à priori in such large Tackles, we may know what to expect in Practice: For if one man, who for a small time can exert the Force of one Hundred Pounds, thinks that\nthat he may draw up a Stone, or a Roll of Sheet-Lead, or any other such Weight to the Top of an House with a Tackle of Five (because this would seem feasible from mechanical Principles) will find himself mistaken on account of the Friction, which will not be surmounted without an additional Force of fifty Pounds.\n\nFINIS.\n\nERRATA.\n\nPAG. 154. l. 24. and p. 356. l. penult. read, They may be either of Metal, or Glass Plates foiled having their two Surfaces, &c. Transact. Numb. 410. p. 142. l. 20. perterriti. P. 143. l. 15. Ventriculo, l. 18. disjici. P. 148. l. 3. significari. l. 11. Phanomeno. P. 151. l. ult. Lond. pro Leg.\n\nLONDON:\n\nPrinted for W. Innys and R. Manby, at the West-End of St. Paul's Church-Yard.\n\nMDCCXXXIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104117.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 977,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        881,
+        2
+      ],
+      [
+        881,
+        2328,
+        3
+      ],
+      [
+        2328,
+        3057,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104117",
+    "title": "An Account of Two Experiments of the Friction of Pullies. By the Reverend J. T. Desaguliers, LL. D. F. R. S.",
+    "authors": "J. T. Desaguliers",
+    "year": 1731,
+    "volume": "37",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104117"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d134765b209ff2b5d780f3691aac8c7eda522fe5",
+  "text": "CHAPTER XV.\n\nOf the Common Seal and Deeds.\n\nI. The Common Seal of the Society shall be kept in an iron chest, having three locks, with three different keys; whereof one shall be in the custody of the President, another of the Treasurer, and the third of the Senior Secretary.\n\nII. Every Deed, or writing, to which the Common Seal is to be affixed, shall be passed and sealed in Council, and signed by the President on the fore part near the label, and signed on the back by the rest of the Members of the Council present.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106564.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 180,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        521,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106564",
+    "title": "Of the Common Seal and Deeds",
+    "authors": null,
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106564"
+  }
+}

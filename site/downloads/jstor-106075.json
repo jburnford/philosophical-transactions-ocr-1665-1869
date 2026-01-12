@@ -1,0 +1,69 @@
+{
+  "id": "c12b96141b73f275e648c8822a5cba5262fcf3bf",
+  "text": "VI. An Extract from the Register of the Parish of Holy-Cross in Salop, being a Second * Decade of Years from Michelmas, 1760, to Michaelmas, 1770, carefully digested in the following Table, by the Rev. William Gorstuch, Minister of that Parish.\n\nRead January 24, 1771.\n\n| Year | Males | Females |\n|------|-------|---------|\n| 1761 | 17    | 18      |\n| 1762 | 20    | 19      |\n| 1763 | 23    | 22      |\n| 1764 | 17    | 22      |\n| 1765 | 18    | 18      |\n| 1766 | 194   |         |\n| Total|       | 382     |\n\n| Year | Males | Females |\n|------|-------|---------|\n| 1761 | 11    | 11      |\n| 1762 | 16    | 14      |\n| 1763 | 19    | 33      |\n| 1764 | 11    | 19      |\n| 1765 | 12    | 15      |\n| 1766 | 161   |         |\n| Total|       | 365     |\n\nIncrease 17.\n\n| Age Group | Males | Females |\n|-----------|-------|---------|\n| Under a month | 3     | 12      |\n| From a month to a year | 2     | 10      |\n| From 1 to 2 | 1     | 11      |\n| 2          | 5     | 1       |\n| 5          | 10    | 0       |\n| 10         | 15    | 1       |\n| 15         | 20    | 0       |\n| 20         | 25    | 0       |\n| 25         | 30    | 1       |\n| 30         | 35    | 0       |\n| 35         | 40    | 1       |\n| 40         | 45    | 1       |\n| 45         | 50    | 1       |\n| 50         | 55    | 0       |\n| 55         | 60    | 2       |\n| 60         | 65    | 2       |\n| 65         | 70    | 1       |\n| 70         | 75    | 2       |\n| 75         | 80    | 1       |\n| 80         | 85    | 1       |\n| 85         | 90    | 1       |\n| 90         | 95    | 0       |\n| 95         | 100   | 1       |\n| 100        | 101   | 0       |\n\n* In Vol. LII. Part i. Art. 25, see the First Decade.\nThere remain alive,\n\nUnder ten years of age, \\{ Males 126 \\} \\{ Females 122 \\} 248.\n\nFrom 70 to 75 \\{ Males 12 \\} \\{ Females 21 \\} 33 || From 80 to 85 \\{ Males 3 \\} \\{ Females 6 \\} 9\n\nFrom 75 to 80 \\{ Males 8 \\} \\{ Females 3 \\} 11 || From 85 to 90 \\{ Males 3 \\} \\{ Females 5 \\} 8\n\nDistempers and Casualties.\n\n| Accidents | Convulsions | Palsy |\n|-----------|-------------|-------|\n| 5         | 31          | 3     |\n| Ague      | Dropfy      | Small-pox |\n| 1         | 20          | 46    |\n| Apoplexy  | Drowned     | Teeth |\n| 5         | 7           | 5     |\n| Asthma    | Evil        | Untimely |\n| 3         | 4           | 7     |\n| Cancer    | Fever       | Worms |\n| 2         | 35          | 4     |\n| Childbed  | Jaundice    | N.B. The remainder died of a natural decay, without any distemper. |\n| 4         | 4           |       |\n| Chincough | Imposthume  |       |\n| 6         | 2           |       |\n| Consumpion| Meazles     |       |\n| 101       | 15          |       |\n\nHouses or Families in 1765, 249—in 1770, 240.\nDitto, paying window-tax, in 1765, 70—in 1770, 65.\nVoid houses, none.\n\nNumber of persons in 1765, 1096\nDitto, in 1770, 1046 Acres.\n\nIn arable and pasture land 1400\nGardens, yards, and houses 300\n\nThere is no waste land.\n\nIn the year 1767, nine houses were pulled down, to open a way for building a new stone bridge over the river Severn, by which forty-four persons were removed; six continued in the parish, and thirty-eight went out of the parish.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106075.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 1389,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1699,
+        2
+      ],
+      [
+        1699,
+        3184,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106075",
+    "title": "An Extract from the Register of the Parish of Holy-Cross in Salop, Being a Second Decade of Years from Michelmas, 1760, to Michaelmas, 1770, Carefully Digested in the Following Table, by the Rev. William Gorsuch, Minister of That Parish",
+    "authors": "William Gorsuch",
+    "year": 1771,
+    "volume": "61",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106075"
+  }
+}

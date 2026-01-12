@@ -1,0 +1,79 @@
+{
+  "id": "8786c107c4e2af70b17e20de37b5cfe6d2acd50e",
+  "text": "err much in computing (where the soil and surface are tolerably uniform) \"the decrease of heat (by Fahrenheit's thermometer) in the proportion of one degree for near 190 feet of elevation on this island.\"\n\nXIX. An Account of a Stone voided without Help from the Bladder of a Woman at Bury. Communicated by William Heberden, M.D. F.R.S.\n\nRead Mar. 28, 1765.\n\nELIZABETH, the wife of Charles Coe, a poor labouring man, of the parish of Lawshall, in Suffolk, aged about 67, having been severely afflicted with symptoms of the stone between 11 and 12 years; her urine continually draining away with great uneasiness; sometimes attended with the most excruciating pains; and for some years unable to sit upon a seat; on Monday 11th of February, 1765, voided a stone as described in the Plate.\n\nFor two or three days before the stone came away, blood was discharged from the Meatus Urinarius, particularly a large quantity of sincere blood without Mucus at the time the stone was voided; at which time she was not in great pain; but after its exclusion remarkably easy. Her urine now passes involuntarily without pain; and she can sit upon a seat without uneasiness.\nHer poverty is so great, that during this long and painful scene of suffering, she had no assistance from medicine, or art, in any shape whatever; so the exclusion of the stone was wholly the work of nature.\n\nBury, March 25, 1765.\n\nJ. Steward, Surgeon.\nR. Hasted, Apothecary.\n\nEXPLANATION OF PLATE III.\n\na, shews the stone as indented by pressure of the neck of the bladder where appears the nucleus marked b; cc, several small striæ leading to those larger canals marked ddd, being the only passages by which the urine could get off, which was continually draining away; the lower canal appears corroded by the acrimony of the urine; ee, two appendices of fresh calculous matter. This is a side view of the stone.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105454.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6364,
+    "total-output-tokens": 587,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1160,
+        2
+      ],
+      [
+        1160,
+        1160,
+        3
+      ],
+      [
+        1160,
+        1874,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105454",
+    "title": "An Account of a Stone Voided without Help from the Bladder of a Woman at Bury. Communicated by William Heberden, M. D. F. R. S.",
+    "authors": "William Heberden",
+    "year": 1765,
+    "volume": "55",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105454"
+  }
+}

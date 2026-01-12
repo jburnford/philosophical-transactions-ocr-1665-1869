@@ -1,0 +1,89 @@
+{
+  "id": "b894ff20a968312b64c2f64c8e4de4f4ca5b9c14",
+  "text": "X. A Method of extracting the Root of an Infinite Equation. By A. De Moivre, F.R.S.\n\nTheorem.\n\n\\[ I F \\cdot az + bxz + cz^3 + dz^4 + ez^5 + fz^6, \\text{ &c.} = gy + hyy + iy^3 + ky^4 + ly^5 + my^6, \\text{ &c.} \\]\n\nthen will \\( z \\) be \\( = \\frac{g}{a} y + \\frac{h - bAA}{a} y^2 + \\frac{i - 2bAB - cA^3}{a} y^3 + \\frac{k - bBB - 2bAC - 3cAAB - dA^4}{a} y^4 + \\frac{l - 2bBC - 2bAD - 3cARB - 3cAAC - 4dA^3B - eA^5}{a} y^5 + \\frac{m - 2bBD - bCC - 2bAE - cB^2 - 6cABC - 3cAAD - 6dAABB - 4dA^3C - 5eA^4B - fA^6}{a} y^6 \\text{ &c.} \\]\n\nFor the understanding of this Series, and in order to continue it as far as we please; it is to be observed, 1. That every Capital Letter is equal to the Coefficient of each preceding Term; thus the Letter \\( B \\) is equal to the Coefficient \\( \\frac{b - bAA}{a} \\).\n\n2. That the Denominator of each Coefficient is always \\( a \\).\n\n3. That the first Member of each Numerator, is always a Coefficient of the Series \\( gy + hyy + iy^3, \\text{ &c.} \\), viz. the First Numerator begins with the first Coefficient \\( g \\), the Second Numerator with the Second Co-efficient \\( h \\), and so on. 4. That in every Member after the First, the Sum of the Exponents of the Capital Letters, is always equal to the Index of the Power to which this Member belongs: Thus considering the Coefficient \\( \\frac{k - bBB - 2bAC - 3cAAB - dA^4}{a} \\), which belongs to the Power \\( y^4 \\), we shall see that in every Member \\( bBB, 2bAC, 3cAAB, dA^4 \\), the Sum of the Exponents of the Capital Letters is 4, (where I must take notice, that by the Exponent of \\( a \\))\na Letter; I mean the Number which expresses what Place it has in the Alphabet; thus 4 is the Exponent of the Letter D; hence I derive this Rule for finding the Capital Letters of all the Members that belong to any Power; Combine the Capital Letters as often as you can make the Sum of their Exponents Equal to the Index of the Power to which they belong. 5. That the Exponents of the small Letters, which are written before the Capitals, express how many Capitals there is in each Member. 6. That the Numerical Figures or Unciae that occur in these Members, express the Number of Permutations which the Capital Letters of every Member are capable of.\n\nFor the Demonstration of this; suppose $z = Ay + Byy + Cy^3 + Dy^4$, &c. Substitute this Series in the room of $z$, and the Powers of this Series, in the room of the Powers of $z$; there will arise a new Series; then take the Co-efficients which belong to the several Powers of $\\gamma$, in this new Series, and make them equal to the corresponding Co-efficients of the Series $gy + byy + iy^3$, &c. and the Co-efficients $A, B, C, D$, &c. will be found such as I have determined them.\n\nBut if any one desires to be satisfied, that the Law by which the Co-efficients are form'd, will always hold, I'll desire 'em to have recourse to the Theorem I have given for raising an infinite Series to any Power, or extracting any Root of the same; for if they make use of it, for taking successively the Powers of $Ay + Byy + Cy^3$, &c. they will see that it must of necessity be so. I might have made the Theorem I give here, much more general than it is; for I might have suppos'd,\n\n$$az^m + bz^{m+1} + cz^{m+2} + \\ldots = gy^m + by^{m+1} + iy^{m+2} + \\ldots$$\n\nthen all the Powers of the Series $Ay + Byy + Cy^3$, &c. design'd by the universal Indices, must have been taken successively; but those who will please to try this, my easily do it, by means of the Theorem for raising an infinite Series to any Power, &c.\n\nThis Theorem may be applied to what is called the Reversion of Series, such as finding the Number from its Logarithm given; the Sine from the Arc; the Ordinate of an Ellipse from an Area given to be cut from any Point in the Axis: But to make a particular Application of it, I'll suppose we have this Problem to solve; viz. The Chord of an Arc being\ning given, to find the Chord of another Arc, that shall be\nto the first as \\( n \\) to 1. Let \\( y \\) be the Chord given, \\( z \\) the Chord\nrequired; now the Arc belonging to the Chord \\( y \\) is,\n\\[ y + \\frac{y^3}{6dd} + \\frac{3y^5}{40d^4} + \\frac{5y^7}{112d^6} \\text{ &c.} \\]\nand the Arc belonging\nto the Chord \\( z \\) is \\( z + \\frac{z^3}{6dd} + \\frac{3z^5}{40d^4} + \\frac{5z^7}{112d^6} \\text{ &c.} \\)\nthe first\nof these Arcs is to the second as 1 to \\( n \\); therefore multiply-\ning the Extrems and Means together, we shall have this\nEquation:\n\\[ z + \\frac{z^3}{6dd} + \\frac{3z^5}{40d^4} + \\frac{5z^7}{112d^6} \\text{ &c.} = ny + \\frac{ny^3}{6dd} + \\frac{3ny^5}{40d^4} \\]\n\\[ + \\frac{5ny^7}{112d^6} \\text{ &c.} \\]\n\nCompare these Two Series with the Two Series of the\nTheorem, and you will find \\( a = 1, b = 0, c = \\frac{1}{6dd}, d = 0, \\)\n\\( e = \\frac{3}{40d^4} f = 0, \\text{ &c. } g = n, b = 0, i = \\frac{n}{6dd}, k = 0, \\)\n\\( l = \\frac{3n}{40d^4}, m = 0, \\text{ &c. hence } z \\text{ will be } = ny + \\frac{n - n^3}{6dd} y^3 \\)\n&c. or \\( ny + \\frac{1 - mn}{2 \\times 3dd} yyA, \\text{ &c.} \\)\n\nSupposing \\( A \\) to denote the\nwhole preceding Term, which will be the same Series as\nMr. Newton has first found.\n\nBy the same Method, this general Problem may be solv'd;\nthe Abscisse corresponding to a certain Area in any Curve be-\ning given, to find the Abscisse, whose corresponding Area\nshall be to the first in a given Ratio.\n\nThe Logarithmic Series might also be found without bor-\nrowing any other Idea, than that Logarithms are the Indices\nof Powers: Let the Number, whose Logarithm we inquire,\nbe \\( 1 + z \\), suppose its Log. to be \\( az + bz^2 + cz^3, \\text{ &c.} \\)\nLet there be another Number \\( 1 + y \\); thereof its Logarithm will\nbe \\( ay + byy + cy^3, \\text{ &c.} \\)\n\nNow if \\( 1 + z = 1 + y^n \\), it follows,\nthat \\( az + bz^2 + cz^3 \\text{ &c. } ay + byy + cy^3, \\text{ &c. } :: n, 1. \\)\nthat is, \\( az + bz^2 + cz^3, \\text{ &c. } = nay + nbyy + nc^3, \\text{ &c.} \\)\n\nTherefore\nTherefore we may find a Value of $z$ express by the Powers of $y$; again, since $1 + z = (1 + y)^n$, therefore $z = (1 + y)^n - 1$\nthat is $z = ny + \\frac{n}{1} \\times \\frac{n-1}{2} y^2 + \\frac{n}{1} \\times \\frac{n-1}{2} \\times \\frac{n-2}{3} y^3$,\n&c. Therefore $z$ is doubly express by the Powers of $y$. Compare these Two Values together, and the Coefficients $a, b, c, &c.$ will be determin'd, except the first $a$ which may be taken at Pleasure, and gives accordingly, all the different Species of Logarithms.\n\nXI. An Account of the Appearance of an extraordinary Iris seen at Chester, in August last, by E. Halley.\n\nOn the Sixth Day of August last, in the Evening, between Six and Seven of the Clock, I went to take the Air upon the Walls of Chester, when I was surprized by a sudden Shower, which forced me to take Shelter in a Nich that afforded me a Seat in the Wall, near the North East Corner thereof. As I sat there, I observed an Iris, exceedingly vivid, as to its Colours, at first on the South Side only, but in a little Time with an entire Arch; and soon after, the Beams of the Sun being very strong, there appeared a secondary Iris, whose Colours were more than ordinary Bright; but inverted, as usually: that is, the Red was inwards, which in the primary Iris is outward, and è contra for the Blues. But what I took most Notice of was, that with these Two concentrick Arches, there appeared a Third Arch, near upon as bright as the Secondary Iris, but coloured in the Order of the Primary, which took its Rise from the Intersection of the Horizon and Primary Iris, and went",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102507.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7472,
+    "total-output-tokens": 2567,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1577,
+        2
+      ],
+      [
+        1577,
+        3891,
+        3
+      ],
+      [
+        3891,
+        5884,
+        4
+      ],
+      [
+        5884,
+        7475,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102507",
+    "title": "A Method of Extracting the Root of an Infinite Equation. By A. de Moivre, F. R. S.",
+    "authors": "A. de Moivre",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/102507"
+  }
+}

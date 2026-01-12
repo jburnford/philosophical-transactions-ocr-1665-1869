@@ -1,0 +1,69 @@
+{
+  "id": "fedead103e406105982657980d2a50e2ed66e03d",
+  "text": "LIV.\n\nExtracts of Letters from Maurice Johnson, Esq; President of the Gentlemens Society at Spalding, and from John Green, Esq; Secretary of the same, to Emanuel Mendez da Costa, Esq; F.R.S. concerning an Earthquake felt on Aug. 23. 1750.\n\nExtract of a Letter from Maurice Johnson, Esq; to Emanuel Mendez da Costa, F.R.S. dated at Spalding in Lincolnshire, 25th August 1750.\n\nRead Nov. 1. On Thursday the 23d Instant, the Air 1750. mild and calm, no Wind stirring, the Sun shining bright, at about 45 Minutes past 6 o’Clock in the Morning, a Shock of an Earthquake was sensibly felt here, and hereabout, attended with a loud Noise, and Crack (as some call it): This was perceived both Southward, and Northwardly, for some Seconds. A Gentleman from Newark in Nottinghamshire, N.E. of us about 30 Miles, says it was also felt there.\n\nExtract, concerning the same Earthquake, from a Letter of Dr. John Green, of the said Place.\n\nThe Earthquake was sensibly felt through the whole County of Lincolnshire, which is above 70 Miles; but most strongly on the Coast. The Weather had been for some Days before mild and calm: An Aurora\nAurora Borealis appeared vertically, shooting Rays of all Colours around, which turned to a very deep red Colour.\n\nLV.\n\nPart of a Letter from the Rev. Henry Miles, D.D. F.R.S. to Mr. H. Baker, F.R.S. concerning the Earthquake felt on Sept. 30. 1750.\n\nTooting, October 30. 1750.\n\nRead Nov. 1. 1750.\n\nA Worthy Friend, the Rev. Mr. Daniel Goodrich, who liveth at Oundle in Northamptonshire, has sent me an Account of the Earthquake felt in that and the neighbouring Counties, on Sept. 30th, at 12½ at Noon.\n\nHe informs me, that he was then at Uppingham in Rutlandshire, sitting in a Room intent on writing and thinking, when he was surprised with a Sound very strong and awful; which, at the first Moment, made him think of the rattling of a Coach upon the Pavement: But this Apprehension was immediately corrected by somewhat very different in the Sound, and raised in him an Idea of the crashing of a falling House. He felt himself in a very shaking way: The Table at which he sat shivered, and the Windows of the Room jarred: But he did not think of an Earthquake, till the People of the House came into the Room, and told him what had happened. Some Slates were shaken off the Houses, and in one House the Hammer of a Clock struck the Bell: Some Chimnies were thrown down; many talked of a sensible",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104761.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 737,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1125,
+        2
+      ],
+      [
+        1125,
+        2424,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104761",
+    "title": "Extracts of Letters from Maurice Johnson, Esq; President of the Gentlemens Society at Spalding, and from John Green Esq; Secretary of the Same, to Emanuel Mendez da Costa, Esq; F. R. S. concerning an Earthquake Felt on Aug. 23. 1750",
+    "authors": "Maurice Johnson, John Green",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104761"
+  }
+}

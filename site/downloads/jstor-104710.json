@@ -1,0 +1,59 @@
+{
+  "id": "81bc29ffdccf1961c3fea3ad7eda23822a3aa771",
+  "text": "III.\n\nAn Account of the same, by Jo. Freeman Esq; F. R. S.\n\nRead Feb. 8. 1749-50.\n\nAs I passed thro' the Mews To-day, a little before 1 o'Clock, I felt a Shock like an Earthquake, and I thought I heard a hollow deep Noise. Several Women thereabouts came running out of their Houses much terrified.\n\nAt Leicester-House they were apprehensive the Foundation was giving Way, and were going to send immediately for the Surveyor.\n\nAll the Way in my Return home, I saw many Groups of People together, and discoursing upon this Shock that had just happen'd; some imagining it was occasion'd by some Houses being blown up in Gold-Lane, where there was a great Fire, and others from some Powder-Mills blowing up; the same thing having been observed about 9 Years ago, from the like Accident at the Mills at Hounslow. If neither of these Causes appear, it can be no other than an Earthquake.\n\nIV.\n\nAn Account of the same, by William Fauquier Esq; F. R. S.\n\nRead Feb. 15. 1749-50.\n\nOn Thursday the 8th of February, 1749-50, at about half an Hour after 12, as I was sitting reading with one Elbow on",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104710.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 355,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1087,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104710",
+    "title": "An Account of the Same, by Jo. Freeman Esq; F. R. S.",
+    "authors": "Jo. Freeman",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104710"
+  }
+}

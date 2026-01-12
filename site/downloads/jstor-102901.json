@@ -1,0 +1,59 @@
+{
+  "id": "aa9c3efc1e48ece67e8c39dc39ef9492f4e8e6cd",
+  "text": "ceived several other very curious rarities, which he promises to present you withal in his succeeding Decades.\n\nHe Dedicates this Table to his Benefactor Mr John Owen.\n\nThe Author his Second Decade is just finished, and his third is in great forwardness, above half being already done.\n\nLONDON, Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society, at the Prince's Arms in St Paul's Church-yard.\n\nPhilosophical Transaction, No 284.\n\nE R R A T A.\n\nPage 1358 l. 3. for and r. or. p. 1361. l. 2. also. p. 1363. l. ult. for had t. have. p. 1365. l. 15 for highly r. lightly. p. 1368. l. ult. for e r. c. p. 1369. l. 28. del. number. p. 1371. l. 6. for a r. the. ibid. l. 29. l. Mechanism.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102901.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 314,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        704,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102901",
+    "title": "Errata",
+    "authors": null,
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102901"
+  }
+}

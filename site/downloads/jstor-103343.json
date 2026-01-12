@@ -1,0 +1,149 @@
+{
+  "id": "299ef09ea993dde4f69bb7679e1f5a67b3441ff8",
+  "text": "IV. Pars reliqua Dissertationis De Potentiâ Cordis.\nAuthore Jacobo Jurin, M.D. & R. Societatis Soc.\n\nTheorema II.\n\nSI ex Machinâ cavâ inaequaliter contractili, A B C D,\naqua per Machina contractionem exprimatur, Motus aquae ex orificio A proflientis equatur Summae Factorum ex\n\nSectionibus quibusvis transversis omnium aquae filamentorum A B, A C, A D; singulis ductis in longitudines et velocitates respectivas.\n\nDemonstratio. Loco filamentorum aquae, concipiatur Machina tubis minimis, inaequaliter amplis, A B, A C, A D, in orificio A desinentibus, tota constare.\n\nEst aquae Motus in quovis tubo æqualis sectioni cuivis ipsius tubi, ductæ in velocitatem aquae per sectionem istam fluentis, & longitudinem tubi, per Theor. 3.\nDe Motu Aquar. fluent. Proinde Summa Motuum aquae in omnibus tubis simul sumptis, sive Motus aquae ex Machinæ orificio prorumpentis, æqualis est Summæ Factorum ex omnium tuborum sive filamentorum aquae sectionibus, ductis in longitudines, & velocitates, respectivas.\n\nCorol. 1. Motus aquae effluentis minor est Facto ex orificio A. velocitate aquae exeuntis, & longitudine filamenti aquae omnium longissimi. Est enim Factum ex orificio & velocitate aquae effluentis, æquale Summæ Factorum ex sectionibus filamentorum singulis ductis in velocitates respectivas; & Summa horum factorum, ducta in longitudinem filamenti omnium longissimi, major est quam Summa eorundem factorum cujusque in suam longitudinem.\n\n2. Motus Aquæ æquatur Facto ex orificio A & velocitate aquae exeuntis, ducto in longitudinem aliquam mediam inter longitudines filamentorum longissimorum & brevissimorum: vel æquatur Facto ex quantitate aquae dato tempore effluentis, & longitudine media praedictâ, applicato ad tempus illud datum.\n\n3. Si Machinæ plures similes aqua plenæ similiter contrahantur, sive æquabili velocitate mediâ, sive inæquabili, similiter tamen in omnibus Machinis aquæ, vel imminutæ; Motus, quo aqua ex Machinæ cujusque orificio prorumpit, rationem habet compositam ex ratione quadruplicata diametri cujusvis homologæ ipsius Machinæ, & reciproca temporis ratione, quo peragitur Machinæ contraction: vel rationem compositam, ex ratione ponderis Machinæ, vel molis aquae, sive Machinæ contentæ, sive ex eadem expulsa, ratione ejusdem ponderis, vel molis, subtriplicata, & ratione temporis reciproca.\n\nProblema\nPROBLEMA.\n\nInvenire Potentiam Cordis.\n\nSit $p =$ Pondus Ventriculi sinistri, sive quantitas Sanguinis eadem ponderi æqualis.\n\n$s =$ Superficies interna ejusdem.\n\n$l =$ Longitudo media filamentorum Sanguinis ex eodem prodeuntium.\n\n$s =$ Sectio Aortæ.\n\n$q =$ Quantitas Sanguinis Ventriculo sinistro contenti.\n\n$t =$ Tempus, quo Sanguis ex Corde expellere tur, sublatâ Arteriarum & Sanguinis præcedentis resistentiâ.\n\n$v =$ Velocitas variabilis, qua Sanguis ex Corde profiliens per Aortam fluere tur, sublatâ resistentiâ.\n\n$x =$ Longitudo variabilis Aortæ à Sanguine ex Corde effluente percurria.\n\n$z =$ Tempus, quo longitudo $x$ percurritur.\n\nInde velocitas media variabilis Sanguinis Ventriculo contigui, sive media velocitas ipsius Ventriculi $= \\frac{sv}{s}$.\n\nMotus Ventriculi (per Theor. 1. Cor. 2.) $= p \\times \\frac{sv}{s}$.\n\nMotus Sanguinis effluentis (per Theor. 2. Cor. 2) $= sv \\times l + x$.\n\nHorum Summa, sive Potentia Ventriculi $= sv \\times \\frac{p}{s} + l + x$. Est autem $v = \\frac{x}{z}$. Unde per Methodum Newtonianam inversam, elicitur Potentia Ventriculi $= \\frac{s}{z} \\times \\frac{p}{s} + \\frac{x}{z} + l$. Sed cum $z = t$, erit $sx = q$.\n\nHinc Potentia Ventriculi $= \\frac{q}{s} \\times \\frac{p}{s} + \\frac{q}{2s} + l$.\n\nSimili\nSimili ratione invenitur Potentia dextri Ventriculi\n\n\\[ = \\frac{q}{t} \\times \\frac{\\pi}{2} + \\frac{q}{2\\sigma} + \\lambda. \\]\n\nLiteris autem Graecis eadem significantur in dextro Ventriculo, quae Latinis in sinistro.\n\nHinc tota Cordis Potentia\n\n\\[ = \\frac{q}{t} \\times \\frac{p}{s} + \\frac{\\pi}{2} + \\frac{q}{2\\sigma} + l + \\lambda. \\quad Q.E.I. \\]\n\nSi ponatur\n\n\\[ p = 8 \\text{ unc. Avoord} = 13.128 \\text{ unc. cub.} \\]\n\\[ \\pi = 4 \\quad = 6.564 \\]\n\\[ s = 10 \\text{ unc. quadrat.} \\]\n\\[ \\Sigma = 10 \\]\n\\[ l = 2 \\text{ unc.} \\]\n\\[ \\lambda = 1 \\frac{1}{2}. \\]\n\n\\[ q = 2 \\text{ unc. Avoord.} = 3.282 \\text{ unc. cub.} \\]\n\\[ s = 0.4185 \\text{ unc. quadrat.} \\]\n\\[ \\sigma = 0.583 \\]\n\\[ t = 0.1'' \\]\n\nEx Keillianis Experimentis.\n\nErit Potentia Ventriculorum æqualis motui ponderum subscriptorum, nempe,\n\n| Ventriculi sinistri | Ventriculi dextri | Cordis totius |\n|---------------------|-------------------|---------------|\n| 9.1                 | 6.3               | 15.4          |\n\nQuorum ponderum ea est velocitas, qua percurratur longitudine uncialis singulis minutis secundis.\n\nCor. 1. Quoties Pulsus fit celerior; aut minuitur resistentia, aut Potentia Cordis augetur, aut minor solito Sanguinis copia singulis contractionibus ex Corde expellitur.\n\n2. Si Pulsus solito tardior fiat; necesse est, vel augeatur resistentia, vel Cordis Potentia minuatur, vel major Sanguinis moles ex Corde ejiciatur.\n\n3. Audita\n3. Aucta resistentia, necessario vel Pulsus retardabitur, vel augebitur Cordis Potentia, vel Sanguinis quantitas solito minor ex Corde exprimetur.\n\n4. Imminuta resistentia, vel Pulsus acceleratur, vel major Sanguinis copia quâque Systole ejicitur, vel Cordis vires minuuntur.\n\n5. Auctis Cordis viribus, necessario vel augebitur resistentia, vel Pulsus accelerabitur, vel plus Sanguinis ex Corde ejicietur.\n\n6. Viribus Cordis imminutis, vel minuatur necesse est resistentia, vel Pulsus tardior fiat, vel minus Sanguinis ex Corde exprimatur.\n\n7. Cum minor Sanguinis moles ex Corde projicitur; vel acceleratur Pulsus, vel Cordis vires minuuntur, vel augetur resistentia.\n\n8. Cum plus Sanguinis ex Corde exprimitur; vel Pulsus tardior fiet, vel augebitur Cordis Potentia, vel resistentia minuetur.\n\nSchol. 1. Ventricolorum superficies internas, cum facta difficillimum videatur, ut accurate determinetur, aut etiam ratio habeatur imminutionis quam inter contrahendum patiuntur, contenti suimus praeter propter aestimare: cum five easdem 12, five 8 uncii quadratis singulas aequales flatueris, perparva repetiatur Potentiarum facta mutatio. Quod etiam observari poterit de longitudine medii filamentorum Sanguinis. Praeterea differentias, qua Arteriae ambae, earumque rami proximi à Corde progredientes, sectione augmentur, ut aestimatu perdifciles & pene insensiles, negligimus. Alioqui esset Cordis Potentia tantillo minor statuenda, quam qua supra definita est.\n\n2. Determinavit Vir Celeberrimus, Jacobus Keilius, velocitatem sanguinis, resistentia lubmotâ, ex Corde effluentis, eam circiter, qua percurrantur pedes o singulis minutis secundis. Ponit vero ille celeritatem Sanguinis.\nguinis per totam Systolem aquabilem, quam nos insigniter inaequalem fieri, & perpetim à Systoles initio retardari supra ostendimus. Hanc si cui definire libuerit, substituenda est, in quarta Æquatione supra positâ, Potentia Ventriculi proxime inventa, & ipsi x valor quivis tribuendus, ut eliciatur v, sive velocitas eadem respondens. Ita, cum initio Systoles sit \\( x = 0 \\), sub finem vero \\( x = \\frac{1}{4} \\), determinatur inde ea Sanguinis velocitas initio Systoles, quà pedes \\( 14\\frac{1}{4} \\); in fine autem quà \\( 4\\frac{1}{4} \\), minuti secundi spatio percurrantur. Pariter in dextro Ventriculo: velocitas Sanguinis initialis pedes circiter \\( 10\\frac{5}{8} \\), ultima vero 3 pedes eodem temporis spatio conficet.\n\nAdhibuimus haecenus eam Hypothesin, quà Musculi Cordis Ventriculos constituentes Motum omnem, quo adiguntur in contractionem. Momento temporis concipiunt. Quod si ponamus Motum iis communicari non unico quidem Momento, sed tantillo tamen temporis spatio, quod cum totâ Systoles duratione comparatum rationem obtineat admodum exiguum; erit Cordis Potentia paululo major statuenda, quam quae supra determinata est. Si vero statutur iste Motus, procedente Systole, in ratione temporis augeri; erit totus Motus in fine Systoles acquisitus duplo major quam supra posimus, ubi nulla resistentia Sanguini ex Corde profluenti objicitur: Ubi autem solita adeat resistentia, erit idem quintuplo major; quod instituto calculo facile patebit. Pari ratione poterit calculus noster ad aliam quamlibet Hypothesin, quà Ventriculorum Motus in duplicatâ vel superiori quavis ratione temporis augeatur, accommodari. Potentia vero in fine acquisita suprapositâ clicitur longe major, nempe ex ratione duplicatâ Potentia tripla, ex triplicatâ quadrupla, ex quadruplicatâ quintupla, & sic in infinitum.\n\nNobis\nNobis autem videtur secunda Hypothesis, qua Ventriculi parvo admodum temporis spatio Motum omnem concipiunt, cæteris longe verisimilior. Quum necesse sit, ut aliquid temporis impendatur ad Motum quemlibet generandum; neque videatur adeo tarde increscere Ventriculorum Motus, ut non celerius augeatur, quam secundum temporis rationem. Motus enim Musculorum impetu solo Fluidorum quorumcumque, quæ ex Sanguine proveniunt, perfici nequit; quum Brachio alterutro Motum exercere possimus Motu Sanguinis per vasa Corporis universa profluentis longe majorum. Relinquitur ergo, ut Musculorum fibrae Ventriculos Cordis constituentium, rareficientiâ quâdam liquorum in eadem influentium, in Motum impellantur. Hæc autem, quoties vim magnam concipit, plerumque subita est, & fere instantanea. Adde quod Ventriculorum Motus secundum hanc Hypothesin longe minor efficitur, quam in tertiâ. Non solet autem sapientissimus Artifex, Rerum Conditor, in operibus suis plus Virium adhibere, quam quantum sufficit ad finem propositum consequendum.\n\nCæterum sive admittatur ista Hypothesis, sive alia quæcunque ex supra dictis verior censeatur, poterunt omnia Corollaria nostra codem jure ex Problemate deduci. Quæ utrum aliquid adjumenti afferant ad Morborum Historiam explicandam Medico sagaci considerandum permittimus. Facile autem ex Morbi cujusque Naturâ sciri poterit, utrum aucta sit vel imminuta resistentia. Augeri vero credibile est vel imminui Cordis vires auctis vel imminutis Musculorum reliquorum viribus; quamvis aliter statuisse video Virum Celeberrimum, Laurentium Bellinum.\n\nF f f f f f f Theorems\nTheorema III.\n\nTotus Motus resistentiae, que Sanguini ex Corde erumpenti durante Systole objicitur, sive totus Motus, qui Sanguini praecedenti & Arteriarum tunicis communicatur, toti Cordis Potentiae quamproxime aequalis est.\n\nDem. Peracta Cordis Systole, quae pars Aortae & Arteriae Pulmonalis Cordi proxima est, perstat plena Sanguine per totam Systolem Arteriarum. Nec enim patitur earum fabrica & nexus, quo Cordi conjunctae sunt, ut tunicis in se se penitus collabentibus totae occludantur, neque potest earum cavum Sanguine vacare. Alioqui enim, contrahentibus se se reliquis Arteriarum partibus, Sanguis iisdem contentus retro in vacuum impelleretur motu, & inutili & motui Sanguinis naturali contrario. Tum etiam Valvulae Semilunares non tenderentur versus Ventriculos, adeoque Sanguis ex Auriculis in Ventriculos expressus, etiam in Diastole Cordis, in Arterias protruderetur.\n\nHinc patet Sanguinem proxime ex Corde expulsum Systole peracta immotum in Arteriis persistere, adeoque tum omnem Ventricolorum Motum excepisse, tum eundem totum partim Sanguini antecedenti, partim tunicis Arteriarum communicasse. Q.E.D.\n\nTheorema IV.\n\nMotus, qui in Systole Cordis communicatur Sanguini praecedenti, est ad Motum tunicis Arteriarum communicatum, ut tempus Systoles Cordis ad tempus Diastoles quamproxime.\n\nDem. Quum Sanguis per vasa Corporis universa, si partes Arteriarum Cordi propiores exceperis, aquabilis cursu deferatur; necesse est, ut tum Motus affrictus Sanguinis ad valorum latera deperditus, tum Motus Sanguini redditus a Systole sive Cordis sive Arteriarum\nrum, æqualibus temporibus æqualis sit. Qui autem Motus à Systole Arteriarum Sanguini communicatur, idem est præcise, qui prius à Cordis Systole Arteriarum tunicis fuerat impressus, cum Arteriæ eodem impetu quo distractæ fuerint etiam restituantur. Et Systole Arteriarum cum Cordis Diastole duratione convenit. Unde patet Propositum. Q. E. D.\n\nCor. Si ponamus cum Viro Doctissimo Jacobo Keillio, Systolen Cordis peragi tertiar parte temporis inter Pulsus binos intercepti; erit Motus Sanguini præcedenti communicatus totius Potentiae Cordis pars tertia: Motus vero Arteriis communicatus prioris duplus, sive duæ partes tertiaræ totius Cordis Potentiae.\n\nTheorema V.\n\nIn diversis Animalibus Potentia Cordis rationem obtinet compositam, ex ratione quadruplicata Diametri cujusvis homologæ Animalis, & ratione inversâ temporis, quo Cor contrahitur: vel rationem compositam, ex ratione ponderis vel ipsius Cordis vel integri Animalis, ratione ponderis ejusdem subtriplicata, & ratione temporis reciproca.\n\nFacile demonstratur vel ex Corol. 3. Theor. 1 & 2: vel ex Potentia Cordis Problemate præcedente definita,\n\nCor. 1. Si ponatur Cordis Potentiam rationem obtinere ponderis vel ipsius Cordis, vel integri Animalis, vel Sanguinis copiæ in toto Animali; erit Animalis longitudo in ratione temporis, quo Cordis Systole perficitur, sive in ratione inversâ frequentiæ Pulsuum.\n\n2. Si ratio longitudinis integri Animalis major fuerit ratione inversâ frequentiæ Pulsuum, necesse est major sit ratio Potentiae Cordis ratione ponderis ejusdem.\n\nSchol. Quum constet Experimentis Puerorum Pulsus non esse tanto frequentiores Pulsibus Virorum, quanto Pueri Virorum longitudine superantur, concludendum est,\nest, vi secundi Corollarii, Potentiam Cordis Virilis maiorem obtinere rationem ad Potentiam Cordis Pueri, quam est ratio ponderum. Et par est ratio in cæteris Musculis. Nam si Corporis robur rationem ponderis sequeretur, possent Pueri æqualia itinerum spatia eodem tempore cum Viris conficere.\n\nSimili ratione ac Motum Sanguinis ex Ventriculis Cordis erumpentis ope secundi Theorematis determinavimus, poterit quoque Urinæ Motus ex Urethrâ profluentis determinari. Nempe si ponatur Urethræ & Vesicæ longitudo 12 unciiæ æqualis, & binæ unciaæ Urinæ minutì secundi spatio emittantur, erit Motus Urinæ effluentis æqualis. Motui ponderis libræ 1 1/2, quod uncialem longitudinem singulis minutis secundis percurrat. Quoniam vero Urina non solis Vesicæ Urinariæ viribus contractivis, sed etiam Diaphragmatis & Musculorum abdominalium ope in subsidium vocatâ, expelliatur, nequit Vesicæ Potentia ex Motu Urinæ profluentis æstimari.\n\nHæc tu, Vir Doctissime, æqui bonique consulas rogo: ipse autem ut diutissime valeas, utque existimationem tuam, & ipsam Artis Æsculapiæ dignitatem usque ut hactenus fecisti, insigniter tueri pergas, ac magis indies magisque extendere, idcirco ex animo voveo, quia publicam ad salutem pertinere arbitror.\n\nCalendis Januarii,\n1717.\n\nV. Nova",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103343.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 11,
+    "total-input-tokens": 16512,
+    "total-output-tokens": 5065,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        728,
+        2
+      ],
+      [
+        728,
+        2327,
+        3
+      ],
+      [
+        2327,
+        3576,
+        4
+      ],
+      [
+        3576,
+        4984,
+        5
+      ],
+      [
+        4984,
+        6666,
+        6
+      ],
+      [
+        6666,
+        8480,
+        7
+      ],
+      [
+        8480,
+        10075,
+        8
+      ],
+      [
+        10075,
+        11647,
+        9
+      ],
+      [
+        11647,
+        13339,
+        10
+      ],
+      [
+        13339,
+        14603,
+        11
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103343",
+    "title": "Pars Reliqua Dissertationis De Potentia Cordis. Authore Jacobo Jurin, M. D. & R. Societatis Soc.",
+    "authors": "Jacobo Jurin",
+    "year": 1717,
+    "volume": "30",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 11,
+    "jstor_url": "https://www.jstor.org/stable/103343"
+  }
+}

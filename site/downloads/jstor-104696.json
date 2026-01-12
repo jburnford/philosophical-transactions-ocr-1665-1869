@@ -1,0 +1,59 @@
+{
+  "id": "26a51b21dcf0a95e6ffcde3365f84db1c3a00492",
+  "text": "VII. Observatio Eclipseos Lunaris totalis cum mora, habita Wittembergae, 1750, die 19 Junii, tubo 6 ped. pro correctione horologii, quadrante telescopico 18 digitorum, altitudines Solis correspondentes die 19 Junii, per G. M. Bose, Physic. Prof. Wittembergae, &c.\n\nRead Nov. 22, 1750.\n\n| h | \" | alt. Osis | h | \" | h | \" | h | \" |\n|---|---|-----------|---|---|---|---|---|---|\n| 8 | 11 | 4 | 38° 34' | 3 | 47 | 40 | 22 | 58 | 44 | 11 | 59 | 22 | hinc meridies |\n| 12 | 30 | 38 | 44 | 46 | 9 | 58 | 39 | 59 | 19½ | correctio ob declin. solis |\n| 18 | 17 | 39 | 40 | 40 | 31 | 58 | 43 | 59 | 24 | meridies correct. |\n| 20 | 23 | 40 | 0 | 38 | 39 | 59 | 2 | 59 | 31 | et correctio horologii |\n| 23 | 30 | 40 | 25 | 35 | 17 | 58 | 47 | 59 | 23½ |\n| 27 | 36 | 41 | 0 | 31 | 23 | 58 | 59 | 59 | 29½ |\n| 29 | 4 | 41 | 15 | 30 | 2 | 59 | 6 | 59 | 33 |\n\nCælum ortum versus densis semper nubibus tectum. Tandem temp. horol. temp. corr.\n\n| h | \" | h | \" |\n|---|---|---|---|\n| 10 | 50 | 0 | 10 | 50 | 37 | Luna ad momentum visibilis. Emerfio diu præterierat. |\n| 54 | 0 | 54 | 37 | Ariftarchus jam detectus. |\n| 58 | 13 | 58 | 50 | partes lucide 3 rev. 220° hoc est 9 49\" |\n| 11 | 0 | 22 | 11 | 0 | 59 | 4 | 75 | 11 | 26 |\n| 3 | 36 | 4 | 13 | 4 | 192 | 12 | 19 |\n| 6 | 3 | 6 | 40 | 5 | 37 | 13 | 52 |\n| 9 | 53 | 10 | 30 | 5 | 245 | 15 | 26 |\n| 12 | 1 | 12 | 38 | 5 | 3:9 | 16 | 13 |\n| 14 | 8 | 14 | 45 | 6 | 1:2 | 17 | 27 |\n| 16 | 9 | 16 | 46 | 6 | 3:21 | 18 | 43 |\n| 18 | 32 | 19 | 9 | 7 | 1:22 | 19 | 56 |\n| 20 | 40 | 21 | 17 | 7 | 2:05 | 21 | 1 |\n| 23 | 7 | 23 | 44 | 7 | 3:19 | 21 | 25 |\n| 25 | 16 | 25 | 53 | 8 | .55 | 22 | 9 |\n\nVix credo ex eclipsibus lunaribus differentiam meridianorum tuto erui.\n\ntemp. horol. temp. corr.\n\n| h | \" | h | \" |\n|---|---|---|---|\n| 11 | 40 | 0 | 11 | 40 | 37 | finis umbra veræ, mihi. |\n| 45 | 17 | finis, amico. tubo quadrantis 1½ ped. |\n| 49 | 30 | finis, ex projectione amici. |\n| 39 | 38 | finis, ex calendario correeto Lipf. |\n| 39 | 11 | finis, fufuant la Connoifiance des temps. |\n| 39 | 46 | finis, ex ephemeridibus Manfredii. |\n\nadhibita differentia meridianorum quam 1743 per merc. in foie determinavi, et qua utitur Acad. Parisin. in dicta Connoifiance.\n\nDiameter Lunæ micrometro = 11 142 hoc est 30' 57\"\n\nHinc femidiameter Lunæ = 15 28½\n\nEadem, secundum Nicasium Grammatici = 15 25 Vide Rofts Tab. 12.\n\nsecundum J. Gaupplum, 15 23 Astronom. Tab. 13.\n\nsecundum calendarium Lipfiense 15 32\n\nVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104696.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 1394,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2433,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104696",
+    "title": "Observatio Eclipseos Lunaris Totalis Cum Mora, Habita Wittembergae, 1750, die 19 Junii, Tubo 6 ped. pro Correctione Horologii, Quadrante Telescopico 18 Digitorum, Altitudines Solis Correspondentes die 19 Junii, per G. M. Bose, Physic, Prof. Wittembergae, &c.",
+    "authors": "G. M. Bose",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104696"
+  }
+}

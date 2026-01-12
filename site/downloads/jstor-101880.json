@@ -1,0 +1,59 @@
+{
+  "id": "4f915fd0b1a7601bec8b659b98def1325340df54",
+  "text": "draw from them, I have already given the reasons of my dissent, which this Gentleman is not pleased to understand. But to end all controversies he may please to consult Mr. Perrault, de la Hire, or any other at Paris well known to be skilled in Hydraulicks: and I doubt not but he will find them of the same opinion with Mr. Boyle, Mr. Hook and other knowing persons here, who all agree that our Author is in this matter under a mistake.\n\n---\n\n**Occultatio Saturni a Luna plena, Anno 1687. Martii 19no. mane: observata a Dno Ed. Haines R. S. S. ad Totteridg prope Londinum, sub Latitudine 51. 39.**\n\n**Ingruente Eclipse, ad corrigendum Horologium Oscillatorium capit aliquot Altitudines Pollucis. viz.**\n\n| Horologii | Temp. corr |\n|-----------|------------|\n| H. m. s.  | G. m.      |\n| 12 06 10 | Alt. Pollucis |\n| 10 05    | 28 35      |\n| 13 30    | 28 00      |\n| 16 47    | 27 28      |\n| 18 00    | 26 59      |\n| 18 30    | 12 22 47   |\n| 19 00    | 1 24 00    |\n| 19 30    | 1 24 30    |\n| 19 00    | Jam Saturnus omnino latuit. |\n| 01 25    | Eodem die post meridiem |\n| 03 47    | Altitudo centri Solis. |\n| 06 20    | 20 00      |\n| 09 05    | 19 41      |\n|          | 19 18      |\n|          | 8 55       |\n|          | Emerso ob nubes videri non potuit. |\n\nADis-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101880.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 558,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1277,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101880",
+    "title": "Occultatio Saturni a Luna Plena, Anno 1687. Martii 19no. Mane: Observata a Dno Ed. Haines R. S. S. ad Totteridg Prope Londinum, Sub Latitudine 51.39",
+    "authors": "Ed. Haines",
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101880"
+  }
+}

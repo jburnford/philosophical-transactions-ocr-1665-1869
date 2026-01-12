@@ -1,0 +1,79 @@
+{
+  "id": "445369dd8ea3a1930c7db4892c630f0c8d30a5d5",
+  "text": "XVI. Account of a luminous Appearance in the Heavens. By Mr. Tiberius Cavallo, F. R. S. in a Letter to Sir Joseph Banks, Bart. P. R. S.\n\nRead April 5, 1781.\n\nI take the liberty to send you an account of a luminous appearance observed last night in the heavens, which seems to be very singular in its nature, and quite distinct from the aurora borealis.\n\nAt about half an hour past nine yesterday evening, being the 27th of March, a white light began to be seen in the sky, which became gradually more and more dense till ten o'clock, at which time it formed a compleat luminous arch from east to west. Of this I have been informed by others; but at a quarter past ten I went out of the house and observed it myself. At that time it appeared to be an arch of about seven or eight degrees in breadth extended from east to west, or, as some of my friends imagined, in the direction of east by north to west by south. Its western part quite reached the horizon; but the eastern part of the arch seemed to begin at about $50^\\circ$ or $60^\\circ$ above the horizon. It did not pass through the zenith but at about $8^\\circ$ or $10^\\circ$ southward of it, and it was nearly perpendicular to the horizon.\n\nThe whiteness of this arch was much denser than that any aurora borealis I ever observed, though it did not cast so much light upon the terrestrial objects. Towards the middle it was so dense, that the stars over which it passed were eclipsed;\neclipsed; but the sides of this luminous arch were more faint and transparent.\n\nThe inclosed drawing shews its appearance at about half an hour past ten o'clock. At about three quarters past ten it began to lose its brightness, first at A, and then vanished gradually, so that at eleven o'clock none of it could be perceived. As soon as any part of this arch lost its dense whiteness, the stars appeared through it quite distinct, so that it could not be a cloud. The light also seemed to vanish without change of place; for it did not appear to be dispersed through the sky, or to be driven in any direction.\n\nThis extraordinary appearance to me seemed quite distinct from the aurora borealis for the following reasons, viz. because it eclipsed the stars over which it passed; because its light, or rather its white appearance, was stationary and not lambent; and because its direction was from east to west.\n\nThe atmosphere was in other respects very serene, the stars shining very bright, and no cloud appearing. The northern light was exceedingly faint, and very low about the northern point of the horizon. The wind was nearly north-east, and it could be just perceived in the streets.\n\nI am, &c,\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106526.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6134,
+    "total-output-tokens": 732,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1442,
+        2
+      ],
+      [
+        1442,
+        2644,
+        3
+      ],
+      [
+        2644,
+        2644,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106526",
+    "title": "Account of a Luminous Appearance in the Heavens. By Mr. Tiberius Cavallo, F. R. S. in a Letter to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Tiberius Cavallo",
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106526"
+  }
+}

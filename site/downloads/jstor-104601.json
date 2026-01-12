@@ -1,0 +1,99 @@
+{
+  "id": "f329dc7393b537f9ceba9cfac83214066aeca256",
+  "text": "but they had as yet no Wings. This Observation shews, that the Author of the foregoing Account was mistaken, when he says, \"These Insects had at first 'the Form of Grubs, or small Worms.'\" They change their Skin several times, but they do not acquire Wings till they have changed for the last time.\n\nThe Grasshoppers that were taken in England in 1748, have been compared with those that have been sent over from Hungary and from Poland that same Year, and they have been found to be perfectly of the same kind. There are in Sir Hans Sloane's Collection * some of the same sort of Locusts or Grasshoppers, preserved in Spirits of Wine, and which were taken up here above thirty Years since, and are exactly like those from Egypt and Barbary.\n\nX. A Letter from Mr. Henry Baker F.R.S. to the President, concerning some Vertebrae of Ammonitae, or Cornua Ammonis; communicated to Mr. Baker by the Rev. Dr. Miles F.R.S.\n\nSIR,\n\nRead Feb. 9 I HAVE now the Honour to lay before you a curious and most extraordinary Fossil, which was lately sent to me for that Purpose by my worthy Friend Dr. Miles, of Tooting, F.R.S. It consists of 26 Joints, which he calls Vertebrae, and I believe supposes to have been the Joints of the Back-Bone or Tail of some Animal; but, upon considering\n\n* See Sir Hans Sloane's Hist. of Jamaica, vol. I. p. 29.\nfidering them with Attention, they will perhaps rather be judged to be the several articulated Divisions that compose the Body of some kind of Nautilus, or of some one or other of the various Species of the Ammonite: Which Opinion is I think supported, not only by the spiral Figure, which they form when put together, but likewise by the Traces or Markings of such-like Articulations, found on some particular Kinds of fossil Nautili and Ammonite; one whereof I also lay before you, as a Proof of this Conjecture.\n\nYou will observe all the Parts of this uncommon Fossil are converted into a sort of sparry Substance, and that they are articulated with one another in an exact and beautiful Order. I have fastened them together in two Divisions, that they may be examined more easily than they could be, if they were all separate, and in Confusion: And indeed I am not quite satisfied that these two Bundles belonged both to the same individual Animal; if they did, some Joints must be wanting that came between them, and united them together, as the two Ends do not at present match: And what makes me suspect they did not, is a different Articulation to be observed on one Side of that Division made up of the largest Joints: Besides, the whole Number appears rather too much, and the smaller Joints seem to make up a Body whose Figure is nearly perfect.\n\nStrand, Feb. 9.\n1748-9. Your most obedient humble Servant,\nH. Baker.\n\nSee Tab. II.\n\nFig. 1. The larger Joints.\nFig. 2. The smaller Joints.\nFig. 3. and 4. The fore and back Side of a single Joint.\n\nP. S.\nP. S. Dr. Miles says they belong to Dr. Clark of St. Alban's; that they were found in Oxfordshire, and were formerly in the Possession of the late Mr. William Becket Surgeon, F. R. S.\n\nXI. The Case of Mr. Smith, Surgeon, at Sudbury in Suffolk; the Coats of whose Stomach were changed into an almost cartilaginous Substance; communicated by the Rev. Mr. Murdock to Cromwell Mortimer M. D. Secret. R. S.\n\nRev. Sir,\n\nClare, Oct. 11, 1747.\n\nRead Feb. 9. 1748-9.\n\nAccording to your Desire I send you the material Particulars of Mr. Smith's Case. As there was something uncommon in it, and as it may be for the Benefit of Mankind, which was the Design, and a generous one it was, of my deceased Friend, in resolving a good while before his Death to be opened, I shall take it as a Favour that you will communicate it to Dr. Mortimer. I could not, for the Thing struck me very strongly, forbear making a few Remarks: But I leave it entirely to your Discretion to suppress or send them with the Case. I am,\n\nDear Sir,\n\nYours most sincerely,\n\nJ. Sayer.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104601.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9822,
+    "total-output-tokens": 1177,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        1330,
+        4
+      ],
+      [
+        1330,
+        2891,
+        5
+      ],
+      [
+        2891,
+        3934,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104601",
+    "title": "A Letter from Mr. Henry Baker F. R. S. to the President, concerning Some Vertebrae of Ammonitae, or Cornua Ammonis; Communicated to Mr. Baker by the Rev. Dr. Miles F. R. S.",
+    "authors": "Henry Baker, Dr. Miles",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/104601"
+  }
+}

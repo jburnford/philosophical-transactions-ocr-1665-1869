@@ -1,0 +1,69 @@
+{
+  "id": "567782be3473df944d2686d52f8fe9a00ae55354",
+  "text": "Tongue was consum'd, except its investing membrane, which was likewise of a blackish colour, and wasting away. The integuments and muscles of the face, from the middle of the forehead to the chin, were become black, and crumbling into dust. The pudenda were quite reduced to their membranes, which were also become black, and mouldering away. The nails were grown about the third part of an inch beyond the fingers and toes, and excepting a little alteration in colour, in every respect in a natural state.\n\nI shall now restrain my pen from being any further tedious, and hope what I have communicated will be acceptable to you.\n\nAshburton, Sept. 18. Your most obedient servant,\n\nNicholas Tripe.\n\nXXXVIII. Extract of a Letter from Professor Euler, of Berlin, to the Rev. Mr. Caspar Wetstein, Chaplain to Her Royal Highness the Princess Dowager of Wales.\n\nSIR,\n\nRead Oct. 24. You have heard, without doubt, that that the Academy at St. Petersburg have fixed a prize of one hundred ducats, which they will give every year to him, who shall give the best answer to the question, that shall be proposed; and for the first time they have proposed this question: \"Whether\n\"Whether the theory of Sir Isaac Newton is sufficient to explain all the irregularities which are found in the motion of the moon?\"\n\nThis question is of the last importance; and I must own, that, till now, I always believed, that this theory did not agree with the motion of the apogee of the moon. Mr. Clairaut was of the same opinion; but he has publicly retracted it, by declaring, that the motion of the apogee is not contrary to the Newtonian theory. Upon this occasion I have renew'd my inquiries on this affair; and, after most tedious calculations, I have at length found to my satisfaction, that Mr. Clairaut was in the right, and that this theory is intirely sufficient to explain the motion of the apogee of the moon. As this inquiry is of the greatest difficulty, and as those, who hitherto pretended to have proved this nice agreement of the theory with the truth, have been much deceived, it is to Mr. Clairaut that we are obliged for this important discovery, which gives quite a new lustre to the theory of the great Newton: and it is but now, that we can expect good astronomical tables of the moon.\n\nXXXIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105051.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 610,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1166,
+        2
+      ],
+      [
+        1166,
+        2290,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105051",
+    "title": "Extract of a Letter from Professor Euler, of Berlin, to the Rev. Mr. Caspar Wetstein, Chaplain to Her Royal Highness the Princess Dowager of Wales",
+    "authors": "Professor Euler",
+    "year": 1751,
+    "volume": "47",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105051"
+  }
+}

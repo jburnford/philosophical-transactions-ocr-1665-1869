@@ -1,0 +1,59 @@
+{
+  "id": "4f63bf4a9762dfaf0253bb3a644d4e063faee5e2",
+  "text": "by cool and serene Weather: As also the unusual Number and Largeness of the Spots on the Sun's Disk, for almost two Years together; by which Means, in such a Length of Time, the Force of its Rays might be obstructed in some Degree, and the colder Winds thereby have Liberty to prevail. The Air by these concurrent Causes being rendered very cold, the Encrease, and extreme Degree of it proceeded from the great Cloudiness of the Sky; and the blowing of the N. E. or E. Wind, so remarkably observable for the most part of the Frost.\n\nVII. Occultatio Veneris à Lunâ subeunte Berolini visà die 19 Septembris 1729, N. S. p. mer. à D. Kirchio. Ex Diario Meteorologico (M.S.) J. Fred. Weidleri, L. L. D. & Math. Prof. Prim. Wittembergæ.\n\nCONTIGIT Accessus Lunæ ad Venerem 2 H. 2' 16''. Occultatio totalis 2 H. 3' 1''. Idem, per Telescopium octodecim Pedum notavit Venerem ferè in Quadraturâ positam, cum prope Lunæ discum accederet, figuram mutasse, & Falcis cuspides amisisse; unde Ovalis vel Elliptica figura oriebatur: Quod spectaculum pro comprobandâ Lunæ Atmosphærâ laudari posse D. Kirchius censet.\n\nLONDON:\nPrinted for W. Innys, at the West-End of St. Paul's Church-Yard.\n\nMDCCXXX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103532.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 427,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1182,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103532",
+    "title": "Occultatio Veneris à Lunâ Subeunte Berolini Visa Die 19 Septembris 1729, N. S. P. Mer. à D. Kirchio. Ex Diario Meteorologico (M.S.) J. Fred. Weidleri, L. L. D. & Math. Prof. Prim. Wittembergae",
+    "authors": "J. Fred Weidleri",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103532"
+  }
+}

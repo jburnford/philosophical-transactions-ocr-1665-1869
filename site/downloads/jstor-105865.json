@@ -1,0 +1,69 @@
+{
+  "id": "056a410b1acefdb63935a005b706ccc6c48e7da7",
+  "text": "LXVII. Observation of the Transit of Mercury over the Sun, October 25, 1743. In a Letter to Professor Bliss, late Astronomer Royal and F.R.S. from John Winthrop, F.R.S. Professor of Astronomy in Cambridge, New England.\n\nRev. Sir,\n\nGive me leave to lay before you an observation of the transit of Mercury, 25 October, 1743; which, if I mistake not, will determine the longitude of Cambridge, New England, with more exactness than any of the observations that have been used for that purpose. I adjusted my clock by correspondent altitudes of the bright star of Aries, taken the night before the transit with a quadrant of two feet radius; and on the day of the transit, by correspondent altitudes of the Sun; all of which agreed within $5''$; and allowed for the difference of the Sun's declination, morning and afternoon.\n\nThe morning was fair and calm, but hazy; notwithstanding which, I had a good view of the Planet, and with a 24 feet telescope observed that\n\nAt $8^h 17' 5''$ & in his egress touched $\\odot$'s limb.\n\n$18' 58''$ went off entirely.\n\nVol. LIX. T t t I could\nI could not be so certain of the moment when he left the Sun, as of his interior contact. For the Sun's limb, undulating in the vapours of the horizon, made it somewhat difficult to judge when the indenture, formed by the Planet upon it, entirely ceased. However, I believe this latter observation may be relied on to 4 or 5''. The comparison of this observation with those made in Europe will, I presume, determine the difference of meridians within a few seconds of time.\n\nI beg, Sir, you will excuse the freedom I have now taken, since it is in the cause of astronomy, and allow me to subscribe myself, with great respect,\n\nReverend Sir,\n\nYour most obedient,\n\nhumble servant,\n\nCambridge, New England,\n20 June, 1763.\n\nJohn Winthrop.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105865.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 547,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1077,
+        2
+      ],
+      [
+        1077,
+        1811,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105865",
+    "title": "Observation of the Transit of Mercury Over the Sun, October 25, 1743. In a Letter to Professor Bliss, Late Astronomer Royal and F. R. S. from John Winthrop, F. R. S. Professor of Astronomy in Cambridge, New England",
+    "authors": "John Winthrop",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105865"
+  }
+}

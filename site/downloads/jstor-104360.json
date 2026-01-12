@@ -1,0 +1,79 @@
+{
+  "id": "94c5b700f75bf347c4224dc6b3d75c7bf125f5af",
+  "text": "Light on the common Classics, to which I have confined this Examination, and which must be my Excuse for the Citations. I am, with great Respect,\n\nThe Royal Society's\n\nand your most obedient\n\nhumble Servant,\n\nE. Latham.\n\nXV. *Lumen Australe Romæ observatum die 27 Jan. An. 1740.* a Didaco de Revillas, Abbate Hieronym. P. Math. Prof. & R. S. S.\n\nCOELO undique nubilo, notoque vehementer flante, hora post Meridiem 6a. rubescens lumen inter gradus 45 & 55 amplitudinis ortivæ australis apparebat. Maxima ejus supra horizontem latitudo gradus circiter 9 æquabat. Parte tamen Coeli horizonti proxima ad unum circiter gradum obtenebrata spatium fere parallelogrammum gradus 10 latum, 8 altum lumini concedebatur; quod in suprema parte magis, minus in ima splendescet. Inter densiores nubes altera summe nigricans *AB* TAB. VI. Fig. 3. horizonti propemodum parallela, supra lumen, meridiem versus protendebatur.\n\nPost horæ semissem vividius sensim micabat splendor; sensimque iterum minuebatur: quod pluries usque ad horam 9 observatum. Interim tenuis horizonti\nzonti itidem parallela nubecula C.D lumen a meridionali plaga intersecans, comparebat. Circa horam 9 nubes aliæ ab orientali versus meridionalem plagam paullatim procedentes splendorem jam languescentem obtegebant: & circa horam 9 ½ penitus extinguebant. Post horam 12 largus imber decidebat.\n\nBarometrum toto hoc tempore ad altitudinem pollicum Parisin. 27. 9 ¼ consistebat. Thermometrum mercuriale (quod in aqua ebulliente notat gr. 0.; in nive vero salis communis duabus quintis partibus permixta, gr. 180) designabat tunc temporis gr. 141.\n\nMonemus interea lumen hocce nedum splendididius, verum & eminentius visum eodem tempore, & ad eandem plagam ab nonnullis Viterbio ad Urbem accedentibus, ac ab aliis in Via Valeria (hoc est, ad orientem Romæ) quinto supra vicesimum ab eadem urbe millario iter facientibus.\n\n---\n\nCorrigenda in Philos. Transactions, No 459.\nPage 646. Line 12. for 10° 02' 00'' read 10'.\n647. Line 7. for Oct. 28. read 27 Oct.\n648. Line 9. for 15h 53' 4'' read 15h 55' 4''.\n\n---\n\nLONDON:\n\nPrinted for T. WOODWARD, and C. DAVIS, over-against Gray's Inn-Gate in Holbourn; PRINTERS to the ROYAL SOCIETY. M.DCC.XLIV.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104360.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6640,
+    "total-output-tokens": 889,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1057,
+        3
+      ],
+      [
+        1057,
+        2194,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104360",
+    "title": "Lumen Australe Romae Observatum Die 27 Jan. An. 1740. a Didaco de Revillas, Abbate Hieronym. P. Math. Prof. & R. S. S.",
+    "authors": "Didaco De Revillas",
+    "year": 1739,
+    "volume": "41",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104360"
+  }
+}

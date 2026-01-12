@@ -1,0 +1,59 @@
+{
+  "id": "fa7bac563ff9cb2e4278c6039fbaa8ec79506131",
+  "text": "Trees. On the Scales found on the Skin, &c. VIII. A Proposal concerning the Parallax of the fixt Stars in reference to the Earth's annual Orb: Being the Extracts of several Letters, dated May 2. June 29. and July 20.1693. from the Reverend Dr. John Wallis, S. R. S. to William Molineux, Esq; IX. An Account of a Book, Entituled, Synopsis Methodica, Animalium Quadrupedum & Serpentini Generis, Vulgarium Notas Characteristicas, Rariorum Descriptiones integras exhibens: Cum Historiis & Observationibus Anatomicis perquam curiosis, &c. Anctore Joaune Raio, S. R. S. in 8° Lond. Impensis S. Smith & B. Walford.\n\nAn ADVERTISEMENT belonging to Page 826. of this Transaction.\n\nFig. 4. represents one of the Tubera Terre whole, the Papillae and Fibres being observable thereon. Fig. 5. The same Truffle cut through the middle to shew the inside full of whitish Veins.\n\nERRATA.\n\nNumb. 198. p. 661. l.14. for Cartilages r. Tendons. p.670. r. Gnaphalium, p. 681. l. 1. r. Q=2/3. Numb. 199. p. 713. l. 23. r. setting on of. p.714. l. 26. r. Fig. 14. p. 715. l. 17. r. determine, p. 716. l. 6. r. Aqueus.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101982.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 467,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1092,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101982",
+    "title": "An Advertisement",
+    "authors": null,
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101982"
+  }
+}

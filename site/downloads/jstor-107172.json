@@ -1,0 +1,69 @@
+{
+  "id": "6dc9f68c6d3f338a00550f1b5877216217520e9e",
+  "text": "XV. On a Method of analyzing Stones containing fixed Alkali, by Means of the Boracic Acid. By Humphry Davy, Esq. F. R. S. Professor of Chemistry in the Royal Institution.\n\nRead May 16, 1805.\n\nI have found the boracic acid a very useful substance for bringing the constituent parts of stones containing a fixed alkali into solution.\n\nIts attraction for the different simple earths is considerable at the heat of ignition, but the compounds that it forms with them are easily decomposed by the mineral acids dissolved in water, and it is on this circumstance that the method of analysis is founded.\n\nThe processes are very simple.\n\n100 grains of the stone to be examined in very fine powder, must be fused for about half an hour, at a strong red heat, in a crucible of platina or silver, with 200 grains of boracic acid.\n\nAn ounce and half of nitric acid, diluted with seven or eight times its quantity of water, must be digested upon the fused mass till the whole is decomposed.\n\nThe fluid must be evaporated till its quantity is reduced to an ounce and half or two ounces.\n\nIf the stone contain silex, this earth will be separated in the process of solution and evaporation; and it must be collected upon a filter, and washed with distilled water till the boracic acid and all the saline matter is separated from it.\nThe fluid, mixed with the water that has passed through the filter, must be evaporated, till it is reduced to a convenient quantity, such as that of half a pint; when it must be saturated with carbonate of ammonia, and boiled with an excess of this salt, till all the materials that it contains, capable of being precipitated, have fallen to the bottom of the vessel.\n\nThe solution must then be separated by the filter, and the earths and metallic oxides retained.\n\nIt must be mixed with nitric acid till it tastes strongly sour, and evaporated till the boracic acid appears free.\n\nThe fluid must be passed through the filter, and subjected to evaporation till it becomes dry; when, by exposure to a heat equal to $450^\\circ$ Fahrenheit, the nitrate of ammonia will be decomposed, and the nitrate of potash or soda will remain in the vessel.\n\nIt will be unnecessary for me to describe minutely the method of obtaining the remaining earths and metallic oxides free from each other, as I have used the common processes. I have separated the alumine by solution of potash, the lime by sulphuric acid, the oxide of iron by succinate of ammonia, the manganese by hydrosulphuret of potash, and the magnesia by pure soda.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107172.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 663,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1317,
+        2
+      ],
+      [
+        1317,
+        2531,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107172",
+    "title": "On a Method of Analyzing Stones Containing Fixed Alkali, by means of the Boracic Acid",
+    "authors": "Humphry Davy",
+    "year": 1805,
+    "volume": "95",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107172"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "bde539bf357f06dc1969e601e9fe74a9639aaf71",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nNovember 15. 1669.\n\nThe Contents.\n\nA Description of Dr. Christopher Wren's Engin, designed for Grinding Hyperbolical Glasses. Some Inquiries concerning the Salt-springs at Nantwich, answered. An Extract of a Letter, concerning the Death of the Bigg-breasted Woman, discoursed of in Numb. 52. An accompt of some Books: I. CERTAIN PHILOSOPHICAL ESSAYES, and other TRACTS by the Honorable ROBERT BOYLE: The Second edition, enlarged. London; printed for H. Herringman in the New-Exchange; A. 1669. II. DEL MOVIMENTO DELLA COMETA, apparsa A. 1664: Da PIETRO MARIA MUTOLI, in Pisa, in 4°. III. ERASMI BARTHOLINI de COMETIS A. 1664. & A. 1665. Opusculum. Hafniæ in 4°. IV. SYLVA & POMONA, reprinted with Enlargements, by I. EU ELYN. Esquire &c.\n\nA Description\nOf Dr. Christopher Wren's Engin, designed for grinding Hyperbolical Glasses; as it was in a manner promised Numb. 48. p. 962.\n\nWe shall give it in the Author's owne words, as followeth.\n\nSint tria Corpora terendo idonea, P. Q. R; quorum P. & Q. sint aqualia & Columnari forma, R vero Corpus Lenti-forme. P. rotetur circa axin A B; Q., circa C D; & R, circa E G.\nSint autem A'B & C D in diversis Planis, ita tamen ut EG prolnsta, sit ad rectos angulos utrique A B & C D: accedant de-\nnique ad se invicem Corpora, prout opus fuerit, servata tamen ea-\ndem inclinatione & siti Axium.\n\nDico, ex revolutione & mutua attritione Corporum prius positio-\nrum exurgere nova corpora Geometrica, quorum P & Q erunt\nCylindroidea Hyperbolica aqualia, R vero Conoides Hyperbo-\nlicum, specie & magnitudine datum.\n\nDemonstrationem in promptu habemus, nec non Modulum ipsius\nMachina, terendis Lentibus Hyperbolici destinatis; quam opcro-\nsa pictura & prolixa explicatione describere, mihi & artifici ma-\ngis fuerit molestum, quam Daedalo cuivis sagaci similim ad-inve-\nnire. Postquam enim exposita jam sunt principia Geometrica, faci-\nle crit conjicere, quale sit Instrumentum; nempe, tres sunt Ta-\nbulae oblongae, plane, vulvae, labiles, & sibi invicem impositae:\nInsima & Media sustinent inaequalia Capitula (sive Ansa mam-\nphur sustinentes) alternativae posita; id postulat utrinque mamphu-\nris obliquitas & quasi decussatio: Summa Tabulae aequalia sunt Ca-\npitula in longum Tabulae disposita; & perforato citimo Capitulo\nmamphur transmittitur. Omitto rotas, rotulas, lora, pondera, cochle-\nas, & reliqua admodum expeditum & Machina firmiter linem ne-\ncessaria. P pertinet ad insimam Tabulam; Q ad mediam; R,\nad summam. R, Lens est vitrea: Q, Modulus Lentem tenens; P,\nFormula Modulum corrigens; que, dum motu obliquo, & diver-\nso a motu tam Lentis quam Moduli, fertur, delet continuo & dete-\nrit, quicquid viti imperimitur in Modulum ex Lentis & Mate-\nria attritione.\n\nQuare, cum ad o simplex & spontanea sit ista Hyperbolici Co-\nnoidis genitura, ex solis nempe motibus Circularibus; cumque\nmotus sit duplex & varius, credibile est, Lentes Hyperbolicas ex\nhifice Principiis vel nullis fore explicandas.\n\nSome Inquiries Concerning the Salt-Springs and the Way of Salt-\nmaking at Nantwich in Cheshire; Answer'd by the Learned and\nObserving William Jackson Dr. of Physick.\n\n1. What is the depth of the Salt-springs? The depths\nare various, in some places not above 3. or 4.\nyards. In our Town of Nantwich, the Pit is full 7. yards from the\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101029.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1195,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1144,
+        2
+      ],
+      [
+        1144,
+        3304,
+        3
+      ],
+      [
+        3304,
+        3304,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101029",
+    "title": "A Description of Dr. Christopher Wren's Engin, Designed for Grinding Hyperbolical Glasses; As It Was in a Manner Promised Numb. 48. p. 962",
+    "authors": "Christopher Wren",
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101029"
+  }
+}

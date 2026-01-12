@@ -1,0 +1,79 @@
+{
+  "id": "a0847288733b50ef80aceda609febdc522bd8489",
+  "text": "V. Additio ad Schedulam De Quadraturis. Autore Johanne Craig.\n\nIN Actis Philosophicis Mensis Septembris, Pag. 708. duo exhibui Theoremata ad Figurarum Geometricè irrationali um Quadraturas spectantia: utq; Lectori facilior sit aditus ad hæc & similia inveniendà, tertium jam subjungo Theorema, plura (si opus fuerit) postea exhibiturus.\n\nSit ergo in Fig. loci memorati ACF Semicirculus, ADE Curva Geometricè irrationalis, cujus ordinatim applicata BD secat semicirculum in C. Quantitates verò designentur ut prius, scil. Diameter AF=2a, abscissa AB=y, Arcus AC=v, Ordinata BD=z; fit q; z=rv^ny^n aquatio exprimens Naturas Curvarum ADE, in qua r denotat quantitatem quam libet datam & determinatam, & n exponentem indefinitum quantitatis indeterminatæ y. Dico Aream\n\n\\[ \\text{ABD} = \\frac{rv^ny^{n+1}}{n+1} - qv^2 + v\\sqrt{zay-y^2}x^{n+1/2}y^n + \\frac{2ra^2x^{2n+1}}{n+1}y^{n-1} + \\frac{2Ax^{2n-1}}{n-1}y^{n-2} + \\frac{aBx^{2n-3}}{n-2}y^{n-3} + \\frac{aCx^{2n-5}}{n-3}y^{n-4} + \\frac{aDx^{2n-7}}{n-4}y^{n-5} + \\frac{aEx^{2n-9}}{n-5}y^{n-6} \\&c. - \\frac{2ra^2y^{n+1}}{n+1} + \\frac{2ra^3x^{2n+1}}{n+1}y^n + \\frac{a^2Ax^{2n-1}}{n-1}y^{n-1} - \\frac{a^2Bx^{2n-3}}{n-2}y^{n-2} - \\frac{a^2Cx^{2n-5}}{n-3}y^{n-3}, \\&c. \\]\n\nDe hoc Theoremate hæc sunt notanda (1.) Quod com ponatur ex duabus seriebus infinitis, quarum prior (signo + connexa) multiplicatur in \\( \\sqrt{2ay-y^2} \\); termini autem posteri oris (signo — affecti) sunt absoluti. (2) Quod in priori se rie literæ majusculæ A, B, C, D, E, &c. designent coeffici entes terminorum ipsis respective præcedentium; nec non in posteriori eodem obtineant Valores, quos in priori. (3.) Quod Quadratura exhibeatur per quantitatem finitam, quando n est numerus integer positivus, aut nihilo æqualis, veletiam si 2n sit numerus impar: nam in his casibus utraque Series abrupitur. 4. Quod 2q sit æqualis ultimo termino abrup penti prioris seriei.\n\nExem-\nExemplum 1. Sit \\( z = \\frac{v^2}{a} \\). Quia in hoc casu \\( n = 0 \\), \\( r = \\frac{1}{a} \\), ideo erit Area ABD \\( = \\frac{yv^2}{a} - v^2 + 2v\\sqrt{2ay-y^2} - 2ay \\). Corol: Integra figura AFE est æqualis duplo Quadrato, cujus Latus est ACF; dempto Diametri Quadrato.\n\nExemp. 2. Sit \\( z = \\frac{y^2v^2}{a^2} \\), quia in hoc casu \\( n = r \\), \\( r = \\frac{1}{a^2} \\), ideo erit Area ABD \\( = \\frac{y^2v^2}{2a^2} - \\frac{1}{4}v^2 + v\\sqrt{2ay-y^2} \\times \\frac{y}{2a} + \\frac{3}{2} - \\frac{1}{4}y^2 - \\frac{3ay}{2} \\).\n\nExemp. 3. Sit \\( z = \\frac{y^2v^2}{a^3} \\), quoniam in hoc casu \\( n = 2 \\), \\( r = \\frac{1}{a^3} \\), ideo erit Area ABD \\( = \\frac{y^2v^2}{3a^3} - \\frac{5}{6}v^2 + v\\sqrt{2ay-y^2} \\times \\frac{2y^2}{9aa} + \\frac{5y}{9a} + \\frac{5}{3} - \\frac{2y^3}{27a} - \\frac{5y^2}{18} - \\frac{5ay}{3} \\).\n\nCûm hæc scriberem accepi nuperos Mensæ Actorum Lipsiensium, in quibus multa egregia ad Geometriam promovendam non sine summa Voluptate perlegi; ut & alia quædam à clariss: Leibnitio & Jo. Bernoullio in Methodum meam de Quadraturis notata. In actis scil. Anni 1695. Mens. Aprilis nos certiores facit Leibnitius se Methodum habere nostræ non-nihil similem; & sane plurimum gratulor nostra cum tanti Geometræ cogitatis portuisse vel minime habere similitudinem. Quod vero ait suam esse meâ universaliorem & breviorem, nullus dubito. Optandum esset, ut hanc suam Methodum, ut & plurima, quæ habet alia, praesertim ad Calculum summ differentialem spectantia non diutius apud se premeret, sed quam primum per otium liceat in commune Rei-publicæ literariæ commodum in lucem emitteret. Speramus verò interim nobis omnia, quæ ad calculum illum persicendi sunt necessaria, brevi daturum illustrissimum Marchionem Hospitalium in parte, per egregii sui operis posteriori, quam (in partis prioris praefatione) de calculo Integrali se compositisse significat. Impatienter etiam Sectionem illam alteram expectabimus, in qua Calculi hujus usum in Physicis & Mechanicis se ostensurum Nobilissimus Autor promittit: Omnia enim ab ipso publicata, tam specimina quæ sparsim ia\nin aetis Lipsiensibus &c alibi reperiuntur, quam praestantissimus ille liber (cui Titulum dedit—Analyse des Infiniment petits) faciunt ut magna quaest; ab Eruditissimo Marchione expectemus.\n\nQuodque ingeniosissimo Jo. Bernoullio vium fuerit (in Aetis Anni 1695. Mensibus Febr. & August:) Methodum meam non esse generalem pronunciare, id etiam ego lubens agnosco, ut exemplorum meorum serie facile percipere potuerit Vir acutissimus. In materia difficili gradus, quos poteram, feci; & si itineris Longitudine vel difficultate determinatus non ulterius tum progressus fuerim, mihi tamen (qui obiter tantum studiis hisce Mathematicis Animum adhibeo) qua volui, sistere licebat. In quo hæret Methodus mea partim notavit clariss. Bernoullius; rem tamen totam non profus affequutus videtur. Interim illi me plurimum devinetum habeo, quod suâ Animadversione Tractatum meum dignatus fuet, multò tamen magis, quod tam candidè, tamq; humanè me ab erroribus meis liberare voluerit.\n\nVI. A Letter from Mr. Stephen Gray, dated Canterbury, Dec. 8. 1697. relating some Experiments about making Concave Specula nearly of a Parabolick Figure.\n\nI had before this time communicated the Experiments I mentioned in the end of my Letter of the 12th of May last, had I not expected an Opportunity to have made some farther Progress than I have yet done. I shall not spend time to tell you how I have been obstructed in having my Thoughts diverted by other Affairs, yet I think it convenient to let the Society know how far I have proceeded toward the way to make the Concave Specula nearly of a Parabolick Figure, which they will naturally receive, or at least with a very little Assistance of Art, having the Ambition to think, that if any ingenious Person shall think fit",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102414.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 2228,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1891,
+        2
+      ],
+      [
+        1891,
+        3960,
+        3
+      ],
+      [
+        3960,
+        5710,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102414",
+    "title": "Additio ad Schedulam de Quadraturis. Autore Johanne Craig",
+    "authors": "Johanne Craig",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102414"
+  }
+}

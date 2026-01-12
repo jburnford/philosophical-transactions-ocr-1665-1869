@@ -1,0 +1,69 @@
+{
+  "id": "bc96ee95f7a3c7a7b7eba4da32545da7065d3132",
+  "text": "VII. An Account of a new invented arithmetical Instrument called a Shwan-pan, or Chinese Accompt-Table; by Gamaliel Smethurst.\n\nRead Jan. 29. THE Chinese have for many Ages picqu’d themselves on being the most wise of any Nation in the World; but late Experience and closer Converse with them hath found this Pride to be ill-grounded. One Particular, in which they think they excel all Mankind, is, their Manner of accompting, which they do with an Instrument composed of a Number of Wires with Beads upon them, which they move backwards and forwards. This Instrument they call a Shwan-pan.\n\nNow I trust I have form’d one on the Plan of our 9 Digits, that in no case falls short of the Chinese Shwan pan, but in many excels theirs.\n\nThe Chinese, according to the Accounts of Travellers, are so happy as to have their Parts of an Integer in their Coins, &c. decimated, so can multiply or divide their Integers and Parts as if they were only Integers. This gives them the Advantage over Europeans in reckoning their Money, &c. But then, as they have no particular Place set apart for the lesser Denominations of Coins, Weights, Measures, &c. their Instrument can’t be used in Europe, nor can it be so universally applied to Arithmetic as mine, for I have provided for the different Divisions of an Integer into Parts.\nThis Instrument hath the Advantage of our Digits in a great many Cases. First, the Figures can be felt, so may be used by a blind Man. If it had no other, this alone would be sufficient to gain it the Attention of Mankind.\n\nAnother Advantage from it is, that, when attain'd, this Method is much swifter than by our Digits, and less liable to Mistakes: It is likewise not so burdensome to the Memory in working the Rules of Arithmetic, as by our Digits, we being oblig'd to carry the Tens in the Mind from one Place to another, which are set down by the Shwan-pan. — One may work a whole Night, without confusing the Head, or affecting the Eyes in the least.\n\nIt may be of great Use to teach People the Power of Numbers, likewise to examine Accompts by; for, as the Person will, by the Shwan-pan, work it a quite different Way, it will serve as if another Person had gone thro' the Accompt; if it proves right with the written one, they may rest assured the Work is true.\n\nIt may be a very pretty Lure to lead young People to apply their Minds to Numbers.\n\nThe Inventor produced one of these Instruments before the Society, and work'd several Questions in Arithmetic upon it. It much resembles the Abacus of the Ancients.\n\nC. M.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104598.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 692,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1316,
+        2
+      ],
+      [
+        1316,
+        2543,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104598",
+    "title": "An Account of a New Invented Arithmetical Instrument Called a Shwan-Pan, or Chinese Accompt-Table; By Gamaliel Smethurst",
+    "authors": "Gamaliel Smethurst",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104598"
+  }
+}

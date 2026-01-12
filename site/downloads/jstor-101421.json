@@ -1,0 +1,69 @@
+{
+  "id": "54e5ae28608cb62c3e681e25dfc565d8e9bf0245",
+  "text": "A Relation of Persons killed with subterraneous Damps.\n\nThis Relation was likewise made to the Royal Society, by that Eminent Virtuoso Sir R. Moray, who was pleased upon their desire, to give it them in writing; as followeth,\n\nIn a Coal-pit, belonging to the Lord Sinclair in Scotland, where the Coal is some 18 or 20 foot thick, and antiently wasted to a great depth: The Colliers, some Weeks agoe, having wrought as deep as they could, and being to remove into new Rooms (as they call them) did, by taking off, as they retired, part of the Coal that was left as Pillars to support the Roof and Earth over it, so much weaken them, that within a short space, after they were gone out of the Pitt, the Pillars falling, the Earth above them filled up the whole Space, where the Colliers had lately wrought, with its ruins. The Colliers being here-by out of work, some of them adventured to work upon old remains of Walls, so near the old wastes, that striking through the slender partition of the Coal-wall, that separated between them and the place, where they used to work, they quickly perceived their Error, and fearing to be stifled by the bad Air, that they knew, possessed these old wastes, in regard not onely of the Damp, which such wastes do usually afford, but because there having for many years been a Fire in those wastes, that filled them with stifling fumes and vapours, retired immediately and saved themselves from the eruptions of the Damp. But next day some seven or eight of them came no sooner so farr down the staires, that led them to the place, where they had been the day before, as they intended, but upon their stepping into the place, where the Air was infected, they fell down dead, as if they had been shott: And there being amongst them one, whose Wife was informed he was stifled in that place, she went down so far without inconvenience, that seeing her Husband near her, ventured to go to him, but being choked by the Damp, as soon as she came near him, she fell down dead by him.\nThis Story Sir R. Moray affirmed to have received from the Earl of Weynes, Brother in Law to the Lord Sinclair, as it was written to him from Scotland.\n\nOf the Mineral of Liege, yielding both Brimstone and Vitriol, and the way of extracting them out of it, used at Liege.\n\nThe Account of this Mineral, and of the way of extracting both Brimstone and Vitriol out of it, was procured from Liege, by the lately mentioned Sir Robert Moray, and by him communicated to the Royal Society, as follows.\n\nThe Mineral, out of which Brimstone and Vitriol are extracted, is one and the same, not much unlike Lead-ore, having also oft times much Lead mingled with it, which is separated from it by picking it out of the rest. The Mines resemble our English Coal-Mines, dugg according to the depth of the Mineral, 15, 20, or more fathoms, as the Vein leads the Workmen, or the subterranean waters will give them leave, which in Summer so overflow the Mines, that the upper waters, by reason of the drought, not sufficing to make the Pumps goe, the Work ceases.\n\nTo make Brimstone, they break the Stone or Ore into small pieces, which they put into Crucibles made of Earth, five foot long, square and Pyramid-wise. The Entry is near a foot-square. These Crucibles are laid sloping, eight undermost, and seven above them, as it were betwixt them, that the Fire may come at them all, each having its particular Furnace or Oven. The Brimstone being dissolved by the violence of the heat, drops out at the small end of the Crucible, and falls into a Leaden-Trough or Receptacle, common to all the said Crucibles, through which there runs a continual Rivulet of cold water, conveyed thither by Pipes for the cooling of the dissolved Sulphur, which is ordinarily four hours in melting. This done, the Ashes are drawn out with a crooked Iron, and being put into an Iron Wheel-barrow, are carried out of the Hutt, and being",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101421.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1020,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2014,
+        2
+      ],
+      [
+        2014,
+        3913,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101421",
+    "title": "A Relation of Persons Killed with Subterraneous Damps",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101421"
+  }
+}

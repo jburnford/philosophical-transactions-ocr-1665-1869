@@ -1,0 +1,69 @@
+{
+  "id": "770ca558111ae56307cb1ed93051e1db0079e62f",
+  "text": "ERRATA.\n\nPage Line\n\n58, 9. for communicate, read communicate,\n85, 15. for XLVIII, read LIV,\n128, 4. from the bottom, for \"and not all\" read \"and not at all\"\n131, 16 and 17. for (as the millers term it when no Iron is concerned) read (as the millers term it) where no iron is concerned.\n162, 6. for Satellites, read Satellite.\n165, 9. for ineptats, read ineptas\n258, 3. from the bottom, for but, read long\n258, 2. from the bottom, for long, read but\n354, 2. for the year 1775, read the year 1776.\n475, 13. for credulity, read credulity\n518, 7. from the bottom, for $\\frac{1}{2000}$ read $\\frac{1}{20,000}$\n519, 7. for $233^\\circ$, $54'$, $15''$ read $233^\\circ$, $53'$, $15''$\n520, 4. insert 2 c by 4th observation = $9^\\circ$, $59'$, $6''$ = $9^\\circ$, $38'$, $15''$\n521, 2. for mountains, read mountain.\n522, 2. for correct for the signal $59''$, read $54''$\n530, 5. for $27,7025$, read $25,7025$\n541, 4. for above at C, read above at B.\n545, 11. for correct height in fathom 686,619, read 685,619\n546, 8. for difference of Log. 654,157, read 654,109.\n547, 11. for (in p. 556), read (in p. 53?).\n556, 17. for two, read too\n560, 1. for feet, read grains\n18. for 13358,5, read 13558,5.\n562, 12. for barometer, read manometer\n568, 5. from the bottom, for $T-S \\times E-e-a=S-x$, read $\\frac{T-S \\times E-e-a}{E}=S-x$.\n569, 19. delete the semicolon after quantity, and insert it after instance\n578, 5. from the bottom, for the attached Therm. read the two attached Therm.\n585, 2. read, see p. 574 and 567\nin the column for 25 inches, and against 21 for 53,2, read 53,1\n586, 3. add, see p. 568 and 569\nIn the 4th col. of the table at the top, for 46,10, read 15,10.\n\nVol. LXVII.\nPage Line\n\n587, in the 2d col. against 19,90, for 12337,0, read 12377,8\n      20,70, for 11350,0, read 11350,8\n588, 30,40, for 1236,6, read 1336,6\n      in the last col. for 81,0, read 81,8.\n\n590, 2. for uppermost, read approximate\nIn plate XI. 1st col. of the table of the ∆' and sides of the ∆' for End of the base 1. 2. - read End of the base, 1. 2.\nIn the small scale of feet at the side of the section of the mountains for 1500, read\n      15000 feet.\n\n608, 3. for July, read August\n628, 4. from the bottom for 159, read 152.\n642, 13. for pistons were, read piston was\n658, 10. for plate XVI. read plate XV.\n662, 5. for plate XVII. read plate XVI.\n683, 15. after inverse, insert ratio,\n685, 5. a point after unaltered. And for but that in, read But in.\n705, Tab. IV. 9th experiment, column 132° to 152°, for 9,14350, read 9,14550.\n736, At the end of the note, for Barometer, read Barometers\n777, 1774. December 10, weight of quicksilver to air, for 11445, read 10445.\n781, 13th Station, observed superior barometer, for 25,691, read 25,961.\n785, 3d Observation at Belmont Castle, inferior equated barometer, for 29, 64\n      read 29,664.\n819, 7. for were the short, read were short\n821, 5. for 15 read 16.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106262.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 1396,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1675,
+        2
+      ],
+      [
+        1675,
+        2885,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106262",
+    "title": "Errata",
+    "authors": null,
+    "year": 1777,
+    "volume": "67",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106262"
+  }
+}

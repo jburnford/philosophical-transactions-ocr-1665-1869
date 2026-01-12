@@ -1,0 +1,89 @@
+{
+  "id": "c5ee96ba155e73b59de04ee24bd44ca15fed57b3",
+  "text": "III. A Letter on a Camelopardalis found about the Cape of Good Hope, from Capt. Carteret to Mathew Maty, M. D. Sec. R. S.\n\nOn board of the Swallow, Deptford, 20th April, 1769.\n\nSIR,\n\nRead Jan. 25, 1770.\n\nINCLOSED I have sent you the drawing of a Camelopardalis, (Tab. I.) as it was taken off, from life, of one near the Cape of Good Hope. I shall not attempt here to give you any particular description of this scarce and curious animal, as it is much better known to you than it can be to me; but from its scarcity, as I believe none have been seen in Europe since Julius Cæsar's time (when I think there were two of them at Rome), I imagine its drawing, and a more certain knowledge of its reality, will not be disagreeable to you. As the existence of this fine animal has been doubted by many, if you think it may afford any pleasure to the curious, you will make what use of it you please.\n\nThe present governor of the Cape of Good Hope has sent out parties of men on inland discoveries, some of which have been absent from eighteen months\nmonths to two years, in which traverse they have discovered many curiosities, which it is to be hoped they will in convenient time communicate to the world. One of these parties crossed many mountains and plains, in one of which they found two of these creatures, but they only caught the young one, of which the inclosed is the drawing, as it was taken off by them; they endeavoured to bring him alive to the Cape Town, but unfortunately it died. They took off his skin, which they brought as a confirmation of the truth, and it has been sent to Holland *. These particulars, as well as drawing, I got from Mr. Barrawke, first secretary to the Dutch company at that place, in the presence of the governor.\n\nI am,\n\nSIR,\n\nYour most humble,\n\nmost obedient servant,\n\nPh. Carteret.\n\n* The animal described in this letter is now in the cabinet of Natural History at Leyden, where I have seen it this year.\n\nM. Maty.\n\nDimen-\nDimensions of a Male Camelopardalis, killed in a journey made in the year 1761, through the country of a tribe of Hottentots, called the Mamacquas, viz.\n\n| Description                                      | Feet Inches |\n|--------------------------------------------------|-------------|\n| Length of the head                               | 1           |\n| Height of the fore-leg from the lower to the higher point | 8           |\n| From the upper part of the fore-leg to the top of the head | 10          |\n| From the upper part of the fore-leg to the upper part of the hind-leg | 7           |\n| From the upper part of the hind-leg to the tail   | 5           |\n| Height of the hind-leg from the upper to the lower part | 6           |\n\nIV. Ex-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105872.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7748,
+    "total-output-tokens": 796,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1044,
+        2
+      ],
+      [
+        1044,
+        1963,
+        3
+      ],
+      [
+        1963,
+        1963,
+        4
+      ],
+      [
+        1963,
+        2709,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105872",
+    "title": "A Letter on a Camelopardalis Found about the Cape of Good Hope, from Capt. Carteret to Mathew Maty, M. D. Sec. R. S.",
+    "authors": "Ph. Carteret",
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105872"
+  }
+}

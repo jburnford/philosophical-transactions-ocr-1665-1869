@@ -1,0 +1,59 @@
+{
+  "id": "6a0def69ce3dcadade61c9dd910505c1a8b633ae",
+  "text": "CONTENTS\n\nXXI. Determination of the Longitudes and Latitudes of some remarkable Places near the Severn. In a Letter from Edward Pigott, Esq. to Sir Henry C. Englefield, Bart. F. R. S. p. 385\n\nXXII. Experiments and Observations on the Matter of Cancer, and on the aërial Fluids extricated from animal Substances by Distillation and Putrefaction; together with some Remarks on sulphureous hepatic Air. By Adair Crawford, M.D. F.R.S.\n\np. 391\n\nXXIII. On the Satellites of the Planet Saturn, and the Rotation of its Ring on an Axis. By William Herschel, LL.D. F. R. S.\n\np. 427\n\nXXIV. On Spherical Motion. By the Rev. Charles Wildbore; communicated by Earl Stanhope, F. R. S.\n\np. 496\n\nXXV. On the Chronology of the Hindoos. By William Marsden, Esq. F. R. S. and A. S.\n\np. 560\n\nAPPENDIX.\n\nRemarks on Major-General Roy's Account of the Trigonometrical Operation, from Page 111. to Page 270. of this Volume. By Mr. Isaac Dalby.\n\np. 593\n\nERRATA.\n\nPART I.\n\nP. 229. last column of the Table, and last line but one of that column, for 17 36 read 17 16.\n\nP. 250. Triangle XIII. distance of Norwood from Chislehurst Church in feet, for 35777.9 read 36777.9.\n\nPART II.\n\nP. 346. l. 3. for May 22. read May 20.\n\nP. 370. l. 23. for by read without.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106837.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 487,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1229,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106837",
+    "title": "Errata",
+    "authors": null,
+    "year": 1790,
+    "volume": "80",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106837"
+  }
+}

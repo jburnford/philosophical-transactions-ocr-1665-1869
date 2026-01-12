@@ -1,0 +1,89 @@
+{
+  "id": "1893df6a617884078a3673f333d7b47c36219837",
+  "text": "IX. Part of a Letter from Mr. Brook Taylor, F.R.S. to Dr. Hans Sloane R.S. Secr. Concerning the Ascent of Water between two Glass Planes.\n\nThe following Experiment seeming to be of use, in discovering the Proportions of the Attractions of Fluids, I shall not forbear giving an Account of it; tho' I have not here Conveniencies to make it in so successful a manner, as I could wish.\n\nI fasten'd two pieces of Glass together, as flat as I could get; so that they were inclined in an Angle of about 2 Degrees and a half. Then I set them in Water, with the contiguous Edges perpendicular. The upper part of the Water, by rising between them, made this Hyperbola; [See Fig. 5.] which is as I copied it from the Glass.\n\nI have examined it as well as I can, and it seems to approach very near to the common Hyperbola. But my Apparatus was not nice enough to discover this exactly.\n\nThe Perpendicular Asymptote was exactly determined by the Edge of the Glass; but the Horizontal one I could not so well discover. I am,\n\nSir,\n\nBifrons near Canterbury, June 25. 1712.\n\nYour most humble Servant,\n\nBROOK TAYLOR.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103170.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7978,
+    "total-output-tokens": 439,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        1099,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "None",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103170",
+    "title": "Part of a Letter from Mr. Brook Taylor, F. R. S. to Dr. Hans Sloane R. S. Secr. Concerning the Ascent of Water between Two Glass Planes",
+    "authors": "Brook Taylor",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/103170"
+  }
+}

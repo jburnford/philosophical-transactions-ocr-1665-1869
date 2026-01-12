@@ -1,0 +1,69 @@
+{
+  "id": "e678ece53b1bd3b62db57ee3232d1017a31effd5",
+  "text": "IV. Particulars of a fact, nearly similar to that related by Lord Morton, communicated to the President, in a letter from Daniel Giles, Esq.\n\nRead November 23, 1820.\n\nIn answer to your enquiries, I will now give the best account I can of my sow and her produce.\n\nShe was one of a well known black and white breed of Mr. Western, the Member for Essex. About ten years since I put her to a boar of the wild breed, and of a deep chesnut colour, which I had just received from Hatfield House, and which was soon afterwards drowned by accident. The pigs produced (which were her first litter) partook in appearance of both boar and sow, but in some the chesnut colour of the boar strongly prevailed.\n\nThe sow was afterwards put to a boar of Mr. Western's breed (the wild boar having been long dead). The produce was a litter of pigs, some of which we observed, with much surprize, to be stained and clearly marked with the chesnut colour which had prevailed in the former litter.\n\nThis sow had afterwards another litter of pigs by a boar of Mr. Western's breed, and I think, and so does my bailiff, that some of these were also slightly marked with the chesnut colour; but though we noticed the recurrence with surprize, it is so long since, that our recollection is much less perfect than I wish it to be.\nI should observe, that I have known Mr. Western's breed many years, but never in any other instance observed the least appearance of the chesnut colour.\n\nBelieve me, &c.\n\nDaniel Giles.\n\nYoungsbury, Nov. 10, 1820.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107601.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 460,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1302,
+        2
+      ],
+      [
+        1302,
+        1514,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107601",
+    "title": "Particulars of a Fact, Nearly Similar to That Related by Lord Morton, Communicated to the President in a Letter from Daniel Giles, Esq",
+    "authors": "Daniel Giles, Lord Morton",
+    "year": 1821,
+    "volume": "111",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107601"
+  }
+}

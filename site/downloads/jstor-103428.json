@@ -1,0 +1,59 @@
+{
+  "id": "0a28b2b2be2235eaff90c0fd6ac978a2c726c390",
+  "text": "V. Observation of an extraordinary Height of the Barometer, December 21. 1721. By Mr. George Graham, Watchmaker, F. R. S.\n\nJan. 11th, 1721.\n\nUpon Thursday the 21st of December last, observing the Barometer much higher than usual; that Evening, between Seven and Eight a Clock, I fill'd a Tube with very clean Quick-silver, and found the Height a little to exceed $30,7\\frac{1}{2}$ Inches. By Eight the next Morning, a Wheel-Barometer, which hung in the same Room, had risen One tenth of an Inch higher than it was the Night before, when the Experiment was made; at Ten a Clock, One fifth of an Inch more: At which Time it was at the highest, being a little above $30,8\\frac{1}{2}$ Inches; for about Twelve at Noon it was sensibly lower, and continued falling all the rest of the Day.\n\nWhen the lower End of the Tube was first immers'd in the Cistern, the Quick-silver for some Time adher'd to the Crown of the Glass, but upon shaking, it fell to the Height above-mention'd.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103428.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 324,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        973,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103428",
+    "title": "Observation of an Extraordinary Height of the Barometer, December 21. 1721. By Mr. George Graham, Watchmaker, F. R. S.",
+    "authors": "George Graham",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103428"
+  }
+}

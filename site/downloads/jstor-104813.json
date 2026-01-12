@@ -1,0 +1,89 @@
+{
+  "id": "e74fdb8bab72b4b2ab2e3bc33577ab6f0823504b",
+  "text": "Explanation of Table IV. representing the Cicuta aquatica of Wepfer.\n\na, A Branch of this Plant with its Umbels of Flowers in different States.\nb, The Appearance of the Bottom of the Stem, growing from the Crown of the old Root.\nc, An anterior View of the Flower of its natural Size.\nd, An anterior View of the same magnified.\ne, A posterior View of the Flower magnified.\nf, The Vasculum seminale, and Seed.\ng, The same magnified.\n\nExplanation of Table V. representing the Root of the Cicuta aquatica in Winter.\n\nFig. I.\na, The Rudiments of the Leaves.\nb, The old rotten Root not yet separated from the new one of the preceding Summer.\n\nFig. II.\nA longitudinal Section of the Root exhibiting the Cells.\n\nXIII. A Letter to Mr. Benj. Robins, F. R. S. shewing that the Electricity of Glass disturbs the Mariners Compass, and also nice Balances.\n\nDear Sir,\n\nWHILE so many Gentlemen are labouring to find out the Uses of Electricity, it has been my Fortune to discover one, at least, of the Inconveniencies attending that Property\nperty in Glass. And as it is such whereby vast Numbers, very likely, have been, and may hereafter be, greatly prejudiced, I desire you will mention what follows to the Royal Society; to the end that it may be published, if they think proper, for the Benefit of others, and particularly of those who use the Sea.\n\nHaving lately had Occasion to compare together two Compasses of a different Make, the one having a bare Needle, as usual, and the other a Chart, in the Manner that Mariners Compasses are commonly made, I happened to wipe off with my Finger some Dust, which lay upon the Glass of the former; and thereby put the Needle, which was before at Rest, into a violent disorderly Motion, partly horizontal, and partly vertical or dipping. After several Repetitions of the same Thing, I found that the Glass, by so slight a Touch, was at that time excited to Electricity, so far as to disturb the Needle extremely.\n\nThe same Glass being rubb'd a very little more with a Finger, a Bit of Muslin, or of Paper, would attract either End of the Needle, so as to hold it to the Glass, for several Minutes, far out of the due Direction, according to what Part of the Glass was most excited.\n\nAnd when the Needle has for some time adhered to the Glass, and afterwards dropt loose, and made Vibrations, those Vibrations would not be bisected, as usual, by that Point where the Needle should rest, but either be made all on one Side, or be very unequally divided, by means of some Remains of electrical Virtue in that Part of the Glass which had attracted the Needle; until at length, after fifteen Minutes or more, all the Electricity\ncity being evaporated, the magnetical Power took place.\n\nThe Cure for this Inconvenience, is to moisten the Surface of the Glass: Even a wet Finger will do it immediately and effectually.\n\nI need not suggest, that the same Quantity of Friction will not at all times have the same Effect upon these Glasses, any more than it will upon the electrical Tubes; but take the Liberty to hint, that I have Reason to believe that Glass does, at some times, become in some degree attractive without any Friction at all; and may possibly be excited by great Concussions in the Air, such as Thunder, or the Discharge of great Ordnance, &c. and, if so, may thereby disturb the Compass.\n\nI must however observe, that the Mariners Compass is much less dangerously moved by wiping or exciting the Glass than the other; by reason that the excited Part of the Glass attracts that Part of the Chart which lies nearest, just underneath, without giving it so much Verticity, as it does to the other Sort of Compass with a bare Needle. And farther, that the deeper, or the farther distant the Needle hangs below the Glass, the less Disturbance it is likely to receive, by wiping, rubbing, or otherwise exciting the Cover.\n\nI shall make no farther Reflections upon these Facts than to observe, first, That all the minute, irregular, reciprocating Variations which have been observed in the Directions of dipping and horizontal Needles, as mentioned in some of the Transactions *, may probably.\n\n* No. 425.\nbably have been caused by the Glasses which covered the Instruments made use of: And, secondly, That the flat Pieces of Glass, often placed under the Scales of an Essay-Balance, are likewise very capable of attracting, and making even the lighter Scale preponderate, where the whole Matter weighed is so very small. I have not tried this last, but do remember, that Mr. Ellicot, a Member of your Society, did some Years ago suspect, if not find it certain, that such Pieces of Glass did disturb his Balance, and had given him a vast deal of Trouble, upon a Supposition, that the Beam itself was defective.\n\nYour most humble Servant,\n\nJune 19, the Society adjourned to Oct. 23, 1746.\n\nPrinted for C. Davis, over-against Gray's-Inn Gate in Holbourn, Printer to the Royal Society, M.DCC.XLVII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104813.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 1288,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1026,
+        2
+      ],
+      [
+        1026,
+        2655,
+        3
+      ],
+      [
+        2655,
+        4138,
+        4
+      ],
+      [
+        4138,
+        4928,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104813",
+    "title": "A Letter to Mr. Benj. Robins, F.R.S. Shewing That the Electricity of Glass Disturbs the Mariners Compass, and Also Nice Balances",
+    "authors": "Benj. Robins",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/104813"
+  }
+}

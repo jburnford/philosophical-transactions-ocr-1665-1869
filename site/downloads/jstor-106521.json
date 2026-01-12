@@ -1,0 +1,69 @@
+{
+  "id": "376c46bdf03f77900d01af0179bda98ecc997556",
+  "text": "XIII. Extract of a Letter from the Right Honourable Philip Earl Stanhope, F. R. S. to Mr. James Clow, Professor of Philosophy in the University of Glasgow. Dated Chevening, February 16, 1777.\n\nRead June 10, 1780.\n\nI HAVE lately made some curious observations concerning the roots of affected equations, part of which have occurred to Messieurs Daniel Bernoulli, Euler, de la Grange, Lambert, and others; but some of them, I believe, are quite new. I will give you one instance of a quadratic equation, as the simplest.\n\nLet the quadratic equation $11x^2 - 15x + 5 = 0$, be proposed. I say then, that if two recurring series be formed from the fractions $\\frac{1+zz}{1-z-zz}$, $\\frac{2+3z}{1-z-zz}$, which have a common denominator, and each series of co-efficients, continued both ways (that is, as well before, as after the first term) the fractions formed by dividing each term of the first series by the corresponding term of the second series, viz.\n\n$\\frac{-11}{-14}, \\frac{+7}{+9}, \\frac{-4}{-5}, \\frac{+3}{+4}, \\frac{-1}{-1}, \\frac{-3}{-4}, \\frac{2}{3}, \\frac{1}{2}, \\frac{3}{5}, \\frac{4}{7}, \\frac{7}{12}, \\frac{11}{19}, \\frac{18}{31}, \\frac{29}{50}$ &c.\n\nwill converge in the simplest manner possible; those before the bar, in a retrograde order to the greater root $\\frac{15+\\sqrt{5}}{22}$; and those after the bar, in a direct order to the smallest root $\\frac{15-\\sqrt{5}}{22}$; where it is to\nbe observed, that the greater root is affirmative, notwithstanding the sign — being prefixed to some of the terms, because in each fraction the numerator and the denominator are affected by the same sign, whether + or −.\n\nThe chief improvement I have made consists in approximating to two roots at once, by one and the same series, continued backwards as well as forwards. I have not time to enlarge upon this subject at present; but the little I have said will be a specimen of the method to be used in higher equations.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106521.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 639,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1405,
+        2
+      ],
+      [
+        1405,
+        1926,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106521",
+    "title": "Extract of a Letter from the Right Honourable Philip Earl Stanhope, F. R. S. to Mr. James Clow, Professor of Philosophy in the University of Glasgow. Dated Chevening, February 16, 1777",
+    "authors": "Honourable Philip",
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106521"
+  }
+}

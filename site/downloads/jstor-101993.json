@@ -1,0 +1,59 @@
+{
+  "id": "b541dfe7e858e62871d803f354a9426d022b4299",
+  "text": "Earth. Publish'd some Years since by the Learned Dr. Burnet. Written by John Beaumont, jun. Gent. in 4to. 1693. Lond. 3. Epistola ad Regiam Societatem Londinensem qua de nuperis Terræ-motibus differitur, &c. in 4to. Lond. 1693. 4. Traité des moyens de rendre les Riviers navigables, &c. a Paris, in 8°. 1693.\n\nI. The Extract of a Letter from Lisle in Flanders, May 25. N.S. 1686. giving an Account of an unusual Storm of Hail which fell there.\n\nHere fell in this City Hail of so great a bigness, that the least exceeded Pigeons Eggs. Several of them were weighed, and were some a quarter of a Pound, others of a Pound Weight and more. One among the rest was observed to contain a dark brown matter in the middle thereof; and being thrown into the Fire, it gave a very great Report. Others were transparent, which melted before the Fire immediately. This Storm passed over the Citadel and Town, and left not a whole Glass in the Windows on the windward side. The Trees were broken, and some beat down, and the Partridges and Hares killed in abundance.\n\nII. Observatio Solaris Eclipse habita Die 12. Iulii, 1684. Bononiæ, à Cl. V. Domo. Dominico Gulielmino.\n\nEfumebant Solis à Vertice Distantias D. D. Jo. Ludovicus Donellus & Nicolaus Ignatius Joanettus; Phasibus determinandis tres aderamus, D.D. Jo. Galeatus Manzius, Hercules Vanottus & Ego. Observationes scribebat D. Gregorius Malisardus; horas vero in horologio notabat D. Bartolomeaus Ferrarius.\n\nHoræ",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101993.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 495,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1457,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101993",
+    "title": "The Extract of a Letter from Lisle in Flanders, May 25. N.S. 1686. Giving an Account of an Unusual Storm of Hail which Fell There",
+    "authors": "Lisle",
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101993"
+  }
+}

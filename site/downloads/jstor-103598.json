@@ -1,0 +1,59 @@
+{
+  "id": "7bdb61fa23130b96806c23ca81dd2c35740df9c4",
+  "text": "V. Part of a Letter from Dr. Nettleton, Physician at Halifax, to Dr. Jurin, R. S. Secr concerning the Inoculation of the Small Pox, and the Mortality of that Distemper in the natural Way.\n\nVI. A Letter to the Learned Dr. Caleb Cotesworth, F. R. S. of the College of Physicians, London, and Physician to St. Thomas's Hospital; containing a Comparison between the Danger of the Natural Small Pox, and of that given by Inoculation. By James Jurin, M.D. R. S. Secret.\n\nVII. De Sectione Anguli, Autore A. de Moivre, R. S. S.\n\nVIII. An Account of a new sort of Molosses made of Apples; and of the degenerating of Smelts. By the Honourable Paul Dudley, Esq; F. R. S.\n\nERRATUM.\n\nPag. 204. lin. penult. read, in iconc 7.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103598.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 279,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        711,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103598",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103598"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "49ef361f48e90972c86f6bf11ba99fabc486b564",
+  "text": "I. De Orbita Cassiniana. By Dr Gregory.\n\nEx quo Celeberrimus Dom. Cassini, in Tractatu de Origine & Progressu Astronomiae, Curvam quandam pro Planetae Orbita Astronomis proposuit, & de ipsius Curvae natura, & de Gravitatis lege ad eam percurrendum requirita, varie multumque ab eruditis disputatum est. Mihi etiam de eadem denuo cogitanti cum diversae ejus species, tum & harum proprietates aliquae nondum satis perspectae occurrebant. Haec breviter contexere, & cum ijs publice communicare volui, quibus hujusmodi contemplationes non injucunda videbuntur.\n\nSatis notum est istius Orbis hanc esse naturam. Si a datis duobus punctis F & G ad quodvis curvae punctum H ducantur rectae FH, GH; rectangulum sub FH, GH æquale est dato spatio. Recta FG hinc inde producta denec curvae occurrat, ostendit Vertices A & B; & AB est Axis principalis; mediumque inter vertices punctum C est figuræ Centrum; & DE, per Cad AB normalis, Axis minor; punctaque F & G Foci.\n\nIn hac figura si axis minor excedat distantiam focorum, Curva figuram terminans est ubique versus centrum cava, qualis vulgo habetur. Si, manente axe principali, distantia focorum minuatur; augebitur axis minor, qui tamen minor manet axe Ellipsis eodem axe principali, illædemque foci descriptæ; donec tandem, coëtuntibus fociis, ille evadat æqualis axi majori, & figura abeat in Circulum. Si vero, e contra, distantia focorum augentur; minuetur axis minor, fietque æqualis dictæ distantiae, cum hæc est ad axem principalem sicut unitas ad medium proportionalem inter unitatem & ternarium.\nSi ulterius augeatur distantia focorum, minuetur adhuc axis minor, & Curva non erit amplius ad hujus extrema versus centrum cava, sed convexa, ut in schemate 2 donec aucta eouique distantia focorum, ut haec sit ad axem maiorem sicut latus quadrati ad ejusdem diametrum, axis minor fiat nul- lus, & curva pertingat ad centrum hinc inde.\n\nSi distantia focorum fuerit major quam pro dicta rati- one, axis minor fit impossibilis, & figu- ra in duas conjugatas abit, ut in sche- mate 3; quae aucta focorum distantia minuentur, donec tandem figura in bi- na puncta conjugata abeat.\n\nCrescente porro distantia focorum, rursus emergunt binæ figuræ conjugatae, quæ similiter crescunt atque prius decreverant a prioribus diversæ in focorum verticumque ordine, augmentaque donec infinitæ evadant. Posteaque Systema hoc illud gradibus ad circulum rursus accedet quibus ab illo recessit.\n\nEx his vel primo intuitu satis patet Figuram hanc ad con- stituendam Planetæ Orbitam minime idoneam esse. Ut enim taceam casus ubi in duas conjugatas abit, Orbitæque naturam deponit, nimium ubicunque tanta sit ejus ex- centricitas, quantam Cometae (si circa Solem Planetarum instar versantur, quod verissimum est) ad cursum suum describendum postulant: ut hos inquam casus præteream\nsunt etiam in iis casibus, ubi in se redit orbitamque perspicit, quaedam ejus excentricitates ita amplae, ut curva prope D & E (Fig. 2.) versus Solem convexa evadat; adeoque vi a Sole centrifugâ Planetæ opus esset, ut hanc Orbitæ suæ partem percurreret, dum interim in locis propioribus & remotioribus B & A vis ad Solem centripeta requiritur. Id est corpora circumsoaria eâ lege moveri posse concedendum esset, ut in paribus a Sole intervallis hic vis centripeta, illic centrifuga obtineret, quod quam sit a naturæ legibus alienum facile omnes perspicient. Et licet nullius e Planetis tanta sit excentricitas, cum tamen Geometris notum sit figuræ, cujus species omnes ultra certum terminum muneri cuivis naturæ obeundo inepta fuerint, ejus species reliquas citra dictum terminum, quasi eadem muneri idoneas, admitti non posse: Necesse est Curvam hanc Cassinianam ex Astronomia rejicere, non solum ob rationes Prop. VIII. Lib. III. Elem. Afr. adductas, nempe quod neque observatis coelestibus congruat propter minoris axis brevitudinem, neque rationes Physicae respondeant, cum ad illam describendam opus esset vi centripeta ad Solem abhorrente ad illa per rerum naturam usurpata, sed etiam propter absolutam impossibilitatem. Impossibile namque est hujus figuræ speciem quamcunque posse a Planeta percurri, ita ut anguli ad focum a Sole diversum proportionales sint temporibus; sic enim area per radium vectorem descripta non esset temporis proportionalis. Non enim autò angulo ad focum unum æqualibus incrementis, area ad alterum incrementa simul facta etiam æqualia sunt, uti perperam nuper sentiebam.\n\nIn duobus ultimis schematibus maxima figuræ latitudo invenitur si centro C per focos describatur circulus; fecabit namque hic Curvam in punctis L, L quæsitis. Estque maxima ordinata KL tertia proportionalis reæis GF & FD in horum primo, vel quarta proportionalis ipsis GF, GA, & AF in utroque.\n\nSuperflite DE, ordinata ex foco FP æqualis est semi-axi minori CD, quandoaxis minor est ad distantiam focorum ut latus quadrati ad diametrum. Si distantia focorum fuerit major quam pro hac ratione, FP excedet CD.\n\nII. Georg.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102949.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1626,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1547,
+        2
+      ],
+      [
+        1547,
+        2806,
+        3
+      ],
+      [
+        2806,
+        4931,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102949",
+    "title": "De Orbita Cassiniana. By Dr Gregory",
+    "authors": "Dr Gregory",
+    "year": 1704,
+    "volume": "24",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102949"
+  }
+}

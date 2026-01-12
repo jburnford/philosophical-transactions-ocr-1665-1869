@@ -1,0 +1,79 @@
+{
+  "id": "7dbdb2ef5fc6f579b24a677f22a7bae7d2de7348",
+  "text": "Received February 9, 1769.\n\nVII. Letters from the Rev. Dr. William Borlase, F. R. S. Rector of Ludgvan in Cornwall, to Charles Morton, M. D. F. R. S. and from Mr. Rosewarne, of Truro, to Dr. Borlase; giving an Account of a Specimen of Native Tin found in Cornwall, and now deposited in the Museum of the Royal Society.\n\nLudgvan, Jan. 30, 1769.\n\nSir,\n\nRead February 16, 1769. Perhaps you may not have forgot that, in the year 1765, I sent a specimen of native tin, to be deposited in the Royal Society's Museum; and though the account of it, published in the Transactions of the year following, was not such as I wish, yet I am steadily intent on paying my duty to the Society, and obviating (as far as lies in my power) all doubts relating to natural knowledge.\n\nLast post I received a letter from Mr. Rosewarne, of this county, with an account of his having met with another specimen of native tin; and I fend it you inclosed, for your inspection, to be returned at your\nyour leisure. This young gentleman is a considerable merchant, especially versed in tin affairs, with a great share of quickness and understanding in the fusion of metals; and I refer it to you, whether it may not be proper to introduce him at the next meeting of the Royal Society, by your means, and request him there to shew that rare specimen which he carries with him to town.\n\nHe, indeed, intends (you'll find by his letter) to bring it back with him; but if this be only to let me have the inspection of it, and, through my hands, to deposit it in your Museum, I shall easily dispense with every ceremony of that kind; and I write him by this or next post, that (as it is small, and may miscarry, or be mislaid in such long journeys) I intreat him to let it rest, for the satisfaction of the doubtful, in your Museum; and, as I hope to prevail, let it remain with the sample I sent, but in Mr. Rosewarne's name.\n\nAs every acquisition in natural history will, I know, be very acceptable to you and the gentlemen of the Society, for whom I have the greatest respect, I make the least apology for giving you this trouble, and remain,\n\nSIR,\n\nYour most obedient servant,\n\nWilliam Borlase.\n\nReceived\nReceived February 9, 1769.\n\nTo the Rev. Doctor William Borlase.\n\nRev. Sir,\n\nI HAVE the pleasure to acquaint you, that I have at last met with a specimen of native tin, which is so evidently so at first sight as not to admit of the least doubt or objection. The description of it is this: some streamers in the parish of Luxilion brought in a parcel of tin ore to a blowing-house I am concerned in at Sthurtle; amongst the parcel was a great number of tin diamonds of a most beautiful nature, of the rozin kind; one was eminently superior to the rest, being almost transparent, and seemed to have something in the center which, through the stone, looked like gold. This induced me to break the stone; which was no sooner done than I found it to be native tin, in the very center of the diamond. The specimen is so small, that I am at a loss which way to send it for your inspection, for fear it should be lost. I shall set out for London on Monday next, and intend carrying this curiosity with me. I'll not leave it behind me; but when I come back you shall see it, and through you deposit it with the Royal Society, for the satisfaction of the curious. I am,\n\nRev. Sir,\n\nYour obliged and faithful humble servant,\n\nHenry Rosewarne.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105805.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 955,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        972,
+        2
+      ],
+      [
+        972,
+        2173,
+        3
+      ],
+      [
+        2173,
+        3403,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105805",
+    "title": "Letters from the Rev. Dr. William Borlase, F. R. S. Rector of Ludgvan in Cornwall, to Charles Morton, M. D. F. R. S. and from Mr. Rosewarne, of Truro, to Dr. Borlase; Giving an Account of a Specimen of Native Tin Found in Cornwall, and Now Deposited in the Museum of the Royal Society",
+    "authors": "William Borlase, Henry Rosewarne",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105805"
+  }
+}

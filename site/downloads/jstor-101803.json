@@ -1,0 +1,79 @@
+{
+  "id": "8bfd51a99ac088fd38809bcb15abd4dc03576c67",
+  "text": "It resembles the Ormus or Quicken Tree; only the Ormus bears the Flowers and Fruit at the end. This, on the sides of the Branch. Next the Sun, the Fruit hath a dark-red blush: and is about the bigness of a small Juneting Pear. In September, so rough, as to be ready to strangle one. But being then gather'd, and kept till October, they eat as well as any Medlar. Thus far the Letter.\n\nQ. Whether a Verjuice made of this Fruit, either ground with Crabs, or Grapes, or if plentiful, alone, would not, being kept for some time, prove one of the best acid-astringent Sauces, that Nature affords.\n\nA Relation of a Child which remained Twenty six years in the Mothers Belly. Taken out of the Journal des Scavans; being the Extract of a Letter written from Toulouse 22. June to the Author of that Journal, by Monsieur Bayle, M.D.\n\nThe said Author premises, that there having been many different Reports of this matter: Monsieur Bayle took the pains to give an exact account, as well of the Infant, as of what accidents befell the Mother during her being big with It. Taking also the Figure of the Infant, as it was seen of the whole Town.\n\nMargaret Mathew, Wife of John Puget, Shearman, being with Child 1652. perceived about the end of the ninth Month of her bearing, such pains as Women usually have, when about to fall in Labour. Her Waters also brake: but no Child follow'd. For the space of Twenty years, she perceived this Child to stir: with many troublesome Symptoms accompanying. Which made her from time to time, to desire the Chirurgeon to open her Belly, and take out this grievous burthen. But for the six last years, she perceived not the Child to move. Being lately fall'n sick, she requested the Chirurgeon to open her when she was dead. She died 18. June this year 1678. She was opened the next day, and a dead Child was found in her Belly, out of the Womb, no way joyned or fastened to it. The Head downward; the Buttocks hanging toward the left side; The Arms and Legs in the posture the Figure represents.\nAll the back part of this Child was covered with the Omentum; which was about two fingers thick, and stuck hard to divers parts of the Body of it, not to be separated without a Knife; which being done, very little blood issued. This Infant weighed Eight pounds Haverdupoysè. The Skull was broken into several pieces. The Brain of the colour and consistence of Oynment of Roses. The Flesh red, where the Omentum stuck, other parts whitish, yellowish, and somewhat livid; except the Tongue, which had the natural softness and colour. All the inward Parts were discolour'd with a blackishness, except the Heart, which was red; and without any issuing blood.\n\nThe Forehead, Ears, Eyes and Nose, were cover'd with a Callous substance, as thick as the breadth of a finger: which being taken away, the parts appeared, as in the Figure.\n\nThe Gums being cut, the Teeth appeared in the adulthood of those in grown persons. The Body had no bad smell, though kept three days out of the Mothers Belly. The length of the Body from the Buttocks to the top of the Head, about 11 Inches. The Mother died about the Sixty fourth year of her Age.\n\nAn Account of some Books.\n\nI. Johannis Wallisii, S.T.D. in Celeberr. Academia Oxoniensi Geometriae Professoris Savilianus, Exercitationes Tres:\n1. De Cometarum Distantia investigandis. 2. De Rationum & Fractionum Reductione. 3. De Periodo Juliana. Londini, 1678.\n\nConcerning the first, the Learned Author acquaints us, in the beginning thereof, That about fifteen or sixteen years since, it was proposed to himself by that excellent Mathematician Sir Christopher Wren, as a thing of use, &c. To find out the Distances of Comets from the Earth: and since then, hath been by him, * otherwise than is here, performed. To whom our Author then returned an Answer, &c. This same, which upon our Worthy Countrey-man Mr. John Col... his request, he hath here published.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101803.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 1087,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2019,
+        2
+      ],
+      [
+        2019,
+        3909,
+        3
+      ],
+      [
+        3909,
+        3909,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101803",
+    "title": "A Relation of a Child which Remained Twenty Six Years in the Mothers Belly. Taken out of the Journal Des Scavans; Being the Extract of a Letter Written from Tolouse 22. June to the Author of That Journal, by Monsieur Bayle, M.D.",
+    "authors": "Monsieur Bayle",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101803"
+  }
+}

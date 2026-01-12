@@ -1,0 +1,79 @@
+{
+  "id": "3965f28b7a19bfcb842b7116120b49af833035c7",
+  "text": "\"had fed in an indigo-field: the indigo had not\nonly tinged their urine blue, but the cream of\nthe milk was of a most beautiful blue colour, and\nhad a radiated appearance from the centre (Is it\nnot hence probable, that the dye is the oily part\nof the plant?). The milk underneath was clear\nand white as usual.\"\n\nDr. Garden wrote, a year ago, that the prickly\npear grows in great abundance about Carolina; and\nalso that the cochineal insects are found upon it;\nbut hitherto no attempts have been made to cure\nthem as the Spaniards do. In hope, that some rich\ndye may be produced from the plant itself, Mr.\nBaker proposed some experiments to Dr. Garden,\nwhich he intends to prosecute this summer.\n\nXXXVII. An Account of an extraordinary\nShower of black Dust, that fell in the\nIsland of Zetland 20th October 1755 *.\nIn a Letter from Sir Andrew Mitchell,\nof Westshore, Bart. to John Pringle,\nM.D. F.R.S.\n\nSIR, Pall-Mall, June 9th, 1757.\n\nRead June 23, 1757.\n\nIn compliance with your desire, I made\nparticular inquiry, whether at or about\nthe time the earthquake happened at Lisbon the 1st\nof November 1755, any uncommon phænomena\n\n* See Phil. Transact. Vol. xlix. Part 2. p. 509.\nwere observed to appear in the islands of Orkney or Zetland, as such had happened about that time in other parts of Scotland. From Orkney I was informed, that nothing particular had happened; only, that about the time mentioned the tides were observed to be much higher than ordinary. I received from Zetland a letter, dated 28th May 1756, from Mr. William Brown, Master of the grammar-school at Scalloway in that country, a sensible and observing man wherein he writes verbatim as follows. \"Blessed be God, notwithstanding the great devastations, that have been made in other parts of the world by earthquakes, we have been entirely free from any disaster of that nature: nor has anything extraordinary happened in this country since you left it; only on Monday the 20th October last, betwixt the hours of three and four in the afternoon, the sky being very hazy, as it uses to be before a storm of thunder and lightning, there fell a black dust over all the country, tho' in greater quantities in some places than in others. It was very much like lampblack; but smelled strongly of sulphur. People in the fields had their faces, hands, and linen, blackened by it. It was followed by rain. — Some people assign the cause of it to some extraordinary eruption of Hecla. But I shall trouble you no more about it, as no doubt some of your friends have written to you of it some time ago.\"\n\nIn June 1756, I returned to Zetland; and, upon further inquiry, found what Mr. Brown had written me was attested by Mr. Mitchell, parson of the parish of Tengwall, and by several Gentlemen of credit and reputation, who had seen and observed the\nthe same phenomenon in different parts of the country at the time above-mentioned.\n\nMr. Brown having omitted to mention, how the wind did blow at the time the black dust was observed, I made particular inquiry about that circumstance, and found it was from the S.W. which does not seem to favour the opinion, that the dust proceeded from an eruption of mount Hecla, which lies about N.W. from Zetland; unless it may be supposed, that a north wind happening just before had carried this dust to the southward, and the southwest wind immediately following had brought it back to the northward. But, in this case, would not this black dust have been observed in Zetland at its first travelling to the southward? Upon inquiry, I did not hear it was.\n\nThus far I have obeyed your commands, which I will always do with pleasure; and if you think it worth while to lay this letter before the Royal Society, I leave you at full liberty to do so, or not, as you think proper: but what it contains may be relied on as truth. I am, with great regard,\n\nDear Sir,\n\nYour most obedient humble Servant,\n\nAnd. Mitchell.\n\nP.S. I may add, that the distance from mount Hecla to Zetland is between 500 and 600 miles.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105262.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 5904,
+    "total-output-tokens": 1111,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1176,
+        2
+      ],
+      [
+        1176,
+        2808,
+        3
+      ],
+      [
+        2808,
+        4003,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105262",
+    "title": "An Account of an Extraordinary Shower of Black Dust, That Fell in the Island of Zetland 20th October 1755. In a Letter from Sir Andrew Mitchell, of Westshore, Bart. to John Pringle, M. D. F. R. S.",
+    "authors": "Andrew Mitchell",
+    "year": 1757,
+    "volume": "50",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105262"
+  }
+}

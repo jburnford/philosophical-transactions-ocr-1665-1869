@@ -1,0 +1,59 @@
+{
+  "id": "e4f92634221cf72e53dedd538256dba8f1fa0ceb",
+  "text": "More Wayes\nFor the same Purpose, Intimated by M. Hook.\n\nI have by me (saith Mr. H.) two or three several wayes of Measuring the Diameters of the Planets, whether Horizontal, Perpendicular, or Inclined, to the exactness of a Second, by the help of a Telescope: As also, of taking the Position and Distance of the Small Fixt Stars one from another, or from any of the less bright Planets, if the Distance be not above two or three Degrees.\n\nThe Particulars hereof, the Author refers to the next Opportunity.\n\nObservations\nOf the Star, called Nebulosa, in the Girdle of Andromeda; and of the Wondrous Star in the Neck of the Whale: made and communicated by Monsieur Bullialdus.\n\nAnno 1667. in January, when the Cloudy and Misty weather, which had continued for a good while, did permit us to observe, the Star Nebulosa, in the Girdle of Andromeda (which may well enough be seen by the bare Eye) appeared much obscurer than the Year before. In the Months of February and March I did not see it.\n\nAnno 1667, January 20. at Night, h.6.30. the Sky being pretty serene, the Star in the Neck of the Whale, did approach to the bigness of a Star of the Sixth Magnitude, and grew bigger afterwards.\n\nFebruary 12, h.6.30'. I saw the same again, equalling now a Star of the Fourth Magnitude at least.\n\nFebruary 24, h.7. This Star was equal to those of the Third Magnitude, shining very bright.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101206.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 433,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1379,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101206",
+    "title": "More Wayes for the Same Purpose, Intimated by M. Hook",
+    "authors": "M. Hook",
+    "year": 1666,
+    "volume": "2",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101206"
+  }
+}

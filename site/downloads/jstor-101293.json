@@ -1,0 +1,69 @@
+{
+  "id": "99860e3f50f705eca64f3a7975af3d998525ec21",
+  "text": "PHILOSOPHICAL TRANSACTIONS.\n\nMonday, Sept. 21. 1668.\n\nThe Contents.\n\nAn Addition to the formerly publish'd Narrative about Empty Tubes serving for a decay'd sight. An Extract of a Letter written from Dantzick, containing the success of some Experiments of Infusing Medicins into Humane Veines. Additional Answers to the Queries of Mines. Extracts of two Letters; whereof the one written from Franckford on the Oder concerning Osteocolla, and some other Observables in those parts: the other written by an Ingenious Person in England, about some Effects of Antimony. A second Letter of Dr. John Wallis on the same Printed Paper of Fr. Du Laurens, which was mentioned in the next foregoing Transactions. An Account of some Books. I. OLAIBORRICHII, Med. Regii, & in Acad. Hafniensi Prof. De ORTU & PROGRESSU CHEMIÆ, Dissertatio. II. An IDEA of the Perfection of PAINTING: originally written in French; and now rendred English by J. Evelyn Esq; III. STEREOMETRICAL PROPOSITIONS, variously applicable, but particularly intended for GAGING, by ROB. ANDERSON. IV. ELAPHOGRAPHIA sive CERVI Descriptio Physico-Medico-Chymica, Auth. JOH. ANDREA GRABA, Med. Doct. Erfurtensi. V. A DISCOURSE of SPEECH, originally written in French, now rendred English.\n\nA Note.\n\nRelating to the formerly publish'd Narrative about Empty Tubes, serving for a decay'd sight; imparted by the same Author in a Letter of August 10. 1668.\n\nSir, I pray you, give notice, That I have now tried Convexe Spectacles, which about 3 years agoe (before my sight fell into this decay) agreed very well for my use; and putting these Glasses\nGlasses into the Tapers, I found the smallest Prints somewhat larger, but not so clear, so distinct, nor so pleasing to the Eye, as when I use the Empty Tapers. Also I am so confirm'd, that these empty tapers do preserve, strengthen, and in some small degree recover the sight.\n\n* This may give occasion to consider, Whether to a sight much decay'd, a hindrance of the Refractions may be a Remedy? And whether that hindrance of Refractions, which helps some Eyes, helps not others?\n\nAnd I find myself best at ease with those Leather Tubes, I first used; and rather without any fastening to the bone of the Spectacles: For, as they hang in that slight manner, I can with a touch of my finger raise them up, or bow them down, divide them, or unite to take in the same object, which is more than I said at first. And I put them off and on as speedily and as easily as any other Spectacles.\n\nAn Extract of a Letter,\n\nWritten from Dantzick to the Honourable R. Boyle, containing the success of some Experiments of Infusing Medicines into humane Veines.\n\nMonsieur Smith, Physician in Ordinary to this City, having liberty granted him to try an Experiment upon some persons desperately infected with the Poxe, then in the publick Hospital here, adventur'd the opening a Veine, and infusing some Medicines into the blood; which was tried upon two persons, whereof the one recover'd, and the other dyed. Yet being since farther encouraged by corresponding with some of the Royal Society in England, about a Moneth since, the said Physician, together with Monsieur Scheffeler, another ancient Practitioner in this City, repeated the Experiment by infusing Altering Medicines into the Veines of the right Armes of three persons: the one, lame of the Goute; the other, extremely Apoplextical; and the third, reduced to extremity by that odd distemper, the Plica Polonica. The Success of this, as Monsieur Hevelius (who was the person only admitted to be present at the operation) informes me, was; That the Gouty man found himself pretty well next day, and shortly after went to work, it being Harvest time, and has",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101293.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1003,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1597,
+        2
+      ],
+      [
+        1597,
+        3700,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101293",
+    "title": "A Note, Relating to the Formerly Publisht Narrative about Empty Tubes, Serving for a Decay'd Sight; Imparted by the Same Author in a Letter of August 10. 1668",
+    "authors": null,
+    "year": 1668,
+    "volume": "3",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101293"
+  }
+}

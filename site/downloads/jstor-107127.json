@@ -1,0 +1,59 @@
+{
+  "id": "25cdbc568d4e53304035fedcb7232d9c79a7f318",
+  "text": "repeated them several times under different circumstances, and I have no doubt that the dispersion of coloured light in the human eye is nearly such as I have stated it. How it happens to be no greater, I cannot at present undertake to explain.\n\nCORRECTION OF A FORMER PAPER.\n\nIn the Philosophical Transactions for 1800,\nP. 146, line 12, for 83810, read 84197;\n——— line 15, for .0011562, read .0010116.\nIn Fig. 53, (Plate VII.) the Eb (Q.) is too near D;\nand the Eb (Y) should be above, instead of below it.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107127.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3366,
+    "total-output-tokens": 224,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        507,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107127",
+    "title": "Correction",
+    "authors": null,
+    "year": 1802,
+    "volume": "92",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107127"
+  }
+}

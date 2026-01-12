@@ -1,0 +1,59 @@
+{
+  "id": "ada6c312ec5ed059e939d4741d33ec03687b8475",
+  "text": "I. Observatio Eclipseis Solaris, ab Edmundo Hal-\nleio, L.L.D. R.S.S. Astron. Reg. & Geom.\nProf. Savil. Oxon. Novem. 27° 1722. p.m.\nGrenovici.\n\nh 1 ''\n1 29 16 Eclipsein jam inceptam vidi.\n1 31 6 Distantia Cuspidum 7' 4'', unde pars\ndeficiens 0' 47'' ac initium verum\n1 28' 58''\n1 34 18 Distantia Cuspidum 10' 50''\n1 42 28 Repet. 16' 20''\n1 43 26 Inclinatio Cuspidum ad dextras 44° 30'\n2 32 37 Partes Lucidae residuae 17' 20''\n2 40 16 Repet. in med. Eclipseis proxime, 17' 9''\n3 28 45 Inclinatio ad sinistras 19° 0'\n3 31 45 Distantia Cuspidum 15' 21''\n3 37 35 Repet. 10' 50''\n3 43 25 Finis Eclipseos dubius, ob limbum Solis\nasperum & undulantem nec sat bene de-\nfinitum.\n3 43 45 Certe desierat Eclipseis.\n\nCoelum toto tempore serenum & tranquillum.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103599.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 430,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        746,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103599",
+    "title": "Observatio Eclipsis Solaris, ab Edmundo Halleio, L L. D. R. S. S. Astron. Reg. & Geom. Prof. Savil. Oxon. Novem. 27 degrees 1722, p. m. Grenovici",
+    "authors": "Edmundo Halleio",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103599"
+  }
+}

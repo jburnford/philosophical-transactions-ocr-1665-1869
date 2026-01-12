@@ -1,0 +1,59 @@
+{
+  "id": "0a15e18ab512fb426ee891c9ed70c1591b16c9e7",
+  "text": "286 Ricinus minor Staphys.agriæ folio; flore pentapetalulo purpureo Sloane Hist. Vol. I. 129. Tab. 84.\n287 Sonchus laevis in plurimas & tenuissimas lacinias divisus. C. B. 124.\n288 Spinacia Cretica, supina; capsulae seminis aculeata. T. Inst. 533.\n289 Sena spuria, arborea, spinosa; foliis alatis ramosis, seu decompositis; flore ex luteo & rubro specioso. Sloane Hist. v. ii. 49.\n290 Santolina foliis teretibus. T. Inst. 460.\n291 Santolina repens & canescens. ib.\n292 Santolina foliis minus incanis. T. Inst. 461.\n293 Santolina foliis obscure virentibus. ib.\n294 Santolina vermiculata Cretica. ib.\n295 Santolina incana; Chamæmeli odore suaviore. Boerh. Ind. alt. 123.\n296 Santolina tota viridis; foliis Ericæ aut Sabinæ. an 3 Dodon. 269?\n297 Santolina canescens foliis Cupressi. an 4 Dodon. ib?\n298 Santolina minor candidissima.\n299 Tithymalus erectus acris; Parietariae foliis glabris; floribus ad caulium nodos conglomeratis. Sloane Hist. v. i. 197. Tab. 126.\n300 Tormentilla reptans, alata, foliis profundius serratis D. Plot. Raii Syn. Ed. 2. 142.\n\nERRATA.\n\nIn Philos. Transact. No. 399, some Mistakes of the Press in the Catalogue of the fifty Plants ought to be thus corrected. Pag. 293, after 203 and 208, dele this Mark — Pag. 294, after the following Numbers, 213, 214, 217, 218, 219, 220, 222, 225, dele — Pag. 295, after the following Numbers, 236, 237, 244, 246, 248, dele —",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103497.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 646,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1387,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103497",
+    "title": "Errata",
+    "authors": null,
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103497"
+  }
+}

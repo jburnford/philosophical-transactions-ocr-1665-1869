@@ -1,0 +1,79 @@
+{
+  "id": "069559a9c4ca87a69b3deebe36dcbe5382a05b05",
+  "text": "if possible, two exact observations of her Apparent place among the Fixt stars being made, at two places thus distant in Latitude, and as near as may be under the same Meridian, by these Observators concurring at the same time, her true and exact distance may be hence collected, not only for that time, but at all other times, by any single Observer's viewing her with a Telescope, and measuring exactly her Apparent Diameter. It were likewise desirable, that as often as there happens any considerable Eclipse of the Sun, that this also might be observed by them, noting therein the exact measure of the greatest Obscuration compared with the then Apparent Diameter of his Disk. For by this means, after the distance of the Moon hath been exactly found, the distance of the Sun will easily be deduced.\n\nAs for the time, fittest for making Observations of the Moon, that will be, when she is about a Quarter or somewhat less illuminated, because then her light is not so bright, but that with a good Telescope she may be observ'd to pass close by, and sometimes over several Fixt stars; which is about four or five days before or after her Change: Or else at any other time, when the Moon passes near or over some of the bigger sort of Fixt stars, such as of the first or second Magnitude; which may be easily calculated and foreseen: Or best of all, when there is any Total Eclipse of the Moon; for then the smallest Telescopical stars may be seen close adjoining to the very body of the Moon. Of all which particulars the two Correspondents are to agree, as soon as he, that is to joyn abroad, shall be found out; whereupon they are mutually to communicate to each other, what they shall have thus observed in each place.\n\nOf an Observation, not long since made in England, of Saturn.\n\nThis Observation was made by Mr. William Ball, accom-\npanied by his brother, Dr. Ball, October 13, 1665, at six of the clock, at Mainhead near Exeter in Devonshire, with a very good Telescope near 38 foot long, and a double Eye-glass, as the observer himself takes notice, adding, that he never saw that Planet more distinct. The observation is represented by Figure 3, concerning which, the Author saith in his letter to a friend, as follows; This appear'd to me the present figure of Saturn, somewhat otherwise, than I expected, thinking it would have been decreasing, but I found it full as ever, and a little hollow above and below. Whereupon the Person, to whom notice was sent hereof, examining this shape, hath by Letters desired the worthy Author of the Systeme of this Planet, that he would now attentively consider the present Figure of his Anses or Ring, to see whether the appearance be to him, as in this Figure, and consequently whether he there meets with nothing that may make him think, that it is not one body of a Circular Figure, that embraces his Diske, but two.\n\nAnd to the end that other Curious men, in other places might be engaged, to joyn their Observations with him, to see whether they can find the like appearance to that, represented here, especially such Notches or Hollownesses, as at A and B, it was thought fit to insert here the newly related Account.\n\nA Relation of some Mercurial Observations; and their Results.\n\nModern Philosophers, to avoyd Circumlocutions, call that Instrument, wherein a Cylinder of Quicksilver, of between 28 and 31 Inches in Altitude, is kept suspended after the manner of the Torricellian Experiment; a Barometer or Baroscope, first made publick by that Noble Searcher of Nature, Mr. Boyle, and employed by Him and others, to detect all the minut variations in the Pressure and weight of the Air. For the more curions\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101471.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 945,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1843,
+        2
+      ],
+      [
+        1843,
+        3670,
+        3
+      ],
+      [
+        3670,
+        3670,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101471",
+    "title": "Of an Observation, not Long Since Made in England, of Saturn",
+    "authors": "William Ball",
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101471"
+  }
+}

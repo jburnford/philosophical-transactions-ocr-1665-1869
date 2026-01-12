@@ -1,0 +1,59 @@
+{
+  "id": "3d713dddecbf5a3cbfde4ce4fd09f8ab55a1ffbf",
+  "text": "with two Convexes and a Concave. The Terrestrial Telescope, with three Convexes, and two others with four Convexes; of each of these he gives the Schemes and demonstrates their Effects.\n\nERRATA in some former Numbers of these Tracts.\n\nNumb. 192 Page 462, line 4. dele five. p. 489. l. 26. dele him. No. 194. p. 544. l. 5. r. sepe. p. 554. l. 6. for Brack r. Back. No. 195. p. 565. l. 12. r. 163. p. 568. l. 13. for more r. move. No. 196. p. 584. l. penult. r. Chartula. p. 587. l.4. r. notin. p. 589. & 590. in Marg. r: Fig. 3. p. 593. l. 6. r. Animalcules.\n\nLONDON:\n\nPrinted for S. Smith and B. Walford, Printers to the Royal Society, at the Princes Arms in St. Paul's Churchyard, 1693.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101970.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 365,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        687,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101970",
+    "title": "Errata",
+    "authors": null,
+    "year": 1693,
+    "volume": "17",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101970"
+  }
+}

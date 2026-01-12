@@ -1,0 +1,59 @@
+{
+  "id": "9272fe05d36ad63d24011a4dccf90ab5cb20f68a",
+  "text": "an Experiment of the Injection of Mercury into the Blood, and its ill effects on the Lungs: as it was communicated to the Royal Society, by their late worthy Member A. Moulin, M.D. (9.) An Account of a Book; Medicina Hydrostatica or Hydrostaticks applied to the Materia Medica, shewing how by the weight that divers Bodies used in Physick have in Water, one may discover whether they be Genuine or Adulterate; By the Honourable Robert Boyle, Fellow of the Royal Society, London. Octavo. 1690.\n\nAdvertisement.\n\nThe Publication of these Transactions having for some time past been suspended, chiefly by reason that the unsettled Posture of Publick Affairs did divert the Thoughts of the Curious towards Matters of more immediate Concern than are Physical and Mathematical Enquiries, such as for the most part are the Subjects we treat of, with exclusion to many others wherewith the foreign Journalist usually supply their monthly Tracts: These are now to Advertise, that for the future the Royal Society has commanded them to be Published as formerly, and if possibly Monthly. And all Lovers of so good a Work are desired to contribute their Discoveries in Art or Nature, addressing them as formerly to Mr. H. Hunt at Gresham College, and they shall be inserted herein, according as the Authors shall direct.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101911.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 345,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1307,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101911",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1686,
+    "volume": "16",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101911"
+  }
+}

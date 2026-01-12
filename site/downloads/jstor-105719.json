@@ -1,0 +1,99 @@
+{
+  "id": "a52082dd9eca11d71a4fbc8e3801cdc0c9f5ed2c",
+  "text": "XXX. An Account of a remarkable Fish, taken in King-Road, near Bristol: In a Letter from Mr. James Ferguson, to Thomas Birch, D.D. Secret. R.S.\n\nReverend Sir,\n\nBristol, May 5th 1763.\n\nRead June 2d, 1763.\n\nHerewith take the liberty of sending you a drawing of a very uncommon kind of fish [TAB. XIII.] which was lately caught in King-Road, a few miles from this city; and is now shewn at the Hot-Wells. It fought violently against the fisher-man's boat, after they got it in their net, and was killed with very great difficulty. Nobody here can tell what fish it is, only some say it is a Sea Lion; but, to the best of my remembrance, it answers not to the description or figure of the Sea Lion, that is given in Lord Anson's voyage. I took the drawing on the spot, and do wish I had had my Indian Ink and Pencils, by which it might have been much better shaded; but I hope you'll excuse the roughness of the draught, as it is the first I ever made with a pen.\n\nThe length of the fish is four feet nine inches, and the thickness in proportion as in the figure. The mouth is a foot in width, and of a squarish form: it has three rows of sharp small teeth, very irregularly set, and at some distance from each other: it has no tongue, nor narrow gullet, but is all the way down, as far as one can see, like a great hollow tube: in the back of the mouth within, there are two openings like\nlike nostrils; and about nine inches below the jaw, and under these openings, are two large knobs, from which proceed several short teeth; a little below which, on the breast side, is another knob with such teeth.—On each side within, and about a foot below the jaws, there are three cross ribs, somewhat resembling the straight bars of a chimney-grate, about an inch distant from each other; through which we see into a great cavity within the skin, towards the breast; and under the skin, these cavities are kept distended by longitudinal ribs, plain to the touch on the outside. I put my arm down through the mouth, quite to my shoulder, but could feel nothing in the way; so that its heart, stomach, and bowels must lie in a very little compass near its tail, the body thereabout being very small.\n\nFrom the neck proceed two long horns, hard and very elastic, not jointed by rings as in lobsters: and on each side of the back there are two considerable sharp edged risings, of a black and long substance. Between each eye and the breast, there is a cavity somewhat like the inside of a human ear; but it doth not penetrate to the inside. From each shoulder proceeds a strong muscular fin, close by which, towards the breast, is an opening, through which one may thrust his hand and arm quite up through the mouth: and between these fins proceed from the breast two short paws, somewhat like the fore half of a human foot, with five toes joined together, having the appearance of nails. Near the tail are two large fins, one on the back, the other under the belly. The skin is of a dark brown colour, but darker spotted in several places, and entirely without scales.\nIf you think this any way deserves the notice of the Royal Society, I shall be very glad of your communicating it; and am, with the greatest esteem,\n\nReverend Sir,\n\nYour most obliged humble Servant,\n\nJames Ferguson.\n\nThe fish was kept in the position it is drawn, by two cords; one of which was hooked into its upper jaw, and the other tied round it near the tail: the other ends of the cords being tied to a stick above.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105719.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 6,
+    "total-input-tokens": 9914,
+    "total-output-tokens": 999,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1386,
+        2
+      ],
+      [
+        1386,
+        1386,
+        3
+      ],
+      [
+        1386,
+        1386,
+        4
+      ],
+      [
+        1386,
+        3057,
+        5
+      ],
+      [
+        3057,
+        3478,
+        6
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105719",
+    "title": "An Account of a Remarkable Fish, Taken in King-Road, Near Bristol: In a Letter from Mr. James Ferguson, to Thomas Birch, D. D. Secret. R. S.",
+    "authors": "James Ferguson",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 6,
+    "jstor_url": "https://www.jstor.org/stable/105719"
+  }
+}

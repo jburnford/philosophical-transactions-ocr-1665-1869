@@ -1,0 +1,59 @@
+{
+  "id": "7915d57cc5da183198ffb20e239c5f0b2601e753",
+  "text": "m m Cæcae appendices vesiculæ, quæ in hoc cadaver breves fuerunt.\nn n Appendices aliquæ ramosæ.\no Ductus semenifer per prostatae euns.\np Ductus vesiculæ excretorius ipsi insertus.\n\nXIII. A Letter from John Martyn, M.D. Prof. Botan. Cantab. & F.R.S. to the President, concerning an Aurora Borealis seen February 16. 1749-50.\n\nSIR,\n\nChelsey, Feb. 21. 1749-50.\n\nRead Feb. 22.\n\nON Friday the 16th there was a bright Aurora Borealis, the Northern Part of the Sky being entirely filled with a pale Light, in which frequent Coruscations were visible. Besides these Lights, there was a perfect uniform Arch, extending from East to West: the Colour of it was the same with that of the Aurora; with which however it did not seem to have any Communication, being placed several Degrees to the Southward. The Shoulders of Orion were visible thro' this luminous Arch, in the Western Part of it, and Cor Leonis in the Eastern Part. I did not happen to see it till about a Quarter before Ten; and at Ten it disappeared. The Weather was then, and has been ever since, exceedingly warm for the Season. The Walls are covered with Blossoms; and the Hyacinths, Daffodils, &c. are blown before the usual time. I am, with the greatest Respect,\n\nSIR,\n\nYour most humble Servant,\nJOHN MARTYN.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104657.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 413,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1267,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104657",
+    "title": "A Letter from John Martyn, M. D. Prof. Botan. Cantab. & F.R.S. to the President, concerning an Aurora Borealis Seen February 16. 1749-50",
+    "authors": "John Martyn",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104657"
+  }
+}

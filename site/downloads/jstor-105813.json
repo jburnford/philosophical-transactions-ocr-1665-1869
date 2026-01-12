@@ -1,0 +1,89 @@
+{
+  "id": "d0c4308e4f430e534e657b0b2c568530976b7362",
+  "text": "XV. An Account of a remarkable Aurora Borealis, observed at the Observatory of the Marine at Paris, by M. Messier, of the Royal Academy of Sciences, and F.R.S. Translated by J. Bevis, M.D. F.R.S.\n\nRead May 25, 1769.\n\nThe morning of the 6th of August, 1768, was, for the most part, serene, and the afternoon was quite so. At near nine at night, the western horizon was illuminated with a very sensible twilight, which increased greatly upon that which the sun had left. I suspected that this quantity of light could be only owing to a beginning Aurora Borealis; and, accordingly, about ten o'clock, the sky being perfectly clear, excepting one thick cloud, about the same height as Arcturus, represented in my drawing, Tab.V. The Aurora was at that time considerable; several streams of light had then shot up from the horizon. At half an hour after ten, the Aurora occupied nearly one half of the horizon, extending from the west to the north-east, and the horizon seemed to be covered with an uneven thick smoak, from which issued several streamers of light; two of which, to the westward, arose to a great height, passing through the tail of the Great Bear, and were sensibly inclined to each other, tending to unite in\nin the zenith. Both these luminous streamers kept in a continual agitation, which lasted the whole time of their existence, that is, till eleven o'clock. At the foot of these lights was the furnace, which glowed with rays of light less elevated, and sensibly inclined to the horizon; these were also in continual agitation. At eleven, six streamers, parallel to one another, shot up in the north, under the constellation of the Little Bear; they ascended not so high, but were more conspicuous than the two preceding ones, and their undulations were not so quick. About half an hour after eleven, the sky began to be clouded; at midnight it was so all over, which put an end to all hope of further observing the progress of this phenomenon. In this Aurora I could not discern any lightning or rumbling, as I did in that which appeared in the night of the 21st of May, 1762, described in the fifth and sixth volumes of the Memoires des Scavans Etrangers.\n\nWhilst this phenomenon lasted, the air was calm, and no wind stirring; at least what little there was, was from the north-east. The quicksilver in the barometer stood at 28 inches $1\\frac{1}{2}$ line; and Reaumur's thermometer at $20\\frac{1}{4}$ degrees. During the whole day the barometer varied only $1\\frac{1}{2}$ line, and the thermometer no more than five degrees.\n\nAn Account of an Aurora Borealis, observed at Paris, the 5th of December, 1768. By the same.\n\nAbout seven in the evening, the northern quarter was enlightened with an incipient Aurora Borealis, which increased gradually. At eleven at night it was very\nvery conspicuous, numbers of luminous streamers darting up from below the horizon, some of them reaching the zenith; but none of the streamers lasted any considerable time, and their light was but feeble. Several whitish clouds appeared in the north; the furnace occupied a great part of the horizon. This phenomenon lasted almost the whole night.\n\nThe same Aurora was observed at Berlin, where it lasted from six in the evening till nine. It was also observed at Vienna, where it is said that the needle of a compass lost, during this phenomenon, its usual direction, shifting at first two degrees eastward, and afterwards four degrees the contrary way; it was at the same time remarked that the electrical machine had acquired an uncommon degree of force.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105813.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7656,
+    "total-output-tokens": 976,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1222,
+        2
+      ],
+      [
+        1222,
+        1222,
+        3
+      ],
+      [
+        1222,
+        2800,
+        4
+      ],
+      [
+        2800,
+        3557,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "None",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105813",
+    "title": "An Account of a Remarkable Aurora Borealis, Observed at the Observatory of the Marine at Paris, by M. Messier, of the Royal Academy of Sciences, and F. R. S. Translated by J. Bevis, M. D. F. R. S.",
+    "authors": "J. Bevis, M. Messier",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/105813"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "923ef2b243d7e7b93317221ee48ddd670b221453",
+  "text": "rectifying mistakes, and encouraging every branch of useful knowledge, I shall think my time well employ'd in this inquiry, which had its rise from your instructive conversation. I am, with the highest respect,\n\nSIR,\n\nLondon, April 15, 1753.\n\nYour most obedient, and most humble servant,\n\nJohn Bond.\n\nXXIX. A Letter from Dr. Bevis to Mr. James Short, F.R.S. concerning Mr. Gascoigne's Invention of the Micrometer.\n\nDear Sir,\n\nALTHOUGH Mr. Townley, in his letter to Dr. Croon, printed in the Philosophical Transactions, No. 25, p. 457, has sufficiently made appear, that the invention of the micrometer was Mr. Gascoigne's, and that he applied it to measuring small angles in the heavens, and for settling the moon's parallax, long before Messieurs Auzout and Picard thought of any such matters; yet are the French astronomers at every turn for giving it to these their countrymen, without so much as once mentioning the name of Mr. Gascoigne.\n\nNo sooner had the late Dr. Derham restor'd the application of telescopic sights to quadrants to its true author Mr. Gascoigne, than M. de la Hire, who never made the doctor any reply on that head, took occasion,\ntion, in the memoirs of the Royal Academy of Sciences for 1717, to ascribe this contrivance of the micrometer to M. Auzout, in conjunction with M. Picard; alleging, for proof, an extract of a letter, dated Dec. 28, 1666, from M. Auzout to M. Oldenburg, and printed in Phil. Trans. No 21. Several others have since copied M. de la Hire's assertion, and last of all, M. Bouguer, in the memoirs of the Royal Academy of Sciences for 1748, lately publish'd, wherein he describes an instrument, which he calls an heliometer; the contrivance whereof seems in every respect the same as that sent about ten years ago to the Royal Society, by Servington Savery, Esq.\n\nI have now before me the copy of a letter of Mr. Gascoigne to Mr. Oughtred, which I made myself from the original, written in 1640-1; which original was in the possession of the late William Jones, Esq; F.R.S. and is now in the library of the right honourable the Earl of Macclesfield. It consists of several sheets of paper, all about his invention for measuring small angles to seconds; where he not only gives the geometrical and optical principles of his contrivance, and the construction of the instrument, but also a series of observations actually taken therewith; some of which I shall transcribe.\n\n1640 Aug. 5. Jupiter's diameter . . . 0° 51'\nMars's . . . . . . . . . . . . . . 0° 38\nDec. 24. Mars's . . . . . . . . . . . . . . 0° 25\nVenus's . . . . . . . . . . . . . . . . . . 0° 25\n\n1640 Aug. 25 Moon's semidiam. 15° 17' h. 8 p.m.\nSept. 19 . . . . . . . . . . . . . . . . . . 15° 11'\nThese may suffice to prove, that Mr. Gascoigne's micrometer was not a mere thing in embryo, but brought to a good degree of perfection above 40 years before that of the French gentlemen was ever so much as mention'd. I am,\n\nSIR,\n\nRed-lion street, Clerkenwell, Your very humble servant,\nMay 10, 1753.\n\nJ. Bevis.\n\nXXX. Observations of the Transit of Mercury over the Sun, May 6, 1753; by Mr. J. Short, F. R. S.\n\nRead May 17, 1753.\n\nTHE instrument prepared for these observations was a reflecting telescope, of two feet focal length, of the Gregorian form, magnifying about 65 times, and so constructed in its machinery as to move in a plane parallel to the horizon, and also, when required, to move in a plane parallel to the equator. This telescope had two eye-pieces, each a combination of two glasses, viz. one eye-piece for the horizontal motion, with wires at right angles to one another, the wires being between the",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105143.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1137,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1156,
+        2
+      ],
+      [
+        1156,
+        2709,
+        3
+      ],
+      [
+        2709,
+        3628,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105143",
+    "title": "A Letter from Dr. Bevis to Mr. James Short, F. R. S. concerning Mr. Gascoigne's Invention of the Micrometer",
+    "authors": "J. Bevis",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105143"
+  }
+}

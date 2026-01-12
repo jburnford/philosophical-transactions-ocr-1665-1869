@@ -1,0 +1,89 @@
+{
+  "id": "ec983c2e8e2b10aaa44ff795c84e177f07f63451",
+  "text": "XL. Observations made during the late Frost at Northhampton. By A. Fothergill, M. D. Communicated by William Henley, F. R. S.\n\nTO THE REV. DR. HORSLEY, SEC. R. S.\n\nREV. SIR,\n\nR. June 27, 1776.\n\nThe following letter, from my learned friend Dr. FOTHERGILL, contains, in my opinion, many very curious experiments and observations; and, though it was not intended for that purpose, I cannot but think it well deserving the notice of the Royal Society. I have, therefore, sir, taken the first opportunity to put it into your hands.\n\nAnd am,\n\nYours very sincerely,\n\nW. HENLY.\nDEAR SIR,\n\nAccording to my promise, I now proceed to give you a short account of some observations and experiments concerning the late severe frost. As some of the phenomena appeared to me not a little surprizing, I minuted them down at the time they occurred.\n\nJan. 27th, The great quantity of snow which had continued falling almost every day for three weeks, had, for these five or six days past, rendered the roads impassable; and the post, both upwards and downwards, was stopped, the snow being drifted from six to ten feet deep or upwards. This morning the frost became suddenly very severe; the wind full East, accompanied with snow. The barometer stood at $29\\frac{3}{4}$. A thermometer, according to Fahrenheit's scale, which hung in my parlour, where there was a good fire, stood at $33^\\circ$, that is, only $1^\\circ$ above the freezing point. After it had been suspended a quarter of an hour on the Chinese palisades before the street-door facing the South, it sunk to $20^\\circ$, that is, $12^\\circ$ below the freezing point. At five o'clock the same evening, it fell to $16^\\circ$. At this time eggs in the market cracked in the women's baskets, and appeared in a coagulated state, of the consistence of beeswax. This evening was placed on my garden-wall, facing the East, half an ounce of each of the following liquors in a cup; viz. lemon-juice, vinegar, and red port-wine.\n\nJan. 28th, This morning, at eight o'clock, the barometer stood at $30$. The thermometer at $12^\\circ$, that is, $20^\\circ$ below\nbelow the point of freezing; wind Easterly; the atmosphere clear and serene, but piercing cold. The three liquors were reduced to a solid cake of ice. This night, about eleven, were placed on the same wall the following liquors; viz. spirit of Mindererus, volatile spirit of sal ammoniac of both kinds, mild and caustic, dulcified spirit of nitre, red port-wine, and French brandy.\n\nJan. 29th, Barometer $29\\frac{9}{10}$; thermometer at $11^\\circ$, that is, $21^\\circ$ below freezing; the Easterly wind excessively keen and piercing. The roads which, at great labour and expense, had just been cut through for carriages to pass, were again this morning, though no fresh snow had fallen, completely drifted up. These liquors also, to my great surprise, now shewed evident marks of freezing. They were suffered to remain, and two more cups were placed near them, with highly rectified spirit of wine and vitriolic ether. At a little distance was placed, in a frigorific mixture, consisting of a combination of the vitriolic acid with snow, about an ounce of crude quicksilver in a phial.\n\nJan. 30th, The morning clear, but intensely cold; wind S.E.; barometer $30\\frac{1}{10}$; thermometer sunk to $9^\\circ$, that is, $23^\\circ$ below the freezing point; a degree of cold which, I apprehend, has been but rarely experienced in this climate, being $3^\\circ\\frac{1}{2}$ below that of the remarkable frost in the year 1739. On examining the liquors on the garden-wall I found, to my astonishment, all of them, except the spirit of wine and ether, perfectly congealed: the first time I had ever seen these liquors in a solid form.\nBeing desirous to see the effect of a high degree of artificial, added to the natural cold that now prevailed, the thermometer was immersed into the frigorific mixture; but though it sunk the quicksilver, in a few seconds, into the bulb of the thermometer, yet the result was by no means adequate to that of the experiment of Professor Braun at Petersburg: for although the quicksilver in the thermometer, and that in the phial, contracted a film on the top, yet it remained quite fluid below.\n\nJan. 31st to Feb. 1st, The barometer at 29; the thermometer only at 16°, that is, 17° below the point of congelation; the atmosphere serene and pleasant.\n\nFeb. 2d, Wind S.; barometer 29½; a warm, misty morning, succeeded by a pleasant, spring-like day, ushered in a very mild and agreeable thaw, the thermometer from 9° being got up to 40°; so great was the change of temperature in so short a space of time! And it seems worthy of observation, that the epidemic cold, which had prevailed universally during the preceding mild season, suddenly disappeared in the late intense frost; but now began to re-appear, together with rheumatic affections and other diseases of the former period.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106304.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 1392,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        570,
+        2
+      ],
+      [
+        570,
+        2091,
+        3
+      ],
+      [
+        2091,
+        3716,
+        4
+      ],
+      [
+        3716,
+        4908,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106304",
+    "title": "Observations Made during the Late Frost at North-Hampton. By A. Fothergill, M. D. Communicated by William Henley, F. R. S.",
+    "authors": "A. Fothergill, William Henley",
+    "year": 1776,
+    "volume": "66",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106304"
+  }
+}

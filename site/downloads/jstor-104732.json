@@ -1,0 +1,59 @@
+{
+  "id": "34e7386b0a8c204563e26dc69657e06c8486b5af",
+  "text": "We see and admire the Effects of Electricity, and its stupendous Properties, every Day; which seems as it were an animating Soul to Matter. The Antients had a Notion that the Earth was a great Animal; probably from some Observations of Electricity; but certainly, when in our Days we feel these unusual and extraordinary Convulsions of Nature, it is a Lesson to us, to do our Duty toward that Great Being, who, by a Drop of Water can produce Effects so prodigious.\n\nMarch 13.\n1749-50.\n\nWilliam Stukely.\n\nXXV.\n\nExtract of a Letter to Mr. J. Ellicott F.R.S. concerning an Earthquake at Portsmouth, March 18. 1749-50.\n\nRead March 22.\n1749.\n\nBy a Letter I had from Mr. Oakes at Portsmouth, dated the 19th instant, he gives me an Account of the Inhabitants being alarm'd with a severe Shock of an Earthquake on Sunday the 18th at Six o'Clock in the Evening; and that it was felt stronger at the Common, which is about three Quarters of a Mile distant.\n\nXXVI.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104732.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 316,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        953,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104732",
+    "title": "Extract of a Letter to Mr. J. Ellicott F.R.S. concerning an Earthquake at Portsmouth, March 18. 1749-50",
+    "authors": "J. Ellicott",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104732"
+  }
+}

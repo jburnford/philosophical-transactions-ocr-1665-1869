@@ -1,0 +1,79 @@
+{
+  "id": "a0ed31b3f0a7b50d9330d0f9dcdff8deb4f32a5b",
+  "text": "XXI. A short Account of some Swedish Minerals, &c. sent from Mr Angestein, Overseer of the King of Sweden's Mines, to Mr James Petiver, Apothecary, and F. R. S.\n\nI. Bitumen fossile, coagulatum, in Ferrifodina Betzberg apud Suecos.\nThis is very light, black, and shining, like Pitch, or Canal-Coal; in taste insipid, brittle and not clammy.\n\nII. Minera Ferri Betzbergæ.\nA blackish Mineral, full of small glittering sandy Particles, which easily break and crumble small like black Sand; its ponderous, and without any drossy Mixture.\n\nIII. Minera Martis Betzbergæ.\nThe outside lumps are smooth and shining, its inside of finer Particles than the last, but when broke more shining, large and flakey.\n\nIV. Minera Martis Betzbergæ, Carbonis facie.\nThe outside smooth and somewhat shining like Pit-Coal, the inside more gray and glittering.\n\nV. Minera Martis ditissima, fodina Danemoræ Sueciae.\nThis resembles a Slat-Coal of a Lead colour, heavy, but neither shining nor glittering, except a little Brafey in the interstices; which are but few, and those irregular: This had a sparry Vein thro' it, about the thickness of a quarter of an Inch.\n\nVI. Rubinus globulosus, è Rodina Garpenberg Suecie.\nThese are near as long as Hazel Nuts; the outside in many Places transparent, but broken and rugged; they seem more ponderous than a clear Ruby of the same size.\n\nMinera\nVII. Minera Veneris seu Cupri, Garpenbergæ.\n\nIts exterior face Brassey and shining, with some few spaces of deep Copper, with a blue in the Center; the interstices are pale Brass in some Places, and where its fresh broken into the heart of the Oar, its of a glorious Lustre; in some places its coated, with a white or discoloured Spar.\n\nVIII. Minera Cupri è fodina Flaklunensi Sueciae.\n\nThis is mostly composed of pale brassey micæ, with a small mixture of deeper, and near a quarter part of black sprinkles somewhat thining.\n\nIX. Minera Cupri ditissima LAZUR dictum, è fodina Linfnadensis Provincia Heerlacensis Sueciae.\n\nThe Oar is very like No. VII. its coated with yellowish Spar, mixt with a paleish white.\n\nX. Minera Argenti-Plumbæa è fodina Hollefarsen Sueciae.\n\nVery like our Mendip Lead Oar, full of large sparkling Flakes or Micæ.\n\nXI. Certum genus Aluminis plumosi cum Minera Plumbi intermixtum, è fodina Saklberg Sueciae.\n\nThe Amiant part is of a light Gray or Lead colour, composed of fine long brittle Filaments; the outsides and hollows are filled with very white short and brittle Spar.\n\nXII. Matrix Minera Argenteæ, Saklbergæ.\n\nThis is a short irregular white shining Spar, much like the last which lies with the Amiantus; it easily breaks into small pieces with the Hammer.\n\nXIII. Minera Lunæ & Saturni è Saklberg.\n\nThe Sparks of this are very bright and shining, with smaller micæ than No. X. in it are interspers'd some little bits of white Spar.\n\nXIV. Mi-\nXIV. Minera Lunæ & Saturni Saklbergæ una cum Matrice.\n\nThis Oar has a particular Face, being composed of many ruinous angular Columns lying confusedly; some long and crooked, others short; amongst them are some like Glass greenish and transparent; these very easily fall into pieces with a light blow of a Hammer.\n\nXV. Minera Lunæ, Arsenici & Saturni ex Argenti fodina Saklberg.\n\nThe Flakes of these are pretty large like No. X. and very glittering.\n\nXVI. Cuprum præcipitatum, fodina Schilon Sueciae.\n\nIts outer Coat is rusty, and resembles an Iron Stone or Clay, under which are some thin Strata of a dark or blewish hue; the Center of an Iron brown full of small Copper Micæ, which in some places are of a refulgent fiery lustre.\n\nXVII. Minera Cupri rarissima è Schilou.\n\nThis resembles Colcothar, but of a brighter red, and very weighty; it seems to have some very small shining Particles in it, and in some parts of its outsides, it has a sort of sullen greenish Wood-like rust, but its not very heavy.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103195.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1155,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1361,
+        2
+      ],
+      [
+        1361,
+        2838,
+        3
+      ],
+      [
+        2838,
+        3844,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103195",
+    "title": "A Short Account of Some Swedish Minerals, &c. Sent from Mr Angestein, Overseer of the King of Sweden's Mines, to Mr James Petiver, Apothecary, and F. R. S.",
+    "authors": "Mr Angestein",
+    "year": 1713,
+    "volume": "28",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103195"
+  }
+}

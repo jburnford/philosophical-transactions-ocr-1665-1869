@@ -1,0 +1,59 @@
+{
+  "id": "a195f90d4b9fb2231fa9eff7308beb90f5a553ed",
+  "text": "gas was made to pass and repass into and from the lungs about thirty times in a minute. At first, the heart acted one hundred and twenty times in a minute, with regularity and strength; the thermometer, in the rectum, rose to 100°. At the end of an hour, the heart acted as frequently as before, but more feebly; the blood in the arteries was very little more florid than that in the veins; the thermometer in the rectum had fallen to 93°. The gum bottle was then removed. On causing a stream of the gas, which it contained, to pass through lime-water, the presence of carbonic acid was indicated by the liquid being instantly rendered turbid. The proportion of carbonic acid was not accurately determined; but it appeared to form about one-half of the quantity of gas in the bottle.\n\nB. C. BRODIE.\n\nERRATA.\nPage 39, line 13, for artery read ureter.\n47, last line of table 4th col. for $9\\frac{1}{2}$ read $9\\frac{1}{2}$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107341.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 301,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        921,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107341",
+    "title": "Errata",
+    "authors": null,
+    "year": 1811,
+    "volume": "101",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/107341"
+  }
+}

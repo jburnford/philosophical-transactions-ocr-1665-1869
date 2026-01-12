@@ -1,0 +1,59 @@
+{
+  "id": "f0e23d68035be71f5bb83afd855b5c93b65e3061",
+  "text": "could not be understood; but are now, by the assistance of Manuscripts, corrected and enlarged: and at the bottom of every Page is inserted a Brief Account of all the Additions, and principal Emendations made therein. At the end of these is annex'd the excellent Translation of Joseph Scaliger, in Iambick Verses, wherein he has not only faithfully express'd the Sense and Meaning, but the Diction and Style of the Author. After this follow the Annotations of Canterus and Meursius, more Correctly Printed than hitherto they have been. To these, beside necessary Indexes which all the former Editions have wanted, the Editor has added his own Commentaries, wherein several obscure Verses in Lycophron, never thoroughly understood before, are explain'd; many dark in other Authors are cleared, Corrected and render'd intelligible; and Customs of the Ancient Greeks, absolutely necessary for the Understanding of their Authors, are brought to light.\n\nTransaction No 225 for February.\nPage 425. everywhere for + read x or in.\n\nLONDON:\nPrinted for Sam. Smith, and Benj. Wallford, Printers to the Royal Society, at the Princes Arms in St. Paul's Church-Yard. 1697.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102354.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 328,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1159,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102354",
+    "title": "Errata",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102354"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ae7b86d832a7cce9c54c927a1a825cfca25c4185",
+  "text": "varied in terms or signs. After the Synthesis our Author shews the analysis or method by which he found this Rule, viz. a Parabola being described, and a point in its plain given in position, he expresses 2 ways, the radius of a Circle passing through the Vertex of any diameter, i.e. by position of the given Center, and application of the foresaid propriety to express the ratio of the radius to the given lines of the parabola: So having an Equation of 4 dimensions, and rejecting equal on both sides, he depresses it to a Cubic, but adjoining to it a quantity for the Homogene of the comparison, the Equation subsists in a Biquadratic, having all its terms, if the Circle be supposed to pass not thro the vertex of the diameter, but thro a point which being joyn'd with the Vertex and Center may terminate a right angled triangle.\n\nThis Equation he compares with another like it and equal to it; then by equating the Coefficients of these 2 Equations he presently discovers the central Rule; whose universal extent appears in Biquadratic Equations affected under all their Parodic degrees; for all the other cases where any terms are wanting, are but Corollaries or more compendious Constructions deriv'd from the general rule. So that the invention of the rule seems as much due to the last Equation of the Coefficients, as to the foresaid propriety, which is demonstrated by Archimedes in the Section of a parabolic Conoid by a plane parallel to the axis, and is particularly used by Slusius in his Analytics, who thereby constructs a Biquadratic Equation keeping all its terms. But then the Analysis of Slusius by breaking the Equation into 2 others to find 2 places is very different from that whereby our Author found his central rule; then which nothing can be expected more easy, simple, or universal; seeing any Parabola being once for all described, will give all the roots true and false, of any Equation without reduction or any alteration.\n\nERRATUM. p. 518. line the last, read Nubigenum.\n\nOXFORD, Printed at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON. 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102045.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 557,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2163,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102045",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102045"
+  }
+}

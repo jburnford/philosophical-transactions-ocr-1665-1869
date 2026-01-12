@@ -1,0 +1,69 @@
+{
+  "id": "021386a1fe9c7bb0eaa2a276d8321d3ff5d6b361",
+  "text": "XXIII. Introduction to two Papers of Mr. John Smeaton, F. R. S. by the Reverend Nevil Maskelyne, B. D. F. R. S. Astronomer Royal.\n\nRead May 12, 1768.\n\nTHE two following papers I received from my ingenious, and much esteemed friend, Mr. John Smeaton, with his desire, that I should communicate them to the Royal Society, if I thought they contained any hints conducive to the improvement of astronomy. As the first paper points out the time of observing the menstrual parallaxes of the planets in those circumstances in which they will be greatest, and at the same time shews how to obviate the error, which would otherwise arise from the inaccuracy of their theories (which must necessarily be used in the calculation), by correcting them from other observations, made on purpose, before and after the first mentioned observations; and the second paper gives a new and accurate method of observing the places of the heavenly bodies out of the meridian, independent of refraction, I apprehend they will prove acceptable presents to astronomers.\n\nI shall only add one other remark, that has been suggested to me from the perusal of Mr. Smeaton's first paper; that, as it is there proposed to find the dimensions of the orbit described by the revolution of the Earth about its common centre of gravity and the Moon's, by means of the menstrual parallax of Mars, near his opposition, or of Venus, near her conjunction with\nwith the Sun; the same may also be determined with advantage from the sum of the menstrual parallaxes of these two planets, when they happen to be in the required positions at the same time, which will indeed happen but seldom; or even from the sum of the menstrual parallaxes of Mars and the Sun, which may be observed together at every opposition of Mars to the Sun; the sum of the menstrual parallaxes of Mars and Venus in these circumstances, according to the numbers used by Mr. Smeaton, will sometimes amount to $87''$, and the sum of those of Mars and the Sun to $52''$.\n\nNevil Maskelyne.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105771.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 544,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1419,
+        2
+      ],
+      [
+        1419,
+        2014,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105771",
+    "title": "Introduction to Two Papers of Mr. John Smeaton, F. R. S. by the Reverend Nevil Maskelyne, B. D. F. R. S. Astronomer Royal",
+    "authors": "Nevil Maskelyne, John Smeaton",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105771"
+  }
+}

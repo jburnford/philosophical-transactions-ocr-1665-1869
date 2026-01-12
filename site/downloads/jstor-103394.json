@@ -1,0 +1,79 @@
+{
+  "id": "e71df67aac2030227c664c3de3fe01ac2493a5a2",
+  "text": "I. Historia portionis Intestini Coli propendentis ex Vulnere per 14 annos. Communicante Abrahamo Vater, Phil. & Med. Doct. Prof. Public. Ord. Anat. & Botan. Substituto Wittembergae, Natur. Curios. Coll.\n\nVR quidam Georgius Deppe Halberstadiensis annorum xxxiv. castra secutus, anno MDCCVI. in praetio prope Ramellies in Belgio commissio, ab inficto in sinistro hypochondrio vulnere, per hos xiv annos magnam portionem intestini coli, ictu hoc secti atque inversi, spithamæ magnitudine e corpore prominens gerit.\n\nIntestinum hoc, per vulnus in illud simul penetrans, egressum, interiorem superficiem ad exteriora vertit, & ita in medio cohaerens duas portiones efformat, quarum altera versus superiore extensa orificio monstrat, quod ad intestina tenuia spectat, & fæces alvinas educit; altera vero portio ad inferiora propendens orificium ad rectum apertum habet, ut Clysterem injectum per anus reddat. In interiori superficie, nunc ad extra vergente, glandulae apparent copiosissimae, albi ac cinerei coloris, verrucarum instar eminentes, & jucundissimum spectaculum exhibentes, quae inclementius tactæ sanguinem fundunt. Intestinum ira prominens nunquam totum regreditur intra abdomen, ventriculo tamen vacuo quodammodo regreditur, sed ventriculo pleno cibo assumpto longius protruditur, imprimis spiritu retento. Utitur vir ille aqua gelidissima, imo glacie ac nive hyeme permista, ad abstergendas fordres, sine ullo in- commodi\ncommodi sensu; fert etiam intestinum aerem frigidissimum; ab eodem tamen intra se retrahitur & indurescit, ac quodammodo pallescit. Cibos omnis generis perferre potest vir iste; fructus tamen recentes & olera cibis reliquis non miscentur, sed indigesta exeunt, quemadmodum & juscula sine solidis cibis assumpta. Hæc sunt quæ ex relatione ipsius consignavi.\n\nWittembergæ,\nOct.1.1720.\n\nAbr. Vater.\n\nExplicatio Figura.\n\nA. B. C. D. Intestinum colon inversum, ex vulneri prominens, & versus superiora & inferiora porrectum.\na. Orificium superius ad intestina tenuia patens, per quod exeunt fæces alvinæ.\nb. Orificium inferius, quod ducit ad rectum, & Clysterem per idem infusum per anus reddidit.\nc. d. Vestigia vulneris à Chirurgo ampliati; per cujus medium adhuc apertum intestinum prominet.\ne. Umbilicus.\nf. f. f. Glandulæ copiosissimæ.\ng. Regio Inguinalis.\nh. h. Dorsum.\ni. Coxendix.\nK. Regio Lumbaris.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103394.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6732,
+    "total-output-tokens": 897,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1432,
+        3
+      ],
+      [
+        1432,
+        2334,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103394",
+    "title": "Historia Portionis Intestini Coli Propendentis Ex Vulnere per 14 Annos. Communicante Abrahamo Vater, Phil. & Med. Doct. Prof. Public. Ord. Anat. & Botan. Substituto Wittembergae, Natur. Curios. Coll.",
+    "authors": "Abrahamo Vater",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103394"
+  }
+}

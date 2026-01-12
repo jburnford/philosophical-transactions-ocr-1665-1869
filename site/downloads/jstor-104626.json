@@ -1,0 +1,79 @@
+{
+  "id": "dbd2df6bf02ef8ed16db419a0b84dc9831888114",
+  "text": "I. A Description of an extraordinary Rainbow observed July 15, 1748. by Peter Daval, Esq; Sec. R. S.\n\nRead Oct. 26, 1749.\n\nUPON Monday the 18th of July 1748, about a Quarter before Seven in the Evening, the Weather being temperate, and the Wind about N. N. W. as I was walking in the Fields, beyond Islington, I saw a distant Rainbow which appeared to take in a large Portion of the Heavens; but had nothing remarkable, and vanish'd by degrees.\n\nContinuing my Walk, about twenty Minutes after the Disappearing of the first Rainbow, a rainy Cloud cross'd me, moving gently with the Wind, which exhibited to me a more perfect and distinct Rainbow, than I had ever before seen; wherein I could plainly distinguish all the secondary Orders of Colours taken Notice of by the late Dr. Langwith in his Letters to Dr. Jurin published in the Philosophical Transactions*, that is, to say, within the Purple of the common Rainbow, there were Arches of the following Colours.\n\n1. Yellowish Green, darker Green, Purple.\n2. Green, Purple.\n3. Green Purple.\n\n*Vid. Phil. Trans. No. 375, from Page 241 to 245. Ab. Trans. (Eames and Martin) Vol. 6. p. 122, 123.\nThis innermost arch Dr. Langwith calls faint vanishing Purple, and I likewise found, that it sometimes appear'd and disappear'd alternately; but during about two Minutes it seem'd to me to be as permanent as any of the other Colours.\n\nI stood still, and look'd attentively at this Appearance, during the whole Time of its Continuance, which was near eight Minutes, and could for the greatest Part of that Time discern all the above-mention'd Colours, except the innermost Purple in the upper Parts of the Bow; but could not distinguish any of them in those Parts of it which were near the Horizon, tho' they were extremely vivid, as was likewise the outer Bow, in which the Colours appear'd as bright, tho' not so well defin'd, as in most inner Rainbows I had seen.\n\nAs I had read Dr. Langwith's Letter a short time before I saw this beautiful Appearance, and as I compared his Account with what I had seen, the same Evening, and again the next Morning, I can the better be assur'd of the exact Agreement of our Observations.\n\nOn my first seeing this Phænomenon, I was surpris'd, that the Diameter of the Bow appear'd to me very small, compar'd with that I had seen a little before. The Occasion of this I think must have been, that the Legs of the first-mention'd Bow appeared to me to terminate at distant Places: Whereas in the latter Appearance I could plainly see both Ends of the inner and outer Bows terminated in the neighbouring Fields, at a very small Distance from each other: Hence, and from my being involv'd in the Shower which occasion'd this Rainbow, I conclude it\nit was very near me; which might be one Cause of\nthe great Vividness of its Colours, and of my distin-\nguishing the inner Arches. But whether this was the\nonly Cause of those Appearances, or whether they\nmight not be owing to some particular Disposition\nof the Atmosphere at that Time, I much question:\nAs well because I have often seen Rainbows which\nhave been very near me, and opposed to a bright\nSun, wherein I could not discern these inner Orders\nof Colours, as that I have heard from some intel-\nligent Persons, that some very bright Rainbows were\nseen soon after the Solar Eclipse which happened on\nthe 14th of July 1748. particularly that an unusually\nvivid and distinct Rainbow was observ'd at Twick-\nenham three or four Days after that Eclipse, which\nagrees with the Day on which I saw the above-men-\ntion'd Appearance.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104626.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1002,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1144,
+        2
+      ],
+      [
+        1144,
+        2725,
+        3
+      ],
+      [
+        2725,
+        3554,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104626",
+    "title": "A Description of an Extraordinary Rainbow Observed July 15, 1748. By Peter Daval, Esq; Sec. R. S.",
+    "authors": "Peter Daval",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104626"
+  }
+}

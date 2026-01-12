@@ -1,0 +1,69 @@
+{
+  "id": "6194f3d233534518d677575343d7659d88d25c8d",
+  "text": "An Extract of the Journall of the Philosophicall Society of Oxford; giving an account of a large praeter naturall Glandulose substance, found between the Heart and Pericardium of an Ox.\n\nNovem. 4th 1684.\n\nTHAT Lump of Flesh, taken out of an Ox, and seen by this Society, the last Week; having been examined, by severall of our Members, afforded the following Observations.\n\nThe weight of the whole substance, cleard from the little Fat, &c. adjoyning to it, amounted to $19\\frac{3}{4}$ l.\n\nAs to its figure, it so far resembled a Heart, that it was along time taken for nothing else; but it was something flatter, than the Heart is naturally; each of the flat sides making an equilaterall Triangle.\n\nThe Basis of this Cone of flesh was 2 foot 7 inches in Circumference: a thred drawn round it lengthways, from the Basis to the Vertex, came to 2 foot, 9 inches.\n\nWe then divided it, cutting from the Vertex to the Basis of the Cone; and passing thro both the Ventricles, and Mucro of the Heart; by which means we saw the Heart not to exceed the naturall size; that which was extraordinary about it, being a large Glandulous substance compassing the Heart (unless where the Vessels had their passage,) and stretching the Pericardium to the excess before mentioned: We saw no Liquor in the Pericardium, nor indeed was there room for any; this Glandulose substance taking up all the space between the Heart and Pericardium, to both which it grew very fast.\n\nThis praeter naturall substance was thickest about the Basis of the Heart, where it coverd the Auriculae, and was three\nthree inches and $\\frac{1}{2}$ of an inch thick; it grew thinner on both sides gradually toward the Mucro; where it was one inch and $\\frac{1}{2}$ thick.\n\nIn the Septum Cordis a gritty Sabulose substance was found, half as big again as a Walnut.\n\nIn the Lungs were severall Cystides, containing matter more or less fluid: one very larg Cystis held some ounces of a matter not unlike that of a Steatoma.\n\nThe Butcher who killd this Ox, says, the Lungs grew fast to the Pleura, on both sides; which He affirms not to have found once in forty times, in the Cattle killd by Him.\n\nHe says also, that the Ox, tho not overburthend with Fat, complaind much in travailing; which is easy to account for, there being not room for the Heart to be distended, as it ought, in its Diaftele.\n\nDe ORIGINE",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102120.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 695,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1574,
+        2
+      ],
+      [
+        1574,
+        2361,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102120",
+    "title": "An Extract of the Journall of the Philosophicall Society of Oxford; Giving an Account of a Large Praeternaturall Glandulose Substance, Found between the Heart and Pericardium of an Ox",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102120"
+  }
+}

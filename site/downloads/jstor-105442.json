@@ -1,0 +1,79 @@
+{
+  "id": "66fac45501ca461f43f810e0660f71a11febf97d",
+  "text": "VII. An Account of an Improvement made by Mr. Peter Dollond in his New Telescopes: In a Letter to James Short, M. A. F. R. S. with a Letter of Mr. Short's to the Rev. Thomas Birch, D. D. Secret. R. S.\n\nSurry-Street, Feb. 7, 1765.\n\nDear Sir,\n\nI HAVE sent you, inclosed, a letter which I received this morning from Mr. Dollond, concerning an improvement which he has made in his new telescopes. He, some months ago, sent me a telescope, in this new way, of $3 \\frac{1}{2}$ feet focal length, with an aperture of $3 \\frac{3}{4}$ inches; I examined it, and I approved of it; I have tried it with a magnifying power of 150 times, and I found the image distinct, bright, and free from colours.\n\nYou may, if you please, lay Mr. Dollond's letter before the Royal Society.\n\nI am,\n\nDear Sir,\n\nYour most obedient,\n\nand humble servant,\n\nJames Short.\nSIR,\n\nRead Feb. 7, 1765.\n\nI take the liberty of sending you the following short account of an improvement I have lately made in the compound object glasses of refracting telescopes.\n\nThe dissipation of the rays of light may be perfectly corrected in object glasses, by combining mediums of different refractive qualities; and the errors or aberrations of the spherical surfaces may be corrected by the contrary refractions of two lenses, made of the different mediums; yet as the excess of refraction is in the convex lens, and though the surfaces of the concave lens may be so proportioned as to aberrate exactly equal to the convex lens, near the axis; yet as the refractions of the two lenses are not equal, the equality of the aberrations cannot be continued to any great distance from the axis.\n\nIn the year 1758, when my father had constructed some object glasses for telescopes in this manner, viz.: with one convex lens of crown glass, and one concave lens of white flint glass; he attempted to make short object glasses to be used with concave eye glasses; in the same manner; but as the field of view, in using a concave eye glass, depends on the aperture of the object glass, the limits of the aperture were found to be too small: this led my father to consider that if the refraction of the crown glass (in which the excess was) should be divided by means of having two lenses made of crown glass instead of one, the aberration would thereby be decreased, and the apertures might then be larger: this was tried with success in\nin those object glasses, when concave eye glasses were used, and these have been ever since made in this manner: some trials were likewise made, at the same time, to enlarge the apertures of longer object glasses, where convex eye glasses were used, by the same method; but these not succeeding, in the same manner, the method of making them with one lens of crown glass, and one of white flint glass, was continued.\n\nAs I could not see any good reason why the method, which was practiced with so much success, when concave eye glasses were used, should not do with convex ones; I determined to try some further experiments in that way. After a few trials, I found it might be done; and in a short time I finished an object glass of 5 feet focal length, with an aperture of $3 \\frac{3}{4}$ inches, composed of two convex lenses of crown glass, and one concave of white flint glass.\n\nThinking that the apertures might be yet admitted larger; I attempted to make one of $3 \\frac{1}{2}$ feet focal length, with the same aperture of $3 \\frac{3}{4}$ inches, which I have now completed, and am ready to shew the same to the Royal Society, if desired.\n\nThe difficulty of procuring good glass of so large a diameter, and of the thickness required, added to the great exactness of the surfaces, in order to correct the aberration in such large apertures, has prevented me from attempting to extend them any farther in that length. I am,\n\nSIR,\n\nYour most obedient,\n\nand most humble servant,\n\nPeter Dollond.\n\nVIII. Some",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105442.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 1047,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        838,
+        2
+      ],
+      [
+        838,
+        2377,
+        3
+      ],
+      [
+        2377,
+        3885,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105442",
+    "title": "An Account of an Improvement Made by Mr. Peter Dollond in His New Telescopes: In a Letter to James Short, M. A. F. R. S. with a Letter of Mr. Short's to the Rev. Thomas Birch, D. D. Secret. R. S.",
+    "authors": "James Short, Peter Dollond",
+    "year": 1765,
+    "volume": "55",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105442"
+  }
+}

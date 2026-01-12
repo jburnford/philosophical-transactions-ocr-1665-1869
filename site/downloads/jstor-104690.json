@@ -1,0 +1,79 @@
+{
+  "id": "298e5284982d0a2ea7482569ce8ac45569798b9f",
+  "text": "I. An Account of the Eclipse of the Moon, June 8, 1750, observed in Surry-street in the Strand; by Mr. John Catlin and Mr. James Short, F.R.S. Likewise an Observation determining the Longitude of Kingston in Jamaica.\n\nRead Nov. 1750.\n\nWe expected to have seen the Moon rise eclipsed before the Setting of the Sun; but were prevented by Clouds. About half an Hour after 9 o'Clock, we saw the Moon then totally eclipsed; tho' considerably brighter on the East than on the West Side; by which we found that she was then past the middle of the Eclipse.\n\nEmersion, or End of total Darkness, at 9 45 0\nEnd of the Eclipse at - - - 10 51 30\n\nHere follows a Computation of the same Eclipse by Mr. John Catlin from Dr. Halley's Tables, which he says was done in a Hurry; however he knows of no Error in the Calculation.\n\nBeginning at - - - 7 14 25\nImmersion at - - - 8 21 20\nTrue Opposition at - - - 9 0 24\nEmersion at - - - 9 45 52\nEnd at - - - 10 52 53\n\nI take this Opportunity of laying before the Society two Observations proper for determining the Difference of Longitude between London and Kingston.\nKingston in Jamaica, which came to my Hands some time since. They were made by Alexander Macfarlane Esq; of Kingston in Jamaica, a Fellow of this Society, who is provided with a complete Apparatus of astronomical Instruments, which he purchased of Colin Campbell Esq;. As this Gentleman is well versed both in the Theory and Practice of Astronomy, I think the following Observations may be depended on for fixing the Longitude of Kingston; especially as we have the same Observations made at the House of Mr. George Graham in Fleetstreet, London, and already published in the Philosophical Transactions, No. 471, p. 580, 578.\n\nEclipse of the Moon, October 22, 1743.\n\nBeginning of total Darkness at - - 9 10 58\nEnd of the Eclipse at - - 10 51 33\n\nTransit of Mercury over the Sun, Oct. 25, 1743.\n\nThe Ingress of Mercury upon the Sun could not be seen; the Sun being then below the Horizon.\n\nExcessus e disco Solis, or the last exterior Contact, at 7h 56' 43\" a.m.\n\nBy the first Observation of the Eclipse of the Moon, compared with the same Eclipse observed here, Kingston is found to be 5h 6' 2\" to the West of London.\n\nAnd by the Transit of Mercury neglecting his Parallax, Kingston is found to be 5h 5' 33\".\n\nThis last is the most to be depended on for settling the Longitude of Kingston; because in all Observations of an Eclipse of the Moon, an Error of\nof a Minute or two may be allowed, arising from the Indistinctness of the Penumbra.\n\nII. A Continuation of the Experiments on Substances resisting Putrefaction; by John Pringle M. D. F. R. S.\n\nRead Nov. 1. 1750.\n\nHAVING in my last Paper in the preceding Number of these Transactions, p. 480, &c. just mentioned the comparative Force of a few Salts, and other Substances resisting Putrefaction, I shall now lay before the Society a more particular Account of those Experiments, with some others, since made, on that Subject.\n\n1. Three Pieces of the Lean of fresh Beef, each weighing two Drachms, were put separately into wide-mouth'd Phials. Two Ounces of Cistern-Water were added to each; in one were dissolved 30 Grains of Sea-Salt; in another 60; but the third contained nothing but Flesh and Water. These Bottles were little more than half-full; and, being corked, were placed in a Lamp-Furnace, regulated by a Thermometer, and kept about the Degree of human Heat.\n\nAbout ten or twelve Hours after, the Contents of the Phial without Salt had a faint Smell; and in three or four Hours more were putrid*. In an Hour\n\n* It is to be observed, that these Pieces were all entire; but when they are beat to the Consistence of a Pap, with the same Quantity of Water, the Putrefaction then begins in less than half the Time mentioned here.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104690.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1133,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1096,
+        2
+      ],
+      [
+        1096,
+        2453,
+        3
+      ],
+      [
+        2453,
+        3786,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104690",
+    "title": "An Account of the Eclipse of the Moon, June 8, 1750. Observed in Surry-Street in the Strand; by Mr. John Catlin and Mr. James Short, F. R. S. Likewise an Observation Determining the Longitude of Kingston in Jamaica",
+    "authors": "James Short, John Catlin",
+    "year": 1749,
+    "volume": "46",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/104690"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "1b1bd2b3ebd14869f9ddb79dec951b458c616a93",
+  "text": "could guess by a piece of it which remained, and suppose that viii or ix Grains fell to a share.\n\nOlaus Borrichius, Aet. Med. Barthol. Vol. 4. Obs. 80. gives a Chymical and Microscopical examen of those Flies; he faith, their parts separated by Chymistry do not affect the Skin; that the points of their Particles wound it; and that through those little wounds the Volatile Salt insinuates; he attempts also to shew how they cause a Dysuria, and offend the Bladder, when applied to a part so remote as the Back or Neck. See more from the same hand, in the 5th Vol. Obs. 89.\n\nLONDON, Printed for S. Smith and B. Walford at the Prince's Arms in St Paul's Church-yard. 1702.\n\nThe following Books are now in the Press at Paris.\n\nBibliotheca Regia, sive Catalogus librorum Bibliothecæ Regiae, in fol. 6 vol. sub prelo.\n\nHistoire generale des Arts & des Manufactures, avec de grandes Planches, sous la presse.\n\nDiarium & Monumenta Italica per Dom Bernard. de Montfaucon, ordinis SS. Benedicti Congregationis S. Mauri, in 40. 6 vol. cum figuris.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102871.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 363,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1038,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102871",
+    "title": "The Following Books are Now in the Press at Paris",
+    "authors": null,
+    "year": 1702,
+    "volume": "23",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102871"
+  }
+}

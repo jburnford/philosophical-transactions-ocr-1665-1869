@@ -1,0 +1,69 @@
+{
+  "id": "803db490d4b5532138b6347e8fcb034508c83751",
+  "text": "expected would have been Streaming: But in less than an Hour, the Clouds (which had been pretty still) began to move to the S.W. and at last obscured the whole Hemisphere; which before was all clear enough (except towards the North) to shew the Stars, although bespread with Vapours, like a thin Fog, a little inclining to red.\n\nThis Relation I thought it convenient to give you, and the Illustrious Society, because it may assist such as are wiser than myself to discover the Nature of this difficult Phænomenon.\n\nYour much obliged\n\nHumble Servant,\n\nW. Derham.\n\nII. A remarkable Conformation of the Urinary Parts, communicated in a Letter to the Same, by Mr. John Budgen.\n\nI am advised to communicate to you a very uncommon Case, which I met with in my Country Practice, and is as follows.\n\nIn Villa Com' Surriae, Ockley vulgò dictâ, anno 1711 nata est Infantula, cujus in Tergo, circa vertebrae inferiores, apparuit Tumor indolens, cutis colorem,\nrem, Oviq; columbini majusculi magnitudinem referens, qui cum Puellâ tantoperè concrevit, ut circiter nonum, vel decimum ætatis annum, ubi primum conspexi, Vesicam vitulinam, aëre distentam, sed sine Cervice, planè repræsentaverit. Anno praesenti (viz. 1728.) Vesicae bubulinae magnitudinem æquabat. Die 29 Jan. proxime elapso in Lecto jacenti disruptus est hic Tumor, a quo multum Liquoris, instar Urinæ profluebat. Re perspectâ, invenimus Tunicas (& interius Materiam mucosam) Ureteres, Venas, & Arterias, tales omnino, quales Vesica habere consuevit: nec defuit commercium quoddam cum Partibus internis per foramen in vertebris Digitum hominis minorem in Abdomen admittens, quod Vasa memorata recipiebat.\n\n2° Die Feb. 1728, horam circiter decimam nocturnam obijt Puella; & si Cadaver aperire per Parentes, huic Rei strenuè reclamantes, licuisset, credor quidem in Abdomine, Vesicae Cervicem, & nullam aliam Vesicam inveniremus; non enim post ruptum Tumorem vel semel minxerat.\n\nDat. 3° Die Feb. 1728.\n\nI hope you'll be pleased to take this in good Part, from,\n\nS I R, your very humble Servant,\n\nJOHN BUDGEN.\n\nDarking, Ap. 18,\nin Surry, 1729.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103512.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 740,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        949,
+        2
+      ],
+      [
+        949,
+        2093,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103512",
+    "title": "A Remarkable Conformation of the Urinary Parts, Communicated in a Letter to the Same, by Mr. John Budgen",
+    "authors": "John Budgen",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103512"
+  }
+}

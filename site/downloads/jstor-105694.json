@@ -1,0 +1,59 @@
+{
+  "id": "8eacf1e6c9cbfb2d77f057e94aa7db873a0867cb",
+  "text": "V. An Account of the Rain fallen in a Foot-square at Norwich, by Mr. William Arderon, F.R.S. Communicated by H. Baker, F.R.S.\n\nRead the 13th of January, 1761.\n\n| Year | Jan. | Feb. | Mar. | Apr. | May | June | July | Aug. | Sept. | Oct. | Nov. | Dec. |\n|------|------|------|------|------|-----|------|------|------|-------|------|------|------|\n| 1749 | 5    | 8    | 6    | 8    | 9    | 5    | 6    | 4    | 7    | 9    | 5    | 6    |\n| 1750 | 8    | 5    | 4    | 6    | 9    | 8    | 14   | 6    | 5    | 6    | 4    | 7    |\n| 1751 | 6    | 2    | 10   | 4    | 8    | 6    | 8    | 14   | 6    | 5    | 6    | 4    |\n| 1752 | 9    | 8    | 14   | 6    | 5    | 6    | 4    | 7    | 4    | 4    | 13   | 9    |\n| 1753 | 6    | 2    | 14   | 6    | 8    | 7    | 3    | 5    | 10   | 5    | 2    | 6    |\n| 1754 | 8    | 9    | 11   | 7    | 8    | 4    | 8    | 7    | 6    | 4    | 10   | 5    |\n| 1755 | 10   | 3    | 11   | 9    | 5    | 3    | 8    | 2    | 5    | 5    | 6    | 6    |\n| 1756 | 6    | 4    | 6    | 9    | 8    | 14   | 6    | 5    | 6    | 4    | 7    | 4    |\n| 1757 | 9    | 11   | 7    | 8    | 4    | 8    | 7    | 6    | 4    | 7    | 4    | 13   | 9    |\n| 1758 | 6    | 2    | 14   | 6    | 8    | 7    | 3    | 5    | 10   | 5    | 2    | 6    |\n| 1759 | 8    | 9    | 11   | 7    | 8    | 4    | 8    | 7    | 6    | 4    | 7    | 4    |\n| 1760 | 10   | 3    | 11   | 9    | 5    | 3    | 8    | 2    | 5    | 5    | 6    | 6    |\n| 1761 | 6    | 4    | 6    | 9    | 8    | 14   | 6    | 5    | 6    | 4    | 7    | 4    |\n| 1762 | 9    | 11   | 7    | 8    | 4    | 8    | 7    | 6    | 4    | 7    | 4    | 13   | 9    |\n\nTotal inches deep: 20 18 29 38 24 9 26 8 21 1 25 6 26 4 28 5 25 5 22 7 26 8 23 3 28 8\n\nVI. Ob.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105694.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3136,
+    "total-output-tokens": 1054,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1757,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105694",
+    "title": "An Account of the Rain Fallen in a Foot-Square at Norwich, by Mr. William Arderon, F. R. S. Communicated by H. Baker, F. R. S.",
+    "authors": "William Arderon, H. Baker",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105694"
+  }
+}

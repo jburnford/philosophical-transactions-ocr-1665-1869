@@ -1,0 +1,69 @@
+{
+  "id": "1abbc22051185e45c6f07a2bee40d8693f6f3589",
+  "text": "An Accompt of a Book.\n\nThe Planters Manual: Being Instructions for the Raising, Planting and Cultivating all sorts of Fruit-Trees; whether Stone-fruits, or Pepin-fruits, with their Natures and Seasons; very useful for such as are curious in Planting and Grafting. By Charles Cotton Esquire, in 8°, London. 1675.\n\nWe are concerned to take special notice of this Curious Treatise; it being published expressly for the publick usefulness, to advance the noble Work of raising the most delicious Orchard-fruit and Garden-fruit, which goes on so prosperously in England; so much for the honour of this Nation: The most lovely and most pleasant part of Agriculture becoming the Inspection of Gentlemen, and the most innocent Recreation of Princes and Nobles. We have, indeed, two excellent Translations out of French, the French Gardiner, which hath much for Olitory Plants, and the Sieur Le Gendre, which is proper for Wall-fruit, both which I have formerly mentioned. These two were the first and best experienced Masters of noble Orchards and Gardens in France, and their elegant and accurate Translations have done much good in England. And this our Judicious Author is, I think, the first that may justly be called an English Author of fruitful Gardens. For he accommodates all his Instructions to this climate for the fairest Orchards of delicate fruit (which is his proper Argument:) and for the best ordering of such tender fruit as require Walling; and for the choice and right ordering of such fruit, as agrees best for Contrespalliers, or Hedge-rows over against the walled fruit, That there may be pleasant Walks or Alleys betwixt both those rows: And for Dwarf trees and Shrubs; of which he accounts for the chief kinds, giving us very brief Catalogues of the very best sorts of Cherries, Apricocks, Plums, Peaches, Pavyes, Apples, and Pears: For which last he is largest in advising the choice for every Moneth, which to be eaten raw, and which to be baked.\nHe directs the choice of soil for Orchards of delicate fruit, the preparation of soil, and Compost for all kinds: What sorts are fittest to be mixed; what sorts to be continued in rows, or in Orchards, of one only kind; at what distance each kind to be planted; what aspect best; what winds most to be avoided; excellent curiosities for the most advantageous Transplantations; for Nurseries; when and how to be grafted; and how all these to be cultivated at all seasons: Remedies or Preventions against Insects, and other hurtful Creatures, and sundry accidents incident to these Plantations, and their fruit.\n\nAnd it seems (as our Author notes to the Reader) his Instructions are confirmed by Experience in our English soil. We had many noble and royal Gardens of the most delicate fruit before; but here, the Gardiners reserved and best approv'd Arts are publish't for the more general satisfaction of those generous English who are willing to bestow the best Ornaments upon their native Countrey. And certainly if we were as industriously addicted to seek abroad for curious Gardiners, and skilful Vinedressers, where the best may be had, as we are for less profitable and commendable offices; we might hope, in a short time, to be as famous for fair Gardens and rich Enclosures, as we are at this time for well-stored Parks, fair Mansions, and numbers of beautifull Villas, all over England. To this purpose our Author encourages us to take care and pains to raise for our selves, and on our own ground, the best Commodities, which our Neighbours can shew, as far as our Climate by Art and Industry may be enforced to bear them; and our selves decline those effeminacies, and other vices, which we are apt enough to censure in others; and which in the opinion of the wiser sort of men (faith he) are not consistent either with the constitution, or indeed with the honour of this Nation.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101661.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 959,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1966,
+        2
+      ],
+      [
+        1966,
+        3856,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101661",
+    "title": "An Accompt of a Book",
+    "authors": "Charles Cotton",
+    "year": 1675,
+    "volume": "10",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101661"
+  }
+}

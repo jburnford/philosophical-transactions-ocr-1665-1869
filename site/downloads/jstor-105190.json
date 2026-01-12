@@ -1,0 +1,189 @@
+{
+  "id": "d222cd99e4c6f30261626b08681ecf7f7a3a9c40",
+  "text": "P. S. Since the writing of the above, I have been inform'd, that, in two or three houses, singing birds, which were at the time roosting in their cages, were thrown off their perches by the suddenness of the shock.\n\nLXXVI. An Investigation of some Theorems which suggest some remarkable Properties of the Circle, and are of Use in resolving Fractions, whose Denominators are certain Multinomials, into more simple ones. By Mr. John Landen.\n\nRead May 2, 1754.\n\nTHAT the principal theorems, below investigated, will be of considerable use in the doctrine of fluxions, by rendering, in many cases, the business of computing fluents more easy, will, on perusal, be obvious to every one acquainted with that branch of science. Therefore, as the facilitating computations in that doctrine (which affords us wonderful assistance in many physical enquiries) may be a means of extending our knowledge in philosophy; it is presum'd, that this paper will not be thought unworthy the notice of the Royal Society.\n\nI.\n\nSupposing \\(\\frac{n \\dot{x}}{\\sqrt{x^2 - 1}} = \\frac{\\dot{y}}{\\sqrt{y^2 - 1}}\\), where \\(\\dot{x}\\) and \\(\\dot{y}\\) denote the fluxions of the variable quantities \\(x\\) and \\(y\\) re-\nrespectively, and \\( n \\) an invariable quantity; it is propos'd to find, in terms of \\( y \\) and \\( z \\), the equation of which \\( z \\) is a root, and \\( z^2 - 2xz + 1 = 0 \\), a divisor.\n\nTaking the fluents of the given fluxionary equation, we have, supposing \\( x = 1 \\) when \\( y = 1 \\), hyp.\n\n\\[\n\\log_{n} \\left( x + \\sqrt{x^2 - 1} \\right) = \\text{hyp. log. of } y + \\sqrt{y^2 - 1}, \\text{ or}\n\\]\n\n\\[\nx + \\sqrt{x^2 - 1} = y + \\sqrt{y^2 - 1}: \\text{ Whence, by substituting for } x \\text{ its value } \\frac{z^2 + 1}{2z} \\text{ (found by the equation }\n\\]\n\n\\[\nz^2 - 2xz + 1 = 0), \\text{ we have } z^n = y + \\sqrt{y^2 - 1}: \\text{ Therefore } z^n - y \\text{ is } \\sqrt{y^2 - 1}; \\text{ and, squaring both sides, }\n\\]\n\n\\[\nz^{2n} - 2yz^n + y^2 = y^2 - 1. \\text{ Consequently } z^{2n} - 2yz^n + 1 \\text{ is } = 0; \\text{ which, supposing } n \\text{ a positive integer, is the equation sought.}\n\\]\n\nNow it is obvious, \\( n \\) being such an integer, that this equation will have as many trinomial divisors, of the form \\( z^2 - 2xz + 1 \\), as there are values of \\( x \\) corresponding to a given value of \\( y \\): Which values of \\( x \\), when \\( y \\) is not greater than 1, nor less than -1 (the only case I purpose to consider), will not be readily\n\nobtain'd from the equation \\( x + \\sqrt{x^2 - 1} = y + \\sqrt{y^2 - 1} \\)\n\nfound above: But, if we multiply the given fluxionary equation by \\( \\frac{1}{\\sqrt{1-x^2}} \\), we get \\( \\frac{n \\dot{x}}{\\sqrt{1-x^2}} = \\frac{\\dot{y}}{\\sqrt{1-y^2}} \\);\n\nof which the equation of the fluents is \\( n \\times \\text{circ. arc rad. } 1 \\cdot \\text{cosine } x = \\text{circ. arc rad. } 1 \\cdot \\text{cosine } y \\); where \\( x \\) is = 1 when \\( y \\) is = 1, agreeable to the supposition we made\nmade above when we took the fluents of the given fluxionary equation by logarithms. Therefore if $A$ be put for the least arc whose cosine is $y$, and $C$ for the whole circumference, radius being 1; $y$ being the cosine of $A$, $A+C$, $A+2C$, $A+3C$, &c. $x$ will be the cosine of $\\frac{A}{n}$, $\\frac{A+C}{n}$, $\\frac{A+2C}{n}$, &c. . . . . to $\\frac{A+n-1 \\times C}{n}$.\n\nConsequently, expressing the last-mention'd cosines, or the several values of $x$, by $p$, $q$, $r$, $s$, &c. $z^{2n} - 2yz^n + 1$ will be $= z^2 - 2pz + 1 \\times z^2 - 2qz + 1 \\times z^2 - 2rz + 1$, &c. ($n$), when $n$ is a positive integer (as we shall always suppose it to be), let $z$ be what it will.\n\nHence may be easily deduc'd a demonstration of that remarkable property of the circle first discover'd by Mr. Cotes: But as that property has already been demonstrated by several mathematicians, I shall omit taking any farther notice of it, and proceed in the investigation of some other useful theorems which I do not find have ever yet been publish'd.\n\nII.\n\nIf $y$ be = 1; then, $A$ being = 0; $p$, $q$, $r$, &c. will be the cosines of $\\frac{o}{n}$, $\\frac{C}{n}$, $\\frac{2C}{n}$, $\\frac{3C}{n}$, &c. ($n$) respectively: Therefore $p$ will be = 1; and, if $n$ be an even number, one of the cosines $q$, $r$, $s$, &c. will be = -1, one of the arcs $\\frac{C}{n}$, $\\frac{2C}{n}$, $\\frac{3C}{n}$, &c. being then = $\\frac{C}{2}$.\n\nIII.\nIII.\n\nIf \\( y \\) be \\( = -1 \\); then, \\( A \\) being \\( = \\frac{C}{2} \\); \\( p, q, r, s, \\&c. \\)\n\nwill be the cosines of \\( \\frac{C}{2n}, \\frac{3C}{2n}, \\frac{5C}{2n}, \\&c. \\) respectively: Therefore, if \\( n \\) be an odd number, one of those arcs will be \\( \\frac{C}{2} \\), whose cosine is \\( = -1 \\).\n\nIV.\n\nIf in the equations \\( z^{2n} - 2yz^n + 1 = 0 \\), and \\( z^2 - 2xz + 1 = 0 \\), we substitute \\( v-1 \\) for \\( z \\), they become\n\n\\[\nv^{2n} - 2y \\times v^{2n-1} + \\ldots + 2n \\times \\frac{2n-1}{2} v^2 - 2nv + 1 = 0,\n\\]\n\nand \\( v-1 \\)\n\n\\[\n- 2x \\times v-1 + 1 = v^2 - 2 + 2x \\times v + 2 + 2x = 0.\n\\]\n\nConsequently\n\n\\[\nv^{2n} - 2nv^{2n-1} + \\ldots + 2n \\times \\frac{2n-1}{2} v^2 - 2nv + 1\n\\]\n\n\\[\n\\ldots + 2yn \\times \\frac{n-1}{2} v^2 + 2ynv + 2y\n\\]\n\n\\[\n+ 1,\n\\]\n\n\\[\nv^2 - 2 + 2p \\times v + 2 + 2p \\times v^2 - 2 + 2q \\times v + 2 + 2q \\times\n\\]\n\n\\[\nv^2 - 2 + 2r \\times v + 2 + 2r \\times \\&c. (n); \\text{ where, of the two signs prefix'd to the terms where } y \\text{ is a factor, the upper or lower takes place, according as } n \\text{ is an even or an odd number. Whence, by the nature of equations, it follows, that } 2 + 2p \\times 2 + 2q \\times 2 + 2r, \\&c. \\text{ is } = 2 + 2y. \\text{ But this equation vanishing when } y \\text{ is } = 1 \\text{ and } n \\text{ an even number, or when } y \\text{ is } = -1 \\text{ and }\n\\]\nand \\( n \\) an odd number, it will be proper to consider those two cases more particularly.\n\nV.\n\nFirst, Let us suppose \\( y = 1 \\), and \\( n \\) an even number: Then \\( p \\) being \\( = 1 \\), and one of the other cosines \\( q, r, s, \\&c. = -1 \\) (Art. II.), we shall have\n\n\\[\nv^{2n} - 2nv^{2n-1} + \\ldots + n^2v^2 = v^2 + o \\times v^2 - 4v + 4 \\times v^2 - 2 + 2q \\times v + 2 + 2q \\times v^2 - 2 + 2r \\times v + 2 + 2r,\n\\]\n\n\\&c. Therefore dividing by \\( v^2 \\),\n\n\\[\nv^{2n-2} - 2nv^{2n-3} + \\ldots + n^2 = v^2 - 4v + 4 \\times v^2 - 2 + 2q \\times v + 2 + 2q \\times v^2 - 2 + 2r \\times v + 2 + 2r,\n\\]\n\n\\&c. that factor in which the value of the cosine \\( q, \\) or \\( r, \\&c. \\) is \\( = 1, \\) being expung'd.\n\nConsequently \\( n^2 \\) is \\( = 4 \\times 2 + 2q \\times 2 + 2r \\times 2 + 2s, \\)\n\n\\&c. when the factor, whose value is nothing, is expung'd.\n\nVI.\n\nLet us now suppose \\( y = -1, \\) and \\( n \\) an odd number: Then one of the cosines \\( p, q, r, \\&c. \\) being \\( = -1 \\) (Art. III.),\n\n\\[\nv^{2n} - 2nv^{2n-1} + \\ldots + n^2v^2 \\text{ will be } = v^2 + o \\times v^2 - 2 + 2p \\times v + 2 + 2p \\times v^2 - 2 + 2q \\times v + 2 + 2q,\n\\]\n\n\\&c. Therefore, dividing by \\( v^2 \\),\n\n\\[\nv^{2n-2} - 2nv^{2n-3} + \\ldots + n^2 \\text{ will be } = v^2 - 2 + 2p \\times v + 2 + 2p \\times v^2 - 2 + 2q \\times v + 2 + 2q,\n\\]\n\n\\&c. and consequently \\( n^2 = 2 + 2p \\times 2 + 2q \\times 2 + 2r, \\)\n\n\\&c. when the factor, whose value is nothing, is expung'd.\n\nVII.\nVII.\n\nSubstituting in the equations \\( z^{2n} - 2yz + 1 = 0 \\), and \\( z^2 - 2xz + 1 = 0 \\), \\( \\frac{a+\\omega}{a-\\omega} \\) instead of \\( z \\), we have\n\n\\[\n\\left( \\frac{a+\\omega}{a-\\omega} \\right)^{2n} - 2y \\times \\left( \\frac{a+\\omega}{a-\\omega} \\right)^n + 1 = 0,\n\\]\n\nand\n\n\\[\n\\left( \\frac{a+\\omega}{a-\\omega} \\right)^2 - 2x \\times \\left( \\frac{a+\\omega}{a-\\omega} \\right)^2 + 1 = 0.\n\\]\n\nConsequently\n\n\\[\n\\left( \\frac{a+\\omega}{a-\\omega} \\right)^{2n} - 2y \\times \\left( \\frac{a+\\omega}{a-\\omega} \\right)^n \\times \\left( \\frac{a-\\omega}{a-\\omega} \\right)^{2n} + \\left( \\frac{a-\\omega}{a-\\omega} \\right)^{2n} = 0.\n\\]\n\nBut, by Art. IV. \\( 2 + 2p \\times 2 + 2q \\times 2 + 2r \\), &c. \\( \\times \\omega^2 + \\frac{1-p}{1+p} a^2 \\)\n\n\\[\n\\times \\omega^2 + \\frac{1-q}{1+q} a^2 \\times \\omega^2 + \\frac{1-r}{1+r} a^2, \\text{ &c.}\n\\]\n\nis \\( = 2 \\mp 2y \\), the upper or lower of the two signs prefix'd\nprefix'd to \\( y \\) taking place according as \\( n \\) is an even or an odd number.\n\n\\[\n\\frac{a + \\omega}{2} - 2y \\times \\frac{a + \\omega}{2} \\times \\frac{a - \\omega}{2} + \\frac{a - \\omega}{2} = \\frac{1 - p}{1 + p} a^2 \\times \\omega^2 + \\frac{1 - q}{1 + q} a^2 \\times \\omega^2 + \\frac{1 - r}{1 + r} a^2,\n\\]\n\n&c.\n\nNow \\( p \\) being the cosine of any number of degrees, radius being 1, \\( \\frac{1 - p}{1 + p} a^2 \\) will be the square of the tangent of half so many degrees, radius being \\( a \\): Therefore, denoting that tangent by \\( b \\); and the tangents of half the arcs describ'd with the radius \\( a \\), whose cosines, when the radius is 1, are \\( q, r, s, \\) &c. being denoted by \\( c, d, e, \\) &c. respectively; we have\n\n\\[\n\\frac{a + \\omega}{2} - 2y \\times \\frac{a + \\omega}{2} \\times \\frac{a - \\omega}{2} + \\frac{a - \\omega}{2} = 2 + 2y \\times \\omega^2 + b^2 \\times \\omega^2 + c^2 \\times \\omega^2 + d^2, \\text{&c.}\n\\]\n\nBut when \\( y \\) is = 1, and \\( n \\) an even number; or \\( y = -1 \\), and \\( n \\) an odd number; \\( 2 + 2y \\) being = 0; nothing can be determin'd from that equation: Wherefore, in those cases, recourse must be had to what is done above.\n\nVIII.\n\nLet us suppose \\( y = 1 \\), and \\( n \\) an even number:\n\nThen the equation\n\n\\[\n\\frac{a + \\omega}{2} - 2y \\times \\frac{a + \\omega}{2} \\times \\frac{a - \\omega}{2} + \\frac{a - \\omega}{2} = 2 + 2p \\times 2 + 2q \\times 2 + 2r, \\text{&c.}\n\\]\n\n\\[\n\\times \\omega^2 + \\frac{1 - p}{1 + p} a^2 \\times \\omega^2 + \\frac{1 - q}{1 + q} a^2 \\times \\omega^2 + \\frac{1 - r}{1 + r} a^2, \\text{&c.}\n\\]\n\nbecomes\nbecomes \\(a + \\omega - 2 \\times a + \\omega \\times a - \\omega + a - \\omega = 4\\)\n\n\\[\n\\times 2 + 2q \\times 2 + 2r, \\text{&c.} \\omega^2 \\times \\omega^2 + \\frac{1-q}{1+q} a^2 \\times \\omega^2 + \\frac{1-r}{1+r} a^2,\n\\]\n\n&c. \\(p\\) being = 1 (Art. II.) and \\(\\frac{1-p}{1+p} a^2 (= b^2) = 0.\\)\n\nMoreover, one of the other cosines \\(q, r, s, \\text{&c.}\\) being = — 1 (Art. II.), some one of the factors \\(2 + 2q, 2 + 2r, 2 + 2s, \\text{&c.}\\) will vanish: Which factor being expung'd from the product \\(4 \\times 2 + 2q \\times 2 + 2r, \\text{&c.}\\) and restor'd to the divisor \\(\\omega^2 + \\frac{1-q}{1+q} a^2,\\) or\n\n\\[\\omega^2 + \\frac{1-r}{1+r} a^2, \\text{&c.}\\] from which it was taken, that divisor will become \\(4a^2;\\) and the product \\(4 \\times 2 + 2q \\times 2 + 2r, \\text{&c.}\\) will then (by Art. V.) be \\(= n^2.\\)\n\nConsequently \\(a + \\omega - 2 \\times a + \\omega \\times a - \\omega + a - \\omega,\\)\n\nwill be \\(= n^2 \\times \\omega^2 \\times 4a^2 \\times \\omega^2 + c^2 \\times \\omega^2 + d^2, \\text{&c.}\\)\n\nwhere the factor \\(4a^2\\) takes place instead of \\(\\omega^2 + sq.\\)\n\nof the tang. of 90°.\n\nIf \\(y\\) be = 1, and \\(n\\) an odd number, \\(p\\) will be = 1,\n\nand \\(b = 0;\\) but no one of the cosines \\(q, r, s, \\text{&c.}\\) will be = — 1, as when \\(n\\) is an even number. Therefore, in this case, the equation \\(a + \\omega - 2y \\times a + \\omega \\times a - \\omega + a - \\omega = 2 + 2y \\times \\omega^2 + b^2 \\times \\omega^2 + c^2, \\text{&c.}\\)\n\nbecomes \\(a + \\omega - 2 \\times a + \\omega \\times a - \\omega + a - \\omega = 4 \\times \\omega^2 \\times \\omega^2 + c^2 \\times \\omega^2 + d^2, \\text{&c.}\\)\n\nIX.\nIX.\n\nBy taking the square root of \\(a + \\omega - 2 \\times a + \\omega^n\\)\n\\(x a - \\omega + a - \\omega^n\\), and of its two values just now found,\nwe have, when \\(n\\) is an even number, \\(a + \\omega - a - \\omega^n\\)\n\\(= 2an \\omega \\times \\sqrt{\\omega^2 + c^2} \\times \\sqrt{\\omega^2 + d^2}\\), &c. 2 \\(a\\) taking\nplace instead of \\(\\sqrt{\\omega^2 + \\text{sq. of the tang. of } 90^\\circ}\\).\n\nAnd, when \\(n\\) is an odd number, \\(a + \\omega - a - \\omega^n\\)\n\\(= 2 \\omega \\times \\sqrt{\\omega^2 + c^2} \\times \\sqrt{\\omega^2 + d^2}\\), &c. Whence the\nfollowing construction is inferr'd.\n\nX.\n\nDescribe about the centre \\(C\\) (Plate XX. fig. 1. and\n2.), with the radius \\(a\\), the circle \\(P A' A'' A'''\\), &c.;\ndraw the diameter \\(PCQ\\), and the tangent \\(B''' PB^5\\);\ndivide the semicircumference \\(PA' Q\\) into as many\nequal parts \\(PA', A'A'', A''A'''\\), &c. as there are\nunits in the integer \\(n\\); draw the secants \\(CA'B'\\),\n\\(CA''B''\\), &c. and, taking on \\(CQ\\) any point \\(O\\), draw\n\\(K''' OK^5\\) parallel to \\(B''' PB^5\\); likewise draw \\(B' K'\\),\n\\(B'' K''\\), \\(B''' K'''\\), &c. parallel to \\(PQ\\); and call \\(CO, \\omega\\).\n\nThen will \\(q\\) be the cosine of twice the angle\n\\(PCA\\), \\(r\\) the cosine of twice \\(PCA''\\), \\(s\\) the cosine of\ntwice \\(PCA'''\\), &c. if the radius be 1.\n\nTherefore \\(PB' = OK'\\) will be \\(= c\\), \\(PB'' = OK''\\)\n\\(= d\\), &c. and \\(CK' = \\sqrt{\\omega^2 + c^2}\\), \\(CK'' = \\sqrt{\\omega^2 + d^2}\\),\n&c. Consequently \\(OP'' - OQ''\\) being \\(= a + \\omega^n\\)\n— \\(a - \\omega\\), and \\(n \\times P Q \\times CO \\times CK' \\times CK''\\), &c. = \\(2an\\omega \\times \\sqrt{\\omega^2 + c^2} \\times \\sqrt{\\omega^2 + d^2}\\), &c. when \\(n\\) is an even number; \\(OP^n - OQ^n\\) will then be \\(= n \\times P Q \\times CO \\times CK' \\times CK''\\), &c. where the diameter \\(P Q\\) takes place instead of the infinite quantity \\(CK\\).\n\nBut if \\(n\\) be an odd number, \\(OP^n - OQ^n\\) will be \\(= 2 \\times CO \\times CK' \\times CK'' \\times CK'''\\), &c.\n\nXI.\n\nIt is evident that, of the factors \\(CK'\\), \\(CK''\\), \\(CK'''\\), &c. the first and last, the second and last but one, &c. are respectively equal to each other. Therefore, omitting the squares of the factors below \\(P Q\\), and the squares of their values,\n\n\\(OP^n - OQ^n\\) is \\(= n \\times P Q \\times CO \\times CK'^2 \\times CK''^2 \\times CK'''^2\\), &c. and \\(a + \\omega - a - \\omega = 2an\\omega \\times \\omega^2 + c^2 \\times \\omega^2 + d^2\\), &c. when \\(n\\) is an even number; or\n\n\\(OP^n - OQ^n\\) is \\(= 2 \\times CO \\times CK'^2 \\times CK''^2 \\times CK'''^2\\), &c. and \\(a + \\omega - a - \\omega = 2\\omega \\times \\omega^2 + c^2 \\times \\omega^3 + d^2\\), &c. when \\(n\\) is an odd number.\n\nXII.\n\nIf we suppose \\(y = -1\\), and \\(n\\) an odd number, it will appear, by proceeding much in the same manner as in Art. VIII. that \\(a + \\omega + 2 \\times a + \\omega \\times a - \\omega + a - \\omega\\) is \\(= n^2 \\times 4a^2 \\times \\omega^2 + b^2 \\times \\omega^2 + c^2 \\times \\omega^2 + d^2\\), &c.\nwhere the factor $4a^2$ takes place instead of $\\omega^2 + \\text{sq. of the tang. of } 90^\\circ$.\n\nIf $y$ be $-1$, and $n$ an even number, $\\frac{a+\\omega}{2} + \\frac{a-\\omega}{2} = 4 \\times \\frac{\\omega^2 + b^2}{\\omega^2 + c^2}$, &c.\n\nWhence, by extracting the square root of both sides of those equations, we have, when $n$ is an odd number, $\\frac{a+\\omega}{n} + \\frac{a-\\omega}{n} = 2an \\times \\sqrt{\\omega^2 + b^2} \\times \\sqrt{\\omega^2 + c^2}$, &c. $2a$ taking place instead of $\\sqrt{\\omega^2 + \\text{sq. of the tang. of } 90^\\circ}$: And, when $n$ is an even number, $\\frac{a+\\omega}{n} + \\frac{a-\\omega}{n} = 2 \\times \\sqrt{\\omega^2 + b^2} \\times \\sqrt{\\omega^2 + c^2}$, &c. Hence we infer this construction.\n\nXIII.\n\nHaving describ'd about the centre $C$ (fig. 3. and 4.), with the radius $a$, the circle $P a' A a'' A''$, &c. draw the diameter $P C Q$, and the tangent $b'' P b^*$; divide the semicircumference $P a' Q$ into as many equal parts $P a', a' A', A' a''$, &c. as there are units in $2n$; draw the secants $C a' b', C a'' b''$, &c. and, thro' any point ($O$) in $C Q$, draw $k'' O k^*$ parallel to $b'' P b^*$; likewise draw $b' k', b'' k''$, &c. parallel to $P Q$; and call $CO, \\omega$.\n\nThen, if the radius be $1$, $p$ will be the cosine of twice the angle $P C a'$, $q$ the cosine of twice $P C a''$, &c. therefore $P b' = O k'$ will be $= b$, $P b'' = O k'' = c$, &c. and $C k' = \\sqrt{\\omega^2 + b^2}$, $C k'' = \\sqrt{\\omega^2 + c^2}$, &c.\nConsequently \\( OP^n + OQ^n \\) being \\( = a + \\omega^n + a - \\omega^n \\), and \\( n \\times P Q \\times C k' \\times C k'' \\), &c. \\( = 2an \\times \\sqrt{\\omega^2 + b^2} \\times \\sqrt{\\omega^2 + c^2} \\), &c. when \\( n \\) is an odd number; \\( OP^n + OQ^n \\) will then be \\( = n \\times P Q \\times C k' \\times C k'' \\), &c. where the diameter \\( PQ \\) takes place instead of the infinite quantity \\( Ck \\).\n\nBut if \\( n \\) be an even number, \\( OP^n + OQ^n \\) will be \\( = 2 \\times C k' \\times C k'' \\), &c.\n\nXIV.\n\nIt is obvious that, of the factors \\( C k', C k'' \\), &c. the first and last, the second and last but one, &c. are respectively equal to each other: Therefore the squares of the factors below \\( PQ \\), and the squares of their values, being omitted,\n\n\\( OP^n + OQ^n \\) is \\( = n \\times P Q \\times C k'^2 \\times C k''^2 \\), &c. and \\( a + \\omega^n + a - \\omega^n = 2an \\times \\omega^2 + b^2 \\times \\omega^2 + c^2 \\), &c. when \\( n \\) is an odd number; or\n\n\\( OP^n + OQ^n \\) is \\( = 2 \\times C k'^2 \\times C k''^2 \\), &c. and \\( a + \\omega^n + a - \\omega^n = 2 \\times \\omega^2 + b^2 \\times \\omega^2 + c^2 \\), &c. when \\( n \\) is an even number.\n\nXV.\n\nWriting in the equation \\( a + \\omega^{2n} - 2y \\times a + \\omega \\times a - \\omega^{2n} + a - \\omega^{2n} = 2 + 2y \\times \\omega^2 + b^2 \\times \\omega^2 + c^2 \\), &c. found\n(found by Art. VII.) \\(a - u\\) for \\(w\\), the same becomes\n\n\\[\n\\frac{2^n}{2a - u} = \\frac{2^n}{2ayu^n \\times 2a - u + u^n} = 2 + 2y \\times \\\\\nu^2 - 2au + a^2 + b^2 \\times u^2 - 2au + a^2 + c^2, \\text{&c.}\n\\]\n\n\\[\n= 2 + 2y \\times u^2 - 2au + \\beta^2 \\times u^2 - 2au + \\gamma^2 \\times \\\\\nu^2 - 2au + \\delta^2, \\text{&c. if instead of } \\sqrt{a^2 + b^2}, \\\\\n\\sqrt{a^2 + c^2}, \\text{&c. (the secants of the arcs of which} \\\\\nb, c, d, \\text{&c. are tangents), we put } \\beta, \\gamma, \\delta, \\text{&c.}\n\\]\n\nAnd, by a like substitution in the equations in Art. XI. and XIV. it appears, that\n\n\\[\n\\frac{2^n}{2a - u} - u^n \\text{ is } = 2an \\times a - u \\times u^2 - 2au + \\gamma^2 \\\\\n\\times u^2 - 2au + \\delta^2, \\text{&c. or } 2 \\times a - u \\times u^2 - 2au + \\gamma^2 \\\\\n\\times u^2 - 2au + \\delta^2, \\text{&c. according as } n \\text{ is an even or} \\\\\n\\text{an odd number: And that } \\frac{2^n}{2a - u} + u^n \\text{ is } = 2an \\\\\n\\times u^2 - 2au + \\beta^2 \\times n^2 - 2au + \\gamma^2, \\text{&c. or} \\\\\n2 \\times u^2 - 2au + \\beta^2 \\times u^2 - 2au + \\gamma^2, \\text{&c. accord-} \\\\\n\\text{ing as } n \\text{ is an odd or an even number.}\n\nFrom what is done above, I might now deduce many corollaries; and, by means of other substitutions, investigate other theorems; but want of leisure obliges me to desist.\n\nLXXVII. An\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105190.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 22094,
+    "total-output-tokens": 7683,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1188,
+        2
+      ],
+      [
+        1188,
+        2915,
+        3
+      ],
+      [
+        2915,
+        4333,
+        4
+      ],
+      [
+        4333,
+        5663,
+        5
+      ],
+      [
+        5663,
+        7106,
+        6
+      ],
+      [
+        7106,
+        7994,
+        7
+      ],
+      [
+        7994,
+        9556,
+        8
+      ],
+      [
+        9556,
+        11150,
+        9
+      ],
+      [
+        11150,
+        12630,
+        10
+      ],
+      [
+        12630,
+        14083,
+        11
+      ],
+      [
+        14083,
+        15550,
+        12
+      ],
+      [
+        15550,
+        16879,
+        13
+      ],
+      [
+        16879,
+        18194,
+        14
+      ],
+      [
+        18194,
+        18194,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105190",
+    "title": "An Investigation of Some Theorems Which Suggest Some Remarkable Properties of the Circle, and are of Use in Resolving Fractions, Whose Denominators are Certain Multinomials, into More Simple Ones. By Mr. John Landen",
+    "authors": "John Landen",
+    "year": 1753,
+    "volume": "48",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/105190"
+  }
+}

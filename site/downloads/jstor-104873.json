@@ -1,0 +1,59 @@
+{
+  "id": "078b4dd673b9bce429f8348e708546b60400891c",
+  "text": "ERRATA.\n\nIn page 456, l. 21. r. Tab. II. Fig. 8.\nIn page 548, l. 28. add, by the Direction of the Strokes according to the Rules of Heraldry.\nIn page 549, l. 10. add, see Tab. IX.\n\nPrinted for C. Davis, over-against Gray's Inn Gate in Holbourn, Printer to the Royal Society, M.DCC.XLVII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104873.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 171,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        287,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104873",
+    "title": "Errata",
+    "authors": null,
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104873"
+  }
+}

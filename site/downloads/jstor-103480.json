@@ -1,0 +1,69 @@
+{
+  "id": "660a3ca434ca7f2e3d75aadd2903658887e0c58c",
+  "text": "III. Observations upon the Comet, that appear'd in October 1723, made at Bombay; and upon an Eclipse of the Moon, Oct. 21, 1724, at Gomroon in Persia. By Mr. William Saunderson. Communicated by Dr. Halley, Astron. Reg. R. S. S.\n\nBombay, Sept. 12, 1725.\n\nIn the Month of October 1723, being riding at Bombay, a Brightness in the Heavens appear'd to a Right Line, for but very little to the Eastward of one) with Lyra and the Bright Star in the Eagle, being about 5° distant from the last; and on Monday the 7th following it had advanced 10° toward the Eagle, moving towards it in the forementioned direction, from the S.E. Quarter. I took the following Distances between 9 and 10 at Night, as in this Table.\n\n| October | Days | Dist. from the Eagle's Heart |\n|---------|------|-----------------------------|\n|         |      |                             |\n| 1       | 7    | 4° 00                       |\n| 2       | 10   | 23 5°                       |\n| 3       | 11   | 20 3°                       |\n| 4       | 13   | 17 4°                       |\n| 5       | 15   | 14 4°                       |\n| 6       | 19   | 11 4°                       |\n\nAt first it looked only like one of the White Spots called the Magellanic Clouds, the Space filling the Field\nof a Six-foot Glass. Afterwards I saw the Head in the Center of the illuminated Space, which did not look with much Brightness; but appeared largest on the 10th of October, decreasing gradually both in its Bulk and Motion from that time until the 25th, at which time I could find no Appearance of it with the forementioned Glass. N.B. From the 20th to the 25th it had nearly the same Place in the Heavens, seeming to move directly from the Earth. October the 21st, 1724, being at Gomroon in Persia, the Moon entered into the dark Shadow or Umbra, of the Earth at 11 33/4 past 5 A.M.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103480.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 627,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1261,
+        2
+      ],
+      [
+        1261,
+        1843,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103480",
+    "title": "Observations upon the Comet, That Appear'd in October 1723, Made at Bombay; And upon an Eclipse of the Moon, Oct. 21, 1724, at Gomroon in Persia. By Mr. William Saunderson. Communicated by Dr. Halley, Astron. Reg. R. S. S.",
+    "authors": "William Saunderson, Dr. Halley",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103480"
+  }
+}

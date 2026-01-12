@@ -1,0 +1,69 @@
+{
+  "id": "6dc18ab6adf7e0074ff21529c70c4a479f1bc825",
+  "text": "VI. Extract of a Letter from Mr. Ebenezer Kinnersley to Benjamin Franklin, LL. D. F. R. S. on some electrical Experiments made with Charcoal.\n\nReceived August 16, 1772.\n\nPhiladelphia, October 13, 1770.\n\nRead Dec. 10, 1772.\n\nThe conducting quality of some sorts of charcoal is indeed very remarkable. I have found oak, beech, and maple, to conduct very well; but tried several pieces of pine coal, without finding one that would conduct at all; perhaps they were made in a fire not hot enough, or not continued in it long enough. A strong line drawn on paper with a black lead pencil, will conduct an electrical shock pretty readily; but this, perhaps, may not be new to you.\n\nOn the 12th of last July, three houses in this city, and a sloop at one of the wharfs, were, in less than an hour's time, all struck with lightning. The sloop, with two of the houses, were considerably damaged; the other was the dwelling-house of Mr. Joseph Moulde, in Lombard-street, which was provided\nwith a round iron conductor, half an inch thick, its several lengths screwed together, so as to make very good joints, and the lower end five or six feet underground; the lightning, leaving every thing else, pursued its way through that, melted off six inches and a half of the flenderest part of a brass wire fixed on the top, and did no further damage within doors, or without. Captain Falconer, who brings you this, was in the house at the time of the stroke, and says it was an astonishing loud one.\n\nVII. Account",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106134.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 462,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        980,
+        2
+      ],
+      [
+        980,
+        1497,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106134",
+    "title": "Extract of a Letter from Mr. Ebenezer Kinnersley to Benjamin Franklin, L L. D. F. R. S. on Some Electrical Experiments Made with Charcoal",
+    "authors": "Ebenezer Kinnersley",
+    "year": 1773,
+    "volume": "63",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106134"
+  }
+}

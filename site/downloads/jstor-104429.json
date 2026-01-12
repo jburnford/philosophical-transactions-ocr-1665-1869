@@ -1,0 +1,189 @@
+{
+  "id": "701a773ba945583762e8b751c105380310f6e5da",
+  "text": "IX. Occultatio Jovis à Luna, obs. Londini.\n\nRead June 7.\n1744.\n\nNotante Horologio.\n\n1744. June 6. 11 13 40 Immersio centri Jovialis, fat certe.\n35 14 Serpentaria culminat.\n43 15 Emercio centri, raptim inter nubes.\nTubo 12 Ped.\n\nJ. Bevis.\n\nX. A letter from Mr. Abraham De Moivre, F. R. S. to William Jones, Esquire, F. R. S. concerning the easiest method for calculating the value of annuities upon lives, from tables of observations.\n\nSIR,\n\nPresented June 7. YOU may remember, that some time after the printing of the second edition of my book of annuities on lives, you told me, that it seem'd strange to you, that, considering I had demonstrated the chief propositions in the book, I had neglected to demonstrate the theorem, which is found in page 86. line 12. which, you said, of all the rest, appear'd to you the most curious; I answer'd, that, as the demonstration depended upon a principle which was not commonly known\nknown, I was afraid that the publishing of it would have swell'd the book too much; for this reason especially, that many corollaries were annexed to it. However, I promised to send it you in a short time; but desired you to let me know, whether you thought it deserv'd a place in the Philosophical Transactions. I now discharge my promise; and expect, with impatience, the favour of your opinion. I am, with a very particular regard,\n\nSIR,\n\nYour most humble,\nand most obedient Servant,\n\nA. De Moivre.\n\nA short method of calculating the value of annuities on lives, from tables of observations.\n\nALTHO' it has been an established custom, in the payment of annuities on lives, that the last rent is lost to the heirs of the late possessor of an annuity, if the person happens to die before the expiration of the term agreed on for payment, whether yearly, half-yearly, or quarterly: nevertheless, in this treatise I have suppos'd, that such a part of the rent should be paid to the heirs of the late possessor, as may be exactly proportion'd to the time elaps'd between that of the last payment, and the very\nvery moment of the life's expiring; and this by a proper, accurate, and geometrical calculation.\n\nI have been induced to take this method, for the following reasons; first, by this supposition, the value of lives would receive but an inconsiderable increase; secondly, by this means, the several intervals of life, which, in the tables of observations, are found to have uniform decrements, may be the better connected together. It is with this view that I have framed the two following problems, with their solutions.\n\n**Problem I.**\n\nTo find the value of an annuity, so circumstantiated, that it shall be on a life of a given age; and that, upon the failing of that life, such a part of the rent shall be paid to the heirs of the late possessor of an annuity, as may be exactly proportioned to the time intercepted between that of the last payment, and the very moment of the life's failing.\n\n**Solution.**\n\nLet \\( n \\) represent the complement of life, that is, the interval of time between the given age, and the extremity of old-age, suppos'd at 86.\n\n\\( r \\) the amount of 1l. for one year.\n\n\\( a \\) the logarithm of \\( r \\).\n\n\\( P \\) the present value of an annuity of 1l. for the given time.\n\n\\( Q \\) the value of the life sought.\n\nThen \\( \\frac{1}{r-1} - \\frac{P}{a.n} = Q \\).\nDemonstration.\n\nFor, let \\( z \\) represent any indeterminate portion of \\( n \\). Now the probability of the life's attaining the end of the interval \\( z \\), and then failing, is to be expressed by \\( \\frac{z}{n} \\) (as shewn in page 77, edit. 1. and in page 115, edit. 2. of my book of annuities upon lives) upon the supposition of a perpetual and uniform decrement of life.\n\nBut it is well known, that if an annuity certain, of \\( r \\)l. be paid during the time \\( z \\), its present value will be \\( P = \\frac{1 - r^z}{r - 1} \\) or \\( \\frac{1}{r - 1} - \\frac{1}{r - 1 \\times r^z} \\).\n\nAnd, by the laws of the doctrine of chances, the expectation of such a life, upon the precise interval \\( z \\), will be expressed by \\( \\frac{z}{nr^{z-1}} - \\frac{z}{nr^{z}x^{r-1}} \\); which may be taken for the ordinate of a curve, whose area is as the value of the life required.\n\nIn order to find the area of this curve, let \\( p = nr^{z-1} \\); and then the ordinate will become \\( \\frac{z}{p} - \\frac{z}{pr^z} \\), a much more commodious expression.\n\nNow it is plain, that the fluent of the first part is \\( \\frac{z}{p} \\): but as the fluent of the second part is not so readily discover'd, it will not be improper, in this place, to shew by what artifice I found it; for I do not know, whether the same method has been made use of by others: all that I can say, is, that I never had\nhad occasion for it, but in the particular circumstance of this problem.\n\nLet, therefore, \\( r^z = x \\); hence \\( z \\log_r = \\log_x \\); therefore \\( z \\log_r = (\\text{fluxion of the log. } x) \\frac{x}{x} \\),\n\nor \\( az = \\frac{x}{x} \\); consequently \\( z = \\frac{x}{ax} \\), and \\( \\frac{z}{r^2} = \\frac{x}{ax} \\);\n\nbut the fluent of \\( \\frac{x}{ax} \\) is \\( -\\frac{1}{ax} = -\\frac{1}{ar^2} \\); and therefore the fluent of \\( -\\frac{z}{pr^2} \\) will be \\( +\\frac{1}{pr^2} \\).\n\nThe sum of the two fluents will be \\( \\frac{z}{p} + \\frac{1}{pr^2} \\); but, when \\( z = 0 \\), the whole fluent should be \\( = 0 \\); let therefore the whole fluent be \\( \\frac{z}{p} + \\frac{1}{pr^2} + q = 0 \\).\n\nNow, when \\( z = 0 \\), then \\( \\frac{z}{p} = 0 \\), and \\( \\frac{1}{apr^2} \\) becomes \\( \\frac{1}{ap} \\) (for \\( r^z = 1 \\)), consequently \\( \\frac{1}{ap} + q = 0 \\);\n\nand \\( q = -\\frac{1}{ap} \\): therefore the area of a curve, whose ordinate is \\( \\frac{z}{p} - \\frac{z}{pr^2} \\) will be \\( \\left( \\frac{z}{p} - \\frac{1}{ap} + \\frac{1}{apr^2} \\right) = \\frac{z}{p} - 1 - \\frac{1}{r^2} \\times \\frac{1}{ap} \\).\n\nBut \\( P = \\frac{1}{r-1} - \\frac{1}{r-1xr^2} \\); therefore \\( 1 - \\frac{1}{r^2} = \\frac{1}{r-1} \\times P \\), and the expression for the area becomes \\( \\frac{z}{nxr-1} - \\frac{P}{an} \\): And putting \\( n \\) instead of \\( z \\), that area, or the value of the life, will be expressed by \\( \\frac{1}{r-1} - \\frac{P}{an} \\)\n\nQ. E. D.\nThose who are well versed in the nature of logarithms, I mean those that can deduce them from the doctrine of fluxions and infinite series, will easily apprehend, that the quantity here called $\\alpha$, is that which some call the hyperbolic logarithm; others, the natural logarithm: it is what Mr. Cotes calls, the logarithm whose modulus is $1$: lastly, it is by some called Neper's logarithm. And, to save the reader some trouble in the practice of this last theorem, the most necessary natural logarithms, to be made use of in the present disquisition about lives, are the following:\n\nIf $r = 1.04$, then will $\\alpha = 0.0392207$.\n$r = 1.05$, $\\alpha = 0.0487901$.\n$r = 1.06$, $\\alpha = 0.0582589$.\n\nIt is to be observed, that the theorem here found, makes the values of lives a little bigger, than what the theorem found in the first problem of my book of annuities on lives, does; for, in the present case, there is one payment more to be made, than in the other; however, the difference is very inconsiderable.\n\nBut, altho' it be indifferent which of them is used, on the supposition of an equal decrement of life to the extremity of old-age; yet, if it ever happens, that we should have tables of observations, concerning the mortality of mankind, intirely to be depended upon, then it would be convenient to divide the whole interval of life into such smaller intervals, as, during which, the decrements of life have been observed to be uniform, notwithstanding the decrements in some of those intervals should be quicker, or slower, than others; for then the theorem here found\nfound would be preferable to the other; as will be shewn hereafter.\n\nThat there are such intervals, Dr. Halley's tables of observations sufficiently shew; for instance; out of 302 persons of 54 years of age, there remain, after 16 years (that is, of the age of 70) but 142; the decrements from year to year having been constantly 10; and the same thing happens in other intervals; and it is to be presumed, that the like would happen in any other good tables of observations.\n\nBut, in order to shew, in some measure, the use of the preceding theorem, it is necessary to add another problem; which, tho' its solution is to be met with in the first edition of my book of annuities on lives, yet it is convenient to have it inserted here, on account of the connexion that the application of the preceding problem has with it.\n\nIn the mean time, it will be proper to know, What part of the yearly rent should be paid to the heirs of the late possessor of an annuity, as may be exactly proportioned to the time elapsed between that of the last payment, and the very moment of the life's expiring. To determine this, put $A$ for the yearly rent; $\\frac{1}{m}$ for the part of the year intercepted between the time of the last payment, and the instant of the life's failing; $r$ the amount of £1 at the year's end: then will $\\frac{r^{m-1}}{r-1} A$, be the sum to be paid.\nProblem II.\n\nTo find the value of an annuity for a limited interval of life, during which the decrements of life may be considered as equal.\n\nSolution.\n\nLet \\(a\\) and \\(b\\) represent the number of people living in the beginning and end of the given interval of years.\n\n\\(s\\) represent that interval.\n\n\\(P\\) the value of an annuity certain for that interval.\n\n\\(Q\\) the value of an annuity for a life supposed to be necessarily extinct in the time \\(s\\); or (which is the same thing) the value of an annuity for a life, of which the complement is \\(s\\).\n\nThen \\(Q + \\frac{b}{a} \\times P - Q\\) will express the value required.\n\nDemonstration.\n\nFor, let the whole interval between \\(a\\) and \\(b\\) be fill'd up with arithmetical mean proportionals; therefore the number of people living in the beginning and end of each year of the given interval \\(s\\) will be represented by the following series; viz.\n\n\\[\n\\begin{align*}\na & \\cdot \\frac{sa-a+b}{s}, \\frac{sa-2a+2b}{s}, \\frac{sa-3a+3b}{s}, \\frac{sa-4a+4b}{s}, \\&c. \\text{ to } b.\n\\end{align*}\n\\]\n\nConsequently, the probabilities of the life's continuing during 1, 2, 3, 4, 5, \\&c. years will be expressed by the series,\n\n\\[\n\\begin{align*}\n\\frac{sa-a+b}{sa}, \\frac{sa-2a+2b}{sa}, \\frac{sa-3a+3b}{sa}, \\frac{sa-4a+4b}{sa}, \\&c. \\text{ to } \\frac{b}{a}.\n\\end{align*}\n\\]\n\nWherefore,\nWherefore, the value of an annuity of \\(1\\) l. granted for the time \\(s\\), will be expressed by the series\n\n\\[\n\\frac{sa-a+b}{sar} + \\frac{sa-2a+2b}{sar^2} + \\frac{sa-3a+3b}{sar^3} + \\frac{sa-4a+4b}{sar^4},\n\\]\n\n\\&c. to \\(+\\frac{b}{ar}\\); this series is divisible into two other series's, viz.\n\n1st. \\(\\frac{s-1}{sr} + \\frac{s-2}{sr^2} + \\frac{s-3}{sr^3} + \\frac{s-4}{sr^4}, \\&c.\\) to \\(+\\frac{s-s}{sr^s}\\).\n\n2d. \\(\\frac{b}{a} \\times \\frac{1}{sr} + \\frac{2}{sr^2} + \\frac{3}{sr^3} + \\frac{4}{sr^4}, \\&c.\\) to \\(\\frac{s}{sr^s}\\).\n\nNow, since the first of these series's begins with a term whose numerator is \\(s-1\\), and the subsequent numerators each decrease by unity; it follows, that the last term will be \\(=0\\); and, consequently, that series expresses the value of a life necessarily to be extinct in the time \\(s\\). The sum of this series may be esteem'd as a given quantity; and is what I have expressed by the symbol \\(Q\\) in problem 1.\n\nThe second series is the difference between the two following series's,\n\n\\[\n\\frac{b}{a} \\times \\frac{1}{r} + \\frac{1}{r^2} + \\frac{1}{r^3} + \\frac{1}{r^4} + \\&c.\\) to \\(\\frac{1}{r^s}.\n\\]\n\n\\[\n\\frac{b}{a} \\times \\frac{s-1}{sr} + \\frac{s-2}{sr^2} + \\frac{s-3}{sr^3} + \\frac{s-4}{sr^4}, \\&c.\\) to \\(+\\frac{s-s}{sr^s}.\n\\]\n\nWhere, neglecting the common multiplier \\(\\frac{b}{a}\\), the first series is the value of an annuity certain to continue \\(s\\) years; which every mathematician knows how to calculate, or is had from tables already composed for that purpose: this value is what I have called \\(P\\); and the second series is \\(Q\\).\n\nTherefore\nTherefore $Q + \\frac{b}{a} \\times P - Q$ will be the value of an annuity on a life for the limited time. Q. E. D.\n\nIt is obvious, that the series denoted by $Q$, must of necessity have one term less than is the number of equal intervals contain'd in $s$; and therefore, if the whole extent of life, beginning from an age given, be divided into several intervals, each having its own particular uniform decrements, there will be, in each of these intervals, the defect of one payment; which to remedy, the series $Q$ must be calculated by problem 1.\n\n**Example.**\n\nTo find the value of an annuity for an age of 54, to continue 16 years, and no longer.\n\nIt is found, in Dr. Halley's tables of observations, that $a$ is 302, and $b$ 172: now $n = s = 16$; and, by the tables of the values of annuities certain, $P = 10.8377$; also (by problem 1.) $Q = (\\frac{1}{r-1} - \\frac{P}{an}) = 6.1168$. Hence it follows (by this problem), that the value of an annuity for an age of 54, to continue during the limited time of 16 years, supposing interest at 5 per cent. per annum, will be worth $(Q + \\frac{b}{a} \\times P - Q) = 8.3365$ years purchase.\n\nFrom Dr. Halley's tables of observations, we find, that from the age of 49 to 54 inclusive, the number of persons, existing at those several ages, are, 357, 346, 335, 324, 313, 302, which comprehends a space of five years; and, following the precepts before laid down, we shall find, that an annuity\nannuity for a life of 49, to continue for the limited time of 5 years, interest being at 5 per cent. per annum, is worth 4.0374 years purchase.\n\nAnd, in the same manner, we shall find, that the value of an annuity on life, for the limited time comprehended between the ages of 42 and 49, is worth 5.3492 years purchase.\n\nNow, if it were required to determine the value of an annuity on life, to continue from the age of 42 to 70, we must proceed thus:\n\nIt has been proved, that an annuity on life, reaching from the age of 54 to 70, is worth 8.3365 years purchase; but this value, being estimated from the age of 49, ought to be diminished on two accounts: First, because of the probability of the life's reaching from 49 to 54, which probability is to be deduced from the table of observations, and is proportional to the number of people living at the end and beginning of that interval, which, in this case, will be found 302 and 357: The second diminution proceeds from a discount that ought to be made, because the annuity, which reaches from 54 to 70, is estimated 5 years sooner, viz. from the age of 49, and therefore that diminution ought to be expressed by $\\frac{1}{r^5}$; so that the total diminution of the annuity of 16 years will be expressed by the fraction $\\frac{302}{357r^5}$, which will reduce it from 8.3365 years purchase to 5.5259; this being added to the value of the annuity to continue from 49 to 54, viz. 4.0374, will give 9.5633, the value of an annuity to continue from the age of 49 to 70.\n\nFor the same reason, the value 9.5633, estimated from\nfrom the age of 42, ought to be reduced, both upon account of the probability of living from 42 to 49, and of the discount of money for 7 years, at 5 per cent. per annum, amounting together to 3.8554, which will bring it down to 5.7079; to this adding the value of an annuity on a life to continue from the age of 42 to 49, found before to be 5.3492, the sum will be 11.0571 years purchase, the value of an annuity to continue from the age of 42 to 70.\n\nIn the same manner, for the last 16 years of life, reaching from 70 to 86, when properly discounted, and also diminished upon the account of the probability of living from 42 to 70, the value of those last 16 years will be reduced to 0.8; this being added to 11.0571 (the value of an annuity to continue from the age of 42 to 70, found before), the sum will be 11.8571 years purchase, the value of an annuity to continue from the age of 42 to 86; that is, the value of an annuity on a life of 42; which, in my tables, is but 11.57, upon the supposition of an uniform decrement of life, from an age given to the extremity of old-age, supposed at 86.\n\nIt is to be observed, that the two diminutions, above-mention'd, are conformable to what I have said in the corollary to the second problem of the first edition, printed in the year 1724.\n\nThose who have sufficient leisure and skill to calculate the value of joint lives, whether taken two and two, or three and three, in the same manner as I have done the first problem of this tract, will be greatly assisted by means of the two following theorems:\nIf the ordinate of a curve be $\\frac{z}{r^2}$; its area will be $\\frac{1}{a^2} - \\frac{1}{a^2 r^2} - \\frac{z}{ar^2}$.\n\nIf the ordinate of a curve be $\\frac{z^2}{r^2}$; its area will be $\\frac{2}{a^3} - \\frac{2}{a^3 r^2} - \\frac{2z}{a^2 r^2} - \\frac{z^2}{ar^2}$.\n\nI beg leave, in this place, to take notice, that in the theorem in line 12. page 63. of the second edition of my book of annuities on lives, instead of $P$, it ought to be $\\frac{p}{n} P$; where $n$ and $p$ represent the complements of the age, in the beginning and end of a given interval of time.\n\nAnd I desire the reader of that edition to adapt the fourth article of the rule put in words at length, in page 64, to the theorem so corrected: then the solution there given, and that in page 21. of the first edition, will perfectly agree; provided that the decrements of life be supposed, in both cases, uniform, from an age given, to the extremity of old-age.\n\nI must also take notice of an accidental error, that has crept into the 25th proposition of the second edition; which I chuse to correct as follows;\n\n1. Let the first line of the proposition, and part of the second line, as far as $A$ exclusive, be erased.\n\n2. Let the solution proceed thus: since the life of $A$ is supposed to be worth 14 years purchase, when interest is at 4 per cent. per annum, it follows,\nfrom our tables, that $A$ must be 35 years of age; therefore find, by the twenty-third proposition, the value of an annuity of a life for 35 to continue for a limited time of 31 years: let that value be sub-\nducted from the value of an annuity certain, to con-\ntinue 31 years; and the remainder will be the value\nof the reversion.\n\nXI. The Appearance of a fiery Meteor, as seen\nby Mr. Cradock, communicated to the Royal\nSociety by Mr. Henry Baker, F. R. S.\n\nRead June 7. 1744. THE Head and Body emitted an ex-\ntremely lucid and white Flame. The Tail appeared of a transparent Blue, like the\nFlame of Sulphur.\n\nThis Phenomenon was seen on Sunday, May 27.\n1744. at 11 Minutes after 11 o’Clock at Night: Its\nDirection from S. E. to N. W. or thereabouts; its\nHeight seemingly not half a Mile.\n\nIt was seen, as here described, from the Terrace\nin Somerset-Gardens, by me,\n\nZach. Cradock,\nOf Somerset-House.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104429.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 15,
+    "total-input-tokens": 23060,
+    "total-output-tokens": 6091,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        926,
+        2
+      ],
+      [
+        926,
+        2034,
+        3
+      ],
+      [
+        2034,
+        3319,
+        4
+      ],
+      [
+        3319,
+        4693,
+        5
+      ],
+      [
+        4693,
+        6119,
+        6
+      ],
+      [
+        6119,
+        7708,
+        7
+      ],
+      [
+        7708,
+        9074,
+        8
+      ],
+      [
+        9074,
+        10399,
+        9
+      ],
+      [
+        10399,
+        11986,
+        10
+      ],
+      [
+        11986,
+        13427,
+        11
+      ],
+      [
+        13427,
+        15002,
+        12
+      ],
+      [
+        15002,
+        16557,
+        13
+      ],
+      [
+        16557,
+        17896,
+        14
+      ],
+      [
+        17896,
+        18797,
+        15
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104429",
+    "title": "A Letter from Mr. Abraham De Moivre, F. R. S. to William Jones, Esquire, F. R. S. concerning the Easiest Method for Calculating the Value of Annuities upon Lives, from Tables of Observations",
+    "authors": "Abraham De Moivre",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 15,
+    "jstor_url": "https://www.jstor.org/stable/104429"
+  }
+}

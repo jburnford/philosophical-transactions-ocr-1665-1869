@@ -1,0 +1,69 @@
+{
+  "id": "f914316503db678f710fef6f5c8dab2092fce59f",
+  "text": "Letter from Dr. Turbervile of Salisbury containing some considerable Observations in the Practice of Physic.\n\nSir!\n\nI will now proceed in communicating more of my Observations to you; at present be pleas'd to accept these which follow.\n\nI had a Gentlewoman my Patient, who was much troubled with the falling Sickness; in her Water I saw a great number of short Worms, full of legs, and like Millepedes: I gave her two or three purges, first with Pil: Agaric: & Rhubarb; but I still perceiv'd, in every Water was brought me, eight, or ten, or more, of the Worms; they appear'd lively, and full of Motion; and the fits continued daily: at last I gave Her half an ounce of Oxymel Helleboratum in Tansy Water; which wrought well and was successfull; so that she had a compleat cure. I shall leave you to judge of the cause of the Malady.\n\nAbout six or seven years since, I had a Gentleman (Mr. Oyliff by name,) in cure of his Eye; which was as big as my fist, black, fleshy, and full of blewish bladders; this I judgd to be a Cancer: after purging, and bleeding, I cut out the ball, and ulcer'd flesh, by many Cuts, which were all insensible to Him, till I came to the Optic Nerve: at the last Cutt He complained, and bled a little; the Wound was heal'd in about a fortnight; He now wears a black patch over the place.\n\nNot long after this, a young man (my Patient,) had an Eye as big as a Hen's Egg, very fair, without blemish, Rheum, or redness; and his sight was pretty tolerable; I judgd these Symptomes to proceed from thin humors fallen on the Eye, and Extending its Coats:\nI cured this distemper by applying drying Medicines to the head, and Eyes, and making an Issue in Nucha, appello Morbum Oculum Bovinum, sive Oculi Hydropem: If these Observations are acceptable to you, you may command more of a like nature from.\n\nSarum\n\nDec. 10th\n\n1684.\n\nYour very humble Servant\n\nDawbeney Turberville.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102113.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 604,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1576,
+        2
+      ],
+      [
+        1576,
+        1895,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102113",
+    "title": "Letter from Dr. Turbervile of Salisbury Containing Some Considerable Observations in the Practise of Physic",
+    "authors": "Dr. Turbervile",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102113"
+  }
+}

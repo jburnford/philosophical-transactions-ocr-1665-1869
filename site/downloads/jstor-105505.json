@@ -1,0 +1,69 @@
+{
+  "id": "9dea806601b00d735df773b3d7b0e7b39e347afc",
+  "text": "must be, on all sides, pervaded by the solar rays, which must render it invisible to our sight. It is therefore only against the cusps, and that at the ingress and egress, that this atmosphere is to be searched for, with very large instruments, and sufficiently well fixed.\n\nPrince de Croy.\n\nN. B. I am inclined to believe, that there is no water in the moon, for the two cavities, which penetrated within the disk continued concave to the bottom, whereas if there had been there any water, the bottom ought to have been convex. The mountains in the moon must be very high and hollow; and that is the reason of their white circle. If ever Tycho could be seen edge ways, it would make a beautiful appearance.\n\nXXXII. Observation of the Eclipse of the Sun the 5th of August 1766, near the Courgain at Calais.\n\nRead Nov. 27, 1766.\n\nBEGINNING - 5h 39m 9f\nEnd - - - 7 19 13\n\nThe sun did not set in the sea till about 14 minutes after the end of the eclipse; that is, at least 10 minutes later than the almanac makes it to do at Paris. His lower limb touched the sea at 7h 23m in thick vapours, which made me prefer the setting of this lower limb rather than the centre. It is easy to conclude the difference, which should result from the different situations of Paris and Calais.\nNo inequalities nor mountains were discernable, nor could any be seen on that part of the moon.\n\nThe elevation of the light of the sun's cusps was but small at the middle of this eclipse (about as much as in the last eclipse) enough, however, to indicate an atmosphere, as in my last observation*; but the air was charged with strong vapours, which hindered me from seeing it so distinctly as I then did.\n\nAs for the rest, the weather was fine, calm and hot.\n\n* Messrs. Mouron and Rigaut saw it also, as well as I, in my great telescope.\n\nLe Prince de Croy.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105505.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 552,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1275,
+        2
+      ],
+      [
+        1275,
+        1832,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105505",
+    "title": "Observation of the Eclipse of the Sun the 5th of August 1766, Near the Courgain at Calais",
+    "authors": "Le Prince De Croy",
+    "year": 1766,
+    "volume": "56",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105505"
+  }
+}

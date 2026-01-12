@@ -1,0 +1,59 @@
+{
+  "id": "0f8b137f589af0dd8670fb35ba23e4650d91a4af",
+  "text": "the immediate Cause of his Death: It was about the Size of a Filbert, and had quite corked up the Passage.\n\nUpon dissecting the Hernial Bag, the first Part that presented was a large Piece of Fat, about half a Pound; and immediately underneath it lay a large Portion of the Colon, in Length about 10 Inches; the internal Surface of the Peritoneum was strongly attached to the Colon by several Filaments, and to the Scrotum by its cellular Substance.\n\nAll the other Viscera were in a natural State.\n\nPrinted for T. Woodward, at the Half-Moon, between the Two Temple-Gates in Fleetstreet; and C. Davis, the Corner of Pater-noster-row, next Warwick-lane; Printers to the Royal Society. M.DCC.XLII.\n\nADVERTISEMENTS.\n\nA New Map of the Virgin Islands, taken from an actual Survey made at the Expence of the Honourable Gilbert Flemming, Esq; Governor of St. Kits. Sold by W. Mount and T. Page, Stationers, on Tower-hill, London.\n\nThe Gardener's best Companion in a Green-house; or, A Table, shewing the greatest Heat and Cold of most Countries; with a Catalogue of Exotic Plants, under the Name of each Country which produces them. Likewise, Thermometers, Hygrometers and Barometers, either for common Use, or adapted to the Use of Green-houses, made and sold by Tim. Sheldrake, at the Black-Boy over-against Cecil-street in the Strand, London.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104143.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 393,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1337,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104143",
+    "title": "Advertisements",
+    "authors": null,
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104143"
+  }
+}

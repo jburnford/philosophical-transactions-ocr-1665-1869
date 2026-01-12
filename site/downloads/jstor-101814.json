@@ -1,0 +1,69 @@
+{
+  "id": "8adfba862cbbe07b3eeb25b169be7028811036fd",
+  "text": "An Essay tending to make a probable Conjecture of Tempers and Dispositions by the Modulations of the Voice in ordinary Discourse. Communicated also by the formentioned person.\n\nSitting in some Company, and having been but a little before Musical, I chanc'd to take notice that in ordinary discourse words were spoken in perfect Notes, and that some of the Company used Eights, some Fifths, some Thirds; and that his Discourse, which was most pleasing, his words, as to their Tone, consisted most of Concords; and whereof Discord, of such as made up Harmony. The same person was the most affable, pleasant, and the best natured in the Company.\n\nThis suggests a Reason, why many Discourses which one hears with much pleasure, when they come to be read scarce seem the same things. So one whose pronunciation is not affectedly, but naturally musical, we term well-spoken; whereas another may speak as good Wit or sense, and yet not have half the acceptance.\n\nFrom the difference of Musick, in Speech we may also conjecture that of Tempers. We know, the Dorick Mood sounds Gravity and Sobriety; the Lydian, Buxomness and Freedom; the Æolique, sweet Stilness, and quiet Composure; the Phrygian, Jollity and Youthful Levity; the Ionique is a stiller of storms and disturbances arising from passion. And why may we not reasonably suppose, that those, whose speech naturally runs into the Notes peculiar to any of these Moods, are likewise in Nature hereunto congenerous?\n\nSo also from the Cliff, as he that speaks in Gamut, to be manly, G Fa Ut, may show one to be of an ordinary Capacity, tho good disposition. G Sol Re Ut, to be peevish and effeminiate, and of a weak and timorous Spirit. Sharps an effeminare; Flats, a manly or melancholick sadness. He who hath a voice which will, in some measure, agree with all Cliffs, to be of good Parts and fit for variety of Employments, yet somewhat of an inconstant Nature. Likewise from the Times; so Semibreifs may speak a Temper dull, and flegmatick; Minums, grave; and serious Crochets, a prompt Witt; Quavers, vehemency of Passion, and Scolds use\nuse them. Semibreif-Rest may denote one either stupid, or fuller of thoughts than he can utter; Minum-Rest, one that deliberates; Chrochet-Rest, one in a Passion; So that from the Natural use of Mood, Note, and Time, we may collect Dispositions.\n\nAn Account of some Books Extracted out of the Journal des Scavans.\n\nI. Museo Cospiano annesso a quello del famoso Ulisse Aldrovandi et donato alla sua Patria dall' Illustrissimo Signore Ferdinando Cospi Patrizio di Bologna & Senatore, &c. Descrizione di Lorenzo Legati Cremonese In fol. In Bologna. 1678.\n\nMr. Ferdinand Cospi Marquis of Petreoli, equally illustrious for his Merit, the Employments where with he is honoured in the Court of Tuscany, and for his extraordinary Learning, which hath rais'd him to one of the highest degrees in the Academy of the Celati in Bononia (no less famous than that of the Humorists at Rome) having with extraordinary care and expense, made a Collection of whatever he saw there that was curious and rare, and bestowed it upon his Country, the Senate of Bononia hath added the same to that of Aldrovandus. An ample and learned Description whereof is here made by Mr. Lorenzo Legati Philosopher, Physician, and Greek Professor in the University of Bononia.\n\nHe divides the Work into Five Books.\n\nThe first contains a Description of whatever this Museum hath of rarity concerning Mummies, Beasts, Serpents, Birds and Humane Monsters, in respect as well of the inward as the outward parts: as the Child born at Bononia, in Apr. 1660, with two heads and two pair of Lungs, yet dy'd within an hour after it was born.\n\nThe second Book contains the Descriptions and other Remarks of several rarities concerning Aquatiles, as of the Flying Fish, &c., As also of Corals, Pearl, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101814.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1032,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2090,
+        2
+      ],
+      [
+        2090,
+        3846,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101814",
+    "title": "An Essay Tending to Make a Probable Conjecture of Tempers and Dispofitions by the Modulations of the Voice in Ordinary Discourse. Communicated Also by the Forementioned Person",
+    "authors": "Mr. Ent",
+    "year": 1677,
+    "volume": "12",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101814"
+  }
+}

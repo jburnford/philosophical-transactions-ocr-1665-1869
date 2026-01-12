@@ -1,0 +1,69 @@
+{
+  "id": "335bb44af182e4f372f6c5cb58a330cc23efacdb",
+  "text": "V. An Account of an Earthquake felt at Lisbon, December 26, 1764: In a Letter to the Rev. Samuel Chandler, D. D. F. R. S.\n\nRead Jan. 31, 1765.\n\nWednesday December 26, 1764, I was awakened about 3 o'clock in the morning by violent squalls of wind, and a deluge of rain, accompanied with almost uninterrupted flashes of lightning, many of which ended in a bright purple. About 8, we had some distant claps of thunder; at 10, some more. Before 11, the rain ceased, and the sun shone forth. In less than half an hour after, we had a sudden shock, preceded by a rumbling noise, and succeeded by a dead calm of at least half an hour. Most of them here maintain, that it was the severest shock they have felt; but as it lasted no longer than you could clap your hands twice, it did little or no damage. They unanimously declare however, that they never had anything of the same kind, this being a sudden perpendicular heaving up; whereas all their former shocks were undulatory. As it is the only one I have felt, I can give no decision; and I dare say you will believe my curiosity will be satisfied without a second to compare with it. I had folly enough, in the mean time, to invent a method for measuring the strength and direction of future shocks. Last night, they say, we had a gentle shock about 12 o'clock.\n\nThank\nThank God, I was fast asleep, and did not feel it. Such weather I had no conception of 'till I knew it. The rains pour in such abundance, that the causeways in several parts of the streets are plowed more than half a yard deep by the torrent, and the gusts of wind are most dreadful. We have already got some bad accounts from sea.\n\nTo know the strength and direction of earthquakes.\n\nTake a vessel, making the portion of a sphere of three or four feet diameter. Place it on a ground-floor. Dust it all over on the inside with a barber's puff, and then pour some water gently into it. Upon the smallest tremor, the water will wash the flower from the parts of the vessel upon which it rises; and will of consequence mark the direction and height of the shock.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105440.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 593,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1316,
+        2
+      ],
+      [
+        1316,
+        2075,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105440",
+    "title": "An Account of an Earthquake Felt at Lisbon, December 26, 1764: In a Letter to the Rev. Samuel Chandler, D. D. F. R. S.",
+    "authors": null,
+    "year": 1765,
+    "volume": "55",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105440"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "id": "345f49bd1db21d5f8699cade06b34dccb89b61b2",
+  "text": "IX. A new Method of computing the Value of a slowly converging Series, of which all the Terms are affirmative. By the Rev. John Hellins, F. R. S. and Vicar of Potter's-Pury, in Northamptonshire. In a Letter to the Rev. Dr. Maskelyne, F. R. S. and Astronomer Royal.\n\nRead March 8, 1798.\n\nREV. SIR,\n\nPotter's-Pury, February 8, 1798.\n\nTHAT several of the most curious and difficult problems in physical astronomy have hitherto been solved only by means of slowly converging series, is a truth which you are well acquainted with, and which may be seen in the works of the late learned Euler, and others, on that subject. Of this kind of series is the following, viz. $ax + bx^2 + cx^3 + dx^4 + \\&c.$ ad infinitum, when all the terms are affirmative, and $a, b, c, \\&c.$ differ but little from each other, and $x$ is but little less than 1; to obtain the value of which, to seven places of figures, by computing the terms as they stand, and adding them together, is a very laborious and tiresome operation; and therefore some easier method of obtaining it is very desirable. About five years ago, the consideration of this matter was recommended to me by Mr. Baron Maseres, (who not only employs his own leisure in explaining and improving the higher parts of the mathematics, but also encourages others who make the same laudable use of their leisure,) to whom I then communicated the method of computation explained in the paper inclosed in\nthis letter. As this method is general, for all slowly converging series of the form abovementioned, (which is generally allowed to be the most difficult,) I am induced to present it to you, requesting that, if it meets with your approbation, you will communicate it to the Royal Society.\n\nI am,\n\nRev. Sir, &c.\n\nJOHN HELLINS.\n\nP. S. I need not observe to you, that it is not requisite to the summation of the series mentioned in this letter, that $b$ should be less than $a$, $c$ less than $b$, $d$ less than $c$, &c. but only that the first, second, third, &c. differences of these coefficients should be a series of decreasing quantities: for, you well know, there are series of that form, which arise in physical astronomy, of which the coefficients are actually a diverging series, and yet the sum of the whole is a finite quantity. And the same thing is evident, from the bare inspection of the theorem which I shall presently use.\n\n1. The computing of the value of the series $ax + bx^2 + cx^3 + dx^4 + \\&c.$ ad infinitum, in which all the terms are affirmative, and the differences of the coefficients $a$, $b$, $c$, &c. are but small, though decreasing, quantities, and $x$ is but little less than 1, is (as has been before observed) a laborious operation, and has engaged the attention of some eminent mathematicians, both at home and abroad, whose ingenious devices on the occasion entitle them to esteem. Of the several methods of\nobtaining the value of this series, which have occurred to me, the easiest is that which I am now to describe, by which the business is reduced to the summation of two, three, or more series of this form, viz. \\( ax - bx^2 + cx^3 - dx^4 + \\&c. \\) and one series of this form, viz. \\( px^n + qx^{2n} + rx^{3n} + \\&c. \\) where \\( n \\) is \\( = 4, 8, 16, 32, \\) or some higher power of 2. The investigation of this method is as follows.\n\n2. The series \\( ax + bx^2 + cx^3 + dx^4 + ex^5 + fx^6 + \\&c. \\) is evidently equal to the sum of these two series, viz.\n\n\\[\nax - bx^2 + cx^3 - dx^4 + ex^5 - fx^6 + \\&c.\n\\]\n\n\\[\n* + 2bx^2 * + 2dx^4 * + 2fx^6, \\&c.\n\\]\n\nof which, the value of the former is easily attainable, by the method so clearly explained, and fully illustrated, by Mr. Baron Maseres, in the Philosophical Transactions for the year 1777; and the latter, although it be of the same form with the series first proposed, yet has a great advantage over it, since it converges twice as fast. Upon this principle, then, we may proceed to resolve the series \\( 2bx^2 + 2dx^4 + 2fx^6 + 2bx^8 + 2kx^{10} + 2mx^{12} + \\&c. \\) into the two following:\n\n\\[\n2bx^2 - 2dx^4 + 2fx^6 - 2bx^8 + 2kx^{10} - 2mx^{12}, \\&c.\n\\]\n\n\\[\n* + 4dx^4 * + 4bx^8 * + 4mx^{12}, \\&c.\n\\]\n\nwhere, again, the value of the one may easily be computed; and the other, although it be of the same form with the series at first proposed, yet converges four times as fast. And, in this manner we may go on, till we obtain a series of the same form with the series at first proposed, which shall converge 8, 16, 32, 64, \\&c. times as fast, and consequently a few terms of it will be all that are requisite.\n\nAn example, to illustrate this method, may be proper, which therefore is here subjoined.\n\nMDCCXCVIII.\n3. Let it be proposed to find the value of the series \\( x + \\frac{x^2}{2} + \\frac{x^3}{3} + \\frac{x^4}{4} + \\frac{x^5}{5} + \\frac{x^6}{6} + \\&c. ad infinitum \\), when \\( x = \\frac{9}{10} \\).\n\n4. In order to obtain the sum of this series, with the less work, it will be requisite to compute a few of the initial terms, as they stand. For, if we begin the operation with computing the value of \\( x - \\frac{x^2}{2} + \\frac{x^3}{3} - \\frac{x^4}{4}, \\&c. \\) by the differential series before mentioned*, the values of \\( D', D'', D''', \\&c. \\) will be \\( \\frac{1}{2}, \\frac{1.2}{2.3}, \\frac{1.2.3}{2.3.4}, \\&c. \\) respectively, i.e. \\( \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, \\&c. \\) which is a series decreasing so very slowly, that the only advantage obtained by this transformation of the series is in the convergency of the powers of \\( \\frac{x}{1+x} \\) instead of the powers of \\( x \\), which indeed is very great; for, \\( x \\) being \\( = \\frac{9}{10} \\), \\( \\frac{x}{1+x} \\) is \\( = \\frac{2}{19} \\); so that the new series \\( \\frac{9}{19} + \\frac{1}{2} \\cdot \\frac{9}{19}^2 + \\frac{1}{3} \\cdot \\frac{9}{19}^3 + \\frac{1}{4} \\cdot \\frac{9}{19}^4 + \\&c. \\) although \\( = \\frac{9}{10} - \\frac{1}{2} \\cdot \\frac{9}{10}^2 + \\frac{1}{3} \\cdot \\frac{9}{10}^3 - \\frac{1}{4} \\cdot \\frac{9}{10}^4, \\&c. \\) yet converges more than seven times as swiftly†. But, if we begin the work by computing the first eight terms of the series, as they stand, and then compute the value of \\( \\frac{x}{9} - \\frac{x^2}{10} + \\frac{x^3}{11} - \\frac{x^4}{12} + \\&c. ad infinitum \\), by the same theorem, the values of \\( D', D'', D''', \\&c. \\) will be \\( \\frac{1}{9.10}, \\frac{2}{9.10.11}, \\frac{2.3}{9.10.11.12}, \\&c. \\) which is a series decreasing, for a great number\n\n* The theorem best adapted to this business is the following; viz. \\( ax - bx^2 + cx^3 - dx^4, \\&c. = \\frac{ax}{1+x} + \\frac{D'x^2}{(1+x)^2} + \\frac{D''x^3}{(1+x)^3} + \\frac{D'''x^4}{(1+x)^4} + \\&c. \\) \\( D' \\) being \\( = a - b, D'' = a - 2b + c, D''' = a - 3b + 3c - d, \\&c. \\)\n\nSee Scriptores Logarithmici, Vol. III. p. 290, where \\( b, c, d, \\&c. \\) denote the same quantities that \\( a, b, c, \\&c. \\) do here.\n\n† \\( \\frac{9}{19} \\) is \\( = 0.4736842 \\), and \\( \\frac{2}{10} \\) is \\( = 0.4782969 \\).\nof its terms, much more swiftly than the powers of $\\frac{2}{19}$, and, in the first seven terms, much more swiftly than the powers of $\\frac{2}{19}$. The value of the series $\\frac{1}{9} \\cdot \\frac{2}{19} - \\frac{1}{10} \\cdot \\frac{2}{19}^2 + \\frac{1}{11} \\cdot \\frac{2}{19}^3 - \\frac{1}{12} \\cdot \\frac{2}{19}^4$, &c. is therefore = the series $\\frac{1}{9} \\cdot \\frac{2}{19} + \\frac{1}{9.10} \\cdot \\frac{2}{19}^2 + \\frac{2}{9.10.11} \\cdot \\frac{2}{19}^3 + \\frac{2.3}{9.10.11.12} \\cdot \\frac{2}{19}^4$ + &c. the first seven terms of which converge above fourteen times as swiftly as the other; or, in other words, the first seven terms of it will give a result much nearer the truth than a hundred terms of the other. And if, instead of the first eight terms of the proposed series, the first twenty-four terms were computed, as they stand, and then the value of the series $\\frac{x}{25} - \\frac{x^2}{26} + \\frac{x^3}{27} - \\frac{x^4}{28}$, &c. by its equivalent, $\\frac{1}{25} \\cdot \\frac{x}{1+x} + \\frac{1}{25.26} \\cdot \\frac{x^2}{(1+x)^2} + \\frac{2}{25.26.27} \\cdot \\frac{x^3}{(1+x)^3} + \\frac{2.3}{25.26.27.28} \\cdot \\frac{x^4}{(1+x)^4}$ + &c. the rapid decrease of the coefficients $\\frac{1}{25}, \\frac{1}{25.26}, \\frac{2}{25.26.27}$, &c. compounded with the decrease of the powers of $\\frac{x}{1+x}$, (in the present case = the powers of $\\frac{2}{19}$,) produces such a very swiftly converging series, that eight terms of it will give the result true to eleven places of decimals.\n\nIt may be further remarked, for the sake of my less experienced readers, (for whose information this article is chiefly intended,) that the second term of the last series is produced by multiplying the first by $\\frac{1}{26} \\cdot \\frac{x}{1+x}$; the third, by multiplying the second by $\\frac{2}{27} \\cdot \\frac{x}{1+x}$; the fourth, by multiplying the third by $\\frac{3}{28} \\cdot \\frac{x}{1+x}$; and so on. If, therefore, the first term be called P, the second Q, the third R, the fourth S, &c. we shall have,\n\\[ P = \\frac{1}{25} \\cdot \\frac{x}{1+x}, \\]\n\\[ Q = \\frac{P}{26} \\cdot \\frac{x}{1+x}, \\]\n\\[ R = \\frac{2Q}{27} \\cdot \\frac{x}{1+x}, \\]\n\\[ S = \\frac{3R}{28} \\cdot \\frac{x}{1+x}; \\text{ &c.} \\]\n\nwhich form is well adapted to arithmetical calculation. And, that a similar form for that purpose may always be obtained, when the coefficients of the proposed series are the reciprocals of any arithmetical progression, has been shewn by Mr. Simpson, in his Mathematical Dissertations, p. 64.\n\nHaving premised these observations, I now proceed to the arithmetical work; in which I shall use, and explain, such other devices as have occurred to me for facilitating it.\n\n5. Since the work of computing the value of the proposed series is so much shortened, by first finding the sum of a moderate number of initial terms, and then resolving the remaining terms into several series, in the manner described in Art. 2, I will begin with computing the first twenty-four terms of it; and, to facilitate this part of the work, I will separate these terms into three parts; viz.\n\n\\[ x + \\frac{x^2}{2} + \\frac{x^3}{3} + \\frac{x^4}{4} + \\frac{x^5}{5} + \\frac{x^6}{6} + \\frac{x^7}{7} + \\frac{x^8}{8}, \\]\n\\[ + \\frac{x^9}{9} + \\frac{x^{10}}{10} + \\frac{x^{11}}{11} + \\frac{x^{12}}{12} + \\frac{x^{13}}{13} + \\frac{x^{14}}{14} + \\frac{x^{15}}{15} + \\frac{x^{16}}{16}, \\]\n\\[ + \\frac{x^{17}}{17} + \\frac{x^{18}}{18} + \\frac{x^{19}}{19} + \\frac{x^{20}}{20} + \\frac{x^{21}}{21} + \\frac{x^{22}}{22} + \\frac{x^{23}}{23} + \\frac{x^{24}}{24}, \\]\n\nwhich are evidently equal to\n\n\\[ x + \\frac{x^2}{2} + \\frac{x^3}{3} + \\frac{x^4}{4} + \\frac{x^5}{5} + \\frac{x^6}{6} + \\frac{x^7}{7} + \\frac{x^8}{8}, \\]\n\\[ x^9 \\left( \\frac{x}{9} + \\frac{x^2}{10} + \\frac{x^3}{11} + \\frac{x^4}{12} + \\frac{x^5}{13} + \\frac{x^6}{14} + \\frac{x^7}{15} + \\frac{x^8}{16} \\right), \\]\n\\[ x^{16} \\left( \\frac{x}{17} + \\frac{x^2}{18} + \\frac{x^3}{19} + \\frac{x^4}{20} + \\frac{x^5}{21} + \\frac{x^6}{22} + \\frac{x^7}{23} + \\frac{x^8}{24} \\right); \\]\nwhich three parts, for the sake of reference, may be called A, $Bx^8$, and $Cx^{16}$. It is evident also, that the numerical values of the first eight powers of $x$ are all that are required for finding the sum of these twenty-four terms of the series proposed: for $Bx^8 + Cx^{16}$ is $= x^8 (B + Cx^8)$; and this product $+ A =$ the sum required*.\n\nThe numerical values of the first eight powers of $x$ are these:\n\n\\[\n\\begin{align*}\nx &= 0.9, \\\\\nx^2 &= 0.81, \\\\\nx^3 &= 0.729, \\\\\nx^4 &= 0.6561, \\\\\nx^5 &= 0.59049, \\\\\nx^6 &= 0.531441, \\\\\nx^7 &= 0.4782969, \\\\\nx^8 &= 0.43046721;\n\\end{align*}\n\\]\n\nfrom which values of the powers of $x$, the values of A, B, and C, continued to twelve places of decimals, are easily obtained, and are as follow.\n\n* The same thing might have been obtained from the first four powers of $x$, or from the first six powers of $x$; as might likewise the sum of 32, 36, 40, or any other number of terms that is a multiple of 4 or 6. But the number 8 is here chosen, for the sake of a subsequent use that will be made of the value of $x^8$.\n\\[ x = 0.9 \\]\n\\[ \\frac{x^2}{2} = 0.405 \\]\n\\[ \\frac{x^3}{3} = 0.243 \\]\n\\[ \\frac{x^4}{4} = 0.164025 \\]\n\\[ \\frac{x^5}{5} = 0.118098 \\]\n\\[ \\frac{x^6}{6} = 0.0885735 \\]\n\\[ \\frac{x^7}{7} = 0.068328128571 \\]\n\\[ \\frac{x^8}{8} = 0.053808401250 \\]\n\nThe sum is \\( 2.040833029821 = A \\).\n\n\\[ \\frac{x^9}{9} = 0.1 \\]\n\\[ \\frac{x^{10}}{10} = 0.081 \\]\n\\[ \\frac{x^{11}}{11} = 0.066272727273 \\]\n\\[ \\frac{x^{12}}{12} = 0.054675000000 \\]\n\\[ \\frac{x^{13}}{13} = 0.045422307692 \\]\n\\[ \\frac{x^{14}}{14} = 0.037960071429 \\]\n\\[ \\frac{x^{15}}{15} = 0.031886460000 \\]\n\\[ \\frac{x^{16}}{16} = 0.026904200625 \\]\n\nThe sum is \\( 0.444120767019 = B \\).\n\\[\n\\begin{align*}\n\\frac{x}{17} &= 0.052941176471 \\\\\n\\frac{x^2}{18} &= 0.04500000000 \\\\\n\\frac{x^3}{19} &= 0.038368421053 \\\\\n\\frac{x^4}{20} &= 0.03280500000 \\\\\n\\frac{x^5}{21} &= 0.028118571429 \\\\\n\\frac{x^6}{22} &= 0.024156409091 \\\\\n\\frac{x^7}{23} &= 0.020795517891 \\\\\n\\frac{x^8}{24} &= 0.017936133750\n\\end{align*}\n\\]\n\nThe sum is \\(0.260121229185 = C\\).\n\nWe may now quickly find the sum of the first twenty-four terms of the series proposed, by two multiplications by \\(x^8\\), and two additions, as was pointed out in the former part of this article; but, since the labour of these two separate multiplications may be saved, I shall now proceed to compute the value of the remaining terms of the proposed series.\n\n6. The remaining terms are \\(\\frac{x^{25}}{25} + \\frac{x^{26}}{26} + \\frac{x^{27}}{27} + \\frac{x^{28}}{28} + \\frac{x^{29}}{29} + \\frac{x^{30}}{30} + \\&c.\\ ad infinitum\\), which, being disposed according to the form mentioned in Art. 2, are evidently equal to \\(x^{24} \\times\\) these two series\n\n\\[\n\\begin{align*}\n\\left\\{ \\frac{x}{25} - \\frac{x^2}{26} + \\frac{x^3}{27} - \\frac{x^4}{28} + \\frac{x^5}{29} - \\frac{x^6}{30}, \\&c. \\\\\n* + \\frac{2x^2}{26} * + \\frac{2x^4}{28} * + \\frac{2x^6}{30} + , \\&c.; \\right.\n\\end{align*}\n\\]\n\nthe value of the first of which is very easily attainable, in the manner shewn above, in Art. 4. The arithmetical work will stand thus:\n\\[ P = \\frac{1}{25} \\times \\frac{9}{19} = 0.01894736842 \\]\n\\[ Q = \\frac{P}{26} \\times \\frac{9}{19} = 0.00034519497 \\]\n\\[ R = \\frac{2Q}{27} \\times \\frac{9}{19} = 0.00001211210 \\]\n\\[ S = \\frac{3R}{28} \\times \\frac{9}{19} = 0.00000061471 \\]\n\\[ T = \\frac{4S}{29} \\times \\frac{9}{19} = 0.000000004016 \\]\n\\[ U = \\frac{5T}{30} \\times \\frac{9}{19} = 0.000000000317 \\]\n\\[ V = \\frac{6U}{31} \\times \\frac{9}{19} = 0.000000000029 \\]\n\\[ W = \\frac{7V}{32} \\times \\frac{9}{19} = 0.000000000003 \\]\n\nThe sum of these terms is \\(0.01930533385\\), which, for the sake of reference, call \\(a\\). Then we have \\(ax^4 = x^4 \\times : \\frac{x}{25} - \\frac{x^2}{26} + \\frac{x^3}{27} - \\frac{x^4}{28} + \\frac{x^5}{29} - \\frac{x^6}{30}, \\&c.\\).\n\n7. The part of the proposed series which now remains to be computed, is \\(x^4 \\times : \\frac{2x^2}{26} + \\frac{2x^4}{28} + \\frac{2x^6}{30} + \\frac{2x^8}{32} + \\frac{2x^{10}}{34} + \\frac{2x^{12}}{36} + \\&c.\\) ad infinitum, or \\(x^4 \\times : \\frac{x^2}{13} + \\frac{x^4}{14} + \\frac{x^6}{15} + \\frac{x^8}{16} + \\frac{x^{10}}{17} + \\frac{x^{12}}{18} + \\&c.\\) ad infinitum, which may also be divided into two series, in the manner above shewn; but, to obtain a swifter convergency in the next, as well as the succeeding applications of the differential series, it will be convenient first to compute the value of four terms at the beginning of this series; which we may quickly do, since all the powers of \\(x\\) requisite in that part of the calculation are ready at hand, being set down in Art. 5.\n\nThe work will stand thus:\nthe Value of a slowly converging Series.\n\n\\[\n\\frac{x^2}{13} = 0.06230769281 \\\\\n\\frac{x^4}{14} = 0.04686428571 \\\\\n\\frac{x^6}{15} = 0.03542940000 \\\\\n\\frac{x^8}{16} = 0.02690420063;\n\\]\n\nAnd the sum is \\(0.17150557865\\), which call D. Then will\n\n\\[Dx^{24} = x^{24} \\times \\left( \\frac{x^2}{13} + \\frac{x^4}{14} + \\frac{x^6}{15} + \\frac{x^8}{16} \\right).\\]\n\n8. It now remains to find the value of \\(x^{24} \\times : \\frac{x^{10}}{17} + \\frac{x^{12}}{18} + \\frac{x^{14}}{19} + \\frac{x^{16}}{20} + \\frac{x^{18}}{21} + \\frac{x^{20}}{22} + \\&c.\\ ad infinitum\\), or of its equal, \\(x^{32} \\times\\) the sum of these two series,\n\n\\[\n\\frac{x^2}{17} - \\frac{x^4}{18} + \\frac{x^6}{19} - \\frac{x^8}{20} + \\frac{x^{10}}{21} - \\frac{x^{12}}{22}, \\&c.\n\\]\n\n\\[\n* + \\frac{2x^4}{18} * + \\frac{2x^8}{20} * + \\frac{2x^{12}}{22} + \\&c.\n\\]\n\nHere, again, the value of the first series may easily be computed, by the theorem referred to in Art. 4, it being \\(= \\frac{1}{17} \\cdot \\frac{x^2}{1+xx} + \\frac{1}{17.18} \\cdot \\frac{x^4}{(1+xx)^2} + \\frac{1.2}{17.18.19} \\cdot \\frac{x^6}{(1+xx)^3} + \\frac{1.2.3}{17.18.19.20} \\cdot \\frac{x^8}{(1+xx)^4} + \\&c.\\) in numbers,\nMr. Hellins's new Method of computing\n\n\\[ P = \\frac{1}{17} \\times \\frac{81}{181} = 0.02632434189 \\]\n\\[ Q = \\frac{P}{18} \\times \\frac{81}{181} = 0.00065447259 \\]\n\\[ R = \\frac{2Q}{19} \\times \\frac{81}{181} = 0.00003083006 \\]\n\\[ S = \\frac{3R}{20} \\times \\frac{81}{181} = 0.00000206953 \\]\n\\[ T = \\frac{4S}{21} \\times \\frac{81}{181} = 0.00000017641 \\]\n\\[ U = \\frac{5T}{22} \\times \\frac{81}{181} = 0.00000001794 \\]\n\\[ V = \\frac{6U}{23} \\times \\frac{81}{181} = 0.00000000209 \\]\n\\[ W = \\frac{7V}{24} \\times \\frac{81}{181} = 0.00000000027 \\]\n\\[ X = \\frac{8W}{25} \\times \\frac{81}{181} = 0.00000000004 \\]\n\nAnd the sum of these terms is \\(0.02701191082 = E\\).\n\n9. To find the value of \\(x^{32} \\times : \\frac{2x^4}{18} + \\frac{2x^8}{20} + \\frac{2x^{12}}{22} + \\frac{2x^{16}}{24} + \\&c.\\) ad infinitum, or its equal, \\(x^{32} \\times : \\frac{x^4}{9} + \\frac{x^8}{10} + \\frac{x^{12}}{11} + \\frac{x^{16}}{12} + \\&c.\\) ad infinitum, which is all that now remains of the proposed series, it will be expedient, first, to compute the two initial terms of the series, and then to separate the remaining terms of it into two parts, as has been done in the preceding articles. These two terms are\n\n\\[ \\frac{x^4}{9} = 0.07290000000 \\]\n\\[ \\frac{x^8}{10} = 0.04304672100 \\]\n\nAnd their sum is \\(0.11594672100 = E\\).\n10. There now remains, of the proposed series, \\( x^{12} \\times : \\frac{x^{12}}{11} + \\frac{x^{16}}{12} + \\frac{x^{20}}{13} + \\frac{x^{24}}{14} + \\frac{x^{28}}{15} + \\frac{x^{32}}{16} + \\&c. ad infinitum, = x^{40} \\times \\)\n\nthe sum of these two series,\n\n\\[\n\\frac{x^4}{11} - \\frac{x^8}{12} + \\frac{x^{12}}{13} - \\frac{x^{16}}{14} + \\frac{x^{20}}{15} - \\frac{x^{24}}{16}, \\&c.\n\\]\n\n\\[\n* + \\frac{2x^8}{12} * + \\frac{2x^{16}}{14} * + \\frac{2x^{24}}{16} + \\&c.\n\\]\n\nHere, likewise, the value of the series which has the signs \\(+ \\) and \\(−\\) alternately, is easily obtained by a swiftly converging series, the terms of which are set down here below, the decimal value of \\( \\frac{x^4}{1+ x^4} = \\frac{6561}{16561} \\) being used in the calculation, for the sake of facility.\n\n\\[\nP = \\frac{1}{11} \\times 0.39617,17287,6 = 0.03601,56117,1\n\\]\n\n\\[\nQ = \\frac{P}{12} \\times 0.39617,17287,6 = 0.00118,90306,0\n\\]\n\n\\[\nR = \\frac{2Q}{13} \\times 0.39617,17287,6 = 0.00007,24708,2\n\\]\n\n\\[\nS = \\frac{3R}{14} \\times 0.39617,17287,6 = 0.00000,61523,3\n\\]\n\n\\[\nT = \\frac{4S}{15} \\times 0.39617,17287,6 = 0.00000,06499,7\n\\]\n\n\\[\nU = \\frac{5T}{16} \\times 0.39617,17287,6 = 0.00000,00804,7\n\\]\n\n\\[\nV = \\frac{6U}{17} \\times 0.39617,17287,6 = 0.00000,00112,5\n\\]\n\n\\[\nW = \\frac{7V}{18} \\times 0.39617,17287,6 = 0.00000,00017,3\n\\]\n\n\\[\nX = \\frac{8W}{19} \\times 0.39617,17287,6 = 0.00000,00002,9\n\\]\n\n\\[\nY = \\frac{9X}{20} \\times 0.39617,17287,6 = 0.00000,00000,5\n\\]\n\nThe sum of these terms is \\( 0.03728,40092,2 = γ \\).\n11. The part now remaining, of the proposed series, is \\( x^{48} \\times \\frac{2x^8}{12} + \\frac{2x^{16}}{14} + \\frac{2x^{24}}{16} + \\frac{2x^{32}}{18} + \\frac{2x^{40}}{20} + \\frac{2x^{48}}{22} + \\&c. ad infinitum, \\) which may very conveniently be resolved into \\( x^{48} \\times \\) these two series\n\n\\[\n\\begin{align*}\n\\frac{1}{6} &+ \\frac{x^8}{7} - \\frac{x^{16}}{8} + \\frac{x^{24}}{9} - \\frac{x^{32}}{10} + \\frac{x^{40}}{11} - \\frac{x^{48}}{12}, \\&c. \\\\\n* &+ \\frac{2x^{16}}{8} * + \\frac{2x^{32}}{10} * + \\frac{2x^{48}}{12} + \\&c.\n\\end{align*}\n\\]\n\nthe value of the first of which will quickly be obtained, by means of the theorem which has been repeatedly used in the preceding operations. The terms of it are as below, in which the decimal value of \\( \\frac{x^8}{1 + x^8} = \\frac{43046721}{143046721} \\) is used, for the reason mentioned in the preceding article.\n\n\\[\n\\begin{align*}\n\\frac{1}{6} &= 0.16666,66667 \\\\\nP &= \\frac{1}{7} \\times 0.30092,77018 = 0.04298,96717 \\\\\nQ &= \\frac{P}{8} \\times 0.30092,77018 = 0.00161,70979 \\\\\nR &= \\frac{2Q}{9} \\times 0.30092,77018 = 0.00010,81399 \\\\\nS &= \\frac{3R}{10} \\times 0.30092,77018 = 0.00000,97627 \\\\\nT &= \\frac{4S}{11} \\times 0.30092,77018 = 0.00000,10683 \\\\\nU &= \\frac{5T}{12} \\times 0.30092,77018 = 0.00000,01339 \\\\\nV &= \\frac{6U}{13} \\times 0.30092,77018 = 0.00000,00186 \\\\\nW &= \\frac{7V}{14} \\times 0.30092,77018 = 0.00000,00028 \\\\\nX &= \\frac{8W}{15} \\times 0.30092,77018 = 0.00000,00005 \\\\\nY &= \\frac{9X}{16} \\times 0.30092,77018 = 0.00000,00001\n\\end{align*}\n\\]\n\nThe sum of these terms is \\( 0.21139,25631 = \\delta. \\)\n12. There now remains, of the proposed series, only $x^{48}$ $\\times : \\frac{2x^{16}}{8} + \\frac{2x^{32}}{10} + \\frac{2x^{48}}{12} + \\frac{2x^{64}}{14} + \\&c.$ ad infinitum, the value of which, or of its equal, $x^{48} \\times : \\frac{x^{16}}{4} + \\frac{x^{32}}{5} + \\frac{x^{48}}{6} + \\frac{x^{64}}{7} + \\&c.$ may easily be obtained without any transformation, since the powers of $x^{16}$ (= the powers of 0.18530,20188,9) decrease swifter than the powers of $\\frac{1}{5}$. The numerical values of these terms are as below.\n\n\\[\n\\begin{align*}\n\\frac{x^{16}}{4} &= 0.04632,55047 \\\\\n\\frac{x^{32}}{5} &= 0.00686,73676 \\\\\n\\frac{x^{48}}{6} &= 0.00106,04476 \\\\\n\\frac{x^{64}}{7} &= 0.00016,84312 \\\\\n\\frac{x^{80}}{8} &= 0.00002,73093 \\\\\n\\frac{x^{96}}{9} &= 0.00000,44982 \\\\\n\\frac{x^{112}}{10} &= 0.00000,07502 \\\\\n\\frac{x^{128}}{11} &= 0.00000,01264 \\\\\n\\frac{x^{144}}{12} &= 0.00000,00215 \\\\\n\\frac{x^{160}}{13} &= 0.00000,00037 \\\\\n\\frac{x^{176}}{14} &= 0.00000,00006 \\\\\n\\frac{x^{192}}{15} &= 0.00000,00001\n\\end{align*}\n\\]\n\nThe sum of these terms is 0.05445,44611 = F.\n13. The values of the several parts, into which the proposed series has been resolved, being now so far obtained that we have only to multiply each by its proper factor, viz. the numerical value of $x^8$, $x^{16}$, $x^{32}$, &c. and add the products together, to get the sum of it; this, therefore, is now to be performed. And, in this part of the calculation, several multiplications may be saved, and no larger factor than $x^8$ be used, by attending to the method described by Sir Isaac Newton, in his Tract De Analysi per Æquationes infinitas; p. 10. of Mr. Jones's edition of Sir Isaac's Tracts; or p. 270. Vol. I. of Bishop Horsley's edition of all his works. The manner in which this is to be done will appear, by collecting the several parts from the preceding Articles, and exhibiting them in one view, thus:\n\n$$A + B \\times x^8 + C \\times x^{16} + \\alpha + D \\times x^{24} + \\epsilon + E \\times x^{32} + \\gamma \\times x^{40} + \\delta + F \\times x^{48} = \\text{the sum of the proposed series.}$$\n\nNow,\n\n1st. Calling $\\delta + F$, $z'$, and multiplying by $x^8$, we have $z' \\times x^8 = 0.26584970242 \\times 0.43046721 = 0.11443842679$.\n\n2dly. Putting $\\gamma + z' \\times x^8 = z''$, and multiplying by $x^8$, we get $z'' \\times x^8 = 0.15172243601 \\times 0.43046721 = 0.06531153372$.\n\n3dly. Putting $\\epsilon + E + z'' \\times x^8 = z'''$, and multiplying by $x^8$, we get $z''' \\times x^8 = 0.20827016554 \\times 0.43046721 = 0.08965347709$.\n\n4thly. Putting $\\alpha + D + z''' \\times x^8 = z^iv$, and multiplying by $x^8$, we get $z^iv \\times x^8 = 0.28046438959 \\times 0.43046721 = 0.120730723290$.\n\n5thly. Putting $C + z^iv \\times x^8 = z^v$, and multiplying by $x^8$, we get $z^v \\times x^8 = 0.380851952475 \\times 0.43046721 = 0.163944277405$.\n\n6thly. Putting $B + z^v \\times x^8 = z^vi$, and multiplying by $x^8$, we get $z^vi \\times x^8 = 0.608065044424 \\times 0.43046721 = 0.261752063173$.\n\nLastly, to this product add $A = 2.040833029821$, and we have the value of the series proposed $= 2.302585092994$, which is true to twelve places of figures.\n14. It may not be improper to remark, that this degree of accuracy is much greater than is requisite, even in astronomy; for which, as well as for most other purposes, six or seven places of figures are sufficient: and, to that degree of exactness the value of the proposed series might have been obtained, by less than a fourth part of the labour that has been taken above. But it was my intention to show, that the value of a very slowly converging series, of which all the terms are affirmative, may, by the method now described, be computed to ten or twelve places of figures, in the space of a few hours.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106975.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 18,
+    "total-input-tokens": 27626,
+    "total-output-tokens": 11024,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1438,
+        2
+      ],
+      [
+        1438,
+        2880,
+        3
+      ],
+      [
+        2880,
+        4646,
+        4
+      ],
+      [
+        4646,
+        6895,
+        5
+      ],
+      [
+        6895,
+        8900,
+        6
+      ],
+      [
+        8900,
+        10883,
+        7
+      ],
+      [
+        10883,
+        11947,
+        8
+      ],
+      [
+        11947,
+        12566,
+        9
+      ],
+      [
+        12566,
+        13936,
+        10
+      ],
+      [
+        13936,
+        15474,
+        11
+      ],
+      [
+        15474,
+        16612,
+        12
+      ],
+      [
+        16612,
+        17902,
+        13
+      ],
+      [
+        17902,
+        19383,
+        14
+      ],
+      [
+        19383,
+        20953,
+        15
+      ],
+      [
+        20953,
+        22012,
+        16
+      ],
+      [
+        22012,
+        24077,
+        17
+      ],
+      [
+        24077,
+        24686,
+        18
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106975",
+    "title": "A New Method of Computing the Value of a Slowly Converging Series, of Which All the Terms are Affirmative. By the Rev. John Hellins, F. R. S. and Vicar of Potter's-Pury, in Northamptonshire. In a Letter to the Rev. Dr. Maskelyne, F. R. S. and Astronomer Royal",
+    "authors": "John Hellins",
+    "year": 1798,
+    "volume": "88",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 18,
+    "jstor_url": "https://www.jstor.org/stable/106975"
+  }
+}

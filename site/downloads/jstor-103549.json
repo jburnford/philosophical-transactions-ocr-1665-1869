@@ -1,0 +1,79 @@
+{
+  "id": "bd0cfbfa873b514fe5036b004767856ecb54c292",
+  "text": "Lastly, It might have happened that this little Leach came out of the Body of some small Fish into that of the Bonite, which had swallowed it. I made this Observation the 28th of July, 1724, in a Voyage from Batavia to Bengal.\n\nExplanation of the Figure Tab. I. Fig. 2.\n\nA, The Body, in its natural Bigness.\nB, The Belly, through which appear some black Lines, which are its Entrails.\nC, The Protuberance, with which it fastens itself.\nD, The Places where it places the Pump and Protuberance, when it moves along.\nE, The Head, under which is the Pump.\nThe pricked Circles are to mark the Extent of the Motions of its Head and Belly.\n\nIII. Typus Eclipseos Solaris observatae Julii 15, S.N. 4, S.V. Anno 1730. Witebergae Saxonum, à Joh. Frider. Weidler, J.U.D. Mathem. Prof. Ordin. Reg. Soc. Scientiar. Pruss. Sodali.\n\nTempus Ver. antem. Phases Eclipticae.\n\n| H. | Digit. Min. |\n|----|-------------|\n| 1  | Sol oritur post Nubes. |\n| 3 56 | & paulo plus Sol latet post Nubes. |\n\n4 10\n| H. | Dig. | Min. |\n|----|------|------|\n| 4  | 10   | 30   |\n|    | 26   | 0    |\n|    | 33   | 0    |\n|    | 38   | 0    |\n|    | 43   | 30   |\n|    | 47   | 0    |\n|    | 50   | 15   |\n|    | 53   | 30   |\n|    | 57   | 0    |\n|    | 5    | 30   |\n|    | 7    | 0    |\n|    | 10   | 30   |\n|    | 13   | 0    |\n|    | 15   | 30   |\n\nFinis.\n\nANNOTAT.\n\nI. Sol oriens figuram orbis monstrat ellipticam: diameter verticalis duobus digitis sive sexta sui parte contractior apparet horizontali.\n\nII. Memorabilis erat conspectus orbis Lunæ aspero margine praediti, quoad partem quae in occasum spectabat. Distincte enim cernabatur H. 4. M. 3. Vallis 1/2 diam. Lunæ profunda & ejusdem diam. circiter longa. In progressu eclipseos asperitas limbi Lunæ minuebatur, & adhaerente eidem fascia coerulea abscondebatur. Haec enim fascia sensim sole altius surgente dilatabatur. Tum praeter colorem coeruleum etiam puniceus Lunæ proprius incumbens in oculos incurrebat, & circa finem deliquii fasciae coloratae spissitudo trigesimæ\ntrigesimæ sextæ partis diametri Lunaris prope par videbatur.\n\nIII. Praeterea juxta Lunaris disce marginem coloratum perpetua Luminis solaris commotio notata est.\n\nIV. Observatio ejusdem Defectûs Solis habita Patavii, ab J. Poleno.\n\nORIENTE Sole, Nubes tenues Finitorem quasi cingebant: quibus deinde evanescentibus, aer tantillum nebulosus fuit, ut maculae solares haud satis distincte apparerent.\n\n| Digit | Temp. | Ver. |\n|-------|-------|------|\n| Obscur. |       |      |\n| H.    | 1     | 12   |\n| 4     | 16    | 46   |\n| 3½    | 16    | 48   |\n| 3     | 16    | 50   |\n| 2     | 16    | 57   |\n| 1     | 17    | 1    |\n| ½     | 17    | 3    |\n| Finis totius Obscur. | 17 | 6 |\n\nJuly 14, 1730. S. N.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103549.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1130,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        982,
+        2
+      ],
+      [
+        982,
+        2002,
+        3
+      ],
+      [
+        2002,
+        2708,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103549",
+    "title": "Typus Eclipseos Solaris Observatae Julii 15, S. N. 4, S. V. Anno 1730. Witebergae Saxonum, a Joh. Frider. Weidler, J. U. D. Mathem. Prof. Ordin. Reg. Soc. Scientiar. Pruss. Sodali",
+    "authors": "Joh. Frider Weidler",
+    "year": 1729,
+    "volume": "36",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103549"
+  }
+}

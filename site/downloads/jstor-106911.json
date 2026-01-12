@@ -1,0 +1,79 @@
+{
+  "id": "368b106ba2bacb532eac6a12bea282ff26472eca",
+  "text": "XXV. Account of a spontaneous Inflammation. By Isaac Humfries, Esq. In a Letter from Thomas B. Woodman, Esq. to George Atwood, Esq. F. R. S.\n\nRead July 10, 1794.\n\nDEAR SIR,\n\nI inclose you the extract of the letter from Isaac Humfries, Esq. a gentleman resident in India, and employed in the Company's service, which relates to the circumstance of the fire I lately mentioned to you.\n\nAnd am yours, &c.\n\nTHOMAS B. WOODMAN.\n\n\"On going into the arsenal a few mornings since, I found my friend Mr. Golding, the commissary of stores, under the greatest uneasiness in consequence of an accident which had happened the preceding night. A bottle of linseed oil had been left on a table, close to which a chest stood, which contained some coarse cotton cloth; in the course of the night the bottle of oil was thrown down, and broken on the chest (by rats most probably), and part of the oil ran into the chest, and on the cloth: when the chest was opened in the morning,\"\nthe cloth was found in a very strong degree of heat, and partly reduced to tinder, and the wood of the box discoloured, as from burning. After a most minute examination, no appearance of any other inflammable substance could be found, and how the cloth could have been reduced to the condition in which it was found, no one could even conjecture. The idea which occurred, and which made Mr. Golding so uneasy, was that of an attempt to burn the arsenal. Thus matters were when I joined him, and when he told me the story and shewed me the remainder of the cloth. It luckily happened that in some chemical amusements, I had occasion to consult Hopson's book a very few days before, and met with this particular passage, which I read with a determination to pursue the experiment at some future period, but had neglected to do so. The moment I saw the cloth, the similarity of circumstances struck me so forcibly, that I sent for the book and shewed it to Mr. Golding, who agreed with me that it appeared sufficient to account for the accident. However, to convince ourselves, we took a piece of the same kind of cloth, wetted it with linseed oil, and put it into a box, which was locked and carried to his quarters. In about three hours the box began to smoke, when on opening it, the cloth was found exactly in the same condition as that which had given us so much uneasiness in the morning, and on opening the cloth, and admitting the external air, it burst into fire. This was sufficiently convincing; however, to make it more certain, the experiment was three times tried, and with the same success.\"\n\nP. S. The passage Mr. Humfries alludes to is in page 629 of Hopson's Chemistry, where, in a note, you will find mention\nmade of a set of chemical experiments made on inflammable substances by a Mr. Giorgi of the Imperial Academy of Petersburgh, in consequence of the burning of a Russian frigate at Cronstadt in 1781, although no fire had been made on board of her for five days before.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106911.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6318,
+    "total-output-tokens": 817,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        963,
+        2
+      ],
+      [
+        963,
+        2688,
+        3
+      ],
+      [
+        2688,
+        2954,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106911",
+    "title": "Account of a Spontaneous Inflammation. By Isaac Humfries, Esq. In a Letter from Thomas B. Woodman, Esq. to George Atwood, Esq. F. R. S.",
+    "authors": "Isaac Humfries, Thomas B. Woodman",
+    "year": 1794,
+    "volume": "84",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/106911"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "79528c7fb9c1c1db5735fd61399d8f0bedd26913",
+  "text": "X. Extract from the Minutes of the Philosophical Society at Oxford, Feb. 8. 2683. concerning Rusma and Alcanna.\n\nDr. Plot shewed us some of the Turkish Rusma and Alcanna, which he lately received from Mr. Smith, Student of Christ-Church, and Chaplain to the Factory at Smyrna, who writes of the Use of the Rusma in manner following; The black Earth, which seems as if it were burnt, must be beaten in an Iron or Marble Mortar to a fine Powder, and sifted diligently; when you use it take One part of the said Powder, and Two Parts of unslack'd Lime, put these mixed together into a Linen Rag, which infuse in warm Water the space of a Quarter of an Hour, or till it becomes of a Black Colour, then apply to the Place from whence you would take the Hair; as soon as the Hair begins to be loose, the part must be wash'd with warm Water and Soap: Thus far of the Rusma. The Alcanna is the Leaf of a Plant dried and powdered, which when stept a Night in Wine, will die the Nails Red.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102536.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 310,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        979,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102536",
+    "title": "Extract from the Minutes of the Philosophical Society at Oxford, Feb. 8. 2683/4. Concerning Rusma and Alcanna",
+    "authors": null,
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102536"
+  }
+}

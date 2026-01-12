@@ -1,0 +1,59 @@
+{
+  "id": "838395bea93dc17c643217f50beb558209156753",
+  "text": "ERRATA.\n\nPage 536. l. penult: read arrival. p. 552. l. 1. read 24 days. p. 555. l. 8. r. Hippocrates. p. 566. line 28. after fountain add (as in Fig. 2.) p. 569. l. 3. for G and D read C and D. p. 576. l. 3. for 9s. read 95. p. 578. l. 7. read penultimate.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102067.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 196,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        256,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102067",
+    "title": "Errata",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102067"
+  }
+}

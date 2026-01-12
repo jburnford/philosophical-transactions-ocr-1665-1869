@@ -1,0 +1,69 @@
+{
+  "id": "604364c96de5a3c26ebc2d3ae2074d5929e10b52",
+  "text": "XXV. An Account of the Flowing of the Tides in the South Sea, as observed on board His Majesty's Bark the Endeavour, by Lieut. J. Cook, Commander, in a Letter to Nevil Maskelyne, Astronomer Royal, and F. R. S.\n\nMile-end, February 5, 1772.\n\nReverend Sir,\n\nRead May 21, 1772. Here send you the few observations I made on the tides in the South Sea, to which I have only to add, that, from many circumstances and observations, I am fully convinced that the flood comes from the southward, or rather from the S. E. I am,\n\nSIR,\n\nYour most obedient;\n\nhumble servant,\n\nJ. Cook.\n\nNames\n| Names of places where observed | Lat. South | Long. West | New and full Moon |\n|-------------------------------|------------|------------|------------------|\n|                               |            |            | H. M. | F. In. |\n|                               |            |            | High water | Rife & fall |\n| Success Bay in Strait le Maire | -54 45     | 66 4       | 4 30   | 5 6    |\n| Lagoon Island                  | -18 47     | 139 28     | 0 30   |        |\n| Matavai Bay, Otaheita         | -17 29     | 149 30     | 0 30   | 0 11   |\n| Tolaga Bay, East coast of New Zealand | -38 22 | 181 14     | 6 0    | 5 6    |\n| Mercury Bay, N. E. ditto      | -36 48     | 184 4      | 7 30   | 7 0    |\n| River Thames, ditto           | -37 12     | 184 12     | 9 0    | 10 0   |\n| Bay of Islands, ditto         | -35 14     | 185 36     | 8 0    | 7 0    |\n| Queen Charlotte's Sound, Cook's Strait | -41 0 | 184 45     | 9 30   | 7 6    |\n| New Zealand                   |            |            |        |        |\n| Admiralty Bay, in ditto       | -41 45     | 185 12     | 10 0   | 7 0    |\n| Botany Bay, coast of New South-Wales | -34 0 | 208 37     | 8 0    | 4 6    |\n| Bustard Bay, ditto            | -24 30     | 208 20     | 8 0    | 8 0    |\n| Thirsty Sound, ditto          | -25 5      | 210 24     | 11 0   | 16 0   |\n| Endeavour River, ditto        | -15 26     | 214 48     | 9 30   | 9 0    |\n| Endeavour's Strait, which divides New Guinea from New Holland | -10 37 | 218 45     | 1 30   | 11 0   |\n\nXXVI. An",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106056.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 885,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        578,
+        2
+      ],
+      [
+        578,
+        2121,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      true
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106056",
+    "title": "An Account of the Flowing of the Tides in the South Sea, as Observed on Board His Majesty's Bark the Endeavour, by Lieut. J. Cook, Commander, in a Letter to Nevil Maskelyne, Astronomer Royal, and F. R. S.",
+    "authors": "J. Cook",
+    "year": 1772,
+    "volume": "62",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106056"
+  }
+}

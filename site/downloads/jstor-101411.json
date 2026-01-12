@@ -1,0 +1,69 @@
+{
+  "id": "590ccbd82284e2a77019fbda8d2978ed4fde0639",
+  "text": "Extract of a Letter written from Rome, concerning the late Comet, and a New one. Extract of another Letter from Paris, containing some Reflexions on the precedent Roman Letter. An Observation concerning some particulars, further considerable in the Monster, that was mention'd in the first Papers of these Philosophical Transactions. Extract of a Letter written from Venice, concerning the Mines of Mercury in Friuly. Some Observations, made in the ordering of Silk-worms. An Account of Mr. Hooks Micrographia, or the Physiological descriptions of Minute Bodies, made by Magnifying Glasses.\n\nExtract of a Letter, lately written from Rome, touching the late Comet, and a New one.\n\nCannot enough wonder at the strange agreement of the thoughts of that acute French Gentleman, Monsieur Auzout, in the Hypothesis of the Comets motion, with mine; and particularly, at that of the Tables. I have with the same method, whereby I find the motion of this Comet, easily found the Principle of that Author's Ephemerides, which he then thought not fit to declare; and 'tis this, that this Comet moves about the Great Dog, in so great a Circle, that that portion, which is descri-\nbed, is exceeding small in respect of the whole circumference thereof, and hardly distinguishable by us from a straight line.\n\nConcerning the New Comet you mention, I saw it on the 11th of February, about the 24th deg. of Aries, with a Northern latitude of 24 deg. 40 min. The cloudy weather hath not yet permitted me to see it in Andromeda, as others affirm to have done.\n\nExtract of a Letter, written from Paris, containing some Reflections on part of the precedent Roman Letter.\n\nAs to the Hypothesis of Georg. Domenico Cassini touching the motion of the Comet about the Great Dog in a Circle, whose Centre is in a straight line drawn from the Earth thorough the said Star, I believe it will shortly be publish'd in print, as a thought I lighted upon in discoursing with one of my Friends, who did maintain, that it turned about a Centre, because that its Perigee had been over against the Great Dog, as I had noted in my Ephemerides. This particular I did long since declare to many of my acquaintance, whereof some or other will certainly do me that right, as to let the world know it by the Press. I have added an Observation, which I find not, that Signior Cassini hath made, viz. that there was ground to think, that the Comet of 1652. was the same with the present, seeing that, besides the parity of the swiftness of its motion, the Perigee thereof was also over against the Great Dog, if the Observations extant thereof deceive not. But, to make it out, what ground I had for these thoughts, I said, that if they were true, the Comet must needs accomplish its revolution from 12. to 12. years, or thereabout. But, seeing it appears not by History, that a Comet hath been seen at those determinate distances of time, nor that over against the Perigee of all the other Comets, whereof particular observations are recorded, are alwaies found Stars of the first Magnitude, or such others, as are very notable, besides other reasons, that might be alleged, I shall not pursue this speculation; but rather suggest",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101411.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 816,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1168,
+        2
+      ],
+      [
+        1168,
+        3186,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101411",
+    "title": "Extract of a Letter, Lately Written from Rome, Touching the Late Comet, and a New One",
+    "authors": null,
+    "year": 1665,
+    "volume": "1",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101411"
+  }
+}

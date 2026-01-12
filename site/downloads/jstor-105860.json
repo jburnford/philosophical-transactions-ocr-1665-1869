@@ -1,0 +1,69 @@
+{
+  "id": "b3f6378cdb3746a6b01ac2e22003b11006e8b274",
+  "text": "LXI. Observation of the Transit of Venus, on June 3, 1769. In a Letter from John Leeds, Esquire, Surveyor General of the Province of Maryland, to John Bevis, M.D. F.R.S.\n\nTalbot County, in Maryland, June 17, 1769.\n\nSir,\n\nRead Dec. 21, 1769. As you will, I believe, have but few accounts from Maryland of the transit of Venus, I take the freedom to send you this.\n\nHaving no other instruments to observe with but a pocket watch and a reflecting telescope about twenty inches long, of Sterrup's make, on the third instant, when the Sun was on the meridian, I set my watch to 12, and at half an hour past one began to observe, keeping my eye to that part of the Sun's limb a little north of the vertex, where I expected Venus to come on; $2^h\\ 10'\\frac{1}{2}$ I perceived a small dent in the Sun's limb; $2^h\\ 25'\\frac{3}{4}$ Venus was totally within, so that the upper edge of the Sun and Venus seemed to touch. Being no better fitted for this business, I can give you no better account. I observed (and indeed from the calculation I expected it), that the Planet\nPlanet entered deeper into the Sun's disc than that scheme in Lowthorp's Abridgment of the Philosophical Transactions, Vol. I. Plate IV. fig. 155, seems to shew.\n\nMy situation is, lat. $38^\\circ 45'$, under a meridian, as near as I can guess, ten miles east of Annapolis, our chief town or city; and about twelve miles west of Cape Henry, at the mouth of Chesapeake Bay, as laid down by Messieurs Fry and Jefferson in their map of Virginia and Maryland. I do not know that what I have here mentioned can be of any use; but, if it be impertinent, you will be pleased to excuse it.\n\nI am, Sir,\n\nYour very humble servant,\n\nJ. Leeds.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105860.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 551,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1062,
+        2
+      ],
+      [
+        1062,
+        1691,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105860",
+    "title": "Observation of the Transit of Venus, on June 3, 1769. In a Letter from John Leeds, Esquire, Surveyor General of the Province of Maryland, to John Bevis, M. D. F. R. S.",
+    "authors": "John Leeds",
+    "year": 1769,
+    "volume": "59",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/105860"
+  }
+}

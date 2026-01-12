@@ -1,0 +1,59 @@
+{
+  "id": "df61812433bc3098d5215138b8c47007bde8e636",
+  "text": "INDEX.\n\nWootz, experiments on, with diluted sulphuric acid, - 331\n——— experiments with oxide of, - 336\n——— compared with other states of iron, - 343\n\nZ\n\nZone-clock, description of, - 399\n\nFrom the Press of\nW. BULMER & Co.\nCleveland-Row, St. James's.\n\nERRATA.\n\nPART I.\n\nPage 147 line 13, for 25, read 2,5.\n\nPART II.\n\nPage 298 line 2, insert the Rev. after By.\nPage 302 line 2, insert in after units.\nPage 318 line 2 from bottom, for $p \\times n + 1 - m r z^m + 1$, read $p \\times n + 1 - m r z^m + 1$.\nPage 343 line 5 from bottom, for $f, g$, read $e, f$.\nline 3 from bottom, for $3, c$, read $3, b$.\nline 2 from bottom, for $f, g$, read $e, f$.\nPage 344 line 3, for $i, k$, read $b, i$.\nline 4, for $g$, read $f$.\nline last but one, for $g$, read $f$.\nPage 345 line 4, for $i$, read $b$.\nline 5, for $g$, read $b$.\nPage 364 line 6, for rail, read rails.\nPage 372 line 17, dele comma after shape.\nPage 433 line 11, for in which the chains were laid off, read to which the chains were reduced.\nPage 492 line 17, for in the degrees, read in degrees.\nPage 517 line 2, for Direction, read Directions.\nPage 522 line 11, for E and L, read R and W.\nPage 526 line 4, for a degree, read the degree.\nPage 537 line 19, for hopothesis, read hypothesis.\nPage 557 line 8, et alibi, for Gov. Hornsby, read Gov. Hornby.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106964.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 573,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1302,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106964",
+    "title": "Errata",
+    "authors": null,
+    "year": 1795,
+    "volume": "85",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106964"
+  }
+}

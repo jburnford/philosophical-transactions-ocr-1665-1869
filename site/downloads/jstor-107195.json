@@ -1,0 +1,69 @@
+{
+  "id": "60aba4bc00f1a54f848d7ddd9be035538fb5ed7f",
+  "text": "XI. *Account of a Discovery of native Minium.* In a Letter from James Smithson, Esq. F. R. S. to the Right Hon. Sir Joseph Banks, K. B. P. R. S.\n\nRead April 24, 1806.\n\nMY DEAR SIR,\n\nI beg leave to acquaint you with a discovery which I have lately made, as it adds a new, and perhaps it may be thought an interesting, species to the ores of lead. I have found minium native in the earth.\n\nIt is disseminated in small quantity, in the substance of a compact carbonate of zinc.\n\nIts appearance in general is that of a matter in a pulverulent state, but in places it shows to a lens a flaky and crystalline texture.\n\nIts colour is like that of factitious minium, a vivid red with a cast of yellow.\n\nGently heated at the blowpipe it assumes a darker colour, but on cooling it returns to its original red. At a stronger heat it melts to litharge. On the charcoal it reduces to lead.\n\nIn dilute white acid of nitre, it becomes of a coffee colour. On the addition of a little sugar, this brown calx dissolves, and produces a colourless solution.\n\nBy putting it into marine acid with a little leaf gold, the gold is soon intirely dissolved.\n\nWhen it is inclosed in a small bottle with marine acid, and\na little bit of paper tinged by turnsol is fixed to the cork, the paper in a short time entirely loses its blue colour, and becomes white. A strip of common blue paper, whose colouring matter is indigo, placed in the same situation undergoes the same change.\n\nThe very small quantity which I possess of this ore, and the manner in which it is scattered amongst another substance, and blended with it, have not allowed of more qualities being determined, but I apprehend these to be sufficient to establish its nature.\n\nThis native minium seems to be produced by the decay of a galena, which I suspect to be itself a secondary production from the metallization of white carbonate of lead by hepatic gas. This is particularly evident in a specimen of this ore which I mean to send to Mr. Greville, as soon as I can find an opportunity. In one part of it there is a cluster of large crystals. Having broken one of these, it proved to be converted into minium to a considerable thickness, while its centre is still galena.\n\nI am, &c.\n\nJAMES SMITHSON.\n\nCassell in Hesse,\nMarch 2d, 1806.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107195.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 637,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1193,
+        2
+      ],
+      [
+        1193,
+        2274,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107195",
+    "title": "Account of a Discovery of Native Minium",
+    "authors": "James Smithson",
+    "year": 1806,
+    "volume": "96",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107195"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "e2148e2dc8a985871c5e1408df624c81a34c5cb2",
+  "text": "ERRATA in VOL. LIII.\n\nP. 240. lin. 15. from bottom, for M. De la Caille's, read M. De la Caille's Ephemerides.\n\n241. l. 394. from bottom, for ecliptic orbs, read elliptic orbits.\n\n245. l. 9. from bottom, for lines of conjunction, read times of conjunction.\n\n177. for מִתְנָן, read מִתְנָה.\n\n292. l. 8. for any relation, read any peculiar relation.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105574.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 200,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        347,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105574",
+    "title": "Errata",
+    "authors": null,
+    "year": 1764,
+    "volume": "54",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105574"
+  }
+}

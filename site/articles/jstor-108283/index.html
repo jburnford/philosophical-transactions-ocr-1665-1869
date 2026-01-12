@@ -1,0 +1,1453 @@
+---
+layout: default
+title: "On the Solution of Linear Differential Equations"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/138/">Volume 138</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>On the Solution of Linear Differential Equations</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">Charles James Hargreave</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1848</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">138</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">25 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-108283.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-108283.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/108283" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">II. On the Solution of Linear Differential Equations. By Charles James Hargreave, Esq., B.L., F.R.S., Professor of Jurisprudence in University College, London.
+
+Received June 10,—Read June 17, 1847.
+
+I. General Theorems of the Calculus of Operations.
+
+If the operation of differentiation with regard to the independent variable \( x \) be denoted by the symbol \( D \), and if \( \phi(D) \) represent any function of \( D \) composed of integral powers positive or negative, or both positive and negative, it may easily be shown, that
+
+\[
+\phi(D)\{\psi x.u\} = \psi x.\phi(D)u + \psi&#x27;x.\phi&#x27;(D)u + \frac{1}{2}\psi&#x27;&#x27;x.\phi&#x27;&#x27;(D)u + \frac{1}{2.3}\psi&#x27;&#x27;&#x27;x.\phi&#x27;&#x27;&#x27;(D)u + \ldots . (1.)
+\]
+
+and that
+
+\[
+\phi x.\psi(D)u = \psi(D)\{\phi x.u\} - \psi&#x27;(D)\{\phi&#x27;x.u\} + \frac{1}{2}\psi&#x27;&#x27;(D)\{\phi&#x27;&#x27;x.u\} - \frac{1}{2.3}\psi&#x27;&#x27;&#x27;(D)\{\phi&#x27;&#x27;&#x27;x.u\} + \ldots . (2.)
+\]
+
+and these general theorems are expressions of the laws under which the operations of differentiation, direct and inverse, combine with those operations which are denoted by factors, functions of the independent variable.
+
+It will be perceived that the right-hand side of each of these equations is a linear differential expression; and whenever an expression assumes or can be made to assume either of these forms, its solution is determined; for the equations
+
+\[
+\phi(D)\{\psi x.u\} = P \quad \text{and} \quad \phi x.\psi(D)u = P
+\]
+
+are respectively equivalent to
+
+\[
+u = (\psi x)^{-1}\{\phi(D)\}^{-1}P \quad \text{and} \quad u = \{\psi(D)\}^{-1}((\phi x)^{-1}P).
+\]
+
+The formulæ (1.) and (2.) indicate true propositions whenever they are interpretable; that is, whenever \( \phi(D) \) and \( \psi(D) \) are capable of being expressed in integer powers of \( D \). In conformity with recognized principles of reasoning, when the subjects of the process are regarded merely as symbols, we may assume that these propositions are true generally; and we shall therefore not hesitate to pronounce any interpretable result derived from the free use of these theorems true, although the intermediate steps of the process are not capable of a rational interpretation.
+
+Bearing these remarks in mind, it will be seen, by an inspection of the above equations, that if in (1.) \( D \) be written for \( x \), and \(-x\) (or \( t \)) be written for \( D \), we obtain
+
+\[
+\phi t.\psi(D&#x27;)u = \psi(D&#x27;)\{\phi t.u\} - \psi&#x27;(D&#x27;)\{\phi&#x27;t.u\} + \frac{1}{2}\psi&#x27;&#x27;(D&#x27;)\{\phi&#x27;&#x27;t.u\} - \ldots .
+\]
+
+\( D&#x27; \) denoting the operation \( \frac{d}{dt} \). This equation is identical in form with (2.), and is
+therefore true; and the correctness of the result thus derived from this interchange of symbols leads to the inference, that if in any linear differential equation capable of being reduced to the form (1.) or (2.), and its symbolical solution, $x$ be changed into $D$ and $D$ into $-x$, we shall obtain another form accompanied by its symbolical solution. Possibly the form so obtained and its solution may not be interpretable; but in every case in which they are interpretable, they will be found to be true; and if, by any transformation, meanings can be attached to those forms which appear to be uninterpretable, they also will be found to be true.
+
+It is an essential condition to be observed in all operations in which this process is used, that the solutions are to be preserved in a symbolical form; or, in other words, that the operations are not to be performed or suppressed. It would manifestly be a source of error to write zero for $(x^{-1}).0$, if in a subsequent stage $x$ is to be converted into $D$.
+
+The process may be conveniently exemplified by applying it to the general equation of the first order,
+
+$$\varphi x.Du + \psi x.u = X,$$
+
+of which the solution, (the processes being preserved,) is
+
+$$u = \varepsilon^{-\int_{\varphi x}^{x} \{D^{-1}(\varepsilon^{\varphi x}(\varphi x)^{-1}X)\}}, \text{ or } u = \varepsilon^{-x}D^{-1}(\varepsilon^{\varphi x}(\varphi x)^{-1}X).$$
+
+If we make the proposed conversions, we have for the solution of
+
+$$-\varphi(D)\{xu\} + \psi(D)u = X . . . . . . . . . (3.)$$
+
+$$u = -\varepsilon^{-x}D^{-1}\{\varepsilon^{-1}\varphi x \ (\varphi D)^{-1}X\}.$$
+
+But equation (3.), by (1.), is equivalent to
+
+$$x\varphi(D)u + (\varphi&#x27;(D) - \psi(D))u = -X \text{ or } X_0.$$
+
+Let $\varphi&#x27;(D) - \psi(D) = \lambda(D)$, or $\psi(D) = \varphi&#x27;(D) - \lambda D$.
+
+Then
+
+$$\chi(D) = \int_{\varphi(D)}^{\psi(D)} dD = \log \varphi(D) - \int_{\varphi(D)}^{\lambda(D)} dD ;$$
+
+and the solution assumes the form
+
+$$u = (\varphi(D))^{-1} \varepsilon^{-x}D^{-1}\{\varepsilon^{-1}\varphi x \ (\varphi D)^{-1}X_0\} . . . . . . . . . (4.)$$
+
+the equation to be solved being
+
+$$x\varphi(D)u + \lambda(D)u = X_0.$$
+
+This solution was first given by Mr. Boole in the Philosophical Magazine for February 1847. It indicates in a striking manner the interchange of symbols which is here proposed as a general theory; and leads naturally to the inquiry, whether such a conversion may not be extended to other forms.
+
+I am not prepared to assert that the considerations stated above actually establish its validity as a theoretical process; but it possesses considerable practical utility, when applied to a subject in which the value of the result, if true, is in a great measure independent of the validity of the process.
+In this paper I propose to apply the formula (1.), by the aid of Mr. Boole&#x27;s solution above given, to the discovery of soluble forms of linear equations with variable coefficients; I shall also show that by the use of the conversion of symbols, many forms of solution apparently incapable of interpretation may be made to give useful results; and I shall point out a remarkable connection between the solutions thus obtained and the solutions of the same equations in the form of definite integrals.
+
+Amongst the cases of (4.) which are obviously and immediately interpretable, may be mentioned
+
+\[
+\begin{align*}
+x\varphi(D)u + m\varphi&#x27;(D)u &amp;= X \\
+u = \{\varphi(D)\}^{m-1}x^{-1}\{\varphi(D)\}^{-m}X \\
+x\varphi(D)u + m\frac{\varphi(D)}{D}u &amp;= X \\
+u = \{\varphi(D)\}^{-1}D^m\{x^{-1}D^{-m}X\};
+\end{align*}
+\]
+
+but, as will be afterwards shown, most cases are interpretable when $\varphi(D)$ and $\lambda(D)$ assume the ordinary form, and consist only of integral powers.
+
+II. Application of these Theorems to the Solution of Equations.
+
+I proceed then to apply equations (5.), in conjunction with the original theorem (1.), to the solution in finite terms of forms of linear differential equations. Commencing with equations of the second degree, we have, by (1.),
+
+\[
+\begin{align*}
+\{D^2 + bD + c^2\}(\psi x.u) &amp;= \psi x.D^2u + (b\psi x + 2\psi&#x27;x)Du + (c^2\psi x + bx\psi&#x27;x + \psi&#x27;&#x27;x)u \\
+\{2D + b\}(\psi x.u) &amp;= 2\psi x.Du + (b\psi x + 2\psi&#x27;x)u.
+\end{align*}
+\]
+
+Consequently equations included under the form
+
+\[
+x\psi x.D^2u + ((bx + 2m)\psi x + 2x\psi&#x27;x)Du + ((c^2x + bm)\psi x + (bx + 2m)\psi&#x27;x + x\psi&#x27;&#x27;x)u = X,
+\]
+
+or
+
+\[
+D^2u + \left(b + \frac{2m}{x} + \frac{2\psi&#x27;x}{\psi x}\right)Du + \left(c^2 + \frac{bm}{x} + \left(b + \frac{2m}{x}\right)\frac{\psi&#x27;x}{\psi x} + \frac{\psi&#x27;&#x27;x}{\psi x}\right)u = (x\psi x)^{-1}X = P,
+\]
+
+are readily soluble, the solution being
+
+\[
+u = (\psi x)^{-1}(D^2 + bD + c^2)^{m-1}\{x^{-1}(D^2 + bD + c^2)^{-m}X\}
+\]
+
+\[
+= (\psi x)^{-1}(D^2 + bD + c^2)^{m-1}\{x^{-1}(D^2 + bD + c^2)^{-m}(x\psi x.P)\}.
+\]
+
+When X or P is zero, the solution may be reduced to the simpler form,
+
+\[
+u = (\psi x)^{-1}(D^2 + bD + c^2)^{m-1}\{x^{-1}(D^2 + bD + c^2)^{-1}.0\},
+\]
+
+which will be found to be
+
+\[
+u = (\psi x)^{-1}x^{-m}\left\{k_1e^{\alpha x}\left(1 + (m-1)\frac{m}{(\beta - \alpha)x} + (m-1)\frac{m-2}{2} \frac{m(m+1)}{(\beta - \alpha)^2x^2}\right.\right. \\
+\left.+ (m-1)\frac{m-2}{3} \frac{m(m+1)(m+2)}{(\beta - \alpha)^3x^3} + \ldots\right) + k_2e^{\beta x}\left(1 - (m-1)\frac{m}{(\beta - \alpha)x}\right. \\
+\left.+ (m-1)\frac{m-2}{2} \frac{m(m+1)}{(\beta - \alpha)^2x^2} - (m-1)\frac{m-2}{3} \frac{m(m+1)(m+2)}{(\beta - \alpha)^3x^3} + \ldots\right\}
+\]
+
+$\alpha$ and $\beta$ being the roots of $t^2 + bt + c^2 = 0$.
+The solution here given is finite, in those cases only in which \( m \) is an integer positive or negative. When \( m \) is fractional, the undeveloped expression involves fractional operations.
+
+If however \( b = -2c \) so that the roots are equal, the solution assumes the form
+
+\[
+u = (\psi x)^{-1} e^{cx}(kx^{-2m+1} + k&#x27;)
+\]
+
+without any restriction upon the values of \( m \).
+
+The form (7.) deserves particular attention, as it will be found to include the most remarkable of the equations of the second order, which have heretofore been integrated by artificial methods.
+
+Thus, if \( \psi x = e^{cx} \) we have the solution of
+
+\[
+D^2 u + \left( b + 2a + \frac{2m}{x} \right) Du + \left( c^2 + ab + a^2 + \frac{(b + 2a)m}{x} \right) u = P,
+\]
+
+of which the well-known equation
+
+\[
+D^2 u + \frac{2m}{x} Du \pm c^2 u = P .
+\]
+
+(8.)
+
+is a particular case; the solution being
+
+\[
+u = (D^2 \pm c^2)^{m-1} \{ x^{-1} (D^2 \pm c^2)^{-m} (xP) \}.
+\]
+
+If \( P = 0 \), this is reduced, taking the negative sign only, to
+
+\[
+u = (D^2 - c^2)^{m-1} \{ x^{-1} (ke^{cx} + k&#x27;e^{-cx}) \},
+\]
+
+which will be found to be
+
+\[
+u = x^{-m} \left\{ ke^{cx} \left( 1 - (m-1) \frac{m}{2cx} + (m-1) \frac{m(m+1)}{2(2cx)^2} - \ldots \right) \right. \\
++ k&#x27;e^{-cx} \left( 1 + (m-1) \frac{m}{2cx} + (m-1) \frac{m(m+1)}{2(2cx)^2} + \ldots \right) \right\};
+\]
+
+and the solution is expressible in finite terms when \( m \) is a positive or negative integer.
+
+This equation is merely the simplest form of (7.), and is soluble by (5.) without the aid of (1.) ; for in it \( \psi x \) is taken to be unity.
+
+Now let \( \psi x = x^n \); then the solution of
+
+\[
+D^2 u + \left( b + \frac{2(m+n)}{x} \right) Du + \left( c^2 + \frac{b(m+n)}{x} + \frac{n(n-1) + 2mn}{x^2} \right) u = P,
+\]
+
+is
+
+\[
+u = x^{-n} (D^2 + bD + c^2)^{m-1} \{ x^{-1} (D^2 + bD + c^2)^{-m} (x^{n+1}P) \}.
+\]
+
+If in this \( b = 0 \) and \( n = -2m + 1 \), we have another form of solution of the equation
+
+\[
+D^2 u - \frac{2(m-1)}{x} Du + c^2 u = P;
+\]
+
+namely,
+
+\[
+u = x^{2m-1} (D^2 + c^2)^{m-1} \{ x^{-1} (D^2 + c^2)^{-m} (x^{-2m+2}P) \}.
+\]
+
+If \( n = -m \), we have for the solution of
+
+\[
+D^2 u + bDu + \left( c^2 - \frac{m(m-1)}{x^2} \right) u = P
+\]
+
+\[
+u = x^m (D^2 + bD + c^2)^{m-1} \{ x^{-1} (D^2 + bD + c^2)^{-m} (x^{-m+1}P) \};
+\]
+of which the well-known equation
+
+\[ D^2u - \left( \frac{m(m-1)}{x^2} \pm c^2 \right) u = 0 \]
+
+is a case; the solution being
+
+\[ u = x^m (D^2 + c^2)^{m-1} \{ x^{-1}(k \sin cx + k&#x27; \cos cx) \} \]
+\[ u = x^m (D^2 - c^2)^{m-1} \{ x^{-1}(k \varepsilon^{cx} + k&#x27; \varepsilon^{-cx}) \}. \]
+
+The latter form is simply the series before found in the solution of (8.) without the factor \( x^{-m} \). In fact the solution of (8.) is the type of the solution of (7.), when there is no second term \( P \); for if \( u = u_1 \) is a solution of (8.), \( u = (\psi x)^{-1} u_1 \) is the solution of
+
+\[ D^2u + \left( \frac{2m}{x} + \frac{\psi&#x27;}{\psi} \right) Du + \left( c^2 + \frac{2m}{x} \frac{\psi&#x27;}{\psi} + \frac{\psi&#x27;}{\psi} \right) u = 0. \]
+
+The suppression of the terms containing \( b \) does not materially impair the generality of the form; for it is well known, and follows immediately from (1.), that
+
+\[ \varphi \left( D + \frac{b}{2} \right) u = \varepsilon^{-\frac{b}{2}x} \varphi(D) \{ \varepsilon^{\frac{b}{2}x} u \}. \]
+
+I have found the most convenient form of (7.) to be
+
+\[ D^2u + 2QDu + \left( c^2 + Q^2 + Q&#x27; - \frac{m(m+1)}{x^2} \right) u = P \]
+\[ u = x^m \varepsilon^{-q_1} (D^2 + c^2)^{m-1} \{ x^{-1}(D^2 + c^2)^{-m}(x^{-(m-1)} \varepsilon^{q_1} P) \} \] . . . . . . (9.)
+
+which are obtained by making \( Q = \frac{\psi&#x27;}{\psi} + \frac{m}{x} \), \( Q_1 \) being \( \int Q dx \).
+
+Useful applications may be made by eliminating the second term from (9.) by a change of the independent variable from \( x \) to \( t \); \( t \) and \( x \) being connected by the equation \( \frac{dt}{dx} = \varepsilon^{-2q_1} \).
+
+One of these applications leads to an investigation calculated to throw some light upon the limited character of the solution of Riccati&#x27;s equation. If in (9.) \( Q \) be taken \( \frac{n}{x} \), we have as a soluble form,
+
+\[ D^2u + \frac{2n}{x} Du + \left( c^2 + \frac{n(n-1) - m(m-1)}{x^2} \right) u = P; \]
+
+and the elimination of the second term gives, \( \left( \text{making } \frac{dt}{dx} = x^{-2n} \text{ and } z = -(2n-1)t \right) \)
+
+\[ \frac{d^2u}{dz^2} + (2n-1)^{-2} \left( c^2 z^{-4n} + (n(n-1) - m(m-1)) z^{-2} \right) u = R \text{ or } P z^{-4n}. \]
+
+This form, therefore, and the cognate form
+
+\[ \frac{dv}{dz} + v^2 + (2n-1)^{-2} \left( c^2 z^{-4n} + (n(n-1) - m(m-1)) z^{-2} \right) = 0, \]
+
+are soluble, without the restriction that \( n \) must be a whole number; but when this
+equation is made to assume Riccati&#x27;s form by equating \( n \) to \( m \), the restriction on the values to be given to \( n \) takes effect.
+
+If for \( n \) be written \(-n\), we obtain the other form of the equation, viz.
+
+\[
+\frac{dv}{dz} + v^2 + (2n+1)^{-2}(c^2z^{-4n/2n+1} + (n(n+1) - m(m-1))z^{-2}) = 0,
+\]
+
+which is subject to the same restriction, when assimilated to Riccati&#x27;s form.
+
+The solution of
+
+\[
+\frac{d^2u}{dz^2} + \left(\frac{c}{2n-1}\right)^2 z^{-4n/2n-1} u = 0
+\]
+
+is
+
+\[
+(D^2 + c^2)^{n-1}\{x^{-1}(k \sin cx + k&#x27; \cos cx)\}, \quad x \text{ being } z^{-1/2n-1};
+\]
+
+and that of
+
+\[
+\frac{d^2u}{dz^2} + \left(\frac{c}{2n+1}\right)^2 z^{-4n/2n+1} u = 0
+\]
+
+is
+
+\[
+x^{2n+1}(D^2 + c^2)^n\{x^{-1}(k \sin cx + k&#x27; \cos cx)\};
+\]
+
+from which, general expressions for the solution of the two corresponding forms of Riccati&#x27;s equation may be deduced, subject to proper precautions with reference to the arbitrary constants.
+
+If we now, in a similar manner, apply the equations (6.) in conjunction with the original theorem (1.), we shall find, making \( \varphi(D) = D^2 + bD \), that equations of the form
+
+\[
+D^2u + \left(b + \frac{m}{x} + \frac{2\psi_x}{\psi_x}\right)Du + \left(\frac{bm}{x} + \left(b + \frac{m}{x}\right)\frac{\psi&#x27;_x}{\psi_x} + \frac{\psi&#x27;&#x27;_x}{\psi_x}\right)u = P
+\]
+
+are soluble; the solution being
+
+\[
+u = (\psi x)^{-1}(D^2 + bD)^{-1}D^m\left\{\frac{1}{x}D^{-m}(x\psi x.P)\right\};
+\]
+
+which assumes, \( m \) being integer, the form of the finite series,
+
+\[
+u = (\psi x)^{-1}(D + b)^{-1}\left\{\frac{1}{x}D^{-1}(x\psi x.P) - \frac{m-1}{x^2}D^{-2}(x\psi x.P) + 2\frac{(m-1)(m-2)}{x^3}D^{-3}(x\psi x.P) - 2.3\frac{(m-1)(m-2)(m-3)}{x^4}D^{-4}(x\psi x.P) + \ldots\right\}.
+\]
+
+And again, making \( b = 0 \) and \( Q = \frac{\psi_x}{\psi_x} + \frac{m}{2}x \), we have for the integral of
+
+\[
+D^2u + 2QDu + \left(Q^2 + Q&#x27; - \frac{m(m-1)}{x^2}\right)u = P,
+\]
+
+\[
+u = x^{\frac{m}{2}}e^{-Q}D^{-m}\left\{\frac{1}{x}D^{-m}\left(x^{-\frac{m}{2}+1}e^{Q}P\right)\right\}.
+\]
+
+By processes in all respects similar, integrable forms of equations of the third and higher orders may be obtained. For equations of the third order, it will be found
+that the expressions (5.) give, suppressing \( b \),
+
+\[
+D^3u + \left( \frac{3m}{x} + 3\psi&#x27;x \right) D^2u + \left( c + \frac{6m}{x} \psi&#x27;x + 3\psi&#x27;&#x27;x \right) Du + \left( f + c\left( \frac{m}{x} + \psi&#x27;x \right) + \frac{3m}{x} \psi&#x27;&#x27;x + \psi&#x27;&#x27;&#x27;x \right) u = P,
+\]
+
+or
+
+\[
+D^3u + 3QD^2u + \left( c + 3(Q^2 + Q&#x27;) - 3\frac{m(m-1)}{x^2} \right) Du + \left( f + cQ + Q^3 + Q&#x27;&#x27; + 3QQ&#x27; \right)
+\]
+
+\[- 3\frac{m(m-1)}{x^2} Q + 2\frac{(m-1)m(m+1)}{x^3} \right) u = P,
+\]
+
+\[
+u = x^{m\epsilon - q_1}(D^3 + cD + f)^{-1}\left\{ x^{-1}(D^3 + cD + f)^{-m}(x^{-m+1}\epsilon^q_1P) \right\}.
+\]
+
+And the expressions (6.) give
+
+\[
+D^3u + \left( b + \frac{m}{x} + 3\psi&#x27;x \right) D^2u + \left( c + \frac{bm}{x} + 2\left( b + \frac{m}{x} \right)\psi&#x27;x + 3\psi&#x27;&#x27;x \right) Du
+\]
+
+\[
++ \left( c\frac{m}{x} + \left( c + \frac{bm}{x} \right)\psi&#x27;x + \left( b + \frac{m}{x} \right)\psi&#x27;&#x27;x + \psi&#x27;&#x27;&#x27;x \right) u = P
+\]
+
+\[
+u = (\psi x)^{-1}(D^2 + bD + c)^{-1}D^{-m}\left\{ \frac{1}{x}D^{-m}(x\psi x.P) \right\}.
+\]
+
+It is obvious, however, that the generality of the soluble forms becomes less, as the order of the equation rises.
+
+The solutions derived from (5.) and (6.) as particular forms of (4.), have been given in the first instance on account of their peculiar simplicity; but more general forms are derived by the use of (4.).
+
+The expressions (4.) represent the solution of linear equations of any order, in the factors of which no power of \( x \) higher than the first appears.
+
+The general form is
+
+\[
+(a_nx + b_n)D^n u + (a_{n-1}x + b_{n-1})D^{n-1}u + \ldots + (a_1x + b_1)Du + (a_0x + b_0)u = X, \ldots (10.)
+\]
+
+in which
+
+\[
+\psi t = b_n t^n + b_{n-1} t^{n-1} + \ldots + b_1 t + b_0
+\]
+
+\[
+\phi t = a_n t^n + a_{n-1} t^{n-1} + \ldots + a_1 t + a_0
+\]
+
+\[
+\int \frac{\psi t}{\phi t} dt = \int \left( \frac{b_n}{a_n} + \frac{A}{t-\alpha} + \frac{B}{t-\beta} + \frac{C}{t-\gamma} + \ldots \right) dt = \frac{b_n}{a_n} t + \log \left( (t-\alpha)^A(t-\beta)^B(t-\gamma)^C \ldots \right),
+\]
+
+where \( \alpha, \beta, \gamma, \) &amp;c. are the roots of \( \phi t = 0 \); and A, B, C, &amp;c. are found from the rational fraction \( \frac{\psi t}{\phi t} \). Consequently the solution of this equation is
+
+\[
+u = (a_nD^n + a_{n-1}D^{n-1} + \ldots + a_1D + a_0)^{-1}\epsilon^{b_n/a_n}D(D-\alpha)^A(D-\beta)^B \ldots \left( x^{-1}\left\{ \epsilon^{b_n/a_n}D(D-\alpha)^{-A}(D-\beta)^{-B} \ldots X \right\} \right).
+\]
+
+The factor \( \epsilon^{b_n/a_n}D \) denotes that \( x \) is to be changed into \( x - \frac{b_n}{a_n} \); and the factor \( \epsilon^{b_n/a_n}D \) denotes that \( x \) is to be changed into \( x + \frac{b_n}{a_n} \); but these factors may be dispensed with by making \( b_n = 0 \), which does not diminish the generality of the form.
+If, for example, we apply this theorem to the solution of
+
+\[ D^2u + (a_1x + b_1)Du + (a_0x + b_0)u = X; \]
+
+we have the rational fraction
+
+\[ u = \frac{b_1t + b_0}{t^2 + a_1t + a_0}, \quad A = \frac{b_1\alpha + b_0}{\alpha - \beta}, \quad B = \frac{b_1\beta + b_0}{\beta - \alpha} \]
+
+\[ u = (D^2 + a_1D + a_0)^{-1}(D - \alpha)^A(D - \beta)^B(x^{-1}\{(D - \alpha)^{-A}(D - \beta)^{-B}X\}). \]
+
+The performance of the operations requires that \( A, B, \&amp;c. \) shall be whole numbers; and these are the conditions under which the equations are soluble in finite terms.
+
+If we combine with the above general form the formula (1.), we obtain the solution of the equation
+
+\[ (a_nv + b_n)D^n u + \left\{ a_{n-1}x + b_{n-1} + n(a_nv + b_n)\psi&#x27;x \right\} D^{n-1}u \]
+
+\[ + \left\{ a_{n-2}x + b_{n-2} + (n-1)(a_{n-1}x + b_{n-1})\psi&#x27;x + \frac{n-1}{2}(a_nx + b_n)\psi&#x27;&#x27;x \right\} D^{n-2}u \]
+
+\[ + \left\{ a_{n-3}x + b_{n-3} + (n-2)(a_{n-2}x + b_{n-2})\psi&#x27;x + (n-1)\frac{n-2}{2}(a_{n-1}x + b_{n-1})\psi&#x27;&#x27;x + \frac{n-1}{2}\frac{n-2}{3}(a_nx + b_n)\psi&#x27;&#x27;&#x27;x \right\} D^{n-3}u \]
+
+\[ + \ldots = X \]
+
+in the form
+
+\[ u = (\psi x)^{-1}(a_nD^n + a_{n-1}D^{n-1} + \ldots)^{-1}g_{a_n}D(D - \alpha)^A(D - \beta)^B \ldots \left( x^{-1}\{\epsilon^{-\frac{b_n}{a_n}D}(D - \alpha)^{-A}(D - \beta)^{-B} \ldots (\psi x.X)\} \right). \]
+
+The important limitation, that \( A, B, \&amp;c. \) must be whole numbers in order that the operations may be practicable, must not be overlooked; and with reference to this point, the attention of the reader is called to the solutions by means of definite integrals given in a subsequent part of this paper.
+
+If two or more of the roots \( \alpha, \beta, \&amp;c. \) are equal, we obtain amongst the operations expressions of the form \( \epsilon^{\pm c(D - \alpha)^m} \), which do not appear to be interpretable in finite terms; but the corresponding solution in the form of a definite integral will apply.
+
+III. Solution of Equations by interchange of Symbols alone.
+
+It has been already observed, that the operation or set of operations denoted by any function of \( D \) is not of itself intelligible, unless the function is capable of expansion in integer powers of \( D \), so that fractional operations may not be introduced; but if, by means of the transformation above indicated, the function of \( D \) becomes in result changed into a function of \( x \), such a result is intelligible, and may be relied on as true, although the expressions introduced during the process may be purely symbolical and incapable of interpretation.
+
+Thus
+
+\[ u = (D^2 - c^2)^{m-1}\{x^{-1}(D^2 - c^2)^{-m}X\}, \]
+
+regarded as the solution of
+
+\[ x(D^2 - c^2)u + 2mDu = X, \]
+is not interpretable in finite terms when \( m \) is fractional. Yet
+
+\[
+u = (x^2 - c^2)^{m-1}D^{-1}(x^2 - c^2)^{-m}X,
+\]
+
+regarded as the solution of
+
+\[
+D\{(x^2 - c^2)u\} - 2mxu = X, \text{ or } (x^2 - c^2)Du - 2(m-1)xu = X,
+\]
+
+(these forms being derived from the others by changing \( D \) into \( x \) and \( x \) into \(-D\)), is interpretable for all values of \( m \), and is correct.
+
+Again, it has already appeared that the solution of
+
+\[
+D^2u + \frac{2n}{x}Du + \left(c^2 + \frac{n(n-1) - m(m-1)}{x^2}\right)u = P,
+\]
+
+is
+
+\[
+u = x^{m-n}(D^2 + c^2)^{m-1}\{x^{-1}(D^2 + c^2)^{-m}(x^{n-m+1}P)\};
+\]
+
+which is not interpretable in finite terms when \( m \) is fractional.
+
+But if this equation be multiplied by \( x^2 \) and transformed as before, we get
+
+\[
+(x^2 + c^2)D^2u - 2(n-2)xDu + ((n-1)(n-2) - m(m-1))u = D^2P = R \text{ suppose};
+\]
+
+and we infer the solution to be
+
+\[
+u = D^{m-n}\{(x^2 + c^2)^{m-1}D^{-1}((x^2 + c^2)^{-m}D^{n-m+1}R)\};
+\]
+
+which is interpretable though \( m \) be fractional, provided \( m-n \) be an integer; or the equation
+
+\[
+(x^2 + c^2)D^2u - 2axDu + b(2a-b+1)u = R
+\]
+
+is soluble when \( b \) is a whole number; the solution being
+
+\[
+u = D^{-(b+1)}\{(x^2 + c^2)^{a-b}D^{-1}((x^2 + c^2)^{-(a-b+1)}D^bR)\};
+\]
+
+of which a remarkable case is, \( (a=0) \)
+
+\[
+D^2u - \frac{b(b-1)}{x^2 + c^2}u = \frac{R}{x^2 + c^2} = X \text{ (suppose)}
+\]
+
+\[
+u = D^{-(b+1)}\{(x^2 + c^2)^{-b}D^{-1}((x^2 + c^2)^{b-1}D^b((x^2 + c^2)X))\}.
+\]
+
+In applying these forms great caution must be used with reference to the introduction of constants. The processes indicated in the value of \( u \) show \( b+2 \) constants; which renders it necessary to determine \( b \) of them in terms of the other two by reference to the original equation.
+
+Thus, suppose we require the integrals of the equations
+
+\[
+(1+x^2)D^2u - 2u = x,
+\]
+
+and
+
+\[
+(1+x^2)D^2u - 2u = a.
+\]
+
+The form of both solutions is the same, viz.
+
+\[
+u = kD^{-3}\frac{1}{(x^2 + 1)^2};
+\]
+whence we have
+
+\[ D^2u = k \left( \frac{1}{2} \frac{x}{1+x^2} + \frac{1}{2} \tan^{-1} x \right) + k&#x27; \]
+
+\[ Du = \frac{k}{2} x \tan^{-1} x + k&#x27;x + k&#x27;&#x27; \]
+
+\[ u = \frac{k}{2} \left( \frac{1}{2} (1+x^2) \tan^{-1} x - \frac{1}{2} x \right) + \frac{k&#x27;x^2}{2} + k&#x27;&#x27;x + k&#x27;&#x27;&#x27; \]
+
+Verifying the first equation by these values, we find
+
+\[ k&#x27;&#x27; = \frac{k-1}{2} \quad \text{and} \quad k&#x27;&#x27;&#x27; = \frac{k&#x27;}{2}; \]
+
+the solution, therefore, is
+
+\[ u = \frac{k}{4} ((1+x^2) \tan^{-1} x + x) - \frac{x}{2} + \frac{k&#x27;}{2} (1+x^2). \]
+
+Verifying the second equation, we find \( k&#x27;&#x27; = \frac{k}{2} \) and \( k&#x27;&#x27;&#x27; = \frac{k&#x27;-a}{2} \), and the solution is
+
+\[ u = \frac{k}{4} ((1+x^2) \tan^{-1} x + x) + \frac{k&#x27;}{2} (1+x^2) - \frac{a}{2}. \]
+
+If the general form of the above differential equation be divided by \( x^2+c^2 \), and the second term be eliminated, by changing the independent variable from \( x \) to \( t \), by means of the assumed equation \( \frac{dt}{dx} = (x^2+c^2)^a \), we obtain
+
+\[ \frac{d^2u}{dt^2} + b(2a-b+1)(x^2+c^2)^{(2a+1)}u = R(x^2+c^2)^{(2a+1)} = R_0 \text{ suppose.} \]
+
+In order that the factor of \( u \) may be expressed in terms of the new variable, we must solve \( \frac{dt}{dx} = (x^2+c^2)^a \), and then find \( x^2+c^2 \) in terms of \( t \).
+
+For most values of \( a \), the equation between \( x \) and \( t \) is transcendental; but particular soluble cases may be found.
+
+Thus, if \( a = -1 \), then \( x = c \tan ct \), \( x^2+c^2 = \frac{c^2}{\cos^2 ct} \), and the equation becomes
+
+\[ \frac{d^2u}{dt^2} - b(b+1)\cos^2 ct u = R_0; \]
+
+whose solution, therefore, is
+
+\[ u = D^{-(b+1)} \left\{ (x^2+c^2)^{-(b+1)} D^{-1} \left\{ (x^2+c^2)^b D^b ((x^2+c^2)^{-1} R_0) \right\} \right\}; \]
+
+which becomes, when \( R_0 = 0 \),
+
+\[ u = kD^{-(b+1)} (x^2+c^2)^{-(b+1)}, \quad x \text{ being } c \tan ct. \]
+
+The original equation is not altered by writing \(-b\) for \(b+1\); so that a particular solution may be readily deduced from the simple form
+
+\[ u = kD^b (x^2+c^2)^b. \]
+
+This equation will reappear under another form in the sequel.
+Again, if \(a = -\frac{3}{2}\), then \(c^2 + x^2 = \frac{c^2}{1 - c^4 t^2}\); and the equation becomes
+
+\[
+\frac{d^2 u}{dt^2} - b(b+2)\frac{c^4}{(1-c^4 t^2)^2}u = R_0;
+\]
+
+whose solution, therefore, is
+
+\[
+u = D^{-(b+1)}\left\{(x^2 + c^2)^{-\frac{b+2}{2}}D^{-1}\{(x^2 + c^2)^{\frac{b+2}{2}}D^b(x^2 + c^2)^{-2}R_0\}\right\}.
+\]
+
+Thus the solution of
+
+\[
+\frac{d^2 u}{dt^2} = \frac{3}{(1-t^2)^2}u
+\]
+
+is
+
+\[
+u = k\left(\frac{1+t^2+k&#x27;t}{(1-t^2)^{\frac{1}{2}}}\right).
+\]
+
+The principle illustrated in this section may be further exemplified and usefully applied, by attempting the solution of the general equation of the second order,
+
+\[
+\varphi(D)D^2u + \psi(D)Du + \chi(D)u = P.
+\]
+
+By the interchange of symbols, we have
+
+\[
+\varphi(D)(x^2u) - \psi(D)(xu) + \chi(D)u = P;
+\]
+
+or
+
+\[
+x^2\varphi(D)u + 2x\varphi&#x27;(D)u + \varphi&#x27;&#x27;(D)u - x\psi(D)u - \psi&#x27;(D)u + \chi(D)u = P.
+\]
+
+This equation is soluble if \(\chi(D)u = \{\psi&#x27;(D) - \varphi&#x27;&#x27;(D)\}u\); for it then assumes the form
+
+\[
+x\varphi(D)u + (2\varphi&#x27;(D) - \psi(D))u = x^{-1}P;
+\]
+
+the solution of which, by (4.), is
+
+\[
+u = \varphi(D)x^{-1}\int_{\varphi(D)}^{x^{-1}}\left\{x^{-1}(\varphi(D))^{-2}\int_{\varphi(D)}^{x^{-1}}\left\{x^{-1}P\right\}\right\};
+\]
+
+and, by restoring the symbols, we get for the solution of
+
+\[
+\varphi x.D^2u + \psi x.Du + (\psi&#x27;x - \varphi&#x27;&#x27;x)u = P,
+\]
+
+\[
+u = \varphi x.x^{-1}\int_{\varphi x}^{x^{-1}}D^{-1}\left\{(\varphi x)^{-2}\int_{\varphi x}^{x^{-1}}D^{-1}(P)\right\},
+\]
+
+the correctness of which may be ascertained by verification.
+
+If \(\psi x = (n+1)\varphi&#x27;x\), we have for the solution of
+
+\[
+\varphi x.D^2u + (n+1)\varphi&#x27;x.Du + n\varphi&#x27;&#x27;x.u = P,
+\]
+
+\[
+u = (\varphi x)^{-n}\int(\varphi x)^{n-1}\int Pdx dx.
+\]
+
+If \(\psi x\) be made equal to \(Q\varphi x\), and \(P\) to \(R\varphi x\), we get for the solution of
+
+\[
+D^2u + QDu + \left(Q&#x27; + Q\frac{\varphi&#x27;x}{\varphi x} - \frac{\varphi&#x27;&#x27;x}{\varphi x}\right)u = R,
+\]
+
+\[
+u = \varphi x.x^{-1}D^{-1}\left\{(\varphi x)^{-2}Q\int D^{-1}(R\varphi x)\right\}.
+\]
+And if $\phi x$ be made equal to $\varepsilon^{T_{dx}}$ or $\varepsilon^{T_1}$, we have for the solution of
+
+$$D^2u + QDu + (Q&#x27; + QT - T^2 - T&#x27;)u = R,$$
+
+$$u = \varepsilon^{T_1} D^{-1}\{\varepsilon^{Q_1 - 2T_1} D^{-1}(R\varepsilon^{T_1})\},$$
+
+a form easily arrived at by ordinary processes.
+
+IV. Application to Partial Differential Equations.
+
+Most of the soluble forms above deduced are readily convertible into analogous forms of partial differential equations, by substituting for the constants any function of $D&#x27;$, where $D&#x27;$ denotes differentiation with regard to a new independent variable.
+
+Thus if in (9.) for $Q$ we write $f(x, D&#x27;)$ and for $c$ we write $\sqrt{-1}kD&#x27;$, we have the symbolical solution of
+
+$$\frac{d^2u}{dx^2} + 2f(x, \frac{d}{dy}) \frac{du}{dx} - k^2 \frac{d^2u}{dy^2} + \left(f^2 + f&#x27; - \frac{m(m-1)}{x^2}\right)u = P,$$
+
+where $P$ may be a function of $x$ and $y$.
+
+For example, if $f(x, \frac{d}{dy})$ be of the form $\frac{n}{x} \frac{d}{dy}$, the equation becomes
+
+$$\frac{d^2u}{dx^2} + \frac{2n}{x} \frac{d^2u}{dxdy} + \left(\frac{n^2}{x^2} - k^2\right) \frac{d^2u}{dy^2} - \frac{n}{x^3} \frac{du}{dy} - \frac{m(m-1)}{x^2} u = \psi(x, y);$$
+
+of which the solution is
+
+$$u = x^n \varepsilon^{-n \log x} D&#x27;(D^2 - k^2 D&#x27;^2)^{-1} \{x^{-1}(D^2 - k^2 D&#x27;^2)^{-m} \varepsilon^{n \log x} D&#x27;\psi(x, y)\}.$$
+
+Now $\varepsilon^{n \log x} D&#x27;\psi(x, y) = \psi(x, y + n \log x)$, and $\varepsilon^{-n \log x} D&#x27;\psi(x, y) = \psi(x, y - n \log x)$.
+
+The question, therefore, is reduced to the solution of
+
+$$\frac{d^2u}{dx^2} - k^2 \frac{d^2u}{dy^2} = \Psi(x, y),$$
+
+or
+
+$$D^2u - a^2u = \Psi(x, y),$$ writing $a$ for $kD&#x27;$;
+
+whence
+
+$$u = \frac{1}{2a} \varepsilon^{ax} D^{-1} \varepsilon^{-ax} \Psi(x, y) - \frac{1}{2a} \varepsilon^{ax} D^{-1} \varepsilon^{-ax} \Psi(x, y),$$
+
+$$= \frac{1}{2kD&#x27;} \int \Psi(x, y - kx) dx - \frac{1}{2kD&#x27;} \int \Psi(x, y + kx) dx,$$
+
+which is
+
+$$\frac{1}{2k} (\Psi_1(x, y) + \Psi_2(x, y)) + \lambda(y + kx) + \mu(y - kx),$$
+
+where $\lambda$ and $\mu$ are arbitrary, and $\Psi_1$ and $\Psi_2$ are derived from $\Psi$ as follows; for $y$ in $\Psi$ write $y - kx$, integrate to $x$; change $y$ into $y + kx$, and integrate to $y$; this gives $\Psi_1$, from which $\Psi_2$ is formed by changing the sign of $k$.
+
+If $f(x, \frac{d}{dy})$ be of the form $\lambda x \frac{d}{dy} + \mu x$, the equation becomes
+
+$$\frac{d^2u}{dx^2} + 2\lambda x \frac{d^2u}{dxdy} + ((\lambda x)^2 - k^2) \frac{d^2u}{dy^2} + 2\mu x \frac{du}{dx} + (\lambda&#x27; x + 2\lambda x \mu x) \frac{du}{dy} + \left((\mu x)^2 + \mu&#x27; x - \frac{m(m-1)}{x^2}\right) u = \psi(x, y);$$
+and the solution is
+
+\[ u = x^m \varepsilon^{-\mu_x} \varepsilon^{-\lambda_1 x + kx} (D^2 - k^2 D&#x27;^2)^{m-1} \{ x^{-1}(D^2 - k^2 D&#x27;^2)^{-m} \{ x^{-(m-1)} \varepsilon^{\mu_x} \psi(x, y + \lambda_1 x) \} \}, \]
+
+where \( \varepsilon^{-\lambda_1 x + kx} \psi(x, y) \) means \( \psi(x, y - \lambda_1 x) \).
+
+Transforming this equation to new independent valuables \( p \) and \( q \), by the equations
+
+\[ p = y - \lambda_1 x + kx, \quad -q = y - \lambda_1 x - kx, \]
+
+or
+
+\[ x = \frac{p + q}{2k}, \quad y = \lambda_1 \left( \frac{p + q}{2k} \right) + \frac{p - q}{2}; \]
+
+we have, as a soluble form,
+
+\[ \frac{d^2u}{dpdq} + \frac{1}{2k} \left( \frac{p + q}{2k} \right) \cdot \left( \frac{du}{dp} + \frac{du}{dq} \right) + \left( \frac{1}{4k^2} \left( \mu^2 + 2k \left( \frac{du}{dp} + \frac{du}{dq} \right) \right) - \frac{m(m-1)}{(p + q)^2} \right) u = \varphi(p, q), \]
+
+the function \( \lambda \) disappearing in the process.
+
+If \( \mu x \) be of the form \( \frac{a}{x} \), we obtain a well-known equation, solved by Euler in a series when there is no second term,
+
+\[ \frac{d^2u}{dpdq} + \frac{a}{p + q} \left( \frac{du}{dp} + \frac{du}{dq} \right) + \frac{a(a-1) - m(m-1)}{(p + q)^2} u = \varphi(p, q), \]
+
+which is therefore soluble; the solution being
+
+\[ x^{m-a}(D^2 - D&#x27;^2)^{m-1} \{ x^{-1}(D^2 - D&#x27;^2)^{-m} \{ x^{a-m+1} \varphi_1(x, y) \} \}, \]
+
+where \( \varphi_1 \) is determined from \( \varphi \) by the equations
+
+\[ p = x + y \quad \text{and} \quad q = x - y. \]
+
+If \( a = 0 \), we have the solution of
+
+\[ \frac{d^2u}{dpdq} - \frac{m(m-1)}{(p + q)^2} u = \varphi(p, q); \]
+
+and if \( a = m \), we have the solution of
+
+\[ \frac{d^2u}{dpdq} + \frac{m}{p + q} \left( \frac{du}{dp} + \frac{du}{dq} \right) = \varphi(p, q); \]
+
+from which the solution of
+
+\[ \frac{d^2u}{ds^2} = c^2 s^{-\frac{4m}{2m-1}} \frac{d^2u}{dt^2} \]
+
+may be obtained by making
+
+\[ \varphi = 0 \]
+\[ s = (p + q)^{-2m+1} \]
+\[ t = \frac{2m-1}{c}(p - q). \]
+
+Returning to the general form and making \( \lambda x = 0 \), we have for the solution of
+
+\[ \frac{d^2u}{dx^2} - k^2 \frac{d^2u}{dy^2} + 2\mu x \frac{du}{dx} + \left( \mu^2 + \mu&#x27; - \frac{m(m-1)}{x^2} \right) u = \psi(x, y) \]
+\[ u = x^m \varepsilon^{-\mu_x} (D^2 - k^2 D&#x27;^2)^{m-1} \{ x^{-1}(D^2 - k^2 D&#x27;^2)^{-m} \{ x^{-(m-1)} \varepsilon^{\mu_x} \psi(x, y) \} \}. \]
+Again, equating the factors of \( \frac{du}{dy} \) and \( u \) to zero, we have \( \mu x = \frac{m}{x} \) and \( \lambda x = x^{-2m} \); therefore
+
+\[
+\frac{d^2u}{dx^2} + 2x^{-2m} \frac{d^2u}{dxdy} + (x^{-4m} - k^2) \frac{d^2u}{dy^2} + \frac{2m}{x} \frac{du}{dx} = \psi(x, y)
+\]
+
+is soluble; and if the variables be changed by the equations
+
+\[
+p = kx + \frac{1}{2m-1} x^{-(2m-1)} + y \\
+q = kx - \frac{1}{2m-1} x^{-(2m-1)} - y,
+\]
+
+the form
+
+\[
+\frac{d^2u}{dpdq} + \frac{k}{2m} \left( \frac{p+q}{2k} \right)^{4m-1} \left( \frac{du}{dp} + \frac{du}{dq} \right) = \phi(p, q)
+\]
+
+becomes soluble.
+
+By a process of a similar nature applied to (10.), it will be found that the form
+
+\[
+(a_n x + b_n) \frac{d^n u}{dx^n} + (a_{n-1} x + b_{n-1}) \frac{d^{n-1} u}{dx^{n-1} dy} + \ldots + (a_1 x + b_1) \frac{d u}{dx dy^{n-1}} + (a_0 x + b_0) \frac{d u}{dy^n} = f(x, y)
+\]
+
+has for its solution
+
+\[
+u = (a_n D^n + a_{n-1} D^{n-1} D&#x27; + \ldots + a_1 D D&#x27;^{n-1} + a_0 D&#x27;^n)^{-1} e^{b_n D} (D - \alpha D&#x27;)^\Lambda (D - \beta D&#x27;)^B \ldots \\
+x^{-1} \{ \{ e^{-b_n D} (D - \alpha D&#x27;)^{-\Lambda} (D - \beta D&#x27;)^{-B} \ldots f(x, y) \} \}.
+\]
+
+V. Connection with Definite Integrals.
+
+It is well known that many of the differential equations integrated by the above processes, and whose integrals are in some cases capable of an expression merely symbolical by reason of the number of operations to be performed being fractional, may be integrated generally, when there is no second term, by means of definite integrals.
+
+Now with reference to most of the equations of this description here integrated, I have observed that the symbolical form above given is capable of being instantly (and, as it were, mechanically) converted into a definite integral of the form
+
+\[
+u = \int_a^b \varphi z \cdot e^{zx} dz,
+\]
+
+the function \( \varphi z \) being typified in the symbolical solution by the form of the operations preceding the factor \( x^{-1} \).
+
+To explain this, let us take the equation
+
+\[
+D^2 u + \frac{2m}{x} Du - c^2 u = 0;
+\]
+
+its symbolical solution is
+
+\[
+u = k(D^2 - c^2)^{m-1} \{ x^{-1} (D^2 - c^2)^{-m} 0 \};
+\]
+and the assertion is that a solution of the equation in the form of a definite integral is obtained by writing for $\varphi z$, $k(z^2 - c^2)^{m-1}$ and selecting the limits properly; in fact, it is known that
+
+$$u = k \int_{-c}^{c} (z^2 - c^2)^{m-1} e^{zx} dz$$
+
+is a partial solution; and as it is a known theorem, that if $u = u_1$ solve
+
+$$D^2 u + \frac{n+1}{x} Du - c^2 u = 0,$$
+
+it is also solved by $u = x^n u_1$ if for $n$ be written $-n$, we have for the complete solution
+
+$$u = k \int_{-c}^{c} (z^2 - c^2)^{m-1} e^{zx} dz + k&#x27; x^{-2m+1} \int_{-c}^{c} (z^2 - c^2)^{-m} e^{zx} dz$$
+
+$$= k \int_{-1}^{1} (z^2 - 1)^{m-1} e^{zx} dz + k&#x27; x^{-2m+1} \int_{-1}^{1} (z^2 - 1)^{-m} e^{zx} dz.$$
+
+If for $x$ be written $((1-2m)t)^{-\frac{1}{2m-1}}$ we obtain the solution of $\frac{d^2 u}{dt^2} - a^2 t^n u = 0$, $m$ and $c$ being properly taken in terms of $a$ and $n$.
+
+In like manner, if we apply this mode of conversion to the more general form
+
+$$D^2 u + 2QDu + \left(Q^2 + Q&#x27; - c^2 - \frac{m(m-1)}{x^2}\right) u = 0,$$
+
+of which the solution expressed symbolically is
+
+$$u = x^m e^{-Q_i} (D^2 - c^2)^{m-1} \{x^{-1} (D^2 - c^2)^{-1} 0\},$$
+
+the definite integral ought to be
+
+$$u = k x^m e^{-Q_i} \int_{-1}^{1} (z^2 - 1)^{m-1} e^{zx} dz + k&#x27; x^{-m+1} e^{-Q_i} \int_{-1}^{1} (z^2 - 1)^{-m} e^{zx} dz,$$
+
+and this is in fact the solution.
+
+The limits must be determined by verifying the equation and assigning them accordingly; the verification at the same time establishing in the particular cases the correctness of the results arrived at by the substitution. Thus, if we take the general form
+
+$$x \varphi(D) u + \psi(D) u = 0,$$
+
+and its symbolical solution
+
+$$u = \{\varphi(D)\}^{-1} (\chi(D), \psi^{-1} e^{-\chi(D)} 0),$$
+
+where
+
+$$\chi t = \int \frac{\psi_t}{\varphi_t} dt,$$
+
+the conversion here indicated gives
+
+$$u = k f(\varphi z)^{-1} e^{\chi z} e^{zx} dz.$$
+To verify this, we have
+
+\[ \varphi(D)u = \int \varphi z \varepsilon^{xz} dz \]
+
+\[ \psi(D)u = \int \psi z \varepsilon^{xz} dz = \int \varepsilon^{xz} d(\varepsilon^{xz}) = \varepsilon^{xz} \varepsilon^{xz} - x \int \varepsilon^{xz} \varepsilon^{xz} dz, \]
+
+and the equation is verified, if \( \varepsilon^{xz} \varepsilon^{xz} \) vanishes between the limits. Whether the limits can be so taken depends upon the form of \( \chi z \).
+
+Apply this to
+
+\[ xD^n u + u = 0. \]
+
+Here
+
+\[ \varphi z = z^n, \quad \psi z = 1, \]
+
+and
+
+\[ \chi z = \frac{z^{n+1}}{-n+1} \]
+
+and
+
+\[ u = k \int z^{-n+1} \varepsilon^{xz} dz. \]
+
+The limits 0 and \( -\infty \) cause \( \varepsilon^{xz} \varepsilon^{-n+1} \) to vanish and satisfy the equation. So that
+
+\[ u = k \int_{-\infty}^0 z^{-n+1} \varepsilon^{xz} dz \]
+
+is a partial solution; which may be completed by writing for \( z, \alpha z, \beta z, \&amp;c. \) where 1, \( \alpha, \beta, \&amp;c. \) are the roots \( t^n = 1. \)
+
+Again, if we apply the above solution to
+
+\[ D^n u - xu = 0, \]
+
+we have
+
+\[ \varphi z = -1, \quad \psi z = z^n, \quad \chi z = -\frac{z^{n+1}}{n+1} \]
+
+and
+
+\[ u = k \int z^{-n+1} \varepsilon^{xz} dz. \]
+
+Here, there do not appear to be any limits which will make \( \varepsilon^{-n+1} \varepsilon^{xz} \) vanish; but if we take for the limits 0 and \( \infty \) we have \( D^n u - xu = k. \) This last equation is also solved by
+
+\[ u = ka \int_0^\infty z^{-n+1} \varepsilon^{xz} dz, \quad \alpha \text{ being a root of } t^{n+1} = 1. \]
+
+Therefore the original equation is solved by
+
+\[ u = k \int_0^\infty z^{-n+1} (\varepsilon^{xz} - \alpha \varepsilon^{xz}) dz, \]
+
+which may be completed by the use of the other roots*.
+
+Let us apply this method to the solution of
+
+\[ (a_n x + b_n) D^n u + (a_{n-1} x + b_{n-1}) D^{n-1} u + \cdots + (a_1 x + b_1) Du + (a_0 x + b_0) u = 0, \]
+
+and we have at once
+
+\[ u = k f(a_n z^n + a_{n-1} z^{n-1} + \cdots + a_1 z + a_0)^{-1}(z - \alpha)^A(z - \beta)^B \cdots \varepsilon^{xz} dz, \]
+
+where
+
+\[ \frac{b_n z^n + b_{n-1} z^{n-1} + \cdots}{a_n z^n + a_{n-1} z^{n-1} + \cdots} = \frac{b_n z^n + b_{n-1} z^{n-1} + \cdots}{a_n(z - \alpha)(z - \beta)} \cdots = \frac{b_n}{a_n} + \frac{A}{z - \alpha} + \frac{B}{z - \beta} + \cdots. \]
+
+* See Moigno&#x27;s Calcul. vol. ii. p. 644.
+To verify this and find the limits, we have
+
+\[ x(a_n D^n u + a_{n-1} D^{n-1} u + \ldots + a_1 Du + a_0 u) = kx \int (z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} dz = k \int (z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} dz \]
+
+\[ = k\varepsilon^{b_n z}(z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} - k \int (z - \alpha)^A(z - \beta)^B \ldots \left( \frac{b_n}{a_n} + \frac{A}{z - \alpha} + \frac{B}{z - \beta} + \ldots \right) \varepsilon^{b_n z} dz \]
+
+\[ = k\varepsilon^{b_n z}(z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} - k \int (b_n z^n + b_{n-1} z^{n-1} + \ldots)(a_n z^n + a_{n-1} z^{n-1} + \ldots)^{-1}(z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} dz \]
+
+\[ = -(b_n D^n u + b_{n-1} D^{n-1} u + \ldots + b_1 Du + b_0), \]
+
+if \( k\varepsilon^{b_n z}(z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} \) can be made to vanish between the limits; and this condition is satisfied if \(-\infty\) be taken as the lower limit, and \(\alpha, \beta, \&amp;c.\) be taken successively as the upper limit, whence the complete solution.
+
+If the expression \(a_n z^n + \ldots\) has \(m\) roots equal to \(\alpha\), the form of the solution will be modified. If in such case the rational fraction
+
+\[ \frac{b_n z^n + \ldots}{a_n z^n + \ldots} = \frac{b_n}{a_n} + \frac{A_m}{(z - \alpha)^m} + \frac{A_{m-1}}{(z - \alpha)^{m-1}} + \ldots + \frac{A_1}{z - \alpha} + \frac{B}{z - \beta} + \ldots \]
+
+the solution becomes
+
+\[ u = k \int (a_n z^n + \ldots)^{-1} \varepsilon^{-\frac{A_m}{m-1}(z - \alpha)^{m-1} - \frac{A_{m-1}}{m-2}(z - \alpha)^{m-2} - \ldots}(z - \alpha)^A(z - \beta)^B \ldots \varepsilon^{b_n z} dz \]
+
+between the limits \(-\infty\) and \(\alpha, \beta, \&amp;c.\). This solution is incomplete; but it may be completed by using instead of \(a_n z^n + \ldots\) its first, second, \(\ldots(m-1)\)th differential coefficients.
+
+There can be no doubt that this remarkable connection between the symbolical solution and the solution by definite integrals is not merely accidental, but is founded upon a similarity in the processes by which they would be respectively arrived at in a general system of solution.
+
+The following considerations are offered as in some measure explanatory of the connection above adverted to. The equation to be solved is of the form
+
+\[ x\varphi(D)u + \psi(D)u = 0. \]
+
+Now if \(u = k \int_a^b wz \varepsilon^{xz} dz\), we have
+
+\[ \varphi(D)u = k \int_a^b wz \varphi z \varepsilon^{xz} dz = \frac{k}{x} \varepsilon^{xz} wz \varphi z - \frac{k}{x} \int \frac{d(wz \varphi z)}{dz} \varepsilon^{xz} dz \]
+
+between the limits. And
+
+\[ \psi(D)u = k \int_a^b wz \psi z \varepsilon^{xz} dz. \]
+
+If the limits be \(-\infty\) and a root of \(\varphi z = 0\), the equation is verified if \(wz \psi z = \frac{d}{dz}(wz \varphi z)\),
+
+which requires
+
+\[ \log (wz) = \int \frac{\psi z - \varphi z}{\varphi z} dz, \]
+or
+
+\[ wz = (\varphi z)^{-1} \int \frac{\psi}{\varphi} dz, \]
+
+being the same process as that by which, in the symbolical solution, the form of the function of \( D \) preceding the factor \( x^{-1} \) is obtained.
+
+VI. Linear Equations in Finite Differences.
+
+If in (3.) we change the form of the functions by writing \( \varepsilon^D \) for \( D \), we have
+
+\[ x \varphi(\varepsilon^D) u + \psi(\varepsilon^D) u = X, \]
+
+or
+
+\[ x \varphi(E) u_x + \psi(E) u_x = Q_x, \quad \ldots \ldots \ldots \ldots \ldots \ldots \quad (11.) \]
+
+where \( E \) is equivalent to \( 1 + \Delta \), or denotes the operation which is performed in changing \( u_x \) into \( u_{x+1} \).
+
+It follows that the symbolical solution of (11.) is
+
+\[ u_x = (\varphi E)^{-1} \varepsilon^{xE} x^{-1} \varepsilon^{-xE} Q_x, \]
+
+where
+
+\[ \chi v = \int \frac{\psi(\varepsilon)}{\varphi(\varepsilon)} dt = \int \frac{\psi v}{\varphi v} dv \text{ if } \varepsilon^t = v. \]
+
+A case obviously interpretable is that in which \( \psi v = mv \varphi&#x27; v \); and in that case the solution of
+
+\[ x \varphi(E) u_x + mE \varphi&#x27;(E) u_x = Q_x \]
+
+is
+
+\[ u_x = \{ \varphi(E) \}^{m-1} x^{-1} \{ \varphi(E) \}^{-m} Q_x. \]
+
+If we take the equation
+
+\[ (a_n x + b_n) u_{x+n} + \ldots + (a_1 x + b_1) u_{x+1} + (a_0 x + b_0) u_x = Q_x, \]
+
+we have
+
+\[ \chi v = \int \frac{b_n v^n + \ldots + b_1 v + b_0}{v(a_n v^n + \ldots + a_1 v + a_0)} dv = \int \left( \frac{b_0}{a_0} \frac{1}{v} + \frac{A_1}{v - \alpha} + \frac{A_2}{v - \beta} + \ldots \right) dv, \]
+
+where \( \alpha, \beta, \&amp;c. \) are the roots of \( a_n v^n + \ldots + a_1 v + a_0 = 0. \)
+
+and
+
+\[ u_x = (a_n E^n + \ldots + a_1 E + a_0)^{-1} E^{b_0}(E - \alpha)^{A_1}(E - \beta)^{A_2} \ldots \{ x^{-1}(E - b_0)(E - \alpha)^{-A_1}(E - \beta)^{-A_2} \ldots Q_x \}. \]
+
+In like manner, if
+
+\[ (a_n x + b_n) \Delta^n u_x + \ldots + (a_1 x + b_1) \Delta u_x + (a_0 x + b_0) u_x = Q_x, \]
+
+we have
+
+\[ u_x = (a_n \Delta^n + \ldots + a_1 \Delta + a_0)^{-1}(1 + \Delta)^{b_0}(1 + \Delta)^{-A_1}(1 + \Delta)^{-A_2} \ldots \{ x^{-1}((1 + \Delta)^{-B}(1 + \Delta)^{-A_1}(1 + \Delta)^{-A_2} \ldots Q_x \}, \]
+
+where
+
+\[ \frac{b_n v^n + \ldots + b_1 v + b_0}{(1 + v)(a_n v^n + \ldots + a_1 v + a_0)} = B + A_1 + A_2 + \ldots \]
+
+Thus the solution of
+
+\[ x(E^2 - c^2) u_x - 2mEu_x = Q_x, \]
+
+or
+
+\[ u_{x+2} - \frac{2m}{x} u_{x+1} - c^2 u_x = \frac{Q_x}{x}, \]
+
+is
+
+\[ u_x = (E + c)^{-1} \frac{m}{c} (E - c)^{-m} \{ x^{-1}(E + c)^{-m} (E - c)^{-m} Q_x \}. \]
+and that of
+
+\[ x(\Delta^2 - c^2)u_x - 2m\Delta u_x = Q_x, \]
+
+or
+
+\[ \Delta^2 u_x - \frac{2m}{x} \Delta u_x - c^2 u_x = \frac{Q_x}{x}, \]
+
+is
+
+\[ u_x = (\Delta^2 - c^2)^{-1} E_{\frac{2m}{c}}(\Delta - c)^{\frac{m}{c+1}}(\Delta + c)^{\frac{m}{c-1}} \left\{ x^{-\frac{2m}{c}} \left( E_{-\frac{2m}{c}}(\Delta - c)^{\frac{m}{c-1}}(\Delta + c)^{\frac{m}{c+1}} Q_x \right) \right\}. \]
+
+The results thus obtained are not interpretable unless \( B, \frac{b_0}{a_0}, A_1, A_2, \ldots \) are integer; in the event of any of them being fractional, however, the solution of the equation, (the second side being suppressed,) may be found as before in the form of a definite integral, by introducing the factor \( \varepsilon^{zx} \) and changing \( D \) into \( z \), and writing for \( \frac{1}{x} \) the integration with regard to \( z \) between the proper limits.
+
+Thus it will be found that the solution of
+
+\[ (a_n x + b_n)u_{x+n} + \ldots + (a_1 x + b_1)u_{x+1} + (a_0 v + b_0)u_x = 0 \]
+
+is
+
+\[ u_x = \int (a_n \varepsilon^{nx} + \ldots + a_1 \varepsilon^z + a_0)^{-1} \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \varepsilon^{zx} dz \]
+
+between proper limits.
+
+For taking this value of \( u_x \), we have
+
+\[ x(a_n u_{x+n} + \ldots + a_1 u_{x+1} + a_0 u_x) = x \int \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \varepsilon^{zx} dz \]
+
+\[ = \int \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots dz = \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \]
+
+\[ - \int \varepsilon^{zx} \left( \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \right) \left( \frac{b_0}{a_0} + \varepsilon^{\frac{\Lambda_1}{\varepsilon^z - \alpha}} + \varepsilon^{\frac{\Lambda_2}{\varepsilon^z - \beta}} + \ldots \right) dz. \]
+
+Of these two terms, the first vanishes if one limit be \( z = -\infty \), and the other have the successive values \( \log \alpha, \log \beta, \ldots \), and the second term is equal to
+
+\[ - \int \varepsilon^{zx} \left( \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \right) \left( \frac{b_0}{a_0} + \varepsilon^{\frac{\Lambda_1}{\varepsilon^z - \alpha}} + \varepsilon^{\frac{\Lambda_2}{\varepsilon^z - \beta}} + \ldots \right) dz = -(b_n u_{x+n} + \ldots + b_1 u_{x+1} + b_0 u_x), \]
+
+so that the equation is verified.
+
+The complete solution therefore is
+
+\[ u_x = c_1 \int_{-\infty}^{\log \alpha} (a_n \varepsilon^{nx} + \ldots + a_1 \varepsilon^z + a_0)^{-1} \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \varepsilon^{zx} dz \]
+
+\[ + c_2 \int_{-\infty}^{\log \beta} (a_n \varepsilon^{nx} + \ldots + a_1 \varepsilon^z + a_0)^{-1} \varepsilon^{b_0} (\varepsilon^z - \alpha)^{\Lambda_1} (\varepsilon^z - \beta)^{\Lambda_2} \ldots \varepsilon^{zx} dz \]
+
+\[ + \ldots \]
+
+or more simply,
+
+\[ u_x = c_1 \int_0^{\alpha} (a_n v^n + \ldots + a_1 v + a_0)^{-1} \varepsilon^{b_0} (v - \alpha)^{\Lambda_1} (v - \beta)^{\Lambda_2} \ldots v^{x-1} dv \]
+
+\[ + c_2 \int_0^{\beta} (a_n v^n + \ldots + a_1 v + a_0)^{-1} \varepsilon^{b_0} (v - \alpha)^{\Lambda_1} (v - \beta)^{\Lambda_2} \ldots v^{x-1} dv \]
+
+\[ + \ldots \]
+
+MDCCXLVIII.
+In a manner in all respects analogous, it may be shown that the integral of
+
+\[(a_n x + b_n) \Delta^n u_x + \ldots + (a_1 x + b_1) \Delta u_x + (a_0 x + b_0) u_x = 0,\]
+
+is
+
+\[u_x = c_1 \int_{-\infty}^{\infty} (a_n v^n + \ldots + a_1 v + a_0)^{-b_0} (v - \alpha)^{\lambda_1} (v - \beta)^{\lambda_2} \ldots (1 + v)^{x-1} dv\]
+
+\[+ c_2 \int_{-\infty}^{\infty} (a_n v^n + \ldots + a_1 v + a_0)^{-b_0} (v - \alpha)^{\lambda_1} (v - \beta)^{\lambda_2} \ldots (1 + v)^{x-1} dv\]
+
+\[+\ &amp;c.\ &amp;c.\]
+
+If the expressions \(v(a_n v^n + \ldots + a_1 v + a_0)\), \((1 + v)(a_n v^n + \ldots + a_1 v + a_0)\) should have two or more equal roots, we shall obtain factors of the form \(\varepsilon^{(n-a)n}\), as in the case of linear differential equations of analogous forms.
+
+The process of changing the symbols may be used to obtain solutions of differential equations from known solutions of equations in finite differences.
+
+The solution of the general equation of the first order
+
+\[(1 + \Delta) u_x - P_x u_x = Q_x\]
+
+is
+
+\[u_x = \ldots P_n \ldots P_{x-2} P_{x-1} \Sigma \left( \frac{Q_x}{P_n \ldots P_{x-2} P_x} \right).\]
+
+A similarity existing between this form and the solution of linear differential equations of the first order will be seen, by writing the above equations in the following form,
+
+\[\varepsilon^D u - \varphi(x) u = X,\]
+
+\[u = \varepsilon^{\log \varphi} \Sigma (\varepsilon^{-\log \varphi(x+1)} X);\]
+
+and the conversion of symbols would give
+
+\[\varepsilon^{-x} u - \varphi(D) u = X,\]
+
+\[u = \varepsilon^{-x-1} \log \varphi D \left\{ \frac{1}{\varepsilon^{-x-1}} \varepsilon^{-\log \varphi(D+1)} . X \right\};\]
+
+a symbolical solution apparently incapable of rational interpretation, at least in finite terms.
+
+If however we suppress \(X\), and by a conversion similar to the one before proposed, \(\varphi D\) be changed into \(\varphi(-z)\); and \(x\) be changed into \(-D&#x27;\), \(D&#x27;\) denoting differentiation with regard to \(z\) and a factor \(\varepsilon^{-zx}\) be introduced, we shall find that the substitution for \(\frac{1}{\varepsilon^{-x-1}}\) is \(\frac{1}{\varepsilon^{D&#x27;-1}}\) or \(\frac{1}{\Delta&#x27;}\); and the general result is
+
+\[u = \Sigma \varepsilon^{2\log \varphi(-z)} \varepsilon^{-zx},\]
+
+where \(\Sigma\) denotes summation with reference to \(z\), and the first summation must be taken between proper limits.
+
+The form of this is
+
+\[u = \Sigma (\ldots \varphi(n) \ldots \varphi(-z-2) \varphi(-z-1) \varepsilon^{-zx})\]
+
+between proper limits; which, changing the sign of \(z\), may be more conveniently written
+
+\[u = \Sigma (\ldots \varphi(z-2) \varphi(z-1) \varepsilon^{zx}).\]
+To verify this, we have
+
+\[ \varepsilon^{-x}u = \Sigma(\ldots\varphi(z-2)\varphi(z-1)\varepsilon^{(z-1)x}) = P_{z-1} \text{ suppose}, \]
+
+\[ \varphi(D)u = \Sigma(\ldots\varphi(z-2)\varphi(z-1)\varphi z\varepsilon^x) = P_z; \]
+
+consequently
+
+\[ \varepsilon^{-x}u - \varphi(D)u = \Sigma(P_{z-1} - P_z) = -\Sigma\Delta P_{z-1} = \chi x - P_{z-1} = \chi x - (\ldots\varphi(z-2)\varphi(z-1)\varepsilon^{(z-1)x}), \]
+
+the last term being taken between proper limits.
+
+Let \( \alpha, \beta, \&amp;c. \) be the roots of \( \varphi z = 0; \) then if at one limit \( z \) have the values \( 1+\alpha, 1+\beta, \&amp;c. \) successively, \( P_{z-1} \) will vanish; and \( z = -\infty \) will give a vanishing value at the other limit. The form of the function \( \chi x \) must be ascertained by verification.
+
+Let
+
+\[ \varphi(z) = z^\alpha + az^{\alpha-1} + \ldots = (z-\alpha)(z-\beta)(z-\gamma)\ldots \]
+
+\[ \varphi(n)\ldots\varphi(z-2)\varphi(z-1) = \{(n-\alpha)\ldots(z-1-\alpha)\}\{(n-\beta)\ldots(z-1-\beta)\}\ldots \]
+
+\[ = \frac{\Gamma(z-\alpha)}{\Gamma(n-\alpha)} \cdot \frac{\Gamma(z-\beta)}{\Gamma(n-\beta)}\ldots \]
+
+\[ u = \Sigma_{-\alpha}^{1+\alpha}(\varphi(n)\ldots\varphi(z-2)\varphi(z-1)\varepsilon^x) = \frac{1}{\Gamma(n-\alpha)\Gamma(n-\beta)}\Sigma_{-\alpha}^{\alpha+1}(\Gamma(z-\alpha)\Gamma(z-\beta)\ldots\varepsilon^x) \]
+
+\[ = \frac{1}{\Gamma(n-\alpha)\Gamma(n-\beta)}\int_0^\infty dv_1\varepsilon^{-v_1}\varepsilon^{-\alpha-1}\int_0^\infty dv_2\varepsilon^{-v_2}\varepsilon^{-\beta-1}\int_0^\infty dv_3\ldots\varepsilon^x. \]
+
+Now
+
+\[ \Sigma v_1^{-\alpha-1}v_2^{-\beta-1}\ldots\varepsilon^x = v_1^{-\alpha-1}v_2^{-\beta-1}\Sigma\varepsilon^{x(\log(v_1v_2\ldots))} = v_1^{-\alpha-1}v_2^{-\beta-1}\ldots\varepsilon^xv_1v_2\ldots^{-1}, \]
+
+which taken between the limits \(-\infty\) and \(1+\alpha\) is
+
+\[ \frac{\varepsilon^{(\alpha+1)x}v_2^{-\alpha-\beta}v_3^{-\gamma}\ldots}{\varepsilon^xv_1v_2\ldots^{-1}}; \]
+
+and, if this be integrated successively with respect to \(v_1v_2\ldots\) and taken between the proper limits, we get
+
+\[ -[n-\alpha-1][n-\beta-1]\ldots u = \varepsilon^{(\alpha+1)x}\{[\alpha-\beta][\alpha-\gamma]\ldots + [\alpha-\beta+1][\alpha-\gamma+1]\ldots\varepsilon^x \]
+
+\[ + [2][\alpha-\beta+2][\alpha-\gamma+2]\ldots\varepsilon^x + \ldots \}. \]
+
+If \( n = \alpha + 1 \), we have
+
+\[ u = -\varepsilon^{(\alpha+1)x}\{1+(\alpha-\beta+1)(\alpha-\gamma+1)\ldots\varepsilon^x + 1.2(\alpha-\beta+1)(\alpha-\beta+2)(\alpha-\gamma+1) \]
+
+\[ (\alpha-\gamma+2)\ldots\varepsilon^x + \ldots \}. \]
+
+To verify this, we have
+
+\[ \varepsilon^{-x}u = -\varepsilon^{xx}\{1+(\alpha-\beta+1)(\alpha-\gamma+1)\ldots\varepsilon^x + \ldots \} \]
+
+\[ \varphi(D)u = -\varepsilon^{xx}\{(\alpha-\beta+1)(\alpha-\gamma+1)\ldots\varepsilon^x + \ldots \} \]
+
+\[ \varepsilon^{-x}u - \varphi(D)u = -\varepsilon^{xx}. \]
+
+If all the roots of \( \varphi z \) are zero, we have for a partial solution of
+
+\[ \varepsilon^{-x}u - D^n u = c, \]
+
+\[ u = c\varepsilon^x\int_0^\infty dv_1\int_0^\infty dv_2\ldots\int_0^\infty dv_n\left\{\varepsilon^{-(v_1+v_2+\ldots+v_n)}\frac{1}{1-v_1v_2\ldots v_n\varepsilon^x}\right\} \]
+
+\[ = c\varepsilon^x(1+\varepsilon^x+(1.2)^n\varepsilon^{2x}+(1.2.3)^n\varepsilon^{3x}+\ldots). \]
+VII. Miscellaneous Forms.
+
+In the course of the preceding investigations, I was led to attempt the solution of some forms of equations by means of successive operations not consisting exclusively of $D$ combined with constants, but involving also functions of $x$. The only important result which I obtained is the following, being a slight generalization of the method originally employed by me in effecting the solution of the equation of Laplace&#x27;s coefficients.
+
+The equation
+
+$$D^2u + bDu + c^2u - n(n+1)\frac{u}{\cos^2 x} = X$$
+
+is solved as follows.
+
+Let $\alpha$ and $\beta$ be the roots of $z^2 + bz + c^2 = 0$, and assume
+
+$$Du - \alpha u = u_1.$$  
+
+Then
+
+$$Du_1 - \beta u_1 - n(n+1)\frac{u}{\cos^2 x} = X,$$
+
+$$u = \frac{\cos^2 x}{n(n+1)}(Du_1 - \beta u_1 - X),$$
+
+$$Du - \alpha u = \frac{\cos^2 x}{n(n+1)}(D^2u_1 + bDu_1 + c^2u_1) - \frac{2\cos x \sin x}{n(n+1)}(Du_1 - \beta u_1) - (D - \alpha)\left(\frac{\cos^2 x}{n(n+1)}X\right) = u_1,$$
+
+or $D^2u_1 + bDu_1 + c^2u_1 - 2\tan x(Du_1 - \beta u_1) - \frac{n(n+1)}{\cos^2 x}u_1 = X&#x27; - \alpha X - 2\tan x.X = X_j$ suppose.
+
+Assume
+
+$$Du_1 - \alpha u_1 - 2\tan x.u_1 = u_2,$$
+
+then by a similar process we obtain
+
+$$D^2u_2 + bDu_2 + c^2u_2 - 4\tan x.(Du_2 - \beta u_2) - \frac{n(n+1)}{\cos^2 x}u_2 = X&#x27; - \alpha X_j - 4\tan x.X_j = X_j$$ suppose.
+
+Similarly, if we assume
+
+$$Du_2 - \alpha u_2 - 4\tan x.u_2 = u_3,$$
+
+we obtain
+
+$$D^2u_3 + bDu_3 + c^2u_3 - 6\tan x.(Du_3 - \beta u_3) - \frac{n(n+1)}{\cos^2 x}u_3 = X&#x27; - \alpha X_j - 6\tan x.X_j = X_j$$ suppose.
+
+Proceed in like manner until we arrive at the assumption
+
+$$Du_n - \alpha u_n - 2n\tan x.u_n = u_{n+1}.$$  
+
+Then
+
+$$D^2u_{n+1} + bDu_{n+1} + c^2u_{n+1} - 2(n+1)\tan x.(Du_{n+1} - \beta u_{n+1}) = X_{n+1}.$$  
+
+Let
+
+$$Du_{n+1} - \beta u_{n+1} = Q,$$
+
+then
+
+$$DQ - \alpha Q - 2(n+1)\tan x.Q = X_{n+1},$$
+
+and
+
+$$Q = e^{ax}(\cos x)^{-2(n+1)}f(\cos x)^{2(n+1)}X_{n+1}dx,$$
+
+$$u_{n+1} = e^{bx}(\cos x)^{-2(n+1)}f(\cos x)^{2(n+1)}X_{n+1}dx,$$
+
+$$u_n = e^{ax}(\cos x)^{-2n}f(\cos x)^{2n}u_{n+1}dx.$$
+and so on down to \( u \), which will be found to be,
+
+\[
+\begin{align*}
+&amp;\varepsilon^{\alpha x} \left( \frac{d}{d(\tan x)} \right)^{-n} \left\{ f_{\varepsilon^{(\beta-\alpha)x}}(\cos x)^{2n} f_{\varepsilon^{(\alpha-\beta)x}}(\cos x)^{-2(n+1)} X_{(n+1)} dx dx dx \right\};
+\end{align*}
+\]
+
+and if \( X = 0 \), this becomes
+
+\[
+\begin{align*}
+&amp;u = k \varepsilon^{\alpha x} \left( \frac{d}{d(\tan x)} \right)^{-n} \left\{ f_{\varepsilon^{(\beta-\alpha)x}}(\cos x)^{2n} f_{\varepsilon^{(\alpha-\beta)x}}(\cos x)^{-2(n+1)} dx dx \right\},
+\end{align*}
+\]
+
+proper precautions being taken with regard to the introduction of constants.
+
+Perhaps the difficulties relating to the constants may be evaded by writing the solution in the form
+
+\[
+\begin{align*}
+&amp;u = k \varepsilon^{\alpha x} \left( \frac{d}{d(\tan x)} \right)^{-(n+1)} \left\{ \varepsilon^{(\beta-\alpha)x}(\cos x)^{2(n+1)} f_{\varepsilon^{(\alpha-\beta)x}}(\cos x)^{-2(n+1)} dx \right\},
+\end{align*}
+\]
+
+and then substituting \(-(n+1)\) for \( n \), which does not alter the original equation, we have
+
+\[
+\begin{align*}
+&amp;u = k \varepsilon^{\alpha x} \left( \frac{d}{d(\tan x)} \right)^{n} \left\{ \varepsilon^{(\beta-\alpha)x}(\cos x)^{-2n} f_{\varepsilon^{(\alpha-\beta)x}}(\cos x)^{2n} dx \right\}.
+\end{align*}
+\]
+
+If \( \alpha \) and \( \beta \) are both zero, we have for the solution of
+
+\[
+\begin{align*}
+&amp;D^2 u - n(n+1) \frac{u}{\cos^3 x} = 0,
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&amp;u = k \left( \frac{d}{d(\tan x)} \right)^n \left\{ (\cos x)^{-2n} f(\cos x)^{2n} dx \right\} \\
+&amp;= k \left( \frac{d}{dy} \right)^n \left\{ (1+y^2)^n \int \frac{dy}{(1+y^2)^{n+1}} \right\} + k_1 \left( \frac{d}{dy} \right)^n (1+y^2)^n,
+\end{align*}
+\]
+
+where \( y = \tan x \).
+
+Let \( \alpha = c \) and \( \beta = -c \), so that the original equation becomes
+
+\[
+\begin{align*}
+&amp;\frac{d^2 u}{dx^2} - c^2 u - n(n+1) \frac{u}{\cos^2 x} = 0,
+\end{align*}
+\]
+
+then the solution is
+
+\[
+\begin{align*}
+&amp;u = k \varepsilon^{cx} \left( \frac{d}{d(\tan x)} \right)^{-n} \left\{ f_{\varepsilon^{-2cx}}(\cos x)^{2n} f_{\varepsilon^{2cx}}(\cos x)^{-2(n+1)} dx dx \right\} \\
+&amp;= k \varepsilon^{cx} \left( \frac{d}{d(\tan x)} \right)^{n+1} \left\{ f_{\varepsilon^{-2cx}}(\cos x)^{-2(n+1)} f_{\varepsilon^{2cx}}(\cos x)^{2n} dx dx \right\},
+\end{align*}
+\]
+
+which contains the proper number of constants; as the constant which enters by reason of the first integration disappears by the subsequent differentiations.
+
+This solution will apply to Laplace&#x27;s equation, if for \( c \) be written \( c \frac{d}{dy} \).
+
+This gives for the solution of
+
+\[
+\begin{align*}
+&amp;\frac{d^2 u}{dx^2} - c^2 \frac{d^2 u}{dy^2} = n(n+1) \frac{u}{\cos^2 x},
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&amp;u = \varepsilon^{cx} \left( \frac{d}{d(\tan x)} \right)^n \left\{ \varepsilon^{-2cx} \frac{d}{dy}(\cos x)^{-2n} f(\cos x)^{2n} \varphi(y+2cx) dx \right\} \\
+&amp;+ \varepsilon^{cx} \left( \frac{d}{d(\tan x)} \right)^n \left\{ (\cos x)^{-2n} \chi(y-2cx) \right\},
+\end{align*}
+\]
+the symbol $\varepsilon^{-2cx\frac{d}{dy}}$ denoting that, after the operations are performed, $y - 2cx$ must be written in lieu of $y$; and the symbol $\varepsilon^{cx\frac{d}{dy}}$ denoting that, after the further operations are performed, $y + cx$ must be written in lieu of $y$.
+
+The solution is simplified by considering the latter function alone as a partial solution, and completing the solution by changing the sign of $c$ with a new arbitrary function.
+
+Now if in Laplace&#x27;s equation
+
+$$\frac{d}{d\mu}\left((1-\mu^2)\frac{du}{d\mu}\right) + \frac{1}{1-\mu^2} \frac{d^2u}{dx^2} + n(n+1)u = 0,$$
+
+we make
+
+$$x = \tan^{-1}(\mu\sqrt{-1}),$$
+
+we obtain
+
+$$\frac{d^2u}{dx^2} - \frac{d^2u}{dy^2} - n(n+1)\frac{u}{\cos^3 x} = 0.$$
+
+The solution of Laplace&#x27;s equation, therefore, by this process assumes the form
+
+$$u = \varepsilon^{\tan^{-1}(\mu\sqrt{-1})\frac{d}{dy}}\left(\frac{d}{d\mu}\right)^n \{(1-\mu^2)^n\varphi(y - 2\tan^{-1}(\mu\sqrt{-1}))\}$$
+
+$$+ \varepsilon^{-\tan^{-1}(\mu\sqrt{-1})\frac{d}{dy}}\left(\frac{d}{d\mu}\right)^n \{(1-\mu^2)^n\chi(y + 2\tan^{-1}(\mu\sqrt{-1}))\}.$$  
+
+Postscript.—Received March 16, 1848.
+
+The following brief investigation is more general in its results than that developed in pages 50 and 51.
+
+By applying the fundamental theorem to the linear equation
+
+$$u_{x+n} - \varphi x.u_x = \psi x,$$
+
+and its solution
+
+$$u_x = \varphi(x-n).\varphi(x-2n)... \Sigma \{(\varphi x.\varphi(x-n).\varphi(x-2n)...)^{-1}\psi x\},$$
+
+(where the sign of summation has reference to $x$, $\Delta x$ being $n$,) we obtain the equation
+
+$$\varepsilon^{-nx}u - \varphi(D)u = \psi x, \ldots \ldots \ldots \ldots \ldots (12.)$$
+
+and its symbolical solution
+
+$$u = \varphi(D-n).\varphi(D-2n)... \left\{\frac{1}{\varepsilon^{-nx}-1}(\varphi(D).\varphi(D-n).\varphi(D-2n)...)^{-1}\psi x\right\};$$
+
+and by expanding the factor $\frac{1}{\varepsilon^{-nx}-1}$; and reducing, we obtain for the solution of (12.)
+
+the series ($\Sigma$ referring to $p$),
+
+$$u = \Sigma \varepsilon^{-pm}(\varphi(D).\varphi(D-n)... \varphi(D-pm))^{-1}\psi x,$$
+
+$$= \Sigma (\varphi(D+pn).\varphi(D+(p-1)n)... \varphi(D))^{-1}\{\varepsilon^{-pm}\psi x\}.$$
+
+If $\varepsilon^x = y$, and $\chi y$ consist of powers of $y$, the above formula gives the solution in series of powers of $y$ of the equation
+
+$$\varphi(y\frac{d}{dy}).u + qy^n = \chi y.$$
+
+Several equations of this form solved by Mr. Boole&#x27;s general method, are given in the Philosophical Transactions for 1844, pp. 236–240.</div>

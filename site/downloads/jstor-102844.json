@@ -1,0 +1,79 @@
+{
+  "id": "46271649640a3ca088f9e94d1bcc8f0554fae69b",
+  "text": "this Volume the Ingenious Author is pleased to promise many Observations on the Weather, the Velocity of running Waters, the Physical qualities of the several sorts of Waters near the Danube; also a Dissertation upon the Skeletons of Elephants, as well as their single Bones, dug up in great quantities near and in the Roman Aggeres. Lastly, all the Insects of the Danube will be methodically rang’d, describ’d and figur’d, by the indefatigable hand of Signior Marsigli, who deserves all the encouragement that the Learned World can possibly give him.\n\nV. Extracts of some Letters to the Publisher, giving an Account of some Books now Printing and lately Printed in Italy, France, Germany, Holland and Scotland.\n\nDr Marchini a Physician at Luca is now Writing the Natural History of the places within that small Commonwealth. Dr Baglivi at Rome, is Writing a Treatise de Successionibus Morborum. F. Plumier has finished his Book de Torno, or of turning, and is now about publishing a Catalogue of all the Plants found in France, the Title of it will be Botanicum Gallicum. He has ready 1400 designs of Plants belonging to this Work. Johannes Georgius Volckamerus, a Physician in Nurenberg, is busy in making Tables of the Affinity of Plants, which he promis’d in the Preface to his Flora Norimbergensis. In this Book he will follow a method directly contrary to that of Rivinus. At Leyden is now Printing Stephani Blancardi Lexicon Medicum.\nThe following Books are lately Printed.\n\nCorn. Benghem Apparatus ad Historiam literariam, com-\nspectus quartus. Amst. 1701. in 12s.\nDe Spina Lexicon Pharmaceutico Chymicum, Francof. ad\nMenum 1700. in 8o.\nValentini, pandectae Medico-legales accedunt polychresta\nexotica ibidem. 1701. in 4to.\nRammazini de Morbis Artificium diatriba Mutine. 1700.\nin 8o.\n\nBooks lately Printed and Printing in Scotland.\n\nSir Andrew Balfuro's Letters, giving an Account of his\nTravels are Printed here, but not as yet published.\nThe History of the World, from the Creation to the\nBirth of Abraham, containing the space of 1948. years, in\ntwo Books. 1st, From the Creation to the Flood. 2d, From\nthe Flood to the Birth of Abraham, wherein all Historical\nControversies, either Civil or Ecclesiastick, are handled\nand discussed, by James Preston, Professor Literature Hu-\nmane, in the University of St Andrews, is lately Published.\n\nBooks in the Press.\n\nGeorgii Sibbaldi M. D. regula bene & Salubriter vi-\nvendi partim metro expresse quibus accessere Roberti\nBodii de trocho regia de filii sui primogeniti monita.\nThe Charitable Physician, being a Collection of curious\nReceipts, published by Scougal of Whithill, one of our\nOrdinary Lords of the Session.\nSir Rob. Sibbald is about to Print an Appendix to his\nHistory of Scotland.\nMr Adair is lately returned from Surveying the Shires\nof Annandale and Niddesdale, where he has observed seve-\nral Natural curiosities, as curious Shells, Ores, Metals, Minerals; and particularly, he found a very fine sort of Iron Ore on the Coast of Northumberland: he is now busy in drawing the Maps of those Shires, and intends shortly to publish them, with the Natural History of those places.\n\nAn INDEX to the 22d Vol. of the Philosophical Transactions.\n\nA\n\nAbdomen of a Man prodigiously distended with Wind, and cut 6 inches thick of Fat. No 265. p. 618.\nAbscess of 12 years standing opened. No 265. p. 617.\nAbscess at the Navel, discharging a great quantity of Prune-stones. No 265. p. 617.\nAge of Men. See Men.\nAlkali and Acid precarious principles. No 273. p. 918.\nAlum how made near Naples. No 265. p. 633.\nAllantois. See Anatomical discoveries.\nAmbergrice a large piece. No 263. p. 573.\nAnatomical Observations and Discoveries.\nThe Intestines and Mesentery found in the Thorax. No 275. p. 992. An Ivory Bodkin cut out of the Bladder. No 260. p. 445. A curious preparation of the Blood-vessels and Viscera. No 265. p. 630. A Stone with Hair cut out of the Bladder. No 266. p. 688. A Polypus near the Spleen. No 266. p. 690. A Triple Bladder in a Man. No 268. p. 752. Dissection of a Woman dead in Child-bed. No 269. p. 787. A Polypus in the Vena Pulmonalis. No 270. p. 797. The human Allantois fully discovered. No 271. p. 835. A new opinion of the motion of the Heart. No 273. p. 914. Aneurisme in the Aorta. No 267. p. 696. Animalcules observed in Semine Masculino. No 263. p. 560. Farther observations on the same. No 268. p. 739. and more on that subject. Their prodigious num-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102844.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1447,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1441,
+        2
+      ],
+      [
+        1441,
+        2859,
+        3
+      ],
+      [
+        2859,
+        4439,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102844",
+    "title": "Extracts of Some Letters to the Publisher, Giving an Account of Some Books Now Printing and Lately Printed in Italy, France, Germany, Holland and Scotland",
+    "authors": null,
+    "year": 1700,
+    "volume": "22",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102844"
+  }
+}

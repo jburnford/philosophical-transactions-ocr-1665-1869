@@ -1,0 +1,69 @@
+{
+  "id": "1f4f6c331409292a3dfeb6ca54e0c49cbb795ffc",
+  "text": "Distance, which I would certainly have measured, if I had had proper instruments. And if others, who are more skilled in these affairs, have made the like Observation, I shall no longer doubt of the Moon's having an Atmosphere.\n\nBristol, Feb. 19.\n1725.\n\nIII. Sceleton duorum Humanorum petrefactorum pars. Ex Epistola Joh. Jac. Scheuczer, M. D. R. S. S. ad Dom. Hans Sloane, Baronettum, S. R. V. Pr.\n\nNOSTI, Vir Expertissime, ex hominum diluvio submersorum genere paucas superstites esse reliquias. Neque ego hactenus in numerosa satis collectione plures habui quam binas dorsi vertebreas, atro nitentis splendoris, petrefactas. Nunc autem, ἀγαθὴ τοῦ Museolo meo illatum, lapidi fissili Oeningensi immersum λείψανον, omni attentione dignissimum, in quo distincte cernere licet, non vagae imaginationis simulacra, sed capitis humani à quovis alio animantium genere distinctivae partes bene multas, reapse residuas, cranii ambitum, os frontis, osla sincipitis, occipitis, orbitam oculi, baseos cerebri & medullae oblongatae λείψανον, prominentiam interiorem ossis occipitalis, quae cerebelli lobos separat, colli vertebrae numero 7, partim denudatas, partim lapideo cortice tectas, & est hæc veluti orthographica sectio posterioris capitis partis.\n\nSed\nSed inde ex quo Monumenti hujus sui potitus, singulari Divinâ Providentiâ novus ex dicta lapicidina advolavit hospes, carior tantò, quia est ex rarissimis, charior, quòd nec veste opus habeat, nec alimento, omnia secum portans, priorem vincens & magnitudine, & ætate, & curiositate. Adsumt nempe in dicto fissili lapide demersa, ex hominis adulti sceleto, ejusve structura anteriore, peripheria ossis frontalis, os jugale, orbitæ oculorum, cranii tabulae cum diplœ, vestigia foraminis infraorbitalis destinati pro transitu nervorum quinti paris, reliquiae vel ipsius cerebri, vel duræ matris, ossa cribrosa & spongiosa, os vomeris nasum disternans, ossis quarti maxillaris portio, quæ genas constituit, nasi reliquiae, masseteris portio, sectio orthographica transiens per apophysin condyloidem maxillæ inferioris ad angulum usque hujusdem maxillæ, vertebræ in continua serie numero 16, pleræque cum processibus transversis, claviculae dextræ extrema portio, quæ scapulae nequitur, sinistræ media portio lapide tecta. Ex qua sceleti proportione judico, integram hominis statuam suisse eandem, quæ in circa mea est, 58½ pollicum Parisiensium.\n\nTiguri, 25 Decemb.\n1725.\n\nIV. Obser-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103441.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 885,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1250,
+        2
+      ],
+      [
+        1250,
+        2429,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103441",
+    "title": "Sceletwn Duorum Humanorum Petrefactorum Pars. Ex Epistola Joh. Jac. Scheuczer, M. D. R. S. S. ad Dom. Hans Sloane, Baronettum, S. R. V. Pr.",
+    "authors": "Joh. Jac. Scheuczer",
+    "year": 1726,
+    "volume": "34",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103441"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "d1cf49fe912f08a24137fa64a0efa22aee816ffa",
+  "text": "An Extract of a Letter written at Paris Novemb.7. 1671. (ft.n.)\nby Monsieur Christian Hugens de Zulichem to the Publisher;\nconcerning the Observations of Saturn mentioned in the next foregoing Discourse: English't out of French.\n\nSIR,\n\nThere is something indeed, that hath kept me, week by week, from writing to you; which is the Printed paper, accompanying this Letter. For the Observations of Saturn, therein contained, I had deliver'd two Months ago; but Signor Cassini, purposing to publish at the same time the sequel of his Observations of the Solar Spots, the Engraving, and other circumstances have caused such a retardment, that all this appears not till now, and that to my great regret, because having predicted the Return of the Round Figure of Saturn towards the End of this year, there wants but little but that the Prediction is accomplish't before others have been advertised thereof. I say this as to Forraign Countries; for our Philosophers here know very well, that as soon as Signor Cassini had told me, that the Arms of Saturn were returned, I said, that assuredly they would dis-appear before the End of this Year. I still observed them yesterday in the evening, but they were so faint and obscure, that it was hard to discern them; so that within a few days they will appear no more at all. This confirms altogether my Hypothesis of the Ring, which now disappears in proportion that the rays of the Sun do obliquely illuminate the flat surface of it, obverted to our sight. And the Appearances of this year give occasion to predict the Return of the Round figure with much more exactness, than before.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101112.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 427,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1624,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101112",
+    "title": "An Extract of a Letter, Written at Paris Novemb. 7. 1671. (St.n.) by Monsieur Christian Hugens de Zulichem to the Publisher; Concerning the Observations of Saturn Mentioned in the Next Foregoing Discourse: English't Out of French",
+    "authors": "Hugens de Zulichem",
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101112"
+  }
+}

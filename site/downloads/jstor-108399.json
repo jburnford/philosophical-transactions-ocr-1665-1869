@@ -1,0 +1,59 @@
+{
+  "id": "1d6a8a298963d1ba7dd3af434c9f6f5b8a9ba8ce",
+  "text": "ERRATA.\n\nPage ii, line 1, omit Moulmein.\n\n— iv, line 18, at 21 hours, for 1·1 read 0·1.\n— iv, line 22, at 21 hours, for 2·1 read 1·1.\n— iv, line 23, at 21 hours, for 0·52 read 0·27.\n— iv, line 24, in the line of Oscillation, for 1·33, 1·28, &c., and\n— ii, line 15, in the line of Batavia, Spring, for 1·33, 1·28, &c. read\n1·48, 1·43, 1·38, 1·55, 1·40, 0·58, 0·00, 0·15, 0·38, 0·80, 1·28, 1·78, 2·21, 2·25, 1·95, 1·60, 1·35, 1·08, 0·73, . . . . 1·25\n\n— vi, line 11, at 21 hours, for 1·2 read 0·2.\n— vi, line 15, at 21 hours, for 1·9 read 0·9.\n— vi, line 16, at 21 hours, for 0·47 read 0·22.\n— vi, line 17, in the line of Oscillation, for 1·50, 1·46, &c., and\n— ii, line 32, in the line of Batavia, Spring, for 1·50, 1·46, &c. read\n1·60, 1·56, 1·40, 1·50, 1·38, 0·48, 0·00, 0·10, 0·60, 1·23, 1·93, 2·58, 3·13, 3·28, 3·06, 2·60, 2·36, 1·98, 1·50, . . . . 1·68.\n\n— x and xi, line 1, for the sign (?) read scale divisions.\n— xl, last line but one at 21 hours, for 1·1 read 0·1.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108399.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 655,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        972,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108399",
+    "title": "Errata",
+    "authors": null,
+    "year": 1851,
+    "volume": "141",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/108399"
+  }
+}

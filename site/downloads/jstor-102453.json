@@ -1,0 +1,69 @@
+{
+  "id": "e42ac791bfeac3433711a99accb1bcd788ed8a3f",
+  "text": "V. Librorum Manuscriptorum Academiarum Oxoniensis & Cantabrigiensis, & Celebrium per Angliam Hiberniamque Bibliothecarum Catalogus cum Indice Alphabetico, Cura Edvardi Bernardi. Tomis duobus in Folio.\n\nTOMI PRIMI PAR S PRIMA.\n\nCatalogi Librorum Manuscriptorum Bibliotheca BODLEIANÆ.\n\n1. Codices Graeci Barocciiani.\n2. Codices Graeci Thomae Roe Militis.\n3. Codices Graeci Olivatii Cromwelli.\n4. Codices varii Guil. Laudi Archiepiscopi Cantuariensis.\n5. Codices Latini Kenelmi Dighei Militis.\n6. Codices plurium generum Thomae Bodlei Militis.\n7. Codices varii Joannis Seldeni J. C.\n8. Codices varii D. Fai fax Bar.Cameronii, Caroli Hattoni, Mer. Calauboni, Roberti Huntingtoni, Ricardi Jamesii, Doctoris Lamb, Samuelis Clerici, D.Thurstoni Mercatoris, Rogeri Dodsworthi, Joannis Lelandi.\n9. Codices Septentrionales Francisci Junii, Reliquiae Isaaci Calauboni, Adversaria Gerardi Langbaini.\n10. Codices varii Thomae Mareschalli.\n11. Codices Orientales Edvardi Pocockii.\n12. Codices Orientales Rob. Huntingtoni.\n13. Codices Orientales Thomae Hyde.\n14. Codices Thomae Barlow Episcopi Lincolnensis.\n* Codex Guil.Dugdalii Militis.\n* Codices Mathematici Henrici Savilii Militis.\n* Codices Eliæ Ashinolii.\n\nPAR S SECUNDA.\n\nCodices Manuscripti Collegiorum & Aularum OXONIENSIVM.\n\nPAR S TERTIA.\n\nCodices Manuscripti Collegiorum & Aula un CANTABRIGIENSIVM.\n\nTOMUS SECUNDUS.\n\nCodices Manuscripti Ecclesiarum Cathedralium & aliarum celebrium Bibliothecarum.\n\n1. Ecclesia Eboracensis.\n2. Ecclesia Dunelmensis.\n3. Ecclesia Carliolensis.\n4. Illustrii D.Caroli Comitis Carliolensis.\n5. Ecclesiae Wignorienae.\n6. Sarisburiensis Ecclesiae.\n7. Westmonasteriensis Ecclesiae.\n8. Lichfieldensis Ecclesiae.\n9. Schola Coventriensis.\n10. Illustrii D. Basil. Comitis Denbigh.\n11. Ecclesiae Cathedralis Wintoniae.\n12. Collegii apud Wintoniam.\n13. Illustrii D. Hen. Comitis Clarendon.\n14. Henrici Jones Rect. de Sunningwell.\n15. Collegii Etonensis.\n16. Rogeti Mostyn Baronetti.\n17. Civitatis Brittoliensis.\n18. Ecclesiae Cantuariensis.\n19. Ecclesiae Herefordensis.\n20. Ecclesiae Exoniensis.\n21. Scholae Novo-Portensis.\n22. Scholae Salopiensis.\n23. Gulielmi Glynne Baronetti.\n24. Henrici Woifley Armigeri.\n25. D. Theyre Generosi.\n26. Hospitii Grayensis apud Londinum.\n27. Hospitii Lincolnensis ibidem.\n28. Ecclesiae Glocestriensis.\n29. Scholae Leicestriensis.\n30. Roberti Dalwood Baronetti.\n\n31. Johannis Walteri Baronetti.\n32. Domini Oastly.\n33. Thomae Gale Theol. Doctoris.\n34. Samuelis Pepys Armigeri.\n35. Collegii Sionensis apud Londinium.\n36. Collegii Medicorum Londiniensium.\n37. Collegii Heraldorum.\n38. Bibliothecae Norfolcianae Reg. Soc.\n39. Ecclesiae Collegiatae apud Warwicum.\n40. Ecclesiae Bathoniensis.\n41. Ecclesiae Wellensis.\n42. Isaaci Vossii Canonici Windsoricensis.\n43. Georgii Wheeleri Eq. Aur.\n44. Johannis Aubraei Baron.\n45. D. Thomae Wagstaffe.\n46. Honoratiissimi Vicecomitis Longueville.\n47. Roberti Ploti LL. D.\n48. Ecclesiae Cantuariensis.\n49. Jacobi Usserii Archiep. Armachani.\n50. Narcissi Marsh Archiep. Dubliniensis.\n51. D. Lotius Dublinitensis.\n52. Coll. S. Trinitatis apud Dublinium, &c.\n\nIstorum equidem Catalogorum plurimi Typis Sheldoniis iam impressi sunt, sed nondum exponuntur dum expectantur plures. Regeretur igitur viri literati literatorumque Patroni, ut velint, hoc Opus nobis ac posteris non inutile, e Thesauris sui Librarius, quam primum possint, locupletare & supplere.\n\nOXONIAE KAL. AUG A.D. 1694.\nEDV. BERNARDUS.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102453.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 1300,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1565,
+        2
+      ],
+      [
+        1565,
+        3429,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102453",
+    "title": "Librorum Manuscriptorum Academiarum Oxoniensis et Cantabrigiensis, et Celebrium Per Angliam Hiberniamque Bibliothecarum Catalogus Cum Indice Alphabetico, Cura Edvardi Bernardi. Tomis Duobus in Folio",
+    "authors": "Angliam Hiberniamque",
+    "year": 1694,
+    "volume": "18",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102453"
+  }
+}

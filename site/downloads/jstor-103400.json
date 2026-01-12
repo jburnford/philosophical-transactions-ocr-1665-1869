@@ -1,0 +1,59 @@
+{
+  "id": "cae4941079ce892924312a7774e7db7a57f1ca58",
+  "text": "would be by this means destroyed, and the Disease either cured or the spreading of it prevented.\n\nI am, SIR,\n\nTours, &c.\n\nWilliam Beckett.\n\nVII. An Experiment to compare the Paris Weights as they are now us'd at Paris, with the English Weights. By the Reverend J. T. Desaguliers, LL.D. F.R.S.\n\nFinding the Accounts which we have of the French Weights different in different Books, I sent to a curious Gentleman for some Paris Weights exact to the Standard Weights at the Chatelet; and found upon tryal, the Paris Ounce, which contains 576 of their Grains, to be equal to 476 of our Grains Troy; from which Experiment all the other Proportions may be deduc'd.\n\nThe French Pound cont. 16 Ounces.\nOunce —— 8 Drams, or 576 Paris Grains.\nDram —— 3 Deniers.\nDenier —— 24 Grains.\n\nVIII. Some",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103400.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 287,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        784,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103400",
+    "title": "An Experiment to Compare the Paris Weights as They are Now Us'd at Paris, with the English Weights. By the Reverend J. T. Desaguliers, LL.D. F. R. S.",
+    "authors": "J. T. Desaguliers",
+    "year": 1720,
+    "volume": "31",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103400"
+  }
+}

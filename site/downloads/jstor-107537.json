@@ -1,0 +1,89 @@
+{
+  "id": "1e6c4158a5fdfbf537b9fea705ef34a7d09dc1bd",
+  "text": "XXIV. A new demonstration of the binomial theorem. By Thomas Knight, Esq. Communicated by W. H. Wollaston, M. D. Sec. R. S.\n\nRead July 4, 1816.\n\nIt is somewhat remarkable that, amongst the various and far-fetched methods and artifices by which the binomial theorem has been obtained, no one should once have thought of the only course which seems obvious and natural. The equation \\((a + x)^m \\times (a + y)^m = \\{(a + x)(a + y)\\}^m\\) expresses the general property of powers, whether \\(m\\) be positive or negative, whole or fractional; and from this equation, without the help of any artifice, the series in question is deduced.\n\nSome investigations have been found fault with, as drawn from principles allied to the method of fluxions; whilst, on the other hand, a demonstration, taken from the \"Théorie des Fonctions,\" has been represented as perfect: but I cannot help thinking that it is as much connected with the fluxional calculus as any of the rest; for it seems to make no difference whether, in \\((a + x)^m\\), we substitute \\(x + u\\) for \\(x\\), and take the coefficient of \\(u\\), or substitute \\(x + \\dot{x}\\), and take the coefficient of \\(\\dot{x}\\). The former substitution was made because it was known to be equivalent to the other, and has so little apparent connection with the subject, that a student would hardly understand why it was made. The demonstration of Mr. La Croix in the Introduction to his \"Calcul Différentiel\" is\n\nMDCCCXVI. X x\nliable of course to the same objection. If we multiply $a+x$, continually, first by itself, and then by the powers successively arising, we easily see that the second term of each succeeding product is of the form $na^{n-1}x$, $n$ being the exponent of the power: this does not require a more formal proof, and I assume it in what follows. Nor is it more difficult to perceive that, generally, $m$ being positive or negative, whole or fractional, the following form may be assumed,\n\n$$ (a+x)^m = a^m + 'Aa^{m-1}x + ''Aa^{m-2}x^2 + '''Aa^{m-3}x^3 + $$\n\nwhere $'A$, $''A$, $'''A$, &c. are expressions depending on $m$ alone, consequently, $(a+y)^m = a^m + 'Aa^{m-1}y + ''Aa^{m-2}y^2 + '''Aa^{m-3}y^3 + $;\n\nand because $\\{(a+x)(a+y)\\}^m = (a^2 + ax + ay + xy)^m = a^m(a+x+y+\\frac{xy}{a})^m$, by making $(\\pi = 1 + \\frac{x}{a})$\n\nwe have also\n\n$$ \\{(a+x)(a+y)\\}^m = a^m \\left\\{ a^m + 'Aa^{m-1}(x+\\pi y) + ''Aa^{m-2}(x+\\pi y)^2 + '''Aa^{m-3}(x+\\pi y)^3 + \\right\\} $$\n\nor neglecting all the powers of $y$ but the first,\n\n$$ = a^m \\left\\{ a^m + 'Aa^{m-1}x + ''Aa^{m-2}x^2 + '''Aa^{m-3}x^3 + \\right\\} $$\n\n$$ + a^m y \\left\\{ 'Aa^{m-1}\\pi + 2''Aa^{m-2}\\pi x + 3'''Aa^{m-3}\\pi x^2 + \\right\\} $$\n\n$$ + \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots \\ldots $$\n\nHaving thus the forms of the series, nothing is required but to substitute them in the equation\n\n$$ (a+x)^m \\times (a+y)^m = \\{(a+x)(a+y)\\}^m $$\n\nand to compare the coefficients of the first power of $y$ on each side, and we find\n\n$$ 'Aa^{2m-1} + 'A'Aa^{2m-2}x + 'A''Aa^{2m-3}x^2 + 'A'''Aa^{2m-4}x^3 + $$\n\n$$ = 'Aa^{2m-1}\\pi + 2''Aa^{2m-2}\\pi x + 3'''Aa^{2m-3}\\pi x^2 + 4'''Aa^{2m-4}\\pi x^3 + $$\nby putting for \\( \\pi \\) its value \\( 1 + \\frac{x}{a} \\). And by comparing the coefficients of the different powers of \\( x \\) there arise \\( 'A = 'A; 'A'A = 2''A + 'A; 'A''A = 3'''A + 2''A; 'A'''A = 4''''A + 3'''A; \\) and so on; whence \\( ''A = \\frac{'A(A-1)}{2}; '''A = \\frac{'A(A-2)}{3}; ''''A = \\frac{'A(A-3)}{4} \\); and so on.\n\nSuch is the law by which the coefficients are derived from each other, whatever be the value of \\( m \\); it remains to find \\( 'A \\); but I shall first observe, that if, instead of the assumed form of the expansion, we had made\n\n\\[\n(a + x)^m = a^m + 'Aam^{-1}x + ''Ax^2 + '''Ax^3 + \\ldots\n\\]\n\nas some do, our demonstration would have succeeded exactly the same; because the exponent (\\( m \\)) and the first term (\\( a \\)) of the binomials are the same in all the three powers employed.\n\nWe have already seen that \\( 'A = m \\), if \\( m \\) be a whole positive number; or that \\( (a + x)^m = a^m + ma^{m-1}x + \\ldots \\); and from the value of \\( 'A \\) in this one case its value in all the others is easily discovered: thus, let\n\n\\[\n(a + x)^{\\frac{1}{m}} = a^{\\frac{1}{m}} + 'Aa^{\\frac{1}{m}-1}x + \\ldots, \\text{the } m^{th} \\text{ power of this is } a + x;\n\\]\n\nbut \\( \\left( a^{\\frac{1}{m}} + 'Aa^{\\frac{1}{m}-1}x + \\ldots \\right)^m = a^{\\frac{m}{m}} + m'Aa^{\\frac{m-1}{m}} \\times a^{\\frac{1}{m}-1}x + = a + m'Ax + \\ldots \\)\n\nbut \\( a + m'Ax + = a + x \\), consequently \\( 'A = \\frac{1}{m} \\); and\n\n\\[\n(a + x)^{\\frac{1}{m}} = a^{\\frac{1}{m}} + \\frac{1}{m} a^{\\frac{1-m}{m}} x + \\ldots, \\text{next raise this to the } n^{th} \\text{ power, } n \\text{ being a positive integer},\n\\]\n\n\\[\n(a + x)^{\\frac{n}{m}} = \\left( a^{\\frac{1}{m}} + \\frac{1}{m} a^{\\frac{1-m}{m}} x + \\ldots \\right)^n = a^{\\frac{n}{m}} + na^{\\frac{n-1}{m}} \\times \\frac{1}{m} a^{\\frac{1-m}{m}} x + \\ldots\n\\]\nMr. Knight's new demonstration, &c.\n\n\\[ = a^m + \\frac{n}{m} a^{m-1} x + . \\text{ Lastly } (a + x)^{\\frac{-n}{m}} = \\frac{1}{(a + x)^m} = \\]\n\n\\[ = \\frac{1}{\\frac{n}{m} a^m + \\frac{n}{m} a^{m-1} x +} \\quad \\text{(by actual division)} \\quad a^{\\frac{-n}{m}} - \\frac{n}{m} a^{m-1} x + \\]\n\nIn all cases therefore 'A is equal to the exponent of the power.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107537.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 8024,
+    "total-output-tokens": 2103,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1461,
+        2
+      ],
+      [
+        1461,
+        3149,
+        3
+      ],
+      [
+        3149,
+        4952,
+        4
+      ],
+      [
+        4952,
+        5301,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107537",
+    "title": "A New Demonstration of the Binomial Theorem",
+    "authors": "Thomas Knight",
+    "year": 1816,
+    "volume": "106",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/107537"
+  }
+}

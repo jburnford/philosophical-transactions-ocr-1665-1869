@@ -1,0 +1,79 @@
+{
+  "id": "f9d048e3011a8ed2c9b3e06c2058fb10a0fd9a31",
+  "text": "An Extract of an account given by Mr. Flamstead of his own and Mr. Edmund Halleys Observations concerning the Spots in the Sun, appearing in July and August 1676.\n\nThe following Ephemeris was deduced from careful observations (made with the Micrometer) of the Distances of the Spots from the Limb of the Sun, and the differences of Altitudes and Azimuths from the upper and under parts and sides of him. The comparing of the Observations made in two distant places, Greenwich and Oxford, do evince the diligence of the Observers and the goodness of their Instruments; the differences between them being easily excusable, for that the Spot had a diameter more considerable than any of the differences, and was broken into several pieces. See Tab II.\n\nFig. I.\n\n| 1676. | Grenovici | Longit. Latit. from the sun. | 1676. | Oxonii | Long. Lat. |\n|-------|-----------|-----------------------------|-------|--------|------------|\n| Julii | Tempus observationum. | cen. South. | Jul. 25 | 6.46 P.M. Con. | 13.40 2.08 |\n|       | h.         |                      | 26.27 | 28 dies nubili. | Azii.      |\n| 27    | 10.03 A.M. Con. | 9.34 3.25 | 29    | 6.21 A.M. | 3.55 3.22 |\n| 28    | 4.51        | 5.40 2.50          |       |           |            |\n| 29    | 10.31 A.M. | 3.05 3.27          |       |           |            |\n|       | 3.54 P.M.  | 2.25 3.10          |       |           |            |\n| 30    | 9.15 A.M. Ant. | 0.37 3.33 | 30    | 7.20 A.M. | 0.00 3.33 |\n| 31    |             |                 |       |           |            |\n| 1 Aug.| 9.24 A.M.  | 6.48 4.09          | 1 Aug.| 7.03 A.M. | 6.54 3.52 |\n|       | 8.08 A.M.  | 9.49 3.55          |       | 5.06 P.M. | 8.07 3.53 |\n| 2     | 9.36 A.M.  | 12.28 3.27         |       |           |            |\n|       | 4.16 P.M.  | 12.55 3.58         |       |           |            |\n| 3     | 7.38 A.M.  | 14.02 4.04         |       |           |            |\n\nMr. Hally saith, that he saw the Spot again on the fifth day at 8h. 30' mane, very near the limb of the Sun, so that it appeared only as a fine line; but by reason of its fineness and the too great height of the Sun he could not take any measures to determine its place and latitude by; and that, while the Spot continued\ncontinued one, as it was July 25, he measured to the middle of it; as also when the pieces were divided, but not far disjoined: Afterwards, when they were separated considerably, he observed the middle of the bigger Spot, which was to the South, apparently, I suppose; but really, North: for so only his Observations will agree with those of Mr. Flamstead exactly.\n\nHence it seems very evident (faith Mr. Flamstead,) that the Spots way was not inclined to the Ecliptick six or seven degrees, as Scheiner and some others make it, but much less, by the joint consent of the observations of both our Observers. Mr. Hally adds, that considering the motion of the Spot across the Sun's disque, as both their Observations give it, it appears, that the Latitude was not so great at its Entrance into the Sun as in the Middle of him. And by Mr. Flamstead's Observation it was greatest on the first of August, and then again inclining towards the Ecliptick. If you grant this, it will follow, (infers Mr. Flamstead) that the Sun's Axis was inclined to the plain of the Orbis Magnus; but the quantity of this Inclination must not be very great. The Nodes of the Sun's Equinox and Ecliptick he guesses to be not far from the beginning of Cancer and Capricorn; and that from Cancer to Capricorn the Earth is North of the Sun's Equator; from Capricorn to Cancer, South of the same: And the period of the Sun's revolution in respect of the fixed Stars 25 daies, 9½ hours sufficiently exact. Of which things, these two Observers say, they might have been more certain, had not the Spot in its passage broken into so many parts, and those often varied their positions to each other. These Conjectures though probable, yet when another of the like phenomena appears, will still deserve the further consideration of the Curious.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101730.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6640,
+    "total-output-tokens": 1340,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2253,
+        2
+      ],
+      [
+        2253,
+        4064,
+        3
+      ],
+      [
+        4064,
+        4064,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      true,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101730",
+    "title": "An Extract of an Account Given by Mr. Flamstead of His Own and Mr. Edmund Halleys Observations Concerning the Spots in the Sun, Appearing in July and August 1676",
+    "authors": "Mr. Flamstead, Edmund Halleys",
+    "year": 1676,
+    "volume": "11",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/101730"
+  }
+}

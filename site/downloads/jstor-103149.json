@@ -1,0 +1,59 @@
+{
+  "id": "346f1dec28d0865e1e1b7d9772cecb12de3f1a01",
+  "text": "V. An Extract from a Letter of Mr. Edw. Lhwyd to Dr. Tancred Robinson; giving some farther Account of the Birds mentioned in the foregoing Letter.\n\nOxford, Dec. 22. 1696.\n\nThe Person that gave me the Account of the Scarlet Birds, was Mr. Roberts; whom you will find mention'd in Camden, Pembrokeshire. He said they were extraordinary tame; or at least so intent upon their feeding, that being forc'd from their places, they would not remove above 2 or 3 Yards. The Cocks, he says, were of a deep Scarlet Colour, without any distinction in the Feathers of their Wings, that they could discern, excepting that the Tail and the lower part of the Belly were a little paler. The Hen had a lovely Scarlet Breast; her Head and Back grey. He is somewhat Curious in Birds; and says, he never saw any that in the least resembled them as to their Colour.\n\nOne of the other two Birds was shot, and its Skin stuffed; which probably I shall meet with this next Summer.\n\nE. LHWYD.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103149.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 300,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        965,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103149",
+    "title": "An Extract from a Letter of Mr Edw. Lhwyd to Dr. Tancred Robinson; Giving Some Farther Account of the Birds Mentioned in the Foregoing Letter",
+    "authors": "Edw. Lhwyd",
+    "year": 1710,
+    "volume": "27",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103149"
+  }
+}

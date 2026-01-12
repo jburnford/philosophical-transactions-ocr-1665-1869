@@ -1,0 +1,59 @@
+{
+  "id": "6a36e75addb7583472f6470c5010208c861ac4f6",
+  "text": "10th, is to shew the easiness there is in reducing other Fortifications (provided they have second flans) to this manner, without altering the Face of the Bastion, the Motes, or the Outworks. The 11th, is the Plane of the City of Dunkirk, with the Antient Fortifications, upon which are placed also the new ones (of the Author) that both Methods may be the better compared together. The 12th, is a Plane of the City of Maastricht and its old Fortifications but reform'd after this new manner.\n\nAdvertisement.\n\nThe Breviat of this Book is not mention'd in the Contents, because it was thought at the time when the first sheet was printing, the preceding Discourses would have been sufficient for the Quantity of paper usually allow'd for each of these Tracts.\n\nOXFORD,\n\nPrinted at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul's Church-yard LONDON, 1684.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102054.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 289,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        918,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102054",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1684,
+    "volume": "14",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102054"
+  }
+}

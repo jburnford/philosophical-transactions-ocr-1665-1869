@@ -1,0 +1,129 @@
+{
+  "id": "dda1ff47c45868976b649b4e3963182b83744f17",
+  "text": "XIV. On the Calculus of Functions. By W. H. L. Russell, Esq., A.B.\n\nCommunicated by Arthur Cayley, Esq., F.R.S.\n\nReceived October 31,—Read December 5, 1861.\n\nOne of the first efforts towards the formation of the Calculus of Functions is due to Laplace, whose solution of the functional equation of the first order, by means of two equations in finite differences, is well known. Functional equations were afterwards treated systematically by Mr. Babbage; his memoirs were published in the Transactions of this Society, and there is some account of them in Professor Boole's Treatise on the Calculus of Finite Differences. A very important functional equation was solved by Poisson in his Memoirs on Electricity; which suggested to me the investigations I have now the honour to lay before the Society.\n\nI have commenced by discussing the linear functional equation of the first order with constant coefficients, when the subjects of the unknown functions are rational functions of the independent variable, and have shown how the solution of such equations may in a variety of cases be effected by series, and by definite integrals. I have then considered functional equations with constant coefficients of the higher orders, and have proved that they may be solved by methods similar to those used for equations of the first order. I have next proceeded with the solution of functional equations with variable coefficients.\n\nIn connexion with functional equations, I have considered equations involving definite integrals, and containing an unknown function under the integral sign; the methods employed for their resolution depend chiefly upon the solution of functional equations, as effected in this paper. The Calculus of Functions has now for a long time engaged the attention of analysts; and I hope that the following investigations will be found to have extended its power and resources.\n\nLet the functional equation be\n\n$$\\phi \\left( \\frac{n^2 + 2n - 8}{4r} - nx + rx^2 \\right) - a\\phi(x) = F(x),$$\n\nwhere $\\phi$ is an unknown, and $F$ a known function.\n\nLet\n\n$$x = \\frac{n}{2r} + \\frac{2}{r} \\cos z,$$\n\nand the equation becomes\n\n$$\\phi \\left( \\frac{n}{2r} + \\frac{2}{r} \\cos 2z \\right) - a\\phi \\left( \\frac{n}{2r} + \\frac{2}{r} \\cos z \\right) = F \\left( \\frac{n}{2r} + \\frac{2}{r} \\cos z \\right);$$\n\nor if\n\n$$\\phi \\left( \\frac{n}{2r} + \\frac{2}{r} \\cos z \\right) = \\phi_1(z),$$\nwe shall have\n\n\\[ \\varphi_1(2z) - \\alpha \\varphi_1(z) = F\\left\\{ \\frac{n}{2r} + \\frac{2}{r} \\cos z \\right\\}. \\]\n\nLet\n\n\\[ z = \\frac{1}{2^{v+1}}, \\]\n\nthen\n\n\\[ \\varphi_1\\left( \\frac{1}{2^v} \\right) - \\alpha \\varphi_1\\left( \\frac{1}{2^{v+1}} \\right) = F\\left\\{ \\frac{n}{2r} + \\frac{2}{r} \\cos \\frac{1}{2^{v+1}} \\right\\}. \\]\n\nLet\n\n\\[ F\\left\\{ \\frac{n}{2r} + \\frac{2}{r} \\cos \\frac{1}{2^{v+1}} \\right\\} = \\chi\\left( \\frac{1}{2^{v+1}} \\right), \\]\n\nthen\n\n\\[ \\varphi_1\\left( \\frac{1}{2^v} \\right) - \\alpha \\varphi_1\\left( \\frac{1}{2^{v+1}} \\right) = \\chi\\left( \\frac{1}{2^{v+1}} \\right), \\]\n\nand\n\n\\[ \\varphi_1\\left( \\frac{1}{2^v} \\right) = \\chi\\left( \\frac{1}{2^{v+1}} \\right) + \\alpha \\chi\\left( \\frac{1}{2^{v+2}} \\right) + \\alpha^2 \\chi\\left( \\frac{1}{2^{v+3}} \\right) + \\cdots + \\frac{C}{2^{v+1}}. \\]\n\nNow\n\n\\[ \\int_0^\\pi \\frac{\\chi(\\varepsilon \\theta) + \\chi(-\\varepsilon \\theta)}{1 - 2\\varepsilon \\cos \\theta + \\varepsilon^2} d\\theta = \\frac{2\\pi}{1 - \\varepsilon^2} \\chi(\\varepsilon), \\]\n\nwhence \\( (\\alpha) \\) is less than unity: then if\n\n\\[ \\varepsilon = 2^{v+n+1}, \\]\n\nand\n\n\\[ \\omega = (v+1) \\log_2 + n \\log_2, \\]\n\nalso\n\n\\[ f(\\theta) = \\chi(\\varepsilon \\theta) + \\chi(-\\varepsilon \\theta), \\]\n\nwe shall have\n\n\\[ \\chi\\left( \\frac{1}{2^{v+1}} \\right) = \\frac{1}{2\\pi} \\int_0^\\pi \\frac{\\varepsilon \\omega - \\varepsilon^{-\\omega}}{\\varepsilon \\omega - 2 \\cos \\theta + \\varepsilon^{-\\omega}} f(\\theta) d\\theta \\]\n\n\\[ = \\frac{1}{\\pi} \\int_0^\\infty d\\theta d\\varepsilon f(\\theta) \\cdot \\frac{\\varepsilon(\\pi-\\theta)\\varepsilon + \\varepsilon^{-(\\pi-\\theta)\\varepsilon}}{\\varepsilon^{\\pi\\varepsilon} - \\varepsilon^{-\\pi\\varepsilon}} \\sin \\left\\{ \\varepsilon \\log_2 2^{v+1} + n\\varepsilon \\log_2 2 \\right\\}; \\]\n\n\\[ \\therefore \\quad \\chi\\left( \\frac{1}{2^{v+1}} \\right) + \\alpha \\chi\\left( \\frac{1}{2^{v+2}} \\right) + \\alpha^2 \\chi\\left( \\frac{1}{2^{v+3}} \\right) + \\alpha^3 \\chi\\left( \\frac{1}{2^{v+4}} \\right) + \\cdots \\]\n\n\\[ = \\frac{1}{\\pi} \\int_0^\\infty d\\theta d\\varepsilon f(\\theta) \\cdot \\frac{\\varepsilon(\\pi-\\theta)\\varepsilon + \\varepsilon^{-(\\pi-\\theta)\\varepsilon}}{\\varepsilon^{\\pi\\varepsilon} - \\varepsilon^{-\\pi\\varepsilon}} \\left\\{ \\sin \\left( \\varepsilon \\log_2 2^{v+1} \\right) + \\alpha \\sin \\left( \\varepsilon \\log_2 2^{v+1} + \\varepsilon \\log_2 2 \\right) + \\alpha^2 \\sin \\left( \\varepsilon \\log_2 2^{v+1} + 2\\varepsilon \\log_2 2 \\right) + \\&c. \\right\\} \\]\n\n\\[ = \\frac{1}{\\pi} \\int_0^\\infty d\\theta d\\varepsilon f(\\theta) \\cdot \\frac{\\varepsilon(\\pi-\\theta)\\varepsilon + \\varepsilon^{-(\\pi-\\theta)\\varepsilon}}{\\varepsilon^{\\pi\\varepsilon} - \\varepsilon^{-\\pi\\varepsilon}} \\cdot \\frac{\\sin \\left( \\varepsilon \\log_2 2^{v+1} \\right) - \\alpha \\sin \\left( \\varepsilon \\log_2 2^{v+1} + \\varepsilon \\log_2 2 \\right)}{1 - 2\\varepsilon \\cos \\left( \\varepsilon \\log_2 2^{v+1} \\right) + \\varepsilon^2}. \\]\n\nHence\n\n\\[ \\varphi(x) = \\frac{1}{\\pi} \\int_0^\\infty d\\theta d\\varepsilon f(\\theta) \\cdot \\frac{\\varepsilon(\\pi-\\theta)\\varepsilon + \\varepsilon^{-(\\pi-\\theta)\\varepsilon}}{\\varepsilon^{\\pi\\varepsilon} - \\varepsilon^{-\\pi\\varepsilon}} \\cdot \\frac{\\sin \\left( \\varepsilon \\log_2 2^{v+1} \\right) - \\alpha \\sin \\left( \\varepsilon \\log_2 2^{v+1} + \\varepsilon \\log_2 2 \\right)}{1 - 2\\varepsilon \\cos \\left( \\varepsilon \\log_2 2^{v+1} \\right) + \\varepsilon^2} \\]\n\n\\[ + \\frac{C}{\\left( \\cos^{-1} \\frac{2rx-n}{4} \\right) \\log_2 \\frac{a}{b}}, \\]\nwhere\n\n\\[ f(\\theta) = F\\left\\{ \\frac{n}{2r} + \\frac{1}{r} \\cos \\cos \\theta (\\varepsilon^\\theta + \\varepsilon^{-\\theta}) + \\frac{i}{r} \\sin \\cos \\theta (\\varepsilon^\\theta - \\varepsilon^{-\\theta}) \\right\\} \\]\n\n\\[ + F\\left\\{ \\frac{n}{2r} + \\frac{1}{r} \\cos \\cos \\theta (\\varepsilon^\\theta + \\varepsilon^{-\\theta}) - \\frac{i}{r} \\sin \\cos \\theta (\\varepsilon^\\theta - \\varepsilon^{-\\theta}) \\right\\}. \\]\n\nNext let the functional equation be\n\n\\[ \\varphi\\left( \\frac{n^3}{27r^2} - \\frac{4n}{3r} \\right) + \\left( \\frac{n^2}{3r} - 3 \\right)x + nx^2 + rx^3 - \\alpha \\varphi(x) = F(x). \\]\n\nLet\n\n\\[ x = -\\frac{n}{3r} + \\frac{2}{\\sqrt{r}} \\cos z, \\]\n\nand the equation will be transformed into\n\n\\[ \\varphi\\left( -\\frac{n}{3r} + \\frac{2}{\\sqrt{r}} \\cos 3z \\right) - \\alpha \\varphi\\left( -\\frac{n}{3r} + \\frac{2}{\\sqrt{r}} \\cos z \\right) = F\\left( -\\frac{n}{3r} + \\frac{2}{\\sqrt{r}} \\cos z \\right); \\]\n\nthis may be written\n\n\\[ \\varphi_1(3z) - \\alpha \\varphi_1(z) = \\chi(z). \\]\n\nLet\n\n\\[ z = \\frac{1}{3^{v+1}}, \\]\n\n\\[ \\varphi_1\\left( \\frac{1}{3^v} \\right) - \\alpha \\varphi_1\\left( \\frac{1}{3^{v+1}} \\right) = \\chi\\left( \\frac{1}{3^{v+1}} \\right), \\]\n\nwhence\n\n\\[ \\varphi_1\\left( \\frac{1}{3^v} \\right) = \\chi\\left( \\frac{1}{3^{v+1}} \\right) + \\alpha \\chi\\left( \\frac{1}{3^{v+2}} \\right) + \\alpha^2 \\chi\\left( \\frac{1}{3^{v+3}} \\right) + \\cdots \\]\n\nThe same method evidently applies, and we thus obtain the value of \\( \\varphi(x) \\).\n\nIn the same way we may treat the equation\n\n\\[ \\varphi(a_0 + a_1x + a_2x^2 + a_3x^3 + \\cdots + a_mx^m) - \\alpha \\varphi(x) = F(x), \\]\n\nwhere \\( a_0, a_1, a_2, \\ldots, a_{m-2} \\) must be supposed given in terms of \\( a_{m-1}, a_m \\).\n\nWe will now consider the equation\n\n\\[ \\varphi\\left( \\frac{(n-r)r^2 + 2rn^2 + 2r(r' - n'r - 2nn')x + ((n-r)r'^2 + 2rn'^2)x^2}{(n'-r')r^2 + 2rn'^2 + 2r(r' - n'r - 2nn')x + ((n'-r')r'^2 + 2rn'^2)x^2} \\right) - \\alpha \\varphi(x) = F(x). \\]\n\nLet\n\n\\[ x = \\frac{n+r \\cos z}{n'+r' \\cos z}. \\]\n\nThen the equation becomes\n\n\\[ \\varphi\\left( \\frac{n+r \\cos 2z}{n'+r' \\cos 2z} \\right) - \\alpha \\varphi\\left( \\frac{n+r \\cos z}{n'+r' \\cos z} \\right) = F\\left( \\frac{n+r \\cos z}{n'+r' \\cos z} \\right), \\]\n\nwhich may be treated as before: as we may write it\n\n\\[ \\varphi_1(2z) - \\alpha \\varphi_1(z) = \\chi(z). \\]\n\nSimilar methods will evidently apply to the equation\n\n\\[ \\varphi\\left( \\frac{a_0 + a_1x + a_2x^2 + \\cdots + a_mx^m}{b_0 + b_1x + b_2x^2 + \\cdots + b_mx^m} \\right) - \\alpha \\varphi(x) = F(x). \\]\nThe general linear functional equation of the \\( n \\)th order with constant coefficients is\n\n\\[\n\\varphi(\\psi^n x) + a\\varphi(\\psi^{n-1} x) + b\\varphi(\\psi^{n-2} x) + \\ldots + h\\varphi(x) + k\\varphi(x) = F(x),\n\\]\n\nwhere the subject \\( \\psi x \\) is supposed to be the same as in the preceding equations.\n\nLet \\( x = \\chi(z) \\), and \\( \\psi(x) = \\psi\\chi(z) = \\chi(mx) \\) suppose; then \\( \\psi^2(x) = \\chi m^2 z \\), \\( \\psi^3 x = \\chi m^3 z \\), &c., and the equation becomes\n\n\\[\n\\varphi\\chi(m^n z) + a\\varphi\\chi(m^{n-1} z) + b\\varphi\\chi(m^{n-2} z) + \\ldots + h\\varphi\\chi(mz) + k\\varphi\\chi(z) = F\\chi(z).\n\\]\n\nLet \\( z = \\frac{1}{m^{v+n}} \\), and the equation becomes\n\n\\[\n\\varphi\\chi\\left(\\frac{1}{m^v}\\right) + a\\varphi\\chi\\left(\\frac{1}{m^{v+1}}\\right) + b\\varphi\\chi\\left(\\frac{1}{m^{v+2}}\\right) + h\\varphi\\chi\\left(\\frac{1}{m^{v+n-1}}\\right) + k\\varphi\\chi\\left(\\frac{1}{m^{v+n}}\\right) = F\\chi\\left(\\frac{1}{m^{v+n}}\\right).\n\\]\n\nThis equation may be written\n\n\\[\n\\left[1 + a\\varepsilon^d + b\\varepsilon^{2d} + \\ldots + h\\varepsilon^{(n-1)d} + k\\varepsilon^{nd}\\right] \\varphi\\chi\\left(\\frac{1}{m^v}\\right) = F\\chi\\left(\\frac{1}{m^{v+n}}\\right),\n\\]\n\nor\n\n\\[\n\\left\\{(1 + \\alpha_1\\varepsilon^d)(1 + \\alpha_2\\varepsilon^d)\\ldots(1 + \\alpha_n\\varepsilon^d)\\right\\} \\varphi\\chi\\left(\\frac{1}{m^v}\\right) = F\\chi\\left(\\frac{1}{m^{v+n}}\\right),\n\\]\n\n\\[\n\\therefore \\quad \\varphi\\chi\\left(\\frac{1}{m^v}\\right)\n\\]\n\n\\[\n= A_1\\left[F\\chi\\left(\\frac{1}{m^{v+n}}\\right) - \\alpha_1 F\\chi\\left(\\frac{1}{m^{v+n+1}}\\right) + \\alpha_1^2 F\\chi\\left(\\frac{1}{m^{v+n+2}}\\right) + \\ldots\\right]\n\\]\n\n\\[\n+ A_2\\left[F\\chi\\left(\\frac{1}{m^{v+n}}\\right) - \\alpha_2 F\\chi\\left(\\frac{1}{m^{v+n+1}}\\right) + \\alpha_2^2 F\\chi\\left(\\frac{1}{m^{v+n+2}}\\right) + \\ldots\\right]\n\\]\n\n\\[\n+ A_3\\left[F\\chi\\left(\\frac{1}{m^{v+n}}\\right) - \\alpha_3 F\\chi\\left(\\frac{1}{m^{v+n+1}}\\right) + \\alpha_3^2 F\\chi\\left(\\frac{1}{m^{v+n+2}}\\right) + \\ldots\\right] + \\ldots\n\\]\n\n\\[\n+ \\frac{C_1}{(-\\alpha_1)^v} + \\frac{C_2}{(-\\alpha_2)^v} + \\frac{C_3}{(-\\alpha_3)^v} + \\ldots,\n\\]\n\nwhere \\( A_1, A_2, A_3, \\ldots \\) are certain functions of \\( \\alpha_1, \\alpha_2, \\alpha_3, \\ldots \\), and \\( C_1, C_2, C_3, \\ldots \\) are arbitrary constants, from whence we at once obtain the value of \\( \\varphi(x) \\).\n\nWe now proceed to consider functional equations with variable coefficients. And first let the equation be\n\n\\[\n\\varphi(x) - \\chi(x)\\varphi\\left(\\frac{a + bx}{c + ex}\\right) = F(x),\n\\]\n\nwhere \\( \\chi(x) \\) and \\( F(x) \\) are known rational functions of \\( (x) \\).\n\nLet\n\n\\[\nx = u_x, \\quad \\frac{a + bu_x}{c + eu_x} = u_{x+1},\n\\]\n\nthen\n\n\\[\nu_{x+1} = \\frac{a + bu_x}{c + eu_x}.\n\\]\n\nSuppose a solution of this equation of finite differences to be\n\n\\[\nu_z = \\frac{A + Bz}{C + Ez},\n\\]\nthe equation becomes\n\n\\[ \\varphi u_z - \\chi(u_z) \\varphi(u_{z+1}) = Fu_z. \\]\n\nLet\n\n\\[ \\chi u_z = \\alpha \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots}, \\]\n\nand the equation may then be written\n\n\\[ \\alpha^z \\frac{\\Gamma(\\alpha_1 + z) \\Gamma(\\alpha_2 + z) \\Gamma(\\alpha_3 + z) \\ldots}{\\Gamma(\\beta_1 + z) \\Gamma(\\beta_2 + z) \\Gamma(\\beta_3 + z) \\ldots} \\varphi(u_z) - \\alpha^{z+1} \\frac{\\Gamma(\\alpha_1 + z + 1) \\Gamma(\\alpha_2 + z + 1) \\Gamma(\\alpha_3 + z + 1) \\ldots}{\\Gamma(\\beta_1 + z + 1) \\Gamma(\\beta_2 + z + 1) \\Gamma(\\beta_3 + z + 1) \\ldots} \\varphi(u_{z+1}) = Fu_z. \\]\n\nHence\n\n\\[ \\varphi(u_z) = Fu_z + \\alpha \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots} F(u_{z+1}) + \\alpha^2 \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots} F(u_{z+2}) + \\ldots + C \\frac{\\Gamma(\\beta_1 + z) \\Gamma(\\beta_2 + z) \\ldots}{\\Gamma(\\alpha_1 + z) \\Gamma(\\alpha_2 + z) \\ldots}. \\]\n\n\\( Fu_z \\) is a rational function of \\( z \\), and may therefore be decomposed into a series of terms of the form\n\n\\[ Fu_z = \\frac{1}{h_1 + k_1 z} + \\frac{1}{h_2 + k_2 z} + \\frac{1}{h_3 + k_3 z} + \\ldots \\]\n\nHence\n\n\\[ \\varphi u_z = \\frac{1}{h_1 + k_1 z} + \\alpha \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots} \\frac{1}{h_1 + k_1(z + 1)} + \\&c. \\]\n\n\\[ + \\frac{1}{h_2 + k_2 z} + \\alpha \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots} \\frac{1}{h_2 + k_2(z + 1)} + \\&c. \\]\n\n\\[ + \\frac{1}{h_3 + k_3 z} + \\alpha \\frac{(\\alpha_1 + z)(\\alpha_2 + z)(\\alpha_3 + z) \\ldots}{(\\beta_1 + z)(\\beta_2 + z)(\\beta_3 + z) \\ldots} \\frac{1}{h_3 + k_3(z + 1)} + \\&c. \\]\n\n\\[ + C \\frac{\\Gamma(\\beta_1 + z) \\Gamma(\\beta_2 + z) \\Gamma(\\beta_3 + z) \\ldots}{\\Gamma(\\alpha_1 + z) \\Gamma(\\alpha_2 + z) \\Gamma(\\alpha_3 + z) \\ldots}. \\]\n\nWe may obtain a multiple integral which shall be equivalent to any of the above series, by remembering that\n\n\\[ \\frac{\\alpha(\\alpha + 1)(\\alpha + 2) \\ldots (\\alpha + n - 1)}{\\beta(\\beta + 1)(\\beta + 2) \\ldots (\\beta + n - 1)} = \\frac{\\Gamma \\beta}{\\Gamma \\alpha \\Gamma(\\beta - \\alpha)} \\int_0^1 v^{\\alpha - \\alpha - 1}(1 - v)^{\\beta - \\alpha - 1} dv \\]\n\nalso\n\n\\[ \\frac{1}{\\beta(\\beta + 1)(\\beta + 2) \\ldots (\\beta + n - 1)} = \\frac{\\Gamma \\beta}{2\\pi} \\int_{-\\infty}^{\\infty} e^{iv} dv \\]\n\nand summing accordingly. We may hence immediately deduce the value of \\( \\varphi(x) \\).\n\nIt is evident that the functional equation\n\n\\[ \\varphi(a + bx + cx^2) - \\alpha \\frac{\\Psi(x)}{\\Psi(a + cx + cx^2)} \\varphi(x) = F(x), \\]\n\nMDCCCLXII.\nwhen $\\psi_1$ and $F_1$ are known functions of $(x)$, may be reduced to the form\n\n$$\\varphi_1(a + bx + cx^2) - \\alpha \\varphi_1(x) = F(x)\\psi(a + bx + cx^2)$$\n\nby making\n\n$$\\varphi_1(x) = \\psi(x)\\varphi(x).$$\n\nThe second equation has already been considered; it becomes, therefore, interesting to ascertain what equations are included under the form of the first equation, in other words, to consider what forms the algebraical expression\n\n$$\\frac{\\psi(x)}{\\psi(a + bx + cx^2)}$$\n\ncan possibly take.\n\nThe following are a few of them:\n\n$$\\frac{\\sqrt{(x+2\\sqrt{ac}-b)}}{\\sqrt{a+\\sqrt{c}.x}}, \\quad \\frac{x-a}{x(b+cx)}, \\quad \\frac{x^2-a^2}{(2a+bx+cx^2)x(b+cx)}, \\quad \\frac{\\sqrt{x^2-2bx+b^2-4ac}}{a-cx^2}.$$  \n\nMany others may, in like manner, be imagined; and the same methods, mutatis mutandis, apply to functional equations of the higher orders with variable coefficients.\n\nI now come to the consideration of equations involving definite integrals, when the equation contains an unknown function under the sign of definite integration.\n\nLet us take the equation\n\n$$\\int_0^1 \\frac{F_1(x) + F_2(x)x^2}{F_3(x) + F_4(x)x^2 + F_5(x)x^4} dx \\varphi(x) = F(x),$$\n\nwhere $\\varphi(x)$ is an unknown function of $(x)$ not containing $(x)$, $F_1(x)$, $F_2(x)$, ..., $F_5(x)$ rational functions of $(x)$ which is supposed to vary independently of $(x)$, to determine $\\varphi(x)$.\n\nSuppose the equation can be written in the form\n\n$$\\int_0^1 \\frac{\\lambda(x)dx}{\\sqrt{1-x^2}\\left[1-(x^2)^2 + \\mu(1-x^2)\\right]} = F(x),$$\n\nwhere\n\n$$\\lambda(x) = \\varphi(x)\\sqrt{1-x^2}.$$\n\nLet $x = \\sin \\frac{\\theta}{2}$, and the equation reduces to\n\n$$\\int_0^\\pi d\\theta \\left(\\sin \\frac{\\theta}{2}\\right)\\left\\{\\frac{1-(x^2)^2}{1-2x\\cos \\theta + x^2} + \\frac{\\mu(1-x^2)}{1-2x\\cos \\theta + x^2}\\right\\} = 2F(x);$$\n\nor if\n\n$$\\psi(x) = \\int_0^\\pi d\\theta \\cdot \\frac{(1-x^2)\\lambda\\left(\\sin \\frac{\\theta}{2}\\right)}{1-2x\\cos \\theta + x^2},$$\n\nwe find\n\n$$\\psi(x) + \\mu\\psi(x) = 2F(x).$$\n\nSuppose the solution of this equation be determined by the former investigations to be\n\n$$\\psi(x) = f(x),$$\n\nthen\n\n$$\\int_0^\\pi (1-x^2)d\\theta \\left(\\sin \\frac{\\theta}{2}\\right) = f(x).$$\n\nAssume\n\n$$\\lambda \\sin \\frac{\\theta}{2} = a_0 + a_1 \\cos \\theta + a_2 \\cos 2\\theta + a_3 \\cos 3\\theta + \\ldots,$$\nthen since\n\n\\[\n\\frac{1 - \\alpha^2}{1 - 2\\alpha \\cos \\theta + \\alpha^2} = 1 + 2\\alpha \\cos \\theta + 2\\alpha^2 \\cos 2\\theta + \\ldots,\n\\]\n\nwe have\n\n\\[\n\\pi(a_0 + a_1 \\alpha + a_2 \\alpha^2 + \\ldots) = f(\\alpha);\n\\]\n\n\\[\n\\therefore \\quad a_0 + a_1 e^{i\\theta} + a_2 e^{2i\\theta} + \\ldots = \\frac{1}{\\pi} f(e^{i\\theta})\n\\]\n\n\\[\na_0 + a_1 e^{-i\\theta} + a_2 e^{-2i\\theta} + \\ldots = \\frac{1}{\\pi} f(e^{-i\\theta}).\n\\]\n\nHence\n\n\\[\n\\lambda \\left( \\sin \\frac{\\theta}{2} \\right) = \\frac{1}{2\\pi} \\{ f(e^{i\\theta}) + f(e^{-i\\theta}) \\},\n\\]\n\nwhence \\( \\varphi(x) \\) can be determined.\n\nSimilar treatment will of course apply to the equation\n\n\\[\n\\int_0^1 F_1(x) \\varphi(x) \\psi(\\alpha) = F(\\alpha),\n\\]\n\nbut the functional equation employed for its solution (when possible by this method) will be of a higher order.\n\nLet us, lastly, consider the equation\n\n\\[\n\\int_0^1 F_1(x) \\varphi(x) \\psi(\\alpha) = F(\\alpha),\n\\]\n\nto find \\( \\varphi \\), where \\( F_1x \\) is a known function of \\( x \\) not containing \\( \\alpha \\), and \\( \\alpha \\) varies independently of \\( x \\).\n\nLet \\( \\psi(\\alpha) = \\beta \\), then \\( \\alpha = \\psi^{-1} \\beta \\), and the equation becomes\n\n\\[\n\\int_0^1 F_1(x) \\varphi(x) \\beta = F \\psi^{-1}(\\beta).\n\\]\n\nLet\n\n\\[\n\\varphi(x) = A_0 + A_1 x \\beta + A_2 x^2 \\beta^2 + \\ldots,\n\\]\n\nthen we shall have\n\n\\[\nA_0 \\int_0^1 dx F_1x + A_1 \\int_0^1 dx x F(x) \\cdot \\beta + A_2 \\int_0^1 dx x^2 F(x) \\cdot \\beta^2 + \\ldots\n\\]\n\n\\[\n= F \\psi^{-1}(\\beta) + F' \\psi^{-1}(\\beta) \\cdot \\beta + F'' \\psi^{-1}(\\beta) \\cdot \\frac{\\beta^2}{1 \\cdot 2} + \\ldots;\n\\]\n\nthen\n\n\\[\nA_0 = \\frac{F \\psi^{-1}(0)}{\\int_0^1 dx F_1x}, \\quad A_1 = \\frac{F' \\psi^{-1}(0)}{\\int_0^1 dx x F(x)} \\ldots\n\\]\n\nHence\n\n\\[\n\\varphi(\\xi) = \\frac{F \\psi^{-1}(0)}{\\int_0^1 dx F_1x} + \\frac{F' \\psi^{-1}(0)}{\\int_0^1 dx x F(x)} \\cdot \\xi + \\frac{F'' \\psi^{-1}(0)}{\\int_0^1 dx x^2 F(x)} \\cdot \\frac{\\xi^2}{1 \\cdot 2} + \\frac{F''' \\psi^{-1}(0)}{\\int_0^1 dx x^3 F(x)} \\cdot \\frac{\\xi^3}{1 \\cdot 2 \\cdot 3} + \\ldots,\n\\]\n\n\\( \\xi \\) being any variable.\n\nNow suppose\n\n\\[\n\\frac{1}{\\int_0^1 dx x^n F_1x} = \\chi(n),\n\\]\n\nand that we are able to express \\( \\chi(n) \\) by a definite integral, so that\n\n\\[\n\\chi(n) = \\int f(v)(\\lambda(v))^n dv,\n\\]\nthe integral being supposed to have certain finite limits, we shall have\n\n\\[ \\varphi(\\xi) = \\int f(v) F \\psi^{-1}(\\xi \\lambda(v)) \\cdot dv. \\]\n\nThus if\n\n\\[ \\int_0^x (x + 1) \\varphi(x \\psi(\\alpha)) = F(\\alpha), \\]\n\nwe have\n\n\\[ \\varphi(\\xi) = \\frac{1}{2} \\xi \\frac{d}{d\\xi} F \\psi^{-1}(\\xi) + \\frac{3}{4} F \\psi^{-1}(\\xi) - \\frac{1}{8} \\int_0^\\infty e^{-\\frac{\\pi}{4} v} dv F \\psi^{-1}(\\xi e^{-v}). \\]",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108832.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 14664,
+    "total-output-tokens": 7776,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2389,
+        2
+      ],
+      [
+        2389,
+        5729,
+        3
+      ],
+      [
+        5729,
+        8168,
+        4
+      ],
+      [
+        8168,
+        10893,
+        5
+      ],
+      [
+        10893,
+        13580,
+        6
+      ],
+      [
+        13580,
+        15842,
+        7
+      ],
+      [
+        15842,
+        18016,
+        8
+      ],
+      [
+        18016,
+        18415,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108832",
+    "title": "On the Calculus of Functions",
+    "authors": "W. H. L. Russell",
+    "year": 1862,
+    "volume": "152",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/108832"
+  }
+}

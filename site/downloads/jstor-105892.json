@@ -1,0 +1,59 @@
+{
+  "id": "8db4c6d849d2a15e701088a135181ce633fa17cd",
+  "text": "XXIII. Observations made at Dinapoor, June 4, 1769, on the Planet Venus, when passing over the Sun's Disk, June 4, 1769, with Three different Quadrants, and a Two Foot reflecting Telescope: Communicated to the Royal Society, by the Court of Directors of the East India Company.\n\nAt sun-rise cloudy\n\nAt 5 20 32 A.M. The sun disingaged from the clouds when his true altitude was 1 12 11 When Venus appeared on the sun's disk.\n\nAt 7 5 22 The beginning of the emersion when the sun's altitude was 23 35 57\n\nAt 7 23 36 The end of the emersion when the sun's altitude was 27 29 20 The sun's meridian altitude this day, was 87 56 The latitude of the place where the observation was made, is 25° 27' N.\n\nThe above observation was made by Luis Deglofs, Captain of engineers, with the assistance of J. Lang and A. Stoker.\n\nN. B. The sun's altitude with the hour is exactly corrected, and all the allowances made.\n\nXXIV. Directions",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105892.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 335,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        920,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105892",
+    "title": "Observations Made at Dinapoor, June 4, 1769, on the Planet Venus, When Passing Over the Sun's Disk, June 4, 1769, with Three Different Quadrants, and a Two Foot Reflecting Telescope: Communicated to the Royal Society, by the Court of Directors of the East India Company",
+    "authors": null,
+    "year": 1770,
+    "volume": "60",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105892"
+  }
+}

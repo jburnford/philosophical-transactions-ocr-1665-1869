@@ -1,0 +1,59 @@
+{
+  "id": "e3f5db2ca64520ae3b36520461365015dcaa4ef2",
+  "text": "ERRATA.\n\nP. 48. l. ult. for effected r. affected\n77. l. 4. for Eye to. This r. Eye. To this\n98. l. 9. for promontry r. promontory\n561. l. 2. for unfoiled r. unfoiled\n571. l. 21. for $5^\\circ 2'$ r. $5^\\circ 20'$\nib. l. 26. for a mean r. me an",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105687.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 182,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        242,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105687",
+    "title": "Errata",
+    "authors": null,
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105687"
+  }
+}

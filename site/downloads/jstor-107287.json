@@ -1,0 +1,69 @@
+{
+  "id": "110627256b257e1db4d68160657cfe1bf101de44",
+  "text": "VIII. On a new Property of the Tangents of the three Angles of a Plane Triangle. By Mr. William Garrard, Quarter Master of Instruction at the Royal Naval Asylum at Greenwich. Communicated by the Astronomer Royal.\n\nRead February 11, 1808.\n\nProposition I. In every acute angled plane triangle, the sum of the three tangents of the three angles multiplied by the square of the radius, is equal to the continued product of the tangents.\n\nDemonstration.—Let AH, HI, and IB be the arches to represent the given angles; and AG, HK, and BT be their tangents, put \\( r \\) the radius, \\( AG = a \\), and \\( BT = b \\),\n\nThen \\( \\frac{r^2}{a} \\) and \\( \\frac{r^2}{b} \\) will be the tangents of HD and DI.\n\nNow by Prop. VIII. Sect. I. Book I. Emerson's Trigonometry,\n\nAs radius square—product of two tangents\n\nIs to radius square,\n\nSo is the sum of the tangents\n\nTo the tangent of their sum.\n\n\\[\n\\therefore r^2 - \\frac{r^4}{ab} : r^2 :: \\frac{r^2}{a} + \\frac{r^2}{b} : \\frac{r^2a + r^2b}{ab - r^2} = HK;\n\\]\n\ntherefore \\( a + b + \\frac{r^2a + r^2b}{ab - r^2} = \\frac{a^2b + ab^2}{ab - r^2} = \\) the sum of the three tangents,\n\nand \\( \\frac{a^2b + ab^2}{ab - r^2} \\times r^2 = ab \\times \\frac{r^2a + r^2b}{ab - r^2} = \\) their continued product.\n\nQ. E. D.\nMr. Garrard on a new Property of the Tangents, &c.\n\nPROPOSITION II. In every obtuse angled plane triangle, the sum of the three tangents of the three angles multiplied by the square of radius, is equal to their continued product.\n\nDemonstration.—Let AH be an obtuse arc, and HE, ED the other two.\n\nThen BF, ED, and AG are the three tangents.\n\nPut $BF = t$ and $DE = u$ radius $= r$, then per trigonometry, as before,\n\n$$r^2 \\times \\frac{t + u}{r^2 - tu} = BT;$$\n\nBut $-BT = AG = -\\frac{t + u}{r^2 - tu} \\times r^a.$\n\nWherefore $t + u - \\frac{t + u}{r^2 - tu} \\times r^a =$ the sum of the three tangents, which being reduced\n\nis $-tu \\times \\frac{t + u}{r^2 - tu}$, and multiplied into $r^a$ is equal to\n\n$$tu \\times -\\frac{t + u}{r^2 - tu} \\times r^a = \\text{the product.}$$\n\nQ. E. D.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107287.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4888,
+    "total-output-tokens": 791,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1240,
+        2
+      ],
+      [
+        1240,
+        2024,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107287",
+    "title": "On a New Property of the Tangents of the Three Angles of a Plane Triangle",
+    "authors": "William Garrard",
+    "year": 1808,
+    "volume": "98",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/107287"
+  }
+}

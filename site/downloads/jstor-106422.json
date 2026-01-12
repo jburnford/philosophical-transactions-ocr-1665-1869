@@ -1,0 +1,59 @@
+{
+  "id": "cbb2e93e07d66cbfcaebf1dc724705f1e56633a2",
+  "text": "ERRATA.\n\nVOL. LXVIII. PART II.\n\nPage. Line.\n789. 12. for ARTEDE read ARTEDI\n\nVOL. LXIX. PART I.\n\n13. 19. for was read were\n15. 5. for erica forme read erica-forme\n18. 7. for erica, formed, read erica-formed\n21. 13. for produces read produce\n32. 8. for it read its\n79. 15. for supposita pro supposito\n118. 7. for at the sea read at sea\n123. 1. for O read O\n132. 3. for observation read observations\n149. 8. for kind meatus read kind of meatus",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106422.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 243,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        441,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106422",
+    "title": "Errata",
+    "authors": null,
+    "year": 1779,
+    "volume": "69",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106422"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "94c376c6d04e5d04e3bd2653f25171f73b770a15",
+  "text": "I had the Curiosity to try whether I could find any Blood in them, but did not; which makes me think they feed of the same Humour they are bred of.\n\nV. Part of a Letter from Mr. Edw. Lhwyd, to Dr. Lister; giving some farther Account of the Fiery Exhalation in Merionydh-shire.\n\nHonoured Sir,\n\nI Discoursed with an Intelligent Sober Person, that lives near Harlech in Merionydh-shire, who assured me the Fire still continues there; that it is observed to come from a place called Morva bychan in Caernarvonshire, about Eight or Nine Miles off, [over part of the Sea.] That Cattle of all sorts, as Sheep, Goats, Hogs, Cows, and Horses, still dye apace; and that for certain, any great Noise, as Winding of Horns, Drums, &c. does repel it from any House, or Barn, or Stacks of Hay; upon account of which Remedy, they have had few or no Losses in that kind since Christmas. That it happened during this Summer, at least one Night in a Week, and that commonly either Saturday or Sunday; but that now of late it appears something oftner. The place whence it proceeds is both Sandy and Marshy. This is all I could gather from him, material.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102464.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 358,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1133,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102464",
+    "title": "Part of a Letter from Mr. Edw. Lhwyd, to Dr. Lister; Giving Some Farther Account of the Fiery Exhalation in Merionydh-Shire",
+    "authors": "Edw. Lhwyd",
+    "year": 1694,
+    "volume": "18",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102464"
+  }
+}

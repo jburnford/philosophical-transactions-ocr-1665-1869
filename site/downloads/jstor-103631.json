@@ -1,0 +1,169 @@
+{
+  "id": "149d30cec6959bb73d892b45a1717bef2f249f3f",
+  "text": "VI. Pappi Alexandrini Propositiones duae generales, quibus plura ex Euclidis Porismatis complexus est, Restitutae a Viro Doctissimo Rob. Simson, Math. Prof. Glas. Vid. Pappi praefationem ad Lib. 7. Coll. Math. Apollonii de Sectione rationis libris duobus a Clariss. Hallejo præmissam pag. VIII. & XXXIV.\n\nἘὰν ὑπὸ τῆς ἡ παραπτίλης ἡ παραλλήλης, &c.\n\nTextus Pappi, qui in hac & sequente Propositione injuria temporis truncatus est, hoc modo Restituendus videtur.\n\n\"Si duæ rectæ lineæ in duas rectas lineas sibi mutuo occurrentes vel inter se parallelas ducantur, & dentur in una earum tria puncta [vel duo, si recta in qua sunt, parallela fuerit alicui ex tribus re-\nliquis]: cætera vero puncta præter unum b tangent re-\nctam positione datam, etiam hoc quoque tanget re-\nctam positione datam.\" Hoc autem de quatuor tan-\ntum rectis dicitur, quarum non plures quam duæ per idem punctum transeunt. In quolibet vero proposito rectarum numero ignoratur, quamvis vera sit, hujusmodi Propositio. \"Si quotcumque rectæ occurrant in-\nter se, nec plures quam duæ per idem punctum; data\nvero sint puncta omnia in earum unâ, unumquodque autem\n\n---\n\n* Tria puncta] intersectionum sc. * Tangant rectam] i. e. unum punctum tangat unam aliquam rectam positione datam, & aliud tangat ali-\nam positione datam, &c.\n\"autem punctum in aliâ tangat rectam positione datam; \" vel generalius sic. Si quotcunque rectae occur- rant inter se, neque sint plures quam duae per idem punctum, omnia vero puncta in earum unam data sint; reliquorum numerus erit numerus triangularis, cujus latus exhibet numerum punctorum rectam positione datam tangentium; quarum intersectionum si nullae tres existant ad angulos trianguli spatii, [nullae quatuor ad angulos quadrilateri, nullae quinque, &c. i.e. universim, si nullae harum intersectionum in orbem redeant] unaquaque intersectione reliqua tanget positione datam.\n\nPropositio prima in decem dividitur casus, monente ipso Pappo, quorum ejus, in quo nullae ex quatuor rectis sunt inter se parallelae, neque rectae positione datae per data puncta transeunt, demonstrationem hic apponemus; hic enim Casus inter omnes maximè est generalis, ejusque demonstratio secundae propositionis demonstrationi omnino est necessaria. (Fig. 3. & 4.) Sint igitur quatuor rectae AB, AD, BE, CE. Et data sint tria puncta intersectionum A, B, C in earum qualibet, reliquarum vero intersectionum D, E, F, una D tangat rectam GK positione datam, alia E tangat rectam HK positione datam; tanget etiam reliqua F rectam positione datam. Ducatur per F recta MF parallela ad AB, quae occurrat ipsis HK, KG, CE, in M, N, O. Quoniam igitur data est ratio HB ad BC dabitur eadem æqualis ratio MF ad FO, & quoniam datur ratio AC ad AG, dabitur eadem æqualis ratio FO ad FN; quare datur ratio MF ad FN, igitur si jungatur FK, quae occurrat ipsi AB in L, dabitur ratio HL ad LG; & datur HG positione & magnitudine; quaere punctum L datur, & datum est punctum K, igitur KL positione datur.\n\nSit igitur HL ad LG in ratione composita ex rationibus HB ad BC & AC ad AG, & jungatur KL, erit\nerit hæc recta quam tangit punctum F, hoc est, si ducatur quævis C E, positione datis occurrens in D, E, & jungantur A D, B E sibi mutuo occurrentes in F; recta erit linea quæ per K, F, L transit. Nam per F ducatur M F parallela ipsi A B, & quoniam ratio M F ad F N composita est ex rationibus M F ad F O & F O ad F N, hoc est, ex rationibus H B ad B C & A C ad A G, ex quibus etiam componitur ratio H L ad L G; erit H L ad L G ut M F ad F N, & igitur H G ad M N, hoc est, H K ad M K ut H L ad M F: Quare recta est linea quæ per K, F, L transit, per 14. I aut 32. 6 Elem.\n\nExplicatio Secundæ Propositionis.\n\nObservandum hic est, Numerum intersectionum, quæ in una recta reperiuntur in quâcunque proposita multitudine rectarum, quarum non plures quam duæ per idem punctum transeunt, & quarum nullæ sunt inter se parallelæ, unitate minorem esse ipso numero rectarum: Nam duæ in unico puncto se invicem secant, tertia vero ducta priores in duobus, quarta priores in tribus punctis secat, &c. Et igitur numerus intersectionum in tribus rectis est unitas binario aucta, i.e. ternarius; numerus eorundem in quatuor rectis est ternarius ternario auctus; in quinque vero rectis est ultimus praecedens seu senarius quaternario auctus, &c. in infinitum; Qui numeri, ut manifestum est, triangulares sunt, quorum cujusque latus est numerus intersectionum, quæ inveniuntur in unâ qualibet recta, i.e. numerus qui unitate minor est numero omnium rectarum. Igitur si ex hoc numero omnium intersectionum dematur numerus omnium punctorum datorum, qui idem est cum numero intersectionum in una quævis recta; reliquus erit adhuc triangularis, cujus latus\ntus sc. unitate deficit a latere prioris, quod exhibet numerum omnium punctorum, & proinde binario minus est numero rectarum propositarum. Et hic est numerus intersectionum quas tangere rectam positione datam Pappus in hac Propositione requirit, quarumque si nullae tres sint ad angulos trianguli; [nullae quatuor ad angulos quadrilateri & ita deinceps;] unanquamque intersectionem reliquam tangere rectam positione datam affirmat. Quae autem uncis inclusa sunt, textui necessitate coacti adjecimus, nam sine iis propositio vera non esset extra casum quinque rectarum.\n\nCommode vero in duos casus dividitur propositio; quos etiam aperte satis indicat Pappus, qui Hypothesin casus facilitioris propositioni hujus generis universalissimae simul & elegantissimae præmittit.\n\nCASUS PRIMUS.\n\nSi quotcunque rectae occurrant inter se nec plures quam dua per idem punctum; data vero sint puncta omnia in earum unâ, unumquodcumque autem punctum in alia tangat rectam positione datam; unaquæque intersectio reliqua tanget rectam positione datam. Sint enim quotcunque rectae, (Fig. 5.) ex gr. sex A F, B G, C H, D K, E L, E A; & data sint omnia puncta in earum unâ, sc. A, B, C, D, E; omnia vero puncta in aliâ sc. F, L, M, N, tangant rectam positione datam: unaquæque reliqua intersectio tanget positione datam.\n\nSumatur enim quævis ex reliquis ex gr. O, & quo- niam quatuor sunt rectae O L, O N, A N, A B, & da- ta sunt tria puncta in unâ earum sc. A, B, E, reliqua\n\n---\n\nIntelliguntur etiam hic figuræ quarum latera se mutuo decussant D'a- gonalium instar, æque ac cæteræ.\nvero praeter unum O, viz. ipsa L, N tangunt rectam positione datam, tanget etiam O positione datam per Prop. I. Eodem modo idem de omnibus reliquis ostendetur.\n\nCASUS SECUNDUS.\n\nCaeteris manentibus jam non sint omnia puncta rectam positione datam tangentia (quorumque numerus binario minor est numero rectarum propositarum) in eadem recta, sed nulla eorum in orbem redeant; oftenendum est reliqua omnia tangere rectam positione datam.\n\nLEMMA I.\n\nSi quotcunque rectae inter se occurrant neque plures quam duae per idem punctum, & sumantur quævis rectarum, sit vero numerus intersectionum, qui consistur sumendo duo puncta in unaquaque rectarum sumptarum æqualis numero harum rectarum; puncta hæc in orbem redibunt. Nam quoniam sunt duo puncta in unaquaque recta, erunt ad minimum tria in duabus rectis, & quatuor in tribus & ita deinceps; semper sc. erit numerus punctorum ad minimum unitate major numero rectarum nisi recta ultima transeat per punctum primum; i.e. nisi rectæ in orbem redeant, in quo solo caso æqualis erit numerus punctorum numero rectarum.\n\nLEMMA II.\n\nSi quotcunque rectae inter se occurrant neque plures quam duæ per idem punctum, sumantur vero quælibet ipsarum intersectiones, quarum numerus numero omnium\nun rectarum æqualis sit; vel hæ intersectiones omnes,\nvel earum aliquæ, in orbem redibunt, seu inveniuntur\nad angulos polygoni vel trianguli.\n\nNam tres intersectiones trium rectarum sunt ad an-\ngulos trianguli; si vero sint quatuor rectæ, & suman-\ntur quatuor puncta, una harum necessario invenietur\nin unâaque recta; quod si in unâ aliqua ex quatuor\nrectis unum tantum inveniatur punctum, tria reliqua e-\nrunt in tribus reliquis rectis, & igitur ad angulos tri-\nanguli: Si vero nulla fuerit recta, in qua unum duntaxat punctum invenitur, erunt duo in unâaque ex\nquatuor rectis, & sunt quatuor puncta, ergo per Lem. I.\nsunt ad angulos quadrilateri. Et manifestum est si fue-\nrint quatuor rectæ, & sumantur plura quam quatuor\npuncta, multo magis aliqua eorum in orbem redire.\n\nSint jam quinque rectæ, & sumantur quinque interse-\nctionum puncta, & si fuerit aliqua ex rectis in qua\nnullum invenitur punctum ex hisce quinque, erunt\nomnia quinque in quatuor reliquis rectis; Si vero fue-\nrit aliqua recta in qua unum duntaxat invenitur pun-\nctum, erunt reliqua quatuor puncta in reliquis quatuor\nrectis; igitur in utroque casu puncta aliqua erunt ad\nangulos trianguli, vel quadrilateri, per praecedentem ca-\nsum: Si autem nulla fuerit recta in qua vel nullum vel\nunicum invenitur punctum, erunt duo in unâaque\nex quinque rectis, & sunt quinque puncta, ergo per\nLem. I. sunt ad angulos quinquelateri. Eodem prorsus\nratiocinio ostendetur in sex rectis & ita in infinitum.\n\nIn Fig. 6. sunt octo rectæ, & octo sumuntur puncta,\nquorum quatuor in orbem redeunt.\n\nHisce praemissis propositio hoc modo demonstratur: Pri-\nmo sint quinque rectæ (Fig. 7.) A D, A E, B F, C G, D H,\n& demptis punctis datis in una rectarum, viz. A, B, C, D,\nreliqua erunt sex puncta E, F, G, H, K, L, in quatuor rectis, & tria horum (nam latus numeri triangularis 6 est 3) quae non sunt ad angulos trianguli, a tribus sc. rectarum propositarum contenti, ex gr. E, F, G, tangent rectam positione datam; ostendendum est reliqua tria K, H, L etiam tangere rectam positione datam.\n\nQuoniam igitur sunt quatuor rectae AE, BF, CG, DF, & tria intersectionum puncta in ipsis sumantur, viz. E, F, G; erit una aliqua harum rectarum in qua necessario invenietur unum tantum ex hisce tribus punctis; nam secus erit vel aliqua in qua nullum est punctum, & proinde erunt tria puncta in tribus reliquis rectis, i.e. ad angulos trianguli contra Hypothesin; vel erunt ad minimum duo puncta in unâquaque quatuor rectarum, & igitur quatuor essent ad minimum puncta; sed sunt tantum tria; quare necesse est esse aliquam rectam in qua unum tantum invenitur punctum: Sit hæc recta AE, in qua sc. est punctum E, ergo reliqua duo F, G, sunt in reliquis tribus rectis BF, CG, DF; igitur, quoniam dantur tria puncta B, C, D, reliquum punctum L in istis tribus rectis, tangit rectam positione datam per primam Propositionem: Sumatur nunc GE, recta sc. ex hisce tribus quae transit per punctum E in quartâ recta, & omnia puncta in hæc recta GE tangent positione datam. Quare, per casum primum hujus propositionis, reliqua puncta K, H tangunt rectam positione datam.\n\nSint jam sex rectae (Fig.8.) AE, AF, BG, CH, DK, EL; & demptis quinque datis punctis A, B, C, D, E, quae sunt in unâ rectarum, reliqua erunt decem puncta F, G, H, K, L, M, N, O, P, Q in quinque rectis; & ex Hypothesi quatuor horum, quae non in orbem redeunt, tangunt rectam positione datain; sint hæ, F, G, H, K; & ostendendum est reliqua sex L, M, N, O, P, Q tangere rectam positione datain.\n\nQuoniam\nQuoniam igitur sumuntur quatuor puncta intersecutionum F, G, H, K, in quinque rectis A F, B G, C H, D K, E L; erit una aliqua recta in qua unum tantum ex hisce punctis reperitur; nam secus erit vel aliqua in qua nullum est punctum, & proinde quatuor puncta erunt in quatuor reliquis rectis, & igitur aliqua eorum in orbem redibunt per Lem. 2. contra hypothesin: vel erunt duo ad minimum puncta in unaquaque quinque rectarum, & ita essent quinque ad minimum puncta; sed sunt tantum quatuor, quare necesse est esse aliquam rectam in qua unum tantum invenitur punctum; sit hæc A F in qua sc. est punctum F; ergo reliqua tria G, H, K sunt in reliquis quatuor rectis B G, C H, D K, E L, & dantur puncta B, C, D, E; ergo per primam partem hujus demonstrationis reliqua tria puncta in his quatuor rectis, sc. L., P, Q, tangunt rectam positione datam. Sumatur nunc B F, recta sc. ex hisce quatuor, quæ transit per punctum F in quinta recta; & omnia puncta in hac recta B F tangent rectam positione datam: Quare per Casum primum hujus Propositionis reliqua puncta M, N, O tangunt rectam positione datam. Eodem prorsus modo demonstrabitur Propositio in septem, octo, &c. rectis in infinitum, ut patet.\n\nQuod autem conditio uncis inclusa in hac propositione omnino sit necessaria, patet in his duobus exemplis; idem vero universaliter praecedentium ope demonstrari potest.\n\nHis adjecit Clarissimus Professor Porismata duo sequentia primi Libri Porismatum Euclidis a se quoque restituta.\n\nPorisma primum, Lib. 1. Porismatum Euclidis, quod servavit Pappus Alexandrinus in praefatione ad Lib. 7. Math. Coll. Vid. pag. xxxv. Ejusd. Pref.\n\nSi a duobus punctis datis inflectantur duæ rectæ ad rectam positione datam, abscindat autem earum una a\nrecta positione data segmentum dato in ea puncto adja-\ncens, auferet etiam altera ab aliâ recta segmentum da-\ntam habens rationem.\n\nSint enim duo puncta data D, C, (Fig. 9.) a quibus ad\npositione datam A B inflectantur D B, C B; quarum una\nD B abscindat a positione data E F segmentum K M adja-\ncens dato puncto M: Ostendendum est alteram C B au-\nferre ab aliâ quadam recta segmentum datam habens\nrationem ad ipsum K M.\n\nJuncta C D occurrat positione datis A B, E F in A,\nF punctis, quae proinde data erunt. A puncto K, in quo\ninflexa B D occurrit ipsi E F, ducatur K H parallela ad\nA D, & occurrens alteri inflexae B C in H, ipsi vero B A\nin N. Quoniam igitur dantur puncta A, D, C, dabitur\nratio A D ad D C, & igitur ratio N K ad K H; quare\nsi jungatur E H occurrens ipsi A D in G, dabitur ratio\nA F ad F G; sed datur A F, quare & F G datur, &\npunctum G; & datum est E, quare E G positione &\nmagnitudine datur; & datur E F, quare ratio E F ad\nE G datur; & ducta M O per datum punctum M pa-\nrallela ipsi A D, & occurrens E G in O, dabitur M O\npositione, & ideo punctum O; & propter parallelas M O,\nF G, K H est M K ad O H, ut E F ad E G, quae sunt\nin data ratione. Igitur recta B C aufert a rectâ E G\npositione data, segmentum O H dato puncto O adjacens,\nin datâ ratione ad segmentum M K. Q. E. D.\n\nComponetur vero ita, fiat A F ad F G ut A D ad\nD C, & juncta E G, per M ducatur M O parallela ad\nA D; ostendendum est, si a punctis D, C inflectantur\nad A B quævis D B, C B abscindentes ex ipsis E F,\nE G, segmenta M K, O H punctis M, O adjacentia,\nfore ipsa in data ratione E F ad E G, seu, quod idem\nest, esse junctam H K parallelam ipsi A D; hoc vero\nvidetur omnium fuisse ab Euclide, utpote quod tribus\nverbis\nverbis indirecte demonstrari possit; Pappus autem in Lem. 1°. ad Porismata, duas directas ejusdem demonstrationes affert, quarum secundam, quae paululum est corrupta apud Commandinum, hic subjungemus integritati suae restitutam.\n\nVid. Pap. Lib. 7. fol. 239. pag. prior.\n\nPer Compositam vero proportionem hoc pacto.\n\nQuoniam est ut AF ad FG ita AD ad DC (Vid. fig. Papp. fol. 238. pag. post. vel fig. nostr. 9.) convertendo erit ut GF ad FA ita CD ad DA, & componendo, permutandoque & convertendo ut AD ad DF ita AC ad CG. Sed proportio AD ad DF composita est ex proportione AB ad BE, [& EK ad KF, & proportio AC ad CG composita est ex proportione AB ad BE] & proportione EH ad HG. Proportio igitur composita ex AB ad BE & EK ad KF eadem est, quae componitur ex AB ad BE & EH ad HG. communis auferatur ratio AB ad BE, reliqua igitur EK ad KF eadem est quae EH ad HG; quare HK ipsi AG parallela est.\n\nPorisma Secundum. Quod punctum illud tangit rectam positione datam. Secundum Porisma videtur sequenti modo explicandum esse.\n\nSi a duobus punctis datis C, G (Fig. 10.) ducantur duae rectae CB, GD occurrentes duabus rectis positione datis AB, ED, fitque recta DB puncta intersectionum jungens parallela ipsi CG, quae per datum punctum ducitur, intersecio K ductarum tanget rectam positione datam.\n\nOccurrant enim positione datæ sibi mutuo in H, & juncta KH occurrat CG in F & BD in M. Igitur propter parallelas est AE ad EF (ut BD ad DM hoc est) ut CG ad GF; & igitur AE ad CG ut EF ad GF, datur itaque ratio EF ad GF, & datur EG, quare pun-\npunctum F; &c datur punctum H, quare HF positio-\nne. Sit itaque ut AE ad EF ita CG ad GF, & jun-\ncta HF erit recta quam tangit punctum K; hoc est\nducta quævis GD, occurrens ipsi FM in K, erit recta\nlinea quæ per CKB transit, nam est DB ad DM ut AC\nad EF, hoc est ex constructione ut CG ad GF, quare\nDB ad CG ut (DM ad GF hoc est ut) DK ad KG,\n& igitur est CKB recta linea.\n\nPappus idem aliter demonstrat in 2do Lemmate, quod\nhoc modo debet legi: sc. Ducatur per G, (Vid. Fig.\nPap. fol. 239, pag. post. vel Fig. nostr. 10.) recta linea\nGL parallela DE, & juncta HK ad L producatur.\nQuoniam igitur est ut AE ad EF ita CG ad GF,\n& permutando [AE ad CG ut EF ad GF]; ut autem\nAE ad CG ita est EH ad GL, d quod duæ duabus\nsunt parallelæ. Ut igitur EF ad FG ita EH ad GL,\natque est EH parallela ipsi GL, ergo recta linea est\nquæ per HKLF transit.\n\n---\n\nd Quod duæ duabus sunt parallelæ, sc. AE ad DB, & GL ad DE, unde\nest AE ad DB ut EH ad DH, & est DB ad CG (ut DK ad KG, i.e.) ut\nDH ad LG; ergo per 22. 5. est AE ad CG ut EH ad GL.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103631.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 13,
+    "total-input-tokens": 19280,
+    "total-output-tokens": 6116,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1293,
+        3
+      ],
+      [
+        1293,
+        3064,
+        4
+      ],
+      [
+        3064,
+        4700,
+        5
+      ],
+      [
+        4700,
+        6265,
+        6
+      ],
+      [
+        6265,
+        7492,
+        7
+      ],
+      [
+        7492,
+        9216,
+        8
+      ],
+      [
+        9216,
+        10999,
+        9
+      ],
+      [
+        10999,
+        12727,
+        10
+      ],
+      [
+        12727,
+        14440,
+        11
+      ],
+      [
+        14440,
+        15980,
+        12
+      ],
+      [
+        15980,
+        17007,
+        13
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103631",
+    "title": "Pappi Alexandrini Propositiones duae Generales, Quibus Plura ex Euclidis Porismatis Complexus Est, Restitutae a Viro Doctissimo Rob. Simson, Math. Prof. Glasc. Vid. Pappi Praefationem ad Lib. 7. Coll. Math. Apollonii de Sectione Rationis Libris Duobus a Clariss. Hallejo Praemissam Pag. VIII. & XXXIV",
+    "authors": "Euclidis, Pappi Alexandrini, Hallejo, Rob. Simson",
+    "year": 1722,
+    "volume": "32",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 13,
+    "jstor_url": "https://www.jstor.org/stable/103631"
+  }
+}

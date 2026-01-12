@@ -1,0 +1,3062 @@
+---
+layout: default
+title: "On a General Method in Analysis"
+---
+
+<div class="breadcrumb">
+    <a href="../../">Home</a>
+    <span>&raquo;</span>
+    <a href="../../volumes/134/">Volume 134</a>
+    <span>&raquo;</span>
+    Article
+</div>
+
+<div class="article-header">
+    <h1>On a General Method in Analysis</h1>
+
+    <div class="article-details">
+        <div class="detail-item">
+            <span class="detail-label">Author(s)</span>
+            <span class="detail-value">George Boole</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Year</span>
+            <span class="detail-value">1844</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Volume</span>
+            <span class="detail-value">134</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Pages</span>
+            <span class="detail-value">59 pages</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Language</span>
+            <span class="detail-value">en</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Journal</span>
+            <span class="detail-value">Philosophical Transactions of the Royal Society of London</span>
+        </div>
+    </div>
+
+    <div class="download-links">
+        <a href="../../downloads/jstor-108362.md" class="download-btn" download>Download MD</a>
+        <a href="../../downloads/jstor-108362.json" class="download-btn secondary" download>Download JSON</a>
+        <a href="https://www.jstor.org/stable/108362" class="download-btn secondary" target="_blank">View on JSTOR</a>
+    </div>
+</div>
+
+<h2>Full Text (OCR)</h2>
+<div class="ocr-text">VIII. On a General Method in Analysis. By George Boole, Esq. Communicated by S. Hunter Christie, Esq., Sec. R.S. &amp;c.
+
+Received January 12th.—Read January 18th.
+
+Much attention has of late been paid to a method in analysis known as the calculus of operations, or as the method of the separation of symbols. Mr. Gregory, in his Examples of the Differential and Integral Calculus, and in various papers published in the Cambridge Mathematical Journal, vols. i. and ii., has both clearly stated the principles on which the method is founded, and shown its utility by many ingenious and valuable applications. The names of M. Servois (Annales des Mathématiques, vol. v. p. 93), Mr. R. Murphy (Philosophical Transactions for 1837), Professor De Morgan, &amp;c., should also be noticed in connection with the history of this branch of analysis. As I shall assume for granted the principles of the method, and shall have occasion to refer to various theorems established by their aid, it may be proper to make some general remarks on the subject by way of introduction.
+
+Mr. Gregory lays down the fundamental principle of the method in these words: &quot;There are a number of theorems in ordinary algebra, which, though apparently proved to be true only for symbols representing numbers, admit of a much more extended application. Such theorems depend only on the laws of combination to which the symbols are subject, and are therefore true for all symbols, whatever their nature may be, which are subject to the same laws of combination.&quot; The laws of combination which have hitherto been recognised are the following, $\pi$ and $\varepsilon$ being symbols of operation, $u$ and $v$ subjects.
+
+1. The commutative law, whose expression is
+
+$$\pi \varepsilon u = \varepsilon \pi u.$$
+
+2. The distributive law,
+
+$$\pi (u + v) = \pi u + \pi v.$$
+
+3. The index law,
+
+$$\pi^m \pi^n u = \pi^{m+n} u.$$
+
+Perhaps it might be worth while to consider whether the third law does not rather express a necessity of notation, arising from the use of general indices, than any property of the symbol $\pi$.
+
+The above laws are obviously satisfied when $\pi$ and $\varepsilon$ are symbols of quantity. They are also satisfied when $\pi$ and $\varepsilon$ represent such symbols as $\frac{d}{dx}$, $\Delta$, &amp;c., in combination with each other, or with constant quantities. Thus,
+\[
+\frac{d}{dx}(au) = a \frac{du}{dx},
+\]
+\[
+\frac{d}{dx}(u+v) = \frac{du}{dx} + \frac{dv}{dx}.
+\]
+
+These properties of the symbol \( \frac{d}{dx} \), taken in connection with the principle above enunciated, lead to the most important results that have been yet established by the calculus of operations. We have an early example of their application in the symbolical form of Taylor&#x27;s theorem, viz.
+
+\[ f(x+h) = e^{\frac{d}{dx}}f(x). \]
+
+A result to which we shall often refer is the following. If we have a linear equation with constant coefficients of the form
+
+\[ \pi^n u + A_1 \pi^{n-1} u + A_2 \pi^{n-2} u \ldots + A_n u = X, \]
+
+wherein \( \pi \) operates solely on \( u \), and is therefore commutative with respect to \( A_1, A_2, \ldots \), then
+
+\[ u = \{ \pi^n + A_1 \pi^{n-1} + A_2 \pi^{n-2} \ldots + A_n \}^{-1} X \]
+\[ = N_1 (\pi - a_1)^{-1} X + N_2 (\pi - a_2)^{-1} X + \ldots + \text{&amp;c.}, \]
+
+\( N_1, N_2, \ldots, a_1, a_2, \ldots \) having the same values as in the resolution of the rational fraction
+
+\[ \frac{1}{\xi^n + A_1 \xi^{n-1} \ldots + A_n} \]
+
+into a similar series of terms*.
+
+It is obvious that the above method is of necessity limited in its application. It is only in linear equations with constant coefficients that the operative symbols combine in subjection to the law we have supposed. Accordingly it has been remarked, that the calculus of operations has tended rather to simplify the processes of analysis than to extend its power.
+
+The object of this paper is to develope a method in analysis, which, while it operates with symbols apart from their subjects, and may thus be considered as a branch of the calculus of operations, is nevertheless free from the restrictions to which we have alluded. The linear equation with variable coefficients, whether in differentials or in finite differences, will be treated under the form
+
+\[ f_0(\pi) u + f_1(\pi) \xi u + f_2(\pi) \xi^2 u + \ldots + \text{&amp;c.} = U, \]
+
+\( U \) being a function of the independent variable \( x \), and \( \pi \) and \( \xi \) operative symbols, which combine in subjection to the law
+
+\[ f(\pi) \xi^m u = \xi^m f(\pi + m) u, \]
+
+and which, when the subject function \( u \) is unity, further satisfy the relation
+
+\[ f(\pi) \xi^m = f(m) \xi^m. \]
+
+It might be expected, à priori, that a theory of linear equations founded on such a
+
+---
+
+* Cambridge Mathematical Journal, vol. ii. p. 114, vol. iii. p. 289.
+basis, would be of peculiar character. Its actual advantages I conceive to be the following:
+
+1. The necessary reductions, transformations and developments are effected, for the most part, by theorems, the expression of which is independent of the forms of $f_0(x)$, $f_1(x)$, &amp;c.
+
+2. We are thus able to establish a perfectly general method for the solution of linear differential equations total and partial in series, and for the calculus of generating functions.
+
+3. The form of the analysis affords facilities, which are believed to be peculiar to itself, for the finite integration of linear equations, and for the classification of integrable forms.
+
+The received theory of the solution of linear differential equations in series is given by Euler*. It consists in assuming $u = \sum a_m x^m$, and determining by substitution the relation connecting the successive values of $a_m$, or as it is called, the scale of the equation. This method fails when, in seeking the first index of a development, we arrive at equal or imaginary values. I am not aware that any mathematician has shown how this failure is to be remedied. Now the method developed in this paper has no such cases of exception.
+
+The theory of series and of generating functions has been successively discussed by Euler and Laplace. A full account of their researches is given in Lacroix&#x27;s larger treatise on the Calculus, tom. iii., in the chapters Théorie des Suites and Théorie des Fonctions Génératrices. I class these investigations together, because, although their objects are distinct, their mathematical theories are virtually the same. Euler proposes to determine the generating function of a series, $\sum u_m t^m$, when the coefficients are formed according to such a law as the following:
+
+$$u_m = \frac{(am + b)(a_1 m + b_1) \cdots}{(cm + e)(c_1 m + e_1) \cdots} u_{m-1}.$$  
+
+He shows that by successive differentiations and integrations, the factors $am + b$, $cm + e$... may be eliminated, and the problem finally reduced to the solution of a differential equation. Laplace†, considering the unknown quantity $u_x$ in an equation of differences as the general coefficient of the expansion of a function $u$, proposes to determine $u$, and then by expansion to obtain $u_x$. It is not necessary for us to consider here whether the theory of generating functions is of any importance to the solution of equations of differences. The discovery of the generating function of a series is in itself a problem both interesting and important. Those who have paid attention to the subject will, I think, admit that the theories by which Euler and Laplace have endeavoured to accomplish this object, labour under two defects, one arising from the tedious character of the process by which the differential equation is formed, the other from the difficulty of its integration. This does by no means derogate from the genius or the claims of those wonderful men;
+
+* Calc. Integ. vol. ii.  
+† Théorie des Probabilités.
+for the value of every discovery is in some measure relative, and is to be measured by the state of contemporary science as well as by its abstract merit.
+
+The advantages which the method of this paper is believed to possess as respects the theory of series, are the following:
+
+1. The law of the series being known, or the equation of differences given, the differential equation is known by inspection. The rule is absolutely general, whatever may be the forms of the coefficients.
+
+2. The form under which the differential equation is presented offers great facilities for its integration. Those facilities are chiefly owing to the circumstance, that the form of the equation permits us, as before remarked, to effect the requisite transformations by general theorems. That this form has a peculiar fitness for the processes of integration, is further shown by the circumstance, that the method of resolution which in the common theory leads to the solution of differential equations with constant coefficients, conducts us here to the solution of a large class of equations with variable coefficients.
+
+The arrangement of the subjects treated in this paper will lead us to consider,—1st, linear differential equations; 2nd, the theory of series; 3rd, the theory of generating functions; 4th, the theory of equations of finite differences.
+
+A. Preliminary Theorems.
+
+Prop. 1. Let $\pi$ and $\varepsilon$ be distributive symbols which combine in subjection to the law
+
+$$\varepsilon f(\pi)u = \lambda f(\pi)\varepsilon u, \ldots \ldots \ldots \ldots \ldots (1.)$$
+
+$\lambda$ being a functional symbol operating on $\pi$, in such manner that $\lambda f(\pi) = f(\phi(\pi))$, it is required to expand $f(\pi + \varepsilon)$ in ascending powers of $\varepsilon$.
+
+We have
+
+$$\begin{align*}
+\varepsilon f(\pi)u &amp;= \lambda f(\pi)\varepsilon u, \\
+\varepsilon^2 f(\pi)u &amp;= \lambda^2 f(\pi)\varepsilon^2 u, \\
+&amp;\vdots \\
+\varepsilon^m f(\pi)u &amp;= \lambda^m f(\pi)\varepsilon^m u
+\end{align*} \quad \ldots \ldots \ldots \ldots \ldots (2.)$$
+
+Let $\pi + \varepsilon = \eta$, then $f(\pi + \varepsilon)u = f(\eta)u$. Now, as $\eta$ operates solely on $u$, it is commutative with respect to the constants in $f(\eta)$, wherefore
+
+$$\eta f(\eta)u = f(\eta)\eta u.$$
+
+Or dropping the subject $u$, and writing $\pi + \varepsilon$ for $\eta$,
+
+$$(\pi + \varepsilon)f(\pi + \varepsilon) = f(\pi + \varepsilon)(\pi + \varepsilon).$$
+
+Let $f(\pi + \varepsilon)u = \sum_{m=0}^{\infty} f_m(\pi)\varepsilon^m u$, then, still supposing $u$ to be understood,
+
+$$(\pi + \varepsilon)f(\pi + \varepsilon) = \pi \sum_{m=0}^{\infty} f_m(\pi)\varepsilon^m + \varepsilon \sum_{m=0}^{\infty} f_m(\pi)\varepsilon^m,$$
+
+$$= \sum_{m=0}^{\infty} \pi f_m(\pi)\varepsilon^m + \sum_{m=0}^{\infty} \varepsilon f_m(\pi)\varepsilon^m,$$
+
+$$= \sum_{m=0}^{\infty} \pi f_m(\pi)\varepsilon^m + \sum_{m=0}^{\infty} \lambda f_m(\pi)\varepsilon^{m+1} \text{ by (2).}$$
+Under the first $\Sigma$ in the second member the coefficient of $\xi^m$ is $\pi f_m(\pi)$, and under the second $\Sigma$ the coefficient of $\xi^m$ is $\lambda f_{m-1}(\pi)$, wherefore the aggregate coefficient of $\xi^m$ in the expansion of $(\pi + \xi)f(\pi + \xi)$ is
+
+$$\pi f_m(\pi) + \lambda f_{m-1}(\pi). \ldots \ldots \ldots \ldots (3.)$$
+
+Again, we have
+
+$$f(\pi + \xi)(\pi + \xi) = \Sigma f_m(\pi)\xi^m(\pi + \xi),$$
+
+$$= \Sigma f_m(\pi)\xi^m\pi + \Sigma f_m(\pi)\xi^{m+1},$$
+
+$$= \Sigma f_m(\pi)\lambda^m\pi\xi^m + \Sigma f_m(\pi)\xi^{m+1} \text{ by } (2.),$$
+
+wherein the aggregate coefficient of $\xi^m$ is
+
+$$f_m(\pi)\lambda^m\pi + f_{m-1}(\pi).$$
+
+Equating this expression with (3.), we have
+
+$$f_m(\pi)\lambda^m\pi + f_{m-1}(\pi) = \pi f_m(\pi) + \lambda f_{m-1}(\pi);$$
+
+$$\therefore \quad f_m(\pi) = \frac{\lambda f_{m-1}(\pi) - f_{m-1}(\pi)}{\lambda^m\pi - \pi};$$
+
+or separating the symbols,
+
+$$f_m(\pi) = \frac{(\lambda - 1)f_{m-1}(\pi)}{(\lambda^m - 1)\pi}, \ldots \ldots \ldots \ldots (4.)$$
+
+which expresses the law of formation of the coefficients.
+
+The first term $f_0(\pi)$ is equal to $f(\pi)$: this may be proved by induction from the particular cases of $(\pi + \xi)^2$, $(\pi + \xi)^3$, &amp;c., but perhaps more rigidly thus. Let $k$ be a symbol such that $kf(\pi) = f_0(\pi)$. Then the first term of the expansion of $(\pi + \xi)f(\pi + \xi)$ is $k\pi f(\pi)$; but by (3.) this term is $\pi kf(\pi)$, therefore
+
+$$k\pi f(\pi) = \pi kf(\pi);$$
+
+wherefore $\pi$ and $k$ are commutative. It is hence evident that $k$ can only operate as a constant multiplier, the value of which is independent of the form of $f(\pi)$. Let $f(\pi) = \pi$, then, since $f(\pi + \xi) = \pi + \xi$, it is evident that $k = 1$, wherefore
+
+$$f_0(\pi) = f(\pi),$$
+
+and the expansion is completely determined.
+
+Cor. If the symbols $\pi$ and $\xi$ combine according to the law
+
+$$\xi f(\pi)u = f(\pi + \Delta \pi)\xi u,$$
+
+$\Delta \pi$ being any constant increment, then
+
+$$f(\pi + \xi) = f(\pi) + \Delta f(\pi)\xi + \Delta^2 f(\pi)\xi^2 + \Delta^3 f(\pi)\xi^3, \ldots \ldots (I.)$$
+
+the interpretation of $\Delta \pi$ being
+
+$$\Delta \pi f(\pi) = \frac{f(\pi + \Delta \pi) - f(\pi)}{\Delta \pi};$$
+
+For $\lambda f(\pi) = f(\pi + \Delta \pi)$. Hence $\lambda^m\pi = \pi + m\Delta \pi$ and (4.) gives
+$$f_m(\pi) = \frac{f_{m-1}(\pi + \Delta \pi) - f_{m-1}(\pi)}{\Delta \pi},$$
+
+whence the theorem is manifest.
+
+If $\Delta \pi = -1$, we find
+
+$$f(\pi + \varepsilon) = f_0(\pi) + f_1(\pi) \varepsilon + \frac{1}{1!2!} f_2(\pi) \varepsilon^2 + \&amp;c.,$$
+
+where $f_0(\pi) = f(\pi)$, and in general $f_m(\pi) = f_{m-1}(\pi) - f_{m-1}(\pi - 1)$.
+
+If $\Delta \pi$ vanishes the symbols $\pi$ and $\varepsilon$ are commutative, $\frac{\Delta}{\Delta \pi}$ becomes $\frac{d}{dx}$, and (I.) is reduced to Taylor&#x27;s theorem.
+
+Prop. 2. If $\varepsilon = \phi(x) \varepsilon_r \frac{d}{dx}$ then $x$ and $\varepsilon$ combine according to the law
+
+$$\varepsilon f(x) u = f(x + r) \varepsilon_u.$$
+
+For writing $u_x$ in the place of $u$, we have
+
+$$\varepsilon f(x) u_x = \phi(x) \varepsilon_r \frac{d}{dx} f(x) u_x,$$
+
+$$= \phi(x) f(x + r) u_x + r,$$
+
+$$= f(x + r) \phi(x) \varepsilon_r \frac{d}{dx} u_x,$$
+
+$$= f(x + r) \varepsilon_u.$$
+
+Prop. 3. If $\pi = \frac{n \phi(x) \varepsilon_r \frac{d}{dx} - x}{r}$ and $\varepsilon = \phi(x) \varepsilon_r \frac{d}{dx}$, then $\pi$ and $\varepsilon$ combine according to the law
+
+$$\varepsilon f(\pi) u = f(\pi - 1) \varepsilon_u,$$
+
+we have $f(\pi) = f\left(\frac{nq - x}{r}\right)$. Now $\varepsilon$ combines with $x$ according to the law
+
+$$\varepsilon f(x) u = f(x + r) \varepsilon_u, \ldots \ldots \ldots \ldots \ldots (5.)$$
+
+and $\varepsilon$ combines with $\varepsilon$ as if it were a mere symbol of quantity; hence
+
+$$\varepsilon f\left(\frac{nq - x}{r}\right) u = f\left(\frac{nq - (x + r)}{r}\right) \varepsilon_u \text{ by Prop. 2},$$
+
+$$= f\left(\frac{nq - x}{r} - 1\right) \varepsilon_u,$$
+
+$$= f(\pi - 1) \varepsilon_u.$$
+
+This result may also be proved by expanding $f\left(\frac{nq - x}{r}\right)$ in ascending powers of $\varepsilon$ by Prop. 1, and operating with $\varepsilon$ on each term of the series.
+
+Prop. 4. If $\pi = \frac{x \varepsilon_r \frac{d}{dx} - x}{r}$ and $\varepsilon = x \varepsilon_r \frac{d}{dx}$, then $\pi$ and $\varepsilon$ satisfy the following relations,
+\[ f(\pi) \varepsilon^m u = \varepsilon^m f(\pi + m) u, \quad \ldots \quad (II.) \]
+\[ f(\pi) \varepsilon^m = f(m) \varepsilon^m, \quad \ldots \quad (III.) \]
+
+the subject \( u \) becoming unity in the second of the above equations.
+
+For in the last Prop. let \( \phi(x) = x \), and \( n = 1 \), then \( \pi = \frac{x e^{\frac{d}{dx}} - x}{r} \), \( \varepsilon = xe^{\frac{d}{dx}} \), and
+
+\[ \varepsilon f(\pi) u = f(\pi - 1) \varepsilon u. \]
+
+By induction, \( \varepsilon^m f(\pi) u = f(\pi - m) \varepsilon^m u; \)
+
+\[ \therefore \quad f(\pi) \varepsilon^m u = \varepsilon^m f(\pi + m) u, \]
+
+which is the first of the proposed relations. Now \( m \) being a constant is commutative with \( \pi \), wherefore expanding \( f(\pi + m) \) in the second member by Taylor&#x27;s theorem, in ascending powers of \( \pi \), we have
+
+\[ f(\pi) \varepsilon^m u = \varepsilon^m \{ f(m) u + f&#x27;(m) \pi u + f&#x27;&#x27;(m) \frac{\pi^2}{1!2!} u + &amp;c. \}. \]
+
+For \( u \) write \( u_x \), then
+
+\[ \pi u_x = \frac{x e^{\frac{d}{dx}} - x}{r} u_x, \]
+\[ = \frac{x u_{x+r} - x u_x}{r}, \]
+
+which vanishes if \( u_x = 1 \). In like manner \( \pi^2 u_x, \pi^3 u_x, &amp;c. \) vanish under similar circumstances, wherefore
+
+\[ f(\pi) \varepsilon^m (1) = \varepsilon^m f(m)(1), \]
+\[ f(\pi) \varepsilon^m = f(m) \varepsilon^m, \]
+
+which is the second of the relations in question.
+
+Prop. 5. The same values being attributed to \( \pi \) and \( \varepsilon \), we shall have
+
+\[ \pi (\pi - 1) \ldots (\pi - n + 1) u = x(x + r) \ldots (x + (n - 1)r) \left( \frac{\Delta}{\Delta x} \right)^n u, \quad \ldots \quad (IV.) \]
+
+wherein \( \Delta x = r \).
+
+We have
+
+\[ \pi = \frac{\ell - x}{r}, \]
+\[ \therefore \quad \varepsilon^{-1} \pi u = \frac{1 - \varepsilon^{-1} x}{r} u. \]
+
+Now
+
+\[ \varepsilon^{-1} xu = \left( xe^{\frac{d}{dx}} \right)^{-1} xu = \varepsilon^{-r} \frac{d}{dx} x^{-1} xu = \varepsilon^{-r} \frac{d}{dx} u, \]
+
+therefore
+
+\[ \varepsilon^{-1} \pi u = \frac{1 - \varepsilon^{-r} \frac{d}{dx}}{r} u, \]
+\[ \therefore \quad (\varepsilon^{-1} \pi)^n u = \left[ \frac{1 - \varepsilon^{-r} \frac{d}{dx}}{r} \right]^n u. \]
+
+Now
+
+\[ (\varepsilon^{-1} \pi)^2 u = \varepsilon^{-1} \pi \varepsilon^{-1} \pi u = \varepsilon^{-2} (\pi - 1) \pi u = \varepsilon^{-2} \pi (\pi - 1) u, \]
+and by induction,
+
+\[ (g^{-1}x)^n u = g^{-n}x(x-1)\ldots(x-n+1)u, \]
+
+\[ \therefore \quad g^{-n}x(x-1)\ldots(x-n+1)u = \left\{ \frac{1 - \varepsilon^r}{r} \right\}^n u, \]
+
+whence
+
+\[ x(x-1)\ldots(x-n+1)u = g^n \left\{ \frac{1 - \varepsilon^r}{r} \right\}^n u. \]
+
+But
+
+\[ g^n = x(x+r)\ldots(x+(n-1)r) \varepsilon^{nr} \frac{d}{dx}, \]
+
+wherefore
+
+\[ x(x-1)\ldots(x-n+1)u = x(x+r)\ldots(x+(n-1)r) \left( \frac{\varepsilon^r}{\Delta x} - 1 \right)^n u, \]
+
+\[ = x(x+r)\ldots(x+(n-1)r) \left( \frac{\Delta}{\Delta x} \right)^n u. \]
+
+Scholium. In the values of \( x \) and \( g \) employed in the two last propositions, if we expand the exponential \( \varepsilon^r \frac{d}{dx} \), we find
+
+\[ x = x \left( \frac{d}{dx} + \frac{1}{1!2!} r \frac{d^2}{dx^2} + \frac{1}{1!2!3!} r^2 \frac{d^3}{dx^3} + \&amp;c. \right), \]
+
+\[ g = x \left( 1 + r \frac{d}{dx} + \frac{r^2}{1!2!} \frac{d^2}{dx^2} + \&amp;c. \right). \]
+
+Let \( r = 0 \), then \( x = x \frac{d}{dx} \), \( g = x \). Put \( x = \varepsilon^t \), then \( x = \frac{d}{dt} \), \( g = \varepsilon^t \). For simplicity, let us represent \( \frac{d}{dt} \) by \( D \), then by (II.), (III.), (IV.) the symbols \( D \) and \( \varepsilon^t \) satisfy the following relations:
+
+\[ f(D) \varepsilon^m u = \varepsilon^m f(D+m)u. \quad \text{(V.)} \]
+
+\[ f(D) \varepsilon^m = f(m) \varepsilon^m. \quad \text{(VI.)} \]
+
+\[ D(D-1)\ldots(D-n+1)u = x^n \left( \frac{d}{dx} \right)^n u. \quad \text{(VII.)} \]
+
+These are known relations. With a view to the maintenance of an unbroken analogy, it has, however, been thought better to deduce them from the properties of the more general system in \( x \) and \( g \), than to assume them as already proved.
+
+B. § 1. Theory of Linear Differential Equations.
+
+Prop. 1. Every linear differential equation which can, with or without expansion of its coefficients, be placed in the form
+
+\[ (a + bx + cx^2\ldots) \frac{d^n u}{dx^n} + (a&#x27; + b&#x27;x + c&#x27;x^2\ldots) \frac{d^{n-1} u}{dx^{n-1}} + \&amp;c. = X, \]
+
+may be reduced to the symbolical form
+
+\[ f_0(D)u + f_1(D)\varepsilon^t u + f_2(D)\varepsilon^{2t} u + \ldots = U, \quad \text{(VIII.)} \]
+
+wherein \( f_0, f_1, f_2\ldots \) are functional symbols, and \( U \) is a function of \( \varepsilon^t \).
+For multiplying by $x^n$, and considering first the expression $(a+bx+cx^2..)x^n\frac{d^n u}{dx^n}$, let $x=\varepsilon^\delta$, we have
+
+$$(a+b\varepsilon^\delta+c\varepsilon^{2\delta}..)D(D-1)..(D-n+1)u,$$
+
+$$=aD(D-1)..(D-n+1)u,$$
+
+$$+b(D-1)(D-2)..(D-n)\varepsilon^\delta u,$$
+
+$$+c(D-2)(D-3)..(D-n-1)\varepsilon^{2\delta} u.$$
+
+In like manner may every term in the first member of the original equation be reduced; also the second member, which is a function of $x$, will become a function of $\varepsilon^\delta$; the aggregate of these results will produce an equation of the form (VIII.).
+
+More generally, let it be supposed that we have a system of linear differential equations, total or partial, the dependent variables being $u_1v_1..$ the independent variables $x_1x_2..$ whereof the second members of the equations are functions; if we assume $x_1=\varepsilon^{\delta_1}, x_2=\varepsilon^{\delta_2}..$ the transformed equations may be so written as to satisfy the following conditions.
+
+1st. Every term involving $u$ shall be of the form $\varphi(D_1, D_2..)\varepsilon^{\delta_1+r_1\delta_2}u$, and similarly for every term involving $v$.
+
+2nd. The second members shall be functions of $\varepsilon^{\delta_1}, \varepsilon^{\delta_2}..$
+
+Let us now consider the expression $f_0(D)u+f_1(D)\varepsilon^\delta u+f_2(D)\varepsilon^{2\delta} u..$, and let us therein assume $u=\Sigma u_m\varepsilon^{m\delta}$, then passing the symbols $f_0(D), f_1(D) ..$ within the sign of summation, collecting the coefficients of $\varepsilon^{m\delta}$, and observing that $f_0(D)\varepsilon^{m\delta}=f_0(m)\varepsilon^{m\delta}$, &amp;c., we have
+
+$$f_0(D)u+f_1(D)\varepsilon^\delta u+f_2(D)\varepsilon^{2\delta} u..=\Sigma \{(f_0(m)u_m+f_1(m)u_{m-1}+f_2(m)u_{m-2}..)\varepsilon^{m\delta}\}.$$  
+
+(IX.)
+
+which is a particular form of the fundamental theorem of development.
+
+To any aggregate of terms of the form $\varphi(D_1, D_2..)\varepsilon^{\delta_1+r_1\delta_2}u$ the same analysis is applicable, whence our fundamental theorem, viz.
+
+If $u=\Sigma u_{m,n}\varepsilon^{m\delta_1+n\delta_2}$,
+
+then $\varphi(D_1, D_2..)\varepsilon^{\delta_1+r_1\delta_2}u=\Sigma \{\varphi(m,n)u_{m-r_1,n-r_2}\varepsilon^{m\delta_1+n\delta_2}..\}$.  
+
+(X.)
+
+In applying this theorem to an expression consisting of many terms, the sign $\Sigma$ must be affixed to the aggregate in the second member, as in (IX.), and not to each term separately.
+
+The relation which the first member of (IX.) bears to the linear differential equation, is the same as is borne by the coefficient of $\varepsilon^{m\delta}$ in the second member to the linear equation of finite differences. This analogy extends to the fundamental theorem, which may be defined as a general relation connecting any linear differential equation, or system of linear differential equations, with a corresponding equation or system of equations in finite differences.
+B. § 2. On the Solution of Linear Differential Equations by Series.
+
+Since, when \( u = \sum u_m \varepsilon^m \), we have
+
+\[
+f_0(D)u + f_1(D)\varepsilon u + f_2(D)\varepsilon^2 u + \ldots = \sum (f_0(m)u_m + f_1(m)u_{m-1} + f_2(m)u_{m-2} + \ldots) \varepsilon^m,
+\]
+
+it follows that the linear differential equation
+
+\[
+f_0(D)u + f_1(D)\varepsilon u + f_2(D)\varepsilon^2 u + \ldots = 0 \quad \ldots \quad (6.)
+\]
+
+will be satisfied by the assumption \( u = \sum u_m \varepsilon^m \), provided that
+
+\[
+f_0(m)u_m + f_1(m)u_{m-1} + f_2(m)u_{m-2} + \ldots = 0. \quad \ldots \quad (7.)
+\]
+
+Let \( p \) be the lowest value of \( m \), then since \( u_{p-1}, u_{p-2}, \ldots \) vanish, we have from (7.)
+
+\( f_0(p) = 0 \), whence the values of \( p \) are determined. If \( p \) have \( n \) real values, there will be \( n \) ascending developments of the form
+
+\[
+u = u_p \varepsilon^p + u_{p+1} \varepsilon^{(p+1)} + u_{p+2} \varepsilon^{(p+2)} + \ldots \text{ ad infinitum},
+\]
+
+\( u_p \) in each development being arbitrary, and the succeeding coefficients formed according to the law (7.).
+
+This method fails when \( p \) has equal or imaginary values, but the following rule is of universal application.
+
+**Rule.**—Solve the equation \( f_0(D)u = 0 \), and let the complete integral be
+
+\[
+u = AP + BQ + CR + \ldots,
+\]
+
+wherein \( A, B, C \ldots \) are arbitrary constants, and \( P, Q, R \ldots \) functions of \( t \). Substitute this value of \( u \) in the original equation (6.), regarding \( A, B, C \ldots \) as variable parameters; the result will be of the form
+
+\[
+A&#x27;P + B&#x27;Q + C&#x27;R + \ldots = 0, \quad \ldots \quad (XI.)
+\]
+
+\( A&#x27;, B&#x27;, C&#x27; \ldots \) being linear functions of \( A, B, C \ldots \), and their differential coefficients; \( P, Q, R \ldots \), as before. The system of equations
+
+\[
+A&#x27; = 0, \quad B&#x27; = 0, \quad C&#x27; = 0 \ldots
+\]
+
+being then integrated by the fundamental theorem, the values of \( A, B, C \) will be determined in the forms \( A = \sum a_m \varepsilon^m, B = \sum b_m \varepsilon^m, \ldots \), \( a_0, b_0 \ldots \) being arbitrary constants*.
+
+The equation to be solved is
+
+\[
+f_0(D)u + f_1(D)\varepsilon u + \ldots + f_r(D)\varepsilon^r u = 0,
+\]
+
+in which \( f_0(D), f_1(D), \ldots \) are rational and integral combinations of \( D \). This equation may be put under the form
+
+\[
+\sum (f_n(D)\varepsilon^n u) = 0, \quad \ldots \quad (8.)
+\]
+
+the summation extending from \( n = 0 \) to \( n = r \).
+
+Now the solution of the equation \( f_0(D)u = 0 \) is of the form
+
+\[
+u = AP + BQ + CR + \ldots \quad (9.)
+\]
+
+wherein \( A, B, C \ldots \) are arbitrary constants, and \( P, Q, R \ldots \) particular values of \( \{f_0(D)\}^{-1} \). Substituting this expression in (8.), and regarding \( A, B, C \ldots \) as variable
+
+* The reader may find it advantageous to look over some of the examples in which this rule is applied before reading the demonstration.
+parameters, we have
+
+\[ \Sigma \{ f_n(D) \varepsilon^{nd}(AP+BQ...\}) = 0, \ldots \] (10.)
+
+to determine the general character of which let us first consider the term \( f_n(D) \varepsilon^{nd}AP \).
+
+Separating the factors \( \varepsilon^{nd}A \) and \( P \), if we expand the operative symbol \( f_n(D) \), as in Leibnitz&#x27;s theorem, we have
+
+\[ f_n(D) \varepsilon^{nd}AP = f_n(D) \varepsilon^{nd}A \times P + f&#x27;_n(D) \varepsilon^{nd}A \times DP + f&#x27;&#x27;_n(D) \varepsilon^{nd}A \times \frac{1}{1!2!}D^2P + &amp;c. \ldots \] (10&#x27;.)
+
+The general value of \( D^iP \) may be thus ascertained:
+
+\[ (D)^iP = (D)^i(f_0(D))^{-1}, \]
+\[ = \{ f_0(D) \}^{-1}(D)^i, \]
+\[ = \{ f_0(D) \}^{-1}, \]
+\[ = LP + MQ + NR..., \]
+
+\( L, M, N... \) being arbitrary constants. In the present instance, as \( P \) does not involve any arbitrary constants, and as the direct operation \( (D)^i \) cannot introduce any, it is evident that \( L, M, N \) are simply numerical coefficients.
+
+The above expression for \( (D)^iP \) applying to every term of the second member of (10&#x27;), it is obvious that \( f_n(D) \varepsilon^{nd}AP \) will be a linear function of \( P, Q, R... \), whose coefficients are of the general type \( \phi_n(D) \varepsilon^{nd}A, \phi_n(D) \) denoting a rational and integral combination of \( (D) \). In like manner, \( f_n(D) \varepsilon^{nd}BQ \) will be a linear function of \( P, Q, R \), the coefficients whereof will assume the form \( \psi_n(D) \varepsilon^{nd}B \). Wherefore the equation (10&#x27;) will become
+
+\[ A&#x27;P + B&#x27;Q + C&#x27;R... = 0, \ldots \] (11.)
+
+every coefficient \( A&#x27;, B&#x27;, &amp;c. \) being of the type
+
+\[ \Sigma \{ \phi_n(D) \varepsilon^{nd}A \} + \Sigma \{ \psi_n(D) \varepsilon^{nd}B \} + &amp;c.; \]
+
+and it is to be remarked, that the terms in this expression which correspond to a particular value of \( n \), are derived from the term which answers to the same value of \( n \) in the primitive equation (8.).
+
+In order to satisfy (11.) independently of the particular values of \( P, Q, R \), let us assume
+
+\[ A&#x27; = 0, B&#x27; = 0, C&#x27; = 0. \ldots \] (12.)
+
+Each of these equations being of the general form above given, we shall have by the fundamental theorem,
+
+\[ A = \Sigma(a_m \varepsilon^{md}), \quad B = \Sigma(b_m \varepsilon^{md}), \quad C = \Sigma(c_m \varepsilon^{md}), \quad &amp;c. \]
+
+the successive values of \( a_m, b_m \) being connected by a system of relations of the general form,
+
+\[ \Sigma(\phi_n(m)a_{m-n}) + \Sigma(\psi_n(m)b_{m-n})... = 0. \]
+
+To find the lowest value or values of \( m \) in \( a_m, b_m, &amp;c. \), we must assume \( a_{m-1}, b_{m-1}, &amp;c. \) to vanish, whence the last equation gives
+
+\[ \phi_0(m)a_m + \psi_0(m)b_m... = 0. \]
+Now this is the type of the system of relations derived from the term $f_0(D)u$. But the equation $f_0(D)u = 0$ is satisfied by the assumption $u = AP + BQ...$, in which A, B., are constants, that is, by the assumption $u = a_0P + b_0Q..$, whence the lowest value of $m$ in $a_m b_m..$ is 0, and the system (12.) is universally satisfied.
+
+Ex. 1. Let the primitive equation be $x^2 \frac{d^2 u}{dx^2} - ((a + b - 1)x + qx^2) \frac{du}{dx} + (ab + cqx)u = 0$,
+
+Putting $x = e^t$, we have
+
+$$D(D - 1)u - (a + b - 1)Du - qe^tDu + (ab + cq)e^tu = 0.$$  
+
+Now $qe^tDu = q(D - 1)e^tu$ by (V.), hence we have
+
+$$\{D(D - 1) - (a + b - 1)D + ab\}u - (q(D - 1) - cq)e^tu = 0,$$
+
+or
+
+$$(D - a)(D - b)u - q(D - c - 1)e^tu = 0,$$
+
+which is the symbolical form of the equation, whence $u = \Sigma u_m e^{mt}$, with the relation
+
+$$(m - a)(m - b)u_m - q(m - c - 1)u_{m-1} = 0,$$
+
+whence
+
+$$u_m = \frac{(m - c - 1)u_{m-1}}{(m - a)(m - b)}.$$
+
+The equation $(m - a)(m - b) = 0$ gives $m = a$ or $b$, which are consequently the lowest indices of the development. If, therefore, we represent the arbitrary constants $u_a, u_b$ by A and B, we have
+
+$$u = A(x^a + q \frac{a - c}{1(a - b + 1)} x^{a+1} + q^2 \frac{(a - c)(a - c + 1)}{1.2(a - b + 1)(a - b + 2)} x^{a+2} + &amp;c.)$$
+
+$$+ B(x^b + q \frac{b - c}{1(b - a + 1)} x^{b+1} + q^2 \frac{(b - c)(b - c + 1)}{1.2(b - a + 1)(b - a + 2)} x^{b+2} + &amp;c.).$$
+
+Ex. 2. Given $x^3 \frac{d^3 u}{dx^3} + 3x^2 \frac{d^2 u}{dx^2} + x \frac{du}{dx} + qx^n u = 0$, to find $u$.
+
+Putting $x = e^t$, we have by (VII.), 
+
+$$\{D(D - 1)(D - 2) + 3D(D - 1) + D\}u + qe^{nt}u = 0,$$
+
+$$\therefore D^3u + qe^{nt}u = 0.$$  
+
+(13.)
+
+Now as $D$ represents $\frac{d}{dt}$, the equation $D^3u = 0$ gives $u = A + B\theta + C\theta^2$. Substituting this value in (13.), there results
+
+$$D^3A + qe^{nt}A + (D^3B + qe^{nt}B)\theta + 3D^2B + (D^3C + qe^{nt}C)\theta^2 + 6D^2C\theta + 6DC = 0.$$
+
+Whence by the rule
+
+$$D^3A + qe^{nt}A + 3D^2B + 6DC = 0,$$
+
+$$D^3B + qe^{nt}B + 6D^2C = 0,$$
+
+$$D^3C + qe^{nt}C = 0;$$
+
+wherefore by the fundamental theorem
+
+$$A = \Sigma a_m e^{mt}, \quad B = \Sigma b_m e^{mt}, \quad C = \Sigma c_m e^{mt},$$
+\[ m^3a_m + qa_{m-n} + 3m^2b_m + 6mc_m = 0, \]
+\[ m^3b_m + qb_{m-n} + 6m^2c_m = 0, \]
+\[ m^3c_m + qc_{m-n} = 0, \]
+
+whence we find
+
+\[
+\begin{align*}
+    a_m &amp;= -q \frac{m^2a_{m-n} - 3mb_{m-n} + 12c_{m-n}}{m^5}, \\
+    b_m &amp;= -q \frac{mb_{m-n} - 6c_{m-n}}{m^4}, \\
+    c_m &amp;= -q \frac{c_{m-n}}{m^3}.
+\end{align*}
+\]  
+
+(14.)
+
+If we now substitute the preceding values of \( A, B, C \) in the equation \( u = A + B\theta + C\theta^2 \), and then change \( \varepsilon^\theta \) into \( x \), \( \theta \) into \( \log x \), we shall have
+
+\[
+\begin{align*}
+    u &amp;= (a_0 + a_nx^n + a_{2n}x^{2n}...) \\
+    &amp;+ \log x(b_0 + b_nx^n + b_{2n}x^{2n}...) \\
+    &amp;+ (\log x)^2(c_0 + c_nx^n + c_{2n}x^{2n}...),
+\end{align*}
+\]
+
+\( a_0, b_0, c_0 \) being arbitrary, and the succeeding coefficients determined by (14.).
+
+The solution of the linear differential equation \( U = X \) is found by obtaining a particular integral, and adding to this the complete integral of the equation \( U = 0 \).
+
+A particular integral of the equation \( U = X \) will be given by the fundamental theorem whenever \( X \) is developable in ascending powers of \( x \). If \( X \) is of the form \( X_0 + X_1 \log x + X_2(\log x)^2 + ... + X_n(\log x)^n \) where \( X_0, X_1, ... \) are respectively developable in powers of \( x \), we must assume \( u = A + B\theta + P\theta^n \), where \( A, B, ..., P \) are variable parameters, to be determined by the fundamental theorem, in the forms \( A = \Sigma a_m\varepsilon^{m\theta} \), \( B = \Sigma b_m\varepsilon^{m\theta} \), etc.
+
+On the same principle we must proceed if such forms as \( \cos(n \log x) \), \( \sin(n \log x) \), etc. are found in the second member.
+
+**Ex. 3.** Given \( x^2 \frac{d^2u}{dx^2} + x \frac{du}{dx} + xu = \log(x) \).
+
+Putting \( x = \varepsilon^\theta \), we have
+
+\[ D^2u + \varepsilon^\theta u = \theta. \]
+
+Make \( u = A + B\theta \), then on reducing
+
+\[ D^2A + 2DB + \varepsilon^\theta A + (D^2B + \varepsilon^\theta B - 1)\theta = 0, \]
+
+whence, as in preceding examples,
+
+\[ D^2A + 2DB + \varepsilon^\theta A = 0, \]
+\[ D^2B + \varepsilon^\theta B = 1. \]
+
+This system of equations differs from those before considered, in that the second members do not both vanish. The fundamental theorem gives
+
+\[ A = \Sigma a_m\varepsilon^{m\theta}, \quad B = \Sigma b_m\varepsilon^{m\theta}, \]
+\[ \Sigma \{(m^2a_m + 2mb_m + a_{m-1})\varepsilon^{m\theta}\} = 0, \]
+\[ \Sigma \{(m^2b_m + b_{m-1})\varepsilon^{m\theta}\} = 1, \]
+whence $m^2a_m + 2mb_m + a_{m-1} = 0$ for all values of $m$, and $m^2b_m + b_{m-1} = 0$ for all values of $m$ except $m = 0$, which gives $m^2b_m + b_{m-1} = 1$, or $b_{-1} = 1$; also from the other equation, $a_{-1} = 0$. From these, the values of $a_m$, $b_m$ corresponding to negative values only of $m$, may be determined; whence writing $x$ for $\varepsilon&#x27;$, and solving the above equations relatively to $a_{m-1}$ and $b_{m-1}$, we have
+
+$$u = a_{-1} + \frac{a_{-2}}{x} + \frac{a_{-3}}{x^2} + \text{&amp;c.}$$
+
+$$+ \log x \left( b_{-1} + \frac{b_{-2}}{x} + \frac{b_{-3}}{x^2} + \text{&amp;c.} \right),$$
+
+where
+
+$$a_{-1} = 0, \quad b_{-1} = 1;$$
+
+and in general
+
+$$a_{m-1} = -(m^2a_m + 2mb_m), \quad b_{m-1} = -m^2b_m.$$
+
+This is a particular integral; to complete the solution we must add the general value of $u$ given by the equation $x^2 \frac{d^2u}{dx^2} + x \frac{du}{dx} + xu = 0$, which, as in the preceding examples, is found to be
+
+$$a_0 + a_1 x + a_2 x^2 + \ldots$$
+
+$$+ \log x (b_0 + b_1 x + b_2 x^2 + \ldots),$$
+
+wherein $a_0$, $b_0$ are arbitrary constants, and the succeeding coefficients given by the law
+
+$$a_m = \frac{ma_{m-1} - 2b_{m-1}}{m^3}, \quad b_m = -\frac{b_{m-1}}{m^2}.$$  
+
+Ex. 4. Given $(x^2 + qx^4) \frac{d^2u}{dx^2} + (x + px^2 + 5qx^3) \frac{du}{dx} + (n^2 + px + (4q + r)x^2)u = 0.$
+
+On assuming $x = \varepsilon&#x27;$, we get
+
+$$(D^2 + n^2)u + pD\varepsilon&#x27;u + (qD^2 + r)\varepsilon&#x27;^2u = 0, \quad \ldots \ldots \ldots \quad (15.)$$
+
+which, as a final example, we propose to integrate both by ascending and by descending developments.
+
+The equation $D^2u + n^2u = 0$ gives $u = A \cos n\theta + B \sin n\theta$; substituting this value in (15.), and regarding $A$ and $B$ as parameters, we have
+
+$$(D^2 + n^2)u = \cos n\theta(D^2A + 2nDB) + \sin n\theta(D^2B - 2nDA)$$
+
+$$pD\varepsilon&#x27;u = \cos n\theta(pD\varepsilon&#x27;A + pn\varepsilon&#x27;B) + \sin n\theta(pD\varepsilon&#x27;B - pn\varepsilon&#x27;A)$$
+
+$$qD^2\varepsilon&#x27;^2u = \cos n\theta(-qn^2\varepsilon&#x27;^2A + qD^2\varepsilon&#x27;^2A + 2nqD\varepsilon&#x27;^2B)$$
+
+$$+ \sin n\theta(-qn^2\varepsilon&#x27;^2B + qD^2\varepsilon&#x27;^2B - 2nqD\varepsilon&#x27;^2A)$$
+
+$$r\varepsilon&#x27;^2u = \cos (n\theta)r\varepsilon&#x27;^2A + \sin (n\theta)r\varepsilon&#x27;^2B.$$
+
+Collecting these results, and equating to 0 the aggregate coefficients of $\cos n\theta$ and $\sin n\theta$,
+
+$$D^2A + 2nDB + p(D\varepsilon&#x27;A + n\varepsilon&#x27;B) + (q(D^2 - n^2) + r)\varepsilon&#x27;^2A + 2nqD\varepsilon&#x27;^2B = 0,$$
+
+$$D^2B - 2nDA + p(D\varepsilon&#x27;A - n\varepsilon&#x27;B) + (q(D^2 - n^2) + r)\varepsilon&#x27;^2B - 2nqD\varepsilon&#x27;^2A = 0;$$
+the solution whereof by the fundamental theorem, is
+
+\[ A = \sum a_m \varepsilon^m, \quad B = \sum b_m \varepsilon^m, \]
+
+\[ m^2 a_m + 2mn b_m + pma_{m-1} + pn b_{m-1} + (q(m^2 - n^2) + r)a_{m-2} + 2qmn b_{m-2} = 0, \]
+
+\[ m^2 b_m - 2mn a_m + pmb_{m-1} - pn a_{m-1} + (q(m^2 - n^2) + r)b_{m-2} - 2qmn a_{m-2} = 0. \]
+
+Whence making \( \varepsilon^\theta = x \), and determining the values of \( a_m, b_m \) from the two last equations, we have
+
+\[ u = \cos(n \log x)(a_0 + a_1 x + a_2 x^2 + \&amp;c.) \]
+
+\[ + \sin(n \log x)(b_0 + b_1 x + b_2 x^2 + \&amp;c.) \]
+
+\( a_0 \) and \( b_0 \) being arbitrary, and the remaining coefficients formed on the laws
+
+\[ a_m = -\frac{p(m^2 + 2n^2)a_{m-1} - pmnb_{m-1} + (q(m^2 + 3n^2) + r)ma_{m-2} + 2n(qn^2 - r)b_{m-2}}{m(m^2 + 4n^2)} \]
+
+\[ b_m = -\frac{p(m^2 + 2n^2)b_{m-1} + pmna_{m-1} + (q(m^2 + 3n^2) + r)mb_{m-2} - 2n(qn^2 - r)a_{m-2}}{m(m^2 + 4n^2)}. \]
+
+If \( q = 0, p = 0, r = 1 \), we have for the primitive equation
+
+\[ x^2 \frac{d^2 u}{dx^2} + x \frac{du}{dx} + (n^2 + x^2)u = 0, \]
+
+and for its complete integral,
+
+\[ u = \cos(n \log x)(a_0 + a_2 x^2 + a_4 x^4 \&amp;c.) \]
+
+\[ + \sin(n \log x)(b_0 + b_2 x^2 + b_4 x^4 \&amp;c.), \]
+
+where in general
+
+\[ a_m = -\frac{ma_{m-2} - 2nb_{m-2}}{m(m^2 + 4n^2)}, \quad b_m = -\frac{mb_{m-2} + 2na_{m-2}}{m(m^2 + 4n^2)}. \]
+
+The above developments terminate in convergency for every value of \( x \). The more general developments (16.) from which they are derived, become, in certain cases, divergent, as is seen by making \( m \) infinite in the equations determining \( a_m, b_m \).
+
+The descending developments which are then to be employed may be thus obtained.
+
+We have
+
+\[ (D^2 + n^2)u + pD\varepsilon u + (qD^2 + r)\varepsilon^{2\theta}u = 0. \]
+
+Multiply by \( \varepsilon^{-2\theta} \) and invert the order of the terms, then
+
+\[ (q(D + 2)^2 + r)u + p(D + 2)\varepsilon^\theta u + ((D + 2)^2 + n^2)\varepsilon^{-2\theta}u = 0. \]
+
+Put \( \theta = -\theta_1 \), and the above becomes
+
+\[ (q(D - 2)^2 + r)u - p(D - 2)\varepsilon^\theta u + ((D - 2)^2 + n^2)\varepsilon^{2\theta}u = 0. \]
+
+The equation \( (q(D - 2)^2 + r)u = 0 \) determines the form of the general solution, which will differ according as \( \frac{r}{q} \) shall be positive, negative, or 0. The process is in all respects the same as in the preceding examples, except that in the result we shall have \( \varepsilon^\theta = \frac{1}{x} \).
+If \( \frac{r}{q} \) is negative, we find
+
+\[
+u = \frac{1}{x^2 + \sqrt{-\frac{r}{q}}} \left( a_0 + \frac{a_1}{x} + \frac{a_2}{x^2} \cdots \right) + \frac{1}{x^2 - \sqrt{-\frac{r}{q}}} \left( b_0 + \frac{b_1}{x} + \frac{b_2}{x^2} \cdots \right).
+\]
+
+If \( \frac{r}{q} = 0 \), the solution is of the form
+
+\[
+u = \frac{1}{x^2} \left\{ a_0 + \frac{a_1}{x} + \frac{a_2}{x^2} \cdots + \log x(b_0 + b_1 x + b_2 x^2) \right\}.
+\]
+
+If \( \frac{r}{q} \) is positive,
+
+\[
+u = \frac{1}{x^2} \left\{ \cos \left( \sqrt{\frac{r}{q}} \log x \right) \left( a_0 + \frac{a_1}{x} + \frac{a_2}{x^2} \cdots \right) + \sin \left( \sqrt{\frac{r}{q}} \log x \right) \left( b_0 + \frac{b_1}{x} + \frac{b_2}{x^2} \cdots \right) \right\}.
+\]
+
+In all these the arbitrary constants are \( a_0 \) and \( b_0 \), and the values of \( a_1, b_1, a_2, b_2 \) are determined by equations similar to those given in the former examples.
+
+Objections are commonly urged against the solutions of linear differential equations in series, on the ground that the condition of convergency is fulfilled only within narrow limits of the independent variable. Might it not be shown that when a solution becomes divergent, there exists another which at the same limit becomes convergent, and that where no second form of solution exists none is needed?
+
+In general the linear differential equation
+
+\[
+f&#x27;_0(D)u + f&#x27;_1(D)x u \cdots + f&#x27;_n(D)x^n u = 0
+\]
+
+has as many solutions in ascending series as there are simple factors in \( f&#x27;_0(D) \), and as many descending developments as there are factors of a like nature in \( f&#x27;_n(D) \).
+
+**B. § 3. On the Solution of Linear Partial Differential Equations by Series.**
+
+Let \( x \) be one of the independent variables, \( u \) the dependent variable, and let the particular object proposed be to develope \( u \) in ascending powers of \( x \).
+
+Put \( x = e^t \), and let the equation, supposed to be wanting of a second member, be placed under the form
+
+\[ T_0 u + T_1 e^t u + T_2 e^{2t} u \ldots = 0, \quad (17.) \]
+
+wherein \( T_0, T_1, T_2 \) are rational and entire functions of \( D \) and of the remaining variables \( x&#x27;, x&#x27;&#x27; \), and of the symbols \( \frac{d}{dx&#x27;}, \frac{d}{dx&#x27;&#x27;} \).
+
+Should it then happen that \( T_0 \) is of the form \( f&#x27;_0(D) \), not involving \( x&#x27;, x&#x27;&#x27; \cdots \frac{d}{dx&#x27;} \frac{d}{dx&#x27;&#x27;} \), we shall assume
+
+\[ f&#x27;_0(D)u = 0, \]
+
+observing to introduce into the solution of this equation arbitrary functions of \( x&#x27;, x&#x27;&#x27; \), in the stead of arbitrary constants, and proceed with the result as in the cases already illustrated.
+Should $T_0$ involve $x&#x27;$, $x&#x27;&#x27;$, &amp;c., the operations indicated may be of a kind which it is impossible in the present state of analysis to perform. In some such instances they may be evaded by a linear transformation, and in all cases the difficulty will be placed in the true point of view,—no slight advantage of the method.
+
+The theory of equations involving a second member is, mutatis mutandis, the same as explained in the preceding section.
+
+Ex. 1. Let the equation be such, that, on assuming $x=\varepsilon^{\theta}$, we have
+
+$$ (D-a)(D-b)u + \varphi(y, \frac{d}{dy}, D)\varepsilon^{\theta}u = 0. $$
+
+Here, by the fundamental theorem,
+
+$$ u = \sum u_m \varepsilon^{mb} = \sum u_m x^m, $$
+
+$$ (m-a)(m-b)u_m + \varphi(y, \frac{d}{dy}, m)u_{m-1} = 0. $$
+
+The equation $(m-a)(m-b)=0$ gives $m=a, m=b$; and as arbitrary functions are to be written in the place of constants, we shall have
+
+$$ u = F_a(y)x^a + F_{a+1}(y)x^{a+1} + F_{(a+2)}(y)x^{a+2} \ldots $$
+
+$$ + F_b(y)x^b + F_{b+1}(y)x^{b+1} + F_{b+2}(y)x^{b+2} \ldots $$
+
+where $F_a(y), F_b(y)$ are arbitrary, and in general for the rest
+
+$$ F_m(y) = \frac{\varphi(y, \frac{d}{dy}, m)}{(m-a)(m-b)}F_{m-1}(y). $$
+
+As a particular example, let $\frac{d^2u}{dx^2} = f(y)\frac{d^2u}{dy^2}$. Multiply by $x^2$, and putting $x=\varepsilon^{\theta}$,
+
+$$ D(D-1)u - f(y)\frac{d^2}{dy^2}\varepsilon^{2\theta}u = 0. $$
+
+$$ \therefore \quad u = F_0(y) + \frac{f(y)\frac{d^2}{dy^2}F_0(y)}{1.2}x^2 + \left\{ \frac{f(y)\frac{d^2}{dy^2}}{1.2.3.4} \right\}^2 F_0(y)x^4 $$
+
+$$ + F_1(y)x + \frac{f(y)\frac{d^2}{dy^2}F_1(y)}{1.2.3}x^3 + \left\{ \frac{f(y)\frac{d^2}{dy^2}}{1.2.3.4.5} \right\}^2 F_1(y)x^5, $$
+
+$F_0(y)F_1(y)$ being arbitrary. As the operation, implied by the symbol $f(y)\frac{d^2}{dy^2}$, can always be performed, the above solution is universally interpretable.
+
+If $f(y)=a^2$, we get
+
+$$ u = F_0(y) + \frac{a^2}{1.2}\frac{d^2F_0(y)}{dy^2}x^2 + \frac{a^4}{1.2.3.4}\frac{d^4F_0(y)}{dy^4}x^4 $$
+
+$$ + F_1(y)x + \frac{a^2}{1.2.3}\frac{d^2F_1(y)}{dy^2}x^3 + \frac{a^4}{1.2.3.4.5}\frac{d^4F_1(y)}{dy^4}x^5 \ldots $$
+
+Put $F_0(y)=\varphi(y)+\psi(y), F_1(y)=u(\varphi&#x27;(y)-\psi&#x27;(y))$, and substituting, we get
+
+$$ u = \varphi(y+ax) + \psi(y-ax), $$
+
+which verifies the solution.
+Ex. 2. To integrate the equation \( x^2 \frac{d^2 u}{dx^2} + x \frac{du}{dx} - f(y) \frac{d^2 u}{dy^2} = 0 \).
+
+Putting \( x = \varepsilon^\theta \), we have
+
+\[
+D^2 u - f(y) \frac{d^2}{dy^2} \varepsilon^{2\theta} = 0. \quad \ldots \ldots \ldots \ldots \ldots \ldots (18.)
+\]
+
+The equation \( D^2 u = 0 \) gives \( u = a + B\theta \), which we shall substitute in (18.), regarding \( A \) and \( B \) as functions of \( \theta \) and \( y \). This gives
+
+\[
+D^2 A + \theta D^2 B + 2DB - f(y) \frac{d^2}{dy^2} (\varepsilon^{2\theta} A + \theta \varepsilon^{2\theta} B) = 0,
+\]
+
+whence by the rule
+
+\[
+D^2 A + 2DB - f(y) \frac{d^2}{dy^2} \varepsilon^{2\theta} A = 0,
+\]
+
+\[
+D^2 B - f(y) \frac{d^2}{dy^2} \varepsilon^{2\theta} B = 0,
+\]
+
+applied to which, the fundamental theorem gives
+
+\[
+A = \sum a_m \varepsilon^{m\theta}, \quad B = \sum b_m \varepsilon^{m\theta},
+\]
+
+\[
+m^2 a_m + 2m b_m - f(y) \frac{d^2}{dy^2} a_{m-2} = 0,
+\]
+
+\[
+m^2 b_m - f(y) \frac{d^2}{dy^2} b_{m-2} = 0;
+\]
+
+whence writing \( x \) for \( \varepsilon^\theta \), and determining \( a_m, b_m \); observing also that \( a_0, b_0 \) will be arbitrary functions of \( y \), we have
+
+\[
+u = \varphi_0(y) + \varphi_1(y)x + \varphi_2(y)x^2 + &amp;c.
+\]
+
+\[
++ \log x(\psi_0(y) + \psi_1(y)x + \psi_2(y)x^2 + &amp;c.),
+\]
+
+\( \varphi_0(y), \varphi_1(y) \) being arbitrary, and the succeeding forms of \( \varphi_m(y), \psi_m(y) \) determined by the equations
+
+\[
+\varphi_m(y) = f(y) \frac{d^2}{dy^2} m\varphi_{m-2}(y) - 2\psi_{m-2}(y)
+\]
+
+\[
+\psi_m(y) = f(y) \frac{d^2}{dy^2} \psi_{m-2}(y).
+\]
+
+Euler has exhibited in a series the integral of the equation
+
+\[
+\frac{d^2 u}{dx dy} + \frac{a}{x+y} \left( \frac{du}{dx} + \frac{du}{dy} \right) + \frac{b}{(x+y)^2} u = 0,
+\]
+
+and on that result are founded many of the solutions of partial differential equations in Dr. Peacock&#x27;s &#x27;Examples.&#x27; We proceed to consider a somewhat more general equation, of which we shall give two distinct solutions.
+
+Ex. 3. Given \( \frac{d^2 u}{dx dy} + f_1(x+y) \frac{du}{dx} + f_2(x+y) \frac{du}{dy} + f_3(x+y)u = 0 \),
+
+\( f_1, f_2, f_3 \) denoting any functions whatever, to find \( u \).
+
+Put \( x = s, x+y = t \), then \( \frac{d}{dx} = \frac{d}{ds} + \frac{d}{dt}, \frac{d}{dy} = \frac{d}{dt} \), and transforming, we have
+\[
+\frac{d^2u}{dsdt} + \frac{d^2u}{dt^2} + f_1(t) \frac{du}{ds} + (f_1(t) + f_2(t)) \frac{du}{dt} + f_3(t) u = 0.
+\]
+
+Multiply by \( s \), and put \( s = \varepsilon t \), we have
+
+\[
+\left( \frac{d}{dt} + f_1(t) \right) Du + \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) \varepsilon^t u = 0;
+\]
+
+whence, by the fundamental theorem,
+
+\[
+u = \sum u_m \varepsilon^{m\varepsilon} = \sum u_m x^m,
+\]
+
+\[
+\left( \frac{d}{dt} + f_1(t) \right) mu_m + \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) u_{m-1} = 0.
+\]
+
+Hence, if for \( u_m \) we write \( F_m(t) \), the solution will assume the following form,
+
+\[
+u = F_0(t) + F_1(t)x + F_2(t)x^2, \ldots \ldots \ldots \ldots \ldots \ldots \ldots (19.)
+\]
+
+where \( F_0(t) \) is arbitrary, and in general
+
+\[
+\frac{d}{dt} F_m(t) + f_1(t) F_m(t) = - \frac{\left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) F_{m-1}(t)}{m},
+\]
+
+whence we have, as the law of derivation,
+
+\[
+F_m(t) = - \frac{1}{m} \int f_1(t) dt \int f_2(t) dt \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) F_{m-1}(t) dt.
+\]
+
+To this we may add a precisely similar solution in ascending powers of \( y \), the two together constituting the complete integral.
+
+We cannot, from the above, deduce Euler’s solution, because that solution is expressed in ascending powers of \( t \), and not of \( x \) or \( y \). If, however, for \( f_1(t) \), \( f_2(t) \), \( f_3(t) \) we substitute Euler’s forms of those functions, and make \( t = \varepsilon t \), we shall obtain the result in question.
+
+The general solution (19.) has been given in order to illustrate the fact before adverted to, that when \( T_0 \) of (17.) is not simply a function of \( D \), the derivation of the coefficients of the final series may involve operations which it is difficult to perform.
+
+We shall now show how, by a linear transformation, the difficulty may be evaded.
+
+Assume \( x - y = s \), \( x + y = t \), then
+
+\[
+\frac{d}{dx} = \frac{d}{ds} \frac{ds}{dx} + \frac{d}{dt} \frac{dt}{dx} = \frac{d}{ds} + \frac{d}{dt},
+\]
+
+and
+
+\[
+\frac{d}{dy} = \frac{d}{ds} \frac{ds}{dy} + \frac{d}{dt} \frac{dt}{dy} = \frac{d}{dt} - \frac{d}{ds},
+\]
+
+and transforming the original equation, we find
+
+\[
+\frac{d^2u}{ds^2} - \frac{d^2u}{dt^2} - (f_1(t) - f_2(t)) \frac{du}{ds} - (f_1(t) + f_2(t)) \frac{du}{dt} - f_3(t) u = 0.
+\]
+
+Multiply by \( s^2 \) and make \( s = \varepsilon t \), we have, on reduction,
+
+\[
+D(D-1)u - (f_1(t) - f_2(t))(D-1)\varepsilon^t u - \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) \varepsilon^t u = 0,
+\]
+
+whence, by the fundamental theorem,
+\[ u = \sum u_m \varepsilon^m = \sum u_m s^m, \]
+
+\[ m(m-1)u_m - (f_1(t) - f_2(t))(m-1)u_{m-1} - \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) u_{m-2} = 0. \quad (20.) \]
+
+The equation \( m(m-1) = 0 \) gives \( m = 0 \) or \( 1 \), whence \( u_0 \) and \( u_1 \) are arbitrary functions of \( t \), which we shall represent by \( F_0(t), F_1(t) \). The value of \( u_m \), which we shall similarly represent by \( F_m(t) \), is given by (20.), whence the complete integral will be
+
+\[ u = F_0(t) - F_1(t)s + F_2(t)s^2 + F_3(t)s^3 \ldots \text{ad inf.}, \]
+
+wherein \( s = x - y, t = x + y, F_0(t), F_1(t) \) are arbitrary, and in general
+
+\[ F_m(t) = \frac{(m-1)(f_1(t) - f_2(t))F_{m-1}(t) + \left( \frac{d^2}{dt^2} + (f_1(t) + f_2(t)) \frac{d}{dt} + f_3(t) \right) F_{m-2}(t)}{m(m-1)}. \]
+
+The derivation of the coefficients is thus always possible.
+
+B. § 4. On the Integration of Linear Differential Equations in Finite Terms.
+
+If we affect both sides of the equation
+
+\[ f_0(D)u + f_1(D)\varepsilon u \ldots + f_n(D)\varepsilon^n u = U \]
+
+with \( \{f_0(D)\}^{-1} \), and for \( \frac{f_1(D)}{f_0(D)}, \frac{f_2(D)}{f_0(D)} \ldots \) write \( \varphi_1(D), \varphi_2(D) \ldots \), and for \( \{f_0(D)\}^{-1}U \) write \( U \), we have
+
+\[ u + \varphi_1(D)\varepsilon u \ldots + \varphi_n(D)\varepsilon^n u = U; \ldots \ldots \ldots \ldots \quad (21.) \]
+
+under which form the linear differential equation will be treated in the following investigation.
+
+We however premise the integrability of equations of the form
+
+\[ F\left( f(x) \frac{d}{dx} \right) u = U, \]
+
+for, writing \( f(x) \frac{d}{dx} = \frac{d}{dt} \), whence \( t = \int \frac{dx}{f(x)} \), we have
+
+\[ F\left( \frac{d}{dt} \right) u = U, \]
+
+which, for the forms of \( F \) here contemplated, is an equation with constant coefficients.
+
+The linear equation of the first order is an example of the above class, for, writing it in the form
+
+\[ P \frac{du}{dx} + u = Q, \]
+
+we have only to assume \( P \frac{d}{dx} = \frac{d}{dt} \), in order to obtain
+
+\[ t = \int \frac{dx}{P}, \quad \frac{du}{dt} + u = Q, \]
+
+\[ \therefore \quad u = \varepsilon^{-\int \frac{Q}{P} dt} = \varepsilon^{-\int \frac{dx}{P}} \int \varepsilon^{\int \frac{dx}{P}} Q dx. \]
+Equations of the second order comprised in the above general class are of the form
+
+\[ \{f(x)\}^2 \frac{d^2u}{dx^2} + f(x)f&#x27;(x) + p \frac{du}{dx} + qu = U, \]  
+
+as is found by writing \( f(x) \frac{d}{dx} = \frac{d}{dt} \) in the equation
+
+\[ \frac{d^2u}{dt^2} + p \frac{du}{dt} + qu = U, \]
+
+whence \( t = \int \frac{dx}{f(x)} \).
+
+The equation \((1 + ax^2) \frac{d^2u}{dx^2} + ax \frac{du}{dx} \pm n^2 u = 0\) is a particular case of (22.), and its solution is determined by the system
+
+\[ t = \int \frac{dx}{\sqrt{1 + ax^2}}, \quad \frac{d^2u}{dt^2} \pm n^2 u = 0. \]
+
+The symbolical form of the equation just considered is
+
+\[ u + \frac{a(D - 2)^2 + n^2}{D(D - 1)} \varepsilon^2 u = 0; \]  
+
+to which we shall have occasion to refer.
+
+In the employment of the general symbolical form of the linear differential equation, two principal cases will be considered; the first comprising such equations as are reducible to a system of an inferior order, by a method of resolution similar to that which is employed in the solution of linear differential equations with constant coefficients; the second including those whose solution depends on a transformation affecting the dependent variable \( u \). A more general method of resolution will be explained in the sequel.
+
+**Proposition 1.**—The equation
+
+\[ u + a_1 \varphi(D) \varepsilon^1 u + a_2 \varphi(D) \varphi(D - 1) \varepsilon^2 u + \ldots + a_n \varphi(D) \varphi(D - 1) \ldots \varphi(D - n + 1) \varepsilon^n u = U \]
+
+may be resolved into a system of equations of the form
+
+\[ u - q \varphi(D) \varepsilon^q u = U, \]
+
+the values of \( q \) being determined by the equation
+
+\[ q^n + a_1 q^{n-1} + a_2 q^{n-2} + \ldots + a_n = 0. \]  
+
+For
+
+\[ \varphi(D) \varphi(D - 1) \varepsilon^2 u = \varphi(D) \varepsilon^1 \varphi(D) \varepsilon^1 u = \{\varphi(D) \varepsilon^1\}^2 u, \]
+
+and in general
+
+\[ \varphi(D) \varphi(D - 1) \ldots \varphi(D - n + 1) \varepsilon^n u = \{\varphi(D) \varepsilon^1\}^n u; \]
+
+so that if we represent the symbol \( \varphi(D) \varepsilon^q \) by \( \varepsilon \), the equation in question becomes
+
+\[ (1 + a_1 \varepsilon + a_2 \varepsilon^2 + \ldots + a_n \varepsilon^n) u = U; \]
+
+\[ \therefore \quad u = (1 + a_1 \varepsilon + a_2 \varepsilon^2 + \ldots + a_n \varepsilon^n)^{-1} U \]
+
+\[ = \{N_1(1 - q_1 \varepsilon)^{-1} + N_2(1 - q_2 \varepsilon)^{-1} + \ldots + N_n(1 - q_n \varepsilon)^{-1}\} U, \]
+provided that $q_1, q_2, \ldots, q_n$ are roots of the equation
+
+$$q^n + a_1 q^{n-1} + a_2 q^{n-2} + \ldots + a_n = 0,$$
+
+and that $N_1, N_2, \ldots, N_n$ are of the forms
+
+$$N_1 = \frac{q_1}{(q_1 - q_2)(q_1 - q_3) \cdots (q_1 - q_n)}, \ldots, N_n = \frac{q_n}{(q_n - q_1)(q_n - q_2) \cdots (q_n - q_{n-1})},$$
+
+Let $(1 - q_1)U = u_1$, $(1 - q_2)U = u_2$, and so on, then
+
+$$u_1 - q_1 \varphi(D) u_1 = U,$$
+
+whence
+
+$$u = N_1 u_1 + N_2 u_2 + \ldots + N_n u_n,$$
+
+wherein $u_1 u_2 \ldots u_n$ are determined by the system of equations,
+
+$$\begin{align*}
+    u_1 - q_1 \varphi(D) u_1 &amp;= U, \\
+    u_2 - q_2 \varphi(D) u_2 &amp;= U, \\
+    &amp;\vdots \\
+    u_n - q_n \varphi(D) u_n &amp;= U.
+\end{align*}$$
+
+The forms of $\varphi(D)$ which render the above system integrable will hereafter be determined. The most important of these is obviously
+
+$$\varphi(D) = \frac{a D + b}{a D + b},$$
+
+which reduces the proposed system of equations to the first order.
+
+For the particular form $\varphi(D) = (D)^{-1}$, the equation above considered will represent the general linear differential equation with constant coefficients; for every other form of $\varphi(D)$ it will represent an equation with variable coefficients.
+
+**Ex.** Let the given equation be
+
+$$(x^2 + mx^4 + nx^6) \frac{d^2 u}{dx^2} + (2bx + (a + b + 2)mx^2 + (2a + 4)nx^3) \frac{du}{dx} + (b(b-1) + (a+1)bm + (a+2)(a+1)nx^2) u = 0.$$
+
+Putting $x = e^t$, and reducing to the symbolical form, we have
+
+$$u + m \frac{D+a}{D+b} e^t u + n \frac{(D+a)(D+a-1)}{(D+b)(D+b-1)} e^{2t} u = 0.$$  
+
+Here $q_1, q_2$ are the roots of the equation $q^2 + mq + n = 0$, whence
+
+$$u = \frac{q_1 u_1}{q_1 - q_2} + \frac{q_2 u_2}{q_2 - q_1} = \frac{q_1 u_1 - q_2 u_2}{q_1 - q_2},$$
+
+$u_1$ and $u_2$ being given by the equations
+
+$$u_1 - q_1 \frac{D+a}{D+b} e^t u_1 = 0,$$
+
+$$u_2 - q_2 \frac{D+a}{D+b} e^t u_2 = 0.$$
+From the former of these equations we have
+
+\[(D + b)u_1 - q_1(D + a)u_1 = 0,\]
+\[(D + b)u_1 - q_1(D + a + 1)u_1 = 0,\]
+\[\left(x \frac{d}{dx} + b\right)u_1 - q_1x\left(x \frac{d}{dx} + a + 1\right)u_1 = 0,\]
+\[(x - q_1x^2) \frac{du_1}{dx} + (b - (a + 1)q_1x)u_1 = 0,\]
+
+\[u_1 = \frac{c_1}{x^b(1 - q_1x)^{a-b+1}}, \quad u_2 = \frac{c_2}{x^b(1 - q_2x)^{a-b+1}},\]
+
+\[\therefore \quad u = \frac{c_1(1 - q_1x)^{a-b+1} + c_2(1 - q_2x)^{a-b+1}}{x^b(1 - q_1x)^{a-b+1}(1 - q_2x)^{a-b+1}}.\]
+
+The same process would solve the same equation with a second member X.
+
+The next class of equations to be considered comprises those which are integrable by a transformation operating on the dependent variable.
+
+As the theory of the general equation
+
+\[u + \varphi_1(D)\varepsilon^{\alpha}u + \varphi_2(D)\varepsilon^{\beta}u + \ldots + \varphi_n(D)\varepsilon^{\gamma}u = U\]
+
+is deducible from that of the equation
+
+\[u + \varphi(D)\varepsilon^{\alpha}u = U,\]
+
+we shall first consider the simple case.
+
+**Proposition 2.**—The equation \(u + \varphi(D)\varepsilon^{\alpha}u = U\) will be converted into the form
+
+\[v + \varphi(D + n)\varepsilon^{\alpha}v = V,\]
+
+by the relations
+
+\[u = \varepsilon^{\alpha}v, \quad U = \varepsilon^{\alpha}V.\]  
+
+(XIII.)
+
+For assume \(u = \varepsilon^{\alpha}v\), and substituting in the original equation, we have
+
+\[\varepsilon^{\alpha}v + \varphi(D)\varepsilon^{\alpha+r}v = U,\]
+
+\[\therefore \quad \varepsilon^{\alpha}v + \varepsilon^{\alpha}\varphi(D + n)\varepsilon^{\alpha}v = U,\]
+
+by (V.),
+
+\[v + \varphi(D + n)\varepsilon^{\alpha}v = \varepsilon^{-\alpha}U.\]
+
+Let \(\varepsilon^{-\alpha}U = V\), then \(U = \varepsilon^{\alpha}V\), and the above becomes
+
+\[v + \varphi(D + n)\varepsilon^{\alpha}v = V,\]
+
+as was to be shown.
+
+**Proposition 3.**—The equation \(u + \varphi(D)\varepsilon^{\alpha}u = U\) will be converted into the form
+
+\[v + \psi(D)\varepsilon^{\alpha}v = V,\]
+
+by the relations
+
+\[u = P_r\psi(D)v, \quad U = P_r\psi(D)V,\]
+
+wherein \(P_r\psi(D)\) denotes the infinite symbolical product
+
+\[\psi(D)\psi(D-r)\psi(D-2r)\ldots\]  
+
+(XIV.)
+
+For assume \(u = f(D)v\), and substituting in the original equation, we have
+
+\[f(D)v + \varphi(D)\varepsilon^{\alpha}f(D)v = U,\]
+\[
+f(D)v + \varphi(D)f(D-r)\varepsilon^rv = U \quad \text{by (V.),}
+\]
+\[
+v + \frac{\varphi(D)f(D-r)}{f(D)}\varepsilon^rv = \{f(D)\}^{-1}U. \quad \ldots \ldots \ldots \ldots \quad (27.)
+\]
+
+Comparing this with the equation \(v + \psi(D)\varepsilon^rv = V\), we have
+
+\[
+\frac{\varphi(D)f(D-r)}{f(D)} = \psi(D),
+\]
+\[
+\therefore f(D) = \frac{\varphi(D)}{\psi(D)}f(D-r); \quad \ldots \ldots \ldots \ldots \ldots \quad (28.)
+\]
+
+hence
+
+\[
+f(D-r) = \frac{\varphi(D-r)}{\psi(D-r)}f(D-2r),
+\]
+
+and so on, wherefore the value of \(f(D)\) will be represented by the infinite product
+
+\[
+\frac{\varphi(D)\varphi(D-r)\varphi(D-2r)\ldots}{\psi(D)\psi(D-r)\psi(D-2r)\ldots},
+\]
+
+which we shall express under the form \(P_r\frac{\varphi(D)}{\psi(D)}\), in accordance with Sir John Herschel&#x27;s notation for the integrals of equations of finite differences of the first order, of which, in fact, (28.) is an example. Hence (27.) becomes
+
+\[
+v + \psi(D)\varepsilon^rv = V,
+\]
+
+with the relations
+
+\[
+u = P_r\frac{\varphi(D)}{\psi(D)}v, \quad \dot{U} = P_r\frac{\varphi(D)}{\psi(D)}V.
+\]
+
+As the above Proposition is of great importance in the solution of differential equations, we shall devote some attention to the circumstances which attend its application.
+
+That the expression of \(P_r\frac{\varphi(D)}{\psi(D)}\) may be finite, it is sufficient that for every elementary factor \(\chi(D)\) occurring in the numerator, there should correspond a similar factor \(\chi(D \pm ir)\) in the denominator, \(i\) being an integer, and vice versa; for
+
+\[
+P_r\frac{\chi(D)}{\chi(D+ir)} = \frac{\chi(D)\chi(D-r)\chi(D-2r)\ldots}{\chi(D+ir)\chi(D+(i-1)r)\ldots}
+\]
+
+\[
+= \frac{1}{\chi(D+ir)\chi(D+(i-1)r)\ldots\chi(D+r)},
+\]
+
+which is a finite expression. Again,
+
+\[
+P_r\frac{\chi(D)}{\chi(D-ir)} = \frac{\chi(D)\chi(D-r)\ldots}{\chi(D-ir)\chi(D-(i+1)r)\ldots}
+\]
+
+\[
+= \chi(D)\chi(D-r)\ldots\chi(D-(i-1)r),
+\]
+
+which is also finite; the product of any number of such expressions is finite also.
+
+If \(\chi(D)\) is any elementary factor of \(\varphi(D)\), it may be converted into \(\chi(D \pm ir)\); for let \(\varphi(D) = \chi(D)\chi&#x27;(D)\), and let \(\psi(D) = \chi(D \pm ir)\chi&#x27;(D)\), wherein \(\chi&#x27;(D)\) denotes the product of the remaining factors, then
+
+\[
+P_r\frac{\varphi(D)}{\psi(D)} = P_r\frac{\chi(D)}{\chi(D \pm ir)},
+\]
+
+which is finite.
+If $\varphi(D)$ involves any factor of the form $\frac{\chi(D)}{\chi(D \pm ir)}$, it may be made to disappear; for let $\varphi(D) = \frac{\chi(D)}{\chi(D \pm ir)}\chi&#x27;(D)$, and let $\psi(D) = \chi&#x27;(D)$, then
+
+$$P_r^{\varphi(D)} = P_r^{\chi(D)}$$
+
+which is finite.
+
+From inspection of the above it is evident that if $\varphi(D)$ is in the form of a rational fraction, and it is proposed to diminish (so to speak) $D$ in any factor of the numerator, or to augment $D$ in a factor of the denominator, by a multiple of $r$, the process by which $u$ will be finally deduced from $v$ will depend upon differentiation; but if it is proposed to augment $D$ in a factor of the numerator, or to diminish $D$ in a factor of the denominator, the process will involve integration. The former is obviously the preferable condition.
+
+The general proposition (XIV.) amounts in reality to this, that the equation
+
+$$u + \varphi(D)\varepsilon^ru = U$$
+
+may be resolved into the system of equations,
+
+$$u = P_r^{\varphi(D)}v, \quad U = P_r^{\varphi(D)}V,$$
+
+$$v + \psi(D)\varepsilon^rv = V,$$
+
+whence $V, v, u$ are to be successively determined. Of these equations we shall call the two first the auxiliary ones, and (31.) the transformed one. This premised, the following are the canons which regulate the determination of the constants.
+
+1. If no factor of $\varphi(D)$ disappears in $\psi(D)$, no arbitrary constants are to be introduced into the solutions of the auxiliary equations; those derived from the transformed equation being necessary and sufficient.
+
+2. Disappearing factors are in general of the form $\frac{D+a}{D+b}$, $a-b$ being a multiple of $r$.
+
+Every such factor will give a system of $\frac{a-b}{r}$ constants in the solution of one of the auxiliary equations; if in that of the equation determining $V$, those constants will be arbitrary, but one only will need to be retained; if however in that of the equation determining $u$, one only will be arbitrary, and the rest will be therewith connected by the relation $u_m + \varphi(m)u_{m-r} = 0$, derived from the primitive equation.
+
+The reason why the constants connected with the disappearing factor are arbitrary in $V$ alone, is, that $V$ enters into no other equation than the one in whose solution those constants are found. If however the entire series of constants in $V$ are retained, they will be reduced to one by the subsequent differentiations in passing to the value of $u$.
+
+Ex. 1. To determine the general characteristic of those differential equations of the $n$th degree, the solution of which depends on that of the equation $\frac{d^n v}{dx^n} \pm q^n v = X$.
+The symbolical form of this equation is
+
+\[ v \pm \frac{q^n}{D(D-1) \ldots (D-n+1)} \varepsilon^n v = V, \ldots \ldots \ldots \quad (32.) \]
+
+wherein \( V \) is the symbolical form of \( \left( \frac{d}{dx} \right)^{-n} X \), i.e. the result obtained by writing \( \varepsilon^n \) for \( x \) in the \( n \)th integral of \( X dx^n \), no constants being added in the integration. From inspection of (32.), it is evident that the class of equations sought, must, on assuming \( x = \varepsilon^n \), be reducible to the form
+
+\[ u \pm \frac{q^n}{(D+a_1)(D+a_2) \ldots (D+a_n)} \varepsilon^n u = U, \]
+
+in which we shall suppose the quantities \( a_1, a_2, \ldots a_n \) to be ranged in the order of their magnitudes. Put \( u = \varepsilon^{-a_1} u \), then by Prop. 2,
+
+\[ u_1 \pm \frac{q^n}{D(D+a_2-a_1) \ldots (D+a_n-a_1)} \varepsilon^n u_1 = \varepsilon^{a_1} U. \quad \ldots \ldots \quad (33.) \]
+
+The first factor of the denominator of \( \varphi(D) \) in (32.) now corresponds with the first factor of the denominator of \( \psi(D) \) in (33.). In any of the remaining factors we may by Prop. 2 convert \( D \) into \( D \pm ir \), \( i \) being any integer,—hence that they may all correspond with the factors of \( \psi(D) \), we must have the quantities
+
+\[ \frac{a_2-a_1+1}{n}, \quad \frac{a_3-a_1+2}{n}, \quad \frac{a_4-a_1+3}{n}, \ldots \frac{a_n-a_1+n-1}{n}, \]
+
+all negative integers, which are therefore the conditions sought.
+
+From (32.) and (33.), by (XIV.), \( u_1 = P_n \varphi(D) v \),
+
+wherein \( \varphi(D) = \pm \frac{q^n}{D(D+a_2-a_1) \ldots (D+a_n-a_1)} \), \( \psi(D) = \pm \frac{q^n}{D(D-1) \ldots (D-n+1)} \);
+
+but \( u = \varepsilon^{-a_1} u_1 \), wherefore
+
+\[ u = \varepsilon^{-a_1} P_n \frac{(D-1) \ldots (D-n+1)}{(D+a_2-a_1) \ldots (D+a_n-a_1)} v, \quad \ldots \ldots \ldots \quad (34.) \]
+
+whence the value of \( u \) will be deduced from that of \( v \) by differentiation; for since \( a_2-a_1 &lt; -1 \),
+
+\[ P_n \frac{(D-1)}{(D+a_2-a_1)} = (D-1)(D-n-1) \ldots (D+a_2-a_1+n), \]
+
+and so on for the remaining factors to which \( P_n \) is to be applied.
+
+The two following examples will sufficiently illustrate the preceding case.
+
+Ex. 2. Given \( \frac{d^2 u}{dx^2} + q^2 u - \frac{6u}{x^2} = 0 \), which is an equation occurring in the theory of the earth’s figure.
+
+The symbolical form of this equation is
+
+\[ u + \frac{q^2}{(D+2)(D-3)} \varepsilon^{2\theta} u = 0. \]
+Here \(a_1 = 2\), \(a_2 = -3\), \(n = 2\); also the equation for \(v\) is \(\frac{d^2v}{dx^2} + q^2v = 0\), whence
+
+\[v = c \sin(qx + c_1);\] and by (34.), 
+
+\[u = \varepsilon^{-2q} P_2 \frac{D-1}{D-5} v,\]
+
+\[= \varepsilon^{-2q}(D-1)(D-3)v,\]
+
+\[= \frac{1}{x^2} \left( x^2 \frac{d^2}{dx^2} - 3x \frac{d}{dx} + 3 \right) c \sin(qx + c_1),\]
+
+\[= c \left\{ \left( \frac{3}{x^2} - q^2 \right) \sin(qx + c_1) - \frac{3q}{x} \cos(qx + c_1) \right\}.\]
+
+The above example might have been treated directly by Prop. 3, and without the aid of Prop. 2, but the final determination of \(u\) would not have then depended on differentiation alone. Thus we should have had
+
+\[u + \frac{q^2}{(D+2)(D-3)} \varepsilon^{2q} u = 0,\]
+
+\[v + \frac{q^2}{D(D-1)} \varepsilon^{2q} u = V.\]
+
+Here \(\varphi(D) = \frac{q^2}{(D+2)(D-3)}\), \(\psi(D) = \frac{q^2}{D(D-1)}\), whence \(P_2 \frac{\varphi(D)}{\psi(D)} = P_2 \frac{D(D-1)}{(D+2)(D-3)} = \frac{D-1}{D+2}\),
+
+wherefore by (30.), 
+
+\[u = \frac{D-1}{D+2} v, \quad 0 = \frac{D-1}{D+2} V.\]
+
+As no factors disappear in \(\psi(D)\), no constants are to be added in determining \(V\), whence \(V = 0\), \(v = c \sin(qx + c_1)\),
+
+\[u = \frac{D-1}{D+2} v = (1 - 3(D+2)^{-1})c \sin(qx + c_1),\]
+
+\[= c(1 - 3\varepsilon^{-2q}(D)^{-1}\varepsilon^{2q}) \sin(qx + c_1),\]
+
+\[= c \left( 1 - \frac{3}{x^2} \left( \frac{d}{dx} \right)^{-1} x^2 \right) \sin(qx + c_1),\]
+
+\[= c \left\{ \sin(qx + c_1) - \frac{3}{x^2} \int dx x \sin(qx + c_1) \right\},\]
+
+\[= c \left\{ \left( 1 - \frac{3}{q^2 x^2} \right) \sin(qx + c_1) + \frac{3}{qx} \cos(qx + c_1) \right\}.\]
+
+Ex. 3. Given the equation \(\frac{d^2u}{dx^2} - i(i+1) \frac{u}{x^2} \pm h^2 u = 0\), \(i\) being a positive integer.
+
+This equation, under a slightly different form, has been discussed by Mossotti in his memoir on Molecular Action. It has also been treated by Paoli and by Planck.
+
+The symbolical form of the equation is
+
+\[u \pm \frac{h^2}{(D+i)(D-i-1)} \varepsilon^{2q} u = 0.\] . . . . . . . . . . . . (35.)
+Comparing this with the general form of Ex. 1, we have
+
+\[ a_1 = i, \quad a_2 = -i-1, \quad n = 2, \quad q = h, \text{ whence} \]
+
+\[ u = \varepsilon^{-i} P_{D-1}^{D-2i-1} v, \]
+
+\( v \) being determined by the equation \( \frac{d^2 v}{dx^2} + h^2 v = 0 \). Now \( P_{D-1}^{D-2i-1} = (D-1)(D-3)\ldots(D-2i+1) \), and writing \( x \frac{d}{dx} \) for \( D \), we have
+
+\[ u = \frac{1}{x^i} \left( x \frac{d}{dx} - 1 \right) \left( x \frac{d}{dx} - 3 \right) \ldots \left( x \frac{d}{dx} - 2i+1 \right) v. \ldots \ldots \ldots (36.) \]
+
+The value of \( u \) may be otherwise expressed thus. Applied to any subject, we have
+
+\[ D-1 = \varepsilon^i D \varepsilon^{-i} = x \left( x \frac{d}{dx} \right)^{-1} = x^2 \frac{d}{dx} \frac{1}{x}, \]
+
+\[ D-3 = \varepsilon^3 D \varepsilon^{-3} = x^4 \frac{d}{dx} \frac{1}{x^3}, \]
+
+\[ D-2i+1 = \varepsilon^{(2i-1)} D \varepsilon^{-(2i-1)} = x^{2i} \frac{d}{dx} x^{-(2i-1)}. \]
+
+Substituting these expressions in the general value of \( u \), viz.
+
+\[ u = \varepsilon^{-i} (D-1)(D-3)\ldots(D-2i+1) v, \]
+
+we find
+
+\[ u = \frac{1}{x^i} \left( x^2 \frac{d}{dx} \right)^{-1} \left( x^4 \frac{d}{dx} \right)^{-3} \ldots \left( x^{2i} \frac{d}{dx} \right)^{-(2i-1)} v, \]
+
+\[ = \frac{1}{x^{i+1}} \left( x^3 \frac{d}{dx} \right)^i \left( x^3 \frac{d}{dx} \right)^{i-1} \ldots \left( x^3 \frac{d}{dx} \right)^{i-(2i-1)} v, \]
+
+\[ = \frac{1}{x^{i+1}} \left( x^3 \frac{d}{dx} \right)^i v x^{2i-1}. \]
+
+Hence the complete integral of the equation \( \frac{d^2 u}{dx^2} - i(i+1) \frac{u}{x^2} + h^2 u = 0 \) is
+
+\[ u = \frac{1}{x^{i+1}} \left( x^3 \frac{d}{dx} \right)^i c \cos(hx) + c_1 \sin(hx) x^{2i-1}, \]
+
+and that of the equation \( \frac{d^2 u}{dx^2} - i(i+1) \frac{u}{x^2} - h^2 u = 0 \) is
+
+\[ u = \frac{1}{x^{i+1}} \left( x^3 \frac{d}{dx} \right)^i c e^{hx} + c_1 e^{-hx} x^{2i-1}, \ldots \ldots \ldots \ldots \ldots (37.) \]
+
+which forms are perhaps new.
+
+Equations of the above class have been discussed by Mr. Leslie Ellis, in two very ingenious papers published in the Cambridge Mathematical Journal*, and it is just to observe that the first conceptions of the theory developed in Prop. 3 of this section, were in some degree aided by the study of his researches.
+
+The two following examples are intended to elucidate the theory of disappearing factors.
+
+* Vol. ii. pp. 169, 193.
+Ex. 4. Given \((x^2 + qx^3) \frac{d^2 u}{dx^2} + ((a+3)qx^2 + (b-i+1)x) \frac{du}{dx} + ((a+1)qx - bi)u = X\), the second member representing any function of \(x\), and \(i\) being an integer.
+
+The symbolical form of the above equation is
+
+\[ u + q \frac{(D+a)D}{(D+b)(D-i)} \varepsilon&#x27; u = U, \ldots \ldots \ldots \ldots \quad (38.) \]
+
+wherein \(U = \{(D+b)(D-i)\}^{-1}X\) with the relation \(x = \varepsilon&#x27;\). Assume as the transformed equation,
+
+\[ v + q \frac{D+a}{D+b} \varepsilon&#x27; v = V, \ldots \ldots \ldots \ldots \quad (39.) \]
+
+then \(P_1 \phi(D) = P_1 \frac{D}{D-i} = D(D-1) \ldots (D-i+1)\), wherefore
+
+\[ u = (D)(D-1) \ldots (D-i+1)v, \]
+\[ U = (D)(D-1) \ldots (D-i+1)V. \quad \ldots \ldots \ldots \ldots \quad (40.) \]
+
+Now (39.) gives
+
+\[ (D+b) v + q\varepsilon&#x27;(D+a+1)v = (D+b)V, \]
+\[ x \frac{dv}{dx} + bv + qx(x \frac{d}{dx} + a+1)v = (D+b)V, \]
+\[ v = \frac{1}{x^b(1+qx)^{a-b+1}} \left[ \int dx x^{b-1}(1+qx)^{a-b}(D+b)V + C \right]. \quad \ldots \ldots \quad (41.) \]
+
+Now from (40.) we have
+
+\[ V = \{D(D-1) \ldots (D-i+1)\}^{-1}U, \]
+\[ \therefore \quad (D+b)V = \{D(D-1) \ldots (D-i+1)\}^{-1}(D+b)U. \]
+
+But \((D+b)U = (D-i)^{-1}X\), whence
+
+\[ (D+b)V = \{D(D-1) \ldots (D-i)\}^{-1}X. \]
+
+In performing the inverse operation \(\{D(D-1) \ldots (D-i+1)\}^{-1}\) we must, by the second canon, retain one arbitrary constant. We choose the one derived from the factor \(D\). Observing then that \(\{D(D-1) \ldots (D-i)\}^{-1} = \left\{ x^{i+1} \left( \frac{d}{dx} \right)^{i+1} \right\}^{-1}\), we have
+
+\[ (D+b)V = \left( \frac{d}{dx} \right)^{-i+1} \frac{X}{x^{i+1}} + C. \]
+
+Hence substituting in (41.),
+
+\[ v = \frac{\int dx \left[ x^{b-1}(1+qx)^{a-b} \left( \int \ldots dx x^{i+1} \frac{X}{x^{i+1}} + C_1 \right) \right] + C}{x^b(1+qx)^{a-b+1}}, \]
+\[ u = x^i \left( \frac{d}{dx} \right)^i \frac{\int dx \left[ x^{b-1}(1+qx)^{a-b} \left( \int \ldots dx x^{i+1} \frac{X}{x^{i+1}} + C_1 \right) \right] + C}{x^b(1+qx)^{a-b+1}}. \]
+
+If \(X = 0\), the above gives
+
+\[ u = x^i \left( \frac{d}{dx} \right)^i \frac{C + C_1 \int dx x^{b-1}(1+qx)^{a-b}}{x^b(1+qx)^{a-b+1}}. \]
+Ex. 5. Given \((1-x^2)\frac{d^2u}{dx^2} + \left(\frac{p+1}{x} - (4n-p+1)x\right) \frac{du}{dx} - 2n(2n-p)u = 0.\)
+
+This equation has been discussed by Poisson*. I am, however, unacquainted with his results.
+
+Passing to the symbolical form, we have
+
+\[ u - \frac{(D+2n-2)(D+2n-2-p)}{D(D+p)} \varepsilon^{2\theta} u = 0, \ldots \ldots \ldots \quad (42.) \]
+
+which is integrable in three distinct cases.
+
+1st. When \(p\) is an odd integer, by assuming as the transformed equation
+
+\[ v - \frac{(D+2n-1-p)(D+2n-2-p)}{(D+p)(D+p-1)} \varepsilon^{2\theta} v = 0, \]
+
+then operating by (XII.).
+
+2nd. When \(n\) is an integer, by assuming
+
+\[ v - \frac{D+2n-2-p}{D+p} \varepsilon^{2\theta} v = V, \]
+
+which is of the first degree.
+
+3rd. When \(2n-p\) is an even integer, by assuming
+
+\[ v - \varepsilon^{2\theta} v = V. \]
+
+An equation similar to the above, and susceptible of an interesting physical application, will be treated at length in another part of this paper.
+
+We are now prepared to assign the general conditions of integrability of the equation \(u + \varphi(D) \varepsilon^{2\theta} u = U.\)
+
+In the first place, if \(\varphi(D)\) involves factors of the form \(\frac{D+m}{D+n}\), in which \(\frac{m-n}{r}\) is an integer, they may be made to disappear as in the two last examples.
+
+Such factors being then rejected, let the remaining factors, if any, in the numerator of \(\varphi(D)\) be \((D+m_1)(D+m_2)...(D+m_r)\), and the remaining factors, if any, in the denominator of \(\varphi(D)\) be \((D+n_1)(D+n_2)...(D+n_r)\). The conditions required are, that the quantities.
+
+\[ \begin{align*}
+\frac{m_2-m_1+1}{r}, &amp; \quad \frac{m_3-m_1+2}{r}, \ldots, \frac{m_r-m_1+r-1}{r} \\
+\frac{n_2-n_1+1}{r}, &amp; \quad \frac{n_3-n_1+2}{r}, \ldots, \frac{n_r-n_1+r-1}{r}
+\end{align*} \]
+
+shall be all integers.
+
+For in such cases the proposed equation can, by (XIV.), be transformed into the following:
+
+\[ v + f(D)f(D-1)...(fD-r+1)\varepsilon^{2\theta} v = V, \ldots \ldots \ldots \quad (44.) \]
+
+wherein \(f(D)\) is equal to \((D+m_1)\), or to \((D+n_1)^{-1}\), or to \(\frac{D+m_1}{D+n_1}\), according as the factors of \(\varphi(D)\), under consideration, are of the form \((D+m_1)(D+m_2)...(D+m_r)\),
+
+or \(\frac{1}{(D+n_1)(D+n_2)...(D+n_r)}\), or \(\frac{(D+m_1)(D+m_2)...(D+m_r)}{(D+n_1)(D+n_2)...(D+n_r)}\).
+
+* Journal de l&#x27;École Polytechnique, cah. xvii. p. 614.
+In each of these cases (44.) is reducible by (XII.) to a system of equations of the first degree.
+
+If for \( m_1 \) we choose the least of the quantities \( m_1 m_2 \ldots m_r \), and for \( n_1 \) the greatest of the quantities \( n_1 n_2 \ldots n_r \), the final derivation of \( u \) from \( v \) will be effected by differentiation.
+
+The only integrable forms of the equation \( u + \varphi(D) \varepsilon^\theta u = U \), which are not comprised in the above generalisation, are those which finally depend on a transformation affecting the independent variable. They are included, so far as I have been able to ascertain, in the two following general cases, viz.
+
+\[
+u + a \frac{(D+m)^2 + q^2}{(D+n)(D+n_1)} \varepsilon^{2\theta} u = U \quad \ldots \ldots \ldots \ldots \quad (45.)
+\]
+
+\[
+u + a \frac{(D+n)(D+n_1)}{(D+m)^2 + q^2} \varepsilon^{2\theta} u = U, \quad \ldots \ldots \ldots \ldots \quad (46.)
+\]
+
+wherein \( n - m \) is an even, and \( n_1 - m \) an odd integer, positive or negative.
+
+If in (46.) we assume \( \theta = -\theta \), then multiply by \( \varepsilon^{2m} \), and reduce, the result will be of the general form (45.), which alone therefore it will suffice to consider.
+
+By the successive application of Propositions 2 and 3 the equation (45.) may be reduced to the form
+
+\[
+v + a \frac{(D-2)^2 + q^2}{D(D-1)} \varepsilon^{2\theta} v = V;
+\]
+
+and this equation may always be integrated by putting \( x \) in the place of \( \varepsilon^\theta \), and then assuming \( \int \frac{dx}{\sqrt{1+ax^2}} = y \), vide (23.). A single example will suffice.
+
+Ex. 6. Given \( (1-x^2) \frac{d^2 u}{dx^2} - (2m+1)x \frac{du}{dx} - (m^2-q^2)u = 0 \), \( m \) being an integer.
+
+The symbolical form is
+
+\[
+u - \frac{(D+m-2)^2 - q^2}{D(D-1)} \varepsilon^{2\theta} u = 0. \quad \ldots \ldots \ldots \ldots \quad (47.)
+\]
+
+Let \( u = \varepsilon^{-m\theta} u_1 \), then by (XIII.), Prop. 2,
+
+\[
+u_1 - \frac{(D-2)^2 - q^2}{(D-m)(D-m-1)} \varepsilon^{2\theta} u_1 = 0.
+\]
+
+Assume
+
+\[
+v - \frac{(D-2)^2 - q^2}{D(D-1)} \varepsilon^{2\theta} v = 0. \quad \ldots \ldots \ldots \ldots \quad (48.)
+\]
+
+Here \( P_2 \varphi(D) = P_2 D(D-1) = D(D-1) \ldots (D-m+1) \), whence
+
+\[
+u_1 = D(D-1) \ldots (D-m+1) v = x^m \left( \frac{d}{dx} \right)^m v.
+\]
+
+Now (48.) gives \( (1-x^2) \frac{d^2 v}{dx^2} - x \frac{dv}{dx} + q^2 v = 0 \), which, integrated by the method above explained, leads to \( v = c_1 \cos(q \sin x^{-1}) + c_2 \sin(q \sin x^{-1}) \), whence finally,
+
+\[
+u = \left( \frac{d}{dx} \right)^m \{ c_1 \cos(q \sin x^{-1}) + c_2 \sin(q \sin x^{-1}) \}. \quad \ldots \ldots \ldots \quad (49.)
+\]
+By reasoning precisely similar to that of Prop. 3, it may be shown that the equation 
+\[ u + \varphi_1(D)\varepsilon^t u + \cdots + \varphi_n(D)\varepsilon^{nt} u = U \]
+may be converted into the form 
+\[ v + \psi_1(D)\varepsilon^t v + \cdots + \psi_n(D)\varepsilon^{nt} v = V, \]
+by the assumptions,
+\[
+\begin{align*}
+u &amp;= P_1 \frac{\varphi_1(D)}{\psi_1(D)} v = P_2 \frac{\varphi_2(D)}{\psi_2(D)} v \cdots = P_n \frac{\varphi_n(D)}{\psi_n(D)} v \\
+U &amp;= P_1 \frac{\varphi_1(D)}{\psi_1(D)} V = P_2 \frac{\varphi_2(D)}{\psi_2(D)} V \cdots = P_n \frac{\varphi_n(D)}{\psi_n(D)} V.
+\end{align*}
+\]
+That these assumptions may be realized, it is necessary that \( \psi_1(D), \psi_2(D) \ldots \psi_n(D) \) should be so chosen as to satisfy the conditions,
+\[
+\begin{align*}
+\frac{\varphi_2(D)}{\psi_2(D)} &amp;= \frac{\varphi_1(D)\varphi_1(D-1)}{\psi_1(D)\psi_1(D-1)}, \\
+&amp;\vdots \\
+\frac{\varphi_n(D)}{\psi_n(D)} &amp;= \frac{\varphi_1(D)\varphi_1(D-1) \cdots \varphi_1(D-n+1)}{\psi_1(D)\psi_1(D-1) \cdots \psi_1(D-n+1)}.
+\end{align*}
+\]
+These conditions being satisfied, the first of the equations (XV.), viz. \( u = P_1 \frac{\varphi_1(D)}{\psi_1(D)} v \), will enable us to deduce \( u \) from \( v \).
+
+It is seldom that an application of the above theorem is necessary, and a single example on the present occasion will suffice.
+
+**Ex. 7.** Given \((a + bx) \frac{d^2 u}{dx^2} + (f + gx) \frac{du}{dx} + ng u = 0.\)
+
+The symbolical form of this equation is
+\[
+u + \frac{b}{a} \frac{D + f - 2}{D} \varepsilon^t u + \frac{g}{a} \frac{D + n - 2}{D(D-1)} \varepsilon^{2t} u = 0.
+\]
+Assume as the transformed equation,
+\[
+v + \frac{b}{a} \frac{D + f - 2}{D + n - 1} \varepsilon^t v + \frac{g}{a} \frac{1}{D + n - 1} \varepsilon^{2t} v = V.
+\]
+Here we have
+\[
+P_1 \frac{\varphi_1(D)}{\psi_1(D)} = P_1 \frac{D + n - 1}{D} = (D + n - 1)(D + n - 2) \cdots (D + 1),
+\]
+\[
+P_2 \frac{\varphi_2(D)}{\psi_2(D)} = P_2 \frac{(D + n - 1)(D + n - 2)}{D(D-1)} = (D + n - 1)(D + n - 2) \cdots (D + 1),
+\]
+and these forms are identical. Hence
+\[
+u = (D + n - 1)(D + n - 2) \cdots (D + 1)v = \left( \frac{d}{dx} \right)^{n-1} x^{n-1} v, \quad \ldots \quad (50.)
+\]
+\[
+0 = (D + n - 1)(D + n - 2) \cdots (D + 1)V. \quad \ldots \quad (51.)
+\]
+As a factor of \( \varphi_2(D) \) has disappeared in the transformed equation, it is necessary, by the second canon, to retain an arbitrary constant in the value of \( V \). Now the complete integral of (51.) is \( V = c\varepsilon^{-t} + c&#x27;\varepsilon^{-2t} \cdots + c&#x27;&#x27;\varepsilon^{-(n-1)t} \), whereof we shall retain the first term in the second member. Hence
+\[ v + \frac{b}{a} \frac{D + f - 2}{(D + n - 1)} \varepsilon^{\alpha} v + \frac{g}{a} \frac{1}{D + n - 1} \varepsilon^{2\alpha} v = C \varepsilon^{-\alpha}, \]
+
+and putting \( \varepsilon^{\alpha} = x \) and reducing,
+
+\[ \frac{dv}{dx} + \frac{(n-1)a + (f-b)x + gx^2}{ax + bx^2} v = \frac{C}{x^2(a + bx)}, \]
+
+an equation of the first degree, whence the value of \( v \) being determined, that of \( u \) is given by (50.).
+
+The methods above developed are also applicable, mutatis mutandis, to partial and simultaneous equations.
+
+**C. § 2. Some Illustrations of a more General Method of Resolution.**
+
+We have, in Propositions 2 and 3 of the last section, fully considered the theory of the differential equation \( u + \varphi(D) \varepsilon^{\alpha} u = U \), and have exhibited in Prop. 1 a method of resolution by which a more extensive class of equations may be reduced to the preceding form. In what follows I purpose to exemplify a more general method of resolution, founded on the expansion of \( f(\pi + \varepsilon) \) in (I.). This method is deserving of particular attention for two reasons; first, because, in connexion with Propositions 2 and 3 already referred to, it enables us to integrate almost every class of linear differential equations that admits of integration in finite terms; and, secondly, because a strictly analogous method is applicable to equations of finite differences.
+
+I shall suppose the differential equation to be placed under the form
+
+\[ f_0(D)u + f_1(D)\varphi(D)\varepsilon^{\alpha} u + f_2(D)\varphi(D)\varphi(D-1)\varepsilon^{2\alpha} u \ldots = U, \]
+
+where \( f_0(D), f_1(D), \ldots \) are any rational and entire functions of \( D \), and \( \varphi(D) \) any function whatever of that symbol.
+
+Let \( D - n\varphi(D)\varepsilon = \pi \) and \( \varphi(D)\varepsilon = \varepsilon \), then by reasoning precisely similar to that of A, Prop. 3, it is seen that \( \pi \) and \( \varepsilon \) combine according to the law,
+
+\[ \varepsilon f(\pi)u = f(\pi-1)\varepsilon u. \]
+
+Now \( \varphi(D)\varepsilon = \varepsilon, \varphi(D)\varphi(D-1)\varepsilon^{2\alpha} = \varepsilon^2, \) and so on. Wherefore the proposed equation will assume the form
+
+\[ f_0(D)u + f_1(D)\varepsilon u + f_2(D)\varepsilon^{2\alpha} u + \ldots = U. \quad \ldots \quad \ldots \quad \ldots \quad (52.) \]
+
+But \( D = \pi + n\varepsilon \), wherefore, expanding the coefficients of the above equation by (I.), we have
+
+\[ f_0(D) = f_0(\pi) + n\Delta_{\pi} f_0(\pi)\varepsilon + \frac{n^2}{1!2} \Delta_{\pi}^2 f_0(\pi)\varepsilon^2 + \ldots \]
+
+And similarly for the rest, the interpretation of \( \Delta_{\pi} \) being
+
+\[ \Delta_{\pi} f(\pi) = f(\pi) - f(\pi-1). \]
+Substituting the expanded forms of $f_0(D) f_1(D)$ &amp;c. in (52.), we have a result which may be thus represented:
+
+$$\varphi_0(\pi)u + \varphi_1(\pi)\varepsilon u + \varphi_2(\pi)\varepsilon^2 u + \&amp;c. = U, \ldots \ldots \ldots \quad (XVI.)$$
+
+$\varphi_0(\pi), \varphi_1(\pi), \&amp;c.$ being rational and entire functions of $\pi$. Several distinct cases may here occur, rendering the above equation either integrable, or reducible to a simple form.
+
+1st. It may happen that by a particular determination of $n$ the equation (XVI.) may be reduced to a single term. Suppose that it should give
+
+$$\varphi_0(\pi)u = U;$$
+
+then if $\pi - q_1, \pi - q_2, \&amp;c.$ are the factors of $\varphi_0(\pi)$, we shall, by resolution, have
+
+$$u = N_1u_1 + N_2u_2 + N_3u_3 + \&amp;c.$$  
+
+$$(\pi - q_1)u_1 = U$$  
+$$(\pi - q_2)u_2 = U.$$  
+
+On replacing $\pi$ by its value, $D - n\varphi(D)\varepsilon^t$, the above system will assume the form
+
+$$u + \varphi_1(D)\varepsilon u = U,$$
+
+which has already been considered.
+
+2nd. The coefficients $\varphi_0(\pi), \varphi_1(\pi), \&amp;c.$ may be constant. The equation then becomes
+
+$$u + a_1\varepsilon u + a_2\varepsilon^2 u + \&amp;c. = U,$$
+
+which has been already considered.
+
+3rd. The equation (XVI.) may, perhaps, be reduced to consist of a pair of terms. Suppose that it should give
+
+$$\varphi_0(\pi)u + \varphi_1(\pi)\varepsilon u = U;$$
+
+this may be reduced to the general form
+
+$$u + \varphi(\pi)\varepsilon u = U.$$
+
+As $\pi$ and $\varepsilon$ combine according to the laws of $D$ and $\varepsilon^t$, the above equation may be treated by Prop. 2 and 3, C. § 1, and its integrable cases determined accordingly.
+
+In illustration of the above theory, we shall investigate the principal integrable cases of the equation
+
+$$(lx^2 + mx^3 + nx^4)\frac{d^2u}{dx^2} + (l&#x27;x + m&#x27;x^2 + n&#x27;x^3)\frac{du}{dx} + (l&#x27;&#x27; + m&#x27;&#x27;x + n&#x27;&#x27;x^2)u = 0.$$
+
+The symbolical form of the above equation is
+
+$$\{lD(D-1) + l&#x27;D + l&#x27;&#x27;\}u + \{m(D-1)(D-2) + m&#x27;(D-1) + m&#x27;&#x27;\}\varepsilon u$$
+
+$$+ \{n(D-2)(D-3) + n&#x27;(D-2) + n&#x27;&#x27;\}\varepsilon^2 u = 0;$$
+
+or, as it may be written,
+
+$$l(D+\alpha)(D+\beta)u + m(D+\alpha&#x27;)(D+\beta&#x27;)\varepsilon u + n(D+\alpha&#x27;&#x27;)(D+\beta&#x27;&#x27;)\varepsilon^2 u = 0, \ldots \quad (53.)$$
+wherein
+
+\[ \alpha = \frac{v - l + \sqrt{(v - l)^2 - 4ll&#x27;}}{2l}, \quad \beta = \frac{v - l - \sqrt{(v - l)^2 - 4ll&#x27;}}{2l}, \]
+
+\[ \alpha&#x27; = \frac{m&#x27; - 3m + \sqrt{(m&#x27; - m)^2 - 4mm&#x27;}}{2m}, \quad \beta&#x27; = \frac{m&#x27; - 3m - \sqrt{(m&#x27; - m)^2 - 4mm&#x27;}}{2m}, \]
+
+\[ \alpha&#x27;&#x27; = \frac{n&#x27; - 5n + \sqrt{(n&#x27; - n)^2 - 4nn&#x27;}}{2n}, \quad \beta&#x27;&#x27; = \frac{n&#x27; - 5n - \sqrt{(n&#x27; - n)^2 - 4nn&#x27;}}{2n}. \]
+
+It may happen that some of the factors, \(D + \alpha\), \(D + \beta\), &amp;c., are wanting. This would modify the investigation. We shall, however, here suppose that they are all retained, and shall seek the conditions of integrability under this supposition.
+
+The equation is reducible to the first order, and therefore integrable, if any of the following eight conditions is satisfied:
+
+\[ \alpha \text{ or } \beta = \alpha&#x27; \text{ or } \beta&#x27; = \alpha&#x27;&#x27; \text{ or } \beta&#x27;&#x27;. \]
+
+Thus if we have \( \alpha = \alpha&#x27; = \alpha&#x27;&#x27; \), we find
+
+\[ l(D + \beta)u + m(D + \beta&#x27;)\varepsilon u + n(D + \beta&#x27;&#x27;)\varepsilon^2 u = (D + \alpha)^{-1} = c\varepsilon^{-\alpha}, \]
+
+which is an equation of the first order.
+
+Suppose that we have
+
+\[ \beta&#x27; = \alpha&#x27;&#x27; = \beta&#x27;&#x27; + 1, \quad \alpha&#x27; = \beta = \alpha - 1. \]  
+
+(54.)
+
+The equation then becomes
+
+\[ l(D + \alpha)(D + \alpha - 1)u + m(D + \alpha - 1)(D + \beta&#x27;)\varepsilon u + n(D + \beta&#x27;)(D + \beta&#x27; - 1)\varepsilon^2 u = 0; \]
+
+or
+
+\[ u + \frac{m}{l}(D + \beta&#x27;)\varepsilon u + \frac{n}{l}(D + \beta&#x27;)(D + \beta&#x27; - 1)\varepsilon^2 u = 0, \]
+
+which has already been integrated, Ex. to Prop. 1, C. § 1. There are several other cases in which this method of reduction will apply.
+
+If the conditions (54.) are not both satisfied, let it be supposed that the first is satisfied, we have
+
+\[ (D + \alpha)(D + \beta)u + \frac{m}{l}(D + \alpha&#x27;)(D + \beta&#x27;)\varepsilon u + \frac{n}{l}(D + \beta&#x27;)(D + \beta&#x27; - 1)\varepsilon^2 u = 0. \]
+
+Put
+
+\[ (D + \beta&#x27;)\varepsilon = \xi, \quad D = \pi + q\xi, \]
+
+then
+
+\[ (D + \alpha)(D + \beta)u + \frac{m}{l}(D + \alpha&#x27;)\xi u + \frac{n}{l}\xi^2 u = 0. \]
+
+Expanding the coefficients as directed in the rule, we have
+
+\[ (D + \alpha)(D + \beta) = (\pi + \alpha)(\pi + \beta) + q(2\pi + \alpha + \beta - 1)\xi + q^2\xi^2. \quad \frac{m}{l}(D + \alpha&#x27;) = \frac{m}{l}(\pi + \alpha&#x27; + q\xi); \]
+
+the substitution of these values will give
+
+\[ (\pi + \alpha)(\pi + \beta)u + \left\{ \left(2q + \frac{m}{l}\right)\pi + q(\alpha + \beta - 1) + \frac{m}{l}\alpha&#x27; \right\}\xi u + \left(q^2 + \frac{m}{l}q + \frac{n}{l}\right)\xi^2 u = 0; \]
+
+or, as we may for simplicity write,
+
+\[ (\pi + \alpha)(\pi + \beta)u + (A\pi + B)\xi u + C\xi^2 u = 0, \]
+wherein \( A = 2q + \frac{m}{l} \), \( B = q(\alpha + \beta - 1) + \frac{m}{l}\alpha&#x27; \), \( C = q^2 + \frac{m}{l}q + \frac{n}{l} \).
+
+This is integrable in several distinct cases.
+
+Ist. Put \( C = 0 \), and taking either value of \( q \), suppose that we have \( A = 0 \), \( B = 0 \), then
+
+\[
+(\pi + \alpha)(\pi + \beta)u = 0,
+\]
+
+which is reducible to a pair of equations of the first order, and is completely integrable.
+
+2nd. Determine \( q \) so as to satisfy the equation \( C = 0 \), then
+
+\[
+(\pi + \alpha)(\pi + \beta)u + (A\pi + B)\varepsilon u = 0,
+\]
+
+or
+
+\[
+u + A\frac{\pi + B}{\pi + \alpha}(\pi + \beta)\varepsilon u = 0.
+\]
+
+This is reducible to the first order whenever \( \frac{B}{A} \) differs by an integer from \( \alpha \) or \( \beta \).
+
+Thus, suppose that \( \frac{B}{A} - \alpha \) is an integer, then assuming
+
+\[
+v + \frac{A}{\pi + \beta}\varepsilon u = 0,
+\]
+
+we have
+
+\[
+u = P_1\varphi(\pi)v = P_1\frac{\pi + B}{\pi + \alpha}v = (\pi + B)(\pi + \beta - 1)...(\pi + \alpha + 1)v.
+\]
+
+The equation for determining \( v \) is of the first order, and the derivation of \( u \) from \( v \) is effected by processes which involve differentiation only.
+
+3rd. Let \( A = 0 \), and determining \( q \), let \( B = 0 \), then
+
+\[
+u + \frac{C}{(\pi + \alpha)(\pi + \beta)}\varepsilon^2 u = 0.
+\]
+
+Suppose \( \alpha \) greater than \( \beta \), and assume
+
+\[
+v + \frac{C}{(\pi + \alpha)(\pi + \alpha - 1)}\varepsilon^2 u = 0,
+\]
+
+then
+
+\[
+u = P_2\frac{\pi + \alpha - 1}{\pi + \beta}v = (\pi + \alpha - 1)(\pi + \alpha - 3)...(\pi + \beta + 2)v.
+\]
+
+Here it is necessary that \( \alpha \) and \( \beta \) should differ by an integer. The equation determining \( v \) is reducible to a pair of equations of the first order, and \( u \) will be found, as in the last example, by differentiation; thus,
+
+\[
+\pi v = (D - q\varepsilon)v = (D - q(D + \beta&#x27;)\varepsilon&#x27;)v,
+\]
+
+\[
+= (D - q\varepsilon&#x27;(D + \beta&#x27; + 1))v,
+\]
+
+\[
+= (x - qx^2)\frac{dv}{dx} - q(\beta&#x27; + 1)xv.
+\]
+
+If in the general equation (53.) we assume \( t = -t&#x27; \), and multiply by \( \varepsilon^{2\theta} \), we find
+
+\[
+n(D&#x27; - \alpha&#x27;&#x27; - 2)(D&#x27; - \beta&#x27;&#x27; - 2)u + m(D&#x27; - \alpha&#x27; - 2)(D&#x27; - \beta&#x27; - 2)\varepsilon&#x27;u + l(D&#x27; - \alpha - 2)(D&#x27; - \beta - 2)\varepsilon^2u = 0.
+\]
+Let \( u = \varepsilon^2 v \), then
+
+\[ n(D&#x27; - \alpha&#x27;)(D - \beta&#x27;)u + m(D&#x27; - \alpha)(D&#x27; - \beta)\varepsilon&#x27;u + l(D&#x27; - \alpha)(D&#x27; - \beta)\varepsilon^2 u = 0, \]
+
+wherein \( D&#x27; = \frac{d}{dx} \). The comparison of this equation with (53.) shows that if in the equations of condition which we have obtained, we change \( \alpha \) into \( -\alpha&#x27;&#x27; \), \( \beta \) into \( -\beta&#x27;&#x27; \), \( l \) into \( n \), and vice versa, we shall obtain a new series of conditions of integrability. There are probably a few cases which the above analysis would fail to discover. Should the attention of analysts be turned to this subject, it is not unlikely that we shall soon be able to tabulate the forms of \( f_0(D), f_1(D), f_2(D) \), which render integrable the equation
+
+\[ f_0(D)u + f_1(D)\varepsilon u + f_2(D)\varepsilon^2 u = U, \]
+
+an object which I have endeavoured to accomplish for the case in which the first member involves only two terms.
+
+**D. Theory of Series and of Generating Functions.**
+
+Let \( u_p x^p + u_{p+1} x^{p+1} + \cdots + u_r x^r \) be the proposed series, and let the law of derivation of the coefficients be
+
+\[ u_m + \varphi_1(m)u_{m-1} + \cdots + \varphi_n(m)u_{m-n} = 0, \quad \ldots \]
+
+(55.)
+
+a law which we shall suppose to obtain for every set of \( n+1 \) consecutive coefficients of the series. This condition excludes from (55.) all values of \( m \) from \( p \) to \( p+n-1 \), and from \( t+1 \) to \( t+n \), i.e. the \( n \) first values of \( m \) in the series, and the \( n \) first values of \( m \) following those in the series, because for such values of \( m \) (55.) ceases to be a relation connecting \( n+1 \) consecutive coefficients of the series proposed. Now by the fundamental theorem, if \( u = \Sigma u_m x^m = \Sigma u_m \varepsilon^m \), then
+
+\[ u + \varphi_1(D)\varepsilon u + \varphi_n(D)\varepsilon^n u = \Sigma \{(u_m + \varphi_1(m)u_{m-1} + \cdots + \varphi_n(m)u_{m-n})\varepsilon^m\}, \]
+
+but by (55), the expression \( u_m + \varphi_1(m)u_{m-1} + \cdots + \varphi_n(m)u_{m-n} \) vanishes except for the values of \( m \) above particularized, hence to those values alone of \( m \) is the summation in the second member to be extended. The result may be expressed in the following theorem.
+
+If \( u = \Sigma u_m x^m = \Sigma u_m \varepsilon^m \), and if every \( n+1 \) consecutive coefficients of the series are connected by the relation
+
+\[ u_m + \varphi_1(m)u_{m-1} + \cdots + \varphi_n(m)u_{m-n} = 0, \]
+
+then
+
+\[ u + \varphi_1(D)\varepsilon u + \varphi_n(D)\varepsilon^n u = \Sigma \{(u_m + \varphi_1(m)u_{m-1} + \cdots + \varphi_n(m)u_{m-n})\varepsilon^m\}, \quad \ldots \quad \text{(XVII.)} \]
+
+the summation \( \Sigma \) in the second member of the equation extending to the first \( n \) values of \( m \) in the original series, and to the first \( n \) values of \( m \) following those which are found in the series, every value of \( u_m \) being rejected which is not contained in the given series.
+
+The following are particular deductions from the above theorem.
+
+Let \( u = u_p x^p + u_{p+r} x^{p+r} + u_{p+2r} x^{p+2r} + \cdots + u_r x^r \), and let the law of derivation of the coefficients be \( u_m = \varphi(m)u_{m-r} \), then
+
+\[ u_m - \varphi(m)u_{m-r} = 0, \quad \ldots \]
+
+(56.)
+
+\[ u - \varphi(D)\varepsilon u = \Sigma \{u_m - \varphi(m)u_{m-r}\}\varepsilon^m \}. \]
+Here the only values of \( m \), whereof account is to be taken, are \( p \) and \( t+r \). If \( m=p \), we have, under the sign of summation, the expression \((u_p - \phi(p)u_{p-r})\varepsilon^{\ell}\), but \( u_{p-r} \) not being a coefficient of the original series is to be rejected, so that we have simply \( u_p\varepsilon^{\ell} \). Assuming \( m=t+r \), we have under \( \Sigma \) the expression \((u_{t+r} - \phi(t+r)u_t)\varepsilon^{(t+r)}\), from which \( u_{t+r} \) being rejected, leaves \(-\phi(t+r)u_t\), therefore
+
+\[ u - \phi(D)\varepsilon^{\ell}u = u_p\varepsilon^{\ell} - \phi(t+r)u_t\varepsilon^{(t+r)}.\]
+
+Since by (56.), \( u_{t+r} - \phi(t+r)u_t = 0 \), the above equation may be written under the somewhat simpler form,
+
+\[ u - \phi(D)\varepsilon^{\ell}u = u_p\varepsilon^{\ell} - u_{t+r}\varepsilon^{(t+r)}.\]  
+
+If the series is infinite,
+
+\[ u - \phi(D)\varepsilon^{\ell}u = u_p\varepsilon^{\ell}.\]  
+
+Let \( u = u_p x^p + u_{p+1} x^{p+1} + u_{p+2} x^{p+2} + \ldots + u_t x^t \), and let the law of derivation of the coefficients be
+
+\[ u_m + \varphi_1(m)u_{m-1} + \varphi_2(m)u_{m-2} = 0.\]
+
+Here by the theorem,
+
+\[ u + \varphi_1(D)\varepsilon^{\ell}u + \varphi_2(D)\varepsilon^{2\ell}u = \Sigma \{ (u_m + \varphi_1(m)u_{m-1} + \varphi_2(m)u_{m-2})\varepsilon^{m\ell} \},\]
+
+the values of \( m \) to be considered being \( p, p+1, t+1, t+2 \).
+
+Whence the second member gives
+
+\[ u_p\varepsilon^{\ell} + (u_{p+1} + \varphi_1(p+1)u_p)\varepsilon^{(p+1)\ell} + (\varphi_1(t+1)u_t + \varphi_2(t+1)u_{t-1})\varepsilon^{(t+1)\ell} + \varphi_2(t+2)u_{t+1}\varepsilon^{(t+2)\ell}.\]
+
+This expression also may be simplified, as in the preceding case, for
+
+\[ u_{p+1} + \varphi(p+1)u_p = -\varphi_2(p+1)u_{p-1},\]
+\[ \varphi_1(t+1)u_t + \varphi_2(t+1)u_{t+1} = -u_{t+1}.\]
+
+Wherefore finally,
+
+\[ u + \varphi_1(D)\varepsilon^{\ell}u + \varphi_2(D)\varepsilon^{2\ell}u = u_p\varepsilon^{\ell} - \varphi_2(p+1)u_{p-1}\varepsilon^{(p+1)\ell} - u_{t+1}\varepsilon^{(t+1)\ell} + \varphi_2(t+2)u_{t+1}\varepsilon^{(t+2)\ell}.\]  
+
+Ex. 1. Let \( u = 1 - \frac{n^2}{1.2}x^2 + \frac{n^2(n^2-2^2)}{1.2.3.4}x^4 - \frac{n^2(n^2-2^2)(n^2-4^2)}{1.2...6}x^6 + &amp;c.\)
+
+Here \( u_m = -\frac{n^2-(m-2)^2}{m(m-1)}u_{m-2} \), therefore by (57.),
+
+\[ u - \frac{(D-2)^2-n^2}{D(D-1)}\varepsilon^{2\ell}u = 1.\]
+
+\[ (1-x^2)\frac{d^2u}{dx^2} - x\frac{du}{dx} + n^2u = 0.\]
+
+\[ u = c_1\cos(n\sin^{-1}x) + c_2\sin(n\sin^{-1}x).\]
+
+Determining the constants by comparison with the original series, we find \( u = \cos(nw) \), wherein \( w \) is that value of \( \sin^{-1}x \) which lies between \(-\frac{\pi}{2}\) and \(\frac{\pi}{2}\).
+
+Similarly for the series \( x - \frac{n^2-1^2}{1.2.3}x^3 + \frac{(n^2-1^2)(n^2-3^2)}{1.2.3.4.5}x^5 - &amp;c. \), we find \( u = \frac{1}{n}\sin(nw) \).
+
+The correctness of these results will be shown by substituting Poinsot&#x27;s expansions.
+
+Ex. 2. To sum the remainder of Taylor&#x27;s series, viz.
+
+\[ \frac{d^n\phi(a)}{da^n} \frac{x^n}{1.2..n} + \frac{d^{n+1}\phi(a)}{da^{n+1}} \frac{x^{n+1}}{1.2..n+1} + &amp;c.\]
+Here \( u_m = \frac{1}{m} \frac{d}{da} u_{m-1} \), or \( u_m - \frac{1}{m} \frac{d}{da} u_{m-1} = 0 \), whence
+
+\[
+u - (D)^{-1} \frac{d}{da} e^{\frac{a}{x}} u = \frac{d^n \varphi(a)}{d^na} \frac{e^{n\theta}}{1,2..n},
+\]
+
+\[
+\frac{du}{dx} = \frac{d}{da} e^{\frac{a}{x}} u = \frac{d^n \varphi(a)}{d^na} \frac{e^n\theta}{1,2..n-1},
+\]
+
+\[
+\frac{du}{dx} = \frac{du}{d\theta} = \frac{d^n \varphi(a)}{d^na} \frac{x^{n-1}}{1,2..n-1},
+\]
+
+a partial differential equation of the first order, of which the complete integral is
+
+\[
+u = e^{\frac{a}{x}} \left( \int \varepsilon^{-\frac{a}{x}} \frac{d^n \varphi(a)}{d^na} \frac{x^n-1}{1,2..n-1} dx + \psi(a) \right),
+\]
+
+\[
+= e^{\frac{a}{x}} \int \frac{x^{n-1} dx}{1,2..n-1} \frac{d^n \varphi(a-x)}{d^na} + \psi(a+x),
+\]
+
+\( \psi \) denoting an arbitrary function.
+
+Now \( u \) vanishes with \( x \) whatever may be the value of \( a \), therefore the arbitrary function and the lower limit of the integral are each 0; therefore
+
+\[
+u = e^{\frac{a}{x}} \int_0^x \frac{x^{n-1}}{1,2..n-1} \frac{d^n \varphi(a-x)}{d^na} dx, \ldots \ldots \ldots \ldots \quad (60.)
+\]
+
+the symbol \( \varepsilon \frac{d}{da} \) implying that after integration we are to change \( a \) into \( a+x \).
+
+Series of the class \( f(p)x^p + f(p+r)x^{p+r} + f(p+2r)x^{p+2r} + \&amp;c., \) wherein \( f(m) \) is a function of invariable form, may be reduced to linear equations with constant coefficients.
+
+We have \( u = f(p)x^p + f(p+r)x^{p+r} + \&amp;c. \). Here \( u_m = f(m) \), \( u_{m-r} = f(m-r) \), hence
+
+\[
+u_m = \frac{f(m)}{f(m-r)} u_{m-r}, \text{ or } u_m - \frac{f(m)}{f(m-r)} u_{m-r} = 0,
+\]
+
+whence
+
+\[
+u = \frac{f(D)}{f(D-r)} e^{\frac{z}{r}} u = f(p) e^{\frac{z}{r}}. \ldots \ldots \ldots \quad (61.)
+\]
+
+Assume \( v - e^z v = V \), then \( P_r \frac{\varphi(D)}{\psi(D)} = P_r \frac{f(D)}{f(D-r)} = f(D) \), whence
+
+\[
+u = f(D)v,
+\]
+
+\[
+f(p)e^{\frac{z}{r}} = f&#x27;(D)V.
+\]
+
+The last equation gives \( V = e^{\frac{z}{r}} \), therefore \( v = \frac{e^{\frac{z}{r}}}{1-e^{\frac{z}{r}}} \), and
+
+\[
+u = f(D) \frac{e^{\frac{z}{r}}}{1-e^{\frac{z}{r}}} \ldots \ldots \ldots \ldots \ldots \quad (XVIII.)
+\]
+
+This remarkable result may be otherwise obtained; thus,
+
+\[
+u = \sum_{m=p}^{\infty} f(m) e^{zm} = \sum_{m=p}^{\infty} f&#x27;(D)e^{zm},
+\]
+
+\[
+= f(D) \sum_{m=p}^{\infty} e^{zm} = f&#x27;(D) \frac{e^{zr}}{1-e^{zr}}.
+\]
+If we wish to sum a finite portion of the development, let \( f(p)x^p \) be the first term of the series as before, and \( f&#x27;(p&#x27;)x^{p&#x27;} \) the first term of the remainder of the series, that is, of the portion following that which is to be reduced to a finite form, then
+
+\[
+u = f(D) \frac{e^{pD} - e^{p&#x27;D}}{1 - e^D}.
+\]
+
+(62.)
+
+Ex. 3. Let \( u = 1.2.nx + 2.3.(n+1)x^2 + 3.4.(n+2)x^3 + \ldots + t(t+1)\ldots(t+n-1)x^t \).
+
+Here, \( f(m) = m(m+1)\ldots(m+n-1) \), therefore
+
+\[
+u = D(D+1)\ldots(D+n-1) \frac{e^D - e^{(t+1)D}}{1 - e^D},
+\]
+
+\[
+= x \frac{d^n}{dx^n} x^{n-1} \frac{x-x^{t+1}}{1-x},
+\]
+
+\[
+= x \left( \frac{d}{dx} \right)^n x^{n-1} \frac{x-x^{t+1}}{1-x}.
+\]
+
+Ex. 4. Let \( u = 1nx + 2nx^2 + 3nx^3 + \ldots + tx^t \).
+
+Here, \( f(m) = m^n \), whence
+
+\[
+u = D^n \frac{e^D - e^{(t+1)D}}{1 - e^D} = \left( \frac{d}{dx} \right)^n x^{n-1} \frac{x-x^{t+1}}{1-x}.
+\]
+
+Ex. 5. Let \( u = 1 + (\cos v)x + (\cos 2v)x^2 + \text{&amp;c. to } t \text{ terms.} \)
+
+Here, \( f(m) = \cos(mv) \), wherefore
+
+\[
+u = \cos(vD) \frac{1 - e^{tD}}{1 - e^D},
+\]
+
+\[
+= \frac{1}{2} \left( \frac{e^{vD} - 1 + e^{-vD}}{1 - e^D} \right) \frac{1 - e^{tD}}{1 - e^D},
+\]
+
+\[
+= \frac{1}{2} \left( \frac{1 - e^{(t+v)D}}{1 - e^D} + \frac{1 - e^{(t-v)D}}{1 - e^D} \right),
+\]
+
+\[
+= \frac{1 - x \cos v - x^2 \cos(tv) + x^{t+1} \cos(t-1)v}{1 - 2x \cos v + x^2}.
+\]
+
+Ex. 6. Let \( u = \frac{4x^3}{1.2.3} + \frac{5x^4}{2.3.4} + \frac{6x^5}{3.4.5} + \text{&amp;c., ad inf.} \)
+
+Here, \( f(m) = \frac{m+1}{m(m-1)(m-2)} \), whence
+
+\[
+u = \frac{D+1}{D(D-1)(D-2)} \frac{e^{3D}}{1 - e^D},
+\]
+
+\[
+= \left\{ \frac{1}{2} D^{-1} - 2(D-1)^{-1} + \frac{3}{2} (D-2)^{-1} \right\} \frac{e^{3D}}{1 - e^D},
+\]
+
+\[
+= \left\{ \frac{1}{2} D^{-1} - 2e^D D^{-1} + \frac{3}{2} e^{2D} D^{-1} - 2e^{3D} \right\} \frac{e^{3D}}{1 - e^D},
+\]
+
+\[
+= \frac{1}{2} \int \frac{e^{3D} dD}{1 - e^D} - 2e^D \int \frac{e^{2D} dD}{1 - e^D} + \frac{3}{2} e^{2D} \int \frac{e^{D} dD}{1 - e^D},
+\]
+
+\[
+= \frac{1}{2} \int \frac{x^3 dx}{1-x} - 2x \int \frac{x dx}{1-x} + \frac{3}{2} x^2 \int \frac{dx}{1-x}.
+\]
+Effecting the integrations, and determining the constants by comparison with the original series, we have
+
+\[ u = \frac{7}{4} x^2 - \frac{1}{2} x - \left( \frac{1}{2} - 2x + \frac{3}{2} x^2 \right) \log(1-x). \]
+
+When, as in the above case, the factors of the denominator of \( f(m) \) are equidifferent, the value of \( a \) may be determined by the solution of an equation of the first order. Thus:
+
+Ex. Let \( u = \frac{f(0)}{1.2..n} + \frac{f(1)}{2.3..(n+1)} x + \frac{f(2)}{3.4..(n+2)} x^2 + &amp;c., ad inf., \)
+
+wherein \( f(m) \) is of the form \( a + bm + cm^2 + &amp;c. \), being finite and not involving any negative or fractional indices.
+
+Here
+
+\[ u_m = \frac{f(m)}{(m+1)(m+2)...(m+n)}, \text{ whence} \]
+
+\[ u_m - \frac{f(m)}{f(m-1)} \frac{m}{m+n} u_{m-1} = 0, \]
+
+\[ u - \frac{f(D)}{f(D-1)} \frac{D}{D+n} \varepsilon^t u = \frac{f(0)}{1.2..n}. \]
+
+Assume
+
+\[ v - \frac{D}{D+n} \varepsilon^t v = V, \]
+
+we find \( u = f(D)v, \frac{f(0)}{1.2..n} = f(D)V, \) whence \( V = \frac{1}{1.2..n}, \) and substituting
+
+\[ v - \frac{D}{D+n} \varepsilon^t v = \frac{1}{1.2..n}, \]
+
+\[ (D+n)v - \varepsilon^t(D+1)v = \frac{1}{1.2..(n-1)} = \Gamma(n), \]
+
+\[ v = \frac{(1-\varepsilon)^{n-1}}{\Gamma(n)\varepsilon^n} \int \frac{\varepsilon^n d\theta}{(1-\varepsilon)^n}, \]
+
+\[ u = f(D) \frac{(1-\varepsilon)^{n-1}}{\Gamma(n)\varepsilon^n} \int \frac{\varepsilon^n d\theta}{(1-\varepsilon)^n}, \]
+
+\[ = \frac{1}{\Gamma(n)} f \left( x \frac{d}{dx} \right) \frac{(1-x)^{n-1}}{x^n} \int_0^x \frac{x^{n-1} dx}{(1-x)^n}, \]
+
+a result always finite when \( n \) is an integer.
+
+The theorem (XVIII.) may be extended to series involving any number of variables. Let \( u = \Sigma f(m_1 m_2..) x_1^{m_1} x_2^{m_2}.., f \) being a function of invariable form, and the summation \( \Sigma \) extending to all positive integer values of \( m_1 m_2.., \) then
+
+\[ u = f(D_1 D_2..) \frac{1}{(1-\varepsilon_1)(1-\varepsilon_2)}.. \]  
+
+wherein \( \varepsilon_1 = x_1, \varepsilon_2 = x_2, \) &amp;c. The performance of the operation \( f(D_1 D_2..) \) will involve differentiation, or the solution of a partial differential equation with constant coefficients.
+A still more remarkable theorem is the following.
+
+Let \( u = \sum f(m_1 m_2 \ldots m_n) x_1^{m_1} x_2^{m_2} \ldots x_n^{m_n} \), the summation extending to all positive integer values (0 included) of \( m_1 m_2 \ldots m_n \), which satisfy the condition
+
+\[ m_1 + m_2 + \ldots + m_n = \nu, \]
+
+then if \( \varepsilon^1 = x_1, \varepsilon^2 = x_2, \ldots \), etc.,
+
+\[ u = f(D_1, D_2, \ldots, D_n) \{ X_1 \varepsilon^{\nu_1} + X_2 \varepsilon^{\nu_2} + \ldots + X_n \varepsilon^{\nu_n} \}, \quad \ldots \ldots \quad (64.) \]
+
+wherein
+
+\[ X_1 = \frac{\varepsilon^{(\nu-1)\delta_1}}{(\varepsilon^1 - \varepsilon^2)(\varepsilon^1 - \varepsilon^3) \ldots (\varepsilon^1 - \varepsilon^n)}, \]
+
+\[ X_2 = \frac{\varepsilon^{(\nu-1)\delta_2}}{(\varepsilon^2 - \varepsilon^1)(\varepsilon^2 - \varepsilon^3) \ldots (\varepsilon^2 - \varepsilon^n)}, \]
+
+and so on for the rest. What is particularly to be noticed is, that the quantities \( X_1, X_2, \ldots, X_n \) are independent of \( \nu \).
+
+Lastly, if the condition under which the summation is to be effected is
+
+\[ m_1 + m_2 + \ldots + m_n = \nu, \]
+
+the rest as before, then
+
+\[ u = f(D_1, D_2, \ldots, D_n) \{ X_1 \frac{1 - \varepsilon^{(\nu+1)\delta_1}}{1 - \varepsilon^1} + X_2 \frac{1 - \varepsilon^{(\nu+1)\delta_2}}{1 - \varepsilon^2} + \ldots \}. \quad \ldots \ldots \quad (65.) \]
+
+As an example, suppose it required to obtain a finite expression for \( \sum (mnx^m y^n) \) subject to the condition
+
+\[ m + n = \nu. \]
+
+Here by the theorem,
+
+\[ u = D_1 D_2 \left\{ \frac{\varepsilon^{(\nu+1)\delta_1}}{\varepsilon^1 - \varepsilon^2} + \frac{\varepsilon^{(\nu+1)\delta_2}}{\varepsilon^2 - \varepsilon^1} \right\}, \]
+
+\[ = xy \frac{d^2}{dxdy} \frac{x^{r+1} - y^{r+1}}{x - y}, \]
+
+\[ = xy \frac{(r-1)(x^{r+1} - y^{r+1}) + (r+1)(xy^r - x^ry)}{(x-y)^3}. \]
+
+Thus let \( \nu = 3 \), we have
+
+\[ u = xy \frac{2x^4 - 4x^3y + 4xy^3 - 2y^4}{(x-y)^3}, \]
+
+\[ = 2x^2y + 2xy^2, \]
+
+as it evidently should be.
+
+D. § 2. On the Theory of Generating Functions as connected with Equations of Differences.
+
+The complete solution of the equation of differences
+
+\[ u_m + \varphi_1(m) u_{m-1} + \varphi_2(m) u_{m-2} + \ldots + \varphi_n(m) u_{m-n} = f(m), \quad \ldots \ldots \quad (66.) \]
+
+involves \( n \) arbitrary constants. This implies that \( n \) successive values of \( u_m \) may be regarded as indeterminate, the remaining values being thence formed according to the law of which (66.) is the expression. The research of the generating function of \( u_m \) implies the finding of a function \( u \), developable in a series, \( \sum u_m x^m \), of which the first index \( p \), and the first \( n \) coefficients \( u_p, u_{p+1}, \ldots, u_{p+n-1} \) are arbitrary, and the remaining coefficients are formed in subjection to the law (66.).
+In what follows we shall suppose that the first index \( p \) is 0, and that the \( n \) arbitrary coefficients of the development of \( u \) corresponding to the \( n \) arbitrary constants in the solution of the equation of differences, are \( u_0, u_1...u_{n-1} \).
+
+Let \( f(m) = t_m \), then
+
+\[
+u_m + \varphi_1(m)u_{m-1} + ... + \varphi_n(m)u_{m-n} - t_m = 0.
+\]
+
+Let also \( t \) be the generating function of \( t_m \), as is \( u \) of \( u_m \), so that
+
+\[
+u = \sum_{m=0}^{\infty} (u_m \varepsilon^{mt}) \cdot t = \sum_{m=0}^{\infty} (t_m \varepsilon^{mt}).
+\]
+
+By the fundamental theorem of development,
+
+\[
+u + \varphi_1(D)\varepsilon^t u + ... + \varphi_n(D)\varepsilon^n u - v = \sum \{ (u_m + \varphi_1(m)u_{m-1} + ... + \varphi_n(m)u_{m-n} - t_m) \varepsilon^{mt} \}.
+\]
+
+Now considering the expression in the second member under the sign \( \Sigma \), let \( m = 0 \), and it becomes \( u_0 - t_0 \), for which as \( u_0 \) is arbitrary, we may write \( c_0 \), an arbitrary constant. Secondly, let \( m = 1 \), we have \( (u_1 + \varphi_0(1)u_0 - t_1) \varepsilon^t = c_1 \varepsilon^t \), since \( u_1 \) is arbitrary. In like manner may we proceed till we arrive at the assumption \( m = n - 1 \), which gives the term \( c_{n-1} \varepsilon^{(n-1)t} \). For all values of \( m \) greater than \( n - 1 \), the expression under \( \Sigma \) vanishes by (66.), wherefore
+
+\[
+u + \varphi_1(D)\varepsilon^t u + ... + \varphi_n(D)\varepsilon^n u - t = c_0 + c_1 \varepsilon^t + ... + c_{n-1} \varepsilon^{(n-1)t};
+\]
+
+or replacing \( t \) by its value, and transposing to the second member,
+
+\[
+u + \varphi_1(D)\varepsilon^t u + ... + \varphi_n(D)\varepsilon^n u = \sum_{m=0}^{\infty} f(m) \varepsilon^{mt} + c_0 + c_1 \varepsilon^t + ... + c_{n-1} \varepsilon^{(n-1)t}. \quad \text{(XIX.)}
+\]
+
+Ex. 1. Given \( u_m + a_1 \frac{m-n-1}{m} u_{m-1} + a_2 \frac{m-2n-2}{m} u_{m-2} = f(m) \) to find the generating function of \( u_m \).
+
+Here by the theorem
+
+\[
+u + a_1 \frac{D-n-1}{D} \varepsilon^t u + a_2 \frac{D-2n-2}{D} \varepsilon^2 t u = t + c_0 + c_1 \varepsilon^t, \quad \ldots \quad \text{(67.)}
+\]
+
+wherein \( t = \sum_{m=0}^{\infty} f(m) \varepsilon^{mt} \). Hence
+
+\[
+Du + a_1 \varepsilon^t (D-n) u + a_2 \varepsilon^2 t (D-2n) u = dt \frac{dt}{d\theta} + c_1 \varepsilon^t,
+\]
+
+\[
+\frac{du}{dx} - n \frac{a_1 + 2a_2 x}{1 + a_1 x + a_2 x^2} u = \frac{dt}{dx} + c_1,
+\]
+
+\[
+u = (1 + a_1 x + a_2 x^2)^n \left\{ \int \frac{dt}{(1 + a_1 x + a_2 x^2)^{n+1}} + c \right\}. \quad \ldots \quad \text{(68.)}
+\]
+
+The value of \( t \) will of course be found by the preceding chapter. Suppose as a particular illustration that \( f(m) = \frac{1}{1,2,...m} \), then \( t = \varepsilon^x \), whence
+
+\[
+u = (1 + a_1 x + a_2 x^2)^n \left\{ \int \frac{dx}{(1 + a_1 x + a_2 x^2)^n} + C \right\}.
+\]
+
+Let \( f(m) = 0 \), and further, let \( C_1 = 0 \), then
+
+\[
+u = c(1 + a_1 x + a_2 x^2)^n;
+\]
+this value of \( u \) involving but one arbitrary constant, the coefficient of the first term only of its development will be arbitrary, and the rest will be formed in subjection to the law proposed.
+
+Ex. 2. Let the equation be \( u_m + \frac{f(m)}{f(m-1)} a_1 m + b_1 u_{m-1} + \frac{f(m)}{f(m-2)} a_2 m + b_2 u_{m-2} = F(m) \).
+
+By the theorem we have
+
+\[
+u + \frac{f(D)}{f(D-1)} a_1 D + b_1 \varepsilon^{\theta} u + \frac{f(D)}{f(D-2)} a_2 D + b_2 \varepsilon^{2\theta} u = \sum_{m=0}^{\infty} F(m) \varepsilon^{m\theta} + c_0 + c_1 \varepsilon^{\theta}.
+\]
+
+Assume
+
+\[
+v + \frac{a_1 D + b_1}{aD + b} \varepsilon^{\theta} v + \frac{a_2 D + b_2}{aD + b} \varepsilon^{2\theta} v = V.
+\]
+
+Here \( P_1 \frac{f(D)}{f(D-1)} = P_2 \frac{f(D)}{f(D-2)} = f(D) \), whence observing that \( \frac{c_0}{f(0)}, \frac{c_1}{f(1)} \) are still arbitrary,
+
+\[
+u = f(D)v,
+\]
+
+\[
+v + \frac{a_1 D + b_1}{aD + b} \varepsilon^{\theta} v + \frac{a_2 D + b_2}{aD + b} \varepsilon^{2\theta} u = \sum_{m=0}^{\infty} \frac{F(m)}{f(m)} \varepsilon^{m\theta} + c_0 + c_1 \varepsilon^{\theta}.
+\]
+
+From the second of these equations, which is linear, and of the first order, the complete value of \( v \) will be found, whence that of \( u \) will be obtained by differentiation, or by the solution of a differential equation with constant coefficients, according as the form of \( f(D) \) may determine.
+
+D. § 3. On the Theory of Generating Functions as connected with Equations of Partial Differences.
+
+We shall confine our observations on this subject to the case of equations involving two independent variables, the most general form of such equations being
+
+\[
+\begin{align*}
+\varphi_0(mn) u_{m,n} &amp;+ \varphi_1(mn) u_{m-1,n} + \varphi_2(mn) u_{m-2,n} \ldots \\
++ \psi_0(mn) u_{m,n-1} &amp;+ \psi_1(mn) u_{m-1,n-1} + \psi_2(mn) u_{m-2,n-1} \ldots \\
++ \chi_0(mn) u_{m,n-2} &amp;+ \chi_1(mn) u_{m-1,n-2} + \chi_2(mn) u_{m-2,n-2} \ldots \\
+&amp;= f(mn).
+\end{align*}
+\]
+
+The above equation may be placed under the form
+
+\[
+\Sigma \varphi(mn) u_{m-r,n-r} = f(mn), \ldots \ldots \ldots \ldots \ldots (69.)
+\]
+
+the forms of \( \varphi(mn) \), and the value of \( r \) and \( r&#x27; \), being different in different terms of the equation, the greatest difference of the values of \( r \) we shall represent by \( i \), and the greatest difference of the values of \( r&#x27; \) by \( i&#x27; \).
+
+Let \( u \) be the generating function of \( u_{mn} \), its development \( \Sigma(u_{mn} x^m y^n) \) being arranged in ascending positive powers of the variables, the lowest index of each being 0. By reasoning similar to that employed in the preceding chapter, it may be shown that the equation for determining the value of \( u \) will be
+
+\[
+\Sigma \{ \varphi(D,D&#x27;), \varepsilon^{\theta} + r&#x27; \varepsilon^{\theta&#x27;} u \} = \Sigma \{ f(mn) \varepsilon^{m\theta} + n\theta&#x27; \}
+\]
+
+\[
++ \Phi_0(\varepsilon^{\theta}) + \Phi_1(\varepsilon^{\theta}) \varepsilon^{\theta} \ldots + \Phi_i(\varepsilon^{\theta}) \varepsilon^{(i-1)\theta}
+\]
+
+\[
++ \Psi_0(\varepsilon^{\theta}) + \Psi_1(\varepsilon^{\theta}) \varepsilon^{\theta} \ldots + \Psi_i(\varepsilon^{\theta}) \varepsilon^{(i-1)\theta&#x27;}, \ldots \ldots \ldots \ldots \ldots (XX.)
+\]
+wherein $\varepsilon^t = x$, $\varepsilon^y = y$. The summation $\Sigma$ in the second member extends from $m=0$ to $m=\infty$, and from $n=0$ to $n=\infty$. The functions $\Phi_0(\varepsilon^y)$, $\Phi_0(\varepsilon^x)$, &amp;c. are in general, but not always, arbitrary and independent. Their forms are in each particular instance to be determined by the initial conditions of the problem.
+
+Ex. 1. Let the proposed equation be $u_{m,n} - 2u_{m,n-1} - 2u_{m-1,n-1} = 0$.
+
+This is one of Laplace&#x27;s examples. Applying the theorem, we have
+
+$$u - 2\varepsilon^x u - 2\varepsilon^y u = \Phi_0(\varepsilon^y) + \Psi_0(\varepsilon^x), \ldots \ldots \ldots \ldots (70.)$$
+
+$$u = \frac{\Phi_0(y) + \Psi_0(x)}{1 - 2y - 2xy}. \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (71.)$$
+
+To show in what way the arbitrary functions are to be determined, let it be supposed that when $y=0$, $u=f(x)$, a known function, and when $x=0$, $u=f(y)$, a known function also, then in (71.) making successively $x=0$, $y=0$, and $x$ and $y$ together $=0$, we have
+
+$$\frac{\Phi_0(y) + \Psi_0(0)}{1 - 2y} = f_1(y), \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (72.)$$
+
+$$\Phi_0(0) + \Psi_0(x) = f(x), \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (73.)$$
+
+$$\Phi_0(0) + \Psi_0(0) = f(0), \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (74.)$$
+
+$(72.) \times (1 - 2y) + (73.) - (74.)$ gives $\Phi_0(y) + \Psi_0(x) = f(x) + (1 - 2y)f_1(y) - f(0)$, whence
+
+$$u = \frac{f(x) + (1 - 2y)f_1(y) - f(0)}{1 - 2y - 2xy}.$$
+
+Ex. 2. Let $u_{m,n} + a_1 u_{m+1,n} + a_2 u_{m,n-1} + b_1 u_{m+1,n-1} = \frac{1}{1 \cdot 2 \cdot \ldots \cdot m \cdot 1 \cdot 2 \cdot \ldots \cdot n}$.
+
+Here, by the theorem,
+
+$$u + a_1 D + 1 \varepsilon^x u + a_2 \varepsilon^y u + b_1 D + 1 \varepsilon^x + \varepsilon^y u = \varepsilon^x + \varepsilon^y + \Phi(\varepsilon^y) + \Psi(\varepsilon^x).$$
+
+Assume $v + a_1 \varepsilon^x v + a_2 \varepsilon^y v + b_1 \varepsilon^x + \varepsilon^y v = V$, then $P_1 D + 1 = \frac{1}{D + 1}$,
+
+whence $u = (D + 1)^{-1}v = \varepsilon^{-x}(D)^{-1}\varepsilon^y v = \frac{1}{x} \int v dx$, also $V = (D + 1)U$
+
+$$= \left(x \frac{d}{dx} + 1\right)(\varepsilon^x + y + \Phi(y) + \Psi(x)) = (x + 1)\varepsilon^x + y + F(x) + F_1(y),$$
+
+the functions $F(x)$ and $F_1(y)$ being arbitrary. Hence the equation determining $v$ becomes
+
+$$v + a_1 xv + a_2 yv + bxyv = (x + 1)\varepsilon^x + y + F(x) + F_1(y),$$
+
+$$\therefore v = \frac{(x + 1)\varepsilon^x + y + F(x) + F_1(y)}{1 + a_1 x + a_2 y + bxy},$$
+
+$$u = \frac{1}{x} \int dx \frac{(x + 1)\varepsilon^x + y + F(x) + F_1(y)}{1 + a_1 x + a_2 y + bxy}. \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (75.)$$
+
+Had the second member of the original equation been 0, we should have had
+
+$$u = \frac{1}{x} \int dx \frac{F(x) + F_1(y)}{1 + a_1 x + a_2 y + bxy}. \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (76.)$$
+
+Suppose it here, as before, required to determine the arbitrary functions by the
+conditions that \( x = 0, y = 0 \) shall respectively give \( u = f(x) \), and \( u = f_1(y) \); differentiating (76.) and proceeding as before, we find
+
+\[
+u = \frac{1}{x} \int dx \left( \frac{(1 + a_1 x)(x d^2 + 1)}{1 + a_1 x + a_2 y + bxy} \right) f(x) + (1 + a_2 y)f_1(y) - f(0).
+\]
+
+The general theorem (XX.) applied in the two preceding examples is formed on the condition that the generating function \( u \) shall involve in its development positive powers only of \( x \) and \( y \). This condition introduces into the second member a greater number of arbitrary functions than would otherwise be necessary. If, for example, it were merely required that the indices of \( y \) in the development should be positive and ascending, the form of the second member of (XX.) would simply be
+
+\[
+\Sigma f(mn)\varepsilon^{m\theta + n\varphi} + \psi_0(\varepsilon^\theta) + \psi_1(\varepsilon^\theta)\varepsilon^\varphi + \ldots + \psi_{r-1}(\varepsilon^\theta)\varepsilon^\varphi.
+\]
+
+Which of the two assumptions is preferable or necessary must be determined by special considerations.
+
+As an example of the latter form, let us take the very simple equation
+
+\[
+m(m-1)u_{m,n-2} - a^2 n(n-1)u_{m-2,n} = 0.
+\]
+
+We have
+
+\[
+D(D-1)\varepsilon^{2\theta}u - a^2 D&#x27;(D&#x27;-1)\varepsilon^{2\varphi}u = F_0(\varepsilon^\theta) + F_1(\varepsilon^\theta)\varepsilon^\varphi,
+\]
+
+\[
+\therefore \frac{d^2 u}{dx^2} - a^2 \frac{d^2 u}{dy^2} = \frac{F_0(x) + F_1(x)y}{a^2 y^2}.
+\]
+
+The solution of this equation will put us in possession of the complete value of \( u \), the functions \( F_0(x), F_1(x) \) admitting of either positive or negative indices in their developments. If we assume those functions to vanish, we get
+
+\[
+u = \phi(y + ax) + \psi(y - ax),
+\]
+
+which is a particular value of the generating function.
+
+Many other developments and applications might be here given, were the subject of sufficient importance to justify further detail.
+
+E. Application of the Theory of Series to the Evaluation of certain Definite Integrals.
+
+Ex. 1. The function \((1 - 2\nu \cos \omega + \nu^2)^{-n}\) being expanded in a series of the form
+
+\[
+A_0 + 2(A_1 \cos \omega + A_2 \cos 2\omega + A_3 \cos 3\omega + \&amp;c.),
+\]
+
+it is required to determine the general coefficient \( A_r \).
+
+We have
+
+\[
+(1 - 2\nu \cos \omega + \nu^2)^{-n} = (1 - \nu e^{-\omega \sqrt{-1}})^{-n} \times (1 - \nu e^{\omega \sqrt{-1}})^{-n},
+\]
+
+\[
+= \left( 1 + n\nu e^{\omega \sqrt{-1}} + \frac{n(n+1)}{1.2} \nu^2 e^{2\omega \sqrt{-1}} + \frac{n(n+1)(n+2)}{1.2.3} \nu^3 e^{3\omega \sqrt{-1}} + \&amp;c. \right)
+\]
+
+\[
+\times \left( 1 + n\nu e^{-\omega \sqrt{-1}} + \frac{n(n+1)}{1.2} \nu^2 e^{-2\omega \sqrt{-1}} + \frac{n(n+1)(n+2)}{1.2.3} \nu^3 e^{-3\omega \sqrt{-1}} + \&amp;c. \right),
+\]
+
+and the quantity sought, \( A_r \), will be the common coefficient of \( e^{r\omega \sqrt{-1}} \) and \( e^{-r\omega \sqrt{-1}} \) in
+MR. BOOLE ON A GENERAL METHOD IN ANALYSIS.
+
+the above product. Hence
+
+\[ A_r = 1 \times \frac{n(n+1)...(n+r-1)}{1.2...r} v^r + \frac{n}{1} \times \frac{n(n+1)...(n+r)}{1.2...(r+1)} v^{r+2} + \frac{n(n+1)}{1.2} \times \frac{n(n+1)...(n+r+1)}{1.2...(r+2)} v^{r+4} + &amp;c.\ ad infinitum. \]
+
+Put \( v^2 = t \), then
+
+\[ A_r = t^{\frac{x}{2}} \sum_{m=0}^{\infty} (u_m t^m), \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots \ldots (77.) \]
+
+wherein generally
+
+\[ u_m = \frac{n(n+1)...(n+m-1)}{1.2...m} \times \frac{n(n+1)...(n+r+m-1)}{1.2...(r+m)}, \]
+
+the law of derivation being
+
+\[ u_m - \frac{(n+m-1)(n+r+m-1)}{m(m+r)} u_{m-1} = 0. \]
+
+Hence, if \( \sum u_m t^m = u \), and if \( t = \varepsilon^t \), then
+
+\[ u - \frac{(D+n-1)(D+r+n-1)}{D(D+r)} \varepsilon^t u = \frac{n(n+1)...(n+r-1)}{1.2...r} = U. \ldots \ldots \ldots (78.) \]
+
+To integrate this equation, assume
+
+\[ v - \varepsilon^t v = V. \]
+
+Then
+
+\[ u = P_1 \frac{(D+n-1)(D+r+n-1)}{D(D+r)} v, \]
+
+\[ = (D+n-1)(D+n-2)...(D+1).(D+r+n-1) ...(D+r+1)v, \]
+
+\[ U = (D+n-1)(D+n-2)...(D+1).(D+r+n-1) ...(D+r+1)V. \]
+
+Hence determining \( V \), we have
+
+\[ v - \varepsilon^t v = \frac{n(n+1)...(n+r-1)}{1.2...r} \times \frac{1}{1.2...(n-1)...(r+1)(r+2)...(r+n-1)}, \]
+
+\[ = \frac{1}{\{1.2...(n-1)\}^2} = \frac{1}{\{\Gamma(n)\}^2}, \]
+
+\[ \therefore v = \frac{1}{\{\Gamma(n)\}^2(1-\varepsilon^t)}. \]
+
+Now
+
+\[ u = (D+r+n-1)...(D+r+1).(D+n-1)...(D+1)v, \]
+
+but
+
+\[ (D+r+n-1)...(D+r+1) = t^{-r} \left( \frac{d}{dt} \right)^{n-1} t^{r+n-1}, \]
+
+and
+
+\[ (D+n-1)...(D+1) = \left( \frac{d}{dt} \right)^{n-1} t^{n-1}, \]
+
+hence
+
+\[ u = t^{-r} \left( \frac{d}{dt} \right)^{n-1} t^{r+n-1} \left( \frac{d}{dt} \right)^{n-1} \frac{t^{n-1}}{\{\Gamma(n)\}^2(1-t)}. \]
+
+But
+
+\[ \left( \frac{d}{dt} \right)^{n-1} \frac{t^{n-1}}{1-t} = \left( \frac{d}{dt} \right)^{n-1} \frac{1}{1-t} \] (this may be shown by expansion)
+
+\[ = \frac{1.2...n-1}{(1-t)^n} = \frac{\Gamma(n)}{(1-t)^n}. \]
+therefore \( u = t^{-r} \left( \frac{d}{dt} \right)^{n-1} \frac{t^{r+n-1}}{\Gamma(n)(1-t)^n} \)
+
+and \( A_r = \frac{1}{\Gamma(n)} \left( \frac{d}{dt} \right)^{n-1} \frac{t^{r+n-1}}{(1-t)^n} \) (79.)
+
+wherein \( t = v^2 \), a formula of great simplicity.
+
+Hence then we find
+
+\[ \int_0^\pi \frac{dx \cos rx}{(1 - 2v \cos x + v^2)^n} = \frac{\pi}{\Gamma(n)} \left( \frac{d}{dt} \right)^{n-1} \frac{t^{r+n-1}}{(1-t)^n} \] (80.)
+
+Legendre has, I believe, considered the above definite integral, but I am not acquainted with the results of his analysis.
+
+The following expression for the value \( V \) of the definite integral
+
+\[ \int_0^\pi \frac{dx \cos rx}{(1 - 2v_1 \cos x + v_1^2)(1 - 2v_2 \cos x + v_2^2) \ldots} \]
+
+is remarkable for its symmetry,
+
+\[ V = \frac{\pi}{\Gamma(t)\Gamma(m)} \left( \frac{d}{dt_1} \right)^{l-1} \left( \frac{d}{dt_2} \right)^{m-1} \cdots \left[ T_1 \left( \frac{t_1}{v_1} \right)^{r+e-1} + T_2 \left( \frac{t_2}{v_2} \right)^{r+e-1} + \cdots \right] \] (81.)
+
+wherein, after effecting the differentiations, we must change \( t_1 \) into \( v_1^2 \), \( t_2 \) into \( v_2^2 \), &amp;c., observing that
+
+\[ T_1 = \left[ 1 - \left( \frac{t_2}{v_2} \right)^2 \right] \left[ 1 - \left( \frac{t_3}{v_3} \right)^2 \right] \cdots \left[ 1 - \left( \frac{t_e}{v_e} \right)^2 \right]; \]
+
+and so on for the rest.
+
+Ex. 2. To express by a partial differential equation the fundamental properties of the definite multiple integral
+
+\[ u = \int \cdots dx_1 dx_2 \cdots dx_n \varphi(a_1 - x_1, a_2 - x_2, \ldots, a_n - x_n) \] (82.)
+
+the integrations extending to all real values of \( x_1, x_2, \ldots, x_n \), subject to the inequality
+
+\[ \frac{x_1^2}{h_1^2} + \frac{x_2^2}{h_2^2} + \cdots + \frac{x_n^2}{h_n^2} &lt; 1. \]
+
+We may consider the above integral as derived from the more general one,
+
+\[ u = \int \cdots dx_1 dx_2 \cdots dx_n \varphi(a_1 - x_1 t, a_2 - x_2 t, \ldots, a_n - x_n t), \]
+
+by the assumption \( t = 1 \). If we expand \( \varphi(a_1 - x_1 t, a_2 - x_2 t, \ldots, a_n - x_n t) \) in ascending powers of \( t \), and integrate within the proposed limits by the aid of Dirichlet&#x27;s theorem, we find
+
+\[ u = \frac{2h_1 h_2 \cdots h_n \pi^n}{\Gamma\left( \frac{n}{2} \right)} \sum_{p=0}^\infty \frac{1}{24 \cdot 2p \cdot n(n+2) \cdots (n+2p)} \lambda^{2p} t^{2p} \varphi(a_1 a_2 \cdots a_n), \] (83.)
+
+wherein
+
+\[ \lambda^2 = h_1^2 \frac{d^2}{da_1^2} + h_2^2 \frac{d^2}{da_2^2} + \cdots + h_n^2 \frac{d^2}{da_n^2}. \]
+
+* Cambridge Mathematical Journal, No. XIV. p. 69.
+If we write the above series in the form \( u = \sum u_m t^m \), then it is easily seen that
+
+\[
+u_m - \frac{1}{m(m+n)} \lambda^2 u_{m-2} = 0.
+\]
+
+Hence, if \( t = \varepsilon^t \),
+
+\[
+u - \frac{\lambda^2}{D(D+n)} \varepsilon^{2t} u = \frac{2h_1 h_2 \ldots h_n \pi^n}{n! \left( \frac{n}{2} \right)}
+\]
+
+\[
+\therefore D(D+n)u - \lambda^2 \varepsilon^{2t} u = 0.
+\]
+
+Restoring \( t \), and for \( \lambda^2 \) writing
+
+\[
+h_1^2 \frac{d^2}{da_1^2} + h_2^2 \frac{d^2}{da_2^2} + \cdots + h_n^2 \frac{d^2}{da_n^2},
+\]
+
+and then dividing the result by \( t^2 \), we have
+
+\[
+\frac{d^3 u}{dt^3} + \frac{n+1}{t} \frac{du}{dt} - h_1^2 \frac{d^2 u}{da_1^2} - h_2^2 \frac{d^2 u}{da_2^2} - \cdots - h_n^2 \frac{d^2 u}{da_n^2} = 0,
+\]
+
+which is the equation sought.
+
+Mr. Green*, considering a particular case of this multiple integral connected with the theory of the attractions of ellipsoids, has obtained an equation different from the above, and not involving the constants \( h_1, h_2, \ldots, h_n \). It might be worth while to inquire whether the equation (85.) does not more precisely define the function to be determined than Mr. Green’s equation does, and whether an analysis might not be founded upon it which should be more simple, and less dependent on foreign considerations. It would too much extend the limits of this paper to enter into the general discussion of the equation here, and I shall therefore merely observe that it is reducible whenever \( n \) is an odd integer, to the form
+
+\[
+\frac{d^3 u}{dt^3} - h_1^2 \frac{d^2 u}{da_1^2} - h_2^2 \frac{d^2 u}{da_2^2} - \cdots - h_n^2 \frac{d^2 u}{da_n^2} = 0.
+\]
+
+To prove this, we remark that the constant in the second member of (84.) may be rejected, because in operating on both members with \( D(D+n) \) it disappears. Writing then the equation in the form
+
+\[
+u - \frac{\lambda^2}{D(D+n)} \varepsilon^{2t} u = 0,
+\]
+
+let us assume
+
+\[
+v - \frac{\lambda^2}{D(D-1)} \varepsilon^{2t} v = 0.
+\]
+
+By Propositions 2 and 3, C. § 1, we find
+
+\[
+u = \varepsilon^{-nt}(D-1)(D-3)\ldots(D-n+2)v
+\]
+
+\[
+= \frac{1}{t^n} \left( \frac{d}{dt} - 1 \right) \left( \frac{d}{dt} - 3 \right) \ldots \left( \frac{d}{dt} - n+2 \right) v.
+\]
+
+Then in (87.) making \( \varepsilon^t = t \), we have
+
+\[
+\frac{d^2 v}{dt^2} - \lambda^2 v = 0,
+\]
+
+which is equivalent to (86.)
+
+* Cambridge Philosophical Transactions, vol. v.
+Ex. 3. To evaluate the definite multiple integral
+
+\[ V = \iiint \cdots \frac{dx_1 dx_2 \cdots dx_n}{(a_1 - x_1)^n + (a_2 - x_2)^n + \cdots + (a_n - x_n)^n} i, \ldots \ldots \ldots \quad (88) \]
+
+\( n \) being an odd integer, \( i \) any quantity whatever, positive or negative, integral or fractional, and the integrations extending to all real values of the variables, subject to the condition
+
+\[ x_1^2 + x_2^2 + \cdots + x_n^2 \leq 1. \]
+
+Here \( \varphi(a_1 a_2 \cdots a_n) = \frac{1}{(a_1^2 + a_2^2 + \cdots + a_n^2)^i} \). By induction it is easily shown* that
+
+\[ \left( \frac{d^2}{da_1^2} + \frac{d^2}{da_2^2} + \cdots + \frac{d^2}{da_n^2} \right)^p \frac{1}{(a_1^2 + a_2^2 + \cdots + a_n^2)^i} = \frac{2i(2i+2)(2i+2p-2)(2i+2p-n)(2i+4-n)\cdots(2i+2p-n)}{(a_1^2 + a_2^2 + \cdots + a_n^2)^{i+p}}. \]
+
+Hence the series (83.) becomes on making \((a_1^2 + a_2^2 + \cdots + a_n^2)^i = r\),
+
+\[ V = \frac{2\pi^n}{\Gamma\left(\frac{n}{2}\right)^{2i}} \sum_{p=0}^{\infty} \frac{2i(2i+2p-2)(2i+2p-n)\cdots(2i+2p-n)}{2\cdot 2p(n+2)\cdots(n+2p)} r^{-2p}, = \frac{2\pi}{\Gamma\left(\frac{n}{2}\right)^{2i}} \sum_{p=0}^{\infty} u_{-2p} r^{-2p}, \]
+
+the law of the series being \( u_{-2p} = \frac{(2p+2)(2p+n+2)}{(2p+2i)(2p+2i-n+2)} u_{-2p-2} \);
+
+or putting \(-2p = m\),
+
+\[ u_m = \frac{(m-2)(m-n-2)}{(m-2i)(m-2i+n-2)} u_{m-2} = 0. \]
+
+And as the series extends to all the values of \( u_m \) which can be formed in subjection to the law, we have
+
+\[ u - \frac{(D-2)(D-n-2)}{(D-2i)(D-2i+n-2)} \varepsilon^{2i} u = 0. \quad \ldots \ldots \ldots \quad (89.) \]
+
+To integrate this equation, assume
+
+\[ v - \frac{(D-n-1)(D-n-2)}{(D-2i+n-2)(D-2i+n-3)} \varepsilon^{2i} v = 0. \quad \ldots \ldots \ldots \quad (90.) \]
+
+Then by (XIV.)
+
+\[ u = P_2 \frac{(D-2)(D-2i+n-3)}{(D-n-1)(D-2i)} v, \]
+
+\[ = (D-2)\cdots(D-n+1)(D-2i+n-3)\cdots(D-2i+2)v, \]
+
+\[ = (D-2)^{\frac{n-1}{2}}(D-2i+n-3)^{\frac{n-3}{2}}/2v, \]
+
+wherein the index \( \frac{n-1}{2} \) denotes the product of \( \frac{n-1}{2} \) factors, decreasing by a common difference 2.
+
+The equation (90.), treated by the method of Prop. 1, C. § 1, gives
+
+\[ v = \frac{1}{2}(v_1 + v_2) \]
+
+\[ v_1 + \frac{D-n-1}{D-2i+n-2} \varepsilon^{2i} v_1 = 0, \quad v_2 - \frac{D-n-1}{D-2i+n-2} \varepsilon^{2i} v_2 = 0. \]
+
+* Cambridge Mathematical Journal, No. XIV. p. 63.
+Whence determining \( v_1 \) and \( v_2 \),
+
+\[
+v = \frac{C_1 (\varepsilon^{\theta} + 1)^{2n-2i-2} + C_2 (\varepsilon^{\theta} - 1)^{2n-2i-2}}{\varepsilon^{(n-2i-2)\theta}}. \quad \ldots \quad (91.)
+\]
+
+If we substitute this value of \( v \) in that of \( u \), determining the constants \( C_1 \) and \( C_2 \) by expansion and comparison with the original series, and effect some obvious reductions, we finally get*
+
+\[
+V = \frac{2\pi}{r^{n-2}} \left[ \frac{(r \frac{d}{dr} + 2i - n)^{n-1}}{(2i-n+1)^{n-1}} \right] \left[ \frac{(r \frac{d}{dr} - 1)^{n-1}}{(i-1)^{n-1}} \right] \{ (r+1)^{2n-2i-2} - (r-1)^{2n-2i-2} \}. \quad \ldots \quad (92.)
+\]
+
+* This example is given merely for the sake of the process. The fullest development of the theory of definite multiple integrals will be found in the writings of M. Lejeune Dirichlet and Mr. Cayley. Some results, believed to be new, are subjoined.
+
+1. If \( u = \int f dx_1 dx_2 \ldots dx_n \phi(a_1-x_1, a_2-x_2, \ldots, a_n-x_n) \) subject to the inequality \( \frac{x_1^2}{h_1^2} + \frac{x_2^2}{h_2^2} + \cdots + \frac{x_n^2}{h_n^2} \leq t^2 \), then
+
+\[
+u - \frac{\lambda^2}{D(D-n)} \varepsilon^{\theta} u = 0, \quad \ldots \quad (a.)
+\]
+
+where \( \lambda^2 = h_1^2 \frac{d^2}{da_1^2} + h_2^2 \frac{d^2}{da_2^2} + \cdots + h_n^2 \frac{d^2}{da_n^2} \), and \( \varepsilon^{\theta} = t \). This is a better form of the theorem in Ex. 2.
+
+2. Let \( u = \int f dx_1 dx_2 \ldots dx_n f(\Delta) \) in which \( \Delta = \{ (a_1-x_1)^2 + \cdots + (a_n-x_n)^2 \}^{\frac{1}{2}} \) subject to the inequality \( x_1^2 + \cdots + x_n^2 \leq t^2 \), and let \( (a_1^2 + \cdots + a_n^2)^{\frac{1}{2}} = r \); it is evident that \( u \) is a function of \( t \) and \( r \). Now
+
+\[
+\left( \frac{d^2}{da_1^2} + \cdots + \frac{d^2}{da_n^2} \right) \phi(r) = \left( \frac{d^2}{dr^2} + \frac{n-1}{r} \frac{d}{dr} \right) \phi(r) = \varepsilon^{-2\theta} D&#x27;(D&#x27; + n - 2) \phi(\varepsilon^{\theta}) \text{ if } \varepsilon^{\theta} = r.
+\]
+
+Thus (a.) may be put in the form
+
+\[
+\frac{1}{D&#x27;(D&#x27; + n - 2)} \varepsilon^{\theta} u - \frac{1}{D(D + n)} \varepsilon^{\theta} u = 0;
+\]
+
+the complete integral of which, determined by Propositions 2 and 3, is
+
+\[
+u = \frac{1}{r^{n-2}} \left( \frac{t \frac{d}{dt} - 1}{t \frac{d}{dt} - 3} \right) \left( \frac{t \frac{d}{dt} - n + 2}{t \frac{d}{dt} - n + 4} \right) \left\{ \phi(r+t) + \psi(r-t) \right\}.
+\]
+
+In the case of \( n = 3 \), we find on determining the arbitrary functions
+
+\[
+u = \frac{2\pi}{r} \left( \frac{t \frac{d}{dt} - 1}{t \frac{d}{dt} - 3} \right) \left\{ \phi(r+t) - \phi(r-t) \right\},
+\]
+
+wherein \( \phi(r) = \int \int \int f(r) dr^3 \). A similar analysis is applicable to the theory of the attractions of spheroids.
+
+3. The evaluation of the definite integral \( \int_0^\pi dx (\sin x)^n f(r+t \cos x) \) depends on a partial differential equation similar to the above. Its value is
+
+\[
+u = 2A(n-1) \left( \frac{t \frac{d}{dt} - 1}{t \frac{d}{dt} - 3} \right) \left( \frac{t \frac{d}{dt} - n + 2}{t \frac{d}{dt} - n + 4} \right) \left\{ f(r+t) - f(r-t) \right\}.
+\]
+
+4. The evaluation of the definite multiple integral \( \int f dx_1 dx_2 \ldots dx_n f(a_1x_1 + \cdots + a_nx_n) \phi(x_1 + \cdots + x_n) \) extending to the positive limits of the inequality \( x_1 + \cdots + x_n \leq h \), depends on a partial differential equation of the first order; the result is
+
+\[
+u = \Sigma \frac{a_1^{n-1}}{(a_1-a_2)(a_1-a_3) \cdots (a_1-a_n)} \int_0^h dt \phi(t) \left( \frac{d}{dt} \right)^{-n+1} f(a_1t).
+\]
+
+A particular case of this theorem has been obtained by Mr. Leslie Ellis, by means of Fourier&#x27;s theorem.
+
+5. By a reverse application of the method we are able to assign the complete integral of the equation
+
+\[
+\frac{d^2 u}{dt^2} - h_1^2 \frac{d^2 u}{da_1^2} - \cdots - h_n^2 \frac{d^2 u}{da_n^2} = 0, \text{ viz.}
+\]
+F. §1. Theory of Equations of Finite Differences.
+
+If we assume \( \pi = x(\varepsilon^{\frac{d}{dx}} - 1) \), \( \varepsilon = x\varepsilon^{\frac{d}{dx}} \), then it is shown (A. §1.) that the following relations are satisfied:
+
+\[
+f(\pi)\varepsilon^m u = \varepsilon^mf(\pi + m)u, \ldots \ldots \ldots \ldots \quad (93.)
+\]
+
+\[
+f(\pi)\varepsilon^m = f(m)\varepsilon^m, \ldots \ldots \ldots \ldots \quad (94.)
+\]
+
+and that
+
+\[
+f(\pi + \varepsilon) = f(\pi) + \Delta \Delta f(\pi)\varepsilon + \Delta^2 f(\pi)\varepsilon^2 + \ldots + \varepsilon^2 + \ldots \quad (95.)
+\]
+
+the interpretation of \( \Delta \Delta f(\pi) = f(\pi) - f(\pi - 1) \).
+
+If \( r = -1 \), we have \( \pi = x - x\varepsilon^{\frac{d}{dx}}, \varepsilon = x\varepsilon^{\frac{d}{dx}} \), and the above relations are still satisfied. These values of \( \pi \) and \( \varepsilon \) we shall first employ.
+
+Prop. 1. Every equation in finite differences of the form
+
+\[
+X_0 u_x + X_1 u_{x-1} + \ldots + X_n u_{x-n} = X,
+\]
+
+\( X_0, X_1, X_2, \ldots \) being rational and integral functions of \( x \), may be reduced to the form
+
+\[
+f_0(\pi)u_x + f_1(\pi)\varepsilon u_x + f_2(\pi)\varepsilon^2 u_x + \ldots + f_n(\pi)\varepsilon^n u_x = U_x. \ldots \ldots \quad (96.)
+\]
+
+For multiply both sides of the equation by \( x(x-1)\ldots(x-n+1) \), and in the second term of the first member for \( xu_{x-1} \) write \( \varepsilon u_x \) in the third term for \( x(x-1)u_{x-2} \) write \( \varepsilon^2 u_x \), &amp;c., we shall have a result of the form
+
+\[
+\varphi_0(x)u_x + \varphi_1(x)\varepsilon u_x + \varphi_2(x)\varepsilon^2 u_x + \ldots + \varphi_n(x)\varepsilon^n u_x = U_x, \ldots \ldots \quad (97.)
+\]
+
+wherein \( \varphi_0(x) = x(x-1)\ldots(x-n+1)X_0, \varphi_1(x) = (x-1)\ldots(x-n+1)X_1, \ldots \)
+
+\( U_x = x(x-1)\ldots(x-n+1)X \), being all rational and integral functions of \( x \). Now \( \pi = x(1 - \varepsilon^{\frac{d}{dx}}), \varepsilon = x\varepsilon^{\frac{d}{dx}} \), whence \( x = \pi + \varepsilon \). It only remains then to develope \( \varphi_0(x), \varphi_1(x), \ldots \) in ascending powers of \( \varepsilon \). Writing then \( x \) for \( \pi + \varepsilon \) in the first member of (95.), we have
+
+\[
+f(x) = f(\pi) + \Delta \Delta f(\pi)\varepsilon + \frac{1}{2}\Delta^2 f(\pi)\varepsilon^2 + \ldots + \varepsilon^2 + \ldots \quad (98.)
+\]
+
+the interpretation of \( \Delta \Delta f(\pi) \) remaining as above.
+
+\[
+u = \frac{1}{t^{n-1}} \left( \frac{d}{dt} \right)^n \left( \frac{d}{dt} - 2 \right) \ldots \left( \frac{d}{dt} - n + 3 \right) \int \int \ldots \int dx_1 \ldots dx_n \varphi(a_1 - x_1, a_2 - x_2, \ldots, a_n - x_n),
+\]
+
+\[
++ \frac{d}{dt} \left\{ \frac{1}{t^{n-1}} \left( \frac{d}{dt} \right)^n \left( \frac{d}{dt} - 2 \right) \ldots \left( \frac{d}{dt} - n + 3 \right) \int \int \ldots \int dx_1 \ldots dx_n \psi(a_1 - x_1, a_2 - x_2, \ldots, a_n - x_n) \right\};
+\]
+
+the limits being given by the inequality
+
+\[
+\frac{x_1^2}{h_1^2} + \frac{x_2^2}{h_2^2} + \ldots + \frac{x_n^2}{h_n^2} = t^2.
+\]
+
+This solution requires that \( n \) should be odd. If \( n = 3 \), the result is equivalent to Poisson&#x27;s, but is in a form perhaps more convenient for physical deductions.
+Developing by this theorem the coefficients of (97.), the result will assume the form
+
+\[ f_0(\pi)u_x + f_1(\pi)\varepsilon u_x + f_2(\pi)\varepsilon^2 u_x + \ldots = U_x, \ldots \ldots \ldots \quad (\text{XXI}). \]
+
+as was proposed to be shown. We shall call this the symbolical form of the equation.
+
+To revert from the symbolical to the common form, it is only necessary to observe that since \( x = x - \varepsilon \), and since \( x \) and \( \varepsilon \) combine according to the law \( \varepsilon xu_x = (x-1)\varepsilon u_x \),
+
+we have
+
+\[ f(\pi) = f(x) - \frac{\Delta}{\Delta x}f(x)\varepsilon + \frac{\Delta^2}{\Delta x^2}f(x)\varepsilon^2 + \ldots \ldots \ldots \quad (\text{XXII}). \]
+
+wherein \( \Delta x = -1 \), and consequently \( \frac{\Delta}{\Delta x}f(x) = f(x) - f(x-1) \). Developing by this theorem the coefficients, and writing for \( \varepsilon^m u_x \) its value \( x(x-1)\ldots(x-m+1)u_{x-m} \), the required reversion will be effected.
+
+**F. § 2. On the Solution of Equations of Finite Differences in Series.**
+
+In the equation
+
+\[ f_0(\pi)u_x + f_1(\pi)\varepsilon u_x + \ldots + f_r(\pi)\varepsilon^r u_x = 0, \]
+
+assume \( u_x = \sum u_m \varepsilon^m \) then precisely as in the case of differential equations,
+
+\[ f_0(m)u_m + f_1(m)u_{m-1} + \ldots + f_r(m)u_{m-r} = 0. \quad \ldots \ldots \quad (\text{XXIII}). \]
+
+The initial values of \( m \) are determined by the equation \( f_0(m) = 0 \). For every such value \( u_m \) is an arbitrary constant, for all other values it is successively determined by (XXIII.)
+
+**Ex. 1.** Given \( (x-a)u_x - (2x-a-1)u_{x-1} + (1-q^2)(x-1)u_{x-2} = 0 \).
+
+The operation at length stands thus:
+
+Multiply by \( x \), we have
+
+\[ x(x-a)u_x - (2x-a-1)xu_{x-1} + (1-q^2)x(x-1)u_{x-2} = 0. \quad \ldots \ldots \quad (99). \]
+
+Or
+
+\[ x(x-a)u_x - (2x-a-1)\varepsilon u_x + (1-q^2)\varepsilon^2 u_x = 0. \quad \ldots \ldots \quad (100). \]
+
+Now developing the coefficients by (98.), we find
+
+\[ x(x-a) = \pi(\pi-a) + (2\pi-a-1)\varepsilon + \varepsilon^2, \]
+
+\[ 2x-a-1 = 2\pi-a-1 + 2\varepsilon, \]
+
+whence substituting in (100.)
+
+\[ \pi(\pi-a)u_x - q^2\varepsilon^2 u_x = 0, \]
+
+wherefore \( u = \sum a_m \varepsilon^m \), with the relation
+
+\[ m(m-a)a_m - q^2a_{m-2} = 0, \]
+
+or
+
+\[ a_m = \frac{q^2a_{m-2}}{m(m-a)}. \]
+
+The equation \( m(m-a) = 0 \) gives 0 and \( a \) for the lowest values of \( m \), wherefore, finally,
+
+\[ u_x = C\left(1 + \frac{q^2x(x-1)}{2.2-a} + \frac{q^4x(x-1)(x-2)(x-3)}{2.4(2-a)(4-a)} + \ldots \right), \]
+
+\[ + C_1\left(x(x-1)\ldots(x-a+1) + \frac{q^2x(x-1)\ldots(x-a-1)}{2(2+a)} + \frac{q^4x(x-1)\ldots(x-a-3)}{2.4(2+a)(4+a)} + \ldots \right). \]
+We have here two distinct series. Either of these is an integral of the equation (99.), but I apprehend that the second series only can be regarded as an integral of the original equation. The first series appears to have reference only to the irrelevant factor \( x \). As I am not aware that this distinction has been before observed, and as it appears to affect the validity of the canon which assigns to the integral of an equation of differences just so many arbitrary constants as there are units in the index of its order, I shall make no apology for adducing another illustration.
+
+Let us take the equation
+
+\[
+xu_x = 0. . . . . . . . . . . . . . . . . . (101.)
+\]
+
+We find as the symbolical form,
+
+\[
+(\pi + \xi)u_x = 0;
+\]
+
+whence \( u_x = \sum a_m x^m \) with the relation \( ma_m + a_{m-1} = 0 \), or \( a_m = -\frac{a_{m-1}}{m} \), the lowest value of \( m \) being 0, whence
+
+\[
+u_x = C \left( 1 - \frac{x}{1} + \frac{x(x-1)}{1.2} - \frac{x(x-1)(x-2)}{1.2.3} + &amp;c. \right),
+\]
+
+\[
+= C(1 - 1)^x,
+\]
+
+\[
+= C0^x.
+\]
+
+This is obviously a true integral of (101.) for all values of \( x \) from 0 to \( \infty \); for when \( x = 0 \) it gives \( u_x = C \), and when \( x \) is any positive quantity, \( u_x = 0 \), precisely as it ought to do. Moreover it involves an arbitrary constant \( C \); but (101.) being of the 0th order, there should, according to the received canon, be no arbitrary constant in its integral.
+
+For the solution of the equation \( x(x-1)u_x = 0 \), we similarly find
+
+\[
+u_x = a_0 + a_1 x + a_2 x(x-1) + a_3 x(x-1)(x-2) + &amp;c.,
+\]
+
+wherein \( a_0, a_1 \) are arbitrary constants, and in general
+
+\[
+a_m = -\frac{2(m-1)a_{m-1} + a_{m-3}}{m(m-1)},
+\]
+
+this gives
+
+\[
+u_x = a_0 + a_1 x - \frac{2a_1 + a_0}{2} x(x-1) + \frac{3a_1 - 2a_0}{6} x(x-1)(x-2) - &amp;c.
+\]
+
+For the values \( x = 0, x = 1 \), the above series is reduced to an arbitrary constant; for all other positive values of \( x \) it vanishes. Here then we obtain for an equation of the 0th degree, a solution involving two arbitrary constants, and derived from the two irrelevant factors \( x \) and \( x - 1 \).
+
+It would be interesting to inquire whether an equation of differences admits of integration by series when \( f_0(m) \) has equal or imaginary factors. After paying some attention to this question, I am disposed to think that such cases are not comprehended in any theory analogous to that which I have given for the corresponding class of differential equations.
+
+On the subject of this section the reader may consult a paper by Mr. Bronwin in the Cambridge Mathematical Journal, vol. iii.
+F. § 3. On the Solution of Equations of Differences in Finite Terms.
+
+We have in the preceding section supposed \( \pi = x - xe^{-\frac{d}{dx}} \), \( \varepsilon = xe^{-\frac{d}{dx}} \), and have thus satisfied the relations (93.), (94.). We shall, in the following section, with greater generality assume (A. Prop. 3.),
+
+\[ \pi = x - n\phi(x)\varepsilon^{-\frac{d}{dx}}, \quad \varepsilon = \phi(x)\varepsilon^{-\frac{d}{dx}}. \]
+
+The condition (93.) will still be satisfied, and the expansion of \( f(\pi + \varepsilon) \) will remain unchanged.
+
+We shall suppose the equation to be placed, as in all ordinary cases it may, under the form
+
+\[ f_0(x)u_x + f_1(x)\phi(x)u_{x-1} + f_2(x)\phi(x)\phi(x-1)u_{x-2} + \&amp;c. = U, \ldots \]  
+
+(102)
+
+\( f_0(x), f_1(x), \&amp;c. \) being rational and integral functions of \( x \), or at least susceptible of expansion in ascending powers of \( x \), and \( \phi(x) \) any function whatever.
+
+Since \( \phi(x)\varepsilon^{-\frac{d}{dx}} = \varepsilon \), we have \( \phi(x)\phi(x-1)\varepsilon^{-2\frac{d}{dx}} = \varepsilon^2 \), and so on; wherefore, writing \( u \) for \( u_x \), we have
+
+\[ f_0(x)u + f_1(x)\varepsilon u + f_2(x)\varepsilon^2 u + \&amp;c. = U. \]
+
+Now since \( \pi = x - ng \), we have \( x = \pi + ng \), and expanding the coefficients \( f_0(x)f_1(x), \&amp;c. \) by (I.), the equation will assume the form
+
+\[ \phi_0(\pi)u + \phi_1(\pi)\varepsilon u + \phi_2(\pi)\varepsilon^2 u + \&amp;c. = U. \ldots \]  
+
+(XXIV.)
+
+This equation is integrable in several cases:
+
+1st. If by any determination of \( n \) the equation should be reducible to a single term. Suppose that it should give
+
+\[ \phi_0(\pi)u = U, \ldots \]  
+
+(103.)
+
+then resolving \( \phi_0(\pi) \) into its factors, we shall have a system of equations each being of the form
+
+\[ (\pi - a)u = U; \]
+
+or
+
+\[ (x - a)u_x - n\phi(x)u_{x-1} = U, \]
+
+which is completely integrable.
+
+This method enables us to integrate all equations of the form (102.), in which
+
+\[ f_m(x) = \frac{h}{m}(f_{m-1}(x) - f_{m-1}(x-1)), \ldots \]  
+
+(104.)
+
+\( h \) being any constant. We should find \( n = -h \), \( \pi = x + h\phi(x)\varepsilon^{-\frac{d}{dx}} \), and \( f_0(\pi)u = U \). I am not aware that this general class of equations has been considered before. A method of integrating equations of the form
+
+\[ x(x-1)\cdots(x-n+1)\Delta^n u_{x-n} + a_1x(x-1)\cdots(x-n+2)\Delta^{n-1}u_{x-n+1} + \&amp;c. = 0, \]
+
+was communicated to me by Mr. Gregory*. In reality however they constitute a particular case of the above, the value of \( \pi \) being \( x - xe^{-\frac{d}{dx}} \).
+
+* Late Fellow of Trinity College, Cambridge, and author of the well-known &quot;Examples.&quot; Few in so short a life have done so much for science. The high sense which I entertain of his merits as a mathematician, is mingled with feelings of gratitude for much valuable assistance rendered to me in my earlier essays.
+
+MDCCCXLIV.
+2nd. If the coefficients $\varphi_0(\pi), \varphi_1(\pi), \&amp;c.$ are constant quantities. This happens in the well-known class of equations
+
+$$u_x + a_1\varphi(x)u_{x-1} + a_2\varphi(x)\varphi(x-1)u_{x-2} + \&amp;c. = U,$$
+
+which becomes
+
+$$(1 + a_1\varphi + a_2\varphi^2 + \&amp;c.)u_x = U,$$
+
+and is integrable by resolution of the operating factor, as in equations with constant coefficients. It may be worth while to note that this class of equations, when of the $n$th degree, involves one arbitrary function $\varphi(x)$, and $n$ arbitrary constants, $a_1\ldots a_n$; but the preceding class under the same circumstances involves one arbitrary function with $n+1$ arbitrary constants, viz. $h$ with $n$ constants in $f_0(x)$. It is therefore the more general of the two.
+
+3rd. If the equation should consist of only two terms. Suppose that it should be reducible to the form
+
+$$\varphi_0(\pi)u + \varphi_1(\pi)\varphi^n u = U,$$
+
+which may be put under the form
+
+$$u + \varphi(\pi)\varphi^n u = U_1. . . . . . . . . . . (105.)$$
+
+Proceeding as in the corresponding case of C. § 2, it may in all cases be determined whether the equation is integrable or not.
+
+In general the equation $u + \varphi(\pi)\varphi^n u = U$ can be reduced to the form $v + \psi(\pi)\varphi^n v = V$ by the relations
+
+$$u = P_n\varphi(\pi)v, \quad U = P_n\varphi(\pi)V, . . . . . . . . . . . (106.)$$
+
+precisely as in differential equations.
+
+Thus, to pursue the analogy, the equation
+
+$$u + \frac{q^n}{(\pi + a_1)(\pi + a_2)\ldots(\pi + a_n)}\varphi^n u = U,$$
+
+in which $a_1a_2\ldots a_n$ are in the order of magnitude, can be reduced to the form
+
+$$v + \frac{q^n}{\pi(\pi - 1)\ldots(\pi - n + 1)}\varphi^n v = V,$$
+
+and then integrated by resolution into a system of equations of the first order, provided that the quantities
+
+$$\frac{a_1 - a_2 - 1}{n}, \quad \frac{a_1 - a_3 - 2}{n}, \quad \frac{a_1 - a_4 - 3}{n}, \quad \frac{a_1 - a_n - n + 1}{n}$$
+
+are all integers.
+
+Ex. Given $(x^2 + ax + b)u_x + (2x - a - 1)h\varphi(x)u_{x-1} + (h^2 - q^2)\varphi(x)\varphi(x-1)u_{x-2} = 0.$
+
+Let $\pi = x - n\varphi(x)\varphi^{-d}dx$, $\varphi = \varphi(x)\varphi^{-d}dx$, then
+
+$$(x^2 + ax + b)u + (2x - a - 1)h\varphi u + (h^2 - q^2)\varphi^2 u = 0.$$
+
+Now $x = \pi + n\varphi$, therefore
+
+$$x^2 + ax + b = \pi^2 + a\pi + b + (2\pi - a - 1)n\varphi + n^2\varphi^2,$$
+
+$$2x - a - 1 = 2\pi - a - 1 + 2n\varphi.$$
+and substituting, we have
+
+\[(\pi^2 + a\pi + b)u + (2\pi - a - 1)(n + h)\varepsilon u + (n^2 + 2nh + h^2 - q^2)\varepsilon^2 u = 0.\]
+
+To take away the second term, let \(n = -h\), then
+
+\[(\pi^2 + a\pi + b)u - q^2\varepsilon^2 u = 0.\]
+
+Let \(\pi + a_1, \pi + a_2\) be the factors of \(\pi^2 + a\pi + b\), then
+
+\[u - \frac{q^2}{(\pi + a_1)(\pi + a_2)}\varepsilon^2 u = 0.\]
+
+To integrate this equation, assume
+
+\[v - \frac{q^2}{(\pi + a_1)(\pi + a_1 - 1)}\varepsilon^2 v = 0,\]  
+
+then
+
+\[u = P_2 \frac{\pi + a_1 - 1}{\pi + a_2} v = (\pi + a_1 - 1)(\pi + a_1 - 3) \ldots (\pi + a_2 + 2)v,\]
+
+which is only finite when \(a_1 - a_2\) is an odd integer.
+
+From (107.) we have
+
+\[v = \frac{1}{2}(s_x + t_x),\]
+
+\[s_x - \frac{q}{\pi + a_1}\varepsilon s_x = 0,\]
+
+\[t_x + \frac{q}{\pi + a_1}\varepsilon t_x = 0;\]
+
+from the first of which equations,
+
+\[(\pi + a_1)s_x - q\varepsilon s_x = 0,\]
+
+\[\therefore \quad (x + h\varphi(x)\varepsilon^{-d/dx})s_x + a_1s_x - q\varphi(x)\varepsilon^{-d/dx}s_x = 0.\]
+
+Or
+
+\[(x + a_1)s_x + (h - q)\varphi(x)s_x^{-1} = 0,\]
+
+\[\therefore \quad s_x = C_1P\frac{(q-h)\varphi(x)}{x + a_1},\]
+
+\[= C_1(q-h)^xP\frac{\varphi(x)}{x + a_1}.\]
+
+In like manner,
+
+\[t_x = C_2(q + h)^xP\frac{\varphi(x)}{x + a_1};\]
+
+and as the constants \(C_1, C_2\) are arbitrary,
+
+\[v = \{C_1(q-h)^x + C_2(q+h)^x\}P\frac{\varphi(x)}{x + a_1},\]
+
+\[u = (\pi + a_1 - 1)(\pi + a_1 - 3) \ldots (\pi + a_2 + 2)\{C_1(q-h)^x + C_2(q+h)^x\}P\frac{\varphi(x)}{x + a_1},\]
+
+to interpret which we have only to observe that
+
+\[\pi f(x) = xf(x) + h\varphi(x)f(x-1).\]
+This solution may be put under the form
+
+\[ u = \{ P\phi(x) \} (\pi_1 + a_1 - 1)(\pi_1 + a_1 - 3) \ldots (\pi_1 + a_2 + 2) \left\{ \frac{C_1(q-h)^x + C_2(q+h)^x}{P(x+a_1)} \right\}, \]
+
+the interpretation of \( \pi_1 \) being
+
+\[ \pi_1 f(x) = xf(x) + hf(x-1). \]
+
+The method of this section will, I believe, be found to succeed in every known integrable case, while it includes some unknown before, one of which is the most general yet discovered.
+
+Postscript.
+
+The general rule for the integration of linear differential equations in series, B. § 2, requires in a particular case to be slightly modified. If \( f_0(D) \) involves a pair of factors such as \( \phi(D), \phi(D+r) \), \( r \) being a multiple of the common difference of the values of \( m \), we must in the equation of \( f_0(D)u = 0 \) write \( \{\phi(D)\}^2 \) in place of \( \phi(D)\phi(D+r) \), and similarly when there are more such factors. Thus, in the equation \( D(D+2)u - q^2z^2u = 0 \), the form of the assumption for \( u \) will be determined by the equation \( D^2u = 0 \), and not by \( D(D+r)u = 0 \). A slight change of expression would make the rule as general as the principle on which it is founded, and reduce to its dominion every case in which a linear differential equation can be integrated by ascending or descending developments. The theory of series infinite in both directions still remains to be examined.
+
+Fearful of extending this paper beyond its due limits, I have abstained from introducing any researches not essential to the development of that general method in analysis which it was proposed to exhibit. It may however be remarked that the principles on which the method is founded have a much wider range. They may be applied to the solution of functional equations, to the theory of expansions, and, to a certain extent, to the integration of non-linear differential equations. The position which I am most anxious to establish is, that any great advance in the higher analysis must be sought for by an increased attention to the laws of the combinations of symbols. The value of this principle can scarcely be overrated; and I only regret that in the absence of books, and under circumstances unfavourable for mathematical investigation, I have not been able to do that justice to it in this essay which its importance demands.
+
+Lincoln, August 31, 1844.</div>

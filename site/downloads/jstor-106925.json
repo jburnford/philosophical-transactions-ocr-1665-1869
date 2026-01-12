@@ -1,0 +1,89 @@
+{
+  "id": "9e804ece113c779b9ce175759f230d61e6f748d2",
+  "text": "X. Letter from Sir Benjamin Thompson, Knt. Count of Rumford, F.R.S. to the Right Hon. Sir Joseph Banks, Bart. K.B. P.R.S. announcing a Donation to the Royal Society, for the Purpose of instituting a Prize Medal.\n\nAt the Anniversary of the Royal Society, held the 30th of November, 1796, the President acquainted the Society, that Count Rumford had transferred one thousand pounds three per cent. consolidated Bank Annuities to the use of the Society, on certain conditions stated in a letter to the President; which was read as follows:\n\n\"SIR,\n\n\"Desirous of contributing efficaciously to the advancement of a branch of science which has long employed my attention, and which appears to me to be of the highest importance to mankind, and wishing at the same time to leave a lasting testimony of my respect for the Royal Society of London, I take the liberty to request that the Royal Society would do me the honour to accept of one thousand pounds stock, in the three per cent. consolidated public funds of this country; which stock I have actually purchased, and which I beg leave to transfer to the President, Council, and Fellows of the Royal Society; to the end that the interest of the same may be by them, and by their successors, received from time to time for ever, and the amount of the same applied and given, once every second year, as a premium to the author of the most\n\"important discovery, or useful improvement, which shall be\n\"made and published by printing, or in any way made known\n\"to the public, in any part of Europe, during the preceding\n\"two years, on Heat, or on Light; the preference always being\n\"given to such discoveries as shall, in the opinion of the Pre-\n\"sident and Council of the Royal Society, tend most to pro-\n\"mote the good of mankind.\n\n\"With regard to the formalities to be observed by the Pre-\n\"sident and Council of the Royal Society, in their decisions\n\"upon the comparative merits of those discoveries, which in\n\"the opinion of the President and Council may entitle their\n\"authors to be considered as competitors for this biennial pre-\n\"mium, the President and Council of the Royal Society will\n\"be pleased to adopt such regulations as they in their wisdom\n\"may judge to be proper and necessary. But in regard to the\n\"form in which this premium is conferred, I take the liberty\n\"to request, that it may always be given in two medals, struck\n\"in the same die, the one of gold, and the other of silver; and\n\"of such dimensions, that both of them together may be just\n\"equal in intrinsic value to the amount of the interest of the\n\"aforesaid one thousand pounds stock during two years; that\n\"is to say, that they may together be of the value of sixty\n\"pounds sterling.\n\n\"The President and Council of the Royal Society will be\n\"pleased to order such device or inscription to be engraved on\n\"the die they shall cause to be prepared for striking these me-\n\"dals, as they may judge proper.\n\n\"If, during any term of years, reckoning from the last ad-\n\"judication, or from the last period for the adjudication of this\n\"premium, by the President and Council of the Royal Society,\nno new discovery or improvement should be made in any part\nof Europe, relative to either of the subjects in question (Heat or\nLight), which, in the opinion of the President and Council of\nthe Royal Society, shall be of sufficient importance to deserve\nthis premium; in that case, it is my desire that the premium\nmay not be given, but that the value of it may be reserved,\nand being laid out in the purchase of additional stock in the\nEnglish funds, may be employed to augment the capital of\nthis premium; and that the interest of the same by which\nthe capital may, from time to time, be so augmented, may\nregularly be given in money with the two medals, and as an\naddition to the original premium at each such succeeding ad-\njudication of it. And it is further my particular request, that\nthose additions to the value of the premium, arising from its\noccasional non-adjudications, may be suffered to increase with-\nout limitation.\n\nWith the highest respect for the Royal Society of London,\nand the most earnest wishes for their success in their labours\nfor the good of mankind,\n\nI have the honour to be, &c.\n\n(signed) \"RUMFORD.\"\n\nLondon, 12th of July, 1796.\n\nTo Sir Joseph Banks, Bart. K. B. President\nof the Royal Society of London.\n\nThe Society hereupon resolved, that they accept of the dona-\ntion, and accede to the conditions annexed to it by the Count;\n\nMDCCXCVII.\nand also directed that a letter be written to the Count, acquainting him of this acceptance; returning him thanks for the liberal donation, and assuring him that the conditions annexed to it will be strictly adhered to.\n\nERRATA.\n\nPage 158, 3d line from the bottom, for fig. 8. read fig. 10.\nPage 205, l. 14, for \"there was no appearance of conception in the uterus; no placenta;\" read \"there was no other appearance of conception in the uterus; no other placenta;\" &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106925.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 5,
+    "total-input-tokens": 7840,
+    "total-output-tokens": 1314,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1382,
+        2
+      ],
+      [
+        1382,
+        3112,
+        3
+      ],
+      [
+        3112,
+        4484,
+        4
+      ],
+      [
+        4484,
+        4952,
+        5
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106925",
+    "title": "Letter from Sir Benjamin Thompson, Knt. Count of Rumford, F. R. S. to the Right Hon. Sir Joseph Banks, Bart. K. B. P. R. S. Announcing a Donation to the Royal Society, for the Purpose of Instituting a Prize Medal",
+    "authors": "Benjamin Thompson",
+    "year": 1797,
+    "volume": "87",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 5,
+    "jstor_url": "https://www.jstor.org/stable/106925"
+  }
+}

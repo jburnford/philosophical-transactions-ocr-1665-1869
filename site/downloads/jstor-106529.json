@@ -1,0 +1,69 @@
+{
+  "id": "325dcddafaba80223a10a57ca2898f8bc9356324",
+  "text": "XIX. Account of the Appearance of the Soil at opening a Well at Hanby in Lincolnshire. In a Letter from Sir Henry C. Englefield, Bart. F. R. and A. S. to Sir Joseph Banks, Bart. P. R. S.\n\nRead May 3, 1781.\n\nDEAR SIR,\n\nThe appearance of the soil which fell under my own inspection, on opening a well at Hanby, the seat of Sir C. Buck, in Lenton parish, Lincolnshire, being, as far as I can recollect, quite singular, I hope you will not think this account of it unworthy the attention of the Society.\n\nThe spot on which the well was sunk is nearly on a level with Lincoln Heath, and of course high ground compared with the fen, which is distant from it above six miles. The soil was uniformly a blue clay, in parts rather inclining to a shaly structure, and contained many casts of tellinae, a very little pyrites, and some few small, but very elegant, belemnites. These are all the usual fossils of clay; but what I think without example is, that through the whole mass of clay were interspersed nodules of pure chalk, evidently rounded by long attrition, and of all sizes from that of a pea to a child's head.\n\nThey lay in no sort of order that I could find. How deep this appearance might have continued I cannot determine, but no water having been found at the depth of thirty feet, the trial\ntrial was given up, as the expense would have exceeded the advantage proposed. A specimen of the chalk is herewith exhibited to the Society.\n\nI must add, that in all the environs there is not the least trace of chalk in any form whatever that I could discover or hear of.\n\nI am, &c.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106529.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 475,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1296,
+        2
+      ],
+      [
+        1296,
+        1578,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106529",
+    "title": "Account of the Appearance of the Soil at Opening a Well at Hanby in Lincolnshire. In a Letter from Sir Henry C. Englefield, Bart. F. R. and A. S. to Sir Joseph Banks, Bart. P. R. S.",
+    "authors": "Henry C. Englefield",
+    "year": 1781,
+    "volume": "71",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/106529"
+  }
+}

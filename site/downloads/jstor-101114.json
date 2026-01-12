@@ -1,0 +1,69 @@
+{
+  "id": "d9083405a3a1ad77464e7edf177e6061cfc7da04",
+  "text": "in ipso crepusculo, Luna praesente, Saturnum contemplati sunt; quo tempore vix ac ne vix datur subtillissimum illud phaenomenon (ut mihi, primo Junii, Tubo 20 pedum, Saturnus cum occultaretur a Luna, obtigit,) ritè ac distinctè cognoscere. Scripsi hæc de re nuper ad Dn. Cassinum, & Dn. Picardum; quid responfuri sint, avidissime exspetto.\n\nAn Extract of a Letter written from Hamburg Novemb.r.1671. by the Learned Doctor Fogelius to the Publisher, concerning the Spots of the Sun returned; and the last Eclipse of the Moon; Here communicated also in the same language, in which it was written.\n\n—M Acule Solares iterum nobis apparuerunt, nunc tamen non amplius visibiles. Mitto Cl.Henrici Siferi Observationes, Telecopio mediocris longitudinis hic factas. Postremis quidem Calum feliciter savit, adeò ut à primo ferè die, quo iterum apparere cæperunt, ad usque 5 Septembres, quo ad Limbum quam proximè accessére, continuo quasi filo tum Motus tum Figura earum reprefentari potuerint.\n\nÆque nos hic, ac Hevelius Gedani, calculum Rudolphinum in rupera Eclipse, die 8 Sept. facta, aberraffe deprehendimus. Emersisse enim jam Lunam ex umbra Terræ ante horam nonam etiam hic vidimus. Juxta Calculum modo dictum, Gedani emersisse debuerat h 9. 6°. 27′. Tempus autem utrobique nubilum Observationes utrobique invidit.\n\nMaculæ in Sole observatae Hamburgi A. 1671.\n\n| 26-h. 8.matut. | 1-h. 1.pomerid. |\n|----------------|----------------|\n| 27-h. 1.pomerid.| 2-h. 2.pomer.   |\n| 28-h. 1.pom.    | 3-h. 11.antemer.|\n| 29-h. 11.antemer.| 4-h. 12.merid.  |\n| 30-h. 11.antem. | 5-h. 11.antem.  |\n| 31-h. 1.pomer.  | Et h. 4.pomeridianâ |\n\nnon amplius visa est mihi H.S.\n\nExtracts\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101114.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 686,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1668,
+        2
+      ],
+      [
+        1668,
+        1668,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101114",
+    "title": "An Extract of a Letter, Written from Hamburg Novemb. 1. 1671. by the Learned Doctor Fogelius to the Publisher, Concerning the Spots of the Sun Returned; And the Last Eclipse of the Moon; Here Communicated Also in the Same Language, in Which It Was Written",
+    "authors": "Doctor Fogelius",
+    "year": 1671,
+    "volume": "6",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101114"
+  }
+}

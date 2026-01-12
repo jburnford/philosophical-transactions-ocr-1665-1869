@@ -1,0 +1,79 @@
+{
+  "id": "5fe44a4d441e713497c4dc481b2a7d7ef070e6b0",
+  "text": "Circumstances of the Observation will the more readily discover whether the Declination is Easterly or Westerly.\n\nN. B. Though it would be very commendable in Gentlemen who use the Sea, to learn the Names of most of the principal Fix’d Stars, yet even that Knowledge is not necessary in the Use of this Instrument: Neither is it needful in this Case to know exactly the Latitude of the Place of Observation, provided the Difference of Latitude between the Observations be not very great: It is sufficient, that Care be taken to observe the self-same Star, before it comes to the Meridian, and after it has pass’d it; and for the sake of greater Exactness, the Caution before given should be regarded, to wit, That the Star be at some considerable Height above the Horizon, and also near the prime Vertical.\n\nXIV. An Account of a Book presented to the Royal Society, and intituled, Notitia Hungariae novae Historico-Geographica, &c. Auctore Matth. Belio. By the Reverend Zachary Pearce, D.D. F.R.S. &c.\n\nThe Author of this Work is the Reverend Matthias Bell, a Pastor among the Lutherans at Presburg in Hungary. About twelve Years ago he publish’d an Account of what he intended to execute; and by the Encouragement of his present Imperial Majesty, and some of the Nobility, he went on\non with it, notwithstanding many Difficulties, which (as he tells us) he met with in the Undertaking, and publish'd the first Volume last Year.\n\nThis first Volume is to be follow'd by several others; for the Kingdom of Hungary includes 48 Districts or Counties, and this Volume gives an Account of only one of them, and indeed is chiefly taken up with the History of the City of Presburg (or Pisonium, as he calls it); which, though inferior in other respects to the City Buda, is the Place where the Emperors (as Kings of Hungary) are crown'd, where the States of the Kingdom assemble, and the Courts of Justice are held.\n\nThis Volume consists of two Parts. The First is general, and gives an Account of the physical and political State of the whole District or County of Pisonium, describing its Soil, Produce, Rivers, the Temperature of its Air, the Nature of its Inhabitants; its antient Inhabitants and present ones, its Nobility, Magistrates, and whatsoever belongs to the natural and political History of the District.\n\nThe second Part (which is much the largest) is taken up with the Description of the City Presburg; where the Author is very copious and elaborate in setting forth every thing that relates to it: Particularly its antient State under the several Nations who possess'd it, and its present State under the Austrian Family; all its Privileges and Prerogatives, especially of the Inauguration of their Kings, which he describes in all its Parts, even to a most minute Exactness. He then enters into a Detail of the present State of the City, its Churches, and other public Buildings, its Magistrates, Islands adjoining, and the Country round\nround about its Walls; leaving to the next Volume\nthe Description of the four other Cities or principal\nTowns, which are situated in the same District.\n\nThe Work is printed after a most beautiful and\nexpensive manner, with all the Ornaments of En-\ngravings that may set it off to the best Advantage.\nThere are two different Prospects of the City Pres-\nburg, and a Map of the whole District, which seems\nto be very accurately taken, and is made by Samuel\nMikovinius, a noble Hungarian, and Member of the\nRoyal Society of Berlin. Every other District is to\nhave a Map of it plac'd before the Description of it:\nAnd the Maps are made in an Astronomico-Geome-\ntrical Method, upon a careful Survey of each Di-\nstrict; for which laborious Work the States of the\nKingdom of Hungary, by Order of the Emperor,\nwere pleas'd to give him all manner of Encourage-\nment and Assistance: As they have likewise to Mr.\nMatthias Bell, the Author of the Description, to\nwhich the Maps are prefix'd.\n\nUpon the whole, should this Author live long\nenough (if any Life be long enough) for the finish-\ning of so very extensive a Design, the Libraries of the\nLearned will receive a great Addition, which may\nnot only gratify their Curiosity, but afford Matter of\nImprovement in the History of Hungary.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103945.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1088,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1285,
+        2
+      ],
+      [
+        1285,
+        2948,
+        3
+      ],
+      [
+        2948,
+        4223,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103945",
+    "title": "An Account of a Book Presented to the Royal Society",
+    "authors": "Zachary Pearce, Matth. Belio",
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/103945"
+  }
+}

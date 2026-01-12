@@ -1,0 +1,79 @@
+{
+  "id": "70b94ef123dde44db0f0235445d66351f76ac56f",
+  "text": "Received February 4, 1768.\n\nVIII. Observations on the same Subject, by J. Short, F. R. S.\n\nRead March 3, 1768. In the year 1738, I bought of Mr. Scarlet a diagonal barometer. On the upright part of this barometer is affixed a spirit of wine thermometer, said to have been made according to the scale of the Royal Society's thermometer. On Tuesday, the 25th of December 1739, the great frost of that and the succeeding year began. On Saturday the 19th of December, at one o'clock in the afternoon, I observed that the spirits of wine were descended so low as not to be seen, that is to say, were below the top of the wood which covers the ball of the thermometer. I had another thermometer of quicksilver, made also after the scale of the Royal Society's thermometer: I found that the quicksilver of it was sunk within the ball. This last thermometer has been broke many years ago. The spirit of wine thermometer I have still in my possession, in the same condition it was then. This thermometer stood then, as it does now, within a room next to the river, at the greatest distance from two windows, one of which looks South, the other West. The wind blew hard from the East on the 29th\nof December, There was then no ice on the river, which I could see.\n\nI have since that time settled the freezing point of this thermometer. I find that the space, on this thermometer, contained between the freezing point and the top of the wood which covers the ball, is equal to 21 divisions of Fahrenheit's scale. It, therefore, follows that the cold, at one of the clock in the afternoon on the 29th of December 1739, was so great as to sink the mercury 21 divisions below the freezing point of Fahrenheit's scale, within this room, the windows being shut.\n\nOn the 31st of December 1767, at 8 o'clock in the morning, a Fahrenheit's thermometer without the window of the same room, where it had remained all night, stood at $19\\frac{3}{4}$ divisions below the freezing point; but a similar Fahrenheit's thermometer within the room stood at $13\\frac{3}{4}$ divisions below the freezing point; therefore the cold, that morning, was greater without the room than within it by 6 divisions of Fahrenheit's scale.\n\nOn the 7th of January 1768, at 8 o'clock in the morning, a Fahrenheit's thermometer without the window of the same room, where it remained all night, stood at $19\\frac{3}{4}$ divisions below the freezing point; but a similar Fahrenheit's thermometer within the room stood at 12 divisions below the freezing point; therefore the cold, that morning, was greater without the room than within it by 8 divisions of Fahrenheit's scale.\n\nFrom what has been said, I think, we may safely conclude, that the cold, on the 28th of December 1739 at one o'clock in the afternoon, was so great, without the\nthe window of the said room as to sink the mercury 27 divisions, at least, below the freezing point of Fahrenheit's thermometer.\n\nN. B. No fires were made in the said room, or in the two contiguous rooms, in the year 1739, or in the years 1767 and 1768.\n\nSurry Street, 3d February, 1768.\n\nJ. Short.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105756.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6180,
+    "total-output-tokens": 894,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1186,
+        2
+      ],
+      [
+        1186,
+        2789,
+        3
+      ],
+      [
+        2789,
+        3087,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105756",
+    "title": "Observations on the Same Subject, by J. Short, F. R. S.",
+    "authors": "J. Short",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/105756"
+  }
+}

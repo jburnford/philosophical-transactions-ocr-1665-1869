@@ -1,0 +1,129 @@
+{
+  "id": "108222a0914130eea479bc41ed6d8dec8d9a87ed",
+  "text": "XIV. On the pendulum. By J. W. Lubbock, Esq. F.R.S.\n\nRead March 11, 1830.\n\nCaptain Kater was the first who made use of Huygens's theorem with respect to the convertibility of the centres of suspension and oscillation to eliminate the moment of inertia, and to obtain the length of the simple pendulum by measuring the distance between the knife edges or axes of suspension. But this very ingenious method of determining the length of the simple pendulum must be considered as a first approximation, which is true only when many circumstances which might affect the truth of the result are not taken into account, but of which the following investigation shows that when the experiments are conducted with care, the effect is insensible. It is, however, desirable to ascertain carefully the limits of the errors which may rise from the circumstances to which I have alluded, and to render the theory of Captain Kater's pendulum as perfect as the method of observation. Laplace has given a complete theory of the apparatus used by Borda in the Connaissance des Temps; and he has shown that in the apparatus of Captain Kater, the distance between the knife edges is equal to the length of the simple pendulum, when they are considered as cylinders of small curvature, provided their radii of curvature are equal; which theorem is also proved in Professor Whewell's Dynamics. But no one I believe has yet discussed all the circumstances which affect the accuracy of Captain Kater's method; and I have therefore attempted to do this in the following paper, in which I have treated the question with the utmost generality, taking the case of all possible deviations and of axes any how placed, provided only that they are synchronous.\n\nI have taken the pendulum used by Mr. Baily, and described by him in the Philosophical Magazine of last February, to afford a numerical example, and I\nhave given the errors which would arise in the length of the simple pendulum corresponding to given deviations of the knife edges: it is difficult to make the results intelligible without the use of symbols; but I may add, that the effect of a small deviation of one of the knife edges in azimuth is quite insensible: this is not the case with a deviation in altitude: a deviation of a degree in altitude increases by 3 the vibrations in twenty-four hours: a deviation from horizontality in the agate planes has a more sensible influence than either of the former deviations: a deviation in horizontality in the agate planes of $10'$ increases by about 6 the vibrations in twenty-four hours: both these deviations have the effect of rendering the distance between the knife edges greater than the true length of the simple pendulum. I have also considered the case in which the agate planes are fixed on the pendulum and vibrate on a fixed knife edge; and I find, as might be expected, that the length of the simple pendulum is equal to the distance between the planes.\n\nLet $Ox$, $Oy$, $Oz$ be rectangular coordinate axes meeting in the point $O$ in the plane $(xy)$, upon which the pendulum rests; let the plane $(xz)$ be vertical and the plane $(xy)$ nearly horizontal, and let the axis of rotation coincide with the line $Ox$. Let $g$ be the force of gravity, $\\varepsilon$ the angle which a vertical line makes with the axis $Oz$, $a$ the distance of the centre of gravity from the line $Ox$, and $M(a^2 + k^2)$ the moment of inertia of the pendulum about the axis $Ox$; then, according to the analysis of M. Poisson, (Traité de Mécanique, p. 116.) the length of the simple pendulum which oscillates in the same time is\n\n$$\\frac{a^2 + k^2}{a \\cos \\varepsilon_i}.$$  \n\nLet $Gx$, $Gy$, $Gz$, be the three principal axes which intersect each other in the point $G$, and let the equations to the axis $Ox$ referred to the coordinate axes $Gx$, $Gy$, $Gz$, which are fixed in the pendulum and move with it, be\n\n$$y_i = x_i \\tan \\delta + \\beta$$\n$$z_i = x_i \\frac{\\tan \\delta'}{\\cos \\delta} + \\gamma.$$\n\n$\\delta$ and $\\delta'$ are small angles which may be considered as the deviations of the knife edge in azimuth and altitude.\n\nIf $$ay = bx + \\beta$$\n$$az = cx + \\gamma$$\nare the equations to any straight line \\( \\varepsilon \\) in space, the equations to a straight line perpendicular to this line, and passing through the origin, are\n\n\\[\n\\begin{align*}\na x + b y + c z &= 0 \\\\\n\\gamma (ay - bx) &= \\beta (az - cx)\n\\end{align*}\n\\]\n\nand the shortest distance from the origin to the given line\n\n\\[\n= \\sqrt{\\frac{(\\beta b - \\gamma c)^2 + \\beta^2 c^2 + \\gamma^2 a^2}{a^2 (a^2 + b^2 + c^2)}}\n\\]\n\nThe equation to a plane passing through the origin and the given line is\n\n\\[\n\\gamma (ay - bx) = \\beta (az - cx)\n\\]\n\nand the equations to the intersection of this plane with the plane \\( zy \\) are\n\n\\[\n\\begin{align*}\n\\gamma y &= \\beta^2 \\\\\nx &= 0\n\\end{align*}\n\\]\n\nIf\n\n\\[\n\\begin{align*}\na' y &= b' x + \\beta' \\\\\na' z &= c' x + \\gamma'\n\\end{align*}\n\\]\n\nbe the equations to any other straight line \\( \\varepsilon' \\) in space\n\n\\[\n\\cos \\varepsilon \\varepsilon' = \\frac{aa' + bb' + cc'}{\\sqrt{a^2 + b^2 + c^2} \\sqrt{a'^2 + b'^2 + c'^2}}\n\\]\n\nHence the cosine of the angle formed by the line \\( \\varepsilon \\) and the intersection of the plane\n\n\\[\n\\gamma (ay - bx) = \\beta (az - cx)\n\\]\n\nwith the plane \\( zy \\)\n\n\\[\n= \\frac{\\beta b + \\gamma c}{\\sqrt{a^2 + b^2 + c^2} \\sqrt{\\beta^2 + \\gamma^2}}\n\\]\n\nthe sine of the same angle\n\n\\[\n= \\sqrt{\\frac{(\\beta b - \\gamma c)^2 + \\beta^2 c^2 + \\gamma^2 a^2}{a^2 + b^2 + c^2 \\sqrt{\\beta^2 + \\gamma^2}}}\n\\]\n\nThese equations being premised; let \\( C \\) be the point in the axis or knife edge, \\( Ox \\), where a perpendicular let fall upon it from the centre of gravity \\( G \\) cuts it; let \\( C' \\) be the point where the plane \\( zy \\) cuts the axis \\( Ox \\); and let \\( C'' \\) be the point where one of the surfaces of the pendulum, supposed a parallelepiped, cuts the same knife edge; and let \\( G'' \\) be the point in this surface where a perpendicular let fall from \\( G \\) cuts it.\n\nIf half the thickness of the pendulum be called \\( t \\)\n\n\\[\nGC = G''C'' \\sin CC'G - t \\cos CC'G\n\\]\nsine \\( C \\) \\( C' \\) \\( G^2 \\) = \\(\\frac{\\beta \\sin \\delta \\cos \\delta' - \\gamma \\sin \\delta'}{\\beta^2 + \\gamma^2}\\)\n\n\\[\n\\cos C \\cos C' G = \\frac{\\beta \\sin \\delta \\cos \\delta' + \\gamma \\sin \\delta'}{\\sqrt{\\beta^2 + \\gamma^2}}, \\quad \\text{if } G C' = a'\n\\]\n\n\\(\\beta = a' \\sin \\lambda, \\gamma = a' \\cos \\lambda, \\lambda\\) being a small angle\n\n\\[\n\\sin C \\cos C' G^2 = \\{\\sin \\lambda \\sin \\delta \\cos \\delta' - \\cos \\lambda \\sin \\delta'\\}^2 + \\sin \\lambda^2 \\sin \\delta'^2 + \\cos \\delta^2 \\cos \\delta'^2\n\\]\n\n\\[\n\\cos C \\cos C' G = \\sin \\lambda \\sin \\delta \\cos \\delta' + \\cos \\lambda \\sin \\delta'\n\\]\n\nneglecting \\(\\sin \\lambda \\sin \\delta\\) and \\(\\sin \\lambda^2 \\sin \\delta'\\)\n\n\\[\n\\cos C \\cos C' G = \\sin \\delta', \\sin C \\cos C' G = \\cos \\delta'\n\\]\n\n\\(G C = G'' C'' \\cos \\delta' - t \\sin \\delta'\\)\n\nLet \\(\\varepsilon, \\varepsilon', \\varepsilon''\\) be the angles which the line \\(Ox\\) makes with the coordinate axes \\(G x, G y, G z\\); and \\(A, B, C\\) the moments of inertia of the pendulum about these axes: then by a well known theorem, if \\(G C = a\\)\n\nthe length of the simple pendulum\n\n\\[\n= \\frac{Ma^2 + A \\cos \\varepsilon^2 + B \\cos \\varepsilon'^2 + C \\cos \\varepsilon''^2}{Ma \\cos \\varepsilon}\n\\]\n\n\\[\n\\cos \\varepsilon = \\cos \\delta' \\cos \\delta, \\cos \\varepsilon' = \\cos \\delta' \\sin \\delta, \\cos \\varepsilon'' = \\sin \\delta'\n\\]\n\n\\(\\delta\\) and \\(\\delta'\\) may be considered as the deviations of the knife edge in azimuth and altitude.\n\n\\(C\\) being the point in axis \\(Ox\\) where a perpendicular from \\(G\\) cuts it, the index at foot indicates the knife edge, the length of the simple pendulum if \\(\\varepsilon_i = 0\\)\n\n\\[\n= G C_1 + \\frac{A \\cos \\varepsilon_1^2 + B \\cos \\varepsilon_1'^2 + C \\cos \\varepsilon_1''^2}{MG C_1}\n\\]\n\nlet \\(A = M k^2, B = M k'^2, C = M k''^2\\), if the knife edges (1) and (2) are isochronous\n\n\\[\nG C_1 + \\frac{k^3}{G C_1} - \\frac{k^2 \\sin \\varepsilon_1^2 - k'^2 \\cos \\varepsilon_1'^2 - k''^2 \\cos \\varepsilon_1''^2}{G C_1}\n\\]\n\n\\[\n= G C_2 + \\frac{k^3}{G C_2} - \\frac{k^2 \\sin \\varepsilon_2^2 - k'^2 \\cos \\varepsilon_2'^2 - k''^2 \\cos \\varepsilon_2''^2}{G C_2}\n\\]\n\nwhence\n\n\\[\nk^2 = G C_1 \\times G C_2 + \\frac{G C_2}{G C_2 - G C_1} \\{k^2 \\sin \\varepsilon_1^2 - k'^2 \\cos \\varepsilon_1'^2 - k''^2 \\cos \\varepsilon_1''^2\\}\n\\]\n\n\\[\n- \\frac{G C_1}{G C_2 - G C_1} \\{k^2 \\sin \\varepsilon_2^2 - k'^2 \\cos \\varepsilon_2'^2 - k''^2 \\cos \\varepsilon_2''^2\\}\n\\]\nThe length of the simple pendulum is\n\n\\[ G C_1 + G C_2 + \\frac{k^3 (\\sin \\varepsilon_1^2 - \\sin \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2)}{G C_2 - G C_1} \\]\n\n\\[ G C = G'' C'' \\cos \\delta' - t \\sin \\delta' \\]\n\n\\[ = G'' C'' \\left\\{ 1 - 2 \\sin \\frac{\\delta'}{2} \\right\\} - t \\sin \\delta' \\]\n\nThe apparent length of the simple pendulum \\(= C''_1 C''_2\\)\n\nThe true length of the simple pendulum is\n\n\\[ G'' C''_1 + G'' C''_2 - 2 G'' C''_1 \\sin \\frac{\\delta'_1}{2} - 2 G'' C''_2 \\sin \\frac{\\delta'_2}{2} - t \\sin \\delta'_1 - t \\sin \\delta'_2 \\]\n\n\\[ + \\frac{k^3 (\\sin \\varepsilon_1^2 - \\sin \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2)}{G C_2 - G C_1} \\]\n\nThe angle \\(C''_1 G'' C''_2 = \\lambda_1 - \\lambda_2\\)\n\n\\[ C''_1 C''_2 = G'' C''_1 + G'' C''_2 - \\frac{2 C''_1 G'' \\times C''_2 G''}{C''_1 C''_2} \\left\\{ \\sin \\frac{(\\lambda_1 - \\lambda_2)}{2} \\right\\}^2 \\]\n\nThe true length of the pendulum is\n\n\\[ C''_1 C''_2 + \\frac{2 C_1 G \\times C_2 G}{C_1 C_2} \\left\\{ \\sin \\frac{(\\lambda_1 - \\lambda_2)}{2} \\right\\}^2 - 2 G C_1 \\left\\{ \\sin \\frac{\\delta'_1}{2} \\right\\}^2 - 2 G C_2 \\left\\{ \\sin \\frac{\\delta'_2}{2} \\right\\}^2 \\]\n\n\\[ - t \\sin \\delta'_1 - t \\sin \\delta'_2 \\]\n\n\\[ + \\frac{k^3 (\\sin \\varepsilon_1^2 - \\sin \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2) - k^{12} (\\cos \\varepsilon_1^2 - \\cos \\varepsilon_2^2)}{G C_2 - G C_1} \\]\n\nThe sign of the quantity \\(t \\sin \\delta'\\) depends upon which surface of the pendulum the distance between the axes is measured, and might be got rid of by measuring the distance between the knife edges on each of the surfaces which are intersected by them, and taking the mean.\n\nI have endeavoured as far as possible to conform to the notation of M. Poisson in the Traité de Mécanique; but this is rendered difficult, because M. Poisson sometimes takes the axis \\(Ox\\) to be vertical, (vol. ii. p. 113,) and sometimes the axis \\(Oz\\) (as vol. ii. p. 185), and he uses the letter \\(\\varepsilon\\) in two different acceptations, (vol. ii. pp. 119 & 185.)\n\nIn the notation of the article on the Pendulum in the Supplement to the Encyclopædia Britannica\n\n\\[ \\varepsilon = X, \\varepsilon' = Y \\text{ and } \\varepsilon'' = Z, a = h. \\]\nThe author of this article assumes the equations of the axis of rotation to be\n\n\\[ x_i = a z_i + \\alpha \\]\n\\[ y_i = b z_i + \\beta \\]\n\nand he gives the equation\n\n\\[ h = \\frac{\\sqrt{\\alpha^2 + \\beta^2}}{\\sqrt{1 + \\alpha^2 + \\beta^2}} \\]\n\nthis equation is incorrect; it should be\n\n\\[ h = \\frac{\\sqrt{(\\alpha^2 + \\beta^2)(1 + \\alpha^2 + \\beta^2) - (\\alpha \\beta + \\beta \\alpha)^2}}{\\sqrt{1 + \\alpha^2 + \\beta^2}} \\]\n\nIt is easy by proper substitutions in the equations which I have given, to ascertain the influence of any deviation of the knife edge; and for this purpose I shall take the pendulum described in the Annals of Philosophy, vol. iv. p. 137. used by Mr. Baily, of which the length is 62 inches, the width 2 inches, and the thickness .275 inch. One of the knife edges is 5 inches from the extremity; and therefore from well known expressions for the moment of inertia in a parallelepiped,\n\n\\[ k^2 = \\frac{31^2 + 1}{3} = 320.6666 \\]\n\\[ k'^2 = \\frac{31^2 + .1375^2}{3} = 320.339 \\]\n\\[ k''^2 = \\frac{1 + .1375^2}{3} = .33964 \\]\n\nIf \\( \\lambda, \\delta, \\vartheta' \\) and \\( \\varepsilon_i = 0 \\), \\( G C_1 = 11.2514 \\), \\( G C_2 = 28.5 \\), \\( C_1 C_2 = 39.7514 \\)\n\n1. When \\( \\delta, \\vartheta' \\) and \\( \\varepsilon_i = 0 \\), the true length of the simple pendulum\n\n\\[ = C_1'' C_2'' + \\frac{2 C_1 G \\times C_2 G}{C_1 C_2} \\left\\{ \\sin \\frac{\\lambda}{2} \\right\\}^2 \\]\n\\[ = 39.7514 + .80667 \\left\\{ \\sin \\frac{\\lambda^2}{2} \\right\\}^2. \\]\n\n2. When \\( \\lambda, \\vartheta' \\) and \\( \\varepsilon_i = 0 \\), the true length of the simple pendulum\n\n\\[ = C_1'' C_2'' + \\frac{k^2 - k'^2}{G C_2 - G C_1} \\sin \\vartheta^2 \\]\n\\[ = 39.7514 + .013137 \\sin \\vartheta^2. \\]\n3. When $\\lambda$, $\\delta$ and $\\varepsilon_i = 0$, the true length of the simple pendulum\n\n$$= C_1'' C_2'' + \\frac{k^2 - k'^2}{G C_2 - G C_1} \\sin \\delta' - 2 G C_1 \\sin \\frac{\\delta'}{2}$$\n\n$$= 39.7514 + 18.5712 \\sin \\delta' - 22.5028 \\sin \\frac{\\delta'}{2}.$$  \n\n4. When $\\lambda$, $\\delta$ and $\\delta'$ = 0, the length of the simple pendulum\n\n$$= \\frac{C_1 C_2}{\\cos \\varepsilon_i}.$$  \n\nThe following table shows the increase in the number of vibrations in a day due to different values of $\\lambda$, $\\delta$, $\\delta'$, and $t_i$.\n\n| $\\lambda$ | $\\delta$ | $\\delta'$ | $t_i$ |\n|----------|---------|-----------|-------|\n| 30°      | .62     | .00       | 1.08  |\n| 1°       | 2.66    | .00       | 4.20  |\n\nSo that if, for example, $\\lambda = 1°$, the number of vibrations in a day is increased by 2.66, and a deviation $\\delta'$ in altitude of 1° has the effect of making the distance between the knife edges less than the true length of the simple pendulum by .00394, and of increasing the apparent number of vibrations by 4.20 in a day.\n\nI shall now consider the case in which the plane is moveable with the pendulum, and rests upon the knife edge, which is fixed.\n\nLet D E F be a section of the knife edge, F O = r the angle D O F = $\\theta$.\n\nA G = $\\bar{y}$, O A = $\\bar{z}$, G H = $a$\n\n$\\bar{y} = B C + C G$, ultimately when $\\theta$ is small\n\n$\\bar{y} = B C \\sin \\theta + r \\theta$, O A = O B ultimately\n\n$\\bar{z} = B C \\cos \\theta.$\n\nIt may easily be shown that\n\n$$A \\frac{d \\theta^2}{dt^2} + M \\left\\{ \\frac{d \\bar{z}^2}{dt^2} + \\frac{d \\bar{y}^2}{dz^2} \\right\\} + 2 M g \\bar{z} = M h$$\n\n(See Poisson, Traité de Mécanique, vol. ii. p. 189.)\n\n$$d \\bar{y} = \\{a \\cos \\theta + r\\} d \\theta$$\n\n$$d \\bar{z} = -a \\sin \\theta d \\theta$$\n\n$$\\{k^2 + (a + r)^2\\} \\frac{d \\theta^2}{dt^2} + 2 g a \\cos \\theta = h$$\n\nThe length of the simple pendulum is $$\\frac{k^2 + (a + r)^2}{a}.$$\nIf the two knife edges are isochronous, and \\( r_1 = r_2 \\)\n\n\\[\n\\frac{k^2 + (a_1 + r)^2}{a_1} = \\frac{k^2 + (a_2 + r)^2}{a_2}\n\\]\n\n\\[\nk^2 = \\frac{a_1(a_2 + r)^3 - a_2(a_1 + r)^3}{a_2 - a_1}\n\\]\n\nThe length of the simple pendulum \\( = a_2 + a_1 + 2r \\) = the distance between the planes which vibrate on the knife edges.\n\nIndex to the notation.\n\n\\( Ox, Oy, Oz \\) rectangular coordinate axes meeting in the point \\( O \\). \\( G \\) the centre of gravity, \\( Gx, Gy, Gz \\), their principal axes which intersect each other in the point \\( G \\). \\( C \\) the point in the axis \\( Ox \\), where a perpendicular let fall upon it from the centre of gravity \\( G \\) cuts it, \\( C' \\) the point when the plane (\\( zy \\)) cuts the axis \\( Ox \\); \\( C'' \\) the point where one of the surfaces of the pendulum cuts the same knife edge, \\( G'' \\) the point in this surface where a perpendicular from \\( G \\) cuts it.\n\n\\( g \\) the force of gravity\n\n\\[\ny_i = x_i \\tan \\delta + \\beta\n\\]\n\n\\[\nz_i = x_i \\tan \\delta' + \\gamma\n\\]\n\nthe equations to the axis \\( Ox \\) referred to the coordinate axes \\( Gx, Gy, Gz \\), so that \\( \\delta \\) and \\( \\delta' \\) may be considered as the deviations of the knife edge in azimuth and altitude.\n\n\\( GC = a, GC' = a' \\).\n\n\\( M \\) = the mass of the pendulum.\n\n\\( A, B, C \\) the principal moments of inertia.\n\n\\( A = Mk^2, B = Mk'^2, C = Mk''^2 \\).\n\n\\( \\varepsilon, \\varepsilon', \\varepsilon'' \\) the angles which the line \\( Ox \\) makes with the coordinate axes, \\( Gx, Gy, Gz \\).\n\n\\( t \\) = half the thickness of the pendulum.\n\n\\( \\beta = a' \\sin \\lambda, \\gamma = a' \\cos \\lambda \\).\n\n\\( x, y, z \\) the coordinates of the centre of gravity.\n\n\\( r \\) the radius of curvature of the knife edge.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107901.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 15400,
+    "total-output-tokens": 5823,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1881,
+        2
+      ],
+      [
+        1881,
+        4154,
+        3
+      ],
+      [
+        4154,
+        6086,
+        4
+      ],
+      [
+        6086,
+        8462,
+        5
+      ],
+      [
+        8462,
+        10811,
+        6
+      ],
+      [
+        10811,
+        12472,
+        7
+      ],
+      [
+        12472,
+        14363,
+        8
+      ],
+      [
+        14363,
+        16067,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107901",
+    "title": "On the Pendulum",
+    "authors": "J. W. Lubbock",
+    "year": 1830,
+    "volume": "120",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/107901"
+  }
+}

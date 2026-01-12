@@ -1,0 +1,59 @@
+{
+  "id": "df9bcf73b6a95a90f7497f144333810d65e6dda6",
+  "text": "ERRATA.\n\nN°. 480. p. 224, l. 14. (in Title XI.) for, in Lime or not, read, with or without Lime.\nN°. 481. p. 267, l. 3. from the Bottom, dele their; p. 298, l. 20, read, Shape of that; p. 305, l. 8, for Read Feb. 9. read Read Dec. 18.\n1746-7. read 1746.\np. 314, l. 13, for Juices lapidescent, read Lapidescent Juices.\n\nPrinted for C. Davis, over-against Gray's-Inn Gate in Holbourn, Printer to the Royal Society, M.DCC.XLVII.\n\nTo the Binder.\n\nNext after this follow the Crounean Lectures for the Year 1746. And after them, N°. 482.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104825.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 288,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        531,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104825",
+    "title": "Errata",
+    "authors": null,
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104825"
+  }
+}

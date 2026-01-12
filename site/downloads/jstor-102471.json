@@ -1,0 +1,59 @@
+{
+  "id": "b719713dc7d6db5b2794b5c645510ac09e1b202a",
+  "text": "V. A Second Letter concerning the same.\n\nCookridge, Novemb. 2d. 1694.\n\nHonoured Sir,\n\nYesterday I saw the Weather again, his Udder is much fallen, each side being now about the bigness of a Wallnut; there is Milk still in it, enough to stream out above half a yard. There is no Tokens at all of an Hermaphrodite in him. I compared him with another Weather, who had Teats or Paps like him, and differed in nothing but the Udder. It seems the Ewe dyed upon shearing, being over-heated, and lying on the Ground without her Fleece, took Cold, and dyed presently. The Lamb, they say, was about five Weeks old, so 'tis likely might feed partly upon Grass, as I suppose other Lambs of the like Age do, notwithstanding what they suck from their Dams, &c.\n\nVI. An Account of Books.\n\n1. Reflections upon Ancient and Modern Learning. By W. Wotton, B. D. R. S. S. and Chaplain to the Right Honourable the Earl of Nottingham. London, Printed for Peter Buck, at the Sign of the Temple near the Inner-Temple-Gate, Fleetstreet. In Octavo. 1694.\n\nThe Design of this Book, as the Author says himself in his Preface, is to state the Boundaries of Ancient and Modern Learning, that so Men may know",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102471.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 372,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1177,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102471",
+    "title": "A Second Letter Concerning the Same",
+    "authors": null,
+    "year": 1694,
+    "volume": "18",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102471"
+  }
+}

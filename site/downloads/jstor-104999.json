@@ -1,0 +1,69 @@
+{
+  "id": "73eb73efd202c61c220bfc907b347d7cde4944b3",
+  "text": "been changed, though the texture has remained entire enough to allow us to distinguish to what kingdom it belongs.—All bitumens, pissasphaltum, pesilæum, &c. seem to be no more than productions of resinous substances united with mineral acids, which have caught fire in the earth by fermenting with heterogeneous matter, and have thus undergone a sort of natural distillation and exaltation. These are more than chimerical notions, and are even demonstrated by experiments; for amber can be produced artificially, as likewise bitumens by the distillation of resinous substances with mineral acids; and there is great probability, that pit-coal might be imitated. I am,\n\nSIR,\n\nBrussels, June 11, 1756.\n\nYour most obedient and obliged humble servant,\n\nEdward Wright.\n\nCVI. A Retraction, by Mr. Benjamin Wilson, F. R. S. of his former Opinion, concerning the Explication of the Leyden Experiment.\n\nTo the Royal Society.\n\nGentlemen,\n\nRead June 24, 1756. I think it necessary to retract an opinion concerning the explication of the Leyden experiment, which I troubled this Society with\nwith in the year 1746, and afterwards published more at large in a Treatise upon Electricity, in the year 1750; as I have lately made some farther discoveries relative to that experiment, and the minus electricity of Mr. Franklin, which shew I was then mistaken in my notions about it.\n\nWhat I mean by the minus electricity of Mr. Franklin, regards the minus electricity of the Leyden experiment only, which that gentleman discovered.\n\nI shall be very glad to have this acknowledgment made public; and, to answer that end the most effectually, I wish it may have a place in the Transactions of the Royal Society.\n\nI am,\n\nGentlemen,\n\nLondon, June 24,\n1756.\n\nYour most obedient\n\nhumble servant,\n\nBenj. Wilson.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104999.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 508,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1081,
+        2
+      ],
+      [
+        1081,
+        1788,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104999",
+    "title": "A Retractation, by Mr. Benjamin Wilson, F. R. S. of His Former Opinion, concerning the Explication of the Leyden Experiment",
+    "authors": "Benjamin Wilson",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104999"
+  }
+}

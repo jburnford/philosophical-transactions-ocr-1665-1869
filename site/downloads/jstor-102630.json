@@ -1,0 +1,69 @@
+{
+  "id": "e2c63a7886a4363d4c9394305671e3bd9b2ace0f",
+  "text": "II. A Letter of Dr. Wallis to Dr. Sloan, Secretary to the Royal Society, giving an Account of some late Passages between him and Myn Heer Leibnitz, of Hannover.\n\nApril 22, 1699.\n\nSIR,\n\nI received lately a Letter from Myn Heer Leibnitz, of March 30th, 1699, wherein are some Passages relating to Mathematicks; of which I shall not at present trouble you with a particular Account.\n\nAfter which follows a Passage somewhat relating to the Royal Society, in these words: *Nescio quomodo remissus nunc tractantur studia altiora, cum tamen nunquam post tot aditus apertos, facilius potuerint tractari. Sed puto infelicia tempora intercessisse, dum bella curas hominum alid vertere, Ita pauci admodum juvenes in pristinae gloriae spem succrescunt. Etiam Natura quam paucos nunc Observatores diligentia habet. Utinam, ut Gallica Scientiarum Academia nuper à Rege suo restituta est, etiam Vestræ Regiae Societati novus calor infunderetur.* To which what I have thought fit to return in Answer, you will see afterwards.\n\nHe then sends me the Copy of a large French Letter, of l'Abbé de la Charmoye to l'Abbé Nicaise, giving him a Particular Account of the Contents of a Treatise intended to be shortly published, concerning the Original of Nations; wherein, out of Ancient Mythology, he endeavours to discover an Historical Account of the Original of divers Nations. Which Copy Myn Heer Leibnitz desires me to communicate to the Right Reverend the Bishop of Lichfield and Coventry [now Bishop of Worcester] (who doth sometimes make use of such\nMethods where Histories are silent) and to such others as to whom I may think it grateful, which makes me to fend it to you, to communicate as you shall see cause.\n\nTo which Myn Heer Leibnitz subjoins some Thoughts of his own to that purpose, He thinks this French Author may be perhaps inclinable to be somewhat partial in favour of his Gauls or Celtæ, but however that some good Discoveries may be hence made. He tells us, as his own sense, That Celtæ olim Germanos & Gallos comp. Rebantur. Quod Wallica seu Cambrica nostra Lingua, est Semi-germanica, veteri Gallicæ proxima. Putatque, saltem suspicatur, Cambros vel Cambros nostras, pro parte, ex ipsorum Cimbricæ antiquis habitatoribus venisse, ut postea Angli ex posterioribus sunt egressi. Titum cum Diis bello, veteres intellectisse putat, Scytharum vel Celtarum antiquas in Asiam & Graeciam irruptiones; tunc cum ibi regnabant qui postea Diis sunt habiti. Et Promethei (Titanis) alligationem ad Caucasum, forte non alind designare, quam, coercitos copiis ad Caspias portas locatis Scythas. Sed nihil (inquit) est in his ultra conjecturas.\n\nIII. An Account of the Abbot Charmoy's Book, according to his own Relation, sent to Abbot Nicaise, in form of a Letter, which he calls, L'Origin des Nations.\n\nThe Author first says, his Book shall be publish'd under the Name of, The Origin of Nations. That it shall be an Historical Comment upon the Tenth Chapter of Genesis, where Moses mentions the first Fathers and Replenishers of the Earth, after the Deluge. This Work the Author divides into Five Books.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102630.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4704,
+    "total-output-tokens": 922,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1534,
+        2
+      ],
+      [
+        1534,
+        3091,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102630",
+    "title": "A Letter of Dr. Wallis to Dr. Sloan, Secretary to the Royal Society, Giuing an Account of Some Late Passages between Him and Myn Heer Leibnitz, of Hannover",
+    "authors": "Dr. Wallis",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102630"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "9cccb4c5b3281dc79159c82d088a834c7fe42d49",
+  "text": "XIV. An Account of Books.\n\n1. Basis Botanica; seu, Brevis ad rem Herbáriam Manuductio, omnes Plantarum partes, una cum earumdem Virtutibus secundum novissima Botanicorum Fundamenta generali quadam Methodo commonstrans edita a D. Christiano Ludovico Welschio Lips. 1697. 12mo.\n\nThe Author of this Treatise, who was a Disciple of Dr. Herman's, professes to follow chiefly Fungius, Hermannus, Rivinus, and Mr. Ray in it. After giving an Account of the Usefulness of the Study of Herbs, he divides Plants into Trees, Shrubs and Plants. He treats afterwards of their Root, Fundus, Stalk, Leaf, Flower and Fruit: From the Two last of which he thinks the Plant ought to have its place. He has likewise some Rules concerning the Virtues of Plants. But the greatest part of the Book is a Catalogue of the most part of the Plants growing in their Climate, whether Wild or in Gardens.\n2. Juli Pflugk equitis Saxonicus epistola ad perillustrem atq; Generosissimum Virum Ludovicum à Seckendorff Virum de utraq; republica meritissimum, præter fata bibliotheca Budensis, librorum quoq; in ultima expugnatione reper- torum catalogum exhibens. Jen. 1688. in 8vo.\n\nThis Letter (which has about 112 pages) was intended to be published at the Request of Daniel Georgius Morhofius sooner, had not the Author thought Tollius would have undertook this Task. This Library was first gathered by Matthias Corvinus (who died An. 1490.) from all parts of the World, consisting both of Printed Books and Manuscripts; Printing being then Young, he kept Writers in many Places to enrich his Library in what it wanted from Greek, he got many Hebrew, Greek and Latin Books from Constantinople and Greece, when those Places were taken; 40 or 50000 Books were said to be in the Library, of Printed and Manuscript. Bosmannus Cardinalis offer'd the Turks for them 200000 Nummi Imperiales. When Buda was taken by the Turks, this Library was pillag'd by the Soldiers, Busbeckius bought many of them, and brought them to Vienna; Johannes Sambucus purchased many of them, which are now also the Emperor's. Billibaldus Birckheimerus, got some which now belong to the Royal Society. The Remainder which was at Buda when it was taken, are here given an Account of in a Catalogue taken by a Missionary Jesuit. At the Close of the Book is a Catalogue of some Manuscripts formerly belonging to this Library, which are now in that of the Duke of Wolfenbutell.\n3. Dissertatione epistolare del fosforo minerale o sia della pietra illuminabile Bolognese, è Sapienti ed eruditi signori Collettori degli acta eruditorum di Lipsia, scritta da Luigi Ferdinando Conte Marsigli, &c. Lips. 1698. in 4to.\n\nThis Dissertation which has 31 Pages, was designed to be presented from the Author to Mr. Boyle, but has been laid aside since his Death till now. This Bononian Stone is found Three Miles from Bononia in the Mountain Paderno, or Eight Miles westward from thence, in that Hill called Predalbino. There are found with it Redbole, Efflorescences of Salt, round and square Marcasites, and Plaster Gypsum or Gesso.\n\nHe describes the Fibres of the Stone which many times run to a common Center, which is some Earth. To make it shine, it is prepared by grating the Stone smooth with a File, dipping it in Brandy; after which it is rouled in some fine Powder of the same Stone, and calcin'd in an open Furnace, being plac'd in the middle of live Charcoal. When the Stone is calcin'd the Crust is taken off, and the Surface of the Stone, which is become Yellowish, when expos'd to the Light Air, imbibes the Light, and Shines like a Coal in the Dark. It will not be calcin'd into Lime. The Stone shines in Water, and receives the Light in Oyl of Nuts, but will not emit it till it be out of it.\n\nAt the End of this Treatise is an Account of Plaster or Gesso, of the several Kinds of it, and where they are dug. He tells us, That the Workers in it, in some Days time, are cured of the Itch, either by means of its adstringent Quality or Sulphur.\n\nThe whole Treatise is illustrated with variety of Figures.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102540.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 4,
+    "total-input-tokens": 6042,
+    "total-output-tokens": 1192,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        874,
+        2
+      ],
+      [
+        874,
+        2412,
+        3
+      ],
+      [
+        2412,
+        4042,
+        4
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102540",
+    "title": "An Account of Books",
+    "authors": "Christano Ludovico Welschio Lips",
+    "year": 1698,
+    "volume": "20",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 4,
+    "jstor_url": "https://www.jstor.org/stable/102540"
+  }
+}

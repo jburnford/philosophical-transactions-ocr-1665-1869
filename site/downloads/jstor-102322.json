@@ -1,0 +1,59 @@
+{
+  "id": "befb7713e38c0f4b7de2ec54fafab81e8673cc93",
+  "text": "in vain) by some of the greatest Men in matters of Literature, as Gesner, Nicholas Heinsius, Monsieur Bigot, Monsieur Godin, Dr. Francis Bernard, and others; so that a single Copy of them has been sold for an 100l. sterling: Yet we must ingeniously confess, that we are ignorant of the time in which the Author of these Commentaries flourished; tho' tis probable he is much more ancient than 4 or 500 Years (in which the Excellent Mr. Grevius thinks fit to place him) from the manner of his Style, which seems to be above the common Vein of the Cloyster, or the Genius of that Age. Some passages there are in him, which might be added by Readers or Copists, who frequently used to interpolate and corrupt the purest and the best Authors; but such are easily discernible to a Critical Eye, which knows how to distinguish the several Pencils that have touched the same piece.\n\nThe First Edition of this Book was in 1473, but by what fate I know not, it soon vanished, and became unknown, and even lost to the most industrious searches, till Vossius in his Instit Orator. and De Histor. Lat. was pleased to illustrate the History of it, and to set it in its true light; which gave a fresh edge to several great Men, to shew the passion they had of seeing it, but to no purpose, till the diffusive Generosity of M. Grevius brought it forth in a better form, to which in this Lond.Edit. there are added an Index, and the Testimonies of Famous Men concerning Julius Celsus and these Commentaries.\n\nERRATA.\nNo 217. Page 111. Line 14. for it is ——, read it is the half of.\nNo 221. Page 296. Line 17. for lascivie read lasciviae.\n\nLONDON: Printed for S. Smith and B. Walford, Printers to the Royal Society, at the Prince's Arms in St. Paul's Churchyard. 1696.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102322.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 522,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1750,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102322",
+    "title": "Errata",
+    "authors": null,
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102322"
+  }
+}

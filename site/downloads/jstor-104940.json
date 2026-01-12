@@ -1,0 +1,69 @@
+{
+  "id": "f7fa4ea83eeda9d2ca50717febd53ffb6f050d40",
+  "text": "XLVII. An Account of a remarkable Echinus: By Gustavus Brander, Esq; F. R. S.\n\nRead Dec. 11, 1755.\n\nThis echinus is of a very singular species. It appears to me to be of a middling nature between the echinus and the star-fish. It comes from the island of Bourbon in the East-Indies; and I cannot learn, that it is anywhere described. (Plate VIII. Fig. 3.)\n\nXLVIII. An Account of the Impression on a Stone dug up in the Island of Antigua, and the Quantity of Rain fallen there for Four Years: In a Letter from the Reverend Mr. Francis Byam to William Fauquier, Esq; F. R. S.\n\nDear Brother,\n\nAntigua, March 31, 1755.\n\nAs you have the honour to be a member of the Royal Society, I have sent you, by Captain Barrett, in a box directed for you, what I esteem to be a great curiosity. It is a stone, that was brought from a quarry, for a building in the town: the quarry is in the side of a mountain, and is about three hundred yards higher than high-water mark, and about two miles from the sea. When the mason struck it with his hammer, it split in two, and discovered the exact portraiture of a fish (on each stone) which we call an old wife. (Plate IX.) I have likewise sent you an account of the quantity of rain, that has fallen in this place for four years last past.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104940.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5026,
+    "total-output-tokens": 431,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1268,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104940",
+    "title": "An Account of a Remarkable Echinus: By Gustavus Brander, Esq; F. R. S.",
+    "authors": "Gustavus Brander",
+    "year": 1755,
+    "volume": "49",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104940"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "9e83f9f8bb363b8c8cbd7def77b0ee552a4e40f3",
+  "text": "It must be allowed that these two Gentlemen differ very much in Philosophy. The one proceeds upon the Evidence arising from Experiments and Phænomena, and stops where such Evidence is wanting; the other is taken up with Hypotheses, and propounds them, not to be examined by Experiments, but to be believed without Examination. The one for want of Experiments to decide the Question, doth not affirm whether the Cause of Gravity be Mechanical or not Mechanical: the other that it is a perpetual Miracle if it be not Mechanical. The one (by way of Enquiry) attributes it to the Power of the Creator that the least Particles of Matter are hard: the other attributes the Hardness of Matter to conspiring Motions, and calls it a perpetual Miracle if the Cause of this Hardness be other than Mechanical. The one doth not affirm that animal Motion in Man is purely mechanical: the other teaches that it is purely mechanical, the Soul or Mind (according to the Hypothesis of an Harmonia Praefabilita) never acting upon the Body so as to alter or influence its Motions. The one teaches that God (the God in whom we live and move and have our Being) is Omnipresent; but not as a Soul of the World: the other that he is not the Soul of the World, but INTELLIGENTIA SUPRA MUNDANA, an Intelligence above the Bounds of the World; whence it seems to follow that he cannot do anything within the Bounds of the World, unless by an incredible Miracle. The one teaches that Philosophers are to argue from Phænomena and Experiments to the Causes thereof, and thence to the Causes of those Causes, and so on till we come to the first Cause: the other that all the Actions of the first Cause are Miracles, and all the Laws impressed on Nature by the Will of God are perpetual Miracles and occult Qualities, and therefore not to be considered in Philosophy. But must the constant and universal Laws of Nature, if derived from the Power of God or the Action of a Cause not yet known to us, be called Miracles and occult Qualities, that is to say, Wonders and Absurdities? Must all the Arguments for a God taken from the Phænomena of Nature be exploded by new hard Names? And must Experimental Philosophy be exploded as miraculous and absurd, because it asserts nothing more than can be proved by Experiments, and we cannot yet prove by Experiments that all the Phænomena in Nature can be solved by meer Mechanical Causes? Certainly these things deserve to be better considered.\n\nERRATA. Pag. 199. line 14. put an Asterisk (*) after the Word Letter.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103051.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 627,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2524,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103051",
+    "title": "Errata",
+    "authors": null,
+    "year": 1714,
+    "volume": "29",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103051"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": "fb9280c35ea6d07cad8d9717f5dbd0f29fd8cc27",
+  "text": "XXIII. On the Conditions for the existence of Three Equal Roots, or of Two Pairs of Equal Roots, of a Binary Quartic or Quintic. By A. Cayley, F.R.S.\n\nReceived November 26, 1867,—Read January 9, 1868.\n\nIn considering the conditions for the existence of given systems of equalities between the roots of an equation, we obtain some very interesting examples of the composition of relations. A relation is either onefold, expressed by a single equation \\( U = 0 \\), or it is, say \\( k \\)-fold, expressed by a system of \\( k \\) or more equations. Of course, as regards onefold relations, the theory of the composition is well known: the relation \\( UV = 0 \\) is a relation compounded of the relations \\( U = 0, V = 0 \\); that is, it is a relation satisfied if, and not satisfied unless one or the other of the two component relations is satisfied. The like notion of composition applies to relations in general; viz., the compound relation is a relation satisfied if, and not satisfied unless one or the other of the two component relations is satisfied. I purposely refrain at present from any further discussion of the theory of composition. I say that the conditions for the existence of given systems of equalities between the roots of an equation furnish instances of such composition; in fact, if we express that the function \\((x, y)^n\\), and its first-derived function in regard to \\( x \\), or, what is the same thing, that the first-derived functions in regard to \\( x, y \\) respectively, have a common quadric factor, we obtain between the coefficients a certain twofold relation, which implies either that the equation \\((x, y)^n = 0\\) has three equal roots, or else that it has two pairs of equal roots; that is, the relation in question is satisfied if, and it is not satisfied unless there is satisfied either the relation for the existence of three equal roots, or else the relation for the existence of two pairs of equal roots; or the relation for the existence of the quadric factor is compounded of the last-mentioned two relations. The relation for the quadric factor, for any value whatever of \\( n \\), is at once seen to be expressible by means of an oblong matrix, giving rise to a series of determinants which are each to be put \\( = 0 \\); the relation for three equal roots and that for two pairs of equal roots, in the particular cases \\( n = 4 \\) and \\( n = 5 \\), are given in my \"Memoir on the Conditions for the existence of given Systems of Equalities between the roots of an Equation,\" Phil. Trans. vol. cxlvii. (1857), pp. 727–731; and I propose in the present Memoir to exhibit, for the cases in question \\( n = 4 \\) and \\( n = 5 \\), the connexion between the compound relation for the quadric factor with the component relations for the three equal roots and for the two pairs of equal roots respectively.\n\nArticle Nos. 1 to 8, the Quartic.\n\n1. For the quartic function\n\n\\[\n(a, b, c, d, e)(x, y)^4,\n\\]\n\n\\( 4 \\times 2 \\)\nthe condition for three equal roots, or, say, for a root system $31$, is that the quadrinvariant and the cubinvariant each of them vanish, viz. we must have\n\n$$I = ae - 4bd + 3c^2 = 0,$$\n\n$$J = ace - ad^2 - b^2e + 2bcd - c^3 = 0.$$\n\n2. The condition for two pairs of equal roots, or for a root system $22$, is that the cubicovariant vanishes identically, viz. representing this by\n\n$$(A, B, 5C, 10D, 5E, F, G)(x, y)^6 = 0,$$\n\nwe must have\n\n$$A = a^2d - 3abc + 2b^3 = 0,$$\n\n$$B = a^2e + 2abd - 9ac^2 + 6b^2c = 0,$$\n\n$$C = abe - 3acd + 2b^2d = 0,$$\n\n$$D = -ad^2 + b^2e = 0,$$\n\n$$E = ade + 3bce - 2bd^2 = 0,$$\n\n$$F = -ae^2 - 2bde + 9c^2e - 6cd^2 = 0,$$\n\n$$G = -be^3 + 3cde - 2d^3 = 0.$$\n\n3. But the condition for the common quadric factor is\n\n$$\\begin{vmatrix}\na, & 3b, & 3c, & d \\\\\nb, & 3c, & 3d, & e \\\\\na, & 3b, & 3c, & d \\\\\nb, & 3c, & 3d, & e\n\\end{vmatrix} = 0,$$\n\nand the determinants formed out of this matrix must therefore vanish for $(I, J) = 0$, and also for $(A, B, C, D, E, F, G) = 0$, that is, the determinants in question must be syzygetically related to the functions $(I, J)$, and also to the functions $(A, B, C, D, E, F, G)$.\n\n4. The values of the determinants are—\n\n| 1234 = 3× | 1235 = 3× | 1245 = | 1345 = 3× | 2345 = 3× |\n|-----------|-----------|-------|-----------|-----------|\n| + 1 a^2ce | - 1 a^2de | - 1 a^2e^2 | - 1 abe^2 | + 1 ace^2 |\n| - 3 a^2d^2 | + 4 abce | + 2 abde | + 4 acde | - 1 ad^2e |\n| - 1 ab^2e | + 1 abd^2 | + 9 ac^2e | - 3 ad^3 | - 3 b^2e^2 |\n| + 14 abcd | - 3 ac^2d | - 9 ac^2d | + 1 b^2de | + 14 bde |\n| - 9 ac^3 | - 3 b^2e | - 9 b^2ce | - 3 be^2e | - 8 ba^2 |\n| - 8 b^2d | + 2 b^2cd | + 8 b^2d^2 | + 2 bcd^2 | - 9 ce^2 |\n| + 6 b^2e^2 | | | | + 6 e^2d^2 |\n\n5. The syzygetic relation with $(I, J)$ is given by means of the identical equation\n\n$$y^4, -4xy^3, 6x^2y^2, -4x^3y, x^4 = -6I.\\tilde{H}U + 9J.U,$$\n\n$$\\begin{vmatrix}\na, & 3b, & 3c, & d \\\\\nb, & 3c, & 3d, & e \\\\\na, & 3b, & 3c, & d \\\\\nb, & 3c, & 3d, & e\n\\end{vmatrix}.$$\nor, as this may be written,\n\n\\[(1234, 1235, 1245, 1345, 2345)(x,y)^4 = -6I.\\tilde{H}U + 9J.U,\\]\n\nwhere \\(\\tilde{H}U\\) is the Hessian of \\(U\\),\n\n\\[= \\begin{vmatrix}\nac & 2ad & ae & 2be & ce \\\\\n-b^2 & -2bc & +2bd & -2cd & -d^2 \\\\\n\\end{vmatrix}(x,y)^4.\\]\n\n6. That is, we have\n\n\\[\n\\begin{align*}\n1234 &= (ac - b^2, a(-6I, 9J), \\\\\n4. 1235 &= (2ad - 2bc, 4b(-6I, 9J), \\\\\n6. 1245 &= (ae + 2bd - 3c^2, 6c(-6I, 9J), \\\\\n4. 1345 &= (2be - 2cd, 4d(-6I, 9J), \\\\\n2345 &= (ce - d^2, e(-6I, 9J).\n\\end{align*}\n\\]\n\n7. The determinants thus vanish if \\((I, J) = 0\\), that is, for the root system 31; they will also vanish without this being so, if only\n\n\\[\\frac{(3J)}{21} = \\frac{ac - b^2}{a} = \\frac{ad - bc}{2b} = \\frac{ae + 2bd - 3c^2}{6c} = \\frac{be - cd}{2d} = \\frac{ce - d^2}{e};\\]\n\nand we may omit the first member \\(\\frac{(3J)}{21}\\), since if the remaining terms are equal to each other they will also be \\(\\frac{3J}{21}\\). The equations may then be written\n\n\\[\\begin{vmatrix}\nac - b^2, ad - bc, ae + 2bd - 3c^2, be - cd, ce - d^2 \\\\\na, 2b, 6c, 2d, e\n\\end{vmatrix} = 0,\\]\n\nand the ten equations of this system reduce themselves (as it is very easy to show) to the seven equations\n\n\\[(A, B, C, D, E, F, G) = 0,\\]\n\nwhich, as above mentioned, are the conditions for the root system 22.\n\n8. It may be added that we have\n\n| A | B | C | D | E | F | G |\n|---|---|---|---|---|---|---|\n| \\(\\frac{1}{3}\\cdot1234\\) | c | -4b | +3a | +3a | +a | -a |\n| \\(\\frac{1}{3}\\cdot1235\\) | c | -3b | +a | +a | -a | -a |\n| 0 | d | -3c | +a | +a | -a | -a |\n| 1245 | -e | +4d | -3c | +6c | -a | -a |\n| 0 | -e | +3c | -b | -b | -b | -b |\n| \\(\\frac{1}{3}\\cdot1345\\) | -e | +3d | -c | -c | -c | -c |\n| 0 | -e | +3c | -b | -b | -b | -b |\n| \\(\\frac{1}{3}\\cdot2345\\) | -3e | +4d | -c | -c | -c | -c |\n\nwhere it is to be noticed that the four equations having the left-hand side = 0, give\nB:C:D:E:F proportional to the determinants of the matrix\n\n\\[\n\\begin{vmatrix}\nd, & -3c, & , & a \\\\\n-e, & ., & 6c, & ., & -a \\\\\n-d, & 3c, & -b, \\\\\n-e, & ., & +3c, & -b\n\\end{vmatrix};\n\\]\n\nthe determinants in question contain each the factor \\( c \\), and omitting this factor, the system shows that B, C, D, E, F are proportional to their before-mentioned actual values.\n\nArticle Nos. 9 to 15, the Quintic.\n\n9. For the quintic function\n\n\\[\n(a, b, c, d, e, f)(x, y)^5,\n\\]\n\nthe condition of a root system 41 is that the covariant, Table No. 14, shall vanish, viz. we must have\n\n\\[\nA = 2(ae - 4bd + 3c^2) = 0,\n\\]\n\\[\nB = af - 3be + 2cd = 0,\n\\]\n\\[\nC = 2(bf - 4ce + 3d^2) = 0.\n\\]\n\n10. The condition of a root system 32 is that the following covariant, viz.\n\n\\[\n3 \\text{(No. 13)}^2 \\text{(No. 14)} - 25 \\text{(No. 15)}^2,\n\\]\n\nshall vanish, where\n\nNo. 13 = \\((a, b, c, d, e, f)(x, y)^5\\), the quintic itself.\n\nNo. 14 = \\[\n\\begin{vmatrix}\nae & af & bf \\\\\n-4bd & -3be & -4ce \\\\\n+3c^2 & +2cd & +3d^2\n\\end{vmatrix}(x, y)^2.\n\\]\n\nNo. 15 = \\[\n\\begin{vmatrix}\nac & 3ad & 3ae & af & 3bf & 3cf & df \\\\\n-b^2 & -3bc & +3bd & +7be & +3ce & -3de & -e^2\n\\end{vmatrix}(x, y)^6.\n\\]\n\n11. The developed expression of the foregoing function is as follows:—\n| \\( \\mathbf{X}(\\mathbf{x}, \\mathbf{y})^2 \\) | \\( \\mathbf{X} \\) | \\( \\mathbf{Y} \\) | \\( \\mathbf{Z} \\) | \\( \\mathbf{E} \\) | \\( \\mathbf{F} \\) |\n|---|---|---|---|---|---|\n| \\( +3a^2e \\) | \\( +3af \\) | \\( +33a^2bf \\) | \\( +10a^2ef \\) | \\( -60a^2be \\) | \\( -114a^2cf \\) |\n| \\( -12a^2bd \\) | \\( +21a^2be \\) | \\( -102a^2be \\) | \\( -390a^2de \\) | \\( -195a^2ef \\) | \\( -264abef \\) |\n| \\( -16a^2d \\) | \\( -114a^2ed \\) | \\( +30abed \\) | \\( +135abef \\) | \\( +155abef \\) | \\( +360abef \\) |\n| \\( +50a^2e \\) | \\( +30abed \\) | \\( +150abce \\) | \\( +100abce \\) | \\( +468abef \\) | \\( +537abef \\) |\n| \\( -25b^2 \\) | \\( +240abc \\) | \\( -600abc \\) | \\( +120abc \\) | \\( +900abc \\) | \\( +1380abc \\) |\n| \\( -150bc \\) | \\( +450ae^2 \\) | \\( +1600ae^2 \\) | \\( +1800ae^2 \\) | \\( +1060ae^2 \\) | \\( +215b^2f \\) |\n| \\( -150b^2d \\) | \\( +125b^2e \\) | \\( +225bf \\) | \\( +900bf \\) | \\( -1700bf \\) | \\( -2700bf \\) |\n| \\( -300b^2e \\) | \\( -1000b^2ef \\) | \\( -1500b^2ef \\) | \\( -2700b^2ef \\) | \\( +900b^2ef \\) | \\( +900b^2ef \\) |\n| \\( -600b^2ef \\) | \\( +600b^2ef \\) | \\( +600b^2ef \\) | \\( -600b^2ef \\) | \\( -400c^2e \\) | \\( -400c^2e \\) |\n| \\( -300c^2e \\) | \\( -1000c^2ef \\) | \\( -1500c^2ef \\) | \\( -2700c^2ef \\) | \\( +900c^2ef \\) | \\( +900c^2ef \\) |\n| \\( -600c^2ef \\) | \\( +600c^2ef \\) | \\( +600c^2ef \\) | \\( -600c^2ef \\) | \\( -400c^2e \\) | \\( -400c^2e \\) |\n| \\( -300c^2e \\) | \\( -1000c^2ef \\) | \\( -1500c^2ef \\) | \\( -2700c^2ef \\) | \\( +900c^2ef \\) | \\( +900c^2ef \\) |\n| \\( -600c^2ef \\) | \\( +600c^2ef \\) | \\( +600c^2ef \\) | \\( -600c^2ef \\) | \\( -400c^2e \\) | \\( -400c^2e \\) |\n\nNote: The table contains various terms involving \\( a, b, c, d, e, f \\) with different exponents and coefficients.\n12. The conditions for the common quadric factor are\n\n\\[\n\\begin{vmatrix}\na, & 4b, & 6c, & 4d, & e \\\\\na, & 4b, & 6c, & 4d, & e \\\\\nb, & 4c, & 6d, & 4e, & f \\\\\nb, & 4c, & 6d, & 4e, & f \\\\\n\\end{vmatrix} = 0,\n\\]\n\nthe several determinants whereof are given in Table No. 27 of my \"Third Memoir on Quantics,\" Philosophical Transactions, vol. cxlvii. (1856), pp. 627–647.\n\n13. These determinants must therefore vanish, for \\((A, B, C) = 0\\), and also for \\((A, B, \\ldots L, M) = 0\\), that is, they must be syzygetically connected with \\((A, B, C)\\), and also with \\((A, B, \\ldots L, M)\\). The relation to \\((A, B, C)\\) is in fact given in the Table appended to Table No. 27, viz. this is\n\n| \\(C \\times\\) | \\(+B \\times\\) | \\(+A \\times\\) |\n|---|---|---|\n| 1234 = +6 \\(a^2\\) | -12 \\(ab\\) | +16 \\(ac - 10 b^2\\) |\n| 1235 = +6 \\(ab\\) | -2 \\(ac - 10 b^2\\) | +6 \\(ad\\) |\n| 1236 = -2 \\(ac + 8 b^2\\) | +6 \\(ad - 18 bc\\) | -2 \\(df + 8 e^2\\) |\n| 1245 = +18 \\(ac\\) | -6 \\(ad - 30 bc\\) | +8 \\(ae + 10 bd\\) |\n| 1246 = +12 \\(bc\\) | +4 \\(ae - 4 bd - 24 c^2\\) | +4 \\(be + 8 cd\\) |\n| 1345 = +24 \\(ad\\) | -8 \\(ae - 40 bd\\) | +4 \\(af + 20 be\\) |\n| 1256 = -1 \\(ae + 4 bd + 3 c^2\\) | +1 \\(af + 5 be - 18 cd\\) | -1 \\(bf + 4 ce + 3 d^2\\) |\n| 2345 = +20 \\(ae + 40 bd - 30 c^2\\) | -80 \\(be + 20 cd\\) | +20 \\(bf + 40 ce - 30 d^2\\) |\n| 1346 = +4 \\(ae + 8 bd + 6 c^2\\) | -36 \\(cd\\) | +4 \\(bf + 8 ce + 6 d^2\\) |\n| 2346 = +4 \\(af + 20 be\\) | -8 \\(bf - 4 ce\\) | +24 \\(cf\\) |\n| 1356 = +4 \\(be + 8 cd\\) | +4 \\(bf - 4 ce - 24 d^2\\) | +12 \\(de\\) |\n| 2356 = +8 \\(bf + 10 ce\\) | -6 \\(cf - 30 de\\) | +18 \\(df\\) |\n| 1456 = +6 \\(ce\\) | +6 \\(cf - 18 de\\) | -2 \\(df + 8 e^2\\) |\n| 2456 = +6 \\(cf\\) | -2 \\(df - 10 e^2\\) | +6 \\(ef\\) |\n| 3456 = +16 \\(df - 10 e^2\\) | -12 \\(ef\\) | +6 \\(f^2\\) |\n\n14. Between the expressions \\(A, B, \\&c.\\), and 1234, 1235, \\&c., there exist relations the form of which is indicated by the following Table:\nviz. these relations are of the form\n\n\\[\n\\begin{align*}\n(&cA + (\\beta B) + (\\alpha C)) &+ (\\alpha .1234) &= 0, \\\\\n(&dA + (\\gamma B) + (\\beta C)) &+ (\\beta .1234 + (\\alpha .1235) &= 0, \\\\\n&\\text{etc.}\n\\end{align*}\n\\]\n\nwhere the brackets () denote numerical coefficients, determinate as to their ratios.\n15. Assuming the existence of these relations, we have for the determination of the numerical coefficients in each relation a set of linear equations, which are shown by the following Tables, viz. referring to the Table headed $c\\mathbb{A}$, $b\\mathbb{B}$, $a\\mathbb{C}$, $a.1234$, if the multipliers of terms respectively be $A$, $B$, $C$, $X$, then the Table denotes the system of linear equations\n\n$$0 \\ A + 3 \\ B + 33 \\ C + 0 \\ X = 0,$$\n\n$$3 \\ A + 0 \\ B - 102 \\ C - 16 \\ X = 0,$$\n\n&c.,\n\nthat is, nine equations to be satisfied by the ratios of the coefficients $A$, $B$, $C$, $X$, and which are in fact satisfied by the values at the foot of the Table, viz.\n\n$$A : B : C : X = 66 : -11 : +1 : +6.$$\n\nThere would be in all fourteen Tables, but as those for the second seven would be at once deducible by symmetry from the first seven, I have only written down the seven Tables; the solutions for the first and second Tables were obtained without difficulty, but that for the third Table was so laborious to calculate, and contains such extraordinarily high numbers, that I did not proceed with the calculation, and it is accordingly only the first, second, and third Tables which have at the foot of them respectively the solutions of the linear equations.\n\n16. The results given by these three Tables are, of course,\n\n$$66c\\mathbb{A} - 11b\\mathbb{B} + 1a\\mathbb{C} + 6a.1234 = 0,$$\n\n$$330d\\mathbb{A} + 110c\\mathbb{B} - 55b\\mathbb{C} + 9a\\mathbb{D} - 105a.1235 = 0,$$\n\n$$+ 266478575 \\ e\\mathbb{A}$$\n\n$$- 617359490 \\ d\\mathbb{B}$$\n\n$$+ 144200810 \\ c\\mathbb{C}$$\n\n$$+ 9656911 \\ b\\mathbb{D}$$\n\n$$+ 9090785 \\ a\\mathbb{E}$$\n\n$$- 721004050 \\ c.1234$$\n\n$$+ 90914175 \\ b.1235$$\n\n$$- 160758675 \\ a.1245$$\n\n$$+ 11559295 \\ a.1236 = 0.$$\n\nIt is to be noticed that the nine coefficients of this last equation were obtained from, and that they actually satisfy, a system of fourteen linear equations; so that the correctness of the result is hereby verified.\n\n17. The seven Tables are\nFirst Table.\n\n|       | cA   | bB   | aC   | a.1234 |\n|-------|------|------|------|--------|\n| a^3bf | +    | +    | +    |        |\n| a^3ce | + 3  | +    | -102 | -16    |\n| a^3d^2|      | -216 | +    | +36    |\n| a^2be^2| +    | +    | +135 | +16    |\n| a^2bcd| -12  | -144 | +120 | -152   |\n| a^2c^3| -16  |      | +480 | +96    |\n| ab^3d |      | +    | -150 | +80    |\n| ab^2c^2| +50  | +    | -300 | -60    |\n| b^3c  | -25  | -150 |      |        |\n\n+66  -11  +1  +6\n\nSecond Table.\n\n|       | dA   | cB   | bC   | aD   | a.1235 | b.1234 |\n|-------|------|------|------|------|--------|--------|\n| a^3cf | +    | +    | +    | +    | -4     |        |\n| a^3de | + 3  |      | -390 | +24  |        |        |\n| a^2b^2f| +    | +    | +155 | +4   |        |        |\n| a^2bce| +21  | -102 | +100 | -84  | -16    |        |\n| a^2bd^2| -12  | -216 | -600 | -24  | +36    |        |\n| a^2c^3d| -16  | -144 |      | +1600| +64    | +16    |\n| ab^3e |      | +    | +125 | +60  |        |        |\n| ab^2cd| +50  | +    | -1000| -40  | -152   |        |\n| abc^3 | +240 | +    | +480 |      |        |        |\n| b^3d  | -25  | -150 |      |      |        |        |\n| b^3c^3|      | -150 | -300 |      |        |        |\n\n+330  +110  -55  +9   -105  0\n\nThird Table.\n\n|       | eA   | dB   | cC   | bD   | aE   | c.1234 | b.1235 | a.1245 | a.1236 |\n|-------|------|------|------|------|------|--------|--------|--------|--------|\n| a^3df | +    | +    | -90  |      | -6   | +6     |        |        |        |\n| a^3e^2| + 3  |      | -195 |      | +16  |        |        |        |        |\n| a^2bce| +    | +    | +360 |      | -4   | +6     | -22    |        |        |\n| a^2bde| -12  | +    | -390 | -1500| +24  | -26    | -6     |        |        |\n| a^2c^2e| -16  |      | +900 | -16  | +96  |        |        |        |        |\n| a^2cd^2| -144 | -216 |      | +1800| +36  | +96    |        |        |        |\n| ab^3f |      | +    | +155 | +225 |      |        |        |        |        |\n| ab^2ce| +50  | +    | +100 |      | +16  | -84    | +90    | -10    |        |\n| ab^2d^2| +30  |      | -600 | -1500| -24  | -80    |        |        |        |\n| ab^2cd| +240 | +    | +1600|      | +64  |        |        |        |        |\n| ac^3  | +480 |      |      |      | +96  |        |        |        |        |\n| b^3e  | -25  | -150 |      |      | +80  | -40    |        |        |        |\n| b^3cd |      | -150 | -1000|      | -60  |        |        |        |        |\n| b^3c^3|      | -300 |      |      |      |        |        |        |        |\n\n+266478575 -617359490 +144200810 +9656911 +9090785 -721004050 +90914175 -160758675 +11559295\n### Fourth Table\n\n| \\( fA \\) | \\( eB \\) | \\( dC \\) | \\( cD \\) | \\( bE \\) | \\( aF \\) | \\( d.1234 \\) | \\( c.1235 \\) | \\( b.1236 \\) | \\( b.1245 \\) | \\( a.1246 \\) | \\( a.1345 \\) |\n|----------|----------|----------|----------|----------|----------|-------------|-------------|-------------|-------------|-------------|-------------|\n| \\( a^2cf \\) | +3       | +3       |          |          |          |             |             |             |             |             |             |\n| \\( a^2bdf \\) | -12      |          |          |          |          |             |             |             |             |             |             |\n| \\( a^2be^2 \\) | +21      | +33      |          |          |          |             |             |             |             |             |             |\n| \\( a^2c^2f \\) | -16      |          |          |          |          |             |             |             |             |             |             |\n| \\( a^2cde \\) | -144     | -102     | -390     |          |          |             |             |             |             |             |             |\n| \\( a^2d^3 \\) | -216     |          |          |          |          |             |             |             |             |             |             |\n| \\( ab^2cf \\) | +50      |          |          |          |          |             |             |             |             |             |             |\n| \\( ab^2de \\) | +30      | +135     |          |          |          |             |             |             |             |             |             |\n| \\( abc^2e \\) | +240     |          |          |          |          |             |             |             |             |             |             |\n| \\( abcd^2 \\) | +120     | -600     | +1800    |          |          |             |             |             |             |             |             |\n| \\( ac^2d \\) | +480     | +1600    |          |          |          |             |             |             |             |             |             |\n| \\( b^3f \\) | -24      |          |          |          |          |             |             |             |             |             |             |\n| \\( b^3ce \\) | -150     |          |          |          |          |             |             |             |             |             |             |\n| \\( b^3d^2 \\) | -300     | -1000    |          |          |          |             |             |             |             |             |             |\n\n### Fifth Table\n\n| \\( fB \\) | \\( eC \\) | \\( dD \\) | \\( cE \\) | \\( bF \\) | \\( aG \\) | \\( e.1234 \\) | \\( d.1235 \\) | \\( c.1236 \\) | \\( b.1245 \\) | \\( b.1246 \\) | \\( b.1345 \\) | \\( a.1256 \\) | \\( a.2345 \\) | \\( a.1346 \\) |\n|----------|----------|----------|----------|----------|----------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|\n| \\( a^2f^2 \\) | +3       |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( a^2bef \\) | +21      | +33      |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( a^2cdf \\) | -144     |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( a^2ce^2 \\) | -102     |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( a^2d^3e \\) | -216     | -390     |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( ab^2df \\) | +30      |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( ab^2e^2 \\) | +135     |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( abc^2f \\) | +240     |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( abcd^2 \\) | +120     | +100     | -1500    |          |          |             |             |             |             |             |             |             |             |             |\n| \\( ac^2d \\) | +480     | +1600    | +1800    |          |          |             |             |             |             |             |             |             |             |             |\n| \\( b^3cf \\) | -150     |          |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( b^3de \\) | -150     | +125     |          |          |          |             |             |             |             |             |             |             |             |             |\n| \\( b^3ce \\) | -300     | -1000    | -1500    |          |          |             |             |             |             |             |             |             |             |             |\n| \\( b^3d^2 \\) | -600     |          |          |          |          |             |             |             |             |             |             |             |             |             |\nSixth Table.\n\n|       | f₆ | e₈ | d₁₀ | c₁₂ | b₁₄ |\n|-------|----|----|-----|-----|-----|\n| a₁²b₁f₂ | + 33 |    |     |     |     |\n| a₁c₁e₁f₁ | -102 | + 10 | -90 |     |     |\n| a₁d₁f₁f₁ | -216 |     |     |     |     |\n| a₁d₁e₁e₁ | -390 | -195 |     |     |     |\n| ab₁³e₁f₁ | +135 | +155 | -698 |     |     |\n| ab₁c₁d₁f₁ | +120 | +360 | -690 |     |     |\n| ab₁c₁e₁c₁ |    | +100 | -990 |     |     |\n| ab₁d₁e₁e₁ |   | -600 | -1500 |      |      |\n| ac₁³f₁ | +480 |     |     |     |     |\n| ac₁c₁e₁c₁ | +1600 | +900 | +1320 |     |     |\n| ac₁d₁d₁ |     | +1800 | +1080 |     |     |\n| b₁⁵f₁ | -150 | +225 | -245 |     |     |\n| b₁³e₁f₁ | +125 |     | -1700 |     |     |\n| b₁³c₁f₁ | -300 |     | -2700 |     |     |\n| b₁³d₁e₁e₁ |     | -1500 | -2700 |     |     |\n| bc₁³e₁ | +900 |     |     |     |     |\n| bd₁³d₁ | +600 |     |     |     |     |\n\nSeventh Table.\n\n|       | f₆ | e₈ | d₁₀ | c₁₂ | b₁₄ |\n|-------|----|----|-----|-----|-----|\n| a₁²c₁f₂ | + 10 |    |     |     |     |\n| a₁a₁f₁f₁ | -390 | -90 | -114 |     |     |\n| a₁e₁e₁ | -195 |     |     |     |     |\n| a₁b₁f₁f₁ | +155 | +360 | -608 |     |     |\n| ab₁c₁f₁ | +100 | +360 | -608 |     |     |\n| ab₁c₁e₁c₁ |    | +900 | -990 |     |     |\n| ab₁d₁e₁e₁ |   | +1500 | -264 |     |     |\n| ac₁³f₁ | +1600 |     |     |     |     |\n| ac₁c₁e₁c₁ | +1800 | +1320 | +1740 |     |     |\n| ac₁d₁d₁ |     | +1080 |     |     |     |\n| b₁³f₁ | +125 | +225 | -990 |     |     |\n| b₁³c₁f₁ | -1000 | +900 | -2700 |     |     |\n| b₁³d₁e₁e₁ |     | -1500 | -2700 |     |     |\n| bc₁³e₁ | +900 |     |     |     |     |\n| bc₁d₁e₁e₁ |     | +900 | -600 |     |     |\n| bc₁e₁d₁ |     | +600 |     |     |     |\n| c₁³e₁ | -400 |     |     |     |     |\nAnd the remaining seven Tables might of course be deduced from these by writing \\((f, e, d, c, b, a)\\) instead of \\((a, b, c, d, e, f)\\), and making the corresponding alterations in the top line of each Table.\n\n18. The equations \\(A=0, B=0, \\ldots, M=0\\) consequently establish between the fifteen functions 1234, 1235, \\ldots 3456 a system of fourteen equations, viz. the first and last three of these are\n\n\\[\n\\begin{align*}\n1234 &= 0, \\\\\n1235 &= 0, \\\\\n-160758675 \\cdot 1245 \\\\\n+ 11559295 \\cdot 1236 &= 0, \\\\\n&\\vdots \\\\\n+ 11559295 \\cdot 1456 \\\\\n-160758675 \\cdot 2356 &= 0, \\\\\n2456 &= 0, \\\\\n3456 &= 0.\n\\end{align*}\n\\]\n\nTo complete the proof that in virtue of the equations \\(A=0, B=0, \\ldots, M=0\\) all the fifteen functions 1234, 1235, \\ldots 3456 vanish, it is necessary to make use of the identical relations subsisting between these quantities 1234, &c.; thus we have\n\n\\[\n\\begin{align*}\na \\cdot 1345 + 4b \\cdot 1245 + 6c \\cdot 1235 + 4d \\cdot 1234 &= 0, \\\\\nb \\cdot 1345 + 4c \\cdot 1245 + 6d \\cdot 1235 + 4e \\cdot 1234 &= 0,\n\\end{align*}\n\\]\n\nwhich, in virtue of the above equations 1234 = 0 and 1235 = 0, become\n\n\\[\n\\begin{align*}\na \\cdot 1345 + 4b \\cdot 1245 &= 0, \\\\\nb \\cdot 1345 + 4c \\cdot 1245 &= 0,\n\\end{align*}\n\\]\n\ngiving (unless indeed \\(ac - b^2 = 0\\)) 1245 = 0, 1345 = 0; the equation 1245 = 0 then reduces the third of the above equations to 1236 = 0, and so on until it is shown that the fifteen quantities all vanish.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108927.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 13,
+    "total-input-tokens": 21074,
+    "total-output-tokens": 10599,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2950,
+        2
+      ],
+      [
+        2950,
+        4918,
+        3
+      ],
+      [
+        4918,
+        6765,
+        4
+      ],
+      [
+        6765,
+        7990,
+        5
+      ],
+      [
+        7990,
+        9646,
+        6
+      ],
+      [
+        9646,
+        11526,
+        7
+      ],
+      [
+        11526,
+        11828,
+        8
+      ],
+      [
+        11828,
+        13802,
+        9
+      ],
+      [
+        13802,
+        16462,
+        10
+      ],
+      [
+        16462,
+        22157,
+        11
+      ],
+      [
+        22157,
+        23860,
+        12
+      ],
+      [
+        23860,
+        25292,
+        13
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108927",
+    "title": "On the Conditions for the Existence of Three Equal Roots, or of Two Pairs of Equal Roots, of a Binary Quartic or Quintic",
+    "authors": "A. Cayley",
+    "year": 1868,
+    "volume": "158",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 13,
+    "jstor_url": "https://www.jstor.org/stable/108927"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "c0f2b0f657e79be3eb2425f5d1799edd07d9bcf3",
+  "text": "made by careful Observations and Experiments, they would easily agree and joyn together, not only their Parts, Natural and acquired, but also the two so much celebrated methods of administering Physick, for curing both acute and chronical or contumacious Diseases; which is the true way to do service indeed to Mankind, and to entertain and raise the Credit of that Profession.\n\nNota. By the oversight of the Printer, some Lines were left out to the breach of the Sense, in the Authors Animadversions upon Mr. S. his Epistle, at the bottom of the 3d Page, which may be thus corrected; Like that of the Travailer that went from Jerusalem to Jericho, who fell among Thieves that stript and wounded him, 'tis no fault of mine; my work shall be like that of the Samaritane, &c.\n\nERRATA.\n\nNumb. 48. p. 962. l. 7. l. Genetricem. In the present Numb. p. 581. l. 18. l. folded wings. p. 983. l. 31. l. occasion'd. p. 987. l. 26. l. besides those of. p. 992. l. 3. shoulders.\n\nLONDON,\n\nPrinted by T. N. for John Martyn Printer to the Royal Society, and are to be sold at the Bell a little without Temple-Bar, 1669.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101013.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 383,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1105,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101013",
+    "title": "Errata",
+    "authors": null,
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/101013"
+  }
+}

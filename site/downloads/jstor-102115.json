@@ -1,0 +1,59 @@
+{
+  "id": "36217aad0c1ce95ac015a42fb43c91bdf574e1cc",
+  "text": "A Letter of Mr. John Davis Minister of little Leak in Nottinghamshire to one of the F. of the R. S. concerning the Wurtemberg Engine Dated 26th November. 1684.\n\nQuum elapsa nuper æstate essem Londini, in manus incidit Tractatus quidam inscriptus Sipho Wurtembergicus, sive Sipho inversus Cruribus æquealtis fluens & refluens hactenus inauditus, De hac Machina magnifica prædicat Author prædicti libelli, afferens esse unam e duabus Machinis Aquariis, cui mundus parem non habet, si & utilitatem, & raritatem, & artificium spectes, sed Lectorem orat, ut ignoscat Patrono ejus Serenifismo quod mysterium structuræ ejus sibi servet. Dum itaque encomium hoc tam cara, utilis, & artificiose Machinæ legerem, & de Fabricatione ejus ferio cogitarem, in mentem venit, quomodo instrui possit Sipho, ut quæ de Wurtembergico illo narrantur, præstaret. Habens ergo in manibus, dum Tractatum illum evolverem, Syphonem quendam Vitreum, me ad inventionem coelati prædicti Siphonis artificii applicui, & postquam Syphonem meum artificio eo, quod tunc mihi occurrebat, disposueram; erexi eum lupra duo Vascula quantum potui perpendiculariter; dumque in eo situ sifteretur, affudi in unum ex Vasculis aquam, donec orificium Siphonis paululum superaret, & statim in alterum Vas ut expectabam effluebat aqua: tunc evacuato illo Vase in quod primo aquam infuderam in alterum affudi, & immediate aqua ista refluerebat in prius Vas. Hoc dum in prima lectione prædicti libelli occupatus eram, expertus fum, & licet non ausim de Invento hoc gloriari, aut Artificium hujus Syphonis mecum illo Wurtembergico, quod mihiadhuc (in quantum scio,) ignotum est, comparare: tamen si utilitatem spectemus, cum eo certare posse (præsertim si addatur ei Instrumentum quoddam, modo quodam peculiariæ me excogitato,) non multum dubito, &c. The De-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102115.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 654,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1808,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102115",
+    "title": "A Letter of Mr. John Davis Minister of Little Leak in Notting Hamshire to One of the F. of the R. S. concerning the Wurtemberg Engine Dated 26th. November. 1684",
+    "authors": "John Davis",
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/102115"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "c25a3132b8a455f823601c54c6a36031cc4c1fd2",
+  "text": "ADVERTISEMENT.\n\nAll Persons concern'd in the Practice of Inoculating the Small-Pox, are desired to keep a Register of the Name, Age and Habitation of every Person inoculated, the Manner of the Operation, the Days of sickness and of the Eruption, the Sort of Small-Pox that is produced, and the Event.\n\nWhere the true Small-Pox is not produced by Inoculation, it will be of Use to take particular Notice, whether the Patient had any other Kind of Eruption, what Symptoms preceded or attended it, whether the Incisions inflam'd and run, and for what Time their Running continued.\n\nIn Case any Person shall happen to die after Inoculation, either in the Course of the Small-Pox, or after they are gone off, it is desired that a particular Relation of the Case may be made, and attested, if it be judg'd necessary, by the nearest Relations of the Party deceas'd, or by other credible Persons, that were Witnesses to the Fact.\n\nThey are intreated to send these Accounts, or an Extract from them, comprehending all Persons inoculated from the Beginning to the End of the Years 1727 and 1728 to Dr. Scheuchzer, M.D. and F.R.S. at Sir Hans Sloane's, Bart. in Great Russel-street by Bloomsbury-Square, some Time in January, or at farthest in February next, that so the Result of them may be publish'd early in the Spring.\n\nNov. 8. 1728.\n\nLONDON: Printed for William Innys, at the West End of St. Paul's.\n\nM.DCC.XXVIII.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103712.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 415,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1409,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103712",
+    "title": "Advertisement",
+    "authors": null,
+    "year": 1727,
+    "volume": "35",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103712"
+  }
+}

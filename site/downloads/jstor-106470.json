@@ -1,0 +1,139 @@
+{
+  "id": "6d780e9d57df32f21e413e3b5669ee7c868601f1",
+  "text": "XXVI. A new Method of finding the equal Roots of an Equation, by Division. By the Rev. John Hellins, Curate of Constantine, in Cornwall; communicated by Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal.\n\nRead June 20, 1782.\n\nThe following theorems are a production of juvenile years. They were invented about twelve years ago, when algebra was my favourite study; and one of them (the first) was published as a specimen of this method of extracting the equal roots of an equation about ten years ago. Since that time my avocations have left me but very little leisure for improving any invention of this kind. These theorems, then, are in their crude state; however, such as they are, I flatter myself, they will afford an easier solution of equations that have equal roots than is generally known, and be acceptable to the ingenious algebraist.\n\nTHEOREM I.\n\nIf the cubic equation $x^3 - px^2 + qx - r = 0$ has two equal roots, each of them will be $(x) = \\frac{pq - qr}{2pp - 6q}$.\n\nDEMONSTRATION.\n\nCall the three roots $a$, $a$, and $b$; then, by the composition of equations we shall have $x^3 - 2abx^2 + ab^2x - aab = 0$, where\nMr. Hellins's Method of finding the\n\n\\[2a + b = p; \\quad aa + 2ab = q, \\quad \\text{and} \\quad aab = r;\\]\n\nwhich values being written in our theorem, we have \\(x\\) \\((= \\frac{pq - qr}{2pp - 6q}) =\\)\n\n\\[\\frac{2aaa + 4aab + aab + 2abb - 9aab}{8aa + 8ab + 2bb - 6aa - 12ab} = \\frac{2aaa - 4aab + 2abb}{2aa - 4ab + 2bb} = a.\\]\n\nQ.E.D.\n\n**Example I.**\n\nIf the equation \\(x^3 + 5x^2 - 32x + 36 = 0\\) has two equal roots, it is proposed to find them by the above theorem.\n\nHere \\(p = -5, \\quad q = -32,\\) and \\(r = -36;\\) these values being written in the theorem, we have \\(\\frac{-5 \\times -32 - 9 \\times -36}{2 \\times 25 - 6 \\times -32} = \\frac{160 + 324}{50 + 192} = \\frac{484}{242} = 2,\\) which being written for \\(x,\\) the equation becomes \\(8 + 20 - 64 + 36,\\) which is evidently \\(= 0;\\) consequently 2 and 2 are roots of it.\n\nOtherwise, 2, the value of \\(x\\) given by the theorem, being written for it in the quadratic equation \\(3x^2 + 10x - 32 = 0,\\) the result is \\(12 + 20 - 32 = 0.\\)\n\nOr, dividing the given cubic by the quadratic \\((x - 2)^2,\\) we have \\(x^2 - 4x + 4)(x^3 + 5x^2 - 32x + 36(x + 9);\\) therefore the three roots are 2, 2, and \\(-9.\\)\n\n**Example II.**\n\nGiven \\(x^3 + \\frac{10}{7}x^2 - \\frac{4000}{9261} = 0,\\) an equation which has equal roots, to find them.\n\nHere \\(q = 0,\\) and the theorem gives \\(\\frac{-36000 \\times 49}{200 \\times 9261} = \\frac{-20}{21},\\) which value being written for \\(x\\) the equation vanishes.\n\n**Theorem**\nTHEOREM N.\n\nIf the biquadratic equation \\( x^4 - px^3 + qx^2 - rx + s = 0 \\) has two equal roots, make \\( A = \\frac{12r - 2pq}{3pp - 8q} \\), \\( B = \\frac{pr - 16s}{3pp - 8q} \\), \\( C = \\frac{4B - 2q}{4A + 3p} \\), and \\( D = \\frac{r}{4A + 3p} \\), and you will have \\( x = \\frac{D - B}{A - C} \\).\n\nA synthetical demonstration of this theorem would be very long; the investigation is as follows.\n\nIt has been demonstrated by the writers on algebra, that, if a biquadratic equation, as \\( x^4 - px^3 + qx^2 - rx + s = 0 \\), has two equal roots, one of them may be had from the equation \\( 4x^3 - 3px^2 + 2qx - r = 0 \\). Multiply this equation by \\( x \\), and the original one by 4, and take the difference of the two, which will be \\( px^3 - 2qx^2 + 3rx - 4s = 0 \\). Again, if this equation be multiplied by 4, and the other cubic by \\( p \\), and their difference taken, we shall have \\( 3pp - 8q \\times x^2 + 12r - 2pq \\times x + pr - 16s = 0 \\), or \\( x^2 + \\frac{12r - 2pq}{3pp - 8q} x + \\frac{pr - 16s}{3pp - 8q} = 0 \\), or \\( x^2 + Ax + B = 0 \\), putting \\( A \\) and \\( B \\) for the known quantities in the second and third terms. Now multiply this equation by \\( 4x \\), and take the first cubic from it, and we shall have \\( 4A + 3p \\times x^2 + 4B - 2q \\times x + r = 0 \\), which being divided by \\( 4A + 3p \\), and \\( C \\) and \\( D \\) put equal to \\( \\frac{4B - 2q}{4A + 3p} \\) and \\( \\frac{r}{4A + 3p} \\) respectively, gives \\( x^2 + Cx + D = 0 \\); and this equation being taken from the other quadratic, there remains \\( A - C \\times x + B - D = 0 \\); consequently \\( x = \\frac{D - B}{A - C} \\). Q.E.I.\n\nCOROLLARY I. From the above investigation it appears, that one of the equal roots may also be obtained from either of these two quadratic equations, of which the first seems most eligible,\nMr. Hellins's Method of finding the\nas the co-efficients of it are less complex than those of the\nother:\n\n\\[ \\frac{3pp - 8q}{4A + 3p} x^2 + \\frac{12r - 2pq}{4B - 2q} x + pr - 16s = 0, \\]\n\nand \\( 4A + 3p \\times x^2 + 4B - 2q \\times x + r = 0. \\) And these,\nwhen \\( p = 0, \\) become \\( -8qx^2 + 12rx - 16s = 0, \\)\n\n\\[ \\text{and } \\frac{-48r}{8q} x^2 + \\frac{64s}{8q} - 2q \\times x + r = 0, \\]\n\nor \\( x^2 - \\frac{3r}{2q} x + \\frac{2s}{q} = 0, \\)\n\nand \\( x^2 + \\frac{99 - 4s}{3r} x - \\frac{q}{6} = 0. \\)\n\nCorol. 2. If both \\( p \\) and \\( q \\) vanish, then, from either of the\nquadratics we get \\( x = \\frac{4s}{3r}, \\) perfectly agreeing with the cubic\n\\( px^3 - 2qx^2 + 3rx - 4s = 0, \\) which, when \\( p \\) and \\( q \\) vanish, becomes\n\\( 3rx - 4s = 0. \\) And this equation is of use; because, in this\ncase, the theorem fails, one of the divisors being \\( = 0. \\)\n\nCorol. 3. From the equation \\( 4x^3 - 3px^2 + 2qx - r = 0, \\) which,\nwhen \\( p \\) and \\( q \\) vanish, becomes \\( 4x^3 - r = 0, \\) we also get\n\\( x = \\sqrt[3]{\\frac{r}{4}}, \\) another expression of the same value of \\( x. \\)\n\nCorol. 4. When \\( r = 0, \\) \\( D = 0, \\) and from the equation\n\\( x^2 + Cx + D = 0, \\) we have \\( x = -C. \\)\n\nExample I.\n\nIf the equation \\( x^4 - 9x^2 + 4x + 12 = 0 \\) has equal roots, it is\nproposed to find them.\nequal Roots of an Equation by Division.\n\nHere \\( p = 0 \\), \\( q = -9 \\), \\( r = -4 \\), and \\( s = 12 \\); and\n\n\\[\nA = \\frac{12 \\times -4}{-8 \\times -9} = \\frac{-2}{3},\n\\]\n\n\\[\nB = \\frac{-16 \\times -12}{-8 \\times -9} = \\frac{-8}{3},\n\\]\n\n\\[\nC = \\frac{4 \\times -3 + 18}{4 \\times -2} = \\frac{-11}{4},\n\\]\n\n\\[\nD = \\frac{-4}{-8} = \\frac{3}{2},\n\\]\n\nand \\[ \\frac{D - B}{A - C} = \\frac{\\frac{3}{2} + \\frac{8}{3}}{\\frac{-2}{3} + \\frac{11}{4}} = \\frac{18 + 32}{-8 + 33} = \\frac{50}{25} = 2, \\]\n\nwhich being written for \\( x \\), the equation becomes \\( 16 - 36 + 8 + 12 = 0 \\); therefore 2 is one of the roots.\n\nThe same value of \\( x \\) may be discovered from either of the quadratic equations mentioned in corollary 1. The proper values of the co-efficients being written in the first of them, it becomes\n\n\\[\nx^2 - \\frac{2}{3} x - \\frac{8}{3} = 0,\n\\]\n\nwhere one value of \\( x \\) is \\[ \\frac{1 + \\sqrt{25}}{3} = 2. \\]\n\nThe other quadratic becomes \\( x^2 - \\frac{11}{4} x + \\frac{3}{2} = 0 \\), one of whose roots is \\[ \\frac{11 + \\sqrt{25}}{8} = 2. \\]\n\n**Example II.**\n\nIt being known that the equation \\( x^4 - x^3 - 7x^2 + 13x - 6 = 0 \\) has two equal roots, to find them.\n\nHere \\( p = 1 \\), \\( q = -7 \\), \\( r = -13 \\), and \\( s = -6 \\); and \\( A = \\frac{-142}{59} \\), \\( B = \\frac{83}{59} \\), \\( C = \\frac{-1158}{391} \\), \\( D = \\frac{767}{391} \\), \\( D - B = \\frac{12800}{23069} \\), \\( A - C = \\frac{12800}{23069} \\), and \\[ \\frac{D - B}{A - C} = \\frac{12800}{12800} = 1, \\] one of the roots sought.\nThe same value of \\( x \\) may be found from either of the two general quadratic equations given in corollary 1. From the first of them we get one value of \\( x = \\frac{71 - \\sqrt{144}}{59} = 1 \\). And from the other, one value \\( = \\frac{579 - \\sqrt{35344}}{391} \\), which is also \\( = 1 \\).\n\n**EXAMPLE III.**\n\nGiven the equation \\( x^4 - \\frac{1}{2}x + \\frac{3}{16} = 0 \\), in which two values of \\( x \\) are equal to each other, to find them.\n\nBy corollary 2, we have \\( x = \\frac{4 \\times 3}{16} - \\frac{3 \\times 1}{2} = \\frac{8}{16} = \\frac{1}{2} \\). By corol. 3, \\( x \\) is \\( = \\sqrt[3]{\\frac{1}{8}} = \\frac{1}{2} \\).\n\n**THEOREM III.**\n\nIf the surjolid equation \\( x^5 - px^4 + qx^3 - rx^2 + sx - t = 0 \\) has two roots equal to each other, and you make \\( A = \\frac{15r - 3pq}{4pp - 10q} \\), \\( B = \\frac{2pr - 2qs}{4pp - 10q} \\), \\( C = \\frac{25t - ps}{4pp - 10q} \\), \\( D = \\frac{5B - 3q}{5A + 4p} \\), \\( E = \\frac{5C + 2r}{5A + 4p} \\), \\( F = \\frac{s}{5A + 4p} \\), \\( G = \\frac{B - E}{A - D} \\), \\( H = \\frac{F + C}{A - D} \\), \\( I = \\frac{B - H}{A - G} \\), and \\( K = \\frac{C}{A - G} \\), then shall one of the equal values of \\( x \\) be \\( = \\frac{H - K}{I - G} \\).\n\nThe investigation of this theorem being altogether similar to that of the last, it is unnecessary to give it here.\n\nThe difference of equations being taken as in the investigation of theorem II, it will appear, that one of the equal roots may also be had from any one of the following five equations, of which sometimes one, sometimes another, will be the most eligible.\nequal Roots of an Equation by Division.\n\n1. \\(5x^4 - 4px^3 + 3qx^2 - 2rx + s = 0\\).\n2. \\(px^4 - 2qx^3 + 3rx^2 - 4sx + 5t = 0\\).\n3. \\(x^3 + Ax^2 + Bx + C = 0\\).\n4. \\(x^3 + Dx^2 + Ex - F = 0\\).\n5. \\(x^2 + Gx + H = 0\\).\n\nIt is obvious, that, when \\(p\\) vanishes, the work will be considerably shortened; and when both \\(p\\) and \\(q\\) are wanting, though the above formula fails, yet the equal root may be easily obtained from the equation \\(px^4 - 2qx^3 + 3rx^2 - 4sx + 5t = 0\\), which in that case becomes \\(3rx^2 - 4sx + 5t = 0\\). Whenever \\(s\\) is wanting, \\(F\\), in the second cubic above, will be \\(= 0\\), and consequently \\(x\\) may be found from the quadratic equation \\(x^2 + Dx + E = 0\\). But in any of these cases the equal root may be found by division. However, the operation probably will not, in general, be so short as extracting the root of the quadratic; I will therefore hasten to give an example or two of the use of the theorem.\n\n**Example I.**\n\nGiven \\(x^5 + x^3 - x^2 + 0.09433 = 0\\), to find \\(x\\), two values of it being equal to each other.\n\nHere \\(p = 0\\), \\(q = 1\\), \\(r = 1\\), \\(s = 0\\), \\(t = -0.09433\\), and we get\n\n\\[\n\\begin{align*}\nA &= -1.5 & F &= 0 \\\\\nB &= 0 & G &= -0.2231 \\\\\nC &= +0.2358 & H &= -0.1241 \\\\\nD &= +0.4 & I &= -0.0972 \\\\\nE &= -0.4238 & K &= -0.185 \\\\\n\\end{align*}\n\\]\n\nand \\(x = \\frac{H - K}{1 - G} = 0.48\\).\n\nThe proper values of the co-efficients being written in the five equations before mentioned, and some of them divided by the:\nMr. Hellins's Method of finding the co-efficient of the highest power of \\( x \\), we have these four equations, in each of which one value of \\( x \\) is one of the equal ones sought:\n\n\\[\n\\begin{align*}\nx^3 + 0.6x - 0.4 &= 0 \\\\\nx^3 - 1.5x^2 + 0.2358 &= 0 \\\\\nx^2 + 0.4x - 0.4238 &= 0 \\\\\nx^2 - 0.2231x - 0.1241 &= 0\n\\end{align*}\n\\]\n\nNow the most eligible equation is the quadratic \\( x^2 + 0.4x - 0.4238 = 0 \\), whose affirmative root is \\( \\sqrt{0.4638} - 0.2 = 0.4811 \\), agreeing with the value of \\( x \\) found above, but true to two places lower in the decimal.\n\n**Example II.**\n\nTo find the two equal values of \\( x \\) in the equation \\( 64x^5 - 20x^2 + 3 = 0 \\).\n\nThe given equation being divided by 64, we have \\( x^5 - 0.3125x^2 + 0.046875 = 0 \\); and then, from the first of the five equations given above, we get \\( 5x^4 - 0.625x = 0 \\), and \\( x = \\sqrt[3]{0.125} = 0.5 \\). But from the second of the equations just mentioned, we have \\( 0.9375x^2 - 0.234375 = 0 \\), or \\( x^2 = \\frac{0.234375}{0.9375} = 0.25 \\), and \\( x = \\sqrt{0.25} = 0.5 \\).\n\nFrom the foregoing few pages it is evident, that rules may be made for finding the equal roots of equations of more than five dimensions by division; but the operations by them will, in most cases, be long and tedious. It is obvious, however, that such equations may be depressed to any dimension the algebraist pleases.\n\nIt has indeed been supposed, that the number of equations that have equal roots is but small, and, consequently, that the chief\nchief use of the rules for finding their roots is to get limits and approximations to the roots of equations in general. That use, it must be allowed, were it the only one, is sufficient to pay for investigating them. But if the equations that have equal roots should hereafter be found not so few as has been generally received, then the use of the above theorems will become more extensive.\n\nI beg leave to add, that this short essay is but a small part of a work, in which, if I should ever have leisure to put a finishing hand to it, something more on this subject may very probably appear. In the mean while, I hope, this little piece will be candidly received by those who have more leisure and better abilities for studies of this kind.\n\nConstantine,\nFebruary 9, 1732.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106470.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 10,
+    "total-input-tokens": 15956,
+    "total-output-tokens": 5023,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1136,
+        2
+      ],
+      [
+        1136,
+        2589,
+        3
+      ],
+      [
+        2589,
+        4388,
+        4
+      ],
+      [
+        4388,
+        5689,
+        5
+      ],
+      [
+        5689,
+        7179,
+        6
+      ],
+      [
+        7179,
+        8728,
+        7
+      ],
+      [
+        8728,
+        10208,
+        8
+      ],
+      [
+        10208,
+        11715,
+        9
+      ],
+      [
+        11715,
+        12490,
+        10
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106470",
+    "title": "A New Method of Finding the Equal Roots of an Equation, by Division. By the Rev. John Hellins, Curate of Constantine, in Cornwall; Communicated by Nevil Maskelyne, D. D. F. R. S. and Astronomer Royal",
+    "authors": "John Hellins, Nevil Maskelyne",
+    "year": 1782,
+    "volume": "72",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 10,
+    "jstor_url": "https://www.jstor.org/stable/106470"
+  }
+}

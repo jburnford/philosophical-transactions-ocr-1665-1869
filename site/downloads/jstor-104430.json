@@ -1,0 +1,59 @@
+{
+  "id": "ca0999bf3bef8e87b6a2ac04e60150dc1227384f",
+  "text": "from our tables, that $A$ must be 35 years of age; therefore find, by the twenty-third proposition, the value of an annuity of a life for 35 to continue for a limited time of 31 years: let that value be sub-\nducted from the value of an annuity certain, to con-\ntinue 31 years; and the remainder will be the value\nof the reversion.\n\nXI. The Appearance of a fiery Meteor, as seen\nby Mr. Cradock, communicated to the Royal\nSociety by Mr. Henry Baker, F. R. S.\n\nRead June 7. 1744.\n\nTHE Head and Body emitted an ex-\ntremely lucid and white Flame.\nThe Tail appeared of a transparent Blue, like the\nFlame of Sulphur.\n\nThis Phenomenon was seen on Sunday, May 27.\n1744. at 11 Minutes after 11 o’Clock at Night: Its\nDirection from S. E. to N. W. or thereabouts; its\nHeight seemingly not half a Mile.\n\nIt was seen, as here described, from the Terrace\nin Somerset-Gardens, by me,\n\nZach. Cradock,\nOf Somerset-House.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104430.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 328,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        902,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104430",
+    "title": "The Appearance of a Fiery Meteor, as Seen by Mr. Cradock, Communicated to the Royal Society by Mr. Henry Baker, F. R. S.",
+    "authors": "Henry Baker, Zach. Cradock",
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104430"
+  }
+}

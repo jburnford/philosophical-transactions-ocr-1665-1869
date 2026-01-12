@@ -1,0 +1,209 @@
+{
+  "id": "9ca120bf0ddd3f8674817ec19ac7815500e5f878",
+  "text": "XIV. A Seventh Memoir on Quantics. By Arthur Cayley, Esq., F.R.S.\n\nReceived February 28,—Read March 14, 1861.\n\nThe present memoir relates chiefly to the theory of ternary cubics. Since the date of my Third Memoir on Quantics, M. Aronhold has published the continuation of his researches on ternary cubics, in the memoir \"Theorie der homogenen Functionen dritten Grades von drei Veränderlichen,\" Crelle, t. lv. pp. 97–191 (1858). He there considers two derived contravariants, linear functions of the fundamental ones, and which occupy therein the position which the fundamental contravariants PU, QU do in my Third Memoir; in the notation of the present memoir these derived contravariants are\n\n\\[ YU = 3T.PU - 4S.QU, \\]\n\\[ ZU = -48S^2.PU + T.QU; \\]\n\nand for the canonical form \\( x^3 + y^3 + z^3 + 6lxyz \\), they acquire respectively the factor \\((1+8l^3)^2\\), viz. in this case\n\n\\[ YU = (1+8l^3)^2 \\{ l(\\xi^3 + \\eta^3 + \\zeta^3) - 3\\xi\\eta\\zeta \\} \\]\n\\[ ZU = (1+8l^3)^2 \\{(1+2l^3)(\\xi^3 + \\eta^3 + \\zeta^3) + 18l^3\\xi\\eta\\zeta \\}. \\]\n\nThe derived contravariants have with the covariants U, HU, even a more intimate connexion than have the contravariants PU, QU; and the advantage of the employment of YU, ZU fully appears by M. Aronhold's memoir.\n\nBut the conclusion is, not that the contravariants PU, QU are to be rejected, but that the system is to be completed by the addition thereto of two derived covariants, linear functions of U, HU; these derived covariants, suggested to me by M. Aronhold's memoir, are in the present memoir called CU, DU; their values are\n\n\\[ CU = -T.U + 24S.HU \\]\n\\[ DU = 8S^2.U - 3T.HU; \\]\n\nand for the canonical form \\( x^3 + y^3 + z^3 + 6lxyz \\), they acquire respectively, not indeed \\((1+8l^3)^2\\), but the simple power \\((1+8l^3)\\), as a factor, viz. in this case\n\n\\[ CU = (1+8l^3) \\{ (-1+4l^3)(x^3+y^3+z^3) + 18lxyz \\} \\]\n\\[ DU = (1+8l^3) \\{ l^3(5+4l^3)(x^3+y^3+z^3) + 3(1-10l^3)xyz \\}; \\]\n\nit was in fact by means of this condition as to the factor \\((1+8l^3)\\), that the foregoing expressions for CU, DU were obtained*.\n\n* M. Aronhold, in a letter dated Berlin, 17 June 1861, has pointed out to me that the covariants CU, DU are in his notation \\( P_{5f}, P_{7f} \\), and that they belong to the forms called Conjugate Forms, § 27 of his memoir. But the explicit development of the properties of these covariants is not on this account the less interesting. Added 20 Sept. 1861.—A. C.\nThe formulæ of my Third Memoir and those of M. Aronhold are by this means brought into harmony and made parts of a whole; instead of the two intermediates\n\n\\[ \\alpha U + 6\\beta HU, \\quad 6\\alpha PU + \\beta QU, \\]\n\nin Tables 68 and 69 of my Third Memoir, or of the intermediates\n\n\\[ \\alpha U + 6\\beta HU, \\quad -2\\alpha YU + 2\\beta ZU, \\]\n\nof M. Aronhold's theory, we have the four intermediates\n\n\\[ \\alpha U + 6\\beta HU, \\quad -2\\alpha YU + 2\\beta ZU, \\quad 2\\alpha CU - 2\\beta DU, \\quad 6\\alpha PU + \\beta QU, \\]\n\nin Tables 74, 75, 76, and 77 of the present memoir. These four Tables embrace the former results, and the new ones which relate to the covariants \\( CU, DU \\); and they are what is most important in the present memoir. I have, however, excluded from the Tables, and I do not in the memoir consider (otherwise than incidentally) the covariant of the sixth order \\( \\Theta U \\), or the contravariant (reciprocal) \\( FU \\).\n\nI have given in the memoir a comparison of my notation with that of M. Aronhold. A short part of the memoir relates to the binary cubic and the binary quartic, viz. each of these quantics has a covariant of its own order, forming with it an intermediate \\( \\alpha U + \\beta W \\), the covariants whereof contain quantics in \\( (\\alpha, \\beta) \\), the coefficients of which are invariants of the original quintic. The formulæ which relate to these cases are in fact given in my Fifth Memoir, but they are reproduced here in order to show the relations between the quantics in \\( (\\alpha, \\beta) \\) contained in the formulæ. As regards the binary quartic, these results are required for the discussion of the like question in regard to the ternary cubic, viz. that of finding the relations between the different quantics in \\( (\\alpha, \\beta) \\) contained in the formulæ relating to the ternary cubic. Some of these relations have been obtained by M. Hermite in the memoir \"Sur les formes cubiques à trois indéterminées,\" (Liouville, t. iii. pp. 37–40 (1858), and in that \"Sur la Résolution des équations du quatrième degré,\" Comptes Rendus, xlvi. p. 715 (1858), and by M. Aronhold in his memoir already referred to; and in particular I reproduce and demonstrate some of the results in the last-mentioned memoir of M. Hermite. But the relations in question are in the present memoir exhibited in a more complete and systematic form.\n\nThe paragraphs and Tables of the present memoir are numbered consecutively with those of my former memoirs on Quantics.\n\n231. For the binary cubic \\( (a, b, c, d)(x, y)^3 \\), if \\( U \\) be the cubic itself, \\( HU \\) the Hessian, \\( \\Phi U \\) the cubicovariant, and \\( \\Box \\) the discriminant (see Fifth Memoir, Nos. 115, 118), then\n\n\\[ \\text{Covariant and other Tables, No. 71.} \\]\n\n\\[ H(\\alpha U + \\beta \\Phi U) = (\\alpha^2 - \\beta^2 \\Box)HU, \\]\n\n\\[ \\Phi(\\alpha U + \\beta \\Phi U) = -\\frac{1}{2}\\partial_\\beta(\\alpha^2 - \\beta^2 \\Box).U \\]\n\n\\[ + \\frac{1}{2}\\partial_\\alpha(\\alpha^2 - \\beta^2 \\Box).\\Phi U, \\]\n\n\\[ \\Box(\\alpha U + \\beta \\Phi U) = (\\alpha^2 - \\beta^2 \\Box)^2 \\Box, \\]\n\nso that the quantics in \\( (\\alpha, \\beta) \\) all of them depend on \\( \\alpha^2 - \\beta^2 \\Box \\).\n232. For the binary quartic \\((a, b, c, d, e)(x, y)^4\\), if \\(U\\) be the quartic itself, \\(HU\\) the Hessian, \\(\\Phi U\\) the cubic covariant, \\(I, J\\), the quadrinvariant and the cubinvariant, and \\(\\Box(I^3 - 27J^2)\\) the discriminant (see Fifth Memoir, Nos. 128, 134), then\n\n\\[\n\\begin{align*}\n\\Phi(\\alpha U + 6\\beta HU) &= (1, 0, -9I, -54J)(\\alpha, \\beta)^3 \\Phi U, \\\\\nH(\\alpha U + 6\\beta HU) &= -\\frac{1}{18} \\partial_\\beta(1, 0, -9I, -54J)(\\alpha, \\beta)^3 \\cdot U \\\\\n&+ \\frac{1}{3} \\partial_\\alpha(1, 0, -9I, -54J)(\\alpha, \\beta)^3 \\cdot HU, \\\\\nI(\\alpha U + 6\\beta HU) &= (I, 18J, 3I^2)(\\alpha, \\beta)^2, \\\\\nJ(\\alpha U + 6\\beta HU) &= (J, I^2, 9IJ, -I^3 + 54J^2)(\\alpha, \\beta)^3, \\\\\n\\Box(\\alpha U + 6\\beta HU) &= *(1, 0, -18I, 108J, 81I^2, 972IJ, 2916J^2)(\\alpha, \\beta)^6 \\Box \\\\\n&= [(1, 0, -9I, -54J)(\\alpha, \\beta)^3]^2 \\Box.\n\\end{align*}\n\\]\n\n233. Writing for the moment\n\n\\[G = (1, 0, -9I, -54J)(\\alpha, \\beta)^3,\\]\n\nthen the Hessian, cubic covariant, and discriminant of this cubic function of \\((\\alpha, \\beta)\\) are respectively\n\n\\[HG = -3(I, 18J, 3I^2)(\\alpha, \\beta)^2,\\]\n\\[\\Phi G = 54(J, I^2, 9IJ, -I^3 + 54J^2)(\\alpha, \\beta)^3,\\]\n\\[\\Box G = -108 \\Box;\\]\n\nso that the covariants of the intermediate \\(\\alpha U + 6\\beta HU\\) are all of them expressible by means of the cubic function \\(G\\).\n\nIt may be noticed that \\(G\\) is what the left-hand side of the equation\n\n\\[4(HU)^3 - 4I \\cdot HU \\cdot U^2 + JU^3 = -(\\Phi U)^2\\]\n\n(see Fifth Memoir, No. 128) becomes on writing therein \\(\\alpha, -6\\beta\\), for \\(U, HU\\) respectively, and throwing out the factor 4.\n\n234. I take the opportunity of remarking with respect to a binary quartic \\(U = (a, b, c, d)(x, y)^4\\), that the Hessian of the cubic covariant, to fix the numerical factor, say \\(-\\frac{1}{5}(\\partial_x^2 \\Phi U \\cdot \\partial_y^2 \\Phi U - (\\partial_x \\partial_y \\Phi U)^2)\\), is\n\n\\[= I^2U^2 - 36J \\cdot U \\cdot HU + 12I(HU)^2,\\]\n\nwhich is\n\n\\[(IU - \\frac{18J}{I} HU)^2 + \\frac{12}{I^2}(I^3 - 27J^2)(HU)^2;\\]\n\nor if \\(I^3 - 27J^2 = 0\\), that is if the quartic has a pair of equal factors, the Hessian of the cubic covariant is a perfect square,\n\n235. Coming now to the ternary cubic \\(U = (a, b, c, f, g, h, i, j, k)(x, y, z)^3\\), I give in the first place the following comparison of my notation with that of M. Aronhold.\n\n* The coefficient 2916J^3 is in the Fifth Memoir erroneously given as \\(-2916J^2\\).\nwhere the notations YU, ZU (to correspond to M. Aronhold's P_f, Q_f) and the notations CU, DU are first employed in the present memoir. I remark in regard to P_f (= -2YU), where, as already mentioned,\n\n\\[ YU = (1 + 8l^3)\\{l(\\xi^3 + \\eta^3 + \\zeta^3) - 3\\xi\\eta\\zeta\\}, \\]\n\nthat in my Memoir on Curves of the Third Order*, I was led incidentally to the curve\n\n\\[ l(\\xi^3 + \\eta^3 + \\zeta^3) - 3\\xi\\eta\\zeta = 0, \\]\n\nand that I there gave the equation\n\n\\[ 3T.PU - 4S.QU = (1 + 8l^3)\\{l(\\xi^3 + \\eta^3 + \\zeta^3) - 3\\xi\\eta\\zeta\\}. \\]\n\nBut the curve\n\n\\[ (1 + 2l^3)(\\xi^3 + \\eta^3 + \\zeta^3) + 18l^2\\xi\\eta\\zeta = 0, \\]\n\nwhich corresponds to (Q_f = 2ZU), does not occur in that memoir.\n\n236. I remark, further, in regard to M. Aronhold's Θ, H, that these are what he calls \"Zwischenformen,\" viz. they are covariants of the cubic and of the adjoint linear form \\( \\xi x + \\eta y + \\zeta z \\), or as they might be termed Contracovariants. For the canonical form\n\n\\[ U = x^3 + y^3 + z^3 + 6lxyz, \\]\n\nthe value of \\( \\frac{1}{2}\\Theta \\) is\n\n\\[ (yz - l^2a^2, zx - l^2y^2, xy - l^2z^2, l^2yz - lx^2, l^2zx - ly^2, l^2xy - lz^2)(\\xi, \\eta, \\zeta)^2, \\]\n\nwhich is a form which occurs incidentally in my memoir last referred to (see p. 427). The value of H in the same case is\n\n\\[ (-2l(1 + 2l^3)x^2 - 6lyz, \\ldots, -(1 + 4l^3)x^2 + 2l(1 + 2l^3)y^2, \\ldots, (\\xi, \\eta, \\zeta)^2, \\]\n\nwhich does not occur in that memoir. In my Third Memoir on Quantics I purposely abstained from the consideration of any such forms.\n\n237. My covariants ΘU and Θ/U involved unsymmetrically the cubic and its Hessian,\n\n* Philosophical Transactions, t. cxlvii. (1857) see p. 427.\nand it did not occur to me how a similar covariant, such as M. Aronhold's $\\psi$, which involves the two functions symmetrically, was to be formed. Let $(A, B, C)$ be the first derived functions, $(a, b, c, f, g, h)$ the second derived functions of the cubic $U$, and $(A', B', C')$ the first derived functions, $(a', b', c', f', g', h')$ the second derived functions of the Hessian $HU$, then disregarding numerical factors, we have\n\n$$\\Theta U = (bc - f^2, \\ldots gh - af', \\ldots \\chi(A', B', C')^2),$$\n\n$$\\Theta_i U = (b'c' - f'^2, \\ldots g'h' - a'f', \\ldots \\chi(A, B, C)^2),$$\n\nand\n\n$$\\psi = (bc + b'c - 2ff', \\ldots gh' + g'h - af' - a'f', \\ldots \\chi(A, B, C)(A', B', C'));$$\n\nand considering $U = 0$ as the equation of a curve of the third order, the equations $\\Theta U = 0$, $\\Theta_i U = 0$, $\\psi = 0$ have the following significations, viz. $\\Theta U = 0$ is the locus of a point, such that its second or line polar with respect to the Hessian touches its first or conic polar with respect to the cubic; $\\Theta_i U$ is the locus of a point such that its second or line polar with respect to the cubic touches its first or conic polar with respect to the Hessian; and $\\psi = 0$ is the locus of a point such that its second or line polar with respect to the cubic, and its second or line polar with respect to the Hessian are reciprocals (that is, each passes through the pole of the other of them) with respect to the conic which is the envelope of a line cutting the first or conic polar of the point with respect to the cubic, and the first or conic polar of the point with respect to the Hessian in two pairs of points which are harmonically related to each other: such being in fact the immediate interpretation of the analytical formula. But this in passing.\n\n238. The formulæ (Tables 68 and 69 of my Third Memoir) for the discriminants of the intermediates $\\alpha U + 6\\beta HU$ and $6\\alpha PU + \\beta QU$ respectively are\n\n$$R(\\alpha U + 6\\beta HU) = [(1, 0, -24S, -8T, -48S^2, \\chi(\\alpha, \\beta)^4)]^3 R,$$\n\n$$R(6\\alpha PU + \\beta QU) = [(48S, 8T, -96S^2, -24TS, -T^2 - 16S^3 \\chi(\\alpha, \\beta)^4)]^3 R.$$\n\nIn M. Hermite's paper in the 'Comptes Rendus,' already referred to, there are given between these quantics in $(\\alpha, \\beta)$ certain relations which (although less simple than the relations that will afterwards be obtained) I now proceed to investigate. Putting in the first formula $\\alpha \\div \\beta = p$, and in the second formula $\\alpha \\div \\beta = \\theta$, we have\n\n$$R(pU + 6HU) = 0, \\text{if } (1, 0, -24S, -8T, -48S^2, \\chi(p, 1)^4) = 0,$$\n\n$$R(6\\theta PU + QU) = 0, \\text{if } (48S, 8T, -96S^2, -24TS, -T^2 - 16S^3 \\chi(\\theta, 1)^4) = 0,$$\n\nwhich equations in $p, \\theta$, are about to be considered in place of the quantics from which they respectively arise.\n\n239. It is convenient to write*\n\n$$A = 4S,$$\n\n$$B = \\sqrt[3]{T^2 - 64S^3}$$\n\n* A is (Aronhold's and) Hermite's S, B is Hermite's $S_1$, and $p, q, \\theta, \\Lambda$ are Hermite's $\\delta, \\delta_1, \\Delta, d$: there is a slight inaccuracy in three of his formulæ, which should be\n\n$$\\Delta = -\\frac{1}{2} \\left( T + \\frac{S^2}{\\delta_1} \\right), \\quad \\delta_1 = \\frac{24S^2}{f'}, \\quad \\delta = \\frac{24S^2}{f'_1},$$\n\ncorresponding to formulæ in the present memoir.\n\nMDCCCLXI.\n(so that $T^2 = A^3 + B^3$ and, for the canonical form,\n\\[ A = -4l + 4l^3, \\quad B = 1 + 8l^3 \\).\n\nMaking this change, and joining to the equation in $p$ that derived from it by writing $q$ for $p$, and interchanging $A$, $B$, we have the three equations\n\\[\n(1, \\quad 0, \\quad -6A, \\quad -8T, \\quad -3A^2) \\quad (p, 1)^4 = 0,\n\\]\n\\[\n(1, \\quad 0, \\quad -6B, \\quad -8T, \\quad -3B^2) \\quad (q, 1)^4 = 0,\n\\]\n\\[\n(12A, \\quad 8T, \\quad -6A^2, \\quad -6TA, \\quad -T^2 - \\frac{1}{4}A^3) \\quad (\\theta, 1)^4 = 0.\n\\]\n\n240. The signification of the equation in $q$ is as follows, viz. if the quantic\n\\[ U = (*x, y, z)^3 \\]\nis transformed into the canonical form\n\\[ X^3 + Y^3 + Z^3 + 6XYZ \\]\nby means of the linear equations\n\\[ (x, y, z) = (\\Lambda X, Y, Z), \\]\nwhere $\\Lambda$ is a matrix, then using the same letter $\\Lambda$ to represent the determinant formed out of this matrix, or determinant of substitution, we have\n\\[ q = \\frac{3}{\\Lambda^2}, \\]\nso that the equation in $q$ is one that presents itself in the question of the reduction of the cubic to its canonical form.\n\nIn fact the linear transformation gives\n\\[ S\\Lambda^4 = -l + l^3, \\]\n\\[ T\\Lambda^6 = 1 - 20l^3 - 8l^6, \\]\nand thence\n\\[ (T^2 - 64S^3)\\Lambda^2 = (1 + 8l^3)^3, \\]\nwhich, writing $B^3$ in the place of $T^2 - 64S^3$, becomes\n\\[ B^3\\Lambda^2 = (1 + 8l^3)^3, \\text{ or } \\]\n\\[ B\\Lambda^4 = 1 + 8l^3, \\text{ or } 8l^3 = B\\Lambda^4 - 1, \\]\nwhence also\n\\[ 8T\\Lambda^6 = 8 - 20(B\\Lambda^4 - 1) - (B\\Lambda^4 - 1)^2 \\]\n\\[ = 27 - 18B\\Lambda^4 - B^2\\Lambda^6, \\]\nor, as this may be written,\n\\[ \\frac{81}{\\Lambda^5} - \\frac{54B}{\\Lambda^4} - \\frac{24T}{\\Lambda^2} - 3B^2 = 0, \\]\nwhich, putting therein $q = \\frac{3}{\\Lambda^2}$, becomes\n\\[ (1, \\quad 0, \\quad -6B, \\quad -8T, \\quad -3B^2) \\quad (q, 1)^4 = 0, \\]\nthe above-mentioned equation in $q$.\n\n241. The relation between $\\theta$ and $q$ is\n\\[ \\theta = -\\frac{1}{2}T\\Lambda + \\frac{B^2}{2Aq}, \\]\nas may be verified without difficulty. That between $\\theta$ and $p$ is\n\n$$\\theta = \\frac{1}{4} \\left( p + \\frac{A}{p} \\right),$$\n\nas appears by the identical equation\n\n$$(12A, 8T, -6A^2, -6TA, -T^2 - \\frac{1}{4} A^3 \\chi \\frac{1}{4}(p + \\frac{A}{p}), 1)^4$$\n\n$$= \\frac{1}{64p^4} (3A, 8T, -12A^2, -72TA, -46A^3 - 64T^2, -72TA^2, -12A^4, 8TA^3, 3A^3 \\chi (p, 1)^8$$\n\n$$= \\frac{1}{64p^4} (1, 0, -6A, -8T, -3A^2 \\chi (p, 1)^4). (3A, 8T, 6A^2, 0, -A^3 \\chi (p, 1)^4),$$\n\nwhere the second factor of the product on the right-hand side is\n\n$$- \\frac{p^4}{A} (1, 0, -6A' - 8T, -3A^2 \\chi \\frac{A}{p}, 1)^4.$$\n\nThe relation between $p$ and $q$ is then at once found to be\n\n$$q = \\frac{2B^2}{A} \\frac{p + \\frac{A}{p} + \\frac{2T}{A}}{p + \\frac{A}{p} + \\frac{2T}{A}},$$\n\nor (since $p$, $q$ and $A$, $B$ may be simultaneously interchanged)\n\n$$p = \\frac{2A^2}{B} \\frac{q + \\frac{B}{q} + \\frac{2T}{B}}{q + \\frac{B}{q} + \\frac{2T}{B}}.$$\n\n242. Let the equations in $p$, $q$ be represented by $\\varphi p = 0$, $\\psi q = 0$ respectively; then we have\n\n$$\\varphi p = p^4 - 6Ap^2 - 8p - 3A^2,$$\n\nand therefore\n\n$$\\frac{1}{4} \\varphi' p = p^3 - 3Ap - 2T,$$\n\nwhence\n\n$$\\frac{1}{4} p \\varphi' p = p^4 - 3Ap^2 - 2Tp$$\n\n$$= 3Ap^3 + 6Tp + 3A^2,$$\n\nand therefore\n\n$$q = \\frac{2B^2 p}{12p \\varphi' p} = \\frac{24B^2}{\\varphi' p},$$\n\nwith a like formula for $p$, that is we have\n\n$$q = \\frac{24B^2}{\\varphi' p}, p = \\frac{24A^2}{\\psi' q},$$\n\nwhich with the equation\n\n$$\\theta = \\frac{1}{4} \\left( p + \\frac{A}{p} \\right),$$\n\nare the system of equations connecting $\\theta$, $p$, $q$.\n\n243. As already remarked, we have to consider the two derived covariants,\n\n$$CU = -T.U + 24S.HU,$$\n\n$$DU = 8S^2.U - 3T.HU,$$\n\n$$2q2$$\nand the two derived contravariants,\n\n\\[ YU = 3T \\cdot PU - 4S \\cdot QU, \\]\n\\[ ZU = -48S^2 \\cdot PU + T \\cdot QU, \\]\n\nwhich for the canonical form \\( x^3 + y^3 + z^3 + 6xyz \\) are as follows:\n\nTable No. 70 (addition to).\n\n\\[\nCU = (1 + 8l^3) \\left[ (-1 + 4l^3)(x^3 + y^3 + z^3) + 18lxyz \\right],\n\\]\n\\[\nDU = (1 + 8l^3) \\left[ l^2 (5 + 4l^3)(x^3 + y^3 + z^3) + 3(1 - 10l^3)xyz \\right],\n\\]\n\\[\nYU = (1 + 8l^3)^2 \\left[ l(\\xi^3 + \\eta^3 + \\zeta^3) - 3\\xi\\eta\\zeta \\right],\n\\]\n\\[\nZU = (1 + 8l^3)^2 \\left[ (1 + 2l^3)(\\xi^3 + \\eta^3 + \\zeta^3) + 18l^2\\xi\\eta\\zeta \\right].\n\\]\n\n244. We have, conversely,\n\n\\[ 3R \\cdot U = 3T \\cdot CU + 24S \\cdot DU, \\]\n\\[ 3R \\cdot HU = 8S^2 \\cdot CU + T \\cdot DU, \\]\n\nand\n\n\\[ -3R \\cdot PU = T \\cdot YU + 4S \\cdot QU, \\]\n\\[ -3R \\cdot QU = 48S^2 \\cdot YU + 3T \\cdot PU, \\]\n\nand also the following formulæ, viz. if\n\n\\[ 2\\alpha CU - 2\\beta DU = \\alpha' U + 6\\beta' HU; \\]\n\nthen\n\n\\[ \\alpha' = -2T\\alpha - 16S^2\\beta, \\]\n\\[ \\beta' = 8S\\alpha + T\\beta, \\]\n\nwhich give, conversely,\n\n\\[ \\alpha = \\frac{1}{2R} \\left( T\\alpha' + 16S^2\\beta' \\right), \\]\n\\[ \\beta = \\frac{1}{2R} \\left( -8S\\alpha' - 2T\\beta' \\right); \\]\n\nand moreover, if\n\n\\[ -2\\alpha YU + 2\\beta ZU = 6\\alpha' PU + \\beta' QU, \\]\n\nthen\n\n\\[ \\alpha' = -(T\\alpha + 16S^2\\beta), \\]\n\\[ \\beta' = -(-8S\\alpha - 2T\\beta), \\]\n\nwhich give, conversely,\n\n\\[ \\alpha = -\\frac{1}{2R}(-2T\\alpha' - 16S^2\\beta'), \\]\n\\[ \\beta = -\\frac{1}{2R}(8S\\alpha' + T\\beta'); \\]\n\nso that the relation between \\((\\alpha, \\beta)\\) and \\((\\alpha', \\beta')\\) in the present case is similar to that between \\((\\alpha', \\beta')\\) and \\((\\alpha, \\beta)\\) in the former case. It may be noticed that in all these systems of linear equations, the determinant of transformation is a multiple of \\(64S^3 - T^2 (= R)\\).\n245. It will be convenient, before giving the Tables for the covariants of \n\\[ \\alpha U + 6\\beta HU, \\quad 2\\alpha CU - 2\\beta DU, \\quad 6\\alpha PU + \\beta QU, \\quad 2\\alpha YU - 2\\beta ZU, \\]\nwhich replace Tables 68 and 69 of my Third Memoir, to give the following separate Table of the quantics in \\((\\alpha, \\beta)\\) which enter into the expressions of the invariants in Tables 68 and 69, and in these new Tables.\n\nTable No. 73.\n\n\\[\n(1, 0, -24S, -8T, -48S^2(\\alpha, \\beta)^4; \\\\\n(S, T, 24S^2, 4TS, T^2 - 48S^3(\\alpha, \\beta)^4; \\\\\n(T, 96S^2, 60TS, 20T^2, 240TS^2, -48T^3S + 4608S^4, -8T^3 + 576TS^3(\\alpha, \\beta)^6.\n\\]\n\n\\[\n(48S, 8T, -96S^2, -24TS, -T^2 - 16S^3(\\alpha, \\beta)^4; \\\\\n\\begin{cases}\nT^2 + 192S^3, \\\\\n128TS^2, \\\\\n18T^3S + 384S^4, \\\\\nT^3 + 64TS^3, \\\\\n5T^3S^2 - 64S^5,\n\\end{cases} (\\alpha, \\beta)^4;\n\\]\n\n\\[\n-8T^3 + 4608TS^3, \\\\\n1920T^3S^2 + 73728S^5, \\\\\n360T^3S + 38400TS^4, \\\\\n20T^4 + 8960T^3S^3, \\\\\n840T^3S^2 + 7680TS^5, \\\\\n36T^4S + 384T^3S^4 + 24576S^7, \\\\\n1T^5 - 40T^3S^2 + 2560TS^6,\n\\]\n\nwhere the first part of the Table contains the quantics in \\((\\alpha, \\beta)\\) which relate to the forms \\(\\alpha U + 6\\beta HU\\) and \\(2\\alpha YU - 2\\beta ZU\\), and the second part of the Table contains the quantics in \\((\\alpha, \\beta)\\) which relate to the forms \\(6\\alpha PU + \\beta QU\\) and \\(-2\\alpha CU + 2\\beta DU\\).\n\nThe quantics in \\((\\alpha, \\beta)\\) contained in the foregoing Table are in the sequel indicated by means of their leading coefficients; as thus,\n\n\\[\n(1, 0, -24S, ..(\\alpha, \\beta)^4; \\quad (S, T, ..(\\alpha, \\beta)^4; \\quad (T^2 + 192S^3, ..(\\alpha, \\beta)^4; \\quad \\text{&c.}\n\\]\n\n246. It is easy to see what transformations must be performed on the results in Tables 68 and 69, in order to obtain the new Tables. Thus, in the formation of Table 74, Table 68 gives \\(\\alpha U + 6\\beta HU\\) and \\(H(\\alpha U + 6\\beta HU)\\), and from these \\(C(\\alpha U + 6\\beta HU)\\), \\(D(\\alpha U + 6\\beta HU)\\) have to be found: the same Table gives also \\(P(\\alpha U + 6\\beta HU)\\), \\(Q(\\alpha U + 6\\beta HU)\\), but the expressions of these quantities \\(YU, ZU\\) have to be intro-\nduced in the place of PU, QU; and from the expressions so transformed are deduced also the expressions for \\( Y(\\alpha U + 6\\beta HU), Z(\\alpha U + 6\\beta HU) \\). Table 75 is to be deduced from Table 69 by writing therein \\((\\alpha', \\beta')\\) for \\((\\alpha, \\beta)\\), and then putting \\(6\\alpha'PU + \\beta'QU = 2\\alpha YU - 2\\beta ZU\\), which, as is seen above, gives \\(\\alpha'\\), \\(\\beta'\\) as functions of \\(\\alpha\\), \\(\\beta\\) and of the invariants S and T; but in some of the formulæ YU, ZU, have to be introduced in the place of PU, QU. And so for the Tables 76 and 77. The actual effectuation of the transformations would, it is almost needless to remark, be very laborious, but the forms of the results are easily foreseen, and the results can then be verified by means of one or two coefficients only. The new Tables are\n\nTable No. 74.\n\n\\[\nR(\\alpha U + 6\\beta HU) = R \\times [(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^3,\n\\]\n\n\\[\nS(\\alpha U + 6\\beta HU) = (S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4),\n\\]\n\n\\[\nT(\\alpha U + 6\\beta HU) = [(T, 96S^2, \\ldots \\mathcal{F}(\\alpha, \\beta)]^6.\n\\]\n\n\\[\n(\\alpha U + 6\\beta HU) = \\alpha U + 6\\beta HU,\n\\]\n\n\\[\nH(\\alpha U + 6\\beta HU) = -\\frac{1}{24} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot U \\\\\n-6\\partial_\\alpha(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot HU,\n\\end{array} \\right.\n\\]\n\n\\[\nC(\\alpha U + 6\\beta HU) = (1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot U \\\\\n-6\\partial_\\alpha(S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot HU,\n\\end{array} \\right.\n\\]\n\n\\[\nD(\\alpha U + 6\\beta HU) = \\frac{1}{12}(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(T, 96S^2, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot U \\\\\n-6\\partial_\\alpha(T, 96S^2, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot HU,\n\\end{array} \\right.\n\\]\n\n\\[\nP(\\alpha U + 6\\beta HU) = -\\frac{1}{3R} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot YU \\\\\n+\\partial_\\alpha(S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot ZU,\n\\end{array} \\right.\n\\]\n\n\\[\nQ(\\alpha U + 6\\beta HU) = -\\frac{1}{6R} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(T, 96S^2, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot YU \\\\\n+\\partial_\\alpha(T, 96S^2, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot ZU,\n\\end{array} \\right.\n\\]\n\n\\[\nY(\\alpha U + 6\\beta HU) = [(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^2 \\times (-2\\alpha YU + 2\\beta ZU),\n\\]\n\n\\[\nZ(\\alpha U + 6\\beta HU) = \\frac{1}{4}[(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^2 \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot YU \\\\\n+\\partial_\\alpha(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot ZU.\n\\end{array} \\right.\n\\]\nNo. 75.\n\n\\[ R(-2\\alpha YU + 2\\beta ZU) = -4096R^8 \\times [(S, T, \\ldots \\chi(\\alpha, \\beta)^4]^3; \\]\n\n\\[ S(-2\\alpha YU + 2\\beta ZU) = -R^8 \\times (1, 0, -24S, \\ldots \\chi(\\alpha, \\beta)^4; \\]\n\n\\[ T(-2\\alpha YU + 2\\beta ZU) = -8R^4 \\times (T, 96S^2, \\ldots \\chi(\\alpha, \\beta)^6). \\]\n\n\\[ -2\\alpha YU + 2\\beta ZU = -2\\alpha YU + 2\\beta ZU, \\]\n\n\\[ H(-2\\alpha YU + 2\\beta ZU) = -\\frac{2}{3} R \\times \\left[ \\begin{array}{c} \\partial_\\beta(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot YU \\\\ + \\partial_\\alpha(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot ZU, \\end{array} \\right] \\]\n\n\\[ C(-2\\alpha YU + 2\\beta ZU) = -16 R^4(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\times \\left[ \\begin{array}{c} \\partial_\\beta(1, 0, -24S, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot YU \\\\ + \\partial_\\alpha(1, 0, -24S, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot ZU, \\end{array} \\right] \\]\n\n\\[ D(-2\\alpha YU + 2\\beta ZU) = -\\frac{3}{3} R^5(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\times \\left[ \\begin{array}{c} \\partial_\\beta(T, 96S^2, \\ldots \\chi(\\alpha, \\beta)^6 \\cdot ZU \\\\ + \\partial_\\alpha(T, 96S^2, \\ldots \\chi(\\alpha, \\beta)^6 \\cdot ZU, \\end{array} \\right] \\]\n\n\\[ P(-2\\alpha YU + 2\\beta ZU) = \\frac{1}{6} R^3 \\times \\left[ \\begin{array}{c} \\partial_\\beta(1, 0, -24S, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot U \\\\ -6\\partial_\\alpha(1, 0, -24S, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot HU, \\end{array} \\right] \\]\n\n\\[ Q(-2\\alpha YU + 2\\beta ZU) = -\\frac{2}{3} R^3 \\times \\left[ \\begin{array}{c} \\partial_\\beta(T, 96S^2, \\ldots \\chi(\\alpha, \\beta)^6 \\cdot U \\\\ -6\\partial_\\alpha(T, 96S^2, \\ldots \\chi(\\alpha, \\beta)^6 \\cdot HU, \\end{array} \\right] \\]\n\n\\[ Y(-2\\alpha YU + 2\\beta ZU) = 256R^6[(S, T, \\ldots \\chi(\\alpha, \\beta)^4]^2 \\times (\\alpha U + 6\\beta HU), \\]\n\n\\[ Z(-2\\alpha YU + 2\\beta ZU) = -512R^7[(S, T, \\ldots \\chi(\\alpha, \\beta)^4]^2 \\times \\left[ \\begin{array}{c} \\partial_\\beta(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot U \\\\ -6\\partial_\\alpha(S, T, \\ldots \\chi(\\alpha, \\beta)^4 \\cdot HU. \\end{array} \\right] \\]\nNo. 76.\n\n\\[ R(2\\alpha CU - 2\\beta DU) = -4096R^4 \\times [(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^2; \\]\n\n\\[ S(2\\alpha CU - 2\\beta DU) = -R^2 \\times (48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4); \\]\n\n\\[ T(2\\alpha CU - 2\\beta DU) = -8R^2 \\times (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6). \\]\n\n\\[ 2\\alpha CU - 2\\beta DU = 2\\alpha CU - 2\\beta DU, \\]\n\n\\[ H(2\\alpha CU - 2\\beta DU) = \\frac{2}{3} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot CU \\\\\n+ \\partial_\\alpha(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot DU,\n\\end{array} \\right. \\]\n\n\\[ C(2\\alpha CU - 2\\beta DU) = -16R^2(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n\\partial_\\beta(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot CU \\\\\n+ \\partial_\\alpha(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot DU,\n\\end{array} \\right. \\]\n\n\\[ D(2\\alpha CU - 2\\beta DU) = \\frac{3}{2}R^2(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n\\partial_\\beta(-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot CU \\\\\n+ \\partial_\\alpha(-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot DU,\n\\end{array} \\right. \\]\n\n\\[ P(2\\alpha CU - 2\\beta DU) = \\frac{1}{6}R \\times \\left\\{ \\begin{array}{l}\n6\\partial_\\beta(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot PU \\\\\n- \\partial_\\alpha(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot QU,\n\\end{array} \\right. \\]\n\n\\[ Q(2\\alpha CU - 2\\beta DU) = \\frac{2}{3}R \\times \\left\\{ \\begin{array}{l}\n6\\partial_\\beta(-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot PU \\\\\n- \\partial_\\alpha(-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6) \\cdot QU,\n\\end{array} \\right. \\]\n\n\\[ Y(2\\alpha CU - 2\\beta DU) = 216R^3 \\times [(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4)]^2 \\times \\]\n\n\\[ (6\\alpha PU + \\beta QU), \\]\n\n\\[ Z(2\\alpha CU - 2\\beta DU) = -512R^3 \\times [(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4)]^2 \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n6\\partial_\\beta(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot PU \\\\\n- \\partial_\\alpha(T^3 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4) \\cdot QU.\n\\end{array} \\right. \\]\nNo. 77.\n\n\\[ R(6\\alpha PU + \\beta QU) = R^3 \\times [(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^3; \\]\n\n\\[ S(6\\alpha PU + \\beta QU) = (T^2 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4; \\]\n\n\\[ T(6\\alpha PU + \\beta QU) = (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6 \\]\n\n\\[ 6\\alpha PU + \\beta QU = 6\\alpha PU + \\beta QU, \\]\n\n\\[ H(6\\alpha PU + \\beta QU) = -\\frac{1}{24} \\times \\left\\{ \\begin{array}{l}\n6\\partial_\\beta (48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot PU \\\\\n- \\partial_\\alpha (48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot QU,\n\\end{array} \\right. \\]\n\n\\[ C(6\\alpha PU + \\beta QU) = -(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n6\\partial_\\beta (T^2 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot PU \\\\\n- \\partial_\\alpha (T^2 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot QU,\n\\end{array} \\right. \\]\n\n\\[ D(6\\alpha PU + \\beta QU) = \\frac{1}{12}(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n6\\partial_\\beta (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6 \\cdot PU \\\\\n- \\partial_\\alpha (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6 \\cdot QU,\n\\end{array} \\right. \\]\n\n\\[ P(6\\alpha PU + \\beta QU) = \\frac{1}{3R} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta (T^2 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot CU \\\\\n+ \\partial_\\alpha (T^2 + 192S^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot DU,\n\\end{array} \\right. \\]\n\n\\[ Q(6\\alpha PU + \\beta QU) = \\frac{1}{6R} \\times \\left\\{ \\begin{array}{l}\n\\partial_\\beta (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6 \\cdot CU \\\\\n+ \\partial_\\alpha (-8T^3 + 4608TS^3, \\ldots \\mathcal{F}(\\alpha, \\beta)^6 \\cdot DU,\n\\end{array} \\right. \\]\n\n\\[ Y(6\\alpha PU + \\beta QU) = -\\frac{1}{2}R \\cdot [(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^3 \\times \\]\n\n\\[ (-2\\alpha CU + 2\\beta DU), \\]\n\n\\[ Z(6\\alpha PU + \\beta QU) = -\\frac{1}{4}R[(48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4]^3 \\times \\]\n\n\\[ \\left\\{ \\begin{array}{l}\n\\partial_\\beta (48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot CU \\\\\n+ \\partial_\\alpha (48S, 8T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4 \\cdot DU.\n\\end{array} \\right. \\]\n247. It will be noticed how Tables 74 and 75 form a system involving only the quantics in \\((\\alpha, \\beta)\\) contained in the first part of Table 73, and how, in like manner; Tables 76 and 77 form a system involving only the quantics in \\((\\alpha, \\beta)\\) contained in the second part of Table 73; and, moreover, how in each pair of Tables the covariants, &c. correspond to each other as follows, viz.—\n\n\\[ R, S, T, I, H, C, D, P, Q, Y, Z \\text{ to} \\]\n\\[ S, R, T, Y, P, Z, Q, H, D, I, C. \\]\n\nThus in Table 74,—the formula for \\(H(\\alpha U + 6\\beta HU)\\),\nand in Table 75,—the formula for \\(P(2\\alpha YU - 2\\beta ZU)\\),\neach of them involve the same factor\n\n\\[\n\\begin{cases}\n\\partial_\\beta(1, 0, -24S, .. \\chi(\\alpha, \\beta)^4). U \\\\\n-6\\partial_\\alpha(1, 0, -24S, .. \\chi(\\alpha, \\beta)^4). HU,\n\\end{cases}\n\\]\n\nand so in all the other cases.\n\n248. The quantics in \\((\\alpha, \\beta)\\) in each part of the foregoing Table 73 are covariantively connected together. In fact, considering the function \\((1, 0, -24S, .. \\chi(\\alpha, \\beta)^4)\\), which for shortness I call \\(G\\), we have\n\n\\[ G = (1, 0, -24S, .. \\chi(\\alpha, \\beta)^4), \\]\n\\[ IG = 0, \\]\n\\[ JG = 4(64S^3 - T^2) = 4R, \\]\n\\[ \\Box G = (IG)^3 - 27(JG)^2 = -432R^2, \\]\n\\[ HG = -4(S, T, .. \\chi(\\alpha, \\beta)^4), \\]\n\\[ \\Phi G = 2(T, 96S^2, .. \\chi(\\alpha, \\beta)^6). \\]\n\nThe last-mentioned formulæ, by the aid of Table 72, give rise to the following more general system in which they are themselves included.\n\nTable No. 78.\n\n\\[ \\lambda G + 6\\mu HG = \\lambda G + 6\\mu HG, \\]\n\\[ H(\\lambda G + 6\\mu HG) = 36\\mu^2G + \\lambda^2HG, \\]\n\\[ \\Phi(\\lambda G + 6\\mu HG) = (\\lambda^3 - 216R\\mu^3)2(T, 96S^2, .. \\chi(\\alpha, \\beta)^6), \\]\n\\[ I(\\lambda G + 6\\mu HG) = 72R\\lambda\\mu, \\]\n\\[ J(\\lambda G + 6\\mu HG) = 4R(\\lambda^3 + 216R\\mu^3), \\]\n\\[ \\Box(\\lambda G + 6\\mu HG) = -432R^2(\\lambda^3 - 216R\\mu^3)^2. \\]\n\nThe expression for \\(H(\\lambda G + 6\\mu HG)\\), putting therein \\(\\lambda = 0\\), shows that, to a numerical factor près, \\(H.HG\\) is equal to \\(G\\), and hence, disregarding numerical factors, we may say that each of the quartics \\((1, 0, 24S, .. \\chi(\\alpha, \\beta)^4), (S, T, .. \\chi(\\alpha, \\beta)^4)\\), is the Hessian of the other of them, and that the sextic \\((T, 96S^2, .. \\chi(\\alpha, \\beta)^6)\\) is the cubicovariant of each of them.\n249. Similarly, if the function \\((48S, 8T, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4\\) is for shortness called \\(G\\), then we have\n\n\\[\n\\begin{align*}\nG &= (48S, 8T, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\nIG &= 0, \\\\\nJG &= 4(64S^3 - T^2)^2 = 4R^2, \\\\\n\\Box G &= (IG)^3 - 27(JG)^2 = -432R^4, \\\\\nHG &= -4(T^2 + 192S^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\n\\Phi G &= -2(-8T^3 + 4608TS^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4.\n\\end{align*}\n\\]\n\nThe last-mentioned formulae, by the aid of the same Table 72, give rise to the more general system in which they are themselves included.\n\nTable No. 79.\n\n\\[\n\\begin{align*}\n\\lambda G + 6\\mu HG &= \\lambda G + 6\\mu HG, \\\\\nH(\\lambda G + 6\\mu HG) &= 36R^2\\mu^2G + \\lambda^2HG, \\\\\n\\Phi(\\lambda G + 6\\mu HG) &= (\\lambda^3 - 216R^2\\mu^3) \\times -2(-8T^3 + 4608TS^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^6, \\\\\nI(\\lambda G + 6\\mu HG) &= 72R^2\\lambda\\mu, \\\\\nJ(\\lambda G + 6\\mu HG) &= 4R^2(\\lambda^3 + 216R^2\\mu^3), \\\\\n\\Box(\\lambda G + 6\\mu HG) &= -432R^4(\\lambda^3 - 216R^2\\mu^3)^2.\n\\end{align*}\n\\]\n\nThe expression for \\(H(\\lambda G + 6\\mu HG)\\), putting therein \\(\\lambda = 0\\), shows that, to a numerical factor près, \\(H \\cdot HG\\) is equal to \\(G\\); so that, disregarding numerical factors, we may say that each of the quartics \\((48S, T, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, (T^2 + 192S^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4\\), is the Hessian of the other of them, and that the sextic \\((-8T^3 + 4608TS^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^6\\) is the cubicovariant of each of them.\n\n250. But besides this, the quantics in \\((\\alpha, \\beta)\\) in the two parts of the Table 73 are linearly connected together: the linear relations in question are in fact the equations whereon depend the expressions for the invariants in Tables 76 and 77 as deduced from those in Tables 74 and 75; and in the order of proof, they precede the formulæ in these four Tables. The linear relations are\n\nTable No. 80.\n\n\\[\n\\begin{align*}\n(1, 0, -24S, \\ldots) & \\quad \\mathfrak{F}(-2Ta - 16S^3\\beta, 8Sa + T\\beta)^4 = -16R(T^2 + 192S^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\n(S, T, \\ldots) & \\quad \\mathfrak{F}(-2Ta - 16S^3\\beta, 8Sa + T\\beta)^4 = R^2(48S, 8T, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\n(T, 96S^3, \\ldots) & \\quad \\mathfrak{F}(-2Ta - 16S^3\\beta, 8Sa + T\\beta)^6 = -8R^2(-8T^3 + 4608TS^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^6. \\\\\n(48S, 8T, \\ldots) & \\quad \\mathfrak{F}(Ta + 16S^3\\beta, -8Sa - 2T\\beta)^4 = -16R^2(S, T, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\n(T^2 + 192S^3, \\ldots) & \\quad \\mathfrak{F}(Ta + 16S^3\\beta, -8Sa - 2T\\beta)^4 = -R^3(1, 0, -24S, \\ldots \\mathfrak{F}(\\alpha, \\beta))^4, \\\\\n(-8T^3 + 4608TS^3, \\ldots) & \\quad \\mathfrak{F}(Ta + 16S^3\\beta, -8Sa - 2T\\beta)^6 = -8R^4(T, 96S^3, \\ldots \\mathfrak{F}(\\alpha, \\beta))^6.\n\\end{align*}\n\\]\nHence, attending to the remarks on the Tables 78 and 79, we may say that the quartics\n\n\\[\n(1, 0, -24S, \\ldots \\mathcal{F}(\\alpha, \\beta)^4,\n\\]\n\n\\[\n(48S, T, \\ldots \\mathcal{F}(\\alpha, \\beta)^4,\n\\]\n\nwhich belong to the two parts respectively of Table 73, and which are related, the first of them to the discriminants of $\\alpha U + 6\\beta HU$ and $2\\alpha YU - 2\\beta ZU$, and the second to the discriminants of $6\\alpha PU + \\beta QU$, $-2\\alpha CU + 2\\beta DU$, have these relations to each other, viz. each is a linear transformation of the Hessian of the other of them, and the cubicovariant of each is a linear transformation of the cubicovariant of the other.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108737.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 17,
+    "total-input-tokens": 27576,
+    "total-output-tokens": 15223,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2425,
+        2
+      ],
+      [
+        2425,
+        5576,
+        3
+      ],
+      [
+        5576,
+        7957,
+        4
+      ],
+      [
+        7957,
+        9604,
+        5
+      ],
+      [
+        9604,
+        12892,
+        6
+      ],
+      [
+        12892,
+        14795,
+        7
+      ],
+      [
+        14795,
+        16484,
+        8
+      ],
+      [
+        16484,
+        18236,
+        9
+      ],
+      [
+        18236,
+        20334,
+        10
+      ],
+      [
+        20334,
+        23218,
+        11
+      ],
+      [
+        23218,
+        25171,
+        12
+      ],
+      [
+        25171,
+        27403,
+        13
+      ],
+      [
+        27403,
+        29567,
+        14
+      ],
+      [
+        29567,
+        31862,
+        15
+      ],
+      [
+        31862,
+        34657,
+        16
+      ],
+      [
+        34657,
+        35320,
+        17
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108737",
+    "title": "A Seventh Memoir on Quantics",
+    "authors": "Arthur Cayley",
+    "year": 1861,
+    "volume": "151",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 17,
+    "jstor_url": "https://www.jstor.org/stable/108737"
+  }
+}

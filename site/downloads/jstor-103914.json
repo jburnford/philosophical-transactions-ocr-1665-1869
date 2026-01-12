@@ -1,0 +1,59 @@
+{
+  "id": "3d3ac5166cce752bfc81e81b06654b1d9347f978",
+  "text": "In like manner, in any other Case where \\( z \\) and \\( z' \\) are two Abscisses whose Difference as a Measure is \\( z \\); and \\( y, y' \\) the two Ordinates; the Magnitude of the Figure will be implied by the Magnitudes of the two Polygons which are made from the Sum of the inscribing and circumscribing Elements \\( z, y \\) and \\( z', y' \\), although the Figure itself is not to be resolved into any such primogenial rectangular Elements.\n\nAnd thus, I think, the Symbol \\( z \\), considered as a component Part of the Rectangle \\( z, y \\), may bear a plain Interpretation; viz. that it is the Measure according to which the Quantity \\( z \\) is measured; nor can I see that any other Interpretation need to be put upon a Symbol, which, like a Measure, is used only to make other things known, but is of itself for nothing but a Mark.\n\nAnd what is said of the Elements of the first Resolution, is easily applied to those of a second or third, and so on; the last may always be considered as the Measure of the former and indivisible, although, in respect of the following, it be taken as the Part according to which the Measure was made, and therefore divisible.\n\nThe candid Reader is desired to strike out a Remark of mine, about the Comet of 1556, subjoined to an Observation of the late Comet made at Lisbon, printed in Page 123 of the last Transactions, No 446. The Note was there inserted by some Accident, without my Intention; for I had soon afterwards informed the Society, that the Remark was ill-founded. According to Mr. Bradley's Observations at Oxford, which were not then communicated, the Place at the Time mentioned ought to have been in Long. \\( \\text{H} = 13^\\circ 21' \\frac{1}{2} \\). Lat. \\( 0^\\circ 29' \\) South. So that in all probability there happened some Mistake in making this Observation.\n\nERRATA. P. 213. L. 31. for \\( n.n-2 \\) read \\( n.n-2 \\).\nP. 222. L. 26. for being read be.\n\nPrinted for T. Woodward, at the Half-Moon, between the Two Temple-Gates in Fleetstreet; and C. Davis, the Corner of Pater-noster-row, next Warwick-lane; Printers to the Royal Society. M.DCC.XXXIX.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103914.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 613,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2101,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103914",
+    "title": "Errata",
+    "authors": null,
+    "year": 1737,
+    "volume": "40",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103914"
+  }
+}

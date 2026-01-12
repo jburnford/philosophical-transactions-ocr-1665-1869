@@ -1,0 +1,59 @@
+{
+  "id": "ffaeffee4d24f5028e80f9ff6d074cbe0c1ffbe7",
+  "text": "Ventiducts; of remarkable Armories; of Artificial Contrivances, Instruments, Vessels, Engins; as Locks to keep up water of any River for the use of Navigation; an Engin to raise Water with a chain of Buckets; a Vessel at Heidelberg holding 600 Hogsheads; the Spanish Plough for sowing Corn at equal distances, and one grain in a hole: Of Arts, Trades, Practices, Manufactures, as the Art of imitating China-dishes at Milan, of polishing Jasper, of making Mosaic Work and the composition of the Cement for it; of the practice of making Salt by the Sun, upon the Coast of the Mediterranean; the catching of Sword-fishes, Whales, Tortoises; of Coral-fishing; the making of Silks and Velvets; the Dying of Wool of an Incarnation colour, with a kind of Moss growing in Malta; a peculiar jewel made at Leige of balls of Clay and small beaten Coals; the Art of blanching Wax, making Venice-Sope, Verdigreece, Oyl-olive; of preparing and pickling of Capers; of drying Grapes for Raisins; of making Confection of Alkermes; of making Sugar, Chocolata &c.\n\nEvery where are interspers'd many curious Philosophical Remarks; as, that more Air is necessary for Respiration in hotter Countries than cold, and why? The true reason of the raging of Fire in cold weather: Experiments of fulminating powder without any gold in it, together with the Receipt: The extremity of Cold (scorching and tanning the face, as well as excess of Heat) and many more, for which we must refer the Reader to the Book itself.\n\nII. Bernhardi Vareni M.D. GEOGRAPHIA Generalis; in qua affectiones generales Telluris explicantur summâ curâ quamplurimis in locis emendata, &c. XXXIII Schematibus novis, ære incisis unà cum Tabulis aliquot, quæ desiderabantur, æcta illustrata ab Isaac Newtono Mathe. Professore Lucaiano apud Cantabrigienses, è Societate Regia, Cantabrigiæ 1672, in 8°.\n\nErrata left uncorrected in No. 90.\n\nLondon, Printed for T. Martyn printer to the Royal Society, 1672.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100981.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 589,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1947,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100981",
+    "title": "Errata",
+    "authors": null,
+    "year": 1672,
+    "volume": "7",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/100981"
+  }
+}

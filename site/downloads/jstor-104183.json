@@ -1,0 +1,59 @@
+{
+  "id": "756732b7131ab85f88d21d213e926b677fba3aa2",
+  "text": "The CONTENTS.\n\nV. Excerpta ex Epistola Cl. Viri Joh. Ambrosii Beureri ad Petr. Collinson, R. S. S. de Natura Succini. 322.\n\nVI. An Account of a Book intituled, A Treatise of Fluxions, in Two Books, by Colin Mc Laurin, A.M. Professor of Mathematics in the University of Edinburgh, and Fellow of the ROYAL SOCIETY, 4to. in Two Volumes, Pages 763. 325.\n\nVII. De Calculo praegrandi a Muliere cum Urina excreto Observatio Dni Antonii Leprotti, R. S. S. Pont. Max. Archiat. per Abbatem Didacum de Revillas, R. S. S. ad D. Smart Lethieullier R. S. S. transmissa. 363.\n\nVIII. The Description of a Machine for dressing and curing Patients, who are very unwieldy, and are under the Surgeon's Hands for some Ailment on the Back, the Os Sacrum, &c. or are apprehensive of it. By M. le Cat, F. R. S. Surgeon to the Hotel Dieu at Rouan, and Royal Demonstrator in Anatomy and Surgery: Abstracted from the French by P.H.Z. F. R. S. 364.\n\nIX. An Account of a Treatise, (intituled, D. Alberti Halleri, Archiatri Regii & Elect. Medicin. Anatomiae Botan. Praelect. &c. Enumeratio Methodica Stirpium Helvetiae indigenarum. Qua omnium brevis Descriptio & Synonymia, Compendium Virium Medicarum, dubiarum Declaratio, novarum & rariorum uberior Historia & Icones continentur. Gottingiae, 1742. in Folio) extracted and translated from the Latin by William Watson, F. R. S. 369.\n\nERRATUM.\nN° 467. p. i. for Jan. 21. read Jan. 20.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104183.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 542,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1403,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104183",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104183"
+  }
+}

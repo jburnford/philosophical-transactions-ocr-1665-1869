@@ -1,0 +1,59 @@
+{
+  "id": "7cf59b1f238993843ef317c2a1e0473dbd5c31c6",
+  "text": "at 11h, 59', 50\", Mercury preceded the Sun's Centre 42\" in Right Ascension.\n\nThe Sky clearing up towards One o'Clock, the following Times were observed at Mr. Graham's House with great Accuracy.\n\n| Last interior Contact at | 1. 0. 42 |\n| End, or Mercury just leaving the Sun's Limb at | 1. 2. 16 |\n\nThis last Observation agrees to a Second with the same Observation made by Dr. Bevis at Mr. Sisson's House in the Strand.\n\nDuring the time of these Observations it blew a violent Gale of Wind, so that both Observers and Instruments were somewhat disturbed.\n\nIV. Eclipse of the Moon, Oct. 22. 1743. in the Morning, observed at Mr. Graham's House in Fleetstreet.\n\nRead Nov. 3. 1743.\n\nThe Sky was mostly overcast with Clouds, so that the following Observations are the only ones that could be made with any Degree of Certainty.\n\n| Beginning of the Eclipse about | 1. 21. 0. |\n| The Shade touched Copernicus about | 1. 39. 0. |\n| touched Plato about | 1. 45. 0. |\n| touched Tycho about | 1. 51. 0. |\n| Total Immersion about | 2. 17. 0. |\n\nV. Part",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104216.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 378,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1041,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104216",
+    "title": "Eclipse of the Moon, Oct. 22. 1743. in the Morning, Observed at Mr. Graham's House in Fleetstreet",
+    "authors": null,
+    "year": 1742,
+    "volume": "42",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104216"
+  }
+}

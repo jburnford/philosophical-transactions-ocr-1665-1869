@@ -1,0 +1,59 @@
+{
+  "id": "0733fbbfc2460710c8ffda7d7fbe62372e845b3c",
+  "text": "X. Remarks upon the aforesaid Bills of Mortality for the Cities of Dresden and Augsburgh. By Mr. William Maitland, F. R. S.\n\nBy the first Septenary of the Centenary of the Bills of Mortality for the City of Dresden, from the Year 1616 to Anno 1624, it appears, that there died in that Electoral Capital 3136 Persons; and in the last Septenary of the said Centenary, from Anno 1709 to 1717, 8836.\n\nAnd by the first Septenary of the same Centenary of the Bills of Mortality of the Imperial City of Augsburgh, from the Year 1616 to Anno 1624, it appears that there died in that City 11371; and in the last Septenary, from 1709 to Anno 1717, only 6297; whereby is evinc'd the great Vicissitudes of sublunary Affairs, in the vast Disparity between the aforesaid Cities; for as the former has increased near two Thirds in the Number of its Inhabitants, so hath the latter decreased near one Half in the said Space of Time.\n\nFINIS.\n\nERRATA.\n\nNUMB. 427. Tit. IV. for Muro Pontico, r. Mure Pontico. Ib. P. 32. Tit. IV. the same.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103826.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 382,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1019,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103826",
+    "title": "Remarks upon the Aforesaid Bills of Mortality for the Cities of Dresden and Augsburgh. By Mr. William Maitland, F. R. S.",
+    "authors": "William Maitland",
+    "year": 1733,
+    "volume": "38",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/103826"
+  }
+}

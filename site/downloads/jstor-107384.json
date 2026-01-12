@@ -1,0 +1,249 @@
+{
+  "id": "4c8cfc316a8a1b8903fb3c44c23cb61b0bd60a88",
+  "text": "II. On a remarkable Application of Cotes's Theorem. By J. F. W. Herschel, Esq. Communicated by W. Herschel, LL.D. F.R.S.\n\nRead November 12, 1812.\n\nLet \\(a\\) represent the semi-transverse axis of a conic section, \\(ae\\) the eccentricity, and consequently \\(a(1-e^2) = p\\) the semi-parameter.\n\nLet also \\(\\lambda = \\frac{e}{1+\\sqrt{1-e^2}}\\) and \\(\\lambda' = \\frac{e^{-1}}{1+\\sqrt{1-e^{-2}}}.\\)\n\n\\(r^{(1)}\\) = the distance between a point in the curve, and the focus, which, for distinction's sake, we shall call the first focus, and the adjacent vertex the first vertex: the others the second.\n\n\\(r^{(2)}\\) = the distance between the same point and the second focus.\n\n\\(R\\) = its distance from the centre.\n\n\\(\\rho\\) = its distance from the first vertex.\n\n\\(\\theta\\) = the angle contained between the \\(r^{(1)}\\), and the prolongation of a line joining the first vertex and focus.\n\n\\(\\phi\\) = the angle contained between the \\(R\\) and a line joining the first vertex and centre.\n\n\\(\\psi\\) = the angle contained between the \\(\\rho\\) and the same line.\n\n\\[\\tan \\frac{1}{2} \\varpi = \\sqrt{\\frac{1-e}{1+e}} \\cdot \\cot \\frac{1}{2} \\theta = \\frac{1-\\lambda}{1+\\lambda} \\cdot \\cot \\frac{1}{2} \\theta = \\sqrt{-1} \\cdot \\frac{1-\\lambda'}{1+\\lambda'} \\cdot \\cot \\frac{1}{2} \\theta.\\]\n\n\\(\\theta\\) is the angle whose supplement is, in physical astronomy, known by the name of \"true anomaly,\" and \\(\\varpi\\) is the corresponding \"eccentric anomaly.\"\nThe following equations are readily obtained.\n\n\\[ r^{(1)} = \\frac{a(1-e^2)}{1-e\\cdot\\cos\\theta} \\quad \\text{and} \\quad r^{(2)} = 2a - r^{(1)} = a \\cdot \\frac{1-2e\\cdot\\cos\\theta+e^2}{1-e\\cdot\\cos\\theta}. \\]\n\n\\[ r^{(1)} = a(1-e\\cdot\\cos\\varpi); \\quad r^{(2)} = a(1+e\\cdot\\cos\\varpi) \\]\n\n\\[ R^2 = \\frac{a^2(1-e^2)}{1-e^2(\\cos\\phi)^2} \\]\n\n\\[ \\rho = \\frac{2a(1-e^2)\\cdot\\cos\\psi}{1-e^2(\\cos\\psi)^2} = \\frac{2\\rho\\cdot\\cos\\psi}{1-e^2(\\cos\\psi)^2}. \\]\n\n\\[ 2e = \\lambda' + \\lambda'^{-1} \\quad \\text{and} \\quad 2e^{-1} = \\lambda + \\lambda^{-1}. \\]\n\nHence we deduce the following\n\n\\[ r^{(1)} = a \\cdot \\frac{(1-e^2)(1+\\lambda^2)}{1-2\\lambda\\cdot\\cos\\theta+\\lambda^2} \\quad \\text{...} \\quad \\{1\\} \\]\n\n\\[ r^{(2)} = a(1+\\lambda^2) \\cdot \\frac{1-2e\\cdot\\cos\\theta+e^2}{1-2\\lambda\\cdot\\cos\\theta+\\lambda^2} \\quad \\text{...} \\quad \\{2\\} \\]\n\n\\[ r^{(2)} = \\frac{1-2e\\cdot\\cos\\theta+e^2}{1-e^2} \\quad \\text{...} \\quad \\{3\\} \\]\n\nagain \\( r^{(1)} = a \\cdot \\frac{1-2\\lambda\\cdot\\cos\\varpi+\\lambda^2}{1+\\lambda^2} \\quad \\text{...} \\quad \\{4\\} \\)\n\n\\[ r^{(2)} = a \\cdot \\frac{1-2\\lambda\\cdot\\cos(\\pi-\\varpi)+\\lambda^2}{1+\\lambda^2} \\quad \\text{...} \\quad \\{5\\} \\]\n\nwhere \\( \\pi = 4\\left\\{1 - \\frac{1}{3} + \\frac{1}{5} - \\frac{1}{7} + \\&c.\\right\\}. \\)\n\n\\[ r^{(1)} = \\frac{1-2\\lambda\\cdot\\cos\\varpi+\\lambda^2}{1-2\\lambda\\cdot\\cos(\\pi-\\varpi)+\\lambda^2} \\quad \\text{...} \\quad \\{6\\} \\]\n\n\\[ R^2 = \\frac{a^2(1-e^2)(1+\\lambda^2)^2}{\\{1-2\\lambda\\cdot\\cos\\phi+\\lambda^2\\}\\{1-2\\lambda\\cdot\\cos(\\pi-\\phi)+\\lambda^2\\}} \\quad \\text{...} \\quad \\{7\\} \\]\n\n\\[ \\rho = \\frac{2a(1-e^2)(1+\\lambda^2)^2\\cdot\\cos\\psi}{\\{1-2\\lambda\\cdot\\cos\\psi+\\lambda^2\\}\\{1-2\\lambda\\cdot\\cos(\\pi-\\psi)+\\lambda^2\\}} \\quad \\text{...} \\quad \\{8\\} \\]\n\nAnd lastly, since \\( 1-e\\cdot\\cos\\varpi = \\frac{1-e^2}{1-e\\cdot\\cos\\theta} \\), we find \\( \\cos\\theta = e^{-1} + \\frac{e-e^{-1}}{1-e\\cdot\\cos\\varpi} = \\frac{e(1-e^{-1}\\cdot\\cos\\varpi)}{1-e\\cdot\\cos\\varpi} \\)\n\n\\[ = e \\cdot \\frac{1+\\lambda^2}{1+\\lambda^2} \\cdot \\frac{1-2\\lambda'\\cdot\\cos\\varpi+\\lambda'^2}{1-2\\lambda\\cdot\\cos\\varpi+\\lambda^2} \\]\n\n\\[ = e^{-1} \\cdot \\left\\{\\frac{\\lambda'}{\\lambda}\\right\\} \\cdot \\frac{1-2\\lambda'\\cdot\\cos\\varpi+\\lambda'^2}{1-2\\lambda\\cdot\\cos\\varpi+\\lambda^2}. \\]\n\nMDCCCXIII.\nBefore we proceed to the application of these transformations, it will be necessary to premise some properties of the functions $\\lambda$ and $\\lambda'$.\n\nLet $\\alpha = \\cos^{-1}(e^{-1})$ and $\\alpha' = \\cos^{-1} e.$*\n\n* This notation $\\cos^{-1} e$ must not be understood to signify $\\frac{1}{\\cos e}$, but what is usually written thus, arc $(\\cos = e)$. It is true that many authors use $\\cos^m A$, $\\sin^m A$, &c. for $(\\cos A)^m$, $\\sin A^m$; lest therefore the notation here adopted should appear capricious, it will not be irrelevant to explain its grounds. If $\\phi$ be the characteristic mark of an operation performed on any symbol, $x$, $\\phi(x)$ may represent the result of that operation. Now to denote the repetition of the same operation, instead of $\\phi(\\phi(x))$, $\\phi(\\phi(\\phi(x)))$, &c., we may most elegantly write $\\phi^2(x)$; $\\phi^3(x)$; &c. Thus we use $d^2 x$, $\\Delta^3 x$, $\\Sigma^2 x$, for $ddx$, $\\Delta\\Delta x$, $\\Sigma\\Sigma x$, &c. By the same analogy, since $\\sin x$, $\\cos x$, $\\tan x$, $\\log x$, &c., are merely characteristic marks to signify certain algebraic operations performed on the symbol $x$, (such as\n\n$$\\left\\{1 + \\frac{1}{1} + \\frac{1}{1.2} + \\frac{1}{1.2.3} + \\ldots\\right\\} x^{1/2} - \\left\\{1 + \\frac{1}{1} + \\frac{1}{1.2} + \\frac{1}{1.2.3} + \\ldots\\right\\} x^{1/2};$$\n\n&c.) we ought to write $\\sin^2 x$ for $\\sin x$, $\\sin^3 x$ for $\\log x$, $\\log^2 x$, and so on.\n\nTo apply this to the inverse functions, we have $\\phi^n \\phi^{-n}(x) = \\phi^0(x) = x$. Hence if $m = -n \\phi^n \\phi^{-n}(x) = \\phi^0(x) = x$, with the operation ($\\phi$) performed no times on it, or merely $x$, that is, $\\phi^{-n}(x)$ must be such a quantity that its $n$th ($\\phi$) shall be $x$, or in other words $\\phi^{-n}(x)$ must represent the $n$th inverse function. It frequently happens that a peculiar characteristic symbol is appropriated to the inverse function. Let it be $\\psi$, then $\\phi^{-n}, x = \\psi^n, x$, and $\\phi^n x = \\phi^{2n}, \\phi^{-n}, x = \\phi^n (\\phi^n, \\psi^n, x)$, hence $\\psi^n, \\phi^n, x = x$, and therefore $\\psi^{-n} x = \\psi^{-n} \\psi^n, x = \\phi^{1-n}, x$. For instance $d^{-n} V = f^n V$, $dV = V - \\Sigma^{-n}, x = \\Delta^n x \\cdot a^n = 1$, with the operation of multiplying by $a$, $n$ times performed on it, and $\\therefore a^{-n} = 1$, with the inverse operation so often performed on it, $= \\frac{1}{a^n}$; $a^n = 1$. Similarly $\\sin^{-1} x = \\text{arc} (\\sin = x) \\cdot \\cos^{-2} x = \\text{arc} (\\cos^2 = x)$ &c.—and if $c = 1 + \\frac{1}{1} + \\frac{1}{1.2} + \\ldots$, $x = \\log c^x$ and $\\therefore c^x = \\log^{-1} x$.\n\n$c^x = \\log^{-2} x$, and $c^x = \\log^{-n} x$, or the $n$th inverse logarithm of $x$. It is easy to carry on this idea, and its application to many very difficult operations in the higher branches will evince that it is somewhat more than a mere arbitrary contraction.\nwherefore $\\cos \\alpha = \\frac{\\lambda + \\lambda' - 1}{2}$ and $\\cos \\alpha' = \\frac{\\lambda + \\lambda' - 1}{2}$.\n\nThus, $\\lambda = c^{e^{\\sqrt{-1}}}$ and $\\lambda' = c'^{e^{\\sqrt{-1}}}$, where $c = 1 + \\frac{1}{1} + \\frac{1}{1.2} + \\frac{1}{1.2.3} + \\&c$. Hence, $\\lambda^n + \\lambda^{-n} = 2 \\cdot \\cos n\\alpha$, and $\\lambda'^n + \\lambda'^{-n} = 2 \\cdot \\cos n\\alpha'$; $\\lambda^n - \\lambda^{-n} = 2 \\sqrt{-1} \\cdot \\cosin n\\alpha$, $\\lambda'^n - \\lambda'^{-n} = 2 \\sqrt{-1} \\cdot \\sin n\\alpha'$. Consequently, if $k$ be any arc\n\n$$1 - 2\\lambda^n \\cdot \\cos k + \\lambda'^{2n} = \\lambda^n \\left\\{ \\lambda^n + \\lambda^{-n} - 2 \\cdot \\cos k \\right\\} = 4\\lambda^n.$$ \n\n$\\sin \\left( \\frac{k + n\\alpha}{2} \\right) \\cdot \\sin \\left( \\frac{k - n\\alpha}{2} \\right)$.\n\nIn like manner\n\n$$1 - 2\\lambda'^n \\cdot \\cos k + \\lambda'^{2n} = 4\\lambda'^n \\cdot \\sin \\left( \\frac{k + n\\alpha'}{2} \\right) \\cdot \\sin \\left( \\frac{k - n\\alpha'}{2} \\right).$$\n\nWe will now proceed to the application of these equations, and first, in Equation \\{1\\} for $\\theta$ substitute, successively, each of a series of angles\n\n$$\\theta; \\theta + \\frac{2\\pi}{n}; \\theta + \\frac{4\\pi}{n}; \\ldots; \\theta + \\frac{(n-1)\\pi}{n} = \\theta.$$ \n\nAnd let the resulting values of $r^{(1)}$ be\n\n$$r^{(1)}_1; r^{(1)}_2; \\ldots; r^{(1)}_n.$$ \n\nwe have then\n\n$$r^{(1)}_1 \\cdot r^{(1)}_2 \\cdot \\ldots \\cdot r^{(1)}_n = a^n \\cdot \\frac{(1-e^2)^n (1+\\lambda^2)^n}{1 - 2\\lambda^n \\cdot \\cos n\\theta + \\lambda'^{2n}} \\ldots \\{1,1\\}$$\n\nfor the product of the several denominators of the $r^{(1)}$ will be\n\n$$\\{1 - 2\\lambda \\cdot \\cos \\theta + \\lambda^2\\} \\{1 - 2\\lambda \\cdot \\cos \\theta + \\lambda^2\\} \\ldots \\{1 - 2\\lambda \\cdot \\cos \\theta + \\lambda^2\\} = 1 - 2\\lambda^n \\cdot \\cos n\\theta + \\lambda'^{2n}$$ by Cotes's theorem.\n\nThis equation appears under an imaginary form when $e \\neq 1$, but, since $\\cos -1 e$ is then a real angle, if we express it in $\\alpha$,\nit will then be free from imaginary symbols; thus\n\n\\[ r^{(1)}_1 \\ldots r^{(1)}_n = \\frac{a^n(1-e^2)^n(\\lambda + \\lambda - 1)^n}{\\lambda^n + \\lambda^{-n} - 2 \\cdot \\cos n\\theta} = \\left\\{ \\frac{zp \\cdot \\cos \\alpha}{n(\\theta + \\alpha) \\cdot n(\\theta - \\alpha)} \\right\\}_{1,2} \\]\n\nWhen \\( e = 1 \\), or the conic section is a parabola, \\( \\lambda = 1 \\), and we find\n\n\\[ r^{(1)}_1 \\ldots r^{(1)}_n = \\frac{(2p)^n}{2 \\left\\{ 1 - \\cos n\\theta \\right\\}} = (2p)^{n-1} \\times \\frac{p}{2} \\cdot \\cosec \\left( \\frac{n\\theta}{2} \\right)^2 \\left\\{ 1,3 \\right\\} \\]\n\nA result of such remarkable simplicity, as deserves a more particular enunciation. Let then, in the diagram, fig. 1, S represent the focus of a parabola A,P,Q, and, having drawn any line SP, make \\( n \\) angles PSP, PSP \\( \\ldots \\) PSP, about S, all equal to each other; draw the axis ASM, and make the angle MSQ \\( = n \\) times MSP; and if L represent the latus rectum, we shall have\n\n\\[ SP \\cdot SP \\ldots SP = L^{n-1} \\cdot SQ, \\]\n\nfor, by the polar equation of the curve, \\( SQ = \\frac{p}{2} \\cdot \\cosec \\left( \\frac{MSQ}{2} \\right)^2 \\).\n\nThus, if SP be coincident with SA, and \\( n \\) be odd, \\( \\cosec \\frac{n\\theta}{2} = 1 \\),\n\nand \\( SP \\ldots SP = \\frac{1}{4} L^n \\ldots \\ldots \\ldots \\left\\{ 1,4 \\right\\} \\);\n\nbut, if SP be perpendicular to SA, and \\( n \\) still odd, \\( \\cosec \\frac{n\\theta}{2} = \\sqrt{2} \\), and \\( SP \\ldots SP = \\frac{1}{2} L^n \\ldots \\ldots \\ldots \\left\\{ 1,5 \\right\\} \\).\n\nIf SP be perpendicular to SA, but \\( n \\) of the form, \\( 4m + 2 \\)\n\n\\[ SP \\ldots SP = \\frac{1}{4} L^n \\ldots \\ldots \\ldots \\ldots \\left\\{ 1,6 \\right\\}. \\]\nLastly, if the angle MSP = \\(\\frac{\\pi}{3}\\), we shall find, provided \\(n\\) be of the form \\(6m + 1\\),\n\n\\[SP_{1} \\ldots SP_{n} = L^{n}. . . . . . \\{1,7\\}.\\]\n\nLet us now resume the general equation \\(\\{1,1\\}\\) and first, let \\(\\theta = 0\\), or, let one of the \\(r^{(1)}\\) terminate in the second vertex,\n\nwe have, for every value of \\(n\\),\n\n\\[r^{(1)}_{1} \\ldots r^{(1)}_{n} = p^{n} \\cdot \\frac{(1+\\lambda^{2})^{n}}{(1-\\lambda^{2})^{2}} = p^{n} \\cdot \\frac{(\\lambda+\\lambda^{-1})^{n}}{n^{2}-\\lambda^{2}} = -\\frac{(2p)^{n}}{4} \\cdot \\frac{(\\cos. \\alpha)^{n}}{(\\sin. \\frac{n\\alpha}{2})^{2}}.\\]\n\n\\(\\{1,8\\}\\).\n\n2. Let \\(\\cos. n\\theta = -1\\), and we obtain\n\n\\[r^{(1)}_{1} \\ldots r^{(1)}_{n} = p^{n} \\cdot \\frac{(1+\\lambda^{2})^{n}}{(1+\\lambda^{2})^{2}} = p^{n} \\cdot \\frac{(\\lambda+\\lambda^{-1})^{n}}{n^{2}+\\lambda^{2}} = \\frac{(2p)^{n}}{4} \\cdot \\frac{(\\cos. \\alpha)^{n}}{(\\cos. \\frac{n\\alpha}{2})^{2}}.\\]\n\n\\(\\{1,9\\}\\).\n\nThis embraces all the cases where \\(n\\) is of the form \\((2m + 1)\\)\n\n\\(\\frac{\\pi}{\\theta}\\), and among the rest, when \\(n\\) is any odd number, and one of the \\(r^{(1)}\\) terminates in the first vertex; when \\(n\\) is of the form \\(4m + 2\\), and one of the \\(r^{(1)}\\) perpendicular to the axis, &c.\n\n3. Let \\(\\cos. n\\theta = 0\\); then\n\n\\[r^{(1)}_{1} \\ldots r^{(1)}_{n} = p^{n} \\cdot \\frac{(1+\\lambda^{2})^{n}}{1+\\lambda^{2n}} = p^{n} \\cdot \\frac{(\\lambda+\\lambda^{-1})^{n}}{\\lambda^{n}+\\lambda^{-n}} = \\frac{(2p)^{n}}{2} \\cdot \\frac{(\\cos. \\alpha)^{n}}{\\cos. n\\alpha} \\{1,10\\}.\\]\n\nThis includes the cases where \\(n\\) is of the form \\((2m + 1)\\).\n\n\\(\\frac{\\pi}{\\theta}\\), as for instance, where one of the \\(r^{(1)}\\) is perpendicular to\nthe axis and \\( n \\) odd, or, one inclined at an angle \\( \\frac{\\pi}{4} \\), and \\( n \\) of the form \\( 4m + 2 \\), or, lastly, where \\( \\theta = \\frac{\\pi}{6} \\) and \\( n = 6m + 3 \\).\n\n4. Let \\( \\cos n\\theta = \\frac{1}{2} \\), then\n\n\\[\nr^{(1)} \\ldots r^{(1)} = p^n \\cdot \\frac{(1+\\lambda^2)^n}{1-\\lambda^n+\\lambda^{2n}} = p^n \\cdot \\frac{(1+\\lambda^2)^n \\cdot (1+\\lambda^n)}{1+\\lambda^{2n}} \\cdot \\{1,11\\}.\n\\]\n\nThis takes place whenever \\( n \\) is of the form \\( (6m + 1) \\cdot \\left(\\frac{\\pi}{3}\\right) \\), as when \\( \\theta = \\frac{\\pi}{3} \\) and \\( n = (6m + 1); \\theta = \\frac{\\pi}{6}, \\) and \\( n = 12m + 2, \\) &c.\n\n5. Let \\( \\cos n\\theta = -\\frac{1}{2} \\), then\n\n\\[\nr^{(1)} \\ldots r^{(1)} = p^n \\cdot \\frac{(1+\\lambda^2)^n}{1+\\lambda^n+\\lambda^{2n}} = p^n \\cdot \\frac{(1+\\lambda^2)^n \\cdot (1-\\lambda^n)}{1-\\lambda^{2n}} \\cdot \\{1,12\\}.\n\\]\n\nHere \\( n \\) must be of the form \\( \\frac{2\\pi}{3} \\cdot (3m + 1) \\), and if \\( \\theta = \\frac{2}{3} \\pi, \\) \\( n \\) is of the form \\( 3m + 1 \\).\n\nWe will now proceed to our second equation \\( \\{2\\} \\), and by an operation exactly similar to that from which we obtained the equation \\( \\{1,1\\} \\), we shall find\n\n\\[\nr^{(2)} \\ldots r^{(2)} = a^n (1 + \\lambda)^n \\cdot \\frac{1-2e^n \\cdot \\cos n\\theta + e^{2n}}{1-2\\lambda^n \\cdot \\cos n\\theta + \\lambda^{2n}} \\cdot \\ldots \\cdot \\{2,1\\}\n\\]\n\n\\[\n= a^n (\\lambda + \\lambda^{-1})^n \\cdot \\frac{1-2e^n \\cdot \\cos n\\theta + e^{2n}}{\\lambda^n + \\lambda^{-n} - 2 \\cdot \\cos n\\theta} = \\frac{a^n \\{1-2e^n \\cdot \\cos n\\theta + e^{2n}\\}}{4 \\cdot \\sin \\frac{n(\\theta + \\alpha)}{2} \\cdot \\sin \\frac{n(\\theta - \\alpha)}{2}}.\n\\]\n\nThis transformation in \\( \\alpha \\), however, as it possesses no particular elegance in point of form, and much complexity, we shall henceforward omit, except in a few remarkable instances.\nThis equation, in the five particular cases just enumerated, gives\n\n1. \\( n = \\text{any number}, \\theta = 0. \\)\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = a^n (1 - e^n)^n \\cdot \\frac{(1 + \\lambda^2)^n}{(1 - \\lambda^n)^2} \\ldots \\{2,2\\}\n\\]\n\n2. \\( n = (2m + 1) \\cdot \\frac{\\pi}{6}. \\)\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = a^n \\cdot (1 + \\lambda^2)^n \\cdot \\frac{(1 + e^n)^2}{1 + \\lambda^n} \\ldots \\{2,3\\}\n\\]\n\n3. \\( n = (2m + 1) \\cdot \\frac{\\pi}{20}. \\)\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = a^n \\cdot (1 + \\lambda^2)^n \\cdot \\frac{1 + e^{2n}}{1 + \\lambda^{2n}} \\ldots \\{2,4\\}\n\\]\n\n4. \\( n = (6m + 1) \\cdot \\frac{\\pi}{30}. \\)\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = a^n \\cdot (1 + \\lambda^2)^n \\cdot \\frac{(1 + e^n)}{1 + e^n} \\cdot \\frac{(1 + e^{3n})}{1 + \\lambda^{3n}} \\ldots \\{2,5\\}\n\\]\n\n5. \\( n = (6m + 2) \\cdot \\frac{\\pi}{30}. \\)\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = a^n \\cdot (1 + \\lambda^2)^n \\cdot \\frac{(1 - \\lambda^n)}{1 - e^n} \\cdot \\frac{(1 - e^{3n})}{1 - \\lambda^{3n}} \\ldots \\{2,6\\}\n\\]\n\nOur third equation \\{3\\}, gives immediately\n\n\\[\n\\frac{r^{(2)} \\ldots r^{(n)}}{r^{(1)} \\ldots r^{(1)}} = \\frac{1 - 2e^n \\cdot \\cos(n\\theta + e^{2n})}{(1 - e^2)^n} \\ldots \\{3,1\\}\n\\]\n\nwhich, in the abovementioned cases, becomes\n\n1. \\( \\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = \\frac{(1 - e^n)^2}{(1 - e^2)^n} \\ldots \\{3,2\\} \\)\n\n2. \\( \\frac{r^{(2)} \\ldots r^{(2)}}{r^{(1)} \\ldots r^{(1)}} = \\frac{(1 + e^n)^2}{(1 - e^2)^n} \\ldots \\{3,3\\} \\)\nLet us now, instead of taking equal angles round the first focus, take a series of eccentric anomalies, in arithmetical progression\n\n\\[ \\varpi; \\varpi = \\varpi + \\frac{2\\pi}{n}; \\ldots \\ldots \\varpi = \\varpi + \\frac{2(n-1)\\pi}{n}, \\]\n\nand let the resulting values of \\( r^{(1)} \\) be, as before\n\n\\[ r^{(1)}; r^{(1)}; \\ldots \\ldots r^{(1)}. \\]\n\nwe get then, by the same process,\n\n\\[ r^{(1)} \\ldots \\ldots r^{(1)} = a^n \\cdot \\frac{1 - 2\\lambda^2 \\cdot \\cos n\\varpi + \\lambda^2}{(1 + \\lambda^2)^n}. \\quad \\{4,1\\} \\]\n\nThis gives, in the five cases; 1st, when \\( n \\) is any number, and \\( \\varpi = 0 \\), (or one of the \\( r^{(1)} \\) terminates in the first vertex); 2dly, when \\( n = (2m + 1) \\cdot \\frac{\\pi}{\\varpi} \\); 3dly, \\( n = (2m + 1) \\cdot \\frac{\\pi}{2\\varpi} \\); 4thly, \\( n = (6m + 1) \\cdot \\frac{\\pi}{3\\varpi} \\); and 5thly, \\( n = (6m + 2) \\cdot \\frac{\\pi}{3\\varpi} \\); the following equations\n\n1. \\( r^{(1)} \\ldots \\ldots r^{(1)} = a^n \\cdot \\frac{(\\lambda^2 - \\lambda^{-2})^2}{(\\lambda + \\lambda^{-1})^2}. \\quad \\{4,2\\} \\)\n\n2. \\( r^{(1)} \\ldots \\ldots r^{(1)} = a^n \\cdot \\frac{(\\lambda^2 + \\lambda^{-2})^2}{(\\lambda + \\lambda^{-1})^2}. \\quad \\{4,3\\} \\)\nof Cotes's Theorem.\n\n3. \\( r^{(1)}_1 \\ldots r^{(1)}_n = a^n \\cdot \\frac{\\lambda^n + \\lambda^{-n}}{(\\lambda + \\lambda^{-1})^n} \\ldots \\ldots \\{4,4\\} \\)\n\n4. \\( r^{(1)}_1 \\ldots r^{(1)}_n = a^n \\cdot \\frac{\\frac{3\\pi}{2} + \\frac{3\\pi}{2}}{(\\lambda + \\lambda^{-1}) \\cdot (\\lambda^2 + \\lambda^{-2})} \\ldots \\ldots \\{4,5\\} \\)\n\n5. \\( r^{(1)}_1 \\ldots r^{(1)}_n = a^n \\cdot \\frac{\\frac{3\\pi}{2} - \\frac{3\\pi}{2}}{(\\lambda + \\lambda^{-1}) \\cdot (\\lambda^2 - \\lambda^{-2})} \\ldots \\ldots \\{4,6\\} \\).\n\nThe Equation \\{5\\} may be treated in the same manner, for the values of \\( \\varphi \\), being \\( \\varphi; \\varphi + \\frac{2\\pi}{n}; \\ldots \\ldots \\varphi + \\frac{2(n-1)\\pi}{n} \\), those of \\( \\pi - \\varphi \\) in an inverted order will be (if \\( v = - \\{ \\varphi + \\frac{(n-2)\\pi}{n} \\} \\))\n\n\\( v, v + \\frac{2\\pi}{n}, \\ldots \\ldots v + \\frac{2(n-1)\\pi}{n} \\).\n\nHence we find\n\n\\( r^{(2)}_1 \\ldots r^{(2)}_n = a^n \\cdot \\frac{1 - 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n}}{(1 + \\lambda^2)^n} \\),\n\nor, since \\( \\cos v = \\cos n (\\pi + \\varphi) \\)\n\n\\( r^{(2)}_1 \\ldots r^{(2)}_n = a^n \\cdot \\frac{1 - 2\\lambda^n \\cdot \\cos n(\\pi + \\varphi) + \\lambda^{2n}}{(1 + \\lambda^2)^n} \\ldots \\ldots \\{5,1\\} \\).\n\nAs this case, however, is manifestly similar to that of \\{4,1\\}, we shall pursue it no farther.\n\nThe 6th of the equations, in page 9, offers, however, some results worthy of consideration. By treating it like the rest, it becomes\n\n\\( r^{(1)}_1 \\ldots r^{(1)}_n = \\frac{1 - 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n}}{1 - 2\\lambda^n \\cdot \\cos n(\\pi + \\varphi) + \\lambda^{2n}} \\ldots \\ldots \\{6,1\\} \\).\n\n1. When \\( \\varphi = 0 \\), it becomes\nIf then, \\( n \\) be even, this is equal to unity, as it evidently ought, but if odd\n\n\\[\n\\frac{r^{(1)}}{r^{(2)}} = \\left( \\frac{1 - \\lambda^n}{1 + \\lambda^n} \\right)^n = - (\\tan \\frac{n\\pi}{2})^n \\quad \\{6,2\\}\n\\]\n\n2. Let \\( \\varphi = \\frac{\\pi}{3} \\), and \\( n = 6m + 1 \\), and we find\n\n\\[\n\\frac{r^{(1)}}{r^{(2)}} = \\left( \\frac{1 + \\lambda^{3n}}{1 - \\lambda^{3n}} \\right) \\cdot \\left( \\frac{1 - \\lambda^n}{1 + \\lambda^n} \\right) = \\tan \\frac{n\\pi}{2} \\cdot \\cotan \\frac{3na}{2} \\quad \\{6,3\\}\n\\]\n\nWe come now to our 7th Equation, which will afford us results, more complicated indeed, yet equally interesting. By applying the same method of transformation to it, we shall find, (supposing \\( \\varphi_1, \\varphi_2, \\ldots, \\varphi_n = \\varphi_1 + \\frac{2(n-1)\\pi}{n} \\), to be written for \\( \\varphi \\), and \\( R, R, \\ldots, R \\) to denote the resulting values of \\( R \\))\n\n\\[\nR_{1n} = a^n \\cdot \\frac{(1 + \\lambda^2)^n (1 - e^2)^n}{\\left\\{ 1 - 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n} \\right\\}^{\\frac{1}{2}}} \\cdot \\left\\{ 1 - 2\\lambda^n \\cdot \\cos n(\\pi + \\varphi) + \\lambda^{2n} \\right\\}^{\\frac{1}{2}} \\quad \\{7,1\\}\n\\]\n\n1. If \\( n \\) be even, \\( \\cos n\\varphi = \\cos n(\\pi + \\varphi) \\) and, since \\( 1 - e^2 = \\left\\{ \\frac{1 - \\lambda^2}{1 + \\lambda^2} \\right\\}^2 \\), this becomes\n\n\\[\nR_{1n} = a^n \\cdot \\frac{(1 - \\lambda^2)^n}{1 - 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n}} \\quad \\{7,2\\}\n\\]\n\n2. If \\( n \\) be odd, \\( \\cos n\\varphi = - \\cos n(\\pi + \\varphi) \\), whence\n\n\\[\nR_{1n} = a^n \\cdot \\frac{(1 - \\lambda^2)^n}{1 - 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n}} \\cdot \\left\\{ 1 + 2\\lambda^n \\cdot \\cos n\\varphi + \\lambda^{2n} \\right\\}^{\\frac{1}{2}} \\quad \\{7,3\\}\n\\]\nof Cotes's Theorem.\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{\\left(1-2\\lambda^{2n}(2 \\cdot \\cos n\\varphi - 1) + \\lambda^{4n}\\right)^{\\frac{1}{2}}} \\text{ or } \\]\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{\\left(1-2\\lambda^{2n} \\cdot \\cos 2n\\varphi + \\lambda^{4n}\\right)^{\\frac{1}{2}}} \\ldots \\ldots \\{7,3\\}. \\]\n\nLet \\( \\varphi = 0 \\), or, let the extremity of one of the \\( R \\) lie in the principal vertex, If \\( n \\) be even\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{(1-\\lambda^n)^2} = a^n \\cdot \\frac{(\\sin \\alpha)^n}{(\\sin \\frac{n}{a} \\alpha)^2} \\ldots \\ldots \\{7,4\\}. \\]\n\nIf odd,\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{1-\\lambda^{2n}} = a^n \\cdot \\frac{(\\sin \\alpha)^n}{\\sin \\frac{n}{a} \\alpha} \\ldots \\ldots \\{7,5\\}. \\]\n\nLet \\( \\varphi = \\frac{\\pi}{2} \\), and \\( n = 4m + 2 \\), In this case, two out of the \\( R \\) are at right angles to the axis, and\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{(1+\\lambda^n)^2} \\ldots \\ldots \\ldots \\{7,6\\}. \\]\n\nAgain, let one only of the \\( R \\) be perpendicular to the axis, and\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{1+\\lambda^{2n}} \\ldots \\ldots \\ldots \\{7,7\\}. \\]\n\nHere \\( n \\) is of course odd.\n\nNext, let one of the \\( R \\) be inclined at an angle \\( \\frac{\\pi}{4} \\), to the axis.\n\nIf \\( n = 4m + 2 \\),\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{1+\\lambda^{2n}} \\ldots \\ldots \\ldots \\{7,8\\}, \\]\n\nand it is curious to observe, that this expression is the same function of \\( a, \\lambda, n \\), as that of \\( \\{7,7\\} \\).\n\nIf \\( n \\) be of the form \\( 2m + 1 \\),\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{\\sqrt{1+\\lambda^{4n}}} \\ldots \\ldots \\ldots \\{7,9\\}. \\]\n\nLastly, let \\( n \\) be of the form \\( 6m + 2 \\), and \\( \\varphi = \\frac{\\pi}{3} \\), then\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{(1-\\lambda^{3n})} \\ldots \\ldots \\{7,10\\}; \\]\n\nbut, if \\( n = 6m + 1 \\),\n\n\\[ R_{1} \\ldots R_{n} = a^n \\cdot \\frac{(1-\\lambda^2)^n}{\\sqrt{(1+\\lambda^{2n}+\\lambda^{4n})}} \\ldots \\ldots \\{7,11\\}. \\]\n\nThese are always imaginary expressions when \\( e > 1 \\) and \\( n \\) odd. In fact, \\( R \\), in the hyperbola, must be written\n\n\\[ \\frac{a \\sqrt{e^2-1}}{\\sqrt{e^2 \\cdot \\cos \\phi^2 - 1}} \\text{ instead of } \\frac{a \\sqrt{1-e^2}}{\\sqrt{1-e^2 \\cdot \\cos \\phi^2}}. \\]\n\nNow \\( \\sqrt{e^2-1} = e \\cdot \\frac{1-\\lambda^2}{1+\\lambda^2} \\). Thus, this expression, like the rest, is easily transformed, in functions of \\( a, \\lambda, \\lambda' \\), the \\( \\lambda' \\) is now real, and the part involving \\( \\lambda \\) will always be of the form \\( f(\\lambda^m + \\lambda^{-m}) \\), and therefore readily expressed in trigonometrical functions.\n\nBefore we proceed farther, it will be necessary to premise a transformation of Cotes's formula, which we shall have occasion to make use of. It is as follows:\n\n\\[ \\sin(A+B) \\cdot \\sin(A-B) = 2^{2n-2} \\cdot P \\cdot Q, \\text{ where } \\]\n\n\\[ P = \\sin\\left(\\frac{A+B}{n}\\right) \\cdot \\sin\\left(\\frac{\\pi+(A+B)}{n}\\right) \\cdot \\sin\\left(\\frac{2\\pi+(A+B)}{n}\\right) \\ldots \\ldots \\]\n\n\\[ \\sin\\left(\\frac{(n-1)\\pi+(A+B)}{n}\\right) \\quad (a) \\]\n\n\\[ Q = \\sin\\left(\\frac{A-B}{n}\\right) \\cdot \\sin\\left(\\frac{\\pi+(A-B)}{n}\\right) \\cdot \\sin\\left(\\frac{2\\pi+(A-B)}{n}\\right) \\ldots \\ldots \\]\n\n\\[ \\sin\\left(\\frac{(n-1)\\pi+(A-B)}{n}\\right) \\]\n\nThe demonstration is extremely simple,\n\n\\[ 1 - 2x^n \\cdot \\cos a + x^{2n} = (1 - 2x \\cdot \\cos \\frac{a}{n} + x^2)(1 - 2x \\cdot \\cos \\frac{a+2\\pi}{n} + x^2) \\ldots \\ldots (1 - 2x \\cdot \\cos \\frac{a+2(n-1)\\pi}{n} + x^2), \\]\n\nor dividing by \\( x^n \\)\n\n\\[ x^n + x^{-n} - 2 \\cdot \\cos a = (x + x^{-1} - 2 \\cdot \\cos \\frac{a}{n}) \\ldots \\ldots . \\]\nof Cotes's Theorem.\n\n\\[(x + x^{-1} = 2 \\cdot \\cos \\frac{a+2(n-1)\\pi}{n}).\\]\n\nLet \\(x + x^{-1} = 2 \\cdot \\cos c\\); then \\(x^n + x^{-n} = 2 \\cdot \\cos nc\\), and\n\n\\[\\cos nc - \\cos a = 2^{n-1} (\\cos c - \\cos \\frac{a}{n}) \\ldots \\ldots (\\cos c - \\cos \\frac{a+2(n-1)\\pi}{n}),\\]\n\nthat is (by the formula \\(\\cos x - \\cos y = -2 \\cdot \\sin \\frac{x+y}{2} \\cdot \\sin \\frac{x-y}{2}\\)),\n\n\\[\\sin \\frac{a+nc}{2} \\cdot \\sin \\frac{a-nc}{2} = 2^{2n-2} \\cdot \\sin \\frac{a}{2} (c) \\cdot \\sin \\frac{a+2\\pi}{2} (c) \\cdot \\&c.\\]\n\nLet \\(\\frac{a+nc}{2} = A + B\\), and \\(\\frac{a-nc}{2} = A - B\\), and by substitution, the formula under consideration results.\n\nThis immediately gives the following\n\n\\[\\cos (A + B) \\cdot \\cos (A - B) = 2^{2n-2} \\cdot P \\cdot Q,\\]\n\nwhere\n\n\\[P = \\sin \\left\\{ \\frac{\\pi}{2} - \\frac{(A+B)}{n} \\right\\} \\cdot \\sin \\left\\{ \\frac{3\\pi}{2} - \\frac{(A+B)}{n} \\right\\} \\ldots \\ldots\\]\n\n\\[Q = \\sin \\left\\{ \\frac{\\pi}{2} - \\frac{(A-B)}{n} \\right\\} \\cdot \\sin \\left\\{ \\frac{3\\pi}{2} - \\frac{(A-B)}{n} \\right\\} \\ldots \\ldots\\]\n\nand also,\n\n\\[\\cos (A + B) \\cdot \\sin (A - B) = 2^{2n-2} \\cdot P \\cdot Q,\\]\n\nwhere\n\n\\[P = \\sin \\left\\{ \\frac{\\pi}{2} - \\frac{(A+B)}{n} \\right\\} \\cdot \\sin \\left\\{ \\frac{3\\pi}{2} - \\frac{(A+B)}{n} \\right\\} \\ldots \\ldots\\]\n\n\\[Q = \\sin \\left\\{ \\frac{\\pi}{2} - \\frac{(A-B)}{n} \\right\\} \\cdot \\sin \\left\\{ \\frac{\\pi}{2} + \\frac{(A-B)}{n} \\right\\} \\ldots \\ldots \\sin \\left\\{ \\frac{(n-1)\\pi + (A-B)}{n} \\right\\}.\\]\nLet \\( B = 0 \\), and (a) gives\n\n\\[\n\\sin A = 2^{n-1} \\cdot \\sin \\frac{A}{n} \\cdot \\sin \\frac{\\pi + A}{n} \\cdot \\sin \\frac{2\\pi + A}{n} \\cdots \\sin \\frac{(n-1)\\pi + A}{n}. \\quad (d)\n\\]\n\nIf \\( A = \\frac{\\pi}{2} \\), this becomes\n\n\\[\n1 = 2^{n-1} \\cdot \\sin \\frac{\\pi}{2n} \\cdot \\sin \\frac{3\\pi}{2n} \\cdot \\sin \\frac{5\\pi}{2n} \\cdots \\sin \\frac{(2n-1)\\pi}{2n}. \\quad (e)\n\\]\n\n(b) gives by making \\( B = 0 \\),\n\n\\[\n\\cos A = 2^{n-1} \\cdot \\sin \\frac{\\left(\\frac{\\pi}{2}\\right) - A}{n} \\cdot \\sin \\frac{3\\left(\\frac{\\pi}{2}\\right) - A}{n} \\cdots \\sin \\frac{(2n-1)\\left(\\frac{\\pi}{2}\\right) - A}{n}. \\quad (f)\n\\]\n\nIf \\( A = \\frac{\\pi}{3} \\), this gives\n\n\\[\n1 = 2^n \\cdot \\sin \\frac{\\pi}{6n} \\cdot \\sin \\frac{7\\pi}{6n} \\cdot \\sin \\frac{13\\pi}{6n} \\cdot \\sin \\frac{19\\pi}{6n} \\cdots \\sin \\frac{(6n-5)\\pi}{6n}. \\quad (g)\n\\]\n\nEquation (c) divided by (b) gives, (putting \\( A \\), for \\( A - B \\)),\n\n\\[\n\\tan A = \\frac{\\sin \\frac{A}{n} \\cdot \\sin \\frac{\\pi + A}{n} \\cdot \\sin \\frac{2\\pi + A}{n} \\cdots \\sin \\frac{(n-1)\\pi + A}{n}}{\\sin \\left\\{ \\frac{\\left(\\frac{\\pi}{2}\\right) - A}{n} \\right\\} \\cdot \\sin \\left\\{ \\frac{3\\left(\\frac{\\pi}{2}\\right) - A}{n} \\right\\} \\cdots \\sin \\left\\{ \\frac{(2n-1)\\left(\\frac{\\pi}{2}\\right) - A}{n} \\right\\}}. \\quad (h)\n\\]\n\nBut, to return from this digression, let us take Equation \\{8\\}, and putting it into this form\n\n\\[\n\\rho = \\frac{2\\rho \\cdot (1+\\lambda^2)^n \\cdot \\sin \\left( \\frac{\\pi}{2} - \\psi \\right)}{(1-2\\lambda \\cdot \\cos \\psi + \\lambda^2)(1-2\\lambda \\cdot \\cos (\\pi - \\psi) + \\lambda^2)}\n\\]\n\nfor \\( \\psi \\) substitute each of a series of angles, \\( n \\) in number\n\n\\[\n\\psi; \\psi + \\frac{\\pi}{n}; \\psi + \\frac{2\\pi}{n}; \\cdots \\psi + \\frac{(n-1)\\pi}{n},\n\\]\n\nand let \\( \\rho_1, \\rho_2, \\ldots, \\rho_n \\) be the resulting values of \\( \\rho \\).\n\nThe values of \\( \\sin \\left( \\frac{\\pi}{2} - \\psi \\right) \\) in an inverted order, are (if \\( v = - \\left\\{ \\psi + \\frac{n-2}{n} \\cdot \\left( \\frac{\\pi}{2} \\right) \\right\\} \\)) \\( \\sin v; \\sin \\left( v + \\frac{\\pi}{n} \\right); \\sin \\left( v + \\frac{2\\pi}{n} \\right); \\cdots \\sin \\left( v + \\frac{(n-1)\\pi}{n} \\right) \\), and their product, \\( = \\sin \\frac{nv}{n} \\cdot \\sin \\frac{\\pi + nv}{n} \\cdots \\sin \\frac{(n-1)\\pi + nv}{n} = \\frac{\\sin n\\left( \\frac{\\pi}{2} + \\psi \\right)}{2^{n-1}} \\) (by Equation (d)).\nAgain, the values of $\\psi$ being $\\psi_1, \\ldots, \\psi_i + \\frac{(n-1)\\pi}{n}$, those of $\\pi + \\psi$, or $2\\pi - (\\pi - \\psi)$ will be\n\n$$\\psi_1 + \\frac{n\\pi}{n}, \\psi_1 + \\frac{(n+1)\\pi}{n}; \\ldots, \\psi_i + \\frac{(2n-1)\\pi}{n}.$$  \n\nNow, $\\cos. 2\\pi - (\\pi - \\psi) = \\cos. (\\pi - \\psi)$. Hence, the product of all the denominators of $\\rho, \\rho, \\&c.$ will be $(1 - 2\\lambda \\cdot \\cos. \\psi + \\lambda^2)(1 - 2\\lambda \\cdot \\cos. (\\psi + \\frac{\\pi}{n}) + \\lambda^2) \\ldots (1 - 2\\lambda \\cdot \\cos. (\\psi + \\frac{(n-1)\\pi}{n}) + \\lambda^2) \\ldots (1 - 2\\lambda \\cdot \\cos. (\\psi + \\frac{(2n-1)\\pi}{n}) + \\lambda^2) =$,\n\nby Cotes's formula\n\n$$1 - 2\\lambda^{2n} \\cdot \\cos. 2n \\psi + \\lambda^{4n}.$$  \n\nThus we have, combining these separate processes,\n\n$$\\rho_1 \\rho_2 \\ldots \\rho_n = 2a^n (1 - e^2)^n \\cdot (1 + \\lambda^2)^{2n} \\cdot \\frac{\\sin. n \\left(\\frac{\\pi}{2} + \\psi\\right)}{1 - 2\\lambda^{2n} \\cdot \\cos. 2n \\psi + \\lambda^{4n}}$$\n\n$$= 2\\rho^n \\cdot \\frac{(1 + \\lambda^2)^{2n} \\cdot \\sin. n \\left(\\frac{\\pi}{2} + \\psi\\right)}{1 - 2\\lambda^{2n} \\cdot \\cos. 2n \\psi + \\lambda^{4n}} = 2a^n \\cdot \\frac{(1 - \\lambda^2)^{2n} \\cdot \\sin. n \\left(\\frac{\\pi}{2} + \\psi\\right)}{1 - 2\\lambda^n \\cdot \\cos. 2n \\psi + \\lambda^{4n}}$$\n\n1. Let $n$ be any number of the form $4m + 1$; then\n\n$$\\rho_1 \\rho_2 \\ldots \\rho_n = 2\\rho^n \\cdot \\frac{(1 + \\lambda^2)^{2n} \\cdot \\cos. n \\psi}{1 - 2\\lambda^{2n} \\cdot \\cos. 2n \\psi + \\lambda^{4n}} \\ldots \\{8,2\\}.$$  \n\nIf now $\\psi = 0$, or one of the $\\rho$ coincide with the transverse axis,\n\n$$\\rho_1 \\rho_2 \\ldots \\rho_n = \\frac{2\\rho^n (1 + \\lambda^2)^{2n}}{(1 - \\lambda^2)^{2n}} = 2a^n \\cdot \\frac{(1 - \\lambda^2)^{2n}}{(1 - \\lambda^2)^{2n}} \\ldots \\{8,3\\}.$$  \n\nLet, next, $\\psi = \\frac{\\pi}{4} \\{n$ continuing $= 4m + 1\\}$ and,\n\n$$\\rho_1 \\rho_2 \\ldots \\rho_n = \\pm \\rho^n \\sqrt{2} \\cdot \\frac{(1 + \\lambda^2)^{2n}}{1 + \\lambda^{4n}} \\ldots \\{8,4\\}.$$  \n\nIn the parabola, $\\lambda = 1$. Hence in this case,\nIn fig. 2, let ASM be the axis of a parabola, BAC a tangent at the vertex, S the focus—bisect the angle BAM by AP, and draw $4m$ other lines AP, AP, . . . . . . AP, so that if PA, PA, &c. be produced through A, this system of lines shall make equal angles around A, then, neglecting the sign\n\n$$\\rho_1 \\ldots \\rho_n = \\pm (2L)^n \\cdot \\sqrt{\\frac{1}{2}}.$$  \n\nIf $n = 4m + 3$, the resulting value of $\\rho_1 \\ldots \\rho_n$ is of the same form as $\\{8,2\\}$ with the exception of a different sign.\n\nIf $n$ be of the form $4m$, or $4m + 2$,\n\n$$\\rho_1 \\ldots \\rho_n = \\pm \\frac{2a^n(1-\\lambda^2)^{2n} \\cdot \\sin n\\psi}{1-2\\lambda^{2n} \\cdot \\cos 2n\\psi + \\lambda^{4n}} \\ldots \\ldots \\{8,6\\},$$\n\nwhere the sign $+$, or $-$, is to be used, according as $n$ is of the former, or latter form.\n\nWhen $n = 4m + 2$, if $\\psi = \\frac{\\pi}{4}$, this becomes\n\n$$\\rho_1 \\ldots \\rho_n = \\pm 2\\rho^n \\cdot \\frac{(1+\\lambda^2)^{2n}}{(1+\\lambda^{2n})^2} \\ldots \\ldots \\{8,7\\},$$\n\nand when $\\lambda = 1$.\n\n$$\\rho_1 \\ldots \\rho_n = \\pm \\frac{(2L)^n}{2} \\ldots \\ldots \\ldots \\ldots \\{8,8\\}.$$\n\nThus, in the last mentioned construction, if the number of lines be $4m + 2$, instead of $4m + 1$\n\n$$AP_1 \\cdot AP_2 \\ldots \\ldots AP_n = \\frac{(2L)^n}{2}.$$  \n\nThe ninth of our primitive equations gives, if the angles\nof Cotes's Theorem.\n\n\\[ w; \\quad w = w + \\frac{2\\pi}{n}; \\ldots \\quad w = w + \\frac{2(n-1)\\pi}{n}, \\text{ be written for } w, \\]\n\nand for \\( \\theta \\) \\{ a function of \\( w \\), given by the equation\n\n\\[ \\cot. \\frac{1}{2} \\theta = \\frac{1+\\lambda}{1-\\lambda} \\cdot \\tan. \\frac{1}{2} w. \\} \\]\n\nbe put \\( \\theta; \\ldots \\theta \\), the results of that substitution\n\n\\[ \\cos. \\theta \\cdot \\cos. \\theta \\ldots \\cos. \\theta = e^{-n}. \\left( \\frac{\\lambda}{\\lambda'} \\right)^n \\cdot \\frac{1-2\\lambda^n \\cdot \\cos. nw + \\lambda'^n}{1-2\\lambda^n \\cdot \\cos. nw + \\lambda'^n}. \\{9,1\\} \\]\n\nIf \\( w = 0 \\), whatever be \\( n \\),\n\n\\[ \\cos. \\theta \\ldots \\cos. \\theta = e^{-n}. \\left( \\frac{\\lambda}{\\lambda'} \\right)^n \\cdot \\left( \\frac{1-\\lambda^n}{1-\\lambda} \\right)^2 = e^{-n}. \\left( \\frac{\\lambda^n - \\lambda'^n}{\\lambda^n + \\lambda'^n} \\right)^2. \\{9,2\\} \\]\n\nIf \\( n = (2m+1) \\frac{\\pi}{w} \\),\n\n\\[ \\cos. \\theta \\ldots \\cos. \\theta = e^{-n}. \\left( \\frac{\\lambda^n + \\lambda'^n}{\\lambda^n - \\lambda'^n} \\right)^2. \\{9,3\\} \\]\n\nIf \\( n = (6m+1) \\frac{\\pi}{w} \\);\n\n\\[ \\cos. \\theta \\ldots \\cos. \\theta = e^{-n}. \\left( \\frac{\\lambda^n + \\lambda'^n}{\\lambda^n - \\lambda'^n} \\right) \\cdot \\left( \\frac{3^n + 3^n}{3^n - 3^n} \\right). \\{9,4\\} \\]\n\nIf \\( n = (6m+2) \\frac{\\pi}{w} \\),\n\n\\[ \\cos. \\theta \\ldots \\cos. \\theta = e^{-n}. \\left( \\frac{\\lambda^n - \\lambda'^n}{\\lambda^n + \\lambda'^n} \\right) \\cdot \\left( \\frac{3^n - 3^n}{3^n + 3^n} \\right). \\{9,5\\} \\]\n\nMDCCCXIII.\nThese theorems, however simple their algebraic expressions, it must immediately be seen, become for the most part complicated and unintelligible when geometrically enunciated. They are indeed (if we may in any case be allowed to consider a curve as unidentified with its equation) properties rather of the equations of the conic sections, than of the curves themselves,—of a limited number of disjoined points determined according to a certain law, rather than a series of consecutive ones composing a line.\n\nJOHN F. W. HERSCHEL.\n\nSlough, Oct. 6, 1812.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/107384.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 21,
+    "total-input-tokens": 33296,
+    "total-output-tokens": 14043,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1435,
+        2
+      ],
+      [
+        1435,
+        3630,
+        3
+      ],
+      [
+        3630,
+        6481,
+        4
+      ],
+      [
+        6481,
+        8398,
+        5
+      ],
+      [
+        8398,
+        10016,
+        6
+      ],
+      [
+        10016,
+        11667,
+        7
+      ],
+      [
+        11667,
+        13464,
+        8
+      ],
+      [
+        13464,
+        15015,
+        9
+      ],
+      [
+        15015,
+        16182,
+        10
+      ],
+      [
+        16182,
+        17816,
+        11
+      ],
+      [
+        17816,
+        19501,
+        12
+      ],
+      [
+        19501,
+        21328,
+        13
+      ],
+      [
+        21328,
+        23183,
+        14
+      ],
+      [
+        23183,
+        24610,
+        15
+      ],
+      [
+        24610,
+        26890,
+        16
+      ],
+      [
+        26890,
+        28842,
+        17
+      ],
+      [
+        28842,
+        30133,
+        18
+      ],
+      [
+        30133,
+        31587,
+        19
+      ],
+      [
+        31587,
+        32140,
+        20
+      ],
+      [
+        32140,
+        32140,
+        21
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-107384",
+    "title": "On a Remarkable Application of Cotes's Theorem",
+    "authors": "John F. W. Herschel",
+    "year": 1813,
+    "volume": "103",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 21,
+    "jstor_url": "https://www.jstor.org/stable/107384"
+  }
+}

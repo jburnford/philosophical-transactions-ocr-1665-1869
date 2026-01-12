@@ -1,0 +1,59 @@
+{
+  "id": "fcddc8cdb054b3b912f229f1d4c0230896321fd5",
+  "text": "V. Part of a Letter from William Burton, M.D. at Windsor, to C. Mortimer, R.S. Secr. concerning the Viper-catchers, and their Remedy for the Bite of a Viper.\n\nSIR,\n\nWindsor, May 24, 1734.\n\nThe Bearer of this, William Oliver, and his Wife, called upon me last Week with their Vipers, and either of them offered to be bit by any Viper, and to suffer their Arm to swell for some Time; and then, by the external Application of a common cheap Remedy, in a few Hours to remove all the Symptoms. The Experiment was made last Wednesday in our Town-Hall, before Dr. Derham, F.R.S. Dr. Waterland, the Physicians, Apothecaries, and Chirurgeons of this Town, and many other Gentlemen of this Neighbourhood. He was bit in the upper Joint of the Thumb, and higher up on the same Arm, by two different fresh Vipers: His Thumb, Hand and Arm soon after swelled much, and all the usual Symptoms of a Viper-bite followed; he applied the Remedy [Sallad-Oil] before us, with the promised Success: But all the Contributors engaged not to divulge the Remedy ***\n\nYours, &c.\n\nWilliam Burton.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104033.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 348,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1067,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104033",
+    "title": "Part of a Letter from William Burton, M. D. at Windsor, to C. Mortimer, R. S. Secr. concerning the Viper-Catchers, and Their Remedy for the Bite of a Viper",
+    "authors": "William Burton",
+    "year": 1735,
+    "volume": "39",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104033"
+  }
+}

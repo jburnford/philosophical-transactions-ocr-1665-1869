@@ -1,0 +1,129 @@
+{
+  "id": "64a1265cb1f331616cf340723b8bb9877203e23e",
+  "text": "light, at an hundred foot distance, and that at an hundred and twenty foot distance I could discern some of the words. When I made this tryal, its Aperture (defined next the Eye) was equivalent to more than an inch and a third part of the Object-metall. This may be of some use to those that shall endeavour any thing in Reflexions; for hereby they will in some measure be enabled to judge of the goodness of their Instruments, &c.\n\nN. B. The Reader may expect in the next Month another Letter, which came somewhat too late to be here inserted; containing a Table, calculated by the same Mr. Newton, about the several Apertures and Charges answering the several Lengths of these Telescopes.\n\nEPITOME\n\nBinæ Methodi Tangentium Doctoris Johannis Wallisi Geom. Prof. Saviliani Oxoniæ; aliàs fusius & explicatius ab ipso traditæ, hîc verò ob angustiam loci compendiafactæ: In quarum Schematismis si forsan literæ quædam redundaverint, illæ ad ea pertinent censeadæ sunt, quæ in ampliori ejusdem Scripto continentur, hîc vero dictâ de causa omitteruntur.\n\nHabes hic (Clarissime vir) eorum summam (strictim traditam) qua fusius scripséräm, meas de Tangentibus Methodos spectantia, duas potissimum quibus praestim utor; alteram in Speciebus, alteram in Lineis; utramque generali formâ facile explicablem.\n\nPriorem adhibeo Con.Se&.prop.23,30,36,46,49.& passim alibi. Quæ hæc est.\n\nExposita Curva Aa, (puta Parabola, fig. 4.) quam in a tangat a F, diametro VDA occurrens in F; ordinatim applicentur a V, & DOT curvae in O & tangentis in T occurrens. Ponatur autem V a = b, VA = v, VF = f, VD = a, adeoque DA = v + a, DF = f + a;\n\nEst (propter similia triangula) VF.DF :: Va.DT = \\frac{f+a}{f}b.\n\nItem, si tangens sit ultra curvam, DT > DO; si citra, DT < DO: Nempe, DT = DO si intelligatur D in V; sed, si extra V, DT vel DO major prout tangens est ultra citrave curvam.\n\nTum,\nTum habita ipsius DO designatione quae sit exposita curva accommodata; (puta, in Parabola, propter AV. AD :: Vaq. DOq = \\(\\frac{v^2 + a}{v} b^2\\); DO = \\(b \\sqrt{\\frac{v^2 + a}{v}}\\)) fiat debita reducio, (puta, propter \\(\\frac{f^2 + 2fa + a^2}{f^2} > \\frac{v^2 + a}{v}\\), & \\(f^2 v + 2fv + va^2 > f^2 v + fa\\); deletis utrinque aequalibus, hoc est, iis omnibus in quibus a non conspicitur; ceterisque per \\(+a\\) divisis: \\(2fv + va > f^2\\).)\n\nTandem (qui methodi nucleus est) posito D in V, (quod sit a = 0, adeoque evanescant ipsius multiplica omnia,) aquatio exhibebit \\(f\\) quaestam (puta \\(2fv + va = 2fv = f^2\\), adeoque \\(2v = f\\).)\n\nHanc (locis citatis) accommodatam videos Parabola, Ellips, Circulove, Hyperbolae, Paraboloidibus omnibus, (quibus & harum Reciprocas ascensio,) atque alibi aliis.\n\nCissoidi (fig.5.) sic accommodes. Est (per cap. 5. pr.29. de Motu) \\(Va = b = \\frac{v^2}{vvh}\\), (posito s pro sinu recto in circulo generante, cujus radius r, sinus versus v, & \\(2r - v = h\\), & \\(h - v = 2a\\),) adeoque (\\(v^2 + va + a^2\\)) \\(= DQ\\).\n\n\\(DT = \\frac{f^2 + a}{f^2} \\times \\frac{v^2}{vvh}\\). Ergo (sumptis quadratis, & multiplicando decussatim,) \\(f^2 v^3 h + 6f^2 v^3 ha^2 + f^2 vha^4 + 4f^2 v^4 ha + 4f^2 v^2 ha^3 + f^2 v^3 h + 2f^2 v^3 ha + v^3 ha^2 + 2f^2 v^4 x a + 4f^2 v^2 x a^2 + 2v^4 x a^3 - f^2 v^4 a^2 + 2f^2 v^3 a^3 - v^4 a^4\\): item (deletis utrinque aequalibus, ceterisque per \\(+va\\) divisis) \\(+6f^2 v^3 ha + f^2 ha^3 + 4f^2 v^3 h + 4f^2 vha^2 > 2fv^4 h + v^4 ha + 2f^2 v^3 x + 4f^2 v^3 x a + 2v^3 x a + f^2 v^3 a^2 - 2f^2 v^3 a^2 + v^3 a^3\\). Denique (posito D in V, quo evanescat a cum suis multiplis, ceterisque per \\(+v^3\\) divisis) fiet aquatio \\(2fh - fh = vh\\), adeoque \\(\\frac{vh}{2} = \\frac{v^2}{vvh} + \\frac{v^2}{vvh} + \\frac{v^2}{vvh} + \\frac{v^2}{vvh} = f\\).\n\nIdem succedet, sumptâ, pro VA, diametro YA; (cui tangens occurrat in \\(+\\)) aliâ VC. Item, si exponeretur curva quae ordinatas non habeat, sed quae bis equipolent; ut sunt, in Spirali, crescentes radii.\n\nSed & calculi magna pars praevete potest; omissis ab initio (ut pote post reiciendis) terminis iis ubi habetur \\(n^2\\) vel superior hujus potentias; item iis in quibus nec a conspicitur, nec sunt in aducendi, (ut pote aequalibus utrinque prodituris.) Exempli gratia.\nIn Conchoide, (fig. 6.) cujus ordinata \\( VM_a \\) constat ex sinu recto \\( VM = s = \\sqrt{vh} \\), & tangente \\( MA = CH = \\frac{s}{r} \\), (si sit \\( CP = CA = r \\), adeoque \\( CH = AS \\); ) saltem \\( \\frac{s}{r} \\) (posito \\( CP = s \\); ) adeoque \\( Va = b = s + \\frac{s}{r} r = \\frac{x + r}{r} s = \\frac{h}{s} s \\), saltem \\( \\frac{x + r}{r} s = \\frac{h}{s} s = \\sqrt{vh} \\) (posito \\( x + r = m \\)).\n\nErgo \\( DT = \\frac{f + a}{a} b = \\frac{f + a}{a} \\sqrt{vh} \\geq DO = \\frac{f + a}{a} \\sqrt{vh} + 2 \\times a - : \\) (omitto \\( a^2 \\), quia post delendum, indeque oriunda, & sic semper:) & sumptis quadratis, \\( \\frac{f + a}{a} \\sqrt{vh} \\geq \\frac{f + a}{a} \\sqrt{vh} + 2 \\times a - \\) (hoc est, supra, sed \\(\\leq\\) infra, punctum flecus contrarii.)\n\nEt, decussatim multiplicando; omissis (ut precipitatur) \\( f^2 \\times n^2 \\times vh \\) utrobique, omnibusque \\( a^2 \\) multipliis; caeterisque per \\( \\pm a \\) divisis; \\( 2fn^2vhk^2 - 2f^2n^2vhx + 2f^2n^2x^3 - 2f^2n^2vhk^2 \\): adeoque (posito \\( D \\) in \\( V \\), \\( nvhx = fnvh + fnx^2 - fhv = fnr^2 - fhv \\) (propter \\( vh + x^2 = s^2 + x^2 = r^2 \\)), \\( f = \\frac{vh}{n^2} \\times \\frac{n}{k} \\). Et quidem, in primaria, (propter \\( h = u \\)), \\( f = \\frac{vh}{n^2} \\times \\frac{n}{k} \\).\n\nIn Figura Tangentium (fig. 7.) qua à Conchoide differt, excepto quadrante genitore; idem erit processus, nisi quod, propter \\( Va = Ma = \\frac{p}{r} s \\) (non \\( \\frac{n}{s} s \\)), prodibit (five in primaria, five in protracta contrahave,) \\( f = \\frac{vh}{r^2} \\times k \\).\n\nIn Figura Secantium (fig. 8.) propter \\( Va = b = \\frac{r^2}{x} \\); erit \\( DO = \\frac{r^2}{x^2} \\geq \\frac{f + a}{a} r^2 = DT \\). adeoque \\( f = k \\).\n\nCumque hæc curva sit Hyberbola (per pr. 30. cap. 5. & pr. 1. cap. 15. de Motu,) cujus Asymptotæ \\( CA, CB \\): eadem tangens habetur per pr. 36. Con. Sect. Cumque ordinatae ad asymptotas (per pr. 94, 95, Arith. Infin.) sint series Reciproca Primanorum (quæ ad Paraboloidium genus spectat, verticem habens \\( C \\), exponentem \\(-1\\),) habetur eadem tangens per prop. 49. Con. Sect. (eademque est expedita methodus pro hyperbolæ cujusvis tangente per asymptotam inveniendâ.) Quippe, in Paraboloidibus omnibus, ut intercepta diameter \\( VC \\), ad \\( VF \\), sic \\( x \\) ad exponentem: hoc est, in praesenti casu, ut \\( x \\) ad \\(-1\\); adeoque \\( VC = VF \\), sed (propter contraria signa \\(+ -\\)) ad contrarias partes.\n\nNotandum hic; in Parabolæ, Paraboloide, Hyperbolæ, Ellipse, &c. figuræ Sinuum (rectorum, versorumve,) Arcuum, Tangentium,\ngentium, Secantium, &c. aliàve cujus constructio est similaris; protractio contraetiove figura (seu mutatio Lateris recti, aut quod hujus instar est,) non mutat punctum F, (eo quod Latus-rectum aquationem qua longitudinem VF determinat non ingrediatur, utut eam ingrediatur qua determinat longitudinem Va, mutetque angulos ad a & F:) sed ubi constructio est Dissimilaris, ut in Cycloide & Conchoide (propter ordinatam illic ex Sinu & Arcu, hic ex Sinu & Tangente, constatam,) altisque istiusmodi, res fecus est: eo quod una pars (ut Arcus in Cycloide & Tangens in Conchoide) protrahitur contrahiturve, manente altera (puta, in utrisque Sinu recto) ut in primariâ.\n\nIdemque dicendum de Angulo applicationis (ad V,) cujus mutatio non mutat longitudinem VF, sed neque Va, quia neutrius ingreditur equationem. Atque hinc fit, quod in figura Scalena, quae ordinatas contrarias, utrinque ad V positas, spectant tangentes, utut inaequales, in eodem F conveniant. Sed & (ut hoc obiter moneam) quadratorum aggregatum habent idem atque in erectâ; nempe semper = 2 Va q + 2 VF q.\n\nEstque hæc mihi methodus pro Maximis & Minimis in omne genus quantitativus.\n\nMethodus altera (sesundum tradita de Angulo Contactus & Arithm. Insin.) curvam considerat tanquam ex pariculis constatatam infinitè exiguis, sed certam positionem habentibus; eadem nempe (propter contactûs angulum sive nullius magnitudinis sive infinitè exigua) cum recta ibidem tangente: adeoque cum bac (respectu cujusvis rectæ) pariter declivem, (ut est Montis Aa fig. 4, 5, declivitas in a, eadem qua tangentis & F.) Cujus ergo queque particula (per cap. 2. de Motu) est in ea ratione magis longa (quam est respectiva exposita rectæ particula æquè-alta) quæ est minus declivis; put: a T quàm VD: Unde, propter mutata in singulis punctis declivitatem, oritur series longitudinum inaequalium in curva, seriei æqualium in rectâ, respondens; curvae ad rectam rationem exhibens. Atque hinc methodus mea pro curvis rectificandis, (schol. prop. 38. Ar. Insin. insinuata,) quam proficor tractatu de Evaguris, item de motu cap. 5. prop. 13. & feqq. Cujus aliqua pars est hæc de Tangentibus, ut qua non totam declivitatum seriem perpendit, sed eam que est in experto puncto.\n\nHanc respectivam particularum longitudinem, aliàs insinuatum eunt\ncunt (motu forinissecus assumpto) per motuum quibus transfigantur in xivov celeritatem. (Quippe idem est, in Motu, Celeritas, atque hæc, in Situ (propter positionem obliquam seu minus declivi- vum) respectiva Longitudo.) Aptissimè quidem in lineis a motu primitus oriundis, (puta Cycloide, Conchoide, Spirali, Quadrati- trice, &c.) nec ineptè in aliis, qua fingi saltem possunt istiusmodi motibus describi.\n\nPræsumo autem (ex prop. 15, cap. 2. de Motu) eam esse curvæ in quovis puncto directionem, adeoque & declivitatem, qua est rectæ ibidem tangentis: Item (ex prop. 6, cap. 10.) Motus compositi di- rectionem esse in Diagonio parallelogrammi, cujus latera & anguli exhibeant componentium celeritates & directiones.\n\nIntelligatur jam (fig. 4.) Aa parabola, describi motu composito, ex æquabili secundum AT vel Va, cujus itaque particula ioxsvoiv (per pr. 3, cap. 10. de Motu) sunt series Primanorum, que ad se- riem totidem ultimæ æqualium, (hoc est, ad rectam ioxsvoiv celeri- tate in æ acquisitâ transfigendam,) est ut 1 ad 2, (per Ar. Infinit. pr. 64. vel pr. 1, cap. 5. de Motu.) Adeoque, sumpta VF = VA, & completo FVa parallelogrammo; juncta aF est Tangen.\n\nIdem similiter obtinebitur in Paraboloidibus quibuscumque, ope prop. 2, 5, 6, 7, de Motu.\n\nAtque inde facile (vel ex iisdem principiis) ostenditur; si intel- ligatur Fig. ATY sic constituta, ut momenta (respectu AF) ordi- natrum Yv, yω, sint ipsis Ya, yO, ordinatis proportionalia; erunt Celeritates acquisita in a, ω, seu V, D, (posita AT linea mo- tús æquabilis) rectis Yv, yω, proportionales: Et consequenter, ut AVY (illarum aggregatum) ad AFvY (aggregatum totidem maxime æqualium,) sic VA (aggregatum celeritatum seu particularum crescentium) ad (aggregatum totidem maxime æqualium) YF.\n\nSpiralis ASa (fig. 9.) punctum a designatur motu composito ex recto per Aa, & circulari per Va, æquabilibus utri/que & ioxsvoiv. Ergo, sumpta circuli tangente aw=aV, & completo AawF paralle- logrammo; juncta aF Spiralém tanyet.\n\nUnde statim emergit Archimedea quadratura (sive Circuli sive Sectoris cujusvis) propter AF = aw = aV.\n\nSin motuum alter, puta Aa, sit acceleratus vel retardatus; pro A,\naA, sumenda erit aB (in ea adillumratione quam illa postulat acceleratio seu retardatio,) eritque diagonium aB, Tangens quaestia.\n\nQuadratricis AaB (fig.10.) punctum a designatur motu composito ex recto per va, & circulari in Ya (æquabilibus æquè velocibus.) Ergo, sumpta tangente aV=aY, & completo parallelogrammo VaaF, juncta aF tanget Quadratricem.\n\nAtque hinc alia quadratura, per Tangentem quadratricis, propter vF=aV=aY.\n\nIlla per quadratricis Basin, sic elicetur. Positis CA=r, AQ=q, YZ=x, QR=a. Erit (propter Quadratricis constructionem) AQ. RQ :: AC.aAE = \\(\\frac{3}{4} r\\) :: YZ.aZ = \\(\\frac{3}{4} x\\). Estque aZ > aE sumpto ubivis in AB puncto a, praeterquam in B, quo casu (evanescente utraque) erit aZ=aE, adeoque x=r; hoc est, YZ=XB =AC. Sed & vE communis tangens utrique curva XB, AB.\n\nCycloïdis (fig.11.) punctum a describitur motu composito, ex recto in aV, & circulari in aB (æquabilibus æquè velocibus.) Ergo, sumpta tangente aV=aV, & completo VaaF parallelogrammo, juncta aF Cycloïdem tanget. Et quidem, propter Ang. vaF (=aBF =\\(\\frac{1}{2}\\) aCF) =\\(\\frac{1}{2}\\) vaV, occurret circuli aB erectæ diametro in vertice.\n\nIn secundariis (contractà protractàve) sumenda erit au ad aV, in ea ratione major minorve, quà eß celeritas motûs circularis ad celeritatem recti.\n\nIn Figura Arcuum, Sinuumve, (fig.12.) procedendum ut in Cycloide, nisi quòd (propter exemptum semicirculum genitorem) pro tangente au illic (quæ hic est at) sumenda erit erecta au æquæalta.\n\nConchoidis (fig.6.) punctum a designatur motu composito, ex æquabilis circulari in aB (hujusve tangente au) & recto in aY acelerato pro incremento tangentium: quæ quidem acceleratio duplex est, altera propter declivitatis angulum BaY, hoc est, vaY, continuè crescentem; altera propter radii in secantem protractionem, continuè item crescentem. Propter priorem, ducta tangente au (quæ occurrat in u regula CH,) recta u? (parallela rectæ PHa,) occurrat aY in ?; Propter posteriorum, eadem u?, protracta occurrat tangentis verticis in Z: indeque ZY rectæ vaX parallela; adeoque aY=XZ.\n\nM m m m\n\\textit{CM. Ars} \\textit{Pu. PH. Completo denique Tant parallelogram-\nmos, juncta ad tanget conchoidem.}\n\nIn secundariis (ubi non est \\(CP = CA\\),) sumenda erit \\(aY\\) ad jam de-\nsignatam, ut est \\(CP\\) ad \\(CA\\).\n\nIn Figura Tangentium (fig. 7.) propter exemptum Conchoidi\nquadrantem genitorem, pro tangente au illic (quae hic est at) su-\nmenda erit erecta au aquæ-alta.\n\nPluribus exemplis preferendis supersedeo. Monco tamen, utram-\nvis Methodum, utut tangentibus rectis hic accommodatam, extende\nposse ad mutuum Curvarum tactum. Puta; si, pro \\(FVa\\) triangulo\n(fig. 4,5,) intelligatur Hyperbola; recta \\(DT\\), que hic insignitur cha-\nractere qui triangulo conveniat. Subire tum debet characterem Hy-\nperboles; cujus vertex \\(F\\) similis processu quaeratur. Similisque in\nposteriori methodo accommodatus est linearum ductus. Et quidem,\ncum curvam \\(Aa\\) tangens recta \\(aF\\), sit etiam tangens communis\ncurvarum omnium, expositam ibidem tangentium; prout hic, ex data:\n\\(Aa\\) curva quaeritur recta \\(aF\\), sic ex hac datâ (per eandem metho-\ndum inversam) quaerenda erit alia tangens curva, modo satis sit de-\nterminata.\n\nSed ampliandum non est. Tu itaque Vale.\n\nTuus\n\nOxoniae die 15.\nFebr. 1671.\n\nJohannes Wallis.\n",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/100916.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 9,
+    "total-input-tokens": 13974,
+    "total-output-tokens": 5616,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1867,
+        2
+      ],
+      [
+        1867,
+        4144,
+        3
+      ],
+      [
+        4144,
+        6653,
+        4
+      ],
+      [
+        6653,
+        8936,
+        5
+      ],
+      [
+        8936,
+        11093,
+        6
+      ],
+      [
+        11093,
+        13163,
+        7
+      ],
+      [
+        13163,
+        14379,
+        8
+      ],
+      [
+        14379,
+        14379,
+        9
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "la",
+      "None"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-100916",
+    "title": "Epitome Binae Methodi Tangentium Doctoris Johannis Wallisii Geom. Prof. Saviliani Oxoniae; Alias Fusius & Explicatius Ab Ipso Traditae, Hic Vero Ob Angustiam Loci Compendifactae: In Quarum Schematismis Si Forsan Literae Quaedam Redundaverint, Illae Ad Ea Pertinere Censendae Sunt, Quae in Ampliori Ejusdem Scripto Continentur, Hic Vero Dicta de Causa Omittantur",
+    "authors": "Johannes Wallis, Johannis Wallisii",
+    "year": 1672,
+    "volume": "7",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 9,
+    "jstor_url": "https://www.jstor.org/stable/100916"
+  }
+}

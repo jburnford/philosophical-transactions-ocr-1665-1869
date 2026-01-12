@@ -1,0 +1,59 @@
+{
+  "id": "bd9040bf398666d45f83bb7a7bf3f762b9fff4eb",
+  "text": "VII. A Note concerning the Cold of 1740, and of this Year. By J. Bevis, M. D. F. R. S.\n\nReceived January 14, 1768.\n\nRead March 3, 1768.\n\nI find in my journal of astronomical observations made at Stoke Newington, in a detached or insulated observatory, whose walls were of brick and two feet thick, that during most part of the night of the 5th day of January 1740, the ink in my stand-dish would freeze in a few minutes, if brought within a foot of the wall; and that the surface of the water wherein the ball of the plumb-line hung, for rectifying the position of my mural quadrant, was continually freezing, so that I was obliged to thaw it frequently, by pouring in hot water; yet was there a good fire in the room all the night. At 5 in the morning, of the 6th, a Fahrenheit's thermometer, made by himself, exposed to the North, stood somewhat lower than 10, that is, more than 23 divisions below freezing. This was the coldest night of that year there.\n\nThis present year, in Brick-court, No. 1, Middle Temple, the same thermometer, exposed out o'doors to the North, stood lowest on New year's day in the morning, to wit at 17, and once again at the same place; but then I am to observe that I am on that side my chambers environed with buildings almost contiguous to the wall my instrument is hung against, wherein very probably fires were kept up, which hindered the quicksilver from sinking considerably lower.\n\nJ. Bevis.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105755.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3228,
+    "total-output-tokens": 424,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1429,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105755",
+    "title": "A Note concerning the Cold of 1740, and of This Year. By J. Bevis, M. D. F. R. S.",
+    "authors": "J. Bevis",
+    "year": 1768,
+    "volume": "58",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105755"
+  }
+}

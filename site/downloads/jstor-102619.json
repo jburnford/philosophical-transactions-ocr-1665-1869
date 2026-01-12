@@ -1,0 +1,69 @@
+{
+  "id": "9c0b6328d4c06f03f4f7e47315ec0ba2593d06c8",
+  "text": "Quæ propter rogamus, quoslibet Botanicae, Medicinæ, Philosophiae, &c. Studiosos Methodum hujusmodi Propositionis invenire.\n\nRogamus etiam, an esse possit signum aliquod, & quidnam sit illud, quod ex anatomia, ac cadaverum Dissectionibus certo poterit indicare quemlibet ob assumptum Opium interemptum fuisse?\n\nVI. Part of a Letter from Mr. Llwid to Dr. Tancred Robinson, F. R. S. concerning a Figured Stone found in Wales; with a Note on it, by Hans Sloane, M.D.\n\nHere send you the Representation of a Limestone-Marble, we have lately Discovered in this Country, when Polish'd. We have Plenty of it; but few pieces exceed Six, Nine, or Twelve Inches Diameter; for 'tis only a sort of Alcyonium, incorporated in several small blocks of the Lime-stone; whereof the first Figure represents a piece polish'd Perpendicularly, and the other Horizontally. I would intreat you to Discourse some Stone-Cutter, and to advise me what Uses it might seem proper for, &c. 'Tis (to me) more Beautiful than the Florentine Marble, but much more hard and substantial. I should be glad of a Line or two about it.\n\nVide Fig. 3. & 4.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102619.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 5026,
+    "total-output-tokens": 400,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1112,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102619",
+    "title": "Part of a Letter from Mr. Llwid to Dr. Tancred Robinson, F. R. S. Concerning a Figured Stone Found in Wales; with a Note on It, by Hans Sloane, M. D.",
+    "authors": "Hans Sloane, Mr. Llwid",
+    "year": 1699,
+    "volume": "21",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102619"
+  }
+}

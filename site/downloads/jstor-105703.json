@@ -1,0 +1,59 @@
+{
+  "id": "ea691ab070a8ea2e969294dcb090a706021d43a2",
+  "text": "XIV. Extract of a Letter from Simon Peter Pallas, M.D. of Berlin, to Mr. Emmanuel Mendez da Costa, Librarian to the Royal Society, relating to the State of the State of the Cold there last Winter, dated Feb. 12, 1763.\n\nRead March 3, 1763.\n\nWE have had great frosts here, as indeed all over Germany. I have observed myself, on the twenty-seventh of December of last year, a little after seven o'clock in the morning, the Cold to have been so excessive, that the mercury in the thermometer of Fahrenheit stood at four degrees under 0, which is fifteen degrees under 0 of Reaumur's Scale, than which the Cold in 1740 was but very little more intense. Mr. Euler, junior, observed the same day the thermometer at the same degree: about eight and at nine of the clock of that day, the mercury in the barometer stood at the height of 30\" 1\"\" the like of which never had been observed at Berlin before.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105703.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 290,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        894,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105703",
+    "title": "Extract of a Letter from Simon Peter Pallas, M. D. of Berlin, to Mr. Emanuel Mendez da Costa, Librarian to the Royal Society, Relating to the State of the State of the Cold There Last Winter, Dated Feb. 12, 1763",
+    "authors": "Simon Peter Pallas",
+    "year": 1763,
+    "volume": "53",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105703"
+  }
+}

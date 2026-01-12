@@ -1,0 +1,119 @@
+{
+  "id": "340ffff24c377b3f0935b2e7bf4e1c725ab68be7",
+  "text": "XXVII. On Curves of the Third Order. By the Rev. George Salmon, Trinity College, Dublin. Communicated by Arthur Cayley, Esq., F.R.S.\n\nReceived May 20,—Read June 17, 1858.\n\nThe following Notes are intended as supplementary to Mr. Cayley's Memoir on Curves of the Third Order*.\n\nIf in a cubic $U$ we substitute $x + \\lambda x', y + \\lambda y', z + \\lambda z'$ for $x', y', z'$, let the result be written\n\n$$U + 3\\lambda S + 3\\lambda^2 P + \\lambda^3 U',$$\n\nwhere $S$ and $P$ are evidently the polar conic and polar line of $x'y'z'$ with respect to the cubic, and\n\n$$3S = x'\\frac{dU}{dx} + y'\\frac{dU}{dy} + z'\\frac{dU}{dz}; \\quad 3P = x\\left(\\frac{dU}{dx}\\right)' + y\\left(\\frac{dU}{dy}\\right)' + z\\left(\\frac{dU}{dz}\\right)'.$$\n\nIn like manner let the result of a similar substitution in $H$ be written\n\n$$H + 3\\lambda \\Sigma + 3\\lambda^2 \\Pi + \\lambda^3 H',$$\n\nwhere $\\Sigma$ and $\\Pi$ are the polar conic and polar line of $x'y'z'$, with respect to the Hessian. Then the identical equation which Mr. Cayley has given, p. 442, may with advantage be replaced by the following,\n\n$$3(S\\Pi - \\Sigma P) = H'U - U'H,$$\n\nan equation which can be easily verified by the help of the canonical form\n\n$$U = x^3 + y^3 + z^3 + 6lxyz.$$\n\nWhen $x'y'z'$ is on the curve $U$, the identical equation just written enables us to write the equation $U = 0$ in the form\n\n$$S\\Pi - \\Sigma P = 0,$$\n\na transformation from which many important consequences may be deduced.\n\nIn the first place, the equation shows that the lines $P, \\Pi$ intersect on the cubic; hence the tangential of the point $x'y'z'$, that is to say, the point where the tangent $P$ meets the cubic again, is the intersection of $P$ with $\\Pi$, the polar of $x'y'z'$ with regard to the Hessian.\n\nAgain, the points of contact of tangents from $x'y'z'$ are known to be the intersections of $S$ with the cubic; and the equation shows that the points in question are the intersections of $S, \\Sigma$†.\n\nFurther, the equation shows that $S = \\mu \\Sigma$ and $P = \\mu \\Pi$ (where $\\mu$ is arbitrary) intersect on the cubic. But the second of these equations is the polar of $x'y'z'$ with respect to the former: hence the cubic may be generated as the locus of the points of contact of tangents from a point $x'y'z'$ to a system of conics passing through four fixed points.\n\n* Philosophical Transactions, 1857, p. 415\n\n† See Mr. Cayley's Memoir, p. 443.\nLet the conic $S = \\mu \\Sigma$ break up into two right lines; then $P = \\mu \\Pi$ obviously passes through the intersection of these lines: this intersection is therefore a point on the cubic and $P - \\mu \\Pi$ the tangent at it. Hence the four points of contact of tangents to the cubic from $x'y'z'$ form a quadrangle, the three centres of which are on the cubic, and are the three points co-tangential with $x'y'z'$, that is to say, having the same tangential*.\n\n**Formation of the Equation of the Conic through five consecutive Points of a Cubic.**\n\nMr. Cayley has communicated to me an investigation of the equation of the above conic in the case where the cubic is given by the equation\n\n$$x^3 + y^3 + z^3 + 6lxyz = 0.$$  \n\nThe investigation of the general case presents no greater difficulty, by the help of the identity with which we commenced.\n\nSince $S$ touches the cubic and $P$ is the common tangent, the general equation of a conic touching $U$ must be of the form $S - \\alpha P$ (where $\\alpha = Ax + By + Cz$ denotes any right line whatever). But by the identity referred to, the equation of the cubic may be written\n\n$$\\Pi(S - \\alpha P) = P(\\Sigma - \\alpha \\Pi).$$\n\nHence the four points where $S - \\alpha P$ meets the cubic again are its intersections with $\\Sigma - \\alpha \\Pi$, and if the latter conic pass through $x'y'z'$, the former will pass through three consecutive points of the cubic. But on substituting $x'y'z'$ for $xyz$, we have $\\Sigma' = \\Pi' = H'$, and the condition that $\\Sigma - \\alpha \\Pi$ shall pass through $x'y'z'$ is simply $\\alpha' = 1$.\n\nIn order that $S - \\alpha P$ may pass through four consecutive points, $\\Sigma - \\alpha \\Pi$ must have $P$ for a tangent at the point $x'y'z'$. Now the tangent to $\\Sigma - \\alpha \\Pi$ (being the polar of $x'y'z'$ with respect to this conic) is\n\n$$2\\Pi - \\alpha'\\Pi - \\alpha\\Pi',$$\n\nor, since\n\n$$\\alpha' = 1, \\quad \\Pi' = H', \\quad \\text{is} \\quad \\Pi - \\alpha H'.$$\n\nBut this quantity must be proportional to $P$. Hence we have\n\n$$\\alpha = \\lambda P + \\frac{1}{H'} \\Pi.$$\n\nThe general equation therefore of a conic through four consecutive points is\n\n$$S - \\lambda P^2 - \\frac{1}{H'} \\Pi \\Pi,$$\n\nand\n\n$$\\Sigma - \\lambda \\Pi \\Pi - \\frac{1}{H'} \\Pi^2$$\n\npasses through the two points where the former conic meets the cubic again. Since these two conics have $P$ for a common tangent, it will be possible, by adding the equations (multiplied by suitable constants), to obtain a result divisible by $P$, and the quotient will be the line joining the points where the conic meets the cubic again. It\n\n* See Mr. Cayley's Memoir, p. 444, and my 'Higher Plane Curves,' p. 134.\nis necessary, then, in the first place to determine $\\mu$ so that $\\mu S + \\Sigma - \\frac{1}{H'} \\Pi^2$ may be divisible by $P$, which we do simply by equating to 0 the discriminant of this equation. It will be observed that $\\Sigma - \\frac{1}{H'} \\Pi^2$ denotes a pair of lines drawn through $x'y'z'$ to touch $\\Sigma$: hence in the discriminant that part vanishes which is not multiplied by $\\mu$; and because these two lines intersect on $S$, the part multiplied by $\\mu$ also vanishes. Likewise the coefficient of $\\mu^2$ in the discriminant of $\\mu S + \\Sigma$ vanishes, and the coefficient of $\\mu^2$ in the discriminant of $\\mu S + \\Pi^2$ is the function which Mr. Cayley has called $\\Theta^*$. Hence the discriminant of $\\mu S + \\Sigma - \\frac{1}{H'} \\Pi^2$ is simply $\\mu^3 H' - \\mu^2 \\Theta'$, and therefore, if $\\mu = \\frac{\\Theta'}{H'^2}$, this conic will break up into two right lines, and we may write\n\n$$\\mu S + \\Sigma - \\frac{1}{H'} \\Pi^2 = \\beta P.$$  \n\nBy the help of this equation, the equation of the cubic can be transformed from the form\n\n$$\\Pi S - P \\Sigma = 0$$\n\nto the form\n\n$$(\\Pi + \\mu P)(S - \\lambda P^2 - \\frac{1}{H'} P \\Pi) = P^2 \\left\\{ \\beta - \\frac{\\mu}{H'} \\Pi - \\lambda (\\Pi + \\mu P) \\right\\}.$$  \n\nThe form of the equation shows that $\\Pi + \\mu P$ is the tangent at the point of the cubic which is tangential to the given one, and that $\\beta - \\frac{\\mu}{H'} \\Pi$ passes through the point where that tangent meets the cubic again, or, as we shall call it, through the second tangential of the given point.\n\nThe theorem contained in the last equation, viz. \"that if a conic pass through four consecutive points of a cubic at $x'y'z'$, the chord joining the remaining points passes through the second tangential of $x'y'z'$,\" may easily be deduced independently. In fact, if $abc = def$ be the equation of any cubic, any conic $ab = ude$ meets the cubic again in two points whose chord $uc = f$ passes through the fixed point $cf$. And hence, as is well known, all conics through four points on a cubic meet the curve again in a chord passing through a fixed point which I call the opposite of the four given points, and which is constructed as follows: Let the line joining the points 1 and 2 meet the curve in a point 5, let the line joining the points 3 and 4 meet the curve in a point 6, then the line joining 5, 6 meets the curve in the point 7 required. Now when 1 and 2, 3 and 4 coincide, the points 5 and 6 both coincide with the tangential of that point, and consequently 7 is the second tangential.\n\nIt follows immediately that the conic through five consecutive points meets the curve again in a point which is found by joining the original point to its second tangential, and taking the point where the joining line meets the curve again. We deduce hence at once M. Plücker's determination of the points at which a conic can osculate a cubic in six points. In fact, if the point just determined were to coincide with the\n\n* Third Memoir on Quantics, p. 642.\noriginal point, the first and second tangential should coincide; or in other words, the tangential should be a point of inflexion. There are then twenty-seven conics which can meet a cubic in six consecutive points, and the points of contact are the points of contact of the tangents drawn from the nine points of inflexion.\n\nWe return to complete the algebraic solution of the problem to determine the equation of the conic meeting a cubic in five consecutive points at $x'y'z'$, and it is obvious that what remains to be done is to determine $\\lambda$ so that the line\n\n$$\\beta - \\frac{\\mu}{H'}\\Pi' - \\lambda(\\Pi + \\mu P)$$\n\nmay pass through $x'y'z'$. The only difficulty is to determine the result of substituting $x'y'z'$ in $\\beta$. Now if we differentiate, with regard to $x$, $y$, or $z$, the equation\n\n$$\\mu S + \\Sigma - \\frac{1}{H'}\\Pi^2 = \\beta P,$$\n\nand substitute $x'$, $y'$, $z'$ for $x$, $y$, $z$ in the result, we get $\\beta' = 2\\mu$. Hence, since $\\Pi' = H'$, $P' = 0$, we have\n\n$$\\beta' - \\frac{\\mu}{H'}\\Pi' - \\lambda(\\Pi' + \\mu P') = \\mu - \\lambda H' = 0,$$\n\nwhich determines $\\lambda$ in terms of $\\mu$, which has been found already.\n\nThe equation, then, of the conic having five-point contact with $U$ is\n\n$$(\\Pi + \\mu P)\\left(S - \\frac{1}{H'}P(\\Pi + \\mu P)\\right) = P^2\\left(\\beta - \\frac{\\mu}{H'}\\Pi - \\frac{\\mu}{H'}(\\Pi + \\mu P)\\right).$$\n\nIt appears then that $\\Pi + \\mu P$, the tangent at the first tangential, is the chord of intersection of the five-point conic with the polar conic $S$. We are thus also able to construct the five-point conic geometrically, since five points of it are given, namely, the two points of intersection of the tangent at the first tangential with $S$; the point where the line joining the original point to the second tangential meets the curve again; and of course the original point and its consecutive one.\n\nWorking with the equation\n\n$$x^3 + y^3 + z^3 + 6lxyz = 0,$$\n\nMr. Cayley has calculated the equation of the five-point conic, and thence the coordinates of the point where it meets the curve again. I shall now form the coordinates of the same point, deriving them from the geometrical construction for that point which I have just given. Let $xyz$ be the coordinates of the point of contact, and $XYZ$ those of its second tangential; then the coordinates of the point required must be\n\n$$\\lambda x + \\mu X, \\quad y + \\mu Y, \\quad \\lambda z + \\mu Z,$$\n\nwhere\n\n$$\\lambda = x(X^2 + 2lYZ) + y(Y^2 + 2lZX) + z(Z^2 + 2lXY),$$\n\n$$\\mu = X(x^2 + 2lyz) + Y(y^2 + 2lzx) + Z(z^2 + 2lxy).$$\n\nI write for abbreviation $\\alpha$, $\\beta$, $\\gamma$ instead of $x^3$, $y^3$, $z^3$; then the coordinates of the first tangential are\n\n$$x(\\beta - \\gamma), \\quad y(\\gamma - \\alpha), \\quad z(\\alpha - \\beta);$$\nand those of the second tangential\n\n\\[ X = x(\\beta - \\gamma)(\\beta(\\gamma - \\alpha)^3 - \\gamma(\\alpha - \\beta)^3); \\quad Y = y(\\gamma - \\alpha)(\\gamma(\\alpha - \\beta)^3 - \\alpha(\\beta - \\gamma)^3) \\]\n\\[ Z = z(\\alpha - \\beta)(\\alpha(\\beta - \\gamma)^3 - \\beta(\\gamma - \\alpha)^3). \\]\n\nIn calculating the expressions for \\( \\lambda \\) and \\( \\mu \\), I have found the following theorems useful.\n\nLet\n\n\\[ (\\beta - \\gamma)^2 + (\\gamma - \\alpha)^2 + (\\alpha - \\beta)^2 = 2A, \\]\n\\[ \\alpha(\\beta - \\gamma)^2 + \\beta(\\gamma - \\alpha)^2 + \\gamma(\\alpha - \\beta)^2 = B, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^2 + \\beta^2(\\gamma - \\alpha)^2 + \\gamma^2(\\alpha - \\beta)^2 = 2C, \\]\n\\[ (\\alpha - \\beta)(\\beta - \\gamma)(\\gamma - \\alpha) = Q. \\]\n\nThen\n\n\\[ (\\beta - \\gamma)^4 + (\\gamma - \\alpha)^4 + (\\alpha - \\beta)^4 = 2A^2, \\]\n\\[ \\alpha(\\beta - \\gamma)^4 + \\beta(\\gamma - \\alpha)^4 + \\gamma(\\alpha - \\beta)^4 = AB, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^4 + \\beta^2(\\gamma - \\alpha)^4 + \\gamma^2(\\alpha - \\beta)^4 = 2AC - Q^2; \\]\n\nand if\n\n\\[ p = \\alpha + \\beta + \\gamma, \\quad q = \\alpha\\beta + \\beta\\gamma + \\gamma\\alpha, \\]\n\nwe shall have\n\n\\[ (\\beta - \\gamma)^6 + (\\gamma - \\alpha)^6 + (\\alpha - \\beta)^6 = 2A^3 + 3Q^2, \\]\n\\[ \\alpha(\\beta - \\gamma)^6 + \\beta(\\gamma - \\alpha)^6 + \\gamma(\\alpha - \\beta)^6 = A^2B + pQ^2, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^6 + \\beta^2(\\gamma - \\alpha)^6 + \\gamma^2(\\alpha - \\beta)^6 = 2A^2C - (p^2 - 4q)Q^2, \\]\n\\[ (\\beta - \\gamma)^8 + (\\gamma - \\alpha)^8 + (\\alpha - \\beta)^8 = 2A^4 + 8AQ^2, \\]\n\\[ \\alpha(\\beta - \\gamma)^8 + \\beta(\\gamma - \\alpha)^8 + \\gamma(\\alpha - \\beta)^8 = A^3B + (2pA + B)Q^2, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^8 + \\beta^2(\\gamma - \\alpha)^8 + \\gamma^2(\\alpha - \\beta)^8 = 2A^3C + (2qA + 2C - A^2)Q^2; \\]\n\nwhile again,\n\n\\[ (\\beta - \\gamma)^3 + (\\gamma - \\alpha)^3 + (\\alpha - \\beta)^3 = 3Q, \\]\n\\[ \\alpha(\\beta - \\gamma)^3 + \\beta(\\gamma - \\alpha)^3 + \\gamma(\\alpha - \\beta)^3 = pQ, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^3 + \\beta^2(\\gamma - \\alpha)^3 + \\gamma^2(\\alpha - \\beta)^3 = qQ, \\]\n\\[ (\\beta - \\gamma)^5 + (\\gamma - \\alpha)^5 + (\\alpha - \\beta)^5 = 5AQ, \\]\n\\[ \\alpha(\\beta - \\gamma)^5 + \\beta(\\gamma - \\alpha)^5 + \\gamma(\\alpha - \\beta)^5 = (pA + B)Q, \\]\n\\[ \\alpha^2(\\beta - \\gamma)^5 + \\beta^2(\\gamma - \\alpha)^5 + \\gamma^2(\\alpha - \\beta)^5 = (qA + 2C)Q. \\]\n\nBy the help of these equations I obtain\n\n\\[ -\\mu = (B - 2Alxyz)Q \\]\n\\[ \\lambda = (B - 2Alxyz)A(AC - Q^2). \\]\n\nWe may of course suppress the common factor \\( B - 2Alxyz \\), which, by the help of the equation of the curve \\( p + 6lxyz = 0 \\), is seen to be equivalent to \\( -9(1 + 8l^3)x^3y^3z^3 \\); and the coordinates of the required point are\n\\[ A x (AC - Q^2) - QX, \\quad Ay(AC - Q^2) - Qy, \\quad Az(AC - Q^2) - Qz. \\]\n\nThe condition, then, that these coordinates should be the original \\( x, y, z \\), is \\( Q = 0 \\). But \\( Q \\) denotes the nine lines joining the points of contact of tangents drawn from the point of inflexion. This, then, coincides with M. Plücker's determination, already referred to, of the points of contact of osculating conics.\n\n**Osculating Cubics.**\n\nIf through eight consecutive points of a cubic several cubics be drawn, these all meet the curve again in a fixed ninth point, which can easily be determined. In fact, if we consider the nine points of intersection of two cubics, the opposite (see page 537) of any four lies on the same conic with the remaining five. For let the equation of one be \\( AU = BV \\) and of the other \\( CU = DV \\), where \\( A, B, C, D \\) represent right lines and \\( U, V \\) conics; then the intersections of \\( UV \\) are points common to both cubics, and \\( AB, CD \\) the opposite points in each cubic. But by combining the equations, we get for the equation of the conic through the remaining five points of intersection \\( AD = BC \\), which passes through the two opposite points. Q. E. D.\n\nThe theorem may be otherwise stated in what is easily seen to be an equivalent form: the opposites of any two sets of four out of the nine points of intersection lie in a right line with the ninth.\n\nNow we have already proved that, in the case of four consecutive points, the opposite is the second tangential to the original point. Hence, in the case of eight consecutive points, the point through which all cubics through these meet the curve again, is simply the third tangential of the original point. In other words, at the given point \\( A \\) draw a tangent meeting the curve again in \\( B \\); at \\( B \\) draw a tangent meeting the curve in \\( C \\); at \\( C \\) draw a tangent meeting it again in \\( D \\): then \\( D \\) is the point through which all osculating cubics must pass. If \\( AC \\) meet the curve again in \\( E \\), it has been already shown that \\( E \\) is the point through which all osculating conics must pass; and it is to be observed that the intersection of \\( AD \\) and \\( BE \\) lies on the cubic.\n\nIt may be proposed to determine the points at which it shall be possible to draw cubics osculating the given curve in nine points; or in other words, such that the third tangential \\( D \\) may coincide with the original point \\( A \\). It is evident that in this case the points \\( E \\) and \\( C \\) will coincide; that therefore the coordinates of \\( E \\), given at the top of this page, must reduce to \\( X, Y, Z \\); and it has been proved that the condition that this should happen is\n\n\\[ A(AC - Q^2) = 0. \\]\n\nSince \\( A \\) is the sum of three squares, it is evident that \\( A = 0 \\) can denote no real locus.\n\n* These coordinates are of the 25th degree in the original coordinates. Mr. Cayley has informed me that Mr. Sylvester has established that the degree of the coordinates of every derivative point is necessarily a square number. I am led by induction to believe that in the case of three derivative points in a right line, the sum of the square roots of their degrees taken with proper signs is always cypher.\nAlso, since $4AC - B^2 = 3Q^2$, the condition $AC - Q^2 = 0$ may be written $B^2 - Q^2 = 0$, and breaks up into the factors $B \\pm Q = 0$, or\n\n$$x^3(y^3 - z^3)^2 + y^3(z^3 - x^3)^2 + z^3(x^3 - y^3)^2 \\pm (x^3 - y^3)(y^3 - z^3)(z^3 - x^3) = 0,$$\n\nor\n\n$$x^6y^3 + y^6z^3 + z^6x^3 - 3x^3y^3z^3 = 0, \\quad \\text{and} \\quad x^3y^6 + y^3z^6 + z^3x^6 - 3x^3y^3z^3 = 0.$$\n\nHence there are in general seventy-two real or imaginary points of contact of osculating cubics.\n\nWhen a point on a cubic is determined such that it is its own third tangential, it, together with its first and second tangential, determines a system of right lines, in terms of which the cubic can be transformed to the new canonical form\n\n$$x^3y + y^3z + z^3x + 2mxyz = 0,$$\n\nin which form the points of inflexion are determined by the right lines\n\n$$x^3 + y^3 + z^3 - 3xyz = 0.$$\n\nIt may be observed that, according to circumstances, one of the two canonical forms is simpler than the other. Thus for the case $S = 0$, when the Hessian is one real and two imaginary lines, the canonical forms are\n\n$$x^3y + y^3z + z^3x = 0, \\quad \\text{and} \\quad x^3 + y^3 + z^3 + 6xyz = 0,$$\n\nthe former being the simpler. On the contrary, when the Hessian is three real lines, the form $x^3 + y^3 + z^3$ is simpler than $x^3y + y^2z + z^2x + 2mxyz$, where $m^3 = -3$.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/108673.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 8,
+    "total-input-tokens": 12728,
+    "total-output-tokens": 5798,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2390,
+        2
+      ],
+      [
+        2390,
+        5040,
+        3
+      ],
+      [
+        5040,
+        8045,
+        4
+      ],
+      [
+        8045,
+        10800,
+        5
+      ],
+      [
+        10800,
+        13422,
+        6
+      ],
+      [
+        13422,
+        16672,
+        7
+      ],
+      [
+        16672,
+        17990,
+        8
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-108673",
+    "title": "On Curves of the Third Order",
+    "authors": "George Salmon",
+    "year": 1858,
+    "volume": "148",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 8,
+    "jstor_url": "https://www.jstor.org/stable/108673"
+  }
+}

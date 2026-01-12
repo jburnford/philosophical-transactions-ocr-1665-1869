@@ -1,0 +1,69 @@
+{
+  "id": "54b2b36fccb85045c2b1dca8b09f3bec4f95703d",
+  "text": "Fits when she culminated, the Third Fit at a Rising Moon, and so on. Deaths I have kept exact Account of, but can find no one Observation hold true, some at one Time of the Tide, some at another.\n\nVIII. Account of a Book. Philippi Cluverii Introductio in universam Geographiam, tam Veterem quam Novam Tabulis Geographicis XLVI. ac Notis olim Ornata à Joanne Bunone; jam vero Locupletata Additamentis & Annotationibus Joh. Frid. Hekelij & Joh. Reiskij. in Quarto. Amst. Typis Joannis Wolters. Londini Prostant apud Sam. Smith & Benj Walford, in Cæmeterio D. Pauli. 1697.\n\nPhilippus Cluverius, this Famous Geographer was born at Dantzig, in the Year 1580. where his Father, being Master of the Mint, took great Care to educate him in the best manner; at Fifteen Years of Age he sent him into Pologn; afterwards to Leyden in order to study the Civil Law, for which he had no Taste nor the least Inclination, all his Passion running wholly upon Geographical Studies, being a Master in the Art of Designing and Surveying. Joseph Scaliger, then a Professor in that University, seeing his Natural Genius bent upon Geography, advised him to pursue it, and make it his chief Business; whereupon he resolv'd, first to visit Lipsius, and view all the Netherlands; after that he spent Two Years in Hungary and Bohemia, and view'd all Germany, Italy, Sicily, France and England, with\nwith a very curious and observing Eye, having Ten Languages at his command, he was highly courted in all Places, especially at Rome; but retaining an old Love for the City of Leyden, he return'd thither, and fix'd under a generous Pension from the Curators, who oblig'd him to read and teach Geography, of which he there publish'd many noble Specimens, as his Com. de 3 Rheni Alveis ac Ostis, & de 5 Populis quondam Accolis cum Tab. Geograph; his Germania Antiqua; his Descriptio Italicae Antiquae; as also the Sicilia, Sardinia and Corsica, all illustrated with Charts, and enriched with many admirable Observations. After his Death, in the Year 1623, Joseph Vorstius publish'd his Introduction to Geography, which Cluverius had drawn up before his Death, as an Abridgment of his Labours; this Geographical Epitomy took wonderfully in most Countries, being often Translated and Printed in many Places, where several learned Men have thought it worth their time to Comment upon it; as Joh. Frid. Hekelius, Joh. Reiskius, and Joh. Buno, to whose excellent Notes the new Maps contained in this Volume are very well adjusted; so that the present Edition may be look'd upon as much the most useful and exact, whether we regard the Gravings of the Charts, the Elegance of the Types, or the Fulness of the Annotations; part whereof were never printed before; all which put together, render the present Work the most compleat and instructive Body of Geography yet extant.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102388.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4612,
+    "total-output-tokens": 808,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1371,
+        2
+      ],
+      [
+        1371,
+        2835,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102388",
+    "title": "Account of a Book",
+    "authors": "Joanne Bunone",
+    "year": 1695,
+    "volume": "19",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102388"
+  }
+}

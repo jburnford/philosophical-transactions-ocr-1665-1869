@@ -1,0 +1,69 @@
+{
+  "id": "099001e49c35963fddb1e935abdd358dcbca9c71",
+  "text": "An Extract of a Letter\nWritten to the Publisher from Plymouth Novem. 2. 1669. by William Durston Dr. of Physick; concerning the Death of the Bigg-breasted Woman (discoursed of in Numb. 52.) together with what was thereupon observed in her Body.\n\nSir,\n\nThank you for yours, which by reason of my absence came not to my hands till this day. Elizabeth Travers dyed on Thursday night, October 21. The next morning I sent for a Chirurgeon, and some others to be present at the opening, and taking off of her Breasts; though we only took off one, viz. the biggest, which was the left, and having weighed it, we found it of Sixty four pounds weight. Upon the opening of it, (which we made in several places) we could find neither Water, nor Cancerous humors, nor any thing vicious, more than the prodigious bigness; and the Tubuli and Parenchymous flesh were purely white and solid, and no other than what we see in the soundest Breasts of Women, or the best Udders of other Animals. She had lost her stomach and rest severall weeks before, and made great complaints of her Breasts from their great distension; and her whole Body was exceedingly emaciated. I have sent you inclosed one measure, which was the Breadth of her two Breasts (as she was layd out on a Table being dead;) I mean, from the further end of the one to the other; which you'll find three foot two Inches and an halfe; and another measure, shewing the Circumference of the Breasts long-wise, viz. four foot, and near four inches; and a third, giving the Circumference of the Breadth, viz. three foot four inches and an halfe.\n\nThe right Breast we took not off, but we guess, it weighed forty pounds. I did some weeks since begin a Salivation with her, which lessen'd her Breasts in circumference some inches; but she proving not conformable, I durst not proceed to keep up the flux, but was forc'd to desist. But she was wonderfully revived afterwards for sometime. She being weary of that course, I then caused a Caustic to be applyed; upon which the Eschar falling off, yet nothing issued out of the Breast. Then\nThen I caused an Incision-knife to be used, and made an Inci-\nsion two inches and an halfe deep (supposing the Caustick had\nnot wrought deep enough) but 'twas to no more purpose,\nthan the former.\n\nAn Accompt of some Books.\n\nI. CERTAIN PHILOSOPHICAL ESSAYES,\nand other TRACTS, by the Honorable ROBERT\nBOYLE, Fellow of the R. Society. The Second Editi-\non, enlarged. London; printed for Henry Heringman\nin the New Exchange. A. 1669.\n\nWe could not but give the Curious Reader notice of this\nreprinted and in divers places considerably enriched\nBook; but chiefly increased by the Addition of a very Philoso-\nphical Discourse about the Absolute Rest in Bodies, wherein the\nNoble Author, with his usual modesty as well as acuteness, de-\nlivers his Thoughts concerning the Intestin Motions of the Par-\nticles of Quiescent Solids, and in doing so calls the Absolute Rest\nof Bodies in Question, by undertaking to prove, That some of\nthose Bodies, which we think have their parts most at Rest, are\nnot exempted from having internal Motions in them, to which\nproof he Judgeth 'twill be consequent, that it must be proba-\nble, that in other Bodies, whose Solidity is confessed inferiour,\nthe component Particles are not in a State of Perfect\nRest.\n\nII. DEL MOVIMENTO DELLA COMETA,\napparsa il mese di Dicembre 1664. da PIETRO MA-\nRIA MUTOLI, in Pisa, in 4°.\n\nThis, and the next following Tract, (consisting each of\na few sheets only) should sooner have been taken notice\nof in these Transactions, if they had sooner come to our\nhands",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/101031.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4796,
+    "total-output-tokens": 1009,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2078,
+        2
+      ],
+      [
+        2078,
+        3598,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-101031",
+    "title": "An Extract of a Letter Written to the Publisher from Plymouth Novem. 2. 1669. by William Durston Dr. of Physick; Concerning the Death of the Bigg-Breasted Woman (Discoursed of in Numb. 52.) Together with what Was thereupon Observed in Her Body",
+    "authors": "William Darston, William Durston",
+    "year": 1669,
+    "volume": "4",
+    "journal": "Philosophical Transactions (1665-1678)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/101031"
+  }
+}

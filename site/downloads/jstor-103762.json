@@ -1,0 +1,69 @@
+{
+  "id": "ccabce21566effd808262be642b313ae377be8ea",
+  "text": "VII. Casus rarissimus. Visus objectorum partialis, communicante Domino Abrahamo Vater, Prof. Med. Wittemb. R. S. S.\n\nFemina mediae aetatis, anno superiori, a retro-pulsa, per balneum, & subsecutam refrigerationem, Coryza, unica nocte incidit in cataraçtam nigram, seu guttam ferenam: nam mane e somno experrecta, usu oculorum orbatam se sentit, nullo extrinfecus in oculis vitio apparente. Post usurpata vero medicamenta varia laxantia & sanguinem purificantia, interpositis simul vesicatoriis, una cum decenti Diaeta, visus sensim rediit, ita tamen ut notatu dignae visus vicissitudines, ac singularia in eo phænomena occurrerent. Primum enim omnes ipsi obvios homines, capite quasi truncatos vidit, solo corpore absq; capite in oculos incurrente. Successu temporis, cessante hac observatione, objecta quidem tota, sed quasi per nebulam aut per rete vidit, & hoc cessante, maculas tamen & flocculos oculis obversari percipit. Tandem affectus hic in visum partialem, quo hoc ipso tempore adhuc laborat, degeneravit. Nunc enim, utroque oculo aperto, & versus objectum directo, illud quidem totum conficit: alterutro vero eorum clauso, pars objecti, macula aut nebulà rotunda testa, videtur, quae macula tanto major apparet, quo longius oculus ab objecto removetur. Prout autem oculus sive dexter, sive sinister, occluditur, semper quidem media objectorum pars, at diversa, obscuratur. Ita si, exempli gratia, hæ tres voces in charta scriptas (Ego sum cæca) intueatur oculo sinistro tantum, pupilla versus mediam vocein Sum directa, hæc in visum non incurrit, sed tantum\ntantum duæ voces *Ego* — *caeca* conspiciuntur. Pupil·la vero versus vocem *Ego* directa, hæc evanescit, ita ut tantum — *Sum caeca* videat. Quod si e contrario oculum sinistrum claudat, & oculo dextro inspiciat objectum, tunc medium quidem pariter obscuratur, ita tamen, ut tantum pars quarta visum fugiat, tribus partibus clare conspectis. Ita si, exempli gratia, oculo huic objiciat has quatuor voces, in charta scriptas, (*Ego opto esse sana*) tunc pupilla ad medium directa, omnes voces videt, praeter vocem *opto*, quæ macula iridem rotunda obscuratur, & videt ægra ita tantum, *Ego* — *esse sana*. Quoniam ergo ex hoc casu appareat, maculam illam rotundam, qua pars objecti obscuratur, esse fixam quidem, sed pro varia pupillæ directione locum mutare, dubium videtur, utrum vitium in humore crystallino, an in tunica retina hæreat? In tunica quidem cornea nulla obscuritas aut macula patet. Majoris vero momenti, ac explicatu difficilius videtur antecedens phœnomenon, ubi ægra totum hominis corpus, excepto tantum capite, conspexit. Quamobrem hunc casum Illustrissimæ Societati Regali exponendum esse duxi, quoniam hic viam mihi parare videtur, ut multa utilia ad visum illustrandum ex eo deduci queant. Dabam Wittembergæ Saxonum D. XX. Mart. MDCCXXIV.\n\nVIII. Sectio",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/103762.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4520,
+    "total-output-tokens": 1034,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1569,
+        2
+      ],
+      [
+        1569,
+        2843,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "la",
+      "la"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-103762",
+    "title": "Casus Rarissimus. Visus Objectorum Partialis, Communicante Domino Abrahamo Vater, Prof. Med. Wittemb. R. S. S.",
+    "authors": "Abrahamo Vater",
+    "year": 1724,
+    "volume": "33",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/103762"
+  }
+}

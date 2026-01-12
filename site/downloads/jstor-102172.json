@@ -1,0 +1,69 @@
+{
+  "id": "dcd953075ad14198274680490aed75cde8f62122",
+  "text": "The Figures of some Antiquities; communicated by a Member of the Royal Society.\n\n1. A Ring of Corinthian Brass with a Vizard of Silenus in a Sardonyx.\n2. An Amulet of the Gnosticks cut in a Chalcedonian, the names of certain Æones or Intelligences.\n3. A Tesseræ of Chrystal having on one side XIIII. on the other IΔ.\n4. A Fortune and a half Diana in an Onyx.\n5. An Ancient Picture of the Virgin in a Chalcedonian.\n6. A Cameus, with a mixture of severall Gods.\n7. An Onyx.\n8. A Glass Lachrymatory.\n\nA Letter of Dr Lister's to Mr Ray, concerning some particulars that might be added to the Ornithology.\n\nSir,\n\nIn answer to your kind Letter, I send you, what I designed for you some years since, viz. an Abstract of my Notes about Birds, which may be added to yours and Mr. Willughby's History of Birds, if you think fit; such as they are take them.\n\nFringilla montana major] Sea Larks nostris Aucupibus appellantur. Sc. in Agro Eboracensi sæviente Bruma sat copiose capiuntur.\n\nRubeculæ excrementa semper liquida sunt; etiam illa ovorum luteis duriter coctis victitet; intestinis Cæcis",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/102172.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4980,
+    "total-output-tokens": 404,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        1083,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "None",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      true,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-102172",
+    "title": "The Figures of Some Antiquities; Communicated by a Member of the Royal Society",
+    "authors": null,
+    "year": 1685,
+    "volume": "15",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/102172"
+  }
+}

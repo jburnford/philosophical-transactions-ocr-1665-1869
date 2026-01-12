@@ -1,0 +1,59 @@
+{
+  "id": "4e2ade4cd65b25063e841e98baa764da9a8de4e7",
+  "text": "ERRATA.\n\nVOL. LXXIII. PART I.\n\nPage. Line.\n18. 19. for was as 1 to 4 read was as 1 to 5.\n\nVOL. LXXV. PART I.\n\n283. 30. for amazing read amusing\n285. 22. for on read in\n296. 14. for in read on\n301. 17. for air read airs\n309. 23. for seems read seem\n\nVOL. LXXV. PART II.\n\n410. 4. for parallelopip read paralleloped.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/106769.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3320,
+    "total-output-tokens": 203,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        313,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-106769",
+    "title": "Errata",
+    "authors": null,
+    "year": 1785,
+    "volume": "75",
+    "journal": "Philosophical Transactions of the Royal Society of London",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/106769"
+  }
+}

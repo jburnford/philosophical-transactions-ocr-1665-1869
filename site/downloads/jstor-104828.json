@@ -1,0 +1,69 @@
+{
+  "id": "fbdb7b0b4f4daeb33f8433578ecd0ba4606cb944",
+  "text": "I. A Letter from Mr. Wm. Fidge, Surgeon, at Portsmouth, to Cromwell Mortimer, M.D. Secret. R.S. concerning a Stone taken out of the Bladder of a Dog; which being cut asunder had a Piece of Dog-Grafs in its Center.\n\nSIR,\n\nAccording to your Directions I have sent an Account of the Stone I left with you; It is now fourteen Years since I took it out of the Bladder of a very large Mastiff, about five Years old, belonging to the Porter of his Majesty's Dock-Yard at Portsmouth. The Dog died in about three Days after receiving a Kick from some one endeavouring to part him from another Mastiff he was fighting with.\n\nBeing then an Apprentice to the Surgeon of the Yard, and hearing the Dog was dead, I sent the Labourer, who attended the Surgery, to get him for me, in order to dissect.\n\nWhen I had open'd the Abdomen, I found it fill'd with bloody Urine; and having before heard that his Death was suppos'd to be occasion'd by the Kick, I immediately thought the Bladder must be the Part hurt; which, when I had cleansed the Abdomen, I examined, and found this large Stone, with the Bladder contract'd close to it on every Side, and rent at the Bottom about three Quarters of an Inch; so that what Urine came to the Bladder was discharg'd into\ninto the Abdomen; which was plainly the Cause of his Death.\n\nWhen I first took it out it weigh'd 10 Ounces 2 Drachms and an half. It is not more than two Months since I cut it asunder; when, finding it form'd upon (as I imagine it it is) a Piece of Dog-Grass, I thought it would not be an unacceptable Present to the Curious; therefore, having some Affairs which call'd me to Town, I brought it with me for that Purpose.\n\nWhat is to be farther remarked is, that I did not find any the least Particle of Gravel or Sand either in the Kidneys or Ureters; and that all the Bones (except the Ribs and Cranium) are more or less carious, as the Bones you have with the Stone.\n\nIf, when you shew it to the Royal Society, it should be thought deserving a Place among their Curiosities, it will give me the greatest Pleasure, in having this Opportunity of presenting something worth the Notice of so Learned and Ingenious a Body of Gentlemen. I am,\n\nSIR,\nWith all due Respect,\n\nYour most obedient;\n\nLondon, Dec. 29.\n1746.\n\nhumble Servant,\n\nWilliam Fidge.",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104828.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 3,
+    "total-input-tokens": 4658,
+    "total-output-tokens": 664,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1243,
+        2
+      ],
+      [
+        1243,
+        2287,
+        3
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104828",
+    "title": "A Letter from Mr. Wm. Fidge, Surgeon, at Portsmouth, to Cromwell Mortimer, M. D. Secret. R. S. concerning a Stone Taken out of the Bladder of a Dog; Which Being Cut Asunder Had a Piece of Dog-Grass in Its Center",
+    "authors": "William Fidge",
+    "year": 1746,
+    "volume": "44",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 3,
+    "jstor_url": "https://www.jstor.org/stable/104828"
+  }
+}

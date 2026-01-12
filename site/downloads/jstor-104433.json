@@ -1,0 +1,59 @@
+{
+  "id": "6a954c11feb83ec537738cb7023908b3678e43f1",
+  "text": "The CONTENTS.\n\nXI. Some Observations relating to vegetable Seeds; by James Parsons, M. D. F. R. S. p. 184.\nXII. A Catalogue of the Fifty Plants from Chelsea-Garden, presented to the Royal Society by the Company of Apothecaries, for the Year 1742. pursuant to the Direction of Sir Hans Sloane, Bart. Med. Reg. & Soc. Reg. nuper Pres. By Joseph Miller, Apothecary, Hort. Chelf. Praefect. ac Praelector Botan. p. 189.\nXIII. A Letter from the Rev. Mr. Roger Pickering, F. R. S. to the President; concerning the Manuring of Land with fossil Shells. p. 191.\nXIV. Abstract of a Letter from Mr. Wm. Arderon to Mr. Baker, F. R. S. of a Shuttle-Spire taken out of the Bladder of a Boy. p. 194.\nXV. An Account of a remarkable Cure, performed on the Eye of a young Woman in Scotland, by Tho. Hope, M. D. communicated from Dr. Mead. ibid.\nXVI. An Explication of a Roman Inscription found not long since on a Stone at Silchester in Hampshire: By John Ward, Rhet. Prof. Gresham. and F. R. S. p. 200.\nXVII. A Letter from John Huxham, M. D. F. R. S. to Cromwell Mortimer, M. D. Secr. R. S. serving to accompany, an Account of the Case of one Hannah Hitchcock, one of whose Ureters was grown up; a Present of a beautiful Stalactites, now in the Museum of the Royal Society; and a Drawing of an extraordinary Calculus taken out of the Bladder of a Boy. p. 207.\nXVIII. A Letter from Edward Wilmot, M. D. F. R. S. and one of His Majesty's Physicians, &c. to the President of the Royal Society, serving to inclose the two following Papers:\n1. Of the extraordinary Effects of Musk in Convulsive Disorders; by John Wall, M. D. p. 213.\n2. Of the Effects of the Tunquinese Medicine; by Andr. Reid, Esquire. p. 225.\nXIX. De Planta, minus cognita, & hac tenus non descripta, Commentarius, Authore Gulielmo Watson, REGIÆ SOCIETATIS Sodalie: GEASTER, volvæ Radiis & Operculo elevatis. p. 234.\n\nPrinted for C. Davis, over-against Gray's-Inn Gate in Holbourn, Printer to the Royal Society, M.DCC.XLV.\n\nERRATUM in No 473.\nPage 65, l. 3. for 40\", read 58\".\nN. B. The Clock was too slow 1' 25\".",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/104433.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3274,
+    "total-output-tokens": 730,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2059,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-104433",
+    "title": "Erratum",
+    "authors": null,
+    "year": 1744,
+    "volume": "43",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/104433"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "07aa811f7c6d4a3d5fd1e78e455c1b1164eda39e",
+  "text": "difference in the going of the clock, even though every part of the clock remains the same.\n\nLXXXVIII. An Account of the Eclipse of the Moon, on the 8th of May 1762, in the Morning, observed by Mr. Short, in Surrey-Street, London.\n\nRead May 13, 1762. Diameter of the Moon, (in the direction of an angle of 45° with the horizon, the lower end of the diameter being to the west of the center of the Moon) measured with an achromic object-glass micrometer of 40 feet focus, and found to be = 31' 31''.7,\n\nOn 7th May, at - - - - - - 11 35 0\nα Librae passed the meridian, at - - - 11 38 25\nPreceding limb of the Moon on the meridian, at - - - - - - 11 49 58\nSubsequent ditto, at - - - - - - 11 52 13½\nPenumbra, sensible, at - - - - - - 13 40 0\nDiameter of the Moon measured again, and found to be = 31' 26'', at - - - 13 50 0\nBeginning of the eclipse, through an achromic opera-glass, at - - - - - - 14 12 30\nShadow very dense upon the Moon's limb, at - - - - - - - - 14 14 0\nSo that I conclude the eclipse began at 14 13 0\n\nThe times above are apparent times.\n\nLXXXIX. Ob-",
+  "source": "olmocr",
+  "added": "2026-01-12",
+  "created": "2026-01-12",
+  "metadata": {
+    "Source-File": "/home/jic823/projects/def-jic823/royalsociety/pdfs/105666.pdf",
+    "olmocr-version": "0.3.4",
+    "pdf-total-pages": 2,
+    "total-input-tokens": 3182,
+    "total-output-tokens": 449,
+    "total-fallback-pages": 0
+  },
+  "attributes": {
+    "pdf_page_numbers": [
+      [
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1068,
+        2
+      ]
+    ],
+    "primary_language": [
+      "en",
+      "en"
+    ],
+    "is_rotation_valid": [
+      true,
+      true
+    ],
+    "rotation_correction": [
+      0,
+      0
+    ],
+    "is_table": [
+      false,
+      false
+    ],
+    "is_diagram": [
+      false,
+      false
+    ]
+  },
+  "jstor_metadata": {
+    "identifier": "jstor-105666",
+    "title": "An Account of the Eclipse of the Moon, on the 8th of May 1762, in the Morning, Observed by Mr. Short, in Surrey-Street, London",
+    "authors": "Mr. Short",
+    "year": 1761,
+    "volume": "52",
+    "journal": "Philosophical Transactions (1683-1775)",
+    "page_count": 2,
+    "jstor_url": "https://www.jstor.org/stable/105666"
+  }
+}
