@@ -1,7 +1,7 @@
 title: "Philosophical Transactions Archive"
 description: "Complete OCR archive of Philosophical Transactions of the Royal Society (1665-1869)"
-baseurl: ""
-url: ""
+baseurl: "/philosophical-transactions-ocr-1665-1869"
+url: "https://jburnford.github.io"
 
 # Build settings
 markdown: kramdown
