@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/42/">Volume 42</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">B. R.</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">B. R.</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1742</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1742</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">42</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">42</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-104200.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-104200.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/104200" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">VII. An Account of a Book intituled, New Principles of Gunnery, containing the Determination of the Force of Gunpowder; and an Investigation of the resisting Power of the Air to swift and slow Motions; by B. R. F. R. S. as far as the same relates to the Force of Gunpowder.
 
 Read April 14. and 21. 1743.
@@ -186,3 +187,4 @@ The ascertaining the Force of Powder, and thence the Velocities of Bullets impel
 With regard to the Second Chapter of this Treatise, relating to the Resistance of the Air, the Author has in his Preface mentioned his Intention of annexing to it a Series of Experiments, on the real Track of Bullets, as modulated by that Resistance: And therefore, as he proposes to complete those Experiments this Summer, unless unforeseen Accidents prevent him, he chooses to postpone any Account of the Subject of the Second Chapter till that time, when he intends to lay the Result of those Experiments before this Society, in order that any Exceptions or Difficulties relating to them, may be examined and discussed before they are published to the World.
 
 The Reader is desired to correct an Error in the First Paragraph of the 29th Page of the Treatise here referred to, where for Percussion read Oscillation.</div>
+</article>

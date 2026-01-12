@@ -1,0 +1,18 @@
+# Pagefind configuration for Philosophical Transactions Archive
+
+# Only index article pages (not navigation pages)
+glob: "**/articles/**/index.html"
+
+# Exclude certain patterns from being indexed
+exclude_selectors:
+  - ".breadcrumb"
+  - ".download-links"
+  - "nav"
+  - "footer"
+  - "header"
+
+# Force search result title to use our metadata
+force_language: en
+
+# Index configuration
+root_selector: "[data-pagefind-body]"

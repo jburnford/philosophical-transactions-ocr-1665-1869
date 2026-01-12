@@ -3,7 +3,7 @@ layout: default
 title: "An Advertisement"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/8/">Volume 8</a>
@@ -11,21 +11,22 @@ title: "An Advertisement"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Advertisement</h1>
+    <h1 data-pagefind-meta="title">An Advertisement</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1673</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1673</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">8</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">8</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Advertisement"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Advertisement"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101397.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101397.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101397" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">He concludes the whole with four Chapters, whereof the first treats of the Pores and Figures of Volatil Salts, corresponding to those of the Brain, Heart, Blood, Nerves: The second compares Volatil Salt with Quicksilver, which he takes to be nothing else but a Volatil Salt: The third examines, whether Volatil Salts are contained in Mixts actually or potentially: The fourth inquireth, whether all Volatil Salts are of the same kind.
 
 So much of this Author; whose way not being here made out and declared, we hope, a Learned and very knowing Member of the R. Society, Doctor Daniel Coxe, will shortly supply the world with that defect, he being certainly and experimentally master of a sure and easy way of extracting the Volatil Salt out of all sorts of Plants.
@@ -59,3 +60,4 @@ Hearing of great complaints of the Rot of Sheep in many parts of England; we tho
 
 London,
 Printed for John Martyn, Printer to the Royal Society.1674.</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/4/">Volume 4</a>
@@ -11,21 +11,22 @@ title: "An Account of Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Roberti Morison, Cl. Salmasii</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Roberti Morison, Cl. Salmasii</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1669</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1669</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">4</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">4</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-100995.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-100995.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/100995" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">for Circles, the distances of the Points of intersection are the Tangents of the half and the whole Arch of the Meridian so intersected. But as to the Points of Intersection, which determine the Problem proposed, they may be found without the aid of the former way, from a Gnomonick and Stereographick method of measuring and setting off the sides and angles of Spherical Triangles in those Projections, which is necessary in what follows.
 
 3. If the Problem is to be perform&#x27;d by Mixt Geometry, as by a Circle and either a Parabola, Hyperbola, or Ellipsis, the Circle may be conceived to be the South-contrary Section of a Cone projected by the Eye at the South-pole, and any of the rest of the Sections by the Eye at the Center of the Sphere.
@@ -81,3 +82,4 @@ But what Judgment sooner you shall make both of the Book and its Preface, I shal
 
 London,
 Printed by T. N. for John Martyn Printer to the Royal Society, and are to be sold at the Bell a little without Temple-Bar, 1669.</div>
+</article>

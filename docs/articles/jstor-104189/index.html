@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/42/">Volume 42</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Colin McLaurin</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Colin McLaurin</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1742</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1742</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">42</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">42</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-104189.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-104189.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/104189" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">VI. An Account of a Book intituled, A Treatise of Fluxions, in Two Books, by Colin Mc Laurin, A.M. Professor of Mathematics in the University of Edinburgh, and Fellow of the Royal Society, 4to. in Two Volumes, Pages 763.
 
 THE Author&#x27;s first Design, in composing this Treatise, was to establish the Method of Fluxions on Principles equally evident and unexceptionable with those of the antient Geometricians, by Demonstrations deduced after their Manner, in the most rigid Form, and by illustrating the more abstruse Parts of the Doctrine, to vindicate it from the Imputation of Uncertainty or Obscurity. But he has likewise comprehended in this Work the Application of Fluxions to the most important geometrical and philosophical Inquiries. It consists of an Introduction, and Two Books. In the Introduction he gives an Abstract of the Discoveries of the Antients in the higher Parts of Geometry, with Observations on their Method, and those that first succeeded to it. The First Book treats of Fluxions in a geometrical Method, and the Second treats of the Computations.
@@ -194,3 +195,4 @@ Roma, pridie Cal. Januarii An. 1743.
 QUÆ quindecim abhinc annis Vidua est Mulier pauper quinquagesimum agens annum tumma urinæ difficultate per quadraginta Menses laborabat; quum nocte ei supervenit mictus, imo sinceri cruoris profluvium ad tres circiter libras; simulque Lapis, ejus, quæ in adjecta Figura descriptur, formæ &amp; molis, extrusus est, cujus pondus jam exsiccati uncias duas &amp; grana novem ac viginti exæquat*. Mulier autem ingenti per eos menscs gravitatis sensu, assiduoque dolore, ad Vesicæ cervicem afficiebatur sive cubans sive crecta; nunc autem solido exacto mense, ea invita, prodere pergunt cum sanie urinæ. Vide Fig. II. in Tab. I.
 
 * i.e. 1 : 17 : 4. TR.</div>
+</article>

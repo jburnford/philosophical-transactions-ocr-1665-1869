@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/9/">Volume 9</a>
@@ -11,21 +11,22 @@ title: "An Account of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Rich. Haynes, Robert Boyle, Abraham Munting</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Rich. Haynes, Robert Boyle, Abraham Munting</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1674</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1674</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">9</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">9</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101186.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101186.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101186" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Similiter omnino res succedet, si, sumptis Radiis R, L, cum Angulo A, quernus V, &amp; Radios intermedios; aut, sumpto Radio L, cum Angulis A, V, quernatur R, &amp; Radii intermedii.
 
 Verum, si Limbi Latitudo sit Radii non nisi pars Trigesima, Quadragesima, aut adhuc minor; atque Angulus dividendus, non quidem 10 minuta prima, sed totidem secunda, seu minor adhuc: subtilior res est quam ut vulgaris Canon Trigonometricus hic adhibeatur, &amp; que omnem sensum fugit; ipsique Circuli concentrici distantiis aequalibus, quantum sensu possimus distinguere, invicem disjuncti: quippe unius Pollicis pars millesima, nedom decies aut centes millesima, minor est discrepantia quam ut sensu percipi possit.
@@ -193,3 +194,4 @@ The promising Title invited me to look into this short Tract: Wherein I find a p
 What he faith of altering Coin, and other such matters, I must refer to more competent Judges in such cases, &amp;c.
 
 London, Printed for John Martyn, Printer to the Royal Society.</div>
+</article>

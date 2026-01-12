@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/23/">Volume 23</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">William Cole</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">William Cole</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1702</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1702</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">23</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">23</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102910.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102910.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102910" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">V. An Account of a Book, entituled, Consilium Ætiologicum De Casu quodam Epileptico: Quo respondetur Epistolæ Doctiss. Viri Thomæ Hobart, M.D. Annexa disquisitione de Perspirationis Insensibilis Materia, &amp; Peragendæ ratione. Authore Gulielmo Cole, M.D. Coll. Med. Lond. Socio.
 
 The Author having received a very curious Letter from Dr Hobart of Cambridge, containing a remarkable Case of a Person, newly become his Patient, afflicted for four years with an Epilepsy, on which he requests his opinion, and his thoughts concerning the method of cure, to be used in it; adding withal several short, but material, remarks concerning the Inefficacy of Specifics, the interpolate use of Purgatives according to Dr Sydenham, &amp;c. Endeavours, in compliance with his desire, first, to give an account of the particular Seat of the Matter of Epilepsies in the Brain; then to consider the Method of Cure, and to answer several questions and doubts hinted in the Letter. The Seat he takes (from reasons he alleges) to be the innermost region of the Cortical part of it, near where it turns into the Medullar, at which place he thinks (according to an Hypothesis he heretofore delivered) the Nutritious Juice, newly separated from the Blood, but happening to be somewhat more gross than usual, meets with a check, in its progress, on the account of the natural coagulation of the Vessels here at their passing into the Medullar; so that, the protrusion being continual, it must undergo some congestion, and in some measure distend this Repository; whereby being of an active nature, it gradually becomes matured into a Ferment. This, when it has arrived at a certain degree of Acrimony, (partly thence, partly from the distention it makes) breaks forth into the continued channels of the Medullar part, and there, by vellicating them, begins those terrible Symptoms of the Epilepsy. This matter, as well when so depraved, as naturally, must go forward along the tracts of the Nerves and Fibres, since it has no other way of exclusion, in which progress it may be presumed to produce variety of Symptoms, on
@@ -139,3 +140,4 @@ LONDON, Printed for Sam. Smith, and Benj. Walford, Printers to the Royal Society
 ERRATA.
 
 No 286. p. 1417. l. 16. for Picture r. Posture. p. 1418. l. 7. for Weather r. Water.</div>
+</article>

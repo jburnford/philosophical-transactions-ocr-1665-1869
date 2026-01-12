@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/21/">Volume 21</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Antonio Hugone de Omerique</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Antonio Hugone de Omerique</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1699</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1699</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">21</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">21</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102651.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102651.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102651" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Analysis Geometrica, seu nova &amp; vera Methodus Resolvendi, tam Problemata Geometrica, quam Arithmeticas Questiones. Pars prima, de Planis; Authore D. Antonio Hugone de Omerique Sanlucarense. Sold by Sam. Smith and Benj. Walford at the Prince&#x27;s in St. Paul&#x27;s Church-yard London.
 
 The Author of this Book being of opinion that the Method of deducing Geometric Demonstrations from an Algebraic Calculation, is forc&#x27;d and unnatural, has studied how to find an Analysis purely Geometrical, from which a Synthesis might easily be deriv&#x27;d, according to the Method of the Antients.
@@ -311,3 +312,4 @@ For since the double of the Squares of $am$ and $xm$ is equal to the Square $gg$
 **ERRATA.**
 
 Page 355. l. r. for IV. r. III. p. 356. l. 26. for III. r. IV. and for subtraction, subtraction, &amp;c. r. subtraction, &amp;c. p. 357. l. 33. r. Soligenes.</div>
+</article>

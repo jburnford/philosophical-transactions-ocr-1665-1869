@@ -3,7 +3,7 @@ layout: default
 title: "Note"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/4/">Volume 4</a>
@@ -11,21 +11,22 @@ title: "Note"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>Note</h1>
+    <h1 data-pagefind-meta="title">Note</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1669</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1669</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">4</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">4</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "Note"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "Note"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101043.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101043.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101043" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">equal to the halfe of P A V, or of p A v; nor yet q p equal to
 the halfe of q y, nor q p A to the halfe of q y A; (the Tri-
 angle q y A will be equal to the Sector L C A because A L p y is
@@ -74,3 +75,4 @@ LONDON
 Printed by T. N. for John Martyn, Printer to the Royal Society,
 and are to be sold at the Bell a little without Temple-
 Bar, 1670.</div>
+</article>

@@ -17,3 +17,8 @@ collections:
 exclude:
   - README.md
   - generate_site.py
+  - pagefind.yml
+
+# Include Pagefind files in build
+include:
+  - pagefind

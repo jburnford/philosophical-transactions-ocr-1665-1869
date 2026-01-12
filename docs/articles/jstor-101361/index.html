@@ -3,7 +3,7 @@ layout: default
 title: "An Accompt of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/8/">Volume 8</a>
@@ -11,21 +11,22 @@ title: "An Accompt of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Accompt of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Accompt of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Jonas Moor, John Kersey, Hugemii Zulichemii</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Jonas Moor, John Kersey, Hugemii Zulichemii</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1673</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1673</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">8</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">8</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Accompt of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Accompt of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101361.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101361.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101361" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">The Roots of young trees are to be preferred before the roots of older trees, because they will be more apt to take in sap and nourish the branch grafted into them.
 
 The best roots of all, are those that come of kernels, which may be drawn at one, two or three years old, according to their growth. One plant must yield several Roots according to its bigness.
@@ -126,3 +127,4 @@ Since the above-recited Experiments were printed, the Publisher received informa
 Errata in this Numb. Pag. 6057.1.18 r. to decry. ibid.1.32.r.of those.
 
 London, Printed for John Martin, Printer to the R.Society. 1673.</div>
+</article>

@@ -31,6 +31,7 @@ This project creates a complete OCR archive of the *Philosophical Transactions o
 - **Location**: `docs/` (for GitHub Pages)
 - **Structure**: Home → Volumes (159) → Articles (8,128)
 - **Downloads**: MD and JSON files for each article
+- **Search**: Full-text search via Pagefind (title, author, OCR text)
 - **GitHub**: https://github.com/jburnford/philosophical-transactions-ocr-1665-1869
 - **Live Site**: https://jburnford.github.io/philosophical-transactions-ocr-1665-1869/
 
@@ -42,6 +43,27 @@ This project creates a complete OCR archive of the *Philosophical Transactions o
 | `split_olmocr_jsonl.py` | Split OLMoCR output into per-article JSON |
 | `import_ocr_to_db.py` | Import OCR JSON into SQLite with FTS |
 | `docs/generate_site.py` | Generate static HTML site from database |
+| `build_site.sh` | Build Jekyll site and create Pagefind search index |
+
+## Building with Search
+
+The site uses [Pagefind](https://pagefind.app/) for full-text search. To rebuild the site with search:
+
+```bash
+# 1. Regenerate article pages (if database changed)
+python3 docs/generate_site.py
+
+# 2. Build Jekyll and create search index
+chmod +x build_site.sh
+./build_site.sh
+
+# 3. Commit the pagefind directory
+git add docs/pagefind
+git commit -m "Update search index"
+git push
+```
+
+Requirements: Node.js (for npx) or install pagefind globally (`npm install -g pagefind`).
 
 ## Database Queries
 

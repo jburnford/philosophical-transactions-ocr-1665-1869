@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/15/">Volume 15</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Robert Boyle</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Robert Boyle</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1685</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1685</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">15</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">15</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102158.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102158.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102158" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Short Memoirs for the Natural Experimental History of Mineral Waters by the Honourable Robert Boyle, Fellow of the Royal Society. London. 1684; Octavo.
 
 The Author divides this Tract into six Sections; the first whereof is only introductory, wherein he tells us, that although the best warrant we can have for the use of any of these waters, is the long and sufficient Experience of their good and bad effects, yet since the advice of Physicians to their Patients in this case is a thing of so great consequence, the circumstances so many and so necessary to be considered, and since the Curiosity of men hath been little greater, then to inquire only what Colour the Mineral water will strike with Galls or Oaken leaves, and what Kind and Quantity of Salt will remain after evaporation; upon these and such like considerations our Honourable Author hath thought fit to communicate these his Memoirs in order to a more full and Methodicall History of Mineral waters; to the drawing up of which, he thinks these following Observations necessary.
@@ -73,3 +74,4 @@ Pag. 1053, lin. 32, for fiery read fiery. lin. penult. for pag. read pag. pag. 1
 Printed at the Theater in Oxford, for Sam. Smith at the Prince&#x27;s Arms in Paul&#x27;s Churchyard London; and Hen. Clements Book-seller in Oxford.
 
 FINIS.</div>
+</article>

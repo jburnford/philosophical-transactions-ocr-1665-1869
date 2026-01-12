@@ -3,7 +3,7 @@ layout: default
 title: "Front Matter"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/42/">Volume 42</a>
@@ -11,21 +11,22 @@ title: "Front Matter"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>Front Matter</h1>
+    <h1 data-pagefind-meta="title">Front Matter</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1742</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1742</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">42</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">42</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "Front Matter"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "Front Matter"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-104127.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-104127.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/104127" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">The only official reprint
 authorized by
 The Royal Society of London
@@ -350,3 +351,4 @@ XIV. Part of a Letter from M. Geoffroy, F. R. S. and Member of the Royal Academy
 XV. Two remarkable Medical Cases, one of an Extraordinary Hemorrhage, the other an Ascites cured by Tapping; by Henry Bayler, M. D. Extra-Licentiate of the College of Physicians, London, to C. Mortimer, M. D. Secr. R. S. 628.
 
 XVI. A Letter from Mr. Turbervill Needham, to the President; concerning certain chalky tubulous Concretions, called Malm: With some Microscopical Observations on the Farina of the Red Lilly, and of Worms discovered in Smutty Corn. 634.</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/27/">Volume 27</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Herman Boerhaven</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Herman Boerhaven</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1710</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1710</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">27</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">27</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">la</span>
+            <span class="detail-value" data-pagefind-filter="language">la</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-103107.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-103107.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/103107" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">after sitting, and it was a great difficulty to him to get up, which perhaps was occasioned by the Weight and Pressure of the Kidney and adjacent indurate Glands, lying on the head of the Psoas Muscle and Quadratus lumborum.
 
 He had often a total Suppression of Urine; but was much relieved by Sal Succini and Corn. Cervi. He took several Doses of Cantharides with Camphire, without any ill effect from the Fly, but had little Relief as to his Distemper. For Three Weeks past he was seized with a violent Looseness, which at last, in spite of all means, carry&#x27;d him off.
@@ -570,3 +571,4 @@ Lencoium mont. fl. pedato Col. 261.
 Jondraba Apula Alyssoides spicata Col. 285.
 
 LONDON: Printed for H. Clements at the Half-Moon, and W. Innys at the Princes-Arms in St. Paul&#x27;s Churchyard, and D. Browne without Temple-Bar.</div>
+</article>

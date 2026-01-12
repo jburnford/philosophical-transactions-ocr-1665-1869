@@ -299,6 +299,102 @@ footer a {
     color: #3498db;
 }
 
+/* Navigation */
+nav {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.nav-link {
+    color: #bdc3c7;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.2s, color 0.2s;
+}
+
+.nav-link:hover {
+    background: rgba(255,255,255,0.1);
+    color: white;
+}
+
+.search-link {
+    margin-left: auto;
+    background: rgba(52, 152, 219, 0.3);
+}
+
+.search-link:hover {
+    background: #3498db;
+}
+
+/* Search page */
+#search {
+    margin: 2rem 0;
+}
+
+.search-tips {
+    background: white;
+    padding: 1.5rem 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-top: 2rem;
+}
+
+.search-tips ul {
+    margin-left: 1.5rem;
+    margin-top: 1rem;
+}
+
+.search-tips li {
+    margin: 0.5rem 0;
+    color: #555;
+}
+
+/* Pagefind UI overrides */
+.pagefind-ui {
+    --pagefind-ui-scale: 1;
+    --pagefind-ui-primary: #3498db;
+    --pagefind-ui-text: #2c3e50;
+    --pagefind-ui-background: #ffffff;
+    --pagefind-ui-border: #ecf0f1;
+    --pagefind-ui-tag: #ecf0f1;
+    --pagefind-ui-border-width: 2px;
+    --pagefind-ui-border-radius: 8px;
+    --pagefind-ui-font: Georgia, 'Times New Roman', serif;
+}
+
+.pagefind-ui__search-input {
+    font-size: 1.1rem !important;
+    padding: 1rem !important;
+}
+
+.pagefind-ui__result {
+    padding: 1rem !important;
+    border-radius: 8px !important;
+    margin: 0.5rem 0 !important;
+    background: white !important;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+}
+
+.pagefind-ui__result:hover {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15) !important;
+}
+
+.pagefind-ui__result-link {
+    color: #2c3e50 !important;
+    font-size: 1.1rem !important;
+}
+
+.pagefind-ui__result-link:hover {
+    color: #3498db !important;
+}
+
+.pagefind-ui__result-excerpt {
+    color: #555 !important;
+    font-size: 0.95rem !important;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     main {
@@ -307,5 +403,14 @@ footer a {
 
     .volume-grid {
         grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+    }
+
+    nav {
+        flex-wrap: wrap;
+    }
+
+    .search-link {
+        margin-left: 0;
+        margin-top: 0.5rem;
     }
 }

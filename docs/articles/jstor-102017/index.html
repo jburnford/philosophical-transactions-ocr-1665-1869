@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/17/">Volume 17</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Roberto Sibbald</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Roberto Sibbald</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1693</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1693</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">17</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">17</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102017.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102017.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102017" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">VII. An Account of a Book Entitled, Phalæologia nova sive Observationes de Rarioribus quibusdam Balænis in Scotiae Littus nuper ejectis, &amp;c. Aut. Roberto Sibbald, Edinburgi in Quarto, 1692.
 
 The Author of that Excellent Book, Entituled, Scotia Illustrata; hath in this given us a Curious Specimen of the advance he hath made in the Natural History of that Kingdom; containing many Observations altogether new, and very well worthy to be known. In the Preface he proposes to treat only of such Whales as are found in the Seas of Scotland; and having prov&#x27;d from several Writers, that the Brittish Ocean was formerly frequented by Whales, he observes, that tho&#x27; the very large Whales, which were formerly found in the Brittish Seas, and were accounted the vastest in the World, seem since Navigation has been so much used in these Seas, to have retired to Greenland, yet there are still a great many smaller Whales, and some larger ones too, cast upon the Shores of Scotland every Year. He then gives the several distinctions of them; 1stly, Some are very large, CXX, CXXXIV Feet long, some of a smaller size down to XXIV, XVIII Feet, or less. 2dly, Some have only two Fins, others have a third upon their Back. 3dly, Some have a Pipe or Spout in their Snout, others have Nostrils. 4thly, Some have Teeth, others have horny Plates, in their Mouths.
@@ -93,3 +94,4 @@ Of all these Whales the Author hath given an exact Description in the several Ch
 
 LONDON:
 Printed for S. Smith and B. Walford, Printers to the Royal Society, at the Prince&#x27;s Arms in St. Paul&#x27;s Church-yard, 1693.</div>
+</article>

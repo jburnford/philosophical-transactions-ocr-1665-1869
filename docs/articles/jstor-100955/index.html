@@ -3,7 +3,7 @@ layout: default
 title: "An Accompt of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/7/">Volume 7</a>
@@ -11,21 +11,22 @@ title: "An Accompt of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Accompt of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Accompt of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Francis Drope, Gregoire Huret, R. R., Christiani Friderici</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Francis Drope, Gregoire Huret, R. R., Christiani Friderici</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1672</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1672</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">7</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">7</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Accompt of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Accompt of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-100955.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-100955.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/100955" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">The great Trouts pass out of the Lake for four months of the Summer, and are taken in autumn when they are returning thither. The Fishing is farmed out at Geneva; and there are Conservatories where many of those big Trouts are kept, among which there are some that weigh fifty pounds. Sometimes they catch Pikes there of eighty pounds weight; and a pound weight at Geneva you know to be eighteen ounces.
 
 In the months of July and August they fish there for the Fry of Pearches, at a time when they are no bigger than the smallest taggs. These are a very delicious dish, there called Mille-Cantons.
@@ -120,3 +121,4 @@ Advertisement.
 It was thought fit, herewith to give the Reader notice, that the next of these Tracts will not come abroad till the end of October next.
 
 LONDON, Printed for John Martyn, printer to the Royal-Society, 1672.</div>
+</article>

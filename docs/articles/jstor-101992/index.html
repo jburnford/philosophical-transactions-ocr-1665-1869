@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/17/">Volume 17</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Joanne Raio</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Joanne Raio</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1693</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1693</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">17</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">17</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101992.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101992.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101992" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">muth of the greater Star is taken) by a Micrometer (consisting of divers fine Threads parallel and transverse) may (at the same time) be observed the Distance of the two Stars, each from other, in that Position (both being at once within the reach of the Micrometer;) which distance (the Instrument remaining unmoved) if it be found (at different times of the Year) not to be the same; this will prove, that there is a different Parallax of these two Stars.
 
 This latter part of the Observation (of their different distances at different times) I suggest, as more easily practicable though not so nice as the former. For it may be done, I think, without any further Apparatus there than a good Telescope, of ordinary form, furnished with a Micrometer, (this being carefully kept unvaried during the Interval of these Observations.) And if this part only of the Observation (without the other) be pursued; it matters not though the two Observations (near the two Solstices) be, one at the Eastern, the other at the Western Azimuth (whereby both may be taken in the Night-time,) for the distance must (at both Azimuths) be the same, if after observing the Azimuth of the greater Star it be necessary to move the Micrometer for measuring its distance from Alcor that may be done another Night (and it is not necessary to be done at one Observation) for that distance cannot be discernably varied in a Night or two.
@@ -207,3 +208,4 @@ For all which, and the many subordinate Species under each Genus; together with 
 LONDON:
 
 Printed for S. Smith and B. Walford, Printers to the Royal Society, at the Princes Arms in St. Paul&#x27;s Church-yard, 1693.</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/13/">Volume 13</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1683</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1683</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">13</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">13</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102258.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102258.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102258" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">An account of a Book entituled Relatione de Ritrovamento dell&#x27; Vova di Chiocciole, &amp;c.
 
 The Authour is anonymous, but dedicates his treatise to Signor Malpighi; he first takes notice of the opinion of the Scholes which taught two sorts of Generation, either by the seed of the Animal or Spontaneous out of Corruption, and sayes the Modernes reduce those two to one, and having observed the uniformity of nature in most of her works, have gone yet farther, and ventured to prove that the general universal productive principle of all Species is, Ex ovo, and this he endevours to pursue in the workes of the Ancients as well as modern, and out of Scripture as well as Philosophy; but one passage is remarkable out of Hippocrates in his book de Natura pueri, where relating the case of a young Woman, who in dancing Miscarried of a Fœtus of six days old. Hippocrates sayes it was like a raw Egg the shell being first taken off; and therefore in the end concludes that the nature of the Oviparous differs not from that of Man.
@@ -72,3 +73,4 @@ Numb. 151. p. 318. lin. ult. read, as from its Center diffused round about, it m
 OXFORD,
 
 Printed at the THEATER, and are to be sold by Moses Pit at the Angel, and Richard Chiswell at the Rose and Crowne in St. Pauls Church-yard. Hen. Rogers, at the Sign of the Bible in Westminster Hall, and Sam. Smith at the Princes Arms in St. Pauls Church-yard. 1683.</div>
+</article>

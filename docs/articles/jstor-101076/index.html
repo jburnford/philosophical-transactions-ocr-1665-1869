@@ -3,7 +3,7 @@ layout: default
 title: "An Advertisement"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/6/">Volume 6</a>
@@ -11,21 +11,22 @@ title: "An Advertisement"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Advertisement</h1>
+    <h1 data-pagefind-meta="title">An Advertisement</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1671</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1671</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">6</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">6</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Advertisement"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Advertisement"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101076.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101076.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101076" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Which done, he labours to evince by a notable Instance, that the production of many Shells found in these times is to be refer&#x27;d to the times coincident with the General Deluge. And what he hath prov&#x27;d of Animals and their parts, he extends to Vegetables found under ground; shewing withal, what may be conceived of the Figures of Plants appearing on Stones.
 
 He concludeth this Prodromus with a remarkable Information, shewing, How we may from the present Face of the Earth, by an attentive view, discover the former state of it. Which he endeavours to make out by an Example taken from Tuscany; in the present Face of which he conceiveth, that the obvious Inequalities proclaim to an heedful Observer manifest arguments and signs of Six different Changes happen&#x27;d therein; the face of it having been, by his Observations, twice fluid, twice plane and dry, and twice uneven; which as he attempts to demonstrate by an Induction of many places in Tuscany view&#x27;d by himself, so he confirms it of the Whole Earth by the Descriptions of various parts of the World made by several Authors; obviating the chief difficulties, that may occur about each Face and particular Constitution of the Earth.
@@ -68,3 +69,4 @@ In Numb. p.2145.l.18.r.flatness for fairness, p.2146. l.9.r.trouble for troublin
 LONDON,
 
 Printed for John Martyn, Printer to the Royal Society.</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/40/">Volume 40</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Joanne Huxham, Thomas Stack</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Joanne Huxham, Thomas Stack</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1737</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1737</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">40</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">40</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-103952.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-103952.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/103952" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">least sullied, or its Pores fill&#x27;d with Earth, or other terrestrial Matter; on the contrary, not the least Adhesion of any thing of that kind can be observ&#x27;d: Besides, Brimstone made the ordinary way, seems to have a different Texture of its internal Parts from this Ball. From these Observations I am ready to conclude it not form&#x27;d in the Earth; but however submit it to the Determination of the Curious, and am
 
 Your most obliged Servant,
@@ -296,3 +297,4 @@ This Tract is intituled, Dissertatio Inaug. Medica, de Antidoto novo adversus Vi
 Our Author was first informed of the Use of Oil of Olives against the Bite of Vipers by a Letter written to him by Sir Conrad Sprengell, Anno 1734. wherein he gives him an Account of the Experiments then lately shewn by William Oliver*, before several Members of the Royal Society, and others: He had communicated the Contents of this Letter to a Cousin, one Dr. Vater at Dresden, who had an Opportunity
 
 * Philos. Transact. No 443. p. 313, &amp;c.</div>
+</article>

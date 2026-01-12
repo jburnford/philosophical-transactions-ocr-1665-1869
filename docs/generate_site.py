@@ -303,13 +303,13 @@ def generate_article_pages():
         # Truncate OCR text for display (keep full in downloads)
         display_text = escape_html(ocr_text)
 
-        # Generate article page
+        # Generate article page with Pagefind data attributes
         page_html = f'''---
 layout: default
 title: "{title[:100]}"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/{volume}/">Volume {volume}</a>
@@ -317,21 +317,22 @@ title: "{title[:100]}"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>{title}</h1>
+    <h1 data-pagefind-meta="title">{title}</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">{authors}</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">{authors}</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">{year}</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">{year}</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">{volume}</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">{volume}</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -339,7 +340,7 @@ title: "{title[:100]}"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">{language}</span>
+            <span class="detail-value" data-pagefind-filter="language">{language}</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -347,15 +348,16 @@ title: "{title[:100]}"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/{md_file}" class="download-btn" download>Download MD</a>
         <a href="../../downloads/{json_file}" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/{identifier.replace('jstor-', '')}" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">{display_text}</div>
+</article>
 '''
 
         with open(article_dir / "index.html", 'w', encoding='utf-8') as f:

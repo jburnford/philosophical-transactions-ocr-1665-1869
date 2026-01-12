@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/12/">Volume 12</a>
@@ -11,21 +11,22 @@ title: "An Account of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Johannis Raii, Nathan Henshaw</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Johannis Raii, Nathan Henshaw</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1677</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1677</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">12</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">12</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101760.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101760.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101760" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">The sequel of the Observations hath confirm&#x27;d, that the period of 80 days, which was yet somewhat doubtful in the second discovery, is sufficiently just, and that he doth not anticipate 9 revolutions, which are made in 2 years, but by one whole day; &amp; that in the Conjunctions with Saturn his Latitude augments on the one and the other side, according as the ring of Saturn enlargeth itself; though the line of his motion is not parallel to the circumference of the ring: which was noted in the first Observations.
 
 The other Planet, which was discover&#x27;d about the end of the year 1672, hath his greatest digression from the Center of Saturn only 1 diameter and 2 thirds of his Ring, and the period of his revolution about Saturn is 4 days and a half, but more precisely 4 days, 12 hours, &amp; 27 min. His Latitude augments also according as the Ring enlargeth, and at the present that the largeness of the Ring is greater than the Diameter of the Globe of Saturn, he is to pass in the Conjunctions without touching neither Saturn nor his Ring. Yet notwithstanding we have not yet been able to distinguish him in the Conjunctions either in the upper or lower part of his circle; but only in his greatest, as well Oriental as Occidental, digressions. And this Satellit being alternately one day towards his conjunction, and the other day towards his digression, he is ordinarily not seen but every third day, and rarely 2 days together, when it falls out that at the hour of Observation he is in the middle betwixt the conjunction and digression.
@@ -110,3 +111,4 @@ March 29. Imprimatur,
 1677. B R O U N C K E R, P. R. S.
 
 London, Printed for John Martyn, Printer to the R. Society, 1677.</div>
+</article>

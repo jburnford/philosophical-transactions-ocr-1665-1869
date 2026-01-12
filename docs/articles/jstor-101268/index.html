@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/3/">Volume 3</a>
@@ -11,21 +11,22 @@ title: "An Account of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Regeneri de Graaf, W. Sengvverdius, Johannis van Horne</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Regeneri de Graaf, W. Sengvverdius, Johannis van Horne</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1668</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1668</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">3</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">3</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101268.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101268.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101268" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">An Account of some Books.
 
 I.W. SENGUVERDIUS P.D. de TARANTULA. In quo, prater ejus descriptionem, effectus veneni Tarantulae, qui hactenus fuere occultis qualitatibus adscripti, rationibus naturalibus deducuntur &amp; illustrantur. Lugd. Batav. 1668. in 12.
@@ -128,3 +129,4 @@ In this Numb. p.647.l.5.r. the second, for first term. ib. l.20.r.A = B, for A &
 In the SAVOTY,
 Printed by T.N. for John Martyn, Printer to the Royal Society, and are to be sold at the Bell a little without Temple-Bar, 1667.
 </div>
+</article>

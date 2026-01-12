@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/38/">Volume 38</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Christiani Ludov. Gersten</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Christiani Ludov. Gersten</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1733</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1733</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">38</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">38</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-103816.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-103816.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/103816" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">VI. An Account of a Book, intituled Christiani Ludov. Gersten Tentamina Systematis novi ad mutationes Barometri ex natura elateris ærei demonstrandas, cui adjecta sub finem, Dissertatio Roris decidui errorem antiquum &amp; vulgarem per observationes &amp; experimenta nova excutiens. Francofurti MDCCXXXIII, in 8vo.
 
 I shall not here give any Account of the various Hypotheses, which have been invented by the Learned, to solve the several Phenomena of the Barometer, and to explain the Changes of the Weather consequent upon the Rise and Fall of the Mercury, but refer myself to the ingenious Author of this Essay, who also proposes a new one, drawn from the Nature of the Elasticity of the Air, and delivered after the manner of the Geometricians.
@@ -158,3 +159,4 @@ The Author closes the Dissertation with a curious Inquiry into the Nature and Or
 Let any inquisitive Person, says he, lay a Piece of Paper under any of the Leaves abounding with these Animalcula, and in a small Space of Time, he will find a Liquor, or soft Substance, the very same with what we call Ros Mellis, gathered together in good Plenty upon it.
 
 FINIS.</div>
+</article>

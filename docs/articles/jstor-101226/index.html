@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/2/">Volume 2</a>
@@ -11,21 +11,22 @@ title: "An Account of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Nicolao Stenone, Tho. Sprat, Gualtero Needham</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Nicolao Stenone, Tho. Sprat, Gualtero Needham</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1666</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1666</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">2</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">2</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101226.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101226.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101226" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">being red-hot, I applied the North-pole to another Lath-nail cold, and untoucht before, which it took up but faintly, yet held it suspended for some time.
 
 3. Two or three daies after, I took the same Loadstone, and found that it attracted then as strongly, as before it was cast into the Fire. Whence I inferr&#x27;d, that the Fire somewhat lessen&#x27;d its Attractive faculty, but did not deprive the Stone of it.
@@ -208,3 +209,4 @@ III. ELEMENTORUM MYOLOGIÆ Specimen; seu MUSCULI Descriptio Geometrica, Authore 
 This Book is not yet come into England; only the Excellent Septalio having in his Letter above-mentioned given us notice of its being published and dedicated to the great Duke of Tuscany, we thought it not amiss to inform the Curious of it.
 
 LONDON, Printed for John Mariyn, Printer to the Royal Society, and are to be sold at the Sign of the Bell, a little without Temple-Bar, 1667.</div>
+</article>

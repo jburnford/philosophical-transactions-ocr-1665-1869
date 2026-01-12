@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/31/">Volume 31</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Colino MacLaurin</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Colino MacLaurin</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1720</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1720</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">31</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">31</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-103384.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-103384.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/103384" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">It is call&#x27;d Infusion, when the Menstruum is either Water, Ale, or Wine; but a Tincture, when Brandy is employ&#x27;d;) and the best way to obtain the useful Particles of volatile, tenuious, or subtile Substances, is by Distillation. These may indeed be proper Ingredients for an Infusion or Tincture. But there are a great many fix&#x27;d Substances as improper for Distillation as the Volatile are improper for Extracts. Thus I have thought fit to shew the means of finding out the Virtues of Plants without dissolving their Texture: But if any has a mind rather to do it by the Chymical Analysis, this is not to dissuade them.
 
 X. An Account of a Book, Entituled, Geometria Organica, sive Descriptio Linearum Curvarum Universalis. Auctore Colino Mac Laurin, Matheseos in Collegio Novo Abredonensi Professore, &amp; R. S. S.
@@ -76,3 +77,4 @@ ERRATUM.
 P. 14. l. 5. For Calf read Cat.
 
 LONDON: Printed for W. and J. Innys, Printers to the Royal Society, at the Prince&#x27;s Arms in St. Paul&#x27;s Church Yard. 1722.</div>
+</article>

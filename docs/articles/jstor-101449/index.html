@@ -3,7 +3,7 @@ layout: default
 title: "Note"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/1/">Volume 1</a>
@@ -11,21 +11,22 @@ title: "Note"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>Note</h1>
+    <h1 data-pagefind-meta="title">Note</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1665</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1665</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">1</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">1</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "Note"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "Note"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101449.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101449.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101449" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">A Maid, after eating a good Breakfast, about seven in the Morning, was let Blood about eleven the same day in her Foot; the first Blood was received in a Porringer, and within a little while it turn&#x27;d very white; the last Blood was received in a Sawcer, which turned white immediately, like the white of a Custard. Within five or six hours after, he (the Physitian) chanced to see both, and that in the Porringer was half Blood and half Chyle, swimming upon it like a Serum as white as Milk, and that in the Sawcer all Chyle, without the least appearance of a drop of Blood; and when he heated them distinctly over a gentle Fire, they both harden&#x27;d: As the white of an Egge when &#x27;tis heated, or just as the serum of Blood doth with heating, but far more white. This Maid was then in good health, and only let Blood because she never had her Courses, yet of a very florid clear Complexion.
 
 Note.
@@ -57,3 +58,4 @@ The Reader of these Papers is desired, that in those of Numb. 4. pag. 60. lin. 1
 Imprimatur Rob. Say, Vice-Cancel. Oxon.
 
 Oxford, Printed by Leonard Lichfield, for Richard Davis. 1665.</div>
+</article>

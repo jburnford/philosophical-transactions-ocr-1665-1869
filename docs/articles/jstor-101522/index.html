@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Some Books"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/1/">Volume 1</a>
@@ -11,21 +11,22 @@ title: "An Account of Some Books"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Some Books</h1>
+    <h1 data-pagefind-meta="title">An Account of Some Books</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Honorati Fabri, Samuele Parkero, M. de Bourges</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Honorati Fabri, Samuele Parkero, M. de Bourges</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1665</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1665</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">1</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">1</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Some Books"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Some Books"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101522.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101522.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101522" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">A Problem
 For finding the Year of the Julian Period by a new and very easy Method.
 
@@ -135,3 +136,4 @@ But besides this Direction, the Book is not quite destitute of Natural Observati
 
 London,
 Printed for John Crook in Duck-Lane near Little-Britain. 1666.</div>
+</article>

@@ -1,0 +1,36 @@
+---
+layout: default
+title: Search
+---
+
+<h1>Search the Archive</h1>
+<p>Search across 8,128 articles and 197 MB of OCR text from the Philosophical Transactions (1665-1869).</p>
+
+<div id="search"></div>
+
+<link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
+<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+            excerptLength: 25,
+            translations: {
+                placeholder: "Search titles, authors, or keywords...",
+                zero_results: "No articles found for [SEARCH_TERM]"
+            }
+        });
+    });
+</script>
+
+<div class="search-tips">
+    <h2>Search Tips</h2>
+    <ul>
+        <li><strong>Author search:</strong> Try "Newton", "Herschel", "Faraday"</li>
+        <li><strong>Topic search:</strong> Try "electricity", "magnetism", "telescope", "comet"</li>
+        <li><strong>Phrase search:</strong> Use quotes for exact phrases: "solar eclipse"</li>
+        <li><strong>Year search:</strong> Search by publication year: "1687"</li>
+    </ul>
+</div>

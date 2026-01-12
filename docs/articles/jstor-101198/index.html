@@ -3,7 +3,7 @@ layout: default
 title: "Advertisement"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/2/">Volume 2</a>
@@ -11,21 +11,22 @@ title: "Advertisement"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>Advertisement</h1>
+    <h1 data-pagefind-meta="title">Advertisement</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1666</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1666</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">2</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">2</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "Advertisement"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "Advertisement"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101198.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101198.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101198" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Water out of the Sea, from under the Salt-Water, four or five fathom deep, as sweet as any Fountain-water, And since &#x27;tis argued by some, that such Sweet-water proceeds from certain Sweet Water-Springs, that were formerly on the Continent, at some distance from the Sea, and came afterwards to be covered by the Sea; it may be presumed, that in other places we may find the like. Besides, we know not, but that there may be in many parts, Eruptions of large Springs at the Bottom of the Sea, that were never taken in by any of its encroachments.
 
 These Experiments are to be repeated every New Voyage, the multitude and frequency of them being necessary for finding out and confirming the truth of them; which as it will conduce exceedingly to the Enlargement of Natural Knowledge, so it may in time produce New and more accurate Sea-Maps and Cards, than hitherto have been publish&#x27;d; and great helps and advantages to Navigation: especially those of the Variation, and Dipping of the Needle; the Depth and Salt-ness of the Water; the Nature of the Ground at the Bottom of the Sea; and indeed almost every one of the rest; there being a Design to consider all, and to draw out of them such Rules and Directions, as may bring no less Honour, than Benefit to the English Nation.
@@ -61,3 +62,4 @@ It is desired by Christopher Merret M.D. to inform the Publick, that within the 
 
 In the SAVOY,
 Printed by T.N. and John Martin at the Bell, a little without Temple-Bar, for James Allestry in Duck-Lane, Printers to the Royal Society, 1667.</div>
+</article>

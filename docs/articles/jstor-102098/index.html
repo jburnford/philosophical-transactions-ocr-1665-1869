@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/14/">Volume 14</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Roberto Sibbaldo</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Roberto Sibbaldo</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1684</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1684</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">14</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">14</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102098.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102098.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102098" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">SCOTIA ILLUSTRA, sive Prodromus Historiae naturalis, &amp;c. Authore Roberto Sibbaldo M.D. Equite Aurato, Medico &amp; Geographo Regio, &amp; Regii Medicorum Collegii apud Edinburgum Socio. Edinburgi in fol. 1684.
 
 Before we give an account of the book itself, these few things ought to be premised concerning the Nuntius Scoto-Britannus which is prefixed by the Author, to this Prodromus and is an account of the Atlas Scoticus by him undertaken. It contains both the reason of his undertaking that great work, which, besides his Majesties express command, was the alteration of the country since the Antients, and the imperfect relations the Ignorance or partiality of the Moderns have given; as also the series or method of the whole work itself, according to its books and chapters; which is done chiefly to invite those who can any way contribute to so vast an undertaking, to communicate what they have in order to it. For the direction of which he has added his Quere&#x27;s, as also a catalogue of the books he already has, both in Print and Manuscript, and of those he has heard of and cannot get, together with the Geographical tables which are not in Bleau, and are curiously drawn by Mr. John Adair.
@@ -81,3 +82,4 @@ The last Book gives an account of the Fossilia and Marina, by which the Country 
 OXFORD,
 
 Printed at the THEATER, and are to be sold by Moses Pitt, at the Angel, and Samuel Smith, at the Princes Arms in St. Paul&#x27;s Church-yard LONDON, 1684.</div>
+</article>

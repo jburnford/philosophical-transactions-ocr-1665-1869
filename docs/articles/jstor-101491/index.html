@@ -3,7 +3,7 @@ layout: default
 title: "An Account of Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/1/">Volume 1</a>
@@ -11,21 +11,22 @@ title: "An Account of Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of Book</h1>
+    <h1 data-pagefind-meta="title">An Account of Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Dr. Sydenham</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Dr. Sydenham</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1665</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1665</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">1</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">1</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101491.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101491.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101491" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">know, whether an Object glass be good or not, onely by looking upon it, without trying. This would be of good use, especially if it should extend so far as to discerne the goodness of such a glass, whilst it is yet on the Cement.
 
 An Account
@@ -69,3 +70,4 @@ In the Fourth Section, the Author, in conformity to the Custom of those that wri
 Advertisement.
 
 Whereas &#x27;tis taken notice of, that several persons persuade themselves, that these Philosophical Transactions are publish&#x27;t by the Royal Society, notwithstanding many circumstances, to be met with in the already publish&#x27;t ones, that</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/17/">Volume 17</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Samuele Dale</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Samuele Dale</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1693</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1693</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">17</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">17</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102009.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102009.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102009" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">VI. Pharmacologia seu Manuductio ad Materiae Medicam in qua Medicamenta Officinalia Simplicia, hoc est Mineralia, Vegetabilia, Animalia eorumque partes, in Medicina Officinis usuata, in Methodum naturalem digesta succinctè &amp; accurate descriptuntur, cum notis generum Characteristicis, Specierum Synonymis, differentiis &amp; viribus. Opus omnibus Medicis, Philosophis, Pharmacopoeis, Chirurgis, &amp; Pharmacopolis utilissimum. A Samuele Dale.
 
 The use of the Materia Medica seems to be as old as Mankind, whose Infirmities springing up early, call&#x27;d for Remedies, which Instinct or Necessity first dictated, afterwards Observation and Experiment improv&#x27;d. The Egyptians inscrib&#x27;d their Medicines on Pillars in the High-ways, and on the Walls of their Temples in great Cities, for the publick Instruction and Preservation of the People. The Greeks taking their Rudiments from them, cultivated the Medicinal Art, which by the peculiar Fertility of their Genius was rais&#x27;d to such a Perfection, that succeeding Ages being not able to continue its growth, suffered it to degenerate. The Romans (tho&#x27; extreanly civiliz&#x27;d) thought it Honour enough to Transcribe, or Epitomize the Greeks; Scribonius Largus, Celsus, and Pliny were only Copists. Hippocrates, Aristotle, Theophrastus, Dioscorides, &amp;c. Originals; which Galen afterwards did indeed refine upon, but the Latines invented little or nothing. The Arabians, tho&#x27; very Luxurious in Fancy and Imagination, corrupted
@@ -106,3 +107,4 @@ The Reader is desired to Correct a Mistake in *Philosophical Transactions*, Numb
 *Indices Generales Actorum &amp; Rerum primi Actorum Eruditorum quæ Lipsiæ publicantur Decennii rec non Supplimentorum Tomi primi.*
 
 Genesis.</div>
+</article>

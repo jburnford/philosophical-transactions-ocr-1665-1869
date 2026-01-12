@@ -3,7 +3,7 @@ layout: default
 title: "Advertisement"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/1/">Volume 1</a>
@@ -11,21 +11,22 @@ title: "Advertisement"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>Advertisement</h1>
+    <h1 data-pagefind-meta="title">Advertisement</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Anonymous</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Anonymous</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1665</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1665</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">1</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">1</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "Advertisement"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "Advertisement"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101552.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101552.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101552" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">Advertisement.
 
 It was thought fit to publish here the following Advertisement of John Evelyn Esquire, and that, as himself proposed it. Viz.
@@ -58,3 +59,4 @@ Being much solicited by many worthy Persons, to publish a Second Edition of my D
 NOTE,
 
 What was observed, Numb. 20. p. 364. l. 18. of the Number of Vegetables, (vid. That they are about 410.) found in England; and catalogued by Dr. Merret in his Pinax, &amp;c. is to be understood only of the different Kinds of Plants, not of the several sorts of several Plants; for, these being comprised, the Number will amount to about 1400.</div>
+</article>

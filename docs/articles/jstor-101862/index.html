@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/16/">Volume 16</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">J. Craige, Johanne Craige</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">J. Craige, Johanne Craige</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1686</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1686</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">16</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">16</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">la</span>
+            <span class="detail-value" data-pagefind-filter="language">la</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101862.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101862.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101862" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">An account of a Book. *Methodus Figurarum lineis rectis &amp; curvis comprehensarum quadraturas determinandi* Authore J. Craige. 4to. Londini 1635.
 
 The great use of drawing the Tangents of Curve Lines, has made the most famous amongst the Modern Mathematicians endeavour to find out General Methods of finding the Tangents of Curve Lines, as may be seen from the several ways invented by Des Cartes, Morsieur Fermat, Slusius, Dr. Barrow, Dr. Willis, Tschurneyms, and Leibnitz; But as yet none has attempted to invert this problem generally, that is, having the Tangent to find the Curve Line whose tangent it is. Therefore the Author of this Treatise perceiving that the doing of this would give a General Method of determining the Quadrature of any Curvilinear space, has laid down a rule for inverting Slusius his method mentioned in the Philosophick Transactions Num. 90. He has illustrated his Method of Quadratures by several Figures which have been already considered by Geometers. As for the Circle &amp; Hyperbola, he asserts that their indefinite Quadratures are impossible, and therefore in these &amp; such like cases, he expresses the Area by an infinite Series, which is easily done by his Method, except the Series consist of irrational terms, for in these he has recourse to Leibnitz&#x27;s method of finding Tangents, where the Calculation will be more tedious. By his resolving the Area of the Hyperbola into an infinite series, he comes to the same expression with that of N. Mercator: And in measuring the Zone of a Circle, his expression falls in with that invented by Mr. Isaac Newton, as Mr. David Gregory relates in his Treatise. He has subjoined a Method of measuring the Curve Superficies made by the rotation of any Curve upon its Axis, with a small Animadversion on the Method of Quadratrices, published in the Acta Lipsiensia Eruditorum of October, 168.
@@ -123,3 +124,4 @@ Ob inopiam Typorum Numeraliun minusculorum, qui ad designandas quantitatum potes
 LONDON,
 
 Printed by Joseph Streater, and are to be sold by Samuel Smith, at the Princes Arms in St. Pauls Church Yard.</div>
+</article>

@@ -3,7 +3,7 @@ layout: default
 title: "[An Account of Some Books]"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/10/">Volume 10</a>
@@ -11,21 +11,22 @@ title: "[An Account of Some Books]"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>[An Account of Some Books]</h1>
+    <h1 data-pagefind-meta="title">[An Account of Some Books]</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Olaum Borrichium, Hugh Platt</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Olaum Borrichium, Hugh Platt</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1675</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1675</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">10</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">10</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "[An Account of Some Books]"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">en</span>
+            <span class="detail-value" data-pagefind-filter="language">en</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "[An Account of Some Books]"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-101642.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-101642.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/101642" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">1. It may be worth while for some ingenious Chymist, to open the body of Sand, thereby to discern its several principles, that are most prevalent: And then for some good Naturalist, to consider how it becomes so advantageous to Vegetation, and especially as to that part which concerns the prolific Seed.
 
 2. It may be also worth while for some ingenious Husbandmen or Gardener, to make some trial of Sea-sand, if it will not some way answer expectation in these Eastern parts. For their encouragement,
@@ -169,3 +170,4 @@ Errata in Numb. 112. Pag. 256. l. 10. r. other requisites. p. 257. l. 17. r. ser
 Errata in this Numb. 113. Pag. 247. l. 10. r. receive delay. p. 290. l. 24. r. debite.
 
 London, Printed for John Martyn, Printer to the Royal Society. 1675.</div>
+</article>

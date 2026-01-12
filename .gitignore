@@ -18,3 +18,12 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.db
+
+# Jekyll build output (built by GitHub Actions)
+docs/_site/
+docs/.jekyll-cache/
+docs/.jekyll-metadata
+docs/Gemfile.lock
+
+# Local Pagefind test builds (real index built by GitHub Actions)
+docs/pagefind/

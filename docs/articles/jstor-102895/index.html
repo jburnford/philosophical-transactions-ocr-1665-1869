@@ -3,7 +3,7 @@ layout: default
 title: "An Account of a Book"
 ---
 
-<div class="breadcrumb">
+<div class="breadcrumb" data-pagefind-ignore>
     <a href="../../">Home</a>
     <span>&raquo;</span>
     <a href="../../volumes/23/">Volume 23</a>
@@ -11,21 +11,22 @@ title: "An Account of a Book"
     Article
 </div>
 
+<article data-pagefind-body>
 <div class="article-header">
-    <h1>An Account of a Book</h1>
+    <h1 data-pagefind-meta="title">An Account of a Book</h1>
 
     <div class="article-details">
         <div class="detail-item">
             <span class="detail-label">Author(s)</span>
-            <span class="detail-value">Martin Lister</span>
+            <span class="detail-value" data-pagefind-meta="author" data-pagefind-filter="author">Martin Lister</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Year</span>
-            <span class="detail-value">1702</span>
+            <span class="detail-value" data-pagefind-meta="year" data-pagefind-filter="year">1702</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Volume</span>
-            <span class="detail-value">23</span>
+            <span class="detail-value" data-pagefind-meta="volume" data-pagefind-filter="volume">23</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Pages</span>
@@ -33,7 +34,7 @@ title: "An Account of a Book"
         </div>
         <div class="detail-item">
             <span class="detail-label">Language</span>
-            <span class="detail-value">la</span>
+            <span class="detail-value" data-pagefind-filter="language">la</span>
         </div>
         <div class="detail-item">
             <span class="detail-label">Journal</span>
@@ -41,14 +42,14 @@ title: "An Account of a Book"
         </div>
     </div>
 
-    <div class="download-links">
+    <div class="download-links" data-pagefind-ignore>
         <a href="../../downloads/jstor-102895.md" class="download-btn" download>Download MD</a>
         <a href="../../downloads/jstor-102895.json" class="download-btn secondary" download>Download JSON</a>
         <a href="https://www.jstor.org/stable/102895" class="download-btn secondary" target="_blank">View on JSTOR</a>
     </div>
 </div>
 
-<h2>Full Text (OCR)</h2>
+<h2 data-pagefind-ignore>Full Text (OCR)</h2>
 <div class="ocr-text">V. An Account of a Book.
 
 Hippocratis Aphorismi, cum Commentariolo. Auctore Martino Lister, e Medicis Serenissimae Majestatis Regine Annae. Londini Typis W. B. Impensis A. &amp; J. Churchill, ad Insigne Nigri Cygni, in vico vulgo dicto Paternoster-row. 1703.
@@ -71,3 +72,4 @@ Missa itaq; in praesentiarum peculiari humorum doctrina, quam meditor, quatenus 
 Alterum illud, quemadmodum universae corporis partes sive membra ejus simul extant, nec unum aliud superinducitur: (felix seculi praeriti inventione;) ita illa omnium vasa non vacua genita fuisset, sed lingua seu humoribus connatis repleta; ut cohect in promptu sit quoddam condimentum, ad sanguinem et continuo impulsum, cum vita &amp; nutritio incepsura sit, in variis propriis humo digestur.
 
 Haec autem pauca sufficiant, ad aliquam certe plenioram intelligentiam ejus, quod toties in duobus commentariis de humorum concoctione passim expositum fuit.</div>
+</article>
