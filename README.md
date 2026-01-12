@@ -25,7 +25,7 @@ Article metadata (titles, authors, dates, volume/issue information) was obtained
 - Fields: Title, authors, publication date, volume, journal series
 
 ### OCR Processing
-The PDFs were processed using **[OLMoCR](https://github.com/allenai/olmocr)** (Allen Institute for AI), a vision-language model optimized for academic document OCR. Processing was performed on Compute Canada's Nibi cluster using H100 GPUs.
+The PDFs were processed using **[OLMoCR](https://github.com/allenai/olmocr)** (Allen Institute for AI), a vision-language model optimized for academic document OCR. Processing was performed on the Digital Research Alliance of Canada's Nibi cluster using H100 GPUs.
 
 ## Public Domain
 
@@ -136,4 +136,4 @@ This work is dedicated to the **public domain** under [CC0 1.0](https://creative
 - [JSTOR](https://www.jstor.org/) for digitization and bibliographic metadata
 - [Internet Archive](https://archive.org/) for hosting and access
 - [Allen Institute for AI](https://allenai.org/) for OLMoCR
-- [Compute Canada](https://www.computecanada.ca/) for HPC resources
+- [Digital Research Alliance of Canada](https://alliancecan.ca/) for HPC resources
